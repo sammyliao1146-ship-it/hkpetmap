@@ -158,6 +158,8 @@ npm --prefix frontend run check:i18n
 npm --prefix frontend run check:language
 ```
 
+The frontend production build writes `robots.txt`, `sitemap.xml`, and static category, district and place pages to `frontend/dist`. Deploy the complete `frontend/dist` directory.
+
 Tests cover the API, source parsing, snapshot sync, the outing planner and the agent chain (intent routing, review, web research, rate-limit degradation).
 
 ## License and data sources

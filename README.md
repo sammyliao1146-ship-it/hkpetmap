@@ -158,6 +158,8 @@ npm --prefix frontend run check:i18n
 npm --prefix frontend run check:language
 ```
 
+前端 production build 會把 `robots.txt`、`sitemap.xml` 及分類／地區／場地靜態頁面寫入 `frontend/dist`；部署時請發布完整的 `frontend/dist` 目錄。
+
 測試涵蓋 API、資料來源解析、快照同步、行程規劃及 Agent 鏈路（意圖路由、審核、網頁研究、限流降級）。
 
 ## 授權與資料來源
