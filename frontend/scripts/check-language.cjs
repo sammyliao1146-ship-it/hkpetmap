@@ -1,7 +1,7 @@
 const assert=require('node:assert/strict'),fs=require('node:fs'),ts=require('typescript');
 for(const ext of ['.ts','.tsx'])require.extensions[ext]=(module,file)=>module._compile(ts.transpileModule(fs.readFileSync(file,'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS,jsx:ts.JsxEmit.ReactJSX,target:ts.ScriptTarget.ES2021}}).outputText,file);
 const {formatOpeningHours,formatActivityDates,initialLanguage,makeLanguage}=require('../src/language.tsx');
-const html=fs.readFileSync(require.resolve('../index.html'),'utf8');assert.match(html,/<html lang="en-HK">/);assert.match(html,/<title>HK PetFinder · Hong Kong Pet Map<\/title>/);
+const html=fs.readFileSync(require.resolve('../index.html'),'utf8');assert.match(html,/<html lang="en-HK">/);assert.match(html,/<title>HK Pet Map \| Hong Kong Pet-Friendly Places &amp; Map<\/title>/);
 global.window={location:{search:''}};global.localStorage={getItem:()=>null};assert.equal(initialLanguage(),'en','fresh visits should start in English');
 global.window.location.search='?lang=zh-Hant';assert.equal(initialLanguage(),'zh-Hant','an explicit Cantonese link should be respected');
 global.window.location.search='';global.localStorage={getItem:()=> 'zh-Hant'};assert.equal(initialLanguage(),'zh-Hant','a saved Cantonese choice should be respected');

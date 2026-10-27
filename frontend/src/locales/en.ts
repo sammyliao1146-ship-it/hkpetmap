@@ -72,7 +72,7 @@ export const en: Record<string,string> = {
   'SPCA 寵物護理課程':'SPCA Pet Care+ courses','漁護署寵物活動':'AFCD pet events','WNP 寵物活動':'WNP pet events',
 
   '菜系圖例':'Cuisine legend',
-  '粵語':'Cantonese','。日期保留主辦方原文，唔會推算未公佈嘅單堂日期。':'. Dates retain the organiser’s wording; unpublished session dates are not inferred.','毛孩去邊':'HK PetFinder','毛孩去邊首頁':'HK PetFinder home','香港寵物地圖':'HONG KONG PET MAP',
+  '粵語':'Cantonese','。日期保留主辦方原文，唔會推算未公佈嘅單堂日期。':'. Dates retain the organiser’s wording; unpublished session dates are not inferred.','毛孩去邊':'HK Pet Map','毛孩去邊首頁':'HK Pet Map home','香港寵物地圖':'HONG KONG PET MAP',
   '開啟分類索引':'Open filters','索引':'Filters','地圖類別':'Map views','餐廳':'Restaurants','設施':'Facilities','活動':'Activities','語言':'Language',
   '讀緊資料…':'Loading…','搵餐廳、地址…':'Find restaurants or addresses…','搵課程、活動…':'Find courses or activities…','搵公園、獸醫、酒店…':'Find parks, vets or boarding…','搜尋':'Search',
   '課程地點':'Course locations','狗友善餐廳':'Dog-friendly restaurants','寵物設施':'Pet facilities','篩選 ↗':'Filters ↗',

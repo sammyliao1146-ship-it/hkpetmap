@@ -133,7 +133,7 @@ function AppContent() {
       <div className="topbar-start">
         <button ref={indexRef} className={`index-toggle ${panel==='index'?'is-active':''}`} aria-label={tx("開啟分類索引")} aria-expanded={panel==='index'} aria-controls="pet-sidebar" onClick={()=>setPanel(panel==='index'?null:'index')}><Icon name="menu" size={22}/><span>{tx("索引")}</span></button>
         <span className="topbar-divider"/>
-        <a className="brand" href={`/?lang=${language}`} aria-label={tx("毛孩去邊首頁")}><span className="brand-mark"><Icon name="paw" size={27}/></span><span>{tx("毛孩去邊")}<small>{tx("香港寵物地圖")}</small></span></a>
+        <a className="brand" href={`/?lang=${language}`} aria-label={`HK Pet Map · ${tx("香港寵物地圖")}`}><span className="brand-mark"><Icon name="paw" size={27}/></span><span>HK Pet Map<small>{tx("香港寵物地圖")}</small></span></a>
       </div>
       <nav className="pet-tabs" aria-label={tx("地圖類別")}>{([['restaurants',tx("餐廳")],['plan',tx("行程")],['explore',tx("探索")]] as const).map(([key,label])=><button key={key} aria-pressed={mode===key} className={mode===key?'active':''} onClick={()=>changeMode(key)}><Icon name={key==='restaurants'?'dining':key==='plan'?'trail':'pet-park'} size={18}/>{label}</button>)}</nav>
       <div className="pet-header-tools"><div className="pet-top-status"><span className="status-dot"/>{loading?tx("讀緊資料…"):count(total,isActivities?'activities':'places')}</div><div className="language-switch" role="group" aria-label={tx("語言")}><button type="button" aria-pressed={language==='zh-Hant'} onClick={()=>setLanguage('zh-Hant')}>{tx("粵語")}</button><button type="button" aria-pressed={language==='en'} onClick={()=>setLanguage('en')}>EN</button></div></div>

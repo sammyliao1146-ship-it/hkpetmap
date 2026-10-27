@@ -58,7 +58,7 @@ export function LanguageProvider({children}:{children:ReactNode}){
   const [language,setLanguage]=useState<Language>(initialLanguage);
   useEffect(()=>{
     document.documentElement.lang=language==='en'?'en-HK':'zh-HK';
-    document.title=language==='en'?'HK PetFinder · Hong Kong Pet Map':'毛孩去邊 · 香港寵物地圖';
+    document.title=language==='en'?'HK Pet Map | Hong Kong Pet-Friendly Places & Map':'HK Pet Map | 香港寵物友善地圖';
     try{localStorage.setItem('hkpet.language',language);}catch{/* Storage may be blocked in private browsing. */}
     const url=new URL(window.location.href);url.searchParams.set('lang',language);window.history.replaceState(null,'',url);
   },[language]);
