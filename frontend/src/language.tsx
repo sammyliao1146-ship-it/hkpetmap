@@ -49,7 +49,7 @@ export function makeLanguage(language:Language,setLanguage:(language:Language)=>
   return {language,setLanguage,tx,errorText,localText,placeName,placeAddress,activityName,activityDates,districtName,sourceName,category,formatTime,count};
 }
 const LanguageContext=createContext(makeLanguage('en',()=>{}));
-function initialLanguage():Language{
+export function initialLanguage():Language{
   const param=new URLSearchParams(window.location.search).get('lang');
   if(param==='en'||param==='zh-Hant')return param;
   try{return localStorage.getItem('hkpet.language')==='zh-Hant'?'zh-Hant':'en';}catch{return 'en';}
