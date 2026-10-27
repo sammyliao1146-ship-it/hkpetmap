@@ -101,11 +101,12 @@ function registerPage(route, title, description, body, {lastModified = lastmod, 
   const canonicalUrl = `${siteOrigin}${pathname}`;
   const page = `<!doctype html>
 <html lang="${escapeHtml(htmlLang)}"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png"><link rel="shortcut icon" href="/favicon.ico"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <title>${escapeHtml(title)}</title><meta name="description" content="${escapeHtml(description)}"><link rel="canonical" href="${escapeHtml(canonicalUrl)}">
-<meta property="og:type" content="website"><meta property="og:site_name" content="HK PetFinder"><meta property="og:title" content="${escapeHtml(title)}"><meta property="og:description" content="${escapeHtml(description)}"><meta property="og:url" content="${escapeHtml(canonicalUrl)}">
+<meta property="og:type" content="website"><meta property="og:site_name" content="HK Pet Map"><meta property="og:title" content="${escapeHtml(title)}"><meta property="og:description" content="${escapeHtml(description)}"><meta property="og:url" content="${escapeHtml(canonicalUrl)}">
 <style>
 :root{color-scheme:light;--ink:#26332a;--muted:#617064;--green:#286b47;--line:#e1e8df;--surface:#f7faf6}*{box-sizing:border-box}body{margin:0;background:#fff;color:var(--ink);font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}main{max-width:900px;margin:0 auto;padding:28px 22px 64px}a{color:var(--green);text-underline-offset:3px}.skip{position:absolute;left:-9999px}.skip:focus{left:16px;top:12px;background:#fff;padding:8px}.top{display:flex;justify-content:space-between;gap:16px;align-items:center;padding:0 0 20px;border-bottom:1px solid var(--line)}.brand{font-weight:750;color:var(--ink);text-decoration:none}.crumbs{font-size:14px;color:var(--muted);margin:22px 0}.crumbs a{color:inherit}h1{font-size:clamp(30px,5vw,44px);line-height:1.15;margin:10px 0 12px;letter-spacing:-.025em}h2{font-size:22px;margin:28px 0 12px}.intro{font-size:18px;max-width:760px}.zh{color:#46564a}.notice{border-left:4px solid #e6aa47;background:#fff9ec;padding:12px 16px;margin:18px 0}.list{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}.card{border:1px solid var(--line);border-radius:12px;padding:14px 16px;background:#fff}.card h2{font-size:17px;margin:0 0 5px}.card p{margin:4px 0;color:var(--muted);font-size:14px}.tags{color:var(--muted);font-size:14px}.facts{display:grid;grid-template-columns:minmax(120px,180px) 1fr;gap:8px 16px;margin:20px 0}.facts dt{font-weight:650}.facts dd{margin:0;white-space:pre-line}.notes{padding-left:22px}.actions{display:flex;flex-wrap:wrap;gap:12px;margin:20px 0}.button{display:inline-block;border:1px solid #cddbcf;border-radius:9px;padding:9px 13px;text-decoration:none;font-weight:650}.pagination{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0}.pagination a,.pagination span{border:1px solid var(--line);border-radius:7px;padding:6px 10px;text-decoration:none}.pagination [aria-current]{background:var(--green);color:#fff;border-color:var(--green)}footer{border-top:1px solid var(--line);margin-top:36px;padding-top:18px;color:var(--muted);font-size:13px}@media(max-width:600px){main{padding:18px 16px 48px}.facts{grid-template-columns:1fr;gap:2px}.facts dd{margin-bottom:10px}.top{align-items:flex-start}}
-</style></head><body><a class="skip" href="#main">Skip to content</a><main id="main">${body}<footer><p>Place information comes from the linked source. Conditions and opening details can change; verify with the venue before travelling.</p><p><a href="/">HK PetFinder interactive map</a> · <a href="/sitemap.xml">XML sitemap</a></p></footer></main></body></html>`;
+</style></head><body><a class="skip" href="#main">Skip to content</a><main id="main">${body}<footer><p>Place information comes from the linked source. Conditions and opening details can change; verify with the venue before travelling.</p><p><a href="/">HK Pet Map interactive map</a> · <a href="/sitemap.xml">XML sitemap</a></p></footer></main></body></html>`;
   sitemapEntries.set(pathname, lastModified);
   const outputPath = join(distDir, pathname.replace(/^\//, ''), 'index.html');
   generatedFiles.push((async () => {
@@ -188,7 +189,7 @@ for (const place of snapshot.places) {
     ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${place.latitude},${place.longitude}`)}` : '';
   const noteEn = Array.isArray(place.notes_en) ? place.notes_en.filter(Boolean) : [];
   const noteZh = Array.isArray(place.notes) ? place.notes.filter(Boolean) : [];
-  const title = `${name}${place.district ? `, ${districtNamesEn[place.district] || place.district}` : ''} · HK PetFinder`;
+  const title = `${name}${place.district ? `, ${districtNamesEn[place.district] || place.district}` : ''} · HK Pet Map`;
   const description = `${name} in Hong Kong: ${category.en.toLowerCase()} details, address, source and pet-access notes. Check current rules with the venue.`.slice(0, 155);
   const facts = [
     fact('Category', category.en), fact('District / area', place.district ? (districtNamesEn[place.district] || place.district) : ''),
@@ -222,7 +223,7 @@ for (const [key, places] of placesByCategory) {
     const routeBase = `/categories/${info.slug}`;
     const route = page === 1 ? pagePath(routeBase) : pagePath(`${routeBase}/page/${page}`);
     const pagePlaces = sorted.slice((page - 1) * pageSize, page * pageSize);
-    const title = `${info.en}${page > 1 ? ` · Page ${page}` : ''} | Hong Kong Pet Map`;
+    const title = `${info.en}${page > 1 ? ` · Page ${page}` : ''} | HK Pet Map`;
     const description = `${info.intro} Browse ${sorted.length} listed places across Hong Kong${page > 1 ? ` (page ${page})` : ''}.`;
     const body = `${breadcrumb([{label:'Home',href:'/'},{label:'Categories',href:'/categories/'},{label:info.en}])}
 <header><p class="tags">${sorted.length} listed places${page > 1 ? ` · Page ${page} of ${totalPages}` : ''}</p><h1>${escapeHtml(info.en)}</h1><p class="intro">${escapeHtml(info.intro)}</p><p class="intro zh" lang="zh-HK">${escapeHtml(info.introZh)}</p></header>
@@ -241,7 +242,7 @@ for (const [district, places] of placesByDistrict) {
   const routeBase = `/districts/${districtSlug(district)}`;
   for (let page = 1; page <= totalPages; page++) {
     const route = page === 1 ? pagePath(routeBase) : pagePath(`${routeBase}/page/${page}`);
-    const title = `Pet places and services in ${en}${page > 1 ? ` · Page ${page}` : ''} | HK PetFinder`;
+    const title = `Pet places and services in ${en}${page > 1 ? ` · Page ${page}` : ''} | HK Pet Map`;
     const description = `Browse ${sorted.length} place records for ${en}, Hong Kong, with addresses, source links and pet-access notes${page > 1 ? ` (page ${page})` : ''}.`;
     const body = `${breadcrumb([{label:'Home',href:'/'},{label:'Districts and areas',href:'/districts/'},{label:en}])}
 <header><p class="tags">${sorted.length} listed records${page > 1 ? ` · Page ${page} of ${totalPages}` : ''}</p><h1>Pet places and services in ${escapeHtml(en)}</h1><p class="intro">Browse the Pet Map records carrying the area label <span lang="zh-HK">${escapeHtml(district)}</span>. The label follows the source data and may describe an area rather than an administrative district.</p><p class="intro zh" lang="zh-HK">瀏覽資料來源標示為「${escapeHtml(district)}」的場地。此地區名稱沿用來源資料，可能是地區範圍而非行政區。</p></header>
@@ -255,14 +256,14 @@ const categoryCards = [...placesByCategory.entries()].map(([key, places]) => {
   const info = categoryInfo[key] || {slug: slugify(key), en: key, zh: key};
   return `<li class="card"><h2><a href="${escapeHtml(pagePath(`/categories/${info.slug}`))}">${escapeHtml(info.en)}</a></h2><p lang="zh-HK">${escapeHtml(info.zh)}</p><p>${places.length} listed places</p></li>`;
 }).join('');
-registerPage('/categories/', 'Browse place categories | HK PetFinder', 'Browse Hong Kong pet places by category, including restaurants, parks, veterinary clinics, boarding and transport.',
+registerPage('/categories/', 'Browse place categories | HK Pet Map', 'Browse Hong Kong pet places by category, including restaurants, parks, veterinary clinics, boarding and transport.',
   `${breadcrumb([{label:'Home',href:'/'},{label:'Categories'}])}<header><h1>Browse place categories</h1><p class="intro">Find Hong Kong places by facility type. Each listing links to its source and includes notes to help you verify access before visiting.</p><p class="intro zh" lang="zh-HK">按設施類型瀏覽香港場地。各項資料附有來源連結及攜寵備註，出發前請向場地核實。</p></header><ul class="list">${categoryCards}</ul><p>Or <a href="/districts/">browse by district or area</a>.</p>`);
 
 const districtCards = [...placesByDistrict.entries()].sort(([a], [b]) => (districtNamesEn[a] || a).localeCompare(districtNamesEn[b] || b, 'en')).map(([district, places]) => {
   const en = districtNamesEn[district] || district.replace(/區$/, '');
   return `<li class="card"><h2><a href="${escapeHtml(districtRouteByName.get(district))}">${escapeHtml(en)}</a></h2><p lang="zh-HK">${escapeHtml(district)}</p><p>${places.length} listed records</p></li>`;
 }).join('');
-registerPage('/districts/', 'Browse pet places by district | HK PetFinder', 'Browse Hong Kong pet places and services by the district or area label recorded in each data source.',
+registerPage('/districts/', 'Browse pet places by district | HK Pet Map', 'Browse Hong Kong pet places and services by the district or area label recorded in each data source.',
   `${breadcrumb([{label:'Home',href:'/'},{label:'Districts and areas'}])}<header><h1>Browse districts and areas</h1><p class="intro">Choose a district or area to browse place records. Area labels follow the data source and are not always administrative district boundaries.</p><p class="intro zh" lang="zh-HK">選擇地區瀏覽場地。地區名稱沿用資料來源，未必等同行政區界線。</p></header><ul class="list">${districtCards}</ul><p>Or <a href="/categories/">browse by category</a>.</p>`);
 
 await Promise.all(generatedFiles);
