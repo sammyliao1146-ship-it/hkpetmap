@@ -139,6 +139,7 @@ function AppContent() {
       <div className="pet-header-tools"><div className="pet-top-status"><span className="status-dot"/>{loading?tx("讀緊資料…"):count(total,isActivities?'activities':'places')}</div><div className="language-switch" role="group" aria-label={tx("語言")}><button type="button" aria-pressed={language==='zh-Hant'} onClick={()=>setLanguage('zh-Hant')}>{tx("粵語")}</button><button type="button" aria-pressed={language==='en'} onClick={()=>setLanguage('en')}>EN</button></div></div>
     </header>
     <div className="map-panel"><VenueMap viewKey={mode==='plan' && tripPlan?`plan:${tripPlan.id}`:mode} places={mapPlaces} activePlace={activePlace} parkingGroups={mode==='plan'?tripPlan?.parking_groups:undefined}/></div>
+    <div className="pet-map-source"><span>Source:</span><a href="https://github.com/sammyliao1146-ship-it/hkpetmap.git" target="_blank" rel="noopener noreferrer">https://github.com/sammyliao1146-ship-it/hkpetmap.git</a></div>
     <div className="pet-search-dock" hidden={panel!==null||mode==='plan'}>
       <div className="pet-dock-welcome"><div><span className="eyebrow">{tx('同毛孩一齊出發')}</span><h1>{tx('今日，去邊好？')}</h1><p>{tx('每一步，都有毛孩陪住。')}</p></div><PetIllustration/></div>
       <button className="search-entry" onClick={()=>setPanel('search')}><Icon name="search"/><span>{mode==='restaurants'?tx("搵餐廳、地址…"):isActivities?tx("搵課程、活動…"):tx("搵公園、獸醫、酒店…")}</span><span className="pet-search-key">{tx("搜尋")}</span></button>
