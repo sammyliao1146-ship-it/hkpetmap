@@ -4,7 +4,7 @@ import sqlite3
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from agent.place_search import distance_m, price_ceiling
+from agent.data.place_search import distance_m, price_ceiling
 
 DB_PATH = Path(__file__).resolve().parents[3] / 'data' / 'featured.db'
 MAX_ITEMS = 150

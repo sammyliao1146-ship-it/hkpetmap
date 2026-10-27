@@ -5,9 +5,9 @@ import json
 from pathlib import Path
 from urllib.parse import urlencode
 from backend.app.data.sources import CATEGORIES, CUISINES
-from agent.place_search import select_places, valid_origin
+from agent.data.place_search import select_places, valid_origin
 
-TRANSPORT_RULES = json.loads((Path(__file__).resolve().parents[1] / 'backend/app/data/transport_rules.json').read_text())
+TRANSPORT_RULES = json.loads((Path(__file__).resolve().parents[2] / 'backend/app/data/transport_rules.json').read_text())
 
 MODE_ALIASES = {'restaurant': 'restaurants', 'dining': 'restaurants', 'food': 'restaurants', '餐廳': 'restaurants',
                 'facility': 'facilities', 'place': 'facilities', 'places': 'facilities', '設施': 'facilities'}

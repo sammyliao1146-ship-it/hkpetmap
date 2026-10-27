@@ -8,8 +8,8 @@ import pytest
 from agents import function_tool
 from fastapi.testclient import TestClient
 
-from agent.data_access import PetDataAccess
-from agent.tools.pet_data import make_pet_queries
+from agent.data.data_access import PetDataAccess
+from agent.data.tools.pet_data import make_pet_queries
 from backend.app.cache.redis_cache import RedisCache
 from backend.app.config.container import Container
 from backend.app.config.settings import Settings

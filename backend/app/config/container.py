@@ -3,7 +3,7 @@ from pathlib import Path
 import httpx
 import ssl
 import truststore
-from agent.client_pool import close_all as close_model_clients
+from agent.assembly.client_pool import close_all as close_model_clients
 from backend.app.cache.redis_cache import RedisCache
 from backend.app.config.llm_gate import LLMGate
 from backend.app.data.featured import FeaturedStore

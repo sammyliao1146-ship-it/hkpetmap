@@ -2,7 +2,7 @@ import asyncio
 import pytest
 from fastapi.testclient import TestClient
 from pydantic import ValidationError
-from agent.intent_router import IntentDecision, route_action
+from agent.subagents.intent_router import IntentDecision, route_action
 from backend.app.config.settings import Settings
 from backend.app.config.container import Container
 from test_pet_data import service

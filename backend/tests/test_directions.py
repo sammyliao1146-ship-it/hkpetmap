@@ -3,8 +3,8 @@ from urllib.parse import parse_qs, urlparse
 
 from fastapi.testclient import TestClient
 
-from agent.data_access import PetDataAccess
-from agent.intent_router import IntentDecision
+from agent.data.data_access import PetDataAccess
+from agent.subagents.intent_router import IntentDecision
 from backend.app.config.container import Container
 from backend.app.config.settings import Settings
 from main import app

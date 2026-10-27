@@ -1,6 +1,6 @@
 from agents import function_tool
 from typing import Literal
-from agent.data_access import PetDataAccess
+from agent.data.data_access import PetDataAccess
 
 def make_pet_queries(access: PetDataAccess):
     async def get_pet_catalog() -> dict:

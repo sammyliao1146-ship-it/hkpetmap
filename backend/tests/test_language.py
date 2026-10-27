@@ -5,8 +5,8 @@ import pytest
 from fastapi.testclient import TestClient
 from pydantic import ValidationError
 
-from agent.data_access import PetDataAccess
-from agent.prompts import instructions_for_language
+from agent.data.data_access import PetDataAccess
+from agent.assembly.prompts import instructions_for_language
 from backend.app.config.container import Container
 from backend.app.config.settings import Settings
 from backend.app.data.adapters import normalize_layer
@@ -58,7 +58,7 @@ def test_chat_forwards_language_and_preserves_history(tmp_path,monkeypatch):
         return 'English reply' if kwargs['language']=='en' else '粵語回覆'
     monkeypatch.setattr(svc,'ensure',no_refresh)
     monkeypatch.setattr('backend.app.routers.assistant.run_pet_assistant',answer)
-    from agent.intent_router import IntentDecision
+    from agent.subagents.intent_router import IntentDecision
     async def classify(*args,**kwargs):
         return IntentDecision(intent='map_query',map_mode='general',confidence=.95)
     async def approve(**kwargs):return True
@@ -77,7 +77,7 @@ def test_chat_forwards_language_and_preserves_history(tmp_path,monkeypatch):
 
 
 def test_sdk_agent_receives_english_directive_without_network(tmp_path,monkeypatch):
-    from agent import service as sdk
+    from agent.assembly import service as sdk
     svc,cache,client=service(tmp_path)
     captured=[]
     async def fake_run(agent,messages,**kwargs):

@@ -7,14 +7,14 @@ import logging
 from fastapi import APIRouter, Depends, HTTPException, Request
 from fastapi.responses import StreamingResponse
 
-from agent.data_access import PetDataAccess
-from agent.service import run_pet_assistant
-from agent.web_knowledge import WebKnowledgeService,DOMAINS
-from agent.intent_router import classify_intent, route_action, gate_reply, assistant_intro_reply
-from agent.answer_guard import review_answer, blocked_reply
-from agent.tools.pet_data import make_pet_queries
-from agent.memory import ConversationMemory
-from agent.featured_answer import is_simple_nearby, render_nearby
+from agent.data.data_access import PetDataAccess
+from agent.assembly.service import run_pet_assistant
+from agent.subagents.web_knowledge import WebKnowledgeService,DOMAINS
+from agent.subagents.intent_router import classify_intent, route_action, gate_reply, assistant_intro_reply
+from agent.subagents.answer_guard import review_answer, blocked_reply
+from agent.data.tools.pet_data import make_pet_queries
+from agent.memory.conversation import ConversationMemory
+from agent.data.featured_answer import is_simple_nearby, render_nearby
 from backend.app.config.container import Container
 from backend.app.config.dependencies import get_container
 from backend.app.models.assistant import ChatOrigin, ChatRequest, ChatResponse, IntentRouting, PrefillRequest

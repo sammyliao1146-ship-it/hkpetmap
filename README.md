@@ -91,7 +91,7 @@ PET_START_SYNC_WORKER=1 PET_SYNC_LOCK_MODE=file bash scripts/dev.sh
 啟動 MCP stdio 伺服器：
 
 ```bash
-.venv/bin/python -m agent.mcp_server
+.venv/bin/python -m agent.data.mcp_server
 ```
 
 ## 開發與檢查

@@ -2,9 +2,9 @@ import asyncio
 import math
 import pytest
 from agents import function_tool
-from agent.place_search import select_places
-from agent.data_access import PetDataAccess
-from agent.tools.pet_data import make_pet_queries
+from agent.data.place_search import select_places
+from agent.data.data_access import PetDataAccess
+from agent.data.tools.pet_data import make_pet_queries
 from backend.app.models.pet import Place,RestaurantDetails
 from backend.app.models.assistant import ChatRequest
 from test_pet_data import service
@@ -43,7 +43,7 @@ def test_missing_origin_is_actionable_and_invalid_origin_never_guessed():
 def test_random_samples_entire_eligible_set_without_duplicates(monkeypatch):
     captured=[]
     def sample(self,population,k):captured.append(len(population));return list(reversed(population))[:k]
-    monkeypatch.setattr('agent.place_search.random.SystemRandom.sample',sample)
+    monkeypatch.setattr('agent.data.place_search.random.SystemRandom.sample',sample)
     r=select_places(data([item(i) for i in range(12)]),sort_by='random',limit=3)
     assert captured==[12] and [p['id'] for p in r['items']]==['11','10','9']
     assert len({p['id'] for p in r['items']})==3 and r['total']==12
@@ -71,7 +71,7 @@ def test_tools_combine_cuisine_and_rating_and_resolve_explicit_map_origin(tmp_pa
 
 def test_filter_aliases_and_invalid_filter_are_recoverable():
     import asyncio
-    from agent.data_access import PetDataAccess
+    from agent.data.data_access import PetDataAccess
     class P:
         def places(self,**k): return {'items':[{'id':'a','latitude':22.3,'longitude':114.17}],'status':'ok'}
     access=PetDataAccess(P(),origin=(22.3,114.17))

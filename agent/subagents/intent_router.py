@@ -1,7 +1,7 @@
 """Tool-free intent gate in front of the pet assistant."""
 import json
 from typing import Literal
-from agent.client_pool import get_client
+from agent.assembly.client_pool import get_client
 from pydantic import BaseModel, ConfigDict, Field, model_validator
 
 Intent=Literal['map_query','trip_plan','transport','pet_policy','pet_health','restaurant_info','assistant_identity','out_of_scope']

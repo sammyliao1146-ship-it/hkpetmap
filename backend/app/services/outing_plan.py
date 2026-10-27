@@ -4,7 +4,7 @@ from math import asin, cos, radians, sin, sqrt
 import secrets
 from uuid import uuid4
 
-from agent.trip_planner import select_plan_stops
+from agent.subagents.trip_planner import select_plan_stops
 from backend.app.models.plan import PlanRequest
 
 REGIONS = {

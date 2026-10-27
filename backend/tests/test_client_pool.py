@@ -1,6 +1,6 @@
 import asyncio
 from types import SimpleNamespace
-from agent import client_pool
+from agent.assembly import client_pool
 
 
 class FakeClient:

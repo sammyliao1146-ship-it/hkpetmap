@@ -1,5 +1,5 @@
 from fastapi.testclient import TestClient
-from agent.intent_router import IntentDecision
+from agent.subagents.intent_router import IntentDecision
 from backend.app.config.settings import Settings
 from backend.app.config.container import Container
 from test_pet_data import service

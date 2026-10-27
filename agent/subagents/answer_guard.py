@@ -1,7 +1,7 @@
 """Fail-closed final answer relevance gate for all assistant output."""
 import asyncio
 import json
-from agent.client_pool import get_client
+from agent.assembly.client_pool import get_client
 from pydantic import BaseModel, ConfigDict
 
 

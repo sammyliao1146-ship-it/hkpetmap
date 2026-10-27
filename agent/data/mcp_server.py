@@ -1,9 +1,9 @@
-"""Local, read-only MCP. Run: python -m agent.mcp_server"""
+"""Local, read-only MCP. Run: python -m agent.data.mcp_server"""
 from contextlib import asynccontextmanager
 from mcp.server.mcpserver import MCPServer
 from mcp.types import ToolAnnotations
-from agent.data_access import PetDataAccess
-from agent.tools.pet_data import make_pet_queries
+from agent.data.data_access import PetDataAccess
+from agent.data.tools.pet_data import make_pet_queries
 from backend.app.config.container import build_container
 from backend.app.config.settings import get_settings
 

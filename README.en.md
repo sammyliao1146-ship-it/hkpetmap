@@ -91,7 +91,7 @@ The assistant uses read-only data tools and supports function tools or a local M
 Start the MCP stdio server with:
 
 ```bash
-.venv/bin/python -m agent.mcp_server
+.venv/bin/python -m agent.data.mcp_server
 ```
 
 ## Development and checks

@@ -4,9 +4,9 @@ from types import SimpleNamespace
 from fastapi.testclient import TestClient
 import pytest
 
-from agent.answer_guard import AnswerReview, blocked_reply, review_answer
-from agent.intent_router import IntentDecision
-from agent.web_knowledge import WebKnowledgeService
+from agent.subagents.answer_guard import AnswerReview, blocked_reply, review_answer
+from agent.subagents.intent_router import IntentDecision
+from agent.subagents.web_knowledge import WebKnowledgeService
 from backend.app.config.container import Container
 from backend.app.config.settings import Settings
 from main import app
@@ -39,7 +39,7 @@ def test_structured_answer_reviewer_approves_only_all_positive_fields(monkeypatc
         async def __aexit__(self, *args):
             return False
 
-    monkeypatch.setattr('agent.client_pool.AsyncOpenAI', Client)
+    monkeypatch.setattr('agent.assembly.client_pool.AsyncOpenAI', Client)
     args = dict(query='狗狗可以食意粉嗎', answer='純意粉的資料', intent='pet_health', map_mode='none',
                 api_key='test', base_url='https://example.invalid', model='small', timeout_seconds=2)
     assert asyncio.run(review_answer(**args)) is True
@@ -65,7 +65,7 @@ def test_answer_reviewer_fails_closed_on_provider_error(monkeypatch):
         async def __aexit__(self, *args):
             return False
 
-    monkeypatch.setattr('agent.client_pool.AsyncOpenAI', Client)
+    monkeypatch.setattr('agent.assembly.client_pool.AsyncOpenAI', Client)
     approved = asyncio.run(review_answer(query='狗狗疫苗', answer='回答', intent='pet_health', map_mode='none',
         api_key='test', base_url='https://example.invalid', model='small', timeout_seconds=1))
     assert approved is False
@@ -102,8 +102,8 @@ def test_multiple_research_turns_filter_irrelevant_answer_and_preserve_relevant_
     async def review(**kwargs):
         return 'OFF_TOPIC' not in kwargs['answer']
 
-    monkeypatch.setattr('agent.web_knowledge.Runner.run', run)
-    monkeypatch.setattr('agent.web_knowledge.review_answer', review)
+    monkeypatch.setattr('agent.subagents.web_knowledge.Runner.run', run)
+    monkeypatch.setattr('agent.subagents.web_knowledge.review_answer', review)
     settings = Settings(api_key='test', model='main', base_url='https://example.invalid', cors_origins=[])
     svc = WebKnowledgeService(settings)
     results = []

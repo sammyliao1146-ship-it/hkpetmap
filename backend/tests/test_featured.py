@@ -1,4 +1,4 @@
-from agent.featured_answer import is_simple_nearby, render_nearby
+from agent.data.featured_answer import is_simple_nearby, render_nearby
 from backend.app.data.featured import FeaturedStore, select_featured
 
 

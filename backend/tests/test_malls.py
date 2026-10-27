@@ -7,7 +7,7 @@ import httpx
 import pytest
 from pydantic import ValidationError
 
-from agent.data_access import PetDataAccess
+from agent.data.data_access import PetDataAccess
 from backend.app.cache.redis_cache import RedisCache
 from backend.app.data.malls import load_malls, merge_malls
 from backend.app.models.pet import MallPolicy, Place, Snapshot

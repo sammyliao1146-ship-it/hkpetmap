@@ -9,11 +9,11 @@ from urllib.parse import urlsplit
 from zoneinfo import ZoneInfo
 from agents import Agent, ModelSettings, OpenAIResponsesModel, RunConfig, Runner, WebSearchTool, function_tool
 from contextlib import nullcontext
-from agent.client_pool import get_client
-from agent.intent_router import classify_intent,route_action,gate_reply
-from agent.answer_guard import review_answer,blocked_reply
+from agent.assembly.client_pool import get_client
+from agent.subagents.intent_router import classify_intent,route_action,gate_reply
+from agent.subagents.answer_guard import review_answer,blocked_reply
 
-ROOT=Path(__file__).resolve().parents[1]
+ROOT=Path(__file__).resolve().parents[2]
 COMMON=('pets.gov.hk','afcd.gov.hk','spca.org.hk')
 DOMAINS={
  'pet_health':COMMON+('vcahospitals.com','merckvetmanual.com','pdsa.org.uk','bluecross.org.uk','rspca.org.uk','vet.cornell.edu','avma.org','wsava.org','aaha.org'),

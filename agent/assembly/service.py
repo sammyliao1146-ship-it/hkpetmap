@@ -4,11 +4,11 @@ import sys
 from agents import Agent, ModelSettings, OpenAIResponsesModel, RunConfig, Runner
 from agents.mcp import MCPServerStdio
 from openai.types.shared import Reasoning
-from agent.client_pool import get_client
-from agent.data_access import PetDataAccess
-from agent.intent_router import IntentDecision, main_agent_directive
-from agent.prompts import instructions_for_language
-from agent.tools.pet_data import make_pet_tools
+from agent.assembly.client_pool import get_client
+from agent.data.data_access import PetDataAccess
+from agent.subagents.intent_router import IntentDecision, main_agent_directive
+from agent.assembly.prompts import instructions_for_language
+from agent.data.tools.pet_data import make_pet_tools
 
 async def run_pet_assistant(message: str, *, api_key: str, base_url: str, model: str, access: PetDataAccess,
                             tool_transport: str='function', language: str='zh-Hant', history: list[dict[str,str]] | None=None, intent: IntentDecision | None=None, web_knowledge=None,
@@ -20,8 +20,8 @@ async def run_pet_assistant(message: str, *, api_key: str, base_url: str, model:
     async with AsyncExitStack() as stack:
         servers=[]
         if tool_transport=='mcp_stdio':
-            server=MCPServerStdio(params={'command':sys.executable,'args':['-m','agent.mcp_server'],
-                'cwd':str(Path(__file__).resolve().parents[1]),'env':{}},name='hk-pet-data',cache_tools_list=True,client_session_timeout_seconds=90)
+            server=MCPServerStdio(params={'command':sys.executable,'args':['-m','agent.data.mcp_server'],
+                'cwd':str(Path(__file__).resolve().parents[2]),'env':{}},name='hk-pet-data',cache_tools_list=True,client_session_timeout_seconds=90)
             servers.append(await stack.enter_async_context(server))
         web_tools=[web_knowledge.tool(language,history=history)] if web_knowledge is not None else []
         assistant=Agent(name='香港毛孩助手',instructions=instructions_for_language(language)+origin_directive+(('\n\n'+main_agent_directive(intent)) if intent else ''),

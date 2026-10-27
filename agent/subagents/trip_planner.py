@@ -4,7 +4,7 @@ import json
 from agents import Agent, ModelSettings, OpenAIResponsesModel, RunConfig, Runner, function_tool
 from pydantic import BaseModel, ConfigDict, Field
 
-from agent.client_pool import get_client
+from agent.assembly.client_pool import get_client
 
 
 class PlanSelection(BaseModel):
