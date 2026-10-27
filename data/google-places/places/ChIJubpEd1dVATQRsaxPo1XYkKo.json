@@ -1,0 +1,312 @@
+{
+  "google_place_id": "ChIJubpEd1dVATQRsaxPo1XYkKo",
+  "restaurant_ids": [
+    "restaurant:2217800776"
+  ],
+  "fetched_at": "2026-10-23T15:40:40.082534+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJubpEd1dVATQRsaxPo1XYkKo",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2982 6168",
+    "internationalPhoneNumber": "+852 2982 6168",
+    "formattedAddress": "香港新界南丫島榕樹灣大街23B地下",
+    "location": {
+      "latitude": 22.2265993,
+      "longitude": 114.11220720000001
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=12290561245417811121&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 18:00",
+        "星期二: 07:00 – 21:30",
+        "星期三: 07:00 – 21:30",
+        "星期四: 07:00 – 21:30",
+        "星期五: 07:00 – 21:30",
+        "星期六: 07:00 – 21:30",
+        "星期日: 07:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 54,
+    "displayName": {
+      "text": "花園餐廳",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJubpEd1dVATQRsaxPo1XYkKo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kaGEyMUpkVXc1TlhCTE5GODVVMWRxVVdsWVUwRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "31/3晚餐 欖菜肉碎炒烏冬 請問欖菜喺邊？\n類似事件已經唔止一次 今次真係𣎴吐𣎴快 街坊生意唔好咁好嗎😡",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "31/3晚餐 欖菜肉碎炒烏冬 請問欖菜喺邊？\n類似事件已經唔止一次 今次真係𣎴吐𣎴快 街坊生意唔好咁好嗎😡",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "KIDMAN Ky",
+          "uri": "https://www.google.com/maps/contrib/108656533131744581308/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFR0exHGD9WwfaBToFxKy0gnI7oINvnhOHut1EINAXD_OFls2Fuw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-31T14:28:04.083056332Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kaGEyMUpkVXc1TlhCTE5GODVVMWRxVVdsWVUwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kaGEyMUpkVXc1TlhCTE5GODVVMWRxVVdsWVUwRRAB!2m1!1s0x340155577744bab9:0xaa90d855a34facb1"
+      },
+      {
+        "name": "places/ChIJubpEd1dVATQRsaxPo1XYkKo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtc095LW9RRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "環境幽静，價錢大眾化，食物質素也可以。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境幽静，價錢大眾化，食物質素也可以。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charles Yan",
+          "uri": "https://www.google.com/maps/contrib/108746014174902517906/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrl5d4xYF1Lzl_7n5g35p3D3XFlmCBEUBa1k_gwA_xgdUlQA=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2022-11-19T10:16:17.392190Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtc095LW9RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtc095LW9RRRAB!2m1!1s0x340155577744bab9:0xaa90d855a34facb1"
+      },
+      {
+        "name": "places/ChIJubpEd1dVATQRsaxPo1XYkKo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPXzdXSWNBEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳最近推出晚餐，朋友強烈推薦😄\n沒有失望，很好吃，服務很好，員工很友善。\nRecommended by local friends to the newly launched dinner, surprisingly good! Yummy and well served. Friendly staff, inexpensive 👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳最近推出晚餐，朋友強烈推薦😄\n沒有失望，很好吃，服務很好，員工很友善。\nRecommended by local friends to the newly launched dinner, surprisingly good! Yummy and well served. Friendly staff, inexpensive 👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Loire C",
+          "uri": "https://www.google.com/maps/contrib/103584868441536557519/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX4UguIABjQ4z5YD1qUQ0PrIk3L84NvK9dOgwg5wX4a9hz9Et7eQ=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2022-06-24T06:29:07.469485Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNPXzdXSWNBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNPXzdXSWNBEAE!2m1!1s0x340155577744bab9:0xaa90d855a34facb1"
+      },
+      {
+        "name": "places/ChIJubpEd1dVATQRsaxPo1XYkKo/reviews/ChZDSUhNMG9nS0VJQ0FnSURENjZQb0lREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "一杯咖啡或者檸檬茶 加一個西多士 就可以渡過悠閒嘅下午",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一杯咖啡或者檸檬茶 加一個西多士 就可以渡過悠閒嘅下午",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tommy",
+          "uri": "https://www.google.com/maps/contrib/117465145361696341798/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVI3K1hAZGEUptNz5p5gblOkFsuCc8V1ceblpy4m-pYENYkvOyd=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-04-14T12:47:33.960064Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURENjZQb0lREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURENjZQb0lREAE!2m1!1s0x340155577744bab9:0xaa90d855a34facb1"
+      },
+      {
+        "name": "places/ChIJubpEd1dVATQRsaxPo1XYkKo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiaFB2M0ZnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "價錢大眾化",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "價錢大眾化",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "so chiman",
+          "uri": "https://www.google.com/maps/contrib/117570367643606087655/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRHBFv7IKKXCQKQm6SY89CRYF22-u4QM9w8Av6Q1eKXoCjPA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-07-23T11:19:16.522649Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiaFB2M0ZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiaFB2M0ZnEAE!2m1!1s0x340155577744bab9:0xaa90d855a34facb1"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCoffee": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340155577744bab9:0xaa90d855a34facb1!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12290561245417811121&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340155577744bab9:0xaa90d855a34facb1!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340155577744bab9:0xaa90d855a34facb1!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340155577744bab9:0xaa90d855a34facb1!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJubpEd1dVATQRsaxPo1XYkKo/photos/Aa-ngMbSNlj4aptPXmWjpbInzkgmub-Jf3I3ftSPBR6Di1OuG2N3LVVEw2O3_tyy1CM44mPcAz4e_VGYZCB9OLHu0w0Iz6_I-DvkV99FIkdiu9V8LO9RkeSLfpQ_qNHIGaDuUmwd2STgwqH706vGBwDK3A-DmwViM7G1meBw9J_YT363JI6sRu15fIkKbcDisE_HvlyMxY3J6WFn65gwszXiqCKfY4_JMm92kJoVYzSme-Tyv3xlgh78X7gfLe2SAkHGztCTqcOqd4PSEHBFQjWFfSykt-fIhWtNsysSlNUVGaPMrhQL3E9PWzY962iFk2uS6Otykdp8rAeKspA24d0MWgachrjYeU8ir1riMSB1aS7LDvzE-hF-z3do8c6VGZT-M96CqUaQaAVWVuSp35OeYvR1s0g3c1o",
+      "widthPx": 3862,
+      "heightPx": 3012,
+      "authorAttributions": [
+        {
+          "displayName": "ルビーローズ",
+          "uri": "https://maps.google.com/maps/contrib/111174107823075964462",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMyvERw5WzPlglkASr_q737Icm57AKtEBFfJPu3hr_mhhz-cHD=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDm74yk6wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDm74yk6wE!2e10!4m2!3m1!1s0x340155577744bab9:0xaa90d855a34facb1"
+    },
+    "local_path": "photos/ChIJubpEd1dVATQRsaxPo1XYkKo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoc28hhainRxOPAnMKUhOErMFntvNf8GjOX7rOckslmTQrx7sWm61miUwQcLBE1PIuu0igqfLcel76yO9nXCDPgwuqllWnwGr7Xo_fMQ2bonNhc3h0jC1CpMjH8R4Ikihhf7AcFw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 222836
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

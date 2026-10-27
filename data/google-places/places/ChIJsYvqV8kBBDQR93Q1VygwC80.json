@@ -1,0 +1,321 @@
+{
+  "google_place_id": "ChIJsYvqV8kBBDQR93Q1VygwC80",
+  "restaurant_ids": [
+    "restaurant:3118804454"
+  ],
+  "fetched_at": "2026-10-23T15:40:10.110946+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJsYvqV8kBBDQR93Q1VygwC80",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3594 6664",
+    "internationalPhoneNumber": "+852 3594 6664",
+    "formattedAddress": "香港香港島上環德輔道西60-64號",
+    "location": {
+      "latitude": 22.287506099999998,
+      "longitude": 114.1465885
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=14774955952338990327&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://search.dartslive.com/hk/shop/bdbad3172c03019aa3f63593b5358cc4",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:00 – 02:00",
+        "星期二: 16:00 – 02:00",
+        "星期三: 16:00 – 02:00",
+        "星期四: 16:00 – 02:00",
+        "星期五: 16:00 – 02:00",
+        "星期六: 16:00 – 02:00",
+        "星期日: 16:00 – 02:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 43,
+    "displayName": {
+      "text": "Pacific 79",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "pub",
+    "reviews": [
+      {
+        "name": "places/ChIJsYvqV8kBBDQR93Q1VygwC80/reviews/ChZDSUhNMG9nS0VJQ0FnSURPNF95ak9nEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "bar Pacific 店，有一個非常之巨型嘅大電視，播著最香港體育節目，另外一個好長嘅桌球枱\n\n午餐有多款選擇，意大利麵選擇好多，扁意粉，闊條麵，長通粉都有，我就選炸蟹肉球，炸蝦羅勒蕃茄醬意粉",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "bar Pacific 店，有一個非常之巨型嘅大電視，播著最香港體育節目，另外一個好長嘅桌球枱\n\n午餐有多款選擇，意大利麵選擇好多，扁意粉，闊條麵，長通粉都有，我就選炸蟹肉球，炸蝦羅勒蕃茄醬意粉",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lau Siu Hong",
+          "uri": "https://www.google.com/maps/contrib/112836028619489304967/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLiZyYPjWG0hGf3Ap7lbNyfVoMqmrhpuco-8_u3PusC7UYdHw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-07-13T03:16:38.929291Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPNF95ak9nEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPNF95ak9nEAE!2m1!1s0x340401c957ea8bb1:0xcd0b3028573574f7"
+      },
+      {
+        "name": "places/ChIJsYvqV8kBBDQR93Q1VygwC80/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqdXZ6UE5BEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "非常友善的bar,氣氛佳，調酒好喝，服務員都人超好的！上環住宿首推小酌好地方。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常友善的bar,氣氛佳，調酒好喝，服務員都人超好的！上環住宿首推小酌好地方。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Calvin Chen",
+          "uri": "https://www.google.com/maps/contrib/107539124676569376613/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIzLEd82Nw_EHMYfCM3Cm0wh16SUaSznP4LbVWB0qepUEscxg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-04-20T13:40:47.311815Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqdXZ6UE5BEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqdXZ6UE5BEAE!2m1!1s0x340401c957ea8bb1:0xcd0b3028573574f7"
+      },
+      {
+        "name": "places/ChIJsYvqV8kBBDQR93Q1VygwC80/reviews/ChZDSUhNMG9nS0VJQ0FnSURpMFlXclN3EAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 3,
+        "text": {
+          "text": "平吾貴，地方坐下舒適",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平吾貴，地方坐下舒適",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Calbee Lau",
+          "uri": "https://www.google.com/maps/contrib/101321851021313017304/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcD4bNT5K8Qikubv84Th-Ennt0TTLvLrcZmNw1Bux3VXYB8szs8g=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2020-12-06T08:46:05.448890Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURpMFlXclN3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURpMFlXclN3EAE!2m1!1s0x340401c957ea8bb1:0xcd0b3028573574f7"
+      },
+      {
+        "name": "places/ChIJsYvqV8kBBDQR93Q1VygwC80/reviews/ChZDSUhNMG9nS0VQZWE0ZFdtMVlmZkNREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "一品脫啤酒約68港元，容量超過500毫升。他們常播放K-pop音樂，也玩運動遊戲。雞翅很好吃，味道像韓國炸雞。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "맥주 한 잔에 68홍콩달러 정도 하고\n양이 일단 500ml가 넘어요\nKPOP이 계속 나오고\n스포츠 경기도 계속 틀어줘요\n치킨 윙 맛있어요\n한국 치킨 느낌이라서 맛있어요",
+          "languageCode": "ko"
+        },
+        "authorAttribution": {
+          "displayName": "GIYEOL CHO",
+          "uri": "https://www.google.com/maps/contrib/111820392243761396003/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuddW1V_0GvXhBpKf5GUHSjCFr0iq0UPuMezgcFRNA0ukaukLuLg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-06-06T14:22:16.085319Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VQZWE0ZFdtMVlmZkNREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQZWE0ZFdtMVlmZkNREAE!2m1!1s0x340401c957ea8bb1:0xcd0b3028573574f7"
+      },
+      {
+        "name": "places/ChIJsYvqV8kBBDQR93Q1VygwC80/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WcVNWcG9kM1pyWVdGWlkxSnBWRFJhU2xaNmFsRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "非常棒的酒吧\n\n食物真的很好吃\n\n員工非常友好\n\n可以玩桌球、撞球和飛鏢\n\n非常適合深夜小酌幾杯！\n\n我推薦去那裡。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "very nice bar\n\nreally good food\nstaff very friendly\n\ncan go play pool billard and darts\n\nperfect for a few drinks late night!!\n\ni recommend go there",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Stefan Pichler",
+          "uri": "https://www.google.com/maps/contrib/102646974029966825490/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW98BFOpdhJH2kB47JzJLcii-2MhRBlGy6mP7FPVfqR4uggaAIk=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-06-12T16:14:40.973725569Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WcVNWcG9kM1pyWVdGWlkxSnBWRFJhU2xaNmFsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WcVNWcG9kM1pyWVdGWlkxSnBWRFJhU2xaNmFsRRAB!2m1!1s0x340401c957ea8bb1:0xcd0b3028573574f7"
+      }
+    ],
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401c957ea8bb1:0xcd0b3028573574f7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14774955952338990327&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401c957ea8bb1:0xcd0b3028573574f7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401c957ea8bb1:0xcd0b3028573574f7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401c957ea8bb1:0xcd0b3028573574f7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJsYvqV8kBBDQR93Q1VygwC80/photos/Aa-ngMYMySb51L2MzIva-5EALcChziSlroFrpR522hXXdqlwWnFM4Wrzdnwoj3NR_fPaZ5PGE_X_asgEkQoBuYx6er_CkBe4dfMhNHAE97xCsHTdH3Gkk4WNB9tlL09LEBxoN5QxtwHJtvd2gYNOY3OhxlbDULcbAe_tEBSJLD6ssDs1fpnDAhWF-D91LKW1k6582GtHuIObc38HZ_68arOCv_5fIJkKhWqsq4XNHyHIlVqXISvBHtqqrdXHqublXaioXDLsSccIewqXrZ0H4kIW2vL95Y7N3dejlQE-06A15w9FWZ7-Awe1V-FBbt8M1y9J0HrqfImdfFcIld4-rM0iptRqRyyL4f7Bgs8q-W1JJI8pBWq0pC4hSDprjRkLFhiePnoxdMqkrL59w4-k5fJGAWeHuiA",
+      "widthPx": 640,
+      "heightPx": 640,
+      "authorAttributions": [
+        {
+          "displayName": "Pacific 79",
+          "uri": "https://maps.google.com/maps/contrib/110792796254647442756",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5Qrg95WTQbqQCUHtnSQvjSIuABKWEYAuzuZonSKbIpo7rCg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8otmgcQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8otmgcQ!2e10!4m2!3m1!1s0x340401c957ea8bb1:0xcd0b3028573574f7"
+    },
+    "local_path": "photos/ChIJsYvqV8kBBDQR93Q1VygwC80.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLffUQMaP1YVbbsFr0RuG7eJTrgurlXNf2NUUz8b3UAgVzaP6s3adoK3TYQrrJZU_9e_g_99c8XtAHBU4WIiyB8XMT6_Wojl4FwXuTGY8iJjnwf3bnh8ZOccHAcUwd4ygUsQZ30B=s4800-w640",
+    "content_type": "image/jpeg",
+    "bytes": 63323
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "pub",
+    "label": "酒吧",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

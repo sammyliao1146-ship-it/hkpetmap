@@ -1,0 +1,325 @@
+{
+  "google_place_id": "ChIJ4SDpkb0FBDQRCzPewKcgT3Y",
+  "restaurant_ids": [
+    "restaurant:3198801714"
+  ],
+  "fetched_at": "2026-10-23T15:38:45.078853+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ4SDpkb0FBDQRCzPewKcgT3Y",
+    "types": [
+      "dessert_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2792 4991",
+    "internationalPhoneNumber": "+852 2792 4991",
+    "formattedAddress": "香港新界西貢普通道",
+    "location": {
+      "latitude": 22.381613299999998,
+      "longitude": 114.27060429999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=8525068524503053067&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.honeymoon-dessert.com/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 14,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 14,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 14,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 14,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 14,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 13,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 13,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 14:00 – 23:30",
+        "星期二: 14:00 – 23:30",
+        "星期三: 14:00 – 23:30",
+        "星期四: 14:00 – 23:30",
+        "星期五: 13:00 – 00:00",
+        "星期六: 13:00 – 00:00",
+        "星期日: 14:00 – 23:30"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 1110,
+    "displayName": {
+      "text": "Honeymoon Dessert",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "甜品餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": false,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "dessert_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ4SDpkb0FBDQRCzPewKcgT3Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNM05Xa3hNVkZKUlROVFdXazNlR3AyVldKbGRFRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "推介個鮮奶麻糬！！好味！食完唔夠喉，再加咗個oreo味，但都係原味正好多！！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "推介個鮮奶麻糬！！好味！食完唔夠喉，再加咗個oreo味，但都係原味正好多！！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Riley Kwok",
+          "uri": "https://www.google.com/maps/contrib/106227462447462290709/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3e6UgU8HtSda_WpFhZGOcMWJel36RkB4afSpT5fkJcviInyPwBw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-04-19T05:18:00.062123099Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNM05Xa3hNVkZKUlROVFdXazNlR3AyVldKbGRFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNM05Xa3hNVkZKUlROVFdXazNlR3AyVldKbGRFRRAB!2m1!1s0x340405bd91e920e1:0x764f20a7c0de330b"
+      },
+      {
+        "name": "places/ChIJ4SDpkb0FBDQRCzPewKcgT3Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poS01UTkNNVlJqU21jM09VdFBTV3h2U1doTmRVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "很多年無黎了，款式多左好多，我今次食榴槤白雪仙草，味道不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很多年無黎了，款式多左好多，我今次食榴槤白雪仙草，味道不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kXc",
+          "uri": "https://www.google.com/maps/contrib/101720615600344350844/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8fE7cyAvGxmFXOtNWkFxI9JTC0IyJmj_T4uuBcT4jfvpR5zL6=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-06-15T17:11:47.224075535Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poS01UTkNNVlJqU21jM09VdFBTV3h2U1doTmRVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poS01UTkNNVlJqU21jM09VdFBTV3h2U1doTmRVRRAB!2m1!1s0x340405bd91e920e1:0x764f20a7c0de330b"
+      },
+      {
+        "name": "places/ChIJ4SDpkb0FBDQRCzPewKcgT3Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWmNGUmhWMXBDVm1ZdGFqWTVlRmhwZVY4MlRtYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "廁所乾淨，服務態度香港style ～\n中規中矩，沒有特別驚艷",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "廁所乾淨，服務態度香港style ～\n中規中矩，沒有特別驚艷",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ANN ANN",
+          "uri": "https://www.google.com/maps/contrib/108464140216878843113/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkvmnmC50jCfWYDrh_xnY5BRZ8NLjDgJ-P_weAjIsDqmVEFw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-08-25T06:40:12.459612255Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsWmNGUmhWMXBDVm1ZdGFqWTVlRmhwZVY4MlRtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsWmNGUmhWMXBDVm1ZdGFqWTVlRmhwZVY4MlRtYxAB!2m1!1s0x340405bd91e920e1:0x764f20a7c0de330b"
+      },
+      {
+        "name": "places/ChIJ4SDpkb0FBDQRCzPewKcgT3Y/reviews/ChZDSUhNMG9nS0VPaXV2YmV0d3B5VFRBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "週日晚飯後大約七點到達\n暫有大量空位\n點了楊枝甘露及榴槤忘返\n原來榴槤忘返底部是棉花冰\n驚喜🥰美味\n隨後人開始多要等位了\n十分熱鬧",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "週日晚飯後大約七點到達\n暫有大量空位\n點了楊枝甘露及榴槤忘返\n原來榴槤忘返底部是棉花冰\n驚喜🥰美味\n隨後人開始多要等位了\n十分熱鬧",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yolk",
+          "uri": "https://www.google.com/maps/contrib/107986248094594509528/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0mB_J1CZRceJO1_vRknvLB5dHF78UgYKEyXDG8WcGCWkGDTtM=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-05-06T09:27:24.274796Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VPaXV2YmV0d3B5VFRBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VPaXV2YmV0d3B5VFRBEAE!2m1!1s0x340405bd91e920e1:0x764f20a7c0de330b"
+      },
+      {
+        "name": "places/ChIJ4SDpkb0FBDQRCzPewKcgT3Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURsMjhYWXRBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "2024/02/12\n年初三都有開, 無加價, 食物正常。\n\n======================================\n\n2023/11/26\n正常糖水, 無話特別好食。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2024/02/12\n年初三都有開, 無加價, 食物正常。\n\n======================================\n\n2023/11/26\n正常糖水, 無話特別好食。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tommy Cheung",
+          "uri": "https://www.google.com/maps/contrib/107814679349900459797/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2xFxwjr_N70e_rMhwH8pUjHJvX_xpit_Qq8w3FeERzoeLcQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-02-14T03:30:27.928400Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURsMjhYWXRBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURsMjhYWXRBRRAB!2m1!1s0x340405bd91e920e1:0x764f20a7c0de330b"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidStreetParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340405bd91e920e1:0x764f20a7c0de330b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8525068524503053067&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405bd91e920e1:0x764f20a7c0de330b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340405bd91e920e1:0x764f20a7c0de330b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405bd91e920e1:0x764f20a7c0de330b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ4SDpkb0FBDQRCzPewKcgT3Y/photos/Aa-ngMYOdahhG9tnFlHJIY3ym6ZjkNNRo09JgpoeA5-qV2kRde6Xudt4Ol821qInseyflda9_laHzdX9ydvzPXAk84bAd_C3pQbRnjT3U4zV0V2_-35DULMLa6OXneL6O9LUB98o4akugh-nDDUgRfznPldfF70sD4uK5oIQSC93Qk2WC_qU0OOmQwIChTLdmCuVL7yjuEbqF7gv7stVQLCsXFt05FHYFkf83GYzF7z4aQ6NhBNyQFEbek4uH12avLhyf8komwPRm2ox5ttw_-Os1p8RrsOEQSNpRiu5_jPc49RNzhwNM-3ydSDFNAwQAH3T9GhQEO3Ha2U0kkxmrWs1-HpaM8h1JyUT8UpxEUvWB1G10dX5-jW3-Aqv2VJpfTZZr3a2PsWVIem9uP8m1RT0Z0KYi0uPne97txM4VwgGy3Im",
+      "widthPx": 4080,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "Riley Kwok",
+          "uri": "https://maps.google.com/maps/contrib/106227462447462290709",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3e6UgU8HtSda_WpFhZGOcMWJel36RkB4afSpT5fkJcviInyPwBw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD9GxQ-wrfu4YM2Wr7h2i24&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD9GxQ-wrfu4YM2Wr7h2i24!2e10!4m2!3m1!1s0x340405bd91e920e1:0x764f20a7c0de330b"
+    },
+    "local_path": "photos/ChIJ4SDpkb0FBDQRCzPewKcgT3Y.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLemPt0Gq7kZJaZlGCiSgMg7OZj016vDR0Fp3GnKFSxp0Pf3QUbeO5VhawR1bbRVZESEl-bHP1AdCTd7XMkLzLCEUWB6SoYvNrIkvJD3P84B5bzIfWqbBR0kvm_KDK9MApnMks0jPRlZWHg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 137932
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ConnectError"
+  },
+  "cuisine": {
+    "primary_type": "dessert_restaurant",
+    "label": "甜品餐廳",
+    "types": [
+      "dessert_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

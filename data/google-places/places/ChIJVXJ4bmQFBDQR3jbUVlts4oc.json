@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJVXJ4bmQFBDQR3jbUVlts4oc",
+  "restaurant_ids": [
+    "restaurant:3198801431"
+  ],
+  "fetched_at": "2026-10-23T15:49:56.628981+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJVXJ4bmQFBDQR3jbUVlts4oc",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5999 0555",
+    "internationalPhoneNumber": "+852 5999 0555",
+    "formattedAddress": "香港新界西貢市場街36號",
+    "location": {
+      "latitude": 22.3795318,
+      "longitude": 114.2719467
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=9791507679411451614&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 09:00 – 18:00",
+        "星期三: 09:00 – 18:00",
+        "星期四: 09:00 – 18:00",
+        "星期五: 09:00 – 18:00",
+        "星期六: 08:00 – 18:00",
+        "星期日: 08:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 57,
+    "displayName": {
+      "text": "Tales Cafe",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": false,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJVXJ4bmQFBDQR3jbUVlts4oc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoT2FXbEhUWE5yT0RkTGVHeEtUa3RhT0VWbU9GRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "食品一流，質素非常的高，加上旁邊的裝飾，增添了不少美感及喜悅。咖啡必須嘗試，包類食品很出色。\n氣氛也過得去，有音樂伴隨，只是服務一般。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食品一流，質素非常的高，加上旁邊的裝飾，增添了不少美感及喜悅。咖啡必須嘗試，包類食品很出色。\n氣氛也過得去，有音樂伴隨，只是服務一般。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wong Sammy",
+          "uri": "https://www.google.com/maps/contrib/106402192118727642283/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0xcUrU4K1Nr3bn1XtHH7kCHejlM1BGPtwVr0Fia2_AIUw4A=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-05-30T02:10:30.546110895Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoT2FXbEhUWE5yT0RkTGVHeEtUa3RhT0VWbU9GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoT2FXbEhUWE5yT0RkTGVHeEtUa3RhT0VWbU9GRRAB!2m1!1s0x340405646e787255:0x87e26c5b56d436de"
+      },
+      {
+        "name": "places/ChIJVXJ4bmQFBDQR3jbUVlts4oc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNub19DZ1VnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "今天星期日去了試這間cafe, 點了煙三文魚牛油果班尼廸($128)和凍榛子咖啡（$48), 視覺效果不錯，有點像潑彩畫，味道也不錯。但置底那件吐司麵包如果不是一件切開分為兩個細半件會更好 完美一點～\n要一讚 老闆娘親切細心又漂亮，下次可以試下開心果芝士蛋糕，因少見～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今天星期日去了試這間cafe, 點了煙三文魚牛油果班尼廸($128)和凍榛子咖啡（$48), 視覺效果不錯，有點像潑彩畫，味道也不錯。但置底那件吐司麵包如果不是一件切開分為兩個細半件會更好 完美一點～\n要一讚 老闆娘親切細心又漂亮，下次可以試下開心果芝士蛋糕，因少見～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chris Chan",
+          "uri": "https://www.google.com/maps/contrib/105093553155214832470/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0YPOvmbkPUkD3dlr6scQ4ei5Opqfwdfq6of9iUEiB9qX0rw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-09-29T08:22:26.300647Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNub19DZ1VnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNub19DZ1VnEAE!2m1!1s0x340405646e787255:0x87e26c5b56d436de"
+      },
+      {
+        "name": "places/ChIJVXJ4bmQFBDQR3jbUVlts4oc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sTVNUQkpXRGMwZVRSYVRscENUVWRXY0hoRlJHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "西貢呢度好多cafe，原本想去個間，座位太少full曬，求其揀一間入去食，揀到呢間真係好驚喜🥰Nachos好好味，latte嘅拉花都好靚😚同埋啲服務生好有禮貌❤️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西貢呢度好多cafe，原本想去個間，座位太少full曬，求其揀一間入去食，揀到呢間真係好驚喜🥰Nachos好好味，latte嘅拉花都好靚😚同埋啲服務生好有禮貌❤️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Andrea Wei",
+          "uri": "https://www.google.com/maps/contrib/101213576277386154734/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3Gwua6xCzfEGNyDe4dcs-djuOaWfKFBp4sVuBlS6t8gVd4dtZ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-06-22T15:52:31.153962848Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sTVNUQkpXRGMwZVRSYVRscENUVWRXY0hoRlJHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sTVNUQkpXRGMwZVRSYVRscENUVWRXY0hoRlJHYxAB!2m1!1s0x340405646e787255:0x87e26c5b56d436de"
+      },
+      {
+        "name": "places/ChIJVXJ4bmQFBDQR3jbUVlts4oc/reviews/ChdDSUhNMG9nS0VJQ0FnSURqMmJIcGdRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "好失望 食物質素有待大大提升...\n\n我真係好少會寫差評 但係呢個bagel真係唔ok\n首先佢好貴 要88蚊\n然後佢menu上面bagel嘅相係似乎用左greek yogurt偏澀身嘅\n但係上到黎莫名其妙地超級水狀 會浸到個bagel淋晒 都冇咩藍莓味\n然後個bagel...我真係好耐冇食過咁唔好食嘅bagel...\n首先佢唔係bagel 完全唔煙韌 係淋嘅 似乎冇翻熱\n然後我想講 m&s賣1 pack 6個嘅bagel都好食過呢個bagel\n我只可以話 可能menu其他食物會好d\n但係呢兩個就可以skip啦...\n\n意粉醬偏甜 mozzarella硬嘅...意粉本身有彈性 但會有更好的選擇...",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好失望 食物質素有待大大提升...\n\n我真係好少會寫差評 但係呢個bagel真係唔ok\n首先佢好貴 要88蚊\n然後佢menu上面bagel嘅相係似乎用左greek yogurt偏澀身嘅\n但係上到黎莫名其妙地超級水狀 會浸到個bagel淋晒 都冇咩藍莓味\n然後個bagel...我真係好耐冇食過咁唔好食嘅bagel...\n首先佢唔係bagel 完全唔煙韌 係淋嘅 似乎冇翻熱\n然後我想講 m&s賣1 pack 6個嘅bagel都好食過呢個bagel\n我只可以話 可能menu其他食物會好d\n但係呢兩個就可以skip啦...\n\n意粉醬偏甜 mozzarella硬嘅...意粉本身有彈性 但會有更好的選擇...",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Debbie Low",
+          "uri": "https://www.google.com/maps/contrib/114115612962635345146/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdW7gyf6gL1zQN8ekmBgYhAjQZlQOfu0dsdnGLXzcDD3pjjKkn=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-05-05T04:34:17.795905Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqMmJIcGdRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqMmJIcGdRRRAB!2m1!1s0x340405646e787255:0x87e26c5b56d436de"
+      },
+      {
+        "name": "places/ChIJVXJ4bmQFBDQR3jbUVlts4oc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SbVFreGZRalEzYlROTUxYTnZhMEZaWDJ4U2EzYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "意粉有驚喜 會黎食 好味",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "意粉有驚喜 會黎食 好味",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "VENUS WING WING",
+          "uri": "https://www.google.com/maps/contrib/118229936721381859469/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-3uu9CIqUDtM-sk0z5RG-9ynoS9QTMIwEULW2Y1y5jFeolQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-04T08:48:52.253545209Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SbVFreGZRalEzYlROTUxYTnZhMEZaWDJ4U2EzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SbVFreGZRalEzYlROTUxYTnZhMEZaWDJ4U2EzYxAB!2m1!1s0x340405646e787255:0x87e26c5b56d436de"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340405646e787255:0x87e26c5b56d436de!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9791507679411451614&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405646e787255:0x87e26c5b56d436de!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340405646e787255:0x87e26c5b56d436de!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405646e787255:0x87e26c5b56d436de!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJVXJ4bmQFBDQR3jbUVlts4oc/photos/Aa-ngMYSdvRSLbDhmifiLGY6_4m6tr4hV1nvMDYH2dbnnevsNoBDH2In0ao-etHX9O9S5lkkqqzS40zfJUYvI4iHZVneKjWXt5Yy9neit938n22QNG5fqvdN5Q70SOysV_B9WUxVGD_HReG26u9QwCK6B6PS3yNt56TWzSRqY6jNqdAQSnkQZnS5zURHDaFENlORVNvF-cTYjEMCkiol8K9eChvnsN19gCczzOn1X_7Z4AU0VCJrVfN3-qzY57tP5W-ynQo28qnaUMJFPoIJmMoTx3FLPpmd579bSEXKbsTmWleLc6H4as5Cd4LKHOElxM_BJY-MynGY_RpER2PjgTEx0Jm86GoCW8qHmdgDsAPyyVYWOHP_b9LAeUvf97m4LBNqSdpX1fT2rjh1N-g4swwEL8u5k7-OdFE12kkleaoGcBWnSg",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Wong Sammy",
+          "uri": "https://maps.google.com/maps/contrib/106402192118727642283",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0xcUrU4K1Nr3bn1XtHH7kCHejlM1BGPtwVr0Fia2_AIUw4A=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhARfWVgxfD4ViJxHS6OSY8m&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhARfWVgxfD4ViJxHS6OSY8m!2e10!4m2!3m1!1s0x340405646e787255:0x87e26c5b56d436de"
+    },
+    "local_path": "photos/ChIJVXJ4bmQFBDQR3jbUVlts4oc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd35kIm-T6xKwOCLNJBG03wU2d-S43YD6uoIrHpYPKMbpiIFGf8myc05VnVq49SSwUtOo6GyvFkYpSwGDNSu2iLLBkHGlT5AYjWBy3siIhhpIL4bzvEEtraUYvU9upCnzxNGLZiLiBOQdi9=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 170174
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

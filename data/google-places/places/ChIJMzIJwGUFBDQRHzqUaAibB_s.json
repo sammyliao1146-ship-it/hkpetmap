@@ -1,0 +1,321 @@
+{
+  "google_place_id": "ChIJMzIJwGUFBDQRHzqUaAibB_s",
+  "restaurant_ids": [
+    "restaurant:3198802337"
+  ],
+  "fetched_at": "2026-10-23T15:38:50.898201+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJMzIJwGUFBDQRHzqUaAibB_s",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6618 3056",
+    "internationalPhoneNumber": "+852 6618 3056",
+    "formattedAddress": "SAI KUNG WATERFRONT, Wai Man Rd, Sai Kung, New Territories, 香港",
+    "location": {
+      "latitude": 22.3823382,
+      "longitude": 114.27454569999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=18088596888773474847&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:30 – 18:30",
+        "星期二: 10:30 – 18:30",
+        "星期三: 10:30 – 18:30",
+        "星期四: 10:30 – 18:30",
+        "星期五: 10:30 – 18:30",
+        "星期六: 10:30 – 19:00",
+        "星期日: 10:30 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 19,
+    "displayName": {
+      "text": "Kung Kung Kiosk",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJMzIJwGUFBDQRHzqUaAibB_s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKU1RWaHRZM1JXTlZZMlJXUkhabDlpUjI5Sk0zYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "西貢海旁新開cafe，裝修有點美式快餐店感覺，全部落地玻璃，透晒陽光入嚟，望住海景，食個和牛漢堡，嘆杯咖啡，好chili。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西貢海旁新開cafe，裝修有點美式快餐店感覺，全部落地玻璃，透晒陽光入嚟，望住海景，食個和牛漢堡，嘆杯咖啡，好chili。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "bubble planet",
+          "uri": "https://www.google.com/maps/contrib/107816466276344882710/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPmZu8i5-fqsS9nysuHspraoYIOX8OEGOegAi-NWSB48tf-Tlu=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-05T08:22:37.823123392Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKU1RWaHRZM1JXTlZZMlJXUkhabDlpUjI5Sk0zYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKU1RWaHRZM1JXTlZZMlJXUkhabDlpUjI5Sk0zYxAB!2m1!1s0x34040565c0093233:0xfb079b0868943a1f"
+      },
+      {
+        "name": "places/ChIJMzIJwGUFBDQRHzqUaAibB_s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psUmRFUlpjVlJ3ZUhndGJpMUxVelkxVG1ac05HYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 3,
+        "text": {
+          "text": "其實一個漢堡餐88蚊冇薯條真係有啲kick\n如果有薯條或者洋蔥圈 成件事應該會好好多\n和牛漢堡包又唔係好食勁普通\n呢度真係主打個海景  大部分分數都係畀個景 有冷氣涼住望住個海 如果你對食物冇咩要求淨係飲杯嘢嘅話 係ok嘅 如果你想食一餐好味嘅午餐 唔使諗建議轉場",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "其實一個漢堡餐88蚊冇薯條真係有啲kick\n如果有薯條或者洋蔥圈 成件事應該會好好多\n和牛漢堡包又唔係好食勁普通\n呢度真係主打個海景  大部分分數都係畀個景 有冷氣涼住望住個海 如果你對食物冇咩要求淨係飲杯嘢嘅話 係ok嘅 如果你想食一餐好味嘅午餐 唔使諗建議轉場",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Y16 1990",
+          "uri": "https://www.google.com/maps/contrib/105134225659518122622/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjr7xIg4CJ5TRb3U4luvEy2b2MVByjTv7TJvE4BAxZG0iCBHsC=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-12T09:50:41.093419300Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psUmRFUlpjVlJ3ZUhndGJpMUxVelkxVG1ac05HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psUmRFUlpjVlJ3ZUhndGJpMUxVelkxVG1ac05HYxAB!2m1!1s0x34040565c0093233:0xfb079b0868943a1f"
+      },
+      {
+        "name": "places/ChIJMzIJwGUFBDQRHzqUaAibB_s/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kUlFXWldNMkZMV25sT2VtUlRURFZrYVRaNmJuYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "大推🔆榴槤 & 朱古力 gelato!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大推🔆榴槤 & 朱古力 gelato!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mak Ka man",
+          "uri": "https://www.google.com/maps/contrib/109130836168257905877/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXIKHfZj3yCOw1jYBILmFV3ArdonBnxAcjBsKsKtYdllx4xQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-16T08:46:17.399174006Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kUlFXWldNMkZMV25sT2VtUlRURFZrYVRaNmJuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kUlFXWldNMkZMV25sT2VtUlRURFZrYVRaNmJuYxAB!2m1!1s0x34040565c0093233:0xfb079b0868943a1f"
+      },
+      {
+        "name": "places/ChIJMzIJwGUFBDQRHzqUaAibB_s/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KVVlqWjVZelp5VXpObE0zcGlhMVZ4T0hkTFpIYxAB",
+        "relativePublishTimeDescription": "本週",
+        "rating": 1,
+        "text": {
+          "text": "店員態度差兼難食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員態度差兼難食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Spring Chu",
+          "uri": "https://www.google.com/maps/contrib/117922136641778563813/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwzRYHs5lC3HbB2WOaEUFUCFcdgANgnuQ9bqyz_eAJq0Elgaw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-10-23T09:03:02.327608045Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KVVlqWjVZelp5VXpObE0zcGlhMVZ4T0hkTFpIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KVVlqWjVZelp5VXpObE0zcGlhMVZ4T0hkTFpIYxAB!2m1!1s0x34040565c0093233:0xfb079b0868943a1f"
+      },
+      {
+        "name": "places/ChIJMzIJwGUFBDQRHzqUaAibB_s/reviews/Ci9DQUlRQUNvZENodHljRjlvT201Vk5XUjZUVWxXWVc1MUxXMUdUR1ZXZW05ZlduYxAB",
+        "relativePublishTimeDescription": "本週",
+        "rating": 1,
+        "text": {
+          "text": "服務好差，零指示，極度混亂\n蛋糕同熟食平時同一條隊，但Banoffee開賣時，全部店員一齊切兩個大蛋糕，完全無人收錢無人做其他嘢，又無人講買熟食係第二條隊，薯寶又凍又唔脆，整3杯咖啡整3個字，仲可以漏單漏咗一杯。\n唔會再嚟，嚟嘅自己睇路：）",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務好差，零指示，極度混亂\n蛋糕同熟食平時同一條隊，但Banoffee開賣時，全部店員一齊切兩個大蛋糕，完全無人收錢無人做其他嘢，又無人講買熟食係第二條隊，薯寶又凍又唔脆，整3杯咖啡整3個字，仲可以漏單漏咗一杯。\n唔會再嚟，嚟嘅自己睇路：）",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lingchee",
+          "uri": "https://www.google.com/maps/contrib/109335814810962288378/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3CPaNso2Rs17-2dmYLetGtctDToV8YIJtmQQZneBYi4dXJQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-10-19T08:51:13.284474143Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201Vk5XUjZUVWxXWVc1MUxXMUdUR1ZXZW05ZlduYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201Vk5XUjZUVWxXWVc1MUxXMUdUR1ZXZW05ZlduYxAB!2m1!1s0x34040565c0093233:0xfb079b0868943a1f"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040565c0093233:0xfb079b0868943a1f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=18088596888773474847&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040565c0093233:0xfb079b0868943a1f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040565c0093233:0xfb079b0868943a1f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040565c0093233:0xfb079b0868943a1f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJMzIJwGUFBDQRHzqUaAibB_s/photos/Aa-ngMa-rLI0IhpY703AxbcfxCgSx7DePSLV2CrE3GHqf3dM2MGLLvCND_tRADpdX8iVAdjcUxjF2-jF6QD1t60dfEX8xZlq6E5mFly7KkYiXkZaPRv0dGBsmr6d26c2jVZbFJ1S4GYLqSKICtPPoqUYy10y3O1V418moAyWxuGlXE3Pb5zHePxksCqm5-kCuGUROMGHDxUwjVr9Y43S4-zi96P8-_HLFLsPUW8AggfJl9B1RxIFJwptno7bMXkHr6pRzfmDDV88_dXzapkimJG3jx-yyQeQMw-CJdZT3nMm0egbzBujwNZhtqOWQxKFOMnRDTNppYQjf7CldN9maRSq9GJUxGSG3mpscvkvgH-hTCH0nn5ER01FWmzs9juTY3tqzUg9vsi_QRN1BgFCOGWz-a3qSoRTYCazfA-Ys2SoO0Rjzw",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "Kung Kung Kiosk",
+          "uri": "https://maps.google.com/maps/contrib/108281923213220073701",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJOtvUd6Q2v2Qe7vjT1JMQBcTgTZrssjyYd5N1ZP3vdhzBAHw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAOl48baAU1K9uNrN1wQjpE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAOl48baAU1K9uNrN1wQjpE!2e10!4m2!3m1!1s0x34040565c0093233:0xfb079b0868943a1f"
+    },
+    "local_path": "photos/ChIJMzIJwGUFBDQRHzqUaAibB_s.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGL2jEJauL_VC7P62aj7le89TbfEVwKmqSBDbzAkCepRV35BKkTP7dURtYZhatRkpNhUNQ0W5nSMcRJ1haNU3YXz9J_s6yZGwuT9GzJSnvtaFD0ukXpGcqT1cUrnZq50Gwvft76O7DjJjA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 140304
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

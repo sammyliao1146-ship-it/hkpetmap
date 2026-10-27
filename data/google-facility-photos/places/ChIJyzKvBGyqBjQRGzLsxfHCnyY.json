@@ -1,0 +1,39 @@
+{
+  "id": "ChIJyzKvBGyqBjQRGzLsxfHCnyY",
+  "types": [
+    "historical_landmark",
+    "tourist_attraction",
+    "historical_place",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Murray House, 96 Stanley Main St, Stanley, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.218028099999998,
+    "longitude": 114.2097775
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2783157438401753627&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "赤柱美利樓",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "historical_landmark",
+  "photos": [
+    {
+      "name": "places/ChIJyzKvBGyqBjQRGzLsxfHCnyY/photos/Aa-ngMYWeVPO6L4Xain0a-Hbu1CHa6oMeyPnbuwKdIhzOwUiXy88xym6GXZKye57EP89jum1Ku7V6H-458R5Wpu0Lzk7qXVrVwwNuGfMjQj19iYLnj97JV5VoCUpRLGnLVlnmZqe0ozLBDFSU6jhTVSeB40BhFFwAJYvboOiA__3274GyzPZlqqt0tlOYro-BJ-Adu9qhGrOuTheOLmcIYSpSGeDSzBnEO5Klup5hiA4uUXGz44KDvbXDQT9WaWK5LZlmZ27XtDVL475VUn0R0-CbmFHkVo4mVLmY1MOBNEaNfAGJHg9ZC2krZoHD18K1d9_i0hPbOyzcDdkhYIXVpgHoBhH1aj8SZLdg_UYnRmgQC_9FUadm69-HQUvi9ZJokWpgnEidJ0-0inj77U3bcOnAV0dsrc",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Su馬丁",
+          "uri": "https://maps.google.com/maps/contrib/103547443806509913998",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3vBm-JqbIolL8xpouVfm1LB-3-cRrbnjCWitmFIktmeqR0r6TyQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC7tOSNPQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7tOSNPQ!2e10!4m2!3m1!1s0x3406aa6c04af32cb:0x269fc2f1c5ec321b"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:58.624716+00:00"
+}

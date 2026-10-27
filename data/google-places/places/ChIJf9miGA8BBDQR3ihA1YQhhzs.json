@@ -1,0 +1,414 @@
+{
+  "google_place_id": "ChIJf9miGA8BBDQR3ihA1YQhhzs",
+  "restaurant_ids": [
+    "restaurant:2211084426"
+  ],
+  "fetched_at": "2026-10-23T15:43:55.414854+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJf9miGA8BBDQR3ihA1YQhhzs",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6603 5523",
+    "internationalPhoneNumber": "+852 6603 5523",
+    "formattedAddress": "香港香港島銅鑼灣清風街1a-1b號",
+    "location": {
+      "latitude": 22.2848218,
+      "longitude": 114.1912679
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=4289434024490838238&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://s.openrice.com/QrbS0544C00~u14z8Ag",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 23:00",
+        "星期二: 12:00 – 15:00, 18:00 – 02:00",
+        "星期三: 12:00 – 15:00, 18:00 – 02:00",
+        "星期四: 12:00 – 15:00, 18:00 – 02:00",
+        "星期五: 12:00 – 15:00, 18:00 – 02:00",
+        "星期六: 12:00 – 15:00, 18:00 – 02:00",
+        "星期日: 12:00 – 15:00, 18:00 – 23:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "userRatingCount": 325,
+    "displayName": {
+      "text": "酒屋一杯喜",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJf9miGA8BBDQR3ihA1YQhhzs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOdUxVcHZia1JvUjB4aE1HWnRibXRUYTNOVlIwRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "週日晚上來這家好熱鬧的日式居酒屋食料理，創意和味道都不錯！\n\n蟹籽野菜沙律\n好大盤野菜一座山甘高，上邊鋪滿沙律和蟹籽，野菜和酸甜醋汁配爽脆野菜，蟹籽在嘴裡爆開，鹹鮮感讓整道菜活起來，清胃又開胃!\n\n自家製蟹肉餅\n外表炸成均勻的金黃色，薄脆的麵衣輕輕一咬就開，裡面幾乎全是紮實的蟹肉絲，每一口都吃得到海鮮的天然甜味。沾上附上的檸檬蛋黃醬後，酸度把鮮味再推高一層，吃完還想再來一件，絕對是整晚最令人回味的菜式之一。\n\n天婦羅蝦＋野菜天婦羅——麵衣輕薄酥脆，蝦肉紮實彈牙；野菜款款有水準，南瓜甜、秋葵滑、茄子軟，蘸鹽更添層次。\n\n柚子鹽味叉燒拉麵\n湯頭清而濃，柚香突出但不搶戲，低溫叉燒軟嫩脂香，麵條掛湯力強，吃到最後一口依然清爽。\n\n串燒\n牛肉芫荽卷——牛肉軟嫩多汁，芫荽量足，燒烤香氣與草香交織。\n茗荷豚肉燒——豚肉油香豐腴，配上茗荷獨特的清香，兩者互補，風味新鮮。\n\n芥末鰈魚鰭邊\n好新鮮，入口即化，芥末輕輕一帶，提鮮不嗆。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "週日晚上來這家好熱鬧的日式居酒屋食料理，創意和味道都不錯！\n\n蟹籽野菜沙律\n好大盤野菜一座山甘高，上邊鋪滿沙律和蟹籽，野菜和酸甜醋汁配爽脆野菜，蟹籽在嘴裡爆開，鹹鮮感讓整道菜活起來，清胃又開胃!\n\n自家製蟹肉餅\n外表炸成均勻的金黃色，薄脆的麵衣輕輕一咬就開，裡面幾乎全是紮實的蟹肉絲，每一口都吃得到海鮮的天然甜味。沾上附上的檸檬蛋黃醬後，酸度把鮮味再推高一層，吃完還想再來一件，絕對是整晚最令人回味的菜式之一。\n\n天婦羅蝦＋野菜天婦羅——麵衣輕薄酥脆，蝦肉紮實彈牙；野菜款款有水準，南瓜甜、秋葵滑、茄子軟，蘸鹽更添層次。\n\n柚子鹽味叉燒拉麵\n湯頭清而濃，柚香突出但不搶戲，低溫叉燒軟嫩脂香，麵條掛湯力強，吃到最後一口依然清爽。\n\n串燒\n牛肉芫荽卷——牛肉軟嫩多汁，芫荽量足，燒烤香氣與草香交織。\n茗荷豚肉燒——豚肉油香豐腴，配上茗荷獨特的清香，兩者互補，風味新鮮。\n\n芥末鰈魚鰭邊\n好新鮮，入口即化，芥末輕輕一帶，提鮮不嗆。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sunsum9806",
+          "uri": "https://www.google.com/maps/contrib/112119256866209670928/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQSqTTeG7PkXtTki01BIYWhKnyZxmNjGWH9S44kIPXLWO40ko=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-09-01T03:41:55.807791921Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOdUxVcHZia1JvUjB4aE1HWnRibXRUYTNOVlIwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOdUxVcHZia1JvUjB4aE1HWnRibXRUYTNOVlIwRRAB!2m1!1s0x3404010f18a2d97f:0x3b872184d54028de"
+      },
+      {
+        "name": "places/ChIJf9miGA8BBDQR3ihA1YQhhzs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pScU5XaFBZWFowTkZacFdHaFVhREJJUkVGd1JsRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今晚去咗食居酒屋 🍶，一坐低就發現佢哋夜晚6點開始到完場有 Happy Hour 買一送一🍻！每人可以4款酒揀2款（Gin Soda、Vodka Soda、Whisky Soda 同 Whisky Oolong Tea），配串燒同刺身真係一流 🍸\n\n前菜嘅炸蛋白松露油吞拿魚薯仔沙律 🥗 已經好開胃，松露味好香！加埋一齊食又幾夾🥹👍🏻\n\n重頭戲刺身一定要叫腦天刺身🐟呢個係吞拿魚額頭位置，係最多油花，最香濃嘅部分，基本上入口就融化！配埋舊大件夾抵食嘅刺身太卷 🍣，一開頭就食得好滿足\n\n炸物同串燒都好正 🍢唐揚魷魚足 🦑 炸得脆口又有咬口🫡\n\n豚肉蘆荀卷 🥓 食落好爽口清甜😭 墨魚香腸同爽脆嘅九州產雞橫隔膜 🐔 炒得好香👍🏻 幾鍾意墨魚香腸，口感好得意，好香口🙈\n\n仲有份量好足嘅雜錦天婦羅 🍤皮薄香脆，完全唔會覺得油膩。\n\n最後食埋個熱辣辣嘅雞肉の壽喜鍋 🍲甜甜地嘅湯底配埋滑嫩嘅雞肉，食完個人暖晒 💫",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今晚去咗食居酒屋 🍶，一坐低就發現佢哋夜晚6點開始到完場有 Happy Hour 買一送一🍻！每人可以4款酒揀2款（Gin Soda、Vodka Soda、Whisky Soda 同 Whisky Oolong Tea），配串燒同刺身真係一流 🍸\n\n前菜嘅炸蛋白松露油吞拿魚薯仔沙律 🥗 已經好開胃，松露味好香！加埋一齊食又幾夾🥹👍🏻\n\n重頭戲刺身一定要叫腦天刺身🐟呢個係吞拿魚額頭位置，係最多油花，最香濃嘅部分，基本上入口就融化！配埋舊大件夾抵食嘅刺身太卷 🍣，一開頭就食得好滿足\n\n炸物同串燒都好正 🍢唐揚魷魚足 🦑 炸得脆口又有咬口🫡\n\n豚肉蘆荀卷 🥓 食落好爽口清甜😭 墨魚香腸同爽脆嘅九州產雞橫隔膜 🐔 炒得好香👍🏻 幾鍾意墨魚香腸，口感好得意，好香口🙈\n\n仲有份量好足嘅雜錦天婦羅 🍤皮薄香脆，完全唔會覺得油膩。\n\n最後食埋個熱辣辣嘅雞肉の壽喜鍋 🍲甜甜地嘅湯底配埋滑嫩嘅雞肉，食完個人暖晒 💫",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eunwoo BB",
+          "uri": "https://www.google.com/maps/contrib/105949053192045925782/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZEyRKHnZ1lBNIezfeS0QhzlqEcKGgx_4lfHeY6M5zcQdSHTI=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-09-02T16:47:21.743406791Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pScU5XaFBZWFowTkZacFdHaFVhREJJUkVGd1JsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pScU5XaFBZWFowTkZacFdHaFVhREJJUkVGd1JsRRAB!2m1!1s0x3404010f18a2d97f:0x3b872184d54028de"
+      },
+      {
+        "name": "places/ChIJf9miGA8BBDQR3ihA1YQhhzs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WeE0zUk5UbkpEY0ZwMU1DMWZXamRKWldwdGVFRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "放工Chill一Chill😎日式居酒屋\n\n環境好有日本地道居酒屋風情！木系裝潢配上暖黃燈光，仲掛滿紅燈籠，氣氛一流。最正係佢哋嘅Happy Hour買一送一，Vodka Soda超抵飲，放工嚟「隊」返幾杯絕對係最佳享受！\n\n🥢 炸蛋白松露油吞拿魚薯仔沙律（$88）\n居酒屋經典前菜！炸蛋白外層酥脆，中間係流心蛋，切開蛋液流出超誘人。松露油香氣恰到好處，配搭薯仔沙律同新鮮吞拿魚，口感層次超豐富！\n\n🥢 蟹肉三文魚籽菠菜塔\n店員推介嘅前菜！鮮甜蟹肉配上鹹香爆汁嘅三文魚籽，底下墊住爽脆菠菜塔，口感分明又清新，賣相精緻，木魚絲仲會隨風擺動！\n\n🥢 鴨肝串燒\n油脂豐富，燒得外脆內嫩，入口即溶嘅甘香真係冇得輸！\n\n🥢 大葱串燒\n大葱燒得焦香，清甜多汁，簡單但好味。\n\n🥢 稻草燒鯖魚（$158）\n必點！師傅即場用日本稻草燒鯖魚，稻草香氣完全滲入魚肉，燒烤火候恰到好處，魚肉juicy嫩滑，煙燻味持久，層次超豐富！\n\n🥢 炸吉列蠔（四件）\n金黃酥脆外殼包住嫩滑蠔肉，咬開鮮甜爆發，佐酒一流！\n\n🥢 【鴨喜】鴨胸鹽味拉麵\n鴨胸薄切嫩滑，鹽味湯底清甜唔油膩，拉麵彈牙，暖胃之選。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "放工Chill一Chill😎日式居酒屋\n\n環境好有日本地道居酒屋風情！木系裝潢配上暖黃燈光，仲掛滿紅燈籠，氣氛一流。最正係佢哋嘅Happy Hour買一送一，Vodka Soda超抵飲，放工嚟「隊」返幾杯絕對係最佳享受！\n\n🥢 炸蛋白松露油吞拿魚薯仔沙律（$88）\n居酒屋經典前菜！炸蛋白外層酥脆，中間係流心蛋，切開蛋液流出超誘人。松露油香氣恰到好處，配搭薯仔沙律同新鮮吞拿魚，口感層次超豐富！\n\n🥢 蟹肉三文魚籽菠菜塔\n店員推介嘅前菜！鮮甜蟹肉配上鹹香爆汁嘅三文魚籽，底下墊住爽脆菠菜塔，口感分明又清新，賣相精緻，木魚絲仲會隨風擺動！\n\n🥢 鴨肝串燒\n油脂豐富，燒得外脆內嫩，入口即溶嘅甘香真係冇得輸！\n\n🥢 大葱串燒\n大葱燒得焦香，清甜多汁，簡單但好味。\n\n🥢 稻草燒鯖魚（$158）\n必點！師傅即場用日本稻草燒鯖魚，稻草香氣完全滲入魚肉，燒烤火候恰到好處，魚肉juicy嫩滑，煙燻味持久，層次超豐富！\n\n🥢 炸吉列蠔（四件）\n金黃酥脆外殼包住嫩滑蠔肉，咬開鮮甜爆發，佐酒一流！\n\n🥢 【鴨喜】鴨胸鹽味拉麵\n鴨胸薄切嫩滑，鹽味湯底清甜唔油膩，拉麵彈牙，暖胃之選。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wong Aster",
+          "uri": "https://www.google.com/maps/contrib/106270510050451104869/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhCqTMdOuZBSDQr5tpIaz6i40jDEAlItTeyb4XytyJOQYY8mrQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-24T16:25:47.543684709Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WeE0zUk5UbkpEY0ZwMU1DMWZXamRKWldwdGVFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WeE0zUk5UbkpEY0ZwMU1DMWZXamRKWldwdGVFRRAB!2m1!1s0x3404010f18a2d97f:0x3b872184d54028de"
+      },
+      {
+        "name": "places/ChIJf9miGA8BBDQR3ihA1YQhhzs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kNWVqUXhaRU5JWDBGeGJHSjNNWFZ2YzJJeVJVRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "天后清風街一帶向來係隱世居酒屋嘅聚腳地，今次去到「酒屋一杯喜」，環境溫馨充滿日式酒場氛圍，不單止串燒同炸物有水準，連Happy Hour同小食細節都驚喜十足😎\n\n✨Happy Hour 優惠\nHappy Hour 有四款指定酒類買一送一，CP 值極高。不過要留意店家規則係「一人要獨享兩杯」，優惠唔可以同同行朋友 share，啱晒想認真鬆一鬆、暢飲一番嘅朋友🤩\n\n✨辣味吞拿魚蓉卷\n吞拿魚蓉打得綿密無比，伴隨微辣嘅口味，最特別係裡面加咗脆脆地嘅口感（好似天婦羅脆粒咁），外軟內脆，每一口都有雙重口感衝擊，食落層次非常豐富👍\n\n✨烏魚籽碎左口魚邊茶漬飯\n呢道茶漬飯嘅精髓全喺個湯底！湯頭鮮甜無比、極具深度，炙燒過嘅左口魚邊油脂融化喺熱湯入面，再配埋烏魚籽嘅鹹香，一碗落肚暖胃又滋味，絕對係必點嘅完美結尾🤩\n\n✨胸三角軟骨\n火候控制得剛剛好，外層微焦，咬落去爽脆又有口感，下酒一流。\n\n✨鴨肝\n表面炙燒到金黃香口，入口即化，油脂香氣喺嘴裏面爆發，完全無腥味。\n\n✨秋葵\n簡單鹽燒保留咗原汁原味，清爽解膩，平衡返其他肉類嘅重口味。\n\n✨唐揚魷魚鬚\n炸漿薄而酥脆，魷魚鬚依然保持彈牙，配啤酒簡直係絕配。\n\n✨蟹肉三文魚籽菠菜塔\n賣相精緻，鮮甜嘅蟹肉加上三文魚籽，配合底層清爽嘅菠菜，口感層次極之豐富。\n\n✨限定の銀鱈魚（2pc）\n油脂豐富且肉質嫩滑，魚皮燒得香口，微甜嘅醬汁完美提鮮。\n\n✨黑豚沖繩苦瓜炒蛋\n非常有琉球風味嘅家常菜，苦瓜爽脆甘甜，豬肉同滑蛋嘅香氣完美融合，非常開胃。\n\n整體而言，食物品質高且細節滿分，無論係酒類優惠定係特色小食都做得好用心，係天后值得多次回訪嘅優質居酒屋👏",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "天后清風街一帶向來係隱世居酒屋嘅聚腳地，今次去到「酒屋一杯喜」，環境溫馨充滿日式酒場氛圍，不單止串燒同炸物有水準，連Happy Hour同小食細節都驚喜十足😎\n\n✨Happy Hour 優惠\nHappy Hour 有四款指定酒類買一送一，CP 值極高。不過要留意店家規則係「一人要獨享兩杯」，優惠唔可以同同行朋友 share，啱晒想認真鬆一鬆、暢飲一番嘅朋友🤩\n\n✨辣味吞拿魚蓉卷\n吞拿魚蓉打得綿密無比，伴隨微辣嘅口味，最特別係裡面加咗脆脆地嘅口感（好似天婦羅脆粒咁），外軟內脆，每一口都有雙重口感衝擊，食落層次非常豐富👍\n\n✨烏魚籽碎左口魚邊茶漬飯\n呢道茶漬飯嘅精髓全喺個湯底！湯頭鮮甜無比、極具深度，炙燒過嘅左口魚邊油脂融化喺熱湯入面，再配埋烏魚籽嘅鹹香，一碗落肚暖胃又滋味，絕對係必點嘅完美結尾🤩\n\n✨胸三角軟骨\n火候控制得剛剛好，外層微焦，咬落去爽脆又有口感，下酒一流。\n\n✨鴨肝\n表面炙燒到金黃香口，入口即化，油脂香氣喺嘴裏面爆發，完全無腥味。\n\n✨秋葵\n簡單鹽燒保留咗原汁原味，清爽解膩，平衡返其他肉類嘅重口味。\n\n✨唐揚魷魚鬚\n炸漿薄而酥脆，魷魚鬚依然保持彈牙，配啤酒簡直係絕配。\n\n✨蟹肉三文魚籽菠菜塔\n賣相精緻，鮮甜嘅蟹肉加上三文魚籽，配合底層清爽嘅菠菜，口感層次極之豐富。\n\n✨限定の銀鱈魚（2pc）\n油脂豐富且肉質嫩滑，魚皮燒得香口，微甜嘅醬汁完美提鮮。\n\n✨黑豚沖繩苦瓜炒蛋\n非常有琉球風味嘅家常菜，苦瓜爽脆甘甜，豬肉同滑蛋嘅香氣完美融合，非常開胃。\n\n整體而言，食物品質高且細節滿分，無論係酒類優惠定係特色小食都做得好用心，係天后值得多次回訪嘅優質居酒屋👏",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lulu Bubu",
+          "uri": "https://www.google.com/maps/contrib/114504317841163366793/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKCwCnE1Xb1_bVCN46sMEobbLDvRBmEiMLtgOEQMB5lMD-eA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-26T07:33:49.381084782Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kNWVqUXhaRU5JWDBGeGJHSjNNWFZ2YzJJeVJVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kNWVqUXhaRU5JWDBGeGJHSjNNWFZ2YzJJeVJVRRAB!2m1!1s0x3404010f18a2d97f:0x3b872184d54028de"
+      },
+      {
+        "name": "places/ChIJf9miGA8BBDQR3ihA1YQhhzs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOU1ZqaFFWWFV3VFdGTFl6VlhhMUk1UVRnNU5GRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "早前特別走到天后清風街，發掘了一間相當低調的隱世居酒屋。店舖位置不算當眼，店內氣氛卻非常舒服，帶有濃厚日式居酒屋風情，適合三五知己慢慢坐低飲杯酒、食幾味，享受一個悠閒晚上。\n今次品嚐的每一道菜都令人留下深刻印象，整體水準非常穩定，幾乎沒有任何失望位。串燒火候掌握得恰到好處，肉質嫩滑，表面帶有微微焦香，油脂香氣十足。配上燒得香甜的葡萄，更添清新果香，口感十分特別。\n刺身方面亦相當出色，魚身新鮮，質感細緻，入口鮮甜；炙燒鰹魚外層帶有淡淡煙燻香，中心仍然保持柔嫩，配上紫蘇、花朵及柑橘，味道層次更豐富。炸蠶蛹香脆惹味，配檸檬食用，鹹香之中帶點酸爽，越食越涮嘴。\n另外，牛油果天婦羅壽司外脆內軟，配上沙律醬後十分邪惡；蔬菜天婦羅則炸得輕盈，沒有過分油膩。大阪燒表面鋪滿木魚花及醬汁，香氣撲鼻，口感豐富。最後的炒飯粒粒分明，鑊氣十足，作為收尾非常滿足。\n整晚每一款單品都超級出色，無論味道、火候還是擺盤都看得出店家的心思。這是一間值得收藏的居酒屋，下次來到天后，絕對會再訪。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "早前特別走到天后清風街，發掘了一間相當低調的隱世居酒屋。店舖位置不算當眼，店內氣氛卻非常舒服，帶有濃厚日式居酒屋風情，適合三五知己慢慢坐低飲杯酒、食幾味，享受一個悠閒晚上。\n今次品嚐的每一道菜都令人留下深刻印象，整體水準非常穩定，幾乎沒有任何失望位。串燒火候掌握得恰到好處，肉質嫩滑，表面帶有微微焦香，油脂香氣十足。配上燒得香甜的葡萄，更添清新果香，口感十分特別。\n刺身方面亦相當出色，魚身新鮮，質感細緻，入口鮮甜；炙燒鰹魚外層帶有淡淡煙燻香，中心仍然保持柔嫩，配上紫蘇、花朵及柑橘，味道層次更豐富。炸蠶蛹香脆惹味，配檸檬食用，鹹香之中帶點酸爽，越食越涮嘴。\n另外，牛油果天婦羅壽司外脆內軟，配上沙律醬後十分邪惡；蔬菜天婦羅則炸得輕盈，沒有過分油膩。大阪燒表面鋪滿木魚花及醬汁，香氣撲鼻，口感豐富。最後的炒飯粒粒分明，鑊氣十足，作為收尾非常滿足。\n整晚每一款單品都超級出色，無論味道、火候還是擺盤都看得出店家的心思。這是一間值得收藏的居酒屋，下次來到天后，絕對會再訪。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lamlam_monster",
+          "uri": "https://www.google.com/maps/contrib/117137404176459856133/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZw9u28k54CLQTIG7ZaaYxrf5ewNYqNN7TPtCggzaCSKVrK7TO=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-15T15:04:41.029540319Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOU1ZqaFFWWFV3VFdGTFl6VlhhMUk1UVRnNU5GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOU1ZqaFFWWFV3VFdGTFl6VlhhMUk1UVRnNU5GRRAB!2m1!1s0x3404010f18a2d97f:0x3b872184d54028de"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010f18a2d97f:0x3b872184d54028de!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4289434024490838238&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010f18a2d97f:0x3b872184d54028de!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010f18a2d97f:0x3b872184d54028de!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010f18a2d97f:0x3b872184d54028de!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJf9miGA8BBDQR3ihA1YQhhzs/photos/Aa-ngMa6fezWhp_9tN8Te-xU1qkuChWHGdGZy5YLLJRup3yJo20hGltrsrOHauO0YWyryYqPp6mRktfy8mePqDRC6TYNQCASbtNmgQZWybN6OZfzCN3YgYq9lEW-dJYh2-EwJcIU_aAorYNehs4dsfv1ZhpCwPVchjVHIGBHeiOLSzWdBcUk7v7EMCltRTI2D3aE4hrFnn1YWHORgco9ipxGZHa4P313thrQYjca1JEJg3DBFPYaevlijRQfBk9c9TP1DvAM5pWD5tkc7Ok7imAiAdXV9NTXwTGF6WUTOF6AcoQpnGUssHsiIQwPTjwHT41RpPyhv-KU-Qey2vD4HiiRjd3dqwLnCJYetiP7fWN2YCf4TTxlnB_jOFXQowxM815A-odPS1iOANZyQhfSiUDYT0kIAAA",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "酒屋一杯喜",
+          "uri": "https://maps.google.com/maps/contrib/109635431481773412137",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHeyuvv0qAdWwvHekfy1BnniFaVvDxkvdktXLvbiNAiZuzLEcZ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJvprpTw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJvprpTw!2e10!4m2!3m1!1s0x3404010f18a2d97f:0x3b872184d54028de"
+    },
+    "local_path": "photos/ChIJf9miGA8BBDQR3ihA1YQhhzs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdo144Dg_9gs-gG9oMAcWeZb7g_6B37-IhSWhfP9f91VQtpWMUbluDIAZC4XrflD1s6uDkO4yqmbeCPa8qXxSYAgRtY7mOBPeh4gJZ2G9xr1bQyO1fx24lQ1gwnajv4sUYeX3c8=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 102939
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

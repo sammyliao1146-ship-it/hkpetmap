@@ -1,0 +1,406 @@
+{
+  "google_place_id": "ChIJ6SY2_l_xAzQR42w0DFZF91g",
+  "restaurant_ids": [
+    "restaurant:2294805659"
+  ],
+  "fetched_at": "2026-10-23T15:37:43.053590+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ6SY2_l_xAzQR42w0DFZF91g",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6531 1987",
+    "internationalPhoneNumber": "+852 6531 1987",
+    "formattedAddress": "香港新界元朗青山公路－元朗段1號地下7號鋪",
+    "location": {
+      "latitude": 22.444730699999997,
+      "longitude": 114.0318435
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=6410668830459456739&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/1987plusyl",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 22:00",
+        "星期二: 12:00 – 15:00, 18:00 – 22:00",
+        "星期三: 12:00 – 15:00, 18:00 – 22:00",
+        "星期四: 12:00 – 15:00, 18:00 – 22:00",
+        "星期五: 12:00 – 15:00, 18:00 – 22:00",
+        "星期六: 12:30 – 15:30, 18:00 – 22:00",
+        "星期日: 12:30 – 15:30, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 191,
+    "displayName": {
+      "text": "1987 Plus",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ6SY2_l_xAzQR42w0DFZF91g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4b1IwMXhaMHRVT1hCc1drWldORzVDUW1aYVlWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 3,
+        "text": {
+          "text": "普通🙂‍↕️\n茜餐（$188）：最好食係個荽茜湯，有粟米甜味又有茜味，貝殼粉質地可以軟身啲，希望可以轉第二隻意粉，蜆肉冇沙幾好，最差係炸魚，同茶記炸魚一樣，冇咩茜\n豬胺（$168）：肉好軟熟，但冇咩調味，想落鹽調味，個醬酸酸地，同個豬唔夾\n鵝肝（$108）：似中式潤咁，質地好散，麻麻地",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "普通🙂‍↕️\n茜餐（$188）：最好食係個荽茜湯，有粟米甜味又有茜味，貝殼粉質地可以軟身啲，希望可以轉第二隻意粉，蜆肉冇沙幾好，最差係炸魚，同茶記炸魚一樣，冇咩茜\n豬胺（$168）：肉好軟熟，但冇咩調味，想落鹽調味，個醬酸酸地，同個豬唔夾\n鵝肝（$108）：似中式潤咁，質地好散，麻麻地",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wing",
+          "uri": "https://www.google.com/maps/contrib/102324837701009102689/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0jOtSKjkIII9_Y75jwIZWyD5osT-k8TMro2rOASqCieIU6jO6=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-01T14:12:57.705969577Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4b1IwMXhaMHRVT1hCc1drWldORzVDUW1aYVlWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4b1IwMXhaMHRVT1hCc1drWldORzVDUW1aYVlWRRAB!2m1!1s0x3403f15ffe3626e9:0x58f745560c346ce3"
+      },
+      {
+        "name": "places/ChIJ6SY2_l_xAzQR42w0DFZF91g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGWFZWSTFjbWxMVGpoWlNrRmlkVm95VEVOd1FuYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 1,
+        "text": {
+          "text": "去過幾次今次極度失望\n豬同牛都rest到乾曬/煮到乾曬\n蜆差過以前極多\n\n最致命係熱 熱過街邊 開曬風扇都係熱 聲稱今日係咁 極度傷害用餐體驗 唔會再俾機會佢。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "去過幾次今次極度失望\n豬同牛都rest到乾曬/煮到乾曬\n蜆差過以前極多\n\n最致命係熱 熱過街邊 開曬風扇都係熱 聲稱今日係咁 極度傷害用餐體驗 唔會再俾機會佢。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Casey LAI",
+          "uri": "https://www.google.com/maps/contrib/101149674810624111158/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG-2ebTMUCF9LmWHZQC4kIuo7kNrofKug8s7j29E5UMoo5PyO6=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-24T14:03:33.239155179Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGWFZWSTFjbWxMVGpoWlNrRmlkVm95VEVOd1FuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGWFZWSTFjbWxMVGpoWlNrRmlkVm95VEVOd1FuYxAB!2m1!1s0x3403f15ffe3626e9:0x58f745560c346ce3"
+      },
+      {
+        "name": "places/ChIJ6SY2_l_xAzQR42w0DFZF91g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGSlRXazRTbkJ1Y0RsalNuQkhWV1JaWm5kd2FuYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 2,
+        "text": {
+          "text": "有期望，所以失望\n沙律菜 新鮮度...要再加油\nchurro 炸耐啲 會正常啲\n牛扒剛上 熱度未如理想\n蔬菜只係白烚 🫣\n\n以128 +10% 可有更好的選擇",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有期望，所以失望\n沙律菜 新鮮度...要再加油\nchurro 炸耐啲 會正常啲\n牛扒剛上 熱度未如理想\n蔬菜只係白烚 🫣\n\n以128 +10% 可有更好的選擇",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yoyo Yip",
+          "uri": "https://www.google.com/maps/contrib/107664331148596109398/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAbxYJ0_59mV8I0EQnjPIqMt_sbXcEvPmG5_f79STXyiZ-2Nqs=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-21T05:28:46.523531989Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGSlRXazRTbkJ1Y0RsalNuQkhWV1JaWm5kd2FuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGSlRXazRTbkJ1Y0RsalNuQkhWV1JaWm5kd2FuYxAB!2m1!1s0x3403f15ffe3626e9:0x58f745560c346ce3"
+      },
+      {
+        "name": "places/ChIJ6SY2_l_xAzQR42w0DFZF91g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0SlMwWTNlREpoZVhVd1ZVNVZWblpsUjNKa1kxRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "性比價高既餐廳\n呢個價錢黎講好滿意 份量足 好食\n餐湯同麵包唔錯\n牛肉有烤過既香 全熟都好食 配菜調味適中 平衡返個牛\n意大利飯夠濃足料 兩個人share剛好\n老闆見我大肚 幫我改左前菜 好細心\n下次再試其他菜式👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "性比價高既餐廳\n呢個價錢黎講好滿意 份量足 好食\n餐湯同麵包唔錯\n牛肉有烤過既香 全熟都好食 配菜調味適中 平衡返個牛\n意大利飯夠濃足料 兩個人share剛好\n老闆見我大肚 幫我改左前菜 好細心\n下次再試其他菜式👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Vicky",
+          "uri": "https://www.google.com/maps/contrib/116970654047617262585/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJp2Ix7RAMgmNrj6PPCt3mM60Y8iq8w1RhR-uehHkisJNM_5tU=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-30T15:15:10.925525718Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0SlMwWTNlREpoZVhVd1ZVNVZWblpsUjNKa1kxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0SlMwWTNlREpoZVhVd1ZVNVZWblpsUjNKa1kxRRAB!2m1!1s0x3403f15ffe3626e9:0x58f745560c346ce3"
+      },
+      {
+        "name": "places/ChIJ6SY2_l_xAzQR42w0DFZF91g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGcWFrOVFlbUZmVG1veWVYVlZkVkJ0TTNjMWJFRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "服務非常好，好kids friendly。\n老細送左果汁同頭盤比我個女。知我媽咪生日仲寫左happy birthday係甜品上，又送左張即影即有比我地。\n野食方面，好欣賞個carbonara (老細問定如果小朋友都食就唔落生雞蛋，非常細心)，但一樣好食，豬鞍都係好香肉味同好嫩滑，海鮮拼盤都好鮮甜，蝦肉結實。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務非常好，好kids friendly。\n老細送左果汁同頭盤比我個女。知我媽咪生日仲寫左happy birthday係甜品上，又送左張即影即有比我地。\n野食方面，好欣賞個carbonara (老細問定如果小朋友都食就唔落生雞蛋，非常細心)，但一樣好食，豬鞍都係好香肉味同好嫩滑，海鮮拼盤都好鮮甜，蝦肉結實。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dolly Ip",
+          "uri": "https://www.google.com/maps/contrib/117980906534599080008/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL8BGz14RBWOSN4OVDDUxAFKHBdbrCfbLCyYMRbZ0u2aFWB7w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-23T16:11:33.576286538Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGcWFrOVFlbUZmVG1veWVYVlZkVkJ0TTNjMWJFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGcWFrOVFlbUZmVG1veWVYVlZkVkJ0TTNjMWJFRRAB!2m1!1s0x3403f15ffe3626e9:0x58f745560c346ce3"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f15ffe3626e9:0x58f745560c346ce3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6410668830459456739&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f15ffe3626e9:0x58f745560c346ce3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f15ffe3626e9:0x58f745560c346ce3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f15ffe3626e9:0x58f745560c346ce3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ6SY2_l_xAzQR42w0DFZF91g/photos/Aa-ngMZtUgXhgKtG6e122gEmIg_8hmF8bWAsAtt_JznZleNxJRkpKugR6LPTq-F59y0_tweTSZ6j9jZjBDgJbJ1_iU0-NYnclmT0C9Js-_6TGxxtCJmc3Z9R7MonLd9LLKqlKlEYSDfObz5xJbB2_i3Zg72qxf8LXHI2IExzkNvpmjMMVCVlcPim-id6KB0E674Um-uN_TWpKPFpOZ2mdH7Fkb0k0DTX8ClFNGrUPwCgpm5vJzX6mW53Rf5uxGRVd1lkEtUALzVQ84Xwp7eVofqtOQEQO-9hkvzZkM9m1rOQqiW58tKWl5Ekbc-xv5tzrV-Psahlgcc-UwfG8_qQgWHv6R7eXp62OFGwj9-laQhIDeEaM82HdQBuZCMeT7CkGTXuf_55Uw7karAeMvWneCZOxqsAwfaLu3k",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Chan Kurtis",
+          "uri": "https://maps.google.com/maps/contrib/115055663823873995936",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAXct7fi5eQz8w-go4ZhdVhOWXG6yv4hkYzAc5n72CBBfgcIlROQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCg9vG-zgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg9vG-zgE!2e10!4m2!3m1!1s0x3403f15ffe3626e9:0x58f745560c346ce3"
+    },
+    "local_path": "photos/ChIJ6SY2_l_xAzQR42w0DFZF91g.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjhUi12VePbB-hBQca8iZ_dlPj2wdNPwddB2bCKJJiKVj84XIOIeZav6gbB8mb32LIcHsVHkwZnIebtDVYilANJtXHimhXHRMs20RyLbeswgm9aZYdtl73bKyBgMCou1ty8lOuag=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 333668
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

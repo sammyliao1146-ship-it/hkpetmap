@@ -1,0 +1,331 @@
+{
+  "google_place_id": "ChIJT0nwgCkBBDQRvodBbYqX4xw",
+  "restaurant_ids": [
+    "restaurant:2212820551"
+  ],
+  "fetched_at": "2026-10-23T15:50:40.192220+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJT0nwgCkBBDQRvodBbYqX4xw",
+    "types": [
+      "bakery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2386 8933",
+    "internationalPhoneNumber": "+852 2386 8933",
+    "formattedAddress": "Shop No. G14 and G15 (Minor Portion), G/F. and Shop No. F15A, 1/F Lee Tung Avenue, 200 Queen's Rd E, Wan Chai, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2750054,
+      "longitude": 114.1720642
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=2081674073569593278&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://thebakerandthebottleman.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 21:00",
+        "星期二: 08:00 – 21:00",
+        "星期三: 08:00 – 21:00",
+        "星期四: 08:00 – 21:00",
+        "星期五: 08:00 – 21:00",
+        "星期六: 08:00 – 21:00",
+        "星期日: 08:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 443,
+    "displayName": {
+      "text": "The Baker & The Bottleman",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "烘焙屋",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "primaryType": "bakery",
+    "reviews": [
+      {
+        "name": "places/ChIJT0nwgCkBBDQRvodBbYqX4xw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wWlduVnZVRGRyYjI1VVgySlViVmhOWkcxeVRWRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "非常有特色的小餐廳, 無論係一個人嚟渡過下膳食時光, 絕對是和知心新好友坐低品嚐分享的最理想陳實餐室, 就算是坐低為一杯咖啡, 同樣完美.💚",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常有特色的小餐廳, 無論係一個人嚟渡過下膳食時光, 絕對是和知心新好友坐低品嚐分享的最理想陳實餐室, 就算是坐低為一杯咖啡, 同樣完美.💚",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sea See",
+          "uri": "https://www.google.com/maps/contrib/104317832547327571444/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJ3OyMfOwTRxoRMKWbkEPVhc4sXa4eoJcRWn64zds26nAHOeE=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-24T07:16:29.325247859Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wWlduVnZVRGRyYjI1VVgySlViVmhOWkcxeVRWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wWlduVnZVRGRyYjI1VVgySlViVmhOWkcxeVRWRRAB!2m1!1s0x3404012980f0494f:0x1ce3978a6d4187be"
+      },
+      {
+        "name": "places/ChIJT0nwgCkBBDQRvodBbYqX4xw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wTVNXZFRhMmhNTVVaME9HZzFiVkpYVG1wYVNWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "兩大兩細去食飯，餐廳侍應好好，安排咗一個角落頭位俾我哋。雞肝多士最surprised，好rich同埋加少少蜜糖減膩，豬頸肉扒水準以下，反而我覺得更加似炸豬扒同埋個汁係日式燒汁加少少honey mustard 。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "兩大兩細去食飯，餐廳侍應好好，安排咗一個角落頭位俾我哋。雞肝多士最surprised，好rich同埋加少少蜜糖減膩，豬頸肉扒水準以下，反而我覺得更加似炸豬扒同埋個汁係日式燒汁加少少honey mustard 。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Leung Gigi",
+          "uri": "https://www.google.com/maps/contrib/110786133936671570793/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLhp_IB-mhyH0muSTnMqTCYwuoxpjB9V1mV-C9R5JuwCpKirK_=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-28T05:14:37.399329136Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wTVNXZFRhMmhNTVVaME9HZzFiVkpYVG1wYVNWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wTVNXZFRhMmhNTVVaME9HZzFiVkpYVG1wYVNWRRAB!2m1!1s0x3404012980f0494f:0x1ce3978a6d4187be"
+      },
+      {
+        "name": "places/ChIJT0nwgCkBBDQRvodBbYqX4xw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sWVFXUnRkMlF5WVVaaWFVTnVSMDlVV2pkWWRVRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "唯一缺點：只有在香港才吃得到🥐 😭\n「離開香港前必吃！想安利給所有來香港的人，這口黑芝麻麻糬真的封神了...」\n\n如果你的香港清單只能留一個位置給麵包，請務必留給灣仔利東街這家 The Baker & The Bottleman！英式百年建築的外殼下，藏著的是英國主廚對香港味道最浪漫的解構\n\n🖤黑芝麻麻糬牛角包\n這絕對是店內的 C位擔當！外皮是正宗英式酥皮，咬下去嘎嘣脆，但內核卻藏著香港街頭最親切的靈魂：\n✿ Q彈麻糬：裡面裹著超級軟韌、Q彈到不行的麻糬\n✿ 濃郁爆漿：滿滿的黑芝麻餡料，香氣濃郁而不甜膩\n✿ 層次豐富：表面還有一層黑芝麻忌廉，口感疊加到極致，每一口都是文化碰撞的驚喜！\n\n🍛日式咖喱雞牛角酥\n鹹口派必衝這款牛角酥✨將日式咖喱的溫潤完美揉進西式酥皮裡，鹹香適口，是那種「第一次吃到」就會驚艷的稀缺口味🥹\n\n🍵抹茶泡芙牛角包： 像泡芙一樣輕盈的抹茶牛角包，口感層次極高，抹茶控一秒淪陷！\n\n🍪除了最受歡迎的牛角包，現在還有很多鹹甜款式麵包選擇，曲奇也是我的最愛，配一杯咖啡： 坐在英式建築外，吹著風，這才是香港旅行最正確的打開方式💓\n\n這裡不只是麵包店，更像是一場英式烘焙技藝與東方靈魂的碰撞實驗。離開香港前，一定要來帶走這份「港味驚喜」🥰\n\n▪️The Baker & The Bottleman\n📍 灣仔皇后⼤道東200號利東街地下及1樓G14 & G15號舖\n\n#⾹港TBTB #TBTB #TheBakerTheBottleman #湾仔⾯包 #⾹港⾯包 #⾹港英式⾯包 #可爱⾯包 #⾹港⽜⾓包",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "唯一缺點：只有在香港才吃得到🥐 😭\n「離開香港前必吃！想安利給所有來香港的人，這口黑芝麻麻糬真的封神了...」\n\n如果你的香港清單只能留一個位置給麵包，請務必留給灣仔利東街這家 The Baker & The Bottleman！英式百年建築的外殼下，藏著的是英國主廚對香港味道最浪漫的解構\n\n🖤黑芝麻麻糬牛角包\n這絕對是店內的 C位擔當！外皮是正宗英式酥皮，咬下去嘎嘣脆，但內核卻藏著香港街頭最親切的靈魂：\n✿ Q彈麻糬：裡面裹著超級軟韌、Q彈到不行的麻糬\n✿ 濃郁爆漿：滿滿的黑芝麻餡料，香氣濃郁而不甜膩\n✿ 層次豐富：表面還有一層黑芝麻忌廉，口感疊加到極致，每一口都是文化碰撞的驚喜！\n\n🍛日式咖喱雞牛角酥\n鹹口派必衝這款牛角酥✨將日式咖喱的溫潤完美揉進西式酥皮裡，鹹香適口，是那種「第一次吃到」就會驚艷的稀缺口味🥹\n\n🍵抹茶泡芙牛角包： 像泡芙一樣輕盈的抹茶牛角包，口感層次極高，抹茶控一秒淪陷！\n\n🍪除了最受歡迎的牛角包，現在還有很多鹹甜款式麵包選擇，曲奇也是我的最愛，配一杯咖啡： 坐在英式建築外，吹著風，這才是香港旅行最正確的打開方式💓\n\n這裡不只是麵包店，更像是一場英式烘焙技藝與東方靈魂的碰撞實驗。離開香港前，一定要來帶走這份「港味驚喜」🥰\n\n▪️The Baker & The Bottleman\n📍 灣仔皇后⼤道東200號利東街地下及1樓G14 & G15號舖\n\n#⾹港TBTB #TBTB #TheBakerTheBottleman #湾仔⾯包 #⾹港⾯包 #⾹港英式⾯包 #可爱⾯包 #⾹港⽜⾓包",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Isabel Ng",
+          "uri": "https://www.google.com/maps/contrib/107621097818068349676/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNwKJWzrYkdWLG5dl43gvdF7XVz9PTppjqLxsvrNXtXXr-C0xy=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-31T04:36:28.242985940Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sWVFXUnRkMlF5WVVaaWFVTnVSMDlVV2pkWWRVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sWVFXUnRkMlF5WVVaaWFVTnVSMDlVV2pkWWRVRRAB!2m1!1s0x3404012980f0494f:0x1ce3978a6d4187be"
+      },
+      {
+        "name": "places/ChIJT0nwgCkBBDQRvodBbYqX4xw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5cE1UUmZOR1ZsTkVkcU9YSkJjMFZCWnpaSFNuYxAB",
+        "relativePublishTimeDescription": "12 個月前",
+        "rating": 1,
+        "text": {
+          "text": "The food is just on average and the service is poor . They ruined my day so\nI don’t recommend this restaurant\n\n食物沒有太大記憶點\n我唯一推薦的：\n安格斯牛腹肉配炭烤紫葱及骨髓酱汁、自家制羽衣甘藍扁意粉、烤番茄濃湯配意式香草麵包\n\n炸魚漢堡雖然很厚但有魚腥味，看你能不能接受\n凍咖啡沒有味道\n——\n\n整體來說CP值很低，花這個價錢吃精緻小菜+他們態度十分差🙂\n穿黑色外套的店員跟其中一個高個子戴眼鏡的男店員態度十分差，\n但觀察到他對其他人（用英文溝通的人）的態度是不同的🙂\nLast Oder 我請他等我一下（當時2:20）\n店員馬上變臉耶😍\n這個店員放好菜後轉身竟然在唉聲嘆氣😍\n請問是在不爽什麼？\n\n而且同行的朋友去了一樓問店員\n「請問要買一樓的蛋糕咖啡的話，需要自己拿上來還是跟你們說一聲就可以？」 😍他竟然回答不知道，但我朋友買完以後他再反問我友人「你們在2樓用餐需要加一欸」 😍🙏\n\n完全不想多逗留\n如果你不介意態度毁掉你一天的心情的話\n其實可以一試！但我必須說這個價格絕對可以選擇其他更高質素更好服務的餐廳\n我就不再回訪了🙏\n這個體驗我給6顆星，給你多出來的那一顆",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "The food is just on average and the service is poor . They ruined my day so\nI don’t recommend this restaurant\n\n食物沒有太大記憶點\n我唯一推薦的：\n安格斯牛腹肉配炭烤紫葱及骨髓酱汁、自家制羽衣甘藍扁意粉、烤番茄濃湯配意式香草麵包\n\n炸魚漢堡雖然很厚但有魚腥味，看你能不能接受\n凍咖啡沒有味道\n——\n\n整體來說CP值很低，花這個價錢吃精緻小菜+他們態度十分差🙂\n穿黑色外套的店員跟其中一個高個子戴眼鏡的男店員態度十分差，\n但觀察到他對其他人（用英文溝通的人）的態度是不同的🙂\nLast Oder 我請他等我一下（當時2:20）\n店員馬上變臉耶😍\n這個店員放好菜後轉身竟然在唉聲嘆氣😍\n請問是在不爽什麼？\n\n而且同行的朋友去了一樓問店員\n「請問要買一樓的蛋糕咖啡的話，需要自己拿上來還是跟你們說一聲就可以？」 😍他竟然回答不知道，但我朋友買完以後他再反問我友人「你們在2樓用餐需要加一欸」 😍🙏\n\n完全不想多逗留\n如果你不介意態度毁掉你一天的心情的話\n其實可以一試！但我必須說這個價格絕對可以選擇其他更高質素更好服務的餐廳\n我就不再回訪了🙏\n這個體驗我給6顆星，給你多出來的那一顆",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chris Wong (Hey)",
+          "uri": "https://www.google.com/maps/contrib/110934734378637910363/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwBKBaTFQ99ylkTaHOaUgfFZ-BddBe97-nZYimFVyrM02pbt_X=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-10-27T05:08:42.457512907Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5cE1UUmZOR1ZsTkVkcU9YSkJjMFZCWnpaSFNuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5cE1UUmZOR1ZsTkVkcU9YSkJjMFZCWnpaSFNuYxAB!2m1!1s0x3404012980f0494f:0x1ce3978a6d4187be"
+      },
+      {
+        "name": "places/ChIJT0nwgCkBBDQRvodBbYqX4xw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Rd1EwZzNjMFphTTBZeVdtNXNRMVJQYmxsaFFWRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "最近去了 The Baker & The Bottleman 試個Lunch set\n\n環境舒服，有一樓，空間感十足\n超值驚喜體驗！😍\n\n蘇格蘭鵪鶉蛋配台灣雲呢拿布冧蓉\n呢個必吃，鵪鶉蛋外脆軟嫩，入口有小驚喜，因為外面危卜卜搭配雲呢拿布冧蓉的微甜和果香😋 正\n\n番茄香辣豬肉醬與鯷魚多士，豬肉醬帶點微辣，配上鯷魚的鹹香和酥脆多士，鍾意食北歐鯷魚個風味會啱食\n\n主菜蜜汁牛肋排配迷迭香粟米糊與芥蘭\n牛肋排烤得好嫩，蜜汁甜而不膩，迷迭香粟米糊順滑，芥蘭的清爽口感好平衡，滿足！🍖\n\n份量和味道都ok，有CP值！主要係環境夠chill\n\n*焦糖布甸幾好\n落樓下bakery 個芒果danish 好食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最近去了 The Baker & The Bottleman 試個Lunch set\n\n環境舒服，有一樓，空間感十足\n超值驚喜體驗！😍\n\n蘇格蘭鵪鶉蛋配台灣雲呢拿布冧蓉\n呢個必吃，鵪鶉蛋外脆軟嫩，入口有小驚喜，因為外面危卜卜搭配雲呢拿布冧蓉的微甜和果香😋 正\n\n番茄香辣豬肉醬與鯷魚多士，豬肉醬帶點微辣，配上鯷魚的鹹香和酥脆多士，鍾意食北歐鯷魚個風味會啱食\n\n主菜蜜汁牛肋排配迷迭香粟米糊與芥蘭\n牛肋排烤得好嫩，蜜汁甜而不膩，迷迭香粟米糊順滑，芥蘭的清爽口感好平衡，滿足！🍖\n\n份量和味道都ok，有CP值！主要係環境夠chill\n\n*焦糖布甸幾好\n落樓下bakery 個芒果danish 好食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jacky Sit (WanderlustSoul)",
+          "uri": "https://www.google.com/maps/contrib/118090428220863473528/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzcGRlse4iNQZEVxZLlTPRJ646MnedOG5Qn8RCAAnt3U_1c09d=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-07-06T13:25:53.178993156Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Rd1EwZzNjMFphTTBZeVdtNXNRMVJQYmxsaFFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Rd1EwZzNjMFphTTBZeVdtNXNRMVJQYmxsaFFWRRAB!2m1!1s0x3404012980f0494f:0x1ce3978a6d4187be"
+      }
+    ],
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404012980f0494f:0x1ce3978a6d4187be!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2081674073569593278&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012980f0494f:0x1ce3978a6d4187be!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404012980f0494f:0x1ce3978a6d4187be!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012980f0494f:0x1ce3978a6d4187be!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJT0nwgCkBBDQRvodBbYqX4xw/photos/Aa-ngMbyq3mtPz83NLIK0tNoWYFnH4UpCfTPQcMpmgKxBQAiSGz6RDfpG59eZzcUIn0on5If9nVUEShvp5jI6sxf4FE9gj_fP4Fb_RM2QlpZ5UjsZeDJiGP57_YfloJlmSkUVElKv_M4JZoZj7EyHL5rmL2AELky2SF9p4sm0KGk-dJBQDCr3xu1Q60W3G9-S3VYwfz6Pi4NEDMSbhqIEKlAFj1ggdiUxZS6Se193jKvZHbvAjh_qqO00gD7c0LeeVKqQCT5nfcCc75Uz1C-L4b8uQbTuTyvVHwxcfLXDL02BxiOxlXdYorH0GmWHPFu7SsNH6P03nHCw6QVICdDuRmXH8vuXkZkIjn2xsNHFANFpuGao3MNN_C9fMfwwk45Q5cuFkgqUmxAMVDqCGmuWetKy4oMitcg",
+      "widthPx": 3395,
+      "heightPx": 1911,
+      "authorAttributions": [
+        {
+          "displayName": "YS L",
+          "uri": "https://maps.google.com/maps/contrib/106284610908982763557",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKAmMU7TXJcfq44FfbscBDyHWotOYwh14IRBVBG8mVRPOTVKES=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBs5PpiQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBs5PpiQE!2e10!4m2!3m1!1s0x3404012980f0494f:0x1ce3978a6d4187be"
+    },
+    "local_path": "photos/ChIJT0nwgCkBBDQRvodBbYqX4xw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeh8rnJo8cRKYG42SCvCJ1gpJwEXSp9aWXcs5d9q261wA9ECSQAtVJvHjPHkqzcN-qUrIgEeknvRdEkVkVdF3Bz2AMYM3zxVN28AhAYY2yhwOkZnZLgDnmVDK2NXvxIsT19tjbr=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 126346
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://thebakerandthebottleman.hk/menu",
+        "label": "Menu",
+        "source_url": "https://thebakerandthebottleman.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bakery",
+    "label": "烘焙屋",
+    "types": [
+      "bakery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://thebakerandthebottleman.hk/menu"
+}

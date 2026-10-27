@@ -1,0 +1,386 @@
+{
+  "google_place_id": "ChIJX8ayuWgBBDQRgW7rx_a83Ss",
+  "restaurant_ids": [
+    "restaurant:2215803595"
+  ],
+  "fetched_at": "2026-10-23T15:40:45.102218+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJX8ayuWgBBDQRgW7rx_a83Ss",
+    "types": [
+      "fusion_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2633 3860",
+    "internationalPhoneNumber": "+852 2633 3860",
+    "formattedAddress": "Shop LG09 LG/F, southside Mall, 11 Heung Yip Rd, Wong Chuk Hang, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.247355,
+      "longitude": 114.16719339999999
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=3160890281586028161&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.savorhospitalityhk.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 22:00",
+        "星期二: 11:00 – 22:00",
+        "星期三: 11:00 – 22:00",
+        "星期四: 11:00 – 22:00",
+        "星期五: 11:00 – 22:00",
+        "星期六: 11:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 124,
+    "displayName": {
+      "text": "Bivacco",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "各國料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "fusion_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJX8ayuWgBBDQRgW7rx_a83Ss/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwT2FrdGFVbVp5WHpKWU9UZGhTekE0ZW5GelIxRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "食物味道唔錯，墨西哥牛肉薯片出色，但偏貴。 入座後很久才給幾杯水。而且店鋪很多類似蚊子的物體周圍飛。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物味道唔錯，墨西哥牛肉薯片出色，但偏貴。 入座後很久才給幾杯水。而且店鋪很多類似蚊子的物體周圍飛。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dino Wong",
+          "uri": "https://www.google.com/maps/contrib/105580821180864637633/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLjmWEf3exc77h63deZdIthEV6hpxMlEJuS4YmMIted00Gizcc=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-05T13:01:47.325100480Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwT2FrdGFVbVp5WHpKWU9UZGhTekE0ZW5GelIxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwT2FrdGFVbVp5WHpKWU9UZGhTekE0ZW5GelIxRRAB!2m1!1s0x34040168b9b2c65f:0x2bddbcf6c7eb6e81"
+      },
+      {
+        "name": "places/ChIJX8ayuWgBBDQRgW7rx_a83Ss/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2X2RpdmhnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "Bivacco個裝修好有異國風情，音樂同氣氛都好寫意！\n\n開胃菜叫咗佢哋嘅招牌雞翼，最正係佢嘅自家製BBQ醬，十分濃厚香甜惹味！\n\n墨西哥玉米片就真係做得好地道，新鮮嘅莎莎醬，仲有滑滑嘅牛油果同香濃嘅mozarella芝士，層次感十足🤤\n\n最後嗰個Margherita pizza就係意大利經典，價錢相當有驚喜全部都只需$150左右就有大大個pizza😱薄薄嘅餅底烤得香脆，上面鋪滿新鮮蕃茄醬同香濃芝士，仲有陣陣嘅羅勒香，簡單但係好正宗！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Bivacco個裝修好有異國風情，音樂同氣氛都好寫意！\n\n開胃菜叫咗佢哋嘅招牌雞翼，最正係佢嘅自家製BBQ醬，十分濃厚香甜惹味！\n\n墨西哥玉米片就真係做得好地道，新鮮嘅莎莎醬，仲有滑滑嘅牛油果同香濃嘅mozarella芝士，層次感十足🤤\n\n最後嗰個Margherita pizza就係意大利經典，價錢相當有驚喜全部都只需$150左右就有大大個pizza😱薄薄嘅餅底烤得香脆，上面鋪滿新鮮蕃茄醬同香濃芝士，仲有陣陣嘅羅勒香，簡單但係好正宗！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Travelchickhk",
+          "uri": "https://www.google.com/maps/contrib/110978627450587582681/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKf7iMKrJBADFoGztsAJlL37W4GQy5zyvl7x71St3xHPfT8g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-12-23T09:19:10.546678Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2X2RpdmhnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2X2RpdmhnRRAB!2m1!1s0x34040168b9b2c65f:0x2bddbcf6c7eb6e81"
+      },
+      {
+        "name": "places/ChIJX8ayuWgBBDQRgW7rx_a83Ss/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBeGJ2ZjlRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "今天要介紹的餐廳係位於黃竹坑Southside是一家主打意大利同墨西哥菜既西餐，今日約左朋友聚一聚，兩個人叫左幾樣野食!\n\nChicken Taco\n三個巨大的taco一字排開，相當有氣勢。玉米餅外皮好脆，裡面包著軟嫩的雞肉，帶點微辣的調味，搭配酸奶醬與牛油果醬，簡單的美味卻讓人印象深刻。\n\nTropicana\n使用薄切的火腿搭配新鮮菠蘿，再撒上mozzarella增添香氣與牽絲的口感。餅皮帶點厚度，口感很有彈性。\n\nSignature chicken wing 招牌雞翼\n雞翼配上秘製醬汁的味道怡到好處，汁掛上雞翼上而但又唔會太膩。熱辣辣上碟而且外皮整得好脆，值得一試。\n\nBIVACCO\n黃竹坑香葉道11號THE SOUTHSIDE LG樓LG09號舖港鐵黃竹坑站B出口，步行約2分鐘",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今天要介紹的餐廳係位於黃竹坑Southside是一家主打意大利同墨西哥菜既西餐，今日約左朋友聚一聚，兩個人叫左幾樣野食!\n\nChicken Taco\n三個巨大的taco一字排開，相當有氣勢。玉米餅外皮好脆，裡面包著軟嫩的雞肉，帶點微辣的調味，搭配酸奶醬與牛油果醬，簡單的美味卻讓人印象深刻。\n\nTropicana\n使用薄切的火腿搭配新鮮菠蘿，再撒上mozzarella增添香氣與牽絲的口感。餅皮帶點厚度，口感很有彈性。\n\nSignature chicken wing 招牌雞翼\n雞翼配上秘製醬汁的味道怡到好處，汁掛上雞翼上而但又唔會太膩。熱辣辣上碟而且外皮整得好脆，值得一試。\n\nBIVACCO\n黃竹坑香葉道11號THE SOUTHSIDE LG樓LG09號舖港鐵黃竹坑站B出口，步行約2分鐘",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "pui_shan1106",
+          "uri": "https://www.google.com/maps/contrib/114258159075775293592/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKsC6EAFHdyDRGXk3nCaBcae89wJ4N-JqB6HY4gNdujz6dVfd6w=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-02-02T15:12:53.645444Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBeGJ2ZjlRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBeGJ2ZjlRRRAB!2m1!1s0x34040168b9b2c65f:0x2bddbcf6c7eb6e81"
+      },
+      {
+        "name": "places/ChIJX8ayuWgBBDQRgW7rx_a83Ss/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBcVozRUJnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "✨會為咗佢而回頭嘅♡青醬雞𝙋𝙄𝙕𝙕𝘼🍕\n\n𝘛𝘏𝘌 𝘚𝘖𝘜𝘛𝘏𝘚𝘐𝘋𝘌越開越多餐廳，Bivacco環境唔錯坐得舒服，而且價錢都唔算貴！餐點又有驚喜🫶\n\n🔺青醬雞薄餅 $155\n青醬配𝙋𝙄𝙕𝙕𝘼係超級無敵夾！餅底唔算薄又唔乾身，咬落煙靭又唔油膩～成塊𝙋𝙄𝙕𝙕𝘼都喺羅勒嘅香味，加埋芝士同埋雞肉簡單嘅配料已經好好味，令人一啖接一啖！唔會好似蕃茄底咁令人食到好厭～\n\n🔺蛤蜊黑麪線 $145\n黑面線即係黑意粉🤓蛤蜊大大粒幾多汁，平時食開Creamy啲嘅意粉，依一道意粉醬汁鮮味濃郁，清爽得嚟又好食😋\n\n🔺招牌雞翼 $88\n味道就係水牛城雞翼🌶️微辣酸甜開胃！雞翼皮都炸得好香脆，唔會因為沾滿晒醬汁而淋晒👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "✨會為咗佢而回頭嘅♡青醬雞𝙋𝙄𝙕𝙕𝘼🍕\n\n𝘛𝘏𝘌 𝘚𝘖𝘜𝘛𝘏𝘚𝘐𝘋𝘌越開越多餐廳，Bivacco環境唔錯坐得舒服，而且價錢都唔算貴！餐點又有驚喜🫶\n\n🔺青醬雞薄餅 $155\n青醬配𝙋𝙄𝙕𝙕𝘼係超級無敵夾！餅底唔算薄又唔乾身，咬落煙靭又唔油膩～成塊𝙋𝙄𝙕𝙕𝘼都喺羅勒嘅香味，加埋芝士同埋雞肉簡單嘅配料已經好好味，令人一啖接一啖！唔會好似蕃茄底咁令人食到好厭～\n\n🔺蛤蜊黑麪線 $145\n黑面線即係黑意粉🤓蛤蜊大大粒幾多汁，平時食開Creamy啲嘅意粉，依一道意粉醬汁鮮味濃郁，清爽得嚟又好食😋\n\n🔺招牌雞翼 $88\n味道就係水牛城雞翼🌶️微辣酸甜開胃！雞翼皮都炸得好香脆，唔會因為沾滿晒醬汁而淋晒👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chick Pig",
+          "uri": "https://www.google.com/maps/contrib/108736716617637653550/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJS81wVbOnXLw4H6XbiinfJf1VcAQaMCDWLvHQxyml3IR8Vbw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-02-02T03:50:11.428241Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBcVozRUJnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBcVozRUJnEAE!2m1!1s0x34040168b9b2c65f:0x2bddbcf6c7eb6e81"
+      },
+      {
+        "name": "places/ChIJX8ayuWgBBDQRgW7rx_a83Ss/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2aE9Ub1VnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "經開黃竹坑新商場，老友推介高質意大利菜，環境舒適，食材新鮮，果然無介紹錯。😸\n\nBURRATA SALAD\n水牛芝士沙拉\n\n水牛芝士又香又滑，配新鮮車厘茄和火箭菜，加了香草和黑醋醬汁提升層次，好開胃。😋\n\nMEATBALLS\n自家製肉丸\n\n肉丸口感鬆軟，肉汁豐富，肉味香濃，加香氣四溢的肉醬和芝士，好惹味！😍\n\nAUSTRALIAN BLACK ANGUS STEAK\n澳洲黑安格斯牛扒\n\n薯條即叫即炸，炸油新鮮，又香又脆，配茄汁食，好快畀我清曬。Medium 的安格斯牛扒，口感煙韌，肉汁豐富，吃到中段，可加香濃的醬汁和海鹽，大滿足！🤤\n\nPEPPERONI PIZZA\n意大利辣香腸披薩\n\n餅底鬆脆，口感煙韌，面層佈滿了意大利辣香腸和芝士，趁熱食，回味無窮。😻\n\nTIRAMISU\n提拉米蘇\n\n面層放了新鮮士多啤梨，外層軟滑，內層的咖啡流心超驚喜，甜度適中，咖啡味香濃，喜歡甜品的朋友不能錯過。😘\n\nCHOCOLATE MOUSSE\n朱古力慕絲\n\n新鮮藍莓，香濃的朱古力，香滑的慕絲，多重享受，So Sweet。💖\n\nMONSTER🍸\n\n調酒師將蘭姆酒、櫻桃酒、安格仕苦精、苦艾酒、香橙和檸檬調和，果香味濃，酒精感強，酸酸甜甜的，推薦！😈\n\nMOCHA\n\n香甜嫩滑，咖啡味濃，好chill！😽\n\nHOT LEMON TEA\n\n檸檬新鮮，配 Lipton 紅茶，So Fresh！😃\n\nBivacco 環境舒適氣氛好，食材新鮮高質， cocktail 好飲，侍應服務態度好，南區朋友好去處，還會再來。😎🤘🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "經開黃竹坑新商場，老友推介高質意大利菜，環境舒適，食材新鮮，果然無介紹錯。😸\n\nBURRATA SALAD\n水牛芝士沙拉\n\n水牛芝士又香又滑，配新鮮車厘茄和火箭菜，加了香草和黑醋醬汁提升層次，好開胃。😋\n\nMEATBALLS\n自家製肉丸\n\n肉丸口感鬆軟，肉汁豐富，肉味香濃，加香氣四溢的肉醬和芝士，好惹味！😍\n\nAUSTRALIAN BLACK ANGUS STEAK\n澳洲黑安格斯牛扒\n\n薯條即叫即炸，炸油新鮮，又香又脆，配茄汁食，好快畀我清曬。Medium 的安格斯牛扒，口感煙韌，肉汁豐富，吃到中段，可加香濃的醬汁和海鹽，大滿足！🤤\n\nPEPPERONI PIZZA\n意大利辣香腸披薩\n\n餅底鬆脆，口感煙韌，面層佈滿了意大利辣香腸和芝士，趁熱食，回味無窮。😻\n\nTIRAMISU\n提拉米蘇\n\n面層放了新鮮士多啤梨，外層軟滑，內層的咖啡流心超驚喜，甜度適中，咖啡味香濃，喜歡甜品的朋友不能錯過。😘\n\nCHOCOLATE MOUSSE\n朱古力慕絲\n\n新鮮藍莓，香濃的朱古力，香滑的慕絲，多重享受，So Sweet。💖\n\nMONSTER🍸\n\n調酒師將蘭姆酒、櫻桃酒、安格仕苦精、苦艾酒、香橙和檸檬調和，果香味濃，酒精感強，酸酸甜甜的，推薦！😈\n\nMOCHA\n\n香甜嫩滑，咖啡味濃，好chill！😽\n\nHOT LEMON TEA\n\n檸檬新鮮，配 Lipton 紅茶，So Fresh！😃\n\nBivacco 環境舒適氣氛好，食材新鮮高質， cocktail 好飲，侍應服務態度好，南區朋友好去處，還會再來。😎🤘🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Zenki Ng",
+          "uri": "https://www.google.com/maps/contrib/116946725667972811417/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdpDqon5RNkSDMvSJA62JyJ5h5oeQ3wMALHYxPL3pxlitdZ9UE6g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-12-17T14:57:54.681646Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2aE9Ub1VnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2aE9Ub1VnEAE!2m1!1s0x34040168b9b2c65f:0x2bddbcf6c7eb6e81"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "freeGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040168b9b2c65f:0x2bddbcf6c7eb6e81!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3160890281586028161&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040168b9b2c65f:0x2bddbcf6c7eb6e81!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040168b9b2c65f:0x2bddbcf6c7eb6e81!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040168b9b2c65f:0x2bddbcf6c7eb6e81!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJX8ayuWgBBDQRgW7rx_a83Ss/photos/Aa-ngMZKiY_OGnoZukPZGVMy005bkAeLyhSM6C69-UQ0jkhKm1PN7V4Y6g8eJvbdZ_gBTUK2Ak22PrzY1SsGoLWnnkn2i7INDkG-GpkFHH6jAg3ZhmvNZID75LhUCLDcIt3jOdlUe95AidgEAFx1cHJEDdo52GG38Lm1NJACF9Y1t8ws_6plLwXJR06FjWEWLaEETITpGHfFrphfcm-0_8UkrK_7RK8JmJJF1bDvcoKh0b3g5-THVYy_XUUvrkZCJ4AxFk0--EYDS845fCqzhDWXbeKN8dMMdQg-nLfww57WFa1HzWdO9TiOWLAmWkRzpbwQAlZH27XH7-s01fSfSelalJD90w9fidgmoyCJhPh8QwC_0pMI12QGDHDjWxkeRrBP-yf0Lflx9G8e7_jeySYQeJgSSFkvoby2sicfE7ySxtA1oA",
+      "widthPx": 2700,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Bivacco",
+          "uri": "https://maps.google.com/maps/contrib/117063084272708299514",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLTYm-XDn1snwAll-rHXQxFRA57xX0-dvlh2_M3vE-jS8IFeG-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBKRc9mheomjgwiHyRJfVbC&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBKRc9mheomjgwiHyRJfVbC!2e10!4m2!3m1!1s0x34040168b9b2c65f:0x2bddbcf6c7eb6e81"
+    },
+    "local_path": "photos/ChIJX8ayuWgBBDQRgW7rx_a83Ss.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdakD-3prDC477deTE46bcQwKTs5maVDYND-NNcPnKR9T2TcduNbr3woHv8F4c5XNL0Rb4LwZEGvRanJU5wNKFVN1JPTlO7J_wkvDQl4iyusWiXvA0R4_rHCxr06bHd6IbS_sqWstCBjYE-=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 221959
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.dimsumdaily.hk/where-to-eat-in-hong-kong-this-march-10-buzzy-new-openings-to-book-now/",
+        "label": "",
+        "source_url": "https://www.savorhospitalityhk.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://book.bistrochat.com/bellavista",
+        "label": "Book Now",
+        "source_url": "https://www.savorhospitalityhk.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://book.bistrochat.com/LA-BAIA",
+        "label": "Book Now",
+        "source_url": "https://www.savorhospitalityhk.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://book.bistrochat.com/bivacco",
+        "label": "Book Now",
+        "source_url": "https://www.savorhospitalityhk.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://share.google/9bmAVSSFv5jq5E39V",
+        "label": "Book Now",
+        "source_url": "https://www.savorhospitalityhk.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://share.google/oG9HWeLZXKRwmtqmA",
+        "label": "Book Now",
+        "source_url": "https://www.savorhospitalityhk.com/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.savorhospitalityhk.com/portfolio/grilled-lamb-rack/",
+        "label": "Pet Friendly Menu at fugazzi pizzeria napoletana",
+        "source_url": "https://www.savorhospitalityhk.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.savorhospitalityhk.com/?page_id=4445",
+        "label": "Menu 2",
+        "source_url": "https://www.savorhospitalityhk.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "fusion_restaurant",
+    "label": "各國料理餐廳",
+    "types": [
+      "fusion_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.dimsumdaily.hk/where-to-eat-in-hong-kong-this-march-10-buzzy-new-openings-to-book-now/",
+  "menu_url": "https://www.savorhospitalityhk.com/portfolio/grilled-lamb-rack/"
+}

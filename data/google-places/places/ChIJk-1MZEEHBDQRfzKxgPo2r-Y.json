@@ -1,0 +1,424 @@
+{
+  "google_place_id": "ChIJk-1MZEEHBDQRfzKxgPo2r-Y",
+  "restaurant_ids": [
+    "restaurant:2297001115"
+  ],
+  "fetched_at": "2026-10-23T15:41:46.911635+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJk-1MZEEHBDQRfzKxgPo2r-Y",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3612 2626",
+    "internationalPhoneNumber": "+852 3612 2626",
+    "formattedAddress": "香港新界沙田大涌橋路水中天中菜館",
+    "location": {
+      "latitude": 22.3901574,
+      "longitude": 114.20306500000001
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=16622565199176610431&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.clubone.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 15:00, 18:00 – 21:00",
+        "星期二: 11:30 – 15:00, 18:00 – 21:00",
+        "星期三: 11:30 – 15:00, 18:00 – 21:00",
+        "星期四: 11:30 – 15:00, 18:00 – 21:00",
+        "星期五: 11:30 – 15:00, 18:00 – 21:00",
+        "星期六: 10:00 – 15:00, 18:00 – 21:00",
+        "星期日: 10:00 – 15:00, 18:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 299,
+    "displayName": {
+      "text": "沙田會所1號 水中天",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJk-1MZEEHBDQRfzKxgPo2r-Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT213emJUZGFaMlY2WTNKRmJFVmFaSGRCUVZVNVNHYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "由於與家人一起，掛住傾計，忘記影相🤣🤣🤣\n\n有訂位\n食物水準👍🏻👍🏻👍🏻\n員工服務👍🏻👍🏻👍🏻\n停車場要\"吸\" 停車場飛",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "由於與家人一起，掛住傾計，忘記影相🤣🤣🤣\n\n有訂位\n食物水準👍🏻👍🏻👍🏻\n員工服務👍🏻👍🏻👍🏻\n停車場要\"吸\" 停車場飛",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cynthia Wong",
+          "uri": "https://www.google.com/maps/contrib/109274790218285792437/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLohy_M_9w7fVEcU3qswP17PUYyYasALBsFa3JCQgfVSVprNA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-15T14:52:43.744490108Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213emJUZGFaMlY2WTNKRmJFVmFaSGRCUVZVNVNHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213emJUZGFaMlY2WTNKRmJFVmFaSGRCUVZVNVNHYxAB!2m1!1s0x34040741644ced93:0xe6af36fa80b1327f"
+      },
+      {
+        "name": "places/ChIJk-1MZEEHBDQRfzKxgPo2r-Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1OGQyc3ZRRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 1,
+        "text": {
+          "text": "奇遇...雖然炒散，但可唔可以專業d...😡極差，接受唔到！！！\n\n1.唔換碟都算，自己係轉盤拎，個阿姐仲話我做咩拎，話我已經有碟，原來佢叫我用墊杯下果隻碟......\n\n2. 因為d 碟一直唔換，上一道菜係魚，碟上好自然會有骨， 個阿姐直接分麵，放係有骨嘅碟上面！！！！！！\n\n3. 明明枱面仲有位，不斷走黎問，係咁想收碟餸（佢第一次問時，我地已經有答佢唔好收住，我地會食）， 覺得佢好煩😒\n\n參加過好多次飲宴，第一次遇到咁差經歷🥲",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "奇遇...雖然炒散，但可唔可以專業d...😡極差，接受唔到！！！\n\n1.唔換碟都算，自己係轉盤拎，個阿姐仲話我做咩拎，話我已經有碟，原來佢叫我用墊杯下果隻碟......\n\n2. 因為d 碟一直唔換，上一道菜係魚，碟上好自然會有骨， 個阿姐直接分麵，放係有骨嘅碟上面！！！！！！\n\n3. 明明枱面仲有位，不斷走黎問，係咁想收碟餸（佢第一次問時，我地已經有答佢唔好收住，我地會食）， 覺得佢好煩😒\n\n參加過好多次飲宴，第一次遇到咁差經歷🥲",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "soda soda",
+          "uri": "https://www.google.com/maps/contrib/108917393225632458824/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuvacZDtrDLGcQG7FXDljEYvVx17_MHzdgv38DEpORAlReY6ks=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-10-15T10:05:37.436576Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM1OGQyc3ZRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM1OGQyc3ZRRRAB!2m1!1s0x34040741644ced93:0xe6af36fa80b1327f"
+      },
+      {
+        "name": "places/ChIJk-1MZEEHBDQRfzKxgPo2r-Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4OVlHSnNnRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "去飲，又冇上網講到咁差。\n不過乳豬皮唔脆，就失望少少啦，其他都可以。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "去飲，又冇上網講到咁差。\n不過乳豬皮唔脆，就失望少少啦，其他都可以。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yukiip Yukiip",
+          "uri": "https://www.google.com/maps/contrib/106024294186333746516/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7r0Nsw4zcerseQJTuNV4Ngu4HlZMBGOM5gkyeWW8SkqNHJGSWyw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-05-23T00:49:23.638156Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4OVlHSnNnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4OVlHSnNnRRAB!2m1!1s0x34040741644ced93:0xe6af36fa80b1327f"
+      },
+      {
+        "name": "places/ChIJk-1MZEEHBDQRfzKxgPo2r-Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURNdS15dENBEAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "婚晏來說club one 性價比超高. 午宴跟晚宴價錢一樣. 重點水中天的風景的確不錯.只是距離石門地鐵站有點遠",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "婚晏來說club one 性價比超高. 午宴跟晚宴價錢一樣. 重點水中天的風景的確不錯.只是距離石門地鐵站有點遠",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jermen Hung",
+          "uri": "https://www.google.com/maps/contrib/103462759999126359042/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3VsDl36Kj21_byOVt1PyJtcWf45E5hcDuhVpekXXRPj53tRXQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2020-01-13T08:00:29.635738Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURNdS15dENBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURNdS15dENBEAE!2m1!1s0x34040741644ced93:0xe6af36fa80b1327f"
+      },
+      {
+        "name": "places/ChIJk-1MZEEHBDQRfzKxgPo2r-Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlb2Y3M01nEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "食材新鮮,少味精,環境寬敞,服務周到,適合一家大細進餐。\n最好成為會員,有折扣,並可儲分作現金扣數。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食材新鮮,少味精,環境寬敞,服務周到,適合一家大細進餐。\n最好成為會員,有折扣,並可儲分作現金扣數。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Winnie Ho",
+          "uri": "https://www.google.com/maps/contrib/114002049358168576136/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5FH0JtEPA_FlhfH5pMGUBH24e9nYgyxgqyJvoFLawK8SvNqM=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-03-04T02:01:13.404798Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlb2Y3M01nEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlb2Y3M01nEAE!2m1!1s0x34040741644ced93:0xe6af36fa80b1327f"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040741644ced93:0xe6af36fa80b1327f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16622565199176610431&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040741644ced93:0xe6af36fa80b1327f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040741644ced93:0xe6af36fa80b1327f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040741644ced93:0xe6af36fa80b1327f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJk-1MZEEHBDQRfzKxgPo2r-Y/photos/Aa-ngMajHwVzeHOClchi0XMjOPxix4BjaGO3D1OCWc-B-LMJxdU5ACJY8Jl9d5G16MVlarERMhItL5Apgras1-d6vOBPzMDEdiMo2qAJ6Lioh7BXN3lolFhgzQ8SfVzJ0Y0m13UM1wjhF9GqyrxgTUVnV_2NDCJP_mREOrZ1pgDr9bt_iGI8dbxysHZY6dwisADUiN1cLXlVswmIy_hhCvG2b2JaFEQpAkInsP73_eskUb4pBjLaAXWhLEYHPlFCF46uEbDEGJUNacPZET2eHHljbiP9M7AdmGBNodKMR-Hv0a0zC5dHujFWcwRU7iJ0pfV6Riqk-wE8izzftoCkM0-nn-19S-85i3PFwxlHKR2AEVdAxdUlDmmXChpSxnxs95s2aRCFm1gdQYB4vzWQTCK2mpMh_mxIF80",
+      "widthPx": 2560,
+      "heightPx": 1440,
+      "authorAttributions": [
+        {
+          "displayName": "lee peter",
+          "uri": "https://maps.google.com/maps/contrib/118222413467118335903",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLH6sl5_pgOOjqF52oV-Da5I2HgTuz44ZP3LqoyU9qNIDY3Aw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4h8y94wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4h8y94wE!2e10!4m2!3m1!1s0x34040741644ced93:0xe6af36fa80b1327f"
+    },
+    "local_path": "photos/ChIJk-1MZEEHBDQRfzKxgPo2r-Y.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRlT_3Ij2j60-Jos-ANLxengElELMvnA9LmGuGJ1Tk4ta4ncT6FFIO0iAhC_NGqA1YauNq9DpBXkJWEngzfqOAvoA2qsyTa5zhq4X7UMu65KFBCVUmSh9ctlUGMRPtLMxJz2ZCPg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 82748
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ChIJXQk6__z_AzQRnucU8dbvtF0",
+  "types": [
+    "parking",
+    "transportation_service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Parking lot, 8 Waterfall Bay Rd, Waterfall Bay, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.250564,
+    "longitude": 114.134897
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6752285447781935006&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "瀑布灣公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "parking",
+  "photos": [
+    {
+      "name": "places/ChIJXQk6__z_AzQRnucU8dbvtF0/photos/Aa-ngMZVkDC7czXihZ7EsIR9E5P21H0xoW6x9RNF4GswOX1RGNsc2IReS3MKnQNNnF2ZosqAbW_NFImbbAhuVNGWr2bWz7crvTNDsvNXSmlsI9ynY-Wgc5oeeK8gLm6A8_8NyuX3o019ZXBh-9TsfJbTpOBZXEXgx3syLqQMLOzZknPHyIekhRiCCCNTzdsovGsAzA0tjuXVGymRsWC2mkkzz_UfQrFN4DwvtOX3r50MV4V7xCICFLLvXUf34hQOl21fwvii6EqykUY9E3IdqEl86_djofKfyB-yxf9Ikj_WPpL95JAwQkA-SpqiQsE6jyVgZ4wmNfcgO1Dxf-wQsd7bs08Mf9YHUcqUP5dPUR67n5kTovD6nGn_29fBlp07q0Y79ZNFrXTUcx-Qw7g0zfkIaZSLKhSI",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Choi Jeff",
+          "uri": "https://maps.google.com/maps/contrib/109482255015673920149",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlCgEfSrKmK15EJ59-v9ax8k8dvwxoNUVHUPz926HAQS-RJZyDgg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID7mcH_lwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7mcH_lwE!2e10!4m2!3m1!1s0x3403fffcff3a095d:0x5db4efd6f114e79e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:19.378156+00:00"
+}

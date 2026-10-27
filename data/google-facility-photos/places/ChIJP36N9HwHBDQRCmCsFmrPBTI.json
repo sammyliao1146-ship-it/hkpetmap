@@ -1,0 +1,40 @@
+{
+  "id": "ChIJP36N9HwHBDQRCmCsFmrPBTI",
+  "types": [
+    "veterinary_care",
+    "medical_clinic",
+    "pet_care",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "G/F NO, 77 King Fuk St, San Po Kong, Kowloon, 香港",
+  "location": {
+    "latitude": 22.3344284,
+    "longitude": 114.1972804
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3604515131333828618&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "新蒲崗動物醫院",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJP36N9HwHBDQRCmCsFmrPBTI/photos/Aa-ngMZxcVv5kgZrs-M-NwS_J-xXLCUqiR8PKah6JICen2K6gtlbpW-jqNvgew7Sm6vB08O4KbEy5Od0x3EodrIGUK72C0FPtHQDcqzhuQfPhJJmDIfWJNW1ynYgUF-U5KfHZ4dQwytD1S_qlMlQSyzR4MgC0RV7u1lSbu6YVNTnj4WCg3aO3waiCJW6MVpYrA3McNC4FvPNEh5L5gBm_5YPVpTlMW_TxM6yjnCD7CT3Ck78e0vlrzhofGiY_koHJY-wdl0uJA6NoFTFJyfKJZ1XdW6zAfFyt1xQIWunFh_dOWeH15EP3NfHb7hBrLzVbwK32veTu6DfRSs3tcb92nv-AKuWylD5vsgm4iAqG1JbuLLizJTyUmyS7cDBr-8arr1LSrOnkJkhKnzZvLVO3WT51BhycQ_Ra2U",
+      "widthPx": 1440,
+      "heightPx": 810,
+      "authorAttributions": [
+        {
+          "displayName": "新蒲崗動物醫院",
+          "uri": "https://maps.google.com/maps/contrib/116041819116242101384",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULaO7XT_msya-peyWH4zHG5haLYcETg_fotgcmfiJz5eMiGk0=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC65MrE1AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC65MrE1AE!2e10!4m2!3m1!1s0x3404077cf48d7e3f:0x3205cf6a16ac600a"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:41.685191+00:00"
+}

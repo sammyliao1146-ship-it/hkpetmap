@@ -1,0 +1,280 @@
+{
+  "google_place_id": "ChIJoc4SURZXATQR-q25fbj2pZ8",
+  "restaurant_ids": [
+    "restaurant:3117801643"
+  ],
+  "fetched_at": "2026-10-23T15:43:27.341155+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJoc4SURZXATQR-q25fbj2pZ8",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港新界長洲中興新街22號",
+    "location": {
+      "latitude": 22.205430699999997,
+      "longitude": 114.0279314
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=11503872095431536122&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 00:00 – 16:30",
+        "星期二: 07:00 – 16:00",
+        "星期三: 07:00 – 16:00",
+        "星期四: 07:00 – 16:00",
+        "星期五: 07:00 – 16:00",
+        "星期六: 休息",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-25T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 13,
+    "displayName": {
+      "text": "日日食 Day Day Eat",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJoc4SURZXATQR-q25fbj2pZ8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KYWIzaEZSV2gyZFhGaWRrMVpURTV5YUcxdldHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "服務一流",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務一流",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kin Ming Kong",
+          "uri": "https://www.google.com/maps/contrib/107725752153159536242/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUsT7aA5z1J7B3dVGCk9-XOZT057YgDIqA3rsSvVLsf0PYN-cqaQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-07-07T09:17:26.598915696Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KYWIzaEZSV2gyZFhGaWRrMVpURTV5YUcxdldHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KYWIzaEZSV2gyZFhGaWRrMVpURTV5YUcxdldHYxAB!2m1!1s0x340157165112cea1:0x9fa5f6b87db9adfa"
+      },
+      {
+        "name": "places/ChIJoc4SURZXATQR-q25fbj2pZ8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0MzhpdnRnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "薯條好食😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "薯條好食😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "鼻茄軒",
+          "uri": "https://www.google.com/maps/contrib/111441781511186583825/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUfX8DBVU51rNcX14FP7sZaKMlsLhGC4XurgoSYNfoMgLTvfQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-02-09T01:59:08.334556Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0MzhpdnRnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0MzhpdnRnRRAB!2m1!1s0x340157165112cea1:0x9fa5f6b87db9adfa"
+      },
+      {
+        "name": "places/ChIJoc4SURZXATQR-q25fbj2pZ8/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxMjlIQkt3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "Amazing and friendly owner. Also dog friendly.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Amazing and friendly owner. Also dog friendly.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Bernadino",
+          "uri": "https://www.google.com/maps/contrib/115703890183745918046/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSCWq7cja5veZpEaZMAKJhPa36-niR8V-6DbyerVdo_1Lwwg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-01-10T11:58:13.741022Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQxMjlIQkt3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQxMjlIQkt3EAE!2m1!1s0x340157165112cea1:0x9fa5f6b87db9adfa"
+      },
+      {
+        "name": "places/ChIJoc4SURZXATQR-q25fbj2pZ8/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1MnFtS21RRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "食物美味\n\n服務一流",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "good food\nexcellent service",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Moon Li",
+          "uri": "https://www.google.com/maps/contrib/108661897098975463330/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHayMOvBXIsb45P45b539S8W7od8vf6QVgELEwDtso_2fkPju4=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-10-23T08:38:42.294910Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ1MnFtS21RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ1MnFtS21RRRAB!2m1!1s0x340157165112cea1:0x9fa5f6b87db9adfa"
+      },
+      {
+        "name": "places/ChIJoc4SURZXATQR-q25fbj2pZ8/reviews/ChdDSUhNMG9nS0VJbTF5TURlNXRlZHl3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "食物，好好食",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "食物，好好食",
+          "languageCode": "zh"
+        },
+        "authorAttribution": {
+          "displayName": "Samuel sun",
+          "uri": "https://www.google.com/maps/contrib/100763691888821859592/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKlvGMAa1ib7RntVn3EtFvQkBLtTdBfZdC0oKz_rCbjAYjSA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-05-10T04:55:23.802192Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJbTF5TURlNXRlZHl3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJbTF5TURlNXRlZHl3RRAB!2m1!1s0x340157165112cea1:0x9fa5f6b87db9adfa"
+      }
+    ],
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340157165112cea1:0x9fa5f6b87db9adfa!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11503872095431536122&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340157165112cea1:0x9fa5f6b87db9adfa!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340157165112cea1:0x9fa5f6b87db9adfa!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340157165112cea1:0x9fa5f6b87db9adfa!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJoc4SURZXATQR-q25fbj2pZ8/photos/Aa-ngMa6eGeutRTQD4bHK9litz0HAeEfud46xuCoY9U5zECas7_C3bmNnoGWtAsi_rDZZfNjvJZP7arR6WIfBgnhJcapfArYBV1LtwqgKheaUMlYE76_8bXaOHvg4zyxFcPMXfviqhlNvSnJkMWTTLWwm0_TQxhxlnY1F_brEufXWjePynYNbRKl4Nx7GchRfaZX18gho5qUg3TxTK0gKTyWqIRTaeDtMgZTlTogzOzLEdxURVWQC55pWDBzavXJrrp0SQtxzi3Kra-89kHJoyTJ4wF6dPeoePg9vTZOddDAZs4ERLWMeCzx4-9h0exAYl56il4pZT9PFUTLa9xsZgAi5mH-dqbhRknNCEKsEEwUMQ15BosyVk8vjPx5qVnQ8AptZPpi1vpm_6RB6b2KlnqnHdHuSsNnXAA",
+      "widthPx": 4608,
+      "heightPx": 3456,
+      "authorAttributions": [
+        {
+          "displayName": "Raymond Lowe",
+          "uri": "https://maps.google.com/maps/contrib/110786732447148264843",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfbn6mhxanEao0iaZ0zqMUL3qdiwEZkR_WVzuY3DWa0DxNqeh2bA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICplr7Y3AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICplr7Y3AE!2e10!4m2!3m1!1s0x340157165112cea1:0x9fa5f6b87db9adfa"
+    },
+    "local_path": "photos/ChIJoc4SURZXATQR-q25fbj2pZ8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPgoaQK9gxoDq0xhPry5ylJRAUugEONFnN1TSPr73ieXCFo-nIoYnMhuPdq-hOxmwrPgfAIxe47dVPlfWtVs-O293-wRJvz38PVX9Wzc3HK9NTGArn-eAbCX_Dc2U8vX3MOxZJBw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 189659
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,309 @@
+{
+  "google_place_id": "ChIJ1VyPTqsBBDQR-OX4L7oUiH8",
+  "restaurant_ids": [
+    "restaurant:2212806247"
+  ],
+  "fetched_at": "2026-10-23T15:37:56.381307+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ1VyPTqsBBDQR-OX4L7oUiH8",
+    "types": [
+      "barbecue_restaurant",
+      "asian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5100 2209",
+    "internationalPhoneNumber": "+852 5100 2209",
+    "formattedAddress": "香港香港島大坑安庶庇街16號號地下",
+    "location": {
+      "latitude": 22.2785986,
+      "longitude": 114.1922317
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=9189617829550810616&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 18:00 – 00:00",
+        "星期三: 18:00 – 00:00",
+        "星期四: 18:00 – 00:00",
+        "星期五: 18:00 – 00:30",
+        "星期六: 18:00 – 00:30",
+        "星期日: 18:00 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T16:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 97,
+    "displayName": {
+      "text": "巴別橋地道燒烤",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "燒烤料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "barbecue_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ1VyPTqsBBDQR-OX4L7oUiH8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWbVdGODNPV2xEZG5OcVZtMU1Temt4VlRJeVoxRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢間串燒海鮮幾抵食，新鮮鮮甜冇雪味，鮑魚彈牙，蝦，帶子鎖汁，火候啱啱好。價錢份量穩陣，環境舒服chill，朋友聚會啱晒，值得試！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間串燒海鮮幾抵食，新鮮鮮甜冇雪味，鮑魚彈牙，蝦，帶子鎖汁，火候啱啱好。價錢份量穩陣，環境舒服chill，朋友聚會啱晒，值得試！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "meco meco",
+          "uri": "https://www.google.com/maps/contrib/108022813611312656722/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILOsv1spSn1-C2o2bFbVqPu-HNCXfrxFf6719q3YvDDj_Ijw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-07T12:57:58.152836542Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWbVdGODNPV2xEZG5OcVZtMU1Temt4VlRJeVoxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWbVdGODNPV2xEZG5OcVZtMU1Temt4VlRJeVoxRRAB!2m1!1s0x340401ab4e8f5cd5:0x7f8814ba2ff8e5f8"
+      },
+      {
+        "name": "places/ChIJ1VyPTqsBBDQR-OX4L7oUiH8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0UmF6UlBPRGhOTlZsdlFtaEdUM2xxVEcxMGVHYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "每次朋友聚會都一定會嚟呢一間食串燒，氛圍很好。有很多海鮮可以選擇，可以預先同店主預留，全部都超級新鮮，好鬼正。最鍾意食荔枝豚肉卷，超級Juicy。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "每次朋友聚會都一定會嚟呢一間食串燒，氛圍很好。有很多海鮮可以選擇，可以預先同店主預留，全部都超級新鮮，好鬼正。最鍾意食荔枝豚肉卷，超級Juicy。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "FREYA H",
+          "uri": "https://www.google.com/maps/contrib/101402315072800291289/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfVy7RF1kwK99ceEougaJ_oInKr0xvhkmvkrvMGAJV3PAEUA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-24T10:05:22.886143038Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0UmF6UlBPRGhOTlZsdlFtaEdUM2xxVEcxMGVHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0UmF6UlBPRGhOTlZsdlFtaEdUM2xxVEcxMGVHYxAB!2m1!1s0x340401ab4e8f5cd5:0x7f8814ba2ff8e5f8"
+      },
+      {
+        "name": "places/ChIJ1VyPTqsBBDQR-OX4L7oUiH8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWS1RIbG1lalJvVmxoRE1WWkRkV3hhY3pNMmRuYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "大坑依間串燒店真係好正🤤🔥！每一串串燒都燒到位，外層微焦帶香，入面保持 juicy，味道層次好豐富，完全食得出師傅火候同心機！\n\nGreat atmosphere, friendly service, and top-notch food. Tai Hang always has gems, and this place is definitely one of them.\nHighly recommended — I will 100% come back! 🔥\nYou can really taste the chef’s skills and control of the grill.😍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大坑依間串燒店真係好正🤤🔥！每一串串燒都燒到位，外層微焦帶香，入面保持 juicy，味道層次好豐富，完全食得出師傅火候同心機！\n\nGreat atmosphere, friendly service, and top-notch food. Tai Hang always has gems, and this place is definitely one of them.\nHighly recommended — I will 100% come back! 🔥\nYou can really taste the chef’s skills and control of the grill.😍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "maggie w",
+          "uri": "https://www.google.com/maps/contrib/117813287042741721736/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTmtc72ovwNRmo0zKZdGJBHohOmrqmgMobD0hM36IiZMknterM=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-10-31T10:35:24.512371023Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWS1RIbG1lalJvVmxoRE1WWkRkV3hhY3pNMmRuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWS1RIbG1lalJvVmxoRE1WWkRkV3hhY3pNMmRuYxAB!2m1!1s0x340401ab4e8f5cd5:0x7f8814ba2ff8e5f8"
+      },
+      {
+        "name": "places/ChIJ1VyPTqsBBDQR-OX4L7oUiH8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSRll6bGllbkZhVWtwWVIwNWpRMDVyUTJVd1ltYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "大坑地道燒烤🍢🍡\n老闆同老闆娘都好好人👩🏻‍🦰👱🏻‍♂️\n提早訂位仲可以訂埋海鮮🦪\n上菜快 熱辣辣 好新鮮👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大坑地道燒烤🍢🍡\n老闆同老闆娘都好好人👩🏻‍🦰👱🏻‍♂️\n提早訂位仲可以訂埋海鮮🦪\n上菜快 熱辣辣 好新鮮👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hoi ying Lo",
+          "uri": "https://www.google.com/maps/contrib/107835944363827476623/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLn9KqozfAlkghGAPSVwqT4KpRfq2oa5mSQJ_FFUEq7GO7a1Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-10-23T10:31:59.652083606Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSRll6bGllbkZhVWtwWVIwNWpRMDVyUTJVd1ltYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSRll6bGllbkZhVWtwWVIwNWpRMDVyUTJVd1ltYxAB!2m1!1s0x340401ab4e8f5cd5:0x7f8814ba2ff8e5f8"
+      },
+      {
+        "name": "places/ChIJ1VyPTqsBBDQR-OX4L7oUiH8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSRmIxZFBkVVF0ZUZBMWQxOUxMV3d0UXpWNVQzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "海鮮十分新鮮 小店人情味濃 位於大坑corner\n食物即燒 有別於一般一大盤上桌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "海鮮十分新鮮 小店人情味濃 位於大坑corner\n食物即燒 有別於一般一大盤上桌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tin YAN Lung",
+          "uri": "https://www.google.com/maps/contrib/107576660733171158558/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7CKHC81bcqB_dEVlghDHSs_STqxeze_lCmNNbMsS8dIxcdimL=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-09-28T12:50:47.389953368Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSRmIxZFBkVVF0ZUZBMWQxOUxMV3d0UXpWNVQzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSRmIxZFBkVVF0ZUZBMWQxOUxMV3d0UXpWNVQzYxAB!2m1!1s0x340401ab4e8f5cd5:0x7f8814ba2ff8e5f8"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401ab4e8f5cd5:0x7f8814ba2ff8e5f8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9189617829550810616&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401ab4e8f5cd5:0x7f8814ba2ff8e5f8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401ab4e8f5cd5:0x7f8814ba2ff8e5f8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401ab4e8f5cd5:0x7f8814ba2ff8e5f8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ1VyPTqsBBDQR-OX4L7oUiH8/photos/Aa-ngMZ0twPG2mbTi6EFSVF3oApmIthlKb-htOgt_pQYrJETY7zIPfuOnE8c-JUxL9fS1oRRy2e_exYfMlqSPQluNVEofxFQu7WaOEpn9nJVGSg_WkAX_ZzfxBXD_0C-e8ZG_4B5KBMnpBgQyqjKHZATNDz5DFidQXJ21-rfv3wKisjF7ZKSkhxR5S5sElKveI4UZGtr-WE_8MRiRSCDreZadM8hhNYWcVukS1bmU214kucxmYMCxhCBVg-GpzIBTwgaOPT2xu-_2qgitferS-tdcaTOfrhaACueX9AysyPF8r9IyhVIjEDhG-_lxpsiP0xqa6KG32f9orGGCko1mYirmLA9Nf4-lrripHlDqV6jNaR51F0zydKZ2nssj3CA-giDCiu-pRRRE_IUIt2HVt4_2QHla-Qr8Mmv0MEYgu-Zq3NvmA",
+      "widthPx": 1813,
+      "heightPx": 1348,
+      "authorAttributions": [
+        {
+          "displayName": "Barbecue_bbq",
+          "uri": "https://maps.google.com/maps/contrib/112153378605164331290",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI-VM0lLRXSuzDUxJkI6i2oKAlFzH09xp159PqYGrn5mSgfPg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCb0uzSiMCA6be0iNQjx7kV&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCb0uzSiMCA6be0iNQjx7kV!2e10!4m2!3m1!1s0x340401ab4e8f5cd5:0x7f8814ba2ff8e5f8"
+    },
+    "local_path": "photos/ChIJ1VyPTqsBBDQR-OX4L7oUiH8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTu520kBxS06PJF-_Fbd1dFoE2GWbzlgBKAiGQcjHSmGLAzlp34WB9htjC-HdKQuuHnMwSAqrfO3ystrj9UpgFn8nm2_Z2NO5kfAtBhx8rmPx_kk7dBB8dWuDBkVboUI7nJgxsJNvZOtU8=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 173457
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "barbecue_restaurant",
+    "label": "燒烤料理餐廳",
+    "types": [
+      "barbecue_restaurant",
+      "asian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

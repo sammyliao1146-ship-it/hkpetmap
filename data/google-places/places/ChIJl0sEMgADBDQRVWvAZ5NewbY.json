@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJl0sEMgADBDQRVWvAZ5NewbY",
+  "restaurant_ids": [
+    "restaurant:2211810456"
+  ],
+  "fetched_at": "2026-10-23T15:44:06.188689+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJl0sEMgADBDQRVWvAZ5NewbY",
+    "types": [
+      "chicken_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港香港島白沙灣盛泰道杏花新城",
+    "location": {
+      "latitude": 22.2763813,
+      "longitude": 114.2402041
+    },
+    "rating": 2.4,
+    "googleMapsUri": "https://maps.google.com/?cid=13168910772601908053&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 21:00",
+        "星期二: 11:30 – 21:00",
+        "星期三: 11:30 – 21:00",
+        "星期四: 11:30 – 21:00",
+        "星期五: 11:30 – 21:00",
+        "星期六: 11:30 – 21:00",
+        "星期日: 11:30 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 9,
+    "displayName": {
+      "text": "Chicken Factory (杏花新城店)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "雞肉料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "chicken_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJl0sEMgADBDQRVWvAZ5NewbY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1WFJtNXhOV1Z2ZUhRM1VXOUtaVVpXVTNacVlVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "食物味道okay，但係服務認真麻麻，現場叫外賣，4個餐等左半個鐘先有，問職員話出唔切，然後又出到餐比外賣平台同車手，又比埋後面排隊啲餐先🥴黑人問號，上黎google 先見到呢間野評價咁差，唔怪之得🌝",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物味道okay，但係服務認真麻麻，現場叫外賣，4個餐等左半個鐘先有，問職員話出唔切，然後又出到餐比外賣平台同車手，又比埋後面排隊啲餐先🥴黑人問號，上黎google 先見到呢間野評價咁差，唔怪之得🌝",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kathy153",
+          "uri": "https://www.google.com/maps/contrib/114718711852758517318/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVVa-kjvn7DIYAVj1EnQ8xQDLXChvi_t1H3GIkG8NC4POIJLTX=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-09-01T05:33:20.033577585Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1WFJtNXhOV1Z2ZUhRM1VXOUtaVVpXVTNacVlVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1WFJtNXhOV1Z2ZUhRM1VXOUtaVVpXVTNacVlVRRAB!2m1!1s0x3404030032044b97:0xb6c15e9367c06b55"
+      },
+      {
+        "name": "places/ChIJl0sEMgADBDQRVWvAZ5NewbY/reviews/ChZDSUhNMG9nS0VJQ0FnTURvbTYydUFnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "啲職員態度差到一個點，個阿姐熄咗部openrice機，過去問佢仲鬧我想快咪用keeta落。跟手未出餐就㩒到請取餐度，結果擺咗好耐都冇通知我攞。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "啲職員態度差到一個點，個阿姐熄咗部openrice機，過去問佢仲鬧我想快咪用keeta落。跟手未出餐就㩒到請取餐度，結果擺咗好耐都冇通知我攞。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yoyo Lai",
+          "uri": "https://www.google.com/maps/contrib/116730466826825628280/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqwolqn8eGyPgR_1jGIOD_yTtYF3CjXMk1U1ZGxtkfLQqwLw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-04-29T05:26:54.330568Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvbTYydUFnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvbTYydUFnEAE!2m1!1s0x3404030032044b97:0xb6c15e9367c06b55"
+      },
+      {
+        "name": "places/ChIJl0sEMgADBDQRVWvAZ5NewbY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzaHBUUVFnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "雞份量夠.\n油飯墊底好似餵狗咁.\n雜菜係燶嘅.\n汁凍嘅\n其他嘢暖嘅.\n阿姐粗魯冇禮\n冷淡講一句 野飲自己攞\n試過一次就算.\n地方乾淨好坐.\n有地方洗手",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "雞份量夠.\n油飯墊底好似餵狗咁.\n雜菜係燶嘅.\n汁凍嘅\n其他嘢暖嘅.\n阿姐粗魯冇禮\n冷淡講一句 野飲自己攞\n試過一次就算.\n地方乾淨好坐.\n有地方洗手",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "貓貓太陽城",
+          "uri": "https://www.google.com/maps/contrib/109681702160576507966/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvyF70fjATXV4MybVkS0jhaTm1ynw4fWsNUHpiCVQvRtOEMZM=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-11-14T19:23:20.407038Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzaHBUUVFnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzaHBUUVFnEAE!2m1!1s0x3404030032044b97:0xb6c15e9367c06b55"
+      },
+      {
+        "name": "places/ChIJl0sEMgADBDQRVWvAZ5NewbY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZNlo3MzNBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "食過最垃圾既一間chicken factory。態度差，比漏野",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食過最垃圾既一間chicken factory。態度差，比漏野",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nigel Chiu",
+          "uri": "https://www.google.com/maps/contrib/112985639294806160577/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVS0WeSIgA5inLR5brNF3I1SvCoInRLuu8JngLyaEHvyrCPOgl8sw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-05-05T10:24:48.683181Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZNlo3MzNBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZNlo3MzNBRRAB!2m1!1s0x3404030032044b97:0xb6c15e9367c06b55"
+      },
+      {
+        "name": "places/ChIJl0sEMgADBDQRVWvAZ5NewbY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25waFh6RkJXSFY1Y1RCYWNIZzRUV3BwYmsxSlYxRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "等餐咗20分鐘都未有 慢到嘔",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "等餐咗20分鐘都未有 慢到嘔",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "A-bccc",
+          "uri": "https://www.google.com/maps/contrib/111678846671812920570/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0phrPHb3AownVnXa0IwJhRwJFnIkMmK1Nwiu1lZNVLpw5X4Te1w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-09-11T04:56:06.545720995Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25waFh6RkJXSFY1Y1RCYWNIZzRUV3BwYmsxSlYxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25waFh6RkJXSFY1Y1RCYWNIZzRUV3BwYmsxSlYxRRAB!2m1!1s0x3404030032044b97:0xb6c15e9367c06b55"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404030032044b97:0xb6c15e9367c06b55!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13168910772601908053&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404030032044b97:0xb6c15e9367c06b55!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404030032044b97:0xb6c15e9367c06b55!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404030032044b97:0xb6c15e9367c06b55!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJl0sEMgADBDQRVWvAZ5NewbY/photos/Aa-ngMYPD1kciOkcrkHqZwuQoGFUG0yKdetUxGudZay2u7hJsPXoA1VIDPOqU9US1TvymmALuEnCBPnZYRs48xpZB_uKSH2qou98vxD4khcWreEkpfs7EGb66iqQszf3p2-3qyvOwSZjl4XqXVcgpwxMcF7-2PtSokGdp-kz9Xv8bOts1Vy-O-CtOuUhmegWz2bk7ZLocGQre6VBw9O1_l7dLyreqS3ZE6kojx_oh-8ZxjphbgsxGjQjUhbtWcbzZxMJScaB87Af0r7gWuuP-6e6gBX9PznpR0bxnQ77oYD_3Q9CH9_a5zXXKoUwwvCeWtoufLv4rxOLyW5tojYmPPFOm3k_62mfibJP5aZ1Kjk8E8eDj60d_XUPCOOnlKXNuofTTiLRGeDGxxbWuGS9wmwjXkKuXHrU",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Kapo Fong",
+          "uri": "https://maps.google.com/maps/contrib/113215235835419582653",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHQwhkJjVvEPbwn22AnbLKa5TeLCSq193CmhcgOuABLqKHOhbHtQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_6cGItAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_6cGItAE!2e10!4m2!3m1!1s0x3404030032044b97:0xb6c15e9367c06b55"
+    },
+    "local_path": "photos/ChIJl0sEMgADBDQRVWvAZ5NewbY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2ea0OMvJ8A5CHu3vivoLgNG0GOFmDb_9fBWCmkUkLNQyvJ3C7lVGUp9H4fATiEAScAWJe86RRdBUHdjuWe9Km8B-tK1ZDy3eB9kR_rd2Llvie9dvHECvOaHINOIH08yPrej-o=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 181492
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chicken_restaurant",
+    "label": "雞肉料理餐廳",
+    "types": [
+      "chicken_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

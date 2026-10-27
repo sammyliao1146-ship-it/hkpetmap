@@ -1,0 +1,40 @@
+{
+  "id": "ChIJPZkSHlgBBDQR-Lo2CySxi5w",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍旺角太子彌敦道780-782號麗英大廈M樓A舖",
+  "location": {
+    "latitude": 22.3256126,
+    "longitude": 114.1682361
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11280304460044614392&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "森日貓酒店 Forestlife Cat Hotel",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJPZkSHlgBBDQR-Lo2CySxi5w/photos/Aa-ngMYvCFxDzNlxpEKiqqIrkFtzulzHmLiXFvrKkiqmbXD42LlcmpeRFGoU0wpnM3oWAIeWMRJSCUI7S9SU-mcngMggYt0aWRBw2HezC_HHE7uSmB-nTvQSW98zEk-wMYXUxIqwUB0Fhl6q0hhDfawp6J9smCGlfq8x4CxgqJDRwJhTcIcfG92sF20G9Itsv_y2K_w5YapIbZrkNDtkpeP-Rz_1RRUfg0z93LpcXmLFTrQpk1LAP42nYxTAzyXDcFRfp7QYZS4qqRMTy17zXeGxgvhR2YTJmBa0aD1uEONyvUHADDKFUmgG0sSJPBszE9E9Iv48kmGYTjvnJZbGJQpMy9ZfWos-7wi97-9cT0MH_9ja0iCi_ROivKVbiz1K7LpsPZ1Nwlzjy4yTuQR7F_dpS56Y2gDoY1-SoznsSEghLmQJ-A",
+      "widthPx": 1920,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "森日貓酒店 Forestlife Cat Hotel",
+          "uri": "https://maps.google.com/maps/contrib/102572190186571425455",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFWmW1VSFob4uWbnLQIxjzDjBOj5ujSWJtyLktqIyYdqk9MkA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAJixHR6AZgg8IfwhBedtmX&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAJixHR6AZgg8IfwhBedtmX!2e10!4m2!3m1!1s0x340401581e12993d:0x9c8bb1240b36baf8"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:19.944774+00:00"
+}

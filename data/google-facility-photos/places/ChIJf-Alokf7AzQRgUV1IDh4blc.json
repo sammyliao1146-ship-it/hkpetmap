@@ -1,0 +1,38 @@
+{
+  "id": "ChIJf-Alokf7AzQRgUV1IDh4blc",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界屯門龍門路43號",
+  "location": {
+    "latitude": 22.384244799999998,
+    "longitude": 113.9672074
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6300105111195960705&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "湖山河畔公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJf-Alokf7AzQRgUV1IDh4blc/photos/Aa-ngMb56pTVLsWjRqB-jhf-iVVazpnCXFmCYfMvK0KrVdZUbbQyYz96yk3FIKSHOdZTst8acMW6wXs9qm-n40V0G2i-ht3hnl3CdO0oYp7Wb3AhHo9FRoNLvZpBBX0YHJ88Q8gG0dtlC5l9tRqIhDysq8tL2mSU6h5zZwLfMKclocF4si8o9BHPexzbkVgLEYI7WCeIAEOuHKl-NJM_Q8i5RvRB0-3oGx71HBBv0NX-fnvST7v89w_3OF_zcF3Z3zq5_vgIY_zC7f4sCVmxvgkidah7xYshrHgbl2sRRKrZG6Z7IDCpmkFxqj34e42ORT3P8o1xbqmx6xPEmOiXdw4ltfY50lqVcN5LRZQn9WNDcj2G2sxG1kYaCJkhXZF8B-5Rnltl_Fv2OwjOas7G5jVVhem7P1bDhVg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Justin C. Horchler",
+          "uri": "https://maps.google.com/maps/contrib/112271370050307676139",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVI-VtBFVtmhzAnNiVBLXjAA9zzKkBKkPxU2QhfiCStNilYYLJGQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICe0syV0gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe0syV0gE!2e10!4m2!3m1!1s0x3403fb47a225e07f:0x576e783820754581"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:15.655490+00:00"
+}

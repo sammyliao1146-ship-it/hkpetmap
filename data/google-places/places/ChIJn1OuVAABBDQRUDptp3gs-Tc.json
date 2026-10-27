@@ -1,0 +1,325 @@
+{
+  "google_place_id": "ChIJn1OuVAABBDQRUDptp3gs-Tc",
+  "restaurant_ids": [
+    "restaurant:3161811522"
+  ],
+  "fetched_at": "2026-10-23T15:47:54.042707+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJn1OuVAABBDQRUDptp3gs-Tc",
+    "types": [
+      "vietnamese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6957 7250",
+    "internationalPhoneNumber": "+852 6957 7250",
+    "formattedAddress": "Unit GF-07, 22 Museum Dr, West Kowloon, Kowloon, 香港",
+    "location": {
+      "latitude": 22.2990158,
+      "longitude": 114.1556894
+    },
+    "rating": 4.8,
+    "googleMapsUri": "https://maps.google.com/?cid=4033303838003640912&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://bohemegrouphk.wixsite.com/quanh-nam",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 22:00",
+        "星期二: 11:00 – 22:00",
+        "星期三: 11:00 – 22:00",
+        "星期四: 11:00 – 22:00",
+        "星期五: 11:00 – 22:00",
+        "星期六: 11:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 247,
+    "displayName": {
+      "text": "Quanh Nam",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "越南餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "vietnamese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJn1OuVAABBDQRUDptp3gs-Tc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjNE1ERk1PVmhRWlZkQ1F6SlpURUUyZUV0b1JsRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物質素非常好，跟環境一樣，都是高水平。\nMandy服務很好，很熱情，印象深刻。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物質素非常好，跟環境一樣，都是高水平。\nMandy服務很好，很熱情，印象深刻。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wong Sammy",
+          "uri": "https://www.google.com/maps/contrib/106402192118727642283/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0xcUrU4K1Nr3bn1XtHH7kCHejlM1BGPtwVr0Fia2_AIUw4A=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-08-05T05:10:00.419694182Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjNE1ERk1PVmhRWlZkQ1F6SlpURUUyZUV0b1JsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjNE1ERk1PVmhRWlZkQ1F6SlpURUUyZUV0b1JsRRAB!2m1!1s0x3404010054ae539f:0x37f92c78a76d3a50"
+      },
+      {
+        "name": "places/ChIJn1OuVAABBDQRUDptp3gs-Tc/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xTVN6bE1hVmxTY1VoaVMxbzVlVkIyT0ZaS1dGRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "西九藝術公園新開咗越南菜Quanh Nam\n對著海景食飯夠哂Chill,食物水準都好高😋\n開胃必點金柚沙律配青檸魚露🥗\n柚子肉勁大粒又夠甜\n配埋酸酸甜甜的魚露汁好開胃\n香辣炒蜆鮮味十足,醬汁帶點辣度好過癮🌶\n春卷拼盤都係必點之選\n一次過試齊蝦餅,米紙卷,蒸粉包\n蝦餅外脆內彈牙,米紙卷口感好豐富\n主食方面,點咗香茅豬頸肉撈檬🐖\n豬頸肉燒得好香口,肉質軟腍\n撈埋酸汁檬粉食落好爽口\n另一道點咗香茅炒牛肉配飯 🐂\n牛肉又腍又入味,送飯一流\n越式飲品都有驚喜\n越南椰奶咖啡椰香味好濃🥥☕️\n配埋醇厚嘅越南咖啡,比例啱啱好\n冰蜜桃茶甜度適中,係解膩嘅最佳選擇🍑\n呢度好啱同朋友喺西九散完步過嚟慢慢嘆\nChill住享受高質越南風味🥰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西九藝術公園新開咗越南菜Quanh Nam\n對著海景食飯夠哂Chill,食物水準都好高😋\n開胃必點金柚沙律配青檸魚露🥗\n柚子肉勁大粒又夠甜\n配埋酸酸甜甜的魚露汁好開胃\n香辣炒蜆鮮味十足,醬汁帶點辣度好過癮🌶\n春卷拼盤都係必點之選\n一次過試齊蝦餅,米紙卷,蒸粉包\n蝦餅外脆內彈牙,米紙卷口感好豐富\n主食方面,點咗香茅豬頸肉撈檬🐖\n豬頸肉燒得好香口,肉質軟腍\n撈埋酸汁檬粉食落好爽口\n另一道點咗香茅炒牛肉配飯 🐂\n牛肉又腍又入味,送飯一流\n越式飲品都有驚喜\n越南椰奶咖啡椰香味好濃🥥☕️\n配埋醇厚嘅越南咖啡,比例啱啱好\n冰蜜桃茶甜度適中,係解膩嘅最佳選擇🍑\n呢度好啱同朋友喺西九散完步過嚟慢慢嘆\nChill住享受高質越南風味🥰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Vicky Kwan",
+          "uri": "https://www.google.com/maps/contrib/115252646649285059559/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLdMnQUoLOYNEtDxMkR_8EQLVTpHoDTPmyrOd_2-EkjSCfsEQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-15T07:48:06.442313852Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xTVN6bE1hVmxTY1VoaVMxbzVlVkIyT0ZaS1dGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xTVN6bE1hVmxTY1VoaVMxbzVlVkIyT0ZaS1dGRRAB!2m1!1s0x3404010054ae539f:0x37f92c78a76d3a50"
+      },
+      {
+        "name": "places/ChIJn1OuVAABBDQRUDptp3gs-Tc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOM056WXpRa3BoUmkxRlJVSlFXSGd6ZUVKd1NtYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "風景好好！嘢食好味！服務非常好☺️Mandy 好helpful 💕",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "風景好好！嘢食好味！服務非常好☺️Mandy 好helpful 💕",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "DK C",
+          "uri": "https://www.google.com/maps/contrib/105873249523757426851/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPXl49vWySvhCz-jdPbXMMgCov9E2JnU9KVBMhJ9Nk-UbkylvA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-09-06T10:02:58.668346471Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOM056WXpRa3BoUmkxRlJVSlFXSGd6ZUVKd1NtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOM056WXpRa3BoUmkxRlJVSlFXSGd6ZUVKd1NtYxAB!2m1!1s0x3404010054ae539f:0x37f92c78a76d3a50"
+      },
+      {
+        "name": "places/ChIJn1OuVAABBDQRUDptp3gs-Tc/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WU15MW5VVkpTT1hGNlVraHZNRWxSYmtGV1ozYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "開放式店舖門口\n環保採光度超強\n特色燈籠掛天花\n地方整潔職員好\n食物飲品多選擇\n出餐快捷存溫暖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "開放式店舖門口\n環保採光度超強\n特色燈籠掛天花\n地方整潔職員好\n食物飲品多選擇\n出餐快捷存溫暖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "cora Lo",
+          "uri": "https://www.google.com/maps/contrib/108537741820414641010/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWO4P0b8IZvHodR6-pvVJIVNQ155Ol4oOXFYgW2EegTXcEU6ih_=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-04-29T01:32:28.247511603Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205WU15MW5VVkpTT1hGNlVraHZNRWxSYmtGV1ozYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205WU15MW5VVkpTT1hGNlVraHZNRWxSYmtGV1ozYxAB!2m1!1s0x3404010054ae539f:0x37f92c78a76d3a50"
+      },
+      {
+        "name": "places/ChIJn1OuVAABBDQRUDptp3gs-Tc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWb2JIbDFOVUU1WmxOSFp6SjVVWFZ3UVROVVJVRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物味道好！撈檬麵線幼滑有彈性，唔係一般越南餐廳嘅麵線。對住海景食飯，再加分！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物味道好！撈檬麵線幼滑有彈性，唔係一般越南餐廳嘅麵線。對住海景食飯，再加分！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yee Ting Sun",
+          "uri": "https://www.google.com/maps/contrib/110421460072115075395/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbTZBsb9RZ3zTunIVF2piu6cwsmd3N0PJoGL8JpNZua0OmZRg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-26T05:24:08.879040151Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWb2JIbDFOVUU1WmxOSFp6SjVVWFZ3UVROVVJVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWb2JIbDFOVUU1WmxOSFp6SjVVWFZ3UVROVVJVRRAB!2m1!1s0x3404010054ae539f:0x37f92c78a76d3a50"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010054ae539f:0x37f92c78a76d3a50!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4033303838003640912&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010054ae539f:0x37f92c78a76d3a50!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010054ae539f:0x37f92c78a76d3a50!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010054ae539f:0x37f92c78a76d3a50!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJn1OuVAABBDQRUDptp3gs-Tc/photos/Aa-ngMa1YxQVAG8q3YJZ-hFVxHphw3osP5PJVSRIKa9lehKZw5r6Q68rpE-muzCXGX0ScgwY7BJeN4T8J80BypmszGrgfRbc3laXpDzPIkWpSxOcZGGEVYmEGnlW3QebdVMxmtMo0twUIcAD0PxTF6fG5_2azt1tKZgLAkedlm3IM94dRzhaQ0-5lEZlDQJ24NPlw4bkPOKD_QR-lJLfz8fUx3RlCHsnYIQrEQaEcuGObRNzifqZ60Ay2k2SRuCStEIwBJNDLZ8JsuItgkraOvYOGBFCLjGMQ1lIXBPaROvAmUEfWed5EbNTa7_3yEoqVsFCCFMAWeytbSFKFLTMfpIAK787xNOKiQa9h5H85ula-kOrQ8yyiW9TRHyVIOaG4u9IRwvFxAp14KNJrDoykWiwXOGP6mJS5cNegF0wCs6Q5TEkdA",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Quanh Nam",
+          "uri": "https://maps.google.com/maps/contrib/115756586720715946807",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZvGdpaUwfE-c9zZSEWVT8lwVjgZYC_CDzZHaxGVaWvOEAfQk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD0kKwrAZMfDUzEBSFek-jq&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD0kKwrAZMfDUzEBSFek-jq!2e10!4m2!3m1!1s0x3404010054ae539f:0x37f92c78a76d3a50"
+    },
+    "local_path": "photos/ChIJn1OuVAABBDQRUDptp3gs-Tc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkg0gTy1BqpDtBo4FXy0rWZ4NnCgwlKw_-_QbURvHuYRQQM1OGjDoHcu4Qt-qfnAV_uz_XljqyrnR34KhKrZE1K086fdZ-6Mv-epCxGBnE6n37O9L7ElmqYklr5lRPfeXp3DzwYW3cULp0=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 235544
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://2f3fa7b0-7d23-489b-ae3a-6c4e5200b934.filesusr.com/ugd/ec959d_b3b935a22a9949d8ac576f6fd8cce2f7.pdf",
+        "label": "Menu",
+        "source_url": "https://bohemegrouphk.wixsite.com/quanh-nam",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "vietnamese_restaurant",
+    "label": "越南餐廳",
+    "types": [
+      "vietnamese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://2f3fa7b0-7d23-489b-ae3a-6c4e5200b934.filesusr.com/ugd/ec959d_b3b935a22a9949d8ac576f6fd8cce2f7.pdf"
+}

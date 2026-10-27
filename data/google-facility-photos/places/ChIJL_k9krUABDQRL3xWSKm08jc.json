@@ -1,0 +1,38 @@
+{
+  "id": "ChIJL_k9krUABDQRL3xWSKm08jc",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍深水埗福華街11號號地下",
+  "location": {
+    "latitude": 22.327835,
+    "longitude": 114.166879
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4031483255606115375&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Beauty Pet Hotel",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJL_k9krUABDQRL3xWSKm08jc/photos/Aa-ngMbzuMhQ85aXY0azWlb6g2X4pQ0yXKfFTaAwHwp64YaaM8KP83RG9TfOG53Zon1gDkB48EXdthKufHClNQ77o7nyOgAPVcMIq7pNoMKUGyZRzRQrrmszGyjTaZtr1RwSPbK5csPLoqsF4svS5xL4FegZNrAr4uKit_tI_zcF8a7AhG0bqs_ac4ilkJnoKgkWOzBq1CHV44J15hwtA34vDe2VmXbEEmWVqfWThszX3_ejoUY5xmMOIr4qXCrSL6QM-Kv3EvTqIjXy-_i1PgijxxMi5VP2DVC6HTQh6l97NR2uIpmauR3ylnEl9Y-G8tjJgHhLZ6azw4QVC1dYMtpJtIgK4fdZb6498pPWPv8L4UvzauudMBgtOCoO_H7QZUGRg_gqlBJSw1YBMUumah59C4tQf_z3",
+      "widthPx": 1191,
+      "heightPx": 670,
+      "authorAttributions": [
+        {
+          "displayName": "Beauty Pet Hotel",
+          "uri": "https://maps.google.com/maps/contrib/103357832643309535030",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWg6pAnE5dTRfQgpwx8dpXkhK_-1Ca8lQgSNdodwOzglf_Gya65=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICa68X3wgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa68X3wgE!2e10!4m2!3m1!1s0x340400b5923df92f:0x37f2b4a948567c2f"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:20.512742+00:00"
+}

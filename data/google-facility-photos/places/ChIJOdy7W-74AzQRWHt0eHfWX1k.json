@@ -1,0 +1,40 @@
+{
+  "id": "ChIJOdy7W-74AzQRWHt0eHfWX1k",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "health",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界荃灣享和街57號地下G鋪",
+  "location": {
+    "latitude": 22.371619,
+    "longitude": 114.112262
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6440101800773450584&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "荃灣獸醫診所",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJOdy7W-74AzQRWHt0eHfWX1k/photos/Aa-ngMZ_ud6hveoET3Dfz8QSw1-nmgoJal4IuGjhBfrIbCjVMVgAvdnpjhB7XBRiaNmM7S0qD5iz5VNoGvM-rP2F0DcYHweDkAWH5nbAKIs5NFHe3VLPRgUmrhp0l1nLMBFMkfo3uGufyHyYXzE-nSLNpcyzqYMRWBEJgGnn7fjWCeRjRm2yIBnPIQDSAvI02NtDHMmjOSlcT4Zw2ux4fZplGyaThqXS2_4WtogBX_cugjZexB4wP8PO4rU32zK3ly5wph2E_Qv4cLyVuaDqtlmI5PEqokn8IRDucLDMRrZjHPcVZG6KZWnhTy9gutNCQNBfShpuwgWOEIEwfu2nvjeHxPeNzFtSNevQ2xwNMXtlUSqSyw0z1N9RrYbUMtF3D_1eyn7Hc5aEEcRY5vqsFv6JvEo8bAw",
+      "widthPx": 1186,
+      "heightPx": 1599,
+      "authorAttributions": [
+        {
+          "displayName": "荃灣獸醫診所",
+          "uri": "https://maps.google.com/maps/contrib/117960753689028568510",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVbf14BTLvRtWcr_XW5OKRSYrBIjPJeONH0sbZhLTUu6W4QoQg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC69pfBfQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC69pfBfQ!2e10!4m2!3m1!1s0x3403f8ee5bbbdc39:0x595fd67778747b58"
+    }
+  ],
+  "photo_count": 5,
+  "fetched_at": "2026-10-24T00:38:50.690650+00:00"
+}

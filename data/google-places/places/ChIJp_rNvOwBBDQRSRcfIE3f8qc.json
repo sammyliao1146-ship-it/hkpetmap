@@ -1,0 +1,313 @@
+{
+  "google_place_id": "ChIJp_rNvOwBBDQRSRcfIE3f8qc",
+  "restaurant_ids": [
+    "restaurant:3162805283"
+  ],
+  "fetched_at": "2026-10-23T15:46:13.937237+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJp_rNvOwBBDQRSRcfIE3f8qc",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港九龍旺角山東街88號",
+    "location": {
+      "latitude": 22.317857099999998,
+      "longitude": 114.1725379
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=12101980671042328393&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 2,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 3,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 17:00 – 02:30",
+        "星期二: 17:00 – 02:30",
+        "星期三: 17:00 – 02:30",
+        "星期四: 17:00 – 02:30",
+        "星期五: 17:00 – 03:00",
+        "星期六: 17:00 – 03:00",
+        "星期日: 17:00 – 02:30"
+      ],
+      "nextCloseTime": "2026-10-23T19:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 64,
+    "displayName": {
+      "text": "Moonkok (Mong Kok)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJp_rNvOwBBDQRSRcfIE3f8qc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWdFdIaEVjbGw2ZVhSTlJFWXhjSGQ2VkdoRlUzYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "店內氣氛擺設唔錯\n有好多手工啤 質素都ok好飲\n\n出面仲有長枱畀你企喺度飲",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店內氣氛擺設唔錯\n有好多手工啤 質素都ok好飲\n\n出面仲有長枱畀你企喺度飲",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ethan",
+          "uri": "https://www.google.com/maps/contrib/108401404279546654862/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTETIXy5pr1Jh2g8UyCnryI7m6pzZFsqPm3jU4a99p-JFNwrLv2A=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-28T04:51:20.634412182Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWdFdIaEVjbGw2ZVhSTlJFWXhjSGQ2VkdoRlUzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWdFdIaEVjbGw2ZVhSTlJFWXhjSGQ2VkdoRlUzYxAB!2m1!1s0x340401ecbccdfaa7:0xa7f2df4d201f1749"
+      },
+      {
+        "name": "places/ChIJp_rNvOwBBDQRSRcfIE3f8qc/reviews/ChZDSUhNMG9nS0VJQ0FnSURmbXRlaVdREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "香港其中一間最正嘅酒吧，good vibe, cocktails and beer.\n如果你喺旺角想試吓香港本土味嘅酒吧，值得一試🍻🍸",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "香港其中一間最正嘅酒吧，good vibe, cocktails and beer.\n如果你喺旺角想試吓香港本土味嘅酒吧，值得一試🍻🍸",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Josh Leung",
+          "uri": "https://www.google.com/maps/contrib/115954399971658272444/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTlXuQektEkZDH6OxCqYPWrSGGBJ4NBjSilyePtRojaWRuFjhcMA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-01-05T16:43:32.669901Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmbXRlaVdREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmbXRlaVdREAE!2m1!1s0x340401ecbccdfaa7:0xa7f2df4d201f1749"
+      },
+      {
+        "name": "places/ChIJp_rNvOwBBDQRSRcfIE3f8qc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOV2MwNUxaREV0TkY5eFdGZ3hSVEl0YjFndE1XYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "難得全都5星好評的店\n剛下飛機放完行李就想找間酒吧小酌，沒想到找到了這麼Local 這麼Chill 的酒吧\n整個讓人很放鬆身心愉悅；\n店長的介紹及解說還有選歌，跟客人的互動加分不少\n\n在這裡也認識了不少香港朋友\n謝謝這裡讓我第一次來香港就有深刻美好的回憶\n\n下次再訪香港必定再訪",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "難得全都5星好評的店\n剛下飛機放完行李就想找間酒吧小酌，沒想到找到了這麼Local 這麼Chill 的酒吧\n整個讓人很放鬆身心愉悅；\n店長的介紹及解說還有選歌，跟客人的互動加分不少\n\n在這裡也認識了不少香港朋友\n謝謝這裡讓我第一次來香港就有深刻美好的回憶\n\n下次再訪香港必定再訪",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "安",
+          "uri": "https://www.google.com/maps/contrib/111892730962107615359/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIpxUoWiBPUigOlRaNSm1E-pZ4vd0Ax-muFtblXGPlFknKeGg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-01-10T03:08:24.877429762Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOV2MwNUxaREV0TkY5eFdGZ3hSVEl0YjFndE1XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOV2MwNUxaREV0TkY5eFdGZ3hSVEl0YjFndE1XYxAB!2m1!1s0x340401ecbccdfaa7:0xa7f2df4d201f1749"
+      },
+      {
+        "name": "places/ChIJp_rNvOwBBDQRSRcfIE3f8qc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiMk9pWml3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "裝修有特色，氣氛好 chill\n多款手工啤同中式fusion cocktail",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "裝修有特色，氣氛好 chill\n多款手工啤同中式fusion cocktail",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "E K",
+          "uri": "https://www.google.com/maps/contrib/111859880432295446343/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9n4HKiyQ4u5x-1QVfoH8O5g5DT-hbQAuwrAf393wLy4DLkURjWA=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-07-23T08:00:50.108587Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiMk9pWml3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiMk9pWml3RRAB!2m1!1s0x340401ecbccdfaa7:0xa7f2df4d201f1749"
+      },
+      {
+        "name": "places/ChIJp_rNvOwBBDQRSRcfIE3f8qc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYaGIzQmp3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "特意來這裡找經理 心十分乾淨 又會多國語言\n雖然很多飲料都缺貨 但附近便利店很多 補貨速度相當快",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "特意來這裡找經理 心十分乾淨 又會多國語言\n雖然很多飲料都缺貨 但附近便利店很多 補貨速度相當快",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Polong",
+          "uri": "https://www.google.com/maps/contrib/106097512164325603149/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLjt0hKyqvjed6tJjl6phfFXxcjBXNUIVVqewfTXkP3VvgQUw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-10-18T15:31:22.706736Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYaGIzQmp3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYaGIzQmp3RRAB!2m1!1s0x340401ecbccdfaa7:0xa7f2df4d201f1749"
+      }
+    ],
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401ecbccdfaa7:0xa7f2df4d201f1749!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12101980671042328393&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401ecbccdfaa7:0xa7f2df4d201f1749!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401ecbccdfaa7:0xa7f2df4d201f1749!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401ecbccdfaa7:0xa7f2df4d201f1749!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJp_rNvOwBBDQRSRcfIE3f8qc/photos/Aa-ngMYychq_P969zRM6qUrVU_8Vg_Y0o9qe2YFMvi0E_KHO5GapZwrGW0ja0hQjlxjllWVzR3OBVHS8b3QlLkQ03V0MR7mOnRJYSwPuZoMw2rak1Bg-AYiMWw40bq_IHaEqK3PgKxLmwuqawhYzGNqDAzt7IeuTBeWWkuEQH3-dDW1LLJIay15i4mlU5nJasVXEZ6FK0iR_ivSanzeUR_3Hp4Phgh_GspsjP9RD9h11CBlOpOR8qld2HZ-RsWS09D3vnvAOP_ZruvQDE5e9RIolyRN0wQpdiSLJQPy4zBU30-NPHAHQDNqaEmmWDvlyHrnLCc8wyycr8MdRHwumqhrRXS9CA_nrxfqdBDj67TnC_xIMOBVhra_30wC6rbzfcyhx2eCYdYxnl4sCQ0P9htT4kb7DVAziQixZABAfjgyYsIiXJA",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "tombak y",
+          "uri": "https://maps.google.com/maps/contrib/114666073702747939918",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqNAXdmxqdTiCruMmW-h5USLT1fM7METXgjdP5l7q6cShLQw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDnGPkNJ0iDCtKVLIUyMyfY&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDnGPkNJ0iDCtKVLIUyMyfY!2e10!4m2!3m1!1s0x340401ecbccdfaa7:0xa7f2df4d201f1749"
+    },
+    "local_path": "photos/ChIJp_rNvOwBBDQRSRcfIE3f8qc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLddCCx9LltFNqC0eCkqjZUvELnGvTtNig0KI3_GgqXSFaSPCMEW9Ebj8fWaPJwhDvD2AQmly89NLNvKDudeUiqNWVu7RzRRt1ciTpzuJ2fZi4oMI566Rtg3UvtBYXYgSif6sRW-weSx8nHg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 154078
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

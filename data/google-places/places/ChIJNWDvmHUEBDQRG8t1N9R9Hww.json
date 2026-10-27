@@ -1,0 +1,321 @@
+{
+  "google_place_id": "ChIJNWDvmHUEBDQRG8t1N9R9Hww",
+  "restaurant_ids": [
+    "restaurant:2298805824"
+  ],
+  "fetched_at": "2026-10-23T15:41:51.422206+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJNWDvmHUEBDQRG8t1N9R9Hww",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港新界將軍澳常寧路2號東翼TKO Gateway1樓E169-E170舖",
+    "location": {
+      "latitude": 22.317289000000002,
+      "longitude": 114.266291
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=873555203150170907&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 08:30 – 22:00",
+        "星期日: 08:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 101,
+    "displayName": {
+      "text": "Coffee Break (坑口店)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJNWDvmHUEBDQRG8t1N9R9Hww/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OVlZtUnFlVFJDZUVweGJrWXdiMjFaUzNwUWJHYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "自從冇晒啲明星background之後就好食咗，佢呢度啲包同Wrap都整得好精緻，飲凍奶茶都唔使加錢，不過就要收加一。如果lunch嘅話，就推薦個墨西哥雞肉Wrap，仲要包埋薯條。\n\nService正常，冇啲comment講到咁，而且有卡位坐又唔趕人走，同friend吹吓水都好d，好過食附近間大陸麵。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "自從冇晒啲明星background之後就好食咗，佢呢度啲包同Wrap都整得好精緻，飲凍奶茶都唔使加錢，不過就要收加一。如果lunch嘅話，就推薦個墨西哥雞肉Wrap，仲要包埋薯條。\n\nService正常，冇啲comment講到咁，而且有卡位坐又唔趕人走，同friend吹吓水都好d，好過食附近間大陸麵。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jeremy Ng",
+          "uri": "https://www.google.com/maps/contrib/103885712053089444956/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWDf5OBHxlglDtl2n7-ufVyGG4ne-MqgYrF1XteKj636QXIsU=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-25T06:47:40.000424839Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OVlZtUnFlVFJDZUVweGJrWXdiMjFaUzNwUWJHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OVlZtUnFlVFJDZUVweGJrWXdiMjFaUzNwUWJHYxAB!2m1!1s0x3404047598ef6035:0xc1f7dd43775cb1b"
+      },
+      {
+        "name": "places/ChIJNWDvmHUEBDQRG8t1N9R9Hww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pONlZrNUlibVpmY1ZCV1JXSktURTlzWnpOMFptYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "下班後和另一半來到坑口 TKO Gateway，意外挖到一間寶藏西餐小店！\n\n😍 門口的「法式香草烤雞二人套餐」CP值超高，份量和質素都很驚喜～南瓜湯香濃順滑🥣，白酒忌廉煮紐西蘭青口隻隻飽滿，配麵包超滿足🐚！主角法式香草烤全雞更是必點，外皮金黃香脆，切開瞬間爆汁，雞肉嫩到不行🍗！\n\n再來一份西班牙辣肉腸拉絲芝士薄餅，鹹香微辣加上薄脆餅底，越吃越上癮🍕🔥。加點的脆炸雞球外酥內嫩，配自家製醬汁和洋蔥碎超加分！\n\n最後再喝摩卡咖啡、雜莓乳酪，配上朱古力蛋糕作結，整餐幸福感直接拉滿☕🍓🍰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "下班後和另一半來到坑口 TKO Gateway，意外挖到一間寶藏西餐小店！\n\n😍 門口的「法式香草烤雞二人套餐」CP值超高，份量和質素都很驚喜～南瓜湯香濃順滑🥣，白酒忌廉煮紐西蘭青口隻隻飽滿，配麵包超滿足🐚！主角法式香草烤全雞更是必點，外皮金黃香脆，切開瞬間爆汁，雞肉嫩到不行🍗！\n\n再來一份西班牙辣肉腸拉絲芝士薄餅，鹹香微辣加上薄脆餅底，越吃越上癮🍕🔥。加點的脆炸雞球外酥內嫩，配自家製醬汁和洋蔥碎超加分！\n\n最後再喝摩卡咖啡、雜莓乳酪，配上朱古力蛋糕作結，整餐幸福感直接拉滿☕🍓🍰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "P Brian",
+          "uri": "https://www.google.com/maps/contrib/110585247690144849703/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHoZcs2DlsezO2uQkznZVKvtJTukqOMPtZsR9UXO1Isva4iw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-24T06:45:30.187641488Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pONlZrNUlibVpmY1ZCV1JXSktURTlzWnpOMFptYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pONlZrNUlibVpmY1ZCV1JXSktURTlzWnpOMFptYxAB!2m1!1s0x3404047598ef6035:0xc1f7dd43775cb1b"
+      },
+      {
+        "name": "places/ChIJNWDvmHUEBDQRG8t1N9R9Hww/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oblMwMWphMnhtWVUxMVQxVnhNRzV6ZEV0NmRVRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 3,
+        "text": {
+          "text": "Seared barramundi with Caesar salad\n香煎盲曹魚柳 配 凱撒沙律\nHKD166\n.\nlarge pieces of barramundi\n.\nthe barramundi fillets are nicely seared with crispy golden skin\n.\nthe fillets are flaky",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Seared barramundi with Caesar salad\n香煎盲曹魚柳 配 凱撒沙律\nHKD166\n.\nlarge pieces of barramundi\n.\nthe barramundi fillets are nicely seared with crispy golden skin\n.\nthe fillets are flaky",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "P P",
+          "uri": "https://www.google.com/maps/contrib/101435250651252572757/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWujYUWQL1NgT8t1JXFc_iqAwD5NbL3nRX8ZTiWa9MakVY9paff_A=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-23T10:55:39.175557304Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oblMwMWphMnhtWVUxMVQxVnhNRzV6ZEV0NmRVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oblMwMWphMnhtWVUxMVQxVnhNRzV6ZEV0NmRVRRAB!2m1!1s0x3404047598ef6035:0xc1f7dd43775cb1b"
+      },
+      {
+        "name": "places/ChIJNWDvmHUEBDQRG8t1N9R9Hww/reviews/ChZDSUhNMG9nS0VJQ0FnTURBNUlpa0NBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "和朋友一起吃晚餐，食物款式種類多。當晚叫了牛扒(可惜當時冇影牛扒相)，扮肥膏比較多。份量偏少。價錢是二百幾。服務幾好，見到唔夠餐具，會自動加畀你。職員有禮貌。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "和朋友一起吃晚餐，食物款式種類多。當晚叫了牛扒(可惜當時冇影牛扒相)，扮肥膏比較多。份量偏少。價錢是二百幾。服務幾好，見到唔夠餐具，會自動加畀你。職員有禮貌。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "moon moon",
+          "uri": "https://www.google.com/maps/contrib/106365109654879794737/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIJ6o_iNbjUNgXguL6gUqo_0TAfTINipcVumb-9hNcJxLJwMQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-02-07T04:05:36.112041Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBNUlpa0NBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBNUlpa0NBEAE!2m1!1s0x3404047598ef6035:0xc1f7dd43775cb1b"
+      },
+      {
+        "name": "places/ChIJNWDvmHUEBDQRG8t1N9R9Hww/reviews/ChZDSUhNMG9nS0VLNk4ySnIzd3A3T2F3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "星期六也有午餐\n點了一個意粉和一個薄餅\n食物質素良好，薄餅煙靭材料充足，意粉也很有水準，做到有咬口材料足、好食！\n可以加$12加湯和沙律，質素也很好，蘑菇湯係標準的西湯，將蘑菇用攪拌機打碎，再加忌廉和雞湯，沙律新鮮好食\n用心的小店，值得支持",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期六也有午餐\n點了一個意粉和一個薄餅\n食物質素良好，薄餅煙靭材料充足，意粉也很有水準，做到有咬口材料足、好食！\n可以加$12加湯和沙律，質素也很好，蘑菇湯係標準的西湯，將蘑菇用攪拌機打碎，再加忌廉和雞湯，沙律新鮮好食\n用心的小店，值得支持",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Patrick Cheung",
+          "uri": "https://www.google.com/maps/contrib/101488301149506354949/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhXxfLKI-ZGugWUufP7sONd7bJnr1sizzCoaCX4CqI1xYXUn5u=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-06-08T16:26:15.178081Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VLNk4ySnIzd3A3T2F3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VLNk4ySnIzd3A3T2F3EAE!2m1!1s0x3404047598ef6035:0xc1f7dd43775cb1b"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404047598ef6035:0xc1f7dd43775cb1b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=873555203150170907&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404047598ef6035:0xc1f7dd43775cb1b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404047598ef6035:0xc1f7dd43775cb1b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404047598ef6035:0xc1f7dd43775cb1b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJNWDvmHUEBDQRG8t1N9R9Hww/photos/Aa-ngMYpHHJ8V3H-r4UQjzXnKxSWpWdT_QVN98Goa_l8RozCLMpK9Mbop7EK7tJ73WryX_yAWEl9hQiuIRuKOd9GOt_XPnnWNpp-6xEXpBcM8GHD5oCQzVFDZLuf5P9yjE3Sf3da64OOBa2D8QEdy50q7skzFTtqLPBs60OVZ2BNR7ScMdpMugyLVNpHsuCjn26TYS59zD992BlrPG_jU30nFw1wrRf1znvO49LK-uArSQwAk7FtU1wBYIKtlzNmWLV_OIyFfEKhu-pjK1cdKTcvLAn4XeQmmYH68M5o8YmPw0Cd5-lsp4cH6rf3xJFm3LGn-2TUScP2voTQDiH0uesAwMd65411GvbaYGYSUXO8tG7U-kzPxy9mjqVkoaWngCR52nSS-3YgG9A8vh9H2h6AOUklb8mCM-q7cAD_9ke2lOoFIQ",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "P P",
+          "uri": "https://maps.google.com/maps/contrib/101435250651252572757",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWujYUWQL1NgT8t1JXFc_iqAwD5NbL3nRX8ZTiWa9MakVY9paff_A=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCq6gMA40JWfulPt1gtMDQl&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCq6gMA40JWfulPt1gtMDQl!2e10!4m2!3m1!1s0x3404047598ef6035:0xc1f7dd43775cb1b"
+    },
+    "local_path": "photos/ChIJNWDvmHUEBDQRG8t1N9R9Hww.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIbYhAzXCNc1tbUBnPxxCQu-1fj62bAFu7LZUAMSlW6Jn0uyvscZXyYM8X98542GNstr-Zd1lDZM3gheq2Iqbpioqr__GXlY0_9MkVkS7IUMzgysnjismGZqpepMs6_wbBtGODO5F9oSzW=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 233790
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

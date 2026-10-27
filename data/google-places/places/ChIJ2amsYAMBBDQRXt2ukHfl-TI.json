@@ -1,0 +1,320 @@
+{
+  "google_place_id": "ChIJ2amsYAMBBDQRXt2ukHfl-TI",
+  "restaurant_ids": [
+    "restaurant:3111802848"
+  ],
+  "fetched_at": "2026-10-23T15:40:17.734889+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ2amsYAMBBDQRXt2ukHfl-TI",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2802 6688",
+    "internationalPhoneNumber": "+852 2802 6688",
+    "formattedAddress": "香港香港島北角和富道74-82號仁 寶 閣地 庫",
+    "location": {
+      "latitude": 22.2920183,
+      "longitude": 114.1970353
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=3673219272788598110&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.barpacific.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 4,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:30 – 04:00",
+        "星期二: 16:30 – 04:00",
+        "星期三: 16:30 – 04:00",
+        "星期四: 16:30 – 04:00",
+        "星期五: 16:30 – 04:00",
+        "星期六: 16:30 – 04:00",
+        "星期日: 16:30 – 04:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 60,
+    "displayName": {
+      "text": "Bar Pacific",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJ2amsYAMBBDQRXt2ukHfl-TI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSd3F2elpREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "地方大，員工好熱情",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地方大，員工好熱情",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ka ka",
+          "uri": "https://www.google.com/maps/contrib/101052280100273262939/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlSyAZ2qR9L8BtyC9yUCop1GaaL6k9XoKbD6YK2rmoBKzzSZ55eg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-03-28T13:37:41.449084Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSd3F2elpREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSd3F2elpREAE!2m1!1s0x3404010360aca9d9:0x32f9e57790aedd5e"
+      },
+      {
+        "name": "places/ChIJ2amsYAMBBDQRXt2ukHfl-TI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRbGVHeER3EAE",
+        "relativePublishTimeDescription": "9 年前",
+        "rating": 4,
+        "text": {
+          "text": "勝在人少",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "勝在人少",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kenneth cm c.",
+          "uri": "https://www.google.com/maps/contrib/100488529454506337761/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLXDcrUV4M_SHCelxSsmuEAYaXQlpDbYFZbK2ZZ9cd-gqWr9W8iA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2017-02-03T16:42:23.453Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRbGVHeER3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRbGVHeER3EAE!2m1!1s0x3404010360aca9d9:0x32f9e57790aedd5e"
+      },
+      {
+        "name": "places/ChIJ2amsYAMBBDQRXt2ukHfl-TI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQweUtXcTZnRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 1,
+        "text": {
+          "text": "糟糕透頂。偶然發現這家新酒吧，就跟兩個朋友進去看看。我們是唯一的客人。雞尾酒簡直難以下嚥。莫吉托嘗起來像牙膏。伏特加青檸簡直就是糖水和青檸汁的混合，完全嚐不出酒精味。我們跟服務生說了酒很難喝，他們居然只是點點頭。真是匪夷所思。更莫名其妙的是，每杯酒居然都配上了四根塑膠吸管。我們以後絕對不會再來了。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Horrifically terrible. Noticed this new bar and stopped in with two friends. We were the only patrons. Cocktails are undrinkable. Mojito tasted like toothpaste. Vodka-lime is a diabetic mix of sugar water and Limeaid. Cannot detect any alcohol in the drinks. We told the staff that drinks were terrible and they just nodded. Bizarre. Also inexplicably served with no fewer than FOUR plastic straws. We will never come back.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Sarah Churgin",
+          "uri": "https://www.google.com/maps/contrib/115604773762261196160/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGm_MKwk0rjzMHSMBDuP5TYN-cYVrVG9hGSPHpcL3jhV0QUQJS-w=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2019-10-20T12:44:01.585835Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQweUtXcTZnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQweUtXcTZnRRAB!2m1!1s0x3404010360aca9d9:0x32f9e57790aedd5e"
+      },
+      {
+        "name": "places/ChIJ2amsYAMBBDQRXt2ukHfl-TI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGWk9HWjFjbTR6YUZSQ2JuWnNVRGMyUVdkb09HYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 1,
+        "text": {
+          "text": "員工態度非常惡劣，別來這裡浪費錢。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "staff are very rude, dont waste your money here",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Kel",
+          "uri": "https://www.google.com/maps/contrib/116393289797963466855/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLJZEcin3p0b-gUuFzUIGmjYAy5LZIK1_MYlGIJKPFxJX2rEQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-08T05:47:54.320837078Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGWk9HWjFjbTR6YUZSQ2JuWnNVRGMyUVdkb09HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGWk9HWjFjbTR6YUZSQ2JuWnNVRGMyUVdkb09HYxAB!2m1!1s0x3404010360aca9d9:0x32f9e57790aedd5e"
+      },
+      {
+        "name": "places/ChIJ2amsYAMBBDQRXt2ukHfl-TI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMeHJUOFpnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "這家店的服務絕對需要改進。除了最初的訂單之外，他們似乎對其他顧客漠不關心。另外令人驚訝的是，有好幾家店都叫這個名字。所以最好多確認一下。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Definitely needs a better hospitality. They don't have any concern after the initial order.  Also surprising to note there several places with the same name. So better to have a double check",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Herbal Latnic",
+          "uri": "https://www.google.com/maps/contrib/106313820757273604470/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_5Wx0VtHUvCI2-CWQY0BhMjv5eS-VmHDoCD2SDatYXGYu4_rk=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-06-18T14:55:19.460155Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMeHJUOFpnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMeHJUOFpnEAE!2m1!1s0x3404010360aca9d9:0x32f9e57790aedd5e"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010360aca9d9:0x32f9e57790aedd5e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3673219272788598110&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010360aca9d9:0x32f9e57790aedd5e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010360aca9d9:0x32f9e57790aedd5e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010360aca9d9:0x32f9e57790aedd5e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ2amsYAMBBDQRXt2ukHfl-TI/photos/Aa-ngMaFe2JnxV2lGOFKXI72xIfS69dBGb6YRDSUwA_uaZ3jkRw3-CVY1DSH6CMoESuY23QIt2X7mzQ1_QdLKp0O4S_-eSWJQYgblInEh4_M3wYDDE_1kOMY6R68oPF39G_WFg0_FZxCbcqanSukAAWrfkl3xw0eMZq53TqF3nKZgQLwT73rclcAdTTGvjUbQziGpyFCVXEBFKEC9kcH8hBaAskDzeoE0t_gL8Snn7TjM5L24Mgt0sgofTPp8EgoKlvROLuUXsBLc9_4cFbImrqliZKsn2bFu0NOxQcMZgpkP2m2_DZlx_7NuaVZzAFhAfiErk1mzU9ujEUNYxTCYVpT3ma4UXkYqEM88u-r28N54tN0U1Y8uN89V6bJO8U8VJJeExHg_WA31AFF9_vkG5BSYmr_iA",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Bar Pacific 太平洋酒吧 ( 北角和富道 74 號 )",
+          "uri": "https://maps.google.com/maps/contrib/115097413633122815614",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ8CrV9ftdnBDUsM_H-fdhRIFzk8V5eDiUgcdUS8yPO4QyeNg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICx7rnUIw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx7rnUIw!2e10!4m2!3m1!1s0x3404010360aca9d9:0x32f9e57790aedd5e"
+    },
+    "local_path": "photos/ChIJ2amsYAMBBDQRXt2ukHfl-TI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRSViof_K73C0ReMTmI1no06bSXm0QDiQY0At-gqcZMotoWgIBE3vAvbwhvmMmJZVf2yGKnwuimdzqmQJ96pLIE9clH9wAuolkpmZfadi21V7avE-bXDMT7kbDReAqIlikw-w=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 169190
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

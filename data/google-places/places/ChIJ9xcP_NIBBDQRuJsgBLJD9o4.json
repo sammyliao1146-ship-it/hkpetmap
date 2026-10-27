@@ -1,0 +1,329 @@
+{
+  "google_place_id": "ChIJ9xcP_NIBBDQRuJsgBLJD9o4",
+  "restaurant_ids": [
+    "restaurant:2212821703"
+  ],
+  "fetched_at": "2026-10-23T15:41:39.652144+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ9xcP_NIBBDQRuJsgBLJD9o4",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2608 1833",
+    "internationalPhoneNumber": "+852 2608 1833",
+    "formattedAddress": "Shop 8, 4/F, World Trade Center, Gloucester Rd, Causeway Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2818984,
+      "longitude": 114.18412119999999
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=10301495629509073848&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 220,
+    "displayName": {
+      "text": "喫茶ちょうぼ (銅鑼灣)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ9xcP_NIBBDQRuJsgBLJD9o4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taNFNXeHJSekEzUVRWU1JDMXZiR0ZIWTJOVGFrRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 3,
+        "text": {
+          "text": "嘢食嘢飲，上到檯係微溫\n味道雖正常，但連熱飲都唔熱真係有點兒...\n啲waiter,waitress叫幾聲先至郁一郁，唔知係咪因為tea time佢地落緊場休息🤷🏻‍♀️\n\n抺茶戚風蛋糕，order 時講咗叫起，但食完飯叫佢上個蛋糕，可以上咗大半個鐘都未上到，唔知以為即做🙃（但當然唔係即做）同埋啲nuts有陣「益味」，唔太好食。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "嘢食嘢飲，上到檯係微溫\n味道雖正常，但連熱飲都唔熱真係有點兒...\n啲waiter,waitress叫幾聲先至郁一郁，唔知係咪因為tea time佢地落緊場休息🤷🏻‍♀️\n\n抺茶戚風蛋糕，order 時講咗叫起，但食完飯叫佢上個蛋糕，可以上咗大半個鐘都未上到，唔知以為即做🙃（但當然唔係即做）同埋啲nuts有陣「益味」，唔太好食。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "jaja ho",
+          "uri": "https://www.google.com/maps/contrib/113476310060451109008/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaTtUxDFXU47wdRPBUJW0JOPp2aIpMrMt4FZXMUdJ3ElRrfFxD=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-29T13:55:29.001323731Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taNFNXeHJSekEzUVRWU1JDMXZiR0ZIWTJOVGFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taNFNXeHJSekEzUVRWU1JDMXZiR0ZIWTJOVGFrRRAB!2m1!1s0x340401d2fc0f17f7:0x8ef643b204209bb8"
+      },
+      {
+        "name": "places/ChIJ9xcP_NIBBDQRuJsgBLJD9o4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWSFMxcFRiblI1WW1FNVJETlNSalJ1UjFSUWJWRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Foodie IG @foodpilgrimage.gps\n\n➲ 銅鑼灣 喫茶ちょうぼ\n\n穿越咗去銅鑼灣鬧市嘅日本喫茶店。呢度由裝修到背景音樂都充滿昭和風情，好似瞬間去咗東京一樣，好有儀式感。\n\n➳ 日式紅酒燉牛面頰蛋包飯\n𝑂𝑚𝑢𝑟𝑖𝑐𝑒 𝑤𝑖𝑡ℎ 𝐽𝑎𝑝𝑎𝑛𝑒𝑠𝑒 𝑆𝑡𝑦𝑙𝑒 𝐵𝑒𝑒𝑓 𝐶ℎ𝑒𝑒𝑘 𝑆𝑡𝑒𝑤 𝑖𝑛 𝑅𝑒𝑑 𝑊𝑖𝑛𝑒 𝑆𝑎𝑢𝑐𝑒\n主打嘅日式紅酒燉牛面頰蛋包飯，絕對係心機之作。蛋包飯嘅蛋皮做得靚，口感嫩滑，炒飯底唔會太濕。重點係旁邊嘅紅酒燉牛面頰，燉到極之鬆化，用刀輕輕一切就散開，筋肉嘅膠質完全融入咗紅酒汁入面，味道濃郁得嚟帶啲甜，同嫩滑嘅蛋飯好夾。\n\n➳ 焙茶牛乳\n𝐻𝑜𝑗𝑖𝑐ℎ𝑎 𝑀𝑖𝑙𝑘\n食濃味嘢配返杯焙茶牛乳就最啱。焙茶茶香醇厚，帶點炭火烘焙過嘅香氣，完全冇苦澀味。用咗鹿兒島3.6牛乳，口感順滑，茶同奶平衡得好好，面頭仲有粒粒麻糬同奶蓋，飲完成個人暖笠笠。\n\n➳ 日式布甸\n𝐶𝑎𝑟𝑎𝑚𝑒𝑙 𝑃𝑢𝑑𝑑𝑖𝑛𝑔\n最後梗係唔少得佢哋嘅日式布甸！焦糖醬帶點甘苦，平衡咗甜度。布甸體口感紮實得嚟又滑溜，蛋味好香濃，係傳統喫茶店嗰種令人懷念嘅味道。\n\n成個體驗好治癒，好適合一個人嚟享受慢活時光，或者同朋友靜靜地傾偈。一定會再嚟，試勻佢哋其他甜品。\n\n⤵\n\n@choubo_kissaten\n銅鑼灣告士打道280號世貿中心4樓8號舖\n\n#hkfood #hkrestaurant #hkcafe #cafehk #hk #hkfoodie #hkfoodblogger #hkcoffee #hkcoffeeshop #coffeeinhongkong #cafeholic #foodblog #foodblogger #foodreview #香港美食 #香港食評 #銅鑼灣美食 #抹茶 #焙茶 #麻糬 #喫茶 #布甸",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Foodie IG @foodpilgrimage.gps\n\n➲ 銅鑼灣 喫茶ちょうぼ\n\n穿越咗去銅鑼灣鬧市嘅日本喫茶店。呢度由裝修到背景音樂都充滿昭和風情，好似瞬間去咗東京一樣，好有儀式感。\n\n➳ 日式紅酒燉牛面頰蛋包飯\n𝑂𝑚𝑢𝑟𝑖𝑐𝑒 𝑤𝑖𝑡ℎ 𝐽𝑎𝑝𝑎𝑛𝑒𝑠𝑒 𝑆𝑡𝑦𝑙𝑒 𝐵𝑒𝑒𝑓 𝐶ℎ𝑒𝑒𝑘 𝑆𝑡𝑒𝑤 𝑖𝑛 𝑅𝑒𝑑 𝑊𝑖𝑛𝑒 𝑆𝑎𝑢𝑐𝑒\n主打嘅日式紅酒燉牛面頰蛋包飯，絕對係心機之作。蛋包飯嘅蛋皮做得靚，口感嫩滑，炒飯底唔會太濕。重點係旁邊嘅紅酒燉牛面頰，燉到極之鬆化，用刀輕輕一切就散開，筋肉嘅膠質完全融入咗紅酒汁入面，味道濃郁得嚟帶啲甜，同嫩滑嘅蛋飯好夾。\n\n➳ 焙茶牛乳\n𝐻𝑜𝑗𝑖𝑐ℎ𝑎 𝑀𝑖𝑙𝑘\n食濃味嘢配返杯焙茶牛乳就最啱。焙茶茶香醇厚，帶點炭火烘焙過嘅香氣，完全冇苦澀味。用咗鹿兒島3.6牛乳，口感順滑，茶同奶平衡得好好，面頭仲有粒粒麻糬同奶蓋，飲完成個人暖笠笠。\n\n➳ 日式布甸\n𝐶𝑎𝑟𝑎𝑚𝑒𝑙 𝑃𝑢𝑑𝑑𝑖𝑛𝑔\n最後梗係唔少得佢哋嘅日式布甸！焦糖醬帶點甘苦，平衡咗甜度。布甸體口感紮實得嚟又滑溜，蛋味好香濃，係傳統喫茶店嗰種令人懷念嘅味道。\n\n成個體驗好治癒，好適合一個人嚟享受慢活時光，或者同朋友靜靜地傾偈。一定會再嚟，試勻佢哋其他甜品。\n\n⤵\n\n@choubo_kissaten\n銅鑼灣告士打道280號世貿中心4樓8號舖\n\n#hkfood #hkrestaurant #hkcafe #cafehk #hk #hkfoodie #hkfoodblogger #hkcoffee #hkcoffeeshop #coffeeinhongkong #cafeholic #foodblog #foodblogger #foodreview #香港美食 #香港食評 #銅鑼灣美食 #抹茶 #焙茶 #麻糬 #喫茶 #布甸",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cherie Kwok",
+          "uri": "https://www.google.com/maps/contrib/104657192683884693481/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_QB8P9Ox5GF5QNnIQySaaJDMOzaAbEwAUNEPdXw-J6AKAD4Y=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-22T13:47:21.709271520Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWSFMxcFRiblI1WW1FNVJETlNSalJ1UjFSUWJWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWSFMxcFRiblI1WW1FNVJETlNSalJ1UjFSUWJWRRAB!2m1!1s0x340401d2fc0f17f7:0x8ef643b204209bb8"
+      },
+      {
+        "name": "places/ChIJ9xcP_NIBBDQRuJsgBLJD9o4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsdVEyaGtZVUkwUTJ4ZmRsRkNOelUyVW0xU1FrRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 3,
+        "text": {
+          "text": "食物賣相幾靚，但唔係好夠熱，味道一般。服務態度有進步空間，但部分店員都可以。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物賣相幾靚，但唔係好夠熱，味道一般。服務態度有進步空間，但部分店員都可以。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "LonelyWolf",
+          "uri": "https://www.google.com/maps/contrib/101754696320785084563/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI77pOnpkJYzfj7jiFCNCBq0h36BYPe_xVkdaF_0RyhAblaSA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-10T15:03:50.607323406Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsdVEyaGtZVUkwUTJ4ZmRsRkNOelUyVW0xU1FrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsdVEyaGtZVUkwUTJ4ZmRsRkNOelUyVW0xU1FrRRAB!2m1!1s0x340401d2fc0f17f7:0x8ef643b204209bb8"
+      },
+      {
+        "name": "places/ChIJ9xcP_NIBBDQRuJsgBLJD9o4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWbVVsTTJUV1psV2t0VGFUYzRPVnBRUVVOTlRHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "喫茶ちょうぼ．蟹膏控同甜品怪必食\n\n呢間位於銅鑼灣世貿嘅「喫茶ちょうぼ」好驚豔我！\n平時行開銅鑼灣都係由朋友發版多，今次撞手神試到呢間，\n真心覺得係寶藏店～由飲品到主食再到甜品，樣樣都有驚喜\n\n飲品：靚到唔捨得飲，味道仲要滿分！\n首先，佢哋杯「夏祭金魚梳打」真係不得了～一上枱，嘩！真係有4條金魚軟糖喺杯底游緊水，橙橙黃黃嘅顏色，睇落已經透心涼！氣泡夠足，仲有淡淡嘅柚子香，啲金魚軟糖浸耐少少會變軟，咬落去juicy得嚟又唔會搶味。成杯嘢靚到相機食先，但味道一樣keep到水準，抵讚！\n\n另一杯「柿子香露」就更加出乎意料～平時好少見到柿子做飲品，以為會好甜，點知一飲，嘩！清新到爆！味道天然，有花香，又有果香，微微嘅甜香加上碎冰口感，解膩一流！\n\n主食：蟹膏爆炸多，食到舔舔脷！\n佢哋嘅「蟹旨膏醬唐揚炸雞」真係無得頂～炸雞外皮脆到「咔嚓」聲，咬開肉汁多到呢！重點係自己點的蟹膏醬油香十足又濃郁……同炸雞嘅油香撞到正一正！\n\n跟住係「贅沢蟹黄膏蛋包飯」，一上枱已經有睇頭！隻蛋包飯勁好睇！一切開淋上去，滿滿幸福感！周圍都係橙黃色嘅蟹皇膏！撈勻啲飯，每一啖都食到蟹肉同膏香，成個組合豐富到呢……蟹控必叫！\n\n最後個「屋台風蒜香意粉」一食就知中招！好好食！。蒜的香氣入晒意粉，殼意粉掛汁力強，每條都索滿蒜油同醬香，仲有啲煙肉碎增加鹹香，簡單但入味到不得了，證明廚師功力夠晒深厚～\n\n甜品：南瓜芝士蛋糕，超級濃郁！\n食到飽飽，本來諗住叫件甜品試吓算，點知件「完熟南瓜濃香芝士蛋糕」一入口，即刻醒神！南瓜味天然香甜，芝士層綿密濃郁，兩者平衡得啱啱好，一啲都唔膩。食完真係有種幸福嘅感覺，完美收官！\n\n呢排好正，10月份有特別推廣 ：《清涼一夏. 西瓜幸運祭》\n即日起，當月消費滿$200，即可享有夾西瓜機會！\n消費滿$400，則有2次機會\n驚喜獎賞包括：\n1.「原個西瓜飲一客」優惠券（即時享用，冰涼暢快！）\n2. 減壓西瓜 & 自選蛋包飯優惠券\n3. 西瓜波 & 自選小食優惠券\n\n食左乜：\n飲品：好有特色：\n1.夏祭金魚梳打：真係有4條金魚軟糖，好靚又好飲\n2.柿子香露 ：好清新，意想不到\n\n主食：\n1.蟹旨膏醬唐揚炸雞：雞好多汁，好脆好正\n2.贅沢蟹黄膏蛋包飯：勁多蟹皇，睇得到蟹肉！\n3.屋台風蒜香貝殼意粉 ：好香入味，估唔到咁夾！\n\n甜品：完熟南瓜！濃香芝士蛋糕\n\n餐廳：\t喫茶ちょうぼ (銅鑼灣)\n地址：\t銅鑼灣告士打道280號世貿中心4樓8號\n\n#ChouboKissaten #喫茶ちょうぼ #喫茶店 #日式 #溫暖 #和室 #昭和\n#sweet #fresh #tasty #delish #eating\n#foodpic #hungry #foodgasm #love #follow4follow\n#shrimp  #dinner  #seafood\n#crab #Chicken #Crispy\n\n#dinner #japanfood\n#香港美食\n#香港探店\n#JAPAN",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "喫茶ちょうぼ．蟹膏控同甜品怪必食\n\n呢間位於銅鑼灣世貿嘅「喫茶ちょうぼ」好驚豔我！\n平時行開銅鑼灣都係由朋友發版多，今次撞手神試到呢間，\n真心覺得係寶藏店～由飲品到主食再到甜品，樣樣都有驚喜\n\n飲品：靚到唔捨得飲，味道仲要滿分！\n首先，佢哋杯「夏祭金魚梳打」真係不得了～一上枱，嘩！真係有4條金魚軟糖喺杯底游緊水，橙橙黃黃嘅顏色，睇落已經透心涼！氣泡夠足，仲有淡淡嘅柚子香，啲金魚軟糖浸耐少少會變軟，咬落去juicy得嚟又唔會搶味。成杯嘢靚到相機食先，但味道一樣keep到水準，抵讚！\n\n另一杯「柿子香露」就更加出乎意料～平時好少見到柿子做飲品，以為會好甜，點知一飲，嘩！清新到爆！味道天然，有花香，又有果香，微微嘅甜香加上碎冰口感，解膩一流！\n\n主食：蟹膏爆炸多，食到舔舔脷！\n佢哋嘅「蟹旨膏醬唐揚炸雞」真係無得頂～炸雞外皮脆到「咔嚓」聲，咬開肉汁多到呢！重點係自己點的蟹膏醬油香十足又濃郁……同炸雞嘅油香撞到正一正！\n\n跟住係「贅沢蟹黄膏蛋包飯」，一上枱已經有睇頭！隻蛋包飯勁好睇！一切開淋上去，滿滿幸福感！周圍都係橙黃色嘅蟹皇膏！撈勻啲飯，每一啖都食到蟹肉同膏香，成個組合豐富到呢……蟹控必叫！\n\n最後個「屋台風蒜香意粉」一食就知中招！好好食！。蒜的香氣入晒意粉，殼意粉掛汁力強，每條都索滿蒜油同醬香，仲有啲煙肉碎增加鹹香，簡單但入味到不得了，證明廚師功力夠晒深厚～\n\n甜品：南瓜芝士蛋糕，超級濃郁！\n食到飽飽，本來諗住叫件甜品試吓算，點知件「完熟南瓜濃香芝士蛋糕」一入口，即刻醒神！南瓜味天然香甜，芝士層綿密濃郁，兩者平衡得啱啱好，一啲都唔膩。食完真係有種幸福嘅感覺，完美收官！\n\n呢排好正，10月份有特別推廣 ：《清涼一夏. 西瓜幸運祭》\n即日起，當月消費滿$200，即可享有夾西瓜機會！\n消費滿$400，則有2次機會\n驚喜獎賞包括：\n1.「原個西瓜飲一客」優惠券（即時享用，冰涼暢快！）\n2. 減壓西瓜 & 自選蛋包飯優惠券\n3. 西瓜波 & 自選小食優惠券\n\n食左乜：\n飲品：好有特色：\n1.夏祭金魚梳打：真係有4條金魚軟糖，好靚又好飲\n2.柿子香露 ：好清新，意想不到\n\n主食：\n1.蟹旨膏醬唐揚炸雞：雞好多汁，好脆好正\n2.贅沢蟹黄膏蛋包飯：勁多蟹皇，睇得到蟹肉！\n3.屋台風蒜香貝殼意粉 ：好香入味，估唔到咁夾！\n\n甜品：完熟南瓜！濃香芝士蛋糕\n\n餐廳：\t喫茶ちょうぼ (銅鑼灣)\n地址：\t銅鑼灣告士打道280號世貿中心4樓8號\n\n#ChouboKissaten #喫茶ちょうぼ #喫茶店 #日式 #溫暖 #和室 #昭和\n#sweet #fresh #tasty #delish #eating\n#foodpic #hungry #foodgasm #love #follow4follow\n#shrimp  #dinner  #seafood\n#crab #Chicken #Crispy\n\n#dinner #japanfood\n#香港美食\n#香港探店\n#JAPAN",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "peggy Apple",
+          "uri": "https://www.google.com/maps/contrib/100842451240503418418/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-X1vKVb68PowG0UBKUxRD_I_f8TxElK2yLVKYWvVxIMFNGfYK=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-10-15T03:38:32.889260926Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWbVVsTTJUV1psV2t0VGFUYzRPVnBRUVVOTlRHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWbVVsTTJUV1psV2t0VGFUYzRPVnBRUVVOTlRHYxAB!2m1!1s0x340401d2fc0f17f7:0x8ef643b204209bb8"
+      },
+      {
+        "name": "places/ChIJ9xcP_NIBBDQRuJsgBLJD9o4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paeVRqZFBUVkpQY0dod1MyTmFkVzVtV1hsQ1pVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "喫茶ちょうぼ（銅鑼灣世貿中心）\n\n銅鑼灣世貿中心嘅 喫茶ちょうぼ，裝修靚、環境闊落，本來以為係一個可以慢慢嘆日式餐飲嘅地方，但實際體驗…真係好考耐性。\n\n我哋八個人一齊去，結果朋友一早食完正餐，我哋其他人仲喺度乾等。足足等咗差唔多一個鐘，先開始陸續有嘢食，而且小食竟然係最後先出——出餐程序亂到好似無人帶隊。\n\n價錢同份量亦唔成比例：冰鎮車厘茄七粒 $38、半條粟米劏四份 $42，咖喱豬扒飯咖喱汁少到好似用嚟點綴。感覺餐單係走可愛小朋友路線，但對大人嚟講完全唔夠好啲味又唔抵食。\n除非你揀二人餐，咁成件事就合理得多。\n\n食物方面，蛋包飯中規中矩；明太子意粉反而出奇地好食。全晚最好食嘅竟然係薯條——「shake薯條」炸得香脆惹味，金魚梳打入面嘅金魚軟糖亦幾好食，炸雞都算唔錯。\n\n總結：環境靚但唔實際，出餐慢到爆、程序亂、價錢同份量唔成正比。除非唔介意等，否則唔太建議專程去。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "喫茶ちょうぼ（銅鑼灣世貿中心）\n\n銅鑼灣世貿中心嘅 喫茶ちょうぼ，裝修靚、環境闊落，本來以為係一個可以慢慢嘆日式餐飲嘅地方，但實際體驗…真係好考耐性。\n\n我哋八個人一齊去，結果朋友一早食完正餐，我哋其他人仲喺度乾等。足足等咗差唔多一個鐘，先開始陸續有嘢食，而且小食竟然係最後先出——出餐程序亂到好似無人帶隊。\n\n價錢同份量亦唔成比例：冰鎮車厘茄七粒 $38、半條粟米劏四份 $42，咖喱豬扒飯咖喱汁少到好似用嚟點綴。感覺餐單係走可愛小朋友路線，但對大人嚟講完全唔夠好啲味又唔抵食。\n除非你揀二人餐，咁成件事就合理得多。\n\n食物方面，蛋包飯中規中矩；明太子意粉反而出奇地好食。全晚最好食嘅竟然係薯條——「shake薯條」炸得香脆惹味，金魚梳打入面嘅金魚軟糖亦幾好食，炸雞都算唔錯。\n\n總結：環境靚但唔實際，出餐慢到爆、程序亂、價錢同份量唔成正比。除非唔介意等，否則唔太建議專程去。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Piyo - ピヨイー",
+          "uri": "https://www.google.com/maps/contrib/113340592579737056999/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaemXiXhHw9DDg9NRhXb0BUaJu3FKFRZq6Vla5uZN0J2hZA3AS=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-08-12T15:47:54.875372379Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paeVRqZFBUVkpQY0dod1MyTmFkVzVtV1hsQ1pVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paeVRqZFBUVkpQY0dod1MyTmFkVzVtV1hsQ1pVRRAB!2m1!1s0x340401d2fc0f17f7:0x8ef643b204209bb8"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401d2fc0f17f7:0x8ef643b204209bb8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10301495629509073848&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401d2fc0f17f7:0x8ef643b204209bb8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401d2fc0f17f7:0x8ef643b204209bb8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401d2fc0f17f7:0x8ef643b204209bb8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ9xcP_NIBBDQRuJsgBLJD9o4/photos/Aa-ngMazEmrr8dtzwgZCYfmIJut2ojiANX4roDupKJkHYfi1St17f7_RJAfQNt0wXy_QNjIPV65b9h7XMivVjUfZ5KqVZ4fdZ2Cs_WLvgvegYBdo3dkY9gDVsMrG05De2qgjOwOK1m0KK_3b1vcq57yvfNQGLGyLBQWF2iZFJ53eTM0-TdtoatzZTI33hBmCItQYqGqVm18UWEzOSNUY2HFVc3gwyDo9rHZ46lNQw5kCJ1p6In7jrRgtPUvt5A2ECXgC2KYj0wZ7MB6nMlPtUErUiw4sGEJq3er43O45OOoVef1ur13-cexNtVWByFFDhstZF4zEWIQZ0UqTLZ_DJh379xiVcgcPS-JJ009fshvI2sIdgTdY1aAH6IrXmXtmeC-tJodh0hw7oH0cAJgWr1-U7EgmJgkpJA0",
+      "widthPx": 3840,
+      "heightPx": 2160,
+      "authorAttributions": [
+        {
+          "displayName": "Carly Ip",
+          "uri": "https://maps.google.com/maps/contrib/100663763491891418897",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWuBYa8wOuzKKmLeA45dWCUNxAUw1SFiXvJMG2FO1y5bPLIA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIChkvfkygE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChkvfkygE!2e10!4m2!3m1!1s0x340401d2fc0f17f7:0x8ef643b204209bb8"
+    },
+    "local_path": "photos/ChIJ9xcP_NIBBDQRuJsgBLJD9o4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOg8N8tVFYipLY0IRDWDu5ygdiPGbcDThSO3JM_Tnjn70AMv9y2wzWzZaXeE1OIpcbIBVgucHOtp6wHvQ50pUOo98_EoDWczWEnl2eTXNAoLeSCSHhdDZpb4eyhOtuB7e2u_FQdA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 107706
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

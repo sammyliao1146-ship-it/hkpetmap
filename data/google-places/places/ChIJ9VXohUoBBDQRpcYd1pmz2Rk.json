@@ -1,0 +1,350 @@
+{
+  "google_place_id": "ChIJ9VXohUoBBDQRpcYd1pmz2Rk",
+  "restaurant_ids": [
+    "restaurant:3112807673"
+  ],
+  "fetched_at": "2026-10-23T15:50:27.283169+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ9VXohUoBBDQRpcYd1pmz2Rk",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2985 5799",
+    "internationalPhoneNumber": "+852 2985 5799",
+    "formattedAddress": "香港香港島跑馬地奕蔭街17號",
+    "location": {
+      "latitude": 22.269258699999998,
+      "longitude": 114.1848333
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=1862717394198054565&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.theacademicsgroup.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 18:00",
+        "星期二: 08:00 – 18:00",
+        "星期三: 08:00 – 18:00",
+        "星期四: 08:00 – 18:00",
+        "星期五: 08:00 – 18:00",
+        "星期六: 08:00 – 18:00",
+        "星期日: 08:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 150,
+    "displayName": {
+      "text": "The Coffee Academïcs (跑馬地)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJ9VXohUoBBDQRpcYd1pmz2Rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21saVRESkRaRU4xUWtWcVlXSXliRzk2UVVWcWFFRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "Nice food. Great coffee. Friendly staffs. Fantastic place to chill就係要呢啲😌🐶",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Nice food. Great coffee. Friendly staffs. Fantastic place to chill就係要呢啲😌🐶",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "KW Pat",
+          "uri": "https://www.google.com/maps/contrib/100425454700300703425/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJR_AhJzjSKdQQrclJM673NGAOWuYmN5iGweLF5z6OIB0nDnw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-08-16T07:55:47.339372755Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21saVRESkRaRU4xUWtWcVlXSXliRzk2UVVWcWFFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21saVRESkRaRU4xUWtWcVlXSXliRzk2UVVWcWFFRRAB!2m1!1s0x3404014a85e855f5:0x19d9b399d61dc6a5"
+      },
+      {
+        "name": "places/ChIJ9VXohUoBBDQRpcYd1pmz2Rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjMUxXeDJVRmRKT1dFelJsaGtRMjlhV1RodmVIYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "落雨經過入嚟飲杯咖啡避下雨\noutdoor好大 下次可以帶埋狗仔一齊嚟嘆啡!!有狗仔food menu👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "落雨經過入嚟飲杯咖啡避下雨\noutdoor好大 下次可以帶埋狗仔一齊嚟嘆啡!!有狗仔food menu👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wan fong",
+          "uri": "https://www.google.com/maps/contrib/114420705816950403433/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKh0MtxUbnCAox7_cayrOGYzHVqWtAjcRKGKEtxmUKRrd9LgQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-07-21T10:46:27.176753236Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjMUxXeDJVRmRKT1dFelJsaGtRMjlhV1RodmVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjMUxXeDJVRmRKT1dFelJsaGtRMjlhV1RodmVIYxAB!2m1!1s0x3404014a85e855f5:0x19d9b399d61dc6a5"
+      },
+      {
+        "name": "places/ChIJ9VXohUoBBDQRpcYd1pmz2Rk/reviews/ChZDSUhNMG9nS0VJQ0FnSURobHAzRUZBEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 1,
+        "text": {
+          "text": "環境一般但可以帶寵物一起， 咖啡師手藝 非常好，值得一試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境一般但可以帶寵物一起， 咖啡師手藝 非常好，值得一試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "samboy boy",
+          "uri": "https://www.google.com/maps/contrib/110695150730546932273/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJcAcBN8UGx9j3qi-ymargjXDZ_h2JoLUHPdqE3fkDt0H_lCQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-03-08T01:35:45.040179Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURobHAzRUZBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURobHAzRUZBEAE!2m1!1s0x3404014a85e855f5:0x19d9b399d61dc6a5"
+      },
+      {
+        "name": "places/ChIJ9VXohUoBBDQRpcYd1pmz2Rk/reviews/ChdDSUhNMG9nS0VJQ0FnSURaZ2M2MDBRRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "嘆咖啡好地方",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "嘆咖啡好地方",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Develop Poon.",
+          "uri": "https://www.google.com/maps/contrib/105959492109736574506/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLoxQs9t5jOrIHNzlI7Q5kvvdYckS0cGul33MJJ4XK4Wzra2XG=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2023-10-02T09:07:36.183478Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaZ2M2MDBRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaZ2M2MDBRRRAB!2m1!1s0x3404014a85e855f5:0x19d9b399d61dc6a5"
+      },
+      {
+        "name": "places/ChIJ9VXohUoBBDQRpcYd1pmz2Rk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzcVpDbFZnEAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 3,
+        "text": {
+          "text": "真係專注咖啡食品方面比較昂貴",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "真係專注咖啡食品方面比較昂貴",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "fan “Henry Yau” fanyau",
+          "uri": "https://www.google.com/maps/contrib/100660669085354989729/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQXAvQT7HNGok9rhQnbZA8j84J0v06rmhJmeTlZuUKRspwHw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2020-02-06T15:29:59.580297Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNzcVpDbFZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNzcVpDbFZnEAE!2m1!1s0x3404014a85e855f5:0x19d9b399d61dc6a5"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404014a85e855f5:0x19d9b399d61dc6a5!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1862717394198054565&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014a85e855f5:0x19d9b399d61dc6a5!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404014a85e855f5:0x19d9b399d61dc6a5!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014a85e855f5:0x19d9b399d61dc6a5!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ9VXohUoBBDQRpcYd1pmz2Rk/photos/Aa-ngMYhD1iURlp7IZTp5UzBY-MBqsU8E796M_-mHc8l0SCXDV7Csg7k-PAdEtELQnK-3zug_qbylP4ziPbYBGzK2l6jKEbnmM5baWJOWujjAOI3pNMxFMtDa5PrfGLnbuVuApmfR_yfBBufOAVQMWa5nSUNY_Vanmi8ksGKb-rMjWPiGBuMnSFq3JvJCtOoqoFayW2PJoargZ7lk1cYWR8vBMeos0ZjE5ENQVprXnve8dkRCYVfzYwMMEPJ68dFBW3WwRFkGTnn_M4PTWPhq8tN69HawUrFwLkQ-IaEmVxwVtOnWnzDP_wWbEgiLnIlph2ulLfAIctvTBWvZ-kU7MMlNBml33TLNGUhVv6MDVtss1BwyNQzX-5bUygWYzILNDXw3OxIYDcvZEiMpGSI6Tlb12onl58",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "BradinHK",
+          "uri": "https://maps.google.com/maps/contrib/117832408789555351833",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9lI4bCd7FSlVL5eQUmHr1XKaKCj0KGf3lET8qxJPWVfFy6f8D6g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDA9tWwZw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA9tWwZw!2e10!4m2!3m1!1s0x3404014a85e855f5:0x19d9b399d61dc6a5"
+    },
+    "local_path": "photos/ChIJ9VXohUoBBDQRpcYd1pmz2Rk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfS7e5IIMfO_ZaFHR5sHl4tYeFLueRYebg_Nx80LjzfnTFJenOmxWRrlju5Dot87VtR3DnJ_efAR7hmEdn8KPEuPK8hNtziTN7jkhJ8fF1Jl0wXNMv_DTX2YvrRn6hOcDK78f61=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 156963
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.theacademicsgroup.com/pages/menu",
+        "label": "Menu",
+        "source_url": "https://www.theacademicsgroup.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.theacademicsgroup.com/",
+        "label": "Menu",
+        "source_url": "https://www.theacademicsgroup.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.theacademicsgroup.com/pages/catering_2024",
+        "label": "View Menu",
+        "source_url": "https://www.theacademicsgroup.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.theacademicsgroup.com/pages/menu"
+}

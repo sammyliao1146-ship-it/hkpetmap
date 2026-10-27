@@ -1,0 +1,326 @@
+{
+  "google_place_id": "ChIJDZ6nzbQABDQRZXyeDicWNe4",
+  "restaurant_ids": [
+    "restaurant:3163802351"
+  ],
+  "fetched_at": "2026-10-23T15:44:20.227535+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJDZ6nzbQABDQRZXyeDicWNe4",
+    "types": [
+      "vegetarian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2708 2728",
+    "internationalPhoneNumber": "+852 2708 2728",
+    "formattedAddress": "香港九龍深水埗 Tai Po Rd, 79-85號民安大廈地下85號舖",
+    "location": {
+      "latitude": 22.3323407,
+      "longitude": 114.16394360000001
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=17164649911797316709&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/865387036923871/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 22:30",
+        "星期二: 07:30 – 22:30",
+        "星期三: 07:30 – 22:30",
+        "星期四: 07:30 – 22:30",
+        "星期五: 07:30 – 22:30",
+        "星期六: 07:30 – 22:30",
+        "星期日: 07:30 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 350,
+    "displayName": {
+      "text": "新聚寶素食",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "素食餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "vegetarian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJDZ6nzbQABDQRZXyeDicWNe4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toMFVYVkhTbVpoU0Y4MmVHTXdSMUozVURFNGFsRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "傳統食素嘅地方👍🏻錦滷雲吞入口松化，正。另外，碟脆味雞都好好食，好香豆味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "傳統食素嘅地方👍🏻錦滷雲吞入口松化，正。另外，碟脆味雞都好好食，好香豆味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Janette Man",
+          "uri": "https://www.google.com/maps/contrib/107561819866360799086/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7pM7Xui42VOvdjkYvAV3xe4iQ-jkQ15aFQdd1K1jOArX01Q=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-01T10:12:38.030396428Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toMFVYVkhTbVpoU0Y4MmVHTXdSMUozVURFNGFsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toMFVYVkhTbVpoU0Y4MmVHTXdSMUozVURFNGFsRRAB!2m1!1s0x340400b4cda79e0d:0xee3516270e9e7c65"
+      },
+      {
+        "name": "places/ChIJDZ6nzbQABDQRZXyeDicWNe4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwVGNWZzVXbVF0ZVRSVmMwRm9hRjlCU1hWcFdVRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "這餐廳雖然裝修比較陳舊，但人情味滿滿，顧客多為老街坊。\n以素菜而論，食物種類非常多，但不建議散叫，價格會偏貴。今次2人叫了2人餐，除了2客湯外，還可任叫兩餸及一客飯麵，$288尚算抵吃。但散叫一餸要過$100就不化算了。\n由於附近餐廳的客流量相差大，有些於星期五高朋滿座，有些則小貓34隻，在難以為本的情況下，可嘗試引人兩餸或三餸齋菜，或可增加營業額。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這餐廳雖然裝修比較陳舊，但人情味滿滿，顧客多為老街坊。\n以素菜而論，食物種類非常多，但不建議散叫，價格會偏貴。今次2人叫了2人餐，除了2客湯外，還可任叫兩餸及一客飯麵，$288尚算抵吃。但散叫一餸要過$100就不化算了。\n由於附近餐廳的客流量相差大，有些於星期五高朋滿座，有些則小貓34隻，在難以為本的情況下，可嘗試引人兩餸或三餸齋菜，或可增加營業額。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "KS CHUNG",
+          "uri": "https://www.google.com/maps/contrib/115074935043023107520/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKYks1p9b4eUXZJil8qUrjE0lWzQLjmZRU4XX-lcTO75vCk5Q=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-29T04:10:11.195196098Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwVGNWZzVXbVF0ZVRSVmMwRm9hRjlCU1hWcFdVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwVGNWZzVXbVF0ZVRSVmMwRm9hRjlCU1hWcFdVRRAB!2m1!1s0x340400b4cda79e0d:0xee3516270e9e7c65"
+      },
+      {
+        "name": "places/ChIJDZ6nzbQABDQRZXyeDicWNe4/reviews/ChZDSUhNMG9nS0VLSEowN1dqa051ZFF3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "平時都好少食齋，今次特登搵到依間餐廳去試吓素食。\n\n羅漢齋炒麵 🍜 5/5\n\n一入到去見到好多客人都嗌依樣嘢，於是到跟風叫，麵條炒得金黃香脆，裡面有冬菇、雲耳同埋素肉雜菌，色香味俱全。每一口都充滿咸香嘅蔬菜味，清新健康，食得心情都好好👍🏻🤪！\n\n素椒鹽鮮魷 🦑 3/5\n\n素椒鹽鮮魷，係用蒟蒻整成鮮魷嘅模樣，好似樣好搞笑有紋理🤣，口感外脆內滑，咬落去有啲Q彈感，撒上香濃嘅椒鹽同埋腰果，但可惜今次比較鹹重口味，如果冇食飯會覺得太鹹。\n\n素金菇牛肉卷 🌱4/5\n\n素金菇牛肉卷，用芋頭整成牛肉嘅模樣，外觀誘人，內裡包住香脆金菇，咬落去味道同口感都好似牛肉🤩，層次分明，每一口都係滿滿嘅享受！\n\n我哋嗌咗二人餐就有兩個小菜同埋一個炒粉麵，仲加埋每日例湯，食到飽一飽就送埋麥米粥俾我哋食🥰🥰。埋單$340連埋加一，見到餐廳會派埋福米比附近老人家，好有愛心善心🫶。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平時都好少食齋，今次特登搵到依間餐廳去試吓素食。\n\n羅漢齋炒麵 🍜 5/5\n\n一入到去見到好多客人都嗌依樣嘢，於是到跟風叫，麵條炒得金黃香脆，裡面有冬菇、雲耳同埋素肉雜菌，色香味俱全。每一口都充滿咸香嘅蔬菜味，清新健康，食得心情都好好👍🏻🤪！\n\n素椒鹽鮮魷 🦑 3/5\n\n素椒鹽鮮魷，係用蒟蒻整成鮮魷嘅模樣，好似樣好搞笑有紋理🤣，口感外脆內滑，咬落去有啲Q彈感，撒上香濃嘅椒鹽同埋腰果，但可惜今次比較鹹重口味，如果冇食飯會覺得太鹹。\n\n素金菇牛肉卷 🌱4/5\n\n素金菇牛肉卷，用芋頭整成牛肉嘅模樣，外觀誘人，內裡包住香脆金菇，咬落去味道同口感都好似牛肉🤩，層次分明，每一口都係滿滿嘅享受！\n\n我哋嗌咗二人餐就有兩個小菜同埋一個炒粉麵，仲加埋每日例湯，食到飽一飽就送埋麥米粥俾我哋食🥰🥰。埋單$340連埋加一，見到餐廳會派埋福米比附近老人家，好有愛心善心🫶。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ken Li",
+          "uri": "https://www.google.com/maps/contrib/111596984146766597509/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc_kFnetU5Wtgo9n1oNH_vQnFRf_Bywy4HSTiXrZe7Uth6KM01=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-05-18T04:24:21.928375Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VLSEowN1dqa051ZFF3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VLSEowN1dqa051ZFF3EAE!2m1!1s0x340400b4cda79e0d:0xee3516270e9e7c65"
+      },
+      {
+        "name": "places/ChIJDZ6nzbQABDQRZXyeDicWNe4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paQ1RHOTZkWGhhZVZKUGJGTTRiMFZvVWpkdVgxRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "樣樣菜都十分好食 份量多到爆\n\n服務好好 大家好識做\n\n介紹大家嚟幫趁👍👍👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "樣樣菜都十分好食 份量多到爆\n\n服務好好 大家好識做\n\n介紹大家嚟幫趁👍👍👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kelly Wen",
+          "uri": "https://www.google.com/maps/contrib/100114327763496284204/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRMVqv3JXQ138idZcH28gJHGmkBv6BEEtvf7e73sulGOKsMQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-08-24T13:32:05.128465499Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paQ1RHOTZkWGhhZVZKUGJGTTRiMFZvVWpkdVgxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paQ1RHOTZkWGhhZVZKUGJGTTRiMFZvVWpkdVgxRRAB!2m1!1s0x340400b4cda79e0d:0xee3516270e9e7c65"
+      },
+      {
+        "name": "places/ChIJDZ6nzbQABDQRZXyeDicWNe4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNENzdlVER3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "菜式多選擇，有散點及套餐，也有火鍋供應。出菜快，味道不錯，服務好，值得再來。經理還告知每天早上8點到中午前11點有早茶點心供應，多款好味點心以自製生竹牛肉最好賣。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "菜式多選擇，有散點及套餐，也有火鍋供應。出菜快，味道不錯，服務好，值得再來。經理還告知每天早上8點到中午前11點有早茶點心供應，多款好味點心以自製生竹牛肉最好賣。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mel Leung",
+          "uri": "https://www.google.com/maps/contrib/110815654318796693880/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsfu315xDsbjPaqYGEn0h6vuTMn9ZIJ9kzZziqsPaf91dgEgpmGw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-04-03T16:42:15.226638Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNENzdlVER3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNENzdlVER3EAE!2m1!1s0x340400b4cda79e0d:0xee3516270e9e7c65"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400b4cda79e0d:0xee3516270e9e7c65!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17164649911797316709&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400b4cda79e0d:0xee3516270e9e7c65!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400b4cda79e0d:0xee3516270e9e7c65!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400b4cda79e0d:0xee3516270e9e7c65!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJDZ6nzbQABDQRZXyeDicWNe4/photos/Aa-ngMZIR6j5PSEhoM5GuAlPCHHk5yaujxnIWj1gMh4c0GRKPFW--idE0zRcQ0zDQfCc-DT8cpAgaQPWyzoC-w3fDGh-YB_xann_lDtL5rPWLFOI-ycXETxcnyuDdrGH3ZUqVIPQJX1UAHipfjLcZf66n7peNM688KhG7ki4zwBWk4CNMwBQwCATAuQzQ5LntVL4lL0qMkuxy89ZH4XvyT7wWZCXOZL7PT0d3u21fdi1VR1Qz0gugOoHUquB843WIxWl1TrSn9uzucuZsLqfgUAg4nCPzJwCaE6It7ktX-OgaMzBS2_-SQA1paQIB3_DXHmx28-B7MBceI7v0OQifN_HtwLmwDJuVWTtwFBHWO-5nvCQscKTBYYQtEwRyYwZb7m_qsp5RzYm41-WTDZv987cxmEsgIC4IYM",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Daniel Chung",
+          "uri": "https://maps.google.com/maps/contrib/114612902265261899764",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvtkcOu2g5NswsfuX8vtbJKAdSV-sALZw1mPm6V3MHL0dQ2i9j=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDr-JaZ8wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr-JaZ8wE!2e10!4m2!3m1!1s0x340400b4cda79e0d:0xee3516270e9e7c65"
+    },
+    "local_path": "photos/ChIJDZ6nzbQABDQRZXyeDicWNe4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTFnRc2ZXWZpPHbb5959JVZ2Ij1vSTEiGoPan4bYuBA6XWjy2FRwNwneorcmB4oHy2ssnPzEPWECbeyKyu-zITBPUdzd6IQ_hckgIqpPc0KXfBzxeWpqzsGkHdjnBetB7vU19H8A=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 176510
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "vegetarian_restaurant",
+    "label": "素食餐廳",
+    "types": [
+      "vegetarian_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

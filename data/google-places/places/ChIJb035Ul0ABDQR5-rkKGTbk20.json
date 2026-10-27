@@ -1,0 +1,438 @@
+{
+  "google_place_id": "ChIJb035Ul0ABDQR5-rkKGTbk20",
+  "restaurant_ids": [
+    "restaurant:2212812839"
+  ],
+  "fetched_at": "2026-10-23T15:45:29.411225+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJb035Ul0ABDQR5-rkKGTbk20",
+    "types": [
+      "fusion_restaurant",
+      "wedding_venue",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2521 8011",
+    "internationalPhoneNumber": "+852 2521 8011",
+    "formattedAddress": "Shop B, UG/F, 1 Electric St, Starstreet Precinct, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2758327,
+      "longitude": 114.1682032
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=7895895794939914983&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.maison-es.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 23:00",
+        "星期二: 12:00 – 15:00, 18:00 – 23:00",
+        "星期三: 12:00 – 15:00, 18:00 – 23:00",
+        "星期四: 12:00 – 15:00, 18:00 – 23:00",
+        "星期五: 12:00 – 15:00, 18:00 – 23:00",
+        "星期六: 11:30 – 16:00, 18:00 – 23:00",
+        "星期日: 11:30 – 16:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 477,
+    "displayName": {
+      "text": "Maison ES",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "各國料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": false,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "fusion_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJb035Ul0ABDQR5-rkKGTbk20/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0M01VWjBSRW8xVUdGaGQxaG9ORVo0V1dFMlgyYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "藏身於電氣街嘅法國菜！以法式烹調技巧重新演繹香港人熟悉嘅經典風味✨每道菜都可以見到港式元素嘅影子💛由概念到執行都相當完整，每一道菜都食得出廚師嘅心思，亦令整個用餐體驗充滿驚喜。如果平時鍾意Fine Dining，又想試啲有香港特色嘅創新菜式，我覺得幾值得一試！！\n\n。低溫慢煮北海道珍寶帶子 $238\n以「蒜蓉粉絲蒸帶子」作為靈感🫶🏻，刺身級超大粒北海道帶子經低溫慢煮後仍然保持細嫩飽滿，表面輕輕炙燒帶出焦香。配上蔥油、蒜蓉乳酪醬及粉絲，既保留港式熟悉嘅味道，同時增添法式料理細膩嘅層次感～\n\n。檸汁醃吞拿魚腩 $248\n吞拿魚腩油脂豐富，入口細膩柔滑✨。而且有魚香茄子嘅感覺！特製嘅煙燻茄子蓉為整道菜帶來濃郁香氣，而帶有豆瓣風味嘅油醋汁則有效平衡魚腩嘅油潤感，令味道更加清爽，整體配搭相當有驚喜！\n\n。吉列和牛三文治 $288\n將港式鹹牛肉蛋三文治重新演繹🥪吉列和牛炸至外層酥脆，內裡依然保持粉嫩多汁，配上流心蛋及鹹牛肉蛋黃醬，令口感同風味都更加豐富，雖然份量精緻，但令人印象深刻。\n\n。海螯蝦多士 $268\n以茶樓蝦多士為藍本🦞，海螯蝦肉爽彈鮮甜，多士炸得非常香脆，再加入海膽、檸檬啫喱及甜辣蛋黃醬，鮮味更加突出，同時平衡整體口感\n\n。柱侯和牛威靈頓 $880\n全晚最深刻嘅一道主菜！酥皮烤得金黃鬆化，包裹住粉嫩多汁嘅和牛，內層加入以柱侯醬慢燉嘅牛肉餡，巧妙將港式柱侯牛腩元素融入經典威靈頓之中。中西兩種風格互相呼應，但又唔會互相搶味，無論創意定完成度都好出色👏🏻\n\n。黑白芭菲 $138\n以黑芝麻豆腐花作靈感🖤🤍，黑芝麻香氣濃郁但甜度克制，配合日式豆腐雪糕、豆漿啫喱、Brownie及脆脆，令口感層次更加豐富，每一啖都有唔同變化🤤\n\n。蓮蓉米布丁 $138\n米布丁係法國嘅傳統甜品之一，米粒保留輕微咬口，奶香濃郁但唔會過膩，配上朱古力燕麥脆片增加口感，為成餐劃上圓滿嘅句號",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "藏身於電氣街嘅法國菜！以法式烹調技巧重新演繹香港人熟悉嘅經典風味✨每道菜都可以見到港式元素嘅影子💛由概念到執行都相當完整，每一道菜都食得出廚師嘅心思，亦令整個用餐體驗充滿驚喜。如果平時鍾意Fine Dining，又想試啲有香港特色嘅創新菜式，我覺得幾值得一試！！\n\n。低溫慢煮北海道珍寶帶子 $238\n以「蒜蓉粉絲蒸帶子」作為靈感🫶🏻，刺身級超大粒北海道帶子經低溫慢煮後仍然保持細嫩飽滿，表面輕輕炙燒帶出焦香。配上蔥油、蒜蓉乳酪醬及粉絲，既保留港式熟悉嘅味道，同時增添法式料理細膩嘅層次感～\n\n。檸汁醃吞拿魚腩 $248\n吞拿魚腩油脂豐富，入口細膩柔滑✨。而且有魚香茄子嘅感覺！特製嘅煙燻茄子蓉為整道菜帶來濃郁香氣，而帶有豆瓣風味嘅油醋汁則有效平衡魚腩嘅油潤感，令味道更加清爽，整體配搭相當有驚喜！\n\n。吉列和牛三文治 $288\n將港式鹹牛肉蛋三文治重新演繹🥪吉列和牛炸至外層酥脆，內裡依然保持粉嫩多汁，配上流心蛋及鹹牛肉蛋黃醬，令口感同風味都更加豐富，雖然份量精緻，但令人印象深刻。\n\n。海螯蝦多士 $268\n以茶樓蝦多士為藍本🦞，海螯蝦肉爽彈鮮甜，多士炸得非常香脆，再加入海膽、檸檬啫喱及甜辣蛋黃醬，鮮味更加突出，同時平衡整體口感\n\n。柱侯和牛威靈頓 $880\n全晚最深刻嘅一道主菜！酥皮烤得金黃鬆化，包裹住粉嫩多汁嘅和牛，內層加入以柱侯醬慢燉嘅牛肉餡，巧妙將港式柱侯牛腩元素融入經典威靈頓之中。中西兩種風格互相呼應，但又唔會互相搶味，無論創意定完成度都好出色👏🏻\n\n。黑白芭菲 $138\n以黑芝麻豆腐花作靈感🖤🤍，黑芝麻香氣濃郁但甜度克制，配合日式豆腐雪糕、豆漿啫喱、Brownie及脆脆，令口感層次更加豐富，每一啖都有唔同變化🤤\n\n。蓮蓉米布丁 $138\n米布丁係法國嘅傳統甜品之一，米粒保留輕微咬口，奶香濃郁但唔會過膩，配上朱古力燕麥脆片增加口感，為成餐劃上圓滿嘅句號",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cada",
+          "uri": "https://www.google.com/maps/contrib/112789945765472251649/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVABW1Sm_1DPZC1cvngDyRU4Ec-hIzXB0PzqxYWhAtnUg4KUvE7=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-05T14:38:54.637214815Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s0M01VWjBSRW8xVUdGaGQxaG9ORVo0V1dFMlgyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0M01VWjBSRW8xVUdGaGQxaG9ORVo0V1dFMlgyYxAB!2m1!1s0x3404005d52f94d6f:0x6d93db6428e4eae7"
+      },
+      {
+        "name": "places/ChIJb035Ul0ABDQR5-rkKGTbk20/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VeFV6SlRRMFJsWjJ0V1gxOVpjSGh3U1hsRFdrRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "港式情懷、法式滋味@Maison ES\n\n灣仔星街是我十分喜歡的地方！藏身於那裏的餐廳亦充滿了獨特個性，像這天我去的這間法式風情餐廳無論姊妹淘還是情侶撐枱腳亦是非常好的選擇。\n\n餐廳正是位於灣仔星街內的Maison ES！由女廚師協會副主席Chef Esther開設，為客人帶來正宗的法式滋味，近來餐廳改為全À La Carte Menu令客人吃得更加自由自在。\n\n每一次來到餐廳也忘卻自己在香港！內裏充滿法式優雅的裝潢帶法式小館的浪漫氣氛。\n\n甫坐下先為送來熱烘烘的餐前麵包！端來的是兩款手工製作麵包，包括充滿牛油香氣鬆軟的Brioche和蔥油口味的Grissini，兩款也非常好吃各有千秋難分高下。\n\n先來豐富的開胃菜打頭陣的是Hokkaido Scallop$238！菜式帶有蒜蓉粉絲蒸帶子的影子，用低溫慢煮刺身級的日本北海道巨型帶子，出來仍然是半熟的狀態口感勁軟嫩鮮甜，配襯蔥油及油封大蒜乳酪醬這味道既熟悉又陌生，墊底還有粉絲非常切合港式風味。\n\nSeared Tofu Kale Salad$188！羽衣甘藍切成幼絲非常親嘴，內裏還有香煎豆腐、小黃瓜、琥珀山核桃、蔓越莓乾及香蔥，用上中式的鎮江醋加西式的腰果沙律醬作為醬汁，令這個沙律清新酸爽味道好迷人。\n\n喜歡品嚐牛肉的朋友就要留意以下兩款，先有Wagyu Cutlet Sandwich$288！這個Open Sandwich以布里歐麵包煎至金黃香脆，再塗上一層特製的鹹牛肉蛋黃醬，上面則放上炸至外脆內嫩的吉列和牛牛小排，再配搭半隻盪漾的流心蛋，大家想像得到這份三文治有多精彩嗎。\n\nKagoshima A4 Wagyu Beef Tartare$248！用上鹿兒島A4和牛的嫩肩部位手切而成，最特別之處醬汁中竟然有沙嗲醬，再混合鵪鶉蛋黃及米粉脆片，大家估到這道菜是向什麼港式美食致敬嗎。\n\n來到共享菜式先上檯的是Hunan Three Yellow Chicken$480/半隻！用的是湖南三黃雞內裏塞滿了糯米、臘腸及鮑魚大豐富了吧。\n\n這道菜是即叫即做送來的時候香氣四射！吃前再加上法國黃酒汁增添香氣，吃下雞肉非常嫩滑香口肉味濃郁，內裏的糯米更加是吸盡雞的精髓非常美味。\n\nChar-grilled Threadfin Fillet$520！這條馬友魚竟然用備長炭來烤製怪不得香氣那麼吸引。\n\n靈感來自雞油花雕馬友但用上西式的烤焗方法，令魚皮香氣盛濃之餘又達到魚肉嫩滑的效果，那充斥雞油香的三黃雞汁配合花雕酒為魚肉帶來難以拒絕的香氣。\n\n來到甜品也不是省油燈！這個非常可愛的「蒸籠」超級睛，內裏其實是Lotus Rice Pudding$138。\n\n本來是奶香米布甸在主廚手上加卻入了特製蓮蓉，頓時帶出勁熟悉的香甜味道，再加上非常有咬口的朱古力穀物片及朱古力碎口感超豐富。\n\n但我更愛這杯非常豐盛的Black & White Parfait$138！杯底盡是粗粒狀的布朗尼然後還有脆卜卜的粟米片，配搭滑溜的黑芝麻忌廉、爽滑豆漿啫喱及豆腐雪糕，味道清香不過甜品實在令我留下非常深刻的印象。\n\nPetit Four是香滑的朱古力為這夜畫上完美句號。\n\n非常佩服Chef Esther的創作在她拿手的法國菜中注入港式的靈魂，相襯之餘並沒丁點兀突的感覺我喜歡這進化。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "港式情懷、法式滋味@Maison ES\n\n灣仔星街是我十分喜歡的地方！藏身於那裏的餐廳亦充滿了獨特個性，像這天我去的這間法式風情餐廳無論姊妹淘還是情侶撐枱腳亦是非常好的選擇。\n\n餐廳正是位於灣仔星街內的Maison ES！由女廚師協會副主席Chef Esther開設，為客人帶來正宗的法式滋味，近來餐廳改為全À La Carte Menu令客人吃得更加自由自在。\n\n每一次來到餐廳也忘卻自己在香港！內裏充滿法式優雅的裝潢帶法式小館的浪漫氣氛。\n\n甫坐下先為送來熱烘烘的餐前麵包！端來的是兩款手工製作麵包，包括充滿牛油香氣鬆軟的Brioche和蔥油口味的Grissini，兩款也非常好吃各有千秋難分高下。\n\n先來豐富的開胃菜打頭陣的是Hokkaido Scallop$238！菜式帶有蒜蓉粉絲蒸帶子的影子，用低溫慢煮刺身級的日本北海道巨型帶子，出來仍然是半熟的狀態口感勁軟嫩鮮甜，配襯蔥油及油封大蒜乳酪醬這味道既熟悉又陌生，墊底還有粉絲非常切合港式風味。\n\nSeared Tofu Kale Salad$188！羽衣甘藍切成幼絲非常親嘴，內裏還有香煎豆腐、小黃瓜、琥珀山核桃、蔓越莓乾及香蔥，用上中式的鎮江醋加西式的腰果沙律醬作為醬汁，令這個沙律清新酸爽味道好迷人。\n\n喜歡品嚐牛肉的朋友就要留意以下兩款，先有Wagyu Cutlet Sandwich$288！這個Open Sandwich以布里歐麵包煎至金黃香脆，再塗上一層特製的鹹牛肉蛋黃醬，上面則放上炸至外脆內嫩的吉列和牛牛小排，再配搭半隻盪漾的流心蛋，大家想像得到這份三文治有多精彩嗎。\n\nKagoshima A4 Wagyu Beef Tartare$248！用上鹿兒島A4和牛的嫩肩部位手切而成，最特別之處醬汁中竟然有沙嗲醬，再混合鵪鶉蛋黃及米粉脆片，大家估到這道菜是向什麼港式美食致敬嗎。\n\n來到共享菜式先上檯的是Hunan Three Yellow Chicken$480/半隻！用的是湖南三黃雞內裏塞滿了糯米、臘腸及鮑魚大豐富了吧。\n\n這道菜是即叫即做送來的時候香氣四射！吃前再加上法國黃酒汁增添香氣，吃下雞肉非常嫩滑香口肉味濃郁，內裏的糯米更加是吸盡雞的精髓非常美味。\n\nChar-grilled Threadfin Fillet$520！這條馬友魚竟然用備長炭來烤製怪不得香氣那麼吸引。\n\n靈感來自雞油花雕馬友但用上西式的烤焗方法，令魚皮香氣盛濃之餘又達到魚肉嫩滑的效果，那充斥雞油香的三黃雞汁配合花雕酒為魚肉帶來難以拒絕的香氣。\n\n來到甜品也不是省油燈！這個非常可愛的「蒸籠」超級睛，內裏其實是Lotus Rice Pudding$138。\n\n本來是奶香米布甸在主廚手上加卻入了特製蓮蓉，頓時帶出勁熟悉的香甜味道，再加上非常有咬口的朱古力穀物片及朱古力碎口感超豐富。\n\n但我更愛這杯非常豐盛的Black & White Parfait$138！杯底盡是粗粒狀的布朗尼然後還有脆卜卜的粟米片，配搭滑溜的黑芝麻忌廉、爽滑豆漿啫喱及豆腐雪糕，味道清香不過甜品實在令我留下非常深刻的印象。\n\nPetit Four是香滑的朱古力為這夜畫上完美句號。\n\n非常佩服Chef Esther的創作在她拿手的法國菜中注入港式的靈魂，相襯之餘並沒丁點兀突的感覺我喜歡這進化。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "車媽媽",
+          "uri": "https://www.google.com/maps/contrib/116410476274153352491/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTI50EAcmMeDP8gxv6hWHbIxHzJgu0QqGFgg5gQbq52fucrPc=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-06-22T03:25:51.391315545Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21VeFV6SlRRMFJsWjJ0V1gxOVpjSGh3U1hsRFdrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VeFV6SlRRMFJsWjJ0V1gxOVpjSGh3U1hsRFdrRRAB!2m1!1s0x3404005d52f94d6f:0x6d93db6428e4eae7"
+      },
+      {
+        "name": "places/ChIJb035Ul0ABDQR5-rkKGTbk20/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xeVQwbDRaREZLY0VnMGNtMUJWV1ZUTm5WemNsRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🇫🇷 灣仔星街港法餐饗新篇章✨Maison ES 帶你用味蕾穿梭港法情懷🥢\n\n灣仔約會首選 Maison ES 邁向新里程💁🏻‍♀️2026年正式全面變革為全單點菜式（À La Carte），由創辦人兼大師級女廚 Esther Sham 傾心打造💡將刻喺香港人骨子裡嘅本土味道，融入法式現代烹調技巧👏🏻\n\n🍞 餐前麵包(手工布里歐修 ＆ 蔥油脆條)\n經典私房菜元祖配方布里歐修鬆軟無比，搭配融入香烤焦香蔥油、咬落爆脆嘅手工脆條（Grissini），配搭法國牛油，驚艷開場！\n\n🥗 Seared Tofu Kale Salad (香煎豆腐羽衣甘藍沙律)\n輕盈健康之選！香煎豆腐配羽衣甘藍與爽脆小黃瓜，拌入融合中式鎮江香醋與西式腰果醬嘅獨家醬汁。酸香帶有堅果醇厚尾韻，伴隨焦糖核桃與蔓越莓乾，層次分明！\n\n🥩 Kagoshima A4 Wagyu Beef Tartare (鹿兒島A4和牛他他)\n選用細嫩嘅和牛嫩肩部位手切而成，融入港式靈魂沙嗲醬（花生醬與沙茶醬）點綴。伴隨香滑半熟鵪鶉蛋黃與頂級魚子醬，配上酥脆炸米粉片，滑溜與爽脆對比強烈，鹹香濃郁！\n\n🐚 Hokkaido Scallop (低溫慢煮北海道珍寶帶子)\n粵式經典「蒜蓉粉絲蒸帶子」嘅華麗法式變奏！刺身級巨型帶子低溫慢煮至完美半生熟，火槍輕炙逼出焦香。底下墊著翠綠蔥油、蒜蓉酪乳醬與香煎粉絲條，頂層灑滿三文魚子，鮮美絕倫！\n\n🥪 Wagyu Cutlet Sandwich (吉列和牛三文治)\n茶餐廳「鹹牛肉蛋治」奢華昇華！金黃焦香嘅布里歐麵包塗上特製鹹牛肉蛋黃醬，夾住外脆內嫩、油潤爆汁嘅吉列和牛牛小排。多士頂端配流心蛋，幸福感爆棚！\n\n🍗 Hunan Three Yellow Chicken (湖南三黃雞 - 半隻)\n精緻版法式糯米雞！三黃雞經香草鹽水浸漬，雞腔釀入臘腸、鮑魚與上等糯米高溫烤焗。外皮酥脆金黃，內裡糯米吸飽濃厚雞汁，伴以注入法國黃酒嘅濃厚雞汁，超滿足！\n\n🐟 Char-grilled Threadfin Fillet (炭烤馬友魚)\n顛覆想像嘅「雞油花雕蒸馬友」！肥美本地馬友魚柳改用日本備長炭高溫炙燒，魚皮極致酥脆、魚油豐腴滑嫩。淋上三黃雞汁、雞油與香醇紹興花雕酒調和嘅靈魂醬汁，酒香炭香交織，鮮美無比！\n\n🍮 Black & White Parfait (黑白芭菲)\n經典街頭甜品「黑芝麻豆腐花」嘅法式芭菲杯演繹！底層煙韌布朗尼與爽脆粟米片，唧上滑溜黑芝麻忌廉與特製豆漿啫喱，頂端襯托一球純香日本豆腐雪糕。一舀到底，淡雅豆香與芝麻濃香配合得剛好！\n\n🍚 Lotus Rice Pudding (蓮蓉米布丁)\n法國傳統奶香米布甸注入東方靈魂！意式燉飯米加鮮忌廉與香草莢慢火熬煮，底層鋪滿濃稠細滑嘅特製蓮蓉，中層冰涼，頂層撒上朱古力穀物片與 70% 法芙娜黑朱古力碎，微苦香脆，別具在地情懷！\n\n快啲 Tag 你身邊最注重生活儀式感、追求精緻美食嘅朋友仔，一齊去灣仔「Maison ES」享受港法美食✨\n\nMaison ES✨\n📍 香港灣仔星街 No. 1A (入口位於電氣街)\n\n#MaisonES #灣仔美食 #星街美食 #港法料理 #全單點菜式",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🇫🇷 灣仔星街港法餐饗新篇章✨Maison ES 帶你用味蕾穿梭港法情懷🥢\n\n灣仔約會首選 Maison ES 邁向新里程💁🏻‍♀️2026年正式全面變革為全單點菜式（À La Carte），由創辦人兼大師級女廚 Esther Sham 傾心打造💡將刻喺香港人骨子裡嘅本土味道，融入法式現代烹調技巧👏🏻\n\n🍞 餐前麵包(手工布里歐修 ＆ 蔥油脆條)\n經典私房菜元祖配方布里歐修鬆軟無比，搭配融入香烤焦香蔥油、咬落爆脆嘅手工脆條（Grissini），配搭法國牛油，驚艷開場！\n\n🥗 Seared Tofu Kale Salad (香煎豆腐羽衣甘藍沙律)\n輕盈健康之選！香煎豆腐配羽衣甘藍與爽脆小黃瓜，拌入融合中式鎮江香醋與西式腰果醬嘅獨家醬汁。酸香帶有堅果醇厚尾韻，伴隨焦糖核桃與蔓越莓乾，層次分明！\n\n🥩 Kagoshima A4 Wagyu Beef Tartare (鹿兒島A4和牛他他)\n選用細嫩嘅和牛嫩肩部位手切而成，融入港式靈魂沙嗲醬（花生醬與沙茶醬）點綴。伴隨香滑半熟鵪鶉蛋黃與頂級魚子醬，配上酥脆炸米粉片，滑溜與爽脆對比強烈，鹹香濃郁！\n\n🐚 Hokkaido Scallop (低溫慢煮北海道珍寶帶子)\n粵式經典「蒜蓉粉絲蒸帶子」嘅華麗法式變奏！刺身級巨型帶子低溫慢煮至完美半生熟，火槍輕炙逼出焦香。底下墊著翠綠蔥油、蒜蓉酪乳醬與香煎粉絲條，頂層灑滿三文魚子，鮮美絕倫！\n\n🥪 Wagyu Cutlet Sandwich (吉列和牛三文治)\n茶餐廳「鹹牛肉蛋治」奢華昇華！金黃焦香嘅布里歐麵包塗上特製鹹牛肉蛋黃醬，夾住外脆內嫩、油潤爆汁嘅吉列和牛牛小排。多士頂端配流心蛋，幸福感爆棚！\n\n🍗 Hunan Three Yellow Chicken (湖南三黃雞 - 半隻)\n精緻版法式糯米雞！三黃雞經香草鹽水浸漬，雞腔釀入臘腸、鮑魚與上等糯米高溫烤焗。外皮酥脆金黃，內裡糯米吸飽濃厚雞汁，伴以注入法國黃酒嘅濃厚雞汁，超滿足！\n\n🐟 Char-grilled Threadfin Fillet (炭烤馬友魚)\n顛覆想像嘅「雞油花雕蒸馬友」！肥美本地馬友魚柳改用日本備長炭高溫炙燒，魚皮極致酥脆、魚油豐腴滑嫩。淋上三黃雞汁、雞油與香醇紹興花雕酒調和嘅靈魂醬汁，酒香炭香交織，鮮美無比！\n\n🍮 Black & White Parfait (黑白芭菲)\n經典街頭甜品「黑芝麻豆腐花」嘅法式芭菲杯演繹！底層煙韌布朗尼與爽脆粟米片，唧上滑溜黑芝麻忌廉與特製豆漿啫喱，頂端襯托一球純香日本豆腐雪糕。一舀到底，淡雅豆香與芝麻濃香配合得剛好！\n\n🍚 Lotus Rice Pudding (蓮蓉米布丁)\n法國傳統奶香米布甸注入東方靈魂！意式燉飯米加鮮忌廉與香草莢慢火熬煮，底層鋪滿濃稠細滑嘅特製蓮蓉，中層冰涼，頂層撒上朱古力穀物片與 70% 法芙娜黑朱古力碎，微苦香脆，別具在地情懷！\n\n快啲 Tag 你身邊最注重生活儀式感、追求精緻美食嘅朋友仔，一齊去灣仔「Maison ES」享受港法美食✨\n\nMaison ES✨\n📍 香港灣仔星街 No. 1A (入口位於電氣街)\n\n#MaisonES #灣仔美食 #星街美食 #港法料理 #全單點菜式",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Heimen",
+          "uri": "https://www.google.com/maps/contrib/114222779931583863767/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUa95XAz5FrjZPRsb8JyhS-mTvDHVQ3OnWPWzNeUQWqbQEfKcA8kQ=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-06-24T13:14:04.502225136Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xeVQwbDRaREZLY0VnMGNtMUJWV1ZUTm5WemNsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xeVQwbDRaREZLY0VnMGNtMUJWV1ZUTm5WemNsRRAB!2m1!1s0x3404005d52f94d6f:0x6d93db6428e4eae7"
+      },
+      {
+        "name": "places/ChIJb035Ul0ABDQR5-rkKGTbk20/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GZk1tODVNekV5TlZoRGVURm1OSGs0TmpOT2NtYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "2024.05 午市有套餐，包前菜主菜同甜品。餐廳入面係法式典雅裝修，每樣單品都非常華麗，食物不錯，值得一來。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2024.05 午市有套餐，包前菜主菜同甜品。餐廳入面係法式典雅裝修，每樣單品都非常華麗，食物不錯，值得一來。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kXc",
+          "uri": "https://www.google.com/maps/contrib/101720615600344350844/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8fE7cyAvGxmFXOtNWkFxI9JTC0IyJmj_T4uuBcT4jfvpR5zL6=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-04-19T08:37:31.936206939Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GZk1tODVNekV5TlZoRGVURm1OSGs0TmpOT2NtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GZk1tODVNekV5TlZoRGVURm1OSGs0TmpOT2NtYxAB!2m1!1s0x3404005d52f94d6f:0x6d93db6428e4eae7"
+      },
+      {
+        "name": "places/ChIJb035Ul0ABDQR5-rkKGTbk20/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NNVJVcDZWSGRUWlc5SFZXRjFNbEpYTVRrd1JXYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳真係好靚，好有法式嘅氣氛，簡直係同閨蜜去慶祝生日嘅第一選擇🥰在場既每一位都好Nice 服務態度超好 好熱情咁去介紹每一道菜 知道係慶祝生日仲會送埋一張拍立得 同埋安排咗我哋坐靚靚嘅梳化位😍嗰日因為着得比較多比較熱 但因為冷氣冇得較 餐廳擺埋風扇喺我哋隔籬 十分之貼心😋野食都好精緻又好味 打卡一流",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳真係好靚，好有法式嘅氣氛，簡直係同閨蜜去慶祝生日嘅第一選擇🥰在場既每一位都好Nice 服務態度超好 好熱情咁去介紹每一道菜 知道係慶祝生日仲會送埋一張拍立得 同埋安排咗我哋坐靚靚嘅梳化位😍嗰日因為着得比較多比較熱 但因為冷氣冇得較 餐廳擺埋風扇喺我哋隔籬 十分之貼心😋野食都好精緻又好味 打卡一流",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rachel",
+          "uri": "https://www.google.com/maps/contrib/109538480991379473147/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLuduMSS-kfeJ9IJgM0VUCoxbXUjNE5TzNAPFwTBzmecfeYKA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-24T06:41:57.367585955Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21NNVJVcDZWSGRUWlc5SFZXRjFNbEpYTVRrd1JXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NNVJVcDZWSGRUWlc5SFZXRjFNbEpYTVRrd1JXYxAB!2m1!1s0x3404005d52f94d6f:0x6d93db6428e4eae7"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404005d52f94d6f:0x6d93db6428e4eae7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7895895794939914983&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005d52f94d6f:0x6d93db6428e4eae7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404005d52f94d6f:0x6d93db6428e4eae7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005d52f94d6f:0x6d93db6428e4eae7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJb035Ul0ABDQR5-rkKGTbk20/photos/Aa-ngMbqRgxfYONRVZY1oh4YSKsKS45RWSgW_1KfRATDXfSFbIMgqRYzsW6NqLA45U5lZUgmGErq1NLX39HCZgCzVXQ71189ciJPQy7p4F-d1n13nK_U7v06KJnS2IIzhXCgwhbvpF9uedgRwdX0QuO4Wff7kWT_2PlQOCIu0J-JrivWXxc6EskFq_yOBd3tz03LYnMddh8NAmIK9AfH4L6B0iMxqmswKlDjE6dgcTydUR6tTvsH0inTXeTZxnv-RXHF8a5W1DekRheOT_JXqyRzt1HBT6e-W3GnYl5ShE_h0QdHqWiLWY_2t4flaDjoijdB1rMKEJsM55ojEHE21Z3rlO3gEPhgfdHAj1WJuuLmgB9IlMJW1ZBIFOg8JLSTHGo9VBZerqtNjRav94kD7EhBU1Oa0I-T7EdwVPPHqDq9t2STXw",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Maison ES",
+          "uri": "https://maps.google.com/maps/contrib/104896201240244739585",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBbDUsorHzsfGleFQkx5cf8uQCjDkWXDFaH1MHNdz-0A2HmMYe=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBf5tObT2reVg9hiW0gs526&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBf5tObT2reVg9hiW0gs526!2e10!4m2!3m1!1s0x3404005d52f94d6f:0x6d93db6428e4eae7"
+    },
+    "local_path": "photos/ChIJb035Ul0ABDQR5-rkKGTbk20.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfG8-_UOsSxgUH52flOdgDAQHtSuGrpAGyhODtx8Gk9_sOeNE1r7mvmAzyCu9qV32MTCJh8gW4O-lh7VNnkQ671PbSC4-OzUGbYgxnWXeC5_F9e2jLvfp9_tiyWx3f3eUyzmbVKUBjvWPdy=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 106182
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "http://book.bistrochat.com/maison-es",
+        "label": "RESERVATIONS",
+        "source_url": "https://www.maison-es.com/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.maison-es.com/",
+        "label": "Menu",
+        "source_url": "https://www.maison-es.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.maison-es.com/wp-content/uploads/2026/09/2026-09-30-MES_Lunch-Menu.pdf",
+        "label": "Regular Lunch",
+        "source_url": "https://www.maison-es.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.maison-es.com/wp-content/uploads/2026/09/2026-10-01_MES_Brunch-Menu.pdf",
+        "label": "Weekend Brunch",
+        "source_url": "https://www.maison-es.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.maison-es.com/wp-content/uploads/2026/08/2026-08_MES_A-La-Carte-Menu.pdf",
+        "label": "À La Carte & Dessert Menu",
+        "source_url": "https://www.maison-es.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "fusion_restaurant",
+    "label": "各國料理餐廳",
+    "types": [
+      "fusion_restaurant",
+      "wedding_venue",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "http://book.bistrochat.com/maison-es",
+  "menu_url": "https://www.maison-es.com/"
+}

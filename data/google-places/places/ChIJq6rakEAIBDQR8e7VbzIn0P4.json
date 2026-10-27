@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJq6rakEAIBDQR8e7VbzIn0P4",
+  "restaurant_ids": [
+    "restaurant:2295801502"
+  ],
+  "fetched_at": "2026-10-23T15:38:03.186745+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJq6rakEAIBDQR8e7VbzIn0P4",
+    "types": [
+      "japanese_izakaya_restaurant",
+      "yakitori_restaurant",
+      "noodle_shop",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5116 3787",
+    "internationalPhoneNumber": "+852 5116 3787",
+    "formattedAddress": "香港新界大埔運頭街12 - 18 號, Mee Wah Building, 地下 B1 - B 號舖",
+    "location": {
+      "latitude": 22.447072799999997,
+      "longitude": 114.168337
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=18361218778367651569&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 1,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 18:00 – 01:00",
+        "星期二: 18:00 – 01:00",
+        "星期三: 18:00 – 01:00",
+        "星期四: 18:00 – 01:00",
+        "星期五: 18:00 – 01:00",
+        "星期六: 17:30 – 01:00",
+        "星期日: 17:30 – 01:00"
+      ],
+      "nextCloseTime": "2026-10-23T17:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 106,
+    "displayName": {
+      "text": "天月居酒屋 (大埔)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "居酒屋",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "primaryType": "japanese_izakaya_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJq6rakEAIBDQR8e7VbzIn0P4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wSFZEUnhNM0Y2VFZkUGVrOTRTV2hsTUVnM2NrRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "鵝肝有d腥，但整體好吃，拉麵的麵可以再淋d，拉麵入邊d牛肉好味，最驚艷係拉麵上那塊似蓮藕的土豆，好香。烤聖子不過不失。整體而言是不錯的用餐體驗。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "鵝肝有d腥，但整體好吃，拉麵的麵可以再淋d，拉麵入邊d牛肉好味，最驚艷係拉麵上那塊似蓮藕的土豆，好香。烤聖子不過不失。整體而言是不錯的用餐體驗。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "SHANSHAN FENG",
+          "uri": "https://www.google.com/maps/contrib/114436201126977935129/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrZiDvgKjPt8KVVfy9IxDJwfTyuu3dRJioYfoj7kQrT3RoYnE=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-01T13:49:01.467429472Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wSFZEUnhNM0Y2VFZkUGVrOTRTV2hsTUVnM2NrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wSFZEUnhNM0Y2VFZkUGVrOTRTV2hsTUVnM2NrRRAB!2m1!1s0x3404084090daaaab:0xfed027326fd5eef1"
+      },
+      {
+        "name": "places/ChIJq6rakEAIBDQR8e7VbzIn0P4/reviews/ChdDSUhNMG9nS0VJQ0FnTURndGNIX3hRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "小店的備餐空間不大，但從拉麵﹑丼飯﹑天婦羅﹑串燒等一應俱全，而且絕不馬虎。招牌的天月叉燒雞肉拉麵，雞白湯拉麵內有一片雞胸﹑一片雞叉燒﹑一片黑豚叉燒﹑溏心蛋﹑紫菜﹑蓮藕天婦羅片等配料，非常豐富。雞白湯非常濃稠，最喜歡先將紫菜浸滿濃濃的湯享用。另外丈夫常選擇的鰻魚雞肉丼的份量亦非常充足，除了肉類外還配有燒菠蘿，非常解膩。坊間的日式餐廳未必每間都有冷麵或烏冬的選擇，因製作冷麵的工序亦十分繁複，但這裡有提供之餘，配料亦同樣相當豐富，配有滿滿的沙律菜﹑牛肉等，份量多但像起了一份沙律一般完全無負擔。天婦羅及串燒等全部亦是即點即製，不同食材的料理時間剛好，口感及溫度都沒有挑剔。高質素的食物製作需時，記得要預留充足時間慢慢享用。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "小店的備餐空間不大，但從拉麵﹑丼飯﹑天婦羅﹑串燒等一應俱全，而且絕不馬虎。招牌的天月叉燒雞肉拉麵，雞白湯拉麵內有一片雞胸﹑一片雞叉燒﹑一片黑豚叉燒﹑溏心蛋﹑紫菜﹑蓮藕天婦羅片等配料，非常豐富。雞白湯非常濃稠，最喜歡先將紫菜浸滿濃濃的湯享用。另外丈夫常選擇的鰻魚雞肉丼的份量亦非常充足，除了肉類外還配有燒菠蘿，非常解膩。坊間的日式餐廳未必每間都有冷麵或烏冬的選擇，因製作冷麵的工序亦十分繁複，但這裡有提供之餘，配料亦同樣相當豐富，配有滿滿的沙律菜﹑牛肉等，份量多但像起了一份沙律一般完全無負擔。天婦羅及串燒等全部亦是即點即製，不同食材的料理時間剛好，口感及溫度都沒有挑剔。高質素的食物製作需時，記得要預留充足時間慢慢享用。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charlotte Wong",
+          "uri": "https://www.google.com/maps/contrib/107285278885721444058/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtaZd74Oh3gkuAM3a-tb2S_kHxevN1qJb7SqfRPjlbwNTCFcZa=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-02-26T09:55:55.626868Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURndGNIX3hRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURndGNIX3hRRRAB!2m1!1s0x3404084090daaaab:0xfed027326fd5eef1"
+      },
+      {
+        "name": "places/ChIJq6rakEAIBDQR8e7VbzIn0P4/reviews/ChdDSUhNMG9nS0VJQ0FnSURLZ3V5WDNBRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "之前食過呢度嘅拉麵唔錯。近日有日想食 tea，行過就入去叫咗啤酒同不同串燒等小食，好好食，我冇誤會的話係幾位年青人打理呢間小店嘅，感覺得到佢地好有 heart。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "之前食過呢度嘅拉麵唔錯。近日有日想食 tea，行過就入去叫咗啤酒同不同串燒等小食，好好食，我冇誤會的話係幾位年青人打理呢間小店嘅，感覺得到佢地好有 heart。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sheri Meow",
+          "uri": "https://www.google.com/maps/contrib/113933545672692299563/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhF4S-HgLfZX7svHtv42qmof0wnhJxlGmqdQtrNXDFHQrZqohg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2021-05-04T17:06:37.912417Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURLZ3V5WDNBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLZ3V5WDNBRRAB!2m1!1s0x3404084090daaaab:0xfed027326fd5eef1"
+      },
+      {
+        "name": "places/ChIJq6rakEAIBDQR8e7VbzIn0P4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUZ3RHdEtnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "小店坐位不多，\n食物酒水選擇都較少，\n食材水準普通，\n價錢不算便宜，\n服務還可接受，\n路過可以一試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "小店坐位不多，\n食物酒水選擇都較少，\n食材水準普通，\n價錢不算便宜，\n服務還可接受，\n路過可以一試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Takahashi",
+          "uri": "https://www.google.com/maps/contrib/118209604578018192612/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgAPjp-Zj3W66gMRwGR7_6Easwa74DlkZcUPwvv7cQctzG6awm=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-05-12T12:08:26.226602Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUZ3RHdEtnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUZ3RHdEtnEAE!2m1!1s0x3404084090daaaab:0xfed027326fd5eef1"
+      },
+      {
+        "name": "places/ChIJq6rakEAIBDQR8e7VbzIn0P4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVdzZLVjB3RRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好有日式居酒屋氣氛，各式食品色香味美，適合一家大細進餐。\n\n過了兩年了今日再來還有昨日情懷😁👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好有日式居酒屋氣氛，各式食品色香味美，適合一家大細進餐。\n\n過了兩年了今日再來還有昨日情懷😁👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Denon",
+          "uri": "https://www.google.com/maps/contrib/110464975589149993970/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBN8hOJdIFon6eJiWgEkjVgXuI6Ojw9_4m_WxNYAdOLLefgt9omA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-01-11T14:40:26.663333882Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNVdzZLVjB3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNVdzZLVjB3RRAB!2m1!1s0x3404084090daaaab:0xfed027326fd5eef1"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404084090daaaab:0xfed027326fd5eef1!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=18361218778367651569&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404084090daaaab:0xfed027326fd5eef1!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404084090daaaab:0xfed027326fd5eef1!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404084090daaaab:0xfed027326fd5eef1!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJq6rakEAIBDQR8e7VbzIn0P4/photos/Aa-ngMYafulb8BgQJxenFu5CxAZswo_VRKZVQrr1Iu4n_GM5Oijs4J7XAU-Jn4hgTt4Jjydv8w8ORsMRxf0aRFeEzCtM6Jy4A6mbB9pW6VKvxqjWRzu_U04gOPmH18W1LvoUzRWg51rHILn4Au2XuDLaGMGJ2NlYHpfurWi3T5hfooe0Jh9bYGhq37zirVbLGlXPG8fAfE3DZVE6DqDtXZYWn8ima9IJ1guKMVp-rmUDuWS9QfEYTLCgjXmWbtbXSfjlWmNuyX6WRZf1Cx0nlftv8OOKKISDq74m0O0G-CVHQJLHXQcb38Pxn0rVL15ilpm_smzrmwinpouxcw4yZLzn2jGI94phDF6-nY50qINNwaWjqPwRgRHwzYtZYJDYGl79pdDqBJMljHU7WeDubKq51EYLdh8",
+      "widthPx": 960,
+      "heightPx": 720,
+      "authorAttributions": [
+        {
+          "displayName": "天月居酒屋 (大埔)",
+          "uri": "https://maps.google.com/maps/contrib/110951497319704709070",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjpcPwYh0gbPH9NNiRF1OUbnaj752caQYFa-R3AbY4LpszONk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC67KCiHg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC67KCiHg!2e10!4m2!3m1!1s0x3404084090daaaab:0xfed027326fd5eef1"
+    },
+    "local_path": "photos/ChIJq6rakEAIBDQR8e7VbzIn0P4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBWuNntrQuEOqx9fb67txq_JtFArDfLCXFmNh9_GoK_QMdUTIvsuSkjHVGYLtLXmV0PuvL-W0QHSYTBs-Uyl9qgnxuxSGoGaHHCipv6jyGyoRY4Nw99FkY_fRZ5QDXG7bnZ4Qm=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 131350
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_izakaya_restaurant",
+    "label": "居酒屋",
+    "types": [
+      "japanese_izakaya_restaurant",
+      "yakitori_restaurant",
+      "noodle_shop",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

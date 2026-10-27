@@ -1,0 +1,364 @@
+{
+  "google_place_id": "ChIJYULkLFsBBDQR476yl7fzjLU",
+  "restaurant_ids": [
+    "restaurant:2212810578"
+  ],
+  "fetched_at": "2026-10-23T15:38:25.720908+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJYULkLFsBBDQR476yl7fzjLU",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2838 3878",
+    "internationalPhoneNumber": "+852 2838 3878",
+    "formattedAddress": "4/F, Biz Aura, 13-15 Pennington St, Causeway Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.278720699999997,
+      "longitude": 114.1860104
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=13082098987454086883&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.baanthai.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 22:30",
+        "星期二: 12:00 – 22:30",
+        "星期三: 12:00 – 22:30",
+        "星期四: 12:00 – 22:30",
+        "星期五: 12:00 – 23:00",
+        "星期六: 12:00 – 23:00",
+        "星期日: 12:00 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 441,
+    "displayName": {
+      "text": "Baan Thai Restaurant - Causeway Bay",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesVegetarianFood": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJYULkLFsBBDQR476yl7fzjLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paemJFTnBRMVJvVkZNMVVGQkNNbTEwWTJkamRGRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 1,
+        "text": {
+          "text": "本身想同屋企人補返父親節飯，點知呢間嘢難食到飛起\n作為一間泰國餐廳，最傳統嘅雞肉Pad Thai都可以整到極難食，明顯就係將金邊粉同雞肉白烚撈埋啲調味就完\n而且一入到去成浸罨味成浸廁所水味，成餐叫做正常嘅剩係得個冬陰功，唔理解點解仲可以咁貴？\n\nTried to have a belated Father's Day dinner with family, but this place was a massive letdown.\nTheir chicken Pad Thai, the most basic Thai dish was terrible, basically just boiled noodles and chicken mixed with sauce. Plus the restaurant smelled like a damp toilet inside. The only edible thing was the Tom Yum soup. Completely overpriced for such garbage quality",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "本身想同屋企人補返父親節飯，點知呢間嘢難食到飛起\n作為一間泰國餐廳，最傳統嘅雞肉Pad Thai都可以整到極難食，明顯就係將金邊粉同雞肉白烚撈埋啲調味就完\n而且一入到去成浸罨味成浸廁所水味，成餐叫做正常嘅剩係得個冬陰功，唔理解點解仲可以咁貴？\n\nTried to have a belated Father's Day dinner with family, but this place was a massive letdown.\nTheir chicken Pad Thai, the most basic Thai dish was terrible, basically just boiled noodles and chicken mixed with sauce. Plus the restaurant smelled like a damp toilet inside. The only edible thing was the Tom Yum soup. Completely overpriced for such garbage quality",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Leon Chan",
+          "uri": "https://www.google.com/maps/contrib/105177497857269643597/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLK-FL4riPZhRUgwdIHE4-QgjyfDmLLvsVFHVZtP415aUS0TCgZ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-23T06:49:11.587336991Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paemJFTnBRMVJvVkZNMVVGQkNNbTEwWTJkamRGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paemJFTnBRMVJvVkZNMVVGQkNNbTEwWTJkamRGRRAB!2m1!1s0x3404015b2ce44261:0xb58cf3b797b2bee3"
+      },
+      {
+        "name": "places/ChIJYULkLFsBBDQR476yl7fzjLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkdlQxbEJZbk55UVVFeE5tMWxUa2t3VTFKR1dYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "露天泰好食🇹🇭\n\n之前食過baan Thai 嘅中環同西環分店，原來銅鑼灣都有㗎\n\n口味唔錯喎，冬陰功酸酸辣辣好開胃。而且好足料，分咗幾碗都仲有蝦肉🦐\n\n香葉肉碎生菜包可以揀豬肉同雞肉喎！啱曬健康寶寶~唔覺唔覺食咗好多菜\n\n香烤豬頸肉烤得脆身又肉爽，完全唔膩~忍唔住又食多幾舊\n\n炭燒酸辣牛柳絲沙律 啱晒依家嘅天氣食，開胃又多樣嘅沙律菜，加埋牛肉就唔怕寡~\n\n而且Outdoor 區氣氛更正",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "露天泰好食🇹🇭\n\n之前食過baan Thai 嘅中環同西環分店，原來銅鑼灣都有㗎\n\n口味唔錯喎，冬陰功酸酸辣辣好開胃。而且好足料，分咗幾碗都仲有蝦肉🦐\n\n香葉肉碎生菜包可以揀豬肉同雞肉喎！啱曬健康寶寶~唔覺唔覺食咗好多菜\n\n香烤豬頸肉烤得脆身又肉爽，完全唔膩~忍唔住又食多幾舊\n\n炭燒酸辣牛柳絲沙律 啱晒依家嘅天氣食，開胃又多樣嘅沙律菜，加埋牛肉就唔怕寡~\n\n而且Outdoor 區氣氛更正",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "E K",
+          "uri": "https://www.google.com/maps/contrib/111859880432295446343/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9n4HKiyQ4u5x-1QVfoH8O5g5DT-hbQAuwrAf393wLy4DLkURjWA=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-08-03T05:31:39.010753876Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkdlQxbEJZbk55UVVFeE5tMWxUa2t3VTFKR1dYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkdlQxbEJZbk55UVVFeE5tMWxUa2t3VTFKR1dYYxAB!2m1!1s0x3404015b2ce44261:0xb58cf3b797b2bee3"
+      },
+      {
+        "name": "places/ChIJYULkLFsBBDQR476yl7fzjLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOS1EwbHJUM294U1dneFFsRXphSEoyUVhWRkxYYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 3,
+        "text": {
+          "text": "軟殼蟹咖喱炸燶咗，好油，同埋有三色豆😵分開嗌咗roti bread，不過不失。大蝦粉絲煲好，不過超鹹，蝦唔新鮮，朋友覺得蝦頭有臭味。cocktail試左Martini，唔建議",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "軟殼蟹咖喱炸燶咗，好油，同埋有三色豆😵分開嗌咗roti bread，不過不失。大蝦粉絲煲好，不過超鹹，蝦唔新鮮，朋友覺得蝦頭有臭味。cocktail試左Martini，唔建議",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "小小鳥",
+          "uri": "https://www.google.com/maps/contrib/100469882824765605000/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvlu1IKq4CO4dUgK5pFOMKAvWXqJ_TkzED2DWbQ10NVebB2ao=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-08-28T07:46:09.462469437Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOS1EwbHJUM294U1dneFFsRXphSEoyUVhWRkxYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOS1EwbHJUM294U1dneFFsRXphSEoyUVhWRkxYYxAB!2m1!1s0x3404015b2ce44261:0xb58cf3b797b2bee3"
+      },
+      {
+        "name": "places/ChIJYULkLFsBBDQR476yl7fzjLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1M2NUSk5ZVXRqTWprMUxTMUxWa1JNWmtGck1YYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "Flat noodles 麵質好得意  少少黏黏哋 店員推薦\n豬頸肉 好腍 肉汁係精華好惹味\n米卷好清新好新鮮\n兩杯嘢飲都唔會太甜，好好飲\n同埋坐得好舒服，店員好Nice好好笑容\n仲送我椰汁糕so sweet",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Flat noodles 麵質好得意  少少黏黏哋 店員推薦\n豬頸肉 好腍 肉汁係精華好惹味\n米卷好清新好新鮮\n兩杯嘢飲都唔會太甜，好好飲\n同埋坐得好舒服，店員好Nice好好笑容\n仲送我椰汁糕so sweet",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Share What my like",
+          "uri": "https://www.google.com/maps/contrib/104142098729733098770/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvCSmTQ_6_p2XArqKmUJQG38ayQyWk40_-oR5weLXiCkrG73eFFQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-10-03T14:41:23.302353583Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1M2NUSk5ZVXRqTWprMUxTMUxWa1JNWmtGck1YYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1M2NUSk5ZVXRqTWprMUxTMUxWa1JNWmtGck1YYxAB!2m1!1s0x3404015b2ce44261:0xb58cf3b797b2bee3"
+      },
+      {
+        "name": "places/ChIJYULkLFsBBDQR476yl7fzjLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twQk9IVm1UMkV5YzNSVVUwMDVZVk5VWDNWa2FrRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "8:30 入座， 人流唔算多，都幾chill🌈\n叫左個金邊粉同椰子雞湯\n椰子雞湯既雞超多， 好足料👍🏻金邊粉大大份， 仲有雞肉係入邊😀\n最後仲送左個椰汁糕， 入邊有西米露同粟米，充滿驚喜😆",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "8:30 入座， 人流唔算多，都幾chill🌈\n叫左個金邊粉同椰子雞湯\n椰子雞湯既雞超多， 好足料👍🏻金邊粉大大份， 仲有雞肉係入邊😀\n最後仲送左個椰汁糕， 入邊有西米露同粟米，充滿驚喜😆",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ning Ling",
+          "uri": "https://www.google.com/maps/contrib/118072672742991168730/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-eBOSy0QutYpuRUtpa6BzjkmOGRcRMoUvnKvrlBnFMXRwxw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-09-09T13:35:43.427803014Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twQk9IVm1UMkV5YzNSVVUwMDVZVk5VWDNWa2FrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twQk9IVm1UMkV5YzNSVVUwMDVZVk5VWDNWa2FrRRAB!2m1!1s0x3404015b2ce44261:0xb58cf3b797b2bee3"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404015b2ce44261:0xb58cf3b797b2bee3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13082098987454086883&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404015b2ce44261:0xb58cf3b797b2bee3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404015b2ce44261:0xb58cf3b797b2bee3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404015b2ce44261:0xb58cf3b797b2bee3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJYULkLFsBBDQR476yl7fzjLU/photos/Aa-ngMZ2EaoLF-9Vij_K2O-BxNJvgURjTBusRKYwL6PGWIawT9Y0zrQRYyVgLlzNTnqmp3YMnThDNsKiXBykSZweAd-eIU25_tWuP4A0K0_QVgyt0SJTYxNcyoBEuu9_Ss_kviZaS6Ej7XYck6ulP5xE5ok-R6TaDjOtFJB13CYgDk4MEwsvHZCfYAn3FDU3dXsTmeWWLAgQphBTudRjYhMXp9KvtLD-31xQilQTF00KcvBARiwVSwzxprk1W7Y74JqgXzBJN-E1VZQGsUXeIUkTHLXIAQJXjwxHMlq8g7dkIaL1n_OUebCzH9To35axNU-CJDDg2DwTPnvcIjtno6LIDi656f6C2cUr41Ld_b-l96yLj8j4eXEtdMmxuLIVJgC1GbJjmHhCy5mbCbOznxK2LH3YKImbOXe0uIFykmXOUIrcLg",
+      "widthPx": 2598,
+      "heightPx": 2262,
+      "authorAttributions": [
+        {
+          "displayName": "Baan Thai Restaurant - Causeway Bay",
+          "uri": "https://maps.google.com/maps/contrib/117882196690158298812",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLccl8u1lx4nfwa0JLUp-25ijXmpFRKVjUYv8nZc7pyrz03vNt=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBvaSoM1xQJXnN1r8ggnwc0&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBvaSoM1xQJXnN1r8ggnwc0!2e10!4m2!3m1!1s0x3404015b2ce44261:0xb58cf3b797b2bee3"
+    },
+    "local_path": "photos/ChIJYULkLFsBBDQR476yl7fzjLU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjq6cDjFzfBULlzY2dTEoD12zEPEEVSGP3F-zCwl_IWcFUGv57m48dU5MuUqtmWMcRXilkl4Sqx9qTt3bTcFBaDqHVITl2UxJkbrhSUNr0OgzZKuvbbe0kz_BVWipYCjChH39Phe_bwkAf=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 185662
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://baanthai.hk/book/",
+        "label": "Reservations",
+        "source_url": "https://baanthai.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://book.bistrochat.com/baan-thai-cwb",
+        "label": "RESERVATIONS (Causeway Bay)",
+        "source_url": "https://baanthai.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://book.bistrochat.com/baan-thai-central",
+        "label": "RESERVATIONS (Central)",
+        "source_url": "https://baanthai.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://inline.app/booking/baanthai/saiyingpun?utm=website",
+        "label": "RESERVATIONS (Sai Ying Pun)",
+        "source_url": "https://baanthai.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://baanthai.hk/menus/",
+        "label": "View our menu",
+        "source_url": "https://baanthai.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://baanthai.hk/book/",
+  "menu_url": "https://baanthai.hk/menus/"
+}

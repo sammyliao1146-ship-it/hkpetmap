@@ -1,0 +1,38 @@
+{
+  "id": "ChIJdy8vLboBBDQRcl-AFuUzzaE",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍佐敦上海街62號AVA621/F",
+  "location": {
+    "latitude": 22.3045967,
+    "longitude": 114.1692736
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11659032069350121330&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "宿一喵 MEOW INN",
+    "languageCode": "zh"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJdy8vLboBBDQRcl-AFuUzzaE/photos/Aa-ngMb12Y4g9jhuqHb43eeaQjrWGcswCu5AQ7bMEOzfwXNRJONKWh7fiFnmje-intF5Maj9z_F8No219gLwM47TCfe7FgWNrFTWYpf_gqHcafMFOfYN342ySasXN4eTANmobQRIJutv0Mwmyy66NKq7-bewB94dpkwv-frNnPaRwirKp-NEBDY0upyKGcOxJBWsiO7MnQ-7rnxLLwIXTo-QZkOtOmajWeHUYGcAgu7x9OZ4CT6G8rDo-5TI_PYp6xn2wqNEmkClwSksA0EOjbXyFE2zUwYIbWbLkjNgWiCVepmYnexhzilUvavf_ej_3-yBm1M-8F5aZxdtmcWpt3KDNfQMgRB9V3z28tBvwLRJS1-dh8UmlNog7bw1CIn4BkL2ESITtWhydrtzowxFoHa5GMgrloXSJHTOVLHc_VZMajix",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "authorAttributions": [
+        {
+          "displayName": "宿一喵 MEOW INN",
+          "uri": "https://maps.google.com/maps/contrib/100238281979801408604",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIaMTHQKpXw2carh6ZEKrGiw6KUW7H75vxWIfGNdeprBl__fg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDOt-6Ep4WMlyLyxbir_ocx&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDOt-6Ep4WMlyLyxbir_ocx!2e10!4m2!3m1!1s0x340401ba2d2f2f77:0xa1cd33e516805f72"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:25.249429+00:00"
+}

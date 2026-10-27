@@ -1,0 +1,311 @@
+{
+  "google_place_id": "ChIJmUMz5HcBBDQRoJa9Fw2s77I",
+  "restaurant_ids": [
+    "restaurant:3111801818",
+    "restaurant:3111803984"
+  ],
+  "fetched_at": "2026-10-23T15:40:04.250427+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJmUMz5HcBBDQRoJa9Fw2s77I",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2967 6689",
+    "internationalPhoneNumber": "+852 2967 6689",
+    "formattedAddress": "香港香港島筲箕灣南康街18號康華大廈1座Shop 3, G/F",
+    "location": {
+      "latitude": 22.2782649,
+      "longitude": 114.2261941
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=12893713430417872544&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.barpacific.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 4,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:30 – 04:00",
+        "星期二: 16:30 – 04:00",
+        "星期三: 16:30 – 04:00",
+        "星期四: 16:30 – 04:00",
+        "星期五: 16:30 – 04:00",
+        "星期六: 16:30 – 04:00",
+        "星期日: 16:30 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 45,
+    "displayName": {
+      "text": "太平洋酒吧 XXXIII",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJmUMz5HcBBDQRoJa9Fw2s77I/reviews/ChZDSUhNMG9nS0VJQ0FnSUQweGJxRGNBEAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 4,
+        "text": {
+          "text": "氣氛好又可以唱歌玩飛標",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "氣氛好又可以唱歌玩飛標",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "michelle chan",
+          "uri": "https://www.google.com/maps/contrib/110213354368575627209/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLizZx08WgWSoACUZCSE5YweiPDNHPNAFQah6N_vuHsSFgcpg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2019-11-12T18:05:11.530900Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQweGJxRGNBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQweGJxRGNBEAE!2m1!1s0x34040177e4334399:0xb2efac0d17bd96a0"
+      },
+      {
+        "name": "places/ChIJmUMz5HcBBDQRoJa9Fw2s77I/reviews/ChZDSUhNMG9nS0VJQ0FnSURZaU56dlBREAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "好方便，價格不貴",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好方便，價格不貴",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "chi wai Lai",
+          "uri": "https://www.google.com/maps/contrib/109583847653218245559/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIOJXRvf5a4Y8DTbGsW-HNCZMtx34gWJi308cyoBR2ow0V8yQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2019-04-27T09:42:15.590938Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURZaU56dlBREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURZaU56dlBREAE!2m1!1s0x34040177e4334399:0xb2efac0d17bd96a0"
+      },
+      {
+        "name": "places/ChIJmUMz5HcBBDQRoJa9Fw2s77I/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwcE9tVldnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "太過嘈炒！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "太過嘈炒！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yau Gor",
+          "uri": "https://www.google.com/maps/contrib/116824063720275718665/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIouANXEIysjE0LpN3lx-3QSxV3mnPJ3WKF6MUkE0am6kHAcg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-07-29T01:02:29.394311Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwcE9tVldnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwcE9tVldnEAE!2m1!1s0x34040177e4334399:0xb2efac0d17bd96a0"
+      },
+      {
+        "name": "places/ChIJmUMz5HcBBDQRoJa9Fw2s77I/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRcFBfbHh3RRAB",
+        "relativePublishTimeDescription": "9 年前",
+        "rating": 1,
+        "text": {
+          "text": "雞尾酒難喝極了，連啤酒都散發著一股臭味。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Terrible cocktail and even the beer taste stink.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Solomon Tam",
+          "uri": "https://www.google.com/maps/contrib/116430361085411869278/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAO2L-Pnf0IapL_uRr460fY1ix49Ayj90JZsAHhiaWxudMvDMd=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2017-02-26T10:13:29.391Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRcFBfbHh3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRcFBfbHh3RRAB!2m1!1s0x34040177e4334399:0xb2efac0d17bd96a0"
+      },
+      {
+        "name": "places/ChIJmUMz5HcBBDQRoJa9Fw2s77I/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwdXFTdy1BRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "喝醉的時候唱卡拉OK真好玩哈哈",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Karaoke is fun when drunk lol",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Karen Ong",
+          "uri": "https://www.google.com/maps/contrib/116569650366862454461/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0UmCj4X5Kk0a9vVCQpPQlF7W5pBM-ctEngNdgBK8qhaFhgrI=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2019-09-23T07:39:21.002648Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwdXFTdy1BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwdXFTdy1BRRAB!2m1!1s0x34040177e4334399:0xb2efac0d17bd96a0"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040177e4334399:0xb2efac0d17bd96a0!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12893713430417872544&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040177e4334399:0xb2efac0d17bd96a0!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040177e4334399:0xb2efac0d17bd96a0!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040177e4334399:0xb2efac0d17bd96a0!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJmUMz5HcBBDQRoJa9Fw2s77I/photos/Aa-ngMYBsWnRNApOZ9pQ9g8AhJ48AuKLAAlbqI0AKYI9fsyD5wsf6bAAVlp7OhMfoaBpyFjSdByH6uTnbos2EcG6mh_QhQwcz-25S8G4Un2D3QWa7k05kSkauXnQ35uuLWJk9wcE8uo4uLQBVMSr8Z1ueVLXmmzXaFfMskU9sF3jiBO--TDSihUOUKF8wZW6toD30gVMJX4u-ZhM1bSKDv9yugrv0CAU_foZyi2fWcs4etJhapJI3hqyCdGjpb-SKllqGXa0h0WUUhpIOnRfkFBlthfGd-d7UYEDkIgn3yDM_Nf2Oqh2GXny9vrKgLd9LwcbVtXRSmEEXrmAHgIN4feUZzSZAKpyECy4eaUZXudz4-8nj0wF5uuPtOp_qba49HHhu6AjtA7XTIr_JJSLmSG2lpdUizo",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Hiu Man Chan",
+          "uri": "https://maps.google.com/maps/contrib/117368593029963279032",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXELhVlvrSYB_ERWClls7_8My0zGHLuvuk9LU4mUNe7v7l3HcP=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJofLLcg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJofLLcg!2e10!4m2!3m1!1s0x34040177e4334399:0xb2efac0d17bd96a0"
+    },
+    "local_path": "photos/ChIJmUMz5HcBBDQRoJa9Fw2s77I.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3YLZUEmC76uyajVnRCoGPyDVhZyRHm7x-T46t0qukYT66PV4z71O_Tx31ms7JPUcLNWXQj7owkA8-tf-VWkMD6e3zW7hT_yjMr8gLBqBoO0JWeLqXTtZ_A5k_Yw-T9s4J867A=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 126886
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

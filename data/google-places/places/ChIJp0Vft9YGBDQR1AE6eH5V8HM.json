@@ -1,0 +1,331 @@
+{
+  "google_place_id": "ChIJp0Vft9YGBDQR1AE6eH5V8HM",
+  "restaurant_ids": [
+    "restaurant:2253803858"
+  ],
+  "fetched_at": "2026-10-23T15:42:09.467295+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJp0Vft9YGBDQR1AE6eH5V8HM",
+    "types": [
+      "german_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2359 3899",
+    "internationalPhoneNumber": "+852 2359 3899",
+    "formattedAddress": "香港九龍新蒲崗太子道東638 號Mikiki地下 G03B 號舖",
+    "location": {
+      "latitude": 22.3337412,
+      "longitude": 114.19715869999999
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=8354271310443577812&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 23:00",
+        "星期二: 11:30 – 23:00",
+        "星期三: 11:30 – 23:00",
+        "星期四: 11:30 – 11:00",
+        "星期五: 11:30 – 00:00",
+        "星期六: 11:30 – 00:00",
+        "星期日: 11:30 – 23:00"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 379,
+    "displayName": {
+      "text": "Das Bíer (Mikiki店)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "德國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "german_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJp0Vft9YGBDQR1AE6eH5V8HM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaU2FVUXdkakpmVEMxMFJrUmtaRmxHWVcwd1ZIYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "帶著🐶岀去都不是有很多選擇 在Mikiki外圍行咗一圈\n最後就揀咗食德國餐廳🍴\n揀咗兩個SET LUNCH\n烤紐西蘭肉眼扒和傳統白豬手配法蘭克福腸\n兩碟的份量都不少呢 一個選了薯菜 一個選了意粉\n意粉的軟硬度真的太好食了 加埋啲汁 正🤤\n但豬手就…比我想像的少咗啲啲\n另外牛扒都唔錯嘅🤗",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "帶著🐶岀去都不是有很多選擇 在Mikiki外圍行咗一圈\n最後就揀咗食德國餐廳🍴\n揀咗兩個SET LUNCH\n烤紐西蘭肉眼扒和傳統白豬手配法蘭克福腸\n兩碟的份量都不少呢 一個選了薯菜 一個選了意粉\n意粉的軟硬度真的太好食了 加埋啲汁 正🤤\n但豬手就…比我想像的少咗啲啲\n另外牛扒都唔錯嘅🤗",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "W! 3ON",
+          "uri": "https://www.google.com/maps/contrib/107366439351455212442/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-Y17kEOstmigyl-odolAgkGS2a1gNjlQtZJTcNbsMinsrO4hW=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-28T00:12:34.731502485Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaU2FVUXdkakpmVEMxMFJrUmtaRmxHWVcwd1ZIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaU2FVUXdkakpmVEMxMFJrUmtaRmxHWVcwd1ZIYxAB!2m1!1s0x340406d6b75f45a7:0x73f0557e783a01d4"
+      },
+      {
+        "name": "places/ChIJp0Vft9YGBDQR1AE6eH5V8HM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJd01rbzFNbkpXYUdSTVFrRndVRUZoYUZCTGQwRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "德國鹹豬手配酸菜及薯仔沙律 $238\n勁大份！2-3人share都好夠\n豬手外皮好香脆，肉質不會乾硬\n味道適中，不會死鹹\n配搭芥末醬食口味更提升\n加埋酸菜食更加清新，唔容易膩\n仲有薯仔沙律都唔錯\n\nBBQ醬燒春雞（半隻） $98\n唔洗$100就食到燒雞薯條邊度搵\n半隻都幾大隻\n外皮燒得金黃色，充滿口感\n雞肉依然保有肉汁，好Juicy\n加埋BBQ醬食好惹味呀\n仲有香口既薯條，好滿足\n晚餐另加 $40 可以轉套餐\n包括煙三文魚沙律、餐湯和飲品\n\n環境好有氣氛，又有室外座位\n不定期會推出多款優惠活動\n同一班朋友黎食野飲啤酒好適合",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "德國鹹豬手配酸菜及薯仔沙律 $238\n勁大份！2-3人share都好夠\n豬手外皮好香脆，肉質不會乾硬\n味道適中，不會死鹹\n配搭芥末醬食口味更提升\n加埋酸菜食更加清新，唔容易膩\n仲有薯仔沙律都唔錯\n\nBBQ醬燒春雞（半隻） $98\n唔洗$100就食到燒雞薯條邊度搵\n半隻都幾大隻\n外皮燒得金黃色，充滿口感\n雞肉依然保有肉汁，好Juicy\n加埋BBQ醬食好惹味呀\n仲有香口既薯條，好滿足\n晚餐另加 $40 可以轉套餐\n包括煙三文魚沙律、餐湯和飲品\n\n環境好有氣氛，又有室外座位\n不定期會推出多款優惠活動\n同一班朋友黎食野飲啤酒好適合",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Maggie Lau (hkwanderlust)",
+          "uri": "https://www.google.com/maps/contrib/107584207261997792508/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUF5NZuS9AgINNKWA5VCRnr4JoOuDcn2KXzs7TvlZMQJPHhuGyQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-12-03T00:28:18.137955632Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJd01rbzFNbkpXYUdSTVFrRndVRUZoYUZCTGQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJd01rbzFNbkpXYUdSTVFrRndVRUZoYUZCTGQwRRAB!2m1!1s0x340406d6b75f45a7:0x73f0557e783a01d4"
+      },
+      {
+        "name": "places/ChIJp0Vft9YGBDQR1AE6eH5V8HM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5RlpubFFlbFJaUVVodllVSnNURGMwYVVVNVIzYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 4,
+        "text": {
+          "text": "星期一至五沒有HappyHours，但凑巧有餐，雜錦拼盤$398加$98有2L清啤。拼盤有豬手面包腸少量芝士酸瓜薯仔⋯基上都夠2至4人食。額外點了威靈牛，但似乎過熟，牛似牛腩，但夠味的。\n服務尚可，環境有室外室內選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期一至五沒有HappyHours，但凑巧有餐，雜錦拼盤$398加$98有2L清啤。拼盤有豬手面包腸少量芝士酸瓜薯仔⋯基上都夠2至4人食。額外點了威靈牛，但似乎過熟，牛似牛腩，但夠味的。\n服務尚可，環境有室外室內選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Janet Li",
+          "uri": "https://www.google.com/maps/contrib/115556308129981982989/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtcqxEk0sbCax5Pz30kIO3zI2ZlBIPhqxoyvVvCb3MBfo5lEqS1g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-23T02:18:26.127814457Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5RlpubFFlbFJaUVVodllVSnNURGMwYVVVNVIzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5RlpubFFlbFJaUVVodllVSnNURGMwYVVVNVIzYxAB!2m1!1s0x340406d6b75f45a7:0x73f0557e783a01d4"
+      },
+      {
+        "name": "places/ChIJp0Vft9YGBDQR1AE6eH5V8HM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GdlMxSlRVM0JrUTE5amFqUjVZMHBCUzNSRFUzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "價格偏貴，物非所值！德國咸豬手一D咸味都冇，豬手塊皮硬到子彈都打唔入！服務員笨頭笨腦，叫佢俾一杯水，已經是馬上去，竟然俾左隔離枱，吹脹！這個老闆可能係善長仁翁，專請弱能人士，敬佩敬佩。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "價格偏貴，物非所值！德國咸豬手一D咸味都冇，豬手塊皮硬到子彈都打唔入！服務員笨頭笨腦，叫佢俾一杯水，已經是馬上去，竟然俾左隔離枱，吹脹！這個老闆可能係善長仁翁，專請弱能人士，敬佩敬佩。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ys Chan",
+          "uri": "https://www.google.com/maps/contrib/103375025529614626994/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtiBlsQklaedSpwX0rFdVyCrKeGK70F8Ssu-A73_JrGD5sDGlV=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-08-18T03:15:28.417648860Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GdlMxSlRVM0JrUTE5amFqUjVZMHBCUzNSRFUzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GdlMxSlRVM0JrUTE5amFqUjVZMHBCUzNSRFUzYxAB!2m1!1s0x340406d6b75f45a7:0x73f0557e783a01d4"
+      },
+      {
+        "name": "places/ChIJp0Vft9YGBDQR1AE6eH5V8HM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sRGFXcG1SSE5VT0dkUU1ubEJPWGgzTjFSMmNsRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "德國咸豬手，外脆內嫩，三人晚餐，叫多一個晚餐套餐，份量充足，侍應服務態度好，價格合理。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "德國咸豬手，外脆內嫩，三人晚餐，叫多一個晚餐套餐，份量充足，侍應服務態度好，價格合理。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "PongPong Leung",
+          "uri": "https://www.google.com/maps/contrib/116921384232279258494/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJL5VzMXEElkT0GK-7BgL6k97i2GRrXIWEkFx9dhBAUXqdd2A=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-03-30T11:49:56.351170982Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sRGFXcG1SSE5VT0dkUU1ubEJPWGgzTjFSMmNsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sRGFXcG1SSE5VT0dkUU1ubEJPWGgzTjFSMmNsRRAB!2m1!1s0x340406d6b75f45a7:0x73f0557e783a01d4"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340406d6b75f45a7:0x73f0557e783a01d4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8354271310443577812&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340406d6b75f45a7:0x73f0557e783a01d4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340406d6b75f45a7:0x73f0557e783a01d4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340406d6b75f45a7:0x73f0557e783a01d4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJp0Vft9YGBDQR1AE6eH5V8HM/photos/Aa-ngMZX0lLMr57Fj8-vL4o5vI_r0DWc8tYZvtZs1-xJbj7VTtsesLLTT6KsrTHhOYcxd2TKG-CrE6d2Pat9cxuKScB4P7meNxNbLxvCYYJPxJUjFMXyo9cFsxSrEMzywXB_VY_cFOvYaEFbSX4k-Ix8QlpIHoBzJtyNXVvbkYeX7wl2GEfkgsIkrE4bKC8r7loQBD9CZli-ZehRowqR27gTknM3YDiwDjolLYflUjo4z0c3uGkCh7hRZ-m3LL6PtDaVwwKpS-J_R2QQPLzBstgH2tSyX7l39AKKSQFnKjl6cMx5l_aIrJeIZvGxbAQc95EcrpQ_zzB-R8kKtc0itrO0m7rMHePDGCNqMDISE30AezFmUh_rpdE6RaDRXi5LePB5-gsFo1Ib9Y5dgngKOchMnCtIrmg-HvcxaTlv8yFpZW2V",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Das Bíer (Mikiki店)",
+          "uri": "https://maps.google.com/maps/contrib/107304103906217046249",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICx9zevbqgTGFDy5gT95ALJ2BaXQanlnxwX7iPun0AbasrAQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDVEAm-OBcAbBhRpi8Q4ckZ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDVEAm-OBcAbBhRpi8Q4ckZ!2e10!4m2!3m1!1s0x340406d6b75f45a7:0x73f0557e783a01d4"
+    },
+    "local_path": "photos/ChIJp0Vft9YGBDQR1AE6eH5V8HM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8I7hn_r3eF56aB5ljnjhkwBhlDxT7RUCCnAXP6PZl0IGprjjbOphwH7xuApMEnLGECQkq82BhcKTMmgQxDhO6nH3R1wUvtQ3nj0oWlYln9ZIfky6pbSJrNQ5QceIELCRKOH11lVo4XlY=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 326426
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "german_restaurant",
+    "label": "德國餐廳",
+    "types": [
+      "german_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

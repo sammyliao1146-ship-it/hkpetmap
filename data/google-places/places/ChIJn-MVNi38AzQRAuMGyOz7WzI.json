@@ -1,0 +1,437 @@
+{
+  "google_place_id": "ChIJn-MVNi38AzQRAuMGyOz7WzI",
+  "restaurant_ids": [
+    "restaurant:2217802073"
+  ],
+  "fetched_at": "2026-10-23T15:42:25.635491+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJn-MVNi38AzQRAuMGyOz7WzI",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3510 2000",
+    "internationalPhoneNumber": "+852 3510 2000",
+    "formattedAddress": "Lantau Island, 迪士尼探索家度假酒店 Hong Kong Disneyland Resort, New Territories, 香港",
+    "location": {
+      "latitude": 22.307960899999998,
+      "longitude": 114.03825119999999
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=3628770919163814658&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.hongkongdisneyland.com/dining/disney-explorers-lodge/dragon-wind/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 11:00, 17:30 – 22:30",
+        "星期二: 07:30 – 11:00, 17:30 – 22:30",
+        "星期三: 07:30 – 11:00, 17:30 – 22:30",
+        "星期四: 07:30 – 11:00, 17:30 – 22:30",
+        "星期五: 07:30 – 11:00, 17:30 – 22:30",
+        "星期六: 07:30 – 11:00, 12:00 – 15:00, 17:30 – 22:30",
+        "星期日: 07:30 – 11:00, 12:00 – 15:00, 17:30 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 160,
+    "displayName": {
+      "text": "雲龍軒",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJn-MVNi38AzQRAuMGyOz7WzI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toZlRGZEZPRFo1Tm1sUlNEWlBiVVY2VDNnMWRtYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這次享用早餐很幸運跟探索家唐老鴨合照到\n非常可愛\n提前上香港迪士尼官網預訂還有優惠\n整體體驗很棒令小朋友印象難忘\n主廚餐點也用心好吃\n\n🌟 探索家迪士尼早餐體驗：\n✅ 有隨機角色互動合照\n（米奇、米妮、唐老鴨三大主角）\n✅ 餐點設計超可愛\n有米奇鬆餅、迷你甜甜圈\n✅ 小孩超開心",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這次享用早餐很幸運跟探索家唐老鴨合照到\n非常可愛\n提前上香港迪士尼官網預訂還有優惠\n整體體驗很棒令小朋友印象難忘\n主廚餐點也用心好吃\n\n🌟 探索家迪士尼早餐體驗：\n✅ 有隨機角色互動合照\n（米奇、米妮、唐老鴨三大主角）\n✅ 餐點設計超可愛\n有米奇鬆餅、迷你甜甜圈\n✅ 小孩超開心",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ricky Chen (小豬豬的奇幻冒險)",
+          "uri": "https://www.google.com/maps/contrib/111943708081968331104/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9UGnrRgkYybSf8IJXSbAuaCKmNuzk8fW9c4__N7J2J1-GMMws=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-07-26T16:36:56.236587406Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toZlRGZEZPRFo1Tm1sUlNEWlBiVVY2VDNnMWRtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toZlRGZEZPRFo1Tm1sUlNEWlBiVVY2VDNnMWRtYxAB!2m1!1s0x3403fc2d3615e39f:0x325bfbecc806e302"
+      },
+      {
+        "name": "places/ChIJn-MVNi38AzQRAuMGyOz7WzI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taa1ZuQlhabDlmYnpsdFpuSXdRMDl5VW5KNVFYYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "住宿迪士尼探索家酒店的早餐，有米奇造型鬆餅，還有高飛狗一起合照，環境明亮舒服，我們很喜歡探索家酒店以及雲龍軒🥰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "住宿迪士尼探索家酒店的早餐，有米奇造型鬆餅，還有高飛狗一起合照，環境明亮舒服，我們很喜歡探索家酒店以及雲龍軒🥰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "布布一二遊天下【第10級在地嚮導】",
+          "uri": "https://www.google.com/maps/contrib/107982541106102283970/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUItRqkqaMdgHPEDOronFkimlfqnK7PymsT8VNFnXgKrLBzGeQ=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-06-23T16:16:47.606360648Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taa1ZuQlhabDlmYnpsdFpuSXdRMDl5VW5KNVFYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taa1ZuQlhabDlmYnpsdFpuSXdRMDl5VW5KNVFYYxAB!2m1!1s0x3403fc2d3615e39f:0x325bfbecc806e302"
+      },
+      {
+        "name": "places/ChIJn-MVNi38AzQRAuMGyOz7WzI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkU1pEZzRXVGwyVDFsa1ptVjFTa2xyWm1rM1RFRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "東西好吃，跟香港物價比也不算貴，值得一提的是有一個年紀看起來稍年長的阿姨非常親切，服務非常好。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "東西好吃，跟香港物價比也不算貴，值得一提的是有一個年紀看起來稍年長的阿姨非常親切，服務非常好。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rain",
+          "uri": "https://www.google.com/maps/contrib/110224990306169334994/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKFXkDcWiF5YGJojBEpZnSOWZBy3GnVdnaQSAZLBp0TZKAuuA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-13T11:33:57.306974384Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkU1pEZzRXVGwyVDFsa1ptVjFTa2xyWm1rM1RFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkU1pEZzRXVGwyVDFsa1ptVjFTa2xyWm1rM1RFRRAB!2m1!1s0x3403fc2d3615e39f:0x325bfbecc806e302"
+      },
+      {
+        "name": "places/ChIJn-MVNi38AzQRAuMGyOz7WzI/reviews/ChZDSUhNMG9nS0VQT216OFR0dHR1dlVBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "今日在雲龍軒食佢哋嘅午市套餐：\n1. 頭盤叉燒質素認真麻麻，有點柴\n2. 銀魚醬幾好食~現場可以購買銀魚醬\n3. 崧子牛肉炒飯有鑊氣同香氣\n4. 侍應服務認真主動與客人聊天, 介紹菜品",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日在雲龍軒食佢哋嘅午市套餐：\n1. 頭盤叉燒質素認真麻麻，有點柴\n2. 銀魚醬幾好食~現場可以購買銀魚醬\n3. 崧子牛肉炒飯有鑊氣同香氣\n4. 侍應服務認真主動與客人聊天, 介紹菜品",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "fung king lee",
+          "uri": "https://www.google.com/maps/contrib/118359563286079122780/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAnim9SToUey3T_Qdy_q_-Y1aMQ9NxW9ZiqIXjtyQVwHEIq-vMEA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-05-24T05:55:58.257067Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VQT216OFR0dHR1dlVBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQT216OFR0dHR1dlVBEAE!2m1!1s0x3403fc2d3615e39f:0x325bfbecc806e302"
+      },
+      {
+        "name": "places/ChIJn-MVNi38AzQRAuMGyOz7WzI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ObE1tZEdWblF4WmtOWldWb3pXbDlrV1c5ZlMyYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "招牌炒飯，有驚喜。\n其他菜式都好不俗。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "招牌炒飯，有驚喜。\n其他菜式都好不俗。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wendy Koo",
+          "uri": "https://www.google.com/maps/contrib/103541574210560227852/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSoGX3HdLEbigIgYz77wCLpl_bbiQITFegKF460Kv6Euxe-v6VNA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-27T13:28:23.991666130Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ObE1tZEdWblF4WmtOWldWb3pXbDlrV1c5ZlMyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ObE1tZEdWblF4WmtOWldWb3pXbDlrV1c5ZlMyYxAB!2m1!1s0x3403fc2d3615e39f:0x325bfbecc806e302"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fc2d3615e39f:0x325bfbecc806e302!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3628770919163814658&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fc2d3615e39f:0x325bfbecc806e302!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fc2d3615e39f:0x325bfbecc806e302!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fc2d3615e39f:0x325bfbecc806e302!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJn-MVNi38AzQRAuMGyOz7WzI/photos/Aa-ngMYHX_09bXHEGDaIeAYa2QE7t2368n5J418ixH--u-bApOdsm8NbhQetuh3cQaEKa2UkzeyRSM8x7h9Twh-mkj8QEgBVpUKsUVa4DlJgdWkjocYPMjJSqxr1-n7z1bu75xUeppIviWKILPMh0aBc1aCAmLh0KIeU0rgYCw-s8MAKyL0uLQ5lmfmBKCMS0mKTe9dzrrXowHqNaJUA7rqcv5ErVgTKb14C-Qb7YqB9_L4yKBjErCRVn4NwUrePPNp9PWcDdSFSmiYC_nd559psMckLDLCQbjV0oQOUlMLKLlfFTS7v5JxAu2J1HRDzPJpoJdXH7cOBYqX3Fbf3uUqYSZPPrb8Pf2Prx7-6_zVWDgWLGCCjKFWc79NJ7AAA2-s1OYamlUe6sGgO5F-9tMNLgZ96kJud9Us",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Kaming Cheung",
+          "uri": "https://maps.google.com/maps/contrib/107383969505364117222",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWd3jRe_H97JS98JkpCUCBA33o66znGv7QO85hiPJs8zSh9S1mLKA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE7-y8mQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE7-y8mQE!2e10!4m2!3m1!1s0x3403fc2d3615e39f:0x325bfbecc806e302"
+    },
+    "local_path": "photos/ChIJn-MVNi38AzQRAuMGyOz7WzI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLJGGTQoYdZLlpmqzy0tljqKNdluhfWvGZzijcStpFKDCTowpML4NE12ipjPMdwdn6IcDfBFPJkmaoI4N_YyGQ5AqAUlv8sCZiX4wkJm_jiTn3761L7ZH_8LFgeFGL2Z_bNgF27Q=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 156871
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

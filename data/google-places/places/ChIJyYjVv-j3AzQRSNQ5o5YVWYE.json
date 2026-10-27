@@ -1,0 +1,301 @@
+{
+  "google_place_id": "ChIJyYjVv-j3AzQRSNQ5o5YVWYE",
+  "restaurant_ids": [
+    "restaurant:3196800346"
+  ],
+  "fetched_at": "2026-10-23T15:40:15.503081+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJyYjVv-j3AzQRSNQ5o5YVWYE",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9249 9585",
+    "internationalPhoneNumber": "+852 9249 9585",
+    "formattedAddress": "香港新界上水新發街15-19號",
+    "location": {
+      "latitude": 22.5039892,
+      "longitude": 114.127479
+    },
+    "rating": 3.4,
+    "googleMapsUri": "https://maps.google.com/?cid=9320504640547705928&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.barpacific.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:00 – 02:00",
+        "星期二: 09:00 – 02:00",
+        "星期三: 09:00 – 02:00",
+        "星期四: 09:00 – 02:00",
+        "星期五: 09:00 – 02:00",
+        "星期六: 09:00 – 02:00",
+        "星期日: 09:00 – 02:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 8,
+    "displayName": {
+      "text": "太平洋酒吧 92",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "pub",
+    "reviews": [
+      {
+        "name": "places/ChIJyYjVv-j3AzQRSNQ5o5YVWYE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1eFozcGFNRU15ZUc1dWVHOXNNWEEzY3kxT09FRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 4,
+        "text": {
+          "text": "和朋友在上水找個地方聊天，近火車站的就這裏有兩間，隨便選了這一間連鎖店。\n\n小食的收費並不貴，就是啤酒價錢覺得一般般。這裏的顧客主要都是玩飛鏢，係一夜晚的入座率就大概一兩成吧，前台的當值店員就一位。\n\n特別讚一個的事洗手間比較衛生，也有少少香味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "和朋友在上水找個地方聊天，近火車站的就這裏有兩間，隨便選了這一間連鎖店。\n\n小食的收費並不貴，就是啤酒價錢覺得一般般。這裏的顧客主要都是玩飛鏢，係一夜晚的入座率就大概一兩成吧，前台的當值店員就一位。\n\n特別讚一個的事洗手間比較衛生，也有少少香味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "BunnY Wong",
+          "uri": "https://www.google.com/maps/contrib/118380338271708870195/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuNxMqYv2dhs3NKOR5X45V_nBMY3CbxVFtsA8sPWWRTconCNG_9g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-19T06:30:00.268661114Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1eFozcGFNRU15ZUc1dWVHOXNNWEEzY3kxT09FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1eFozcGFNRU15ZUc1dWVHOXNNWEEzY3kxT09FRRAB!2m1!1s0x3403f7e8bfd588c9:0x81591596a339d448"
+      },
+      {
+        "name": "places/ChIJyYjVv-j3AzQRSNQ5o5YVWYE/reviews/ChdDSUhNMG9nS0VJQ0FnSURCdUpiaHhnRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 2,
+        "text": {
+          "text": "午市諗住去食晏就，服務一般啲住都好坐。\n\n叫左最貴既雞胸肉配椰菜花飯，黎既時間係外賣盒，雞胸肉又凍又硬冇味，椰菜花一般，整體加埋幾難食。\n\n冇野飲但係送左個蘋果乾零食，成舊水食外賣都幾唔抵。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午市諗住去食晏就，服務一般啲住都好坐。\n\n叫左最貴既雞胸肉配椰菜花飯，黎既時間係外賣盒，雞胸肉又凍又硬冇味，椰菜花一般，整體加埋幾難食。\n\n冇野飲但係送左個蘋果乾零食，成舊水食外賣都幾唔抵。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lafa ca",
+          "uri": "https://www.google.com/maps/contrib/107431684497404582479/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEe14PqN2nfBWR8otoswDPUK5PY4aN0eyu4GQzdI5FfJbfY-xx=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2023-01-11T07:27:40.002114Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCdUpiaHhnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCdUpiaHhnRRAB!2m1!1s0x3403f7e8bfd588c9:0x81591596a339d448"
+      },
+      {
+        "name": "places/ChIJyYjVv-j3AzQRSNQ5o5YVWYE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNELW82bVpBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "超爛。首先服務特別差，其次食物你們可以看啊看，這個炸雞塊68再加10%服務費，這杯喝的是所謂的mocktail！ 50塊加10%服務費！然後結帳的時候，本身已經加了10%服務費，還要在帳單裡面加了一個什麼人頭費15元，說是每個人來這裡坐下就要收這個15，我說你這個在哪裡有告示嗎？服務費都收了，這個15你得有個說明吧，人家餐廳茶位10/人起碼在菜單上標記出來了，你這就是亂收費吧。她後來非常氣憤的給我取消了，一把抓走之前的帳單，非常粗魯，像是欠她好多錢一樣。非常的沒有素質。而且這還是香港旅遊局推介的餐廳，發行了100面值的優惠卷可以在此餐廳用，沒想到這麼差！簡直是丟香港的臉！各位避雷，千萬別來。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "超级烂。首先服务特别差，其次食物你们可以看啊看，这个炸鸡块68再加10%服务费，这杯喝的是所谓的mocktail！50块加10%服务费！然后结账的时候，本身已经加了10%服务费，还要在账单里面加了一个什么人头费15元，说是每个人来这里坐下就要收这个15，我说你这个在哪里有告示吗？服务费都收了，这个15你得有个说明吧，人家餐厅茶位10/人起码在菜单上标记出来了，你这就是乱收费吧。她后来非常气愤的给我取消了，一把抓走之前的账单，非常粗鲁，像是欠她好多钱一样。非常的没有素质。而且这还是香港旅游局推介的餐厅，发行了100面值的优惠卷可以在此餐厅用，没想到这么差！简直丢香港的脸！各位避雷，千万别来。",
+          "languageCode": "zh"
+        },
+        "authorAttribution": {
+          "displayName": "Rawls Luo",
+          "uri": "https://www.google.com/maps/contrib/102097108043529856125/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtB6_I5I2OvUpm5mSrE1WR3F2wdJ5btieZenM4J5s0bJV_48yA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-03-27T10:59:21.241083Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNELW82bVpBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNELW82bVpBEAE!2m1!1s0x3403f7e8bfd588c9:0x81591596a339d448"
+      },
+      {
+        "name": "places/ChIJyYjVv-j3AzQRSNQ5o5YVWYE/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzN09QX3lRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Hiu Man Chan",
+          "uri": "https://www.google.com/maps/contrib/117368593029963279032/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXELhVlvrSYB_ERWClls7_8My0zGHLuvuk9LU4mUNe7v7l3HcP=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-11-03T16:52:12.026292Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzN09QX3lRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzN09QX3lRRRAB!2m1!1s0x3403f7e8bfd588c9:0x81591596a339d448"
+      },
+      {
+        "name": "places/ChIJyYjVv-j3AzQRSNQ5o5YVWYE/reviews/ChdDSUhNMG9nS0VJQ0FnSURCckl5Zm5BRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "kevin wong",
+          "uri": "https://www.google.com/maps/contrib/106650469534905205679/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdQbzqwe6wdoVJNPNtfV4HFcpGhzwaXijXgc_xCEWAV9ShLRU=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-01-13T13:18:08.608826Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCckl5Zm5BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCckl5Zm5BRRAB!2m1!1s0x3403f7e8bfd588c9:0x81591596a339d448"
+      }
+    ],
+    "servesCocktails": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f7e8bfd588c9:0x81591596a339d448!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9320504640547705928&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f7e8bfd588c9:0x81591596a339d448!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f7e8bfd588c9:0x81591596a339d448!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f7e8bfd588c9:0x81591596a339d448!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJyYjVv-j3AzQRSNQ5o5YVWYE/photos/Aa-ngMZE5su7IaSaleYH8xQ2vuuUtNEaxfaHgi3mN3Q-7m1_AP8N9PtyBPeYtHBvTOHuAqBXCskQTxawb0Zlf7LSSpnPUxWEUVXFLTiV1DcZWIrkDMsOiCsCNHWBvT50p6nx7FdRYDTTOwPhlJPS8lbh88zL5ppHx6PUBA4rB7ZAFNalKdIR_wbKGx2qyO2h2JfdFfOnzRT8EhVkJ2C4FL7QX-wvnXLBhyqmUin88E-K3F0p17g0lia_AdK9IrhIRAGcz_NiDUnTnuYaS9fw7pEwSCkhrwi9uu1kx2ioh8JMuxHkADBfwwsX3LVzo6i-9k7nkDDZyDIv0r-lddJUTZfXzZkHF0qIwHMxk5dI7jjrgSQ8hxDf_u3I8Zl5Iyc0e89ks2cjyO0ZgR1ibRCmm_s8wQs7agFXwkw",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "Rawls Luo",
+          "uri": "https://maps.google.com/maps/contrib/102097108043529856125",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtB6_I5I2OvUpm5mSrE1WR3F2wdJ5btieZenM4J5s0bJV_48yA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICD-o6mlAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD-o6mlAE!2e10!4m2!3m1!1s0x3403f7e8bfd588c9:0x81591596a339d448"
+    },
+    "local_path": "photos/ChIJyYjVv-j3AzQRSNQ5o5YVWYE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf48YOPd4uYLn_A9KflniVQM4uYcAp89NGtmfDPLL4eyijOO_3B9eeUemkLK-Q6PefMg6-Q6I9u6eG5ddFomyNI8r_eFAW3NnqByD-7lk8Y4uFV55iF4utRmyLOQf9BlEb1ZXT5mA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 125272
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "pub",
+    "label": "酒吧",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,474 @@
+{
+  "google_place_id": "ChIJqRkG9_gBBDQRpNGd_sjBCks",
+  "restaurant_ids": [
+    "restaurant:2212817597"
+  ],
+  "fetched_at": "2026-10-23T15:39:44.572083+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJqRkG9_gBBDQRpNGd_sjBCks",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2885 3390",
+    "internationalPhoneNumber": "+852 2885 3390",
+    "formattedAddress": "Shop 1001A 10/F Times Square, 1 Matheson St, Causeway Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.278150999999998,
+      "longitude": 114.1821136
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=5407347371621077412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.thefoodstoryhk.com/artofcanton",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:30 – 15:30, 18:00 – 22:00",
+        "星期二: 10:30 – 15:30, 18:00 – 22:00",
+        "星期三: 10:30 – 15:30, 18:00 – 22:00",
+        "星期四: 10:30 – 15:30, 18:00 – 22:00",
+        "星期五: 10:30 – 15:30, 18:00 – 22:00",
+        "星期六: 10:30 – 15:30, 18:00 – 22:00",
+        "星期日: 10:30 – 15:30, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 343,
+    "displayName": {
+      "text": "粵藝館",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "廣東菜餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "cantonese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJqRkG9_gBBDQRpNGd_sjBCks/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taTWRuWlNhR3M1ZDJveFJYcHRiVlZZZGxRellVRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "同家人黎聚餐慶祝。環境大氣舒服，最震撼係門口有個乳豬爐，可以睇住師傅即燒乳豬🔥 仲要係 Pet-friendly 寵物友善，可以帶埋毛孩一齊歎！茶位選咗清香嘅菊花茶，解膩剛剛好。\n​我哋試咗由粵菜隱世高人「新哥」（曾憲新）顧問監修嘅「粵藝 x 德廚四人套餐」，加埋單點嘅招牌第一豬，超高質\n​\n即燒無花果天下第一豬。BB 豬即場火燒，皮香脆到「咔滋」一聲！肉質嫩滑多汁，配埋無花果甘甜完美解膩，必點！\n西班牙栗子豬焦香叉燒 燶邊極香，栗子豬肉質軟腍帶甜，蜜汁味好惹味。\n精緻手工點心，蝦餃皮 Q 彈，蝦肉爽口鮮甜；逸仙粉果皮薄餡靚，好有驚喜！\n花雕醉乳鴿酒香濃郁、濃湯菜膽雲吞雞煲超滋補、醬皇野菌爆鳳尾蝦球、宮廷一口咕嚕肉、濃湯金銀蛋浸菜苗、瓦煲乾炒牛河，最後以綿密香甜嘅 紅豆沙 作結，超豐盛！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "同家人黎聚餐慶祝。環境大氣舒服，最震撼係門口有個乳豬爐，可以睇住師傅即燒乳豬🔥 仲要係 Pet-friendly 寵物友善，可以帶埋毛孩一齊歎！茶位選咗清香嘅菊花茶，解膩剛剛好。\n​我哋試咗由粵菜隱世高人「新哥」（曾憲新）顧問監修嘅「粵藝 x 德廚四人套餐」，加埋單點嘅招牌第一豬，超高質\n​\n即燒無花果天下第一豬。BB 豬即場火燒，皮香脆到「咔滋」一聲！肉質嫩滑多汁，配埋無花果甘甜完美解膩，必點！\n西班牙栗子豬焦香叉燒 燶邊極香，栗子豬肉質軟腍帶甜，蜜汁味好惹味。\n精緻手工點心，蝦餃皮 Q 彈，蝦肉爽口鮮甜；逸仙粉果皮薄餡靚，好有驚喜！\n花雕醉乳鴿酒香濃郁、濃湯菜膽雲吞雞煲超滋補、醬皇野菌爆鳳尾蝦球、宮廷一口咕嚕肉、濃湯金銀蛋浸菜苗、瓦煲乾炒牛河，最後以綿密香甜嘅 紅豆沙 作結，超豐盛！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hunger Food",
+          "uri": "https://www.google.com/maps/contrib/115598428298830000332/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_aLLH73W7c6PZYJzxoMt2sdBQZb9aFAVHaPkbcdlS2aGr6TravQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-08T15:19:02.730150579Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taTWRuWlNhR3M1ZDJveFJYcHRiVlZZZGxRellVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taTWRuWlNhR3M1ZDJveFJYcHRiVlZZZGxRellVRRAB!2m1!1s0x340401f8f70619a9:0x4b0ac1c8fe9dd1a4"
+      },
+      {
+        "name": "places/ChIJqRkG9_gBBDQRpNGd_sjBCks/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBNVZtRTNZWEJLY0c1T2MzUkpibEZNUTFOSWFrRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "銅鑼灣粵藝館行高級粵菜路線，環境光猛企理，服務貼心，適合家庭聚餐同請客。今次試咗啲招牌菜，整體水準幾高。\n\n即燒無花果天下第一豬係必點！皮脆肉嫩，油脂香濃而唔膩，配自製無花果醬更添果香同微甜，層次感好，第一次覺得乳豬咁好食lol\n\n西班牙栗子豬焦香叉燒肉質軟腍，帶淡淡焦糖香，栗子甜味平衡得好。\n宮廷一口咕嚕肉酸甜啱啱好，外脆內嫩，唔會死甜；蟹籽海皇炒飯粒粒分明，鮮味足，蟹籽加分\n二十頭花膠伴天白菇菜膽湯底清甜，花膠軟滑，菜膽爽口，滋潤感強。\n胡麻涼拌山藥清爽開胃，濃湯金銀蛋浸菜苗滑溜香濃。不時不燉湯當日用料新鮮，湯味醇厚。甜品亦唔失禮，完整一餐好滿足。\n整體出品穩定，食材新鮮，價錢偏高但對得住質素，值得為特別場合而嚟。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "銅鑼灣粵藝館行高級粵菜路線，環境光猛企理，服務貼心，適合家庭聚餐同請客。今次試咗啲招牌菜，整體水準幾高。\n\n即燒無花果天下第一豬係必點！皮脆肉嫩，油脂香濃而唔膩，配自製無花果醬更添果香同微甜，層次感好，第一次覺得乳豬咁好食lol\n\n西班牙栗子豬焦香叉燒肉質軟腍，帶淡淡焦糖香，栗子甜味平衡得好。\n宮廷一口咕嚕肉酸甜啱啱好，外脆內嫩，唔會死甜；蟹籽海皇炒飯粒粒分明，鮮味足，蟹籽加分\n二十頭花膠伴天白菇菜膽湯底清甜，花膠軟滑，菜膽爽口，滋潤感強。\n胡麻涼拌山藥清爽開胃，濃湯金銀蛋浸菜苗滑溜香濃。不時不燉湯當日用料新鮮，湯味醇厚。甜品亦唔失禮，完整一餐好滿足。\n整體出品穩定，食材新鮮，價錢偏高但對得住質素，值得為特別場合而嚟。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chinggg 1212",
+          "uri": "https://www.google.com/maps/contrib/102516051799500981721/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLI7GkURkmrHaUoo9rVqX1OZ3ooa6xBvvxEuEqozPovlniiDg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-05T13:01:51.398574800Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBNVZtRTNZWEJLY0c1T2MzUkpibEZNUTFOSWFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBNVZtRTNZWEJLY0c1T2MzUkpibEZNUTFOSWFrRRAB!2m1!1s0x340401f8f70619a9:0x4b0ac1c8fe9dd1a4"
+      },
+      {
+        "name": "places/ChIJqRkG9_gBBDQRpNGd_sjBCks/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKSlJWQXROVGhVV25wVlIwaG9jalZrVlc4MFRsRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "又係親子時間！拉住媽媽食好西😽精心揀咗呢間餐廳😽餐廳行精緻粵菜路線，環境舒服，服務周到😽最加分嘅係呢度仲係一間寵物友善餐廳，只要提前 remark，就可以帶埋毛孩一齊嚟食飯，真係好貼心😘\n\n🌟粵之盛饌 $438\n呢個套餐價錢係每位嘅價錢，同埋呢個係做咗會員嘅價錢，都差幾遠㗎🫶🏽\n\n最鍾意宮廷一口咕嚕肉，咕嚕肉做到一口大小，外層脆身，嗰陣時有啲似爆谷嗰種香氣同薄脆，脆得嚟仲有一啲鬆化嘅感覺😚咕嚕肉嘅豬肉部份都非常之出色，唔會話炸到又硬又韌☺️醬汁酸甜平衡，唔會過甜或過酸！好好食\n\n食埋即燒無花果天下第一豬，呢個係套餐以外，散叫嘅🥳係全晚嘅重頭戲！見到門口話咩天下第一豬，講到咁誇張梗係要試吓啦🤣每日即場以傳統火燒烤製而成，用上農場直送嘅 45 天 BB 豬🫣\n\n一咬落去脆到一個點，卜卜聲，油香同勁脆乳豬皮嘅完全冇衝突，肉質仲做到好嫩滑😍\n\n然後佢個醬都係好特別，用咗無花果去調製嘅，冇傳統嘅乳豬醬咁重口味，相反係有一種清新🫶🏽成件事恰到好處😛",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "又係親子時間！拉住媽媽食好西😽精心揀咗呢間餐廳😽餐廳行精緻粵菜路線，環境舒服，服務周到😽最加分嘅係呢度仲係一間寵物友善餐廳，只要提前 remark，就可以帶埋毛孩一齊嚟食飯，真係好貼心😘\n\n🌟粵之盛饌 $438\n呢個套餐價錢係每位嘅價錢，同埋呢個係做咗會員嘅價錢，都差幾遠㗎🫶🏽\n\n最鍾意宮廷一口咕嚕肉，咕嚕肉做到一口大小，外層脆身，嗰陣時有啲似爆谷嗰種香氣同薄脆，脆得嚟仲有一啲鬆化嘅感覺😚咕嚕肉嘅豬肉部份都非常之出色，唔會話炸到又硬又韌☺️醬汁酸甜平衡，唔會過甜或過酸！好好食\n\n食埋即燒無花果天下第一豬，呢個係套餐以外，散叫嘅🥳係全晚嘅重頭戲！見到門口話咩天下第一豬，講到咁誇張梗係要試吓啦🤣每日即場以傳統火燒烤製而成，用上農場直送嘅 45 天 BB 豬🫣\n\n一咬落去脆到一個點，卜卜聲，油香同勁脆乳豬皮嘅完全冇衝突，肉質仲做到好嫩滑😍\n\n然後佢個醬都係好特別，用咗無花果去調製嘅，冇傳統嘅乳豬醬咁重口味，相反係有一種清新🫶🏽成件事恰到好處😛",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lam Hiu Wing",
+          "uri": "https://www.google.com/maps/contrib/116199478016324670227/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXANM4qKIlbNwO7k8syEQyokTLBTOqzI5RG2dFWlXJqLQRUA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-09-02T06:20:40.111447515Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKSlJWQXROVGhVV25wVlIwaG9jalZrVlc4MFRsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKSlJWQXROVGhVV25wVlIwaG9jalZrVlc4MFRsRRAB!2m1!1s0x340401f8f70619a9:0x4b0ac1c8fe9dd1a4"
+      },
+      {
+        "name": "places/ChIJqRkG9_gBBDQRpNGd_sjBCks/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Sd2NWOWllRFpRY3pGalFXOXdUMUpPUlVSSGNHYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "主打「中菜日化」的高級精緻粵菜館。\n菜式保留了傳統粵菜的精髓，\n同時揉合了矜貴食材與創新元素。\n餐廳環境雅緻，感覺華麗高貴。\n\n最引人注目，莫過於門口的玻璃櫥窗，\n可以欣賞到師傅即席燒製招牌乳豬。\n\n🔶即燒無花果天下第一豬\n粵藝館的「鎮店之寶」\n新鮮即燒乳豬，外皮極致酥脆，\n肉質軟嫩帶有油香，肥而不膩。\n配搭秘製無花果醬，\n天然清甜與果香，層次極佳。\n\n🔶西班牙栗子豬焦香叉燒\n選用矜貴的西班牙栗子豬，\n肉質比一般豬肉更爽滑，\n外層燒至微焦，焦糖香氣濃郁，\n肥瘦分佈均勻，帶有獨特的堅果脂香。\n\n🔶宮廷一口咕嚕肉\n傳統咕嚕肉的升級版，\n豬肉炸至外酥內嫩，切成一口一粒，\n再以新鮮無花果代替傳統菠蘿，\n一股清新的果香，清爽開胃。\n\n🔶花雕醉乳鴿\n乳鴿肉質幼嫩，浸泡在醇厚花雕酒中，\n上桌時酒香四溢，鴿肉冰涼嫩滑，\n吸滿了甘甜的酒香，非常開胃。\n\n🔶濃湯菜膽雲吞雞\n一道火候十足的滋潤功夫菜，\n奶白色的濃湯，鮮甜無比，\n雞肉燉至軟嫩離骨，\n大雲吞飽滿，吸了濃雞湯的精華，\n入口有肉香的清甜，暖胃滿足。\n\n🔶醬皇野菌爆鳳尾蝦球\n大隻肉質彈牙的鳳尾蝦，\n加入鮮甜野菌，\n再以秘製「醬皇」大火爆炒，\n極具鑊氣，醬汁惹味濃郁。\n\n🔶瓦𦉘乾炒牛河\n牛河以瓦煲盛載，保持最佳熱度，\n上桌時熱辣辣滋滋聲，\n河粉炒得乾身，色澤均勻，\n牛肉軟嫩滑溜，\n\n🔶魚蓉蘿蔔糕\n傳統蘿蔔糕加入鮮美魚蓉，\n魚蓉的鮮味提升了蘿蔔糕味道，\n外層煎得金黃微脆，內裡口感綿軟。\n\n🔶逸仙粉果\n外表晶瑩剔透，口感煙韌，\n餡料非常豐富包含：\n豬肉碎、沙葛、花生及韭菜，\n極具水準的手工點心。\n#銅鑼灣美食 #時代廣場 #粵藝館",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "主打「中菜日化」的高級精緻粵菜館。\n菜式保留了傳統粵菜的精髓，\n同時揉合了矜貴食材與創新元素。\n餐廳環境雅緻，感覺華麗高貴。\n\n最引人注目，莫過於門口的玻璃櫥窗，\n可以欣賞到師傅即席燒製招牌乳豬。\n\n🔶即燒無花果天下第一豬\n粵藝館的「鎮店之寶」\n新鮮即燒乳豬，外皮極致酥脆，\n肉質軟嫩帶有油香，肥而不膩。\n配搭秘製無花果醬，\n天然清甜與果香，層次極佳。\n\n🔶西班牙栗子豬焦香叉燒\n選用矜貴的西班牙栗子豬，\n肉質比一般豬肉更爽滑，\n外層燒至微焦，焦糖香氣濃郁，\n肥瘦分佈均勻，帶有獨特的堅果脂香。\n\n🔶宮廷一口咕嚕肉\n傳統咕嚕肉的升級版，\n豬肉炸至外酥內嫩，切成一口一粒，\n再以新鮮無花果代替傳統菠蘿，\n一股清新的果香，清爽開胃。\n\n🔶花雕醉乳鴿\n乳鴿肉質幼嫩，浸泡在醇厚花雕酒中，\n上桌時酒香四溢，鴿肉冰涼嫩滑，\n吸滿了甘甜的酒香，非常開胃。\n\n🔶濃湯菜膽雲吞雞\n一道火候十足的滋潤功夫菜，\n奶白色的濃湯，鮮甜無比，\n雞肉燉至軟嫩離骨，\n大雲吞飽滿，吸了濃雞湯的精華，\n入口有肉香的清甜，暖胃滿足。\n\n🔶醬皇野菌爆鳳尾蝦球\n大隻肉質彈牙的鳳尾蝦，\n加入鮮甜野菌，\n再以秘製「醬皇」大火爆炒，\n極具鑊氣，醬汁惹味濃郁。\n\n🔶瓦𦉘乾炒牛河\n牛河以瓦煲盛載，保持最佳熱度，\n上桌時熱辣辣滋滋聲，\n河粉炒得乾身，色澤均勻，\n牛肉軟嫩滑溜，\n\n🔶魚蓉蘿蔔糕\n傳統蘿蔔糕加入鮮美魚蓉，\n魚蓉的鮮味提升了蘿蔔糕味道，\n外層煎得金黃微脆，內裡口感綿軟。\n\n🔶逸仙粉果\n外表晶瑩剔透，口感煙韌，\n餡料非常豐富包含：\n豬肉碎、沙葛、花生及韭菜，\n極具水準的手工點心。\n#銅鑼灣美食 #時代廣場 #粵藝館",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jacky Ching",
+          "uri": "https://www.google.com/maps/contrib/105795781155884908792/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLcAvd6d45dVy6N3Iw4pXVlKHIRsJa8I2AZNQ9wiNMtFqQcIA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-23T17:43:45.281987827Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Sd2NWOWllRFpRY3pGalFXOXdUMUpPUlVSSGNHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sd2NWOWllRFpRY3pGalFXOXdUMUpPUlVSSGNHYxAB!2m1!1s0x340401f8f70619a9:0x4b0ac1c8fe9dd1a4"
+      },
+      {
+        "name": "places/ChIJqRkG9_gBBDQRpNGd_sjBCks/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSck9FSkRTVXAwUmsxTVJGRmZYMDF6WDFkT1lYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "門口直接擺咗個乳豬爐，即燒即烤🐶🐾 仲係 #寵物友善餐廳，讚！茶芥 $25/位 · 小食 $25/碟\n粵藝x德廚四人套餐 $2,088（會員再減 $400！） ：\n🍖 必食西班牙栗子豬焦香叉燒，入口即溶，燶邊勁香，神級焦香無得輸、🍗 花雕醉乳鴿、🍲 濃湯菜膽雲吞雞煲🦐 醬皇野菌爆鳳尾蝦尾、🍍 宮廷一口咕嚕肉、🥬 濃湯金銀蛋漫菜苗 都好高質！好回味！\n最後🍮 Follow 餐廳即送甜品 -海帶綠豆沙！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "門口直接擺咗個乳豬爐，即燒即烤🐶🐾 仲係 #寵物友善餐廳，讚！茶芥 $25/位 · 小食 $25/碟\n粵藝x德廚四人套餐 $2,088（會員再減 $400！） ：\n🍖 必食西班牙栗子豬焦香叉燒，入口即溶，燶邊勁香，神級焦香無得輸、🍗 花雕醉乳鴿、🍲 濃湯菜膽雲吞雞煲🦐 醬皇野菌爆鳳尾蝦尾、🍍 宮廷一口咕嚕肉、🥬 濃湯金銀蛋漫菜苗 都好高質！好回味！\n最後🍮 Follow 餐廳即送甜品 -海帶綠豆沙！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gemini J",
+          "uri": "https://www.google.com/maps/contrib/118309739730445944130/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiTr6_v4WZtxDv1BzYJlhypuwGiiTA-YtpwhRESufxf2Ou2urM=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-07T04:00:56.737866203Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSck9FSkRTVXAwUmsxTVJGRmZYMDF6WDFkT1lYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSck9FSkRTVXAwUmsxTVJGRmZYMDF6WDFkT1lYYxAB!2m1!1s0x340401f8f70619a9:0x4b0ac1c8fe9dd1a4"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401f8f70619a9:0x4b0ac1c8fe9dd1a4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5407347371621077412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f8f70619a9:0x4b0ac1c8fe9dd1a4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401f8f70619a9:0x4b0ac1c8fe9dd1a4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f8f70619a9:0x4b0ac1c8fe9dd1a4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJqRkG9_gBBDQRpNGd_sjBCks/photos/Aa-ngMZSWB1dZknhQAjEW2PFlgiAysSwIUpEDgITzztgNwstV7yitbMgROPF5zOkOz9XDSATEaVBQuv50om44jtOuo8875mJhz-R6UlGEG2Zwe_g7T9J-eZjL-6gjB9yGLJPQYEtF2SJ_VvOU3MWh-dH0TPVXJYc_o3fX_cCnDTyAqghQKQLKgI-tKoBP4L0M2JgkGL39xJrRQL7MdbUXaxKpyM3Cs7JT3kc-TJmwh33UOTGZXIjZV8X_CxToPcmg8ZVWLvP04TQS3BVIyO4KkDZ04EWbw3myB5kpvGX5kUNejgJBT1isQLG_yeWEvaBvQxQeA0c9XWbfgw9ELB4p_T16Hsv0gtcohgpkxyL1hQsvIYEEW-2k1-Q0vtuEZgOi-3HYS6xmtV6EBfEu7a5Yjw5e8sSaDE",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Alex cheung",
+          "uri": "https://maps.google.com/maps/contrib/109359317388162861905",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLV5vQYZOCwmRdml43TgrtD5KKQIiaKlCvHlwpdkMZXdtYfImA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqtqyQVg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqtqyQVg!2e10!4m2!3m1!1s0x340401f8f70619a9:0x4b0ac1c8fe9dd1a4"
+    },
+    "local_path": "photos/ChIJqRkG9_gBBDQRpNGd_sjBCks.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLec0v0OaOFY_shWNra9Ha4BTscqnkUCUbrRLrmVv76xLmGDhvU1fWCkNMbQy7jzPKntSISb-x7RzVJIAI1GVPyxKza5RpXkSM9XaGCt3Q-qD9lP62oaQkA_ikyqZVeXlCN9Bm7y=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 155287
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://inline.app/booking/-LvOE3d1BmJIpjDwuMwk:inline-live-1?language=zh-hk",
+        "label": "即 時 訂 座",
+        "source_url": "https://www.thefoodstoryhk.com/artofcanton",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_ae2af1757cc44a91add488726e1e3c90.pdf",
+        "label": "À LA CARTE MENU",
+        "source_url": "https://www.thefoodstoryhk.com/artofcanton",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_985d748bfa6641bdbeef73a4093c0471.pdf",
+        "label": "DIM SUM MENU",
+        "source_url": "https://www.thefoodstoryhk.com/artofcanton",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_cdb8b239c96d48648bf77dc2a985c1fb.pdf",
+        "label": "LUNCH MENU",
+        "source_url": "https://www.thefoodstoryhk.com/artofcanton",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_84e9012210c142e590b6ad42e57d8254.pdf",
+        "label": "ALL DAY SET MENU",
+        "source_url": "https://www.thefoodstoryhk.com/artofcanton",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_e92c5dc537a24788a2e0c0fe3e402060.pdf",
+        "label": "金秋大閘蟹菜單",
+        "source_url": "https://www.thefoodstoryhk.com/artofcanton",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_34d0f3738b6f43d68740786410facd15.pdf",
+        "label": "À LA CARTE MENU",
+        "source_url": "https://www.thefoodstoryhk.com/artofcanton",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_8b453adc9ec0435f9c09fc1ce4215bdd.pdf",
+        "label": "DIM SUM MENU",
+        "source_url": "https://www.thefoodstoryhk.com/artofcanton",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_e0c223b9315047578b57fb2c39bf293f.pdf",
+        "label": "LUNCH MENU",
+        "source_url": "https://www.thefoodstoryhk.com/artofcanton",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_77dd95c424a84454b09f5b8efcbc365b.pdf",
+        "label": "ALL DAY SET MENU",
+        "source_url": "https://www.thefoodstoryhk.com/artofcanton",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cantonese_restaurant",
+    "label": "廣東菜餐廳",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://inline.app/booking/-LvOE3d1BmJIpjDwuMwk:inline-live-1?language=zh-hk",
+  "menu_url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_ae2af1757cc44a91add488726e1e3c90.pdf"
+}

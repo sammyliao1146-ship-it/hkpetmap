@@ -1,0 +1,208 @@
+{
+  "google_place_id": "ChIJyQutvtwBBDQR-cZx3mkqKXA",
+  "restaurant_ids": [
+    "restaurant:2263808096"
+  ],
+  "fetched_at": "2026-10-23T15:46:20.282119+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJyQutvtwBBDQR-cZx3mkqKXA",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "formattedAddress": "香港九龍馬頭涌北帝街123號",
+    "location": {
+      "latitude": 22.3230984,
+      "longitude": 114.1891682
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=8082037640484996857&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 24 小時營業",
+        "星期二: 24 小時營業",
+        "星期三: 24 小時營業",
+        "星期四: 24 小時營業",
+        "星期五: 24 小時營業",
+        "星期六: 24 小時營業",
+        "星期日: 24 小時營業"
+      ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 17,
+    "displayName": {
+      "text": "My Place 喜點",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "服務業",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "service",
+    "reviews": [
+      {
+        "name": "places/ChIJyQutvtwBBDQR-cZx3mkqKXA/reviews/ChZDSUhNMG9nS0VJQ0FnTURRb0stWGFBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "交通方便, 生活配套齊全",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "交通方便, 生活配套齊全",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yee Yee",
+          "uri": "https://www.google.com/maps/contrib/104483302904341585411/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKh8qio4HTNnUGZcb_JSqc_nKliAkknEyxzXVt0FqKxbMNKrQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-03-08T10:48:23.556229Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRb0stWGFBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRb0stWGFBEAE!2m1!1s0x340401dcbead0bc9:0x70292a69de71c6f9"
+      },
+      {
+        "name": "places/ChIJyQutvtwBBDQR-cZx3mkqKXA/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3Z2JlbkVnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "社區氛圍良好，配套完善，樓價穩健增長，具備極高投資價值！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "社區氛圍良好，配套完善，樓價穩健增長，具備極高投資價值！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "toni moble",
+          "uri": "https://www.google.com/maps/contrib/112038464706670081108/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjxgwDzZSQMej0MD7g4RIBHagkeOtnsVcxz27NPmxbl_w56e548w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-03-19T07:34:22.442749Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3Z2JlbkVnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3Z2JlbkVnEAE!2m1!1s0x340401dcbead0bc9:0x70292a69de71c6f9"
+      },
+      {
+        "name": "places/ChIJyQutvtwBBDQR-cZx3mkqKXA/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcE95V1dREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "交通方便\n民生購物方便\n附近食肆選擇多",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "交通方便\n民生購物方便\n附近食肆選擇多",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "william wong",
+          "uri": "https://www.google.com/maps/contrib/110236075859938851566/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLYvY_ppQHTTERVK_4waUsSR9UujK8ggh62olSDxkacYUFy5Q=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-03-09T01:27:45.915495Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRcE95V1dREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcE95V1dREAE!2m1!1s0x340401dcbead0bc9:0x70292a69de71c6f9"
+      },
+      {
+        "name": "places/ChIJyQutvtwBBDQR-cZx3mkqKXA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOUGQwNTFRblZJWTIxNFJtRmhiRmhXU1RSSlNHYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 2,
+        "text": {
+          "text": "疏忽管理，住客質素低",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "疏忽管理，住客質素低",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anyone",
+          "uri": "https://www.google.com/maps/contrib/110538347347747702562/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWebXl3UmKq5-SLt4VumFzw26rsx5y-PdQs6l1-vHDI2-5ezUs=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-12-18T06:26:51.800290394Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOUGQwNTFRblZJWTIxNFJtRmhiRmhXU1RSSlNHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOUGQwNTFRblZJWTIxNFJtRmhiRmhXU1RSSlNHYxAB!2m1!1s0x340401dcbead0bc9:0x70292a69de71c6f9"
+      },
+      {
+        "name": "places/ChIJyQutvtwBBDQR-cZx3mkqKXA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbGYzbThRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "好方便好住",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "好方便好住",
+          "languageCode": "zh"
+        },
+        "authorAttribution": {
+          "displayName": "Lau Brenda",
+          "uri": "https://www.google.com/maps/contrib/100019538412537202204/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLaR5ZEGqcReQSV5x0WW_uQqjIJPZWdcq0gjTtSpZXb7cnCRQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-03-06T10:12:16.678156Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRbGYzbThRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRbGYzbThRRRAB!2m1!1s0x340401dcbead0bc9:0x70292a69de71c6f9"
+      }
+    ],
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401dcbead0bc9:0x70292a69de71c6f9!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8082037640484996857&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401dcbead0bc9:0x70292a69de71c6f9!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401dcbead0bc9:0x70292a69de71c6f9!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401dcbead0bc9:0x70292a69de71c6f9!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJyQutvtwBBDQR-cZx3mkqKXA/photos/Aa-ngMb0_VDgHXm-W608aU_o0opJnsfnBvd1ohisSAMa1y9j0DP-wnE3vH62d7Tjin_vZq5r8xVB6HFyBxG2t4rVOABNqQAlPj-rPyNojuQoGms5jyLJeaxPT4LFGbvTXPo6z0U8m9mv4mjyjEgc7p5n3twrxGU7FE7kQRRp5I0UZEbJuZROlDNJYJuFWP6BD7qBWJLEvTXZQJSNvVMgjrog-WFGOKeLGoMsf2rQBB4U4M_0u6GzjkJfV8uOWpZoYv3d2ZBf4-KYrx5E0UAqRQgI190C-iAjQpg6ivIy8ayFCrq49RYxg4u6QZoNDwIog5DVGa0DzL3jSrpaIIMPT6lm8nNEL9n7-tZ-0xqY8OKdFfO1efTCS5maG2unOCSZ9Qr06pdoQZvM__96tQ4Si_dcxSrSX7SEWkw",
+      "widthPx": 1600,
+      "heightPx": 1066,
+      "authorAttributions": [
+        {
+          "displayName": "Yee Yee",
+          "uri": "https://maps.google.com/maps/contrib/104483302904341585411",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKh8qio4HTNnUGZcb_JSqc_nKliAkknEyxzXVt0FqKxbMNKrQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDQoK-XmAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQoK-XmAE!2e10!4m2!3m1!1s0x340401dcbead0bc9:0x70292a69de71c6f9"
+    },
+    "local_path": "photos/ChIJyQutvtwBBDQR-cZx3mkqKXA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqyNTnIKtzXSRBd_YW3gBFtBKNfgTD_l-z9VCaj-WPSdeDHZKbddNLctG_jlkAY4lq3lxG8_8Kly_5W1Y7qNy55d7Y7U0wMw5P0Lishoxfm-wi0fYllkAgrSVwuabsPIdc4G74jg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 148405
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "service",
+    "label": "服務業",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

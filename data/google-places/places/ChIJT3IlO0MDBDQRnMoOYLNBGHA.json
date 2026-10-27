@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJT3IlO0MDBDQRnMoOYLNBGHA",
+  "restaurant_ids": [
+    "restaurant:2298804195"
+  ],
+  "fetched_at": "2026-10-23T15:39:15.842937+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJT3IlO0MDBDQRnMoOYLNBGHA",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2769 1777",
+    "internationalPhoneNumber": "+852 2769 1777",
+    "formattedAddress": "香港新界將軍澳唐賢街",
+    "location": {
+      "latitude": 22.3079416,
+      "longitude": 114.2595123
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=8077278170355518108&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://sushisenju.oddle.me/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 191,
+    "displayName": {
+      "text": "鮨千寿",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJT3IlO0MDBDQRnMoOYLNBGHA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WWVR6QmlSemx5WVc1NVVFNXJMVzlFZFdkRFIwRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "美國牛肉釜飯，HK$208!牛肉好滑，有飯焦，不似日本釜飯，但好味！有沙律、麵豉湯及厥餅，厥餅好軟熟！下午茶2:30pm -5:00pm 85折，",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "美國牛肉釜飯，HK$208!牛肉好滑，有飯焦，不似日本釜飯，但好味！有沙律、麵豉湯及厥餅，厥餅好軟熟！下午茶2:30pm -5:00pm 85折，",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "EE W",
+          "uri": "https://www.google.com/maps/contrib/108326175472223274127/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbJIgefAjLl3p2InztDIFq1BKUoMPxMjCiLmaaH18_yRyUVsgC0Q=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-20T07:52:26.754119350Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WWVR6QmlSemx5WVc1NVVFNXJMVzlFZFdkRFIwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WWVR6QmlSemx5WVc1NVVFNXJMVzlFZFdkRFIwRRAB!2m1!1s0x340403433b25724f:0x701841b3600eca9c"
+      },
+      {
+        "name": "places/ChIJT3IlO0MDBDQRnMoOYLNBGHA/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xM1dHMHlhMHd5ZEZaa056bFplRmhaVTBOT2QwRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "味道不錯，但釜飯跟我在京都吃的有點不一様",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道不錯，但釜飯跟我在京都吃的有點不一様",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "KH C",
+          "uri": "https://www.google.com/maps/contrib/112829234642175528476/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWeeuSl1Liptf-2JRyP7rKDQHCHgdbZm-oyTVxaSKhl-rvcB9HD4Q=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-20T07:56:38.253167844Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xM1dHMHlhMHd5ZEZaa056bFplRmhaVTBOT2QwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xM1dHMHlhMHd5ZEZaa056bFplRmhaVTBOT2QwRRAB!2m1!1s0x340403433b25724f:0x701841b3600eca9c"
+      },
+      {
+        "name": "places/ChIJT3IlO0MDBDQRnMoOYLNBGHA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxaExYUTNOVjh0VkV4MU16SmhTM0JtWmxoRFRsRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "平日夜晚剛剛好坐滿客人，服務一般，環境舒服。\n\n刺身拼盤以外點的海膽魷魚卷竟然直接放在刺身拼盤中，有點奇怪。刺身拼盤魚類算新鮮，沒有額外調味或火炙，帶子微細擺盤錯誤。豚肉泡菜石鍋飯調味適中，肉質一般。\n\n全部加埋900左右，味道一般，性價比低。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平日夜晚剛剛好坐滿客人，服務一般，環境舒服。\n\n刺身拼盤以外點的海膽魷魚卷竟然直接放在刺身拼盤中，有點奇怪。刺身拼盤魚類算新鮮，沒有額外調味或火炙，帶子微細擺盤錯誤。豚肉泡菜石鍋飯調味適中，肉質一般。\n\n全部加埋900左右，味道一般，性價比低。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lafa ca",
+          "uri": "https://www.google.com/maps/contrib/107431684497404582479/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEe14PqN2nfBWR8otoswDPUK5PY4aN0eyu4GQzdI5FfJbfY-xx=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-07-16T05:49:04.600259355Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxaExYUTNOVjh0VkV4MU16SmhTM0JtWmxoRFRsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxaExYUTNOVjh0VkV4MU16SmhTM0JtWmxoRFRsRRAB!2m1!1s0x340403433b25724f:0x701841b3600eca9c"
+      },
+      {
+        "name": "places/ChIJT3IlO0MDBDQRnMoOYLNBGHA/reviews/ChZDSUhNMG9nS0VJQ0FnSURoNk43N1d3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "再次到訪這間日本料理、氣氛和諧、服務員招呼週到、食材新鮮、先來河豚和雪魚干(贈送)、香口美味、配上薄餅和毛豆、更為合拍、而笛鯛刺身和鹽燒兩食、各有特色。\n\n雜錦天婦羅、鬆脆可口、雞翼串、牛舌串、雞軟骨串、牛油果軟殼蟹、黑松露甜蝦卷、香味撲鼻。最後再贈送香滑雪糕、價錢不貴、人均四百多、值得再來。有免費wifi。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "再次到訪這間日本料理、氣氛和諧、服務員招呼週到、食材新鮮、先來河豚和雪魚干(贈送)、香口美味、配上薄餅和毛豆、更為合拍、而笛鯛刺身和鹽燒兩食、各有特色。\n\n雜錦天婦羅、鬆脆可口、雞翼串、牛舌串、雞軟骨串、牛油果軟殼蟹、黑松露甜蝦卷、香味撲鼻。最後再贈送香滑雪糕、價錢不貴、人均四百多、值得再來。有免費wifi。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "劍山白",
+          "uri": "https://www.google.com/maps/contrib/116306066636744518790/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgFsRhhqly6F0SSclyAXtjKyE-qvhVSSyKRbJWkWcWEadYwmzCxg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-02-28T14:04:41.963830Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoNk43N1d3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoNk43N1d3EAE!2m1!1s0x340403433b25724f:0x701841b3600eca9c"
+      },
+      {
+        "name": "places/ChIJT3IlO0MDBDQRnMoOYLNBGHA/reviews/ChZDSUhNMG9nS0VJQ0FnSURma0pYLUpBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "與朋友午餐時間叫了兩個午餐套餐，價錢合宜，午餐套餐食物款式種類多，魚生質地軟嫩，非常易入口。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "與朋友午餐時間叫了兩個午餐套餐，價錢合宜，午餐套餐食物款式種類多，魚生質地軟嫩，非常易入口。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nathalie C",
+          "uri": "https://www.google.com/maps/contrib/102266530984161896143/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIoI_qhHbmmBIDtcaJV0HojKGkClAdHc1LyRC6bIGxhAOdYnA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-01-03T12:38:28.145213Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURma0pYLUpBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURma0pYLUpBEAE!2m1!1s0x340403433b25724f:0x701841b3600eca9c"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340403433b25724f:0x701841b3600eca9c!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8077278170355518108&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403433b25724f:0x701841b3600eca9c!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340403433b25724f:0x701841b3600eca9c!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403433b25724f:0x701841b3600eca9c!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJT3IlO0MDBDQRnMoOYLNBGHA/photos/Aa-ngMaNEIzBDNhBaio2Ox-gFQU6CPlkKrfVJJy3L3ezMdXe464OJDLquHp7q_Dhf9RmyfPXH-xIVeWqS9QBx4T6MyRyamJ5jZkK7AJl1PMgM-5EsY4H88YdrricDTf7Ah6ssAzMJ6yrjZ-F70jt8eLzrbzEj4wi-FuQzfBukf6tQB7cAOMmZEVGlDYP7P6DcNUj0PDe13SS09x_BswfpuoqZv9jmbNDYAiNb9uoC3WLwWnoRtwqbwqD4u95phPHXgi10AIZEA50R89lsNXLASXMDGMTUg1rSVWvyY9mYB9e6sQLQxU24sm8e-kHE7vbNkuoviFTA_zdbEWKlzT5EX1Tv8bcznUDyUy6wQSBVH_Yf6cQ9w4dTUcP5Uzp7VEWL-pMKJZjxCOyBdGRa9BDKrRK9S3CcDv6scw",
+      "widthPx": 3061,
+      "heightPx": 1720,
+      "authorAttributions": [
+        {
+          "displayName": "kewl88",
+          "uri": "https://maps.google.com/maps/contrib/116330535428855137299",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnL4ic65L0VBmOsfqrH5bnv_J8FHZpGoU-oFexw9wwiLo3A-sS_A=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICxvtqJzQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxvtqJzQE!2e10!4m2!3m1!1s0x340403433b25724f:0x701841b3600eca9c"
+    },
+    "local_path": "photos/ChIJT3IlO0MDBDQRnMoOYLNBGHA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ48xUuTRVuB-DW09lwtPaMflkbfOjF0GCJfBligoIShL-J-SqdDZWZBGAoIzqN0n4G9CurotgvfU_5Vfdtb2o8bJ_6G1vt30_D-wE4LNZfI5vbcnr-FT1SqaTR6AJKCmSjojq2A=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 135002
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://sushisenju.oddle.me/#8a8197ad79d4c8050179d4d65ecf0598",
+        "label": "一品料理 A LA CARTE",
+        "source_url": "https://sushisenju.oddle.me/en_HK",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://sushisenju.oddle.me/#8a8197ad79d4c8050179d4d65ecf0598"
+}

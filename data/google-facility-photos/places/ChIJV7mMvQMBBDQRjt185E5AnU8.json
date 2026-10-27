@@ -1,0 +1,37 @@
+{
+  "id": "ChIJV7mMvQMBBDQRjt185E5AnU8",
+  "types": [
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "G/F, 38 Fort St, North Point, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.289874299999997,
+    "longitude": 114.19767909999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5736812207924895118&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "長康動物醫院寵物服務中心",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJV7mMvQMBBDQRjt185E5AnU8/photos/Aa-ngMar7Lw8GS6h5DWDfPoIuM021MtVAEEJxMvacsIvIcdFrfnQjxwD-_yqcl4zIfM1zIJ3FgAOFJSH6MBwDmvnq4O_wNcWVmGizS7GWjksNCISM3f9XNWSPVImGdxv-KJU6TFo7rqSTzgg99SWvRuwYwoBEiMbCNkZnuHUzpD1qAiK6_nDS8gLNd5DZOapIeQ08KN_94wG1nj_RYbFVjN7AzJ0J2ZVgw50sN73afVFu49ANNIIitOk8CPnZuDJPUOTmixYH13z-IyC-h8CC4OXrYlC3g3JRd9YfgKiyZFQXWAj9YyyOyUD8juP9TZGC48ZgTvZVenBqV0wC-qDgvF9w6t8ZLIawy2yy_0OgYNhA8Y3RI-QGqu-Ps_Fl1sp6texEjlbkaGemn6y0CI_9IJYgLGAGVeWVDB9caWFFgCYmQho",
+      "widthPx": 3946,
+      "heightPx": 2960,
+      "authorAttributions": [
+        {
+          "displayName": "Alfa Wong",
+          "uri": "https://maps.google.com/maps/contrib/113030367222550222463",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9mCWGvtGqw6q1HWPRXdUnnLTfIG9dAQsdLNXc47uEeh44C5Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBRmGTBvcR-KgOublI89iPg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBRmGTBvcR-KgOublI89iPg!2e10!4m2!3m1!1s0x34040103bd8cb957:0x4f9d404ee47cdd8e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:30.144336+00:00"
+}

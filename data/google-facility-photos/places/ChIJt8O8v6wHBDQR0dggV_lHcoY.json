@@ -1,0 +1,38 @@
+{
+  "id": "ChIJt8O8v6wHBDQR0dggV_lHcoY",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界沙田源禾路2號",
+  "location": {
+    "latitude": 22.3795777,
+    "longitude": 114.1901434
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9687884884661557457&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "沙田 公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJt8O8v6wHBDQR0dggV_lHcoY/photos/Aa-ngMZwB03jN11LIvk9rmt44pRJn4UlYdMQ2_gjCWLO7NoPVcwb5C0PTR877xL2fHWGXE7aifFRL-MQSAbFnPf-rgE2V4eXoPq_2zob_oEMqBS0wCmxRf0pgXc3fV-eMNB5DnQVzZ02CDtmbHDdq8aCiUIJs6uUUdc98uhkLmMztfOtqPXiPWZCquiSi5CXrk2wrh5dv2Auzl9sRvbmtI9tD39jPM6k-OjxvkePdf-Sv81ALUrHAFTV3-uBJsuRkKLrVGakSJq8F-UUpx1xWeOCqhvBGvjYguiibm6J3xJOZe9Z4Q-ak5IGUgMk4iadbL4BA5jHmkzHxbxhhVWddLiZovphT_MdtJpiRRr0G5OJ_cjpcO9iZcIk8jbz9c4EhnUfH8yT5u52zhYKpmyTHjTY_uxIBBg",
+      "widthPx": 1280,
+      "heightPx": 960,
+      "authorAttributions": [
+        {
+          "displayName": "SPCA663 Little B",
+          "uri": "https://maps.google.com/maps/contrib/117377762110860852590",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUm6zcPjSs2koTq7b5EwIhThHu1PoVqCBqvhPnJIlVK28_EWxmX=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICpi-3eKQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpi-3eKQ!2e10!4m2!3m1!1s0x340407acbfbcc3b7:0x867247f95720d8d1"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:17.190820+00:00"
+}

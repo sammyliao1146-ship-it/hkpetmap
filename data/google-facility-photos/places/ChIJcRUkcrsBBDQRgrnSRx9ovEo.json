@@ -1,0 +1,38 @@
+{
+  "id": "ChIJcRUkcrsBBDQRgrnSRx9ovEo",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Shop 1-2, G/F, Regent Hill 67D-E, Sing Woo Rd, Happy Valley, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.2676886,
+    "longitude": 114.1869591
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5385293737986537858&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Hong Kong Island Veterinary Clinic 港島獸醫診所",
+    "languageCode": "en"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJcRUkcrsBBDQRgrnSRx9ovEo/photos/Aa-ngMY6p3MLmA2rOua2RhIVUaLUKAyiMpAM0x77bDgSTazKlhUW1_yz1DYPsfd_kms1yrV4G_DAzuI2kW7ZPzEQaNIOVCBAWCN1GFL28IIpeVJHBh-gOupzUdQgFGBUAnc-GGKJGFq1RVxqkhcIr1tX6Cje57bAfOON2eUBUBI9fFydABruoLq0GULoU92zcWgYNglJywfYuE-8bveTdI5ZTMgRJ3q0CbcHw-tSWK6rRgEbJ3rDuCY3V1T5yk37Y9fM3liRXw771wfJrHZw_ltKYYA0Sw9l72ayPEd-xnHZA3jG8XlJmtooTPO-v8Xrai7PD_OuFWGTjicHC_d_3_qWMwsxYw9hdauiaKs6Nal2Jf_UORhop4ELhZtCDwztja1l4TPnFhkqY2j6TuDbsPIf6s5CUg",
+      "widthPx": 2479,
+      "heightPx": 3305,
+      "authorAttributions": [
+        {
+          "displayName": "Hong Kong Island Veterinary Clinic 港島獸醫診所",
+          "uri": "https://maps.google.com/maps/contrib/108743143693157579357",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsHCO-UmBRjOuWrnDiMaQ6ahypcr7j4kBy6kIXE7VKmLuGdw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6pNqYHA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6pNqYHA!2e10!4m2!3m1!1s0x340401bb72241571:0x4abc681f47d2b982"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:31.679951+00:00"
+}

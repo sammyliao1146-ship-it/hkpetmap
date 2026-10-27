@@ -1,0 +1,322 @@
+{
+  "google_place_id": "ChIJTQeSeDwBBDQRDtz3aTiwJPo",
+  "restaurant_ids": [
+    "restaurant:2212822441"
+  ],
+  "fetched_at": "2026-10-23T15:46:06.405266+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJTQeSeDwBBDQRDtz3aTiwJPo",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3996 8752",
+    "internationalPhoneNumber": "+852 3996 8752",
+    "formattedAddress": "香港香港島銅鑼灣興發街62-74號地下KL3號舖",
+    "location": {
+      "latitude": 22.284843199999997,
+      "longitude": 114.1911282
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=18024725364986076174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 22:00",
+        "星期二: 12:00 – 22:00",
+        "星期三: 12:00 – 22:00",
+        "星期四: 12:00 – 22:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 12:00 – 22:00",
+        "星期日: 12:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 177,
+    "displayName": {
+      "text": "星嵐",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJTQeSeDwBBDQRDtz3aTiwJPo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKQldrbHlNMDk1TXpjM00wVm1UMDVCU214eU5rRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "街角小店\n\n吉列豬扒蛋飯\n吉列豬扒好香軟，食落肉質juicy嫩口\n豬軟骨飯\n好入味，豬軟骨滿滿骨膠原\n咖哩肥牛烏冬\n咖哩味香濃，如果有埋薯仔就更好\n兒童餐親子丼飯\n吉列炸蝦好香脆",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "街角小店\n\n吉列豬扒蛋飯\n吉列豬扒好香軟，食落肉質juicy嫩口\n豬軟骨飯\n好入味，豬軟骨滿滿骨膠原\n咖哩肥牛烏冬\n咖哩味香濃，如果有埋薯仔就更好\n兒童餐親子丼飯\n吉列炸蝦好香脆",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "MRMOON MOON",
+          "uri": "https://www.google.com/maps/contrib/100262046646940744600/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDK3Vm-KaPQBIhpPWuowDsr1k_gSNE2irYc8Pk4B1Eyj5570GiEQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-11T12:48:01.406927237Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKQldrbHlNMDk1TXpjM00wVm1UMDVCU214eU5rRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKQldrbHlNMDk1TXpjM00wVm1UMDVCU214eU5rRRAB!2m1!1s0x3404013c7892074d:0xfa24b03869f7dc0e"
+      },
+      {
+        "name": "places/ChIJTQeSeDwBBDQRDtz3aTiwJPo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sNFUxQjJWM0pTUTJndFMzVndRbEp5YVRaTWRsRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 3,
+        "text": {
+          "text": "半開放式居酒屋\n免收加一 自己勘水 QR Code 下單\n份量較小 食完唔夠飽\n套餐包麵鼓湯及前菜\n\n海老忌廉蟹籽炒烏冬 ＄108\n不是炒 是普通掛汁烏冬 有點失望\n但味道濃郁 海老味\n\n黄金黑豚豬扒pan 丼$98\n是本店招牌菜 煎pan 上 炸豬扒 非常鬆脆",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "半開放式居酒屋\n免收加一 自己勘水 QR Code 下單\n份量較小 食完唔夠飽\n套餐包麵鼓湯及前菜\n\n海老忌廉蟹籽炒烏冬 ＄108\n不是炒 是普通掛汁烏冬 有點失望\n但味道濃郁 海老味\n\n黄金黑豚豬扒pan 丼$98\n是本店招牌菜 煎pan 上 炸豬扒 非常鬆脆",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodie_kikiu",
+          "uri": "https://www.google.com/maps/contrib/107548093976791825602/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5FbkfcAlZLX9K00rtFgDZXEspbHPaJVJfcQXPnP75ifMbIuQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-20T15:47:53.201215024Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sNFUxQjJWM0pTUTJndFMzVndRbEp5YVRaTWRsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sNFUxQjJWM0pTUTJndFMzVndRbEp5YVRaTWRsRRAB!2m1!1s0x3404013c7892074d:0xfa24b03869f7dc0e"
+      },
+      {
+        "name": "places/ChIJTQeSeDwBBDQRDtz3aTiwJPo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGMVlrUTJUa1JmVUVkSWMyaENaMGRsTVdkMFEyYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 2,
+        "text": {
+          "text": "豬軟骨蕃茄烏冬\n豬軟骨啲肉又乾又柴🥲 口感似放咗微波爐叮完5分鐘\n烏冬正常發揮，但係用咗石鍋裝烏冬，過咗幾分鐘烏冬已經腍晒，餐廳轉用其他器皿應該好啲\n\n吉列豬扒飯\n啲汁太甜，柴魚味道太重",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "豬軟骨蕃茄烏冬\n豬軟骨啲肉又乾又柴🥲 口感似放咗微波爐叮完5分鐘\n烏冬正常發揮，但係用咗石鍋裝烏冬，過咗幾分鐘烏冬已經腍晒，餐廳轉用其他器皿應該好啲\n\n吉列豬扒飯\n啲汁太甜，柴魚味道太重",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Polly Lau",
+          "uri": "https://www.google.com/maps/contrib/109702808844530590493/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXeITVt-mbmjC0Yb-7tnh1fk6dzN7ANTCD_U_O02B3TAUHdtU=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-09T06:24:31.537384787Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGMVlrUTJUa1JmVUVkSWMyaENaMGRsTVdkMFEyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGMVlrUTJUa1JmVUVkSWMyaENaMGRsTVdkMFEyYxAB!2m1!1s0x3404013c7892074d:0xfa24b03869f7dc0e"
+      },
+      {
+        "name": "places/ChIJTQeSeDwBBDQRDtz3aTiwJPo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSdE1WaEVaVzlJVkRSeGJWcFNUUzA0VEVvdGFYYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "街角的一間日料小店。招牌滑蛋豬扒丼 滑蛋和豬扒 都很美味。麵衣適中 豬扒有點實 滑蛋不會太老。店內擺設得意 吧枱坐位比較舒服。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "街角的一間日料小店。招牌滑蛋豬扒丼 滑蛋和豬扒 都很美味。麵衣適中 豬扒有點實 滑蛋不會太老。店內擺設得意 吧枱坐位比較舒服。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ki chun Sze",
+          "uri": "https://www.google.com/maps/contrib/113149113652801735603/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxNs4Q5UlBF2gD8lXNuMFqf4wFosuah015k_Wcx6WZDH5rkeXQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-08T10:10:00.963870186Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSdE1WaEVaVzlJVkRSeGJWcFNUUzA0VEVvdGFYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSdE1WaEVaVzlJVkRSeGJWcFNUUzA0VEVvdGFYYxAB!2m1!1s0x3404013c7892074d:0xfa24b03869f7dc0e"
+      },
+      {
+        "name": "places/ChIJTQeSeDwBBDQRDtz3aTiwJPo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNia0luRjB3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "天后有間大受好評嘅日式料理餐廳\n當中最吸引嘅就係黃金黑豚扒Pan丼\n原來餐廳用上福岡嘅傳統手法\n將新鮮炸起嘅豬扒放喺煎pan\n再加上滑蛋同洋蔥\n上枱後用最快嘅速度將個pan拎起\n順時針轉幾下再倒哂豬扒同滑蛋落飯面\n相機食先都要夠快手\n如果唔係啲蛋漿就會變熟痴喺個pan上面\n豬扒又厚又大件,肉質嫩滑\n加上滑蛋嘅蛋香配飯食真係一流\n另一份就點咗雞肉咖喱湯烏冬\n咖喱湯香噴噴,每條烏冬都好索湯\n食落十分惹味,雞肉份量都夠哂多",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "天后有間大受好評嘅日式料理餐廳\n當中最吸引嘅就係黃金黑豚扒Pan丼\n原來餐廳用上福岡嘅傳統手法\n將新鮮炸起嘅豬扒放喺煎pan\n再加上滑蛋同洋蔥\n上枱後用最快嘅速度將個pan拎起\n順時針轉幾下再倒哂豬扒同滑蛋落飯面\n相機食先都要夠快手\n如果唔係啲蛋漿就會變熟痴喺個pan上面\n豬扒又厚又大件,肉質嫩滑\n加上滑蛋嘅蛋香配飯食真係一流\n另一份就點咗雞肉咖喱湯烏冬\n咖喱湯香噴噴,每條烏冬都好索湯\n食落十分惹味,雞肉份量都夠哂多",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Vicky Kwan",
+          "uri": "https://www.google.com/maps/contrib/115252646649285059559/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLdMnQUoLOYNEtDxMkR_8EQLVTpHoDTPmyrOd_2-EkjSCfsEQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-07-22T09:24:33.894253Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNia0luRjB3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNia0luRjB3RRAB!2m1!1s0x3404013c7892074d:0xfa24b03869f7dc0e"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404013c7892074d:0xfa24b03869f7dc0e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=18024725364986076174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404013c7892074d:0xfa24b03869f7dc0e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404013c7892074d:0xfa24b03869f7dc0e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404013c7892074d:0xfa24b03869f7dc0e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJTQeSeDwBBDQRDtz3aTiwJPo/photos/Aa-ngMY-gA_o3hDwgNu4x8WvkPxHZ9Uzz8GxwO-eQcBwa5DifLwwfSFDvxTIsO6RE25gUCvafQ8ErLtrX5aB-LPH-dMMFS7o42Adpnt7eBRfNzDSa-ekgTBQV8Bc6aNNiaJgkZwFO1Utaf5GdJhXHLl9nrhYIIBW--WQYhqXWs0w-FJswQGostw5PMDp1ka_MJGzgcq-NAHYTfKDnQ6vp_RFeDAG8FJ-xDLNjJKjPfcsA1yJpygAsUAPgzI4M3DbyfSNJQVl5mw1AVlci67oNYRWakx219fM8O5Xf9pQkcpvCcTmo5xCoDvJOLsIEqJo-e2H4C2Relv-JNaI30dPd2lMSIAjh4g-8cvnS5t9Dd_7LEgKY8AN79X1-F3VYbsVTPHMCRaZaMWlV1dp7FccvcuKvOwXhXddZlZPke2dhqq3153gAw",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Bowie Lau",
+          "uri": "https://maps.google.com/maps/contrib/109566646604761821045",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIW0xRVTFLpeYwd2KwTfv2FaiqFlOo5l7hQ2Xyhki-N8iuL-Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAfNSDKUTyOWBX8B1FbfMSZ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAfNSDKUTyOWBX8B1FbfMSZ!2e10!4m2!3m1!1s0x3404013c7892074d:0xfa24b03869f7dc0e"
+    },
+    "local_path": "photos/ChIJTQeSeDwBBDQRDtz3aTiwJPo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvGJgvVVblvEKeqg6mE29RsRE4Xx9xGsyUt7Jj9dKYveX9qLJbEEL7_XPBiqh1rpPIJLMHB1d7G16aAxZXAdG2kyOd6_DI-gH7MAymSPyATRa_Q3k6caLGRD7mpei98cPcoOFTjUmCFSuc=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 256488
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

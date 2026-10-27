@@ -1,0 +1,40 @@
+{
+  "id": "ChIJu_W5zzkHBDQRoDFNxq446kI",
+  "types": [
+    "parking_lot",
+    "parking",
+    "transportation_service",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍九龍塘龍翔道",
+  "location": {
+    "latitude": 22.343006,
+    "longitude": 114.171297
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4821728674355949984&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "龍翔道眺望處停車場",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "parking_lot",
+  "photos": [
+    {
+      "name": "places/ChIJu_W5zzkHBDQRoDFNxq446kI/photos/Aa-ngMYxq9N9C7QVj2ytibp7ggqsVUwWbcjBVkPBE8k2Pma9xuG7ocmyur16u7-chtF7bIUfLEbKbuhYIS9y3u8Xq_nwHJQxze-UUpvVC6A52bC1CHeHRdmVS7klE3vqlXUAN3_ET-wB7N8YLhYnlLW2nYUrqcVbKypPP5d8sUzLLTfNThuOWEJ6o2j29jypGKfemPFk5gW0VlLiLvUgFz8i7nRZO-FPF96cnMBih8-wrEFJofkH9Ox0PloQVQuhSjSQIuHdVP7KMB_c9JR8W4gQgkzSoHg9im2u30Ax8wOmkx1EAsC2LF7BJQOkzw65U1VpR-qoG5A4BnXZUgSLEKT-NzhN3qbWhvrSlv4RE8TKJCNgjlxvup7JSKWJNv2iLZX8Z3ptZD1bQICQqnP7029seDNRIHRT",
+      "widthPx": 4128,
+      "heightPx": 3096,
+      "authorAttributions": [
+        {
+          "displayName": "Dennis Cheung",
+          "uri": "https://maps.google.com/maps/contrib/108147933561808337836",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXtXgaa673Sj1Xe-KnBkEtbmZSdE10IDK9YHjJVrY7dgmcp4UCMw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4g7n8gQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4g7n8gQE!2e10!4m2!3m1!1s0x34040739cfb9f5bb:0x42ea38aec64d31a0"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:23.592503+00:00"
+}

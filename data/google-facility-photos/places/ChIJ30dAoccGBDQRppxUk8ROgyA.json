@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ30dAoccGBDQRppxUk8ROgyA",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍牛池灣豐盛街71號",
+  "location": {
+    "latitude": 22.338054,
+    "longitude": 114.2135021
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2342802837355142310&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "牛池灣公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJ30dAoccGBDQRppxUk8ROgyA/photos/Aa-ngMb52svvHRI_JLQMx_43QgNRg2KgTirJj6TlnzHGvE0mLCy_fuC3MDkqMqUw282c4MH-hHb50jz08iJ7JtFU0_GJv_IkZv-8CEzwWntAl2kWkmGEekV83h2KeIlI2YO5BHrfA84LCWlGpxrBBUk1f5K6CZec1Ak84OnfHQ7Dzgbr0rPj-7GYYxUABysb5ass4L2lG4ujK9I_7uQwEvasMjwuswuAESBS42D8lj8RshwFj0f-KlzS7_bZ35xvKEc1zcp8JvjsKkDvzYogWNX59fejaOLmYXtsLqY8aXCIw8RI_9M_Tvop1XMZXBUHvP85_8x667LCs4ONJc2kG7YDE33-8NozFREEJb_9GYTcXcUcdy2FKYXdRwzPb4ytHESGaWekJilkhfK87WhYnEhimQ_bUhI",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Denny Liu",
+          "uri": "https://maps.google.com/maps/contrib/116576119714504915183",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuOXXatyr-anYGu7rXU-rpbvakE-iKnQOcMjEQTfTPcDTtreru=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICB3aLACw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB3aLACw!2e10!4m2!3m1!1s0x340406c7a14047df:0x20834ec493549ca6"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:06.447967+00:00"
+}

@@ -1,0 +1,326 @@
+{
+  "google_place_id": "ChIJycLLXb0FBDQRv-RI1kxxycI",
+  "restaurant_ids": [
+    "restaurant:2298001556",
+    "restaurant:3198801714",
+    "restaurant:2298001352"
+  ],
+  "fetched_at": "2026-10-23T15:38:22.711033+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJycLLXb0FBDQRv-RI1kxxycI",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2792 1348",
+    "internationalPhoneNumber": "+852 2792 1348",
+    "formattedAddress": "香港新界西貢西貢海傍廣場1號兆日大廈A座",
+    "location": {
+      "latitude": 22.381066,
+      "longitude": 114.27355000000001
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=14035874288503415999&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 23:00",
+        "星期二: 07:00 – 23:00",
+        "星期三: 07:00 – 23:00",
+        "星期四: 07:00 – 23:00",
+        "星期五: 07:00 – 23:00",
+        "星期六: 07:00 – 23:00",
+        "星期日: 07:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 2739,
+    "displayName": {
+      "text": "洪記海鮮酒家",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "海鮮餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "seafood_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJycLLXb0FBDQRv-RI1kxxycI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kblZGQkpWVGh3VUZOcFVVcE5XRTVSYWtsNWQyYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "去到西貢，一定要吃海鮮，其實有一半原因是為了吃海鮮才去西貢的。今天吃到的這一餐，真的覺得很划算，我們選了兩人套餐，三個人吃，送了一個青菜和一碟橙子，免茶錢，免加一，重點是每一樣都很新鮮，服務很好，服務員也很老實，不會讓我們花冤枉錢！我們其實嘴很刁，但是我們都一致認為這一餐真得很開心，海鮮不但新鮮，而且美味，以後一定會再來！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "去到西貢，一定要吃海鮮，其實有一半原因是為了吃海鮮才去西貢的。今天吃到的這一餐，真的覺得很划算，我們選了兩人套餐，三個人吃，送了一個青菜和一碟橙子，免茶錢，免加一，重點是每一樣都很新鮮，服務很好，服務員也很老實，不會讓我們花冤枉錢！我們其實嘴很刁，但是我們都一致認為這一餐真得很開心，海鮮不但新鮮，而且美味，以後一定會再來！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "JH Wang",
+          "uri": "https://www.google.com/maps/contrib/115347713040783239947/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjEyuZHniQf_HwtGTCJIjMNbcqpnnhJGtPKVUClYGiTIFqXE9eSQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-29T16:31:48.263815129Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kblZGQkpWVGh3VUZOcFVVcE5XRTVSYWtsNWQyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kblZGQkpWVGh3VUZOcFVVcE5XRTVSYWtsNWQyYxAB!2m1!1s0x340405bd5dcbc2c9:0xc2c9714cd648e4bf"
+      },
+      {
+        "name": "places/ChIJycLLXb0FBDQRv-RI1kxxycI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwQlVsOVZSbGhuYm5WT05reEhSM2QwTFVaWE9HYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 3,
+        "text": {
+          "text": "團隊端午節龍舟競渡工作完畢，已經差唔多晏晝三點，過來洪福食飯，已預訂咗幾款菜式，都好唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "團隊端午節龍舟競渡工作完畢，已經差唔多晏晝三點，過來洪福食飯，已預訂咗幾款菜式，都好唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "M L Wong",
+          "uri": "https://www.google.com/maps/contrib/103672382958311131333/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVv44d4L8Wpl-AjFVxxPldyEJj86uXylhBUC0zXmHqHJ7y2FJC=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-06-19T15:42:44.554927143Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwQlVsOVZSbGhuYm5WT05reEhSM2QwTFVaWE9HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwQlVsOVZSbGhuYm5WT05reEhSM2QwTFVaWE9HYxAB!2m1!1s0x340405bd5dcbc2c9:0xc2c9714cd648e4bf"
+      },
+      {
+        "name": "places/ChIJycLLXb0FBDQRv-RI1kxxycI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taQ05GWnRaRTF2TTNCbE4yTm5iVjlUUnpoR1lWRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "點左二人套餐，加一百蚊升級龍躉，另加一個揚州炒飯，白灼蝦算大隻還不錯，條蒸魚賣相不得了，唔新鮮兼且冇魚味，鮑魚冇起內臟所以有腥味，椒鹽賴尿蝦係香口既，不過掩蓋唔到蝦唔新鮮冇鮮味既事實，炒蟹更加係差到一個點，蟹肉冇口味冇鮮味，連旁邊既薑䓤都好食過佢，炒飯亦好普通，老婆講笑話，全場最好食既可能係舊橙，埋單差不多九百蚊👍餐廳位置一流，唔憂冇客人，就算我冇下次，總有其他人幫襯🙏🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "點左二人套餐，加一百蚊升級龍躉，另加一個揚州炒飯，白灼蝦算大隻還不錯，條蒸魚賣相不得了，唔新鮮兼且冇魚味，鮑魚冇起內臟所以有腥味，椒鹽賴尿蝦係香口既，不過掩蓋唔到蝦唔新鮮冇鮮味既事實，炒蟹更加係差到一個點，蟹肉冇口味冇鮮味，連旁邊既薑䓤都好食過佢，炒飯亦好普通，老婆講笑話，全場最好食既可能係舊橙，埋單差不多九百蚊👍餐廳位置一流，唔憂冇客人，就算我冇下次，總有其他人幫襯🙏🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Stephen Leong",
+          "uri": "https://www.google.com/maps/contrib/117975369288202125475/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeaw5L8KtYfnhvRGk_VWiQLQBBEftgNj-K3O_txpjt46FINg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-20T05:45:41.259610666Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taQ05GWnRaRTF2TTNCbE4yTm5iVjlUUnpoR1lWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taQ05GWnRaRTF2TTNCbE4yTm5iVjlUUnpoR1lWRRAB!2m1!1s0x340405bd5dcbc2c9:0xc2c9714cd648e4bf"
+      },
+      {
+        "name": "places/ChIJycLLXb0FBDQRv-RI1kxxycI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1NWJVdFZWbFJ6WTI1UVpGZFRlVGRUU3pWWFMyYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "明明好好食喎,8人枱,豆腐咸少少,咕嚕肉唔錯但可以再正啲,有改善空間;海鮮好鮮又好食,炒飯夠乾味道適中唔會太濃味,雞非常好食沙薑汁very正,最正係魚,蝦同埋鮑魚,非常之好食又夠哂鮮!甚至鮮到都唔使點樣點汁!有布抹手有檸檬茶洗手盤供應,唔怕食海鮮時隻手整污糟!NGO團體有優惠價(但老闆話不能對外說,所以評論只以正價列出)(我是不會說實付多少錢/每人的)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "明明好好食喎,8人枱,豆腐咸少少,咕嚕肉唔錯但可以再正啲,有改善空間;海鮮好鮮又好食,炒飯夠乾味道適中唔會太濃味,雞非常好食沙薑汁very正,最正係魚,蝦同埋鮑魚,非常之好食又夠哂鮮!甚至鮮到都唔使點樣點汁!有布抹手有檸檬茶洗手盤供應,唔怕食海鮮時隻手整污糟!NGO團體有優惠價(但老闆話不能對外說,所以評論只以正價列出)(我是不會說實付多少錢/每人的)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ed Hui",
+          "uri": "https://www.google.com/maps/contrib/115674471154397063528/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOUqH0b2577X02E6WBo89WeprFBFa_4VrqE90CKHn1cB1IYss=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-03T09:49:09.486466723Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1NWJVdFZWbFJ6WTI1UVpGZFRlVGRUU3pWWFMyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1NWJVdFZWbFJ6WTI1UVpGZFRlVGRUU3pWWFMyYxAB!2m1!1s0x340405bd5dcbc2c9:0xc2c9714cd648e4bf"
+      },
+      {
+        "name": "places/ChIJycLLXb0FBDQRv-RI1kxxycI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wRmMwRlRkREZ5TjAweFprRkpUVkpUY2kxaWVIYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "喺西貢試過幾間海鮮午餐，今次第一次試洪記。二人餐$498，比其他幾間貴少少，不過未食過呢間就試吓。好大有幾個舖位，都多人食，除咗海鮮，仲有點心，好似茶樓咁。\n海鮮二人餐$498，揀4款，再送炒菜同水果，免加一，但要收茶錢，每位$15。另外點心唔係免加一，所以如果你叫埋點心，就要加一。\n椒鹽鮮魷 炸粉多，魷魚唔係好大舊，唔厚，唔熱\n菠蘿咕嚕肉 算正常，夠淋，唔太肥\n芝士波士頓龍蝦伊麵 芝士汁比較稀，不太濃味，龍蝦得兩舊比較多肉 伊麵都係唔熱的\n點心 似係翻炸，唔脆，比較硬 沙律明蝦角\n蒜蓉蝦春卷\n豉椒炒蟶子 幾彈牙，不過唔太入味\n清炒時蔬，白菜仔\n送水果，橙\n整體價錢比其他貴，份量不多，而且全部食物都係凍，唔熱的，得個炒菜係熱。點心更加唔推薦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "喺西貢試過幾間海鮮午餐，今次第一次試洪記。二人餐$498，比其他幾間貴少少，不過未食過呢間就試吓。好大有幾個舖位，都多人食，除咗海鮮，仲有點心，好似茶樓咁。\n海鮮二人餐$498，揀4款，再送炒菜同水果，免加一，但要收茶錢，每位$15。另外點心唔係免加一，所以如果你叫埋點心，就要加一。\n椒鹽鮮魷 炸粉多，魷魚唔係好大舊，唔厚，唔熱\n菠蘿咕嚕肉 算正常，夠淋，唔太肥\n芝士波士頓龍蝦伊麵 芝士汁比較稀，不太濃味，龍蝦得兩舊比較多肉 伊麵都係唔熱的\n點心 似係翻炸，唔脆，比較硬 沙律明蝦角\n蒜蓉蝦春卷\n豉椒炒蟶子 幾彈牙，不過唔太入味\n清炒時蔬，白菜仔\n送水果，橙\n整體價錢比其他貴，份量不多，而且全部食物都係凍，唔熱的，得個炒菜係熱。點心更加唔推薦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lemon Grace",
+          "uri": "https://www.google.com/maps/contrib/117664767298612830202/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqqZOnkZ2ZI88D1xXq1nF9qBBf8WGfHoFfzkhEf7QRGjB-bA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-06-18T05:02:52.746952087Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wRmMwRlRkREZ5TjAweFprRkpUVkpUY2kxaWVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wRmMwRlRkREZ5TjAweFprRkpUVkpUY2kxaWVIYxAB!2m1!1s0x340405bd5dcbc2c9:0xc2c9714cd648e4bf"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340405bd5dcbc2c9:0xc2c9714cd648e4bf!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14035874288503415999&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405bd5dcbc2c9:0xc2c9714cd648e4bf!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340405bd5dcbc2c9:0xc2c9714cd648e4bf!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405bd5dcbc2c9:0xc2c9714cd648e4bf!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJycLLXb0FBDQRv-RI1kxxycI/photos/Aa-ngMak9q2oYFg01Z9x3XT17pUFze-uRo8cL2Omj3ak9elexEZVZKcP9vCqPHvEZk9EWOXcDz8fgxc7EE4edTpV2ELXGJRWh8PMEbVQUH7jNiOwdoZYdErPCbcegoQNZVhSYdfIYumKfJuO6KsLQcFHbRPavWMCSt5-g2UZJC2PLclfBsk7IgwvY0P_bByQWxp08vBNHdJ7sGWQrccNCUgUJFwtNb-3NRWjykCyyeHF74z4SWBCOJVYN2VKiX6l6d6mcN17U5cTBO3wN2WxXlucbBMPZKjBgur8YFOLc7P3RCbZtxGcWFu--wF-DvTBXJvgPze7mKJ2YzbypQhwf1jqcqkTd-2KtRJdoGsR2_Vb8694x9uI-1HKKfoVq8yP6M3C5LN1LKexscC6XQ3L-TOTfS8K96M",
+      "widthPx": 2896,
+      "heightPx": 1944,
+      "authorAttributions": [
+        {
+          "displayName": "Mihai Garba",
+          "uri": "https://maps.google.com/maps/contrib/108662646835921817683",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJVV7QkeInsYqxakC70e_erStVI3aoi7AoP7PfaLNEomIq4NQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICBkLzFMw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBkLzFMw!2e10!4m2!3m1!1s0x340405bd5dcbc2c9:0xc2c9714cd648e4bf"
+    },
+    "local_path": "photos/ChIJycLLXb0FBDQRv-RI1kxxycI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo1hMMMnjQSoKxUS_mKSQMH10OAXJ-opA4PAsmrnm-X-tNIYaazo46a0CtduUZs5jjEupU0pIBY1_mAF5po3at50W8LNmyr_X4T0c9cAUSavNv2Qn89jTQhBtj8GAXHVpuy7rn=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 170230
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "seafood_restaurant",
+    "label": "海鮮餐廳",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

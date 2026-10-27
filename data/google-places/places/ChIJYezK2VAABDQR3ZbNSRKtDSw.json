@@ -1,0 +1,356 @@
+{
+  "google_place_id": "ChIJYezK2VAABDQR3ZbNSRKtDSw",
+  "restaurant_ids": [
+    "restaurant:2212812273"
+  ],
+  "fetched_at": "2026-10-23T15:43:15.988766+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJYezK2VAABDQR3ZbNSRKtDSw",
+    "types": [
+      "asian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2383 4022",
+    "internationalPhoneNumber": "+852 2383 4022",
+    "formattedAddress": "Shop 1004, 10/F, Times Square, Causeway Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2782712,
+      "longitude": 114.18237750000002
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=3174383606425294557&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://gaiagroup.com.hk/restaurant/greenhouse/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 737,
+    "displayName": {
+      "text": "Greenhouse",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJYezK2VAABDQR3ZbNSRKtDSw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxaVNsQjBSRU5ET1VwNWJIUXdVWFp0ZEVrM2MwRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 2,
+        "text": {
+          "text": "食物令人失望，pizza餅底過薄，吃上去像純吃芝士一樣，牛扒外圍有奇怪的調味，干擾了吃牛扒感受肉味，這個價錢這種食物質素令人頗失望。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物令人失望，pizza餅底過薄，吃上去像純吃芝士一樣，牛扒外圍有奇怪的調味，干擾了吃牛扒感受肉味，這個價錢這種食物質素令人頗失望。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "N C",
+          "uri": "https://www.google.com/maps/contrib/100795626114534467961/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNNXs08vd1vR4GkhNvcsyjG0y9BumK4Y74yJl8Ed_Fa_JKWdGE=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-22T16:05:13.430364176Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxaVNsQjBSRU5ET1VwNWJIUXdVWFp0ZEVrM2MwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxaVNsQjBSRU5ET1VwNWJIUXdVWFp0ZEVrM2MwRRAB!2m1!1s0x34040050d9caec61:0x2c0dad1249cd96dd"
+      },
+      {
+        "name": "places/ChIJYezK2VAABDQR3ZbNSRKtDSw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxNFdXMXhOMXBKZWsxcFRsbGFRalZhYjJRNU9IYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "2025/12/11 午餐\n前菜：火腿蒜蓉芥蘭; 芥蘭苗嫩身、軟淋適中，味道不錯\n烤雞炒意粉：雞扒剛好不會柴。意粉份量多，配炒蛋底，整體味道不错。炒意粉比較油。\n澳洲牛柳五成熟：150g有4件，肉質不錯，五成熟就剛好。有簡單配菜。\n開心果蘋果慕絲蛋糕：開心果味道簡單、蘋果慕絲在中間，整體好味不會太甜。\n咖啡正常\n服務佳\n環境舒適",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2025/12/11 午餐\n前菜：火腿蒜蓉芥蘭; 芥蘭苗嫩身、軟淋適中，味道不錯\n烤雞炒意粉：雞扒剛好不會柴。意粉份量多，配炒蛋底，整體味道不错。炒意粉比較油。\n澳洲牛柳五成熟：150g有4件，肉質不錯，五成熟就剛好。有簡單配菜。\n開心果蘋果慕絲蛋糕：開心果味道簡單、蘋果慕絲在中間，整體好味不會太甜。\n咖啡正常\n服務佳\n環境舒適",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Winter Ma",
+          "uri": "https://www.google.com/maps/contrib/104768765210466844997/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVa_QigkBcbnHXERe5R5_4XwU7N4xlKow2BpwKEf8WgU-UU1sA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-13T02:16:38.355847710Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxNFdXMXhOMXBKZWsxcFRsbGFRalZhYjJRNU9IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxNFdXMXhOMXBKZWsxcFRsbGFRalZhYjJRNU9IYxAB!2m1!1s0x34040050d9caec61:0x2c0dad1249cd96dd"
+      },
+      {
+        "name": "places/ChIJYezK2VAABDQR3ZbNSRKtDSw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGSGRsSmFaRlJPWW5wRGVYQk9SVVZKUWtSUGMyYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 1,
+        "text": {
+          "text": "牛扒好細份好難食\n坐得幾舒服，小食同飲品都唔錯。\n但係意粉同牛扒千祈唔好叫！\n其實喺銅鑼灣食五百幾蚊一塊扒，我都知道唔可以太高要求。\n但明明叫5成，嚟到真係太熟，咬落係乾柴嘅，又少（就係相裡面嗰度咁多多）。\n斧頭扒要等25分鐘（正常），本來都好期待，但係質素實在太令人失望！同餐廳員工反映佢哋堅持話主廚話咁樣叫五成熟，無辦法之下都放棄，食唔落😭\n見佢嘅菜式款式都多元化，以為牛扒唔會太差，但牛扒食落差過茶餐廳，無牛香，無油香。\n呢間餐廳真係唔會再嚟！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "牛扒好細份好難食\n坐得幾舒服，小食同飲品都唔錯。\n但係意粉同牛扒千祈唔好叫！\n其實喺銅鑼灣食五百幾蚊一塊扒，我都知道唔可以太高要求。\n但明明叫5成，嚟到真係太熟，咬落係乾柴嘅，又少（就係相裡面嗰度咁多多）。\n斧頭扒要等25分鐘（正常），本來都好期待，但係質素實在太令人失望！同餐廳員工反映佢哋堅持話主廚話咁樣叫五成熟，無辦法之下都放棄，食唔落😭\n見佢嘅菜式款式都多元化，以為牛扒唔會太差，但牛扒食落差過茶餐廳，無牛香，無油香。\n呢間餐廳真係唔會再嚟！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "WYC",
+          "uri": "https://www.google.com/maps/contrib/102738956660266919786/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLe9gOnHxnFtBfAE14SmYbd4907dvJT_uT3tq8ncwKngiNkJg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-01T22:52:11.464296250Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGSGRsSmFaRlJPWW5wRGVYQk9SVVZKUWtSUGMyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGSGRsSmFaRlJPWW5wRGVYQk9SVVZKUWtSUGMyYxAB!2m1!1s0x34040050d9caec61:0x2c0dad1249cd96dd"
+      },
+      {
+        "name": "places/ChIJYezK2VAABDQR3ZbNSRKtDSw/reviews/ChZDSUhNMG9nS0VJQ0FnTURJLWFfWGJnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "這間位於銅鑼灣的【Greenhouse】，主打西餐菜式，晚市除了有單點外，還有晚市二人套餐，只需四百幾蚊起，包前菜、餐湯、主菜及甜品，十分豐富。\n吞拿魚牛油果藜麥沙律\n沙律菜新鮮爽脆，酸甜醬汁，加上吞拿魚、青蘋果及牛油果，清新開胃。\n龍蝦湯&雜菜湯\n龍蝦湯味道濃郁，有粒粒蝦龍肉；雜菜湯比較清淡的蔬菜甜味。\n炸雞粒及單骨雞骨配芝士醬\n炸雞炸至金黃香脆，其中單骨雞翼配芝士醬很惹味。\n香辣龍蝦意粉\n龍蝦肉彈牙，意粉加了些香料及辣椒，十分惹味又爽口。\n美國頂級西冷配秘制京醬\n西冷要了五成熟，以鐵板上菜，配上京醬甚有特色，牛扒肉味濃郁且肉汁豐富。\n最後甜是馬卡龍及綠茶慕絲，甜甜的結尾。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間位於銅鑼灣的【Greenhouse】，主打西餐菜式，晚市除了有單點外，還有晚市二人套餐，只需四百幾蚊起，包前菜、餐湯、主菜及甜品，十分豐富。\n吞拿魚牛油果藜麥沙律\n沙律菜新鮮爽脆，酸甜醬汁，加上吞拿魚、青蘋果及牛油果，清新開胃。\n龍蝦湯&雜菜湯\n龍蝦湯味道濃郁，有粒粒蝦龍肉；雜菜湯比較清淡的蔬菜甜味。\n炸雞粒及單骨雞骨配芝士醬\n炸雞炸至金黃香脆，其中單骨雞翼配芝士醬很惹味。\n香辣龍蝦意粉\n龍蝦肉彈牙，意粉加了些香料及辣椒，十分惹味又爽口。\n美國頂級西冷配秘制京醬\n西冷要了五成熟，以鐵板上菜，配上京醬甚有特色，牛扒肉味濃郁且肉汁豐富。\n最後甜是馬卡龍及綠茶慕絲，甜甜的結尾。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "fishfish85",
+          "uri": "https://www.google.com/maps/contrib/113508056313879985645/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4XgLXbG1157gx4EILmzPIDW7dWYIjH_rv6VMyeQEJc_Y9gg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-04-11T13:40:24.611422Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJLWFfWGJnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJLWFfWGJnEAE!2m1!1s0x34040050d9caec61:0x2c0dad1249cd96dd"
+      },
+      {
+        "name": "places/ChIJYezK2VAABDQR3ZbNSRKtDSw/reviews/ChZDSUhNMG9nS0VLS1U4NHYtbk9PUUtBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "🥗吞拿魚藜麥沙律\n感覺很健康，吃這個感該不會胖？😂\n.\n🌽Nacho\n開胃小食，重點係個醬好好食，滿滿的牛油果🥑🤩\n.\n🦞龍蝦湯\n好鮮甜😌\n.\n🍝牛肝菌芝士意粉配馬德拉酒（素食）\n主食好少揀素，但見呢個幾特別就想試吓👀 菇菌味濃，芝士都落得好足🧀 個酒味都真係好突出，係特別嘅👍🏻\n.\n🥩美國頂級西冷牛扒配秘制京醬\n牛扒食得多，通常都係黑椒汁／洋蔥汁，配京醬真係第一次見🌶️\n牛扒肉質不錯，煎得啱啱好，肉味也夠濃。\n.\n🍹Passion Candy\n這cocktail很有趣，個裝飾竟然係一隻蝦🦐😆 創意滿分💯\n.\n🍰🥧最後以set dinner甜品作結🍰🥧\n.\n如果鍾意食Fusion菜可以去試下，佢哋啲菜式配搭係幾特別👍🏻\n.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🥗吞拿魚藜麥沙律\n感覺很健康，吃這個感該不會胖？😂\n.\n🌽Nacho\n開胃小食，重點係個醬好好食，滿滿的牛油果🥑🤩\n.\n🦞龍蝦湯\n好鮮甜😌\n.\n🍝牛肝菌芝士意粉配馬德拉酒（素食）\n主食好少揀素，但見呢個幾特別就想試吓👀 菇菌味濃，芝士都落得好足🧀 個酒味都真係好突出，係特別嘅👍🏻\n.\n🥩美國頂級西冷牛扒配秘制京醬\n牛扒食得多，通常都係黑椒汁／洋蔥汁，配京醬真係第一次見🌶️\n牛扒肉質不錯，煎得啱啱好，肉味也夠濃。\n.\n🍹Passion Candy\n這cocktail很有趣，個裝飾竟然係一隻蝦🦐😆 創意滿分💯\n.\n🍰🥧最後以set dinner甜品作結🍰🥧\n.\n如果鍾意食Fusion菜可以去試下，佢哋啲菜式配搭係幾特別👍🏻\n.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Liu Tracy",
+          "uri": "https://www.google.com/maps/contrib/110519667224181242234/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK1ObLuGaz660OSbX4Wc_kE3e6ot1Y9yQISFM0vutNU7i9iJg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-05-27T03:56:44.582979Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VLS1U4NHYtbk9PUUtBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VLS1U4NHYtbk9PUUtBEAE!2m1!1s0x34040050d9caec61:0x2c0dad1249cd96dd"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040050d9caec61:0x2c0dad1249cd96dd!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3174383606425294557&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040050d9caec61:0x2c0dad1249cd96dd!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040050d9caec61:0x2c0dad1249cd96dd!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040050d9caec61:0x2c0dad1249cd96dd!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJYezK2VAABDQR3ZbNSRKtDSw/photos/Aa-ngMYGzVkZTdylJZIcNfdIVQMK-3vdmAkMSDTJz-e40vFV7S5B2-2SOK8IRO39G0-HbhobnYLUs9rytpHdU0onzu4d9j44VLN2yZFi_QCef-Fl7n4Zkq9ksYGnjcYlNq6n5_m3bVogmcGvoQQZcUmiuHUYIIC7y5se547rn9wwfSi9ajV4_jDxZU1Lu0fSGQsgIpcErbDThnfc_zTx634wslQDCTFkUYlJ7FkhPVEv6N5VcWxDwpAr8XUpxNi82YbuZjVhxTdQdPaxCcTirk9Inl79tmlSMASQi4GGsiqDBhcRE1fwdD6OiavbtjX0STiZAPj_VeirWwpQW1wofDxc2uv5cFxqzA03TNSCvXdZmmTaue8JqLaan0w-WZ5Bj0IiQdA4HWu_pMIyroKgYZKJQVYvZgI",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "AP238",
+          "uri": "https://maps.google.com/maps/contrib/100888093655322925528",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbJVlZrD-Wo7OM_BU3R2VuwrYGzhJ3JCo-VvTgFWT2yxpv-T8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICGvdK1Fg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGvdK1Fg!2e10!4m2!3m1!1s0x34040050d9caec61:0x2c0dad1249cd96dd"
+    },
+    "local_path": "photos/ChIJYezK2VAABDQR3ZbNSRKtDSw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrvTWuk7sOxplS3ViTGktpgj9ECNPN7-rBDiTmOHz7fU-0Psx-Ewzp8_t67Od0hNo7jGRs6mdQ1N_RJwvYq4Qk8epJQt7fepSlaXkG56lRjOOkRIBFfCaa2ul04kzG06Ljwpey=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 193181
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://inline.app/groups/gaiagroup?utm=website",
+        "label": "Reservation",
+        "source_url": "https://gaiagroup.com.hk/restaurant/greenhouse/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://inline.app/booking/greenhouse/timesquare",
+        "label": "Reserve now",
+        "source_url": "https://gaiagroup.com.hk/restaurant/greenhouse/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/05/TSQ-Greenhouse-ALC-2026.pdf",
+        "label": "ALC Menu",
+        "source_url": "https://gaiagroup.com.hk/restaurant/greenhouse/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/05/TSQ-Greenhouse-Kids-Menu-on-Sat-and-Sun_compressed.pdf",
+        "label": "Kids Set (Sat-Sun)",
+        "source_url": "https://gaiagroup.com.hk/restaurant/greenhouse/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "asian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://inline.app/groups/gaiagroup?utm=website",
+  "menu_url": "https://gaiagroup.com.hk/wp-content/uploads/2018/05/TSQ-Greenhouse-ALC-2026.pdf"
+}

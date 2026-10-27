@@ -1,0 +1,324 @@
+{
+  "google_place_id": "ChIJKa6ccFwABDQRtJPoUn5kmEk",
+  "restaurant_ids": [
+    "restaurant:2212116166"
+  ],
+  "fetched_at": "2026-10-23T15:38:49.360050+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJKa6ccFwABDQRtJPoUn5kmEk",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3579 5610",
+    "internationalPhoneNumber": "+852 3579 5610",
+    "formattedAddress": "香港香港島灣仔柯布連道6A號",
+    "location": {
+      "latitude": 22.2783941,
+      "longitude": 114.17305189999999
+    },
+    "rating": 3.2,
+    "googleMapsUri": "https://maps.google.com/?cid=5303099054948389812&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:00 – 19:30",
+        "星期二: 06:00 – 19:30",
+        "星期三: 06:00 – 19:30",
+        "星期四: 06:00 – 19:30",
+        "星期五: 06:00 – 19:30",
+        "星期六: 06:00 – 19:30",
+        "星期日: 06:00 – 19:30"
+      ],
+      "nextOpenTime": "2026-10-23T22:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 124,
+    "displayName": {
+      "text": "New Hennessy Restaurant",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJKa6ccFwABDQRtJPoUn5kmEk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSck96c2NBEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "午餐時間路過來試試，餐廳裝修感覺舒服，坐位舒適，午時套餐選了法式黑椒牛仔骨飯，牛排有點靭，不過蒜蓉雞扒配薯菜味道不錯，餐飲的凍奶茶好甜，不過凍齋啡的咖啡豆揀得好，咖啡有特別香味，老公喜歡。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午餐時間路過來試試，餐廳裝修感覺舒服，坐位舒適，午時套餐選了法式黑椒牛仔骨飯，牛排有點靭，不過蒜蓉雞扒配薯菜味道不錯，餐飲的凍奶茶好甜，不過凍齋啡的咖啡豆揀得好，咖啡有特別香味，老公喜歡。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kelly Chan",
+          "uri": "https://www.google.com/maps/contrib/110957800684420910728/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8ls8q5W12ZjknPFkzccjIkUNedKpPCny3XLHrh0Zt33MgdhFVrA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-03-27T04:47:14.609260Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSck96c2NBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSck96c2NBEAE!2m1!1s0x3404005c709cae29:0x4998647e52e893b4"
+      },
+      {
+        "name": "places/ChIJKa6ccFwABDQRtJPoUn5kmEk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwaEpyUjJBRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 2,
+        "text": {
+          "text": "店員很友善。\n不過環境實在太差。閣樓的空氣局促，有蚊蟲不停飛來飛去。\n食物賣相非常靚，十分吸引。可是口感卻有點遜色，炸魚的皮過硬，飯亦很乾。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員很友善。\n不過環境實在太差。閣樓的空氣局促，有蚊蟲不停飛來飛去。\n食物賣相非常靚，十分吸引。可是口感卻有點遜色，炸魚的皮過硬，飯亦很乾。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "梅氏",
+          "uri": "https://www.google.com/maps/contrib/116552187164219394746/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeYoZxAuWyJbvH6ZPMmwNAHyNo2GgjhTyGWH4wbMVC-tN_H3FM=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-07-28T16:40:11.269288Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwaEpyUjJBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwaEpyUjJBRRAB!2m1!1s0x3404005c709cae29:0x4998647e52e893b4"
+      },
+      {
+        "name": "places/ChIJKa6ccFwABDQRtJPoUn5kmEk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMteTRhTFlREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "初試這間餐廳，叫了是日晚餐： 西式鴛鴦扒意粉， 蒜蓉脆脆雞扒飯， 亦都叫了一個黃金蝦球， 蝦球 上咗 鹹蛋黃脆炸 有鹹蛋黃嘅甘香味 亦都炸得脆口好味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "初試這間餐廳，叫了是日晚餐： 西式鴛鴦扒意粉， 蒜蓉脆脆雞扒飯， 亦都叫了一個黃金蝦球， 蝦球 上咗 鹹蛋黃脆炸 有鹹蛋黃嘅甘香味 亦都炸得脆口好味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Stanley Ip",
+          "uri": "https://www.google.com/maps/contrib/113449041144981384005/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4eEA0LiHdpXu_JhpwrvhD_xqsJjhP1lcf_oi_zkhflCFWyblbWA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-11-13T16:03:10.307498Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMteTRhTFlREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMteTRhTFlREAE!2m1!1s0x3404005c709cae29:0x4998647e52e893b4"
+      },
+      {
+        "name": "places/ChIJKa6ccFwABDQRtJPoUn5kmEk/reviews/ChZDSUhNMG9nS0VJQ0FnSUROdHBHU1dBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "不誠實的黑店\n索價$125的鐵板餐不是鐵板，侍應「蛇哥」 也沒有跟客人說明， 還要極無禮貌地回應道： 「忘了說」 ；\n羅宋湯只 有幾粒菜， 只有很假酸味\n雞扒， 豬扒和牛扒都只是低質無肉味， 無厚度的常餐普通扒。\n伏到一試難忘",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "不誠實的黑店\n索價$125的鐵板餐不是鐵板，侍應「蛇哥」 也沒有跟客人說明， 還要極無禮貌地回應道： 「忘了說」 ；\n羅宋湯只 有幾粒菜， 只有很假酸味\n雞扒， 豬扒和牛扒都只是低質無肉味， 無厚度的常餐普通扒。\n伏到一試難忘",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tess Chan",
+          "uri": "https://www.google.com/maps/contrib/112037910144778730636/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqq_azoZlaIotQW6iEhctpU2mkzdMW09L-EGu6KN4cbAplNsYB=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-01-22T10:01:14.773735Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROdHBHU1dBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROdHBHU1dBEAE!2m1!1s0x3404005c709cae29:0x4998647e52e893b4"
+      },
+      {
+        "name": "places/ChIJKa6ccFwABDQRtJPoUn5kmEk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKdnZLdVp3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "Foodpanda 外賣 - 黑椒牛脷撈公仔麵\n黑椒汁不膩，牛脷夠厚份量足夠，公仔麵麵底煮得剛好不會過腍。\n常餐設定跟配菠蘿包，炒蛋和餐飲。菠蘿包新鮮送到還是暖的，菠蘿皮酥脆，炒蛋大份味道ok。熱朱古力好夠濃，未拌勻的狀態下都已經夠味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Foodpanda 外賣 - 黑椒牛脷撈公仔麵\n黑椒汁不膩，牛脷夠厚份量足夠，公仔麵麵底煮得剛好不會過腍。\n常餐設定跟配菠蘿包，炒蛋和餐飲。菠蘿包新鮮送到還是暖的，菠蘿皮酥脆，炒蛋大份味道ok。熱朱古力好夠濃，未拌勻的狀態下都已經夠味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tiffany l",
+          "uri": "https://www.google.com/maps/contrib/117517823905700425994/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKbTDwILFi7un1edZugXB74_aRqZy5SCCrJDMlcSL1AmiYmKQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-06-28T05:48:17.486258Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKdnZLdVp3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKdnZLdVp3EAE!2m1!1s0x3404005c709cae29:0x4998647e52e893b4"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404005c709cae29:0x4998647e52e893b4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5303099054948389812&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005c709cae29:0x4998647e52e893b4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404005c709cae29:0x4998647e52e893b4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005c709cae29:0x4998647e52e893b4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJKa6ccFwABDQRtJPoUn5kmEk/photos/Aa-ngMZXIqKuGEnLMVl6GZ0oOJUVt9usmWZbJoRvt-Yr3ZnDZdZDVH4vIRStac0eaCezwoHT7MIpZdD0fNxRV1ZEwCe6gXh8E9HnQfIpSCIqKMD_mtMkeWKVmxMvK-9hBpXVTYS411tDrZZNfzHZPPoUu-eEm6eVBvop9yPXSFHgtPG9FtqmKQAp3OjOQf1d5Bts-_wEAOsYpeiR9jjXUJv8FfHOdt-jjXFcSMdFxEbUhHyw4RwCrFXyk_VUru40a8FRMhkughFqRS2UpOPQA_We9SPw9EgRQAHgpflD8xBieWVbiGCviq8dxKr7aLCXSLfXUR1bcTB--WvJoRCAVqRe3o3xNbm0A7ugBx-lNeM0bN3j-va0EgX1nUGgzCxW31SXSe6-FxlX7HM6X5I1-RVB_A1PRjc",
+      "widthPx": 4800,
+      "heightPx": 3599,
+      "authorAttributions": [
+        {
+          "displayName": "Madhurendra Narayan Tiwary",
+          "uri": "https://maps.google.com/maps/contrib/103262014087620431132",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIbWjtv4QJ6-yTtT9-GhVtQe6nOQBxifvIbG_-IVG3vWgyWxQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-sqelEg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-sqelEg!2e10!4m2!3m1!1s0x3404005c709cae29:0x4998647e52e893b4"
+    },
+    "local_path": "photos/ChIJKa6ccFwABDQRtJPoUn5kmEk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLecA4tO0o1iu8prAbKG2fOPn96-rSrZnxJ1YmmHSIyh1afqWGTC3AzV3gVpUelKv50TMaAZ2Xqdz5GR-Efhcba3h8gZRHdSw-Ihrefu-QVaQ3qsXIYHpHEPl2rbIt5ycx9fn9Ef=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 192110
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

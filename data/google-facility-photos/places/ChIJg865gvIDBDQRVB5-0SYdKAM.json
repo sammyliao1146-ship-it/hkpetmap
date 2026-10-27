@@ -1,0 +1,40 @@
+{
+  "id": "ChIJg865gvIDBDQRVB5-0SYdKAM",
+  "types": [
+    "grocery_store",
+    "food_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "formattedAddress": "新界將軍澳唐俊街12號天晉滙地下G01號舖 Shop No. G01 on the Ground Floor of Popwalk, 12 Tong Chun Street, N.T, Tseung Kwan O, New Territories, 香港",
+  "location": {
+    "latitude": 22.305916099999997,
+    "longitude": 114.26078199999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=227463833742876244&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Fusion(天晉滙)",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "grocery_store",
+  "photos": [
+    {
+      "name": "places/ChIJg865gvIDBDQRVB5-0SYdKAM/photos/Aa-ngMaPqsLRCvFQeuLwNmD-umeEvvIvG-SmhSPZig-O_ljDsL-wXtngTXnBsP1--XlwpIUQOwBM06Uk3MVazzznpCgpoj43zfgXm02pkWH5eRnoebg-S8yJ8gyQeh43QVoaVFz7cGNyvA4zvnioVam0sJ1YFeMVDfDKDf94wITTR1d50edVA2QMiloIw2w94nQMrBuesdFJJm9KQ0PFKzJvXy0krZCPBrXLJlUzw73YB6KNSer7prgqYED5LZWT8i26_UBD2TnuW8s2ZeWmxA589ySCxO9W9DDJdQJxdlaJE7IwvKaV6z-d363PdswQBeg7OHxeDSOWyiM_2bAxVB49iucJJJ92X0xBtqN4NsmM6tMS-Hz8x_fIgtwCPrN9J3lTYQu8IHAht-s2kWPjZKzHA8EX31QpZVA",
+      "widthPx": 1017,
+      "heightPx": 769,
+      "authorAttributions": [
+        {
+          "displayName": "Fusion(天晉滙)",
+          "uri": "https://maps.google.com/maps/contrib/106869281599857549294",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoZQ3Qnd0CBBNw9yreCbuixNhqjiwCs4WJnd9T_Y-0R5_SqRs6=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICl0ua12AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl0ua12AE!2e10!4m2!3m1!1s0x340403f282b9ce83:0x3281d26d17e1e54"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:05.430041+00:00"
+}

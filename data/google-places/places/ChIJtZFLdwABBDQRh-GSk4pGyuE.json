@@ -1,0 +1,405 @@
+{
+  "google_place_id": "ChIJtZFLdwABBDQRh-GSk4pGyuE",
+  "restaurant_ids": [
+    "restaurant:2263808494"
+  ],
+  "fetched_at": "2026-10-23T15:46:55.914983+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJtZFLdwABBDQRh-GSk4pGyuE",
+    "types": [
+      "noodle_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6331 4552",
+    "internationalPhoneNumber": "+852 6331 4552",
+    "formattedAddress": "香港九龍塘尾汝州街128號",
+    "location": {
+      "latitude": 22.328017799999998,
+      "longitude": 114.16406909999999
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=16269894164824646023&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/omgjinjangcurrymee_hk?igsh=MTh6NzZlMmk5a241OA==&utm_source=qr",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 16:00, 17:00 – 21:00",
+        "星期二: 12:00 – 16:00, 17:00 – 21:00",
+        "星期三: 12:00 – 16:00, 17:00 – 21:00",
+        "星期四: 12:00 – 16:00, 17:00 – 21:00",
+        "星期五: 12:00 – 16:00, 17:00 – 21:00",
+        "星期六: 12:00 – 16:00, 17:00 – 21:00",
+        "星期日: 12:00 – 16:00, 17:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 212,
+    "displayName": {
+      "text": "OMG Jinjang Curry Mee",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesVegetarianFood": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJtZFLdwABBDQRh-GSk4pGyuE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTE1HNDBiM1ZHUnpoSWMycEZVamRKTWxoMFNrRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "湯底好正，咖哩雞脾本身都不錯，但配搭起來，沒有加分，有點1 + 1 ",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "湯底好正，咖哩雞脾本身都不錯，但配搭起來，沒有加分，有點1 + 1 ",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kelvin chan",
+          "uri": "https://www.google.com/maps/contrib/101286961673670989933/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIjWHXjopengHV-FVwkELSXOKykR1VP8SorfErHEmfr8lXZbg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-20T08:07:32.498886197Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aTE1HNDBiM1ZHUnpoSWMycEZVamRKTWxoMFNrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aTE1HNDBiM1ZHUnpoSWMycEZVamRKTWxoMFNrRRAB!2m1!1s0x34040100774b91b5:0xe1ca468a9392e187"
+      },
+      {
+        "name": "places/ChIJtZFLdwABBDQRh-GSk4pGyuE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnMFRuSkhXVGwzTVRGZmMySlNXVEo2VFRKSU9XYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "今日好緊張因為食緊張會唔會戥我（好卵）緊張😆～一間在深水埗食馬來西亞咖喱麵小舖～\n\n今晚簡直係白咖喱之夜 ～跟飯腳準備充足6:15已在深水埗附近徘徊跟住過去排隊，可能係農曆年前的節奏，市民大部份去咗食團年飯，所以舖頭7:30才開始出現人龍。\n\n經前人指點，我們各人叫了一乾一湯咖喱麵，勁讚佢個怡保炸腐竹，有人將雞髀換咗花膠～乾麵個麵食唔晒，下次要扣底😆\n\n兩個人點咗五份小食包括甜品：\n🌟蝦醬雞翼（必點）\n🌟咖喱白魚蛋（ok la😆)\n🌟招牌咖喱雞腳（有五隻咁多可以再入味啲）\n🌟沙葛沙律\n🌟班蘭葉basque cake (唔食甜品嘅我都覺得OK ）\n\n本來眼闊肚窄的我亦點咗芽菜，佢哋真係用怡保肥芽菜，好彩妹妹落單唔記得咗，唔係又要由深水埗行返去大坑😅\n\n隔離有素年boutique ，如果排隊條龍長可以入去貢下，可能有意外收穫😆\n\n小店播住80年代粵語流行曲，弊傢伙我首首都識唱🤣🤫",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日好緊張因為食緊張會唔會戥我（好卵）緊張😆～一間在深水埗食馬來西亞咖喱麵小舖～\n\n今晚簡直係白咖喱之夜 ～跟飯腳準備充足6:15已在深水埗附近徘徊跟住過去排隊，可能係農曆年前的節奏，市民大部份去咗食團年飯，所以舖頭7:30才開始出現人龍。\n\n經前人指點，我們各人叫了一乾一湯咖喱麵，勁讚佢個怡保炸腐竹，有人將雞髀換咗花膠～乾麵個麵食唔晒，下次要扣底😆\n\n兩個人點咗五份小食包括甜品：\n🌟蝦醬雞翼（必點）\n🌟咖喱白魚蛋（ok la😆)\n🌟招牌咖喱雞腳（有五隻咁多可以再入味啲）\n🌟沙葛沙律\n🌟班蘭葉basque cake (唔食甜品嘅我都覺得OK ）\n\n本來眼闊肚窄的我亦點咗芽菜，佢哋真係用怡保肥芽菜，好彩妹妹落單唔記得咗，唔係又要由深水埗行返去大坑😅\n\n隔離有素年boutique ，如果排隊條龍長可以入去貢下，可能有意外收穫😆\n\n小店播住80年代粵語流行曲，弊傢伙我首首都識唱🤣🤫",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Helen Hosim",
+          "uri": "https://www.google.com/maps/contrib/101001878966403383871/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOD70uRQeYv6JDYivMhjn6lu8VBVfEH78306Jo19axxPQ6gzpi=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-26T22:30:39.994868014Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnMFRuSkhXVGwzTVRGZmMySlNXVEo2VFRKSU9XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnMFRuSkhXVGwzTVRGZmMySlNXVEo2VFRKSU9XYxAB!2m1!1s0x34040100774b91b5:0xe1ca468a9392e187"
+      },
+      {
+        "name": "places/ChIJtZFLdwABBDQRh-GSk4pGyuE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVlIxUkZZVGxQZFhwU2IwbFFSR2hLV1VOMU4zYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "食物及侍應態度中上的打卡點\n以馬來西亞「滲滲」（Cham），即「兩溝」油麵混合米粉的食物為原型，再加咖喱而成的麵食，單以環境來說值五星，店主搜羅大量古物如電影櫈，古色古香的牆身設計，輔以有趣的松島安詩句，侍應亦極有禮貌，增加享用美食打卡氣圍。\n主食以咖喱滲滲為主，可分咖喱湯麵或咖哩汁乾伴麵兩大種，內有芽菜，兩塊炸豆皮，豆卜，糖心蛋，魚旦，以豆皮最出色，浸咖喱湯一絕，其次為糖心蛋，其他質素合格至中上，米粉溝油麵無特別，主要溝咖喱湯做調味，濃厚但多飲會膩，整體食物連環境質素是值得一來，但並非那種一定要定期嚟食個種超好味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物及侍應態度中上的打卡點\n以馬來西亞「滲滲」（Cham），即「兩溝」油麵混合米粉的食物為原型，再加咖喱而成的麵食，單以環境來說值五星，店主搜羅大量古物如電影櫈，古色古香的牆身設計，輔以有趣的松島安詩句，侍應亦極有禮貌，增加享用美食打卡氣圍。\n主食以咖喱滲滲為主，可分咖喱湯麵或咖哩汁乾伴麵兩大種，內有芽菜，兩塊炸豆皮，豆卜，糖心蛋，魚旦，以豆皮最出色，浸咖喱湯一絕，其次為糖心蛋，其他質素合格至中上，米粉溝油麵無特別，主要溝咖喱湯做調味，濃厚但多飲會膩，整體食物連環境質素是值得一來，但並非那種一定要定期嚟食個種超好味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mok Gavin",
+          "uri": "https://www.google.com/maps/contrib/105792205615810464458/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0NfE9G1VAJBD9O0E1qv3WIHF3bbwIatQkKwy25hTvK1TxeJUd=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-06T19:14:56.577649059Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOVlIxUkZZVGxQZFhwU2IwbFFSR2hLV1VOMU4zYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOVlIxUkZZVGxQZFhwU2IwbFFSR2hLV1VOMU4zYxAB!2m1!1s0x34040100774b91b5:0xe1ca468a9392e187"
+      },
+      {
+        "name": "places/ChIJtZFLdwABBDQRh-GSk4pGyuE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twa1dsOVFWVkZqTFhoUWMwZHZkVlZuTlZGMlIwRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "260501    緊張咖喱麵 ~ 人氣過江龍店，味道唔錯，值得一試\n食物 : CM1 好卵！好雞！緊張咖喱麵 $88 ~ 咖喱湯底濃郁，雞髀大大隻好入味，腐竹脆卜卜好食，面底係油面及米粉，整體味道唔錯，值得去食\n飲品 : 各式涼水 - 凍羅漢果茶 $18 ~ 味道普普通通，不過夠大杯及夠凍\n環境 : 店面裝修古式古香，好特別，拍照一流\n服務 : 職員有禮貌\n費用 : $117 (含10%服務費）",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "260501    緊張咖喱麵 ~ 人氣過江龍店，味道唔錯，值得一試\n食物 : CM1 好卵！好雞！緊張咖喱麵 $88 ~ 咖喱湯底濃郁，雞髀大大隻好入味，腐竹脆卜卜好食，面底係油面及米粉，整體味道唔錯，值得去食\n飲品 : 各式涼水 - 凍羅漢果茶 $18 ~ 味道普普通通，不過夠大杯及夠凍\n環境 : 店面裝修古式古香，好特別，拍照一流\n服務 : 職員有禮貌\n費用 : $117 (含10%服務費）",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jojo Mong",
+          "uri": "https://www.google.com/maps/contrib/108301905268687665238/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbFFriBUd5_UbSZEX7XnQht8ELw1JXPAxIl3H9gbZFp2Womak=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-28T06:07:14.261572502Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twa1dsOVFWVkZqTFhoUWMwZHZkVlZuTlZGMlIwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twa1dsOVFWVkZqTFhoUWMwZHZkVlZuTlZGMlIwRRAB!2m1!1s0x34040100774b91b5:0xe1ca468a9392e187"
+      },
+      {
+        "name": "places/ChIJtZFLdwABBDQRh-GSk4pGyuE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wT1FVa3pZV1o2Y1RRNFZrRmpYMEZJYW1ZM1JIYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "到我「緊張」啦！\n係深水埗開左間裝修好特別既餐廳\n裝修，餐牌改名，真係要讚！好有特色！有創意！\n\n一黎緊木係佢地招牌馬來咖喱麵\n係椰香個種既咖喱（唔辣），都有種似喇沙嘅感覺\n叫咗個雞髀麵，有流心蛋有魚蛋，係好食\n隻雞髀啲肉係滑嘅，但係雞髀肉就好似唔算好入味嘅感覺\n感覺上啲味喺塊皮度，同埋喺個湯底度多啲\n面底好似咁摻摻咁有油面有米線混合\n我個人覺得係正常發揮，唔算太特別好驚喜\n而份量嚟講正常偏向小既，但我唔係好夠飽\n所以我加多左個炸蔬菜餅\n圍觀其他人都會食個麵再加個小食（通常兩個人share一個小食）\n\n蔬菜餅係好食，所以我放咗喺cover😆\n配埋佢個咖喱醬，唔係辣但係夠香\n\n嘢飲叫咗杯好膏！好搞笑\n因為佢係有埋枇杷膏，開正我嗰範我鍾意枇杷膏\n入邊本身有金橘檸檬，酸梅湯再加埋枇杷膏\n枇杷膏份量唔多嘅，但係就有種清涼嘅感覺\n整體上酸酸甘甘涼涼咁 係舒服既\n\n細心位係佢哋有圍裙提供\n因為食咖喱麵真係好容易瀨嘢\n仲要個圍裙嘅包裝係得意嘅，有心思，配合到成間餐廳主題\n\n價錢嚟講，就算係正常偏貴少少\n\n有朋友見到我去食問我食唔食得去試\n我會話係值得去試，整體體驗係特別\n都會返桌既，不過未必會想成日去返桌\n或者未去到會掛住佢啲食物嘅程度",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "到我「緊張」啦！\n係深水埗開左間裝修好特別既餐廳\n裝修，餐牌改名，真係要讚！好有特色！有創意！\n\n一黎緊木係佢地招牌馬來咖喱麵\n係椰香個種既咖喱（唔辣），都有種似喇沙嘅感覺\n叫咗個雞髀麵，有流心蛋有魚蛋，係好食\n隻雞髀啲肉係滑嘅，但係雞髀肉就好似唔算好入味嘅感覺\n感覺上啲味喺塊皮度，同埋喺個湯底度多啲\n面底好似咁摻摻咁有油面有米線混合\n我個人覺得係正常發揮，唔算太特別好驚喜\n而份量嚟講正常偏向小既，但我唔係好夠飽\n所以我加多左個炸蔬菜餅\n圍觀其他人都會食個麵再加個小食（通常兩個人share一個小食）\n\n蔬菜餅係好食，所以我放咗喺cover😆\n配埋佢個咖喱醬，唔係辣但係夠香\n\n嘢飲叫咗杯好膏！好搞笑\n因為佢係有埋枇杷膏，開正我嗰範我鍾意枇杷膏\n入邊本身有金橘檸檬，酸梅湯再加埋枇杷膏\n枇杷膏份量唔多嘅，但係就有種清涼嘅感覺\n整體上酸酸甘甘涼涼咁 係舒服既\n\n細心位係佢哋有圍裙提供\n因為食咖喱麵真係好容易瀨嘢\n仲要個圍裙嘅包裝係得意嘅，有心思，配合到成間餐廳主題\n\n價錢嚟講，就算係正常偏貴少少\n\n有朋友見到我去食問我食唔食得去試\n我會話係值得去試，整體體驗係特別\n都會返桌既，不過未必會想成日去返桌\n或者未去到會掛住佢啲食物嘅程度",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "foodie eatnfit",
+          "uri": "https://www.google.com/maps/contrib/102314230254275025197/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ1Q_9aOvLfR1XZs3Yfcfr0iD53xT0G6vk6RBbcvoBmjlUPRg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-20T02:44:41.712637392Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wT1FVa3pZV1o2Y1RRNFZrRmpYMEZJYW1ZM1JIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wT1FVa3pZV1o2Y1RRNFZrRmpYMEZJYW1ZM1JIYxAB!2m1!1s0x34040100774b91b5:0xe1ca468a9392e187"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040100774b91b5:0xe1ca468a9392e187!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16269894164824646023&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040100774b91b5:0xe1ca468a9392e187!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040100774b91b5:0xe1ca468a9392e187!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040100774b91b5:0xe1ca468a9392e187!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJtZFLdwABBDQRh-GSk4pGyuE/photos/Aa-ngMYJ4l8_bCPHBlqCLKNAx3NooQb4NkEXFW5YsJYsfXiTQdy_vuOOslsD3JetG1abxh2JLoNC-QWB-t47H3TYLQ4YMzDsohNLH0Z9o2BpEkMhmfIAjuyJM9rN_G9nxBgO_PaJxmxI8zK22Tgx_NF7ABLRQ9WU6zrJFYQPvbulB74NWBVr7VSZcP7JlbF09aljkpzJrgPlt3NG5q6-ON2uJj3K2m5ktBxf0SsQ5gob589deL6e7Gx1a4xuH4haNQevFb9SNi8Vq1i4HmvHu82kQGQdYPODY7bODBIRDQiPYaF3GUCxJuV885p-tRHXWT7PwdYkftIIPREgZEXHecEpkazQKJAcvEC-WRdkWfoL_COA2_Fl4IYre8BShXx9nmqneYGlzT9PHJiTQh6ti1ATLrvmvIzCxT8bxTzy3HSPGR_JoA",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Dane Chan",
+          "uri": "https://maps.google.com/maps/contrib/111938380585732603595",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyA-ToQIMOFLnApoTP46ItevHOWz9udcEZLBVRZiPUQlBWotyGGw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAe45Qc66p6mH6LGqeK2nOx&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAe45Qc66p6mH6LGqeK2nOx!2e10!4m2!3m1!1s0x34040100774b91b5:0xe1ca468a9392e187"
+    },
+    "local_path": "photos/ChIJtZFLdwABBDQRh-GSk4pGyuE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTd3biwFCmcRrxeNGaNuJ4YpCQymCWycr-DAc3RKEpSEGxb1DimPNOa0mCi81-gmFiVjuUaSY0u3CZG6aimmQhyH_3Fp7ieKnpz6ypbETzEWTVx7LEw0vDKwdX_4NdsOAoT9bJrIqrSmaZ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 244869
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "noodle_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

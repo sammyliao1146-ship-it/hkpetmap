@@ -1,0 +1,310 @@
+{
+  "google_place_id": "ChIJDY7dLgD7AzQRJHZttjqzHZA",
+  "restaurant_ids": [
+    "restaurant:3193802040"
+  ],
+  "fetched_at": "2026-10-23T15:47:29.104769+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJDY7dLgD7AzQRJHZttjqzHZA",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2813 9283",
+    "internationalPhoneNumber": "+852 2813 9283",
+    "formattedAddress": "香港新界屯門",
+    "location": {
+      "latitude": 22.3934458,
+      "longitude": 113.97651429999999
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=10384653380536333860&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:30 – 22:00",
+        "星期二: 08:30 – 22:00",
+        "星期三: 08:30 – 22:00",
+        "星期四: 08:30 – 22:00",
+        "星期五: 08:30 – 22:00",
+        "星期六: 08:30 – 22:00",
+        "星期日: 08:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 30,
+    "displayName": {
+      "text": "PHI coffee & pancake",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJDY7dLgD7AzQRJHZttjqzHZA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oTlgxZHJlR2xpVTFWUlYwVllXVzQ1Y2pabVoyYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "因為店員一句話，我就自願被勾進來了🤣🤣🤣🤣，東西好吃～唯獨是咖啡很小一杯，我的舒芙蕾本來是有莓果的，但我點餐時就叫他把所有水果全部去掉，果醬也不用給我，只給我一坨Cream就好，因為我不吃的😆，不然拍照一定很漂亮",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "因為店員一句話，我就自願被勾進來了🤣🤣🤣🤣，東西好吃～唯獨是咖啡很小一杯，我的舒芙蕾本來是有莓果的，但我點餐時就叫他把所有水果全部去掉，果醬也不用給我，只給我一坨Cream就好，因為我不吃的😆，不然拍照一定很漂亮",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gutwa!吉爺的霸道人生 Chihuahua Life",
+          "uri": "https://www.google.com/maps/contrib/115738663474802752547/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU04P9aQHUve-CgHcT0-U4RN8on3J7-OiuznPYWYtKyLjyQoSAR=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-11T16:14:27.448348467Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oTlgxZHJlR2xpVTFWUlYwVllXVzQ1Y2pabVoyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oTlgxZHJlR2xpVTFWUlYwVllXVzQ1Y2pabVoyYxAB!2m1!1s0x3403fb002edd8e0d:0x901db33ab66d7624"
+      },
+      {
+        "name": "places/ChIJDY7dLgD7AzQRJHZttjqzHZA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4YWJrNUtTMkZPY0ZKclgzVTJjR2xIV21GaFFuYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "📍 PHI Coffee & Pancake（屯門）\n\n@phi.coffee.pancake\n\n偶爾，生活中總會出現不經意的小驚喜🩷\n今日就嚟到屯門呢一間3樓嘅開放式餐廳！\n成個感覺好chill ，而且一間餐廳每一季都會用時令水果做主題，所以就算每一次嚟到個餐牌都會有唔同嘅改變，唔會食到厭。仲有好多食物都會有好多創意🩵所以可以試到唔同嘅味道🥢\n\n✨ 灸燒柑橘沙律\n首先食個清新嘅頭盤，用時令水果柑橘🍊做主題，灸燒過甜味特別岀，配上新鮮蔬菜，更開胃🤭\n\n✨ 慢煮韓式牛肋骨\n牛肋骨肉味濃郁，口感嫩滑多汁，好juicy，搭配半溶芝士薯蓉，食下食下就飽哂了🤭\n\n✨ 韓式玫瑰醬大蝦貓耳朵粉\n大蝦真係好大隻，外面煎到有啲微焦帶有香氣蝦肉彈牙爽嫩🍤🍤 貓耳朵粉係用韓式玫瑰醬整麵條好掛汁，酸酸甜甜好開胃🍝\n\n✨ 春日大吉大利初綻梳乎厘\n迎接馬年有驚喜🥰柑橘班戟空氣感十足，倒上甘醇的柑橘吉士醬、蜜甜可口，濃郁的水果香氣。搭配柑橘撻｛中間係用鮮果啫喱｝，帶來清新的酸甜感，充滿驚喜🩷\n\n✨ 韓式維也納燕麥咖啡\n風味柔順、口感醇厚\n搭配上可可燕麥餅，烘焙後的可可香氣撲鼻念\n自然穀香中混著濃厚韻味與淡淡甜香！\n\n✨ 春日柑橘梳打\n成杯都好清新，好Fresh，飲完之後更加帶點清新嘅口氣！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "📍 PHI Coffee & Pancake（屯門）\n\n@phi.coffee.pancake\n\n偶爾，生活中總會出現不經意的小驚喜🩷\n今日就嚟到屯門呢一間3樓嘅開放式餐廳！\n成個感覺好chill ，而且一間餐廳每一季都會用時令水果做主題，所以就算每一次嚟到個餐牌都會有唔同嘅改變，唔會食到厭。仲有好多食物都會有好多創意🩵所以可以試到唔同嘅味道🥢\n\n✨ 灸燒柑橘沙律\n首先食個清新嘅頭盤，用時令水果柑橘🍊做主題，灸燒過甜味特別岀，配上新鮮蔬菜，更開胃🤭\n\n✨ 慢煮韓式牛肋骨\n牛肋骨肉味濃郁，口感嫩滑多汁，好juicy，搭配半溶芝士薯蓉，食下食下就飽哂了🤭\n\n✨ 韓式玫瑰醬大蝦貓耳朵粉\n大蝦真係好大隻，外面煎到有啲微焦帶有香氣蝦肉彈牙爽嫩🍤🍤 貓耳朵粉係用韓式玫瑰醬整麵條好掛汁，酸酸甜甜好開胃🍝\n\n✨ 春日大吉大利初綻梳乎厘\n迎接馬年有驚喜🥰柑橘班戟空氣感十足，倒上甘醇的柑橘吉士醬、蜜甜可口，濃郁的水果香氣。搭配柑橘撻｛中間係用鮮果啫喱｝，帶來清新的酸甜感，充滿驚喜🩷\n\n✨ 韓式維也納燕麥咖啡\n風味柔順、口感醇厚\n搭配上可可燕麥餅，烘焙後的可可香氣撲鼻念\n自然穀香中混著濃厚韻味與淡淡甜香！\n\n✨ 春日柑橘梳打\n成杯都好清新，好Fresh，飲完之後更加帶點清新嘅口氣！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hiu ying Chan",
+          "uri": "https://www.google.com/maps/contrib/108619598748715145015/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqxmZucg2fbMkhZeBBlJdEfYGtVTaj82Ksos61R57R7u0OFYw=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-01-22T16:11:53.088761039Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4YWJrNUtTMkZPY0ZKclgzVTJjR2xIV21GaFFuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4YWJrNUtTMkZPY0ZKclgzVTJjR2xIV21GaFFuYxAB!2m1!1s0x3403fb002edd8e0d:0x901db33ab66d7624"
+      },
+      {
+        "name": "places/ChIJDY7dLgD7AzQRJHZttjqzHZA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WUE5XTkNObWsyUkRoR2FFZDNkbVJKV0dGYWFFRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "屯門區來講，最吸引的梳乎厘，味道唔錯，又唔會太多人",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "屯門區來講，最吸引的梳乎厘，味道唔錯，又唔會太多人",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Michael Fu",
+          "uri": "https://www.google.com/maps/contrib/100047487392336021966/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbcZRKCcKbKH3OoUoV6w1Ur74c5A72L6PMYDLVCiA39TbExPKM=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-12T15:38:59.629761227Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WUE5XTkNObWsyUkRoR2FFZDNkbVJKV0dGYWFFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WUE5XTkNObWsyUkRoR2FFZDNkbVJKV0dGYWFFRRAB!2m1!1s0x3403fb002edd8e0d:0x901db33ab66d7624"
+      },
+      {
+        "name": "places/ChIJDY7dLgD7AzQRJHZttjqzHZA/reviews/Ci9DQUlRQUNvZENodHljRjlvT214dU9EVXpVbEJmY1dWbWNHeDNiRFIzVGpGT05sRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "點了pancake和咖啡，味道不錯，賣相也漂亮，值得一試",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "點了pancake和咖啡，味道不錯，賣相也漂亮，值得一試",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alice C",
+          "uri": "https://www.google.com/maps/contrib/103857068083642084577/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBxVx21spUIHQSVxf0Zpdhg2KsTi3y991zJlYnLXL5xx6e9mmztw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-07-14T07:17:25.575515239Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214dU9EVXpVbEJmY1dWbWNHeDNiRFIzVGpGT05sRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214dU9EVXpVbEJmY1dWbWNHeDNiRFIzVGpGT05sRRAB!2m1!1s0x3403fb002edd8e0d:0x901db33ab66d7624"
+      },
+      {
+        "name": "places/ChIJDY7dLgD7AzQRJHZttjqzHZA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwWmRYTkNVWHB6ZVVRdE1UWkZRVGxPVm1WMk1uYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 1,
+        "text": {
+          "text": "落左order成30分鐘都未出餐\n只係叫份輕食啫\n又唔洗焗唔洗烤\n餐呢？",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "落左order成30分鐘都未出餐\n只係叫份輕食啫\n又唔洗焗唔洗烤\n餐呢？",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "夜鴉",
+          "uri": "https://www.google.com/maps/contrib/106328527456847492857/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIwf3FOEsAwnu6H2Q-e4VesGZ0MPevpaMJrxlAHxNIvmrUGZA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-01T06:54:38.393814431Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwWmRYTkNVWHB6ZVVRdE1UWkZRVGxPVm1WMk1uYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwWmRYTkNVWHB6ZVVRdE1UWkZRVGxPVm1WMk1uYxAB!2m1!1s0x3403fb002edd8e0d:0x901db33ab66d7624"
+      }
+    ],
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fb002edd8e0d:0x901db33ab66d7624!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10384653380536333860&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb002edd8e0d:0x901db33ab66d7624!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fb002edd8e0d:0x901db33ab66d7624!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb002edd8e0d:0x901db33ab66d7624!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJDY7dLgD7AzQRJHZttjqzHZA/photos/Aa-ngMbuRpDmPAq1e14jwUWCb3DNn-9ksPY4a1fTwy_vofzqiZp7XZbVG3dA81xruoAj5MUwR24NCrVn0sSEhWsUH7I_yH4TP5h0cRRntxCN9ePOttv_fJPujrB9ZDIuTVxRbfd_rrA3P6_SgpdmhPx0oDp6jmazn0DcEL7TKvOQwKJPgJrpljXS5ylWEl2kHMKd_sQ1yR3tAoZwUbev6xncLEdCV5F7sRzZiSGy6UGO2Xh0-eGM_22UiM7a8NWw29IcT8PvSWpP6hfVQ6SXpYBDuJzE3CZpZ9bzYXeFEXzqj6VBdMUUjUtEeszLPtIM_dBV6Os27PPFRb9mmfxupKK4zfwZxGIgM5tpfj6VAAEeTXc_FmP-ddHkATN6ubheQ_0MTh_-Kss-TD3S4THmVU5axd1WUT79lOpvUZwPObEPP9iL3A",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Alice C",
+          "uri": "https://maps.google.com/maps/contrib/103857068083642084577",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBxVx21spUIHQSVxf0Zpdhg2KsTi3y991zJlYnLXL5xx6e9mmztw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhChcX7QfpkrRA1iG58lWutd&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhChcX7QfpkrRA1iG58lWutd!2e10!4m2!3m1!1s0x3403fb002edd8e0d:0x901db33ab66d7624"
+    },
+    "local_path": "photos/ChIJDY7dLgD7AzQRJHZttjqzHZA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6UgAAJsRpFj_f9CIvX0TN3s6UxFyojAFwsNE93JiJ1JRge3aTGbhzOKrIoz2-cidj2hkul145d2-mHyKNoFbQPfLtWgk3q9oSyBbO33af-1hwSG-NpuE66muE_Lb1XDV5bRvRPkKUjBZM=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 127365
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

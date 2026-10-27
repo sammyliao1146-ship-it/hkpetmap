@@ -1,0 +1,398 @@
+{
+  "google_place_id": "ChIJJVuLEgD_AzQRGR7BoaAR2SM",
+  "restaurant_ids": [
+    "restaurant:2218807756"
+  ],
+  "fetched_at": "2026-10-23T15:44:39.668615+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJJVuLEgD_AzQRGR7BoaAR2SM",
+    "types": [
+      "japanese_izakaya_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9505 9692",
+    "internationalPhoneNumber": "+852 9505 9692",
+    "formattedAddress": "Shop G/F, 86 High St, Sai Ying Pun, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2851,
+      "longitude": 114.14103399999999
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=2583115242879917593&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.openrice.com/zh/hongkong/r-%E4%B9%9D%E9%AC%BC%E5%B1%85%E9%85%92%E5%B1%8B-%E8%A5%BF%E7%92%B0-%E6%97%A5%E6%9C%AC%E8%8F%9C-r791598",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 23:00",
+        "星期二: 12:00 – 15:00, 18:00 – 23:00",
+        "星期三: 12:00 – 15:00, 18:00 – 23:00",
+        "星期四: 12:00 – 15:00, 18:00 – 23:00",
+        "星期五: 12:00 – 15:00, 18:00 – 23:00",
+        "星期六: 12:00 – 15:00, 18:00 – 23:00",
+        "星期日: 12:00 – 15:00, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 109,
+    "displayName": {
+      "text": "九鬼居酒屋",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "居酒屋",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "japanese_izakaya_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJJVuLEgD_AzQRGR7BoaAR2SM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oT2NWbHBUbnBrYkVOMU5EUnFWRVEzTURWSlpYYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "前排同朋友黎到西環呢間隱世居酒屋，去到門口已經feel到嗰種日式居酒屋嘅氛圍🇯🇵整體性價比高👍🏻 呢度仲申請埋可以帶狗仔入內，對於一眾寵物家長嚟講，絕對係加分位！🐶\n\n坐低打開Menu，選擇多到眼花撩亂，最正緊係清酒任飲套餐🍶，酒鬼們一定嗌到回本！\n\n我哋叫咗個特上刺身盛，原來魚生都係日本空運到港，新鮮度真係冇得輸！今次主打鯛魚，三款全部厚切，入口鮮甜彈牙，魚味濃郁\n\n海膽吞拿魚蓉脆餅，脆卜卜嘅餅乾底，上面鋪滿鮮甜綿密嘅海膽同幼滑嘅吞拿魚蓉，口感層次豐富\n\n味醂雞泡魚乾係送酒恩物，燒到乾身但唔硬，味醂嘅甜香滲晒入去，越嚼越出味，配埋最鍾意嘅7年陳年釀製梅酒，真係絕配！🍶\n\n松葉蟹甲羅燒都係必點之一！蟹膏、蟹肉、蟹籽撈埋一齊，放上甲羅燒到微焦，撈勻之後搽上脆口餅乾一齊食，鹹香鮮甜集於一身，超級邪惡😈！\n\n另外日本兵庫縣燒蠔都係必點，蠔身脹卜卜，燒完仲保留到蠔汁，鮮甜無比。\n\n鵝肝和牛石鍋飯上枱嗰陣仲滋滋聲，飯面鋪滿和牛肉餅同厚切鵝肝🔥。和牛肉汁豐富，鵝肝入口即化，油脂滲晒入飯粒，仲有陣陣飯焦香\n\n串燒方面，岩手縣雞心燒得啱啱好，爽口彈牙；翠玉瓜就都正常發揮",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "前排同朋友黎到西環呢間隱世居酒屋，去到門口已經feel到嗰種日式居酒屋嘅氛圍🇯🇵整體性價比高👍🏻 呢度仲申請埋可以帶狗仔入內，對於一眾寵物家長嚟講，絕對係加分位！🐶\n\n坐低打開Menu，選擇多到眼花撩亂，最正緊係清酒任飲套餐🍶，酒鬼們一定嗌到回本！\n\n我哋叫咗個特上刺身盛，原來魚生都係日本空運到港，新鮮度真係冇得輸！今次主打鯛魚，三款全部厚切，入口鮮甜彈牙，魚味濃郁\n\n海膽吞拿魚蓉脆餅，脆卜卜嘅餅乾底，上面鋪滿鮮甜綿密嘅海膽同幼滑嘅吞拿魚蓉，口感層次豐富\n\n味醂雞泡魚乾係送酒恩物，燒到乾身但唔硬，味醂嘅甜香滲晒入去，越嚼越出味，配埋最鍾意嘅7年陳年釀製梅酒，真係絕配！🍶\n\n松葉蟹甲羅燒都係必點之一！蟹膏、蟹肉、蟹籽撈埋一齊，放上甲羅燒到微焦，撈勻之後搽上脆口餅乾一齊食，鹹香鮮甜集於一身，超級邪惡😈！\n\n另外日本兵庫縣燒蠔都係必點，蠔身脹卜卜，燒完仲保留到蠔汁，鮮甜無比。\n\n鵝肝和牛石鍋飯上枱嗰陣仲滋滋聲，飯面鋪滿和牛肉餅同厚切鵝肝🔥。和牛肉汁豐富，鵝肝入口即化，油脂滲晒入飯粒，仲有陣陣飯焦香\n\n串燒方面，岩手縣雞心燒得啱啱好，爽口彈牙；翠玉瓜就都正常發揮",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ken Ng",
+          "uri": "https://www.google.com/maps/contrib/115456616122561637594/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIcfOAbogdymZAPM5Rs8XWeuzlZ-CFlMLJOBDvQWxFq8gSabA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-22T00:53:15.801340224Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oT2NWbHBUbnBrYkVOMU5EUnFWRVEzTURWSlpYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oT2NWbHBUbnBrYkVOMU5EUnFWRVEzTURWSlpYYxAB!2m1!1s0x3403ff00128b5b25:0x23d911a0a1c11e19"
+      },
+      {
+        "name": "places/ChIJJVuLEgD_AzQRGR7BoaAR2SM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KbFVIbDRhVUZIVUV4bVdGUmhRV1pQTmpGUU4wRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "西營盤居酒屋夜食｜串燒＋海膽控會鍾意😋🍶\n\n呢間九鬼居酒屋食材新鮮，串燒火候掌握得好，出品穩定。由刺身、壽司卷到串燒都有，仲加咗Fusion元素，味道層次更豐富。環境走木系風格，暖黃燈光加吧台設計，有種日本小酒館感覺。\n\n———\n\n海膽吞拿魚太卷😋🍣\n海膽份量足，入口有海水鮮甜，吞拿魚軟嫩，飯卷口感紮實，有滿足感。\n\n海膽吞拿魚他他🍴\n海膽同吞拿魚拌埋一齊，口感細緻，味道偏清甜，食落清新。\n\n松葉蟹肉甲羅燒🦀🔥\n蟹肉加蟹膏一齊燒，香氣突出，帶少少鹹香，口感濃郁。\n\n———\n\n炸雞軟骨🍗\n外層脆身，入面帶點嚼勁，越食越有味。\n\n燒魷魚乾🦑\n微微焦香，帶鹹鮮味，適合配酒。\n\n———\n\n和牛肩胛🥩\n牛味突出，脂肪比例剛好，食落有肉汁感。\n\n大葱雞肉🍢\n雞肉嫩口，大葱帶甜，簡單好食。\n\n串燒雞皮🔥\n外層帶脆，油香突出，燒得夠火候。\n\n原條燒明太子🐟\n鹹香帶少少辣，口感實在，啱晒配酒。\n\n———\n\n鳳凰美田「初しぼり」昤酒藏🍶\n入口清爽，帶果香，配串燒同海產都夾。\n\n———\n\n另外有個抵食優惠👇\n\n📌星期一至四訂台（2人起）\n送唐揚魷魚／唐揚池魚仔／唐揚甜蝦／雞皮餃子（送酒肴一客）\n\n📌逢星期六至四\n凡惠顧清酒一支，全單八折",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西營盤居酒屋夜食｜串燒＋海膽控會鍾意😋🍶\n\n呢間九鬼居酒屋食材新鮮，串燒火候掌握得好，出品穩定。由刺身、壽司卷到串燒都有，仲加咗Fusion元素，味道層次更豐富。環境走木系風格，暖黃燈光加吧台設計，有種日本小酒館感覺。\n\n———\n\n海膽吞拿魚太卷😋🍣\n海膽份量足，入口有海水鮮甜，吞拿魚軟嫩，飯卷口感紮實，有滿足感。\n\n海膽吞拿魚他他🍴\n海膽同吞拿魚拌埋一齊，口感細緻，味道偏清甜，食落清新。\n\n松葉蟹肉甲羅燒🦀🔥\n蟹肉加蟹膏一齊燒，香氣突出，帶少少鹹香，口感濃郁。\n\n———\n\n炸雞軟骨🍗\n外層脆身，入面帶點嚼勁，越食越有味。\n\n燒魷魚乾🦑\n微微焦香，帶鹹鮮味，適合配酒。\n\n———\n\n和牛肩胛🥩\n牛味突出，脂肪比例剛好，食落有肉汁感。\n\n大葱雞肉🍢\n雞肉嫩口，大葱帶甜，簡單好食。\n\n串燒雞皮🔥\n外層帶脆，油香突出，燒得夠火候。\n\n原條燒明太子🐟\n鹹香帶少少辣，口感實在，啱晒配酒。\n\n———\n\n鳳凰美田「初しぼり」昤酒藏🍶\n入口清爽，帶果香，配串燒同海產都夾。\n\n———\n\n另外有個抵食優惠👇\n\n📌星期一至四訂台（2人起）\n送唐揚魷魚／唐揚池魚仔／唐揚甜蝦／雞皮餃子（送酒肴一客）\n\n📌逢星期六至四\n凡惠顧清酒一支，全單八折",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "VN Yip",
+          "uri": "https://www.google.com/maps/contrib/113082825426317297701/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBd5By3ihNAC5yPYe3lPFs0Hi6xMYtIKDknjtg1PfikGUmLBmQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-30T05:11:24.211862591Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KbFVIbDRhVUZIVUV4bVdGUmhRV1pQTmpGUU4wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KbFVIbDRhVUZIVUV4bVdGUmhRV1pQTmpGUU4wRRAB!2m1!1s0x3403ff00128b5b25:0x23d911a0a1c11e19"
+      },
+      {
+        "name": "places/ChIJJVuLEgD_AzQRGR7BoaAR2SM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RM2F6TnZURU5wTVdobWIwUnlWVEZyTWw5blpGRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Pet friendly restaurant! 好正！ 可以同毛孩一齊食飯， 食物又高質！ 又presentable 🩷\n\n特上刺身盛，用當日時令魚，(蓮子鯛，金目鯛，赤蝦)\n未食淨係望個光澤已經好吸引。每件都切得厚厚哋，2款魚清甜、爽口到油脂香都有\n\n海膽吞拿魚蓉脆餅咬落「卡嚓」一聲，上面嘅吞拿魚蓉滑到不得了，再加埋香甜海膽，一啖由脆變軟滑，成口都係鮮味。我同朋友食完第一件即刻望住對方：「呢個真係正喎！」🤤\n\n海鮮杯賣相精緻到忍唔住影多幾張，但絕對唔係得個樣。每一羹都舀到唔同海鮮，口感一層接一層，好似將成杯海鮮精華濃縮埋一齊，食到最後一啖都仲好有驚喜。\n\n然後全晚最震撼嘅九鬼海怪卷登場！一上枱已經明白點解叫「海怪」——海膽、貝柱、魷魚同魚子堆到滿晒，澎湃到幾乎睇唔到下面個卷。第一件我照樣成件塞入口，食相可能有啲失控，但個滿足感真係爆燈！魷魚煙韌、貝柱清甜、魚子卜卜脆，再加海膽嘅濃香幼滑，每一啖都超級熱鬧，完全係海鮮控嘅快樂。\n\n松葉蟹肉甲羅燒就係另一種享受。熱辣辣上枱，蟹香即刻湧出嚟，將蟹膏同蟹肉撈勻一齊食，又濃又香，慢慢品嚐特別有居酒屋感覺。食到呢度真係只差一杯清酒，下次一定要配埋一齊！\n\n成餐食完真係揀唔到最鍾意邊樣。硬要揀，我會投海怪卷同海膽吞拿魚蓉脆餅各一票，但刺身、甲羅燒同海鮮杯我全部都會再叫！下次一定要帶多幾個朋友嚟，Encore晒今次五款，再攻埋佢哋啲串燒！🔥",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Pet friendly restaurant! 好正！ 可以同毛孩一齊食飯， 食物又高質！ 又presentable 🩷\n\n特上刺身盛，用當日時令魚，(蓮子鯛，金目鯛，赤蝦)\n未食淨係望個光澤已經好吸引。每件都切得厚厚哋，2款魚清甜、爽口到油脂香都有\n\n海膽吞拿魚蓉脆餅咬落「卡嚓」一聲，上面嘅吞拿魚蓉滑到不得了，再加埋香甜海膽，一啖由脆變軟滑，成口都係鮮味。我同朋友食完第一件即刻望住對方：「呢個真係正喎！」🤤\n\n海鮮杯賣相精緻到忍唔住影多幾張，但絕對唔係得個樣。每一羹都舀到唔同海鮮，口感一層接一層，好似將成杯海鮮精華濃縮埋一齊，食到最後一啖都仲好有驚喜。\n\n然後全晚最震撼嘅九鬼海怪卷登場！一上枱已經明白點解叫「海怪」——海膽、貝柱、魷魚同魚子堆到滿晒，澎湃到幾乎睇唔到下面個卷。第一件我照樣成件塞入口，食相可能有啲失控，但個滿足感真係爆燈！魷魚煙韌、貝柱清甜、魚子卜卜脆，再加海膽嘅濃香幼滑，每一啖都超級熱鬧，完全係海鮮控嘅快樂。\n\n松葉蟹肉甲羅燒就係另一種享受。熱辣辣上枱，蟹香即刻湧出嚟，將蟹膏同蟹肉撈勻一齊食，又濃又香，慢慢品嚐特別有居酒屋感覺。食到呢度真係只差一杯清酒，下次一定要配埋一齊！\n\n成餐食完真係揀唔到最鍾意邊樣。硬要揀，我會投海怪卷同海膽吞拿魚蓉脆餅各一票，但刺身、甲羅燒同海鮮杯我全部都會再叫！下次一定要帶多幾個朋友嚟，Encore晒今次五款，再攻埋佢哋啲串燒！🔥",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lyra ng",
+          "uri": "https://www.google.com/maps/contrib/114367851516876422943/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzii1_0i7pEGJh5klHAJdD4x1NLLlW6mTmEifW-EC4dUeI5g=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-16T01:54:08.329218526Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RM2F6TnZURU5wTVdobWIwUnlWVEZyTWw5blpGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RM2F6TnZURU5wTVdobWIwUnlWVEZyTWw5blpGRRAB!2m1!1s0x3403ff00128b5b25:0x23d911a0a1c11e19"
+      },
+      {
+        "name": "places/ChIJJVuLEgD_AzQRGR7BoaAR2SM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWNGVVWktWeTFRVVUxdGVWRlFTMWxTYmtsV1dIYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "行行吓西環海旁，突然之間好想食壽司，就去咗呢間居酒屋，個裝修都有feel嘅～佢哋有清酒任飲 $298 全晚任飲，又幾抵🍶\n\n✨極尚壽司盛（12件） $598\n佢哋嘅壽司都幾新鮮，而且大大件，每舊都好厚切。🍣有海膽、大拖羅、油甘魚、磯煮鮑魚、三文魚、帆立貝、火炙左口魚、穴子、三文魚籽，及三款時令魚。\n\n❇️海老三重奏 $138\n賣相吸引而且好足料，卷物包住香濃蝦膏，上面放咗甜蝦，頂層鋪滿大量香口櫻花蝦，一次過試到三重口感！\n\n❇️燒山口縣地雞 $68\n山口縣地雞肉質緊致，而且脂肪帶有清甜味，燒得啱啱好，唔會過熟。\n\n❇️鹽燒山椒白鱔 $78\n皮脆肉彈牙，但就唔係好食得出有山椒味。\n\n❇️香煎利久牛舌 $68\n有少少失望，唔係我期待嘅炭燒利久牛舌，完全係同利久牛舌冇任何關係。呢碟口感偏軟腍，但調味就好豐富。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "行行吓西環海旁，突然之間好想食壽司，就去咗呢間居酒屋，個裝修都有feel嘅～佢哋有清酒任飲 $298 全晚任飲，又幾抵🍶\n\n✨極尚壽司盛（12件） $598\n佢哋嘅壽司都幾新鮮，而且大大件，每舊都好厚切。🍣有海膽、大拖羅、油甘魚、磯煮鮑魚、三文魚、帆立貝、火炙左口魚、穴子、三文魚籽，及三款時令魚。\n\n❇️海老三重奏 $138\n賣相吸引而且好足料，卷物包住香濃蝦膏，上面放咗甜蝦，頂層鋪滿大量香口櫻花蝦，一次過試到三重口感！\n\n❇️燒山口縣地雞 $68\n山口縣地雞肉質緊致，而且脂肪帶有清甜味，燒得啱啱好，唔會過熟。\n\n❇️鹽燒山椒白鱔 $78\n皮脆肉彈牙，但就唔係好食得出有山椒味。\n\n❇️香煎利久牛舌 $68\n有少少失望，唔係我期待嘅炭燒利久牛舌，完全係同利久牛舌冇任何關係。呢碟口感偏軟腍，但調味就好豐富。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Li Athena",
+          "uri": "https://www.google.com/maps/contrib/114613228898494091298/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-WRCVbXOQ2sYka1Vr4gm7JpUUF-kmEGu4Un3Ah4_byqfNxVQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-22T14:28:07.687493891Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWNGVVWktWeTFRVVUxdGVWRlFTMWxTYmtsV1dIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWNGVVWktWeTFRVVUxdGVWRlFTMWxTYmtsV1dIYxAB!2m1!1s0x3403ff00128b5b25:0x23d911a0a1c11e19"
+      },
+      {
+        "name": "places/ChIJJVuLEgD_AzQRGR7BoaAR2SM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kT1p6aHlhek5JWkdsdGJHeFViVmhLUm01b2NtYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "日式戶外庭園，瞬間去旅行\n\n最近工作壓力大，成日想飛轉日本抖下氣，但係又冇假😮‍💨 好彩俾我發現西環呢間 九鬼居酒屋，真係入到去就有種「去咗旅行」嘅感覺🇯🇵\n\n餐廳有個戶外座位區，對住個日式庭院，夜晚涼風吹吓，望住啲園林景致，成個感覺即刻勁chill🍃 好適合放工嚟relax下，或者同朋友傾計聚會👫\n\n講返嘢食，今次試咗幾樣都幾有驚喜✨：\n\n1. 海膽吞拿魚他他：呢道菜真係有驚喜！海膽嘅鮮甜配上軟滑嘅吞拿魚蓉，口感層次豐富，兩種鮮味喺口腔入面爆發🤤 係必點之選！\n2. 海老三重奏：作為蝦控一定要叫！一次過可以試勻櫻花蝦同甜蝦🦐 櫻花蝦嘅鹹香酥脆，配上甜蝦嘅軟糯鮮甜，味道同口感都配合得恰到好處，非常出色！\n3. 芝士年糕：呢個係我嘅私心推介💕 即叫即製，燒到外脆內軟，入面嘅芝士軟心熱辣辣🧀 再淋上日式照燒汁同埋用紫菜夾住食，鹹鹹甜甜，配搭一流，忍唔住食完一件再想食多件！\n4. 串燒：呢度仲有多款串燒選擇，燒得夠香口，又唔會乾爭爭🔥 好適合配返杯酒慢慢歎🍻 同朋友邊食邊傾就最啱！\n\n總括嚟講，九鬼居酒屋無論係環境定係食物質素都令人滿意👍 尤其係個戶外庭院位，真係有令人放鬆嘅魔力💫 想搵個地方暫時逃離城市煩囂，感受一下日本風情，呢度係一個唔錯嘅選擇🥂",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "日式戶外庭園，瞬間去旅行\n\n最近工作壓力大，成日想飛轉日本抖下氣，但係又冇假😮‍💨 好彩俾我發現西環呢間 九鬼居酒屋，真係入到去就有種「去咗旅行」嘅感覺🇯🇵\n\n餐廳有個戶外座位區，對住個日式庭院，夜晚涼風吹吓，望住啲園林景致，成個感覺即刻勁chill🍃 好適合放工嚟relax下，或者同朋友傾計聚會👫\n\n講返嘢食，今次試咗幾樣都幾有驚喜✨：\n\n1. 海膽吞拿魚他他：呢道菜真係有驚喜！海膽嘅鮮甜配上軟滑嘅吞拿魚蓉，口感層次豐富，兩種鮮味喺口腔入面爆發🤤 係必點之選！\n2. 海老三重奏：作為蝦控一定要叫！一次過可以試勻櫻花蝦同甜蝦🦐 櫻花蝦嘅鹹香酥脆，配上甜蝦嘅軟糯鮮甜，味道同口感都配合得恰到好處，非常出色！\n3. 芝士年糕：呢個係我嘅私心推介💕 即叫即製，燒到外脆內軟，入面嘅芝士軟心熱辣辣🧀 再淋上日式照燒汁同埋用紫菜夾住食，鹹鹹甜甜，配搭一流，忍唔住食完一件再想食多件！\n4. 串燒：呢度仲有多款串燒選擇，燒得夠香口，又唔會乾爭爭🔥 好適合配返杯酒慢慢歎🍻 同朋友邊食邊傾就最啱！\n\n總括嚟講，九鬼居酒屋無論係環境定係食物質素都令人滿意👍 尤其係個戶外庭院位，真係有令人放鬆嘅魔力💫 想搵個地方暫時逃離城市煩囂，感受一下日本風情，呢度係一個唔錯嘅選擇🥂",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hami_mama",
+          "uri": "https://www.google.com/maps/contrib/108225421854040142921/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWucFF9L1_PdizKMQIiPoNuAAXE9Yrcq7mcfnDD15D3xw5kx_Y=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-01T10:46:03.709042970Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kT1p6aHlhek5JWkdsdGJHeFViVmhLUm01b2NtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kT1p6aHlhek5JWkdsdGJHeFViVmhLUm01b2NtYxAB!2m1!1s0x3403ff00128b5b25:0x23d911a0a1c11e19"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff00128b5b25:0x23d911a0a1c11e19!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2583115242879917593&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff00128b5b25:0x23d911a0a1c11e19!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff00128b5b25:0x23d911a0a1c11e19!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff00128b5b25:0x23d911a0a1c11e19!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJJVuLEgD_AzQRGR7BoaAR2SM/photos/Aa-ngMZflcWyrbFYHsTN2dsvMnSwA6yS47L1Y_VU0QUh-Bvp9IJ73oj9z6p9fqKVK5nb3LAum4ZR4rVBQD9TKYyTmfuFKOSkkEL7dY5_YTz8u9gOFhO7P2yoL6gF7YP6e_uUSYQiBzzdC-_ys2NB-Y6Qtw7CcxEnxuw_wdY1RZIeFV_TCvLoqvljQ-dCNvPxI5F2WKjSedN-fzqd3c09OemuwXkb6sdjE2oLmgKKTNb6eZAbTFHufI82K482aimseJz23BTCVXCkeGpjAaU2ug3Ul76w0EVhU8NS6491MdhEVFsTRA7nKtvznTG_wK-ieN0SZaj1qjr5rPbqhYirH-lOaY962Q_hKj5gpLgy1O1iEm5TyoQFfrwJ_PtkbOfLMmpGEVehrcjtFvZnF9UWm76SpIPXMHnl",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "九鬼居酒屋",
+          "uri": "https://maps.google.com/maps/contrib/110405796952060510190",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK0vLWTDb1aRLtDAzeK25nfihGPsEIjNk4UDuW9vpMY1dBSXw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID3nOvM9wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3nOvM9wE!2e10!4m2!3m1!1s0x3403ff00128b5b25:0x23d911a0a1c11e19"
+    },
+    "local_path": "photos/ChIJJVuLEgD_AzQRGR7BoaAR2SM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEfq1B7Fs3jX75l9T5M46DD2nrH6zpYiLkAdxLQfdYPZ07-7bHy0rJ3yBP0GI8zSp4wX5-OpaZAAwKEuDZsAf9tUf8JQkVPzEIjt_G1DXKc_BxdfS8T2aByHdz7VIQnClyA61F=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 125746
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_izakaya_restaurant",
+    "label": "居酒屋",
+    "types": [
+      "japanese_izakaya_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

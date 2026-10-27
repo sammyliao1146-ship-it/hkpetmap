@@ -1,0 +1,412 @@
+{
+  "google_place_id": "ChIJS4J3Qu4ABDQR0w1X9YShmx4",
+  "restaurant_ids": [
+    "restaurant:2261236800"
+  ],
+  "fetched_at": "2026-10-23T15:37:50.871003+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJS4J3Qu4ABDQR0w1X9YShmx4",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3426 9960",
+    "internationalPhoneNumber": "+852 3426 9960",
+    "formattedAddress": "香港九龍尖沙咀寶勒巷26-36號尖沙咀寶勒巷26-36號華寶大廈地下1-4號舖",
+    "location": {
+      "latitude": 22.29882,
+      "longitude": 114.175158
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=2205534034951867859&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 14:30, 18:00 – 00:00",
+        "星期二: 12:00 – 14:30, 18:00 – 00:00",
+        "星期三: 12:00 – 14:30, 18:00 – 00:00",
+        "星期四: 12:00 – 14:30, 18:00 – 00:00",
+        "星期五: 12:00 – 14:30, 18:00 – 00:00",
+        "星期六: 12:00 – 14:30, 18:00 – 00:00",
+        "星期日: 12:00 – 14:30, 18:00 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 229,
+    "displayName": {
+      "text": "八海山日本料理",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJS4J3Qu4ABDQR0w1X9YShmx4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Cd1ZHSnhRbDlTY0d4S1VrUktWV1JKTnpoVldsRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "【八海山】開業23周年優惠，酒鬼一定要mark低！🎉\n今次去到真係食得開心又飲得盡興：**3小時酒水任飲**，配埋傳統日本家庭料理，難怪有「日本人飯堂」之稱。\n\n食評重點：**刺身拼盤**夠新鮮、油脂分佈靚；**串燒**燒得香口多汁，啤酒一流；**壽喜燒**湯底甜香，肉片蘸蛋滑到不得了。最後仲**請我哋食雪糕**，完美收尾！\n\n**任飲優惠：**\n- 北海道札幌生啤：$100／3小時任飲\n- 日本清酒：$188／3小時任飲（20款以上）\n\n#八海山 #居酒屋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "【八海山】開業23周年優惠，酒鬼一定要mark低！🎉\n今次去到真係食得開心又飲得盡興：**3小時酒水任飲**，配埋傳統日本家庭料理，難怪有「日本人飯堂」之稱。\n\n食評重點：**刺身拼盤**夠新鮮、油脂分佈靚；**串燒**燒得香口多汁，啤酒一流；**壽喜燒**湯底甜香，肉片蘸蛋滑到不得了。最後仲**請我哋食雪糕**，完美收尾！\n\n**任飲優惠：**\n- 北海道札幌生啤：$100／3小時任飲\n- 日本清酒：$188／3小時任飲（20款以上）\n\n#八海山 #居酒屋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Terry Chiu",
+          "uri": "https://www.google.com/maps/contrib/117288489140114606247/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ280CPhAc4_9_x7kZ9iL0kJHiBwYuZislU4YYfkPGTuejUkg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-12T15:59:03.884055032Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Cd1ZHSnhRbDlTY0d4S1VrUktWV1JKTnpoVldsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Cd1ZHSnhRbDlTY0d4S1VrUktWV1JKTnpoVldsRRAB!2m1!1s0x340400ee4277824b:0x1e9ba184f5570dd3"
+      },
+      {
+        "name": "places/ChIJS4J3Qu4ABDQR0w1X9YShmx4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNMmVYUmFNa3RRWlVwdmREVXllVzVoWHpSTVFrRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "經過呢間好多次..\n原來早於沙士前已經開業😳\n已經有20幾年歷史❗️\n一入門口見到好壯觀嘅客人存酒🍶\n估唔到喺度搵到🔥大熱左口魚煲仔飯\n撈埋蛋汁一齊食 入口即溶 好邪惡🤩\n比較少見配搭 金蠔鮑魚煲仔飯🥄仲有和牛鰻魚飯🥩\n超抵😳$188任飲清酒3小時❗️\n有20幾款清酒任飲🍶壽星仔女🎂仲可以免費請你飲\n清酒種類絕對唔Hea！當中仲有大熱品牌清酒😯\n另外有多款助酒小食、串燒、燒物\n必試招牌明太子玉子燒🧡燒喜知次都好抵食🐟\n刺身拼盤都好新鮮 半價食埋高質🍣手握壽司拼盤🥢\n仲有可以容納10幾人超大行政房 同三間房間包房～\n聚會或慶祝多人行唔錯嘅選擇🎂",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "經過呢間好多次..\n原來早於沙士前已經開業😳\n已經有20幾年歷史❗️\n一入門口見到好壯觀嘅客人存酒🍶\n估唔到喺度搵到🔥大熱左口魚煲仔飯\n撈埋蛋汁一齊食 入口即溶 好邪惡🤩\n比較少見配搭 金蠔鮑魚煲仔飯🥄仲有和牛鰻魚飯🥩\n超抵😳$188任飲清酒3小時❗️\n有20幾款清酒任飲🍶壽星仔女🎂仲可以免費請你飲\n清酒種類絕對唔Hea！當中仲有大熱品牌清酒😯\n另外有多款助酒小食、串燒、燒物\n必試招牌明太子玉子燒🧡燒喜知次都好抵食🐟\n刺身拼盤都好新鮮 半價食埋高質🍣手握壽司拼盤🥢\n仲有可以容納10幾人超大行政房 同三間房間包房～\n聚會或慶祝多人行唔錯嘅選擇🎂",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Y L",
+          "uri": "https://www.google.com/maps/contrib/118353395646626947134/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtK0HOauZR8IRnZordyiR6Td35diEujKSaqEQc-ElUuf8lsQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-08T06:06:52.774749952Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNMmVYUmFNa3RRWlVwdmREVXllVzVoWHpSTVFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNMmVYUmFNa3RRWlVwdmREVXllVzVoWHpSTVFrRRAB!2m1!1s0x340400ee4277824b:0x1e9ba184f5570dd3"
+      },
+      {
+        "name": "places/ChIJS4J3Qu4ABDQR0w1X9YShmx4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOWU1ISm9YMlpsTWxrdFZFUTBVRXRHYmpKVFFYYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "依家做緊3小時酒水任飲優惠\n北海道札幌生啤（$100）\n日本清酒放題（$188）一超過20款不同清酒任你試\n\n壽喜燒鍋 ：熱辣辣上枱，牛肉嫩滑、配料豐富，有蒟蒻粉絲、娃娃菜、金菇等，Low carb 份量都好夠飽\n\n刺身拼盤：超新鮮厚切，包括三文魚、油甘魚、吞拿魚、海膽、帆立貝、海老等\n\n炸池魚：外皮炸到金黃香脆，內裡魚肉嫩滑，無骨啖啖香脆可口，配杯清酒一流！\n\n牛油板燒帆立貝：香濃牛油味滲入厚厚嘅帆立貝，煎得啱啱好，肉質彈牙鮮甜！\n\n最後仲送咗球黑芝麻雪糕俾我哋做飯後甜品之選，濃郁芝麻香，唔會太甜，完美收尾！\n\n當日都見到唔少居港日本人會嚟幫襯，餐牌主打傳統家庭料理，不過比起食材用料，價錢略高但如果想搵間港式日系居酒屋風格，同朋友 Chill 住傾偈飲返杯就好啱嘅，侍應都好親切，好貼心。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "依家做緊3小時酒水任飲優惠\n北海道札幌生啤（$100）\n日本清酒放題（$188）一超過20款不同清酒任你試\n\n壽喜燒鍋 ：熱辣辣上枱，牛肉嫩滑、配料豐富，有蒟蒻粉絲、娃娃菜、金菇等，Low carb 份量都好夠飽\n\n刺身拼盤：超新鮮厚切，包括三文魚、油甘魚、吞拿魚、海膽、帆立貝、海老等\n\n炸池魚：外皮炸到金黃香脆，內裡魚肉嫩滑，無骨啖啖香脆可口，配杯清酒一流！\n\n牛油板燒帆立貝：香濃牛油味滲入厚厚嘅帆立貝，煎得啱啱好，肉質彈牙鮮甜！\n\n最後仲送咗球黑芝麻雪糕俾我哋做飯後甜品之選，濃郁芝麻香，唔會太甜，完美收尾！\n\n當日都見到唔少居港日本人會嚟幫襯，餐牌主打傳統家庭料理，不過比起食材用料，價錢略高但如果想搵間港式日系居酒屋風格，同朋友 Chill 住傾偈飲返杯就好啱嘅，侍應都好親切，好貼心。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Vonnabe Foodie",
+          "uri": "https://www.google.com/maps/contrib/117582999986919660523/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLmOlSxUeUT0y6HKdnGMdXzrPLuvrh_PxhgWGWZwH95ZuNTUg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-11-20T15:31:24.197679574Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOWU1ISm9YMlpsTWxrdFZFUTBVRXRHYmpKVFFYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOWU1ISm9YMlpsTWxrdFZFUTBVRXRHYmpKVFFYYxAB!2m1!1s0x340400ee4277824b:0x1e9ba184f5570dd3"
+      },
+      {
+        "name": "places/ChIJS4J3Qu4ABDQR0w1X9YShmx4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zdGVYWnlZVFZwWmxSWVYyeHVjbFJNWTI1MUxYYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢個刺身拼盤，新鮮亮澤，刀工細緻，入口冰涼細嫩，魚脂滑順，帶出最純粹的原味。日式肥牛鍋物香氣誘人，湯底香甜濃郁，肥牛片薄如紙，一涮即熟，肉香與蔬菜完美融合。帶子牛油燒，牛油香濃，帶子外焦內嫩，鮮味在口中綻放。日式炸雞外皮酥脆，肉質多汁。牛油果軟殼蟹卷則氣味清新，蟹香伴著軟糯的牛油果🥑，層次豐富。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢個刺身拼盤，新鮮亮澤，刀工細緻，入口冰涼細嫩，魚脂滑順，帶出最純粹的原味。日式肥牛鍋物香氣誘人，湯底香甜濃郁，肥牛片薄如紙，一涮即熟，肉香與蔬菜完美融合。帶子牛油燒，牛油香濃，帶子外焦內嫩，鮮味在口中綻放。日式炸雞外皮酥脆，肉質多汁。牛油果軟殼蟹卷則氣味清新，蟹香伴著軟糯的牛油果🥑，層次豐富。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ping T",
+          "uri": "https://www.google.com/maps/contrib/115319546685706545526/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIkI1hCFFAqOmWoETmHuzvHl7SF4VuoAyA-FYyQeDYDmDhirg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-01-16T08:22:19.580087975Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zdGVYWnlZVFZwWmxSWVYyeHVjbFJNWTI1MUxYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zdGVYWnlZVFZwWmxSWVYyeHVjbFJNWTI1MUxYYxAB!2m1!1s0x340400ee4277824b:0x1e9ba184f5570dd3"
+      },
+      {
+        "name": "places/ChIJS4J3Qu4ABDQR0w1X9YShmx4/reviews/Ci9DQUlRQUNvZENodHljRjlvT205SllrRnFXbEZRTjFOcldsTktSM0p2ZUdsVWFYYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這一間日本餐廳都開業好耐時間，次次都見到好多日本人幫襯，相信係呢個附近嘅日本人飯堂，今次係比$100任飲三個鐘啤酒吸引咗，性價比真係好高，刺身和串燒質素唔錯，串燒真係做到日本居酒屋嗰種感覺，特別係雞軟骨和大葉免治雞肉串，環境氣氛都唔錯，如果有優惠好值得",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這一間日本餐廳都開業好耐時間，次次都見到好多日本人幫襯，相信係呢個附近嘅日本人飯堂，今次係比$100任飲三個鐘啤酒吸引咗，性價比真係好高，刺身和串燒質素唔錯，串燒真係做到日本居酒屋嗰種感覺，特別係雞軟骨和大葉免治雞肉串，環境氣氛都唔錯，如果有優惠好值得",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eat Hkgirls",
+          "uri": "https://www.google.com/maps/contrib/108113910016756738162/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKGhY5f3p_VcVMky8a7FYct-VkJWcWmVPoiQyxRvgl5wOqT-Q=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-01-27T01:13:59.694540626Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205SllrRnFXbEZRTjFOcldsTktSM0p2ZUdsVWFYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205SllrRnFXbEZRTjFOcldsTktSM0p2ZUdsVWFYYxAB!2m1!1s0x340400ee4277824b:0x1e9ba184f5570dd3"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400ee4277824b:0x1e9ba184f5570dd3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2205534034951867859&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ee4277824b:0x1e9ba184f5570dd3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400ee4277824b:0x1e9ba184f5570dd3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ee4277824b:0x1e9ba184f5570dd3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "450"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJS4J3Qu4ABDQR0w1X9YShmx4/photos/Aa-ngMY1JIc_OzZTMx_ktLkCdtdwWLOw1upoA6_bW7b5SbufrUuTIunXMz4Epdm5hG_4MYgHd5QlOSoTl7z1D0fxBYWpfzYuzUQAf2WVXkY6hWzyB_hRhOWjDbl4PiDYUcZ4RMCkey5lwEaTbYCGZ9Ki95liT4bq1O40pHC_P27nbpcl45P9DWqhbTGi5KAsq8IuHg7_5GCATyKxbYXLcqphpCi-iiqtcwdDplrmmkzEwl_eK0cTP10jnl_6F-J-4PFzax1xzg3buZt-kFGLacYoSoddg1YHofM75lli0tiYQiV5S1K3dJrzr42dmBedrql4NVtkBcxVIDR4MpHbxuv7qxN6HMQJgrFmKFBePSzoOaSY3CUwA1-9-qeQe8KKMK8DoAlMauK5NgPUVYuezSnaL7rzGNE",
+      "widthPx": 4656,
+      "heightPx": 2620,
+      "authorAttributions": [
+        {
+          "displayName": "J- Gm",
+          "uri": "https://maps.google.com/maps/contrib/105422542765530015712",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkYAp1TG7JWna0q8MPA1Ralw9oSemvdlU5zTypN5QiF3CTdR65=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4ip7WBQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4ip7WBQ!2e10!4m2!3m1!1s0x340400ee4277824b:0x1e9ba184f5570dd3"
+    },
+    "local_path": "photos/ChIJS4J3Qu4ABDQR0w1X9YShmx4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7WmhFBDenyG3pqNz_tPYTwS40Xdimnw8y6DUNJyTb7J-D38myDET-ZKoPMXcNqW8wWZBnsmScnEK6BQvF_byGs0NOio0NSZ9HQQImB-M8nKySces9Cry6C2SWazG90voiEF82=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 111996
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

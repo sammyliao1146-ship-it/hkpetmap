@@ -1,0 +1,39 @@
+{
+  "id": "ChIJAR0OyXiqBjQR2FgiVExIrG8",
+  "types": [
+    "shopping_mall",
+    "real_estate_agency",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島淺水灣海灘道28號",
+  "location": {
+    "latitude": 22.2353891,
+    "longitude": 114.1982467
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8046886126870485208&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "The Pulse",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "shopping_mall",
+  "photos": [
+    {
+      "name": "places/ChIJAR0OyXiqBjQR2FgiVExIrG8/photos/Aa-ngMbEcsLcYLnRwVNg7LcFvgoym9xYiBYGy6285RX_VOuVOno_d5GrAgElM_hPJ0Cdmri2o4bw4_srJwxIktu391iFS5wEvjFyBOFOUqPWbp4aeSMtbzLfvqgmzaesIuJK5txie-5hZa9jsObLXekzQM-EOsFRj361YMOdWSl_A4Q51jPfLSuUBupoFhaF0rsgGoZaokIonbZzHKsci54mX5qg6nyMcpYIbEPNo6WGF9NdsBOOYUQI2CO7QdAp8PFeF0YGsBQaMGprWKB4GffcQ6z88ZbKAU_RIN8C_xaih2z2_V6MSQO7bxP2YbcVAqX9ElqkUPAfoJBwg7YWMxtQVgkvFM4eBNOmNVb02XaCZ-VFqf7mCLFEABfFRwXH9EyozE3MnJhzr_39wVsuyTEHLvq5zmM",
+      "widthPx": 1280,
+      "heightPx": 1280,
+      "authorAttributions": [
+        {
+          "displayName": "Alejandro Jones",
+          "uri": "https://maps.google.com/maps/contrib/113282898525326360793",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3z2GBh7vRj3jwtCUGCJUn47J1r9vw8RlfV8XDTAXBMjaOv8U7=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEzc_Hfg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEzc_Hfg!2e10!4m2!3m1!1s0x3406aa78c90e1d01:0x6fac484c542258d8"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:58.605914+00:00"
+}

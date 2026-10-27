@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJNyoHB0kBBDQRH-J2Guql4IE",
+  "restaurant_ids": [
+    "restaurant:2261822625"
+  ],
+  "fetched_at": "2026-10-23T15:51:27.702853+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJNyoHB0kBBDQRH-J2Guql4IE",
+    "types": [
+      "tonkatsu_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2331 3822",
+    "internationalPhoneNumber": "+852 2331 3822",
+    "formattedAddress": "Shop 1002, 1/F, 1 Austin Rd W, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.303072,
+      "longitude": 114.1629461
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=9358662450560819743&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tastegourmet.co/en_US/restaurant/20/Tsukanto",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 312,
+    "displayName": {
+      "text": "豚勝 (尖沙咀圓方)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式炸豬排餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "tonkatsu_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJNyoHB0kBBDQRH-J2Guql4IE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taNVJXUjFTbVJEVkdneWJYWkJWakp3TFd4a2FIYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "食物美味，服務周到。但上月在此吃完晚飯，凌晨即開始胃脹、胃痛、反胃、發燒，懷疑是買一贈一啤酒不新鮮引發急性胃炎。難以相信這是人均300元餐廳的食安水準…",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物美味，服務周到。但上月在此吃完晚飯，凌晨即開始胃脹、胃痛、反胃、發燒，懷疑是買一贈一啤酒不新鮮引發急性胃炎。難以相信這是人均300元餐廳的食安水準…",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jeffrey Yuan",
+          "uri": "https://www.google.com/maps/contrib/113504317470336920527/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKTg3ko23VqucprrX3MVDgqgoHKmkBGstDn-AztlaB57WUpm7Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-10-08T15:02:36.962996275Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taNVJXUjFTbVJEVkdneWJYWkJWakp3TFd4a2FIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taNVJXUjFTbVJEVkdneWJYWkJWakp3TFd4a2FIYxAB!2m1!1s0x3404014907072a37:0x81e0a5ea1a76e21f"
+      },
+      {
+        "name": "places/ChIJNyoHB0kBBDQRH-J2Guql4IE/reviews/Ci9DQUlRQUNvZENodHljRjlvT201UU1sWjVielpvVjJ0MlpVSlBabXBuTURKU2EwRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "點了北海道限定的豬排套餐\n多汁鮮甜且沒有腥味，很好吃\n醃菜很解膩，味噌湯裡還有顆大蛤蠣\n中午套餐加點小食有50%折扣，豆腐還不錯\n飯和蔬菜可以一直續，吃的很飽很滿足🥰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "點了北海道限定的豬排套餐\n多汁鮮甜且沒有腥味，很好吃\n醃菜很解膩，味噌湯裡還有顆大蛤蠣\n中午套餐加點小食有50%折扣，豆腐還不錯\n飯和蔬菜可以一直續，吃的很飽很滿足🥰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gillian Wang",
+          "uri": "https://www.google.com/maps/contrib/109184878919115011631/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6u1mu8-6kKgcH4fV7_B9Ajt51BO71KzS1GavHiZ0eBTCRRb0J=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-01-08T04:23:01.269873269Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201UU1sWjVielpvVjJ0MlpVSlBabXBuTURKU2EwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201UU1sWjVielpvVjJ0MlpVSlBabXBuTURKU2EwRRAB!2m1!1s0x3404014907072a37:0x81e0a5ea1a76e21f"
+      },
+      {
+        "name": "places/ChIJNyoHB0kBBDQRH-J2Guql4IE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxRU1FOVJaekZEVG05UGJWQnBaREZ6WVRCeFMwRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "我哋一家去完永明big bounce, 剛好見倒就試吓，座位舒服，又有兒童餐，正！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我哋一家去完永明big bounce, 剛好見倒就試吓，座位舒服，又有兒童餐，正！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "TERRY WONG",
+          "uri": "https://www.google.com/maps/contrib/104486144691722829105/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUklcm0UI7yFBBf1O8Ld_-MAI3b4DXsVkjuouG56DWazfmA9a4x=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-14T10:52:02.392672955Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxRU1FOVJaekZEVG05UGJWQnBaREZ6WVRCeFMwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxRU1FOVJaekZEVG05UGJWQnBaREZ6WVRCeFMwRRAB!2m1!1s0x3404014907072a37:0x81e0a5ea1a76e21f"
+      },
+      {
+        "name": "places/ChIJNyoHB0kBBDQRH-J2Guql4IE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNeE1YRnZhbkZ5UjFKQ1gyaHNhbTkwWVdoclFtYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "豚勝@Elements\n期間限定松阪豚套餐，肉質鮮嫩配特製醬汁，跟平常一般炸豚不一樣，一定要嚟試吓😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "豚勝@Elements\n期間限定松阪豚套餐，肉質鮮嫩配特製醬汁，跟平常一般炸豚不一樣，一定要嚟試吓😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pippy Koo",
+          "uri": "https://www.google.com/maps/contrib/114471676517185754291/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAgjNXs4U-KC_fQcZj8sZ0qEZXqewX4QEFPpT3BiZxAyFrKA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-24T04:43:39.739183208Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xNeE1YRnZhbkZ5UjFKQ1gyaHNhbTkwWVdoclFtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNeE1YRnZhbkZ5UjFKQ1gyaHNhbTkwWVdoclFtYxAB!2m1!1s0x3404014907072a37:0x81e0a5ea1a76e21f"
+      },
+      {
+        "name": "places/ChIJNyoHB0kBBDQRH-J2Guql4IE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJM01Xc3lielZqTURCRmRGZElWRFppYWs1Qk5WRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "份量多，豬扒新鮮即叫即炸。員工服務態度好。環境整潔。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "份量多，豬扒新鮮即叫即炸。員工服務態度好。環境整潔。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sugar azuki",
+          "uri": "https://www.google.com/maps/contrib/111918691966997099903/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCtWsYQgKHumf6QEBYe_3ya7aryQWewc-sT3yckGykaGM8tlI=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-04T11:14:09.871332100Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pJM01Xc3lielZqTURCRmRGZElWRFppYWs1Qk5WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJM01Xc3lielZqTURCRmRGZElWRFppYWs1Qk5WRRAB!2m1!1s0x3404014907072a37:0x81e0a5ea1a76e21f"
+      }
+    ],
+    "menuForChildren": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404014907072a37:0x81e0a5ea1a76e21f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9358662450560819743&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014907072a37:0x81e0a5ea1a76e21f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404014907072a37:0x81e0a5ea1a76e21f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014907072a37:0x81e0a5ea1a76e21f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJNyoHB0kBBDQRH-J2Guql4IE/photos/Aa-ngMYWeFiaIWoL68aFKGQxVnisth45VuEd55xBNOjjAIfp7bvtJx2xphKrQriV8KeJ1gqo2ZUZaLBE_3ZYII_uTmJzYBSv1BytIdviiPUDb02ffiPdEsdosj5PwAJduQSFqGMxVNwoixCJOMTkfCVLi-MqhZdhftTaiyRmMhn9HEo-uEG4t0i-NvQ3p6U_HBuX0kc8bzVYmy-6__-VeO2KUsviVhaRZpBq533curlOJXBra2SiV1RJwmzk14gl7k9hMX1DHTJecuLBFXHUhKzF5XqPbVyRfEZDpTOm2gSs7jGLEY-CJPyatOpf-ul8wbbOLcEa3DzraJ9VKaDZ785202mhy_iAVuAPGfuSikzb7bwq8PNd8MsHdRAWjWzFwfMKQKg5a5yNsoldNEkBDb168xAz3pDP1wxoJ3kQEiyWMRVGhA",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "豚勝 (尖沙咀圓方)",
+          "uri": "https://maps.google.com/maps/contrib/116440720524412319885",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIMTc6r34nzRogDLdq-GtlUf--k9L-HShwVVYlato-a2kmVM0=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC2WCJGUu-FXegIsAjJ7exH&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC2WCJGUu-FXegIsAjJ7exH!2e10!4m2!3m1!1s0x3404014907072a37:0x81e0a5ea1a76e21f"
+    },
+    "local_path": "photos/ChIJNyoHB0kBBDQRH-J2Guql4IE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLesj7gpVPdBsYrsEnQdTKXLtVb7qJBaOo5Us8TqvZBNnKfWBFYOYK0csGg_Y_R_B9H_QWD2PxBFAF9bV7XOrXrz7bl-_B8_1q13Kzlf48hs8X96mJ3L_Z1pOxcbkzMLHZ5rtGG-W2HbmfuB=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 132115
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ReadTimeout"
+  },
+  "cuisine": {
+    "primary_type": "tonkatsu_restaurant",
+    "label": "日式炸豬排餐廳",
+    "types": [
+      "tonkatsu_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

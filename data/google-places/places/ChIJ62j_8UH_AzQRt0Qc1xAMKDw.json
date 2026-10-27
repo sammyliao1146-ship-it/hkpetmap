@@ -1,0 +1,312 @@
+{
+  "google_place_id": "ChIJ62j_8UH_AzQRt0Qc1xAMKDw",
+  "restaurant_ids": [
+    "restaurant:2292810378"
+  ],
+  "fetched_at": "2026-10-23T15:42:58.635570+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ62j_8UH_AzQRt0Qc1xAMKDw",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9236 8316",
+    "internationalPhoneNumber": "+852 9236 8316",
+    "formattedAddress": "香港新界馬灣1868 18至19號地下",
+    "location": {
+      "latitude": 22.348416399999998,
+      "longitude": 114.056595
+    },
+    "rating": 4.9,
+    "googleMapsUri": "https://maps.google.com/?cid=4334727907812066487&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 20:30",
+        "星期二: 11:00 – 20:30",
+        "星期三: 11:00 – 20:30",
+        "星期四: 11:00 – 20:30",
+        "星期五: 11:00 – 20:30",
+        "星期六: 11:00 – 21:00",
+        "星期日: 11:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 98,
+    "displayName": {
+      "text": "Friday Cafe",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ62j_8UH_AzQRt0Qc1xAMKDw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSelRrNVRabXBDU0VKUGJubFpkamxWVGtwTk4wRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "店員善切友善，服務態度優良，食物濃郁，對住海景好靚，適合chill下",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員善切友善，服務態度優良，食物濃郁，對住海景好靚，適合chill下",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Coby Chan",
+          "uri": "https://www.google.com/maps/contrib/105853234340141051357/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVoI8duBXf94KLvCa9MtnYgUGffD4WvexhiaxjK8VdAUrUilrEI=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-01T07:15:38.230758589Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSelRrNVRabXBDU0VKUGJubFpkamxWVGtwTk4wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSelRrNVRabXBDU0VKUGJubFpkamxWVGtwTk4wRRAB!2m1!1s0x3403ff41f1ff68eb:0x3c280c10d71c44b7"
+      },
+      {
+        "name": "places/ChIJ62j_8UH_AzQRt0Qc1xAMKDw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsUWIxRTBTMGhaTkc4MFZsSjFZV2gwYUVGd1pWRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳就在海邊，風景很不錯，食物超預期，馬灣拼盤炸得好香，意粉芝士味濃郁😆",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳就在海邊，風景很不錯，食物超預期，馬灣拼盤炸得好香，意粉芝士味濃郁😆",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alfred Wong",
+          "uri": "https://www.google.com/maps/contrib/114489871589442572797/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKKOSji3AEyWrIWypL4lXChr4sLMZ0UAnxID0FyGA5yhS3ZCQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-11T09:53:09.196739789Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsUWIxRTBTMGhaTkc4MFZsSjFZV2gwYUVGd1pWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsUWIxRTBTMGhaTkc4MFZsSjFZV2gwYUVGd1pWRRAB!2m1!1s0x3403ff41f1ff68eb:0x3c280c10d71c44b7"
+      },
+      {
+        "name": "places/ChIJ62j_8UH_AzQRt0Qc1xAMKDw/reviews/Ci9DQUlRQUNvZENodHljRjlvT205RGMwbFRXVVoxT0hGd1NIVjJUa3BRWW5aSE5VRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "風景優美，服務態度非常好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "風景優美，服務態度非常好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anna Chu",
+          "uri": "https://www.google.com/maps/contrib/107378413348497636988/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgYAmHaqz29r5AcZZ5OLV0HoJmDhp3epS0XZfum2WNeWYjNA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-09-06T07:36:41.132097400Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205RGMwbFRXVVoxT0hGd1NIVjJUa3BRWW5aSE5VRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205RGMwbFRXVVoxT0hGd1NIVjJUa3BRWW5aSE5VRRAB!2m1!1s0x3403ff41f1ff68eb:0x3c280c10d71c44b7"
+      },
+      {
+        "name": "places/ChIJ62j_8UH_AzQRt0Qc1xAMKDw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaNU9IVkdUVGhWZGxJeE9XY3RXV0pQYjNOM1RVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "在馬灣遊玩搵到的餐廳，位置非常好，可以看到大橋和海邊風景，服務好，食物的味道也非常之好，推薦大家來😊😊",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "在馬灣遊玩搵到的餐廳，位置非常好，可以看到大橋和海邊風景，服務好，食物的味道也非常之好，推薦大家來😊😊",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Xuan Wang",
+          "uri": "https://www.google.com/maps/contrib/107866483690387619993/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLcZeOKrnVKPGoW6HA7y6i01NhZUZdZcGSRPsob5Q9k0F_RjQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-01T05:42:42.496861580Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaNU9IVkdUVGhWZGxJeE9XY3RXV0pQYjNOM1RVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaNU9IVkdUVGhWZGxJeE9XY3RXV0pQYjNOM1RVRRAB!2m1!1s0x3403ff41f1ff68eb:0x3c280c10d71c44b7"
+      },
+      {
+        "name": "places/ChIJ62j_8UH_AzQRt0Qc1xAMKDw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZd2RXZzNjbTlsZDBSVWJHVkVaakJoUjJSbVgzYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "馬灣罕有的美味西餐廳:\n意粉、沙律超正\n特色飲品一定要試\n服務很好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "馬灣罕有的美味西餐廳:\n意粉、沙律超正\n特色飲品一定要試\n服務很好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Denise Yan",
+          "uri": "https://www.google.com/maps/contrib/106985064680055798268/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKulUXpp1R4z94t_bkhysKn2TX8u19Y94iPZg8d7rIYJ_Qp=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-11T05:55:29.938410027Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tZd2RXZzNjbTlsZDBSVWJHVkVaakJoUjJSbVgzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tZd2RXZzNjbTlsZDBSVWJHVkVaakJoUjJSbVgzYxAB!2m1!1s0x3403ff41f1ff68eb:0x3c280c10d71c44b7"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff41f1ff68eb:0x3c280c10d71c44b7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4334727907812066487&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff41f1ff68eb:0x3c280c10d71c44b7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff41f1ff68eb:0x3c280c10d71c44b7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff41f1ff68eb:0x3c280c10d71c44b7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ62j_8UH_AzQRt0Qc1xAMKDw/photos/Aa-ngMa5NOFLkCuH5ANTphKxXapI5NyL-TTy9Lzz92zkA98kpaSaPZWVT25AdHmB8Zzsqm4NUkeMUBnn5mGJcNZSB3Qm6bnLy-ZGqBDk76YWTi9IQBPSOHg0ixtGg4ZjHor1zItHW5d85yOy2CXuxbkPc5W98b3_UIcbzRt63fLj3YvoVTD3GN6odR2UNbD2h7Wx1gpt90QCf7kJvyPzRQ2bKJf1SM2E-3fjDY7UTb5zY5rX2AbIybXDwNsdasqnRu9ptErwjvyBdQAYhtP7uv15QZcHnr830PWHzT1Z0XWvhUmorujtUUuJ_K_Ok40NdYigzAov_a5w4RnDZ0A4DH6M5bFEzal90TwhEcugvyJYx9cJguiC3N8YnzeMlhT8WNrNyUVZIyEkjFK2sWEZn96S4xkbbFi7nnW57ipRv8qyHncrpQ",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Carly Ip",
+          "uri": "https://maps.google.com/maps/contrib/100663763491891418897",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWuBYa8wOuzKKmLeA45dWCUNxAUw1SFiXvJMG2FO1y5bPLIA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBikm0yXbUrfd_gnyaO4t4M&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBikm0yXbUrfd_gnyaO4t4M!2e10!4m2!3m1!1s0x3403ff41f1ff68eb:0x3c280c10d71c44b7"
+    },
+    "local_path": "photos/ChIJ62j_8UH_AzQRt0Qc1xAMKDw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9EQcTtS-opb46TGNw9TQa6dYLB1UqbVRwX4j8W1MbzWd5Dg33GdJrw4asrckaSAWJ1-e5MfMei8TucteGbkXi03kx3zHgkVQmvnLQ3m2HZSZsYJ27-a0No_GLwG1OZIUGCYD9HOYURJJL=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 225348
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

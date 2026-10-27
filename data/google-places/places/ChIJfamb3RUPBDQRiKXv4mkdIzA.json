@@ -1,0 +1,388 @@
+{
+  "google_place_id": "ChIJfamb3RUPBDQRiKXv4mkdIzA",
+  "restaurant_ids": [
+    "restaurant:2295802967"
+  ],
+  "fetched_at": "2026-10-23T15:43:07.443228+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJfamb3RUPBDQRiKXv4mkdIzA",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6043 0009",
+    "internationalPhoneNumber": "+852 6043 0009",
+    "formattedAddress": "香港新界西貢西沙路西澳村2C",
+    "location": {
+      "latitude": 22.4302168,
+      "longitude": 114.25466379999999
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=3468648478621541768&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/goldencafe_hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 3,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 15:00",
+        "星期二: 11:00 – 15:00, 18:00 – 22:30",
+        "星期三: 11:00 – 15:00, 18:00 – 22:30",
+        "星期四: 11:00 – 15:00, 18:00 – 22:30",
+        "星期五: 11:00 – 15:00, 18:00 – 22:30",
+        "星期六: 09:00 – 03:30",
+        "星期日: 09:00 – 15:30, 18:00 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 102,
+    "displayName": {
+      "text": "Golden Cafe",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJfamb3RUPBDQRiKXv4mkdIzA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwWFRrOVBXRkJxVTFONE5rNU5WWHBMZEZKTk0wRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "A hidden gem near Ma On Shan, free parking, and most importantly it’s super dog-friendly!!🎉🐶\n老闆同屋企人都超級親切\n最重要係食物好高質\n魚生都係日本直運新鮮甜美\n成餐飯都食得津津有味～\n有機會一定會再返嚟試其他嘢食\n💯 highly recommend!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "A hidden gem near Ma On Shan, free parking, and most importantly it’s super dog-friendly!!🎉🐶\n老闆同屋企人都超級親切\n最重要係食物好高質\n魚生都係日本直運新鮮甜美\n成餐飯都食得津津有味～\n有機會一定會再返嚟試其他嘢食\n💯 highly recommend!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lianna Yuen",
+          "uri": "https://www.google.com/maps/contrib/112519726101113319427/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLnog190ShJb874T_CNuDTe-u5skOP4K_LzF407DtY47QAVwT9=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-01T12:39:23.470588702Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwWFRrOVBXRkJxVTFONE5rNU5WWHBMZEZKTk0wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwWFRrOVBXRkJxVTFONE5rNU5WWHBMZEZKTk0wRRAB!2m1!1s0x34040f15dd9ba97d:0x30231d69e2efa588"
+      },
+      {
+        "name": "places/ChIJfamb3RUPBDQRiKXv4mkdIzA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psS1YzRnlkalZRUmtGQloxaENTa040TWt4alVsRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "### 西沙 Golden Cafe 居酒屋食評\n\n琴日帶小朋友去西沙go Park度玩，之後OpenRice 找到附近呢間Golden Cafe，這是一家令人驚豔的居酒屋。餐廳的氛圍輕鬆愉快，適合帶狗隻，小朋友，朋友聚會或家庭聚餐。\n\n首先，我們點了生魚片拼盤，條魚叫彷彿，鮮魚的質感極為細膩，搭配特製嘅柚子汁或是一點芥末和醬油，讓人回味無窮。268+1真心價錢好抵，有成18片刺身😍\n\n接著，清酒煮蜆也是一大亮點，湯頭清甜，蜆肉鮮美，讓人感受到海洋的味道。\n\n此外，第一次食立鱗燒，炸魚鱗皮搭配特製醬汁和檸檬汁，外脆內嫩，令人愛不釋口。\n\n另一小食，鮑魚的做法則十分講究，口感滑嫩，最讓人驚喜是底下嘅蘿蔔，葉得非常入味，非常好食。\n\n總的來說，這裡的每道菜品都展現了新鮮的食材和廚師的用心，而且價錢亦抵，係呀無論是味道還是擺盤都極具水準。下次來西沙，Golden Cafe 絕對是個值得再訪的地方！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "### 西沙 Golden Cafe 居酒屋食評\n\n琴日帶小朋友去西沙go Park度玩，之後OpenRice 找到附近呢間Golden Cafe，這是一家令人驚豔的居酒屋。餐廳的氛圍輕鬆愉快，適合帶狗隻，小朋友，朋友聚會或家庭聚餐。\n\n首先，我們點了生魚片拼盤，條魚叫彷彿，鮮魚的質感極為細膩，搭配特製嘅柚子汁或是一點芥末和醬油，讓人回味無窮。268+1真心價錢好抵，有成18片刺身😍\n\n接著，清酒煮蜆也是一大亮點，湯頭清甜，蜆肉鮮美，讓人感受到海洋的味道。\n\n此外，第一次食立鱗燒，炸魚鱗皮搭配特製醬汁和檸檬汁，外脆內嫩，令人愛不釋口。\n\n另一小食，鮑魚的做法則十分講究，口感滑嫩，最讓人驚喜是底下嘅蘿蔔，葉得非常入味，非常好食。\n\n總的來說，這裡的每道菜品都展現了新鮮的食材和廚師的用心，而且價錢亦抵，係呀無論是味道還是擺盤都極具水準。下次來西沙，Golden Cafe 絕對是個值得再訪的地方！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "foodieeebloggerrr",
+          "uri": "https://www.google.com/maps/contrib/116901776927037396365/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlRd6lBXuwa21oY_pAphdSiH0JavCT--GmplibSr47Hq80pQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-10-20T03:21:28.024387921Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psS1YzRnlkalZRUmtGQloxaENTa040TWt4alVsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psS1YzRnlkalZRUmtGQloxaENTa040TWt4alVsRRAB!2m1!1s0x34040f15dd9ba97d:0x30231d69e2efa588"
+      },
+      {
+        "name": "places/ChIJfamb3RUPBDQRiKXv4mkdIzA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4eGJsZ3hURnBtY2pkNVNVNUphMWxmZVY4d1NWRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "平時想帶啲貓貓出去食飯，有時都好難搵餐廳。\n原來西沙真係有好多寵物友善嘅地方，今次介紹嘅「Goldencafe」就主打寵物友善嘅居酒屋，行完西沙GoPark再行過嚟食飯就啱哂。\n\n壽司set $160\n一次過可以食晒10款唔同嘅壽司，有我最鍾意嘅三文魚、吞拿魚、油甘魚、真鯛、蟹棒和鰻魚鰻魚。廚師會用炙燒或者刺身嘅方式，推介乜都想試嘅朋友。\n\n鹽燒海黃腳立 $108\n鹽燒成條魚都比較少見，鹽味滲入魚肉入邊，鮮美中帶返咸香。\n\n立鱗燒 $158\n魚鱗經過油炸變成豎起，每一啖都係好香脆。\n\n另外熟食方面我就推介磯煮鮑魚和清酒煮蜆，更加能突顯海鮮嘅鮮味。\n\nGOLDEN CAFE (馬鞍山)\n馬鞍山西沙路西澳村2C號地舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平時想帶啲貓貓出去食飯，有時都好難搵餐廳。\n原來西沙真係有好多寵物友善嘅地方，今次介紹嘅「Goldencafe」就主打寵物友善嘅居酒屋，行完西沙GoPark再行過嚟食飯就啱哂。\n\n壽司set $160\n一次過可以食晒10款唔同嘅壽司，有我最鍾意嘅三文魚、吞拿魚、油甘魚、真鯛、蟹棒和鰻魚鰻魚。廚師會用炙燒或者刺身嘅方式，推介乜都想試嘅朋友。\n\n鹽燒海黃腳立 $108\n鹽燒成條魚都比較少見，鹽味滲入魚肉入邊，鮮美中帶返咸香。\n\n立鱗燒 $158\n魚鱗經過油炸變成豎起，每一啖都係好香脆。\n\n另外熟食方面我就推介磯煮鮑魚和清酒煮蜆，更加能突顯海鮮嘅鮮味。\n\nGOLDEN CAFE (馬鞍山)\n馬鞍山西沙路西澳村2C號地舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "agape agape 63486777",
+          "uri": "https://www.google.com/maps/contrib/107668737257637968886/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmk1UJg5z1eDUn40J68MjsOxyckkCmYODLvUHYawYeQvWtlfBY8g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-08-31T00:40:10.827413893Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4eGJsZ3hURnBtY2pkNVNVNUphMWxmZVY4d1NWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4eGJsZ3hURnBtY2pkNVNVNUphMWxmZVY4d1NWRRAB!2m1!1s0x34040f15dd9ba97d:0x30231d69e2efa588"
+      },
+      {
+        "name": "places/ChIJfamb3RUPBDQRiKXv4mkdIzA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WSGRuQmlNMnRLTTFOSldYbEpWRTFvYldWa01IYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "冇諗過喺村屋嘅居酒屋都會食到咁高質素嘅食物，而且老闆都好好人會仔細咁問你prefer食啲咩再推薦/發辦，絕對係會回頭再食！\n\n特別推薦磯煮鮑魚同whiskey番薯🍠！\n\n🐚 磯煮鮑魚\n磯煮鮑魚係用咗日本醬油醃製鮑魚同白蘿蔔，食之前老闆專登同我哋講下面個白蘿蔔仲好食過上面個鮑魚😂 小編本身唔係太鍾意食鮑魚，不過都覺得呢個幾好味，而且都唔會韌！個白蘿蔔就嗍晒啲汁，所以好入味！而且食落唔會有渣！\n\n🍠 威士忌番薯\n食之前老闆專登教咗我哋食嘅順序，要將舊番薯點咗啲Whisky，再點糖先食，番薯本身已經好甜，加埋Whisky就多咗一浸酒香味，食落好有層次感～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "冇諗過喺村屋嘅居酒屋都會食到咁高質素嘅食物，而且老闆都好好人會仔細咁問你prefer食啲咩再推薦/發辦，絕對係會回頭再食！\n\n特別推薦磯煮鮑魚同whiskey番薯🍠！\n\n🐚 磯煮鮑魚\n磯煮鮑魚係用咗日本醬油醃製鮑魚同白蘿蔔，食之前老闆專登同我哋講下面個白蘿蔔仲好食過上面個鮑魚😂 小編本身唔係太鍾意食鮑魚，不過都覺得呢個幾好味，而且都唔會韌！個白蘿蔔就嗍晒啲汁，所以好入味！而且食落唔會有渣！\n\n🍠 威士忌番薯\n食之前老闆專登教咗我哋食嘅順序，要將舊番薯點咗啲Whisky，再點糖先食，番薯本身已經好甜，加埋Whisky就多咗一浸酒香味，食落好有層次感～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chow Vanessa",
+          "uri": "https://www.google.com/maps/contrib/101250343687105002288/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJE3xqlrQgTU7YQ-K3WuTLxLXd3pJ_Bab1xaXmMUYq9odju9Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-01T05:41:52.405866881Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WSGRuQmlNMnRLTTFOSldYbEpWRTFvYldWa01IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WSGRuQmlNMnRLTTFOSldYbEpWRTFvYldWa01IYxAB!2m1!1s0x34040f15dd9ba97d:0x30231d69e2efa588"
+      },
+      {
+        "name": "places/ChIJfamb3RUPBDQRiKXv4mkdIzA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFNWF6WTBOMUJEUW5kWVp6ZHFURUpNVjBzdFExRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "📍 Golden Cafe｛西沙｝\n\n依度有專用嘅車位，就算揸車嚟嘅朋友都唔怕！\n仲可以免費泊車🚗呢度更加係寵物友善餐廳，可以帶住狗狗坐戶外嘅位置望住出邊好寧靜嘅環境用餐🥢\n\n係村屋嘅地方竟然開咗一間三層高嘅Cafe！\n店內設有戶外同室內嘅位置，無論裏邊定出邊都坐得好舒適，外面嘅位置就會比較開陽，我仲見到有一隻牛牛行過食草，好似同大自然融為一體一樣🍴\n\n✨ 日式蒲燒鰻魚飯\n外皮脆脆的，肉質是紮實且綿綿的，厚度也蠻剛好！蒲燒鹹甜鹹甜，帶有一點焦香~飯粒粒分明🍚\n\n✨ 日式滑蛋豬扒飯\n店內用既係日本米飯飯粒分明、軟熟🍚\n吉列豬扒有驚喜喎🐷\n用上高欣豬肉 炸漿薄身\n外皮金黃色脆\n口感好鬆化 肉質軟嫩唔會太重油膩感！\n\n✨三文魚，油甘魚刺身\n魚油香豐富，肥美厚切，鮮甜🐟食岀新鮮！\n\n✨ 飛魚籽軍艦\n一貫飛魚籽咸咸地既味道 食落爽脆🍣\n\n✨ 芝麻雞翼\n外皮香脆的芝麻雞翼\n入面仲好有肉汁\n食完2隻，超滿足😌\n\n✨ 清酒煮蜆\n食材新鮮，肥美嘅蜆肉，每日新鮮入貨，洗得乾淨冇沙，仲有豆腐菇類做配料，雖然只係前菜不過都已經好豐富🩷",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "📍 Golden Cafe｛西沙｝\n\n依度有專用嘅車位，就算揸車嚟嘅朋友都唔怕！\n仲可以免費泊車🚗呢度更加係寵物友善餐廳，可以帶住狗狗坐戶外嘅位置望住出邊好寧靜嘅環境用餐🥢\n\n係村屋嘅地方竟然開咗一間三層高嘅Cafe！\n店內設有戶外同室內嘅位置，無論裏邊定出邊都坐得好舒適，外面嘅位置就會比較開陽，我仲見到有一隻牛牛行過食草，好似同大自然融為一體一樣🍴\n\n✨ 日式蒲燒鰻魚飯\n外皮脆脆的，肉質是紮實且綿綿的，厚度也蠻剛好！蒲燒鹹甜鹹甜，帶有一點焦香~飯粒粒分明🍚\n\n✨ 日式滑蛋豬扒飯\n店內用既係日本米飯飯粒分明、軟熟🍚\n吉列豬扒有驚喜喎🐷\n用上高欣豬肉 炸漿薄身\n外皮金黃色脆\n口感好鬆化 肉質軟嫩唔會太重油膩感！\n\n✨三文魚，油甘魚刺身\n魚油香豐富，肥美厚切，鮮甜🐟食岀新鮮！\n\n✨ 飛魚籽軍艦\n一貫飛魚籽咸咸地既味道 食落爽脆🍣\n\n✨ 芝麻雞翼\n外皮香脆的芝麻雞翼\n入面仲好有肉汁\n食完2隻，超滿足😌\n\n✨ 清酒煮蜆\n食材新鮮，肥美嘅蜆肉，每日新鮮入貨，洗得乾淨冇沙，仲有豆腐菇類做配料，雖然只係前菜不過都已經好豐富🩷",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hiu ying Chan",
+          "uri": "https://www.google.com/maps/contrib/108619598748715145015/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqxmZucg2fbMkhZeBBlJdEfYGtVTaj82Ksos61R57R7u0OFYw=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-07-01T00:08:32.736876922Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFNWF6WTBOMUJEUW5kWVp6ZHFURUpNVjBzdFExRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFNWF6WTBOMUJEUW5kWVp6ZHFURUpNVjBzdFExRRAB!2m1!1s0x34040f15dd9ba97d:0x30231d69e2efa588"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040f15dd9ba97d:0x30231d69e2efa588!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3468648478621541768&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040f15dd9ba97d:0x30231d69e2efa588!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040f15dd9ba97d:0x30231d69e2efa588!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040f15dd9ba97d:0x30231d69e2efa588!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJfamb3RUPBDQRiKXv4mkdIzA/photos/Aa-ngMYOHWpy_bPyoBH0bHFFC7ndNJh90W_pvNnGmc2L95hSnWtaC2QlGbYc0Y5bhLrm4WF0mS6IfDb5v01_7jNOHuUEwoDHg2jJHhp7T1yFq23jV1Nkml9cQFP4hjgUsuuvO5V0mB-tch5ar6J66UrvipT7k4H7e2q2YnMqx62v3QMlcikgyNVZE5t5xHn_DJDR7vu4VB7tcxOPmQ0MmWRn-tQtYiPvo0rwOGGG784f4X5nNpas8HuvB9M0oGypTa4Oe4STxj1GphEwSbFq1G4g8s9W3r0sjmHnuaP4SSLtiZkNprYkOUAOPiEgX8R7Jiy6Ya7aEK6qQZ5kq5mixc2fQ0DOUdL1PII5xh2DGDSZvRzKZ03lCQ-zM7YNj1HTL7J7Bmiup72j8OrSptVe5sR_azSZZF5kFBc",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Lai Jimmy",
+          "uri": "https://maps.google.com/maps/contrib/106195045083230995365",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3tNmC7awa1u_aH-Ds5zZqgN-WTtrJfsG3BR0eSxwKTuby8F3V=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEPaEtNLZ75b18QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEPaEtNLZ75b18QE!2e10!4m2!3m1!1s0x34040f15dd9ba97d:0x30231d69e2efa588"
+    },
+    "local_path": "photos/ChIJfamb3RUPBDQRiKXv4mkdIzA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcD9uhGvs3IGcBcHzahgUtTSoz0v_UU_iuf-vmIJxnHybczGjl9msRBvMYdK-ToNNw33t149xoVDDGfoekE5GvusrCBLA7-O05Rp-gTJQYUr8Mr3J1MJijdGkFF12gCNO6CdnNqA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 241201
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

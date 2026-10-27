@@ -1,0 +1,38 @@
+{
+  "id": "ChIJZ3IuGen4AzQRGI292So8p_w",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界荃灣永順街59號",
+  "location": {
+    "latitude": 22.367221100000002,
+    "longitude": 114.11135709999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18205586173407890712&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "荃灣公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJZ3IuGen4AzQRGI292So8p_w/photos/Aa-ngMYkYjcd9SOImV6q6p8F52C6R6R5xLey5U-lq8taQsTRS2Jx7W9S1HOlJoLJp5AO7ksGLst9bQ9qoywDK9ybegau8oit_spnaCYJIu05RFMQhWkI33rCI8OtSmxOrV4NNL4-0AP1RpYY9UjgrWpM0va390wAz5rgB92CUqPgUFULrvJdXNFTpcuf-h0ZPh2o5vqZNjWKA24zbKpSUzVeiw-TygMzrpsH1pJHxiiykgam2YbBFQo0Pk3GII44blMFG7esNDH_CQG_HIz1SeKRnms-63BXLXn8apzug-IJHIqd1w8ZisYvJZaswaHM9R5RSrJOYwT_LRdAJ7vuktW-lw37woXtNOl9JbrRXlvT8ZfzBXi1NqUjfXz7bQVwA0TUT8uR2qebCFfHR5LOBSiURYY2QUg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Ngoot How Ng",
+          "uri": "https://maps.google.com/maps/contrib/101630665751436667699",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2Rr12VxLh3_mLagIhy9eMoqYkPDULJOGBc28NKqlE--YQHg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqk6vaOg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqk6vaOg!2e10!4m2!3m1!1s0x3403f8e9192e7267:0xfca73c2ad9bd8d18"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:16.906691+00:00"
+}

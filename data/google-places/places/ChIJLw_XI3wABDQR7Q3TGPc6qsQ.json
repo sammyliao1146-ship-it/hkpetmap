@@ -1,0 +1,326 @@
+{
+  "google_place_id": "ChIJLw_XI3wABDQR7Q3TGPc6qsQ",
+  "restaurant_ids": [
+    "restaurant:3118808146"
+  ],
+  "fetched_at": "2026-10-23T15:40:01.710905+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJLw_XI3wABDQR7Q3TGPc6qsQ",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2854 2211",
+    "internationalPhoneNumber": "+852 2854 2211",
+    "formattedAddress": "G/F, 97 Jervois St, Sheung Wan, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.285622,
+      "longitude": 114.150544
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=14171204010422504941&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.baristajam.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 17:00",
+        "星期二: 08:00 – 18:00",
+        "星期三: 08:00 – 18:00",
+        "星期四: 08:00 – 18:00",
+        "星期五: 08:00 – 18:00",
+        "星期六: 10:00 – 18:00",
+        "星期日: 11:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 495,
+    "displayName": {
+      "text": "Barista Jam",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": false,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJLw_XI3wABDQR7Q3TGPc6qsQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJelEybDVXbkptUlZwRVdGWlZNSE56UTNKd2MwRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "有空間感，坐得舒服，咖啡好飲",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有空間感，坐得舒服，咖啡好飲",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lattec",
+          "uri": "https://www.google.com/maps/contrib/102874563549880148951/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAJtah7Y2RL6FL-MLCgzzdH0hwsCUImlIexB--FR22TELIhfN8=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-06-15T04:18:21.065555146Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJelEybDVXbkptUlZwRVdGWlZNSE56UTNKd2MwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJelEybDVXbkptUlZwRVdGWlZNSE56UTNKd2MwRRAB!2m1!1s0x3404007c23d70f2f:0xc4aa3af718d30ded"
+      },
+      {
+        "name": "places/ChIJLw_XI3wABDQR7Q3TGPc6qsQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURPa0pXN25RRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "終於揾到間喺上環平地蘇坑街嘅嘆啡地方，唔駛下下行上半山揾d隱世小店先。咖啡選擇多種類，只有地面係可以坐定定嘆啡嘅，樓上全層以出售咖啡用品為主。座位間距濶落，環境舒適。但如繁忙時段用餐時間只得45分鐘就趕咗d,所以建議嘆啡呢都最好係2點後先。\n味道 ⭐️⭐️⭐️⭐️⭐️\n環境 ⭐️⭐️⭐️⭐️\n服務 ⭐️⭐️⭐️⭐️⭐️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "終於揾到間喺上環平地蘇坑街嘅嘆啡地方，唔駛下下行上半山揾d隱世小店先。咖啡選擇多種類，只有地面係可以坐定定嘆啡嘅，樓上全層以出售咖啡用品為主。座位間距濶落，環境舒適。但如繁忙時段用餐時間只得45分鐘就趕咗d,所以建議嘆啡呢都最好係2點後先。\n味道 ⭐️⭐️⭐️⭐️⭐️\n環境 ⭐️⭐️⭐️⭐️\n服務 ⭐️⭐️⭐️⭐️⭐️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodies FATguy",
+          "uri": "https://www.google.com/maps/contrib/107312992964178594388/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGLLwd07XFV5Hs95n-QWdz5Hcg0NP7-AhjjnzypTz6zR378c78=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2022-06-25T06:53:23.163374Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURPa0pXN25RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURPa0pXN25RRRAB!2m1!1s0x3404007c23d70f2f:0xc4aa3af718d30ded"
+      },
+      {
+        "name": "places/ChIJLw_XI3wABDQR7Q3TGPc6qsQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURlNEtmUlB3EAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "高名氣之選\n\n這一带離商業中心區不遠，又没中心📍區的贵上天租金💰💸，很適合這些咖啡店，都是帶簡餐🍴的咖啡店合上香港女生的小吃又有雅致的店\n\n橫街內灰灰的招牌門面，門外放上一張枱，如沒看到這擺枱亦未必察覺🕵這是咖啡店，另一特別佈置是門口位整了個玻璃飾櫃，放上很多制作咖啡工具，須不是什麼罕有品，但營造出咖啡店的格局不錯…\n店內極具簡約感，只放幾個層架作展示可出售的咖啡豆，既實用又當小點綴，出品服務區成了搶手座位，就是愛看咖啡師工作模樣😅😂\n\n今日試上手沖，只有6⃣款選擇，貴精不貴多，選個哥倫比亞Huila，具有酸中帶甘、苦、酸三者平均的口感\n服務帶積極，而且與客交流亦到位\n\n好手沖在香港不是易找，這店出品算是🈴，須然價格有些🆙🈂…環境也不算太吸引…但喜愛手沖的朋友這裡是可選擇之一",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "高名氣之選\n\n這一带離商業中心區不遠，又没中心📍區的贵上天租金💰💸，很適合這些咖啡店，都是帶簡餐🍴的咖啡店合上香港女生的小吃又有雅致的店\n\n橫街內灰灰的招牌門面，門外放上一張枱，如沒看到這擺枱亦未必察覺🕵這是咖啡店，另一特別佈置是門口位整了個玻璃飾櫃，放上很多制作咖啡工具，須不是什麼罕有品，但營造出咖啡店的格局不錯…\n店內極具簡約感，只放幾個層架作展示可出售的咖啡豆，既實用又當小點綴，出品服務區成了搶手座位，就是愛看咖啡師工作模樣😅😂\n\n今日試上手沖，只有6⃣款選擇，貴精不貴多，選個哥倫比亞Huila，具有酸中帶甘、苦、酸三者平均的口感\n服務帶積極，而且與客交流亦到位\n\n好手沖在香港不是易找，這店出品算是🈴，須然價格有些🆙🈂…環境也不算太吸引…但喜愛手沖的朋友這裡是可選擇之一",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cashbaba",
+          "uri": "https://www.google.com/maps/contrib/110654294594383241440/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl_PxMfQi9Wg5bOS5_eSz7UHm7dc35sCgJo387PnmoJntzRK4=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-09-29T11:58:33.104837Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURlNEtmUlB3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURlNEtmUlB3EAE!2m1!1s0x3404007c23d70f2f:0xc4aa3af718d30ded"
+      },
+      {
+        "name": "places/ChIJLw_XI3wABDQR7Q3TGPc6qsQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUQweGNTRW5BRRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 4,
+        "text": {
+          "text": "開了這麼久\n人氣還能這麼旺\n\n肯定是好喝\n路過經過走進來\n看似懶散的外坐區\n符合香港的擁擠內做\n不論做什麼都很緊湊\n\n甜點櫃滿滿的甜點\n菜單上不論是食物還是飲品\n都很吸引人\n今天點曼特寧手沖\n意外的好喝\n\n二樓的商品區及廁所都很整齊乾淨\n\n推薦來試試",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "開了這麼久\n人氣還能這麼旺\n\n肯定是好喝\n路過經過走進來\n看似懶散的外坐區\n符合香港的擁擠內做\n不論做什麼都很緊湊\n\n甜點櫃滿滿的甜點\n菜單上不論是食物還是飲品\n都很吸引人\n今天點曼特寧手沖\n意外的好喝\n\n二樓的商品區及廁所都很整齊乾淨\n\n推薦來試試",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fleshy Chen",
+          "uri": "https://www.google.com/maps/contrib/103118995347089993784/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLnH8Wl8wUyDppuOcvYi-vwCx_3cFc5MBmoVH1GLW0h4FEekc9J=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2019-11-12T16:56:21.749011Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQweGNTRW5BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQweGNTRW5BRRAB!2m1!1s0x3404007c23d70f2f:0xc4aa3af718d30ded"
+      },
+      {
+        "name": "places/ChIJLw_XI3wABDQR7Q3TGPc6qsQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVaGZTV0ZBEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 5,
+        "text": {
+          "text": "老店規格，可以讓你見識到老店堅守的精品咖啡品質。老闆也常站吧領軍，精神可嘉！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "老店規格，可以讓你見識到老店堅守的精品咖啡品質。老闆也常站吧領軍，精神可嘉！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "coffee mojo",
+          "uri": "https://www.google.com/maps/contrib/105472193278846026419/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAY1oxEynb7LeWdtwxHESSN8frg3erQOfTdLObGwx9Y4TVcy4G=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2019-07-29T14:37:28.278208Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNVaGZTV0ZBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNVaGZTV0ZBEAE!2m1!1s0x3404007c23d70f2f:0xc4aa3af718d30ded"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404007c23d70f2f:0xc4aa3af718d30ded!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14171204010422504941&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404007c23d70f2f:0xc4aa3af718d30ded!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404007c23d70f2f:0xc4aa3af718d30ded!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404007c23d70f2f:0xc4aa3af718d30ded!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJLw_XI3wABDQR7Q3TGPc6qsQ/photos/Aa-ngMb3L_5GLEfZ6qkPrcuIas3BNUYx302dNJusoPAN669tzD6906qwcV-fu23ecJ0WOGSPhWUiGSOx1MyrKLxVtwAYJnczVvokIZmxl0CuJ5hCKnowbHn3HHxTiF_TQBMD6pofDo7jdMxUMApQw0HRuOpzP2PyhFo9dUjZ57z_i1GGeXWh_0GS9E6St_h7PQ0SyRRUOGLxtqmowxjqjAvNwlkabEGiWRvuGlgBYSJiAHq9EaOv1epnbPk7QkWh77bVqocbAbQZtzOb-8cgshwBoTuzYk_ZjcWpMjbAF9TNTl6NywjJHKnZtTGIVuFXfRemxKLLfqyLdDs5B2mjEl5jLwbchUTlT85Q-LLAq2m5b0rWEDB-qWmkELmxWwUOitb6FCr7jKVAQW459dRhTYwJZ02m_3-U",
+      "widthPx": 4159,
+      "heightPx": 2762,
+      "authorAttributions": [
+        {
+          "displayName": "Barista Jam",
+          "uri": "https://maps.google.com/maps/contrib/116842599404319479312",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1OrupQxd0HgGSoVzlJrW1sIExqtjj6EUgSap_nQaRxwvNRQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8xMu0zgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8xMu0zgE!2e10!4m2!3m1!1s0x3404007c23d70f2f:0xc4aa3af718d30ded"
+    },
+    "local_path": "photos/ChIJLw_XI3wABDQR7Q3TGPc6qsQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqry2tjaSV07ICPZ01jjEibdEvtOQY85LN-5q38pV8KCEfSCHtTBEfa2nVv8Xq5T_E6X4PlvLnfrcJgYrpR3JSaD68pYkrrema9RypPbgMoZxlOwo5YijQQ-KMqah5b57bkgMS=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 125254
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

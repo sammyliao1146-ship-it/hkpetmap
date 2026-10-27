@@ -1,0 +1,37 @@
+{
+  "id": "ChIJd4m0RqoBBDQRHdjDFArPirc",
+  "types": [
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島灣仔港灣道",
+  "location": {
+    "latitude": 22.282891799999998,
+    "longitude": 114.1756836
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13225610897931884573&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "灣仔海濱公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "tourist_attraction",
+  "photos": [
+    {
+      "name": "places/ChIJd4m0RqoBBDQRHdjDFArPirc/photos/Aa-ngMbNj92gjSJFMmGbl2A6bAmaMCSo1zSjvd6N5rgAzvymtztxoB2J5ukBpgvlxS_ThOaklwJE48EDPTj4cDk0ySn9q81SPeylFdqqv5OIJY7fprzW6NsBWgTF3xkSaTLHh7_8wUYiQE_YyLAlR2xfBvXJ8slB_wANZVUBk1DDlcZtIGzZxBEiHqzNWJVCNGay_eCBj9emlwigzIfONVDP8IDfE4j0U5EhYLo35WSONqlJqLG6CAenltcnlV6J8v_xj9GOQEqEawRbMaM2xJit2dv9EUP12fI9yilqyOurKi5yvx9S6QUppIqeQZ_cenaEt4B08aE0WygU5bfFDoBjAR4d8DX6-rS9egNHdNrFQqSNPbCYoS-o3YxyzNLAr7qxDoq_FS3_YiM04KJLR2HL2tECx84",
+      "widthPx": 4096,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "Nick Yung",
+          "uri": "https://maps.google.com/maps/contrib/114325967034446325933",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0w26pRzVoHnyj8XzR6jXEIPxyUSOhbN_yMRjuWQ8C9IX0KQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICr4MTtCw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr4MTtCw!2e10!4m2!3m1!1s0x340401aa46b48977:0xb78acf0a14c3d81d"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:07.591397+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ChIJS1Dh_LsABDQRv24I41fiFZw",
+  "types": [
+    "supermarket",
+    "grocery_store",
+    "food_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍西九龍海庭道18號Olympian City 2Shop G1&G10, G/F",
+  "location": {
+    "latitude": 22.3162757,
+    "longitude": 114.1617971
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11247144511526694591&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Market Place by Jasons",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "supermarket",
+  "photos": [
+    {
+      "name": "places/ChIJS1Dh_LsABDQRv24I41fiFZw/photos/Aa-ngMb4V-iNWNzSJT5VroQ2cah7lFyVNqc0HJ4hnzq0d_fm7iclf_dpDVIWkmWRXUrcHBiz4LVUO6sfM8gFZNRwJSnOPEIRauU-H5t1KRUb5Zl-YYeNbPAoOU4FAEEUOpaVZV1-HmCe7140LNEUoZs_s5DqmHcJbHwRU8KYv7LkKx4CV_OfetIaqCSuFN1rAnnNuZJhYvBCPgNQ8cLU0psm9Sh_Skp24KHh35t22kqiqjR5K8NAk4XG-heQ3X_2u9vyj6py8W_WBesosdxC3KNxb7tWsB2ALLau9GeK8ycj8n2MEx20SRCOW-7_C_t6AuIl5E8O2LXkJBXDh8f7a5hfbSX7zqJMfn4XDXxIUpymM2pf4lmOtPmr_xyVBFeBbCKULfMGos1Cho4EsGZybbxo0zc-oMwVq8QAxNrvIOb_wr5ovg",
+      "widthPx": 1600,
+      "heightPx": 1585,
+      "authorAttributions": [
+        {
+          "displayName": "Market Place",
+          "uri": "https://maps.google.com/maps/contrib/105185753008267162510",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKcMe0vytoIx_htK2OpcMMtpjecF0OoC4KB8Jf0ffQx_q3fg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDuGbdInz0jiENVfjZLPLBm&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDuGbdInz0jiENVfjZLPLBm!2e10!4m2!3m1!1s0x340400bbfce1504b:0x9c15e257e3086ebf"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:00.064343+00:00"
+}

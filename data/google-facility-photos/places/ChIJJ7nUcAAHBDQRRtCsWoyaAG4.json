@@ -1,0 +1,38 @@
+{
+  "id": "ChIJJ7nUcAAHBDQRRtCsWoyaAG4",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界大圍翠田街61號",
+  "location": {
+    "latitude": 22.37137,
+    "longitude": 114.1827234
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7926505271779446854&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "貓屋貓咪貓酒店",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJJ7nUcAAHBDQRRtCsWoyaAG4/photos/Aa-ngMbcxZR42uvNlNAuJ6IAxud53WMtqDksDVzxeb9DhEp5tZGA9z7johlWIR1zm1mR2W4tphVJ1O2urBLkJCg5PyHXeCAhq-6NpKf5ex8iIP83rl15PeFIyHrP0MOXvixJEcIXIv1JgRSz_2VzSwEIPdGL-rN1aQe7ILCir7_LTqRMVFpQlBnAvk4HARJwACib7efqXQqehKw27qBMRnIG0yVdzfWogWlvnYBRkqznw5vrLdk6JI8kWLagOqwrBBW2fng92jtdFGfpbe8JPQhhm2428CiCPv5Ahaely5I3n_AwB6It3W9vo5vApfIm9xOw_pgnJEciegMVgq1rWfKj4dGcW7VzK1-BwX6tV73DYGAXqgKaDi59b4d6rNhPIIf0zIplHFtW04hdcsM7n05odpufmoLl84z_ILvJKkf2O3cyGQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "貓屋",
+          "uri": "https://maps.google.com/maps/contrib/110672238657574078278",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4d4LVlVcig0rW4vwVna20V07Wa0GJ83GO1n-9BUG491o5Beo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCOWpQqqUdQ2CadzyBd8rQt&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCOWpQqqUdQ2CadzyBd8rQt!2e10!4m2!3m1!1s0x3404070070d4b927:0x6e009a8c5aacd046"
+    }
+  ],
+  "photo_count": 2,
+  "fetched_at": "2026-10-24T00:38:21.034114+00:00"
+}

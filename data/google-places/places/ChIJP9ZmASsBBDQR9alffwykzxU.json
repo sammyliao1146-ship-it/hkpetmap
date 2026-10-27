@@ -1,0 +1,334 @@
+{
+  "google_place_id": "ChIJP9ZmASsBBDQR9alffwykzxU",
+  "restaurant_ids": [
+    "restaurant:3118811544"
+  ],
+  "fetched_at": "2026-10-23T15:43:45.666297+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJP9ZmASsBBDQR9alffwykzxU",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "bar",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9667 5236",
+    "internationalPhoneNumber": "+852 9667 5236",
+    "formattedAddress": "香港香港島中環荷李活道140號",
+    "location": {
+      "latitude": 22.2843052,
+      "longitude": 114.1498579
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=1571655168559131125&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 01:00",
+        "星期二: 08:00 – 01:00",
+        "星期三: 08:00 – 01:00",
+        "星期四: 08:00 – 01:00",
+        "星期五: 08:00 – 02:00",
+        "星期六: 09:00 – 02:00",
+        "星期日: 09:00 – 01:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 108,
+    "displayName": {
+      "text": "Mrs. H's Coffee House",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJP9ZmASsBBDQR9alffwykzxU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnNGRyUWp3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "文武廟附近無意發現左呢間Café！同周邊店鋪截然不同，白色外牆、黃色大門，門口仲放左張復古木椅，好有歐陸風情！\n\n叫左杯Flat White轉Almond Milk，本身都唔係Coffee Person，唔太飲到超濃咖啡。呢杯出奇地好入口，杏仁奶完全唔怪好Match，咁當然佢唔重咖啡味，對我黎講就OK。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "文武廟附近無意發現左呢間Café！同周邊店鋪截然不同，白色外牆、黃色大門，門口仲放左張復古木椅，好有歐陸風情！\n\n叫左杯Flat White轉Almond Milk，本身都唔係Coffee Person，唔太飲到超濃咖啡。呢杯出奇地好入口，杏仁奶完全唔怪好Match，咁當然佢唔重咖啡味，對我黎講就OK。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yy Mak",
+          "uri": "https://www.google.com/maps/contrib/103379725979805144303/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJgVQ59v0g95ry8yFXUgI9F_W0orn7k3-UV22U6xNOVNdwE=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-02-18T02:59:53.916789Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnNGRyUWp3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnNGRyUWp3RRAB!2m1!1s0x3404012b0166d63f:0x15cfa40c7f5fa9f5"
+      },
+      {
+        "name": "places/ChIJP9ZmASsBBDQR9alffwykzxU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqMXVlOEt3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "最近上環大熱的“黃色大門咖啡店”\n原來內有乾坤  是英國傳統家庭風小酒館\n靈感源自店主於倫敦時所住的房子\n牆上掛著的油畫就是描畫著房子的“真身”\n她們晚間主打cocktail  單看menu已甚具特色\n以繪本風製作  每頁簡介均與英式文化相關\n而且更設有cocktail tasting menu可選\nCocktail好飲之餘  Canapé亦相當精緻可口呢\n敬請期待店方正式公佈晚間的營業時間吧\n\n- Sugar & Spice\n- Evening Cuppa\n- French Canapé (9 pieces)\n\nMy IG: tetsufootprintshk",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最近上環大熱的“黃色大門咖啡店”\n原來內有乾坤  是英國傳統家庭風小酒館\n靈感源自店主於倫敦時所住的房子\n牆上掛著的油畫就是描畫著房子的“真身”\n她們晚間主打cocktail  單看menu已甚具特色\n以繪本風製作  每頁簡介均與英式文化相關\n而且更設有cocktail tasting menu可選\nCocktail好飲之餘  Canapé亦相當精緻可口呢\n敬請期待店方正式公佈晚間的營業時間吧\n\n- Sugar & Spice\n- Evening Cuppa\n- French Canapé (9 pieces)\n\nMy IG: tetsufootprintshk",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tetsu Choi",
+          "uri": "https://www.google.com/maps/contrib/117742583332493303548/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfQ2VI-YXwBV99kL-hPG9uXpMomkSjerFi-OP_x-NJ3oaDOg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-04-24T04:06:14.621181Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqMXVlOEt3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqMXVlOEt3EAE!2m1!1s0x3404012b0166d63f:0x15cfa40c7f5fa9f5"
+      },
+      {
+        "name": "places/ChIJP9ZmASsBBDQR9alffwykzxU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5dGY2bC1nRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "呢度現階段只係得門口長櫈既位置, 室內既酒吧暫時仲未開放😗 呢度以輕食同咖啡為主, 所同朋友黎下午麼麼茶都唔錯嫁😜\n\nHam & Cheese Lattice 🧀 ($34)\n火腿配上融左既芝士再配上個酥皮暖暖地呢個配搭絕對係冇得輸, 輕食黎講好滿意🥰\n\nBanana Crumble 🍌($48)\n暖笠笠既忌廉佈滿係香蕉Crumble 上面, 雖然個樣望落唔係等別討好, 但係味道幾有驚喜, 唔會太甜😉\n\nExpresso Tonic 🥃($53)\n咖啡用左我最愛既果味偏濃豆, 呢啲焗焗濕濕既天氣飲會透心涼😎\n\n雖然坐既位置係門口, 不過因為街既人流唔多, 所以都幾舒服😌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢度現階段只係得門口長櫈既位置, 室內既酒吧暫時仲未開放😗 呢度以輕食同咖啡為主, 所同朋友黎下午麼麼茶都唔錯嫁😜\n\nHam & Cheese Lattice 🧀 ($34)\n火腿配上融左既芝士再配上個酥皮暖暖地呢個配搭絕對係冇得輸, 輕食黎講好滿意🥰\n\nBanana Crumble 🍌($48)\n暖笠笠既忌廉佈滿係香蕉Crumble 上面, 雖然個樣望落唔係等別討好, 但係味道幾有驚喜, 唔會太甜😉\n\nExpresso Tonic 🥃($53)\n咖啡用左我最愛既果味偏濃豆, 呢啲焗焗濕濕既天氣飲會透心涼😎\n\n雖然坐既位置係門口, 不過因為街既人流唔多, 所以都幾舒服😌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "weisikmui",
+          "uri": "https://www.google.com/maps/contrib/104017337118067731163/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNFHqOpQKQ_fG_qB_mqTqP9ZN_2Ob7uIVVCB6ZNM4UuvzTqCNJ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-03-19T13:46:04.921811Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5dGY2bC1nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5dGY2bC1nRRAB!2m1!1s0x3404012b0166d63f:0x15cfa40c7f5fa9f5"
+      },
+      {
+        "name": "places/ChIJP9ZmASsBBDQR9alffwykzxU/reviews/ChdDSUhNMG9nS0VJQ0FnSURMNjgzTnBRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "星期六18:00行過，仲有咖啡賣，餐牌無Dirty，個bar tender 都整比我飲👍🏻👍🏻👍🏻👍🏻\n好飲呀😍！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期六18:00行過，仲有咖啡賣，餐牌無Dirty，個bar tender 都整比我飲👍🏻👍🏻👍🏻👍🏻\n好飲呀😍！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "麵豉湯",
+          "uri": "https://www.google.com/maps/contrib/105973372482296900326/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4N9hZtC0jlcrRMn7WD_llkwqoBgyDC9yK3rfdjl9kO796jwQAmQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-07-01T05:06:19.412236Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMNjgzTnBRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMNjgzTnBRRRAB!2m1!1s0x3404012b0166d63f:0x15cfa40c7f5fa9f5"
+      },
+      {
+        "name": "places/ChIJP9ZmASsBBDQR9alffwykzxU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQMnJydzlBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "不要小看這間咖啡店，咖啡出色 定期推出不同的特色咖啡，已經變成了我每天上班經過都會買一杯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "不要小看這間咖啡店，咖啡出色 定期推出不同的特色咖啡，已經變成了我每天上班經過都會買一杯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lam Lee",
+          "uri": "https://www.google.com/maps/contrib/116473519310464446960/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJeowHfy8EmPzFt1zU1s2tvUdoRbN4eBAW2Dddfn0yVwKQIVw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-11-23T12:36:47.143015Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQMnJydzlBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQMnJydzlBRRAB!2m1!1s0x3404012b0166d63f:0x15cfa40c7f5fa9f5"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404012b0166d63f:0x15cfa40c7f5fa9f5!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1571655168559131125&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012b0166d63f:0x15cfa40c7f5fa9f5!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404012b0166d63f:0x15cfa40c7f5fa9f5!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012b0166d63f:0x15cfa40c7f5fa9f5!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJP9ZmASsBBDQR9alffwykzxU/photos/Aa-ngMYk4gkF2Ln5wGzC9Ib3-PCJeDr25Dlu5qWcOTiXStJLfkhq8VuwNm2uthrBUL9LYqVjoCnzxW5IWhScAf3A1NWHA_MY5BaEr_Xli7TFUUNKdlSU6l98y-hBE5HsqnILQJrJKUEccg94KrZb4dux28YOLwPJePckIkKOi3rbHxN8hKpSqOONC2Pa4hzSc6vnBnorgPr-33VLV6OyLMG72jwWaA09WSrY9DvyoKnV2n_z6QpMCaczLLhCiLSHzPFiix9vfBlFor66crOYCcw-LKiG5pv3ao-sfFs5TBYUiDdMD1vOQZnPEW-4XcZj2Kdw4RKxeVV9PZN1du5O3QBzRYjbRXRkDnMNNqzMdUAmhp7ofTLIUesTSEHYp2m_d9xDnJd4mfeYhxZ10TjREkdMZRVfsQYGjKORJZCqjFNxurfRAQ",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "Caroline Loves Travel",
+          "uri": "https://maps.google.com/maps/contrib/105329725901721670555",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVo7pN881u6fjHc8wWwqtm7YI1SQADmxWRto9jjn6mNysfD_SpL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBJeEbBvYMa6ZfyhvteIWba&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBJeEbBvYMa6ZfyhvteIWba!2e10!4m2!3m1!1s0x3404012b0166d63f:0x15cfa40c7f5fa9f5"
+    },
+    "local_path": "photos/ChIJP9ZmASsBBDQR9alffwykzxU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGmq7LGNfHEExOHkLRAkHmFuGKTlK179JegtNs9UHH8YVF8ZsA-w1koE9juOfchtt83Hx8LPhwAvRdkhuy32k4Pwgi1pt_kJr1gQJ7-tIlR6HqjqDFE5NkqjevCK2_1qoW055EiFoyG9ad=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 177097
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "bar",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

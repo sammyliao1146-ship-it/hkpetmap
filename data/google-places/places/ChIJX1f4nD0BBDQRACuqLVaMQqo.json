@@ -1,0 +1,334 @@
+{
+  "google_place_id": "ChIJX1f4nD0BBDQRACuqLVaMQqo",
+  "restaurant_ids": [
+    "restaurant:2261822810"
+  ],
+  "fetched_at": "2026-10-23T15:47:45.483234+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJX1f4nD0BBDQRACuqLVaMQqo",
+    "types": [
+      "pizza_restaurant",
+      "korean_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2682 2030",
+    "internationalPhoneNumber": "+852 2682 2030",
+    "formattedAddress": "香港九龍尖沙咀廣東道3-27號海港城海運大廈LCX3樓34號舖",
+    "location": {
+      "latitude": 22.2948186,
+      "longitude": 114.1664684
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=12268522636671855360&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.pizzamaru.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 22:00",
+        "星期二: 12:00 – 22:00",
+        "星期三: 12:00 – 22:00",
+        "星期四: 12:00 – 22:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 12:00 – 22:00",
+        "星期日: 12:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 145,
+    "displayName": {
+      "text": "Pizza Maru (海港城 LCX)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "披薩餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "pizza_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJX1f4nD0BBDQRACuqLVaMQqo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKaU9IQlJiVTV6UmxSYVRVeFJNMUY2Ym5RM2FuYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "之前在銅鑼灣見過這家韓式薄餅（Pizza）店，當時沒有吃到，原來在尖沙咀也有分店，於是便過來試試晚餐。\n\n價錢方面相對中等偏高。薄餅和炸雞的份量都有「中」和「大」可以選擇。薄餅的口味很有韓風特色，感覺挺特別的；至於炸雞的口味，則和一般韓式炸雞店能找到的差不多。\n\n整體而言，我很喜歡他們薄餅的餅底，口感比較煙韌（有嚼勁），厚薄適中，調味也剛好，不會過濃或太淡。炸雞表現不錯，不會太油膩，也不會太乾；雞肉雖然偏乾身但完全不柴，還能吃到雞肉的彈性。\n\n總括來說，食物味道挺好，而且晚上用餐還可以順便欣賞漂亮的夜景，感覺很不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "之前在銅鑼灣見過這家韓式薄餅（Pizza）店，當時沒有吃到，原來在尖沙咀也有分店，於是便過來試試晚餐。\n\n價錢方面相對中等偏高。薄餅和炸雞的份量都有「中」和「大」可以選擇。薄餅的口味很有韓風特色，感覺挺特別的；至於炸雞的口味，則和一般韓式炸雞店能找到的差不多。\n\n整體而言，我很喜歡他們薄餅的餅底，口感比較煙韌（有嚼勁），厚薄適中，調味也剛好，不會過濃或太淡。炸雞表現不錯，不會太油膩，也不會太乾；雞肉雖然偏乾身但完全不柴，還能吃到雞肉的彈性。\n\n總括來說，食物味道挺好，而且晚上用餐還可以順便欣賞漂亮的夜景，感覺很不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alice C",
+          "uri": "https://www.google.com/maps/contrib/103857068083642084577/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBxVx21spUIHQSVxf0Zpdhg2KsTi3y991zJlYnLXL5xx6e9mmztw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-07-14T10:42:54.669699018Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKaU9IQlJiVTV6UmxSYVRVeFJNMUY2Ym5RM2FuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKaU9IQlJiVTV6UmxSYVRVeFJNMUY2Ym5RM2FuYxAB!2m1!1s0x3404013d9cf8575f:0xaa428c562daa2b00"
+      },
+      {
+        "name": "places/ChIJX1f4nD0BBDQRACuqLVaMQqo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SamEwVkhjMWRFZVVGRVRXVnBVMU0xTFVWaFZGRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳有無敵海景，係好友共聚嘅好地方\n份蜆肉意粉啲奶油好香！係我食過好最食嘅蜆肉意粉，加上一塊烤粟米，美味加倍。\n不過上菜好慢，要有足夠時間先好嚟食飯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳有無敵海景，係好友共聚嘅好地方\n份蜆肉意粉啲奶油好香！係我食過好最食嘅蜆肉意粉，加上一塊烤粟米，美味加倍。\n不過上菜好慢，要有足夠時間先好嚟食飯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "熱情的散步高手",
+          "uri": "https://www.google.com/maps/contrib/108379493967943595718/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBT0bvbkcd24czKvAMKf6W4SNDZX6BISpNLgfRqNLdbO4h2PA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-04T16:34:58.388640660Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SamEwVkhjMWRFZVVGRVRXVnBVMU0xTFVWaFZGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SamEwVkhjMWRFZVVGRVRXVnBVMU0xTFVWaFZGRRAB!2m1!1s0x3404013d9cf8575f:0xaa428c562daa2b00"
+      },
+      {
+        "name": "places/ChIJX1f4nD0BBDQRACuqLVaMQqo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKbE1HVm5iWEF5VnpsUGVrcERaMEZZVDI5V1MwRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "今日同朋友去咗海港城食晚餐,聽聞呢間啲pizza都唔錯,今晚就決定試一試,等咗15分鐘就有位,好幸運地坐到窗口位！\n食物水準唔錯,特別係炸雞和pizza,韓式海鮮炒年糕就ー般\n飲品方面:柚子蜜太淡\n\n整體嚟講,食物質素滿意,人均$210,入座後剛巧遇上幻彩詠香江,食物好食,又有美景相伴,好滿足！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日同朋友去咗海港城食晚餐,聽聞呢間啲pizza都唔錯,今晚就決定試一試,等咗15分鐘就有位,好幸運地坐到窗口位！\n食物水準唔錯,特別係炸雞和pizza,韓式海鮮炒年糕就ー般\n飲品方面:柚子蜜太淡\n\n整體嚟講,食物質素滿意,人均$210,入座後剛巧遇上幻彩詠香江,食物好食,又有美景相伴,好滿足！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Edith",
+          "uri": "https://www.google.com/maps/contrib/102341707590813931728/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2nu3wOOAKjbmt1nXvOKVM5NBwfq-4uKX2fcUZ17fpT9Ohjw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-11T15:18:08.400007504Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKbE1HVm5iWEF5VnpsUGVrcERaMEZZVDI5V1MwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKbE1HVm5iWEF5VnpsUGVrcERaMEZZVDI5V1MwRRAB!2m1!1s0x3404013d9cf8575f:0xaa428c562daa2b00"
+      },
+      {
+        "name": "places/ChIJX1f4nD0BBDQRACuqLVaMQqo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WbGRrY3pNVTB4TVhWek56RkxkV0pDTTA1S1duYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 3,
+        "text": {
+          "text": "這間薄餅餐廳，看到評分不錯，所以今天中午和同事們試一試\n結果真的一般\n1/ 先講薄餅，口味多元化，但係個薄餅底連Pizza Hut都不如，真係要諗辦法做好招牌👎🏻\n2/ 炸魷魚圈，幾個同事食完之後，成個魷魚圈有一半都係粉，所以結果剩返幾舊都冇人食👎🏻\n3/ 意粉款式都多元化，整體算可以\n4/ 試咗兩個唔同味道嘅炸雞，有雪味 👎🏻\n價錢屬於正常，我哋除咗嗌午市套餐之外，都有睇正常餐牌叫其他嘢食，但係咁嘅水準，去茶餐廳可能仲開心",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間薄餅餐廳，看到評分不錯，所以今天中午和同事們試一試\n結果真的一般\n1/ 先講薄餅，口味多元化，但係個薄餅底連Pizza Hut都不如，真係要諗辦法做好招牌👎🏻\n2/ 炸魷魚圈，幾個同事食完之後，成個魷魚圈有一半都係粉，所以結果剩返幾舊都冇人食👎🏻\n3/ 意粉款式都多元化，整體算可以\n4/ 試咗兩個唔同味道嘅炸雞，有雪味 👎🏻\n價錢屬於正常，我哋除咗嗌午市套餐之外，都有睇正常餐牌叫其他嘢食，但係咁嘅水準，去茶餐廳可能仲開心",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eat and travel",
+          "uri": "https://www.google.com/maps/contrib/104443812763366727589/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkLXv2WDzeA_d_DXObA_BwabbFxFnL8jnVLiOucvqdhyWGDGzY=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-02-08T22:10:04.174332947Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WbGRrY3pNVTB4TVhWek56RkxkV0pDTTA1S1duYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WbGRrY3pNVTB4TVhWek56RkxkV0pDTTA1S1duYxAB!2m1!1s0x3404013d9cf8575f:0xaa428c562daa2b00"
+      },
+      {
+        "name": "places/ChIJX1f4nD0BBDQRACuqLVaMQqo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxUGMydHhRa3RUUlVWNFRrcFhlamxLVjJoSExWRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "今日星期五，同老婆慶祝下happy Friday。黎左海港城既pizza Maru 食午餐。自從老婆介紹左呢間餐廳比我認識之後，我地就間唔時就黎食一次。不過今次都係我地每一次黎食午餐 ，平時我地黎都係食晚餐。我地今次去到唔洗等位就有得入座，咁岩今日無郵輪停泊係呢到個碼頭，所以有個超靚既維港海景送飯。呢個都係我地成日黎食既其中一個原因。我地今次叫左兩個set，一個意粉餐，一個pizza餐。我地本身想嗌元祖奶奶燒腩意粉，點知賣曬，最後揀左煙燻番茄烤肉意粉。而pizza方面，我地加左錢upgrade做mocha芝心批邊。整體食物都好好食，不過兩杯餐飲就麻麻地。唔係港式既檸檬茶，茶底唔係清茶果種。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日星期五，同老婆慶祝下happy Friday。黎左海港城既pizza Maru 食午餐。自從老婆介紹左呢間餐廳比我認識之後，我地就間唔時就黎食一次。不過今次都係我地每一次黎食午餐 ，平時我地黎都係食晚餐。我地今次去到唔洗等位就有得入座，咁岩今日無郵輪停泊係呢到個碼頭，所以有個超靚既維港海景送飯。呢個都係我地成日黎食既其中一個原因。我地今次叫左兩個set，一個意粉餐，一個pizza餐。我地本身想嗌元祖奶奶燒腩意粉，點知賣曬，最後揀左煙燻番茄烤肉意粉。而pizza方面，我地加左錢upgrade做mocha芝心批邊。整體食物都好好食，不過兩杯餐飲就麻麻地。唔係港式既檸檬茶，茶底唔係清茶果種。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ying Faat Wong (FireworkA8)",
+          "uri": "https://www.google.com/maps/contrib/110197646756558172522/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkx0V1o6lLCCN-3jpNjUDp3Pvp76GAIcwtZIxfXRf--ESaALg_Yw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-07-19T11:12:58.786218804Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxUGMydHhRa3RUUlVWNFRrcFhlamxLVjJoSExWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxUGMydHhRa3RUUlVWNFRrcFhlamxLVjJoSExWRRAB!2m1!1s0x3404013d9cf8575f:0xaa428c562daa2b00"
+      }
+    ],
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404013d9cf8575f:0xaa428c562daa2b00!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12268522636671855360&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404013d9cf8575f:0xaa428c562daa2b00!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404013d9cf8575f:0xaa428c562daa2b00!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404013d9cf8575f:0xaa428c562daa2b00!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJX1f4nD0BBDQRACuqLVaMQqo/photos/Aa-ngMY8jX2nSITK23KmDwSA-l388nfcg_9ikg0n6fBSud4aEaNa0-AmAHnmV9TRH0JiadP0oMSO27lWtLAhqX1rWec5g_361nLkj6q0Ba56Bjeqo6uOjjpUwoaYgRdwLAJ7czAjHodVyXXicDZqquD3878G3nOg11dUadLHw6gXLueQ8-Qa7HKfZFI2miPwqmCW8FEKKwJi2oF4kV8-JJTJ-Fbqc5fSqt0ZqESBW5XeCej8imGcyMBMpoZgxPy19_DoI-_CvrqjKFnz1-7WpBH4W4OlbslrOZ8tVcQv1QDEOwB9iT1Z1v-iwYzb7-ShXyq-o4F0-IePJG6zbS1WYEgTpOhYoKX3pr10VGgbCqSXbEInfBsraNfL1XjvoDYRVpxCX14RG_Ni-Sg9VAH_D68SbF-QDQ",
+      "widthPx": 942,
+      "heightPx": 755,
+      "authorAttributions": [
+        {
+          "displayName": "Pizza Maru (Habour City LCX )",
+          "uri": "https://maps.google.com/maps/contrib/116011929664641234308",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo2T9QBjxa4B9RA1AsPafwUOyuZkCzQsGUmgVNotoZuA1ZuRo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICpgsGnLw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpgsGnLw!2e10!4m2!3m1!1s0x3404013d9cf8575f:0xaa428c562daa2b00"
+    },
+    "local_path": "photos/ChIJX1f4nD0BBDQRACuqLVaMQqo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7b-XA_NHWhQ2xEY83dI7WNrKF9krBviDp4-rG4yFJz3w0bvci5yyEqxod4EVikoYSSFPGqBX7hC2joVjpsO1JXfsmn4pJYF51TRs83bzSUMKTULDblwki0JXB4qgp6atV-O4=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 124083
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.pizzamaru.com.hk/menu",
+        "label": "Our Food",
+        "source_url": "https://www.pizzamaru.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "pizza_restaurant",
+    "label": "披薩餐廳",
+    "types": [
+      "pizza_restaurant",
+      "korean_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.pizzamaru.com.hk/menu"
+}

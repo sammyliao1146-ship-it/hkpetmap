@@ -1,0 +1,38 @@
+{
+  "id": "ChIJVVWFL5v_AzQRjXBz7LrVpHU",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Shop 3, G/F, 27 Praya, Kennedy Town, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.2848749,
+    "longitude": 114.1313479
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8477135397425737869&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Peticare Westland Animal Hospital-Animal Surgery Center",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJVVWFL5v_AzQRjXBz7LrVpHU/photos/Aa-ngMaipwCKGSdLSlxylQX1Fg41vlzresfObci4gAS-w84eHs2V5K2-hk0YbA6-1ra8Nf7LOCF7EXMU7aX-q1eHKxq38VLwLQ3WZrlQOuatKRV_NQzXNI822PCsJt2qdmN-ROjjBFBsRuAmNomDZLelRAH9maTlmPIeA7lk9qR9H8_AGgFma_U0Iqx7ZCxLHIxDTlV9NW-uPIrs5UY4vGPNDBvBNtpnHHswpzt0FDN1Xbq4v97g48ZeY_Zz3Uu-7qp1FTm4_13Ih7irNy0oZXkN_gU7xv6mkWTzHRpO4Wcb3es6-go1JGv3prFhf-iy3lE7XxkO990JcVhMyPd-4sYvxvI9yrDU_G52BYyh7v7iQyR-mcH1zO9i5cdCMmnntgFftCExWXX3m66Nzl03Phbuwb0S5V2A",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Peticare Westland Animal Hospital-Animal Surgery Center",
+          "uri": "https://maps.google.com/maps/contrib/106742528198442736173",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMfazJxJe8kGQN6y9O0v9rdPNKYZPXTdkpZMQ3HT11SBpV-w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC858WD4AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC858WD4AE!2e10!4m2!3m1!1s0x3403ff9b2f855555:0x75a4d5baec73708d"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:35.652805+00:00"
+}

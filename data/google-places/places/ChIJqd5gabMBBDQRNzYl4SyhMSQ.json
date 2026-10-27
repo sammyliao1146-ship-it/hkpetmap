@@ -1,0 +1,321 @@
+{
+  "google_place_id": "ChIJqd5gabMBBDQRNzYl4SyhMSQ",
+  "restaurant_ids": [
+    "restaurant:2218801457"
+  ],
+  "fetched_at": "2026-10-23T15:47:22.361855+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJqd5gabMBBDQRNzYl4SyhMSQ",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2849 2275",
+    "internationalPhoneNumber": "+852 2849 2275",
+    "formattedAddress": "Shop 103, Level 1, The Peak Tower, The Peak, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2712356,
+      "longitude": 114.1496427
+    },
+    "rating": 4.9,
+    "googleMapsUri": "https://maps.google.com/?cid=2608042873352173111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 20:00",
+        "星期二: 11:00 – 20:00",
+        "星期三: 11:00 – 20:00",
+        "星期四: 11:00 – 20:00",
+        "星期五: 11:00 – 20:00",
+        "星期六: 11:00 – 20:30",
+        "星期日: 11:00 – 20:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 1384,
+    "displayName": {
+      "text": "蘇浙小品 Petit Jardin",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJqd5gabMBBDQRNzYl4SyhMSQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kNWF6Vm9iMEp1WmpKWE9HczVhbFpmTUVOV1pGRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境優美，食物質素超美味，上嚟山項必試",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境優美，食物質素超美味，上嚟山項必試",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anny Lai",
+          "uri": "https://www.google.com/maps/contrib/110118939655843534002/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8htwFAl9ASr04Ghy155VA7qdBUN0Dq5ek2O9YlJV0Iyb6BLp5mw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-08-05T06:28:33.710507895Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kNWF6Vm9iMEp1WmpKWE9HczVhbFpmTUVOV1pGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kNWF6Vm9iMEp1WmpKWE9HczVhbFpmTUVOV1pGRRAB!2m1!1s0x340401b36960dea9:0x2431a12ce1253637"
+      },
+      {
+        "name": "places/ChIJqd5gabMBBDQRNzYl4SyhMSQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGSk9UTTRXWEJOVkMxalkzTlBiMEl5Vm5od05rRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "山頂擁有迷人的景色，亦都擁有精緻級的美食：蘇浙小品\n菜式的擺盤給予視覺的享受，服務人員的招待帶給客人愉快的心情\n特別要感謝該晚招待我們的服務員，必須讚美他們：「Alex、Fu、Lily」，殷勤的招呼、親切的笑容、貼心與細心，都集結在他們身上，多謝你們\n菜式方面，要以色香味俱全形容，文字上不能表達出好吃的感覺，要親身上來一次才能知道當刻的感覺",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "山頂擁有迷人的景色，亦都擁有精緻級的美食：蘇浙小品\n菜式的擺盤給予視覺的享受，服務人員的招待帶給客人愉快的心情\n特別要感謝該晚招待我們的服務員，必須讚美他們：「Alex、Fu、Lily」，殷勤的招呼、親切的笑容、貼心與細心，都集結在他們身上，多謝你們\n菜式方面，要以色香味俱全形容，文字上不能表達出好吃的感覺，要親身上來一次才能知道當刻的感覺",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CHEUNG香港人",
+          "uri": "https://www.google.com/maps/contrib/105841355784891212306/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgKhxt8Ip7SwZyHXZAJz60c382sAA-2wYtfSzzp7etIByUfQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-22T03:15:31.983534744Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGSk9UTTRXWEJOVkMxalkzTlBiMEl5Vm5od05rRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGSk9UTTRXWEJOVkMxalkzTlBiMEl5Vm5od05rRRAB!2m1!1s0x340401b36960dea9:0x2431a12ce1253637"
+      },
+      {
+        "name": "places/ChIJqd5gabMBBDQRNzYl4SyhMSQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkRk5UQjBjV3RhVFZGRVVIZ3pNVkZYVEhSVUxYYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境優美，服務態度認真，三色小籠包有特色",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境優美，服務態度認真，三色小籠包有特色",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Terri Yau",
+          "uri": "https://www.google.com/maps/contrib/102627430936326045652/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK60_mTzdPXdTW58Kq33p7JletlRw6o6VoEeL-tIJI0Fjz1ug=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-23T04:38:58.038559685Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkRk5UQjBjV3RhVFZGRVVIZ3pNVkZYVEhSVUxYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkRk5UQjBjV3RhVFZGRVVIZ3pNVkZYVEhSVUxYYxAB!2m1!1s0x340401b36960dea9:0x2431a12ce1253637"
+      },
+      {
+        "name": "places/ChIJqd5gabMBBDQRNzYl4SyhMSQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wc1VWVXdkbFZNV0cxcFUxTm1XRnBJVkdWT2FtYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳有維港景，食物味道ok 。建議加入更多菜式。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳有維港景，食物味道ok 。建議加入更多菜式。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "tong pak hei",
+          "uri": "https://www.google.com/maps/contrib/102156434712453633014/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQIpThTRzEj_XZ8gBMWhYHQFrIaLyqikJYu20X4nSQGvyLq4U=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-14T12:36:24.502530039Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wc1VWVXdkbFZNV0cxcFUxTm1XRnBJVkdWT2FtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wc1VWVXdkbFZNV0cxcFUxTm1XRnBJVkdWT2FtYxAB!2m1!1s0x340401b36960dea9:0x2431a12ce1253637"
+      },
+      {
+        "name": "places/ChIJqd5gabMBBDQRNzYl4SyhMSQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sTGF5MVBjM0ZmZUVGa2RUQlVWM00wVDFWRU5sRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "點了 五小福，紅油抄手同小籠包，三樣都好好食，加上山頂靚景，正呀，下次帶埋屋企人嚟食晚餐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "點了 五小福，紅油抄手同小籠包，三樣都好好食，加上山頂靚景，正呀，下次帶埋屋企人嚟食晚餐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Vincent Chow",
+          "uri": "https://www.google.com/maps/contrib/112855737415822280564/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHK14XWlfNpf4CbdWm6adC0mlGwORq-78UciQCBNR6myvv9kwU=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-18T06:26:38.857667021Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sTGF5MVBjM0ZmZUVGa2RUQlVWM00wVDFWRU5sRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sTGF5MVBjM0ZmZUVGa2RUQlVWM00wVDFWRU5sRRAB!2m1!1s0x340401b36960dea9:0x2431a12ce1253637"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401b36960dea9:0x2431a12ce1253637!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2608042873352173111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401b36960dea9:0x2431a12ce1253637!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401b36960dea9:0x2431a12ce1253637!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401b36960dea9:0x2431a12ce1253637!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJqd5gabMBBDQRNzYl4SyhMSQ/photos/Aa-ngMbjTrRxE-QPSO3GhRYydKk1eP72aF7gDIzvWA3xqQiQnKc8YUanamM97cBcu-tDvAfAQvtQSzC8sOuJJJQoD8uavsNFLehnppEQ8PXARu0M_VXEtIXQe2Z-9oH4molH-JGKR0N4uomk6RmupzdLGXr_OL99obBwBM8wcoEJlx3H0snVrhkAX7p7ytD5eq-0FaXeMNnl2QSQq2XN4CskUN8rkw2bSXOZNbDqsit0SeXQca7T-0TI9q2ixbKzVO1oRqfGIylDnfVqvTmgxepo6EX9VUHD_GVViUakTr4huxmG-G04PizPtiRRx4LpFy6e4bTIMe2Ph-s11rFUNFI2p9pXknhfAO9HoGXUe_BOCZSY-Q8yp37MGsrAXBqKhP0E3Me08f1bjvYP6mqSLJURzaSDVWY3xJWFjvVzh1mLZ-5NmA",
+      "widthPx": 4800,
+      "heightPx": 3201,
+      "authorAttributions": [
+        {
+          "displayName": "蘇浙小品 Petit Jardin",
+          "uri": "https://maps.google.com/maps/contrib/102840893390102846235",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgWPo64EtAJ2tDLR3d277hiCU84QjME0tEa8srjD9oKDYicUw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC0Tl8T2955tP7PNnt1uTMP&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC0Tl8T2955tP7PNnt1uTMP!2e10!4m2!3m1!1s0x340401b36960dea9:0x2431a12ce1253637"
+    },
+    "local_path": "photos/ChIJqd5gabMBBDQRNzYl4SyhMSQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLclVaAy8QuVMmqBGUZ4bh2tavoVJIeRKmeKN7MOolR-MNpKu9pAQ78a-zVmc39HOjJNpiCwB7riafVMst1SKihmL5DJRMMAeWqJVulvU6zWjgKtA8uOwZkopMnDoO4NuBIBTIPxok2NRjfH=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 112113
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

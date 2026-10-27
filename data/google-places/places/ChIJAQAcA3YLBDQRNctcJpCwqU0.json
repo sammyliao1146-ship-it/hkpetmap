@@ -1,0 +1,165 @@
+{
+  "google_place_id": "ChIJAQAcA3YLBDQRNctcJpCwqU0",
+  "restaurant_ids": [
+    "restaurant:2296802672"
+  ],
+  "fetched_at": "2026-10-23T15:42:45.372885+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJAQAcA3YLBDQRNctcJpCwqU0",
+    "types": [
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港新界沙頭角沙頭角邨30座",
+    "location": {
+      "latitude": 22.5388236,
+      "longitude": 114.21319659999999
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=5596198145149946677&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 6,
+    "displayName": {
+      "text": "沙頭角有機農莊",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "農場",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "farm",
+    "reviews": [
+      {
+        "name": "places/ChIJAQAcA3YLBDQRNctcJpCwqU0/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwdDZtQWNnEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 5,
+        "text": {
+          "text": "有機農莊，自制紙包雞及茶粿工坊，遊賞果園，飼山羊，白兔，小豬。\n一小時後品嘗自制焗雞及茶粿",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有機農莊，自制紙包雞及茶粿工坊，遊賞果園，飼山羊，白兔，小豬。\n一小時後品嘗自制焗雞及茶粿",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "C Christy",
+          "uri": "https://www.google.com/maps/contrib/115000845431643794121/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZprqJZ_CJM2Ggbq2WSQ4wnzreu9I-gFtq7-1MWht0Z-1igXlX=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2019-10-14T05:10:01.121978Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMwdDZtQWNnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMwdDZtQWNnEAE!2m1!1s0x34040b76031c0001:0x4da9b090265ccb35"
+      },
+      {
+        "name": "places/ChIJAQAcA3YLBDQRNctcJpCwqU0/reviews/ChdDSUhNMG9nS0VJQ0FnSURqcXVuaHF3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "附近有紅樹林",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "附近有紅樹林",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anky Chan",
+          "uri": "https://www.google.com/maps/contrib/113502156059788212917/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAZHreQAUNdPz7jyAnSds17KagklciNkzJvsbAdDIpHrWiJVYZJQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-05-11T19:54:39.846634Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqcXVuaHF3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqcXVuaHF3RRAB!2m1!1s0x34040b76031c0001:0x4da9b090265ccb35"
+      },
+      {
+        "name": "places/ChIJAQAcA3YLBDQRNctcJpCwqU0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQteWQ3a0FnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Allen LAU",
+          "uri": "https://www.google.com/maps/contrib/104159267502461567130/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBfrZsjjLGRzVJYueRUrNt0acv0lV-uHew0mntx61WzCAI_Wuhyw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-12-03T06:54:04.909134Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQteWQ3a0FnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQteWQ3a0FnEAE!2m1!1s0x34040b76031c0001:0x4da9b090265ccb35"
+      },
+      {
+        "name": "places/ChIJAQAcA3YLBDQRNctcJpCwqU0/reviews/ChZDSUhNMG9nS0VJQ0FnSURVZ29POGFBEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Alan Cheung",
+          "uri": "https://www.google.com/maps/contrib/104171185159907057210/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtWDZMCgf92YTKydM8_ugF7e1Ldx17ICmhF9mrw8i9gMKHZaRW=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2019-08-17T22:25:38.317525Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURVZ29POGFBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURVZ29POGFBEAE!2m1!1s0x34040b76031c0001:0x4da9b090265ccb35"
+      },
+      {
+        "name": "places/ChIJAQAcA3YLBDQRNctcJpCwqU0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNncmQ2bERBEAE",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "victor",
+          "uri": "https://www.google.com/maps/contrib/102876970698718150823/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkukMGZW5dMYbO5dWvl-3E9_qNwnzJLTksWTlmiaEZ5KDNFJcL=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2018-06-02T04:46:25.199Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNncmQ2bERBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNncmQ2bERBEAE!2m1!1s0x34040b76031c0001:0x4da9b090265ccb35"
+      }
+    ],
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040b76031c0001:0x4da9b090265ccb35!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5596198145149946677&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040b76031c0001:0x4da9b090265ccb35!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040b76031c0001:0x4da9b090265ccb35!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040b76031c0001:0x4da9b090265ccb35!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJAQAcA3YLBDQRNctcJpCwqU0/photos/Aa-ngMYR-nGONqAXvu7AF6FrQ779gh0weycdUmQ3eVXztD9M8T0ekm_tWqk2pkkB0spILM6zXLLX68cPGMKrFAlJTqbpDAIycTqeDpV5xkPI7ugPfgwtQ--Y32jkbtcmQI7DrSN0s9eaP9cvBq2POZARAI1viN34FgreZMJqGtj1de9djsYhlOgjSM62NeVzl7bxJzCvRF5oHpRHg3Kb3bVj0RZeVyuujDR1oTCAGInozjguVgqqKPErrQoKwsJbZVpi5Y3ENd7-zP0SlWTYbU02QLe3vFAzUzHIpOCQaDtPbnE4AJySiNC_ToU48rs1LWoCf8Mcc8NhlORbpXK_CbLKTBDgRzlLANSupJdAajmbZdr4I5o2Z2oC63E3cOSwoO1nyYvk7t1sD2QWr0Pr3diepxjYkA1mea0",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "ip celia",
+          "uri": "https://maps.google.com/maps/contrib/116309246781208033888",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5U_BfkKtZz-4GlYMxI7AL3wjrHAJYAmEISxiYJXCpt-d7Rg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICl-MX5ugE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl-MX5ugE!2e10!4m2!3m1!1s0x34040b76031c0001:0x4da9b090265ccb35"
+    },
+    "local_path": "photos/ChIJAQAcA3YLBDQRNctcJpCwqU0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXHIr4CPHo425NhgLfN3fk59axkGq1eEzMaz8mYYj1aD9vyrI1yyJY4Xp9peguQe5a_Ye8cjwE0VmErfIL6rOeJilchsKrVl2l9F0fk3K5BUZOCIH1H3kRNEGUeHh2wfSWkDp0nA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 248417
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "farm",
+    "label": "農場",
+    "types": [
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

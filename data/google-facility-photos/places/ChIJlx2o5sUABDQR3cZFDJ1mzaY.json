@@ -1,0 +1,38 @@
+{
+  "id": "ChIJlx2o5sUABDQR3cZFDJ1mzaY",
+  "types": [
+    "pet_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍何文田太平道5號G/F, Shop 5",
+  "location": {
+    "latitude": 22.318393000000004,
+    "longitude": 114.17407499999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12019375805223519965&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Hong Kong Doggie House",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJlx2o5sUABDQR3cZFDJ1mzaY/photos/Aa-ngMbZRA_xHFpe4RGxThhUC3edpuj6nAvBfhG4cXMlIVPzAiTCY8VfMnObOvGy1YKkOgI7qM0DUpAOJdwMwc_ngbsXvFaC2MPtCRqI5830un3EJ6eQoThIzxtgUuQNzM5qA5bdbbI_4c09Qgq5JGPaZT-Uk1whwbkIuYAaCouYeAm3BHeyMVkMpt3xQGMPhXTh3MPnbjRqUguINVQlU0B_CeRjbcUQWZaV3F2qc5JfgZvbFIe4jl2jnejGCNoxUQCarIZ7TSEktVIMvb187pvraIyDjeEQYQ1tfF4mEDuuygVoeSTF3rlz7bFut6yJWR4wOtgty7QzyxxfgGvT0ak0eWsj-M0P1RSy3p5N9LLAtBQbogC8Y0rCgPcDbAXYiXdv-sUc4xn_8VN4naGA27GPYk1V6Nz1F2Q",
+      "widthPx": 1079,
+      "heightPx": 1258,
+      "authorAttributions": [
+        {
+          "displayName": "Anna Tang",
+          "uri": "https://maps.google.com/maps/contrib/105996005853561616672",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqK8WjPIOrXm-3f4RNXtisxw6PG2DNLe8_lhuXzIOEQ56BbVk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDcn-rm2gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcn-rm2gE!2e10!4m2!3m1!1s0x340400c5e6a81d97:0xa6cd669d0c45c6dd"
+    }
+  ],
+  "photo_count": 5,
+  "fetched_at": "2026-10-24T00:38:08.491258+00:00"
+}

@@ -1,0 +1,410 @@
+{
+  "google_place_id": "ChIJJcCrWTABBDQRmxcMfBPVYcg",
+  "restaurant_ids": [
+    "restaurant:2252809479"
+  ],
+  "fetched_at": "2026-10-23T15:39:55.146664+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJJcCrWTABBDQRmxcMfBPVYcg",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2155 9912",
+    "internationalPhoneNumber": "+852 2155 9912",
+    "formattedAddress": "Shop G37-38, Peninsula Centre, 67 Mody Rd, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.2992041,
+      "longitude": 114.1776799
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=14439056159988783003&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.instagram.com/asura_thai",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 16:00, 18:00 – 22:30",
+        "星期二: 12:00 – 16:00, 18:00 – 22:30",
+        "星期三: 12:00 – 16:00, 18:00 – 22:30",
+        "星期四: 12:00 – 16:00, 18:00 – 22:30",
+        "星期五: 12:00 – 16:00, 18:00 – 22:30",
+        "星期六: 12:00 – 16:00, 18:00 – 22:30",
+        "星期日: 12:00 – 16:00, 18:00 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 272,
+    "displayName": {
+      "text": "泰沾麵",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJJcCrWTABBDQRmxcMfBPVYcg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWVmR6ZGlOemg1WVRKQ1NrRkRZbmxtV1ZwdFQwRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "小編一向都對泰菜情有獨鍾，而小編今次就同屋企人踡窿踡罅黎到一間隱於小巷入面既地道泰菜館\n\n✨️泰式燒雞 $128\n燒雞即嗌即燒，賣相燒得幾靚仔，配埋醬汁啖啖肉幾惹味🤤👍🏻\n\n✨️即燒豬頸肉 $88\n燒豬頸肉燒得幾香，配埋個汁幾惹味🤤👍🏻👍🏻\n\n✨️老媽手打蝦餅 $98\n蝦餅炸得金黃，食落酥脆彈牙🤤👍🏻\n\n✨️醉鬼雞肉炒河 $98\n炒得好有鑊氣，配料比得算多，食落幾辣幾惹味🤤👍🏻👍🏻\n\n✨️大蝦炒金邊粉 $118\n上枱個陣仲出緊煙，炒得非常有鑊氣，食落酸酸甜甜帶香辣同埋蝦乾既香味🤤👍🏻👍🏻\n\n✨️芒果糯米飯 $78\n經典泰式甜品，芒果香甜，糯米飯軟糯🤤👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "小編一向都對泰菜情有獨鍾，而小編今次就同屋企人踡窿踡罅黎到一間隱於小巷入面既地道泰菜館\n\n✨️泰式燒雞 $128\n燒雞即嗌即燒，賣相燒得幾靚仔，配埋醬汁啖啖肉幾惹味🤤👍🏻\n\n✨️即燒豬頸肉 $88\n燒豬頸肉燒得幾香，配埋個汁幾惹味🤤👍🏻👍🏻\n\n✨️老媽手打蝦餅 $98\n蝦餅炸得金黃，食落酥脆彈牙🤤👍🏻\n\n✨️醉鬼雞肉炒河 $98\n炒得好有鑊氣，配料比得算多，食落幾辣幾惹味🤤👍🏻👍🏻\n\n✨️大蝦炒金邊粉 $118\n上枱個陣仲出緊煙，炒得非常有鑊氣，食落酸酸甜甜帶香辣同埋蝦乾既香味🤤👍🏻👍🏻\n\n✨️芒果糯米飯 $78\n經典泰式甜品，芒果香甜，糯米飯軟糯🤤👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Louis Wong",
+          "uri": "https://www.google.com/maps/contrib/111064621079061577319/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQCBMF8NhlpYXqR6t3OoOuI0C-sWv2FHB-dLl2T14rsacM7C7m=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-09-14T05:12:24.564441056Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWVmR6ZGlOemg1WVRKQ1NrRkRZbmxtV1ZwdFQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWVmR6ZGlOemg1WVRKQ1NrRkRZbmxtV1ZwdFQwRRAB!2m1!1s0x3404013059abc025:0xc861d5137c0c179b"
+      },
+      {
+        "name": "places/ChIJJcCrWTABBDQRmxcMfBPVYcg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KUU9IQTVVVFJ2WVhkUFEyRkpaM05VVlZOcGNIYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 3,
+        "text": {
+          "text": "嘢食出色但環境麻麻~ 齋講嘢食嘅話係幾好食, 不過坐得真係唔太舒服 一坐埋位就見到有啲烏蠅仔飛吓飛吓🪰~冷氣又勁凍 最後其實那那聲食完就快快走\n\n食左個雞肉炒河同泰duck鴨沙菜包\n炒河啲河粉真係幾好食 唔會一餅嘢 一條條好薄好煙靭！\n\n如果鍾意食香料嘅話沙菜包都好讚！好重檸檬葉嘅味！比起其他餐廳香料味多啲！\n\n整體嚟講都好食！係環境真係差少少！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "嘢食出色但環境麻麻~ 齋講嘢食嘅話係幾好食, 不過坐得真係唔太舒服 一坐埋位就見到有啲烏蠅仔飛吓飛吓🪰~冷氣又勁凍 最後其實那那聲食完就快快走\n\n食左個雞肉炒河同泰duck鴨沙菜包\n炒河啲河粉真係幾好食 唔會一餅嘢 一條條好薄好煙靭！\n\n如果鍾意食香料嘅話沙菜包都好讚！好重檸檬葉嘅味！比起其他餐廳香料味多啲！\n\n整體嚟講都好食！係環境真係差少少！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dingding Yeung",
+          "uri": "https://www.google.com/maps/contrib/105958071521889082780/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKk8gx3A7P4AzgCtkGvfS8B7Rs0k2HcLUi9RVqRne19DQVsXIv=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-03-22T11:12:50.166738648Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KUU9IQTVVVFJ2WVhkUFEyRkpaM05VVlZOcGNIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KUU9IQTVVVFJ2WVhkUFEyRkpaM05VVlZOcGNIYxAB!2m1!1s0x3404013059abc025:0xc861d5137c0c179b"
+      },
+      {
+        "name": "places/ChIJJcCrWTABBDQRmxcMfBPVYcg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoVU0yaFhSV1ZxWlVSTlZIZ3hOWEUwUkhCRlduYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Asura 泰沾麵完美保留咗泰國街頭飲食最吸引人嘅靈魂——濃郁嘅香料、爆棚嘅鑊氣，仲有嗰啲酸酸辣辣、令人食慾大爆發嘅惹味醬汁！ 每一口都非常貼地❤️❤️❤️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Asura 泰沾麵完美保留咗泰國街頭飲食最吸引人嘅靈魂——濃郁嘅香料、爆棚嘅鑊氣，仲有嗰啲酸酸辣辣、令人食慾大爆發嘅惹味醬汁！ 每一口都非常貼地❤️❤️❤️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Supersuperb",
+          "uri": "https://www.google.com/maps/contrib/107639458895708802552/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLhcmnMUD2o_0XcrV2dWHAKkP80XTEJnHQ4MbLD_WzHpwI7JA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-20T13:17:09.936601700Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoVU0yaFhSV1ZxWlVSTlZIZ3hOWEUwUkhCRlduYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoVU0yaFhSV1ZxWlVSTlZIZ3hOWEUwUkhCRlduYxAB!2m1!1s0x3404013059abc025:0xc861d5137c0c179b"
+      },
+      {
+        "name": "places/ChIJJcCrWTABBDQRmxcMfBPVYcg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxRmQwZ3llR1V6V21kWFdEaHJRakF6V1VReFpHYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "## 泰沾麵Asura：大蝦炒金邊粉\n\n金邊粉炒得爽口彈牙，酸酸甜甜好開胃，兩隻大蝦夠爽口，仲有啲蝦仔一齊炒，好味道。配個青檸擠汁落去，更加開胃解膩。泰式奶茶夠地道，奶茶味濃郁，值得一試。\n\nSources",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "## 泰沾麵Asura：大蝦炒金邊粉\n\n金邊粉炒得爽口彈牙，酸酸甜甜好開胃，兩隻大蝦夠爽口，仲有啲蝦仔一齊炒，好味道。配個青檸擠汁落去，更加開胃解膩。泰式奶茶夠地道，奶茶味濃郁，值得一試。\n\nSources",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mic Mak",
+          "uri": "https://www.google.com/maps/contrib/111920907803822759834/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIvsDM50gk4Gx6r0utq7rMMxvMrpaSIw-Yzi2o-w1qmpmyM68=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-14T09:32:04.138499871Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxRmQwZ3llR1V6V21kWFdEaHJRakF6V1VReFpHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxRmQwZ3llR1V6V21kWFdEaHJRakF6V1VReFpHYxAB!2m1!1s0x3404013059abc025:0xc861d5137c0c179b"
+      },
+      {
+        "name": "places/ChIJJcCrWTABBDQRmxcMfBPVYcg/reviews/ChZDSUhNMG9nS0VMejIwTV9EN2NuS0tBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "超正宗又抵食的泰國菜，推介！\n\n第一次嚟尖沙咀嘅 泰沾麵，已經愛上！每一道菜都充滿地道泰式風味，水準好高。\n\n🥢 炒金邊粉（，炒得乾身又香口，蝦夠大隻又新鮮，酸甜味平衡得剛剛好，擠埋青檸一齊食，超正！\n\n🌶️ 青木瓜沙律，酸辣醒胃，青木瓜爽脆，配搭番茄、花生，每啖都充滿層次感。😍\n\n🥬 豬肉生菜包：香料味濃郁，豬肉炒得乾身入味，用生菜包住一齊食非常清新又解膩。\n\n環境乾淨舒適，服務人員有禮又親切，食物出菜快，性價比高。無論朋友聚餐定平日想食好味泰菜都好適合，一定會再回訪！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "超正宗又抵食的泰國菜，推介！\n\n第一次嚟尖沙咀嘅 泰沾麵，已經愛上！每一道菜都充滿地道泰式風味，水準好高。\n\n🥢 炒金邊粉（，炒得乾身又香口，蝦夠大隻又新鮮，酸甜味平衡得剛剛好，擠埋青檸一齊食，超正！\n\n🌶️ 青木瓜沙律，酸辣醒胃，青木瓜爽脆，配搭番茄、花生，每啖都充滿層次感。😍\n\n🥬 豬肉生菜包：香料味濃郁，豬肉炒得乾身入味，用生菜包住一齊食非常清新又解膩。\n\n環境乾淨舒適，服務人員有禮又親切，食物出菜快，性價比高。無論朋友聚餐定平日想食好味泰菜都好適合，一定會再回訪！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "E",
+          "uri": "https://www.google.com/maps/contrib/103153677292265405446/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX371HAEngCOAP8Ch2GOpx74sCJdtBnukkBr2fzWC_2jXnjGTyR4A=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-05-27T20:28:52.334497Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VMejIwTV9EN2NuS0tBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMejIwTV9EN2NuS0tBEAE!2m1!1s0x3404013059abc025:0xc861d5137c0c179b"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404013059abc025:0xc861d5137c0c179b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14439056159988783003&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404013059abc025:0xc861d5137c0c179b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404013059abc025:0xc861d5137c0c179b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404013059abc025:0xc861d5137c0c179b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJJcCrWTABBDQRmxcMfBPVYcg/photos/Aa-ngMYm6qOzVM38Rd4D8ic4co2sh7cwCq9rG8HkG3ZOfbP0jBgR-ezENRyYGWUsA_G87_VvNTjvymbmExsuy8aMhWG1z2hHWKzgVH-ZRYbW7EoqKl9MzdivUTciHWmWGFgviU92DMGeeQLbiCOjPb6iIBzecYhWRTH1C1GItjilBDc2v_ugU-DkodYLnHy1SbDr8V4KcT5OnPnt755CG5zRsmIMSKXZUOG19_NR2N3VHV0O1B7zNSoRAK-Wck0rjkDSQRhYVFs7K6T8rzL2vgfBcNWMEHFMchNpejQejvvqEMqt2bCFZ4BPiRCtTiyH7opT6G1r4xwg2BaMsgfz4TjI6rzryYtHIp3woJdm9Iy8weXvcTJFvtjXe2D_NpVuIuwTXYzw63MViuvu7VGtsUUUMvHx-ZtM",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Henry Lai",
+          "uri": "https://maps.google.com/maps/contrib/111004064511236591173",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl0bFSOUrI6vQlX252zyy-rvK5_szOyPZwX02DuInB8m49wEDX=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhm8DnuwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhm8DnuwE!2e10!4m2!3m1!1s0x3404013059abc025:0xc861d5137c0c179b"
+    },
+    "local_path": "photos/ChIJJcCrWTABBDQRmxcMfBPVYcg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7SgeTr1ZrIARt39FHmgFHmKpDAsjgmjGQFyBUIoDvWLIgcOUh72XJWPym21-_1LfVuIeob_atFSq3YApc3Vq2CBAGbo-PBk4yGAmxsCJq0ifW-PtwkkUHjBlEFUOuvoFJ_gSg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 308477
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,293 @@
+{
+  "google_place_id": "ChIJJXNREafwAzQR597QljS0EGI",
+  "restaurant_ids": [
+    "restaurant:2294809101"
+  ],
+  "fetched_at": "2026-10-23T15:38:07.084368+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJJXNREafwAzQR597QljS0EGI",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2476 2227",
+    "internationalPhoneNumber": "+852 2476 2227",
+    "formattedAddress": "香港新界元朗鳳翔路5號偉發大廈地下6-11號",
+    "location": {
+      "latitude": 22.443949,
+      "longitude": 114.032848
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=7066345953305878247&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://wty.pokoi.org.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 18:00",
+        "星期二: 08:00 – 18:00",
+        "星期三: 08:00 – 18:00",
+        "星期四: 08:00 – 18:00",
+        "星期五: 08:00 – 18:00",
+        "星期六: 08:00 – 18:00",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 36,
+    "displayName": {
+      "text": "王東源夫人長者地區中心-綜合家居照顧服務隊",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "服務業",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "service",
+    "reviews": [
+      {
+        "name": "places/ChIJJXNREafwAzQR597QljS0EGI/reviews/ChdDSUhNMG9nS0VJQ0FnSURxc29IQTR3RRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 3,
+        "text": {
+          "text": "裝修後的中心，地方窄了，但它曾加了車輛送飯給鄉村的獨居長者，義工和社工都盡心盡力為區內的長者提供服務，愛心可嘉呢！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "裝修後的中心，地方窄了，但它曾加了車輛送飯給鄉村的獨居長者，義工和社工都盡心盡力為區內的長者提供服務，愛心可嘉呢！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YuenChu Hung",
+          "uri": "https://www.google.com/maps/contrib/109304582811100091494/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJmRjDSn0xfxSq9OebTDCwVsqD1siooIkIHwna8z92tjlCBig=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2021-07-04T04:00:52.153866Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURxc29IQTR3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURxc29IQTR3RRAB!2m1!1s0x3403f0a711517325:0x6210b43496d0dee7"
+      },
+      {
+        "name": "places/ChIJJXNREafwAzQR597QljS0EGI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxLXFmSkNREAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "社工友善熱誠，支援區內長者病友，提供多方服務，貢獻良多！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "社工友善熱誠，支援區內長者病友，提供多方服務，貢獻良多！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "PING",
+          "uri": "https://www.google.com/maps/contrib/118261864960728762033/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLi6HXYUpRlPO5s5jUwKrdJ5eJrgJ0LhbOAbLyZs32deGfw2g=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2021-06-04T11:58:35.761180Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNxLXFmSkNREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxLXFmSkNREAE!2m1!1s0x3403f0a711517325:0x6210b43496d0dee7"
+      },
+      {
+        "name": "places/ChIJJXNREafwAzQR597QljS0EGI/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwOGVpQ2R3EAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 4,
+        "text": {
+          "text": "中心清潔,職員友善細心,有問必答,正正正.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "中心清潔,職員友善細心,有問必答,正正正.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YUEN LI LI",
+          "uri": "https://www.google.com/maps/contrib/106996816091216504800/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKCvxXZu33DEIvZeDKE874O0QHvGkrE02dEFX2W3Ik-Z8RHTg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2019-11-22T03:35:18.770490Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQwOGVpQ2R3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQwOGVpQ2R3EAE!2m1!1s0x3403f0a711517325:0x6210b43496d0dee7"
+      },
+      {
+        "name": "places/ChIJJXNREafwAzQR597QljS0EGI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLME9hckJnEAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "姑娘也很細心的為每位長者了解",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "姑娘也很細心的為每位長者了解",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Abc Abc",
+          "uri": "https://www.google.com/maps/contrib/114254435644940177748/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlu1GmkACT2kROSs9OAQs_FjbNLM_CDnK5DJl3fTo3tA6daw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2021-03-25T09:06:22.797932Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNLME9hckJnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNLME9hckJnEAE!2m1!1s0x3403f0a711517325:0x6210b43496d0dee7"
+      },
+      {
+        "name": "places/ChIJJXNREafwAzQR597QljS0EGI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRaW9TOC1nRRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "text": {
+          "text": "鄰舍及地區綜合中心，有多樣化服務。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "鄰舍及地區綜合中心，有多樣化服務。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ming Fai Chan",
+          "uri": "https://www.google.com/maps/contrib/117823056743345697382/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVMKEnv6Pmfd8gygPLOPYqq-U0iPcsiiWr3QtIZmWkh9FoAvzPYg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2018-09-12T08:16:00.810675Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRaW9TOC1nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRaW9TOC1nRRAB!2m1!1s0x3403f0a711517325:0x6210b43496d0dee7"
+      }
+    ],
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f0a711517325:0x6210b43496d0dee7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7066345953305878247&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f0a711517325:0x6210b43496d0dee7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f0a711517325:0x6210b43496d0dee7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f0a711517325:0x6210b43496d0dee7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJJXNREafwAzQR597QljS0EGI/photos/Aa-ngMabWPaXmwlfZ9glHtNkiUxjB3W7HZFKYfTN_pmrLofmMUHCVCctudioZqF7b9PDQ2FHshYzvd1e8N2W1IENmeewyA8MH3g9EipbTKTqxX4ypWmqJYLLG4gYLtZDzQ2Hi53MkWWBfXU-i1ZkxyVtXJ28yjHFegkztp3WrkFLesvLutD3RbKonVdwG8OJqJ9fzkfaP6FgiAC_gklbwNjh5SrF-YNz7IBcq5NYvhBPQg1P-j-Y70hVVAKXC2leximUh6g5dG92W7x2oH2Gf0bd5mhdYv9bTp8yXiK-Ydq-OkNgTRwqNKrNWtEz4m8Ukk5QlVlP00DeVInUDjYkmKX3ANulBAemeE-nXW51eFFAkZr9hoRC6WPJqn6CpFMZsrvOjr_2qAua2cQW2EnjlF1LF9-BSUw",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Tak Lik Ma",
+          "uri": "https://maps.google.com/maps/contrib/104001185915167449982",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWy0mTg2l4ZS5KruNJ8Jz0C5x-wXTQ5_Xn8aoteonfQT_ex3-rJMw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDu_M--MA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu_M--MA!2e10!4m2!3m1!1s0x3403f0a711517325:0x6210b43496d0dee7"
+    },
+    "local_path": "photos/ChIJJXNREafwAzQR597QljS0EGI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxX9G3BvYMLDGYjfTJCwVdSA3yThdoVCAIGR30kRVRe07ge6p3io3y9wiZW-hKOrlFQi8J25xa0QS1Cm1mNAwbDFaehkYaUlHaORbprBz8Ocgs0RSt45MpeCTXDIlBUkj5RLye=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 189669
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://wty.pokoi.org.hk/file/show/224",
+        "label": "本週菜單",
+        "source_url": "https://wty.pokoi.org.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://wty.pokoi.org.hk/file/show/220",
+        "label": "下週菜單",
+        "source_url": "https://wty.pokoi.org.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "service",
+    "label": "服務業",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://wty.pokoi.org.hk/file/show/224"
+}

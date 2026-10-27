@@ -1,0 +1,41 @@
+{
+  "id": "ChIJoUWTkKv4AzQR06DdPmC6HSQ",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "doctor",
+    "health",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "G/F Shop N29B3, 2-8 Humbert St, Mei Foo Sun Chuen, Kowloon, 香港",
+  "location": {
+    "latitude": 22.3391351,
+    "longitude": 114.1394002
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2602441082224353491&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "美孚獸醫醫院",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJoUWTkKv4AzQR06DdPmC6HSQ/photos/Aa-ngMbqLV-vAe-atVF5cVbicAgav5zhUm7VcRLjZbKCk3Qu6xnE5knjHowUpjFQGmI8SRFBDMwFKmbL2cRQN1_yYg8merN5gxJg5ZIt4J9-ZxJX6o_MqTe1i4meWzA6kK92C_F_jl5GxhIP6_jIEj474dOdeyX-Gr4A0T-IODFINVt17ZmRiYEfaCBEs5wGIRL4ugP9qQWgpAD8eEgyzb42rMUu8dXVNe8nvRdhiK68juzHD1i8O5lLlxjJ9fm2tQL032a0fmAfpmHNLuIbkVqx10ifP_BrUaz-ckcjrcWAWa-wETHm8Kmd-iWZKollSqfPJ-aTQioFU3pUsFx5YQ3dP9Wxua6mRA8LNqGReWOKADjTw6TV1cPAzfpFhTU2eML7xNg74-KM0VPJ_cQ9QOe52CvszmPS0SZRr42MCDsIIImN",
+      "widthPx": 1600,
+      "heightPx": 1010,
+      "authorAttributions": [
+        {
+          "displayName": "Mei Foo Veterinary Hospital",
+          "uri": "https://maps.google.com/maps/contrib/116106817954290041049",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLM3LqbwJo3IlB9PjJnYzjQYmRxusu_ZU91P_zpv1RtB8AxU-d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBUWjigvbYrJIKrI1tSbZhY&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBUWjigvbYrJIKrI1tSbZhY!2e10!4m2!3m1!1s0x3403f8ab909345a1:0x241dba603edda0d3"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:40.398498+00:00"
+}

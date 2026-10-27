@@ -1,0 +1,403 @@
+{
+  "google_place_id": "ChIJw29Vj5sBBDQR8Ly5_KOFbY4",
+  "restaurant_ids": [
+    "restaurant:2262813299"
+  ],
+  "fetched_at": "2026-10-23T15:43:53.503155+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJw29Vj5sBBDQR8Ly5_KOFbY4",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9012 7436",
+    "internationalPhoneNumber": "+852 9012 7436",
+    "formattedAddress": "香港九龍大角咀博文街28號",
+    "location": {
+      "latitude": 22.3195582,
+      "longitude": 114.1607901
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=10263006065213422832&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 15:45, 17:30 – 22:00",
+        "星期二: 11:30 – 15:45, 17:30 – 22:00",
+        "星期三: 11:30 – 15:45, 17:30 – 22:00",
+        "星期四: 11:30 – 15:45, 17:30 – 22:00",
+        "星期五: 11:30 – 15:45, 17:30 – 22:00",
+        "星期六: 10:00 – 15:45, 17:30 – 22:00",
+        "星期日: 10:00 – 15:45, 17:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 114,
+    "displayName": {
+      "text": "Hygge",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJw29Vj5sBBDQR8Ly5_KOFbY4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSaU0xQlFTazF4YUhOQk1rWklNVWhIV2taR1QxRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "期待咗非常耐嘅一間餐廳終於喺大角咀開咗，地點方便咗好多。食物質素我覺得嗰個範疇都有兩點，選擇方面有特色同埋期待可以試唔同類型，大概覺得菜式同埋烹調手法都合適到位。\n\n鍾意佢哋嘅pizza同埋青口，稍為覺得扒類嘅安排係比較一般，選擇少，同埋個餐嘅時候佢都冇問你要幾多成熟。\n\n環境空間都舒服，可以枱之間嘅空間都足夠，有足夠私隱度傾偈。\n\n美中不足嘅係覺得奶昔嘅份量可以多啲。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "期待咗非常耐嘅一間餐廳終於喺大角咀開咗，地點方便咗好多。食物質素我覺得嗰個範疇都有兩點，選擇方面有特色同埋期待可以試唔同類型，大概覺得菜式同埋烹調手法都合適到位。\n\n鍾意佢哋嘅pizza同埋青口，稍為覺得扒類嘅安排係比較一般，選擇少，同埋個餐嘅時候佢都冇問你要幾多成熟。\n\n環境空間都舒服，可以枱之間嘅空間都足夠，有足夠私隱度傾偈。\n\n美中不足嘅係覺得奶昔嘅份量可以多啲。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Aliz Leung",
+          "uri": "https://www.google.com/maps/contrib/114259728837172601082/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3RtINPlFFKaWzikyXhcMDnk0l-QdnDgugu_h1RTun0jBuOysY=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-21T07:32:09.741198455Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSaU0xQlFTazF4YUhOQk1rWklNVWhIV2taR1QxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSaU0xQlFTazF4YUhOQk1rWklNVWhIV2taR1QxRRAB!2m1!1s0x3404019b8f556fc3:0x8e6d85a3fcb9bcf0"
+      },
+      {
+        "name": "places/ChIJw29Vj5sBBDQR8Ly5_KOFbY4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VelNVdFNWVzFMU1cxMVRHSXlWbFYzYzFNMWRuYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Pizza真係好好食。海鮮意粉個汁堅好食，香濃嘅蝦蟹味， 用Pizza邊點埋個汁食，一流。個海鮮汁真係好濃，如果對蝦有輕微敏感，可能要食少啲。\n法式Crepe 正常發揮\n紫蘇檸檬梳打 冇紫蘇味 $50可以skip",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Pizza真係好好食。海鮮意粉個汁堅好食，香濃嘅蝦蟹味， 用Pizza邊點埋個汁食，一流。個海鮮汁真係好濃，如果對蝦有輕微敏感，可能要食少啲。\n法式Crepe 正常發揮\n紫蘇檸檬梳打 冇紫蘇味 $50可以skip",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "K C",
+          "uri": "https://www.google.com/maps/contrib/102406088584468824316/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ8RnNEhqoSJyNFTXfVkb4ik5YvZXBomn9qlos7m73ayYRy0w=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-01T18:26:25.930740726Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VelNVdFNWVzFMU1cxMVRHSXlWbFYzYzFNMWRuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VelNVdFNWVzFMU1cxMVRHSXlWbFYzYzFNMWRuYxAB!2m1!1s0x3404019b8f556fc3:0x8e6d85a3fcb9bcf0"
+      },
+      {
+        "name": "places/ChIJw29Vj5sBBDQR8Ly5_KOFbY4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaZldHOTVTVlU0ZVdkdlEwdG1MVFJEWlhCVGQwRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 3,
+        "text": {
+          "text": "依間一直都喺收藏名單入面，\n不過將軍澳分店實在太遠所以遲遲未去 ꒰ ˊ ^ ˋ ꒱\n最近得知大角咀開分店，終於可以試試了 ~\n門口係白色木系設計，入面係簡約小清新風格，\n好有空間感，落地窗旁邊有自然光影相更靚。\n\n○ 意 式 風 乾 豬 臉 頰 薄 餅 // $178\n睇網上介紹原來依度既 ᴘɪᴢᴢᴀ ᴅᴏᴜɢʜ\n係同本地麵包店「品穀」麵包師共同研發。\n外脆內煙韌批底薄得嚟夠承托力，又唔會油淋淋，\n批邊發酵充足，上枱後放咗陣仲係脆的，\n咬落非常煙韌 ( ੭ ˙ ᗜ ˙ )੭\n豬臉頰油香滿溢，配上雅枝竹 & 甜椒，\n友人唔中意火箭菜所以走左，有埋應該可以中和油膩感。\n\n○ 布 拉 塔 芝 士 伴 烤 葡 萄 // $118\n賣相清新雅緻，色彩豐富。\n芝士質感 ᴄʀᴇᴀᴍʏ 滑溜，烤過既提子提升左甜度，\n加上車厘茄 & basil葉，酸酸甜甜非常清新 ( ꈍ ᴗ ꈍ )\n\n○ 𝐕𝐚𝐧𝐢𝐥𝐥𝐚 𝐋𝐚𝐭𝐭𝐞 // $42\n○ 𝐂𝐚𝐫𝐚𝐦𝐞𝐥 𝐋𝐚𝐭𝐭𝐞 // $42\n咖啡香濃順滑，雲尼拿有淡香，焦糖就偏甜少少，\n口感都好 sᴍᴏᴏᴛʜ  .ᐟ.ᐟ\n\n整體食物真係高質，不過略嫌室內裝白光管太光猛了，\n少左 ᴄᴀғᴇ 既休閒氣息。\n可能針對附近客群都係上班族，\n刻意做到環境明亮，比較適合用餐，\n不過睇相都係覺得將軍澳分店既裝修比較有特色。\n\n𝐓𝐈𝐏𝐒 :\n以上為 ʙʀᴜɴᴄʜ ᴍᴇɴᴜ 供應時間 10ᴀᴍ - 4:30ᴘᴍ。\nꕀ\nFOLLOW IG @ FISWEET FOR MORE .",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "依間一直都喺收藏名單入面，\n不過將軍澳分店實在太遠所以遲遲未去 ꒰ ˊ ^ ˋ ꒱\n最近得知大角咀開分店，終於可以試試了 ~\n門口係白色木系設計，入面係簡約小清新風格，\n好有空間感，落地窗旁邊有自然光影相更靚。\n\n○ 意 式 風 乾 豬 臉 頰 薄 餅 // $178\n睇網上介紹原來依度既 ᴘɪᴢᴢᴀ ᴅᴏᴜɢʜ\n係同本地麵包店「品穀」麵包師共同研發。\n外脆內煙韌批底薄得嚟夠承托力，又唔會油淋淋，\n批邊發酵充足，上枱後放咗陣仲係脆的，\n咬落非常煙韌 ( ੭ ˙ ᗜ ˙ )੭\n豬臉頰油香滿溢，配上雅枝竹 & 甜椒，\n友人唔中意火箭菜所以走左，有埋應該可以中和油膩感。\n\n○ 布 拉 塔 芝 士 伴 烤 葡 萄 // $118\n賣相清新雅緻，色彩豐富。\n芝士質感 ᴄʀᴇᴀᴍʏ 滑溜，烤過既提子提升左甜度，\n加上車厘茄 & basil葉，酸酸甜甜非常清新 ( ꈍ ᴗ ꈍ )\n\n○ 𝐕𝐚𝐧𝐢𝐥𝐥𝐚 𝐋𝐚𝐭𝐭𝐞 // $42\n○ 𝐂𝐚𝐫𝐚𝐦𝐞𝐥 𝐋𝐚𝐭𝐭𝐞 // $42\n咖啡香濃順滑，雲尼拿有淡香，焦糖就偏甜少少，\n口感都好 sᴍᴏᴏᴛʜ  .ᐟ.ᐟ\n\n整體食物真係高質，不過略嫌室內裝白光管太光猛了，\n少左 ᴄᴀғᴇ 既休閒氣息。\n可能針對附近客群都係上班族，\n刻意做到環境明亮，比較適合用餐，\n不過睇相都係覺得將軍澳分店既裝修比較有特色。\n\n𝐓𝐈𝐏𝐒 :\n以上為 ʙʀᴜɴᴄʜ ᴍᴇɴᴜ 供應時間 10ᴀᴍ - 4:30ᴘᴍ。\nꕀ\nFOLLOW IG @ FISWEET FOR MORE .",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fi Sweet",
+          "uri": "https://www.google.com/maps/contrib/115659327333080309823/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXO6clZbMGZ-XdI8va5GL9TBgjmyR1bp8KNj4hEKs8hIdlB5Q=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-11-25T19:24:40.186578641Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaZldHOTVTVlU0ZVdkdlEwdG1MVFJEWlhCVGQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaZldHOTVTVlU0ZVdkdlEwdG1MVFJEWlhCVGQwRRAB!2m1!1s0x3404019b8f556fc3:0x8e6d85a3fcb9bcf0"
+      },
+      {
+        "name": "places/ChIJw29Vj5sBBDQR8Ly5_KOFbY4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnNU9FRmtjbTlTWVVzdGRURXhOVWhYZGtSSGRFRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Hygge Tip: 推薦和最放得開的朋友一起來，披薩就要趁熱分食才最美味。\n\n經典的溫熱與酥脆：瑪格麗特披薩\n首先上桌的是這道外皮烤得焦香、帶有漂亮豹紋斑點的披薩。餅皮邊緣蓬鬆且富有彈性，咬下去能感受到發酵後的麥香。番茄醬汁的酸甜度剛剛好，配上大塊的莫札瑞拉起司與鮮綠的羅勒葉，簡單卻充滿力量。這種熱騰騰的、適合用手直接抓取的食物，正是靈魂的慰藉。\n🥟 軟綿的綠意：香煎麵疙瘩 (Gnocchi) 襯羅勒醬\n這道 Gnocchi 絕對是今晚的亮點。麵疙瘩表面煎得微焦酥脆，內裡卻像雲朵般軟綿。底部的羅勒青醬色澤翠綠誘人，平衡了麵疙瘩的澱粉感。最上層撒上的帕瑪森起司薄片，隨著餘溫稍微融化，入口後奶香與草本香氣在舌尖交織，層次感非常豐富。\n🍹 微甜的尾聲：泡沫特調與愜意閒聊\n佐餐的飲品上蓋了一層豐厚細緻的泡沫，點綴著幾片杏仁碎與迷迭香。這種帶有香料氣息的飲品，緩解了澱粉帶來的飽腹感。在這樣一個充滿笑聲、鄰桌低語與餐具輕碰聲的空間裡，時間彷彿慢了下來。\n總結：\n這裡不只是吃飯的地方，更是一個可以讓人卸下防備、專注於食物原味與人際溫暖的空間。如果你也在尋找那份專屬於秋日或冬夜的溫馨感，這裡的義式手工菜絕不會讓你失望。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Hygge Tip: 推薦和最放得開的朋友一起來，披薩就要趁熱分食才最美味。\n\n經典的溫熱與酥脆：瑪格麗特披薩\n首先上桌的是這道外皮烤得焦香、帶有漂亮豹紋斑點的披薩。餅皮邊緣蓬鬆且富有彈性，咬下去能感受到發酵後的麥香。番茄醬汁的酸甜度剛剛好，配上大塊的莫札瑞拉起司與鮮綠的羅勒葉，簡單卻充滿力量。這種熱騰騰的、適合用手直接抓取的食物，正是靈魂的慰藉。\n🥟 軟綿的綠意：香煎麵疙瘩 (Gnocchi) 襯羅勒醬\n這道 Gnocchi 絕對是今晚的亮點。麵疙瘩表面煎得微焦酥脆，內裡卻像雲朵般軟綿。底部的羅勒青醬色澤翠綠誘人，平衡了麵疙瘩的澱粉感。最上層撒上的帕瑪森起司薄片，隨著餘溫稍微融化，入口後奶香與草本香氣在舌尖交織，層次感非常豐富。\n🍹 微甜的尾聲：泡沫特調與愜意閒聊\n佐餐的飲品上蓋了一層豐厚細緻的泡沫，點綴著幾片杏仁碎與迷迭香。這種帶有香料氣息的飲品，緩解了澱粉帶來的飽腹感。在這樣一個充滿笑聲、鄰桌低語與餐具輕碰聲的空間裡，時間彷彿慢了下來。\n總結：\n這裡不只是吃飯的地方，更是一個可以讓人卸下防備、專注於食物原味與人際溫暖的空間。如果你也在尋找那份專屬於秋日或冬夜的溫馨感，這裡的義式手工菜絕不會讓你失望。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YK C",
+          "uri": "https://www.google.com/maps/contrib/100003983524997586835/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7vQ7EPvR9sv55ctZ19KWjQRsXykslpsQEg_lH99ZUI31m8yHJ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-30T13:55:34.132833316Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnNU9FRmtjbTlTWVVzdGRURXhOVWhYZGtSSGRFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnNU9FRmtjbTlTWVVzdGRURXhOVWhYZGtSSGRFRRAB!2m1!1s0x3404019b8f556fc3:0x8e6d85a3fcb9bcf0"
+      },
+      {
+        "name": "places/ChIJw29Vj5sBBDQR8Ly5_KOFbY4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSUkxVRkRXbGMwZEVwRVgzRnlNM3BCTFMxbVgwRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "呢間餐廳內裡都闊落，樓底都幾高，環境好舒服又唔會坐到好迫，我係夜晚去所以冇得享受日頭既自然光，如果下午去應該會有少少自然光感覺會好舒服，我地3個人就叫左呢d野食：\n\n🍽️ 白酒紐西蘭青口\n青口超鮮甜好好食，係出面真係好少可食到唔腥既青口，仲配埋幾塊多士，點埋d汁好好食\n\n🍽️ 三重芝士疏乎厘\n呢個每一啖都充滿濃口既芝士，鐘意食芝士要叫！\n\n🍽️ 海鮮水管麵\n個汁好濃海鮮味，個水管麵好有咬口好好食，佢d海鮮每樣都好新鮮，呢個食落係有d驚喜\n\n🍽️ Pizza Mortadella\npizza底唔會好厚食落都ok，呢個就真係冇咩特別，唔叫都得\n\n🍽️ Crepe Salted Butter Caramel\n最後叫左呢個甜品，口感煙靭配埋salted butter caramel好好食\n\n推介✨\n/白酒紐西蘭青口/\n/海鮮水管麵/",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間餐廳內裡都闊落，樓底都幾高，環境好舒服又唔會坐到好迫，我係夜晚去所以冇得享受日頭既自然光，如果下午去應該會有少少自然光感覺會好舒服，我地3個人就叫左呢d野食：\n\n🍽️ 白酒紐西蘭青口\n青口超鮮甜好好食，係出面真係好少可食到唔腥既青口，仲配埋幾塊多士，點埋d汁好好食\n\n🍽️ 三重芝士疏乎厘\n呢個每一啖都充滿濃口既芝士，鐘意食芝士要叫！\n\n🍽️ 海鮮水管麵\n個汁好濃海鮮味，個水管麵好有咬口好好食，佢d海鮮每樣都好新鮮，呢個食落係有d驚喜\n\n🍽️ Pizza Mortadella\npizza底唔會好厚食落都ok，呢個就真係冇咩特別，唔叫都得\n\n🍽️ Crepe Salted Butter Caramel\n最後叫左呢個甜品，口感煙靭配埋salted butter caramel好好食\n\n推介✨\n/白酒紐西蘭青口/\n/海鮮水管麵/",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Phoebe",
+          "uri": "https://www.google.com/maps/contrib/105090505721357997444/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKU5MSjAy-nQRxb7V_Lb1yXGXLbKS89rKdhl0l0RXHFTBFPIw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-12-30T14:31:49.208080615Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSUkxVRkRXbGMwZEVwRVgzRnlNM3BCTFMxbVgwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSUkxVRkRXbGMwZEVwRVgzRnlNM3BCTFMxbVgwRRAB!2m1!1s0x3404019b8f556fc3:0x8e6d85a3fcb9bcf0"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404019b8f556fc3:0x8e6d85a3fcb9bcf0!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10263006065213422832&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404019b8f556fc3:0x8e6d85a3fcb9bcf0!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404019b8f556fc3:0x8e6d85a3fcb9bcf0!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404019b8f556fc3:0x8e6d85a3fcb9bcf0!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJw29Vj5sBBDQR8Ly5_KOFbY4/photos/Aa-ngMaVZqlm3RxrRwwn-my2NnXXRtMmtORAH5qLA6HWM-BhoxQA6HqCoLbweR0rMq_WlquK2-DTTZrzRF2vfiBjhtX_CglmkCbQTp5yBoCr2RO4WkBEBF4Py-SOmXFM0vTf7ZeZsksWCepRhBwHXOrooG3wF6at66cRYJu4qHgQz3nrxLn_qiEQ7m2B-pLt77GqFOSLAQZdcOe0Je9bvOJU_w4QDEQOfZu0cY_PaInGg-rPscbs4QRmvpmzhuW4F7piFel6yq6gHHE_skuno5R3kf1Rf0d_ZEfdADwe60VZXioJLsNVpefQyVkLOet00Wx6A5fQlWeX0IGEJyPrcX3iSQ0i9OEvhPWegbrEH4dAj9R6q9835LPMYD7-VmfcEvOawysMhZNEw72MnNkvQxPZRYWZFYLSCgPDza77qGt6mAZGTw",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "authorAttributions": [
+        {
+          "displayName": "Min Min",
+          "uri": "https://maps.google.com/maps/contrib/102666417651948539590",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKPO_EVJn8BXRya3akMuKBglN524zljKTHSI3aaQM-fc--MOck=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDo4RAYBntbpXzzzeB9ck_T&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDo4RAYBntbpXzzzeB9ck_T!2e10!4m2!3m1!1s0x3404019b8f556fc3:0x8e6d85a3fcb9bcf0"
+    },
+    "local_path": "photos/ChIJw29Vj5sBBDQR8Ly5_KOFbY4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeu5JujXoyluiRQ9d9sm9VgAMaXXN6rYVMnUD0CMQvQRM_HYSqHx6tlNNTm2olkABkZDpLtFr8PPl_ndBcGXjQ6tw5OXUf9wrjtrHSohCrBRcg6DV8_SMpsGu_FYlwE3fD1YDS4Kumw-0Wv=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 115505
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

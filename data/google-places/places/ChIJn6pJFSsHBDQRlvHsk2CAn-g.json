@@ -1,0 +1,307 @@
+{
+  "google_place_id": "ChIJn6pJFSsHBDQRlvHsk2CAn-g",
+  "restaurant_ids": [
+    "restaurant:3163801969"
+  ],
+  "fetched_at": "2026-10-23T15:40:15.030004+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJn6pJFSsHBDQRlvHsk2CAn-g",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2728 0066",
+    "internationalPhoneNumber": "+852 2728 0066",
+    "formattedAddress": "香港九龍元洲元州街68號",
+    "location": {
+      "latitude": 22.3329259,
+      "longitude": 114.16264269999999
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=16762257490383270294&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.barpacific.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 5,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:30 – 04:00",
+        "星期二: 16:30 – 04:00",
+        "星期三: 16:30 – 04:00",
+        "星期四: 16:30 – 04:00",
+        "星期五: 16:30 – 04:00",
+        "星期六: 16:30 – 05:00",
+        "星期日: 16:30 – 04:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 44,
+    "displayName": {
+      "text": "太平洋酒吧",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJn6pJFSsHBDQRlvHsk2CAn-g/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2eGUycmxBRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 3,
+        "text": {
+          "text": "清吧 有飛鏢 卡拉 波枱 玩",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "清吧 有飛鏢 卡拉 波枱 玩",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Realreal Lai",
+          "uri": "https://www.google.com/maps/contrib/105921676321423303090/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEQhwEvAy9iVfoehnAn14fD4yOpTym_zR_ee--2BNMWQ6f-g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2021-09-09T06:33:33.327438Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM2eGUycmxBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM2eGUycmxBRRAB!2m1!1s0x3404072b1549aa9f:0xe89f806093ecf196"
+      },
+      {
+        "name": "places/ChIJn6pJFSsHBDQRlvHsk2CAn-g/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3aXFxVzV3RRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "text": {
+          "text": "新環境，氣氛好好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "新環境，氣氛好好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Saigo hey",
+          "uri": "https://www.google.com/maps/contrib/103634569311251027914/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXC5D4kplGS7hO3SK5atbeDBV6CCCWFg_c3f0STkOzxwNCyKsYT=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2018-09-09T11:33:19.919532Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN3aXFxVzV3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3aXFxVzV3RRAB!2m1!1s0x3404072b1549aa9f:0xe89f806093ecf196"
+      },
+      {
+        "name": "places/ChIJn6pJFSsHBDQRlvHsk2CAn-g/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3b0pEZWt3RRAB",
+        "relativePublishTimeDescription": "9 年前",
+        "rating": 3,
+        "text": {
+          "text": "人少，服務一般。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "人少，服務一般。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Barry Li",
+          "uri": "https://www.google.com/maps/contrib/115764147792343154175/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9qX3ZmEymYN5Vo6oQgBzXglniv2-m34EUKSUj5N1WgHGuuMM=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2017-03-06T19:23:57.350Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN3b0pEZWt3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3b0pEZWt3RRAB!2m1!1s0x3404072b1549aa9f:0xe89f806093ecf196"
+      },
+      {
+        "name": "places/ChIJn6pJFSsHBDQRlvHsk2CAn-g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBaTVmQVBREAE",
+        "relativePublishTimeDescription": "11 年前",
+        "rating": 5,
+        "text": {
+          "text": "不醉無歸！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "不醉無歸！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ZAC LO",
+          "uri": "https://www.google.com/maps/contrib/116294052004625196051/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhUYUx8A7_GuW6VG6c7PyVZLH0yAQr6qLMJZQEZ7qu8BygckSf=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2015-01-21T06:41:02.014Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBaTVmQVBREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBaTVmQVBREAE!2m1!1s0x3404072b1549aa9f:0xe89f806093ecf196"
+      },
+      {
+        "name": "places/ChIJn6pJFSsHBDQRlvHsk2CAn-g/reviews/ChZDSUhNMG9nS0VJQ0FnSURxNy1ERkNBEAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 1,
+        "text": {
+          "text": "恭喜 Bar Pacific 榮膺我此生去過的最爛酒吧！\n\n我們兩個到了之後，發現菜單上一半的啤酒都缺貨。算了，我們最後選了一款估計在冰箱角落放了好幾年的啤酒，外加一杯瑪格麗特。他們居然沒告訴我們，連做瑪格麗特的一半原料都沒有。\n\n我們催了好久，他們才說沒有檸檬（瑪格麗特裡根本不需要檸檬）。好吧，行吧，反正我等了40分鐘，他們隨時都可以告訴我。然後調酒師出去找檸檬，又過了20分鐘，才端出一杯簡直能當武器的飲料。我真搞不懂怎麼能用三種基本原料做出這麼難喝的東西，反正這絕對是我喝過最難喝的一杯酒。\n\n另一個「亮點」是店裡的煙霧。煙霧濃得驚人，就算你不抽煙，離開的時候也可能得二期肺氣腫。酒吧裡貼滿了告示，但照片裡這位老兄好像根本看不懂。他也是店員之一。\n\n終於輪到我們離開了，結果發現菜單上的價格和帳單上的價格不一樣。他們還收了我們「贈送」的堅果的錢，而我們根本沒點過。\n\n人們常說，他們不會帶死敵來這種地方，但就這一點而言，我給它打10分（滿分10分）。謝謝！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Congratulations to Bar Pacific for officially being the worst bar I have ever had the misfortune of visiting.\n\nTwo of us arrived. They didn’t have 50% of the beer on the menus. Never mind, we settled on one that they probably had at the back of the fridge for a couple of years and a Margarita. They failed to tell us that they also did not have 50% of the ingredients to make one.\n\nAfter we chased them up on the drink, they told us they didn’t have lemons (that’s not an ingredient in a margarita). Okay, cool, could’ve let me know at any point of the previous 40 minutes I’ve been waiting for it. The bartender then left the store to source some lemons, and after another 20 minutes, produced a liquid that could possibly be used in warfare. I’m not even sure how you can take three basic ingredients and make it taste that vile, but I can honestly say that’s the first paid drink I’ve ever left full.\n\nAnother plus is the smoke inside the venue. It’s so thick that even if you’re not a smoker, you may well leave with Stage II Emphysema. Never mind the signs plastered all over the bar, old mate pictured here can’t seem to read. He’s also one of the employees.\n\nAt last it’s our time to leave and the menu prices are different to what’s listed on the bill. They’ve also charged us for the “complimentary” nuts we didn’t ask for.\n\nPeople tend to say that they wouldn’t bring their worst enemy to a place like this, but for that purpose I’d give it a 10/10. Thanks xox",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Sasha E",
+          "uri": "https://www.google.com/maps/contrib/105732910052697579890/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSamJ6tsEZGO5gr2KzycfVPJb1GdlFGwQV4ZKoqAqSFxHW4Mk=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2021-07-19T10:29:06.139346Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURxNy1ERkNBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURxNy1ERkNBEAE!2m1!1s0x3404072b1549aa9f:0xe89f806093ecf196"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404072b1549aa9f:0xe89f806093ecf196!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16762257490383270294&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404072b1549aa9f:0xe89f806093ecf196!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404072b1549aa9f:0xe89f806093ecf196!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404072b1549aa9f:0xe89f806093ecf196!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJn6pJFSsHBDQRlvHsk2CAn-g/photos/Aa-ngMbwLcqrZs9VNLSWYkBPzJGJpcSSp3wJvAvNbMt-ZAjD6ZHbywk1inQaaJ5DJlwgFrLy13F-yKPrRbgkLtQ2-cmWTPQ-fS1cP3NTw8vCnaoMrMud_MS9nB1Oep82HDpmVttvZ8UJZ5_XSpXY5TYnUYj0EV1QXLsJ1Nh4ScnZPBQjDWOFWOEJjOsliZZFuIADoIwL8S0AGexd_2Ae8MZ7nw-bCUIGAEEnIRyx1PH-9shcnskNaIUyRLcG089XZFUBo5awXgOY-LxSoYKtDX7wtpprW6dLBFUPwFWnUpDiLcpZ71wlCvB1UVPO6j0gqc2JOoS02FUCxX4vyUlBex5SEA_z76_XE5Rd4Cx2bXIg9CNV7FKTPRgJ-H78vikZ3c9zXA0E0Kfh8UdqId6LJ3mnx1E4t2hzbmM",
+      "widthPx": 3631,
+      "heightPx": 2217,
+      "authorAttributions": [
+        {
+          "displayName": "Philip WAI",
+          "uri": "https://maps.google.com/maps/contrib/101447514764175721542",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbzf-X5vM5_A7VJrEVuFO0NnxV1AOSF9ouISehyx1YN_H_c9x4uQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDPm47Z8wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPm47Z8wE!2e10!4m2!3m1!1s0x3404072b1549aa9f:0xe89f806093ecf196"
+    },
+    "local_path": "photos/ChIJn6pJFSsHBDQRlvHsk2CAn-g.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLewheRvjvYs7YYwZNIG9PdJNmo6REzvCfRfIQotKRv0T6ni5AZHS1aAdCb3kIm4lwhDmYgnxzllw0A2Wuimpd2augbMnnLYm0PDVyPLLrIm7V4e7g6ZN1bBFWEMjZf77w8CkhDQEA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 141744
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

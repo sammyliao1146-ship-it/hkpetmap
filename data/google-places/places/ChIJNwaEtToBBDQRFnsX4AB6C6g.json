@@ -1,0 +1,361 @@
+{
+  "google_place_id": "ChIJNwaEtToBBDQRFnsX4AB6C6g",
+  "restaurant_ids": [
+    "restaurant:2211808927"
+  ],
+  "fetched_at": "2026-10-23T15:48:40.100063+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJNwaEtToBBDQRFnsX4AB6C6g",
+    "types": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3613 0028",
+    "internationalPhoneNumber": "+852 3613 0028",
+    "formattedAddress": "香港香港島鰂魚涌英皇道728號K11 ATELIER King's Road",
+    "location": {
+      "latitude": 22.291538799999998,
+      "longitude": 114.20748789999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=12108906167293934358&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://rubytuesday.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 23:00",
+        "星期六: 11:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 337,
+    "displayName": {
+      "text": "Ruby Tuesday (K11 ATELIER)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "美式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "american_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJNwaEtToBBDQRFnsX4AB6C6g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnMGJqSkRiV1UzZEVkMldXSjFPR1F6TkUxeWMzYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 1,
+        "text": {
+          "text": "K11職員講野有骨落地，比錢買難受\n咩叫咁你拎個AC賣錢比全世界都得？\n定係公司故意令到顧客難堪？",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "K11職員講野有骨落地，比錢買難受\n咩叫咁你拎個AC賣錢比全世界都得？\n定係公司故意令到顧客難堪？",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "J M (JM.HKFOODIE)",
+          "uri": "https://www.google.com/maps/contrib/117245021708748828302/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzwIu_yFDUQdMz4E79DpmbaEmqFOKWHGTrKQfbsgPxP7KtROWU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-07T11:41:13.564070370Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnMGJqSkRiV1UzZEVkMldXSjFPR1F6TkUxeWMzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnMGJqSkRiV1UzZEVkMldXSjFPR1F6TkUxeWMzYxAB!2m1!1s0x3404013ab5840637:0xa80b7a00e0177b16"
+      },
+      {
+        "name": "places/ChIJNwaEtToBBDQRFnsX4AB6C6g/reviews/Ci9DQUlRQUNvZENodHljRjlvT210WGFqUnlZV3hKVEROek1GZzVaWFkzYlhsNlRXYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "這家餐廳的價格有點貴哦，Ruby Tuesday （QuarryBay）以美式餐飲著稱，環境寬敞舒適，座位適合聚會及放鬆。招牌燒排骨份量充足，肉質嫩滑，搭配芝士薯格濃郁香脆，深受小朋友和家庭歡迎。比目魚香草焗制，魚皮酥脆，魚肉鮮嫩，配合黑松露雜菌 risotto口感豐富。漢堡類選擇多，炸雞漢堡味道帶微辣，配料豐富。意大利面和甜品表現中規中矩。部分評論指出肋眼牛排表現平平，性價比一般。整體用餐體驗良好，適合尋找輕鬆美國菜的食客，是在鰂魚湧區不錯的聚餐選擇",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這家餐廳的價格有點貴哦，Ruby Tuesday （QuarryBay）以美式餐飲著稱，環境寬敞舒適，座位適合聚會及放鬆。招牌燒排骨份量充足，肉質嫩滑，搭配芝士薯格濃郁香脆，深受小朋友和家庭歡迎。比目魚香草焗制，魚皮酥脆，魚肉鮮嫩，配合黑松露雜菌 risotto口感豐富。漢堡類選擇多，炸雞漢堡味道帶微辣，配料豐富。意大利面和甜品表現中規中矩。部分評論指出肋眼牛排表現平平，性價比一般。整體用餐體驗良好，適合尋找輕鬆美國菜的食客，是在鰂魚湧區不錯的聚餐選擇",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CO C",
+          "uri": "https://www.google.com/maps/contrib/105706575706669666203/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc0hqMFThis_ov8aUJvlmJoBOc5KHu9nTbESAJt8KRfR6zQdR4Mg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-08-29T06:29:22.318460730Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210WGFqUnlZV3hKVEROek1GZzVaWFkzYlhsNlRXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210WGFqUnlZV3hKVEROek1GZzVaWFkzYlhsNlRXYxAB!2m1!1s0x3404013ab5840637:0xa80b7a00e0177b16"
+      },
+      {
+        "name": "places/ChIJNwaEtToBBDQRFnsX4AB6C6g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQek9QU0lBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "中同有member，真係好抵食，星期四會員優惠，Ribs會員價再半價，但要叫個$200+的main course！食物都係美式種類為主，唔可以要求超級好食，但因為我們聚會都選這一間，所以一定會話好食！\n另外，漏咗個file，職員都好好，幫我keep住，thank you",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "中同有member，真係好抵食，星期四會員優惠，Ribs會員價再半價，但要叫個$200+的main course！食物都係美式種類為主，唔可以要求超級好食，但因為我們聚會都選這一間，所以一定會話好食！\n另外，漏咗個file，職員都好好，幫我keep住，thank you",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Camel Lok",
+          "uri": "https://www.google.com/maps/contrib/117030189875465008268/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsTVFZm8fqj3JjrnlvvhlsrQP1xsMuLS9f4a3ufxt13kdTg3e5=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-11-22T04:14:55.338147Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQek9QU0lBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQek9QU0lBEAE!2m1!1s0x3404013ab5840637:0xa80b7a00e0177b16"
+      },
+      {
+        "name": "places/ChIJNwaEtToBBDQRFnsX4AB6C6g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGOWJXZmdRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "今日約咗朋友早早地去鰂魚涌K11 Atelier Ruby Tuesday食個早餐順便傾吓偈🤟🏻估唔到嗰度超近地鐵站，地方又大又舒服，下次朋友聚會都可以去🌸Weekend梗係要食佢哋嘅地道美式早餐，早餐套餐包埋飲品會員仲有八五折優惠超級抵💫\n🧇田納西風味炸雞窩夫\n炸雞外皮好脆，肉仲係好嫩滑，窩夫外脆內軟，係非常地道嘅美式早餐。\n🍔Big Breakfast Burger\n係一個超大份量嘅炒蛋牛肉漢堡，如果唔鍾意食炒蛋，仲可以揀煎蛋。牛肉漢堡調味啱啱好，炒蛋亦都幾滑。\n🥑Street Nachos\n係芝士肉醬喺nachos上面，仲有牛油果醬同埋酸忌廉，配搭一齊食真係好惹味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日約咗朋友早早地去鰂魚涌K11 Atelier Ruby Tuesday食個早餐順便傾吓偈🤟🏻估唔到嗰度超近地鐵站，地方又大又舒服，下次朋友聚會都可以去🌸Weekend梗係要食佢哋嘅地道美式早餐，早餐套餐包埋飲品會員仲有八五折優惠超級抵💫\n🧇田納西風味炸雞窩夫\n炸雞外皮好脆，肉仲係好嫩滑，窩夫外脆內軟，係非常地道嘅美式早餐。\n🍔Big Breakfast Burger\n係一個超大份量嘅炒蛋牛肉漢堡，如果唔鍾意食炒蛋，仲可以揀煎蛋。牛肉漢堡調味啱啱好，炒蛋亦都幾滑。\n🥑Street Nachos\n係芝士肉醬喺nachos上面，仲有牛油果醬同埋酸忌廉，配搭一齊食真係好惹味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "G Ginny",
+          "uri": "https://www.google.com/maps/contrib/106264324739950773002/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtO7and4HDJUFdn5g9Smm8qwYNiqweS6Ne8CcW5V9KYseNIEno=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-10-30T17:35:40.347543Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNGOWJXZmdRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNGOWJXZmdRRRAB!2m1!1s0x3404013ab5840637:0xa80b7a00e0177b16"
+      },
+      {
+        "name": "places/ChIJNwaEtToBBDQRFnsX4AB6C6g/reviews/ChRDSUhNMG9nS0VJQ0FnSUR1a3ZNZhAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "身邊有幾個特別喜歡吃Ruby Tuesday 的朋友，所以每個月我們都會指定動作去吃～最近去左鰂魚涌分店，格局和氣氛都和我們常去的銅鑼灣店有些分別，比較modern啲，光線充足，感覺很舒服，座位間的距離也充裕，適合附近返工的朋友來～～\n\n最近餐廳推出了全新午市套餐，這天我們去下一場前就來用餐，午市套餐可以選擇餐湯或沙律，我會建議餐湯，這裡的餐湯頗有特色，會附送一個蒜茸芝士鬆餅，很好吃！😆\n\n🔹Turkey Ham Wrap $68\n這個雞捲比想像中好吃，首先裡面用了減肥人士最愛的火雞肉，鹹香風味再提升，裡面有鮮甜多汁的蕃茄片，還是很多爽口蔬菜，最後夾上一堆芝士碎，一口咬住豐富的味道，還有很香馬鈴薯香的薯條，會讓你不停地吃，飽肚度非常高！\n\n🔹Chicken Broccoli Pasta $88\n長通粉完全浸在芝士中，味道非常濃郁，每一條都很有咬口，雞肉嫩滑夠鹹香，口感很厚實，我喜歡它還有大大粒西蘭花，其實單單吃雞肉和菜已經很飽，建議立刻吃，味道會更香濃喔。\n\n點套餐的時候可以加錢點小食，我們點了Fried Squid with Honey Mustard和Grilled Cheese Portobello Mushroom，魷魚炸到非常通透，很彈牙又有焦香，沾上甜甜的芥末醬可以減膩，很適合多人分享；至於大啡菇是推薦小食，非常多汁飽滿卻不會很膩，上面的芝士為菜式賦予鹹香，很滿足🥰\n\n配合50週年慶祝活動，餐廳逢星期二都有Every TUESDAY優惠，每枱淨消費$400或以上就可以獲得精美禮物或優惠券，整個8月都是推廣期～大家lunch記得和同事去吃😍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "身邊有幾個特別喜歡吃Ruby Tuesday 的朋友，所以每個月我們都會指定動作去吃～最近去左鰂魚涌分店，格局和氣氛都和我們常去的銅鑼灣店有些分別，比較modern啲，光線充足，感覺很舒服，座位間的距離也充裕，適合附近返工的朋友來～～\n\n最近餐廳推出了全新午市套餐，這天我們去下一場前就來用餐，午市套餐可以選擇餐湯或沙律，我會建議餐湯，這裡的餐湯頗有特色，會附送一個蒜茸芝士鬆餅，很好吃！😆\n\n🔹Turkey Ham Wrap $68\n這個雞捲比想像中好吃，首先裡面用了減肥人士最愛的火雞肉，鹹香風味再提升，裡面有鮮甜多汁的蕃茄片，還是很多爽口蔬菜，最後夾上一堆芝士碎，一口咬住豐富的味道，還有很香馬鈴薯香的薯條，會讓你不停地吃，飽肚度非常高！\n\n🔹Chicken Broccoli Pasta $88\n長通粉完全浸在芝士中，味道非常濃郁，每一條都很有咬口，雞肉嫩滑夠鹹香，口感很厚實，我喜歡它還有大大粒西蘭花，其實單單吃雞肉和菜已經很飽，建議立刻吃，味道會更香濃喔。\n\n點套餐的時候可以加錢點小食，我們點了Fried Squid with Honey Mustard和Grilled Cheese Portobello Mushroom，魷魚炸到非常通透，很彈牙又有焦香，沾上甜甜的芥末醬可以減膩，很適合多人分享；至於大啡菇是推薦小食，非常多汁飽滿卻不會很膩，上面的芝士為菜式賦予鹹香，很滿足🥰\n\n配合50週年慶祝活動，餐廳逢星期二都有Every TUESDAY優惠，每枱淨消費$400或以上就可以獲得精美禮物或優惠券，整個8月都是推廣期～大家lunch記得和同事去吃😍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "852 FoodVoyage",
+          "uri": "https://www.google.com/maps/contrib/107986755230753831938/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX86ggCNMta0vME12ubu4aYMGb2TIefdCZBe2_aIdb8doteS4T9sA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-08-17T07:51:12.190744Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSUR1a3ZNZhAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSUR1a3ZNZhAB!2m1!1s0x3404013ab5840637:0xa80b7a00e0177b16"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404013ab5840637:0xa80b7a00e0177b16!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12108906167293934358&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404013ab5840637:0xa80b7a00e0177b16!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404013ab5840637:0xa80b7a00e0177b16!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404013ab5840637:0xa80b7a00e0177b16!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJNwaEtToBBDQRFnsX4AB6C6g/photos/Aa-ngMabplDcLhkk8xH4ks0bFr7W6LDZ3uJFiJziYEJ3E7ehhY6htdYi4tZKpovX0bpOF6mLP2rnIQqKvsRWAJWEybDCE9vaGGaZSHdQZfqHaQ_UrhcK46E4GBl1uaaPr_dgsFQUy-9HHOf7tQocKOOKCrHpVT--uBBLeC4FdRqv5AH-Sc9LFeYwJYsGb45vfUf-68reaLRVd-wKnpDapelqoyrhEVMptw5y2SSsm_4VfJJ7IXLyH1vowmVkRcHmdi4544jh2yWQpRd2nLzTBoRWRfTb3rDnpi72dnYaPGntjn0V9q2-9Q9SPmxMuxp7SeFWxhMMuUYnGXqAdJve8BHnm4QclFRu9vW7OlvqsHo3wazwREsNgTlmaH4Kt73LXaRrNGv5IfzgPisSuPAL-9AT2VJGV1c",
+      "widthPx": 2501,
+      "heightPx": 1668,
+      "authorAttributions": [
+        {
+          "displayName": "Ruby Tuesday",
+          "uri": "https://maps.google.com/maps/contrib/101596461208049719664",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtcLuqUA9zbXXMJEsj8oDH3oZjjqrgAAZvfmNj5fgnFqjZD2U=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC84euNIA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC84euNIA!2e10!4m2!3m1!1s0x3404013ab5840637:0xa80b7a00e0177b16"
+    },
+    "local_path": "photos/ChIJNwaEtToBBDQRFnsX4AB6C6g.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZcaKWlM2ImbOcXznEpfAGo7z9Lt0tbI7ydprSJu7g9yL_jY4KqZ3gDzq7TJpRcVotV_CbTaX3JR8JIHyQbXYhjw7i-LCSlJrZpHXDWrXpGdRVoLqbIzr1oTzfuIuQFdWc8f7H=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 231624
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://book.bistrochat.com/rubytuesdayhk",
+        "label": "Book Now Book Now",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://book.bistrochat.com/rubytuesdaymk",
+        "label": "Book Now",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://rubytuesday.com.hk/menu/",
+        "label": "Menu",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://rubytuesday.com.hk/takeaway-menu/",
+        "label": "Takeaway Order",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "http://rubytuesday.com.hk/wp-content/uploads/2024/04/Party-Set_04082024.pdf",
+        "label": "Party Set Menu",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "http://rubytuesday.com.hk/wp-content/uploads/2025/09/Kids-Party-Set-Menu.pdf",
+        "label": "Kids Set Menu",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "american_restaurant",
+    "label": "美式餐廳",
+    "types": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://book.bistrochat.com/rubytuesdayhk",
+  "menu_url": "https://rubytuesday.com.hk/menu/"
+}

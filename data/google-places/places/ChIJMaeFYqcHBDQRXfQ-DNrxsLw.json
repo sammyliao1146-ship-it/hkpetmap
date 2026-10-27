@@ -1,0 +1,310 @@
+{
+  "google_place_id": "ChIJMaeFYqcHBDQRXfQ-DNrxsLw",
+  "restaurant_ids": [
+    "restaurant:3163802795"
+  ],
+  "fetched_at": "2026-10-23T15:51:54.240553+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJMaeFYqcHBDQRXfQ-DNrxsLw",
+    "types": [
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6881 1487",
+    "internationalPhoneNumber": "+852 6881 1487",
+    "formattedAddress": "香港九龍長沙灣昌華街富華廣場地下13號舖",
+    "location": {
+      "latitude": 22.3400012,
+      "longitude": 114.1541963
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=13596633193842144349&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://api.whatsapp.com/send?phone=85268083768",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 11:00 – 19:00",
+        "星期三: 11:00 – 19:00",
+        "星期四: 11:00 – 19:00",
+        "星期五: 11:00 – 19:00",
+        "星期六: 11:00 – 19:00",
+        "星期日: 11:00 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 56,
+    "displayName": {
+      "text": "VEGO COFFEE 齋啡",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "食品專賣店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "primaryType": "food_store",
+    "reviews": [
+      {
+        "name": "places/ChIJMaeFYqcHBDQRXfQ-DNrxsLw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xveWRWOUtTRUpxTkZkVWVqaE5SVU5UTlhsbGIyYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "咖啡不錯，其他飲品精緻，蛋糕美味，\n小店長很可愛，",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "咖啡不錯，其他飲品精緻，蛋糕美味，\n小店長很可愛，",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Thomas Chan",
+          "uri": "https://www.google.com/maps/contrib/104515830012332285004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6VDf-eWUdzMp8w_cL1P0-qf6TRgRBMDAXVCVSntmqFZApxw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-21T11:53:38.775691938Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xveWRWOUtTRUpxTkZkVWVqaE5SVU5UTlhsbGIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xveWRWOUtTRUpxTkZkVWVqaE5SVU5UTlhsbGIyYxAB!2m1!1s0x340407a76285a731:0xbcb0f1da0c3ef45d"
+      },
+      {
+        "name": "places/ChIJMaeFYqcHBDQRXfQ-DNrxsLw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VM09GcFhTRXR3YVZkTmNESnhhRmRYTlY5MmVGRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "長沙灣難得嘅純素高質Cafe，食物飲品甜品賣相精緻，味道出色。有可愛親人貓店長隨機出沒🫶🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "長沙灣難得嘅純素高質Cafe，食物飲品甜品賣相精緻，味道出色。有可愛親人貓店長隨機出沒🫶🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lattec",
+          "uri": "https://www.google.com/maps/contrib/102874563549880148951/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAJtah7Y2RL6FL-MLCgzzdH0hwsCUImlIexB--FR22TELIhfN8=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-05-04T05:06:14.759373449Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21VM09GcFhTRXR3YVZkTmNESnhhRmRYTlY5MmVGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VM09GcFhTRXR3YVZkTmNESnhhRmRYTlY5MmVGRRAB!2m1!1s0x340407a76285a731:0xbcb0f1da0c3ef45d"
+      },
+      {
+        "name": "places/ChIJMaeFYqcHBDQRXfQ-DNrxsLw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xndGJEUjBSMlZxWkROMU9XWmFTRk00ZDNSdFNFRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好食，份量足👍🏻👍🏻有貓就是五星😼S4 黑松露野菌 sourdough 好食，誠意推薦♥️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好食，份量足👍🏻👍🏻有貓就是五星😼S4 黑松露野菌 sourdough 好食，誠意推薦♥️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sonia Cheung",
+          "uri": "https://www.google.com/maps/contrib/113495158392900460552/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUF_3mwakVr5tRCe__gjYgSEiN2uupb4CMa-9Y4MtX_W9VFaeuK=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-29T15:27:42.106625978Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xndGJEUjBSMlZxWkROMU9XWmFTRk00ZDNSdFNFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xndGJEUjBSMlZxWkROMU9XWmFTRk00ZDNSdFNFRRAB!2m1!1s0x340407a76285a731:0xbcb0f1da0c3ef45d"
+      },
+      {
+        "name": "places/ChIJMaeFYqcHBDQRXfQ-DNrxsLw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s4MFVISjVhbXQ1ZFhCaFpVNUVXVTlaWmkxUU9IYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "純素餐廳重開有驚喜 內有貓貓₍ˆ⠒̫ˆ◝₎੭⸒⸒\n\n兩年前喺尖沙咀幫襯過一次，估唔到最近喺長沙灣重開返，水準進步咗唔少，重點係新店竟然仲有貓貓可以任玩任摸。雖然地方唔大同價錢略高，但如果經過附近想食吓輕食同飲野，呢間係唔錯嘅選擇。\n\n𐙚⋆˚純素燒汁野菌湯配酸種麵包及雜菜沙律 $118\n𐙚⋆˚純素雜錦魚生牛油果素三文魚醬及牛油果沙律碗 $118\n𐙚⋆˚純素香蕉麵包 $25\n𐙚⋆˚純素黑芝麻蛋糕 $58\n𐙚⋆˚Mixed Berries $38(跟餐價)\n𐙚⋆˚Popcorn Cappuccino $38(跟餐價)\n\n酸種包咀嚼下有淡淡香氣，好食到有啲想單買。菇菌同菜量好多，惟湯質偏稀，希望可以再濃郁厚身啲。隨餐沙律幾開胃，但醬汁略酸，落少啲更佳。\n\n鍾意食菜嘅朋友可以叫呢碗，成個concept好似Poke Bowl，全沙律版本。牛油果夠新鮮，三款素刺身口感不俗。\n\n香蕉包散發陣陣果香，唔似香精味，愈食愈上癮，值得一試。\n\n黑芝麻蛋糕上嘅忌廉同平時食嘅冇乜分別，黑芝麻醬亦夠稠身，具濃郁香氣。\n\n大推雜莓果昔，味道超fresh唔死甜，果甜恰到好處，味道同提子味瑞士糖有九成相似，係回憶嘅味道。\n\n平時好少飲啡，見造型幾吸引就試吓。呢杯Cappuccino都真係有啲料到，啡澀香同焦糖爆谷相映成趣，令人忍唔住繼續飲落去。\n\n評分: 7.5/10",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "純素餐廳重開有驚喜 內有貓貓₍ˆ⠒̫ˆ◝₎੭⸒⸒\n\n兩年前喺尖沙咀幫襯過一次，估唔到最近喺長沙灣重開返，水準進步咗唔少，重點係新店竟然仲有貓貓可以任玩任摸。雖然地方唔大同價錢略高，但如果經過附近想食吓輕食同飲野，呢間係唔錯嘅選擇。\n\n𐙚⋆˚純素燒汁野菌湯配酸種麵包及雜菜沙律 $118\n𐙚⋆˚純素雜錦魚生牛油果素三文魚醬及牛油果沙律碗 $118\n𐙚⋆˚純素香蕉麵包 $25\n𐙚⋆˚純素黑芝麻蛋糕 $58\n𐙚⋆˚Mixed Berries $38(跟餐價)\n𐙚⋆˚Popcorn Cappuccino $38(跟餐價)\n\n酸種包咀嚼下有淡淡香氣，好食到有啲想單買。菇菌同菜量好多，惟湯質偏稀，希望可以再濃郁厚身啲。隨餐沙律幾開胃，但醬汁略酸，落少啲更佳。\n\n鍾意食菜嘅朋友可以叫呢碗，成個concept好似Poke Bowl，全沙律版本。牛油果夠新鮮，三款素刺身口感不俗。\n\n香蕉包散發陣陣果香，唔似香精味，愈食愈上癮，值得一試。\n\n黑芝麻蛋糕上嘅忌廉同平時食嘅冇乜分別，黑芝麻醬亦夠稠身，具濃郁香氣。\n\n大推雜莓果昔，味道超fresh唔死甜，果甜恰到好處，味道同提子味瑞士糖有九成相似，係回憶嘅味道。\n\n平時好少飲啡，見造型幾吸引就試吓。呢杯Cappuccino都真係有啲料到，啡澀香同焦糖爆谷相映成趣，令人忍唔住繼續飲落去。\n\n評分: 7.5/10",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "匿名",
+          "uri": "https://www.google.com/maps/contrib/104557999262873783362/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZ10jF6tMFEWhiaK1qYHizTfx3inF4gfsJZF6_531VzjocUNQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-29T05:41:29.868985504Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s4MFVISjVhbXQ1ZFhCaFpVNUVXVTlaWmkxUU9IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s4MFVISjVhbXQ1ZFhCaFpVNUVXVTlaWmkxUU9IYxAB!2m1!1s0x340407a76285a731:0xbcb0f1da0c3ef45d"
+      },
+      {
+        "name": "places/ChIJMaeFYqcHBDQRXfQ-DNrxsLw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SVFpFaE5hazF3TjFsUmJEaFZZVzB4UW1JeWJYYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "📍齋啡\n\n齋啡重開仲有貓店長坐陣\n最適合入嚟chill吓逃離城市煩囂\n\n✨純素燒汁野菌湯配酸種麵包及雜菜沙律 $118\n\n一上枱有浸菇香味飄出嚟\n湯入面有唔同菇粒同蔬菜\n口感好豐富\n飲落都有好濃郁嘅菇香味\n酸種麵包烘到外脆內軟\n蘸湯一齊食感受到口感嘅變化\n仲有雜菜沙律夠晒健康\n\n✨植物豬肉漢堡配鷹嘴豆醬大啡菇比高包配牛油果沙律及脆片 $138\n\n漢堡堆到好高身份量感十足\n要分開食先唔會食得好「呢hea」🤣\n植物豬肉餅質感紮實\n有啖啖肉感但負擔感冇咁重\n大啡菇勁厚身多汁\n濃郁嘅鷹嘴豆醬有獨特香氣同辣辣地\n增加左味道嘅層次\nBagel都好煙韌\n沙律同脆片形成明顯對比\n好有趣嘅口感\n食晒個餐都好飽肚😋\n\n✨ 純素香蕉麵包 $25\n\n香蕉麵包切成厚厚一片\n表面金黃微微裂紋\n入口質地綿密\n香蕉味突出但唔會太甜\n帶少少堅果香氣\n配咖啡一流\n\n✨伯爵茶純素蛋糕 $48\n\n蛋糕橫切面賣相好靚\n散發住微微伯爵茶香\n蛋糕體入口鬆軟 忌廉輕盈\n散發清香茶味帶柑橘香氣\n食完唔覺膩\n\n✨Citrus Coffee $38\n咖啡帶清新柑橘酸香\n酸度同咖啡苦味平衡\n成個配搭好清新\n配埋蛋糕一齊食好夾\n\n✨Black Sesame Coffee  $38\n賣相層次分明\n將所有撈勻先飲\n品嚐到咖啡香同濃濃黑芝麻味\n令成杯咖啡充滿堅果香\n\n👛人均消費 ~$200(冇加一)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "📍齋啡\n\n齋啡重開仲有貓店長坐陣\n最適合入嚟chill吓逃離城市煩囂\n\n✨純素燒汁野菌湯配酸種麵包及雜菜沙律 $118\n\n一上枱有浸菇香味飄出嚟\n湯入面有唔同菇粒同蔬菜\n口感好豐富\n飲落都有好濃郁嘅菇香味\n酸種麵包烘到外脆內軟\n蘸湯一齊食感受到口感嘅變化\n仲有雜菜沙律夠晒健康\n\n✨植物豬肉漢堡配鷹嘴豆醬大啡菇比高包配牛油果沙律及脆片 $138\n\n漢堡堆到好高身份量感十足\n要分開食先唔會食得好「呢hea」🤣\n植物豬肉餅質感紮實\n有啖啖肉感但負擔感冇咁重\n大啡菇勁厚身多汁\n濃郁嘅鷹嘴豆醬有獨特香氣同辣辣地\n增加左味道嘅層次\nBagel都好煙韌\n沙律同脆片形成明顯對比\n好有趣嘅口感\n食晒個餐都好飽肚😋\n\n✨ 純素香蕉麵包 $25\n\n香蕉麵包切成厚厚一片\n表面金黃微微裂紋\n入口質地綿密\n香蕉味突出但唔會太甜\n帶少少堅果香氣\n配咖啡一流\n\n✨伯爵茶純素蛋糕 $48\n\n蛋糕橫切面賣相好靚\n散發住微微伯爵茶香\n蛋糕體入口鬆軟 忌廉輕盈\n散發清香茶味帶柑橘香氣\n食完唔覺膩\n\n✨Citrus Coffee $38\n咖啡帶清新柑橘酸香\n酸度同咖啡苦味平衡\n成個配搭好清新\n配埋蛋糕一齊食好夾\n\n✨Black Sesame Coffee  $38\n賣相層次分明\n將所有撈勻先飲\n品嚐到咖啡香同濃濃黑芝麻味\n令成杯咖啡充滿堅果香\n\n👛人均消費 ~$200(冇加一)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fofo Eunice",
+          "uri": "https://www.google.com/maps/contrib/117933292002392154417/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL94VPeOgMbqwBP2XjyjvWz0T2GoNx6aCK8717EpKKRdZMQxw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-23T16:27:02.777115979Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SVFpFaE5hazF3TjFsUmJEaFZZVzB4UW1JeWJYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SVFpFaE5hazF3TjFsUmJEaFZZVzB4UW1JeWJYYxAB!2m1!1s0x340407a76285a731:0xbcb0f1da0c3ef45d"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeStreetParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340407a76285a731:0xbcb0f1da0c3ef45d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13596633193842144349&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407a76285a731:0xbcb0f1da0c3ef45d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340407a76285a731:0xbcb0f1da0c3ef45d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407a76285a731:0xbcb0f1da0c3ef45d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJMaeFYqcHBDQRXfQ-DNrxsLw/photos/Aa-ngMYPU-3XLSQxe1PsSLV4GARncgFYUztDWX1SuodeHFx9JyX1nm7DvS7eDuG0zJsvb4_UlgktegdT6iUS4kCvIDl8gH3unslaNdmckfmfKOZxjh5JCEbKPHOqYfW6821j_Ryxd7TVvqmXTfw3RjeA8Gtt3DZPzT3nuF-3X7-R4nhLkFrwrN5x3i6DSnsaELYrsxP6b_BLdQDyEEVTDHUQd27hyT9P6_a8fJaGFjs8R5HJ7URuQnj8ducOgn0Sm4gj9tTTKLgNML1JxkUv-_x3bN1NmaJN9h8v3QdCeba09gCsN_XhrE9orW-okXM0yYahxrJXiXv9eDgq3IRmLUgGaeTi8TeZVigncoh4BsG_al653h9PZT5wQ1RwLYv7on-vZXH2VA1hVNA6mUyrMfmEoepdRf1rHt8gNndMX4ehQ2HFGA",
+      "widthPx": 1500,
+      "heightPx": 1844,
+      "authorAttributions": [
+        {
+          "displayName": "VEGO COFFEE 齋啡",
+          "uri": "https://maps.google.com/maps/contrib/101960095613773136892",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRCd2oBvEPfsjILRCY_MnxDzDDgMdvhRBUSkuLY3vYlHE8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCIKzpHnc7ygPZmNj9urk9_&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCIKzpHnc7ygPZmNj9urk9_!2e10!4m2!3m1!1s0x340407a76285a731:0xbcb0f1da0c3ef45d"
+    },
+    "local_path": "photos/ChIJMaeFYqcHBDQRXfQ-DNrxsLw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3b-YX8GPP_2ewFFilybiWZzSlThTrDhLKzMTjJQMH4BGVpFIm7OAtKn9ACE3Hz9VfZ8wGS9sMhBgxVcvCwB58T0znaSqFpzISHRKva8mY-sRzqkoSaNWiDhU2yEg5JUnRqpanHUryfcE2=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 284760
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "food_store",
+    "label": "食品專賣店",
+    "types": [
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

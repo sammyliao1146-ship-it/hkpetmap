@@ -1,0 +1,40 @@
+{
+  "id": "ChIJS8yTLfgBBDQR4bEyuRjFueg",
+  "types": [
+    "pet_care",
+    "pet_store",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "Shop 5b, LG/F, 436-450 Chatham Rd N, Hung Hom, Kowloon, 香港",
+  "location": {
+    "latitude": 22.311722500000002,
+    "longitude": 114.18624899999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16769651397467746785&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Dot Dot Dog",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJS8yTLfgBBDQR4bEyuRjFueg/photos/Aa-ngMZgiyv_VEYAecKl0PpKmLbKdOMD_lEOZra4JRXwqVIXfKzxZTrBQzsF46UubG-jjdeSj8lOHC4n0U7xjn6vD9nS-gD8hNgpvoyMx3n90Lj-ZlhPKXNeoXzz8htXqGnnkwbJAzdAK-uIkCj3ov_IagyfhpC5geqEibkz0H5aXiErGJoFpkNGkzbEBN69HOHsagAC5AAnNnEW9GwU7Ev7pTUb2HbIQjeLEyfefdZBTKjE55lWCBP-r9PjP1eou1dafvmcXnvWcr1VUQ4v8q0ZNJc3KkitmjXTU3QvAjDTxFb8IkXESpQf7DvQt-dWtR-KBdFT4E5z9SmgakvPHwQ2yKa3ysijR4TP_-qIGFYDC_BdR67QgC5dt30dSYNYb7gycMNk4aOnLtkpHC2h8v8Dl-yWiA",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "manning poon",
+          "uri": "https://maps.google.com/maps/contrib/116342446591216176417",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI86aZFd_IzT7E3mKRUhR0JzWrc9j1jC_whdTrCTwDVVk9swA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICP643ZOA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP643ZOA!2e10!4m2!3m1!1s0x340401f82d93cc4b:0xe8b9c518b932b1e1"
+    }
+  ],
+  "photo_count": 7,
+  "fetched_at": "2026-10-24T00:38:17.278644+00:00"
+}

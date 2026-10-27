@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJ4aAQqfwBBDQRvQJ-yReBAw8",
+  "restaurant_ids": [
+    "restaurant:3118809042"
+  ],
+  "fetched_at": "2026-10-23T15:40:54.870198+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ4aAQqfwBBDQRvQJ-yReBAw8",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "3077c, 國際金融中心 Podium Level Three, 8 Finance St, Central, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2851589,
+      "longitude": 114.1588412
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=1081850274663760573&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 19:00",
+        "星期二: 08:00 – 19:00",
+        "星期三: 08:00 – 19:00",
+        "星期四: 08:00 – 19:00",
+        "星期五: 08:00 – 19:00",
+        "星期六: 10:00 – 19:00",
+        "星期日: 10:00 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 249,
+    "displayName": {
+      "text": "Blue Bottle Coffee",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "coffee_shop",
+    "editorialSummary": {
+      "text": "時尚連鎖咖啡廳，供應高級咖啡與高點，另販售咖啡豆與沖泡設備。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJ4aAQqfwBBDQRvQJ-yReBAw8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taT2NrbEdOR3d6TjNoVlJGQXlTVEpDUmpoQ1JFRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "For the record 抵港的第一個工作日在這裡做事，點了一杯抹茶拿鐵要台票250（哭啊\n\n但，是好喝的，完全是遠勝在柬埔寨喝了那麼多杯的 matcha latte 👍🏾\n\n-\n\n在港最後一個早上，跟著上班人潮跑來金融區，又回到這裡工作了💼 話說大家也穿得太好看，是有在認真穿好正裝欸😌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "For the record 抵港的第一個工作日在這裡做事，點了一杯抹茶拿鐵要台票250（哭啊\n\n但，是好喝的，完全是遠勝在柬埔寨喝了那麼多杯的 matcha latte 👍🏾\n\n-\n\n在港最後一個早上，跟著上班人潮跑來金融區，又回到這裡工作了💼 話說大家也穿得太好看，是有在認真穿好正裝欸😌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Justin Sung",
+          "uri": "https://www.google.com/maps/contrib/108118928981610847633/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkxlLc85FEoabvyMC_Ex3FRQYGOOdr8KizRym-ZhnA3JHkxp-AUA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-01-28T01:54:53.923417677Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taT2NrbEdOR3d6TjNoVlJGQXlTVEpDUmpoQ1JFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taT2NrbEdOR3d6TjNoVlJGQXlTVEpDUmpoQ1JFRRAB!2m1!1s0x340401fca910a0e1:0xf038117c97e02bd"
+      },
+      {
+        "name": "places/ChIJ4aAQqfwBBDQRvQJ-yReBAw8/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3Z3N5c2F3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "中環IFC這間和日本的 Blue bottle 感覺差不了多少，可能已經在香港開了一段時間，和最初新開張嘅時候，在中環電動樓梯下面排長龍的情況截然不同\n\n咖啡選擇比之前多了少少，仍然好味\n\n忘記將座位部份拍照，今天也需要等15分鐘才有位",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "中環IFC這間和日本的 Blue bottle 感覺差不了多少，可能已經在香港開了一段時間，和最初新開張嘅時候，在中環電動樓梯下面排長龍的情況截然不同\n\n咖啡選擇比之前多了少少，仍然好味\n\n忘記將座位部份拍照，今天也需要等15分鐘才有位",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eat and travel",
+          "uri": "https://www.google.com/maps/contrib/104443812763366727589/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkLXv2WDzeA_d_DXObA_BwabbFxFnL8jnVLiOucvqdhyWGDGzY=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-03-24T17:21:43.631587Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3Z3N5c2F3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3Z3N5c2F3EAE!2m1!1s0x340401fca910a0e1:0xf038117c97e02bd"
+      },
+      {
+        "name": "places/ChIJ4aAQqfwBBDQRvQJ-yReBAw8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKNlYwSmxVRGxoYVdJMVNtOTVla3RWWmt0allXYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "Nola float，Liège waffle！\n下次試\nAffogato\n可麗露",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Nola float，Liège waffle！\n下次試\nAffogato\n可麗露",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eric Shih",
+          "uri": "https://www.google.com/maps/contrib/117275356535179626898/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlhZoQf-3h6qvYcq_xuS1v8jp2B3ZXzHZA9beTlRyxmeKorsE6=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-05-20T00:57:47.221495459Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKNlYwSmxVRGxoYVdJMVNtOTVla3RWWmt0allXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKNlYwSmxVRGxoYVdJMVNtOTVla3RWWmt0allXYxAB!2m1!1s0x340401fca910a0e1:0xf038117c97e02bd"
+      },
+      {
+        "name": "places/ChIJ4aAQqfwBBDQRvQJ-yReBAw8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toUGEzQjRiV3BTTkRCUWRVZEdWbTFLZDBoS1YzYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "提供咖啡和蛋糕，\n可以坐在窗邊看著風景，很舒服放鬆，\n咖啡很好喝.\n服務人員有很平易近人.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "提供咖啡和蛋糕，\n可以坐在窗邊看著風景，很舒服放鬆，\n咖啡很好喝.\n服務人員有很平易近人.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "林小璇",
+          "uri": "https://www.google.com/maps/contrib/100905912688902323130/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFGMmupayVx0Clw9iGIzjmVuUifYdRfEVnr5cpyPtVmnihmF8GXg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-31T04:56:32.131777788Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toUGEzQjRiV3BTTkRCUWRVZEdWbTFLZDBoS1YzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toUGEzQjRiV3BTTkRCUWRVZEdWbTFLZDBoS1YzYxAB!2m1!1s0x340401fca910a0e1:0xf038117c97e02bd"
+      },
+      {
+        "name": "places/ChIJ4aAQqfwBBDQRvQJ-yReBAw8/reviews/ChZDSUhNMG9nS0VJQ0FnSURobjhEVkRREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "店員很冷漠，客人很多，客人大多是金融業者，工作時間緊湊，所以最好先想清楚自己要點什麼在排隊，不然後面的隊伍很快就會對你不耐煩了。\n咖啡挺好喝的",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員很冷漠，客人很多，客人大多是金融業者，工作時間緊湊，所以最好先想清楚自己要點什麼在排隊，不然後面的隊伍很快就會對你不耐煩了。\n咖啡挺好喝的",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lynn Chang",
+          "uri": "https://www.google.com/maps/contrib/115857544990531151317/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUu0A531z1l6beNaHCY5Dj4O6WDpMZkW1B3Ok1UYdfCRwI5fX7UOw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-03-21T09:09:08.354268Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURobjhEVkRREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURobjhEVkRREAE!2m1!1s0x340401fca910a0e1:0xf038117c97e02bd"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401fca910a0e1:0xf038117c97e02bd!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1081850274663760573&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401fca910a0e1:0xf038117c97e02bd!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401fca910a0e1:0xf038117c97e02bd!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401fca910a0e1:0xf038117c97e02bd!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ4aAQqfwBBDQRvQJ-yReBAw8/photos/Aa-ngMbogm_e3dtP_uXMF8ZtqK8XbybVNvJYeiUwB1ZPwE42-72bF2xfWAtjXs_udILQ79IghWNH5t4FsbogrpX-qpIh4hSTNtIqohSkC_36ie1FqyHHVMC5yQkmLmp5bsmuloohqNkP2w-Blyo7CkUEg2opZCJUZ9puUlogbWnhVKo89ZxqzokSwEmuv8NIkv7pMufk9TrqSHSD1siVq70rgY2Ebt5fggTbMFpFdrdxdj6RbaOQA55re-31G_N3xYd8z5cPbf21CpjR-uM69h2oJEGzZwhl8uIBYyfnefCDB7flaAHvrMtB9_coe9PtBda6iMoH1sjiTtigWhsI6BrGGRrXfqYG0G1_1KSuYm2TsMglC79lj9Q_TVGvG5OrDHHVYGaOpa8ZnW-HeqJ4h-emkYH6zuGfFOQ",
+      "widthPx": 4000,
+      "heightPx": 1800,
+      "authorAttributions": [
+        {
+          "displayName": "Mike K.",
+          "uri": "https://maps.google.com/maps/contrib/114890961356281185359",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBx8MjRtlEPoZ9m7k_BunJXw8YI-BfHBz0jhyh9AYMYmK8ypYf=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDysKS93wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDysKS93wE!2e10!4m2!3m1!1s0x340401fca910a0e1:0xf038117c97e02bd"
+    },
+    "local_path": "photos/ChIJ4aAQqfwBBDQRvQJ-yReBAw8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfh9OaGBewmVNE477amr6j6ZpuISTSxQyq5-ClHmDjNL5IYwOCQ_elIqJz10KpVqkQ_pVT5fdl99t2_x063Z98HsfSORI2YTt26xvOuc3Q--45Jkyf3pF0d6eXFocWMWf9SYrK6Gw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 102068
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

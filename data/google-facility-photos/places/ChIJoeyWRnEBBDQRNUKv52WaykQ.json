@@ -1,0 +1,38 @@
+{
+  "id": "ChIJoeyWRnEBBDQRNUKv52WaykQ",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍何文田自由道11號地下1號舖",
+  "location": {
+    "latitude": 22.318969,
+    "longitude": 114.17455899999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4956944102344049205&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "動物醫療中心24小時中心 Animal Medical Centre 24-hour Centre",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJoeyWRnEBBDQRNUKv52WaykQ/photos/Aa-ngMZOLP3Hg_rJ2_rJOKUpqrNgBUQA9W25IAtRxFr0xZSQa1p2em6Yx18FOOIcSmt-IvqNkt1RUnjuIb9XrQOr-rinqdFE83Q2RUnzWLye8ESkMaJ5JToGU4S4V9wKbSTbLDCZo7BZwZOycS_4ZF_8CFolqHjKOWRJFUermpY8t2LSI-esW8BDTiZRIwfaNogwKKofg-QDIs72OnkhHeimJ2ycyIek1ou5j2bD5vpgs3JJYevAKARpjtp2fbhRcWGRc70zfGhC-kfkcuMylRHDHJuFQOc_c9l_HxlfB7p1xzy6J_R9ZxODAgleGR9eJseHkHkBXO7R6Yb6hOh86CcRr4lloPDymzVuVOr7Rvh_aqnUmdKCxq1zuPEH2kM7xZwlN9VRZPqRyJgd4pdSwHy7OPzp5bEjaqXkLmynx59FmmNyMA",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Stanley Chu",
+          "uri": "https://maps.google.com/maps/contrib/100519100136858644723",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGMuE0sW-0u9HSU0muUANBQ3hnMCmyEMJBw7CzCTPcMZFD600=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBIwJ6SbhkLDqO9E-zhtWWW&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBIwJ6SbhkLDqO9E-zhtWWW!2e10!4m2!3m1!1s0x340401714696eca1:0x44ca9a65e7af4235"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:26.508421+00:00"
+}

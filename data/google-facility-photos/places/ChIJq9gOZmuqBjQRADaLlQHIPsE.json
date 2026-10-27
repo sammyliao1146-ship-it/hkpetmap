@@ -1,0 +1,41 @@
+{
+  "id": "ChIJq9gOZmuqBjQRADaLlQHIPsE",
+  "types": [
+    "veterinary_care",
+    "pet_store",
+    "store",
+    "pet_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "LG/F 10-12 Wong Ma Kok Rd., Stanley, Hong Kong, 14號 Wong Ma Kok Rd, Stanley, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.2179263,
+    "longitude": 114.21344330000001
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13924787007005603328&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Stanley Veterinary Centre",
+    "languageCode": "en"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJq9gOZmuqBjQRADaLlQHIPsE/photos/Aa-ngMaiFNe3WWcDwif5CDVu3gaJYyp99ovDxFt8fQiGb5WQlP8uw8OPwVVF6cl1d0LDSjnN95aR0yU4_Nm3xgZSyX4AaxVYVu6EXZgHa2yb35s7PxUpbBTKquNo-ZQNx_vX2U0CvA9C13sSuGI3sKKcrgSEvlL2QcSyMGQTRr_eldlfsilH21AOHDgB_QiavouoTEE4b8jNzPMvmLqOucgnTQk8m52O5aUNNLo7PRUQFlE0ivMDNpBiL31MxThRwmti0yon1PdjCv36aXIPWE5cCJCJaISclLiHBlqqM5FAhd-6adYiW4qFzy6KTtA6WUpwcESo6_aSMhTxh6VknI53LCjjVD5xsg0RVTV9Q8YWOPZ6FqGpU1uuFnUFUyzyMdhW-zSDm3eTcvbWf5r_BfgcjC-ueq_Y",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Louis Ng",
+          "uri": "https://maps.google.com/maps/contrib/105881285521567303432",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJzX2lHDzDJsO0Ofi04cYAVMSK7RPcFDjPtkgVz6K20OgaLwHHdg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDcgICKvgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcgICKvgE!2e10!4m2!3m1!1s0x3406aa6b660ed8ab:0xc13ec801958b3600"
+    }
+  ],
+  "photo_count": 7,
+  "fetched_at": "2026-10-24T00:38:33.532977+00:00"
+}

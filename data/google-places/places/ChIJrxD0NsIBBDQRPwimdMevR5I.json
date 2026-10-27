@@ -1,0 +1,407 @@
+{
+  "google_place_id": "ChIJrxD0NsIBBDQRPwimdMevR5I",
+  "restaurant_ids": [
+    "restaurant:2218810747"
+  ],
+  "fetched_at": "2026-10-23T15:38:47.066465+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJrxD0NsIBBDQRPwimdMevR5I",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9426 6880",
+    "internationalPhoneNumber": "+852 9426 6880",
+    "formattedAddress": "香港香港島銅鑼灣駱克道",
+    "location": {
+      "latitude": 22.280732999999998,
+      "longitude": 114.1830193
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=10540586724074326079&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/%E7%81%83%E5%91%B3%E9%A4%A8-106857087771299/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 14:30, 17:30 – 23:00",
+        "星期二: 12:00 – 14:30, 17:30 – 23:00",
+        "星期三: 12:00 – 14:30, 17:30 – 23:00",
+        "星期四: 12:00 – 14:30, 17:30 – 23:00",
+        "星期五: 12:00 – 14:30, 17:30 – 23:00",
+        "星期六: 12:00 – 14:30, 17:30 – 23:00",
+        "星期日: 12:00 – 14:30, 17:30 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 69,
+    "displayName": {
+      "text": "灃味館",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJrxD0NsIBBDQRPwimdMevR5I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWS1QyOWhjMUpSU1hwUFZERXpOMVpRVVdKamFWRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "港島區銅鑼灣粵菜小館～真心好食，仲要抵食添🥳\n\n跟好友慶祝生日，我哋六個人叫咗：\n☝🏿蔥油白灼本地墨魚仔 $68 掂\n☝🏿青醬黃金皮蛋\n☝🏿醋汁茴香根 （估你唔到Fennel 除咗用來蒸魚之外，咁食都得喎）\n☝🏿三黃雞濃湯雞煲翅（需預訂）～六個人叫咗例半～雞味濃郁湯頭鮮甜～讚呀🫰🏽\n☝🏿鮑汁球花膠粗麵～大顛🥳 （需預訂）\n☝🏿蔥油炸子雞\n☝🏿川味肥腸\n☝🏿蟹肉粉絲煲～得🫰🏽\n\n大廚銓哥入行超過25年，樓面哥哥們個個友善親切，上菜時仲幫我哋打埋燈影相添🤣\n\n用轉數快俾錢仲免開瓶費㖭，回頭指數7000～下次試埋你個陳村粉🥳",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "港島區銅鑼灣粵菜小館～真心好食，仲要抵食添🥳\n\n跟好友慶祝生日，我哋六個人叫咗：\n☝🏿蔥油白灼本地墨魚仔 $68 掂\n☝🏿青醬黃金皮蛋\n☝🏿醋汁茴香根 （估你唔到Fennel 除咗用來蒸魚之外，咁食都得喎）\n☝🏿三黃雞濃湯雞煲翅（需預訂）～六個人叫咗例半～雞味濃郁湯頭鮮甜～讚呀🫰🏽\n☝🏿鮑汁球花膠粗麵～大顛🥳 （需預訂）\n☝🏿蔥油炸子雞\n☝🏿川味肥腸\n☝🏿蟹肉粉絲煲～得🫰🏽\n\n大廚銓哥入行超過25年，樓面哥哥們個個友善親切，上菜時仲幫我哋打埋燈影相添🤣\n\n用轉數快俾錢仲免開瓶費㖭，回頭指數7000～下次試埋你個陳村粉🥳",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Helen Hosim",
+          "uri": "https://www.google.com/maps/contrib/101001878966403383871/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOD70uRQeYv6JDYivMhjn6lu8VBVfEH78306Jo19axxPQ6gzpi=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-30T05:04:52.523558219Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWS1QyOWhjMUpSU1hwUFZERXpOMVpRVVdKamFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWS1QyOWhjMUpSU1hwUFZERXpOMVpRVVdKamFWRRAB!2m1!1s0x340401c236f410af:0x9247afc774a6083f"
+      },
+      {
+        "name": "places/ChIJrxD0NsIBBDQRPwimdMevR5I/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CNWNraDBUM1IyUzJ4VmVqUkxWR2hvTUVneVIzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "今次係第二次去食\n個黃金魚皮👍🏻👍🏻👍🏻\n夠哂脆夠薄，d咸蛋痴滿哂成塊魚皮\n最重要係一d都唔油，完全食唔停口🤤\n\n炸紙雞👍🏻👍🏻👍🏻\n皮超脆，雞又唔太肥，唔會有一層黃色嘅油脂\n食落雞肉仲好嫩口，有肉汁😋\n\n咕嚕肉👍🏻👍🏻👍🏻理個有驚喜！\n原因係平時食嘅咕嚕肉都會炸到好乾，同埋個皮好厚\n但係佢個粉漿皮超級薄，豬肉炸完都仲好Juicy\n個酸甜醬調得啱啱好，超級開胃😋\n最鍾意佢用新鮮菠蘿炒，食落唔會係一種死甜味👍🏻👍🏻\n\n雞湯浸菜苗👍🏻\n見佢寫菜苗，估到佢係生菜，同expect 嘅有少少出入\n建議叫之前問清楚佢係咩菜\n但飲得出佢真係用雞湯煮！個湯係好飲嘅👍🏻\n\n鮑汁扣原件12頭花膠扒👍🏻👍🏻呢個係廚師推介\n話說我哋都係為咗佢而出嚟食😂加錢就有埋個面底\n花膠好滑，有少少咬口唔會爛晒\n佢個鮑汁味度都幾濃郁，浠杰度適中\n店員幫你分完碗之後仲會將剩返嘅鮑汁俾埋你",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次係第二次去食\n個黃金魚皮👍🏻👍🏻👍🏻\n夠哂脆夠薄，d咸蛋痴滿哂成塊魚皮\n最重要係一d都唔油，完全食唔停口🤤\n\n炸紙雞👍🏻👍🏻👍🏻\n皮超脆，雞又唔太肥，唔會有一層黃色嘅油脂\n食落雞肉仲好嫩口，有肉汁😋\n\n咕嚕肉👍🏻👍🏻👍🏻理個有驚喜！\n原因係平時食嘅咕嚕肉都會炸到好乾，同埋個皮好厚\n但係佢個粉漿皮超級薄，豬肉炸完都仲好Juicy\n個酸甜醬調得啱啱好，超級開胃😋\n最鍾意佢用新鮮菠蘿炒，食落唔會係一種死甜味👍🏻👍🏻\n\n雞湯浸菜苗👍🏻\n見佢寫菜苗，估到佢係生菜，同expect 嘅有少少出入\n建議叫之前問清楚佢係咩菜\n但飲得出佢真係用雞湯煮！個湯係好飲嘅👍🏻\n\n鮑汁扣原件12頭花膠扒👍🏻👍🏻呢個係廚師推介\n話說我哋都係為咗佢而出嚟食😂加錢就有埋個面底\n花膠好滑，有少少咬口唔會爛晒\n佢個鮑汁味度都幾濃郁，浠杰度適中\n店員幫你分完碗之後仲會將剩返嘅鮑汁俾埋你",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Felicia Long",
+          "uri": "https://www.google.com/maps/contrib/112947566878369555376/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlFNSWLtOSaS325kSwhlXDZ2UwS2FRq6Gtn9MIsZS8icSQ5g=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-08-07T11:32:31.353331784Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CNWNraDBUM1IyUzJ4VmVqUkxWR2hvTUVneVIzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CNWNraDBUM1IyUzJ4VmVqUkxWR2hvTUVneVIzYxAB!2m1!1s0x340401c236f410af:0x9247afc774a6083f"
+      },
+      {
+        "name": "places/ChIJrxD0NsIBBDQRPwimdMevR5I/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wek16aEtZV1l6WkUxd1ZsZEZZVkJ5TlRoUU4xRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "想食中菜，又唔想飲茶，打開OpenRice bookmark咗嘅銅鑼灣中餐廳，就見到呢間「灃味館」，咁就俾個機會佢試吓啦。\n\n出發前嗱嗱臨WhatsApp 預約，呢日係星期日嘅午市，雖然只係兩個人嚟，餐廳職員安排咗個廂房俾我哋，仲有埋電視睇㖭。呢度係做私房菜嘅格局，都有幾間私人廂房，食飯傾偈時可以Private啲。\n\n兩個人叫咗個午市二人餐，前菜要咗酥炸生蠔，湯就升級轉左杏汁菜膽燉花膠湯，主菜要咗新鮮菠蘿拔絲咕嚕肉和上湯焗海虎蝦拌鍋巴，主食到升級咗轉做銓哥炒飯。\n\n酥炸生蠔一人一隻，炸皮做得好薄好脆，生蠔都幾飽滿，蠔肉仲係好嫩仲有蠔汁，唯一係個帶子位靭咗啲（兩隻都係）。\n\n杏汁菜膽燉花膠湯就一般般啦，塊花膠好薄好細塊，不過我哋冇預早book枱，都不能要求太多。個湯都好滑嘅，有雞腳燉湯個湯提鮮不少，杏汁就幾好唔會食到有顆粒感。\n\n呢度嘅王牌菜式之一係新鮮菠蘿拔絲咕嚕肉，又係個炸皮做得好薄好脆，裹住個醬做到拉絲感，咕嚕肉係梅頭肉夠滑帶嚼勁。呢個咕嚕肉又真係幾好食嘅，一舊食完又一舊，好食到食唔停。\n\n上湯焗海虎蝦拌鍋巴，個醬用咗上湯同櫻花蝦，好香口，忍唔住口掛住用好鍋巴沾個醬嚟食。海虎蝦控制火頭啱啱好，蝦肉仲係好鮮嫩。\n\n銓哥炒飯有櫻花蝦、帶子、蝦肉、芥蘭頭等配料。由於兩款主食太好食啦，令銓哥炒飯有啲失色。要讚嘅係，個炒飯炒得唔油，夠乾身，碟底唔會有一堆油。\n\n食完仲有兩碗糖水送添。今次午飯小事\n試牛刀覺得大廚銓哥喺火候技巧同食材味道配搭上面都唔錯，擺盤都吸引，已經心思思計劃下次約埋啲朋友一齊嚟試吓個主菜單的食物先。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "想食中菜，又唔想飲茶，打開OpenRice bookmark咗嘅銅鑼灣中餐廳，就見到呢間「灃味館」，咁就俾個機會佢試吓啦。\n\n出發前嗱嗱臨WhatsApp 預約，呢日係星期日嘅午市，雖然只係兩個人嚟，餐廳職員安排咗個廂房俾我哋，仲有埋電視睇㖭。呢度係做私房菜嘅格局，都有幾間私人廂房，食飯傾偈時可以Private啲。\n\n兩個人叫咗個午市二人餐，前菜要咗酥炸生蠔，湯就升級轉左杏汁菜膽燉花膠湯，主菜要咗新鮮菠蘿拔絲咕嚕肉和上湯焗海虎蝦拌鍋巴，主食到升級咗轉做銓哥炒飯。\n\n酥炸生蠔一人一隻，炸皮做得好薄好脆，生蠔都幾飽滿，蠔肉仲係好嫩仲有蠔汁，唯一係個帶子位靭咗啲（兩隻都係）。\n\n杏汁菜膽燉花膠湯就一般般啦，塊花膠好薄好細塊，不過我哋冇預早book枱，都不能要求太多。個湯都好滑嘅，有雞腳燉湯個湯提鮮不少，杏汁就幾好唔會食到有顆粒感。\n\n呢度嘅王牌菜式之一係新鮮菠蘿拔絲咕嚕肉，又係個炸皮做得好薄好脆，裹住個醬做到拉絲感，咕嚕肉係梅頭肉夠滑帶嚼勁。呢個咕嚕肉又真係幾好食嘅，一舊食完又一舊，好食到食唔停。\n\n上湯焗海虎蝦拌鍋巴，個醬用咗上湯同櫻花蝦，好香口，忍唔住口掛住用好鍋巴沾個醬嚟食。海虎蝦控制火頭啱啱好，蝦肉仲係好鮮嫩。\n\n銓哥炒飯有櫻花蝦、帶子、蝦肉、芥蘭頭等配料。由於兩款主食太好食啦，令銓哥炒飯有啲失色。要讚嘅係，個炒飯炒得唔油，夠乾身，碟底唔會有一堆油。\n\n食完仲有兩碗糖水送添。今次午飯小事\n試牛刀覺得大廚銓哥喺火候技巧同食材味道配搭上面都唔錯，擺盤都吸引，已經心思思計劃下次約埋啲朋友一齊嚟試吓個主菜單的食物先。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alice Chan",
+          "uri": "https://www.google.com/maps/contrib/108933867396785271249/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXh5wr3-1icdf9_1TtiAC97VbPZAD-zYJecbvSHJcJlKlRmZ8k=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-07-14T17:08:32.254614517Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wek16aEtZV1l6WkUxd1ZsZEZZVkJ5TlRoUU4xRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wek16aEtZV1l6WkUxd1ZsZEZZVkJ5TlRoUU4xRRAB!2m1!1s0x340401c236f410af:0x9247afc774a6083f"
+      },
+      {
+        "name": "places/ChIJrxD0NsIBBDQRPwimdMevR5I/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIcHItQnJnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "早兩天朋友生日，在這裏為他慶祝。這裏的出品普遍相當不錯，經常座無虛席，尤其心得酒友門嘅愛戴。當晚吃了很多不同菜式，當中尤其是以下幾樣特別出色：\n濃湯脆米浸海東星斑、拔絲咕嚕肉、薑蔥 啫啫腸粉 膏蟹膏煲、煙燻皇子鴿\n大吃大喝了一整晚。帶着歡笑與肚腩離開。在此祝我的朋友、太太及女女身體健康，感恩喜樂。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "早兩天朋友生日，在這裏為他慶祝。這裏的出品普遍相當不錯，經常座無虛席，尤其心得酒友門嘅愛戴。當晚吃了很多不同菜式，當中尤其是以下幾樣特別出色：\n濃湯脆米浸海東星斑、拔絲咕嚕肉、薑蔥 啫啫腸粉 膏蟹膏煲、煙燻皇子鴿\n大吃大喝了一整晚。帶着歡笑與肚腩離開。在此祝我的朋友、太太及女女身體健康，感恩喜樂。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ghkk",
+          "uri": "https://www.google.com/maps/contrib/103156299810567055719/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJXGFwq09o5-7Sk5aNOzJp1INrih3wH5SeTUc0X8UpBu0Nryw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-09-04T12:33:14.963085Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIcHItQnJnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIcHItQnJnRRAB!2m1!1s0x340401c236f410af:0x9247afc774a6083f"
+      },
+      {
+        "name": "places/ChIJrxD0NsIBBDQRPwimdMevR5I/reviews/ChZDSUhNMG9nS0VJQ0FnSURINWFMaElBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "⭐️是晚菜單⭐️\n\n💯鮑汁扣原件12頭花膠公 + 粗面\n💯三黃雞濃湯雞煲翅\n❣️京蔥蝦籽鮮雜菌炒關東遼參\n❣️牡丹蝦汁脆米伴北海道帶子\n❣️懷舊江南百花脆皮雞\n❣️金沙大刀魚皮\n❣️鮮菠蘿拔絲脆皮咕嚕肉\n💖啫啫唐生菜\n💖陳皮紅豆沙\n\n係中秋節正日食飯，啲侍應雖然好忙但都好貼心，係上菜急咗啲，不過都明白大時大節廚房安排 ：）\n\n同埋好好安排咗間細房仔俾我地，冇房坐大廳又會迫咗少少😌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "⭐️是晚菜單⭐️\n\n💯鮑汁扣原件12頭花膠公 + 粗面\n💯三黃雞濃湯雞煲翅\n❣️京蔥蝦籽鮮雜菌炒關東遼參\n❣️牡丹蝦汁脆米伴北海道帶子\n❣️懷舊江南百花脆皮雞\n❣️金沙大刀魚皮\n❣️鮮菠蘿拔絲脆皮咕嚕肉\n💖啫啫唐生菜\n💖陳皮紅豆沙\n\n係中秋節正日食飯，啲侍應雖然好忙但都好貼心，係上菜急咗啲，不過都明白大時大節廚房安排 ：）\n\n同埋好好安排咗間細房仔俾我地，冇房坐大廳又會迫咗少少😌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mil mil mil Li",
+          "uri": "https://www.google.com/maps/contrib/108934139114733133271/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXENh1u9apqIA-DM83MbtK3SjQpDLxzrL_eRKH6_nMKOC7STvpS=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-09-18T09:48:26.474363Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURINWFMaElBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURINWFMaElBEAE!2m1!1s0x340401c236f410af:0x9247afc774a6083f"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401c236f410af:0x9247afc774a6083f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10540586724074326079&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401c236f410af:0x9247afc774a6083f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401c236f410af:0x9247afc774a6083f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401c236f410af:0x9247afc774a6083f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJrxD0NsIBBDQRPwimdMevR5I/photos/Aa-ngMageg6KDYo86KChcdQjSZvjBN9-80Woj0BuokGMcWMPnUOrjVNdpg6TCM3Ka57YuzzBlvvaNXgWHl8I2BVigodBb0bX0ySqVx5VL-LYIYM04Zp_ilNVoisW8npYMjqV3F_kf1fCF6SzL3FqqXGj1vXlmn3vWsphm_3o9DcYglKkxlwJxbaoPBw9LNMLn_6VgviZjuBxtSkpTSFd-vVJgt3WR5vpi5aB5zwHV96_JKqXvSyiH3tl7hFYW92-0Jn8eeukOphL7LeliL3Fl7PMnEpNBtv2eEoBzgSpbyWUDCfG1PEnNTKjogy-dk0J9tO8JnukXTV3UDQJoKNmuSKT_LnzS9taAeVgFMEYIVkVS-LAtNRq12VX4jcghnh0OgPPrMt35sMSk0sEMoBUKLL8yveG82dM",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Onnei",
+          "uri": "https://maps.google.com/maps/contrib/102542697772125626725",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVu-wSXQjciBNQRMgWDAJG4bxhXVy3F3rmkIxtOgHC5mpN1NC7I=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDDrOTzuAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDrOTzuAE!2e10!4m2!3m1!1s0x340401c236f410af:0x9247afc774a6083f"
+    },
+    "local_path": "photos/ChIJrxD0NsIBBDQRPwimdMevR5I.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFArgz8IfyxzvH20tip2qMxYgwqzzeEukWq6E3DTwEeiTZHFp5GKwtKE8Y4yHuiuYQ5pEDBjjD8Vmj9RpbTbi2NBHthagBQsTj6qnMLUjFcdQRLDZcYNf_ad3dW1SqOONGIRSe=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 143381
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,396 @@
+{
+  "google_place_id": "ChIJLd4CXwABBDQRKkw3J0UljAc",
+  "restaurant_ids": [
+    "restaurant:2261824223"
+  ],
+  "fetched_at": "2026-10-23T15:43:49.494259+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJLd4CXwABBDQRKkw3J0UljAc",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9275 5398",
+    "internationalPhoneNumber": "+852 9275 5398",
+    "formattedAddress": "香港九龍油麻地吳松街23號",
+    "location": {
+      "latitude": 22.307966399999998,
+      "longitude": 114.1707543
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=543850633945893930&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 16:00, 18:00 – 22:00",
+        "星期二: 12:00 – 16:00, 18:00 – 22:00",
+        "星期三: 12:00 – 16:00, 18:00 – 22:00",
+        "星期四: 12:00 – 16:00, 18:00 – 22:00",
+        "星期五: 12:00 – 16:00, 18:00 – 23:00",
+        "星期六: 12:00 – 16:00, 18:00 – 23:00",
+        "星期日: 12:00 – 16:00, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 173,
+    "displayName": {
+      "text": "餐泰",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJLd4CXwABBDQRKkw3J0UljAc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSdlJGcGtNVkJLYWpScE9UazNXVmRTYkhoT2NtYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳同餐具都乾淨企理，串燒好味！啲肉好足份量，菠蘿沙冰好味👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳同餐具都乾淨企理，串燒好味！啲肉好足份量，菠蘿沙冰好味👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charlotte Ng",
+          "uri": "https://www.google.com/maps/contrib/110817346847922662201/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvxybNp3VoV-zbgVLiTdqhYLLQItCIj-VcixXGcSAPE6xDVnKA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-14T11:07:55.801499811Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSdlJGcGtNVkJLYWpScE9UazNXVmRTYkhoT2NtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSdlJGcGtNVkJLYWpScE9UazNXVmRTYkhoT2NtYxAB!2m1!1s0x340401005f02de2d:0x78c254527374c2a"
+      },
+      {
+        "name": "places/ChIJLd4CXwABBDQRKkw3J0UljAc/reviews/Ci9DQUlRQUNvZENodHljRjlvT205Q05GRktXRnBzVjJSc1QyUkxiSGRWYkVodGNuYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 2,
+        "text": {
+          "text": "今日2個人嚟食咗三樣嘢，炸蝦餅，幾大個，但冇蝦味，可能加咗魚肉同粉，又冇魚味，唔掂，炒粉一上枱細碟到嚇死，碟中央約6吋直徑，好辣，三隻虾一D都唔鮮甜，D粉係粉皮，正常人食三碟都唔夠飽，豬頸肉燒得比較好少少，已經冇心機再叫嘢食，埋單$290，汽水都收三十幾元一支，食完要再去等二間食過",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日2個人嚟食咗三樣嘢，炸蝦餅，幾大個，但冇蝦味，可能加咗魚肉同粉，又冇魚味，唔掂，炒粉一上枱細碟到嚇死，碟中央約6吋直徑，好辣，三隻虾一D都唔鮮甜，D粉係粉皮，正常人食三碟都唔夠飽，豬頸肉燒得比較好少少，已經冇心機再叫嘢食，埋單$290，汽水都收三十幾元一支，食完要再去等二間食過",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Johnny Yeung",
+          "uri": "https://www.google.com/maps/contrib/115833659221398588939/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMc8yLpirDIuwE1czHgp0N9Vgu5LQevS7fCeBoVib9V-t2c5hT=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-23T15:34:11.453315150Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205Q05GRktXRnBzVjJSc1QyUkxiSGRWYkVodGNuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205Q05GRktXRnBzVjJSc1QyUkxiSGRWYkVodGNuYxAB!2m1!1s0x340401005f02de2d:0x78c254527374c2a"
+      },
+      {
+        "name": "places/ChIJLd4CXwABBDQRKkw3J0UljAc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0dllYZDZhVmxwWWxoMWIwWlpjVGRtT1dzd2MzYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "味道好正宗 價錢又唔貴 環境又舒服 好似去左泰國咁",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道好正宗 價錢又唔貴 環境又舒服 好似去左泰國咁",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Little Sam",
+          "uri": "https://www.google.com/maps/contrib/111612199199895804709/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWR_5k2eX6jPnVkkarIIZf52KZM_8qCG0j3mTrnYvnQyPP0iO8x7Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-09T12:05:20.638400684Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0dllYZDZhVmxwWWxoMWIwWlpjVGRtT1dzd2MzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0dllYZDZhVmxwWWxoMWIwWlpjVGRtT1dzd2MzYxAB!2m1!1s0x340401005f02de2d:0x78c254527374c2a"
+      },
+      {
+        "name": "places/ChIJLd4CXwABBDQRKkw3J0UljAc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tadlVGUktTMUZ2UVZkVE1qQXpjR2czYlhBMU4zYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "醉貓炒河好味，去骨雞唔係好夠骨，豬頸肉都唔錯，老闆娘好有heart",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "醉貓炒河好味，去骨雞唔係好夠骨，豬頸肉都唔錯，老闆娘好有heart",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "to ka yee",
+          "uri": "https://www.google.com/maps/contrib/107200738106487513193/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL7E3rsH-z2VhLjShBxo7M44dNpH9Yqck_Q_imAbU2SBd28rg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-09-03T12:30:54.563834924Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tadlVGUktTMUZ2UVZkVE1qQXpjR2czYlhBMU4zYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tadlVGUktTMUZ2UVZkVE1qQXpjR2czYlhBMU4zYxAB!2m1!1s0x340401005f02de2d:0x78c254527374c2a"
+      },
+      {
+        "name": "places/ChIJLd4CXwABBDQRKkw3J0UljAc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0UVZuQmlNbEpwVkZJMFV6VmxkaTFwU1dSUmJHYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "非常懷念這處的味道及氣氛,今次再來,食物都係咁美味,服務親善,地方清潔👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常懷念這處的味道及氣氛,今次再來,食物都係咁美味,服務親善,地方清潔👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wai hung Cham",
+          "uri": "https://www.google.com/maps/contrib/109501984483928499049/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKMSBSMmc96rmIqjMDCVSQWXZg5LPIoLKWQf7EYhQ7bas55LQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-26T10:55:51.290638366Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0UVZuQmlNbEpwVkZJMFV6VmxkaTFwU1dSUmJHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0UVZuQmlNbEpwVkZJMFV6VmxkaTFwU1dSUmJHYxAB!2m1!1s0x340401005f02de2d:0x78c254527374c2a"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": false,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401005f02de2d:0x78c254527374c2a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=543850633945893930&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401005f02de2d:0x78c254527374c2a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401005f02de2d:0x78c254527374c2a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401005f02de2d:0x78c254527374c2a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJLd4CXwABBDQRKkw3J0UljAc/photos/Aa-ngMaCDqms4i1cgyOqjxPsPUA2z6vCvGSrR9D3SfaLRus_RJT28Kuz5Tr2G_kSSNhlpjKReH_uNPuNWPIj_L362I_4IORX_oJEGTVtA8j0rgCbTUn3_nUNHmtcDi4YY9m1736SfMiRQWpnxIExjuLyezWptCTlK-iG64Dvd_sP4DdRRR2KOw034d-3K0QvqsmsZiYXyqmNhjZdNXrmG0boS0qWOcs45AxOmAAMdLIi4chmMU5RQ_wLRUKQWbao-lbRThaIoDc-TyqCXqPU2TzqxtsMXRd7x-JV3ZB1zB_o-W36sSXLsAJeMWLeGPG6ZGRPH_QhtXsJNCM8o3U6tNQOz26kACuwWetKt-K6-FY_ShG5n2f9c575VOflfYkAJCoX3CK-5zpgPyWzzKjAPHuILEWPBXDN3-je2AYjjp-EzmTe7Q",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "餐泰",
+          "uri": "https://maps.google.com/maps/contrib/112839588758561165802",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKIZM1P6_-ePMXwVyfBzJVlEWduLrCKmDzfCliZUIOvFul8VQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBn-Q6bgzJgI62W8MhbX_Fl&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBn-Q6bgzJgI62W8MhbX_Fl!2e10!4m2!3m1!1s0x340401005f02de2d:0x78c254527374c2a"
+    },
+    "local_path": "photos/ChIJLd4CXwABBDQRKkw3J0UljAc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCX_D121R7EMkXoMwOIUKK54VxQTFbflSDP0QeE0QSvsqKnSubGYyiDoefXWTAHVfC_mjtn4hddHt61S_Z3ni-S44MXueghss8JTV1bO7m_suvc1Sv8NHKfqMq_7wHfYanzMQyTdw6hmFu=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 172008
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

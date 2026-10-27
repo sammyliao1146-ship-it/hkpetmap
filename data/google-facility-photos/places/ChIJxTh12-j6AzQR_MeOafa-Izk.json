@@ -1,0 +1,38 @@
+{
+  "id": "ChIJxTh12-j6AzQR_MeOafa-Izk",
+  "types": [
+    "farmers_market",
+    "market",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界藍地",
+  "location": {
+    "latitude": 22.418121799999998,
+    "longitude": 113.98173129999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4117344449888962556&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "藍地菜站",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "farmers_market",
+  "photos": [
+    {
+      "name": "places/ChIJxTh12-j6AzQR_MeOafa-Izk/photos/Aa-ngMb1le_nLJHu_gO0ZLtYJL06NSB5SZD1nSuRlWQCOd0F2suRNF3GJ9Hp6lq8n-nP8nHvlolNiuEXhue26t-uglttfv1ogbfEnzuFxKxvGaYnnxQ6QMOAVgIiFrJH8lu5eEBFrv7srRI8ec4QNgsk6KghbjMvHufaeBNSQtOR5TIT8RMC8xH3_j_zTpfc8Kczpw4EhgOxJvhVXG7PaKnH0oguEfrm7pHOjkjTm1zwCZ9Ulls8b1jYy_F6NxgxuYFdSEKVe4cei1d-MJG3p6WFFesRK14IMTDYb_sbTAjqvHt2xByr9cnPpkr9ubET6ETQOyzbQpVnuBGFD-wVS5SGiaUH2OyXvliPRfpcR3vi1ZFLJdRJXmuYzYFTvmL5msJuEEmTMtJ5xWWsICpQjKlZg69jpg",
+      "widthPx": 4096,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "Leon Chan",
+          "uri": "https://maps.google.com/maps/contrib/116316707042741309039",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhEulHiTn90X8SLv94fPOWW8JiHWexDd8_Ivill94L_RU7fKD_=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBormvNg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBormvNg!2e10!4m2!3m1!1s0x3403fae8db7538c5:0x3923bef6698ec7fc"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:31.554168+00:00"
+}

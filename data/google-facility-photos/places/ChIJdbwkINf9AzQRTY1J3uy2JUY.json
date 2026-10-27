@@ -1,0 +1,38 @@
+{
+  "id": "ChIJdbwkINf9AzQRTY1J3uy2JUY",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "g51a, DB Plaza 1 Discovery Bay Rd, Discovery Bay, Hong Kong, Lantau Island, New Territories, 香港",
+  "location": {
+    "latitude": 22.295997,
+    "longitude": 114.0176697
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5054647285251149133&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Pet Space Discovery Bay",
+    "languageCode": "en"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJdbwkINf9AzQRTY1J3uy2JUY/photos/Aa-ngMaHpjaanlNqF073SE6c6LJL6PUivHW48hb8a7lxvy-6-GLqcDfgN2UO-2sbwSC7AIA_k_3mXtS6Tasn9idEfz3pWITS7CH1jwLr6t_sPXW8dDekkfTlXdw9fLmj1Jmowt_PiI9s9uQv_IUi1Yt1tTMFkxjWsC55wZXUnTV7GnD9Dw_-HaY-eJnzIIWnHaJVESxi4HGz8ha98z2hKa6KTCt3rCbIBLAUY0fB9BWIW8zkJNKDkLrNbEIgH76Gxun9Tkz64Hr631CTkoV-TBAOZ4P2O-KjS5egBCEiPhpNRJS18RgxHrJo2HyLsrpHbSe4bxKK4j9rK2QCBsmNNtm6C9ehMB1GKhn_Mv39dv7h6m3_QwMT-mALl5H2umM30q26qRSQbqpg0LbDqhBN25ezrOrTUlwIgdeF3XeZBpnOpNw6HA",
+      "widthPx": 896,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "Pet Space Discovery Bay",
+          "uri": "https://maps.google.com/maps/contrib/105034113062961956611",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0q-YqoerSEFwJrdZ9UxEB50zb-MI6yXq2N1svQq5ma-iUSvyQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAvqhsgUoqxWH5ZS1IsZLiQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAvqhsgUoqxWH5ZS1IsZLiQ!2e10!4m2!3m1!1s0x3403fdd72024bc75:0x4625b6ecde498d4d"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:54.500648+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ChIJqbef1Or3AzQRCf3FmEYMyD4",
+  "types": [
+    "pet_store",
+    "pet_boarding_service",
+    "pet_care",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "元朗, 地下, 4A Kam Tin Rd, Kam Tin, New Territories, 香港",
+  "location": {
+    "latitude": 22.4401503,
+    "longitude": 114.0617228
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4523879323044019465&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "The Fur Seasons",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJqbef1Or3AzQRCf3FmEYMyD4/photos/Aa-ngMYHUviBEXQ_cDwTs9S91PQxcnkYolsLqhIcB3VxMIWqWYcYnUItiHXe9XE5XEf2QKVLYGm-o3qRNB2EEl_XZIK1k7OiOH3liK5avSM67TV0RF3r-SsZfp-KtyStGARFclpTn6zlN3Ey6-hWi4vq2hurPvoGJ_US-ii_az0d0PX4oSnzUrsr0tCGXLBgGMXf8dEfhqsyLWi6pYUewtamcLvHhiV3GtsFWMWe5Ub8r-ivMjosyi6MCgH9ldWv5M6USAnAPtJz4KuWJtmXT9vjHbIVOXkjL8oYleksCACtq-TndNd-FZGXxONZDw7uFWhTK2krj97bEKSMEXkf5SMO6oKyZsJbaiyRQO3t4qvrQbWG5VllPhtCm4XBUSiQUuPNfF5oHnuREKJAGo9lytLIs09syFWZ8xoxcI7Xq4emka84",
+      "widthPx": 3200,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "RENNIE LOK",
+          "uri": "https://maps.google.com/maps/contrib/107669973961602690032",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6zME9vFW6JA-z9N6x6vJQ_L-1Hfj2YeDctZeiDW0h_El3whkV=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA9YwkLxvmBNzYBMvhCZCWi&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA9YwkLxvmBNzYBMvhCZCWi!2e10!4m2!3m1!1s0x3403f7ead49fb7a9:0x3ec80c4698c5fd09"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:24.371610+00:00"
+}

@@ -1,0 +1,305 @@
+{
+  "google_place_id": "ChIJUW8FPiIBBDQRV2wyRxhpxD8",
+  "restaurant_ids": [
+    "restaurant:3153099666",
+    "restaurant:3162804633"
+  ],
+  "fetched_at": "2026-10-23T15:37:54.110994+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJUW8FPiIBBDQRV2wyRxhpxD8",
+    "types": [
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6229 1780",
+    "internationalPhoneNumber": "+852 6229 1780",
+    "formattedAddress": "香港九龍旺角砵蘭街新與大廈地下A鋪",
+    "location": {
+      "latitude": 22.3167271,
+      "longitude": 114.1694344
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=4594913072819366999&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 1,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 15:00 – 01:00",
+        "星期二: 15:00 – 01:00",
+        "星期三: 15:00 – 00:30",
+        "星期四: 15:00 – 01:00",
+        "星期五: 15:00 – 01:00",
+        "星期六: 15:00 – 01:00",
+        "星期日: 15:00 – 01:00"
+      ],
+      "nextCloseTime": "2026-10-23T17:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 16,
+    "displayName": {
+      "text": "將軍•大糖",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "甜點專賣店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "primaryType": "dessert_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJUW8FPiIBBDQRV2wyRxhpxD8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GRWFVSnVOa3h6VW1aTVMxbFRlRTR6ZVZKSFVWRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "心太軟幾好食，不過個雲呢拿雪糕好奶粉味，朱古力正常",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "心太軟幾好食，不過個雲呢拿雪糕好奶粉味，朱古力正常",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "G SYC",
+          "uri": "https://www.google.com/maps/contrib/114876352543919320784/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKS1X-cT8I7xpZAPlTzUmbN1dPmN5-7GrDDMxEVC6AJhrVktA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-30T14:54:57.312951234Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GRWFVSnVOa3h6VW1aTVMxbFRlRTR6ZVZKSFVWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GRWFVSnVOa3h6VW1aTVMxbFRlRTR6ZVZKSFVWRRAB!2m1!1s0x340401223e056f51:0x3fc4691847326c57"
+      },
+      {
+        "name": "places/ChIJUW8FPiIBBDQRV2wyRxhpxD8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oUlp6aFFaVGQxU1MwMFpVSTNYMGhWYmxoS1NsRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 1,
+        "text": {
+          "text": "甘難食唔短點解可以開分店",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "甘難食唔短點解可以開分店",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Bill Tam",
+          "uri": "https://www.google.com/maps/contrib/103997817677165076414/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIj3VwVt54EQ6BP0D0gcK4mLoPavcjaz3vhdLw-3rVAkY8P-Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-22T13:27:39.071305848Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oUlp6aFFaVGQxU1MwMFpVSTNYMGhWYmxoS1NsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oUlp6aFFaVGQxU1MwMFpVSTNYMGhWYmxoS1NsRRAB!2m1!1s0x340401223e056f51:0x3fc4691847326c57"
+      },
+      {
+        "name": "places/ChIJUW8FPiIBBDQRV2wyRxhpxD8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OU1lXNVhNblV3V2pWQ1ZuRkRSMUJyVVhSallYYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 3,
+        "text": {
+          "text": "好一般，沙冰個質地好怪，仲要應該糖漿搞出黎，芒果都甜既🤔  2樣都一般般🤔 西米好淋一pat野野痴埋晒",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好一般，沙冰個質地好怪，仲要應該糖漿搞出黎，芒果都甜既🤔  2樣都一般般🤔 西米好淋一pat野野痴埋晒",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ｍ a r i ｏ Lo",
+          "uri": "https://www.google.com/maps/contrib/113910110045540997522/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsqbwTj1L9SIs-9JrjKGyNgyAWtcLT1ex5VkxtleG7HDJJ-V0G=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-12-14T16:16:57.489555844Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OU1lXNVhNblV3V2pWQ1ZuRkRSMUJyVVhSallYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OU1lXNVhNblV3V2pWQ1ZuRkRSMUJyVVhSallYYxAB!2m1!1s0x340401223e056f51:0x3fc4691847326c57"
+      },
+      {
+        "name": "places/ChIJUW8FPiIBBDQRV2wyRxhpxD8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkbVdrbGFSbWxUZUhKWVZGYzBXVkJZTkRWM01IYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "芋圓quality參差不齊，有啲硬有啲軟，除此之外幾好食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "芋圓quality參差不齊，有啲硬有啲軟，除此之外幾好食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tiff-_-",
+          "uri": "https://www.google.com/maps/contrib/107710988908275428553/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlu8jOmso7GTAjkU4s-5kHc7hQQckyvVzczTPmsPjM3tekTGFx=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-01-26T13:27:08.226529724Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkbVdrbGFSbWxUZUhKWVZGYzBXVkJZTkRWM01IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkbVdrbGFSbWxUZUhKWVZGYzBXVkJZTkRWM01IYxAB!2m1!1s0x340401223e056f51:0x3fc4691847326c57"
+      },
+      {
+        "name": "places/ChIJUW8FPiIBBDQRV2wyRxhpxD8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTU4xZHNXRE5VVUVScWRIWkxObTEyT0ZWM01YYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "開心果糊唔錯！\n椰皇蛋白外賣都包得幾好 冇瀉仲要蛋白夠多\n芒果小丸子原來係沙冰底 搞到番屋企水晒就差小小 但個味唔差",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "開心果糊唔錯！\n椰皇蛋白外賣都包得幾好 冇瀉仲要蛋白夠多\n芒果小丸子原來係沙冰底 搞到番屋企水晒就差小小 但個味唔差",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Duck",
+          "uri": "https://www.google.com/maps/contrib/108640766369551691052/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxjPbUqiewu61zJnu3EG1B0iNcIEgHE8_BZSAgALwRFzsWX0_0=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-05-25T15:29:44.229735192Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aTU4xZHNXRE5VVUVScWRIWkxObTEyT0ZWM01YYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aTU4xZHNXRE5VVUVScWRIWkxObTEyT0ZWM01YYxAB!2m1!1s0x340401223e056f51:0x3fc4691847326c57"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeStreetParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401223e056f51:0x3fc4691847326c57!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4594913072819366999&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401223e056f51:0x3fc4691847326c57!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401223e056f51:0x3fc4691847326c57!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401223e056f51:0x3fc4691847326c57!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJUW8FPiIBBDQRV2wyRxhpxD8/photos/Aa-ngMYKuSnHknI8e34US9UBAv5GeBH14F0LW5elI38ZrIVHgUcAYQTcxMOAfPw7hHdN4UJD1lxF7h5vHOR0bkEHqmN1IbiJaaWytqfOX-5CImV4X0XGxDx-eBMPdtUhzDb1kZQxyeeDc3e8CmEJDbM0sVdFZzHTWvE4H0eLZiVjO5q5XOcO_r0OemQJ4BjTUaWEd2TISofEafHA2F9M-rfgXBa1Kv11pV9wlWuWyAFFd0XgPeOo323oxwPeQtNr3zD0dQ1vbtT-7qlN4qDTiJ606eMmXnSKWtIge8F-nwlgPpILq6secWeUbv8xGyqM3nyZQnpHG58z3y99e7kjtE-25hviLCFIFAKnT-tMwxlB2izr66EvU1MpC2x_o6kPNgULaC8-CIT2Zp0Jn6yooMePdo6RO22B3deu454OYx1RuIecbg",
+      "widthPx": 1576,
+      "heightPx": 2100,
+      "authorAttributions": [
+        {
+          "displayName": "Gaga Bichon",
+          "uri": "https://maps.google.com/maps/contrib/108222753306648686467",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUGgMx7JT7AUQ0Zo-cu6SD1yoJyhj-WFQ6Gt6M7yBP_OfCfZc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCvQ70VRM-3btK5560ED8xj&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCvQ70VRM-3btK5560ED8xj!2e10!4m2!3m1!1s0x340401223e056f51:0x3fc4691847326c57"
+    },
+    "local_path": "photos/ChIJUW8FPiIBBDQRV2wyRxhpxD8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLewKInOI9WvqgJMfsIdgMhD35nDYEHIjHCL6Q6r2--yhTTtoZBaGX9OTWX-dVk-JV-UIS4ouj110GaIMJUq9FpDOi8pNLSMnnLiTT2soMjGMOaoGjaYVkDwKau875slIjGIQ5z9wpZlNwNp=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 205213
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "dessert_shop",
+    "label": "甜點專賣店",
+    "types": [
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

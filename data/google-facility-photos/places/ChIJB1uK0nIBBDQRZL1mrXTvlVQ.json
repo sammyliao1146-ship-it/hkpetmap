@@ -1,0 +1,38 @@
+{
+  "id": "ChIJB1uK0nIBBDQRZL1mrXTvlVQ",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島鰂魚涌海堤街",
+  "location": {
+    "latitude": 22.288425999999998,
+    "longitude": 114.21545100000002
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6095040955120270692&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "鰂魚涌公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJB1uK0nIBBDQRZL1mrXTvlVQ/photos/Aa-ngMbU0dIYI1nJKknu6Po_4Ddrwt1Jpc1okojie49aumJj3qnEzgb30gsa_F3y-VUeNE02Az_VKxXOvDMd3x32Az2YObZRfKhHJPMAFkE5cjnvi8ElXRj8QJA35iL60kWO7-ZxpYImb-1Y2HSrM7bMTnyTp4U0isvLZfbRJpiW05pgGwDVEvJcoOgrUqwND3PYvQDiGBdsPDlBg9t5n6G76SAvwgVJyVlVbOFiBfarA4Fdb2jGAkZsHOrug6jQIcB4IeyotuzvusLTmvaxZ5oSPdvnsbs5REm3DRjY6KQtZCHLd3t_WsuSyLnvBUR6C9BiYQ20KDK-D6km-uK6Is4agbD4sFwd9IypxXUwP2dfsTY0v00gYf4S302pIf5f33Qn4b-QOiaew4Gte3wRQGcPRs0peQ",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "ip celia",
+          "uri": "https://maps.google.com/maps/contrib/116309246781208033888",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5U_BfkKtZz-4GlYMxI7AL3wjrHAJYAmEISxiYJXCpt-d7Rg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICB-u2EFw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB-u2EFw!2e10!4m2!3m1!1s0x34040172d28a5b07:0x5495ef74ad66bd64"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:16.435384+00:00"
+}

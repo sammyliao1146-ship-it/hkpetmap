@@ -1,0 +1,38 @@
+{
+  "id": "ChIJh3J1iaoHBDQRLxtFtpuDCes",
+  "types": [
+    "pet_care",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界大圍田心村58號A地下",
+  "location": {
+    "latitude": 22.3696095,
+    "longitude": 114.1780998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16936212578504612655&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Pet Pet",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJh3J1iaoHBDQRLxtFtpuDCes/photos/Aa-ngMZhq7X8yqJgB3huKrQPgh5ffSNBnyqMNTQy4nZEl_Vksqhifdz4led34x7PSh1jjSfBP7dqBVEtFXk7GF_AUhSc5rOz80HskvzwkICtwvB1wRG5s7g337Xl7pkuQm3lTb2Wq0eHsa7EY4fHeaNw8G56Ho9rZ1HyzFOFRstKfz8iUvGAlBxZE59rT1JgMxMSCg4PJsClEf8GW0xH3fxrzWnCzH2KmpGB_WvsrRAWcQnk76GVGeveJABLvNQis6wx_fQEVr6jxQ9myKwI-E7ky0KLrbTCWSAHgLMsPImMsOsugcPxC5dou0fZ-2qucOd0JLdJkLae9taM7eDOdI0AwwXAjzUZ13EyHpCQ0D7Kn-TvU9gZ8CuTSWGBMh-Xznd62JKoehvko0wwQrYiZL4mZthcfgC7EczSnyFX4M0kR99R9w",
+      "widthPx": 900,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Pet Pet",
+          "uri": "https://maps.google.com/maps/contrib/100883779390710591023",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ-agzFRSPF2WdwWesfU-kr9aP175rS2pNyjW-GshdyDx0a4Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAV3bmiAPvIC_KJVv59gj5A&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAV3bmiAPvIC_KJVv59gj5A!2e10!4m2!3m1!1s0x340407aa89757287:0xeb09839bb6451b2f"
+    }
+  ],
+  "photo_count": 3,
+  "fetched_at": "2026-10-24T00:38:17.308598+00:00"
+}

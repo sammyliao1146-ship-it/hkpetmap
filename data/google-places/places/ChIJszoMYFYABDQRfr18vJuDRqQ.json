@@ -1,0 +1,424 @@
+{
+  "google_place_id": "ChIJszoMYFYABDQRfr18vJuDRqQ",
+  "restaurant_ids": [
+    "restaurant:2212821466"
+  ],
+  "fetched_at": "2026-10-23T15:51:10.961152+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJszoMYFYABDQRfr18vJuDRqQ",
+    "types": [
+      "tonkatsu_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2310 8806",
+    "internationalPhoneNumber": "+852 2310 8806",
+    "formattedAddress": "香港香港島銅鑼灣告士打道280號世界貿易中心13樓1302號舖",
+    "location": {
+      "latitude": 22.2815279,
+      "longitude": 114.18421889999999
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=11837293375495388542&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://tonkichi.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 17:30 – 22:00",
+        "星期二: 12:00 – 15:00, 17:30 – 22:00",
+        "星期三: 12:00 – 15:00, 17:30 – 22:00",
+        "星期四: 12:00 – 15:00, 17:30 – 22:00",
+        "星期五: 12:00 – 15:00, 17:30 – 22:00",
+        "星期六: 12:00 – 15:00, 17:30 – 22:00",
+        "星期日: 12:00 – 15:00, 17:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "userRatingCount": 404,
+    "displayName": {
+      "text": "Tonkichi とん吉– 日式吉列豬扒專門店 (銅鑼灣)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式炸豬排餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "tonkatsu_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJszoMYFYABDQRfr18vJuDRqQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twRFZGTk5PVEpQYnpkblZXUTRURkJEVWpSeWRWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "吉列專門店人氣料理必試\n好食，果然名不虛傳！🤤\n\n丼吉日本吉列專門店餐廳嘅炸豬扒真係好掂，外層超級鬆脆，咬落去完全唔會覺得油膩，齒頰留香，令人一試難忘，真係會食到停唔到口！😍\n\n每塊豬扒都juicy到爆，配埋佢嘅特製醬汁，昇華咗成個味道，一啖又一啖，幸福感爆燈！唔止豬扒，餐廳仲有好多唔同款式俾你揀，無論係炸豬排、豬柳定吉列大蝦，都有唔同風味，而且分量十足，啱晒大胃王～🍤\n\n環境都幾chill，坐得舒服，適合約朋友慢慢chill住食飯！如果你都鍾意炸物，勁推薦你黎香港銅鑼灣世貿中心丼吉日本吉列專門店餐廳試下，保證唔會失望！🥢",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "吉列專門店人氣料理必試\n好食，果然名不虛傳！🤤\n\n丼吉日本吉列專門店餐廳嘅炸豬扒真係好掂，外層超級鬆脆，咬落去完全唔會覺得油膩，齒頰留香，令人一試難忘，真係會食到停唔到口！😍\n\n每塊豬扒都juicy到爆，配埋佢嘅特製醬汁，昇華咗成個味道，一啖又一啖，幸福感爆燈！唔止豬扒，餐廳仲有好多唔同款式俾你揀，無論係炸豬排、豬柳定吉列大蝦，都有唔同風味，而且分量十足，啱晒大胃王～🍤\n\n環境都幾chill，坐得舒服，適合約朋友慢慢chill住食飯！如果你都鍾意炸物，勁推薦你黎香港銅鑼灣世貿中心丼吉日本吉列專門店餐廳試下，保證唔會失望！🥢",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Penny Sun",
+          "uri": "https://www.google.com/maps/contrib/112142299962186103527/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV53vhowH8Lf2huCDf2UQzjEIHk1H-Kb46kBbtY2AImvTBCvp8mNA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-04-29T10:39:42.108307291Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twRFZGTk5PVEpQYnpkblZXUTRURkJEVWpSeWRWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twRFZGTk5PVEpQYnpkblZXUTRURkJEVWpSeWRWRRAB!2m1!1s0x34040056600c3ab3:0xa446839bbc7cbd7e"
+      },
+      {
+        "name": "places/ChIJszoMYFYABDQRfr18vJuDRqQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT205MU1XeDNNRWRQVnpWeVJFczViR1YwUjFsRFoyYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "未裝修之前已經嚟試過，不過今次係裝修後第一次再嚟。\n之前都去過佢其他分店食，不過覺得始終都係銅鑼灣分店個水準最穩定。\n新裝修後個環境好有現代感，餐枱之間距離闊咗好多，有啲位仲有啲私隱度，整體感覺比以前更開揚。\n食物一如以往咁有水準，冇令人失望。\n開頭會先上芝麻，好有互動感，可以自己依喜好磨到粗啲定幼啲，幾得意。\n之後個炸豬扒上枱時仲熱辣辣，厚切得嚟啱啱熟，外脆內嫩，完全唔鞋口。\n侍應服務都好貼心，會留意客人杯茶有冇滿，又會幫手 refill 菜。\n整體嚟講，非常推介，我自己已經幫襯咗好多次，每次諗起想食吉豬，都會第一時間諗起佢",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "未裝修之前已經嚟試過，不過今次係裝修後第一次再嚟。\n之前都去過佢其他分店食，不過覺得始終都係銅鑼灣分店個水準最穩定。\n新裝修後個環境好有現代感，餐枱之間距離闊咗好多，有啲位仲有啲私隱度，整體感覺比以前更開揚。\n食物一如以往咁有水準，冇令人失望。\n開頭會先上芝麻，好有互動感，可以自己依喜好磨到粗啲定幼啲，幾得意。\n之後個炸豬扒上枱時仲熱辣辣，厚切得嚟啱啱熟，外脆內嫩，完全唔鞋口。\n侍應服務都好貼心，會留意客人杯茶有冇滿，又會幫手 refill 菜。\n整體嚟講，非常推介，我自己已經幫襯咗好多次，每次諗起想食吉豬，都會第一時間諗起佢",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Grace Heart",
+          "uri": "https://www.google.com/maps/contrib/111592866436149386503/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKehN4JcEyXtMv1Lfv_Fhr8ek2E_BOx1uXyQeoLJD1-X7iBzg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-08T05:21:37.205991089Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205MU1XeDNNRWRQVnpWeVJFczViR1YwUjFsRFoyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205MU1XeDNNRWRQVnpWeVJFczViR1YwUjFsRFoyYxAB!2m1!1s0x34040056600c3ab3:0xa446839bbc7cbd7e"
+      },
+      {
+        "name": "places/ChIJszoMYFYABDQRfr18vJuDRqQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5Q2VtYzJVVTVITFVGSVFrcGxjMU0zU1hKbWNHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "**老字號的高質吉列體驗，穩守銅鑼灣日式炸物殿堂地位**\n\n丼吉自1995年紮根銅鑼灣世貿中心，憑藉正宗日式吉列技藝成為本地標杆。招牌**吉列豬扒定食**（$338起）選用日本黑豚，外皮金黃酥脆不油膩，內裡肉汁飽滿，脂肪分佈均勻；**吉列豬柳**則更厚實軟嫩，無筋不柴。海鮮愛好者必試**吉列大蝦**（牡丹蝦製），彈牙鮮甜配他他醬，層次豐富。\n\n定食精髓在於**無限添食的椰菜絲與白飯**：椰菜絲新鮮爽甜，搭配柚子醋或紫菜汁解膩；日本米飯黏潤飽滿，店員主動巡桌添加，服務細心。隨餐附蜆肉味噌湯（鮮甜不鹹）及餐後西瓜，平衡炸物熱氣。\n\n惟部分食客反映午市豬扒偶有油膩感，且銅鑼灣店份量較其他分店少，人均$300-400的定價稍高。整體仍屬「穩陣之選」——環境寬敞、技藝紮實，適合追求經典吉列的饕客。\n\n> 👍 **特色突顯**：豬肉脂香與酥脆外衣的平衡｜任添椰菜絲的清爽搭配｜服務主動\n> ⚠️ **注意點**：避開午市高峰以保炸物水準｜預算人均$350+",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "**老字號的高質吉列體驗，穩守銅鑼灣日式炸物殿堂地位**\n\n丼吉自1995年紮根銅鑼灣世貿中心，憑藉正宗日式吉列技藝成為本地標杆。招牌**吉列豬扒定食**（$338起）選用日本黑豚，外皮金黃酥脆不油膩，內裡肉汁飽滿，脂肪分佈均勻；**吉列豬柳**則更厚實軟嫩，無筋不柴。海鮮愛好者必試**吉列大蝦**（牡丹蝦製），彈牙鮮甜配他他醬，層次豐富。\n\n定食精髓在於**無限添食的椰菜絲與白飯**：椰菜絲新鮮爽甜，搭配柚子醋或紫菜汁解膩；日本米飯黏潤飽滿，店員主動巡桌添加，服務細心。隨餐附蜆肉味噌湯（鮮甜不鹹）及餐後西瓜，平衡炸物熱氣。\n\n惟部分食客反映午市豬扒偶有油膩感，且銅鑼灣店份量較其他分店少，人均$300-400的定價稍高。整體仍屬「穩陣之選」——環境寬敞、技藝紮實，適合追求經典吉列的饕客。\n\n> 👍 **特色突顯**：豬肉脂香與酥脆外衣的平衡｜任添椰菜絲的清爽搭配｜服務主動\n> ⚠️ **注意點**：避開午市高峰以保炸物水準｜預算人均$350+",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ivan Chong",
+          "uri": "https://www.google.com/maps/contrib/103113708831245363331/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOK2xx2PtWbOfjF0sZCHQL7lFkroVCFmVwDvt9W263Wk82Dxpe=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-07-22T11:56:09.231571704Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5Q2VtYzJVVTVITFVGSVFrcGxjMU0zU1hKbWNHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5Q2VtYzJVVTVITFVGSVFrcGxjMU0zU1hKbWNHYxAB!2m1!1s0x34040056600c3ab3:0xa446839bbc7cbd7e"
+      },
+      {
+        "name": "places/ChIJszoMYFYABDQRfr18vJuDRqQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzbUp2ZTlnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "想起之前買了的餐劵就快到期，所以當晚放工後光顧了在銅鑼灣的分店，點了一客2人套餐。\n吉列豬扒及吉列蝦一如既往的好食，酥脆不油膩，肉質軟嫩不粗糙。而跟餐的麵豉湯，麵豉味濃郁但不會過咸。\n更要大讚的是跟吉列配送的沙律菜，非常好吃，爽嫩多汁之餘更有淡淡的清甜味，重點是可以免費添加（不要浪費）。\n餐廳的服務亦是不錯，會在適當的時間添加茶水及沙律椰菜。\n\n當晚點的2人套餐是$538，使用之前購買的$600餐劵結賬，但要再加$60的加一服務費，這點實是令人有點不愉快。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "想起之前買了的餐劵就快到期，所以當晚放工後光顧了在銅鑼灣的分店，點了一客2人套餐。\n吉列豬扒及吉列蝦一如既往的好食，酥脆不油膩，肉質軟嫩不粗糙。而跟餐的麵豉湯，麵豉味濃郁但不會過咸。\n更要大讚的是跟吉列配送的沙律菜，非常好吃，爽嫩多汁之餘更有淡淡的清甜味，重點是可以免費添加（不要浪費）。\n餐廳的服務亦是不錯，會在適當的時間添加茶水及沙律椰菜。\n\n當晚點的2人套餐是$538，使用之前購買的$600餐劵結賬，但要再加$60的加一服務費，這點實是令人有點不愉快。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "William Chan",
+          "uri": "https://www.google.com/maps/contrib/104134768816711334767/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7DElVYw4qY2_hviJU6e4HZzX5GRs78Frq-eCrfT8Sg5ap_42w=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-11-02T14:14:53.488921Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzbUp2ZTlnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzbUp2ZTlnRRAB!2m1!1s0x34040056600c3ab3:0xa446839bbc7cbd7e"
+      },
+      {
+        "name": "places/ChIJszoMYFYABDQRfr18vJuDRqQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT210aUxXaE5RVkZrV0RGcFh6bHZSbk10VlZaM1FWRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "晚上訂好位，都幾多人。\n豬扒食過，今次食牛。\n吉列牛有少少根位，但可接受。生蠔鮮味，但$88/隻就有啲貴，刺身好鮮味，拍得住係日本食。最後佢既玄米茶係好飲既，絕對對板～\n可惜環境有bb 喊影響，但絕對可Encore 。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晚上訂好位，都幾多人。\n豬扒食過，今次食牛。\n吉列牛有少少根位，但可接受。生蠔鮮味，但$88/隻就有啲貴，刺身好鮮味，拍得住係日本食。最後佢既玄米茶係好飲既，絕對對板～\n可惜環境有bb 喊影響，但絕對可Encore 。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "K B Rukara",
+          "uri": "https://www.google.com/maps/contrib/105999227472592504810/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5ZRmrEFqdpzru9v_BW7kt8Juxd8jyC4znEhkuc1xBDecyOQ51=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-08-16T14:13:22.367654061Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210aUxXaE5RVkZrV0RGcFh6bHZSbk10VlZaM1FWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210aUxXaE5RVkZrV0RGcFh6bHZSbk10VlZaM1FWRRAB!2m1!1s0x34040056600c3ab3:0xa446839bbc7cbd7e"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040056600c3ab3:0xa446839bbc7cbd7e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11837293375495388542&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040056600c3ab3:0xa446839bbc7cbd7e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040056600c3ab3:0xa446839bbc7cbd7e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040056600c3ab3:0xa446839bbc7cbd7e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJszoMYFYABDQRfr18vJuDRqQ/photos/Aa-ngMZ552Rb3PIXyQbzuOzLYYVOGwwkWm1SXlQECbLyGTEIq5Ti79T1mYKePdzypYxMfgeaNx0K44JvO-UFKICGIvextOp5vCaFx2S5vkjrXQ1kl-WvYdDRnt1y2v7mvPnpF2VMSRDKf-ud0VeBL4NU6ClcTRTiDuT2RNBcDwWgRzX4Is_toVUHc_FFzfhOFCAsKPjfcy6fdt3IeFyRf4PvgadJGiiwiNfr9btLOApBrlYTPfUsl-Q1SGcfxrT1V-oa0vaQvAPshGY-W3nHb0b3FzV0rvT0sWE4ktn5MTN5XtXA0ZVSIDAOtH4p_UQpbqaB8bGcU7o-xc_34enO1-gYR0zSwJcbhLe12xM3MxxIHlvXOFvOCHataN2n7nh8rwgchQvz4Mw0GYkT0VWd3n2-SL1QSCZqlngrsBfM5SKZlxHfpg",
+      "widthPx": 2870,
+      "heightPx": 3323,
+      "authorAttributions": [
+        {
+          "displayName": "Ip Kennly",
+          "uri": "https://maps.google.com/maps/contrib/116815362199731834060",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXF7pv8ma7VoOyDJNDeDDEQTcb6f92FZOPPFtN2Jt1EPqAH80DjBg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDgG9TewbX5XjUa4-wOu-uH&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDgG9TewbX5XjUa4-wOu-uH!2e10!4m2!3m1!1s0x34040056600c3ab3:0xa446839bbc7cbd7e"
+    },
+    "local_path": "photos/ChIJszoMYFYABDQRfr18vJuDRqQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8Nzobpo17cP1ZNCN1bXlkNc0pwdtpHf3Vpg31J9clK6sovzMQy1g4oOsg4Lt7KbKCYmVwJUm7Q5qM7fOpDbO4EpKLy6grZcvBNtWIvDKVslrUWq7xBa_xsWO6T6KEVmhSwjKkENDg4AqX=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 173911
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://tonkichi.com.hk/Reservation.html",
+        "label": "網上訂座︱外賣自取 Reservation︱Takeaway",
+        "source_url": "https://tonkichi.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "tonkatsu_restaurant",
+    "label": "日式炸豬排餐廳",
+    "types": [
+      "tonkatsu_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://tonkichi.com.hk/Reservation.html",
+  "menu_url": null
+}

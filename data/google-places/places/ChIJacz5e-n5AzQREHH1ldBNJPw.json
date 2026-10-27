@@ -1,0 +1,293 @@
+{
+  "google_place_id": "ChIJacz5e-n5AzQREHH1ldBNJPw",
+  "restaurant_ids": [
+    "restaurant:3192801138"
+  ],
+  "fetched_at": "2026-10-23T15:44:31.724101+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJacz5e-n5AzQREHH1ldBNJPw",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港新界荃灣西樓角路216號",
+    "location": {
+      "latitude": 22.371071999999998,
+      "longitude": 114.1203017
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=18168732354983850256&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 22:00",
+        "星期二: 10:00 – 22:00",
+        "星期三: 10:00 – 22:00",
+        "星期四: 10:00 – 22:00",
+        "星期五: 10:00 – 22:00",
+        "星期六: 10:00 – 22:00",
+        "星期日: 10:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 110,
+    "displayName": {
+      "text": "荃昌中心昌寧商場",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "大型購物中心",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "shopping_mall",
+    "reviews": [
+      {
+        "name": "places/ChIJacz5e-n5AzQREHH1ldBNJPw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWaFlucGF3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "舊式商場，商戶在這10多年都沒有重大改變，地下主要為和風食肆，在區內比較出名，一樓是一般商店及食肆 。\n雖然商場人流多，但是商場都算整結及衛生，所以我覺得不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "舊式商場，商戶在這10多年都沒有重大改變，地下主要為和風食肆，在區內比較出名，一樓是一般商店及食肆 。\n雖然商場人流多，但是商場都算整結及衛生，所以我覺得不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Traveler, William Tong",
+          "uri": "https://www.google.com/maps/contrib/111168247802139929767/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNpb6c-N-8vtXZ4q5-38RGb3fGyvGeSXKfK8MxKRFr6tnzDw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2023-12-08T11:02:43.355500Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWaFlucGF3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWaFlucGF3EAE!2m1!1s0x3403f9e97bf9cc69:0xfc244dd095f57110"
+      },
+      {
+        "name": "places/ChIJacz5e-n5AzQREHH1ldBNJPw/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxbE15VXZRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "由荃灣地鐵站B 出路，沿天橋見到民政事務處及連接的商場，荃豐中心 、華都中心、昌安商場、昌寧商場，最後到豪輝花園。鄰近地鐵站，約十分鐘路程，商場有酒樓，食店，各式商舖，人流多。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "由荃灣地鐵站B 出路，沿天橋見到民政事務處及連接的商場，荃豐中心 、華都中心、昌安商場、昌寧商場，最後到豪輝花園。鄰近地鐵站，約十分鐘路程，商場有酒樓，食店，各式商舖，人流多。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "hk ballball",
+          "uri": "https://www.google.com/maps/contrib/103176365993073015462/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpaVogpCoeZrXXqXrLClpTWS1YLLP_LBl_pxzl1sM04DPzcw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-12-23T11:16:04.252482Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxbE15VXZRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxbE15VXZRRRAB!2m1!1s0x3403f9e97bf9cc69:0xfc244dd095f57110"
+      },
+      {
+        "name": "places/ChIJacz5e-n5AzQREHH1ldBNJPw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0RUxXSnlOVGxsUzBGMk9GRjRWMDFIYUMxdVgxRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "有很多特色美食在商埸內",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有很多特色美食在商埸內",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lau cat",
+          "uri": "https://www.google.com/maps/contrib/115227840514800117822/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWt1KUm2Q9MGDMqN-J2O6MAgmApHaCA6dR4_JBB6JkWErL7XDYC=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-13T19:28:49.492714553Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0RUxXSnlOVGxsUzBGMk9GRjRWMDFIYUMxdVgxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0RUxXSnlOVGxsUzBGMk9GRjRWMDFIYUMxdVgxRRAB!2m1!1s0x3403f9e97bf9cc69:0xfc244dd095f57110"
+      },
+      {
+        "name": "places/ChIJacz5e-n5AzQREHH1ldBNJPw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oTE5WQmFhRU13YVVwUlkydHZNRkpaZERaT1YyYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "荃灣平民隱世商場，好多野玩，呢啲應該係香港文化，好多野食同補習例如餃子屋，行前兩步有英皇教育，現代補習荃灣分校，仲有荃灣畫室 Mr Fung Production Store & Gallery Cube ，創美畫室。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "荃灣平民隱世商場，好多野玩，呢啲應該係香港文化，好多野食同補習例如餃子屋，行前兩步有英皇教育，現代補習荃灣分校，仲有荃灣畫室 Mr Fung Production Store & Gallery Cube ，創美畫室。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Glory Cheung Man Kim",
+          "uri": "https://www.google.com/maps/contrib/103628374359945213667/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtjnIKGkSD2hhyNCckXxFkGyTJblWkBcG4TW1LVSL1pHLYICc=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-08-13T21:19:30.283111998Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oTE5WQmFhRU13YVVwUlkydHZNRkpaZERaT1YyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oTE5WQmFhRU13YVVwUlkydHZNRkpaZERaT1YyYxAB!2m1!1s0x3403f9e97bf9cc69:0xfc244dd095f57110"
+      },
+      {
+        "name": "places/ChIJacz5e-n5AzQREHH1ldBNJPw/reviews/ChZDSUhNMG9nS0VJQ0FnSURsdmFMWFhnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "多樣化的平民大眾化商場，內有多樣化的食店",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "多樣化的平民大眾化商場，內有多樣化的食店",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "siu wm",
+          "uri": "https://www.google.com/maps/contrib/102415077792854123470/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqTfHFqM8jLQTvx-XxKNTqTCvtKR9rQlhPAFPvl0Bq3yHNqQnr=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-12-03T10:17:01.913321Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURsdmFMWFhnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURsdmFMWFhnEAE!2m1!1s0x3403f9e97bf9cc69:0xfc244dd095f57110"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f9e97bf9cc69:0xfc244dd095f57110!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=18168732354983850256&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9e97bf9cc69:0xfc244dd095f57110!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f9e97bf9cc69:0xfc244dd095f57110!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9e97bf9cc69:0xfc244dd095f57110!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJacz5e-n5AzQREHH1ldBNJPw/photos/Aa-ngMa09cYwWsLmDALlpXqrVrjyjhFyF-Kw3dIGfUzSa7U5sp89ntTbQbwpJuAihwUvq1B9TdqZ4I6FHgD0HplyxZH7IcuoMkCNFk6PU73f6OI3p1YSWbU6tTNMXqI9ZMDbxgvDfYH4PjGwe4EakcbgfQTqQT8k6tlGycrfmyKzF9i-OZCR-2Rvy7o1TFKnMOSWfwcLc6zIuwilO3oHl5cnPu9iWa5J2vlW7gkf5FBEeWtdi6_X33cW_g7pj6JP5GroYsfvaad72XqeT_OJVxZVkUGXqlDbEIbjhqQLMziDZytiikUNKw7qnJ5tlmxKrCR_Asm5a7ouzLE21HEq53l6tAK5ubSOEkx-Oyg1OPjexZLC3VBuexcV1OA12Z7cFQYioXv5mk-rCYxixLLOqisTZAlwCLM",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Na Me",
+          "uri": "https://maps.google.com/maps/contrib/109674494126215119830",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWeD2oYZNWaDOzptHi3g-ysz2xlKoq-JSEunrsfkZUvX-_gp9T0Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4qsifWQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4qsifWQ!2e10!4m2!3m1!1s0x3403f9e97bf9cc69:0xfc244dd095f57110"
+    },
+    "local_path": "photos/ChIJacz5e-n5AzQREHH1ldBNJPw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLewyLgQDxxfB4UpPvz_dVooGKoi_10LF0ZMqQAF4Z7Q-3Uztpo1CugAfaBHpJv7_qXQdGu9bgl9L-Oh3PtQpSxJiu6QaUog1eLHJF0J8g_JFNsGcQKbjoQrpiakXRqd2s8-YTCT=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 171043
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "shopping_mall",
+    "label": "大型購物中心",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ChIJaezMuXcBBDQRWcnGHCJzIy0",
+  "types": [
+    "housing_complex",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍何文田自由道11號",
+  "location": {
+    "latitude": 22.318969,
+    "longitude": 114.17455899999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3252569946240502105&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "VAU Residence",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "service",
+  "photos": [
+    {
+      "name": "places/ChIJaezMuXcBBDQRWcnGHCJzIy0/photos/Aa-ngMbQDxyNizAivdlchdH1iolMvmY1h27OnJZtkXVgTQTzRaz0pfWRSxjy5ZxwFK_G9pBYUo29rO5N9hmwljfWEQ26-VsX5SbBSJidiU_m8PDVR4u8XkYEfr7xGT5jHFyaingb2lMkzOTXjhWI-YQg4x3iyfCr_cH6Zv3ZeTR-sEdAoSIsGR-svIJIHJsM0xQtatJObjbv-q9aD4Ed77u8psD1tS6c6f7JwG-9FGNe6EKjz4Yw8UWH6EAWn9gcux7LIJOupBYFMjTYqLny5GpJqsAIclaooN7G9tDupL5pJ50E18vgdPxX5qO5NLUZGkxpJjxb2FozIV83j8WN2X-aVf6lahU4hu88bxbCO1MWkRIgpbZXJkOYvhP96Cr2A7VXbHuVBoAZZqUmPHG0KyWWoPAoRr0",
+      "widthPx": 3078,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "VAU Residence",
+          "uri": "https://maps.google.com/maps/contrib/110500725907958675720",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJY59NcxslWaqQpO9TnFe1nDJPXuByxrGtX9abUdCzfEpv-pA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC-wuLvag&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-wuLvag!2e10!4m2!3m1!1s0x34040177b9ccec69:0x2d2373221cc6c959"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:20.560537+00:00"
+}

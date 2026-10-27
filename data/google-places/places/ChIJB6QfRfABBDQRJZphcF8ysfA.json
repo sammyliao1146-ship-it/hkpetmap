@@ -1,0 +1,407 @@
+{
+  "google_place_id": "ChIJB6QfRfABBDQRJZphcF8ysfA",
+  "restaurant_ids": [
+    "restaurant:2251803766"
+  ],
+  "fetched_at": "2026-10-23T15:50:31.101749+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJB6QfRfABBDQRJZphcF8ysfA",
+    "types": [
+      "french_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9232 9831",
+    "internationalPhoneNumber": "+852 9232 9831",
+    "formattedAddress": "香港九龍觀塘Shop 3023/F One Pacific Centre No.414 Kwun Tong Road",
+    "location": {
+      "latitude": 22.3126793,
+      "longitude": 114.22451769999999
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=17343699025469217317&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 45
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 45
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 45
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 45
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 45
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 45
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 45
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:45 – 15:00, 18:00 – 22:00",
+        "星期二: 11:45 – 15:00, 18:00 – 22:00",
+        "星期三: 11:45 – 15:00, 18:00 – 22:00",
+        "星期四: 11:45 – 15:00, 18:00 – 22:00",
+        "星期五: 11:45 – 15:00, 18:00 – 22:00",
+        "星期六: 11:45 – 15:00, 18:00 – 22:00",
+        "星期日: 11:45 – 15:00, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:45:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 99,
+    "displayName": {
+      "text": "Parallel",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "法國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "french_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJB6QfRfABBDQRJZphcF8ysfA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWdWVEQnpYM1pIVjNCWGIwZE5TV3hZYmpkM1ZtYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "到這間提供半自助晚餐的餐廳跟好友相聚。開放式廚房設計，可讓客人見到廚師用心的烹調菜式。半自助晚餐包含一份主菜，配以是日餐湯和一杯咖啡或茶，另可到沙律吧任取沙律和冰鎮海鮮。\n\n豐富的自助沙律吧選擇非常之多，沙律、前菜、冷切肉盤、煙三文魚、芝士等，又可以自己選擇不同的沙律醬料，還有麵包粒、新鮮芝士碎，配搭多樣。冰鎮海鮮有翡翠螺、蝦和青口，全部都新鮮味美。\n\n✨ 是日餐湯：菠菜忌廉湯\n雖說是是日餐湯，一點也不馬虎，賣相媲美精緻料理。味帶清新的菠菜甜味，加入濃郁奶香的忌廉，口感絲滑順喉。\n\n✨ 意式煎豬柳配香草車厘茄\n豬柳煎至金黃，保持軟嫩多汁。配以幼滑薯蓉和鮮嫩蔬菜，而香草車厘茄完美的中和肉的油膩，做成清爽不油膩的口感。\n\n✨ 香煎本地馬友一夜干，配紅花中東小米\n馬友外層煎得香口，無骨魚肉帶鹹香入味。金黃色澤的紅花中東小米口感特別，帶嚼勁兼香氣獨特，十分配搭香煎馬友。\n\n🍹 凍檸檬茶\n吃得飽飽的，喝杯清爽口感的凍檸檬茶真的不錯。\n\n這裏的氛圍非常適合情侶約會或是朋友聚餐。朋友說他打算在這裏包場宴請好友，原來活動包場有九折優惠，真是一個理想的地方。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "到這間提供半自助晚餐的餐廳跟好友相聚。開放式廚房設計，可讓客人見到廚師用心的烹調菜式。半自助晚餐包含一份主菜，配以是日餐湯和一杯咖啡或茶，另可到沙律吧任取沙律和冰鎮海鮮。\n\n豐富的自助沙律吧選擇非常之多，沙律、前菜、冷切肉盤、煙三文魚、芝士等，又可以自己選擇不同的沙律醬料，還有麵包粒、新鮮芝士碎，配搭多樣。冰鎮海鮮有翡翠螺、蝦和青口，全部都新鮮味美。\n\n✨ 是日餐湯：菠菜忌廉湯\n雖說是是日餐湯，一點也不馬虎，賣相媲美精緻料理。味帶清新的菠菜甜味，加入濃郁奶香的忌廉，口感絲滑順喉。\n\n✨ 意式煎豬柳配香草車厘茄\n豬柳煎至金黃，保持軟嫩多汁。配以幼滑薯蓉和鮮嫩蔬菜，而香草車厘茄完美的中和肉的油膩，做成清爽不油膩的口感。\n\n✨ 香煎本地馬友一夜干，配紅花中東小米\n馬友外層煎得香口，無骨魚肉帶鹹香入味。金黃色澤的紅花中東小米口感特別，帶嚼勁兼香氣獨特，十分配搭香煎馬友。\n\n🍹 凍檸檬茶\n吃得飽飽的，喝杯清爽口感的凍檸檬茶真的不錯。\n\n這裏的氛圍非常適合情侶約會或是朋友聚餐。朋友說他打算在這裏包場宴請好友，原來活動包場有九折優惠，真是一個理想的地方。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lang lang",
+          "uri": "https://www.google.com/maps/contrib/102619113903431286489/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLwVE4Cpqg0ik00dsaEmrLxKOKabx8PGlitEtJE0disCLJowQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-18T14:29:02.576215265Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWdWVEQnpYM1pIVjNCWGIwZE5TV3hZYmpkM1ZtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWdWVEQnpYM1pIVjNCWGIwZE5TV3hZYmpkM1ZtYxAB!2m1!1s0x340401f0451fa407:0xf0b1325f70619a25"
+      },
+      {
+        "name": "places/ChIJB6QfRfABBDQRJZphcF8ysfA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sV2FYSnFibkYzTWtaVU1qUnhjQzA1TTJ4YVltYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "比想像中細但地點環境唔錯👍🏻\nSemi dinner buffet的沙律🥗bar選擇都幾好😋\n凍蝦🦐可以但10隻可能有1隻唔新鮮\n主菜嫌份量有點少但味道唔錯\n每人$325再加一 貴咗少少但值得一試的",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "比想像中細但地點環境唔錯👍🏻\nSemi dinner buffet的沙律🥗bar選擇都幾好😋\n凍蝦🦐可以但10隻可能有1隻唔新鮮\n主菜嫌份量有點少但味道唔錯\n每人$325再加一 貴咗少少但值得一試的",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "E T",
+          "uri": "https://www.google.com/maps/contrib/117842654334485665866/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcNANjphUPcdEztBYZDpCHHLUsCGIfV04n3v4Ddiq0sThgSrHU=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-05-23T17:07:10.478300881Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sV2FYSnFibkYzTWtaVU1qUnhjQzA1TTJ4YVltYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sV2FYSnFibkYzTWtaVU1qUnhjQzA1TTJ4YVltYxAB!2m1!1s0x340401f0451fa407:0xf0b1325f70619a25"
+      },
+      {
+        "name": "places/ChIJB6QfRfABBDQRJZphcF8ysfA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSdVJtZGhNazFuY2paMlNqWnBTM1ZPTnpnMVFtYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "觀塘半自助晚餐\n暴風雨前夕去左依間食半自助餐，餐廳光線柔和，裝潢簡約。前菜海鮮美味，主菜幾有新意，整體唔錯，活動包場仲有9折。\n\n半自助晚餐 $325/位\n\n粟米忌廉湯\n忌廉湯順滑，粟米味清甜。湯碟有預熱，保持湯熱度，好有heart。\n\n前菜自助吧\n有沙律、前菜、冷切肉盤、煙三文魚、芝士、青口、翡翠螺、白蝦。當中以軟滑的煙三文魚、彈牙鮮甜的翡翠螺和白蝦，我最為喜愛，配埋雞尾酒醬鮮味提升，好味好味。\n\n鹹蛋卡邦尼QQ彈簧麵\n近期大熱的彈簧麵終於嚐到，口感彈牙，醬汁濃郁，有鹹蛋醬加持鹹香惹味，配料有蘑菇和煙肉碎，豐富了口感，味道唔錯，二人分享無咁膩。\n\n意式開心果芝士醬長通粉配布袋流心芝士\n主菜用上開心果醬實在太前衛，長通粉煙韌且掛汁，有淡淡的果仁香，味道鹹甜滋味。再切開布袋芝士，奶香四溢，令整體更creamy。\n\n飲品\n奶茶和檸水正常發揮~",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "觀塘半自助晚餐\n暴風雨前夕去左依間食半自助餐，餐廳光線柔和，裝潢簡約。前菜海鮮美味，主菜幾有新意，整體唔錯，活動包場仲有9折。\n\n半自助晚餐 $325/位\n\n粟米忌廉湯\n忌廉湯順滑，粟米味清甜。湯碟有預熱，保持湯熱度，好有heart。\n\n前菜自助吧\n有沙律、前菜、冷切肉盤、煙三文魚、芝士、青口、翡翠螺、白蝦。當中以軟滑的煙三文魚、彈牙鮮甜的翡翠螺和白蝦，我最為喜愛，配埋雞尾酒醬鮮味提升，好味好味。\n\n鹹蛋卡邦尼QQ彈簧麵\n近期大熱的彈簧麵終於嚐到，口感彈牙，醬汁濃郁，有鹹蛋醬加持鹹香惹味，配料有蘑菇和煙肉碎，豐富了口感，味道唔錯，二人分享無咁膩。\n\n意式開心果芝士醬長通粉配布袋流心芝士\n主菜用上開心果醬實在太前衛，長通粉煙韌且掛汁，有淡淡的果仁香，味道鹹甜滋味。再切開布袋芝士，奶香四溢，令整體更creamy。\n\n飲品\n奶茶和檸水正常發揮~",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cargo Lam",
+          "uri": "https://www.google.com/maps/contrib/116360982683267774958/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcU-vWSGAtLdGL9-SvQoxniuy4mC-GGOqVU5vWuwrWLOVWZwI7=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-09-23T09:33:28.475994012Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSdVJtZGhNazFuY2paMlNqWnBTM1ZPTnpnMVFtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSdVJtZGhNazFuY2paMlNqWnBTM1ZPTnpnMVFtYxAB!2m1!1s0x340401f0451fa407:0xf0b1325f70619a25"
+      },
+      {
+        "name": "places/ChIJB6QfRfABBDQRJZphcF8ysfA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsU1dtUkZTbDlXUldGMVMzbzBObFJVT0U0elVFRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "小店竟然有semi buffet 見到半個open kitchen\n廚師同staffs都係後生仔\n點知出嚟嘅水準係性價比高",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "小店竟然有semi buffet 見到半個open kitchen\n廚師同staffs都係後生仔\n點知出嚟嘅水準係性價比高",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ella Momo",
+          "uri": "https://www.google.com/maps/contrib/114128666460446784881/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXI1hQ636Djn-SF98_x28XrvrvNFR-lJzruICFERue_CKV9Pbhq=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-23T13:27:00.150418446Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsU1dtUkZTbDlXUldGMVMzbzBObFJVT0U0elVFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsU1dtUkZTbDlXUldGMVMzbzBObFJVT0U0elVFRRAB!2m1!1s0x340401f0451fa407:0xf0b1325f70619a25"
+      },
+      {
+        "name": "places/ChIJB6QfRfABBDQRJZphcF8ysfA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsR1VWSXRZVzF3TUdwVmNIQnJTVTFIVFhWUVIwRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "響觀塘返工，朋友話近近哋就我响觀塘食晚飯，佢就搵咗呢間餐廳由香港五星總廚主理🥗半自助形式open kitchen 🥗其間店員會不斷refill\nSemi dinner buffet $325/位\n提供11款主菜自選🌷🌷\n自助沙律吧有11款新鮮沙律前菜\n仲有白蝦，青口，翡翠螺，冷切肉盤、煙三文魚，芝士等，全部都好新鮮😻😻\n\n主菜\nSpaghetti Cacio E Pepe (Chicken/Shrimps/Scallop)\n經典黑胡椒芝士手工意粉(雞肉/蝦/帶子)\n手工意粉的質地非常滑嫩，咬下去彈牙，與濃郁的芝士醬搭配得恰到好處，店員還即場表演刨芝士增添氣氛，帶子則煮得恰到好處，外焦內嫩，增添了海鮮的鮮味😋\n\nHomemade Honey Glazed Smoked lberico Pork Buttered Rice\n自家製蜜糖煙燥伊比利亞黑毛豚肉配牛油飯\n伊比利亞黑毛豚肉質地細膩，脂肪分布均勻，咬下去的瞬間，肉汁四溢。蜜糖的甜味與煙燻的香氣完美融合，增添了肉的層次感。牛油飯則鬆軟香滑，搭配豚肉的濃郁風味，讓整體口感更加豐富。這道菜不僅在味覺上帶來了享受，視覺上的呈現也相當誘人。\n\n以上均配以是日餐湯，另配咖啡或茶\n餐湯可升級至 黑松露白菌濃湯+$38\n或 法式龍蝦濃湯+$48\n另外加＄88仲可以任飲紅白酒\n嚟緊約埋朋友一齊嚟慶祝食餐好不過座位唔多，最好都係預先訂枱，原來呢度活動包場仲有9折！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "響觀塘返工，朋友話近近哋就我响觀塘食晚飯，佢就搵咗呢間餐廳由香港五星總廚主理🥗半自助形式open kitchen 🥗其間店員會不斷refill\nSemi dinner buffet $325/位\n提供11款主菜自選🌷🌷\n自助沙律吧有11款新鮮沙律前菜\n仲有白蝦，青口，翡翠螺，冷切肉盤、煙三文魚，芝士等，全部都好新鮮😻😻\n\n主菜\nSpaghetti Cacio E Pepe (Chicken/Shrimps/Scallop)\n經典黑胡椒芝士手工意粉(雞肉/蝦/帶子)\n手工意粉的質地非常滑嫩，咬下去彈牙，與濃郁的芝士醬搭配得恰到好處，店員還即場表演刨芝士增添氣氛，帶子則煮得恰到好處，外焦內嫩，增添了海鮮的鮮味😋\n\nHomemade Honey Glazed Smoked lberico Pork Buttered Rice\n自家製蜜糖煙燥伊比利亞黑毛豚肉配牛油飯\n伊比利亞黑毛豚肉質地細膩，脂肪分布均勻，咬下去的瞬間，肉汁四溢。蜜糖的甜味與煙燻的香氣完美融合，增添了肉的層次感。牛油飯則鬆軟香滑，搭配豚肉的濃郁風味，讓整體口感更加豐富。這道菜不僅在味覺上帶來了享受，視覺上的呈現也相當誘人。\n\n以上均配以是日餐湯，另配咖啡或茶\n餐湯可升級至 黑松露白菌濃湯+$38\n或 法式龍蝦濃湯+$48\n另外加＄88仲可以任飲紅白酒\n嚟緊約埋朋友一齊嚟慶祝食餐好不過座位唔多，最好都係預先訂枱，原來呢度活動包場仲有9折！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wong Hody",
+          "uri": "https://www.google.com/maps/contrib/115615439040103816104/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTY64VCRatx_d1lceRB_we86vLVmwPyvdzvKo-GehTn2qFtFnJ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-06-25T07:13:42.188080674Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsR1VWSXRZVzF3TUdwVmNIQnJTVTFIVFhWUVIwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsR1VWSXRZVzF3TUdwVmNIQnJTVTFIVFhWUVIwRRAB!2m1!1s0x340401f0451fa407:0xf0b1325f70619a25"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401f0451fa407:0xf0b1325f70619a25!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17343699025469217317&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f0451fa407:0xf0b1325f70619a25!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401f0451fa407:0xf0b1325f70619a25!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f0451fa407:0xf0b1325f70619a25!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJB6QfRfABBDQRJZphcF8ysfA/photos/Aa-ngMZewBGCyczzk1vx6iNbfCeJwQFnpK6sKG4NQ7Unlby1GH06AsIJYsN9tQumtTiMOwcellnerZh3LjAn6b-ec2nLzeNcfsVru1g7kYJWyB5oSPi-cYnkVQIzPKC3DKn9ENQ3EArjcUEOTR2tsQbaF7c03IAuCSLcmtnHq4yy065UNPOh4OZD6y4oYTjEcL9oRAdHN3kd5ETcarr45AGxqbcft85p_h-bqPU327V3jYj2L0koobTKUcCv9yBpg_3RA2G4S-gcqshvFhAugdFqmkvCS3h-pOSaZpQblSqsbxj4OuyFM8ic-x6tAtKP8qcH8_gZOd0IvxMMZoWk9um103GLHgUDqR4ORmtnRvDhWL7N1Uz0FguW-V8bXbKQMmx1BDFZs8gcp7rwXB8WYGbuggBe2TGTT5Ld5ux4kWJ3-3Fp7w",
+      "widthPx": 1290,
+      "heightPx": 1613,
+      "authorAttributions": [
+        {
+          "displayName": "Creami Tsui",
+          "uri": "https://maps.google.com/maps/contrib/113860911516171781170",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXm1IaTVQm2zdPlKdLJlXYCvMf3FrGNOxq9_JygQcxJm2tkVUE4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBdORrhANAz0Uil-b-G-vNo&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBdORrhANAz0Uil-b-G-vNo!2e10!4m2!3m1!1s0x340401f0451fa407:0xf0b1325f70619a25"
+    },
+    "local_path": "photos/ChIJB6QfRfABBDQRJZphcF8ysfA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQTcHGsmp7f7SE5bYBPSMo4eLXXH9boc5exBJYhRiUqE8F9lZJhV_waIRifXCqsHnv38HEKasPlDrfUttYstjER_qLEmnyKU016WWUvstRO0nWnIW42BfvTai4dZTvY4jCqVf01MhyrqdX=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 209156
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "french_restaurant",
+    "label": "法國餐廳",
+    "types": [
+      "french_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

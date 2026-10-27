@@ -1,0 +1,39 @@
+{
+  "id": "ChIJq37KGl75AzQR-B9Sdd0nMMU",
+  "types": [
+    "historical_landmark",
+    "shopping_mall",
+    "historical_place",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "The Mills, 45 Pak Tin Par St, Tsuen Wan, New Territories, 香港",
+  "location": {
+    "latitude": 22.3750707,
+    "longitude": 114.1101695
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14208900656463486968&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "南豐紗廠",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "historical_landmark",
+  "photos": [
+    {
+      "name": "places/ChIJq37KGl75AzQR-B9Sdd0nMMU/photos/Aa-ngMaQELtWb3jLwx4y2bEuElz1laDLcOY2lZm1sB-Waj_1YmYe__v-LE2JCyMr9jcmlpnEmTvLcn2ZCM4--GJQHmfIKHjfPqX8b2g7g3kBVxaJLhDrs0xLFef0kID7IolM-Wsq3_GQVbOJx5cVLYZTbl9wuYDb_fFMMMBpoMPCRpob3vnFX5sF-E3QZan0wiF9fhhEbYAon9hykgkYIS6G7WtHrtN_Ma8653L1FTJlyrn_WBYxVQPc9zYr1qCmH94tk4-RBXqGA5LnEalg7V8KLyRjm6MhuNVdaXwQzRJ0bhBw3PiANXdoqv0RU6e-PhpdyJWrnWlhuri1IvKRysdJKO8isuHdIovVTX4u07DWVj-Xwvp9a0CyA6GTZE1XqJRLtFN6L9rd1jKT25lQ3jjsZhx-oUwlBxQ",
+      "widthPx": 4800,
+      "heightPx": 3840,
+      "authorAttributions": [
+        {
+          "displayName": "The Mills 南豐紗廠",
+          "uri": "https://maps.google.com/maps/contrib/110569941967625140101",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxU9ugWk1xP6kVFv_EtdoI5fVwuEA-TeOSuZnWJV2qIlEO_vM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC67N7fwAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC67N7fwAE!2e10!4m2!3m1!1s0x3403f95e1aca7eab:0xc53027dd75521ff8"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:02.461448+00:00"
+}

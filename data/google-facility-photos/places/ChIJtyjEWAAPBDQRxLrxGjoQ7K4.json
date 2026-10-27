@@ -1,0 +1,39 @@
+{
+  "id": "ChIJtyjEWAAPBDQRxLrxGjoQ7K4",
+  "types": [
+    "sports_club",
+    "association_or_organization",
+    "sports_activity_location",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界馬鞍山海映路9號",
+  "location": {
+    "latitude": 22.4275387,
+    "longitude": 114.26472369999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12604467298849372868&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "GO PARK Sports",
+    "languageCode": "en"
+  },
+  "primaryType": "sports_club",
+  "photos": [
+    {
+      "name": "places/ChIJtyjEWAAPBDQRxLrxGjoQ7K4/photos/Aa-ngMZZpL7qGtKpzmq3KYUmHcbyJTr27yFHESlXEvpgLFIxRWEg0pG4xrmpoqnyJdsbUfXxz8oP-9l5jNErReQQYaC93f4ujQhpLhEJzaYhh7M1DNLI_QO0ca-Sj68_qpGJRU2WDWUAlFboSSWF5CnQDrj1pnQ6wX1h-hkJXUlLaItUsqj2C5Lj1qQtPXI9g4uMWokU3MLx4FBTIDhrKZBc62utvjdoz1xxdULzPKlwSSTp4feF8AZTD3umaBto5OpYZJumW0wnk0P80GBD82qNTB1JC9QTlIvWuTWNJhKC_c6L_KyE157le8gUHtR4wLEDnyo-BGsr5gmRu0sl-uoMZ3Hx-AP2zR5UDuIuxR89NG5AITT31C9hkfJ_atuJbMHPw1Iy2kYBaIObow9FGaE9eCP3qYqB-kQj5Vp2VPORYdyZ4w",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Keith Huang (MrKeithHuang)",
+          "uri": "https://maps.google.com/maps/contrib/109352308814446610924",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFuoQPMnUuh0CUC3JOV-snWy76HBarVEsVr3PoUlIRBcBD6Mewvg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAxdVsyz1k8Es_ur2lq5UzG&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAxdVsyz1k8Es_ur2lq5UzG!2e10!4m2!3m1!1s0x34040f0058c428b7:0xaeec103a1af1bac4"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:05.009272+00:00"
+}

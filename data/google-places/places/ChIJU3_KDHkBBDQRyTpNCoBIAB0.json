@@ -1,0 +1,442 @@
+{
+  "google_place_id": "ChIJU3_KDHkBBDQRyTpNCoBIAB0",
+  "restaurant_ids": [
+    "restaurant:2212823675"
+  ],
+  "fetched_at": "2026-10-23T15:39:27.426559+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJU3_KDHkBBDQRyTpNCoBIAB0",
+    "types": [
+      "spanish_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2866 3286",
+    "internationalPhoneNumber": "+852 2866 3286",
+    "formattedAddress": "Shop No. 301B-302, 3/F, Lee Garden One, 33 Hysan Ave, Causeway Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2784388,
+      "longitude": 114.1847145
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=2089749941865757385&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://aire.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 14:30, 18:00 – 23:00",
+        "星期二: 11:30 – 14:30, 18:00 – 23:00",
+        "星期三: 11:30 – 14:30, 18:00 – 23:00",
+        "星期四: 11:30 – 14:30, 18:00 – 23:00",
+        "星期五: 11:30 – 14:30, 18:00 – 23:00",
+        "星期六: 11:30 – 15:30, 18:00 – 23:00",
+        "星期日: 11:30 – 15:30, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 202,
+    "displayName": {
+      "text": "Aire",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西班牙風味餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "spanish_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJU3_KDHkBBDQRyTpNCoBIAB0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSaFEzaHdPSEk1UjJ0SFpscGhSVzFrWkdzMmNIYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳主打西班牙菜，裝修優雅高級，還有室內和室外用餐區選擇。平日晚市時段都近乎滿座，更有不少客人特意前來慶祝生日，氣氛不錯，好適合約會、聚餐、打卡慶祝。\n.\nIbérico ham croquette $24/pc\n外脆內軟，充滿伊比利亞火腿脂香。\n.\nCharred broccolini with Greek yogurt, lemon, herbs & Idiazábal cheese $82\n西蘭花苗新鮮爽脆，配上希臘酸奶、芝士等，咸香清爽。\n.\nCarabineros \"Formentera style\" served over Agria potato chips and fried duck eggs $538\n紅蝦大隻鮮甜，彈牙又多汁，配上香脆薯仔片、流心炸鴨蛋，層次豐富，風味十足。\n.\nOctopus from Galicia cooked in house & served over smoked potato $178\n慢煮八爪魚肉質軟嫩有嚼勁，配上薯仔肉，充滿地道風味。\n.\nAustralian wagyu M5 striploin served with piquillo peppers 200gr $265\n澳洲M5和牛西冷肉質軟嫩，牛香四溢，充滿肉汁，搭配秘製甜椒，剛好中和膩感。\n.\nOur cheesecake with mixed berries sorbet $85\n芝士香氣濃厚，入口順滑，搭配酸甜莓果雪葩，令人回味。\n.\nHot chocolate tart, Arbequina olive oil, salt, passion fruit sorbet $89\n熱巧克力撻配上橄欖油、海鹽、百香果雪葩，咸甜互相碰撞，驚喜十足。\n.\nMocktails\nFruits of Forest & The Trend 各$98\n餐廳有多款酒類飲品選擇，亦有多款非酒精飲品，充滿特色。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳主打西班牙菜，裝修優雅高級，還有室內和室外用餐區選擇。平日晚市時段都近乎滿座，更有不少客人特意前來慶祝生日，氣氛不錯，好適合約會、聚餐、打卡慶祝。\n.\nIbérico ham croquette $24/pc\n外脆內軟，充滿伊比利亞火腿脂香。\n.\nCharred broccolini with Greek yogurt, lemon, herbs & Idiazábal cheese $82\n西蘭花苗新鮮爽脆，配上希臘酸奶、芝士等，咸香清爽。\n.\nCarabineros \"Formentera style\" served over Agria potato chips and fried duck eggs $538\n紅蝦大隻鮮甜，彈牙又多汁，配上香脆薯仔片、流心炸鴨蛋，層次豐富，風味十足。\n.\nOctopus from Galicia cooked in house & served over smoked potato $178\n慢煮八爪魚肉質軟嫩有嚼勁，配上薯仔肉，充滿地道風味。\n.\nAustralian wagyu M5 striploin served with piquillo peppers 200gr $265\n澳洲M5和牛西冷肉質軟嫩，牛香四溢，充滿肉汁，搭配秘製甜椒，剛好中和膩感。\n.\nOur cheesecake with mixed berries sorbet $85\n芝士香氣濃厚，入口順滑，搭配酸甜莓果雪葩，令人回味。\n.\nHot chocolate tart, Arbequina olive oil, salt, passion fruit sorbet $89\n熱巧克力撻配上橄欖油、海鹽、百香果雪葩，咸甜互相碰撞，驚喜十足。\n.\nMocktails\nFruits of Forest & The Trend 各$98\n餐廳有多款酒類飲品選擇，亦有多款非酒精飲品，充滿特色。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eat Withwings",
+          "uri": "https://www.google.com/maps/contrib/100675831378306533460/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBr2edtjiizBTNrFq_8hODy-KG0w8Cou7Z9s1jYmhnRsY-3POJ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-08T15:13:53.812862541Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSaFEzaHdPSEk1UjJ0SFpscGhSVzFrWkdzMmNIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSaFEzaHdPSEk1UjJ0SFpscGhSVzFrWkdzMmNIYxAB!2m1!1s0x340401790cca7f53:0x1d0048800a4d3ac9"
+      },
+      {
+        "name": "places/ChIJU3_KDHkBBDQRyTpNCoBIAB0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SNU5XZGphblUxV0Y4dExVdElTVjlrV1hnMVlsRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "絕對係食過最高質西班牙餐廳，由加泰隆尼亞籍總廚率領全西班牙團隊，餐廳現代感裝潢跟寬敞空間令人感覺舒適，最加分是超美戶外露台，白天採光好、晚上氣氛更 Chill，跟朋友聚會或約會都超適合 🥂\n\n他們的菜單也很特別，融入了不少日本元素的巧思，每道都驚喜十足！\n\n🦐 Mediterranean Red Prawn Tartare with Avocado Mousse & Olive Oil Caviar\n紅蝦鮮甜肉質軟嫩，配上綿密牛油果慕斯、橄欖油魚子，口感從滑順到爆開，層次超鮮明\n\n🐙 Octopus from Galicia cooked in house & served over smoked potato\n八爪魚熟度剛好帶點嚼勁，煙燻薯泥香氣提升了整道菜的層次，大推！\n\n🥗 Grilled chicken ”escabeche“ salad with pomegranate\n雞肉經過輕微烤製後帶淡淡焦香，搭配Escabeche醬汁 酸甜開胃🍋\n\n\"Gambas Ajillo\", garlic prawns prepared in the traditional way\n大蝦爽彈，份量適中，帶濃郁蒜香，配麵包一流。\n\n🥦 Charred broccolini with Greek yogurt, lemon, herbs & Idiazábal cheese\n西蘭花苗新鮮爽脆，配上希臘酸奶、檸檬、草本、芝士，味道咸香清爽。\n\n🐓 Grilled Yellow Chicken Ballotine with Porcini, Butifarra & Calçots\n原隻去骨釀入牛肝菌，炭火慢燒到外皮金黃酥脆，肉質嫩滑多汁，菌香超濃郁。\n\n🥩 Australian Wagyu M5 Striploin with Piquillo Peppers\n外層帶炭燒焦香，肉質軟嫩無筋，脂香跟肉香交疊，配上酸甜紅椒🌶️，非常解膩。\n\nOur Cheesecake with mixed berries sorbet\n招牌甜品芝士香氣濃厚，入口順滑，味道咸香，搭配酸甜的混合莓果雪葩，令人回味。\n\n🍹Mocktails\n▪️Fruits of Forest $98\n以雜莓配上麥芽醋製成，果香濃郁，解膩開胃。\n\n環境舒服、菜式設計特別且係水準之上，絕對是近期食過最滿足高質西班牙菜 🇪🇸！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "絕對係食過最高質西班牙餐廳，由加泰隆尼亞籍總廚率領全西班牙團隊，餐廳現代感裝潢跟寬敞空間令人感覺舒適，最加分是超美戶外露台，白天採光好、晚上氣氛更 Chill，跟朋友聚會或約會都超適合 🥂\n\n他們的菜單也很特別，融入了不少日本元素的巧思，每道都驚喜十足！\n\n🦐 Mediterranean Red Prawn Tartare with Avocado Mousse & Olive Oil Caviar\n紅蝦鮮甜肉質軟嫩，配上綿密牛油果慕斯、橄欖油魚子，口感從滑順到爆開，層次超鮮明\n\n🐙 Octopus from Galicia cooked in house & served over smoked potato\n八爪魚熟度剛好帶點嚼勁，煙燻薯泥香氣提升了整道菜的層次，大推！\n\n🥗 Grilled chicken ”escabeche“ salad with pomegranate\n雞肉經過輕微烤製後帶淡淡焦香，搭配Escabeche醬汁 酸甜開胃🍋\n\n\"Gambas Ajillo\", garlic prawns prepared in the traditional way\n大蝦爽彈，份量適中，帶濃郁蒜香，配麵包一流。\n\n🥦 Charred broccolini with Greek yogurt, lemon, herbs & Idiazábal cheese\n西蘭花苗新鮮爽脆，配上希臘酸奶、檸檬、草本、芝士，味道咸香清爽。\n\n🐓 Grilled Yellow Chicken Ballotine with Porcini, Butifarra & Calçots\n原隻去骨釀入牛肝菌，炭火慢燒到外皮金黃酥脆，肉質嫩滑多汁，菌香超濃郁。\n\n🥩 Australian Wagyu M5 Striploin with Piquillo Peppers\n外層帶炭燒焦香，肉質軟嫩無筋，脂香跟肉香交疊，配上酸甜紅椒🌶️，非常解膩。\n\nOur Cheesecake with mixed berries sorbet\n招牌甜品芝士香氣濃厚，入口順滑，味道咸香，搭配酸甜的混合莓果雪葩，令人回味。\n\n🍹Mocktails\n▪️Fruits of Forest $98\n以雜莓配上麥芽醋製成，果香濃郁，解膩開胃。\n\n環境舒服、菜式設計特別且係水準之上，絕對是近期食過最滿足高質西班牙菜 🇪🇸！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "vivian yik",
+          "uri": "https://www.google.com/maps/contrib/105967924559287788366/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIoYaoP-uGdDFKhj9_jL0nFCus_idG8HxLs0nEz_TN4ccgk_Hw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-09T05:27:19.962506544Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SNU5XZGphblUxV0Y4dExVdElTVjlrV1hnMVlsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SNU5XZGphblUxV0Y4dExVdElTVjlrV1hnMVlsRRAB!2m1!1s0x340401790cca7f53:0x1d0048800a4d3ac9"
+      },
+      {
+        "name": "places/ChIJU3_KDHkBBDQRyTpNCoBIAB0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taZmJGSmtVa3BJVTFoaVdtRktkMDFMTXpCcVYwRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "香港｜銅鑼灣超美露台西班牙菜🇪🇸\nAire是人氣餐廳Pica Pica的姊妹店✨\n由加泰隆尼亞籍行政總廚帶領全西班牙廚師團隊主理👨‍🍳\n主打正宗的巴斯克燒烤與經典Tapas🔥\n海鮮和肉類都是直接從西班牙、大西洋及地中海沿岸新鮮採購的🌊\n室內設計精緻又簡約 室外更有戶外露台空間🏙️\n無論是Happy Hour還是朋友聚餐都超級適合🥂\n\n📌Grilled chicken \"escabeche\" salad with pomegranate $79\n雞肉經過輕微烤製後散發著淡淡的焦香🔥\n搭配Escabeche醬汁 酸甜開胃🍋\n\n📌Lightly seared cured red mullet with gribiche sauce $128\n紅鯔魚肉質細嫩 輕微炙烤後逼出魚脂香氣🐟\n搭配法式Gribiche蛋黃酸豆醬 層次豐富～\n入口即化的細膩口感令人回味無窮🤤\n\n📌Carabineros ”formentera style“ served over agria potato chips and sunny side duck eggs $538\n全晚重點推介🦐\n頂級西班牙紅蝦鮮味濃郁 蝦膏甘香豐腴！\n底部的Agria薯片沾滿流心鴨蛋黃與紅蝦蝦膏\n每一口都是超滿足！\n\n📌Hokkaido king crab paella $428\n同樣是餐廳的招牌菜式\n西班牙炒飯吸滿了濃郁的海鮮高湯精華🥘\n飯粒軟硬適中 保留了傳統的咬口與飯焦香～\n而北海道帝王蟹肉質鮮甜又超飽滿🦀\n而且份量超足 100%大滿足！\n\n📌Pistachio mousse with raspberries ice cream $78\n開心果慕斯口感柔滑 堅果香氣也很濃郁💚\n配搭酸酸甜甜的紅桑子雪糕 剛好中和了甜膩感～\n\n📌Mocktail\n🔆Fruits of Forest $98\n🔆The Trend $98\n清爽解膩 非常適合搭配重口味的西班牙菜🥂\n外觀同樣超精緻 打卡很不錯📸",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "香港｜銅鑼灣超美露台西班牙菜🇪🇸\nAire是人氣餐廳Pica Pica的姊妹店✨\n由加泰隆尼亞籍行政總廚帶領全西班牙廚師團隊主理👨‍🍳\n主打正宗的巴斯克燒烤與經典Tapas🔥\n海鮮和肉類都是直接從西班牙、大西洋及地中海沿岸新鮮採購的🌊\n室內設計精緻又簡約 室外更有戶外露台空間🏙️\n無論是Happy Hour還是朋友聚餐都超級適合🥂\n\n📌Grilled chicken \"escabeche\" salad with pomegranate $79\n雞肉經過輕微烤製後散發著淡淡的焦香🔥\n搭配Escabeche醬汁 酸甜開胃🍋\n\n📌Lightly seared cured red mullet with gribiche sauce $128\n紅鯔魚肉質細嫩 輕微炙烤後逼出魚脂香氣🐟\n搭配法式Gribiche蛋黃酸豆醬 層次豐富～\n入口即化的細膩口感令人回味無窮🤤\n\n📌Carabineros ”formentera style“ served over agria potato chips and sunny side duck eggs $538\n全晚重點推介🦐\n頂級西班牙紅蝦鮮味濃郁 蝦膏甘香豐腴！\n底部的Agria薯片沾滿流心鴨蛋黃與紅蝦蝦膏\n每一口都是超滿足！\n\n📌Hokkaido king crab paella $428\n同樣是餐廳的招牌菜式\n西班牙炒飯吸滿了濃郁的海鮮高湯精華🥘\n飯粒軟硬適中 保留了傳統的咬口與飯焦香～\n而北海道帝王蟹肉質鮮甜又超飽滿🦀\n而且份量超足 100%大滿足！\n\n📌Pistachio mousse with raspberries ice cream $78\n開心果慕斯口感柔滑 堅果香氣也很濃郁💚\n配搭酸酸甜甜的紅桑子雪糕 剛好中和了甜膩感～\n\n📌Mocktail\n🔆Fruits of Forest $98\n🔆The Trend $98\n清爽解膩 非常適合搭配重口味的西班牙菜🥂\n外觀同樣超精緻 打卡很不錯📸",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tsz Wan Yuen",
+          "uri": "https://www.google.com/maps/contrib/110205679024342647756/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKyRiP9fWXTRryw2vOyXE4xhF_8Fy8215dSwR5d_bfddYs6dA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-03T08:55:21.297481907Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taZmJGSmtVa3BJVTFoaVdtRktkMDFMTXpCcVYwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taZmJGSmtVa3BJVTFoaVdtRktkMDFMTXpCcVYwRRAB!2m1!1s0x340401790cca7f53:0x1d0048800a4d3ac9"
+      },
+      {
+        "name": "places/ChIJU3_KDHkBBDQRyTpNCoBIAB0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CNGFWSTBZemxoY0daMFJtbzJZak5sZERCeVFWRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🔸Anchovy Brioche（HK$136/兩件）：牛油 Brioche 烘到香一香，配埋鹹香鯷魚，入口鹹甜交織，好有驚喜！\n\n🔸Crab Croqueta（HK$56/兩件）：外層炸到超脆，裏面蟹肉餡軟綿綿又有鮮味。\n\n🔸Tomato Bread（HK$38）：經典西班牙番茄包，酸酸甜甜爽口開胃。\n\n🔸Charred Broccolini（HK$82）：烤西蘭花苗炭香十足，配埋 Cream Cheese 醬汁一齊食，香濃得嚟又帶點蔬菜甜味，好惹味！\n\n🔸Octopus w/ Potato（HK$178）：八爪魚腳烤得剛好，入口軟讄彈牙、完全唔會難咬，配埋吸盡精華嘅薯仔，好正。\n\n🔸Pastrami Beef Rib（HK$428）：呢道牛肋骨勁特別！雖然牛味不算好重，但勝在肉質極之嫩口，煙燻風味獨特，口感完全唔似普通烤牛肉，好有特色，值得一試！\n\n🔸Duck Paella（HK$248）：鴨肉西班牙炒飯，飯粒吸滿鴨香精華，香味濃郁。\n\n🔸Black Rice（HK$245）：墨魚汁黑飯，鮮味十足，而且底層仲有焦香嘅飯焦！兩款飯分開叫，各有特色。\n\n🔸Cheese Cake（HK$85）：呢度嘅芝士蛋糕同平時食開好唔同，食落極之鬆軟，質感非常特別！\n\n🔸Hot Chocolate Tart（HK$89）：熱朱古力撻一切開有流心效果，濃郁朱古力醬湧出嚟，朱古力控必試！\n\n🔸Happy Hour 抵玩：咁啱撞正 Happy Hour，幾杯 Sangria 同 Cocktails（如 Cava Sangria, Rose Sangria, Yuzu Ember）全部有折，平咗一截，超級抵飲！\n\n🔸人均消費：4 個人埋單 HK$1,924（連加一），平均每人 HK$481。喺利園呢個位址加上呢個食物質素，CP 值真係高！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🔸Anchovy Brioche（HK$136/兩件）：牛油 Brioche 烘到香一香，配埋鹹香鯷魚，入口鹹甜交織，好有驚喜！\n\n🔸Crab Croqueta（HK$56/兩件）：外層炸到超脆，裏面蟹肉餡軟綿綿又有鮮味。\n\n🔸Tomato Bread（HK$38）：經典西班牙番茄包，酸酸甜甜爽口開胃。\n\n🔸Charred Broccolini（HK$82）：烤西蘭花苗炭香十足，配埋 Cream Cheese 醬汁一齊食，香濃得嚟又帶點蔬菜甜味，好惹味！\n\n🔸Octopus w/ Potato（HK$178）：八爪魚腳烤得剛好，入口軟讄彈牙、完全唔會難咬，配埋吸盡精華嘅薯仔，好正。\n\n🔸Pastrami Beef Rib（HK$428）：呢道牛肋骨勁特別！雖然牛味不算好重，但勝在肉質極之嫩口，煙燻風味獨特，口感完全唔似普通烤牛肉，好有特色，值得一試！\n\n🔸Duck Paella（HK$248）：鴨肉西班牙炒飯，飯粒吸滿鴨香精華，香味濃郁。\n\n🔸Black Rice（HK$245）：墨魚汁黑飯，鮮味十足，而且底層仲有焦香嘅飯焦！兩款飯分開叫，各有特色。\n\n🔸Cheese Cake（HK$85）：呢度嘅芝士蛋糕同平時食開好唔同，食落極之鬆軟，質感非常特別！\n\n🔸Hot Chocolate Tart（HK$89）：熱朱古力撻一切開有流心效果，濃郁朱古力醬湧出嚟，朱古力控必試！\n\n🔸Happy Hour 抵玩：咁啱撞正 Happy Hour，幾杯 Sangria 同 Cocktails（如 Cava Sangria, Rose Sangria, Yuzu Ember）全部有折，平咗一截，超級抵飲！\n\n🔸人均消費：4 個人埋單 HK$1,924（連加一），平均每人 HK$481。喺利園呢個位址加上呢個食物質素，CP 值真係高！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "wuso_foodie",
+          "uri": "https://www.google.com/maps/contrib/100282209541282726369/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7FTr9Ljkt2aLBHNjjPIgZ7l2w4hAG647cTqJdJrS4voEtsLE=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-13T03:03:18.348433586Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CNGFWSTBZemxoY0daMFJtbzJZak5sZERCeVFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CNGFWSTBZemxoY0daMFJtbzJZak5sZERCeVFWRRAB!2m1!1s0x340401790cca7f53:0x1d0048800a4d3ac9"
+      },
+      {
+        "name": "places/ChIJU3_KDHkBBDQRyTpNCoBIAB0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOSlRrbGhVekl5UjFKalpGTnBSMkZ2Ym1Kd05XYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食brunch, 菜單超豐富，每人有兩款Tapas、一款蛋料理、主菜及甜品🍧\n\nTapas 有多款選擇，一定要食爆膏軟糯紅蝦😙蟹肉沙律用原個牛油果包住，超足料🤩仲有黑松露拉絲麵包！Egg Benedict 超流心，火腿鹹香味十足🍳\n\n主菜必食和牛橫隔肌，外層有焦香感，內裏好軟嫩🥰配紅椒酸酸甜甜超正！連羊腩都好好味，不會好騷，肥瘦比例適中😆平日不食羊嘅朋友都接受到!!\n\n最後仲有甜品，試咗芝士蛋糕及Sangria-infused 西瓜❤️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食brunch, 菜單超豐富，每人有兩款Tapas、一款蛋料理、主菜及甜品🍧\n\nTapas 有多款選擇，一定要食爆膏軟糯紅蝦😙蟹肉沙律用原個牛油果包住，超足料🤩仲有黑松露拉絲麵包！Egg Benedict 超流心，火腿鹹香味十足🍳\n\n主菜必食和牛橫隔肌，外層有焦香感，內裏好軟嫩🥰配紅椒酸酸甜甜超正！連羊腩都好好味，不會好騷，肥瘦比例適中😆平日不食羊嘅朋友都接受到!!\n\n最後仲有甜品，試咗芝士蛋糕及Sangria-infused 西瓜❤️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wong Sammi",
+          "uri": "https://www.google.com/maps/contrib/101373157709654702176/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLxkI3h31t-PZFxuBMSGK90BQT-8fla2ifS3tWaCTnK4PzTSw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-05T13:37:09.302887632Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOSlRrbGhVekl5UjFKalpGTnBSMkZ2Ym1Kd05XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOSlRrbGhVekl5UjFKalpGTnBSMkZ2Ym1Kd05XYxAB!2m1!1s0x340401790cca7f53:0x1d0048800a4d3ac9"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401790cca7f53:0x1d0048800a4d3ac9!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2089749941865757385&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401790cca7f53:0x1d0048800a4d3ac9!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401790cca7f53:0x1d0048800a4d3ac9!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401790cca7f53:0x1d0048800a4d3ac9!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJU3_KDHkBBDQRyTpNCoBIAB0/photos/Aa-ngMbhTG8yF9K5oMaAFvp_hHPXWBwHSuIswqZukZNPaY0CEriupyoBn6I_c129GzVCMWtfdIH2fCcKkNOqkVMUY2k6RLqVrLClwBcvtieqdD2_fLlIgH5C42YpUI7IupBF4mfl2q6VVBC3-9Vt88lTFW-cFq1i7Dunnb9b3AFWORQAYhFmdm7Yw3En_zcB0gi4cNHKCMelaj7bYOHSkXfUSiM2BKPVjjFGekK0uYPH10H7YNqzR0KeQHPFsQ35l93iqQ9tSvBPKo-Cq3X4MQejudpvaLqcU3cqlQ1MZXX9uDqjCyvkVTgl0mSvAQMo5pasWhviIcWpizokZGZZ3NQK3q3N3uI9-Hlnu80jTWun5-iGuRJfDHIey2MMnZmOWDDyjR-E5Rv4EMBVTDr2nJwF6cau9U2DhEo",
+      "widthPx": 4800,
+      "heightPx": 2708,
+      "authorAttributions": [
+        {
+          "displayName": "Aire",
+          "uri": "https://maps.google.com/maps/contrib/103377281065001697022",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIbhw-jCJl9dtEo6u0RR_-Dw-TkLnXC1k5WJqqEdR01oHlnow=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICfx9iX0wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfx9iX0wE!2e10!4m2!3m1!1s0x340401790cca7f53:0x1d0048800a4d3ac9"
+    },
+    "local_path": "photos/ChIJU3_KDHkBBDQRyTpNCoBIAB0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSmM_B07Gm2KAy_UXBK7XK9mxJV_juwk_Z-X46PXORh0BmPoGPzKX9heKNSc3K_Xyi0t7IdKfrmpazAiPPbBhyDVzKCchoE8q0CJo3OB1NcfrIZCyy0vaxjWDojYV9sg2feOGSwg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 131722
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://aire.hk/#reservation-mobile",
+        "label": "RESERVATION",
+        "source_url": "https://aire.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://aire.hk/#reservation",
+        "label": "RESERVATION",
+        "source_url": "https://aire.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://aire.hk/#menu-mobile",
+        "label": "MENU",
+        "source_url": "https://aire.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://aire.hk/#menu",
+        "label": "MENU",
+        "source_url": "https://aire.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://linktr.ee/aire.hk",
+        "label": "Menu",
+        "source_url": "https://aire.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "spanish_restaurant",
+    "label": "西班牙風味餐廳",
+    "types": [
+      "spanish_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://aire.hk/#reservation-mobile",
+  "menu_url": "https://aire.hk/#menu-mobile"
+}

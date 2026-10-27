@@ -1,0 +1,332 @@
+{
+  "google_place_id": "ChIJS_IKSMP5AzQRhTmgwTRwfn0",
+  "restaurant_ids": [
+    "restaurant:2291002286"
+  ],
+  "fetched_at": "2026-10-23T15:39:00.717518+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJS_IKSMP5AzQRhTmgwTRwfn0",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2668 3979",
+    "internationalPhoneNumber": "+852 2668 3979",
+    "formattedAddress": "香港新界灝景灣牙鷹洲街地下1號鋪",
+    "location": {
+      "latitude": 22.3614405,
+      "longitude": 114.1054274
+    },
+    "rating": 3.1,
+    "googleMapsUri": "https://maps.google.com/?cid=9042788473695648133&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.cooker.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:00 – 22:00",
+        "星期二: 06:00 – 22:00",
+        "星期三: 06:00 – 22:00",
+        "星期四: 06:00 – 22:00",
+        "星期五: 06:00 – 22:00",
+        "星期六: 06:00 – 22:00",
+        "星期日: 06:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-23T22:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 409,
+    "displayName": {
+      "text": "賓墟冰室",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJS_IKSMP5AzQRhTmgwTRwfn0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Gek1rbHljMHBTVDJGWFIwbFNRbk5GVEhscVlVRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 1,
+        "text": {
+          "text": "食物還好，環境衛生一般。\n樓面一名侍應對外賣員態度極差，帶有種族歧視字眼，外賣員聽唔明廣東話，叫人走，唔想見到你咁嘅人。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物還好，環境衛生一般。\n樓面一名侍應對外賣員態度極差，帶有種族歧視字眼，外賣員聽唔明廣東話，叫人走，唔想見到你咁嘅人。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yu Don",
+          "uri": "https://www.google.com/maps/contrib/104379237939864557782/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJOS2exaAgWGOouiP-9VQIy8gUTYHGCmDXehZxEq_Jfi9Ehteqs=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-22T00:59:08.305927957Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Gek1rbHljMHBTVDJGWFIwbFNRbk5GVEhscVlVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Gek1rbHljMHBTVDJGWFIwbFNRbk5GVEhscVlVRRAB!2m1!1s0x3403f9c3480af24b:0x7d7e7034c1a03985"
+      },
+      {
+        "name": "places/ChIJS_IKSMP5AzQRhTmgwTRwfn0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OcmVsWnVRMmRLTkVaVFFreDZNVlp5TkdkeFQwRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 1,
+        "text": {
+          "text": "早餐\n沙嗲牛肉麵 ， 火腿煎蛋\n\n來左燶腸煎蛋，對左單都係落左火腿\n叫佢換返仲閪口閪面\n坐左好耐個麵都未到，連隔離啊伯係我落單後十分鐘先坐低都有得食，一樣係沙嗲牛\n咁我又追下啦，出到黎個公仔麵未熟\n我都費鳩事再追，浪費青春\n真係無下次",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "早餐\n沙嗲牛肉麵 ， 火腿煎蛋\n\n來左燶腸煎蛋，對左單都係落左火腿\n叫佢換返仲閪口閪面\n坐左好耐個麵都未到，連隔離啊伯係我落單後十分鐘先坐低都有得食，一樣係沙嗲牛\n咁我又追下啦，出到黎個公仔麵未熟\n我都費鳩事再追，浪費青春\n真係無下次",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kinfan siu",
+          "uri": "https://www.google.com/maps/contrib/104883828475728554223/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJIm2PCHXr_sh8cxjjIBwCB79pFoYO4QQ4TjaAZ9nwVXlJBiA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-17T06:13:48.384652468Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OcmVsWnVRMmRLTkVaVFFreDZNVlp5TkdkeFQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OcmVsWnVRMmRLTkVaVFFreDZNVlp5TkdkeFQwRRAB!2m1!1s0x3403f9c3480af24b:0x7d7e7034c1a03985"
+      },
+      {
+        "name": "places/ChIJS_IKSMP5AzQRhTmgwTRwfn0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kRVQzZE9iRFZRVjFOQ1dHaEpiVGQ1TFRreWIyYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 4,
+        "text": {
+          "text": "賓墟冰室\n青衣區一間人氣地道港式冰室，深受街坊歡迎，環境樸實舒服，很適合早餐或下午茶聚會。\n\n位置：位於青衣市中心區，交通方便，鄰近青衣站或青衣商場，方便搭車或自駕前往。\n\n環境：冰室風格懷舊，有木製枱椅，牆上貼滿舊照片及經典港味海報，空間算寬敞，適合親子及長者聚餐，感覺親切又有本地文化味道。\n\n服務：服務親切快捷，適合家庭和朋友聚會，也有不少長者常客。\n\n“肉醬雞扒飯”\n雞扒煎至金黃外脆內嫩。重點係肉醬，豬牛絞肉炒洋蔥，醬汁濃郁紅潤，淋滿雞扒同飯邊。\n\n“雪菜肉絲炆米”\n肉絲嫩滑唔柴（現炒快炆)，雪菜脆咬有勁，鹹鮮酸辣平衡，唔會乾硬)。\n\n如果想感受地道港式冰室氣氛，又想試傳統茶餐廳風味，「賓墟冰室」絕對係個不錯選擇！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "賓墟冰室\n青衣區一間人氣地道港式冰室，深受街坊歡迎，環境樸實舒服，很適合早餐或下午茶聚會。\n\n位置：位於青衣市中心區，交通方便，鄰近青衣站或青衣商場，方便搭車或自駕前往。\n\n環境：冰室風格懷舊，有木製枱椅，牆上貼滿舊照片及經典港味海報，空間算寬敞，適合親子及長者聚餐，感覺親切又有本地文化味道。\n\n服務：服務親切快捷，適合家庭和朋友聚會，也有不少長者常客。\n\n“肉醬雞扒飯”\n雞扒煎至金黃外脆內嫩。重點係肉醬，豬牛絞肉炒洋蔥，醬汁濃郁紅潤，淋滿雞扒同飯邊。\n\n“雪菜肉絲炆米”\n肉絲嫩滑唔柴（現炒快炆)，雪菜脆咬有勁，鹹鮮酸辣平衡，唔會乾硬)。\n\n如果想感受地道港式冰室氣氛，又想試傳統茶餐廳風味，「賓墟冰室」絕對係個不錯選擇！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "AL",
+          "uri": "https://www.google.com/maps/contrib/115805085789118187114/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5WHPQvNprqJM2ut3IWIy3KPYsEL-C8bkEpUD2BDq64fuzHA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-11-10T09:02:51.071307395Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kRVQzZE9iRFZRVjFOQ1dHaEpiVGQ1TFRreWIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kRVQzZE9iRFZRVjFOQ1dHaEpiVGQ1TFRreWIyYxAB!2m1!1s0x3403f9c3480af24b:0x7d7e7034c1a03985"
+      },
+      {
+        "name": "places/ChIJS_IKSMP5AzQRhTmgwTRwfn0/reviews/ChZDSUhNMG9nS0VJQ0FnSUREd1BtNmFREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "平日上午1130兩個人食，$98食左一個午餐和早餐。經濟實惠，方便的街坊選擇。\n味道可以，不過不失，正常的茶餐廳水準。\n職員的服務屬平均水準。特別點是我食野時聽到餐廳剛取消八達通收費，又有個客人埋單無現金，職員讓他明天/下次再俾。（可能熟客啦）感覺好有舊式80年代的人情味。（果然人越大，越懷念舊日的好時光）\n簡單裝修，衛生勉強合格。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平日上午1130兩個人食，$98食左一個午餐和早餐。經濟實惠，方便的街坊選擇。\n味道可以，不過不失，正常的茶餐廳水準。\n職員的服務屬平均水準。特別點是我食野時聽到餐廳剛取消八達通收費，又有個客人埋單無現金，職員讓他明天/下次再俾。（可能熟客啦）感覺好有舊式80年代的人情味。（果然人越大，越懷念舊日的好時光）\n簡單裝修，衛生勉強合格。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ka ho lai",
+          "uri": "https://www.google.com/maps/contrib/104366232887860561087/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9IiwP7yBrU0PfKrYjehp4b9gq_OTh8R8flKGlWSafAvKzfwYf=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-04-04T07:03:09.120261Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREd1BtNmFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREd1BtNmFREAE!2m1!1s0x3403f9c3480af24b:0x7d7e7034c1a03985"
+      },
+      {
+        "name": "places/ChIJS_IKSMP5AzQRhTmgwTRwfn0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWNmFlQW1RRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "💫冬日必食佳餚-👶🏻煲仔飯💫\n\n天寒地凍🥶當然需要好好暖一下肚子，這個時候來一鍋煲仔飯🍲🍲就再好不過啦～～今天我在青衣發現了寶藏餐廳🤩🤩用實惠價格享用到傳統、正宗的香港🇭🇰煲仔飯！\n\n🐽臘腸臘肉煲仔飯（$68）\n臘腸吃起來油潤多汁，皮脆肉彈，充滿肉汁🤤🤤臘肉半肥半瘦，有咬口，帶微微的咸香😍經過大火烹調，臘肉的肉汁完全滲入米飯中，每一口飯都佈滿油香🍚🍚\n\n🐽沙茶牛肉煲仔飯 （$65）\n必點❗️❕❗️ 煲仔飯開蓋後，充斥著牛肉的香氣，沙茶牛仔是傳統潮洲菜，沙茶醬質感亦偏稠身，牛肉經過醃製後，口感軟淋，味道帶點點鹹香和辛辣🌶️🌶️ 別有一番風味。\n\n✨香港傳統舊派吃法：鍋底焦焦脆脆的「飯焦」會倒入茶水🍵做成泡飯\n\n⭐️味道：🌕🌕🌕🌕🌕\n⭐️環境：🌕🌕🌕🌕🌗\n⭐️服務：🌕🌕🌕🌕🌗\n⭐️性價比：🌕🌕🌕🌕🌕\n\n📍：賓墟冰室 (青衣)\n青衣牙鷹洲街8號灝景灣商場地下1號舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "💫冬日必食佳餚-👶🏻煲仔飯💫\n\n天寒地凍🥶當然需要好好暖一下肚子，這個時候來一鍋煲仔飯🍲🍲就再好不過啦～～今天我在青衣發現了寶藏餐廳🤩🤩用實惠價格享用到傳統、正宗的香港🇭🇰煲仔飯！\n\n🐽臘腸臘肉煲仔飯（$68）\n臘腸吃起來油潤多汁，皮脆肉彈，充滿肉汁🤤🤤臘肉半肥半瘦，有咬口，帶微微的咸香😍經過大火烹調，臘肉的肉汁完全滲入米飯中，每一口飯都佈滿油香🍚🍚\n\n🐽沙茶牛肉煲仔飯 （$65）\n必點❗️❕❗️ 煲仔飯開蓋後，充斥著牛肉的香氣，沙茶牛仔是傳統潮洲菜，沙茶醬質感亦偏稠身，牛肉經過醃製後，口感軟淋，味道帶點點鹹香和辛辣🌶️🌶️ 別有一番風味。\n\n✨香港傳統舊派吃法：鍋底焦焦脆脆的「飯焦」會倒入茶水🍵做成泡飯\n\n⭐️味道：🌕🌕🌕🌕🌕\n⭐️環境：🌕🌕🌕🌕🌗\n⭐️服務：🌕🌕🌕🌕🌗\n⭐️性價比：🌕🌕🌕🌕🌕\n\n📍：賓墟冰室 (青衣)\n青衣牙鷹洲街8號灝景灣商場地下1號舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jaycee Po",
+          "uri": "https://www.google.com/maps/contrib/114650538739923628839/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZx9VYleGKefdygv9jNm6J0QOIgZEWI8AiYTvlbu-sjoPyitvv=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-12-08T03:07:02.184320Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNWNmFlQW1RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNWNmFlQW1RRRAB!2m1!1s0x3403f9c3480af24b:0x7d7e7034c1a03985"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": false,
+      "acceptsDebitCards": false,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f9c3480af24b:0x7d7e7034c1a03985!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9042788473695648133&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9c3480af24b:0x7d7e7034c1a03985!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f9c3480af24b:0x7d7e7034c1a03985!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9c3480af24b:0x7d7e7034c1a03985!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJS_IKSMP5AzQRhTmgwTRwfn0/photos/Aa-ngMavq1fdGOrBtCmVu-IBB_ybNCXnlwJB7BfA3ohMN0__WGrdy43l5m99JQw3O1sjEuqBN3GuoIoZX0Re9vHFWzrt0WwlfGl4_ZXY_5JQQM-aqiEFC2ChOOqKCXjcvz8jfM8U-EQZ2oAI1J0zD-NnKJcp0lCvN1hzHR-N3roYpwiO3ZdcYug0K36rz-6l7ZYORnfRSuj5B8vS7o8zn4EnHp1ScLuYUjK-PT21QNieamS4pHHAGIkKu9Lj4qVarFwiTFrB7jua_HU9L9ZQ64OtBjHaoys7tMbcKDDm7JeSVjGDBRShjyECdJsKdteokoZpk2gO56Cahn0GsVlP-uOjKxIxGNtIEz70y1AhBpzZdMJ_ViXDaWtRnVfZhOvvOqa-WJMxCl7NSECWNtZj_ZwhdYNEvyE",
+      "widthPx": 1440,
+      "heightPx": 809,
+      "authorAttributions": [
+        {
+          "displayName": "賓墟冰室",
+          "uri": "https://maps.google.com/maps/contrib/100632073480222282341",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5riUe3Iow717zsXczGbV2ZO4Qx1zDYJv-WzRiYYNGvYn7woM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC65JakVg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC65JakVg!2e10!4m2!3m1!1s0x3403f9c3480af24b:0x7d7e7034c1a03985"
+    },
+    "local_path": "photos/ChIJS_IKSMP5AzQRhTmgwTRwfn0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjJFjzyDlnbc_qbcrDxCulSM4etV7Nw-mAMty9Fh30i0iGtf4IH9nGULvNBkhtrnBiUDvL3EBsdxr6GOHnRK3420VmPTpXv9L793jufzHkWHd48yXLMyczLu0PsNSxdQCuKSr9=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 138988
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ConnectError"
+  },
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

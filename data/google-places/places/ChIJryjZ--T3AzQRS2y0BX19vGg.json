@@ -1,0 +1,311 @@
+{
+  "google_place_id": "ChIJryjZ--T3AzQRS2y0BX19vGg",
+  "restaurant_ids": [
+    "restaurant:2296802450"
+  ],
+  "fetched_at": "2026-10-23T15:38:27.750519+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJryjZ--T3AzQRS2y0BX19vGg",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3690 1713",
+    "internationalPhoneNumber": "+852 3690 1713",
+    "formattedAddress": "香港新界粉嶺聯安街25號地舖",
+    "location": {
+      "latitude": 22.4996646,
+      "longitude": 114.14339179999999
+    },
+    "rating": 3.2,
+    "googleMapsUri": "https://maps.google.com/?cid=7547045051486202955&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 17:00 – 02:00",
+        "星期二: 17:00 – 02:00",
+        "星期三: 17:00 – 02:00",
+        "星期四: 17:00 – 02:00",
+        "星期五: 17:00 – 02:00",
+        "星期六: 17:00 – 02:00",
+        "星期日: 17:00 – 02:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 59,
+    "displayName": {
+      "text": "泰豐小廚",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJryjZ--T3AzQRS2y0BX19vGg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KMFdXMUtTamR0T0d4SmExb3dXazVKVDFob01HYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 1,
+        "text": {
+          "text": "叫豆腐底聽唔到就話人無叫\n唔好意思都唔識講句 仲要人叫返份例牌\n比$198食拼盤你叫我叫多個例牌豆腐都過分得幾誇張\n個方魚肉碎粥成個皮蛋瘦肉粥咁\n執笠啦咁既態度同食物",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "叫豆腐底聽唔到就話人無叫\n唔好意思都唔識講句 仲要人叫返份例牌\n比$198食拼盤你叫我叫多個例牌豆腐都過分得幾誇張\n個方魚肉碎粥成個皮蛋瘦肉粥咁\n執笠啦咁既態度同食物",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nicky WONG",
+          "uri": "https://www.google.com/maps/contrib/111949043750087823916/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSaJPF4mjEfi5xTQgqX9Sc8lEjiFiPxf4_4g7tEglFrMeckAst=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-17T14:22:35.747014081Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KMFdXMUtTamR0T0d4SmExb3dXazVKVDFob01HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KMFdXMUtTamR0T0d4SmExb3dXazVKVDFob01HYxAB!2m1!1s0x3403f7e4fbd928af:0x68bc7d7d05b46c4b"
+      },
+      {
+        "name": "places/ChIJryjZ--T3AzQRS2y0BX19vGg/reviews/ChdDSUhNMG9nS0VPR0dtNDZWNjZxM29nRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "餐點味道都幾好，只是坐位就要改善",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐點味道都幾好，只是坐位就要改善",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pang Shing Tong",
+          "uri": "https://www.google.com/maps/contrib/102972463783582750897/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHgTahWuPxQpAbpJI98tUXY4DtFoOk6f_8p5-jGv3TQNU7DyQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-06-02T02:44:39.207250Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VPR0dtNDZWNjZxM29nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPR0dtNDZWNjZxM29nRRAB!2m1!1s0x3403f7e4fbd928af:0x68bc7d7d05b46c4b"
+      },
+      {
+        "name": "places/ChIJryjZ--T3AzQRS2y0BX19vGg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPdmZUY2hRRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "1.鹵水拼盤\n2.椒鹽九肚魚\n3.蠔仔肉碎粥（細）\n4.小炒皇\n5.避風塘炒蟹\n6.青島啤一支\nTotal $695\n二人食，好飽飽，都幾好食嘅",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "1.鹵水拼盤\n2.椒鹽九肚魚\n3.蠔仔肉碎粥（細）\n4.小炒皇\n5.避風塘炒蟹\n6.青島啤一支\nTotal $695\n二人食，好飽飽，都幾好食嘅",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Henry Leung",
+          "uri": "https://www.google.com/maps/contrib/105007797360196635931/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKa84zfhXhAKQogVgYvgWDIoXItPaN_twMCV1YwtoMfvUqAnw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2022-06-17T13:52:39.949596Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPdmZUY2hRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPdmZUY2hRRRAB!2m1!1s0x3403f7e4fbd928af:0x68bc7d7d05b46c4b"
+      },
+      {
+        "name": "places/ChIJryjZ--T3AzQRS2y0BX19vGg/reviews/ChZDSUhNMG9nS0VJQ0FnSURPcVBDa1VBEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 2,
+        "text": {
+          "text": "5點43已經入座，點了一個金菇肥牛煲及蠔餅。肥牛煲同白飯5分鐘就上菜，蠔餅等到6:23先有，等到飯都凍曬 zzzZZZ",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "5點43已經入座，點了一個金菇肥牛煲及蠔餅。肥牛煲同白飯5分鐘就上菜，蠔餅等到6:23先有，等到飯都凍曬 zzzZZZ",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chen Perry",
+          "uri": "https://www.google.com/maps/contrib/104421216513457968360/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQiYT4kwmEb-MHScvJxCaLMR06gIWXKVYAje8XPkehhXUH1w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2022-06-26T10:34:15.644432Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPcVBDa1VBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPcVBDa1VBEAE!2m1!1s0x3403f7e4fbd928af:0x68bc7d7d05b46c4b"
+      },
+      {
+        "name": "places/ChIJryjZ--T3AzQRS2y0BX19vGg/reviews/ChZDSUhNMG9nS0VJQ0FnSURPME4tdEZBEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 2,
+        "text": {
+          "text": "1. 蠔仔粥太重胡椒味\n2. 咸菜門鱔，太多水，無乜味\n3. 韭菜豬血無乜味\n\n唔知係咪小菜會好啲，但打冷真係麻麻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "1. 蠔仔粥太重胡椒味\n2. 咸菜門鱔，太多水，無乜味\n3. 韭菜豬血無乜味\n\n唔知係咪小菜會好啲，但打冷真係麻麻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Patrick Lai",
+          "uri": "https://www.google.com/maps/contrib/115014243992512251384/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzxM_JT5GM3V3OI_cKCdqpCV3SfUy1LCCawmYIdD4bn0L7oiXh=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-06-25T13:16:06.762821Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPME4tdEZBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPME4tdEZBEAE!2m1!1s0x3403f7e4fbd928af:0x68bc7d7d05b46c4b"
+      }
+    ],
+    "menuForChildren": false,
+    "goodForChildren": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f7e4fbd928af:0x68bc7d7d05b46c4b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7547045051486202955&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f7e4fbd928af:0x68bc7d7d05b46c4b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f7e4fbd928af:0x68bc7d7d05b46c4b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f7e4fbd928af:0x68bc7d7d05b46c4b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJryjZ--T3AzQRS2y0BX19vGg/photos/Aa-ngMbd1xVt6B3hhOZ6IVpJHfns6eR_XBfgMbp1fZm4sGC7GIsmIrK0_tSb7QaGO2B0JFfvdORqELJM-doLQs-diJNWeYfx5KqVOnGeSF5n2700Mla9kZttOiiYQEIhvCIlMfAaRs4p71CBNTuQGqfx5Gj3GGZCrZtZjkZ8YOZNCt7TgSOZx1LfUQ1MPmQiyfmdyQ2JFsNDT_izUQYoF40Oh0D5s08Nh-9lvrPpKJN-RKiEI2VCDvKIRGAT-9CTfILllDRxSoo-O2VmFThL2Z3sp0FwZVGX9p0Q02BVM5fwwW-FWb00i4wV-l1v35KkKoNQJAt6XFVWSPNF50U-J39cGhOqKy2-SWcssjI4XxuZVVoW4m50aVr0nt_bRTQ6pKX-WaSHWuGPh6sHspq07mIlxQhi9A",
+      "widthPx": 1920,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "June K K",
+          "uri": "https://maps.google.com/maps/contrib/101328457240186240468",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCsmCtTp33wL1cULgnV0_YxmVi5fKf4gEV_7jCvixGB--uysjJ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC5rqTZOQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5rqTZOQ!2e10!4m2!3m1!1s0x3403f7e4fbd928af:0x68bc7d7d05b46c4b"
+    },
+    "local_path": "photos/ChIJryjZ--T3AzQRS2y0BX19vGg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdI3m8kMlkrcRKMqa5PRuRjDB1SD7cpMLdswAFNmQNdYc7_JnZ8ElE-bJ8qZWkM66AHj8VHACYb4ffwiOig0tKa6_Xo-x5BJ-NvoVLq4bP2kpKkuiM0vM57ri7xomrs9i74yt4=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 129178
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

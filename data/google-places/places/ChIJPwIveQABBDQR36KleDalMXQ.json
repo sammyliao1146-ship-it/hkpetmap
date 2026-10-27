@@ -1,0 +1,392 @@
+{
+  "google_place_id": "ChIJPwIveQABBDQR36KleDalMXQ",
+  "restaurant_ids": [
+    "restaurant:3118810727"
+  ],
+  "fetched_at": "2026-10-23T15:38:56.823629+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJPwIveQABBDQR36KleDalMXQ",
+    "types": [
+      "ramen_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港九龍尖沙咀漆咸圍1號",
+    "location": {
+      "latitude": 22.301870899999997,
+      "longitude": 114.1758572
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=8372654835629400799&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 17:00 – 21:00",
+        "星期二: 12:00 – 15:00, 17:00 – 21:00",
+        "星期三: 12:00 – 15:00, 17:00 – 21:00",
+        "星期四: 17:00 – 21:00",
+        "星期五: 12:00 – 15:00, 17:00 – 21:00",
+        "星期六: 12:00 – 15:00, 17:00 – 21:00",
+        "星期日: 12:00 – 15:00, 17:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 308,
+    "displayName": {
+      "text": "幕多 (尖沙咀)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "拉麵店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "ramen_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJPwIveQABBDQR36KleDalMXQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Ga1VGWndXWE52ZDFoNFFraHRaMHBYTlc1eVQyYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "今次喺尖沙咀試咗間近排好出名嘅「幕多」蝦拉麵店，真心覺得幾有驚喜！店面唔大，但裝潢簡潔又有少少日式風格，坐低就聞到香濃蝦味飄出嚟，肚仔即刻打鼓。\n\n我嗌咗佢哋嘅招牌蝦拉麵，湯底濃得嚟又唔會太鹹，蝦香超明顯，再加埋蝦油，第一啖就感覺到佢用咗真材實料熬出嚟。麵條彈牙啱啱好，唔會太硬，配加埋埋滑滑溏心蛋(+$15)，真係一個字——正！今日嘅精選小菜係蟶子(+$38)，夠鮮甜又唔腥，份量唔多，但質素高。\n\n店員服務都算貼心，唯一要注意係人流多，5:30外面已經排哂隊，晚餐時間可能更長龍。食到最己仲可以車個飯落去🍚如果你鐘意濃郁蝦味湯底，又唔介意等陣，呢間真係值得試試。尖沙咀行到攰嘅時候，食返碗熱辣辣蝦拉麵，超滿足～🍜🦐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次喺尖沙咀試咗間近排好出名嘅「幕多」蝦拉麵店，真心覺得幾有驚喜！店面唔大，但裝潢簡潔又有少少日式風格，坐低就聞到香濃蝦味飄出嚟，肚仔即刻打鼓。\n\n我嗌咗佢哋嘅招牌蝦拉麵，湯底濃得嚟又唔會太鹹，蝦香超明顯，再加埋蝦油，第一啖就感覺到佢用咗真材實料熬出嚟。麵條彈牙啱啱好，唔會太硬，配加埋埋滑滑溏心蛋(+$15)，真係一個字——正！今日嘅精選小菜係蟶子(+$38)，夠鮮甜又唔腥，份量唔多，但質素高。\n\n店員服務都算貼心，唯一要注意係人流多，5:30外面已經排哂隊，晚餐時間可能更長龍。食到最己仲可以車個飯落去🍚如果你鐘意濃郁蝦味湯底，又唔介意等陣，呢間真係值得試試。尖沙咀行到攰嘅時候，食返碗熱辣辣蝦拉麵，超滿足～🍜🦐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "onqqstuffies",
+          "uri": "https://www.google.com/maps/contrib/111283841847411151794/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8jEMkm9pn2qD-wozJc2VfC655xittjTq3S5Ctb2ka_JCv7l2j=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-11T06:38:10.113841091Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Ga1VGWndXWE52ZDFoNFFraHRaMHBYTlc1eVQyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ga1VGWndXWE52ZDFoNFFraHRaMHBYTlc1eVQyYxAB!2m1!1s0x34040100792f023f:0x7431a53678a5a2df"
+      },
+      {
+        "name": "places/ChIJPwIveQABBDQR36KleDalMXQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOV05UaHBWVlUyTURSWVMxTnhjM0Z6UTNrM1pYYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "地方細細但坐得算舒服 如果唔想排隊就要早啲 蝦湯十分濃郁 蝦都有經過調味 加購嘅鮑魚同蠔都唔錯 好大隻！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地方細細但坐得算舒服 如果唔想排隊就要早啲 蝦湯十分濃郁 蝦都有經過調味 加購嘅鮑魚同蠔都唔錯 好大隻！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alvin",
+          "uri": "https://www.google.com/maps/contrib/117406177260573610190/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6d5VEBqjwcoiCSYcF8pV1zwJv2t8sfxag9HGK3Q5BYD11LeEcKQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-17T07:13:14.492192837Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOV05UaHBWVlUyTURSWVMxTnhjM0Z6UTNrM1pYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOV05UaHBWVlUyTURSWVMxTnhjM0Z6UTNrM1pYYxAB!2m1!1s0x34040100792f023f:0x7431a53678a5a2df"
+      },
+      {
+        "name": "places/ChIJPwIveQABBDQR36KleDalMXQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FMFpGbFhTMHBxVEhCQmRsVkxPREZhTjFZeWJuYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "真材實料蝦湯！！！\n\n朋友果然介紹冇錯～～～飲得出成個湯係蝦造🤤超濃 面上的三隻醬油蝦超入味\n\n店員好細心排隊嘅時候已經詳細講解，仲會俾一支支裝水你🧡🧡呢個細節位真係好好 值得稱讚！從來未去過一間食肆會咁樣👏🏻👏🏻👏🏻值得支持嘅小店",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "真材實料蝦湯！！！\n\n朋友果然介紹冇錯～～～飲得出成個湯係蝦造🤤超濃 面上的三隻醬油蝦超入味\n\n店員好細心排隊嘅時候已經詳細講解，仲會俾一支支裝水你🧡🧡呢個細節位真係好好 值得稱讚！從來未去過一間食肆會咁樣👏🏻👏🏻👏🏻值得支持嘅小店",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mermaid",
+          "uri": "https://www.google.com/maps/contrib/118369857671761669036/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBNS2wNMw8JDwUvjKFONZabo-SSmBRpBwtYFoWIuJWCibhizU=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-22T13:29:59.418797908Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21FMFpGbFhTMHBxVEhCQmRsVkxPREZhTjFZeWJuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FMFpGbFhTMHBxVEhCQmRsVkxPREZhTjFZeWJuYxAB!2m1!1s0x34040100792f023f:0x7431a53678a5a2df"
+      },
+      {
+        "name": "places/ChIJPwIveQABBDQR36KleDalMXQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0cWVWTnBNR051WTFaRlMwRTJhSE5QYWtGMFVWRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "蝦湯控必試！湯底極致濃稠，掛汁力超強。醬油蝦大隻且剝好殼，非常貼心。追加的海鮮小食（蟶子/鮑魚）新鮮入味，配上拉麵非常滿足。店內雖然位置不算多，但裝修非常有型，推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "蝦湯控必試！湯底極致濃稠，掛汁力超強。醬油蝦大隻且剝好殼，非常貼心。追加的海鮮小食（蟶子/鮑魚）新鮮入味，配上拉麵非常滿足。店內雖然位置不算多，但裝修非常有型，推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anson Li",
+          "uri": "https://www.google.com/maps/contrib/104324206690402019593/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUKWIIEvFPpOlSlfrU6hJTABMXuAzrHwbWuEM_gJZF2k6XvtQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-22T12:09:48.454559784Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0cWVWTnBNR051WTFaRlMwRTJhSE5QYWtGMFVWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0cWVWTnBNR051WTFaRlMwRTJhSE5QYWtGMFVWRRAB!2m1!1s0x34040100792f023f:0x7431a53678a5a2df"
+      },
+      {
+        "name": "places/ChIJPwIveQABBDQR36KleDalMXQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CUWQzSlJVekV6ZDJkcFYwWkVNa3R1UW1GNmQyYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "朋友推介幕多拉麵，和太太放工去試，排隊入座等了約30分鐘，眼見長期約有10多人排隊輪候。\n\n全店只提供一款鮮蝦湯底拉麵，附有三隻剝咗殼的蝦，可選拉麵或刀削麵，兩款都試過，拉麵彈牙，刀削麵不是山東那種不規則的形狀及厚度，比較像扁面但厚一點，帶點靭性及好掛湯，麵份量正常。如果覺得太單調，可加$添加配菜，當天蟶子已賣完，所以加了蠔及鮑魚，入口時意外地發現彈牙又入味，推介必加。\n\n店員奉上拉麵時，即時加入蝦油，聞到陣陣香濃蝦味，吃下去湯底好濃厚，相信是用了大量鮮蝦熬製而成，鮮味十足。另外可以無限添加櫻花蝦飯團，上枱時即食但不是很熱，微暖+濕潤令到個飯好一般，可以不點。\n\n以一碗$118價錢的拉麵，可以食得出師傅的手藝，但總體感覺偏貴一些，但想食的時候仍然會去。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友推介幕多拉麵，和太太放工去試，排隊入座等了約30分鐘，眼見長期約有10多人排隊輪候。\n\n全店只提供一款鮮蝦湯底拉麵，附有三隻剝咗殼的蝦，可選拉麵或刀削麵，兩款都試過，拉麵彈牙，刀削麵不是山東那種不規則的形狀及厚度，比較像扁面但厚一點，帶點靭性及好掛湯，麵份量正常。如果覺得太單調，可加$添加配菜，當天蟶子已賣完，所以加了蠔及鮑魚，入口時意外地發現彈牙又入味，推介必加。\n\n店員奉上拉麵時，即時加入蝦油，聞到陣陣香濃蝦味，吃下去湯底好濃厚，相信是用了大量鮮蝦熬製而成，鮮味十足。另外可以無限添加櫻花蝦飯團，上枱時即食但不是很熱，微暖+濕潤令到個飯好一般，可以不點。\n\n以一碗$118價錢的拉麵，可以食得出師傅的手藝，但總體感覺偏貴一些，但想食的時候仍然會去。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jason To",
+          "uri": "https://www.google.com/maps/contrib/100619914520091418138/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPkNQODRWSv8N_k6975SBchi5JQVIeO1hyq8eehOSMwVaXcuI1=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-10T03:25:18.370867274Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CUWQzSlJVekV6ZDJkcFYwWkVNa3R1UW1GNmQyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CUWQzSlJVekV6ZDJkcFYwWkVNa3R1UW1GNmQyYxAB!2m1!1s0x34040100792f023f:0x7431a53678a5a2df"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040100792f023f:0x7431a53678a5a2df!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8372654835629400799&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040100792f023f:0x7431a53678a5a2df!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040100792f023f:0x7431a53678a5a2df!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040100792f023f:0x7431a53678a5a2df!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJPwIveQABBDQR36KleDalMXQ/photos/Aa-ngMak2EoKwwSx5OJnz8La9Ks6Bwzox02Q7hkXCC7Ed7Yj9jnKeN-L-tQ1_JTm1Vjc8I2tmAD9PL-xanHIw-Xn6J3-MqHOSgS4nYmppCcJVlz7ORa2oJUolg8DqqNjNYUfjyxN0yhQY0jWveghzOgRn8PizXKTKiNJHngTJzKRsTnG30Ha5-T7aarcFf6geGYJFUCwIg1sjS0R_793bMvg2u5VnpBr3eutb6bXQhp2MUi11z1qY3gpi2goABUtS0Y7JA6Au6Cj4roHbTVZioAUau7dfztIrKX1B-qCyhqTWM9a0CCNbxW3Cp4xKZl-ZcoFrud3cyE5ZLMtNyo0gevx5fcY5C1kLPtfxoJM-faH5wmr--1LWAb40UyJdjQDuDK4dW2tOgIixlcpMi3RNE4ng8i8XlWsv8bqw-kEUxwKLC6RVg",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "JAM Wong",
+          "uri": "https://maps.google.com/maps/contrib/117309899611266690531",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_bdsAJXEUAHU8kkSsKjeh--47jevH-yT_KK8Rjw_Z0HgR8g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBQR27a1dfJUcLpuOeONLxA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBQR27a1dfJUcLpuOeONLxA!2e10!4m2!3m1!1s0x34040100792f023f:0x7431a53678a5a2df"
+    },
+    "local_path": "photos/ChIJPwIveQABBDQR36KleDalMXQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOvLMUWrEOEOoPq3RaxMG-iQ9VInuTn8shuXcHchLFyVBHJZxKI0VenKCVsa98p4cgYdWcRrcEVYAWOW9AwT324yWyY66an8FzW3G0f_lRNAezEhiWnR1cCFxt_3ZOPAh56X1SCkrTTHbe=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 173887
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "ramen_restaurant",
+    "label": "拉麵店",
+    "types": [
+      "ramen_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,312 @@
+{
+  "google_place_id": "ChIJXYB1qvwJBDQRfEpzp27eg20",
+  "restaurant_ids": [
+    "restaurant:2295803890"
+  ],
+  "fetched_at": "2026-10-23T15:42:57.189617+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJXYB1qvwJBDQRfEpzp27eg20",
+    "types": [
+      "taiwanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "formattedAddress": "香港新界大埔汀角路",
+    "location": {
+      "latitude": 22.4546569,
+      "longitude": 114.1681167
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=7891395538920360572&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:30 – 19:30",
+        "星期二: 09:30 – 19:30",
+        "星期三: 09:30 – 19:30",
+        "星期四: 09:30 – 19:30",
+        "星期五: 09:30 – 19:30",
+        "星期六: 09:30 – 19:30",
+        "星期日: 09:30 – 19:30"
+      ],
+      "nextOpenTime": "2026-10-24T01:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 16,
+    "displayName": {
+      "text": "四季食堂 (大埔)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "台式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "taiwanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJXYB1qvwJBDQRfEpzp27eg20/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1akpxVUt3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "-新開張典型屋邨日台式餐廳。\n-價錢唔算平，性價比不高。\n-雖然炸雞，炸蝦天婦羅好食，但整體食物水準一般。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "-新開張典型屋邨日台式餐廳。\n-價錢唔算平，性價比不高。\n-雖然炸雞，炸蝦天婦羅好食，但整體食物水準一般。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fwa SmAsH",
+          "uri": "https://www.google.com/maps/contrib/103382255503163642729/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWh32Retml5KN8ZHyBSotkIQIZ78JvhjPHT2q-Ey9J8Ags_oj0=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2023-10-11T12:26:15.555550Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1akpxVUt3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1akpxVUt3EAE!2m1!1s0x340409fcaa75805d:0x6d83de6ea7734a7c"
+      },
+      {
+        "name": "places/ChIJXYB1qvwJBDQRfEpzp27eg20/reviews/ChdDSUhNMG9nS0VObTJ2b3J3amJmRG5BRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "餐廳乾淨明亮，座位舒適。點了煎馬蹄肉餅煎蛋飯，肉餅內有冬菇粒及馬蒂粒，好吃。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳乾淨明亮，座位舒適。點了煎馬蹄肉餅煎蛋飯，肉餅內有冬菇粒及馬蒂粒，好吃。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CAMilla",
+          "uri": "https://www.google.com/maps/contrib/115857582031079698325/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMgAIue25jjfXeW6yxOIz8fgMYvKc-y5STYIki-LPoqhSa68JlvQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-05-23T03:40:40.656172Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VObTJ2b3J3amJmRG5BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VObTJ2b3J3amJmRG5BRRAB!2m1!1s0x340409fcaa75805d:0x6d83de6ea7734a7c"
+      },
+      {
+        "name": "places/ChIJXYB1qvwJBDQRfEpzp27eg20/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyMExDM1V3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "幾好！拉麵塊义燒好\n牛肉飯亦不會",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "幾好！拉麵塊义燒好\n牛肉飯亦不會",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "牛羊",
+          "uri": "https://www.google.com/maps/contrib/116858053536816569685/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIsKrY2g5C-rtNr_Mg4WyqJsa1YEeiWQgA1E2KDmxmP2q-ywQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-07-03T08:27:49.809788Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNyMExDM1V3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyMExDM1V3EAE!2m1!1s0x340409fcaa75805d:0x6d83de6ea7734a7c"
+      },
+      {
+        "name": "places/ChIJXYB1qvwJBDQRfEpzp27eg20/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKd2JQODdBRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "店員有禮，但可能新開店尚在調整期間，食物都不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員有禮，但可能新開店尚在調整期間，食物都不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Shay Wu",
+          "uri": "https://www.google.com/maps/contrib/105264606721756220856/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgPC0t6lryZXZIV0RwaZCr-Rji2zIKNJJU7AUpTfBR0X_BNZM=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-06-28T17:29:08.397715Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKd2JQODdBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKd2JQODdBRRAB!2m1!1s0x340409fcaa75805d:0x6d83de6ea7734a7c"
+      },
+      {
+        "name": "places/ChIJXYB1qvwJBDQRfEpzp27eg20/reviews/ChdDSUhNMG9nS0VJQ0FnSUNidXVlUjhnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "2：30黎食，叫左個四季炒飯，等左大概15分鐘，得好細碟，食唔飽。去到埋單先知原來幫我落左做下午茶，而且下午茶應該跟熱飲？熱好立克竟然出單要$12，非常差既體驗",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2：30黎食，叫左個四季炒飯，等左大概15分鐘，得好細碟，食唔飽。去到埋單先知原來幫我落左做下午茶，而且下午茶應該跟熱飲？熱好立克竟然出單要$12，非常差既體驗",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "2K. OwO (吉茵寶寶)",
+          "uri": "https://www.google.com/maps/contrib/110644292876468337380/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUS3qQJ7YS45HX2abIXmOX6M7vvWPxO8IQqPnECOGtod8q1jvCG=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-07-26T07:37:30.477969Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNidXVlUjhnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNidXVlUjhnRRAB!2m1!1s0x340409fcaa75805d:0x6d83de6ea7734a7c"
+      }
+    ],
+    "menuForChildren": false,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340409fcaa75805d:0x6d83de6ea7734a7c!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7891395538920360572&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409fcaa75805d:0x6d83de6ea7734a7c!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340409fcaa75805d:0x6d83de6ea7734a7c!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409fcaa75805d:0x6d83de6ea7734a7c!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJXYB1qvwJBDQRfEpzp27eg20/photos/Aa-ngMZxDSpv9h3T80GQrMK1nz7kZRYQcmsMzb-yRC64KmvzsnJ4ncjtM7-tZrFqLVNya7kYjH3ZWQKIRu6ENLhLX4k21VAcfQn9rW6GOmskbaw9PSx_195xWjBUgsiYuUOdAApzKknFORli8Yu9SA8xm8cRf264B3MCqoc5W8ZxTSYMPqsNtyVgCALFzGdcCsQoJ6SQY93vyokuX41OiSiV_12xWkVMuPMWl9wz1jvk0fjiJ9t0aKIfjO85PtRiY0dS2RM4GcT1uKP6V5hfL7ikB-vFeDnFECuJbdhhWRMJB9_lbcHzPxUFWjY-7XPHDGCTIZh38sUUwAYdcN4Vapdj4pALgf-62s0yKQPNeKQAgVVSvt688QmWzlC8oQIrxE_CDsl3XBif74bWMCcIy4pnMsEwgJ_QrqQ",
+      "widthPx": 1050,
+      "heightPx": 1400,
+      "authorAttributions": [
+        {
+          "displayName": "Fwa SmAsH",
+          "uri": "https://maps.google.com/maps/contrib/103382255503163642729",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWh32Retml5KN8ZHyBSotkIQIZ78JvhjPHT2q-Ey9J8Ags_oj0=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC5jJqUuwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5jJqUuwE!2e10!4m2!3m1!1s0x340409fcaa75805d:0x6d83de6ea7734a7c"
+    },
+    "local_path": "photos/ChIJXYB1qvwJBDQRfEpzp27eg20.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjbSFMFFt5hiRhxif_LKDeqEzQ9h79Nr4M0f_BCu5O7UQVPMLwUiXkJ6q8L9Qg3mOz9Xr9CVnaYu55rHFG-w8kdM8p6FHw5xjhLZGP-wRU32sfFuGoBSwqGcWF3FRaT_Z2YSPQ6w=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 186482
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "taiwanese_restaurant",
+    "label": "台式餐廳",
+    "types": [
+      "taiwanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

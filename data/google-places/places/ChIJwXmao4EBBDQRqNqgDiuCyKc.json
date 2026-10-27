@@ -1,0 +1,339 @@
+{
+  "google_place_id": "ChIJwXmao4EBBDQRqNqgDiuCyKc",
+  "restaurant_ids": [
+    "restaurant:3111804631"
+  ],
+  "fetched_at": "2026-10-23T15:42:22.807482+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJwXmao4EBBDQRqNqgDiuCyKc",
+    "types": [
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6621 0302",
+    "internationalPhoneNumber": "+852 6621 0302",
+    "formattedAddress": "香港香港島北角錦屏街38號A1鋪",
+    "location": {
+      "latitude": 22.2898444,
+      "longitude": 114.2000405
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=12090056321116723880&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.dozyhk.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:30 – 18:30",
+        "星期二: 09:30 – 18:30",
+        "星期三: 09:30 – 18:30",
+        "星期四: 09:30 – 18:30",
+        "星期五: 09:30 – 18:30",
+        "星期六: 09:30 – 18:30",
+        "星期日: 09:30 – 18:30"
+      ],
+      "nextOpenTime": "2026-10-24T01:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 158,
+    "displayName": {
+      "text": "DOZY",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJwXmao4EBBDQRqNqgDiuCyKc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sR1MxTmtkRTFFWjA5dE5rRktkVzEzWDFadlUzYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "北角幸福大樓地下的Pet Friendly Cafe，工業風配植物，室內外座位舒適。推介特調咖啡、豐富Brunch、Matcha Latte、明太子蟹肉意粉及每日限量豆腐芝士蛋糕。適合帶狗狗來享受慢活時光。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "北角幸福大樓地下的Pet Friendly Cafe，工業風配植物，室內外座位舒適。推介特調咖啡、豐富Brunch、Matcha Latte、明太子蟹肉意粉及每日限量豆腐芝士蛋糕。適合帶狗狗來享受慢活時光。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "maksim kwong",
+          "uri": "https://www.google.com/maps/contrib/115275119946788330777/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYjhMyezoseR5ckVgVAE3hiHtIicrnYu6IV_TDOAp4IX9L9g=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-02-15T13:48:24.641046988Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sR1MxTmtkRTFFWjA5dE5rRktkVzEzWDFadlUzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sR1MxTmtkRTFFWjA5dE5rRktkVzEzWDFadlUzYxAB!2m1!1s0x34040181a39a79c1:0xa7c8822b0ea0daa8"
+      },
+      {
+        "name": "places/ChIJwXmao4EBBDQRqNqgDiuCyKc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVdFlXaGZNVk5OVG0xRVVHUk5NVk01YTBWSVNIYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "✨必試推薦: 豆腐芝士蛋糕\n呢個真係招牌，質地好軟滑，豆腐味好清香，唔會太甜，仲灑咗紅糖模仿豆腐花造型，好ig-able！\n\n套餐配左杯🍵 Matcha Latte\n抹茶味算濃，唔苦唔澀，奶泡細滑，甜度大概係「三分甜」，穩陣之選～\n\n❌極度不建議：🍝 蒜香柚子牛油魷魚意粉\n名好似好勁，但食落真係好奇怪…牛油味好濃但帶一陣怪怪嘅「發酵」味，醬汁仲有啲酸，同魷魚完全唔夾，魷魚仲要偏韌😭唔好挑戰自己味蕾🙅‍♀️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "✨必試推薦: 豆腐芝士蛋糕\n呢個真係招牌，質地好軟滑，豆腐味好清香，唔會太甜，仲灑咗紅糖模仿豆腐花造型，好ig-able！\n\n套餐配左杯🍵 Matcha Latte\n抹茶味算濃，唔苦唔澀，奶泡細滑，甜度大概係「三分甜」，穩陣之選～\n\n❌極度不建議：🍝 蒜香柚子牛油魷魚意粉\n名好似好勁，但食落真係好奇怪…牛油味好濃但帶一陣怪怪嘅「發酵」味，醬汁仲有啲酸，同魷魚完全唔夾，魷魚仲要偏韌😭唔好挑戰自己味蕾🙅‍♀️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "hoiyuen Cheng",
+          "uri": "https://www.google.com/maps/contrib/110852971811063862088/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJw1JnGuYa1qtbElHx5XKLx64beqVi78nfAY56poq_YXXg4Tg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-01T10:45:58.385098036Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tVdFlXaGZNVk5OVG0xRVVHUk5NVk01YTBWSVNIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVdFlXaGZNVk5OVG0xRVVHUk5NVk01YTBWSVNIYxAB!2m1!1s0x34040181a39a79c1:0xa7c8822b0ea0daa8"
+      },
+      {
+        "name": "places/ChIJwXmao4EBBDQRqNqgDiuCyKc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwelFtVnRXR2RZY0hBMU1GaGpUVUZ6VTFwcGNFRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好耐之前去過Dozy深水埗第一間店，今次嚟到北角屋企附近嘅分店，依然走簡約水泥風環境好chill🩶 嘢食大份又好食，價錢又唔貴👍🏻\n\n煙三文魚牛油果溫泉蛋芥末忌廉貝果 $98\n: Brunch favourite! 原味Bagel塗上芥末醬，配上牛油果、煙三文魚及溫泉蛋，健康又飽肚😍\n\n明太子醬溫泉蛋蟹肉意粉 $108\n: 有大量蟹肉同蟹籽口感脆卜卜幾特別；明太子辣辣地幾惹味～\n\n豆腐芝士蛋糕 $58\n: 豆腐味夠突出，配黃糖充滿懷舊中式豆腐花嘅感覺～\n\nMatcha Latte $45\n: 超靚高難度拉花😆 抹茶香醇幼滑帶淡淡回甘🍵\n\nNothing $58\n: 芝麻咖啡超級濃郁🖤 芝麻醬口感沙沙配熱咖啡好夾！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好耐之前去過Dozy深水埗第一間店，今次嚟到北角屋企附近嘅分店，依然走簡約水泥風環境好chill🩶 嘢食大份又好食，價錢又唔貴👍🏻\n\n煙三文魚牛油果溫泉蛋芥末忌廉貝果 $98\n: Brunch favourite! 原味Bagel塗上芥末醬，配上牛油果、煙三文魚及溫泉蛋，健康又飽肚😍\n\n明太子醬溫泉蛋蟹肉意粉 $108\n: 有大量蟹肉同蟹籽口感脆卜卜幾特別；明太子辣辣地幾惹味～\n\n豆腐芝士蛋糕 $58\n: 豆腐味夠突出，配黃糖充滿懷舊中式豆腐花嘅感覺～\n\nMatcha Latte $45\n: 超靚高難度拉花😆 抹茶香醇幼滑帶淡淡回甘🍵\n\nNothing $58\n: 芝麻咖啡超級濃郁🖤 芝麻醬口感沙沙配熱咖啡好夾！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodstalkers HK",
+          "uri": "https://www.google.com/maps/contrib/110636117604878276114/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUu4S_IPC3or3Eq_qO1-_53E3bk4yMIGv-QHoY9ZEXvYCBmFVQW=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-11-30T09:14:08.666413754Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwelFtVnRXR2RZY0hBMU1GaGpUVUZ6VTFwcGNFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwelFtVnRXR2RZY0hBMU1GaGpUVUZ6VTFwcGNFRRAB!2m1!1s0x34040181a39a79c1:0xa7c8822b0ea0daa8"
+      },
+      {
+        "name": "places/ChIJwXmao4EBBDQRqNqgDiuCyKc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOT1gyWmFSVFJGWWtoR1dtcHdSM0ZwY0dwVWVsRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "Pet Friendly Cafe 位置低調但環境舒服，加埋啲綠色植物，感覺好有生活感 ☕🌳\n\nCafe 有室內同戶外座位，天氣涼涼地嗰陣，帶埋狗狗過嚟 Hea下感覺好自在 🐶🐾\n\n🌞 Chole $68\n呢杯特調咖啡幾有心思，上層係泡沫，中間係咖啡，底層係百香果果肉加 Tonic，仲有薄荷葉做裝飾。入口有啲似 Mocktail 有啲驚喜～\n\n🥓 Dozy Brunch Set $108\n成個 Brunch Set 有煙三文魚、大啡菇、燒蕃茄、法蘭克福腸、酸種多士、炒蛋同沙律菜，配搭豐富。最特別係個柚子忌廉芝士醬 🍋🧀 味道清新，令成碟 Brunch Set 更有記憶點。\n\n💚 Matcha Latte $45\n用日本抹茶粉沖製，茶香味突出，牛奶比例調得啱啱好，口感順滑，仲有超靚拉花打卡！\n\n🦀 明太子醬溫泉蛋蟹肉意粉 $108\n蟹肉份量唔少，明太子醬帶些少辣味，撈埋溫泉蛋一齊食，鍾意日系 Fusion 意粉嘅朋友應該會啱食。\n\n🍰 豆腐芝士蛋糕 $58\n每日限量！入口輕盈，豆腐味突出，芝士味偏淡，有啲黃糖同黃豆粉，啱晒食完 Brunch 之後仲想食甜品但又唔想太 Heavy 嘅朋友。\n\n有時生活真係要俾自己一啲唞氣位，唔使做嘢太搏命，搵個空間畀自己靜靜咁坐低，飲吓咖啡陪吓狗，享受屬於自己同佢嘅 We Time 🚶🏻‍♀️‍➡️🐕‍🦺",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Pet Friendly Cafe 位置低調但環境舒服，加埋啲綠色植物，感覺好有生活感 ☕🌳\n\nCafe 有室內同戶外座位，天氣涼涼地嗰陣，帶埋狗狗過嚟 Hea下感覺好自在 🐶🐾\n\n🌞 Chole $68\n呢杯特調咖啡幾有心思，上層係泡沫，中間係咖啡，底層係百香果果肉加 Tonic，仲有薄荷葉做裝飾。入口有啲似 Mocktail 有啲驚喜～\n\n🥓 Dozy Brunch Set $108\n成個 Brunch Set 有煙三文魚、大啡菇、燒蕃茄、法蘭克福腸、酸種多士、炒蛋同沙律菜，配搭豐富。最特別係個柚子忌廉芝士醬 🍋🧀 味道清新，令成碟 Brunch Set 更有記憶點。\n\n💚 Matcha Latte $45\n用日本抹茶粉沖製，茶香味突出，牛奶比例調得啱啱好，口感順滑，仲有超靚拉花打卡！\n\n🦀 明太子醬溫泉蛋蟹肉意粉 $108\n蟹肉份量唔少，明太子醬帶些少辣味，撈埋溫泉蛋一齊食，鍾意日系 Fusion 意粉嘅朋友應該會啱食。\n\n🍰 豆腐芝士蛋糕 $58\n每日限量！入口輕盈，豆腐味突出，芝士味偏淡，有啲黃糖同黃豆粉，啱晒食完 Brunch 之後仲想食甜品但又唔想太 Heavy 嘅朋友。\n\n有時生活真係要俾自己一啲唞氣位，唔使做嘢太搏命，搵個空間畀自己靜靜咁坐低，飲吓咖啡陪吓狗，享受屬於自己同佢嘅 We Time 🚶🏻‍♀️‍➡️🐕‍🦺",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Connie Cheng",
+          "uri": "https://www.google.com/maps/contrib/115937954908604810264/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjBIWHx-T3HJAaW5_oa2XtfoJouyqGKDbzMXdTB6DyZAWjjtQb=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-21T09:33:08.986269180Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOT1gyWmFSVFJGWWtoR1dtcHdSM0ZwY0dwVWVsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOT1gyWmFSVFJGWWtoR1dtcHdSM0ZwY0dwVWVsRRAB!2m1!1s0x34040181a39a79c1:0xa7c8822b0ea0daa8"
+      },
+      {
+        "name": "places/ChIJwXmao4EBBDQRqNqgDiuCyKc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5dVpIRnBOMG94Um1sUWRIUlROMFJEU0ROUWRtYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "寵物友善咖啡店，我今日去咗北角分店 好多人都帶咗狗狗一齊食嘢chill🤘🏻比較開放式設計，主要係梳化同高枱，樓底高顯得空間感大\n\n👓豆腐芝士蛋糕 $58\n質感軟滑，豆腐同芝士味balance幾好，好清新，面頭灑上黃糖食落更有豆腐花感覺，重點 唔甜！係招牌甜品見每一台客人都有叫嚟食😋\n\n👓楓糖蘋果燕麥美式鬆餅 $88\n有三層pancake，夾雜住燕麥蘋果碎，配料好香好夾感覺又健康，不過配曲奇雪糕唔太夾🤣\n\n👓蒜香柚子牛油魷魚八爪魚意粉 $128\n呈獻黃色賣相似落咗黃薑粉，有啲洋蔥櫻花蝦，唔太明顯蒜香味，反而有輕微辣辣地，亦有少少好似檸檬汁嘅酸味。依款嘅味道唔算特別好食，可以選擇其他！\n\n👓Mocha Iced$50\n第一啖只係飲到苦嘅咖啡味，之後先飲到少少朱古力味濃，可可味冇乜，面頭有一層可可粉\n\n👓Hojicha Latte Iced$50\n有啲失望焙茶味好淡，唔夠濃郁、比較奶。職員表示原本會落煉奶吊味，少甜的話就落少啲。不過我覺得味道唔算好出色，相比吓反而食物好啲\n\n📍 Dozy (北角分店)\n北角錦屏街38號幸福大廈地下A1號舖\n深水埗基隆街199號地舖\n土瓜灣馬頭圍道63號啟岸地下18號舖\n中環皇后大道中99號中環中心1樓5B號舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "寵物友善咖啡店，我今日去咗北角分店 好多人都帶咗狗狗一齊食嘢chill🤘🏻比較開放式設計，主要係梳化同高枱，樓底高顯得空間感大\n\n👓豆腐芝士蛋糕 $58\n質感軟滑，豆腐同芝士味balance幾好，好清新，面頭灑上黃糖食落更有豆腐花感覺，重點 唔甜！係招牌甜品見每一台客人都有叫嚟食😋\n\n👓楓糖蘋果燕麥美式鬆餅 $88\n有三層pancake，夾雜住燕麥蘋果碎，配料好香好夾感覺又健康，不過配曲奇雪糕唔太夾🤣\n\n👓蒜香柚子牛油魷魚八爪魚意粉 $128\n呈獻黃色賣相似落咗黃薑粉，有啲洋蔥櫻花蝦，唔太明顯蒜香味，反而有輕微辣辣地，亦有少少好似檸檬汁嘅酸味。依款嘅味道唔算特別好食，可以選擇其他！\n\n👓Mocha Iced$50\n第一啖只係飲到苦嘅咖啡味，之後先飲到少少朱古力味濃，可可味冇乜，面頭有一層可可粉\n\n👓Hojicha Latte Iced$50\n有啲失望焙茶味好淡，唔夠濃郁、比較奶。職員表示原本會落煉奶吊味，少甜的話就落少啲。不過我覺得味道唔算好出色，相比吓反而食物好啲\n\n📍 Dozy (北角分店)\n北角錦屏街38號幸福大廈地下A1號舖\n深水埗基隆街199號地舖\n土瓜灣馬頭圍道63號啟岸地下18號舖\n中環皇后大道中99號中環中心1樓5B號舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Suki Tai",
+          "uri": "https://www.google.com/maps/contrib/111378374081289989227/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbCUDE-dN054Ja_VoGNC02o1IRA6FgAc-L2DTiSVgsxYu4-3Zf=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-13T19:19:15.006289903Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5dVpIRnBOMG94Um1sUWRIUlROMFJEU0ROUWRtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5dVpIRnBOMG94Um1sUWRIUlROMFJEU0ROUWRtYxAB!2m1!1s0x34040181a39a79c1:0xa7c8822b0ea0daa8"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040181a39a79c1:0xa7c8822b0ea0daa8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12090056321116723880&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040181a39a79c1:0xa7c8822b0ea0daa8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040181a39a79c1:0xa7c8822b0ea0daa8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040181a39a79c1:0xa7c8822b0ea0daa8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJwXmao4EBBDQRqNqgDiuCyKc/photos/Aa-ngMZ2OAIUYxX0hs-H6nmCHQDmDRNSi-sKkUVhDxt1SodYS5r2D0nlu990sT0NhDCk7lvWrkTwFXUBS-rh66OV5XZmM5_6mXTj6vjEC7BDrM_R8gbAXj7H9QH2-vM3C1D9AP_IxchWUIkWWpoh3XFBT2XmlRZ7gaQumFN4KrVGzGoC0119MpSxcIrnugW0AohkaQbifCwsWj6x49K1HNwNl0pcG6eIDTKvFBQHxDbulfR5o3XIhlEpUrgoYI7oXD1sIbyJz4NQZK8CB7TpeWMys7shQE-tWMuXH4mVddz0QpFqKa4X0gpuSh3y5nxmbnOR4cEatUb_9wJ-GwHkAoPNMNOT7jB9aflFFIhEG6XeTRrXjvwE-O-x6tXfmuDBgB2MHu8hSu0EZYbraeyO0nJzVsG-CIRS",
+      "widthPx": 1290,
+      "heightPx": 726,
+      "authorAttributions": [
+        {
+          "displayName": "DOZY",
+          "uri": "https://maps.google.com/maps/contrib/105182105212261077176",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpAQdah2dgeawYk8kI76tmcEsTwI6i5UAwKE-ID8-mc7nJwR6C=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDjuKH_-AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjuKH_-AE!2e10!4m2!3m1!1s0x34040181a39a79c1:0xa7c8822b0ea0daa8"
+    },
+    "local_path": "photos/ChIJwXmao4EBBDQRqNqgDiuCyKc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpOoWBV6BENWlrJdDil4_GeCLDCYrDfzLuoaGLhpNBx6SaffwONOyJYkhQDdoX45LWdxbd_0SiLdixCoss1wcj2ybwwBvxdDzXP7zaCZCcaDMgJOTF-P46KdwnFz0-v8Zs_oUp=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 102095
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.dozyhk.com/menu",
+        "label": "Menu",
+        "source_url": "https://www.dozyhk.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.dozyhk.com/menu"
+}

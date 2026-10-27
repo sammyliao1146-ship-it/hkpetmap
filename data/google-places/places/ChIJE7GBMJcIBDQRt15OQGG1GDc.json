@@ -1,0 +1,332 @@
+{
+  "google_place_id": "ChIJE7GBMJcIBDQRt15OQGG1GDc",
+  "restaurant_ids": [
+    "restaurant:2297810221"
+  ],
+  "fetched_at": "2026-10-23T15:42:51.756700+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJE7GBMJcIBDQRt15OQGG1GDc",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2676 6900",
+    "internationalPhoneNumber": "+852 2676 6900",
+    "formattedAddress": "香港新界科學園Unit S031, Building 8WPhase 2 Pak Shek Kok, Shatin, NT",
+    "location": {
+      "latitude": 22.42613,
+      "longitude": 114.21198509999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=3970122500822425271&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 21:00",
+        "星期二: 08:00 – 21:00",
+        "星期三: 08:00 – 21:00",
+        "星期四: 08:00 – 21:00",
+        "星期五: 08:00 – 21:00",
+        "星期六: 11:00 – 21:00",
+        "星期日: 11:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 321,
+    "displayName": {
+      "text": "Food Lab Bistro + Cafe",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJE7GBMJcIBDQRt15OQGG1GDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GSVdXUm1YMGhETlZWYVJFSkpYMWxMWlhBeVMxRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這間餐廳環境氣氛都很好，菜式美味亦健康，咖啡靚，價錢亦很合理。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間餐廳環境氣氛都很好，菜式美味亦健康，咖啡靚，價錢亦很合理。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Madame Claud",
+          "uri": "https://www.google.com/maps/contrib/102147495266699555735/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIjqPBEuNZvcHczkrqDXNJpmzYYXY4Kvv4UP2thM6BSuUFV0A=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-04-04T13:21:20.998893343Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GSVdXUm1YMGhETlZWYVJFSkpYMWxMWlhBeVMxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GSVdXUm1YMGhETlZWYVJFSkpYMWxMWlhBeVMxRRAB!2m1!1s0x340408973081b113:0x3718b561404e5eb7"
+      },
+      {
+        "name": "places/ChIJE7GBMJcIBDQRt15OQGG1GDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oT2FWOTBTRUZoT0hoMloydEtjRVJ2WTBVdFZGRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "同朋友喺科學園食lunch，搵到呢間「Food Lab」真心驚喜！食物高質得嚟好注重健康，食材配搭有心思，絕對係有誠意嘅一餐。\n\n我們試咗兩款招牌：青醬大蝦意粉絕對有驚喜——意粉掛滿濃郁羅勒醬，大蝦爽口彈牙，加入爆汁車厘茄，清新又開胃😋！另一款更見心思，紅米底配上三文魚，再加紅蘿蔔🥕、青瓜🥒、藜麥、紫洋蔥同牛油果🥑，顏色繽紛似幅畫，而且好好味，視覺同味覺同時享受。\n\n環境方面仲要勁chill，落地玻璃，光線充足，坐得闊落舒服。一路同朋友傾偈、享受美食、打卡，望住出面藍天同園景，真係 relax 到唔捨得走～好適合同朋友或家人來慢慢聚餐。\n\n職員有禮到不得了，最感動係我叫咗件生日蛋糕🍰，老闆竟然同成班職員一齊唱生日歌，仲幫手影相留念，真係好有 heart🥰！呢份人情味再加滿分食物，絕對會再 encore！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "同朋友喺科學園食lunch，搵到呢間「Food Lab」真心驚喜！食物高質得嚟好注重健康，食材配搭有心思，絕對係有誠意嘅一餐。\n\n我們試咗兩款招牌：青醬大蝦意粉絕對有驚喜——意粉掛滿濃郁羅勒醬，大蝦爽口彈牙，加入爆汁車厘茄，清新又開胃😋！另一款更見心思，紅米底配上三文魚，再加紅蘿蔔🥕、青瓜🥒、藜麥、紫洋蔥同牛油果🥑，顏色繽紛似幅畫，而且好好味，視覺同味覺同時享受。\n\n環境方面仲要勁chill，落地玻璃，光線充足，坐得闊落舒服。一路同朋友傾偈、享受美食、打卡，望住出面藍天同園景，真係 relax 到唔捨得走～好適合同朋友或家人來慢慢聚餐。\n\n職員有禮到不得了，最感動係我叫咗件生日蛋糕🍰，老闆竟然同成班職員一齊唱生日歌，仲幫手影相留念，真係好有 heart🥰！呢份人情味再加滿分食物，絕對會再 encore！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "meow Meow",
+          "uri": "https://www.google.com/maps/contrib/107277668607931717945/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLyAmuCrrL5fdBCSResvY-z2nUeEhtjbDYWY4FNcVFke9eS0w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-12T14:33:11.652751303Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oT2FWOTBTRUZoT0hoMloydEtjRVJ2WTBVdFZGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oT2FWOTBTRUZoT0hoMloydEtjRVJ2WTBVdFZGRRAB!2m1!1s0x340408973081b113:0x3718b561404e5eb7"
+      },
+      {
+        "name": "places/ChIJE7GBMJcIBDQRt15OQGG1GDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOSFVIZEpXV3RZZDFwSGJuUlpRbkZVU1hKVVVXYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "值得被看見的餐廳\n環境舒服\n食物質素亦唔錯\n有食過佢地嘅早餐都好ok",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "值得被看見的餐廳\n環境舒服\n食物質素亦唔錯\n有食過佢地嘅早餐都好ok",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alice Lau",
+          "uri": "https://www.google.com/maps/contrib/100352393482460230465/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKdDxQR6HiUVBfsfgkphrczsw_So9gin5AtztxXIb8UVgEnQw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-07T16:09:46.583815630Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOSFVIZEpXV3RZZDFwSGJuUlpRbkZVU1hKVVVXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOSFVIZEpXV3RZZDFwSGJuUlpRbkZVU1hKVVVXYxAB!2m1!1s0x340408973081b113:0x3718b561404e5eb7"
+      },
+      {
+        "name": "places/ChIJE7GBMJcIBDQRt15OQGG1GDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wamVGUmlWemRSVmxsaFkzbFRjbVJ5Ym1oS1VuYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "佢哋新嘅戶外空間真係幾好，又chill又毛孩friendly，D狗狗好似玩得勁開心！仲有個brunch menu唔錯，有脆雞waffle，mcgriddles, 雞泡菜意粉，同肉眼扒，都好正✌️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "佢哋新嘅戶外空間真係幾好，又chill又毛孩friendly，D狗狗好似玩得勁開心！仲有個brunch menu唔錯，有脆雞waffle，mcgriddles, 雞泡菜意粉，同肉眼扒，都好正✌️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Virginia Ho",
+          "uri": "https://www.google.com/maps/contrib/104392711526701320973/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJj36ewzdlhaSlpb4_YclwL23j1EKIx4JUB32ILwaC7Z5AnYA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-08-23T12:09:08.131641684Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wamVGUmlWemRSVmxsaFkzbFRjbVJ5Ym1oS1VuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wamVGUmlWemRSVmxsaFkzbFRjbVJ5Ym1oS1VuYxAB!2m1!1s0x340408973081b113:0x3718b561404e5eb7"
+      },
+      {
+        "name": "places/ChIJE7GBMJcIBDQRt15OQGG1GDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5eFh6YzRhbWR4Ukhsd1RGUkVjUzEzY204eVlsRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 1,
+        "text": {
+          "text": "食他的豬扒一嚿石頭冇聞冇味，要求換？結果等了一 45分鐘還沒有上菜\n多台食客的牛扒每一次都要更換 這個廚師認真酒樓大家切勿再來進食. . 伏",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食他的豬扒一嚿石頭冇聞冇味，要求換？結果等了一 45分鐘還沒有上菜\n多台食客的牛扒每一次都要更換 這個廚師認真酒樓大家切勿再來進食. . 伏",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "陳活著",
+          "uri": "https://www.google.com/maps/contrib/114690235595239848295/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAIUGvtka5eFs741LVxwHft7iT_PTH3HwfcKmFu3NC3Wo7VW4=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-08-30T11:36:49.653965623Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5eFh6YzRhbWR4Ukhsd1RGUkVjUzEzY204eVlsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5eFh6YzRhbWR4Ukhsd1RGUkVjUzEzY204eVlsRRAB!2m1!1s0x340408973081b113:0x3718b561404e5eb7"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340408973081b113:0x3718b561404e5eb7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3970122500822425271&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340408973081b113:0x3718b561404e5eb7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340408973081b113:0x3718b561404e5eb7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340408973081b113:0x3718b561404e5eb7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJE7GBMJcIBDQRt15OQGG1GDc/photos/Aa-ngMb924xYfXUekjPEpBsNo7Elh9j8WmMnFQAtwlRI0zyqSYfMV-bpmKfCD1JxM5j5hvrVLjf6DeP7SPpJ8Dno_rVL0JyVhu8DLxKRwgJv36U0mM2CHFCY6SHVPF3w_-ptc466O1gAnhRMKAAGaDBEltjl5yDMCxA8wJBZ00ijmTFtUY-3C26mtaiLLqKU2lPxA_3caNfyehnyATcoz6Y1PHqkXTQCyy5QhD6tq0MCvwaNnLLTkkbWFF1wn-GBkInKdW14QoTmpFy8WqQb8BiQ7zhwj5hAs1k6G6LjCe16lRkBqwZXftHXX1Mm9UPukNJ95i8b1D2DdXJsKt981MGB8_y0MlXyjC2uJes6qD-VotVkvcZiRepIG-IxDqC7j0iv8M-8M_Ving__qnS3n_MNiN4URIwdMtk",
+      "widthPx": 1748,
+      "heightPx": 1536,
+      "authorAttributions": [
+        {
+          "displayName": "Food Lab Bistro + Cafe",
+          "uri": "https://maps.google.com/maps/contrib/108481254396214328446",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-NlvK_5BA8cxIyRSbT3lwrG-Gys1gZL_CouyJlAkfIN80MWo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDD38vz_gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD38vz_gE!2e10!4m2!3m1!1s0x340408973081b113:0x3718b561404e5eb7"
+    },
+    "local_path": "photos/ChIJE7GBMJcIBDQRt15OQGG1GDc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLduDS3JTGlOgEIUSW3jssAoOI5kLzT-CK1j2ezUFTVfV-xPAsXPxxaDYEo8Vx1xtLe6lLITCdTqgSkLonV5Z0v3bu3KiNPzz1SzMlEM9SCY61nhTLnSXvog41Rx5SK7wb4VsniLVg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 180123
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

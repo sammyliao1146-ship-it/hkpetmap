@@ -1,0 +1,55 @@
+{
+  "by_licence": {},
+  "by_brand": [
+    {
+      "pattern": "^%\\s*Arabica$",
+      "cuisines": [
+        "咖啡／輕食"
+      ],
+      "source_url": "https://arabica.coffee/"
+    },
+    {
+      "pattern": "^PRET A MANGER$",
+      "cuisines": [
+        "咖啡／輕食"
+      ],
+      "source_url": "https://www.pret.hk/"
+    },
+    {
+      "pattern": "^PIZZA MARU$",
+      "cuisines": [
+        "韓式",
+        "意式／薄餅"
+      ],
+      "source_url": "https://www.pizzamaru.com.hk/"
+    },
+    {
+      "pattern": "^ASK FOR ALONZO$",
+      "cuisines": [
+        "意式／薄餅"
+      ],
+      "source_url": "https://www.askforalonzo.com/"
+    },
+    {
+      "pattern": "^PIZZAEXPRESS$",
+      "cuisines": [
+        "意式／薄餅"
+      ],
+      "source_url": "https://www.pizzaexpress.com.hk/"
+    },
+    {
+      "pattern": "^STARBUCKS COFFEE$",
+      "cuisines": [
+        "咖啡／輕食"
+      ],
+      "source_url": "https://www.starbucks.com.hk/en/catalog/category/view/s/coffees/id/74/"
+    },
+    {
+      "pattern": "^TONKICHI$",
+      "cuisines": [
+        "日式"
+      ],
+      "source_url": "https://tonkichi.com.hk/"
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "google_place_id": "ChIJ6ePbpuUJBDQRq68vmi27WW0",
+  "restaurant_ids": [
+    "restaurant:2295001652"
+  ],
+  "fetched_at": "2026-10-23T15:48:32.431337+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ6ePbpuUJBDQRq68vmi27WW0",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2657 6610",
+    "internationalPhoneNumber": "+852 2657 6610",
+    "formattedAddress": "地下A舖, Hung Lam Dr, Tai Po Kau, New Territories, 香港",
+    "location": {
+      "latitude": 22.435974500000004,
+      "longitude": 114.1889408
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=7879534827596132267&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.lake-house.co/levow",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 16:30, 18:00 – 22:00",
+        "星期二: 11:00 – 16:30, 18:00 – 22:00",
+        "星期三: 11:00 – 16:30, 18:00 – 22:00",
+        "星期四: 11:00 – 16:30, 18:00 – 22:00",
+        "星期五: 11:00 – 16:30, 18:00 – 22:00",
+        "星期六: 10:00 – 16:45, 18:00 – 22:00",
+        "星期日: 10:00 – 16:45, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 270,
+    "displayName": {
+      "text": "金鷺湖",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ6ePbpuUJBDQRq68vmi27WW0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGb1VVeDJiWEJTZVRaM1lrMVBUWGhOT0dSTFVrRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "環境夠Grand, 闊落空間感十足\n員工服務好，有禮貌，helpful👍🏻\n食物水準，大部份都好好，唯一砵酒生蠔麻麻哋。\n可惜餐牌上有很多菜式都話賣晒，但當晚其實很少枱客， 而且我哋7:00已經點餐\n8:30已經last order，9:30要清場😹",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境夠Grand, 闊落空間感十足\n員工服務好，有禮貌，helpful👍🏻\n食物水準，大部份都好好，唯一砵酒生蠔麻麻哋。\n可惜餐牌上有很多菜式都話賣晒，但當晚其實很少枱客， 而且我哋7:00已經點餐\n8:30已經last order，9:30要清場😹",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lucille Cheung",
+          "uri": "https://www.google.com/maps/contrib/101609620767618445879/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJMmKIi1w64F5OtfWqYk9j_GcIrKZn_xH0TQbOeGtRKSrtl7A=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-09-07T03:56:47.127713506Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGb1VVeDJiWEJTZVRaM1lrMVBUWGhOT0dSTFVrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGb1VVeDJiWEJTZVRaM1lrMVBUWGhOT0dSTFVrRRAB!2m1!1s0x340409e5a6dbe3e9:0x6d59bb2d9a2fafab"
+      },
+      {
+        "name": "places/ChIJ6ePbpuUJBDQRq68vmi27WW0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWUVdGbFpUMDVEYlZocllYaEpRak4wUVVKalpsRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "5星係比暑假兒童活動，整個餐廳ge vibe 都係親子，年輕，活力。雖然飲茶大概一千蚊，都仍然覺得物超所值👍建議每年暑假都舉辦。食物質素中上，但因為用餐時間較短，又要兼顧小孩滿場飛，食得有d趕。 如果下次有同樣活動，都會再黎，大人食得開心，小朋友玩得開心🤭員工主動，有禮。免費泊車。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "5星係比暑假兒童活動，整個餐廳ge vibe 都係親子，年輕，活力。雖然飲茶大概一千蚊，都仍然覺得物超所值👍建議每年暑假都舉辦。食物質素中上，但因為用餐時間較短，又要兼顧小孩滿場飛，食得有d趕。 如果下次有同樣活動，都會再黎，大人食得開心，小朋友玩得開心🤭員工主動，有禮。免費泊車。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ivy Lau",
+          "uri": "https://www.google.com/maps/contrib/113230790215846559934/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKad-9PzQDkJPqMMv3GHhx7SgiXJxY9w3cPHB3qltCGXmUGsw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-29T08:23:05.227675391Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWUVdGbFpUMDVEYlZocllYaEpRak4wUVVKalpsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWUVdGbFpUMDVEYlZocllYaEpRak4wUVVKalpsRRAB!2m1!1s0x340409e5a6dbe3e9:0x6d59bb2d9a2fafab"
+      },
+      {
+        "name": "places/ChIJ6ePbpuUJBDQRq68vmi27WW0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VNFdYWm9kRWxGZWxOcVRGQTJOSGRNYlZKWldVRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "最近發現咗一個好正嘅地方, 去整點心workshop ，一步一步跟住點心師傅整就OK，好好玩\n\n整完點心就緊係要飲埋茶，有靚靚湖景打卡位，仲有好多款造型嘅點心，款款都好可愛\n\n最後係積木遊戲區同埋巨型打卡公仔，真係啱晒小朋友",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最近發現咗一個好正嘅地方, 去整點心workshop ，一步一步跟住點心師傅整就OK，好好玩\n\n整完點心就緊係要飲埋茶，有靚靚湖景打卡位，仲有好多款造型嘅點心，款款都好可愛\n\n最後係積木遊戲區同埋巨型打卡公仔，真係啱晒小朋友",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fin Fin",
+          "uri": "https://www.google.com/maps/contrib/111829137538301391714/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJe08DAg30bJ-6vbWSGIK4IqvR3RAlKnY9T0_aBKSTy2tpc=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-27T12:36:20.926715584Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VNFdYWm9kRWxGZWxOcVRGQTJOSGRNYlZKWldVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VNFdYWm9kRWxGZWxOcVRGQTJOSGRNYlZKWldVRRAB!2m1!1s0x340409e5a6dbe3e9:0x6d59bb2d9a2fafab"
+      },
+      {
+        "name": "places/ChIJ6ePbpuUJBDQRq68vmi27WW0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pseldETnlWVkJ6UkRKRlVEVm5lalJKVmpnMmFsRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "我們兩人點了六款點心，主要是想看鬱金香呢，所以再訪此地，事先看了天氣報告，以為有藍天白雲，怎料天陰呢，也好，不用晒了。\n\n鵪鶉蛋燒賣因裡面放了鵪鶉蛋，沒其他燒賣豐富肉餡的味道，相形失色，這可以不用嘗試。\n\n奶黃包內餡甜而不膩，有奶黃香味，令人想一嘗再嘗，外皮鬆軟。\n\n啤梨子咸水角很多餡，但沒特別。\n\n叉燒包，少數偏鹹的口味，如重口味人士一定很喜歡，留意吃完後牙齒會有點變黑，如初次約會可留意一下。\n\n為了應節便叫了蘿蔔糕，外層有蝦滑，不得了這兩個食材互相映襯，帶起對方的鮮味及蘿蔔的甜味，推薦。\n\n到了最後每次都很推薦的紅米蝦腸，太美味了，令人失去語言能力的程度呢，外韌內脆，裡面那層脆衣炸得很好呢，我們都吃得很開心。\n\n建議訂位才來，因我們入座不久便滿座了，如需要泊車位可事先通知一下。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我們兩人點了六款點心，主要是想看鬱金香呢，所以再訪此地，事先看了天氣報告，以為有藍天白雲，怎料天陰呢，也好，不用晒了。\n\n鵪鶉蛋燒賣因裡面放了鵪鶉蛋，沒其他燒賣豐富肉餡的味道，相形失色，這可以不用嘗試。\n\n奶黃包內餡甜而不膩，有奶黃香味，令人想一嘗再嘗，外皮鬆軟。\n\n啤梨子咸水角很多餡，但沒特別。\n\n叉燒包，少數偏鹹的口味，如重口味人士一定很喜歡，留意吃完後牙齒會有點變黑，如初次約會可留意一下。\n\n為了應節便叫了蘿蔔糕，外層有蝦滑，不得了這兩個食材互相映襯，帶起對方的鮮味及蘿蔔的甜味，推薦。\n\n到了最後每次都很推薦的紅米蝦腸，太美味了，令人失去語言能力的程度呢，外韌內脆，裡面那層脆衣炸得很好呢，我們都吃得很開心。\n\n建議訂位才來，因我們入座不久便滿座了，如需要泊車位可事先通知一下。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pawmi",
+          "uri": "https://www.google.com/maps/contrib/109782439735665745300/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUw7HXwnZOWBmRNub5HVJL6z9SuD7tpBHC_34KMkyTghcEG03gpfg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-22T12:05:32.226169831Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pseldETnlWVkJ6UkRKRlVEVm5lalJKVmpnMmFsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pseldETnlWVkJ6UkRKRlVEVm5lalJKVmpnMmFsRRAB!2m1!1s0x340409e5a6dbe3e9:0x6d59bb2d9a2fafab"
+      },
+      {
+        "name": "places/ChIJ6ePbpuUJBDQRq68vmi27WW0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOc1ExOXpiMVJHWVRSTE4ySXlTVlpmTVZkbWVYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "暑假嚟到大埔白鷺湖畔LakeHouse內中式餐廳\n今個暑假有精緻點心 仲有免費活動\n「點心工作坊 」🧆\n有專業師傅手把手教小朋友可以整屬於自己嘅卡通點心 整完可愛真到唔捨得食😍\n即整即炸脆卜卜\n舒舒服服飲個茶嘆下點心享受一下\n\n創意點心推介\n\n- 「檸檬哥」鹹牛肉芝士角\n外皮炸得金黃酥脆，微微黏糯的口感，鹹牛肉香氣濃郁（DIY工作坊點心）\n\n-金鷺湖金魚餃\n造型精緻得意，蝦爽口彈牙\n\n- 「雪妹」香滑奶皇包\n包質鬆軟，裡面奶皇餡香濃順滑，奶香十足\n\n-梅菜滷肉天鵝酥\n酥皮鬆化，經典梅菜扣肉入餡，創新得嚟好惹味\n\n🖤-懷舊芝麻卷\n芝麻味極之濃郁，口感滑溜兼帶少少彈牙，甜度適中，完美嘅甜品結尾",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "暑假嚟到大埔白鷺湖畔LakeHouse內中式餐廳\n今個暑假有精緻點心 仲有免費活動\n「點心工作坊 」🧆\n有專業師傅手把手教小朋友可以整屬於自己嘅卡通點心 整完可愛真到唔捨得食😍\n即整即炸脆卜卜\n舒舒服服飲個茶嘆下點心享受一下\n\n創意點心推介\n\n- 「檸檬哥」鹹牛肉芝士角\n外皮炸得金黃酥脆，微微黏糯的口感，鹹牛肉香氣濃郁（DIY工作坊點心）\n\n-金鷺湖金魚餃\n造型精緻得意，蝦爽口彈牙\n\n- 「雪妹」香滑奶皇包\n包質鬆軟，裡面奶皇餡香濃順滑，奶香十足\n\n-梅菜滷肉天鵝酥\n酥皮鬆化，經典梅菜扣肉入餡，創新得嚟好惹味\n\n🖤-懷舊芝麻卷\n芝麻味極之濃郁，口感滑溜兼帶少少彈牙，甜度適中，完美嘅甜品結尾",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sin yee Fung",
+          "uri": "https://www.google.com/maps/contrib/106069648747126635661/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7rhlDvAdK8TenTTmHzuPkSOJVrh8H0oJWWYdaMl_5S_VHn4w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-19T03:22:33.494348957Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOc1ExOXpiMVJHWVRSTE4ySXlTVlpmTVZkbWVYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOc1ExOXpiMVJHWVRSTE4ySXlTVlpmTVZkbWVYYxAB!2m1!1s0x340409e5a6dbe3e9:0x6d59bb2d9a2fafab"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340409e5a6dbe3e9:0x6d59bb2d9a2fafab!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7879534827596132267&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409e5a6dbe3e9:0x6d59bb2d9a2fafab!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340409e5a6dbe3e9:0x6d59bb2d9a2fafab!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409e5a6dbe3e9:0x6d59bb2d9a2fafab!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ6ePbpuUJBDQRq68vmi27WW0/photos/Aa-ngMYBbdpfSGoF2GX8UlsMuDDJMkzOUcjvwtDIFtjv7xtMONcRZEIi7sIGeZx4v7H5v0eeb54zqFBssXhq-JcnOawq3m5KrykTqI1l7LT4bAHe-HKiKEa7i0LwdFAdHcz6zRqc9FsgQCoch08sVQXEVhu0nRGLdVIm_R6RPt5Ls8rFDDZlM65fHMdcXTLR2IlTncFHwmPhAz74BExofnVU2am8-iBtH6x-xzeY7_GJFnbxBnQdXc9V6XP99AYHxryPwUubzcqk0fhApwLM4yECgHprwXXgVeYWXBffpfdtnv1j_VoHNfRTmbvSV8eEih15atNrKxdpP7DOQlhTuvu1S5FodR5fnyx6iQME_shJtQTxFdtZj1O4vwoxssfYlwQhq0xO6rJalE2dS8-hkf5iYyZT4w",
+      "widthPx": 3276,
+      "heightPx": 4094,
+      "authorAttributions": [
+        {
+          "displayName": "金鷺湖 Le vow",
+          "uri": "https://maps.google.com/maps/contrib/113162428221136536190",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkfDhZbUDur21B2a0nfrOtb_ktR-xzus7GhMPfnCnj2VSOag=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICaiIasKw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICaiIasKw!2e10!4m2!3m1!1s0x340409e5a6dbe3e9:0x6d59bb2d9a2fafab"
+    },
+    "local_path": "photos/ChIJ6ePbpuUJBDQRq68vmi27WW0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLehl0__qClmtm-guooukYUmRcBYoOY2Xhx-CdultIthVHMRfHaGFEPzsuuH7uICfb5nL6Ib38yt-FB6YVbW01dH4yQs7bDQFkZOgjyc_ZR_9HFGulSdjEnqtj9HMTU3HiWiTdQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 153394
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "http://book.bistrochat.com/le-vow",
+        "label": "Book a table (Online Reservation) >",
+        "source_url": "https://www.lake-house.co/levow",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://dbad9ddd-0d4b-499a-ab7b-dd3bcdb73f4c.usrfiles.com/ugd/dbad9d_decf685f0aa641649c162a19f5490e22.pdf",
+        "label": "A La Carte",
+        "source_url": "https://www.lake-house.co/levow",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "http://book.bistrochat.com/le-vow",
+  "menu_url": "https://dbad9ddd-0d4b-499a-ab7b-dd3bcdb73f4c.usrfiles.com/ugd/dbad9d_decf685f0aa641649c162a19f5490e22.pdf"
+}

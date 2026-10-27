@@ -1,0 +1,311 @@
+{
+  "google_place_id": "ChIJVbxSPQD_AzQR3Kh1hL3RKwo",
+  "restaurant_ids": [
+    "restaurant:2214188701"
+  ],
+  "fetched_at": "2026-10-23T15:41:36.999925+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJVbxSPQD_AzQR3Kh1hL3RKwo",
+    "types": [
+      "barbecue_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5464 1083",
+    "internationalPhoneNumber": "+852 5464 1083",
+    "formattedAddress": "香港香港島半山般咸道地下1D鋪",
+    "location": {
+      "latitude": 22.284810999999998,
+      "longitude": 114.141746
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=732909976279165148&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/chillskewer/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 23:30",
+        "星期二: 11:00 – 23:30",
+        "星期三: 11:00 – 23:30",
+        "星期四: 11:00 – 23:30",
+        "星期五: 11:00 – 23:30",
+        "星期六: 11:00 – 23:30",
+        "星期日: 11:00 – 23:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 13,
+    "displayName": {
+      "text": "潮串屋",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "燒烤料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "barbecue_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJVbxSPQD_AzQR3Kh1hL3RKwo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21reFJWOXlaRmRPUjA4d1VHSnBaMDVPUzFVMVZYYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "午市淨係得雙餸飯同幾個小菜，晚市先有串燒\n雙餸套餐$58 份量都算大，有老火湯\n老闆好人，午市都燒咗隻蠔比我試，好味 😋\n下次晚市再嚟過試埋d串燒先！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午市淨係得雙餸飯同幾個小菜，晚市先有串燒\n雙餸套餐$58 份量都算大，有老火湯\n老闆好人，午市都燒咗隻蠔比我試，好味 😋\n下次晚市再嚟過試埋d串燒先！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Riley Kwok",
+          "uri": "https://www.google.com/maps/contrib/106227462447462290709/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3e6UgU8HtSda_WpFhZGOcMWJel36RkB4afSpT5fkJcviInyPwBw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-10-11T04:59:12.958530334Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21reFJWOXlaRmRPUjA4d1VHSnBaMDVPUzFVMVZYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21reFJWOXlaRmRPUjA4d1VHSnBaMDVPUzFVMVZYYxAB!2m1!1s0x3403ff003d52bc55:0xa2bd1bd8475a8dc"
+      },
+      {
+        "name": "places/ChIJVbxSPQD_AzQR3Kh1hL3RKwo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvNVkwZEhha0p0ZGs5dVZYWkNUWEJRVFZOdlluYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "幫襯了兩次，食物調味都好食，價錢又抵\n員工態度好\n\n事前留了海鮮，餐廳會當日去揀料買料，唔靚或者唔啱會通知\n\n希望係呢個經濟環境下頂得住，值得幫襯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "幫襯了兩次，食物調味都好食，價錢又抵\n員工態度好\n\n事前留了海鮮，餐廳會當日去揀料買料，唔靚或者唔啱會通知\n\n希望係呢個經濟環境下頂得住，值得幫襯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lilith So",
+          "uri": "https://www.google.com/maps/contrib/113061826837320300048/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhWKZsgbvCkstalq8M5SiiWyDEyO5VPIR6NQP29qrTkF5T3vx7=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-06-22T06:15:51.618124481Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvNVkwZEhha0p0ZGs5dVZYWkNUWEJRVFZOdlluYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvNVkwZEhha0p0ZGs5dVZYWkNUWEJRVFZOdlluYxAB!2m1!1s0x3403ff003d52bc55:0xa2bd1bd8475a8dc"
+      },
+      {
+        "name": "places/ChIJVbxSPQD_AzQR3Kh1hL3RKwo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sV1IydDFhM0pTYWxrM1VuQjFUMmxDTlRoc01tYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 3,
+        "text": {
+          "text": "店員態度良好，生蠔美味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員態度良好，生蠔美味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "chan carson",
+          "uri": "https://www.google.com/maps/contrib/108390630893632715695/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLCMXMswk0h8XFQVljiCtUUFmcS4HkVbvx-KQNu8o5J0FI_=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-14T11:38:20.326632167Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sV1IydDFhM0pTYWxrM1VuQjFUMmxDTlRoc01tYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sV1IydDFhM0pTYWxrM1VuQjFUMmxDTlRoc01tYxAB!2m1!1s0x3403ff003d52bc55:0xa2bd1bd8475a8dc"
+      },
+      {
+        "name": "places/ChIJVbxSPQD_AzQR3Kh1hL3RKwo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RNFMyazVZbU5YTTNVM1J6bDBOa1JrWVU1RFpWRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "價錢合理 味道好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "價錢合理 味道好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Bella_Fa",
+          "uri": "https://www.google.com/maps/contrib/108235581489426493958/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqeHaptR7DoGB2b0HkUsrBeZ_n6XFffxHENUGFD2dqtGTvgw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-06-22T12:43:44.375102638Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RNFMyazVZbU5YTTNVM1J6bDBOa1JrWVU1RFpWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RNFMyazVZbU5YTTNVM1J6bDBOa1JrWVU1RFpWRRAB!2m1!1s0x3403ff003d52bc55:0xa2bd1bd8475a8dc"
+      },
+      {
+        "name": "places/ChIJVbxSPQD_AzQR3Kh1hL3RKwo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJeGN6Q3V3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "真心不錯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "真心不錯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "J S",
+          "uri": "https://www.google.com/maps/contrib/109637251945455318413/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvmwAfwRn27DkhaeakE55e7suRR4j2hW63VIuBapj1LtWJ_hYm=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-04-03T12:13:29.077832Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJeGN6Q3V3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJeGN6Q3V3RRAB!2m1!1s0x3403ff003d52bc55:0xa2bd1bd8475a8dc"
+      }
+    ],
+    "menuForChildren": false,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff003d52bc55:0xa2bd1bd8475a8dc!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=732909976279165148&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff003d52bc55:0xa2bd1bd8475a8dc!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff003d52bc55:0xa2bd1bd8475a8dc!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff003d52bc55:0xa2bd1bd8475a8dc!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJVbxSPQD_AzQR3Kh1hL3RKwo/photos/Aa-ngMb7qi20s_ePLqAAyQGErdWIdToz5FF2Jk2lr0uUltoO_9YwcUJ_9O-jX_S1PK3huTiWm2i5X4pajiEbk7JPHJG-neD1pmAkdzTWOSBHB0yxi5CWzvv7YsUAFL8xkbVtNdUyyw9Ykru5BHlAyGaZCCYaDe0vj7r5VeBKjorqlEYR_YYzLt7yu4r-j-5NnEA6SNCphR4hZ1gw2JCIwK-Lpx39an8N9WTycq8TwxOSoEjxfyuAq_LfkeC79hrJwjrgDCFHMglVvkWiPowmwz42fTGyEuCfHlcPZvIx5lvmOHABXXaoYXCkCVlXwyxj6pErS83UcsbXFF7BRu2uPhuzRnYskFEkqpTSnrisuhd-pJejTPq2ahU99H7xsq6zjDSq-9rsqecqzjnPyotDfu_pd5_ttVPPKYG3ayA9O-RciDmDsQ",
+      "widthPx": 4624,
+      "heightPx": 3472,
+      "authorAttributions": [
+        {
+          "displayName": "Riley Kwok",
+          "uri": "https://maps.google.com/maps/contrib/106227462447462290709",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3e6UgU8HtSda_WpFhZGOcMWJel36RkB4afSpT5fkJcviInyPwBw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAgTlXUVyYhqonRfVDPQk_s&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAgTlXUVyYhqonRfVDPQk_s!2e10!4m2!3m1!1s0x3403ff003d52bc55:0xa2bd1bd8475a8dc"
+    },
+    "local_path": "photos/ChIJVbxSPQD_AzQR3Kh1hL3RKwo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLepMLzEIfXPQiQuQz_nDSP22Do2kTfgmYHTTueleFVTaVlneYdiZOLRFeKn84T6ZYMzRxYbjEYJsObGonjQl69jCucJoBuJ9kqqOOL2Dxydkw4eOBmk0gwHaAP0p-7cXYwrWwUW6CUv1ale=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 141045
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "barbecue_restaurant",
+    "label": "燒烤料理餐廳",
+    "types": [
+      "barbecue_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

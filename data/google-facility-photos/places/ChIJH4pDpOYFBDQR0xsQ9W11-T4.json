@@ -1,0 +1,43 @@
+{
+  "id": "ChIJH4pDpOYFBDQR0xsQ9W11-T4",
+  "types": [
+    "veterinary_care",
+    "pet_store",
+    "pet_care",
+    "supplier",
+    "store",
+    "service",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界西貢宜春街66號",
+  "location": {
+    "latitude": 22.380519400000004,
+    "longitude": 114.2716075
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4537787214675844051&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Pets Central Sai Kung Animal Hospital 西貢動物醫院",
+    "languageCode": "en"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJH4pDpOYFBDQR0xsQ9W11-T4/photos/Aa-ngMYoHI6dQnaOEFpYXux-7N3m7SC6jyNIPOD8m0KM4-hg_tsR92LH5QS-l4AGeybm1CG7cRc6BYZQ5_sRksWHUpMfDg1xwJQ5djfugNWz-g_pUYu8q7SWzoiDHdaRZq0qp_nbojLDymOSShWz6Z2hZphrX6xiC7-VFwVp-iryXaqYNLPwCKFk7zP1xshwBdo7N5tNN2B-jB19bskDITzdHXT034NW70D_ZAvq8ckU7KcSXKKsIdBPs-2Uc1psjfLwKgtG60jBMh4iuDmouwKpStBBRjTww-ah6_okOegH7wXRDwJVlKGssboTWQQyGqVSMZY7P6Xvw5Zk9sOc1A05oHkh7v1vpI4biBfzBdx_prfzKDLYCFFBRso_AzDUFD8RCzOBc_-mFLJXzi3lIV53WjsgIVzR",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Sunny Hiker",
+          "uri": "https://maps.google.com/maps/contrib/109501787441195662508",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVS4qRfqQjwmv-Od3Aa7X3Uy-Nsfd3Z4rT32L9yqOFCnMrXP26AEA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6s72tpAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6s72tpAE!2e10!4m2!3m1!1s0x340405e6a4438a1f:0x3ef9756df5101bd3"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:51.683489+00:00"
+}

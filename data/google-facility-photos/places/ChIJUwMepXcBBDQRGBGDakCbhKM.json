@@ -1,0 +1,38 @@
+{
+  "id": "ChIJUwMepXcBBDQRGBGDakCbhKM",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "G/F, 256 Shau Kei Wan Rd, Shau Kei Wan, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.280141,
+    "longitude": 114.22511360000001
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11782713226075246872&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "動物緊急醫療中心",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJUwMepXcBBDQRGBGDakCbhKM/photos/Aa-ngMa7Bp2IBJcePpqa26ShWZWcizyuZ1fIN7hrF4tsg2U88u5MKyuLdCPqx7faAVJOWYQhRnslQmuyQJSffWYfWSfmG5-vkm92EbR5A1w8VRqZVVV4lvjM_RzXdFz7ZMdLeXs_un18zU25blK9dGlPmUR_lsK9MTpCXcxwurQrKtMyjwhRYizduQILyciFtPU5mOsFj3Y6A7JcjIiAfpNdZd5WiGG25qkA_Cn4ZiYuHXFCB7ruk86SwXoEKMEKYb8MmBYsvl0CeXg4-gWm7Ft-Sf0qwZhPfYXngVJe-qxZAKYiNsdfjuhqdGKtM0ChykFiQro8AZjUMll_Zqb9n1wsyBM7hmSik9h-vKTtNcWJiKg8E976GMl8RUhzcAG0sMb3HMBWiB9i5r4kbg49R4CdIzsvPwI",
+      "widthPx": 1080,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "24 hours Animal Emergency Centre 24小時動物急診中心",
+          "uri": "https://maps.google.com/maps/contrib/100359297278759450841",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQx11Awf122Q2foJvo894xtQyrqs5tGaIJdUt88w_KVzaYNWJE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICn_LGIRg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn_LGIRg!2e10!4m2!3m1!1s0x34040177a51e0353:0xa3849b406a831118"
+    }
+  ],
+  "photo_count": 8,
+  "fetched_at": "2026-10-24T00:38:28.730799+00:00"
+}

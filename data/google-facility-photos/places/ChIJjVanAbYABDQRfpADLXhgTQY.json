@@ -1,0 +1,38 @@
+{
+  "id": "ChIJjVanAbYABDQRfpADLXhgTQY",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "號地下, 22 Apliu St, Sham Shui Po, Kowloon, 香港",
+  "location": {
+    "latitude": 22.327143,
+    "longitude": 114.166102
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=454125206701838462&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "九龍貓醫院",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJjVanAbYABDQRfpADLXhgTQY/photos/Aa-ngMaW8p5cLedjdcyEPZBPECLhQTde_K10UGLXiIG3Zxw9ZMWhCz93NmXEMKSICv6LbdUGNMx6Cd0hY0WTsJuL1eCtBGH2AENlQKFjqD5wqBDdvH-3B6Z6K7ww_YTx-xojHExTI-hYbpfdJIjAq-Q3DKkFo47wpusbzroSjQdZMHrLT-3MCknTWAuq-0-UXWBtUhj5cxsizM6z54U7vxEM7qBicK1d1ami0RU5qDyD0MmK-3RI48okyKDxD1zqcTbIDnCR1qCKYj9gI6Vh9EUKtNDAua8J7DJNpJr-bC2kn-om1DlomxH5wUqnOcYoZsCXaDfjA_tl0YnsVDXlmBc-zLwwUj3BFC07nnEhiSxeSMD8kOEPK50COFCIANZ-33mbnkKPaHT7CVIrFXHhZYTD4rCuyYk",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Kelvin Chan",
+          "uri": "https://maps.google.com/maps/contrib/103875332479216941174",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKyzd5vTtXf2MpEUybDi1wsC01b5uIH0YsS8nxa_oI8D0YqgQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDkxb_-Pg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDkxb_-Pg!2e10!4m2!3m1!1s0x340400b601a7568d:0x64d60782d03907e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:39.986829+00:00"
+}

@@ -1,0 +1,332 @@
+{
+  "google_place_id": "ChIJrf-hxDYJBDQRkIU9pQhkL-0",
+  "restaurant_ids": [
+    "restaurant:2295000172"
+  ],
+  "fetched_at": "2026-10-23T15:40:18.873890+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJrf-hxDYJBDQRkIU9pQhkL-0",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2947 6633",
+    "internationalPhoneNumber": "+852 2947 6633",
+    "formattedAddress": "香港新界船灣",
+    "location": {
+      "latitude": 22.472703,
+      "longitude": 114.2302588
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=17090989099189110160&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.yl.hk/bb",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 23:00",
+        "星期二: 11:00 – 23:00",
+        "星期三: 11:00 – 23:00",
+        "星期四: 11:00 – 23:00",
+        "星期五: 11:00 – 23:00",
+        "星期六: 11:00 – 23:00",
+        "星期日: 11:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 335,
+    "displayName": {
+      "text": "BB開心棧 (客家菜)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJrf-hxDYJBDQRkIU9pQhkL-0/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4NGRfTW9BRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "雨天到訪，別有一番風味。師傅手勢不錯，BB豆腐很嫩，酒煮生蠔很入味，生蠔很鮮美，蓮藕排骨湯說是無味精，也很好喝，雞煲很香。愜意的晚上！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "雨天到訪，別有一番風味。師傅手勢不錯，BB豆腐很嫩，酒煮生蠔很入味，生蠔很鮮美，蓮藕排骨湯說是無味精，也很好喝，雞煲很香。愜意的晚上！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kevin HE",
+          "uri": "https://www.google.com/maps/contrib/116921247330949154545/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3oIGzDR3E5sHsn-KhZ5LsxDBtodBUuSwG3brn9GqS_IzzodUp=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-05-19T14:20:29.253117Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4NGRfTW9BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4NGRfTW9BRRAB!2m1!1s0x34040936c4a1ffad:0xed2f6408a53d8590"
+      },
+      {
+        "name": "places/ChIJrf-hxDYJBDQRkIU9pQhkL-0/reviews/ChdDSUhNMG9nS0VJQ0FnSURobWRIeHZRRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "曾經覺得這裡的小菜很有特色，味道獨特，不知是時日過去口味變了，還是水準下滑，有一種大不如前的感覺。也許，最好的味道都在回憶裡。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "曾經覺得這裡的小菜很有特色，味道獨特，不知是時日過去口味變了，還是水準下滑，有一種大不如前的感覺。也許，最好的味道都在回憶裡。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yolanda Cheung",
+          "uri": "https://www.google.com/maps/contrib/112466039618787523748/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJ-c3ixhUlVbJorHpS8J2IYzJfqOwa4lAGBYAQWNXq8D_kcOsW=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-03-12T14:06:17.395784Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURobWRIeHZRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURobWRIeHZRRRAB!2m1!1s0x34040936c4a1ffad:0xed2f6408a53d8590"
+      },
+      {
+        "name": "places/ChIJrf-hxDYJBDQRkIU9pQhkL-0/reviews/ChRDSUhNMG9nS0VJQ0FnSUN5aF9wSBAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "今天去BB開心棧旁的日本餐廳（名料理），是同一個停車場，可坐戶外/內，戶外有个酒吧，刺生新鮮，〈其他今天沒試〉價錢不太高，合理。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今天去BB開心棧旁的日本餐廳（名料理），是同一個停車場，可坐戶外/內，戶外有个酒吧，刺生新鮮，〈其他今天沒試〉價錢不太高，合理。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "To Terry (SML)",
+          "uri": "https://www.google.com/maps/contrib/107109154790884267704/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPXfrbo2e6H84dO2n5RjACZTlYaQGdNthhRIg-spxeODAzKlU=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2021-02-15T07:15:06.595597Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSUN5aF9wSBAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSUN5aF9wSBAB!2m1!1s0x34040936c4a1ffad:0xed2f6408a53d8590"
+      },
+      {
+        "name": "places/ChIJrf-hxDYJBDQRkIU9pQhkL-0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtLWFTRzVnRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "平民客家村菜，午飯於此二人餐，不能多点。就决定試鹽焗雞，及久遺的客家煎釀豆腐(香港老式東江菜，早已少有，多以普通鯪魚豬肉釀交待，根本不是老味道).\n誰知一等1小時多，厨房因有夜宴準備，根本应付吾到客人。难為只有老闆娘2, 3人招呼客人。\n鹽焗鷄很夠味，吃下，似走地鷄，肉質實。釀豆腐是即做，所以等了一小時。但仍不是以前東江客家味，可能因缺了用咸鱼蓉混入豬肉釀。而豆腐是好吃的山水豆腐，却不适宜煎釀。所以仍不及舊時的客家煎釀豆腐，是蒸而不是煎。\n最後加点了煎藕餅，算是可以。大姐招呼熱情，可惜人手不足，地方，不算豪华，但也寬敞，有大細枱。一般般",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平民客家村菜，午飯於此二人餐，不能多点。就决定試鹽焗雞，及久遺的客家煎釀豆腐(香港老式東江菜，早已少有，多以普通鯪魚豬肉釀交待，根本不是老味道).\n誰知一等1小時多，厨房因有夜宴準備，根本应付吾到客人。难為只有老闆娘2, 3人招呼客人。\n鹽焗鷄很夠味，吃下，似走地鷄，肉質實。釀豆腐是即做，所以等了一小時。但仍不是以前東江客家味，可能因缺了用咸鱼蓉混入豬肉釀。而豆腐是好吃的山水豆腐，却不适宜煎釀。所以仍不及舊時的客家煎釀豆腐，是蒸而不是煎。\n最後加点了煎藕餅，算是可以。大姐招呼熱情，可惜人手不足，地方，不算豪华，但也寬敞，有大細枱。一般般",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Andrew Lam",
+          "uri": "https://www.google.com/maps/contrib/110498584745761251624/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI82jcxs4we66VL0aiS4OAMVSEWkUNB_Xt5tG-v7dcNz9kbKQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-12-04T13:32:47.114209Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtLWFTRzVnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtLWFTRzVnRRAB!2m1!1s0x34040936c4a1ffad:0xed2f6408a53d8590"
+      },
+      {
+        "name": "places/ChIJrf-hxDYJBDQRkIU9pQhkL-0/reviews/ChZDSUhNMG9nS0VJQ0FnSUM0NGF5X1lnEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 2,
+        "text": {
+          "text": "豆腐不錯，外脆內軟！萵筍$88 好細碟唔抵食，椒鹽鮮尤咸到差d入唔到口！上菜很慢, 味道一般！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "豆腐不錯，外脆內軟！萵筍$88 好細碟唔抵食，椒鹽鮮尤咸到差d入唔到口！上菜很慢, 味道一般！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mandy Seto",
+          "uri": "https://www.google.com/maps/contrib/108170415890370699205/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK3ATOfE58D8nQ_85W-W9-UhkO4KX9QhSUdgeRUEWdP6FGn0w=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2019-06-09T01:23:45.517232Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM0NGF5X1lnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM0NGF5X1lnEAE!2m1!1s0x34040936c4a1ffad:0xed2f6408a53d8590"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040936c4a1ffad:0xed2f6408a53d8590!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17090989099189110160&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040936c4a1ffad:0xed2f6408a53d8590!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040936c4a1ffad:0xed2f6408a53d8590!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040936c4a1ffad:0xed2f6408a53d8590!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJrf-hxDYJBDQRkIU9pQhkL-0/photos/Aa-ngMZREFR6xOT9f6ht-vQkeiBfklpf8jlPyMLYE5ef_Lb23S63VEGvWi8e65j-DQ9cZNfBCpm2qyq2F66KPUpygkVibp-Xli69BFiNfBcim0dIl2n6ld8r1KqzJ8U4dNoUB-TWnXdDjtzPC7lV1viQkZR_Afi9TBJFUnYHIko9WxRD8nZfSEC0Njoc4XrRXgNvX2LC7i0DckaOXqnypQKtioeJGSgV-gwvk5ol-rlenblDyjrPIfZ_f-PtwfD7ULSF4byPKa--OTu93C-061uCfbUgBNweNqti5K_VpH9QIowl75uPrWAXgNKnyKty5tKSAHeB-ee3p_u-JuS7ogXxIbowVnsJ5FdwTomMIcSc4FXb8ebEbW-_IDIuV6XUYZ4KhSKex-O7oHCq3EowKvk4gaJku-eO",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "beergal",
+          "uri": "https://maps.google.com/maps/contrib/115505202488282188572",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxtgEr8x3aXQBOb4QZXa_hGK5i8a3hPSlTYun4uvMxH0M0mKc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICdhILXwAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdhILXwAE!2e10!4m2!3m1!1s0x34040936c4a1ffad:0xed2f6408a53d8590"
+    },
+    "local_path": "photos/ChIJrf-hxDYJBDQRkIU9pQhkL-0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ67RaiJc5BuN_V7RaatYVtLGCbJf4y3R_PRrurgmfc8tQg7wt90o-nS5-AKAyOecHPnMo4CwBLyOqDu7bqytGOByxZKmGjxBAxHAvB2V9Ze-DVahTjiGLmVfSww3v40_WsLhF=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 180371
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

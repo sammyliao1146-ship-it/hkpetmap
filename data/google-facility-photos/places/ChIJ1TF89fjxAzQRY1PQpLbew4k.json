@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ1TF89fjxAzQRY1PQpLbew4k",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界元朗福德街20號地下2號鋪",
+  "location": {
+    "latitude": 22.4456626,
+    "longitude": 114.02861469999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9927022879685235555&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Ginkgo Veterinary Hospital",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJ1TF89fjxAzQRY1PQpLbew4k/photos/Aa-ngMaI0iqCCPz7B5dOveNb-m5-c6omtYzQFAep3zEAJ68GH9BzU1P5JayuLbK23kFwKoYK7A864fLRAPaQdLRoFN7fLz4YuGJzKptnABapXrRoyj3vXuNagBOD5v0JnjZtZpWsHPkyJBqVDPcCcNYi_bTbZAXGB59LcR2oRcwZZLxJiw4VwXfQ1b5CfphRwiQLN2uPXME5kWu5NqYrltA6VG5OKShpDJ0TysSG4EzzaZA0rv0YqJQyVSNfRolNGlfde0cdCxGNJdbr_ElWAu7Q7utPkTedgZ_DZjZoH1t_wozmwQzwCVOScJVycOLIYIeghG8sszUINRr3VM5wj62AiGJ-7o7mJ7F4J77HUQI0FFZzVVgTVP5Qid-ahemp2UMWhJ8OBEf35ps4pxJcFIliKHCJIcMM",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Scottie Drivel",
+          "uri": "https://maps.google.com/maps/contrib/117866986040081184950",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIygM2UtBpm5ADD8uLDo2XpjvK1mY7SFU4hhQgnEF7s4TZkpA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhvIDEzQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhvIDEzQE!2e10!4m2!3m1!1s0x3403f1f8f57c31d5:0x89c3deb6a4d05363"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:48.309280+00:00"
+}

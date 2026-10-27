@@ -1,0 +1,38 @@
+{
+  "id": "ChIJLYezikv3AzQRDa7hnkncZX8",
+  "types": [
+    "pet_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界錦田大江埔村",
+  "location": {
+    "latitude": 22.449813199999998,
+    "longitude": 114.07671619999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9179985624220937741&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Pet Supreme",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "service",
+  "photos": [
+    {
+      "name": "places/ChIJLYezikv3AzQRDa7hnkncZX8/photos/Aa-ngMbSQy0RB3Yjtqbl0D3oG-9H5JZvVO0DfAnJlmIRjoU5nDsGZd5ruAfvpTCBK_e-mmIVcwhpNe_UqkTsPdMxQJs3GZpuALDVmNoYXxXE4QOD8a-NIeeILkyDLQeRzMW6ruz8kW6hqHXQ_mH-2_e9ha3vEm--ikf6PeXhJdDtFcj-kM9ESbPEv0H8OKZavCoWLZNm8_ZmWqdib5kJqSJMCays8LdydZC_ikbgLwpmTsP8zNbrh3Qwg4bCMRQ5QHhy1SqvDmaxToacG5ZKFV3pS2RLlPMH2-Mpm87T5Ul6DZcqhUZ8fHhydRsjJrsmYijvURq3eDNmrLwJQbzZ6bwoQIfPpqiwKQTnFD9d--j8afmJ0jt3RFL8-8a5kkHcBSFj8sP7MUuGMYMm1igx-IkywVLp7Kw",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Pet Supreme",
+          "uri": "https://maps.google.com/maps/contrib/116761801147622526282",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa8NF-3-ArjX6ga-4j0MxASqPN8JX79UOSfgUWQw8iI6LyeIo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKrOnYMg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKrOnYMg!2e10!4m2!3m1!1s0x3403f74b8ab3872d:0x7f65dc499ee1ae0d"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:09.538983+00:00"
+}

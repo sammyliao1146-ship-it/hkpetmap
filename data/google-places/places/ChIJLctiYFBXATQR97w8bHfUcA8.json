@@ -1,0 +1,318 @@
+{
+  "google_place_id": "ChIJLctiYFBXATQR97w8bHfUcA8",
+  "restaurant_ids": [
+    "restaurant:3117800598"
+  ],
+  "fetched_at": "2026-10-23T15:38:19.236971+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJLctiYFBXATQR97w8bHfUcA8",
+    "types": [
+      "barbecue_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "8489 3143",
+    "internationalPhoneNumber": "+852 8489 3143",
+    "formattedAddress": "香港新界長洲新興街65號",
+    "location": {
+      "latitude": 22.2094998,
+      "longitude": 114.02883609999999
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=1112622717342629111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 20:00",
+        "星期二: 12:00 – 20:00",
+        "星期三: 12:00 – 20:00",
+        "星期四: 12:00 – 20:00",
+        "星期五: 12:00 – 21:00",
+        "星期六: 12:00 – 21:00",
+        "星期日: 12:00 – 20:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 354,
+    "displayName": {
+      "text": "長洲鐵漢",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "燒烤料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "barbecue_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJLctiYFBXATQR97w8bHfUcA8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25waE9FUndRMU0yWkdjd1MyaExNVmx5Um5aVGIzYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "長洲鐵漢店名同菜名都好有霸氣，本來以為會係好粗獷嘅風格，但入到店內發現裝潢其實粗中有細，店員亦好有禮貌，幾有趣。炎炎夏日行到攰，呢度算係意外發現嘅舒適休息點。今次只試咗佢哋嘅得意作，同時亦係長洲特色食品，賣相唔錯，都好食，下次會想再嚟encore其他撚手菜。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "長洲鐵漢店名同菜名都好有霸氣，本來以為會係好粗獷嘅風格，但入到店內發現裝潢其實粗中有細，店員亦好有禮貌，幾有趣。炎炎夏日行到攰，呢度算係意外發現嘅舒適休息點。今次只試咗佢哋嘅得意作，同時亦係長洲特色食品，賣相唔錯，都好食，下次會想再嚟encore其他撚手菜。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ivan Wong",
+          "uri": "https://www.google.com/maps/contrib/117941148142123651251/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlmJCR-cP7WNmkbNHIZ1f3Hja92yDUZlcT9vfu_CLh4u9PIw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-19T05:18:11.008128540Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25waE9FUndRMU0yWkdjd1MyaExNVmx5Um5aVGIzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25waE9FUndRMU0yWkdjd1MyaExNVmx5Um5aVGIzYxAB!2m1!1s0x340157506062cb2d:0xf70d4776c3cbcf7"
+      },
+      {
+        "name": "places/ChIJLctiYFBXATQR97w8bHfUcA8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5R2NtUklTa0pyVkd4WVdIQnJiMUptZGpGNGVtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "每次嚟長洲一定要幫襯呢間\n太喜歡佢哋嘅串燒同埋本地梳打\n落完單之後上菜超快👍🏻\n炸奶黃平安包外脆內軟\n撈丁絕對唔可以錯過",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "每次嚟長洲一定要幫襯呢間\n太喜歡佢哋嘅串燒同埋本地梳打\n落完單之後上菜超快👍🏻\n炸奶黃平安包外脆內軟\n撈丁絕對唔可以錯過",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "A T",
+          "uri": "https://www.google.com/maps/contrib/105296480418542834145/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQTqUVW1ofI3h3J-Biat9xlwR6C-YMTxAgLLzfM8JNIHno3Fk=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-06-21T06:18:56.034942949Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5R2NtUklTa0pyVkd4WVdIQnJiMUptZGpGNGVtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5R2NtUklTa0pyVkd4WVdIQnJiMUptZGpGNGVtYxAB!2m1!1s0x340157506062cb2d:0xf70d4776c3cbcf7"
+      },
+      {
+        "name": "places/ChIJLctiYFBXATQR97w8bHfUcA8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VVIyeHFlR3BVTWtwNlYySTVRVEJ2UTAxcGRrRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "專登過嚟試馳名的 *脆脆平安包*，有奶黃口味同埋芝麻味，幾特別，值得一試\n另外仲有桂花車厘茄，口感特別\n\n整體唔錯，服務員有禮貌👍🏻👍🏻👍🏻👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "專登過嚟試馳名的 *脆脆平安包*，有奶黃口味同埋芝麻味，幾特別，值得一試\n另外仲有桂花車厘茄，口感特別\n\n整體唔錯，服務員有禮貌👍🏻👍🏻👍🏻👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "K Chan",
+          "uri": "https://www.google.com/maps/contrib/112369704839990029597/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJMbNfeEZaddTFN52LbAglRu-2Ba9CsW_gEyTMvXLmjA4LtXA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-04T08:09:03.096578910Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1VVIyeHFlR3BVTWtwNlYySTVRVEJ2UTAxcGRrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1VVIyeHFlR3BVTWtwNlYySTVRVEJ2UTAxcGRrRRAB!2m1!1s0x340157506062cb2d:0xf70d4776c3cbcf7"
+      },
+      {
+        "name": "places/ChIJLctiYFBXATQR97w8bHfUcA8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xScFZFTXpaMEppZFdkTlZsZzBjbmhOVWpoNU4wRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "味道獨特，串燒好Juicy，炸物好香脆juicy, 裝修特別，提供不少種類香港手工啤及飲品，值得一試！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道獨特，串燒好Juicy，炸物好香脆juicy, 裝修特別，提供不少種類香港手工啤及飲品，值得一試！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Matthew",
+          "uri": "https://www.google.com/maps/contrib/114656460831512765659/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXN7YyhygG7A5lyNTr59d0noP2Z0mHpJ-bXIrV-82uoCwLGxg73=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-19T06:08:57.971353106Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xScFZFTXpaMEppZFdkTlZsZzBjbmhOVWpoNU4wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xScFZFTXpaMEppZFdkTlZsZzBjbmhOVWpoNU4wRRAB!2m1!1s0x340157506062cb2d:0xf70d4776c3cbcf7"
+      },
+      {
+        "name": "places/ChIJLctiYFBXATQR97w8bHfUcA8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GdFlWQjBZMVJTVmxOdlpHVm5NMXBsVmpSNVQzYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "落船下午1:30左右到新興街，餓餓地所以周圍搵食，路過這間串燒店，好易搵。\n怕串燒不夠飽所以叫了撈麵及烏冬，食物上得快，好味又夠熱，店內有少少懷舊，店員服務好，風扇吹到頭痛但願意關掉👍\n脆脆平安包(流心奶黃)、台灣直送雞腿卷、霜降一口牛、豚肉秋葵卷、 狂野魷魚、炸雙皮奶 、蟹籽撈粗、 胡麻稻庭冷烏冬、豬茜(豚肉芫茜)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "落船下午1:30左右到新興街，餓餓地所以周圍搵食，路過這間串燒店，好易搵。\n怕串燒不夠飽所以叫了撈麵及烏冬，食物上得快，好味又夠熱，店內有少少懷舊，店員服務好，風扇吹到頭痛但願意關掉👍\n脆脆平安包(流心奶黃)、台灣直送雞腿卷、霜降一口牛、豚肉秋葵卷、 狂野魷魚、炸雙皮奶 、蟹籽撈粗、 胡麻稻庭冷烏冬、豬茜(豚肉芫茜)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "chan chan",
+          "uri": "https://www.google.com/maps/contrib/105359443765158923393/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIzuhDlrUbJlBo_xfkqNrUTQt3Gjwo7s5UNmQ50KBmvbKBZgw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-23T06:06:43.609872529Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GdFlWQjBZMVJTVmxOdlpHVm5NMXBsVmpSNVQzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GdFlWQjBZMVJTVmxOdlpHVm5NMXBsVmpSNVQzYxAB!2m1!1s0x340157506062cb2d:0xf70d4776c3cbcf7"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340157506062cb2d:0xf70d4776c3cbcf7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1112622717342629111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340157506062cb2d:0xf70d4776c3cbcf7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340157506062cb2d:0xf70d4776c3cbcf7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340157506062cb2d:0xf70d4776c3cbcf7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJLctiYFBXATQR97w8bHfUcA8/photos/Aa-ngMamyw_upaUXtY8s_13tojN_ZbmLjzLgB3Q7B6o_pTo5w-4inGevAXA5JVpLixQiN0Ryu6WXFI5d6OSggNedeXcS0c1fFArykhi2id4FxGdPUapwqh10_QNN9xm8FYjgGXTYVM8_G00JRCXmpPJl1rwchjcCrrBvjPfiXqGiy-LhKDO1TksKX8v1fCFngO4_RU5RYPaM5kSd7eFdHaJojqGQZqRBQhDu0-QFJM8adNft8zSjQ1fpkdRde-Pmv3TjXXBynPNCp-u_S2Z-OwIEpN8U5xZxIOaZQn_7x4OO5p9OMDJh8Z4OIJCbeBalXLZAoIjN1IA-v5YLdWov8J632-Tf4KYWV-VTXv9D7isz1D5VWHOicB0R_vZELMTkW8TvyNZJYWvhqpyAepgYAQlGvYg0kGrQ",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "authorAttributions": [
+        {
+          "displayName": "長洲鐵漢 Cheung Chau Tough Guy",
+          "uri": "https://maps.google.com/maps/contrib/109570867158801008919",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa-AyoNrOxAqmukmznD67F0677-mgMf3fAMQq7ZWo6G_KLuuQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDW3J2AuAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW3J2AuAE!2e10!4m2!3m1!1s0x340157506062cb2d:0xf70d4776c3cbcf7"
+    },
+    "local_path": "photos/ChIJLctiYFBXATQR97w8bHfUcA8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5dZf0q3zG5O8Pn36QJTEYwji3Hm7UQzwFQQ4Z6GPXlblyPlgRYxaoA7lMz9EfsO3R_7K8sHdFW2NBKBV3IaOomogRJfOFAnpHz6zcYlnVG9PQoQOlNrXFi42cksAeTrFVC3vN=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 192630
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "barbecue_restaurant",
+    "label": "燒烤料理餐廳",
+    "types": [
+      "barbecue_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

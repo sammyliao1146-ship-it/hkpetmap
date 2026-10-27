@@ -1,0 +1,413 @@
+{
+  "google_place_id": "ChIJ9WLTuiwBBDQRUbWxdRbRvV4",
+  "restaurant_ids": [
+    "restaurant:2218816213"
+  ],
+  "fetched_at": "2026-10-23T15:48:20.498105+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ9WLTuiwBBDQRUbWxdRbRvV4",
+    "types": [
+      "steak_house",
+      "french_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2857 7157",
+    "internationalPhoneNumber": "+852 2857 7157",
+    "formattedAddress": "B/F One Chinachem Central, 22 Des Voeux Rd Central, Central, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.282504499999998,
+      "longitude": 114.157038
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=6826842504557606225&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.rexwineandgrill.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 14:30, 17:30 – 00:00",
+        "星期二: 12:00 – 14:30, 17:30 – 00:00",
+        "星期三: 12:00 – 14:30, 17:30 – 00:00",
+        "星期四: 12:00 – 14:30, 17:30 – 00:00",
+        "星期五: 12:00 – 14:30, 17:30 – 00:00",
+        "星期六: 12:00 – 14:30, 17:30 – 00:00",
+        "星期日: 休息"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 195,
+    "displayName": {
+      "text": "REX Wine & Grill",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "法國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "french_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ9WLTuiwBBDQRUbWxdRbRvV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKaFJYSjBaRWRyVlU5TlozWlFZamg1VlMxc1puYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今日同朋友去咗中環嘅 REX Wine & Grill 食 Lunch。呢度嘅 Lunch Set 自由度極高，可以揀 2-Course、3-Course或者 4-Course。最令人驚喜嘅係佢哋嘅 前菜陣容強大，足足有 8 款選擇，由清新沙律、頂級生蠔到法式傳統手工菜都有，真係會令人犯選擇困難症！\n\n小編極力推介以下兩款：\n\nPâté en Croûte： 呢道「酥皮肉派」係非常考功夫嘅傳統法菜！內餡用咗豬肉、巴巴里鴨肉同埋邪惡嘅鵝肝，再加入開心果仁增加口感，外層酥皮香脆，肉香與油香交織，極具法式小酒館風情\n\nFrench Onion Soup： 傳統法式洋蔥湯熬得香濃清甜，表面鋪滿溶化咗、帶微焦嘅 Comté 芝士同脆麵包粒，熱辣辣非常暖胃，出面好少餐廳可以做得咁好嘅洋蔥湯，可能係我飲過最好嘅洋蔥湯😝\n\n主菜就推介：\n\nSteak Frites (5oz / 140g)：\n嚟扒房必試！呢個黑安格斯加州牛扒（Black Angus California Steak）煎得恰到好處，肉質多汁且肉味濃郁，配埋經典嘅黑椒汁同金黃脆薯條+長柄西蘭花，係絕對唔會出錯嘅經典選擇。\n\nMurray Cod：\n如果唔食牛或者想食得輕盈啲，呢道墨瑞鱈魚係極佳之選。鱈魚肉質細嫩肥美，底部配上吸飽鮮味的菠菜與經典的法式香草白汁。最驚喜嘅係佢仲配有一小碗醃菜釜飯，將法式海鮮同日式釜飯完美結合，既解膩又夠飽肚，非常有心思！\n\n至於甜品，小編都係極力推介揀呢兩款：\n\nParis-Brest Chou Puff (法式車輪泡芙)：\n呢個係我嘅私心最愛！同平時食嘅泡芙好唔同，泡芙外皮烤得蓬鬆帶點酥脆，中間夾滿咗極之絲滑、香氣濃郁嘅榛子果仁忌廉。最正係面頭灑滿咗焦糖化嘅榛子碎，一啖咬落去，濃濃嘅堅果香、焦糖嘅微苦與甜味，加埋層次豐富嘅口感，簡直係完美嘅幸福感。\n\nCafé Liégeois (列日咖啡杯)：\n如果你鍾意咖啡，點呢個就無錯！佢將熱騰騰嘅濃縮咖啡倒喺咖啡同雲呢拿雪糕上面，面頭再鋪上一層厚厚、輕盈鮮忌同埋朱古力醬。冷熱交織、苦甜平衡，入口既有咖啡嘅香醇，又有雪糕嘅絲滑，食完之後成個人清爽晒，提神又解膩！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日同朋友去咗中環嘅 REX Wine & Grill 食 Lunch。呢度嘅 Lunch Set 自由度極高，可以揀 2-Course、3-Course或者 4-Course。最令人驚喜嘅係佢哋嘅 前菜陣容強大，足足有 8 款選擇，由清新沙律、頂級生蠔到法式傳統手工菜都有，真係會令人犯選擇困難症！\n\n小編極力推介以下兩款：\n\nPâté en Croûte： 呢道「酥皮肉派」係非常考功夫嘅傳統法菜！內餡用咗豬肉、巴巴里鴨肉同埋邪惡嘅鵝肝，再加入開心果仁增加口感，外層酥皮香脆，肉香與油香交織，極具法式小酒館風情\n\nFrench Onion Soup： 傳統法式洋蔥湯熬得香濃清甜，表面鋪滿溶化咗、帶微焦嘅 Comté 芝士同脆麵包粒，熱辣辣非常暖胃，出面好少餐廳可以做得咁好嘅洋蔥湯，可能係我飲過最好嘅洋蔥湯😝\n\n主菜就推介：\n\nSteak Frites (5oz / 140g)：\n嚟扒房必試！呢個黑安格斯加州牛扒（Black Angus California Steak）煎得恰到好處，肉質多汁且肉味濃郁，配埋經典嘅黑椒汁同金黃脆薯條+長柄西蘭花，係絕對唔會出錯嘅經典選擇。\n\nMurray Cod：\n如果唔食牛或者想食得輕盈啲，呢道墨瑞鱈魚係極佳之選。鱈魚肉質細嫩肥美，底部配上吸飽鮮味的菠菜與經典的法式香草白汁。最驚喜嘅係佢仲配有一小碗醃菜釜飯，將法式海鮮同日式釜飯完美結合，既解膩又夠飽肚，非常有心思！\n\n至於甜品，小編都係極力推介揀呢兩款：\n\nParis-Brest Chou Puff (法式車輪泡芙)：\n呢個係我嘅私心最愛！同平時食嘅泡芙好唔同，泡芙外皮烤得蓬鬆帶點酥脆，中間夾滿咗極之絲滑、香氣濃郁嘅榛子果仁忌廉。最正係面頭灑滿咗焦糖化嘅榛子碎，一啖咬落去，濃濃嘅堅果香、焦糖嘅微苦與甜味，加埋層次豐富嘅口感，簡直係完美嘅幸福感。\n\nCafé Liégeois (列日咖啡杯)：\n如果你鍾意咖啡，點呢個就無錯！佢將熱騰騰嘅濃縮咖啡倒喺咖啡同雲呢拿雪糕上面，面頭再鋪上一層厚厚、輕盈鮮忌同埋朱古力醬。冷熱交織、苦甜平衡，入口既有咖啡嘅香醇，又有雪糕嘅絲滑，食完之後成個人清爽晒，提神又解膩！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "helen li",
+          "uri": "https://www.google.com/maps/contrib/106155307301949578522/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKVuV-K6KQn-kQF9zglftqpWSkmTNICpXLFgicZh3gPw54Cg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-11T12:06:54.483154489Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKaFJYSjBaRWRyVlU5TlozWlFZamg1VlMxc1puYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKaFJYSjBaRWRyVlU5TlozWlFZamg1VlMxc1puYxAB!2m1!1s0x3404012cbad362f5:0x5ebdd11675b1b551"
+      },
+      {
+        "name": "places/ChIJ9WLTuiwBBDQRUbWxdRbRvV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NdFkwNUthblUwUkVNNWMzSjROVTR5VGtkVVRsRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "中環低調奢華歐式扒房，環境典雅靜謐配軟皮卡座，好適合約會同商務輕午餐，今次同朋友叫咗2 Course $388、3 Course $448，整體出品完全超出預期！\n\nAppetisers 前菜\n\nBeef Tartare & Black Truffle（+$78升級前菜）\n生牛肉他他配黑松露、蛋黃、帕瑪森芝士、榛子\n肉質綿密細嫰，黑松露鋪滿成碟，濃郁菌香包圍生牛肉鮮甜，刨碎芝士增添鹹香層次，入口軟滑豐潤，一開場即刻打開味蕾。\n\nMain Course 主菜\n\nBraised Beef Cheek\n慢燉牛臉頰配薯蓉、小洋蔥、雜菌、煙肉、甘筍\n經長時間低溫燉煮，牛臉頰肉質軟糯鬆化，輕輕一切就散開，濃厚肉汁掛滿每塊肉，雜菌同煙肉帶出層次鹹香，溫潤醇厚，唔鍾意硬身肉食嘅朋友一定鍾意。\n\nSteak Frites（5OZ/140G Black Angus California Steak）\n安格斯牛扒配法式粗薯、黑胡椒汁\nMedium rare 牛扒粉嫩肉汁充沛，特調黑胡椒醬香氣突出，配法式薯條蘸埋醬一齊食超夾。\n\nDesserts 甜品\n\nParis-Brest Chou Puff\n榛子奶油內餡、焦糖榛子鋪面\n外層泡芙酥脆輕盈，內裡滿滿幼滑果仁奶油，面頭焦糖榛子增添香脆口感，堅果香突出，甜度溫和唔滯。\n\nCafé Liégeois\n濃縮咖啡同雲呢嗱雪糕、忌廉、朱古力醬\n冰涼綿密嘅雪糕搭配甘醇濃縮咖啡，咖啡香醇厚不苦澀，再淋上絲滑朱古力醬，冰凍口感完美中和牛扒同泡芙嘅油潤感，鍾意咖啡嘅人必點！\n\n評分：滿分5分\n治癒度：👩‍⚕️👩‍⚕️👩‍⚕️👩‍⚕️👩‍⚕️\n抵食度：💉💉💉💉\n翻兜指數：🩺🩺🩺🩺\n\n@rexwinegrillhk\nREX Wine & Grill\n中環德輔道中22號One Chinachem地庫\n📍港鐵中環站D2出口1分鐘路程\n\n#healingbobo #foodie #hkfoodie #foodiehk #香港美食 #香港探店 #中環 #中環美食 #牛扒推薦 #約會餐廳 #午餐套餐 #REXWineGrill #香港必食西餐 #高質扒房 #REXWineandGrill",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "中環低調奢華歐式扒房，環境典雅靜謐配軟皮卡座，好適合約會同商務輕午餐，今次同朋友叫咗2 Course $388、3 Course $448，整體出品完全超出預期！\n\nAppetisers 前菜\n\nBeef Tartare & Black Truffle（+$78升級前菜）\n生牛肉他他配黑松露、蛋黃、帕瑪森芝士、榛子\n肉質綿密細嫰，黑松露鋪滿成碟，濃郁菌香包圍生牛肉鮮甜，刨碎芝士增添鹹香層次，入口軟滑豐潤，一開場即刻打開味蕾。\n\nMain Course 主菜\n\nBraised Beef Cheek\n慢燉牛臉頰配薯蓉、小洋蔥、雜菌、煙肉、甘筍\n經長時間低溫燉煮，牛臉頰肉質軟糯鬆化，輕輕一切就散開，濃厚肉汁掛滿每塊肉，雜菌同煙肉帶出層次鹹香，溫潤醇厚，唔鍾意硬身肉食嘅朋友一定鍾意。\n\nSteak Frites（5OZ/140G Black Angus California Steak）\n安格斯牛扒配法式粗薯、黑胡椒汁\nMedium rare 牛扒粉嫩肉汁充沛，特調黑胡椒醬香氣突出，配法式薯條蘸埋醬一齊食超夾。\n\nDesserts 甜品\n\nParis-Brest Chou Puff\n榛子奶油內餡、焦糖榛子鋪面\n外層泡芙酥脆輕盈，內裡滿滿幼滑果仁奶油，面頭焦糖榛子增添香脆口感，堅果香突出，甜度溫和唔滯。\n\nCafé Liégeois\n濃縮咖啡同雲呢嗱雪糕、忌廉、朱古力醬\n冰涼綿密嘅雪糕搭配甘醇濃縮咖啡，咖啡香醇厚不苦澀，再淋上絲滑朱古力醬，冰凍口感完美中和牛扒同泡芙嘅油潤感，鍾意咖啡嘅人必點！\n\n評分：滿分5分\n治癒度：👩‍⚕️👩‍⚕️👩‍⚕️👩‍⚕️👩‍⚕️\n抵食度：💉💉💉💉\n翻兜指數：🩺🩺🩺🩺\n\n@rexwinegrillhk\nREX Wine & Grill\n中環德輔道中22號One Chinachem地庫\n📍港鐵中環站D2出口1分鐘路程\n\n#healingbobo #foodie #hkfoodie #foodiehk #香港美食 #香港探店 #中環 #中環美食 #牛扒推薦 #約會餐廳 #午餐套餐 #REXWineGrill #香港必食西餐 #高質扒房 #REXWineandGrill",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Healingbobo",
+          "uri": "https://www.google.com/maps/contrib/107209383017460223173/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyBKC0832oSrD-ZHWIx1t1NW5KhJcd7aCpmNeB7-0JjHWJ5PKJ7g=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-19T13:55:25.628525968Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21NdFkwNUthblUwUkVNNWMzSjROVTR5VGtkVVRsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NdFkwNUthblUwUkVNNWMzSjROVTR5VGtkVVRsRRAB!2m1!1s0x3404012cbad362f5:0x5ebdd11675b1b551"
+      },
+      {
+        "name": "places/ChIJ9WLTuiwBBDQRUbWxdRbRvV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT201amJtSkhhbWx0Y1ZkVWVEQTVPVkZFTVVwQ2RsRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今天中午來到中環這家隱世的法式餐廳，拿過多個美食界大獎，我們行左幾層樓梯先到，角落都是一些可愛有趣的飾物，令人好期待！\n\nPÂTÉ EN CROÛTE\n法式酥皮肉醬派層次豐富，外層酥脆不油，內餡豬肉混合配料的香氣，加上鵝肝的細膩油潤，每一片都能嚐到肉凍的鮮美，配酒一絕！\n\nPROVENCE ASPARAGUS FEUILLETÉ\n酥皮像千層一樣薄脆，蛋黃奶油好絲滑，幾乎是空氣感，蘆筍選得很嫩，頭部還帶一點脆度，咬下去有清甜的汁水！\n\nYELLOW CHICKEN & MUSHROOM VOL‑AU‑VENT\n酥皮盅上邊是幾塊好嫩滑的黃皮雞肉，肉裡吸滿醬汁，入口是羊肚菌黃酒醬的香氣！酥皮盅裡面有羊肚菌和蔬菜，清新特別，醬汁與酥皮融合在一起，讓人一再回味！\n\nBRAISED BEEF CHEEK\n牛頰肉燉到幾乎融化，用叉子輕輕一撥就分開，入口是濃縮的紅酒與牛骨高湯的深沉風味。薯泥極細，像奶油一樣滑，煙肉香脆，帶煙熏鹹鮮，切一小塊配着牛頰肉吃，鮮度直接拉升！\n\nCHOCOLATE BURNT CHEESECAKE\nCHEESECAKE 結合了焦香芝士蛋糕的心太軟質感，中間流心朱古力濃郁帶微微焦香，搭配一片紅色的酸甜覆盆子醬與輕柔奶油花朵，靚得不捨得吃！\n\nPARIS-BREST CHOU PUFF\n泡芙殼酥脆，中間的榛子奶油質地輕盈卻風味飽滿，滑順香甜，焦糖榛子與碎榛子仁增加香脆口感，經典又創新！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今天中午來到中環這家隱世的法式餐廳，拿過多個美食界大獎，我們行左幾層樓梯先到，角落都是一些可愛有趣的飾物，令人好期待！\n\nPÂTÉ EN CROÛTE\n法式酥皮肉醬派層次豐富，外層酥脆不油，內餡豬肉混合配料的香氣，加上鵝肝的細膩油潤，每一片都能嚐到肉凍的鮮美，配酒一絕！\n\nPROVENCE ASPARAGUS FEUILLETÉ\n酥皮像千層一樣薄脆，蛋黃奶油好絲滑，幾乎是空氣感，蘆筍選得很嫩，頭部還帶一點脆度，咬下去有清甜的汁水！\n\nYELLOW CHICKEN & MUSHROOM VOL‑AU‑VENT\n酥皮盅上邊是幾塊好嫩滑的黃皮雞肉，肉裡吸滿醬汁，入口是羊肚菌黃酒醬的香氣！酥皮盅裡面有羊肚菌和蔬菜，清新特別，醬汁與酥皮融合在一起，讓人一再回味！\n\nBRAISED BEEF CHEEK\n牛頰肉燉到幾乎融化，用叉子輕輕一撥就分開，入口是濃縮的紅酒與牛骨高湯的深沉風味。薯泥極細，像奶油一樣滑，煙肉香脆，帶煙熏鹹鮮，切一小塊配着牛頰肉吃，鮮度直接拉升！\n\nCHOCOLATE BURNT CHEESECAKE\nCHEESECAKE 結合了焦香芝士蛋糕的心太軟質感，中間流心朱古力濃郁帶微微焦香，搭配一片紅色的酸甜覆盆子醬與輕柔奶油花朵，靚得不捨得吃！\n\nPARIS-BREST CHOU PUFF\n泡芙殼酥脆，中間的榛子奶油質地輕盈卻風味飽滿，滑順香甜，焦糖榛子與碎榛子仁增加香脆口感，經典又創新！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sunsum9806",
+          "uri": "https://www.google.com/maps/contrib/112119256866209670928/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQSqTTeG7PkXtTki01BIYWhKnyZxmNjGWH9S44kIPXLWO40ko=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-06-01T04:28:41.892555198Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201amJtSkhhbWx0Y1ZkVWVEQTVPVkZFTVVwQ2RsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201amJtSkhhbWx0Y1ZkVWVEQTVPVkZFTVVwQ2RsRRAB!2m1!1s0x3404012cbad362f5:0x5ebdd11675b1b551"
+      },
+      {
+        "name": "places/ChIJ9WLTuiwBBDQRUbWxdRbRvV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRdGRFdFdVSGxzWDNsNFkyVnhlbkJ5VWtwSFprRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🥩 牛排薯條：牛排屬黑安格斯風味，肉香濃郁；配以黑松露汁特別出色，令整體更顯精緻，亦讓肉的層次更突出。薯條口感外脆內鬆，作為配搭甚為合口。\n\n🐷 豬面頰肉：豬面頰肉全程毋須刀切，反映炆煮火候到位，肉質細嫩腍滑。配菜如洋蔥、蘑菇、薯蓉及胡蘿蔔均處理得入味，使整體不會單一停留於肉味；層次感豐富，配搭亦帶來足夠的口感變化。\n\n🍰 Fig Tarte Fine（無花果酥皮塔）：廚房安排得十分細心，因應分量較大，事先協助將甜品分成兩份方便分享。無花果香甜而不覺膩，甜度與麵香平衡得宜。塔皮口感薄而香脆，入口帶輕盈鬆化感。整體而言，甜而不膩、平衡度高，作為餐後收尾非常合適。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🥩 牛排薯條：牛排屬黑安格斯風味，肉香濃郁；配以黑松露汁特別出色，令整體更顯精緻，亦讓肉的層次更突出。薯條口感外脆內鬆，作為配搭甚為合口。\n\n🐷 豬面頰肉：豬面頰肉全程毋須刀切，反映炆煮火候到位，肉質細嫩腍滑。配菜如洋蔥、蘑菇、薯蓉及胡蘿蔔均處理得入味，使整體不會單一停留於肉味；層次感豐富，配搭亦帶來足夠的口感變化。\n\n🍰 Fig Tarte Fine（無花果酥皮塔）：廚房安排得十分細心，因應分量較大，事先協助將甜品分成兩份方便分享。無花果香甜而不覺膩，甜度與麵香平衡得宜。塔皮口感薄而香脆，入口帶輕盈鬆化感。整體而言，甜而不膩、平衡度高，作為餐後收尾非常合適。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Flora Chan",
+          "uri": "https://www.google.com/maps/contrib/102266993134579230294/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKeGWJR3ELBUcbfBgsovH_1V3437Hsz5XWsa6_N1LOtLnaEHWM=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-08T13:27:53.655674914Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xRdGRFdFdVSGxzWDNsNFkyVnhlbkJ5VWtwSFprRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRdGRFdFdVSGxzWDNsNFkyVnhlbkJ5VWtwSFprRRAB!2m1!1s0x3404012cbad362f5:0x5ebdd11675b1b551"
+      },
+      {
+        "name": "places/ChIJ9WLTuiwBBDQRUbWxdRbRvV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aVllqaFJVbE5GYm5SNldqQlBjVWhUWmw5UFZVRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這間位於中環的REX Wine & Grill 宛如一處隱秘的浪漫綠洲，靜靜座落於德輔道中 One Chinachem 地庫。低調而不失優雅的環境，結合頂級食材、精湛廚藝與專業細膩的服務，共同營造出一場令人難忘的西式美食體驗。\n\n餐廳以精緻法式與歐陸料理為主，無論是商務午餐、浪漫晚餐，還是特別慶祝，皆能在此找到恰到好處的氛圍與滋味。\n\n🦋 Lobster Vol-au-Vent with Yunnan Mushrooms & Bisque $698\n酥脆的千層酥盒內，盛載著大塊彈牙新鮮龍蝦肉，搭配雲南野菌與濃郁的龍蝦蘑菇醬汁。賣相精緻典雅，鮮香四溢，層次豐富。\n\n🦋 M5 Black Angus Tenderloin $498 with Seared Foie Gras $68\n選用澳洲 M5 和牛牛柳，外層煎至焦香酥脆，內裡粉嫩多汁，肥瘦分布完美，肉質細膩柔嫩。再配上煎得金黃的外脆內嫩鵝肝，豐盛而平衡，盡顯高級牛排的迷人風采。\n\n🦋Charantais Melon $228\n源自法國的高級哈密瓜品種—夏朗泰哈蜜瓜，香氣濃郁，清新爽口，細膩多汁。配上巴馬咸火腿，輕盈而不失優雅。\n\n🦋Tuna Steak \"Provençal\" $298\n金槍魚排以普羅旺斯風格烹調。外層輕煎至微微焦香鎖住鮮美汁水，內裡保持粉紅細嫩。搭配經典普羅旺斯醬汁，酸甜香濃，地中海風情十足，鮮美健康又富有層次。\n\n🦋Paris-Brest Chou Puff $128\n經典法式巴黎布雷斯特泡芙，酥脆的泡芙外殼內，填滿豐盈香濃的榛子醬奶油餡，口感豐富，甜度適中，是優雅而令人滿足的甜點收尾之選。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間位於中環的REX Wine & Grill 宛如一處隱秘的浪漫綠洲，靜靜座落於德輔道中 One Chinachem 地庫。低調而不失優雅的環境，結合頂級食材、精湛廚藝與專業細膩的服務，共同營造出一場令人難忘的西式美食體驗。\n\n餐廳以精緻法式與歐陸料理為主，無論是商務午餐、浪漫晚餐，還是特別慶祝，皆能在此找到恰到好處的氛圍與滋味。\n\n🦋 Lobster Vol-au-Vent with Yunnan Mushrooms & Bisque $698\n酥脆的千層酥盒內，盛載著大塊彈牙新鮮龍蝦肉，搭配雲南野菌與濃郁的龍蝦蘑菇醬汁。賣相精緻典雅，鮮香四溢，層次豐富。\n\n🦋 M5 Black Angus Tenderloin $498 with Seared Foie Gras $68\n選用澳洲 M5 和牛牛柳，外層煎至焦香酥脆，內裡粉嫩多汁，肥瘦分布完美，肉質細膩柔嫩。再配上煎得金黃的外脆內嫩鵝肝，豐盛而平衡，盡顯高級牛排的迷人風采。\n\n🦋Charantais Melon $228\n源自法國的高級哈密瓜品種—夏朗泰哈蜜瓜，香氣濃郁，清新爽口，細膩多汁。配上巴馬咸火腿，輕盈而不失優雅。\n\n🦋Tuna Steak \"Provençal\" $298\n金槍魚排以普羅旺斯風格烹調。外層輕煎至微微焦香鎖住鮮美汁水，內裡保持粉紅細嫩。搭配經典普羅旺斯醬汁，酸甜香濃，地中海風情十足，鮮美健康又富有層次。\n\n🦋Paris-Brest Chou Puff $128\n經典法式巴黎布雷斯特泡芙，酥脆的泡芙外殼內，填滿豐盈香濃的榛子醬奶油餡，口感豐富，甜度適中，是優雅而令人滿足的甜點收尾之選。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ami Poon",
+          "uri": "https://www.google.com/maps/contrib/114993770274497481437/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlatJ5kBeapp9SnKHkWtmz9T7fMDWX9tjq0C_gGwKG3Rrwpw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-20T08:39:15.120365253Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aVllqaFJVbE5GYm5SNldqQlBjVWhUWmw5UFZVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aVllqaFJVbE5GYm5SNldqQlBjVWhUWmw5UFZVRRAB!2m1!1s0x3404012cbad362f5:0x5ebdd11675b1b551"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleRestroom": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404012cbad362f5:0x5ebdd11675b1b551!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6826842504557606225&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012cbad362f5:0x5ebdd11675b1b551!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404012cbad362f5:0x5ebdd11675b1b551!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012cbad362f5:0x5ebdd11675b1b551!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ9WLTuiwBBDQRUbWxdRbRvV4/photos/Aa-ngMYXHB01lAczy4UkzHxNn16Z54gBdK8Jn5mRHPyBkVt2Qkg0vceHP3JEix4bN_xHD4TSNjNZEUZYVjW_CW9QIzKR4lePSVOnQoQ8zuXgmQII1Dz8zXOpKhHjJ5hJ4H9RlkioVoFN468hDpojSr6t8aD49AHqSLdexr84x77OU3mSTdW0O-YWent1DJmbacNAS8IukHzHoTFieVrQs9QmPzaA8EbgtRDmpAv4aLNkSULvPHDIUsz3g2Aw-T4rzPlCqIfF1kHwuJ4R_wUlinXp0IG6Bdg3eGU-YDma87Il6PoclCj1wKyUy3tSBgwPBBYFrO4Ilbb9NEY-fVxuK2KBD5ddakdhbDvD4jSXq072psIFL2vGR14MUg_hQdDkt97fzDJxaBbmiDzJHL8V58YV4fCwQi2eUug9d63kL6ug7rasOw",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Foodieateateat",
+          "uri": "https://maps.google.com/maps/contrib/110816794402694003009",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWs84nTYuk7zMrqhIPiv3pUwN5oK1B-X7LrzZgJTttflhh_1SE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA5qfwkeJe6MmKO9xC4W5oj&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA5qfwkeJe6MmKO9xC4W5oj!2e10!4m2!3m1!1s0x3404012cbad362f5:0x5ebdd11675b1b551"
+    },
+    "local_path": "photos/ChIJ9WLTuiwBBDQRUbWxdRbRvV4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLAXXro8qO4DTkHxwKZdSh9BDQ6p5mxwbTkxVVPWiQ8f2nNiLCPbPo2m78JLcgPuB5rZysUQhinEUCJWPcQ_jIvY9alAPowoiDs2SKiAnJGm3SJEq2f3yiIlyS9bolTA0hPMS1_cwWDFl1=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 234533
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.sevenrooms.com/reservations/rexwineandgrillhk",
+        "label": "Reservation",
+        "source_url": "https://www.rexwineandgrill.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.rexwineandgrill.com.hk/#carte",
+        "label": "A LA CARTE",
+        "source_url": "https://www.rexwineandgrill.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.rexwineandgrill.com.hk/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU4MyIsInRvZ2dsZSI6ZmFsc2V9",
+        "label": "menu",
+        "source_url": "https://www.rexwineandgrill.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.rexwineandgrill.com.hk/wp-content/uploads/Rex-Valentines-Menu-14-Feb-2024-HKD-1288-scaled.jpg",
+        "label": "",
+        "source_url": "https://www.rexwineandgrill.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "french_restaurant",
+    "label": "法國餐廳",
+    "types": [
+      "steak_house",
+      "french_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.sevenrooms.com/reservations/rexwineandgrillhk",
+  "menu_url": "https://www.rexwineandgrill.com.hk/#carte"
+}

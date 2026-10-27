@@ -1,0 +1,329 @@
+{
+  "google_place_id": "ChIJi2FKpn4BBDQR9UkEcZBAJzk",
+  "restaurant_ids": [
+    "restaurant:2293805786",
+    "restaurant:2252808148"
+  ],
+  "fetched_at": "2026-10-23T15:44:04.361080+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJi2FKpn4BBDQR9UkEcZBAJzk",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3168 1358",
+    "internationalPhoneNumber": "+852 3168 1358",
+    "formattedAddress": "Shop 031-033, G/F, 38 Tai Kok Tsui Rd, Tai Kok Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.319995700000003,
+      "longitude": 114.16222429999999
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=4118331373369182709&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/brand/cafe-de-itamomo",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 21:00",
+        "星期二: 07:00 – 21:00",
+        "星期三: 07:00 – 21:00",
+        "星期四: 07:00 – 21:00",
+        "星期五: 07:00 – 21:00",
+        "星期六: 07:00 – 21:00",
+        "星期日: 07:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 144,
+    "displayName": {
+      "text": "意樂餐廳",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJi2FKpn4BBDQR9UkEcZBAJzk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOS2RXNW5hRFp4VDI0MmJFbGpibFJEWlc5Rk1IYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 3,
+        "text": {
+          "text": "意樂餐廳的員工質素真的差天共地。叫「姨媽」的女員工成日同其他女店員一邊工作一邊吹水，對客人禮貌欠奉，非常不專業。幸好店內還有一位高高瘦瘦的男店員，他是全店最有禮貌、態度最好的員工。如果不是他的好服務，這間店真的不會再光顧。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "意樂餐廳的員工質素真的差天共地。叫「姨媽」的女員工成日同其他女店員一邊工作一邊吹水，對客人禮貌欠奉，非常不專業。幸好店內還有一位高高瘦瘦的男店員，他是全店最有禮貌、態度最好的員工。如果不是他的好服務，這間店真的不會再光顧。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "涼森",
+          "uri": "https://www.google.com/maps/contrib/102330964480430551659/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKmZYekJoI_LGgSQKlhgq42Mm4fkn84asavblBnoHtkNjap=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-26T10:12:11.330986524Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOS2RXNW5hRFp4VDI0MmJFbGpibFJEWlc5Rk1IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOS2RXNW5hRFp4VDI0MmJFbGpibFJEWlc5Rk1IYxAB!2m1!1s0x3404017ea64a618b:0x39274090710449f5"
+      },
+      {
+        "name": "places/ChIJi2FKpn4BBDQR9UkEcZBAJzk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOQmMzQkJibVp1VEdzNWNsRjJOMVo2Y1Y5ZlFrRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "性價比超高 蛋白餐早餐 都係$38 雞係嫩，食晒",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "性價比超高 蛋白餐早餐 都係$38 雞係嫩，食晒",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "shirley tin",
+          "uri": "https://www.google.com/maps/contrib/110661670919540070997/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXd4QohFOauntgQXnXXGoPD9uSZx_MbXNhq0UhfSWJ9KGYCBzA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-02-03T07:38:06.758726136Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOQmMzQkJibVp1VEdzNWNsRjJOMVo2Y1Y5ZlFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOQmMzQkJibVp1VEdzNWNsRjJOMVo2Y1Y5ZlFrRRAB!2m1!1s0x3404017ea64a618b:0x39274090710449f5"
+      },
+      {
+        "name": "places/ChIJi2FKpn4BBDQR9UkEcZBAJzk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwNFJuZHhkM2t4YmtvNFRrdGhXRmt6UWtad2NsRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "Pizza底=餅乾，太乾硬。。。黑松露意粉無黑松露味，似食緊個干燒伊麵嘅味。。。凍啡上面咖啡粉人哋用粗粒，佢用幼粉嘅，仲要得少少",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Pizza底=餅乾，太乾硬。。。黑松露意粉無黑松露味，似食緊個干燒伊麵嘅味。。。凍啡上面咖啡粉人哋用粗粒，佢用幼粉嘅，仲要得少少",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "joanne jb",
+          "uri": "https://www.google.com/maps/contrib/102121176652613185310/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJolrxD_9XbqweQDr6hhtU-jwC-5MtZHOvNbg9ycU7bEkWi4w=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-06-25T07:29:29.876870288Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwNFJuZHhkM2t4YmtvNFRrdGhXRmt6UWtad2NsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwNFJuZHhkM2t4YmtvNFRrdGhXRmt6UWtad2NsRRAB!2m1!1s0x3404017ea64a618b:0x39274090710449f5"
+      },
+      {
+        "name": "places/ChIJi2FKpn4BBDQR9UkEcZBAJzk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsM3ZPNlRnEAE",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 3,
+        "text": {
+          "text": "食物味道偏鹹，拉麵出貨時間又比較長，我追問的結果是「時間就這樣長」 ，雖然我們四個人中三份食物都已經到了，包括抄飯。而拉麵的份量比較少，我女兒兩口就食完…\n職員服務態度一般，我地未食完野已經被追收餐具…要我去阻止… 應該又是希望我們早早離開吧 。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物味道偏鹹，拉麵出貨時間又比較長，我追問的結果是「時間就這樣長」 ，雖然我們四個人中三份食物都已經到了，包括抄飯。而拉麵的份量比較少，我女兒兩口就食完…\n職員服務態度一般，我地未食完野已經被追收餐具…要我去阻止… 應該又是希望我們早早離開吧 。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Traveler, William Tong",
+          "uri": "https://www.google.com/maps/contrib/111168247802139929767/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNpb6c-N-8vtXZ4q5-38RGb3fGyvGeSXKfK8MxKRFr6tnzDw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-07-11T09:38:36.952113802Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsM3ZPNlRnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsM3ZPNlRnEAE!2m1!1s0x3404017ea64a618b:0x39274090710449f5"
+      },
+      {
+        "name": "places/ChIJi2FKpn4BBDQR9UkEcZBAJzk/reviews/ChdDSUhNMG9nS0VJQ0FnSURWcU9pT3NBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "聽講意樂每間分店食品服務都有參差\n呢間 算幾好 有一排冇嚟\n好似又換咗一批侍應 服務禮貌比之前較好\n下午茶 都有好多選擇\n雞扒火腿湯米粉 加9蚊配牛角酥\n覺得幾好食 51蚊 算抵食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "聽講意樂每間分店食品服務都有參差\n呢間 算幾好 有一排冇嚟\n好似又換咗一批侍應 服務禮貌比之前較好\n下午茶 都有好多選擇\n雞扒火腿湯米粉 加9蚊配牛角酥\n覺得幾好食 51蚊 算抵食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sammy lam",
+          "uri": "https://www.google.com/maps/contrib/105056120770962286700/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkvVj0iYt32rpo4NiIkw7VmKekzEjVsoVG0vR934r4TGSNSw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-12-10T17:20:17.380025Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWcU9pT3NBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWcU9pT3NBRRAB!2m1!1s0x3404017ea64a618b:0x39274090710449f5"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404017ea64a618b:0x39274090710449f5!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4118331373369182709&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017ea64a618b:0x39274090710449f5!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404017ea64a618b:0x39274090710449f5!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017ea64a618b:0x39274090710449f5!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJi2FKpn4BBDQR9UkEcZBAJzk/photos/Aa-ngMYt3P2EqDDGlIWU47d3XaS9nvTlJUuFB8CI7zECfb-VL2U9YsyofwcxKFj2N7eq-OZ3njqWeNmtUKBB5pz9kncOLXDQbdMoG0qBnX9f0GONrFs5Op2LIo-pSua3DuqjOJFanRGCGGECkE9G-MTMN5fTTE-LrRJlhxnjamVi4oBkr4SV2ewj_skN6XWngkUk81_zKxUXzy67MOov2QY5xucnNwu0IVfhYh9V6vEO1rAL0r0ZAz14zDv9h9Zy230HyhnKlR6W-hPP_7LwC17sWBANK1vkXOt4t4T0YW46MwvNJa09UUre2rFxUYJWDLOT0cvNEzvb0pHyypz0U8V96rj8Tf_27tHm1UqpjMr_7Xrb3gQOQmxPm1VxCr3IhPJP1smJheww-_pbrE37X30liZUuB1L6ii4EZijS6FD3pGku",
+      "widthPx": 3816,
+      "heightPx": 2862,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAGbyfQIhLfV2ek59MACu3W&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQIhLfV2ek59MACu3W!2e10!4m2!3m1!1s0x3404017ea64a618b:0x39274090710449f5"
+    },
+    "local_path": "photos/ChIJi2FKpn4BBDQR9UkEcZBAJzk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkBtB3ifv3rID5vwdUxt17NwEElYPLNyWack2H4b3kXbm-D6pg-6GMsKP71Nm4ONgPCwpw0qasFRjJ1NOF0nkPC9yyPsDBIMwFxTXMnuTiE8znh3MGdlJmHA_f3RNnDggqE4h6sCaQxcU=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 165368
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

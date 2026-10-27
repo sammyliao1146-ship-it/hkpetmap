@@ -1,0 +1,323 @@
+{
+  "google_place_id": "ChIJS5HVzpEBBDQRG9lUmmAhzXA",
+  "restaurant_ids": [
+    "restaurant:2262814353"
+  ],
+  "fetched_at": "2026-10-23T15:41:08.302774+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJS5HVzpEBBDQRG9lUmmAhzXA",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2145 4100",
+    "internationalPhoneNumber": "+852 2145 4100",
+    "formattedAddress": "香港九龍大角咀櫸樹街88號奧柏．御峯 1座G1-3&G5號舖",
+    "location": {
+      "latitude": 22.320516700000002,
+      "longitude": 114.16323390000001
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=8128189601263442203&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 22:00",
+        "星期二: 07:00 – 22:00",
+        "星期三: 07:00 – 22:00",
+        "星期四: 07:00 – 22:00",
+        "星期五: 07:00 – 22:00",
+        "星期六: 07:00 – 22:00",
+        "星期日: 07:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 488,
+    "displayName": {
+      "text": "百份百餐廳",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJS5HVzpEBBDQRG9lUmmAhzXA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toTlRHZEdWRkZDYVVacWEzRnhkVlV0ZFRNeExYYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "食咗個下午茶，預期之內完全冇服務，qr code用唔到，叫姐姐落單，舉咗好耐手，食食吓發現唔對路，隻雞翼生的，煮都未煮熟。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食咗個下午茶，預期之內完全冇服務，qr code用唔到，叫姐姐落單，舉咗好耐手，食食吓發現唔對路，隻雞翼生的，煮都未煮熟。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "HH",
+          "uri": "https://www.google.com/maps/contrib/116967028620148290589/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-4DgWKqZ2ZtR4ygkE5fgjfBmCrvLR1lwojzfweTkjxSw52Mo=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-12T16:29:43.383787191Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toTlRHZEdWRkZDYVVacWEzRnhkVlV0ZFRNeExYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toTlRHZEdWRkZDYVVacWEzRnhkVlV0ZFRNeExYYxAB!2m1!1s0x34040191ced5914b:0x70cd21609a54d91b"
+      },
+      {
+        "name": "places/ChIJS5HVzpEBBDQRG9lUmmAhzXA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WdFJuTlFkREJFZGxkV1VIZHNRMnd0YkdNdFJuYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "星期日午餐時段店內也不算擁擠，蠻有空間感。可向侍應要求減少飯量，不用浪費。餐點不合口味如太辣，侍應也提出合理解決辦法：另外提供白飯，使餸菜更容易入口。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期日午餐時段店內也不算擁擠，蠻有空間感。可向侍應要求減少飯量，不用浪費。餐點不合口味如太辣，侍應也提出合理解決辦法：另外提供白飯，使餸菜更容易入口。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Po Wa Ho",
+          "uri": "https://www.google.com/maps/contrib/114062324513291743369/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiBelNvat6pr6VCeOXuyMPWfV8-0dgU2OT_G37yYSTJunU2LY=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-20T05:46:11.954924429Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WdFJuTlFkREJFZGxkV1VIZHNRMnd0YkdNdFJuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WdFJuTlFkREJFZGxkV1VIZHNRMnd0YkdNdFJuYxAB!2m1!1s0x34040191ced5914b:0x70cd21609a54d91b"
+      },
+      {
+        "name": "places/ChIJS5HVzpEBBDQRG9lUmmAhzXA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkMVh6aHNiek5LWVhSWlVubFFVamhEUzFSNVVFRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 1,
+        "text": {
+          "text": "啲侍應唔睬人\n叫你企喺門口等 都唔幫你執枱入位\n最後要自己幫手處理啲碗碗碟碟⋯⋯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "啲侍應唔睬人\n叫你企喺門口等 都唔幫你執枱入位\n最後要自己幫手處理啲碗碗碟碟⋯⋯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charlie Fung (Teli)",
+          "uri": "https://www.google.com/maps/contrib/110970060175965214894/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxaCqeUJMyfcPX0zQsc3LePXmphZ-bEwZ_CMwpITJWOEJIBzc9=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-31T12:01:13.008203744Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkMVh6aHNiek5LWVhSWlVubFFVamhEUzFSNVVFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkMVh6aHNiek5LWVhSWlVubFFVamhEUzFSNVVFRRAB!2m1!1s0x34040191ced5914b:0x70cd21609a54d91b"
+      },
+      {
+        "name": "places/ChIJS5HVzpEBBDQRG9lUmmAhzXA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5aU9XZFlkVTVMTkZrNGQwcEVhRk0yWjFkSFZtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "食用不過不失，環境算坐得舒服!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食用不過不失，環境算坐得舒服!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ning Si Sung",
+          "uri": "https://www.google.com/maps/contrib/109211070580622102295/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL_0Balbo8tNo_JInK1fIUJPLAnzCsPqkE2mLSjL-hzc9X3Sg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-09T15:54:38.322148177Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5aU9XZFlkVTVMTkZrNGQwcEVhRk0yWjFkSFZtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5aU9XZFlkVTVMTkZrNGQwcEVhRk0yWjFkSFZtYxAB!2m1!1s0x34040191ced5914b:0x70cd21609a54d91b"
+      },
+      {
+        "name": "places/ChIJS5HVzpEBBDQRG9lUmmAhzXA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiNElqOUFnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "新來綁長發的樓面態度不好，叫拿二維碼俾我下單，佢唔識，佢叫我找其他人，如果我見到其他人仲需要嗌你？歐陽樓面態度好，大角咀分店，服務態度越來越不好了👎",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "新來綁長發的樓面態度不好，叫拿二維碼俾我下單，佢唔識，佢叫我找其他人，如果我見到其他人仲需要嗌你？歐陽樓面態度好，大角咀分店，服務態度越來越不好了👎",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Evelyn Can",
+          "uri": "https://www.google.com/maps/contrib/106076413749894005360/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzs4xmP2mmqF_IIeKB7wtnlSv6biG6x-KY3Dba2gDA1Pfd5tg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-07-22T06:46:23.847116Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiNElqOUFnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiNElqOUFnEAE!2m1!1s0x34040191ced5914b:0x70cd21609a54d91b"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040191ced5914b:0x70cd21609a54d91b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8128189601263442203&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040191ced5914b:0x70cd21609a54d91b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040191ced5914b:0x70cd21609a54d91b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040191ced5914b:0x70cd21609a54d91b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJS5HVzpEBBDQRG9lUmmAhzXA/photos/Aa-ngMYE2Qx9lbPE2s2UNzqive6t0IVP1_VQ6UaRKPKA7WzO75A7G8HDwXXI9jYqVHknhOAHiKCilGzExpdly5bb8nRAsv7dXKRyeG6RNJnDcxfsdShAPaadiJ-Mzw02hSoHEwpgw3fxQNfnxuMdf0J--hYRWolSlZXCGgv3q8iyKpmQfD4HNIarsxdnWnWtYF5NW-_6luLOygLCJKwkc9kTjeJKWXAbtvYR2v3Mirl-JVbnjwVs3fSGW4rrB0eNm1W4J9liA3W7-tCRx5OYKXQtoG_2hAbiOl8SYA5MFz0PlVKqT6mEXQTUH7JaX_5N_pfHTbNKkMgy1B3Jw-V-_XICkiDfaMHjqePsoUWh3WIn4MmSb1fHj1zUFQXZA7R5jSRrKAsUBKqJxAfwhI3sNotYFuM9vZ5j",
+      "widthPx": 3602,
+      "heightPx": 2026,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBooanjwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBooanjwE!2e10!4m2!3m1!1s0x34040191ced5914b:0x70cd21609a54d91b"
+    },
+    "local_path": "photos/ChIJS5HVzpEBBDQRG9lUmmAhzXA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkc44bZ7pjXlhl9AEG6t6P98d0mE5IbkfO1w_UzT6RrCsw2RdfEnA06eV7aFywmlMnzfl1meNpnh_tyOYdYWpthhmY5ybB2IdVEy0QBa-ABEVW4_X-TTiNi2p4Q1FmqxzCd07L=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 159190
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

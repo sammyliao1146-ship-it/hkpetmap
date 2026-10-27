@@ -1,0 +1,2114 @@
+{
+  "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+  "listing_updated_at": "2026-09-17",
+  "imported_at": "2026-10-24T00:01:12.591438+08:00",
+  "records": [
+    {
+      "id": "curated:mall:ifc-ifc-mall",
+      "category": "malls",
+      "name": "IFC 商場",
+      "name_en": "IFC Mall",
+      "district": "中西區",
+      "address": "香港金融街8號",
+      "address_en": "8 FINANCE STREET, HK",
+      "latitude": 22.28602,
+      "longitude": 114.15763,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://ifc.com.hk/en/mall/",
+      "source_url": "https://ifc.com.hk/en/mall/pet-policy/",
+      "source_name": "IFC 官方寵物政策",
+      "source_name_en": "IFC official pet policy",
+      "source_updated_at": null,
+      "pet_policy": "conditional",
+      "notes": [
+        "只限家養貓狗，每位主人最多兩隻。",
+        "1樓可用唔超過1.5米牽繩落地；2至4樓必須留喺寵物車或袋內。",
+        "個別商戶規則另計；商場冇寵物車借用。"
+      ],
+      "notes_en": [
+        "Domestic cats and dogs only; up to two pets per owner.",
+        "On L1 pets may walk on a leash no longer than 1.5 metres. On L2–L4 pets must remain in a stroller or carrier.",
+        "Individual tenants have their own rules. The mall does not lend pet strollers."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "official_checked",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": "2026-10-23",
+        "official_policy_url": "https://ifc.com.hk/en/mall/pet-policy/",
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:central-market-central-market",
+      "category": "malls",
+      "name": "中環街市",
+      "name_en": "Central Market",
+      "district": "中西區",
+      "address": "香港皇后大道中93號",
+      "address_en": "93 QUEEN'S ROAD CENTRAL, HK",
+      "latitude": 22.28429,
+      "longitude": 114.15578,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.centralmarket.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:peak-tower-the-peak-tower",
+      "category": "malls",
+      "name": "凌霄閣",
+      "name_en": "The Peak Tower",
+      "district": "中西區",
+      "address": "香港山頂道128號",
+      "address_en": "128 PEAK ROAD, HK",
+      "latitude": 22.27125,
+      "longitude": 114.14988,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.thepeak.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:pacific-place-pacific-place",
+      "category": "malls",
+      "name": "太古廣場",
+      "name_en": "Pacific Place",
+      "district": "中西區",
+      "address": "香港金鐘道88號",
+      "address_en": "88 QUEENSWAY, HK",
+      "latitude": 22.27699,
+      "longitude": 114.16433,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.pacificplace.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:peak-galleria-the-peak-galleria",
+      "category": "malls",
+      "name": "山頂廣場",
+      "name_en": "The Peak Galleria",
+      "district": "中西區",
+      "address": "香港山頂道118號",
+      "address_en": "118 PEAK ROAD, HK",
+      "latitude": 22.27053,
+      "longitude": 114.14979,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.thepeakgalleria.com/",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:wtc-wtc-mall",
+      "category": "malls",
+      "name": "世貿中心",
+      "name_en": "wtc mall",
+      "district": "灣仔區",
+      "address": "香港告士打道280號",
+      "address_en": "280 GLOUCESTER ROAD, HK",
+      "latitude": 22.28208,
+      "longitude": 114.18388,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.wwwtc.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:ph-s2578-",
+      "category": "malls",
+      "name": "利東街",
+      "name_en": "Lee Tung Avenue",
+      "district": "灣仔區",
+      "address": "香港皇后大道東200號",
+      "address_en": "200 QUEEN'S ROAD EAST, HK",
+      "latitude": 22.27535,
+      "longitude": 114.17231,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.leetungavenue.com.hk/",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "retail_precinct"
+      }
+    },
+    {
+      "id": "curated:mall:hopewell-hopewell-centre-mall",
+      "category": "malls",
+      "name": "合和商場",
+      "name_en": "Hopewell Mall",
+      "district": "灣仔區",
+      "address": "香港灣仔堅尼地道15號",
+      "address_en": "15 Kennedy Road, Wan Chai, Hong Kong",
+      "latitude": 22.27499,
+      "longitude": 114.17069,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.hopewellhotel.com/zh-tw/location/",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:hysan-place-hysan-place",
+      "category": "malls",
+      "name": "希慎廣場",
+      "name_en": "Hysan Place",
+      "district": "灣仔區",
+      "address": "香港軒尼詩道500號",
+      "address_en": "500 HENNESSY ROAD, HK",
+      "latitude": 22.27979,
+      "longitude": 114.18382,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.hysanplace.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:ph-s99227-",
+      "category": "malls",
+      "name": "星街小區 (太古廣場)",
+      "name_en": "Starstreet Precinct",
+      "district": "灣仔區",
+      "address": "香港灣仔星街小區",
+      "address_en": "Starstreet Precinct, Wan Chai, Hong Kong",
+      "latitude": 22.275951,
+      "longitude": 114.168608,
+      "coordinate_source": "PetChill 目錄地圖代表點；未獨立核實入口；目錄日期 2026-09-17",
+      "website": null,
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "retail_precinct"
+      }
+    },
+    {
+      "id": "curated:mall:harbour-north-harbour-north",
+      "category": "malls",
+      "name": "北角匯",
+      "name_en": "Harbour North",
+      "district": "東區",
+      "address": "香港北角邨里1號",
+      "address_en": "1 NORTH POINT ESTATE LANE, HK",
+      "latitude": 22.29286,
+      "longitude": 114.19932,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.harbournorth.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:thesouthside-the-southside",
+      "category": "malls",
+      "name": "THE SOUTHSIDE",
+      "name_en": "The Southside",
+      "district": "南區",
+      "address": "香港香葉道11號",
+      "address_en": "11 HEUNG YIP ROAD, HK",
+      "latitude": 22.24681,
+      "longitude": 114.1678,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.thesouthside.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:the-arcade-the-arcade",
+      "category": "malls",
+      "name": "數碼港商場",
+      "name_en": "The Arcade",
+      "district": "南區",
+      "address": "香港數碼港道100號",
+      "address_en": "100 CYBERPORT ROAD, HK",
+      "latitude": 22.26081,
+      "longitude": 114.12979,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://arcade.cyberport.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:the-pulse-the-pulse",
+      "category": "malls",
+      "name": "淺水灣 The Pulse",
+      "name_en": "The Pulse",
+      "district": "南區",
+      "address": "香港海灘道28號",
+      "address_en": "28 BEACH ROAD, HK",
+      "latitude": 22.23635,
+      "longitude": 114.19759,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.thepulse.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:murray-house-murray-house",
+      "category": "malls",
+      "name": "美利樓",
+      "name_en": "Murray House",
+      "district": "南區",
+      "address": "香港佳美道23號",
+      "address_en": "23 CARMEL ROAD, HK",
+      "latitude": 22.21813,
+      "longitude": 114.20973,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": null,
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "retail_destination"
+      }
+    },
+    {
+      "id": "curated:mall:stanley-plaza-stanley-plaza",
+      "category": "malls",
+      "name": "赤柱廣場",
+      "name_en": "Stanley Plaza",
+      "district": "南區",
+      "address": "香港佳美道23號",
+      "address_en": "23 CARMEL ROAD, HK",
+      "latitude": 22.21969,
+      "longitude": 114.20962,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.stanleyplaza.com",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:k11-musea-k11-musea",
+      "category": "malls",
+      "name": "K11 MUSEA",
+      "name_en": "K11 MUSEA",
+      "district": "油尖旺區",
+      "address": "九龍梳士巴利道18號",
+      "address_en": "18 SALISBURY ROAD, KLN",
+      "latitude": 22.29418,
+      "longitude": 114.17393,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.k11musea.com",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:ph-s10090-k11",
+      "category": "malls",
+      "name": "K11購物藝術館",
+      "name_en": "K11 Art Mall",
+      "district": "油尖旺區",
+      "address": "九龍河內道18號",
+      "address_en": "18 HANOI ROAD, KLN",
+      "latitude": 22.29756,
+      "longitude": 114.17363,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": null,
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:moko-moko",
+      "category": "malls",
+      "name": "MOKO 新世紀廣場",
+      "name_en": "MOKO",
+      "district": "油尖旺區",
+      "address": "九龍太子道西193號",
+      "address_en": "193 PRINCE EDWARD ROAD WEST, KLN",
+      "latitude": 22.32295,
+      "longitude": 114.17264,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.moko.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:elements-elements",
+      "category": "malls",
+      "name": "圓方",
+      "name_en": "Elements",
+      "district": "油尖旺區",
+      "address": "九龍柯士甸道西1號",
+      "address_en": "1 AUSTIN ROAD WEST, KLN",
+      "latitude": 22.30406,
+      "longitude": 114.16157,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.elementshk.com",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:olympian-city-olympian-city",
+      "category": "malls",
+      "name": "奧海城",
+      "name_en": "Olympian City",
+      "district": "油尖旺區",
+      "address": "九龍海庭道18號",
+      "address_en": "18 HOI TING ROAD, KLN",
+      "latitude": 22.31646,
+      "longitude": 114.16276,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.olympiancity.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:langham-place-langham-place",
+      "category": "malls",
+      "name": "朗豪坊",
+      "name_en": "Langham Place",
+      "district": "油尖旺區",
+      "address": "九龍亞皆老街8號",
+      "address_en": "8 ARGYLE STREET, KLN",
+      "latitude": 22.31883,
+      "longitude": 114.16848,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.langhamplace.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:harbour-city-harbour-city",
+      "category": "malls",
+      "name": "海港城",
+      "name_en": "Harbour City",
+      "district": "油尖旺區",
+      "address": "九龍廣東道9號",
+      "address_en": "9 CANTON ROAD, KLN",
+      "latitude": 22.29704,
+      "longitude": 114.16819,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.harbourcity.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:ph-s99821-83",
+      "category": "malls",
+      "name": "83 瓊林街 - 梯級式園林廣場",
+      "name_en": "83 King Lam Street · Landscaped Plaza",
+      "district": "深水埗區",
+      "address": "九龍瓊林街83號",
+      "address_en": "83 KING LAM STREET, KLN",
+      "latitude": 22.33941,
+      "longitude": 114.14624,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": null,
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "commercial_building"
+      }
+    },
+    {
+      "id": "curated:mall:d2-place-d2-place",
+      "category": "malls",
+      "name": "D2 Place",
+      "name_en": "D2 Place",
+      "district": "深水埗區",
+      "address": "九龍長義街9號",
+      "address_en": "9 CHEUNG YEE STREET, KLN",
+      "latitude": 22.33611,
+      "longitude": 114.14887,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.d2place.com",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:v-walk-v-walk",
+      "category": "malls",
+      "name": "V Walk",
+      "name_en": "V Walk",
+      "district": "深水埗區",
+      "address": "九龍深旺道28號",
+      "address_en": "28 SHAM MONG ROAD, KLN",
+      "latitude": 22.32689,
+      "longitude": 114.15381,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.vwalk.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:festival-walk-festival-walk",
+      "category": "malls",
+      "name": "又一城",
+      "name_en": "Festival Walk",
+      "district": "深水埗區",
+      "address": "九龍達之路80號",
+      "address_en": "80 TAT CHEE AVENUE, KLN",
+      "latitude": 22.33705,
+      "longitude": 114.17487,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.festivalwalk.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:lai-sun-lai-sun-commercial-centre",
+      "category": "malls",
+      "name": "麗新商業中心",
+      "name_en": "Lai Sun Commercial Centre",
+      "district": "深水埗區",
+      "address": "九龍長沙灣道680號",
+      "address_en": "680 CHEUNG SHA WAN ROAD, KLN",
+      "latitude": 22.33908,
+      "longitude": 114.15201,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": null,
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "commercial_building"
+      }
+    },
+    {
+      "id": "curated:airside",
+      "category": "malls",
+      "name": "AIRSIDE",
+      "name_en": "AIRSIDE",
+      "district": "九龍城",
+      "address": "九龍啟德協調道2號",
+      "address_en": "2 Concorde Road, Kai Tak, Kowloon",
+      "latitude": 22.3308,
+      "longitude": 114.19804,
+      "coordinate_source": "政府 ALS 地址結果（人工核對建築物／碼頭名），2026-10-23",
+      "website": "https://www.airside.com.hk/visit/pet-friendly-paradise",
+      "source_url": "https://www.airside.com.hk/zh-hk/visit/pet-friendly-paradise",
+      "source_name": "AIRSIDE 官方寵物友善指引",
+      "source_name_en": "AIRSIDE official pet-access guide",
+      "source_updated_at": null,
+      "pet_policy": "designated_area",
+      "notes": [
+        "寵物區包括地下廣場同室內商場、2樓 AIR Farm 同6樓 AIRSIDE Garden。",
+        "繩長唔超過1.5米，每位主人最多兩隻寵物；商店同餐廳規則另計。"
+      ],
+      "notes_en": [
+        "Pet areas include G/F Plaza and indoor mall areas, 2/F AIR Farm and 6/F AIRSIDE Garden.",
+        "Keep pets on a leash no longer than 1.5 metres. Each owner may bring up to two pets. Individual shops and restaurants have separate rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "official_checked",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": "2026-10-23",
+        "official_policy_url": "https://www.airside.com.hk/visit/pet-friendly-paradise",
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:kcp-kowloon-city-plaza",
+      "category": "malls",
+      "name": "九龍城廣場",
+      "name_en": "Kowloon City Plaza",
+      "district": "九龍城區",
+      "address": "九龍賈炳達道128號",
+      "address_en": "128 CARPENTER ROAD, KLN",
+      "latitude": 22.33099,
+      "longitude": 114.18783,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.kowlooncityplaza.com",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:sogo-ktk-sogo-kai-tak",
+      "category": "malls",
+      "name": "崇光百貨（啟德）",
+      "name_en": "SOGO Kai Tak",
+      "district": "九龍城區",
+      "address": "九龍協調道12號",
+      "address_en": "12 CONCORDE ROAD, KLN",
+      "latitude": 22.33262,
+      "longitude": 114.20072,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.sogo-hk.com/tc/support/contact-us",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "department_store"
+      }
+    },
+    {
+      "id": "curated:mall:laguna-mall-the-laguna-mall",
+      "category": "malls",
+      "name": "海逸坊",
+      "name_en": "The Laguna Mall",
+      "district": "九龍城區",
+      "address": "九龍海逸道8號",
+      "address_en": "8 LAGUNA VERDE AVENUE, KLN",
+      "latitude": 22.30919,
+      "longitude": 114.19141,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://ckmalls.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:mikiki-mikiki",
+      "category": "malls",
+      "name": "Mikiki",
+      "name_en": "Mikiki",
+      "district": "黃大仙區",
+      "address": "九龍太子道東638號",
+      "address_en": "638 PRINCE EDWARD ROAD EAST, KLN",
+      "latitude": 22.33355,
+      "longitude": 114.19686,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.mikiki-mall.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:apm-apm",
+      "category": "malls",
+      "name": "APM",
+      "name_en": "APM",
+      "district": "觀塘區",
+      "address": "九龍觀塘道418號",
+      "address_en": "418 KWUN TONG ROAD, KLN",
+      "latitude": 22.31237,
+      "longitude": 114.22519,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.hkapm.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:megabox-megabox",
+      "category": "malls",
+      "name": "MegaBox",
+      "name_en": "MegaBox",
+      "district": "觀塘區",
+      "address": "九龍宏照道38號",
+      "address_en": "38 WANG CHIU ROAD, KLN",
+      "latitude": 22.31957,
+      "longitude": 114.20848,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.megabox.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:metroplaza-metroplaza",
+      "category": "malls",
+      "name": "新都會廣場",
+      "name_en": "Metroplaza",
+      "district": "葵青區",
+      "address": "新界興芳路223號",
+      "address_en": "223 HING FONG ROAD, NT",
+      "latitude": 22.35754,
+      "longitude": 114.12676,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.metroplaza.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:op-mall-op-mall",
+      "category": "malls",
+      "name": "OP Mall 海之戀",
+      "name_en": "OP Mall",
+      "district": "荃灣區",
+      "address": "新界荃灣大河道100號",
+      "address_en": "100 TAI HO ROAD, TSUEN WAN, NT",
+      "latitude": 22.36766,
+      "longitude": 114.11017,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.facebook.com/opmallhk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:the-mills-the-mills",
+      "category": "malls",
+      "name": "南豐紗廠",
+      "name_en": "The Mills",
+      "district": "荃灣區",
+      "address": "新界荃灣白田壩街45號",
+      "address_en": "45 PAK TIN PAR STREET, TSUEN WAN, NT",
+      "latitude": 22.37494,
+      "longitude": 114.11018,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.themills.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:tsuen-wan-new-town-citywalk-2",
+      "category": "malls",
+      "name": "荃新天地",
+      "name_en": "Citywalk",
+      "district": "荃灣區",
+      "address": "新界荃灣楊屋道1號",
+      "address_en": "1 YEUNG UK ROAD, TSUEN WAN, NT",
+      "latitude": 22.37,
+      "longitude": 114.11433,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.citywalk.com.hk/",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:citywalk-citywalk",
+      "category": "malls",
+      "name": "荃灣廣場",
+      "name_en": "Tsuen Wan Plaza",
+      "district": "荃灣區",
+      "address": "新界荃灣大壩街4-30號",
+      "address_en": "4-30 TAI PA STREET, TSUEN WAN, NT",
+      "latitude": 22.37085,
+      "longitude": 114.1113,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.tsuenwanplaza.com.hk/",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:sun-tuen-mun-sun-tuen-mun-shopping-centre",
+      "category": "malls",
+      "name": "新屯門商場",
+      "name_en": "Sun Tuen Mun Shopping Centre",
+      "district": "屯門區",
+      "address": "新界屯門龍門路55-65號",
+      "address_en": "55-65 LUNG MUN ROAD, TUEN MUN, NT",
+      "latitude": 22.38119,
+      "longitude": 113.96505,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.tuenmunmtrmalls.com",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:yoho-mall-yoho-mall",
+      "category": "malls",
+      "name": "YOHO Mall 形點",
+      "name_en": "YOHO Mall",
+      "district": "元朗區",
+      "address": "新界朗日路9號",
+      "address_en": "9 LONG YAT ROAD, NT",
+      "latitude": 22.44542,
+      "longitude": 114.0377,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.yohomall.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:landmark-north-landmark-north",
+      "category": "malls",
+      "name": "上水廣場",
+      "name_en": "Landmark North",
+      "district": "北區",
+      "address": "新界上水龍琛路39號",
+      "address_en": "39 LUNG SUM AVENUE, SHEUNG SHUI, NT",
+      "latitude": 22.50254,
+      "longitude": 114.12783,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.landmarknorth.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:tai-yuen-tai-yuen-commercial-centre",
+      "category": "malls",
+      "name": "大元商場",
+      "name_en": "Tai Yuen Commercial Centre",
+      "district": "大埔區",
+      "address": "新界汀角路10號",
+      "address_en": "10 TING KOK ROAD, NT",
+      "latitude": 22.45508,
+      "longitude": 114.16852,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.linkhk.com",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:the-wai-the-wai",
+      "category": "malls",
+      "name": "圍方",
+      "name_en": "The Wai",
+      "district": "沙田區",
+      "address": "新界沙田車公廟路18號",
+      "address_en": "18 CHE KUNG MIU ROAD, SHA TIN, NT",
+      "latitude": 22.37303,
+      "longitude": 114.17959,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.thewaimall.com",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:new-town-plaza-new-town-plaza",
+      "category": "malls",
+      "name": "新城市廣場",
+      "name_en": "New Town Plaza",
+      "district": "沙田區",
+      "address": "新界沙田沙田正街2-8號",
+      "address_en": "2-8 SHA TIN CENTRE STREET, SHA TIN, NT",
+      "latitude": 22.38009,
+      "longitude": 114.18766,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.newtownplaza.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:ph-s910105-",
+      "category": "malls",
+      "name": "新港城中心",
+      "name_en": "MOSTown",
+      "district": "沙田區",
+      "address": "新界馬鞍山鞍祿街18號",
+      "address_en": "18 ON LUK STREET, MA ON SHAN, NT",
+      "latitude": 22.42461,
+      "longitude": 114.23245,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": null,
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:we-go-mall-we-go-mall",
+      "category": "malls",
+      "name": "薈高 We Go Mall",
+      "name_en": "We Go Mall",
+      "district": "沙田區",
+      "address": "新界馬鞍山保泰街16號",
+      "address_en": "16 PO TAI STREET, MA ON SHAN, NT",
+      "latitude": 22.41412,
+      "longitude": 114.2239,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.wegomall.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:go-park-go-park-sai-sha",
+      "category": "malls",
+      "name": "西沙 Go Park",
+      "name_en": "GO PARK Sai Sha",
+      "district": "大埔區",
+      "address": "新界海映路9號",
+      "address_en": "9 HOI YING ROAD, NT",
+      "latitude": 22.42742,
+      "longitude": 114.26515,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.goparksaisha.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:monterey-monterey-place",
+      "category": "malls",
+      "name": "MONTEREY",
+      "name_en": "MONTEREY Place",
+      "district": "西貢區",
+      "address": "新界將軍澳唐俊街23號",
+      "address_en": "23 Tong Chun Street, Tseung Kwan O, New Territories",
+      "latitude": 22.30177,
+      "longitude": 114.2623,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://osouthcoast.com/sc/mall/monterey-place",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:popcorn-popcorn",
+      "category": "malls",
+      "name": "PopCorn",
+      "name_en": "PopCorn",
+      "district": "西貢區",
+      "address": "新界西貢 將軍澳唐賢街9號",
+      "address_en": "9 TONG YIN STREET, TSEUNG KWAN O, SAI KUNG, NT",
+      "latitude": 22.30767,
+      "longitude": 114.25994,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.popcorntko.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:popwalk-popwalk",
+      "category": "malls",
+      "name": "PopWalk",
+      "name_en": "PopWalk",
+      "district": "西貢區",
+      "address": "新界將軍澳唐俊街12號",
+      "address_en": "12 TONG CHUN STREET, TSEUNG KWAN O, NT",
+      "latitude": 22.30619,
+      "longitude": 114.26076,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.popwalk.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:the-lohas-the-lohas",
+      "category": "malls",
+      "name": "The LOHAS 康城",
+      "name_en": "The Lohas",
+      "district": "西貢區",
+      "address": "新界將軍澳康城路1號",
+      "address_en": "1 LOHAS PARK ROAD, TSEUNG KWAN O, NT",
+      "latitude": 22.29484,
+      "longitude": 114.27082,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.thelohasmall.com",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：指定區域可攜寵；其他範圍可能要使用寵物車或袋。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists designated pet areas. Other areas may require a stroller or carrier.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "designated_zone",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:ph-s910213-",
+      "category": "malls",
+      "name": "新都城中心二期",
+      "name_en": "MCP CENTRAL",
+      "district": "西貢區",
+      "address": "新界將軍澳欣景路8號",
+      "address_en": "8 YAN KING ROAD, TSEUNG KWAN O, NT",
+      "latitude": 22.32325,
+      "longitude": 114.25771,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": null,
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:east-point-city-east-point-city",
+      "category": "malls",
+      "name": "東港城",
+      "name_en": "East Point City",
+      "district": "西貢區",
+      "address": "新界將軍澳重華路8號",
+      "address_en": "8 CHUNG WA ROAD, TSEUNG KWAN O, NT",
+      "latitude": 22.31577,
+      "longitude": 114.2658,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": "https://www.eastpointcity.com.hk",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：需要寵物車、寵物袋或手抱；請先確認具體要求。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists stroller, carrier or hand-carried access. Confirm the exact requirements before visiting.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "carrier_only",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:ocean-wings-ocean-wings",
+      "category": "malls",
+      "name": "海天晉",
+      "name_en": "Ocean PopWalk",
+      "district": "西貢區",
+      "address": "新界將軍澳唐俊街28號",
+      "address_en": "28 TONG CHUN STREET, TSEUNG KWAN O, NT",
+      "latitude": 22.30367,
+      "longitude": 114.26131,
+      "coordinate_source": "政府 ALS；人工核對建築物／地址代表點，唔一定係入口；2026-10-23",
+      "website": null,
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "shopping_mall"
+      }
+    },
+    {
+      "id": "curated:mall:ph-s910219-1868",
+      "category": "malls",
+      "name": "馬灣1868",
+      "name_en": "Ma Wan 1868",
+      "district": "荃灣區",
+      "address": "新界馬灣珀欣路33號",
+      "address_en": "33 Pak Yan Road, Ma Wan, New Territories",
+      "latitude": 22.349358,
+      "longitude": 114.056034,
+      "coordinate_source": "PetChill 目錄地圖代表點；未獨立核實入口；目錄日期 2026-09-17",
+      "website": "https://www.mawan1868.com/sc/access/",
+      "source_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+      "source_name": "PetChill 商場目錄（第三方）",
+      "source_name_en": "PetChill mall directory (third party)",
+      "source_updated_at": "2026-09-17",
+      "pet_policy": "conditional",
+      "notes": [
+        "目錄分類：可牽繩落地；實際樓層同範圍須向商場確認。",
+        "第三方目錄收錄，唔代表已獲本項目或政府認證；出發前請向場地確認。",
+        "公共地方、個別商舖同餐廳嘅攜寵規則可能唔同。"
+      ],
+      "notes_en": [
+        "The directory lists leashed access. Confirm the permitted floors and areas with the venue.",
+        "Included in a third-party directory; not independently certified by this project or the government. Confirm with the venue before visiting.",
+        "Common areas, individual shops and restaurants may have different pet-access rules."
+      ],
+      "mall_policy": {
+        "tier": "on_leash_full",
+        "verification": "third_party",
+        "listing_url": "https://www.petchillhk.com/blog/articles/petguide-hk-pet-friendly-malls/",
+        "listing_updated_at": "2026-09-17",
+        "checked_at": null,
+        "official_policy_url": null,
+        "venue_kind": "retail_destination"
+      }
+    }
+  ]
+}

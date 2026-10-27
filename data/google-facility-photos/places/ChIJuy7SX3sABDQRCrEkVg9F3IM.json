@@ -1,0 +1,38 @@
+{
+  "id": "ChIJuy7SX3sABDQRCrEkVg9F3IM",
+  "types": [
+    "pet_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島中環威靈頓街85-89號2樓B室",
+  "location": {
+    "latitude": 22.283334999999997,
+    "longitude": 114.1544399
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9501545246016975114&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "曳曳孫寵物用品專門店",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJuy7SX3sABDQRCrEkVg9F3IM/photos/Aa-ngMaeqT7uK3EU6_sV21IX5g0f7b8X9a_KNjew-07gzjkJHRexzDtGW0McyQxlMLJy9E_mumWjU2brR9uAWS_6elzhj58-kwSchykqzYzZvdmEN4aJDaupfqWbpIFXrLf2RzAukIjQ2qhPwJ1Hj5SdIasT5CQZv1a82mhaKOWe1OHsyup9mBOp1B1K7_qYK1Ky70nJuPMX0LxvhFMloqK9Fy1o93DJoS2coiFSQqp-5jLwjwgPMko6IGLyB09ujBl_cU-f3oiUfOC78-CXQuXz1KSzIyDZbCunffRqwM1UudRvWYFcbx1MVQW5lTBlrZJk0jloaaKpwMY9jmnY2kpENjrMH7yEpZGnxMF9TYGDsx_5hi6Udrf_2C2R325cNDJ6i3DPhRH2tvPb3NsUyQ4R3gyshNaw9tEBxO5AGgUzhkUa8A",
+      "widthPx": 901,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Y Y Suen Pet Shop",
+          "uri": "https://maps.google.com/maps/contrib/114380218673515682682",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIW9PTcSL6iiM1CvnQ1xvDFFvbBMvjQ9NVi2ze0P9cmokyJmg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAVfNjZAMfC6lNct0c97pVL&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAVfNjZAMfC6lNct0c97pVL!2e10!4m2!3m1!1s0x3404007b5fd22ebb:0x83dc450f5624b10a"
+    }
+  ],
+  "photo_count": 8,
+  "fetched_at": "2026-10-24T00:38:08.263726+00:00"
+}

@@ -1,0 +1,298 @@
+{
+  "google_place_id": "ChIJAQkHZ_wBBDQR-_m0a5PyiJY",
+  "restaurant_ids": [
+    "restaurant:2263809354"
+  ],
+  "fetched_at": "2026-10-23T15:45:58.832188+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJAQkHZ_wBBDQR-_m0a5PyiJY",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3168 2538",
+    "internationalPhoneNumber": "+852 3168 2538",
+    "formattedAddress": "10 Lai Ying St, Cheung Sha Wan, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3268083,
+      "longitude": 114.1493194
+    },
+    "rating": 3.1,
+    "googleMapsUri": "https://maps.google.com/?cid=10847186417502976507&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 22:00",
+        "星期二: 10:00 – 22:00",
+        "星期三: 10:00 – 22:00",
+        "星期四: 10:00 – 22:00",
+        "星期五: 10:00 – 22:00",
+        "星期六: 10:00 – 22:00",
+        "星期日: 10:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 92,
+    "displayName": {
+      "text": "SOHO West",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "大型購物中心",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "shopping_mall",
+    "reviews": [
+      {
+        "name": "places/ChIJAQkHZ_wBBDQR-_m0a5PyiJY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5YVFqWk1Wak4zTW1SYWVqUnBWWGt5ZDFKcGQwRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 3,
+        "text": {
+          "text": "商場位於西九龍海濱地帶，毗鄰港鐵南昌站B出口，步行只需約5分鐘，鄰近西九龍高鐵站及機場快線，交通極為便利。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "商場位於西九龍海濱地帶，毗鄰港鐵南昌站B出口，步行只需約5分鐘，鄰近西九龍高鐵站及機場快線，交通極為便利。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CHRIS LAU",
+          "uri": "https://www.google.com/maps/contrib/112664476008247067693/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQnVFrnGtcseJ5FXuH_sm3ymiWYqVC4wrSwaFP8MfZVQ4VLXVn=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-19T15:00:39.951705727Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5YVFqWk1Wak4zTW1SYWVqUnBWWGt5ZDFKcGQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5YVFqWk1Wak4zTW1SYWVqUnBWWGt5ZDFKcGQwRRAB!2m1!1s0x340401fc67070901:0x9688f2936bb4f9fb"
+      },
+      {
+        "name": "places/ChIJAQkHZ_wBBDQR-_m0a5PyiJY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1dmJVY3dkSEoxVFdWQk4ySkdTbXRMTldkNVIyYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 3,
+        "text": {
+          "text": "三五間食肆，無嘢行嘅商場，海景係最大賣點，依家已經有廁所，雖然得兩格，無免泊優惠，但super charge 收$3 都算抵",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "三五間食肆，無嘢行嘅商場，海景係最大賣點，依家已經有廁所，雖然得兩格，無免泊優惠，但super charge 收$3 都算抵",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lam Floren",
+          "uri": "https://www.google.com/maps/contrib/109166495323692015101/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsaLdOGbEbPUgddCnRLzNJoneFnRTTxYVRXLWUf6lPvPUwigAy=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-06T17:03:32.584591657Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1dmJVY3dkSEoxVFdWQk4ySkdTbXRMTldkNVIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1dmJVY3dkSEoxVFdWQk4ySkdTbXRMTldkNVIyYxAB!2m1!1s0x340401fc67070901:0x9688f2936bb4f9fb"
+      },
+      {
+        "name": "places/ChIJAQkHZ_wBBDQR-_m0a5PyiJY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Ka1ZHSm1aMGRVYlVoeFp6aGZSbXRJWDNwbFJWRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "是一個可以吹住海風 觀賞日落景色變化的好地方",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "是一個可以吹住海風 觀賞日落景色變化的好地方",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "William Chan",
+          "uri": "https://www.google.com/maps/contrib/109016636277957081353/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLffcaDxbCZrz6XdknffnrTYB1MOqQbkMdkteCgnYyAcP3Q8xk=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-15T11:14:00.816199596Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Ka1ZHSm1aMGRVYlVoeFp6aGZSbXRJWDNwbFJWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ka1ZHSm1aMGRVYlVoeFp6aGZSbXRJWDNwbFJWRRAB!2m1!1s0x340401fc67070901:0x9688f2936bb4f9fb"
+      },
+      {
+        "name": "places/ChIJAQkHZ_wBBDQR-_m0a5PyiJY/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3NTRTOGpRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "令人失望的商場，雖然新開不久，還有店舖待租，但規模很小，設施設備完全唔足夠，最簡單的男女洗手間都無，每層只有一個無障礙厠所，內裡很污穢，地下有積水，感覺很差。樓上店舖只有屈臣氏，大快活、茶餐廳及一間韓式cafe等。樓下有咖啡店，連接酒店入口及海濱長廊。雖然有停車場，但配套不足，很難見到一個垃圾桶。還有商場中央是露天，下雨時，地面有蓋的位置較少。還有只有商場地面，停車場乘電梯、海濱長廊及酒店是寵物友善，保安人員說商場地面以上之樓層並不是寵物友善的。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "令人失望的商場，雖然新開不久，還有店舖待租，但規模很小，設施設備完全唔足夠，最簡單的男女洗手間都無，每層只有一個無障礙厠所，內裡很污穢，地下有積水，感覺很差。樓上店舖只有屈臣氏，大快活、茶餐廳及一間韓式cafe等。樓下有咖啡店，連接酒店入口及海濱長廊。雖然有停車場，但配套不足，很難見到一個垃圾桶。還有商場中央是露天，下雨時，地面有蓋的位置較少。還有只有商場地面，停車場乘電梯、海濱長廊及酒店是寵物友善，保安人員說商場地面以上之樓層並不是寵物友善的。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mel Leung",
+          "uri": "https://www.google.com/maps/contrib/110815654318796693880/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsfu315xDsbjPaqYGEn0h6vuTMn9ZIJ9kzZziqsPaf91dgEgpmGw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-08-19T00:42:28.592708Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3NTRTOGpRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3NTRTOGpRRRAB!2m1!1s0x340401fc67070901:0x9688f2936bb4f9fb"
+      },
+      {
+        "name": "places/ChIJAQkHZ_wBBDQR-_m0a5PyiJY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GV1FuWkdZWFJ3Um10TE4yRmhNV05aVVVsbFkxRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "地點隔涉，得三間餐廳，屈臣氏，美容院，24/7, 吉鋪多，最差係中空設計，好天曬落雨淋。得二樓有廁所，仲要得兩格。\n只得海濱長廊較吸引",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地點隔涉，得三間餐廳，屈臣氏，美容院，24/7, 吉鋪多，最差係中空設計，好天曬落雨淋。得二樓有廁所，仲要得兩格。\n只得海濱長廊較吸引",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cherie Cho",
+          "uri": "https://www.google.com/maps/contrib/113181853831768825245/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImLX92DBZMbzFeNuWrn4Y1OAd8wKDSjSmlutFdebGa5Swwzg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-06-26T11:31:20.679908009Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GV1FuWkdZWFJ3Um10TE4yRmhNV05aVVVsbFkxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GV1FuWkdZWFJ3Um10TE4yRmhNV05aVVVsbFkxRRAB!2m1!1s0x340401fc67070901:0x9688f2936bb4f9fb"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401fc67070901:0x9688f2936bb4f9fb!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10847186417502976507&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401fc67070901:0x9688f2936bb4f9fb!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401fc67070901:0x9688f2936bb4f9fb!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401fc67070901:0x9688f2936bb4f9fb!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJAQkHZ_wBBDQR-_m0a5PyiJY/photos/Aa-ngMZ3wbHFrLBWXnw_qRJfRBvIysFmf0knCNpuFAKHTl-jGs2NudIUNn5EeW0ro0izAHZDv0O_wXIvPakwyWB4WXKZsYwmIlTdJFucpU4Lq-4AQNO_J03nCiqMB5FA4RnXHwWHISbr4YPhqluxxwv1XULVFZ1vh1EbtD5_N-Nu2KjPr-VU6ngPd9_J03TtO0xHq7lHhvKad387vZ2Cn2tcHIvyDe83M5wYhWmu-aJ7YG4S8dKiyl23Ffec000r3a28DWP1tnvO5RYAPCtzNInqqEWkmi7ev-X_c-xoNDgdDlRNlm158fLIl6kA50sNQYpU8-orYsI06fT2XczJ09rnwLTXQ-lI8oEimCUAJkpotgMq5tN4u_azfp5HDlEJeThfubOhg_ppeGYG_sLzOqLW817MByI",
+      "widthPx": 1573,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "SOHO West",
+          "uri": "https://maps.google.com/maps/contrib/103900255146851837877",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2oj3QRDdbKQbaVAaEMjvTLtyc-RlbbyvjvIybDf3_KhZ7rg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDzqozgfQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzqozgfQ!2e10!4m2!3m1!1s0x340401fc67070901:0x9688f2936bb4f9fb"
+    },
+    "local_path": "photos/ChIJAQkHZ_wBBDQR-_m0a5PyiJY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLccQLPVMnSXGAg4PO2rhExY798eHYKfpAwLkQ7XmYvYMCALXxH4Nys-ayg8ZgBL-ZYB5sGaPKrGu2v9RmMlPNjkbzS1emU4lCdZMbzls2F9oJGCzxLPxy5jEPy94g85ov_O3WTE=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 233779
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "shopping_mall",
+    "label": "大型購物中心",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

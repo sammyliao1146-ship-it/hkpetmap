@@ -1,0 +1,39 @@
+{
+  "id": "ChIJVRMvnk8BBDQReMXu4SQ3Oko",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍觀塘駿業里10號業運工業大廈6樓D室",
+  "location": {
+    "latitude": 22.312696499999998,
+    "longitude": 114.22422399999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5348648139004757368&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Ro-La The Pet Hotel",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJVRMvnk8BBDQReMXu4SQ3Oko/photos/Aa-ngMZbZYkfAH48WndeEov3DGTIrj5MlQ0Y7TKXB92w_5MOm7ovbbigSqLvlAaM_eq4F-sJ_gJHUhVej9H-ZnzngKHHvIq5JLXhIQAOrdNdEvdXiy3WL_OX6XcGNEPnzuNqAY1ha43c4ZHNECU-XFwGoetETca2a3SlKM1KQIsrDmAB9LougDJy-HNm9n2Xg7NBkC5WF7lgMkrNBq9ViFTpY5y7ToybjNAw1f4oxY3UuFPj9O8Q607tQIXimfNF_PI9_olkTaJpf8TcdsUuKXlo-2aLT7D6kxJN5gaRwY7_Zq5NMTypJ0mRHzHQs0VPCCjOs-huVTX3lzM1Q_GAw8Q07k1xxoXfNtAjPOZsp1n6W3lgSt8Y8a5Fiu1Ago53sZSMmJOptH21Msi8zlzhp4EayS1ZEdJg1_k",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "authorAttributions": [
+        {
+          "displayName": "Ro-La The Pet Hotel",
+          "uri": "https://maps.google.com/maps/contrib/106117864780314032923",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8DS8BXM1eaeJf-h7vpAFzvBkCEo0W_IsAeuhY78S0OHVRXVQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICay6O2gAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICay6O2gAE!2e10!4m2!3m1!1s0x3404014f9e2f1355:0x4a3a3724e1eec578"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:08.262860+00:00"
+}

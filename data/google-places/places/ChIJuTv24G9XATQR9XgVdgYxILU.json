@@ -1,0 +1,298 @@
+{
+  "google_place_id": "ChIJuTv24G9XATQR9XgVdgYxILU",
+  "restaurant_ids": [
+    "restaurant:3117801102"
+  ],
+  "fetched_at": "2026-10-23T15:39:41.060717+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJuTv24G9XATQR9XgVdgYxILU",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9320 8809",
+    "internationalPhoneNumber": "+852 9320 8809",
+    "formattedAddress": "香港新界長洲海傍街35號号地下",
+    "location": {
+      "latitude": 22.2080524,
+      "longitude": 114.0288504
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=13051485623940380917&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:00 – 01:00",
+        "星期二: 16:00 – 01:00",
+        "星期三: 16:00 – 01:00",
+        "星期四: 16:00 – 01:00",
+        "星期五: 16:00 – 02:00",
+        "星期六: 16:00 – 02:00",
+        "星期日: 16:00 – 01:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 19,
+    "displayName": {
+      "text": "Arena Cheung Chau",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "servesBeer": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJuTv24G9XATQR9XgVdgYxILU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pseFVXOVBiR3RJWkdaellVVmpWREpKT0ZrNVEzYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "香港長洲",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "香港長洲",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "LE M L",
+          "uri": "https://www.google.com/maps/contrib/108236053400432076240/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULOf0enSZ4P1pPhly5imvq68uZkQxd_CI-DnxfMOfJilg--CvQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-06T10:32:37.378016064Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pseFVXOVBiR3RJWkdaellVVmpWREpKT0ZrNVEzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pseFVXOVBiR3RJWkdaellVVmpWREpKT0ZrNVEzYxAB!2m1!1s0x3401576fe0f63bb9:0xb5203106761578f5"
+      },
+      {
+        "name": "places/ChIJuTv24G9XATQR9XgVdgYxILU/reviews/ChZDSUhNMG9nS0VJQ0FnSURRcTZ2Qk9REAE",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "text": {
+          "text": "逛了一整天街、健行、觀光之後，順道來這裡喝幾杯——真是驚喜連連。\n\n在長洲能找到這樣溫馨現代的酒吧真是太棒了，無論是和朋友小酌，還是情侶約會，這裡都是絕佳之選。\n\n酒單很棒，調酒師對飲品的了解也十分透徹。所有飲品都採用新鮮食材調製——我們親眼看到他們從薄荷葉上摘下來，清洗乾淨後再加入飲品中！\n\n員工超級友好，非常熱情。氣氛極佳，溫馨現代又輕鬆愜意。店內非常乾淨整潔。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Stopped in for some drinks after a long day of shopping, hiking, and site seeing - pleasantly surprised.\n\nIt's great to be able to find such a cozy and modern style pub in Cheung Chau, great place to meet you for drinks with friends or just as a couple.\n\nExcellent drink menu, bar staff know their drinkology really well. Everything made fresh with fresh ingredients - we saw them pluck the mint leaves for our mojitos right off the plant, wash and clean and then put into the drinks!!!\n\nSuper friendly staff, very fun. Great atmosphere, very cozy and modern and relaxed. Very clean shop.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Derrick C.",
+          "uri": "https://www.google.com/maps/contrib/110814617581419786924/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs1uFjMazvCRHVfpOYjbE2O9-vn00ObKWhkWaec3Hx1g52EStoGg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2018-10-04T01:33:45.920216Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURRcTZ2Qk9REAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURRcTZ2Qk9REAE!2m1!1s0x3401576fe0f63bb9:0xb5203106761578f5"
+      },
+      {
+        "name": "places/ChIJuTv24G9XATQR9XgVdgYxILU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKM09HeE9UbTh0ZEhFM04zZHVaVU15V1RWYWVFRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "as i walked in i didn’t see anyone working at the bar but there was a women sitting on a table watching me distantly. i asked “do you work here” and she responded with an empty face, unmoved. i took that as a no and waited for someone to appear. after a few minutes of feeling her stare in my direction she stood up to pass me a menu with an estranging look and walked into the bar facing elsewhere… not sure if that’s deterrence or excellent intrigue for attracting customers!",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "as i walked in i didn’t see anyone working at the bar but there was a women sitting on a table watching me distantly. i asked “do you work here” and she responded with an empty face, unmoved. i took that as a no and waited for someone to appear. after a few minutes of feeling her stare in my direction she stood up to pass me a menu with an estranging look and walked into the bar facing elsewhere… not sure if that’s deterrence or excellent intrigue for attracting customers!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "monster icing",
+          "uri": "https://www.google.com/maps/contrib/109648390204327065859/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-QP1gmOKiCcofWfc5aE9qROarhNvR2ft64AcC_RqivnjbbDwz=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-07-06T12:27:20.676983746Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKM09HeE9UbTh0ZEhFM04zZHVaVU15V1RWYWVFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKM09HeE9UbTh0ZEhFM04zZHVaVU15V1RWYWVFRRAB!2m1!1s0x3401576fe0f63bb9:0xb5203106761578f5"
+      },
+      {
+        "name": "places/ChIJuTv24G9XATQR9XgVdgYxILU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzc052V01BEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "我女朋友先點了一杯長島冰茶。\n\n但這根本不是長島冰茶，好幾種關鍵配料都漏掉了。\n\n之後，她又點了一杯金湯力。\n\n他們收了我們高檔金酒的錢，結果用的只是店裡的普通金酒。\n\n我們自己也開酒吧，所以很清楚狀況。\n\n結帳的時候，我跟上面提到的那位女士說了這件事。\n\n她連眼皮都沒眨一下，也沒有任何反應。\n\n她覺得這很正常。\n\n如果犯了錯，就應該承認，或至少道歉。\n\n我們以後再也不會來這家店了，也建議其他顧客在結帳和點酒的時候一定要仔細核對，因為他們會坑你。\n\n別來這家店，長洲有很多比這好得多的酒吧。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "My girlfriend ordered first a Long Island.\nThis was not a long island. Several key ingredients were missing.\nAfter that, she ordered a GIN Tonic.\nThey charged us high-end gin, but it was just house gin.\nWe own a bar and know what we're talking about\nWhen I paid the bill, I told the lady above.\nShe didn't even blink or react.\nShe just took it as it was normal.\nIf you make a mistake, admit it or at least apologize.\nWe will never go here again and recommend customers to check there bill and drinks as they cheat you.\nSkip this place, there are way better bars at Cheung Chau",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Jos Lenssinck",
+          "uri": "https://www.google.com/maps/contrib/112136237166945349424/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0lSI4DDkMOppBHjevyYyrlzmdbWvxuV8Ias10DiLHyzdJXZ-q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-11-11T12:40:35.137978Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzc052V01BEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzc052V01BEAE!2m1!1s0x3401576fe0f63bb9:0xb5203106761578f5"
+      },
+      {
+        "name": "places/ChIJuTv24G9XATQR9XgVdgYxILU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2todFJFcFBTRUl5WnpOSVRVTlVPV2RLVkZveFRrRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 1,
+        "text": {
+          "text": "避之不及。五次交流中，女服务员全程沉默不语，仿佛因为沟通困难，她只是在酒吧里思考着虚无主义的存在，有时甚至会打瞌睡。莫吉托雞尾酒就是蘇打水加荔枝。這種地方根本不配接待客人。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Avoid like the plague. Within 5 interactions, the waitress acted mute, didn’t utter a single word, due to the pain of communication and contemplating a nihilistic existince in the bar, sleeping at times. The mojito was soda water with lychee. This place place doesn’t deserve to receive people.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "GV",
+          "uri": "https://www.google.com/maps/contrib/101218627659107471054/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLCmT0JuyjndWmeD-ILHnrozPGxZ7Z81kVVr8Efplmp8IxvZQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-08T10:49:41.562452089Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2todFJFcFBTRUl5WnpOSVRVTlVPV2RLVkZveFRrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2todFJFcFBTRUl5WnpOSVRVTlVPV2RLVkZveFRrRRAB!2m1!1s0x3401576fe0f63bb9:0xb5203106761578f5"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3401576fe0f63bb9:0xb5203106761578f5!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13051485623940380917&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3401576fe0f63bb9:0xb5203106761578f5!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3401576fe0f63bb9:0xb5203106761578f5!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3401576fe0f63bb9:0xb5203106761578f5!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJuTv24G9XATQR9XgVdgYxILU/photos/Aa-ngMaENZ4HGzgQLK1xdlPEJcpngCAOcTXXJBoDkG7HZdPimiznJBVtwp_QqmkF8DCv2V21_ucVXZBvWfzTZF-ApkeKZbWwfIfc8CqEX-pxEMT2eIrnQLZn7ioNj_Hl_h0TAcXABgdw9rp96mbW37av676oSOzcDjm0zMvcHztw1HLk_6KyjOKvXW1e_1B_gwXHHXS9_6B51YFJ_nhjdnLw0xdcdht3K3ah7lXyGCbtsPLuM9mRFF9tmkuBN11-TX_jxxomXsiiTDi6zHhIYzQiYF2q06RGGYwBw-IjrcqSmUowcQxT_fF_LwsLTNNQSOSVy4PMOWNMNDfoycCKig74VMODE2wzRVK6UFXW7CTenLzXRTa7rasQgt1YFtgt8rltr76-4J6h5g7xGFGlj7MviUmdVeUlTKY",
+      "widthPx": 3996,
+      "heightPx": 2664,
+      "authorAttributions": [
+        {
+          "displayName": "Derrick C.",
+          "uri": "https://maps.google.com/maps/contrib/110814617581419786924",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs1uFjMazvCRHVfpOYjbE2O9-vn00ObKWhkWaec3Hx1g52EStoGg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkmpvs-gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkmpvs-gE!2e10!4m2!3m1!1s0x3401576fe0f63bb9:0xb5203106761578f5"
+    },
+    "local_path": "photos/ChIJuTv24G9XATQR9XgVdgYxILU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4bBRe6ADgoaFKorDJ-vz8qPf0WSJv67yUFWb0gnMk0iQ_Zann8bmiIp1_RcDVnmNQUn9JE7N2CL0Z7I46rt87-ukZEfmHQb8ruswAUtR2Qgx7QpCwPn3YoN_-nn3_HlW8vrjb9g=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 157182
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

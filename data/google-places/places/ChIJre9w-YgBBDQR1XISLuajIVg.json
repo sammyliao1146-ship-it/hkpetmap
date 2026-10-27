@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJre9w-YgBBDQR1XISLuajIVg",
+  "restaurant_ids": [
+    "restaurant:2211806718"
+  ],
+  "fetched_at": "2026-10-23T15:45:32.768627+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJre9w-YgBBDQR1XISLuajIVg",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2328 7036",
+    "internationalPhoneNumber": "+852 2328 7036",
+    "formattedAddress": "香港香港島柴灣環翠道11號1號樓101-102號",
+    "location": {
+      "latitude": 22.2624226,
+      "longitude": 114.23603299999999
+    },
+    "rating": 3.3,
+    "googleMapsUri": "https://maps.google.com/?cid=6350537158579876565&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:30 – 22:00",
+        "星期二: 06:30 – 22:00",
+        "星期三: 06:30 – 22:00",
+        "星期四: 06:30 – 22:00",
+        "星期五: 06:30 – 22:00",
+        "星期六: 06:30 – 22:00",
+        "星期日: 06:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-23T22:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 516,
+    "displayName": {
+      "text": "民華餐廳",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJre9w-YgBBDQR1XISLuajIVg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIOTUzX193RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "這間店舖位於柴灣地鐵站E出口，步行大約6分鐘，在興華廣場𥚃，是一間港式茶餐廳，餐廳裝修環境整潔，座位方面比較較狹窄，餐具方面，衛生乾淨沒有油膩感，食物選擇不算太多，但有新鮮麵包及中式點心提供，作為一間屋苑內小型茶餐廳，尚算不錯，以常餐以言，整體食物味道不錯，點餐可以選擇傳統人手及自助二維碼，wifi方面，可以使用商場免費提供，上餐速度正常不用等太久，付款方面，接受現金及電子貨幣，至於職員服務態度良好及有禮貌。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間店舖位於柴灣地鐵站E出口，步行大約6分鐘，在興華廣場𥚃，是一間港式茶餐廳，餐廳裝修環境整潔，座位方面比較較狹窄，餐具方面，衛生乾淨沒有油膩感，食物選擇不算太多，但有新鮮麵包及中式點心提供，作為一間屋苑內小型茶餐廳，尚算不錯，以常餐以言，整體食物味道不錯，點餐可以選擇傳統人手及自助二維碼，wifi方面，可以使用商場免費提供，上餐速度正常不用等太久，付款方面，接受現金及電子貨幣，至於職員服務態度良好及有禮貌。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "文妮",
+          "uri": "https://www.google.com/maps/contrib/112998402943931378224/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUm5pQ2Sv_I936JsU7ZfWmBCn9nM1GagkuyX-AH7FI54xn3IC-h=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-09-10T05:19:30.467709Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIOTUzX193RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIOTUzX193RRAB!2m1!1s0x34040188f970efad:0x5821a3e62e1272d5"
+      },
+      {
+        "name": "places/ChIJre9w-YgBBDQR1XISLuajIVg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZdkl2cllBEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 3,
+        "text": {
+          "text": "另一時下流行的冰室，即高級版的茶餐廳。炒蛋有水準，通粉卻一般。波蘿油味道可以，包鬆軟皮不是很脆。每日都有自家製麵包出爐，新鮮好味",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "另一時下流行的冰室，即高級版的茶餐廳。炒蛋有水準，通粉卻一般。波蘿油味道可以，包鬆軟皮不是很脆。每日都有自家製麵包出爐，新鮮好味",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jason To",
+          "uri": "https://www.google.com/maps/contrib/100619914520091418138/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPkNQODRWSv8N_k6975SBchi5JQVIeO1hyq8eehOSMwVaXcuI1=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2019-04-07T08:25:29.417160Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNZdkl2cllBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNZdkl2cllBEAE!2m1!1s0x34040188f970efad:0x5821a3e62e1272d5"
+      },
+      {
+        "name": "places/ChIJre9w-YgBBDQR1XISLuajIVg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwbnNiVUR3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "地地道道嘅街坊茶餐廳，環境算係咁，似乎全由阿姐主理。食物餐飲選擇多，連廣式點心都有供應，但屬山寨質素；價錢係合理大眾化，但麵包價錢就唔係街坊水平嘞。午市時，時不時傳嚟阿姐嘅講嘢聲，以至叫喊聲，此外，餐廳環境唔算嘈雜。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地地道道嘅街坊茶餐廳，環境算係咁，似乎全由阿姐主理。食物餐飲選擇多，連廣式點心都有供應，但屬山寨質素；價錢係合理大眾化，但麵包價錢就唔係街坊水平嘞。午市時，時不時傳嚟阿姐嘅講嘢聲，以至叫喊聲，此外，餐廳環境唔算嘈雜。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "非貓",
+          "uri": "https://www.google.com/maps/contrib/103016729342418437134/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrUxfnQVXC9vXz--NJ_z9NQb0MeSVUmqreVkP5seFwQ4VQgw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-08-04T10:03:18.197448Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwbnNiVUR3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwbnNiVUR3EAE!2m1!1s0x34040188f970efad:0x5821a3e62e1272d5"
+      },
+      {
+        "name": "places/ChIJre9w-YgBBDQR1XISLuajIVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paeVFUY3dVazVXUVd4WVNWTjFXVmx1V1hZeGNIYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 2,
+        "text": {
+          "text": "55蚊滑蛋牛肉飯 不包野飲  勝在食晏時間都有位坐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "55蚊滑蛋牛肉飯 不包野飲  勝在食晏時間都有位坐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yy cheng",
+          "uri": "https://www.google.com/maps/contrib/108866127324354979415/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9Gc430rtJiNInlXSaNeII-kOjO2buljMaZwTkQ6_DToZfMGsI=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-05T05:49:24.026379268Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paeVFUY3dVazVXUVd4WVNWTjFXVmx1V1hZeGNIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paeVFUY3dVazVXUVd4WVNWTjFXVmx1V1hZeGNIYxAB!2m1!1s0x34040188f970efad:0x5821a3e62e1272d5"
+      },
+      {
+        "name": "places/ChIJre9w-YgBBDQR1XISLuajIVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxdVJ6WTRabkpMWlUxZk5rdFdkazVzUTB0Q1dGRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 1,
+        "text": {
+          "text": "阿姐態度極劣會亂鬧客，超級串嘴！就算個客沒出聲，佢都會口up up不停抱怨，仲會為難d客。\n\n除左男經理幾好人之外，有其中一個短髮阿姐店員非常極之沒禮貌。次次預到佢，食客都沒好下場。\n\n食完後，店中間個地下勁多油，出門前差d線親我屋企人。同店員講，個阿姐道歉都沒句，仲要黑面直接拖地，其實個刻應該要call食環。 屋企人息事寧人先算數。\n\n呢間野，食物係ok既, 但要幫襯既，首先預返生命安全會受威脅，仲要洗錢都預左畀d阿姐鬧，覺得全個柴灣冇野就入去食囉。\n\n食快餐店好過佢啦。畀過幾次機會，不了。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "阿姐態度極劣會亂鬧客，超級串嘴！就算個客沒出聲，佢都會口up up不停抱怨，仲會為難d客。\n\n除左男經理幾好人之外，有其中一個短髮阿姐店員非常極之沒禮貌。次次預到佢，食客都沒好下場。\n\n食完後，店中間個地下勁多油，出門前差d線親我屋企人。同店員講，個阿姐道歉都沒句，仲要黑面直接拖地，其實個刻應該要call食環。 屋企人息事寧人先算數。\n\n呢間野，食物係ok既, 但要幫襯既，首先預返生命安全會受威脅，仲要洗錢都預左畀d阿姐鬧，覺得全個柴灣冇野就入去食囉。\n\n食快餐店好過佢啦。畀過幾次機會，不了。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sena Kiryu",
+          "uri": "https://www.google.com/maps/contrib/103150069647546617751/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKyw0Hi-dCrZPGlVJHnUYPwqWdoyZ_ob_h8vObLROaTTe9D3g=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-12T10:20:00.099408338Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxdVJ6WTRabkpMWlUxZk5rdFdkazVzUTB0Q1dGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxdVJ6WTRabkpMWlUxZk5rdFdkazVzUTB0Q1dGRRAB!2m1!1s0x34040188f970efad:0x5821a3e62e1272d5"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false
+    },
+    "parkingOptions": {
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040188f970efad:0x5821a3e62e1272d5!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6350537158579876565&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040188f970efad:0x5821a3e62e1272d5!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040188f970efad:0x5821a3e62e1272d5!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040188f970efad:0x5821a3e62e1272d5!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJre9w-YgBBDQR1XISLuajIVg/photos/Aa-ngMZ0drvbZ042ahQTOKiP4M_ZheNSIAHuiZFf8K16EkrYcq3D_PCbexH48bsULUxv1c1-FF7E825q3u2kgqz2y7biv6n-x6z37Oh0JS-hH-hxl1Hg7oXfrsh2frI8_LxrNqytTkka3gPg240uWTEFh1noMn7gfPvP3HW5ojDV7pvlWymT45CcZiRVIslPnpdZTvS_PWru3Ig8y_4wd4Sg7R7sdNbH0U7c2iQNK2SVIhfKFEKQaJ-HWYRF5CwTI6xZgf7HLOJ4b-2aozRXxPe7xmJRWqBFNvA9veWRIchmigEwFv_6sU3i__1AfsSuNkhRwF8bsMnIDOfJ8XHcKRwGgzZKpsJuuTEUMrD5uhyn4uiOkRQ3kJGuaDVWdac_UUo3ep3iYD--aPp1wmWAPDcaC3lcMI8S5A3GMU3fF9rzzFYuzA",
+      "widthPx": 3816,
+      "heightPx": 2148,
+      "authorAttributions": [
+        {
+          "displayName": "Vincent Leung",
+          "uri": "https://maps.google.com/maps/contrib/115747759162740191382",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUURB2a33S8axPWqly4EzN7gwZpftEP4YERTWUFCyMw6VvNHfJU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAmzZQPo0F-ZRXRfu9Gc4ns&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAmzZQPo0F-ZRXRfu9Gc4ns!2e10!4m2!3m1!1s0x34040188f970efad:0x5821a3e62e1272d5"
+    },
+    "local_path": "photos/ChIJre9w-YgBBDQR1XISLuajIVg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0mcjI_g53GovfeJVxSPsyGwuc9_iIw7jSgnQct65X7YQNnkb56sQ6Hxu-R3s2BD47nlU60Nl2hm0KUqq6mQMM_9lUIrwJi4SYxtM3NAtqUGBzkPTJqsJTu8hO2VYf71T5F6upWAUS-LHt=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 120469
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

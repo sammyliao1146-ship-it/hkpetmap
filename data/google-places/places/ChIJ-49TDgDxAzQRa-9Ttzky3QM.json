@@ -1,0 +1,273 @@
+{
+  "google_place_id": "ChIJ-49TDgDxAzQRa-9Ttzky3QM",
+  "restaurant_ids": [
+    "restaurant:3194804283"
+  ],
+  "fetched_at": "2026-10-23T15:37:47.050120+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ-49TDgDxAzQRa-9Ttzky3QM",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6593 6822",
+    "internationalPhoneNumber": "+852 6593 6822",
+    "formattedAddress": "香港新界元朗鳳攸南街3號",
+    "location": {
+      "latitude": 22.4420205,
+      "longitude": 114.0336786
+    },
+    "rating": 5,
+    "googleMapsUri": "https://maps.google.com/?cid=278433975437094763&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 21:30",
+        "星期二: 12:00 – 21:30",
+        "星期三: 休息",
+        "星期四: 12:00 – 21:30",
+        "星期五: 12:00 – 21:30",
+        "星期六: 10:00 – 21:30",
+        "星期日: 10:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 5,
+    "displayName": {
+      "text": "八厘米",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesDinner": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ-49TDgDxAzQRa-9Ttzky3QM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5WGVsVnFjVXhTYzBVeVowNUNiMWRmVEZaTVpVRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物好食，咖啡好飲抵飲，環境坐得舒服，老闆娘服務殷勤",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物好食，咖啡好飲抵飲，環境坐得舒服，老闆娘服務殷勤",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Andrea Lok",
+          "uri": "https://www.google.com/maps/contrib/117774543668811376844/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK4czxun91O5oksh85Mqv5wk3SV9DOK4yO7llFUyoxEFzhRNw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-29T05:45:15.577291687Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5WGVsVnFjVXhTYzBVeVowNUNiMWRmVEZaTVpVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5WGVsVnFjVXhTYzBVeVowNUNiMWRmVEZaTVpVRRAB!2m1!1s0x3403f1000e538ffb:0x3dd3239b753ef6b"
+      },
+      {
+        "name": "places/ChIJ-49TDgDxAzQRa-9Ttzky3QM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aVVgyWlpMVjlEZVVGQlQyVjBPWFJCVkRseFpWRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "廚師發板好好味！好有心既小店。值得多多支持！\n\n自家製蟹餅/ 雞胸華都夫沙律/ 香草欖油浸鮮吊桶/ 香煎鵝肝焦糖洋蔥伴炸蝦子麵 / 烤焗香草牛油鮮野菌多寶魚 / 梳乎厘",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "廚師發板好好味！好有心既小店。值得多多支持！\n\n自家製蟹餅/ 雞胸華都夫沙律/ 香草欖油浸鮮吊桶/ 香煎鵝肝焦糖洋蔥伴炸蝦子麵 / 烤焗香草牛油鮮野菌多寶魚 / 梳乎厘",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sammi1705",
+          "uri": "https://www.google.com/maps/contrib/100117173073405830332/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLTG-F-yY8V4GjbWyQ_yx5DFucs3QaiP0Wwc0NusOaJ-4wIuA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-11T15:22:56.045194654Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aVVgyWlpMVjlEZVVGQlQyVjBPWFJCVkRseFpWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aVVgyWlpMVjlEZVVGQlQyVjBPWFJCVkRseFpWRRAB!2m1!1s0x3403f1000e538ffb:0x3dd3239b753ef6b"
+      },
+      {
+        "name": "places/ChIJ-49TDgDxAzQRa-9Ttzky3QM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTE5EZGxlRFZhUjFFNVNuQXllRVZTY21ScGRsRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "小店食物質素高，服務良好，值得高度推介！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "小店食物質素高，服務良好，值得高度推介！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jim Leung",
+          "uri": "https://www.google.com/maps/contrib/111570044279228640852/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ6f2bWe12I0Vtut067JX-AqNzdBTrCTIZ08Dky5WsvwGOmTA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-05T04:50:08.721707326Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aTE5EZGxlRFZhUjFFNVNuQXllRVZTY21ScGRsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aTE5EZGxlRFZhUjFFNVNuQXllRVZTY21ScGRsRRAB!2m1!1s0x3403f1000e538ffb:0x3dd3239b753ef6b"
+      },
+      {
+        "name": "places/ChIJ-49TDgDxAzQRa-9Ttzky3QM/reviews/Ci9DQUlRQUNvZENodHljRjlvT201SmJuaGpVMFJ3WjBKZllsbEpZMmxpYnpGSWVVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "豬扒好juicy, 好好食，掂。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "豬扒好juicy, 好好食，掂。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lok Fung",
+          "uri": "https://www.google.com/maps/contrib/106736298890479952322/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWavmBizl_whnCY4juwUzHG6-BlxsCBjwH1aG0QFkCVnNdjd2AJ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-24T10:21:43.055655548Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201SmJuaGpVMFJ3WjBKZllsbEpZMmxpYnpGSWVVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201SmJuaGpVMFJ3WjBKZllsbEpZMmxpYnpGSWVVRRAB!2m1!1s0x3403f1000e538ffb:0x3dd3239b753ef6b"
+      },
+      {
+        "name": "places/ChIJ-49TDgDxAzQRa-9Ttzky3QM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25seUxXWnpkekJQWTNwRlYzVk5aVU40WTA5amJtYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Carmen Law",
+          "uri": "https://www.google.com/maps/contrib/115193195408812701633/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLhw8JSrOjBwjDh_F0rgRIPT0sa0eQfZgvMHU52swfw1f5TPQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-21T06:13:51.549256117Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25seUxXWnpkekJQWTNwRlYzVk5aVU40WTA5amJtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25seUxXWnpkekJQWTNwRlYzVk5aVU40WTA5amJtYxAB!2m1!1s0x3403f1000e538ffb:0x3dd3239b753ef6b"
+      }
+    ],
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f1000e538ffb:0x3dd3239b753ef6b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=278433975437094763&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f1000e538ffb:0x3dd3239b753ef6b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f1000e538ffb:0x3dd3239b753ef6b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f1000e538ffb:0x3dd3239b753ef6b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ-49TDgDxAzQRa-9Ttzky3QM/photos/Aa-ngMYnbjWEd9L7k3dlQAWu8YiOJnRMhpqKU1DxiLx93OYxwQ3US5PpgxhAmHWYlmcHdhF5efjh_ldwsbmyMvO8yJPjlWxRMsoytkj7VPxGIPyoZmcUpFDKDpu2oPgWnymWHQThV-KO4K0EaVSxWMm7LKOicAT1Jw4_R0cJ-S4OjnqEgMcZWQ_oyGUS6K4W78jr3AYtEzofK0L-c1cd_sCBvEYuau2fPhTmgArvx4zz7XMPupf0kHXNcKyvs2XUlE57kJ8JRPnFH1ll-FM0H7I-K4d_LT5Ee8p4YGL2nbnDvF1XaQfNPXhwl7IOxjZtR9NTpTZdlssttfikxoUxzSUJnQXdRxYeUtv4XmIeq7ESJGexl_Vu5XT6rEX5TA4B4R_kQmPF79bHS0Ls3Uditd6X0Qd05nND2G2lWoeT3i1NEV7Q0A",
+      "widthPx": 1170,
+      "heightPx": 1506,
+      "authorAttributions": [
+        {
+          "displayName": "Carmen Law",
+          "uri": "https://maps.google.com/maps/contrib/115193195408812701633",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLhw8JSrOjBwjDh_F0rgRIPT0sa0eQfZgvMHU52swfw1f5TPQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCirZX02qah4TnleCHwaBmd&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCirZX02qah4TnleCHwaBmd!2e10!4m2!3m1!1s0x3403f1000e538ffb:0x3dd3239b753ef6b"
+    },
+    "local_path": "photos/ChIJ-49TDgDxAzQRa-9Ttzky3QM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLen8aSE_CbTS3vG-ZU3Iu-d6F2nReMsnJvhVggiz3TUCuQPJoTrfDFCDTWAHTm-jYq3PFIwoUslVua4qH6Dzl0EqlntjYDdgnFuDdd2UHWBfTCU9e7YX1vnJDifEgV6RrRVTynonm2Kf3S7=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 149778
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

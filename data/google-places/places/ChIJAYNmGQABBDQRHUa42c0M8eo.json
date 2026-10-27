@@ -1,0 +1,325 @@
+{
+  "google_place_id": "ChIJAYNmGQABBDQRHUa42c0M8eo",
+  "restaurant_ids": [
+    "restaurant:2211136888"
+  ],
+  "fetched_at": "2026-10-23T15:38:42.871785+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJAYNmGQABBDQRHUa42c0M8eo",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2806 2635",
+    "internationalPhoneNumber": "+852 2806 2635",
+    "formattedAddress": "3A 地下, Southward Mansion, 3 Lau Li St, Tin Hau, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.28433,
+      "longitude": 114.1920487
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=16929326552522966557&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 00:30",
+        "星期二: 11:30 – 00:30",
+        "星期三: 11:30 – 00:30",
+        "星期四: 11:30 – 00:30",
+        "星期五: 11:30 – 00:30",
+        "星期六: 11:30 – 00:30",
+        "星期日: 11:30 – 00:30"
+      ],
+      "nextCloseTime": "2026-10-23T16:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 251,
+    "displayName": {
+      "text": "發記飯店",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": false,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJAYNmGQABBDQRHUa42c0M8eo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OaVVVSjFkalJKUzJKZmVXWXdNV2x4Ulc1SE1XYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "在港經營20年的老店，主打上海、潮州菜，口味依舊中規中矩，吃的是懷舊。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "在港經營20年的老店，主打上海、潮州菜，口味依舊中規中矩，吃的是懷舊。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Halo Andy",
+          "uri": "https://www.google.com/maps/contrib/111520299090032233925/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSF3FoSg5uozb2TfqXpkKfqWVf5ZKidLa6yAzf4Qz9LB33pM9-=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-07-04T03:27:42.089807390Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OaVVVSjFkalJKUzJKZmVXWXdNV2x4Ulc1SE1XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OaVVVSjFkalJKUzJKZmVXWXdNV2x4Ulc1SE1XYxAB!2m1!1s0x3404010019668301:0xeaf10ccdd9b8461d"
+      },
+      {
+        "name": "places/ChIJAYNmGQABBDQRHUa42c0M8eo/reviews/ChZDSUhNMG9nS0VJQ0FnSUM0NElQVGFREAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "天后區發記飯店,主打潮州打冷,潮州食物非常出色，鵝肉甘香，田螺肥美，其實未必要去食多米芝蓮推薦嘅， 只要食物質素超班，一定會有人嚟",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "天后區發記飯店,主打潮州打冷,潮州食物非常出色，鵝肉甘香，田螺肥美，其實未必要去食多米芝蓮推薦嘅， 只要食物質素超班，一定會有人嚟",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "i HOUSE DESIGN",
+          "uri": "https://www.google.com/maps/contrib/117967167421347906363/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUL4fqJ-Jpd5nB05r5HBE7nsqEhWHuRyLcG2-Tb_CCOWTO_fOU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2019-05-30T12:35:53.740259Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM0NElQVGFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM0NElQVGFREAE!2m1!1s0x3404010019668301:0xeaf10ccdd9b8461d"
+      },
+      {
+        "name": "places/ChIJAYNmGQABBDQRHUa42c0M8eo/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwM01TS21BRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "晚流流，肚仔餓餓，好多時都諗起打冷加枝大啤。\n\n朋友帶我嚟發記，坐底見餐牌除咗潮式食物，仲有點上海食品。第一樣點嘅係見到後面枱碗黑媽媽嘅螺，香濃入味，螺肉軟淋，好食，不停食。\n\n滷水豬肚同豆腐本體唔錯，但滷水味就欠奉，鵝掌就相反地入哂味。鹹酸菜總是一粒一粒吃不停，食下食下就成碟無哂。潮式凍馬友，魚味清新，魚肉偏濕，豆醬咸得厲害。\n0 讚好\n\n京都骨味道同煮功都幾好，但肉竟是普通豬扒。\n0 讚好\n\n雞煨麵味道同麵認真不錯，那些隨便的配料不管了啦。\n0 讚好\n\n29 瀏覽0 讚好0 留言",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晚流流，肚仔餓餓，好多時都諗起打冷加枝大啤。\n\n朋友帶我嚟發記，坐底見餐牌除咗潮式食物，仲有點上海食品。第一樣點嘅係見到後面枱碗黑媽媽嘅螺，香濃入味，螺肉軟淋，好食，不停食。\n\n滷水豬肚同豆腐本體唔錯，但滷水味就欠奉，鵝掌就相反地入哂味。鹹酸菜總是一粒一粒吃不停，食下食下就成碟無哂。潮式凍馬友，魚味清新，魚肉偏濕，豆醬咸得厲害。\n0 讚好\n\n京都骨味道同煮功都幾好，但肉竟是普通豬扒。\n0 讚好\n\n雞煨麵味道同麵認真不錯，那些隨便的配料不管了啦。\n0 讚好\n\n29 瀏覽0 讚好0 留言",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "無雙皇后Queen Beoly",
+          "uri": "https://www.google.com/maps/contrib/105582454447981359793/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBaBsZ9_knFBARzUI-bXIEIse1LHA2KSwfBBdHD-8TgplirOKj=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2019-09-18T10:41:08.950174Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwM01TS21BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwM01TS21BRRAB!2m1!1s0x3404010019668301:0xeaf10ccdd9b8461d"
+      },
+      {
+        "name": "places/ChIJAYNmGQABBDQRHUa42c0M8eo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbXVpUEdnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "走跑哪吃到哪，這家的飯與面滿適合我的口味的。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "走跑哪吃到哪，這家的飯與面滿適合我的口味的。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "306南南",
+          "uri": "https://www.google.com/maps/contrib/103893770780801341798/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7SiWEN92CIMTr1ssuWyzyA6BsG6eBbdIMznjXU0Ss5CTGm78t=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-02-14T14:06:18.647458Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkbXVpUEdnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkbXVpUEdnEAE!2m1!1s0x3404010019668301:0xeaf10ccdd9b8461d"
+      },
+      {
+        "name": "places/ChIJAYNmGQABBDQRHUa42c0M8eo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkdlRWVkJTakpRWW5KdlIwUldVRkF4Tkd0eU9IYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 1,
+        "text": {
+          "text": "食完晚市\n所有職員包括老細態度惡劣\n味道一般\n叫咗個蠔餅等咗半小時都未有\n再問一下\n仲畀老細大聲話要等下\n三個人食咗六百幾蚊\n食完返屋企即刻屙\n屙咗五次\n如果鍾意受氣嘅可以去試下\n環境污糟",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食完晚市\n所有職員包括老細態度惡劣\n味道一般\n叫咗個蠔餅等咗半小時都未有\n再問一下\n仲畀老細大聲話要等下\n三個人食咗六百幾蚊\n食完返屋企即刻屙\n屙咗五次\n如果鍾意受氣嘅可以去試下\n環境污糟",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "fatwa chan",
+          "uri": "https://www.google.com/maps/contrib/112575949325720501158/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3hJmIc1BAz_EJIq5uwFvH4fnNAeEQ92qYzBx7Kpyf3_coVAaHXg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-12-19T14:51:12.666730395Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkdlRWVkJTakpRWW5KdlIwUldVRkF4Tkd0eU9IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkdlRWVkJTakpRWW5KdlIwUldVRkF4Tkd0eU9IYxAB!2m1!1s0x3404010019668301:0xeaf10ccdd9b8461d"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": false,
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010019668301:0xeaf10ccdd9b8461d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16929326552522966557&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010019668301:0xeaf10ccdd9b8461d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010019668301:0xeaf10ccdd9b8461d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010019668301:0xeaf10ccdd9b8461d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJAYNmGQABBDQRHUa42c0M8eo/photos/Aa-ngMaZlfpdsS7TwPYRdks08h_pGLnrEUHPQ6OB1vC6ZcC9dTkXVSXT9y3MeMRiOcr0uTWF3gP_Dkc5Ya5Yewbrk_xMUaR7NHvH7JsdVLpFZIRrAbCTPbhFTFrVljquMb7Hd8PQCBfQTiBSv0olO_g_G-d9MU-8XHC8eaq6AN4xO12owaZWpWSeXib59Cj438x39dl5grQBquBjYvIipD8yUI9kkVfTTds6xhwPw6zMvp-L_FcpDUxC9YMNUqBgYm5xCDrqLRmTf3B99SVsv8LvsV20weU7ICox4RUsFjupzVngoOvpyjplWDuUJoy7_sf5ZlIL7Zr4HIhX4oZvGocPGXXAvqXo5JH741_ItBDmRxZZlpUCtfNOwK13i6TUN3Pb4jixIZaQ5OSlNcF3_yxDmjdEBcD76fM",
+      "widthPx": 4608,
+      "heightPx": 3456,
+      "authorAttributions": [
+        {
+          "displayName": "Lau Sam",
+          "uri": "https://maps.google.com/maps/contrib/104813773458150691835",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ6Wak6-Uh4LkxpU42QtkvVv8uOvrsX3qFd54-nC5hLMobPDA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4n6H5zgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4n6H5zgE!2e10!4m2!3m1!1s0x3404010019668301:0xeaf10ccdd9b8461d"
+    },
+    "local_path": "photos/ChIJAYNmGQABBDQRHUa42c0M8eo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLv0QTzfTPonMTiJmumFfnKMICzhpR7ECS6lf_3J0IRVAhWWCmhrZEWylgylYQSUs4baRWeWSapm2NFN7qUGoBn2i3JW1RO3Pr1p5kwa9jXcuW2D9ZBc24UpZtE7MyY-2gd2kvug=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 123523
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

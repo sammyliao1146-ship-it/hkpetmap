@@ -1,0 +1,323 @@
+{
+  "google_place_id": "ChIJB3K9YHcBBDQRRT9EIn2bhuE",
+  "restaurant_ids": [
+    "restaurant:3162805672"
+  ],
+  "fetched_at": "2026-10-23T15:41:02.202932+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJB3K9YHcBBDQRRT9EIn2bhuE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港九龍深水埗楓樹街5A號號地下",
+    "location": {
+      "latitude": 22.3261742,
+      "longitude": 114.1642866
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=16250847267161128773&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:30 – 19:00",
+        "星期二: 09:30 – 19:00",
+        "星期三: 09:30 – 19:00",
+        "星期四: 09:30 – 19:00",
+        "星期五: 09:30 – 19:00",
+        "星期六: 09:30 – 19:00",
+        "星期日: 09:30 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 285,
+    "displayName": {
+      "text": "buff Café",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJB3K9YHcBBDQRRT9EIn2bhuE/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wMU5YWkZWa000TlhWS1prVklNMGgwYjFZeVluYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 3,
+        "text": {
+          "text": "食咗蝦意粉同埋雞排意粉，味道係唔錯嘅，服務都ok。\n食物價錢係比較貴，但價錢同份量唔對等，食材都冇提升。\n例如個蝦意粉要$148， 但係就得普通三隻蝦仁。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食咗蝦意粉同埋雞排意粉，味道係唔錯嘅，服務都ok。\n食物價錢係比較貴，但價錢同份量唔對等，食材都冇提升。\n例如個蝦意粉要$148， 但係就得普通三隻蝦仁。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "1236 Wong",
+          "uri": "https://www.google.com/maps/contrib/116902532021275347060/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLmc7OtVlSzNecUyv2ynq5cJ-iPUzeHvyCvvRGr_swsmlOfTw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-06T15:37:11.042031448Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wMU5YWkZWa000TlhWS1prVklNMGgwYjFZeVluYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMU5YWkZWa000TlhWS1prVklNMGgwYjFZeVluYxAB!2m1!1s0x3404017760bd7207:0xe1869b7d22443f45"
+      },
+      {
+        "name": "places/ChIJB3K9YHcBBDQRRT9EIn2bhuE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwbGVIRmhZelZJZHkxNFNGTjVTMG81TTJWd1QzYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 1,
+        "text": {
+          "text": "好少寫負評，入到去先發現紅日係冇一至日brunch，出面又唔寫清楚，去到係自助點餐都算，食左3百幾蚊覺得唔值原因，凍咖啡冇驚喜又細杯。早晨全餐沙律菜好普通，什蘑菇好鹹，雞蛋唔鹹，呢個都算，個窩夫底部係濃左，根本都切唔到。同個員工講佢只係問咗我一句，咁同你換？我梗係冇換到啦費事畀人加料。我喺香港食過好多間cafe未試過食到我火都嚟。我唔會再幫襯呢間嘢。如果要食呢個價錢其實深水埗同太子好多都好食過佢。😡😤 明明寫明坐90分鐘用餐啲餐已經出得慢坐都坐唔夠90分鐘不停修理嘢好似想講你走因為出面有排隊。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好少寫負評，入到去先發現紅日係冇一至日brunch，出面又唔寫清楚，去到係自助點餐都算，食左3百幾蚊覺得唔值原因，凍咖啡冇驚喜又細杯。早晨全餐沙律菜好普通，什蘑菇好鹹，雞蛋唔鹹，呢個都算，個窩夫底部係濃左，根本都切唔到。同個員工講佢只係問咗我一句，咁同你換？我梗係冇換到啦費事畀人加料。我喺香港食過好多間cafe未試過食到我火都嚟。我唔會再幫襯呢間嘢。如果要食呢個價錢其實深水埗同太子好多都好食過佢。😡😤 明明寫明坐90分鐘用餐啲餐已經出得慢坐都坐唔夠90分鐘不停修理嘢好似想講你走因為出面有排隊。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cherry Lau",
+          "uri": "https://www.google.com/maps/contrib/117192924708798509353/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVusJDHCJ81JhZnfQYlnxqSFt-vamZHK7zDBiRogYCdDfT-8JMB=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-01T06:15:31.532134838Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwbGVIRmhZelZJZHkxNFNGTjVTMG81TTJWd1QzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwbGVIRmhZelZJZHkxNFNGTjVTMG81TTJWd1QzYxAB!2m1!1s0x3404017760bd7207:0xe1869b7d22443f45"
+      },
+      {
+        "name": "places/ChIJB3K9YHcBBDQRRT9EIn2bhuE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KaWVTMTNWRFpyUjFaemFVNHdhbmRQYlcxbk4yYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "太子不苦Buff超文青環境，精品咖啡店主打西日式料理+自家製甜品，主要供應本地烘焙豆，每月不同產地單品咖啡豆，鄰近雷生春、汝州街景點，光線靚位多，啱晒同朋友影相hea一個下晝，真係好chill～💃太子限定西柚冷萃咖啡($58)清新酸甜提神；伯爵紅茶拿鐵($57)茶香順滑🥛Buff全日早餐$138(+$25煙三文魚)🥗香烤雞扒牛油果醬意粉($108)份量十足🍝開心果芝士蛋糕($68)蛋糕滑身帶堅果香💚🍴整體咖啡食物味道唔錯，加埋好舒服嘅文青環境，好適合同朋友嘆返一個下晝☕️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "太子不苦Buff超文青環境，精品咖啡店主打西日式料理+自家製甜品，主要供應本地烘焙豆，每月不同產地單品咖啡豆，鄰近雷生春、汝州街景點，光線靚位多，啱晒同朋友影相hea一個下晝，真係好chill～💃太子限定西柚冷萃咖啡($58)清新酸甜提神；伯爵紅茶拿鐵($57)茶香順滑🥛Buff全日早餐$138(+$25煙三文魚)🥗香烤雞扒牛油果醬意粉($108)份量十足🍝開心果芝士蛋糕($68)蛋糕滑身帶堅果香💚🍴整體咖啡食物味道唔錯，加埋好舒服嘅文青環境，好適合同朋友嘆返一個下晝☕️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "HKFoodiary852",
+          "uri": "https://www.google.com/maps/contrib/115443806560430302405/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBMJ9OTXHG4fCfJRTJXGjOn1WtSt40rRGM6cMB8IKO-DqaTA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-14T11:11:00.244416143Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KaWVTMTNWRFpyUjFaemFVNHdhbmRQYlcxbk4yYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KaWVTMTNWRFpyUjFaemFVNHdhbmRQYlcxbk4yYxAB!2m1!1s0x3404017760bd7207:0xe1869b7d22443f45"
+      },
+      {
+        "name": "places/ChIJB3K9YHcBBDQRRT9EIn2bhuE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Sa2JWTTBVMVpzWVZSNVVrODNWbkpXTVZGNWVHYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🌿深水埗木系靜謐Cafe｜ig洗版芝士蛋糕 .ᐟ‪‪.ᐟ\n\n最近好多人推介呢間「不苦」Cafe，木色調設計好舒服，仲係 Work friendly + Pet friendly ꒰ ♡ ꒱ 好啱帶電腦去chill或者同毛孩一齊放鬆，食物質素都好滿意🤍\n\n★ 北海道帶子明太子汁意粉 $138 ♥︎♥︎♥︎♥︎♥︎\n帶子鮮甜，明太子汁濃郁但唔膩，要襯熱食，好creamy意粉偏軟但味道平衡，整體幾高水準\n\n★ BUFF全日早餐 $138 ♥︎♥︎♥︎♥︎♡\n份量超足！有柚子窩夫果香清新，外脆內有咬口，雞扒、德國腸鹹香、薯餅外脆內綿。幾中意依個甜鹹交織組合！但炒蛋滑啲就更好！\n\n★ 脆炸七味海苔魷魚 $68 ♥︎♥︎♥︎♥︎♥︎\n皮薄而脆！外脆內嫩，魷魚都好大條，配七味粉mayo好夾！吾貴又份量好足，幾推介！\n\n★ 煙三文魚配黑醋汁沙律 $98 ♥︎♥︎♥︎♥︎♡\n好多菜補充纖維！黑醋汁酸度明顯，入面竟然有豆卜！又幾夾幾特別！\n\n★ 開心果芝士蛋糕 $68 ♥︎♥︎♥︎♥︎♡\n口感係重點！真係綿密又好軟滑，芝士香濃，甜度適中。不過我覺得開心果味道未算超突出，如果堅果香再濃啲就更完美！\n\n★ 鮮奶咖啡 $42 ♥︎♥︎♥︎♥︎♡\n奶香柔和，咖啡順滑，拉花都好靚✨適合輕口味咖啡控\n\n★ 髒髒咖啡 $46 ♥︎♥︎♥︎♥︎♥︎\nDirty入口好濃郁，分2層甜苦交織！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🌿深水埗木系靜謐Cafe｜ig洗版芝士蛋糕 .ᐟ‪‪.ᐟ\n\n最近好多人推介呢間「不苦」Cafe，木色調設計好舒服，仲係 Work friendly + Pet friendly ꒰ ♡ ꒱ 好啱帶電腦去chill或者同毛孩一齊放鬆，食物質素都好滿意🤍\n\n★ 北海道帶子明太子汁意粉 $138 ♥︎♥︎♥︎♥︎♥︎\n帶子鮮甜，明太子汁濃郁但唔膩，要襯熱食，好creamy意粉偏軟但味道平衡，整體幾高水準\n\n★ BUFF全日早餐 $138 ♥︎♥︎♥︎♥︎♡\n份量超足！有柚子窩夫果香清新，外脆內有咬口，雞扒、德國腸鹹香、薯餅外脆內綿。幾中意依個甜鹹交織組合！但炒蛋滑啲就更好！\n\n★ 脆炸七味海苔魷魚 $68 ♥︎♥︎♥︎♥︎♥︎\n皮薄而脆！外脆內嫩，魷魚都好大條，配七味粉mayo好夾！吾貴又份量好足，幾推介！\n\n★ 煙三文魚配黑醋汁沙律 $98 ♥︎♥︎♥︎♥︎♡\n好多菜補充纖維！黑醋汁酸度明顯，入面竟然有豆卜！又幾夾幾特別！\n\n★ 開心果芝士蛋糕 $68 ♥︎♥︎♥︎♥︎♡\n口感係重點！真係綿密又好軟滑，芝士香濃，甜度適中。不過我覺得開心果味道未算超突出，如果堅果香再濃啲就更完美！\n\n★ 鮮奶咖啡 $42 ♥︎♥︎♥︎♥︎♡\n奶香柔和，咖啡順滑，拉花都好靚✨適合輕口味咖啡控\n\n★ 髒髒咖啡 $46 ♥︎♥︎♥︎♥︎♥︎\nDirty入口好濃郁，分2層甜苦交織！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Stephy",
+          "uri": "https://www.google.com/maps/contrib/104048081789742999920/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7tXHqmpXjbMJa0xLGYqBHhrQT7yaZeubdKLgYwoEDG2ccMiVH=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-09T10:29:44.298309709Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Sa2JWTTBVMVpzWVZSNVVrODNWbkpXTVZGNWVHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sa2JWTTBVMVpzWVZSNVVrODNWbkpXTVZGNWVHYxAB!2m1!1s0x3404017760bd7207:0xe1869b7d22443f45"
+      },
+      {
+        "name": "places/ChIJB3K9YHcBBDQRRT9EIn2bhuE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSNGQwOXpXSEIxYTBWRk9VUnRXblo0YTNobVgzYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "太子人氣Coffee Shop 「Buff不苦」有兩間分店 另一間係鰂魚涌 分舖以文青風格 見到有啲客人坐係到chill咗咖啡 幾舒服的 咖啡店除咗有西餐、甜品、咖啡飲品 仲有本地烘焙豆出售 每個月都會有不同産地嘅單品咖啡豆\n\n🍝松葉蟹膏蟹肉意大利飯\n蟹肉意大利飯面頭舖上了滿滿嘅蟹肉 唔會有蟹殼的 味道好creamy\n\n🍽️BUFF全日早餐\nAll Day Breakfast我再額外加了煙三魚 早餐包有照燒雞扒、楓糖窩夫、、牛乳炒蛋、慕尼黑香腸、薯餅、沙律菜 炒蛋好嫩滑 窩夫好鬆軟加了楓糖甜甜地幾好味\n\n🍰開心果芝士蛋糕\n甜品點少得呢 我就簡咗開心果cheese cake開心味啱啱好唔會太濃 食落好舒服唔會太膩\n\n☕️桂花鮮奶咖啡\n桂花咖啡比較特別所以嗌咗嚟飲 咖啡味好香濃好順滑 夾埋淡淡桂花嘅花香令層次感更豐富",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "太子人氣Coffee Shop 「Buff不苦」有兩間分店 另一間係鰂魚涌 分舖以文青風格 見到有啲客人坐係到chill咗咖啡 幾舒服的 咖啡店除咗有西餐、甜品、咖啡飲品 仲有本地烘焙豆出售 每個月都會有不同産地嘅單品咖啡豆\n\n🍝松葉蟹膏蟹肉意大利飯\n蟹肉意大利飯面頭舖上了滿滿嘅蟹肉 唔會有蟹殼的 味道好creamy\n\n🍽️BUFF全日早餐\nAll Day Breakfast我再額外加了煙三魚 早餐包有照燒雞扒、楓糖窩夫、、牛乳炒蛋、慕尼黑香腸、薯餅、沙律菜 炒蛋好嫩滑 窩夫好鬆軟加了楓糖甜甜地幾好味\n\n🍰開心果芝士蛋糕\n甜品點少得呢 我就簡咗開心果cheese cake開心味啱啱好唔會太濃 食落好舒服唔會太膩\n\n☕️桂花鮮奶咖啡\n桂花咖啡比較特別所以嗌咗嚟飲 咖啡味好香濃好順滑 夾埋淡淡桂花嘅花香令層次感更豐富",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Food Blog",
+          "uri": "https://www.google.com/maps/contrib/110046866726783783073/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWw8SWYeyHcLByOvb8_WolgfAzrayElEknVd_IDBfyqViX5A=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-12T07:11:49.524831074Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSNGQwOXpXSEIxYTBWRk9VUnRXblo0YTNobVgzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSNGQwOXpXSEIxYTBWRk9VUnRXblo0YTNobVgzYxAB!2m1!1s0x3404017760bd7207:0xe1869b7d22443f45"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404017760bd7207:0xe1869b7d22443f45!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16250847267161128773&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017760bd7207:0xe1869b7d22443f45!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404017760bd7207:0xe1869b7d22443f45!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017760bd7207:0xe1869b7d22443f45!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJB3K9YHcBBDQRRT9EIn2bhuE/photos/Aa-ngMZ5E0n_MghGHGxfsVl9Tb25ccXcL_AiqE8bGUZSYoTACTVb47pfbULXnSiIcNLjbDQS_LeX0WDd7aiFFA1eLNB9qfIjD6l0K_lt1VI8aRQCeoTRGwgxISoblo3ZGGhh3L751yTKkG1vAsEpOFHbIwLxkPjBr5gmb9Ryu0HXkZW73XAD7JkCnhcAhr2tfVLFxO0MudCtaYkM5AJyUw26M0XUfODLYq5S8zAR5cLsnq_bHqbGoelBrmrnL04jtql1rMopqKTeKqX25jjLqbGI1V8exNTohQ7vqKVXDn37TSDTRvQc_cMKvUE-Ybk0rk46bEtOxLTeyGf0LZ7pTBQEsIVzSOAbX0Ja2QUn3LSZ5Pd49mMijVDue_61eNVJ4Ra86d4wghwTdPgnkBZxLnf5ZYgGvDDB5yo",
+      "widthPx": 3200,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "buff Café - Prince Edward",
+          "uri": "https://maps.google.com/maps/contrib/114766148954446453314",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWn3dFMe57M5No9aF-zfc9bxuKlxg6S7yyJADMAUc_z99zhwNJw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGrMz9nwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGrMz9nwE!2e10!4m2!3m1!1s0x3404017760bd7207:0xe1869b7d22443f45"
+    },
+    "local_path": "photos/ChIJB3K9YHcBBDQRRT9EIn2bhuE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdC2GTvjjdEuD5dyq-ppc_sqlTpDYgnLoBGXRqvg_FlK9TlFoZdDmlVWwTINa0lnE5-I2_J65UW8cRmqGRvlv_k5flzCS6EVuqiAh-X5ubMgBj1X6sJ4MXJca6JLiAbhNuD4Zj3aQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 191488
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

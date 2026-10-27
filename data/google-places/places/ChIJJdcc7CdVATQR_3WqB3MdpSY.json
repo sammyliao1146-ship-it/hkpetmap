@@ -1,0 +1,318 @@
+{
+  "google_place_id": "ChIJJdcc7CdVATQR_3WqB3MdpSY",
+  "restaurant_ids": [
+    "restaurant:2217802055"
+  ],
+  "fetched_at": "2026-10-23T15:45:21.228344+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJJdcc7CdVATQR_3WqB3MdpSY",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "formattedAddress": "Lamma Island, 1 Sok Kwu Wan First St, Lamma Island, New Territories, 香港",
+    "location": {
+      "latitude": 22.2058347,
+      "longitude": 114.13146859999999
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=2784664324485576191&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/lososhop?mibextid=ZbWKwL",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 19:30",
+        "星期二: 11:00 – 19:30",
+        "星期三: 11:00 – 19:30",
+        "星期四: 11:00 – 19:30",
+        "星期五: 11:00 – 19:30",
+        "星期六: 11:00 – 19:30",
+        "星期日: 11:00 – 19:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 94,
+    "displayName": {
+      "text": "蘆鬚記餐廳",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJJdcc7CdVATQR_3WqB3MdpSY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OWVZXRTVlR1pRVTFKV2FqRXdZbk5KTTNaTU1FRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "1. 有On the WAGON 發酵茶，岩哂夏天\n\n2. 炸魚薯片，厚魚肉，每次必食\n\n3. 香料牛腩飯，汁唔會好濃，好味，果然係招牌\n\n4. 沙嗲雞串，普通唔難食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "1. 有On the WAGON 發酵茶，岩哂夏天\n\n2. 炸魚薯片，厚魚肉，每次必食\n\n3. 香料牛腩飯，汁唔會好濃，好味，果然係招牌\n\n4. 沙嗲雞串，普通唔難食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yatman Law",
+          "uri": "https://www.google.com/maps/contrib/114492073437975120270/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXW5EYDDuSnLA_1ZGwf-2afSMkIO3gJBkVsGb61vr93Z4wS6uE=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-06-29T14:16:07.867135657Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OWVZXRTVlR1pRVTFKV2FqRXdZbk5KTTNaTU1FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OWVZXRTVlR1pRVTFKV2FqRXdZbk5KTTNaTU1FRRAB!2m1!1s0x34015527ec1cd725:0x26a51d7307aa75ff"
+      },
+      {
+        "name": "places/ChIJJdcc7CdVATQR_3WqB3MdpSY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSN2ViVnRnRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "索罟灣碼頭連續幾間都是海鮮酒家，中間隔著這間西餐廳算是另類的選擇，可和朋友在海邊喝上一杯，這裏提供很多特色啤酒。\n\n點了德國腸套餐和fish and chips ，薯條炸得酥脆，比很多地方好吃，德國腸惹味，魚柳就一般",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "索罟灣碼頭連續幾間都是海鮮酒家，中間隔著這間西餐廳算是另類的選擇，可和朋友在海邊喝上一杯，這裏提供很多特色啤酒。\n\n點了德國腸套餐和fish and chips ，薯條炸得酥脆，比很多地方好吃，德國腸惹味，魚柳就一般",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "L Yeeting",
+          "uri": "https://www.google.com/maps/contrib/100119746060918946552/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiA8zvj3LYAcjHrzTOPEiZmGXxnxGCs1i9R15FJ-u5SvgNejbJWg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-04-08T08:44:39.141435Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSN2ViVnRnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSN2ViVnRnRRAB!2m1!1s0x34015527ec1cd725:0x26a51d7307aa75ff"
+      },
+      {
+        "name": "places/ChIJJdcc7CdVATQR_3WqB3MdpSY/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wMllqRnhiWGRCVkdKcVJuSkRSV2xmVmtGTVkxRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "老闆娘熱情好客 支持我們一班淨山行嘅隊員 食物材料新鮮又夠熱 味道剛好 下次再去南丫島\n再試埋佢地個咖喱先\n😋😋😋😋😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "老闆娘熱情好客 支持我們一班淨山行嘅隊員 食物材料新鮮又夠熱 味道剛好 下次再去南丫島\n再試埋佢地個咖喱先\n😋😋😋😋😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tata Hester",
+          "uri": "https://www.google.com/maps/contrib/100479095549890375350/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvBx-E5GDRMjMFLTt2VwWRkrEE-e4kIHaKB1N1Rtxz-wsP3tzuAg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-19T02:54:29.440083422Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wMllqRnhiWGRCVkdKcVJuSkRSV2xmVmtGTVkxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMllqRnhiWGRCVkdKcVJuSkRSV2xmVmtGTVkxRRAB!2m1!1s0x34015527ec1cd725:0x26a51d7307aa75ff"
+      },
+      {
+        "name": "places/ChIJJdcc7CdVATQR_3WqB3MdpSY/reviews/ChZDSUhNMG9nS0VJQ0FnSURpb2Y3MlNREAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "喜歡這裡的食物和音樂，座位很舒服。對著魚排，飲杯比利時啤酒，周末如此輕鬆，感恩～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "喜歡這裡的食物和音樂，座位很舒服。對著魚排，飲杯比利時啤酒，周末如此輕鬆，感恩～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Celia CHU",
+          "uri": "https://www.google.com/maps/contrib/109397366548494572441/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWM9G5aE1cYJkjxUHU8xSaKMy4OGvg19d7ioeFFQkhThQ8uvJaVXw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2020-12-05T06:51:00.076806Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURpb2Y3MlNREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURpb2Y3MlNREAE!2m1!1s0x34015527ec1cd725:0x26a51d7307aa75ff"
+      },
+      {
+        "name": "places/ChIJJdcc7CdVATQR_3WqB3MdpSY/reviews/ChdDSUhNMG9nS0VJQ0FnSURBbElDRHh3RRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 4,
+        "text": {
+          "text": "有超多啤酒選擇，好啱大家hea 住吹水relax下！抵贊係提供不鏽鋼飲管👍🏻👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有超多啤酒選擇，好啱大家hea 住吹水relax下！抵贊係提供不鏽鋼飲管👍🏻👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Love My Lazy Sundays山女行",
+          "uri": "https://www.google.com/maps/contrib/114509731824553475473/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRf9deCHzr2LRC3FNL-YCuqP2mbUtQuHJ4FfgS2-QcjuCuqxc=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2018-05-30T22:48:01.585Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBbElDRHh3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBbElDRHh3RRAB!2m1!1s0x34015527ec1cd725:0x26a51d7307aa75ff"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34015527ec1cd725:0x26a51d7307aa75ff!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2784664324485576191&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34015527ec1cd725:0x26a51d7307aa75ff!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34015527ec1cd725:0x26a51d7307aa75ff!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34015527ec1cd725:0x26a51d7307aa75ff!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJJdcc7CdVATQR_3WqB3MdpSY/photos/Aa-ngMbdLnx9XlpGT6v523_X6nRjMSDxo1tlhPJkYBU_YQdpdRnHSdDAioR_jZ-qM3084jBLNPQSXWi5jufOEYNIsgpgMtEexmdr8DQ3VxDefS08TJy1y8-HYA6fkXlW9XXwnL-E29T6glr5jrEQUNBo_eopQSLUklFOyiHmQIiIkkUDJa6bPCH_D3DpbfG63kbfOUMSGpu-X9_x-onxOTlZXo1ZcqEI-OPtxHwpn0v1s6EEOLREK7dwgXxBHblj6OEviPLRKR6pNvusVkk37zysEFYQ5oXLHZXX2MGfs9T3tGgXIr4RZHcup1TZ55MZFviKaj17Df130Nl_e8Yj_A97ggdpBc1F1fUCWsU5NiFdg2solwcFHWKiXZU5txv4jmqR5ySx2-ajHzbogJPy8zC6xkMgqZhTeduMyWuh68pcHxY_wQ",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "J W",
+          "uri": "https://maps.google.com/maps/contrib/102106888316153380981",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI9urgEsw9on_eeRTLQL5BVnjdMmi79bqtzT1ivfyBXDecEqQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCCkHxuPJ6TutHXwMhUYggX&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCCkHxuPJ6TutHXwMhUYggX!2e10!4m2!3m1!1s0x34015527ec1cd725:0x26a51d7307aa75ff"
+    },
+    "local_path": "photos/ChIJJdcc7CdVATQR_3WqB3MdpSY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd09V_74n7o-xAczU0hfQOAVUjc1Io-OOx5D7fYo25FSZbl-kElB_l_SUnDXun_kbZuSYXRsFMLI5Ybc9mVy4VrtwxynfJrk8fgk9XLakuLyiPJ8zrQCd8SDseK17zZ8FL-QWnNsuEAgAtb=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 191283
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ChIJRwMDe2IABDQR_sEo4sKljhg",
+  "types": [
+    "ferry_terminal",
+    "transit_station",
+    "transportation_service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Man Kwong Street, Central, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.287717999999998,
+    "longitude": 114.15934299999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1769533960039743998&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "中環5號渡輪碼頭",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "ferry_terminal",
+  "photos": [
+    {
+      "name": "places/ChIJRwMDe2IABDQR_sEo4sKljhg/photos/Aa-ngMYyP0YLIYaMdCryptXQFlljhoJf5oP54UKjaKfDQYPBzhVCDWd0Dxt1gVC2tO5deiPY_QRGLWT66lwtV34bc8qDjiwedkW2D37Qrm7aXsTED8HTWfZLRXCVx7cna-ez1FSKYEXG0ddKaSyYIpCoXgsPI3qbnU8fZiMqs6Vp-fdmctWOV0ubAfKgFmcfrtSVdiOy_7XVs_zbJ4_KPpqCNG45IbyF581ynPETdNEveB-jHbnOoITcmf9pwrI3yisHU81L_aCZvHDnhFVJc7ZEnnsICHX5uUzy2g4roBgFU8MhSPg8bjKeBenlFN58ebpCgaoGwlWNTvYtJX0bHyEe3ywdaNwmkqFl9AqWQRxFWxqt1B6PzLK4v07k9VNymKbtgOlo5_sB63lGiB7gxDrLMwrrU4g",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "mark lam",
+          "uri": "https://maps.google.com/maps/contrib/111590546289067087737",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJLkb86J2KfVSRy8WiBoBKZRzVdh2fODscoZgmUFsfyv8AdyQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmtMS3Zg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmtMS3Zg!2e10!4m2!3m1!1s0x340400627b030347:0x188ea5c2e228c1fe"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:56.484096+00:00"
+}

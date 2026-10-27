@@ -1,0 +1,430 @@
+{
+  "google_place_id": "ChIJ-4JopvnjAzQRN66PtZ87TOY",
+  "restaurant_ids": [
+    "restaurant:3117001146"
+  ],
+  "fetched_at": "2026-10-23T15:37:50.067894+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ-4JopvnjAzQRN66PtZ87TOY",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5477 8787",
+    "internationalPhoneNumber": "+852 5477 8787",
+    "formattedAddress": "香港新界大嶼山東涌東涌馬灣新村8號地下",
+    "location": {
+      "latitude": 22.2796995,
+      "longitude": 113.9408217
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=16594704284085366327&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://openrice.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 15:00, 18:00 – 23:00",
+        "星期二: 11:00 – 15:00, 18:00 – 23:00",
+        "星期三: 11:00 – 15:00, 18:00 – 23:00",
+        "星期四: 11:00 – 15:00, 18:00 – 23:00",
+        "星期五: 11:00 – 15:00, 18:00 – 23:00",
+        "星期六: 11:00 – 15:00, 18:00 – 23:00",
+        "星期日: 11:00 – 15:00, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 59,
+    "displayName": {
+      "text": "新東記大排檔",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ-4JopvnjAzQRN66PtZ87TOY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twV1NFWm5NMlV5ZEV0Qk1WWXhSVFZZUm5oeE9YYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "2026年3月21日\n我的第二間5星\n1. 食物水準一流。\n2. 炸物很乾身，吃後不會有油膩感，每一塊都脆口的。\n3. 我們有狗，安排坐在外面，服務員很貼心的給我們點了蚊香在枱下。\n4. 八人吃到爆肚，都是$1200\n餐單：\n酸菜魚（魚和芽菜很多非常美味）\n柚子骨 / 糯米飯（夠乾身粒粒分明,超好味）\n椒鹽魷魚（就是脆）/ 雞煲（雞胸都是滑的，無得頂）/ 勝瓜粉絲/ 薯仔牛柳（薯仔就是主角）/蒜蓉西蘭花",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2026年3月21日\n我的第二間5星\n1. 食物水準一流。\n2. 炸物很乾身，吃後不會有油膩感，每一塊都脆口的。\n3. 我們有狗，安排坐在外面，服務員很貼心的給我們點了蚊香在枱下。\n4. 八人吃到爆肚，都是$1200\n餐單：\n酸菜魚（魚和芽菜很多非常美味）\n柚子骨 / 糯米飯（夠乾身粒粒分明,超好味）\n椒鹽魷魚（就是脆）/ 雞煲（雞胸都是滑的，無得頂）/ 勝瓜粉絲/ 薯仔牛柳（薯仔就是主角）/蒜蓉西蘭花",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "K Cheng",
+          "uri": "https://www.google.com/maps/contrib/107557811949364349575/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjQibI0XaEOFm74ps6zRNtC2JNPFPg6w-fe21Lvr7zruXANAOu=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-07T01:16:49.258917223Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twV1NFWm5NMlV5ZEV0Qk1WWXhSVFZZUm5oeE9YYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twV1NFWm5NMlV5ZEV0Qk1WWXhSVFZZUm5oeE9YYxAB!2m1!1s0x3403e3f9a66882fb:0xe64c3b9fb58fae37"
+      },
+      {
+        "name": "places/ChIJ-4JopvnjAzQRN66PtZ87TOY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Sd1luWXdlbU0zYVRKWVZISnVNREZ4UzFsclVYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "一般，適合喜歡重口味既人。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一般，適合喜歡重口味既人。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cheung Joyce",
+          "uri": "https://www.google.com/maps/contrib/113409788590026919905/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImyJxOP_WEK69TKjdAuW3_PW685TuZ7kftS5BGSJls5Y-zhg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-08T11:08:33.104828273Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Sd1luWXdlbU0zYVRKWVZISnVNREZ4UzFsclVYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sd1luWXdlbU0zYVRKWVZISnVNREZ4UzFsclVYYxAB!2m1!1s0x3403e3f9a66882fb:0xe64c3b9fb58fae37"
+      },
+      {
+        "name": "places/ChIJ-4JopvnjAzQRN66PtZ87TOY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmbWF6NHl3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "味道好味，招呼一流，空調十足，衛生潔淨，價錢合理。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道好味，招呼一流，空調十足，衛生潔淨，價錢合理。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yiu Kwong Hui",
+          "uri": "https://www.google.com/maps/contrib/109408894527841420657/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5AUCBVOgub3TnyKO4rctbvqvTue_M96BRR4Q86S16jHzrM1o=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-12-30T14:15:17.631506Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmbWF6NHl3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmbWF6NHl3RRAB!2m1!1s0x3403e3f9a66882fb:0xe64c3b9fb58fae37"
+      },
+      {
+        "name": "places/ChIJ-4JopvnjAzQRN66PtZ87TOY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CUWFqaDVaQzFIT1RWa1ZYSnVla0pPU25oeWFsRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "傳統港式大排檔 食物質素絕對好👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "傳統港式大排檔 食物質素絕對好👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Choy Wai Yee",
+          "uri": "https://www.google.com/maps/contrib/108341093316313335895/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSNoRTKU2-IvAYfRE711thSSoiHjUjZTdrX_Cj7UiVqsyb0aY=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-09-10T00:56:54.518842728Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CUWFqaDVaQzFIT1RWa1ZYSnVla0pPU25oeWFsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CUWFqaDVaQzFIT1RWa1ZYSnVla0pPU25oeWFsRRAB!2m1!1s0x3403e3f9a66882fb:0xe64c3b9fb58fae37"
+      },
+      {
+        "name": "places/ChIJ-4JopvnjAzQRN66PtZ87TOY/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2eGJmbFd3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "本地大排檔傳統風味 炒得有鑊氣價錢平抵食特別推介椒鹽大蝦 胡椒豬肚雞湯 酸菜魚水煮魚👍🏼👍🏼",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "本地大排檔傳統風味 炒得有鑊氣價錢平抵食特別推介椒鹽大蝦 胡椒豬肚雞湯 酸菜魚水煮魚👍🏼👍🏼",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YueYee Pang",
+          "uri": "https://www.google.com/maps/contrib/113180740814879248343/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXp_Pi0ZVXcV-1k_cnbCWc5rHz7lrgWmdmn2VK7mHq92c_-kEw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-12-22T08:16:19.873898Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2eGJmbFd3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2eGJmbFd3EAE!2m1!1s0x3403e3f9a66882fb:0xe64c3b9fb58fae37"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false
+    },
+    "parkingOptions": {
+      "freeParkingLot": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403e3f9a66882fb:0xe64c3b9fb58fae37!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16594704284085366327&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e3f9a66882fb:0xe64c3b9fb58fae37!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403e3f9a66882fb:0xe64c3b9fb58fae37!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e3f9a66882fb:0xe64c3b9fb58fae37!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ-4JopvnjAzQRN66PtZ87TOY/photos/Aa-ngMa3T_WuyLaYMjhHY23MuPy2AKKL1kRnYUjx0YUZdXpK1_GNMNcpecZGXIFXqRCEG5ItHFfMrM_qfeIvP7K_ykXf0Yu0toIWCBcBB-wiVW0XT_lDCftLzU_xFLiQAlBBdXz9BP-5bHJ93kkGdTBY3xcwPvDV9a2xJC75piJTQ6-SIYtJtdH6gsnBgyouaAWugsykiXLMUHy5cD1JQ2F0B3PhFD_QBtWBaA01ovi6_VgWXaZ1nLlqyB9vgNjxi2R1BHneVbh2u1P5Vuri61Vu1CuUZ9S0Ha5ddglcM1QIxwJFlihQoTt6wUEroLTF1hCezWpu-ifi-N6Ho7lCMJEhqp71wsvM5seKBDyQ0Trft4UvQi038EWIlwh7D26PTkThE0OBfsVh2s-ZyFizcMQaChjKrQ",
+      "widthPx": 4096,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "新東記大排檔",
+          "uri": "https://maps.google.com/maps/contrib/115048987459340652163",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIVH3bz-WcxEa3TA3NICOy249zLuCSBoLjjjTJWYfGQviwoSw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICv5uTFfg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv5uTFfg!2e10!4m2!3m1!1s0x3403e3f9a66882fb:0xe64c3b9fb58fae37"
+    },
+    "local_path": "photos/ChIJ-4JopvnjAzQRN66PtZ87TOY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfuw8kWhLD45sax9qd7KCTFhuZprjtBHkKeGEzZaVu2WXB7IZPdOJFOqZSf0o464dWPC7Pr3GPD-voOnd9hz30LddunKhElW1h0-MddilNM4LBsnOJK19mPHKBQR9d5sdyiVkg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 202337
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.openrice.com/en/hongkong/restaurants?tmReservation=true&openDTS=true",
+        "label": "Table Booking",
+        "source_url": "https://www.openrice.com/en/hongkong",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.openrice.com/en/hongkong/premium/restaurants",
+        "label": "Premium Menu",
+        "source_url": "https://www.openrice.com/en/hongkong",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.openrice.com/en/hongkong/restaurants/menu/takeaway",
+        "label": "Takeaway",
+        "source_url": "https://www.openrice.com/en/hongkong",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.openrice.com/en/hongkong/restaurants?tmReservation=true&openDTS=true",
+  "menu_url": "https://www.openrice.com/en/hongkong/premium/restaurants"
+}

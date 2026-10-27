@@ -1,0 +1,315 @@
+{
+  "google_place_id": "ChIJV77vSYf_AzQRBt5yJUvRrRg",
+  "restaurant_ids": [
+    "restaurant:3118809361"
+  ],
+  "fetched_at": "2026-10-23T15:42:55.025149+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJV77vSYf_AzQRBt5yJUvRrRg",
+    "types": [
+      "cafe",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2803 0868",
+    "internationalPhoneNumber": "+852 2803 0868",
+    "formattedAddress": "香港香港島西環英華臺1-6號華輝閣",
+    "location": {
+      "latitude": 22.2847881,
+      "longitude": 114.1424969
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=1778307548562251270&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://m.facebook.com/Happiness.single.coffee",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 08:00 – 18:00",
+        "星期三: 08:00 – 18:00",
+        "星期四: 08:00 – 18:00",
+        "星期五: 08:00 – 18:00",
+        "星期六: 08:00 – 18:00",
+        "星期日: 08:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 395,
+    "displayName": {
+      "text": "幸福單品咖啡",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJV77vSYf_AzQRBt5yJUvRrRg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOblZEbERNWFUwU1ZoUGVVUkNNVE5qTlZkWVpIYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳食物質素好，服務態度十分好，空間雖然較小但環境裝修不錯，有極多地方的咖啡豆供選擇！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳食物質素好，服務態度十分好，空間雖然較小但環境裝修不錯，有極多地方的咖啡豆供選擇！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Forsty Tang",
+          "uri": "https://www.google.com/maps/contrib/108785411060437786879/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ17VmxHjzC2ojcs3yus97Gg-82ZajwvrK99aMZWz1F8l204Q=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-30T05:18:54.590239942Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOblZEbERNWFUwU1ZoUGVVUkNNVE5qTlZkWVpIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOblZEbERNWFUwU1ZoUGVVUkNNVE5qTlZkWVpIYxAB!2m1!1s0x3403ff8749efbe57:0x18add14b2572de06"
+      },
+      {
+        "name": "places/ChIJV77vSYf_AzQRBt5yJUvRrRg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paQ00zbE5RakpvT0c5V2NGUm5WbGt5WVRoU1VrRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "一對夫婦的咖啡小店，充滿人情味，「超幸福三文治」兩個人食都好飽。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一對夫婦的咖啡小店，充滿人情味，「超幸福三文治」兩個人食都好飽。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Leo Lam",
+          "uri": "https://www.google.com/maps/contrib/106220260036500195140/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLWcja9l7Pgf3j-gzCrql4yTcWmfNbGKJ8OI87j3sM_2mFv5Wq=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-25T01:19:18.768612236Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paQ00zbE5RakpvT0c5V2NGUm5WbGt5WVRoU1VrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paQ00zbE5RakpvT0c5V2NGUm5WbGt5WVRoU1VrRRAB!2m1!1s0x3403ff8749efbe57:0x18add14b2572de06"
+      },
+      {
+        "name": "places/ChIJV77vSYf_AzQRBt5yJUvRrRg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbE1PV0Z3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "住喺呢度樓上嘅居民也太幸福了吧🥹\n小小的店，家庭式的經營\n感覺到店主好用心準備食物\n用料不是豪華級，但就是住家式好吃的味道\n三文治用了整整兩塊厚麥包，滿滿的牛油果\n份量雖大，但好好吃所以我一個人KO掉了一整份！真係有好幸福嘅感覺\n我唔太識點評咖啡，但係我點了的「頂級摩卡」咖啡係好飲的，也大概get到它所標示的風味，飲落口好順，沒有苦澀味～\n期待下次再訪！！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "住喺呢度樓上嘅居民也太幸福了吧🥹\n小小的店，家庭式的經營\n感覺到店主好用心準備食物\n用料不是豪華級，但就是住家式好吃的味道\n三文治用了整整兩塊厚麥包，滿滿的牛油果\n份量雖大，但好好吃所以我一個人KO掉了一整份！真係有好幸福嘅感覺\n我唔太識點評咖啡，但係我點了的「頂級摩卡」咖啡係好飲的，也大概get到它所標示的風味，飲落口好順，沒有苦澀味～\n期待下次再訪！！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Christine Chau",
+          "uri": "https://www.google.com/maps/contrib/105719971381864917853/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJVqrmbIrp_Do3SF_t0AsVzBGOVJIrAIMo5CQIpgGDameSbXbA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-03-02T06:44:56.422667Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbE1PV0Z3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbE1PV0Z3EAE!2m1!1s0x3403ff8749efbe57:0x18add14b2572de06"
+      },
+      {
+        "name": "places/ChIJV77vSYf_AzQRBt5yJUvRrRg/reviews/ChdDSUhNMG9nS0VJQ0FnSURzanBYRTlnRRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "尋找超幸福三文治！\n呢間西環隱世嘅真小店有驚為天人嘅三文治，價錢超平民貼地性價比超高！呢個 #超幸福三文治 有齊炒蛋、午餐肉、芝士、火腿、青瓜、海苔都只係55個大洋就可以食到！圖一正面睇落嘅量只係一半嘅份量，背後仲有另外個半份三文治啊！當tea time咁食係會食撐，晚餐都要延後了！\n\n講講個味道～炒蛋摻雜啲芝麻同胡椒，口感同味道都豐富了！午餐肉都好厚，芝士分上下兩層超邪惡⋯青瓜好加分令口感清爽咗，最後海苔係輕輕點綴咗成件事！而值得一讚係用上烘到好脆嘅麥包，三文治最基本嘅烘底都做得好出色！\n\n佢地主打嘅單品咖啡都有好多種類，而我就揀咗玫瑰少女咖啡($45)，玫瑰味好香～另外一杯係納華度($60)\n\n溫馨提示：小店座位唔多！但食物同咖啡都係好值得一訪嘅，食完再漫步去西環碼頭睇個日落簡簡單單都好開心啊！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "尋找超幸福三文治！\n呢間西環隱世嘅真小店有驚為天人嘅三文治，價錢超平民貼地性價比超高！呢個 #超幸福三文治 有齊炒蛋、午餐肉、芝士、火腿、青瓜、海苔都只係55個大洋就可以食到！圖一正面睇落嘅量只係一半嘅份量，背後仲有另外個半份三文治啊！當tea time咁食係會食撐，晚餐都要延後了！\n\n講講個味道～炒蛋摻雜啲芝麻同胡椒，口感同味道都豐富了！午餐肉都好厚，芝士分上下兩層超邪惡⋯青瓜好加分令口感清爽咗，最後海苔係輕輕點綴咗成件事！而值得一讚係用上烘到好脆嘅麥包，三文治最基本嘅烘底都做得好出色！\n\n佢地主打嘅單品咖啡都有好多種類，而我就揀咗玫瑰少女咖啡($45)，玫瑰味好香～另外一杯係納華度($60)\n\n溫馨提示：小店座位唔多！但食物同咖啡都係好值得一訪嘅，食完再漫步去西環碼頭睇個日落簡簡單單都好開心啊！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cara Yeung",
+          "uri": "https://www.google.com/maps/contrib/105939776497139858120/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWi5znMGuQhYXGPFPUUtMYLhdPcykYtXPi2EC5_S87brhSIwJkL=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2020-03-04T03:31:57.289988Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURzanBYRTlnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURzanBYRTlnRRAB!2m1!1s0x3403ff8749efbe57:0x18add14b2572de06"
+      },
+      {
+        "name": "places/ChIJV77vSYf_AzQRBt5yJUvRrRg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5bWFEMHZBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "在谷歌地圖找咖啡飲，果然沒有失望，店主一人主理，座位不多，慢活好去處。很多不同的咖啡豆供選擇，下次會來吃三文治。烏干達咖啡合我口味，咖啡溫度夠，付款時不忘多謝店主介紹清晰。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "在谷歌地圖找咖啡飲，果然沒有失望，店主一人主理，座位不多，慢活好去處。很多不同的咖啡豆供選擇，下次會來吃三文治。烏干達咖啡合我口味，咖啡溫度夠，付款時不忘多謝店主介紹清晰。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Celia CHU",
+          "uri": "https://www.google.com/maps/contrib/109397366548494572441/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWM9G5aE1cYJkjxUHU8xSaKMy4OGvg19d7ioeFFQkhThQ8uvJaVXw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-03-18T14:07:44.630050Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5bWFEMHZBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5bWFEMHZBRRAB!2m1!1s0x3403ff8749efbe57:0x18add14b2572de06"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff8749efbe57:0x18add14b2572de06!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1778307548562251270&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff8749efbe57:0x18add14b2572de06!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff8749efbe57:0x18add14b2572de06!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff8749efbe57:0x18add14b2572de06!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJV77vSYf_AzQRBt5yJUvRrRg/photos/Aa-ngMYUqyzAJcLTTTekIZ2mMo9v9hWgHc6UClahcd7PcHkTbyXcbsaBn9hHXYOBVs-3pfjxCuQCj8i-Vdco25Ei1rAsOxIMVC7Otj73BRZ9iRWWa3vr0eC2_awk6S0BF2yZ6aJqzhvnhG-Hjv2Ok9mQsIKkUhbgbg_gSC36HOt055nM1Nj9TQ-kXqwVsXC6IOLvG36FNCjbLC6WZmzwSZmNeOM71WWPRUTZJ6_GE5mWEpYH8o-mpo3_uR6C_bnnuo3GJICfIbbxiVvSVLJgTSLHQ6P4L2jeZ65Z4FBkEzOt7vN6_3mOTg5s_ijLLokMH8msUearueN5KppoAXHQn-1WNwlhbUCpe5P-NvVgcFcKuV7rha7eFySZmE7jVg6mAbe8jsCAnnMJK9OTGRb2jxuS1cO_EFad",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "SUNNY CHAN",
+          "uri": "https://maps.google.com/maps/contrib/108441070128674492867",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkUubNuStMq9UxufCSBNpQchXRg_c8FEK6WiGHPy0P-yyT_93awQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICk2fTV6QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk2fTV6QE!2e10!4m2!3m1!1s0x3403ff8749efbe57:0x18add14b2572de06"
+    },
+    "local_path": "photos/ChIJV77vSYf_AzQRBt5yJUvRrRg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRg1RoY3dK5oTqxlQ_a5FPrldQCT0BWtyFuRSrH83ds77ygIlpFctcXngxhbEahMV2zDNP72RWhxFimt7mOEEcbzInP0ajbRwT0_Mp1FfJNblhXJPfGksKaLTT6IE2JpmW8w8p=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 186423
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

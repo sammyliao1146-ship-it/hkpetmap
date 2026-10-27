@@ -1,0 +1,309 @@
+{
+  "google_place_id": "ChIJ8Rasm1H7AzQRw4nrDMmhGMs",
+  "restaurant_ids": [
+    "restaurant:2294000883"
+  ],
+  "fetched_at": "2026-10-23T15:42:13.174966+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ8Rasm1H7AzQRw4nrDMmhGMs",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9442 0442",
+    "internationalPhoneNumber": "+852 9442 0442",
+    "formattedAddress": "shop 18, G/F, Fung Yau St S, Yuen Long, New Territories, 香港",
+    "location": {
+      "latitude": 22.4418936,
+      "longitude": 114.0340873
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=14634624874017688003&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 23:00",
+        "星期二: 12:00 – 23:00",
+        "星期三: 12:00 – 23:00",
+        "星期四: 12:00 – 23:00",
+        "星期五: 12:00 – 23:00",
+        "星期六: 11:30 – 23:00",
+        "星期日: 11:30 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 12,
+    "displayName": {
+      "text": "Dchefs pizza and pasta",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "披薩餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "pizza_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ8Rasm1H7AzQRw4nrDMmhGMs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25seE1EUktWbloxZGtNNVIyVlpiSFV6U1VKVk5IYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🤗今日同媽咪經過元朗鳯群徑，見到一間勁有歐洲feel嘅餐廳，門口藍白色外牆裝修好有渡假氣息🇬🇷聽講係全部由外籍廚師主理，睇到個餐牌就令我唸返起歐遊食嗰間餐廳嘅菜式，咁不如就同媽咪嘆返個Set lunch喇💕💕",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🤗今日同媽咪經過元朗鳯群徑，見到一間勁有歐洲feel嘅餐廳，門口藍白色外牆裝修好有渡假氣息🇬🇷聽講係全部由外籍廚師主理，睇到個餐牌就令我唸返起歐遊食嗰間餐廳嘅菜式，咁不如就同媽咪嘆返個Set lunch喇💕💕",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "白芸",
+          "uri": "https://www.google.com/maps/contrib/117123790265213629663/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXScI6Gu3faE1JkWIfXGD9ygGUkd1-9SMuvCl7ls1pFl8fWrQ0=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-12-14T07:49:35.541748724Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25seE1EUktWbloxZGtNNVIyVlpiSFV6U1VKVk5IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25seE1EUktWbloxZGtNNVIyVlpiSFV6U1VKVk5IYxAB!2m1!1s0x3403fb519bac16f1:0xcb18a1c90ceb89c3"
+      },
+      {
+        "name": "places/ChIJ8Rasm1H7AzQRw4nrDMmhGMs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBeGJUTnRiVzUzUTNsS1dIQkdWRkZZUzJSdVlrRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "味道可以\n\nPizza焗得好好 厚薄適中 不過點左個隻味個人黎講覺得唔做pizza\n\n意粉ok 不過同我想像中有出入 牛油味太出\n\nFajita 有點油",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道可以\n\nPizza焗得好好 厚薄適中 不過點左個隻味個人黎講覺得唔做pizza\n\n意粉ok 不過同我想像中有出入 牛油味太出\n\nFajita 有點油",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Man",
+          "uri": "https://www.google.com/maps/contrib/100689004522941706710/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJknK_pniQkjjIpIyPhOQQGddON-im1sNZ0NGEmCaDHhN_yg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-01-22T15:49:41.909242939Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBeGJUTnRiVzUzUTNsS1dIQkdWRkZZUzJSdVlrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBeGJUTnRiVzUzUTNsS1dIQkdWRkZZUzJSdVlrRRAB!2m1!1s0x3403fb519bac16f1:0xcb18a1c90ceb89c3"
+      },
+      {
+        "name": "places/ChIJ8Rasm1H7AzQRw4nrDMmhGMs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGalYzSlRkSGg2T0RGYVoyeEdSR05EUTNvNWJXYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "圖一魷魚圈，好像是99元一份，挺多圈圈的，每個圈都是完整而炸粉是均勻和薄的，很用心做，也可能是急凍產品。不過味道跟魷魚不夾，比較適合用來做炸洋蔥圈，點醬的表層和內層有兩截色，感覺放了很久。而魷魚像急凍的不新鮮，真有可能是急凍產品。\n\n圖二辣肉腸薄餅，辣肉腸比起salami軟身，也沒有那麼辣。可能要迎合大部份香港人的口味，很多芝士，所以食不到麵包的香氣。有香草，隱約食到一些肉末，但不顯。個邊真係非常好食，鬆脆像新鮮焗出來的餅乾，好香。切餅是的確有切到落底，很容易就能拿起來。\n圖三檸檬茶，沒有辦法之下選的，因為咖啡機壞了。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "圖一魷魚圈，好像是99元一份，挺多圈圈的，每個圈都是完整而炸粉是均勻和薄的，很用心做，也可能是急凍產品。不過味道跟魷魚不夾，比較適合用來做炸洋蔥圈，點醬的表層和內層有兩截色，感覺放了很久。而魷魚像急凍的不新鮮，真有可能是急凍產品。\n\n圖二辣肉腸薄餅，辣肉腸比起salami軟身，也沒有那麼辣。可能要迎合大部份香港人的口味，很多芝士，所以食不到麵包的香氣。有香草，隱約食到一些肉末，但不顯。個邊真係非常好食，鬆脆像新鮮焗出來的餅乾，好香。切餅是的確有切到落底，很容易就能拿起來。\n圖三檸檬茶，沒有辦法之下選的，因為咖啡機壞了。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dennity Law",
+          "uri": "https://www.google.com/maps/contrib/114671546169481327880/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6aEduERg5S9EImgVajxEfNoXnaX8j4vRFkIJ3UU7P7nnTZNc1=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-09-14T07:21:08.455356211Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGalYzSlRkSGg2T0RGYVoyeEdSR05EUTNvNWJXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGalYzSlRkSGg2T0RGYVoyeEdSR05EUTNvNWJXYxAB!2m1!1s0x3403fb519bac16f1:0xcb18a1c90ceb89c3"
+      },
+      {
+        "name": "places/ChIJ8Rasm1H7AzQRw4nrDMmhGMs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOSlIySnFSV3hQVFdGc1pYTlRVVE5LTWpWNVNuYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "點了羊排、義面和沙拉。食物出乎意料地好吃，尤其喜歡那美味的羊排配上超讚的薄荷醬。沙拉也很清爽新鮮 :)\n\n強烈推薦給所有想在輕鬆愜意的氛圍中享用美食的人！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Had the lamb chops, pasta and a salad. Food was surprisingly good and loved the fact the amazing lamb chops were served with a really good mint sauce. The salad was really crisp and fresh as well :)\n\nWould really recommend to anyone looking for great food with a chilled, laid back atmosphere!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Aaron Mo",
+          "uri": "https://www.google.com/maps/contrib/115833672227256670446/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUkqF3Ejc6VXwqZFmsaKJ2inLcLqS-XhEPPtgB2oE9dDGfK7YG=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-20T03:46:35.232041418Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOSlIySnFSV3hQVFdGc1pYTlRVVE5LTWpWNVNuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOSlIySnFSV3hQVFdGc1pYTlRVVE5LTWpWNVNuYxAB!2m1!1s0x3403fb519bac16f1:0xcb18a1c90ceb89c3"
+      },
+      {
+        "name": "places/ChIJ8Rasm1H7AzQRw4nrDMmhGMs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Wd1RHZEhiVVF3U0hsMFgweFVNbmxCTTBwSExWRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 3,
+        "text": {
+          "text": "點了披薩和牛排。\n\n披薩不好吃，麵團和番茄醬都有問題。\n\n牛排一般。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Tried a pizza and a steak.\nPizza was not good enough, problem from the dough making and tomato sauce.\n\nSteak was just average.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Angus Tam",
+          "uri": "https://www.google.com/maps/contrib/103120023061116657623/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIMf8xF6p3uUENHcGLLkq1-AzqyeRuFoWA-lUquXap9pCZing=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-12T15:08:10.964887728Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Wd1RHZEhiVVF3U0hsMFgweFVNbmxCTTBwSExWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Wd1RHZEhiVVF3U0hsMFgweFVNbmxCTTBwSExWRRAB!2m1!1s0x3403fb519bac16f1:0xcb18a1c90ceb89c3"
+      }
+    ],
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fb519bac16f1:0xcb18a1c90ceb89c3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14634624874017688003&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb519bac16f1:0xcb18a1c90ceb89c3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fb519bac16f1:0xcb18a1c90ceb89c3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb519bac16f1:0xcb18a1c90ceb89c3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ8Rasm1H7AzQRw4nrDMmhGMs/photos/Aa-ngMYeuWmdFWfzfWyzMp4C7yuqgr6c8KZ-7HsXMgimyTEkMdbG_B6pJy2QaiUrd_ldGflEKYVH88J9CzW_wp0wvXyBq4oRdIetUkX4Hy_K94Kp-6V7Y8MOsDiI1Qj7ZsSbSSjYYHkig0qhdANvbpXkuj5xxKcuNCu8nUXr9NIpqANUZYUyGIlKdZ1H52qRtiyZ9BAtkR1Ch95y_wXkt0pCpCy3WrnbkyyBRSrz-bMNC7xomS4YAh1pmfNex49qYz47og_znIQjYZgn5yGNLNMzOrrVIkuvMM5oXuGNaju6DmrY7DzeqqabhHVF_kRUtr1ns8dxxkV6O7ZqE0aLCIsYjik46NCTsVY47UWIFXSBWHQtlm-t8S_xiOhwjfsfZYcf85QzTNKGP4SAlyEIbzsJ7tTHVeWMw39jAAZi2QxIcFYmzg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "白芸",
+          "uri": "https://maps.google.com/maps/contrib/117123790265213629663",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXScI6Gu3faE1JkWIfXGD9ygGUkd1-9SMuvCl7ls1pFl8fWrQ0=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBa9UAs9lKjQ1oR8zGlnMuY&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBa9UAs9lKjQ1oR8zGlnMuY!2e10!4m2!3m1!1s0x3403fb519bac16f1:0xcb18a1c90ceb89c3"
+    },
+    "local_path": "photos/ChIJ8Rasm1H7AzQRw4nrDMmhGMs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeI_2Y05qE-pTs8yfRsEBKkbUFPSDRlu1X6yT75Xy-fzS55FmuiQHbhvcmHiBoiv0UTMc0TRZ-LjGT0_595QSwtJI0jw6r8jkaBNbFJz63zBa7PEcOBL1WojqsdHWURCWkHgF9tSW-LG5Gt=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 318787
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "pizza_restaurant",
+    "label": "披薩餐廳",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

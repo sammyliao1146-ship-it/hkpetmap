@@ -1,0 +1,329 @@
+{
+  "google_place_id": "ChIJHbQLhHjwAzQRq7-5V2bY7no",
+  "restaurant_ids": [
+    "restaurant:2294809101"
+  ],
+  "fetched_at": "2026-10-23T15:38:06.889832+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJHbQLhHjwAzQRq7-5V2bY7no",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2472 0148",
+    "internationalPhoneNumber": "+852 2472 0148",
+    "formattedAddress": "香港新界廈村廈尾路60號",
+    "location": {
+      "latitude": 22.450454699999998,
+      "longitude": 113.99373879999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=8858255451154399147&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 23:00",
+        "星期二: 07:00 – 23:00",
+        "星期三: 07:00 – 23:00",
+        "星期四: 07:00 – 23:00",
+        "星期五: 07:00 – 23:00",
+        "星期六: 07:00 – 23:00",
+        "星期日: 08:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 641,
+    "displayName": {
+      "text": "廈村鄉鄉事委員會員工飯堂",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJHbQLhHjwAzQRq7-5V2bY7no/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OaGVGWkZha1IwTVhJNGNIWlZVMkpqZWxoelIzYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 2,
+        "text": {
+          "text": "泊車方便 人流旺盛\n桃花依舊 服務唔錯 唯\n燒味稍遜 難憶初心\n特意前往 食了情懷😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "泊車方便 人流旺盛\n桃花依舊 服務唔錯 唯\n燒味稍遜 難憶初心\n特意前往 食了情懷😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Marco MA",
+          "uri": "https://www.google.com/maps/contrib/117904397532977158162/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIUBQnal2KyFru24VFQOC4GzN8kE_81fDKsISi7L4x8iBdP=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-11T15:12:21.784755836Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OaGVGWkZha1IwTVhJNGNIWlZVMkpqZWxoelIzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OaGVGWkZha1IwTVhJNGNIWlZVMkpqZWxoelIzYxAB!2m1!1s0x3403f078840bb41d:0x7aeed86657b9bfab"
+      },
+      {
+        "name": "places/ChIJHbQLhHjwAzQRq7-5V2bY7no/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqOXNyNkhBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "食物味道不錯，份量大，兼且味精不多（唔係點飲水），坐位亦算闊落舒服，現場見有人帶寵物入內，飯店出面亦有大量車位供應。\n最後埋單$364 。\n唯一缺點就是場內有人食煙，所以扣咗一粒星，變咗三粒星。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物味道不錯，份量大，兼且味精不多（唔係點飲水），坐位亦算闊落舒服，現場見有人帶寵物入內，飯店出面亦有大量車位供應。\n最後埋單$364 。\n唯一缺點就是場內有人食煙，所以扣咗一粒星，變咗三粒星。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Li Wing Fai",
+          "uri": "https://www.google.com/maps/contrib/116399457729841823885/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0WEFq_Bzz56OB7Sn48GSd-KJn8yS0P5cF1bplP68YIHmIi1TBfQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-04-21T12:22:57.085522Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqOXNyNkhBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqOXNyNkhBEAE!2m1!1s0x3403f078840bb41d:0x7aeed86657b9bfab"
+      },
+      {
+        "name": "places/ChIJHbQLhHjwAzQRq7-5V2bY7no/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poVVpTMUZTa0paVEVOV2VXTlJaVVZsVVhGQ1luYxAB",
+        "relativePublishTimeDescription": "3 週前",
+        "rating": 4,
+        "text": {
+          "text": "㕑師手勢不錯，具有鄉土氣式，老闆娘及各員工禮貌招待，都成為會想再去的食府",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "㕑師手勢不錯，具有鄉土氣式，老闆娘及各員工禮貌招待，都成為會想再去的食府",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Shek Keung Wong",
+          "uri": "https://www.google.com/maps/contrib/110631070556901447738/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXx95GRPWenMRtCri9frU2odR7xI5ia11LpfMS2RNC_2BVPdMmc6A=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-10-02T14:06:03.065575660Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poVVpTMUZTa0paVEVOV2VXTlJaVVZsVVhGQ1luYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poVVpTMUZTa0paVEVOV2VXTlJaVVZsVVhGQ1luYxAB!2m1!1s0x3403f078840bb41d:0x7aeed86657b9bfab"
+      },
+      {
+        "name": "places/ChIJHbQLhHjwAzQRq7-5V2bY7no/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWcWRLWjVBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "食物質素好\n環境舒適不迫挾\n推薦乳豬,燒味,火鍋\n另外可以泊車係加分",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物質素好\n環境舒適不迫挾\n推薦乳豬,燒味,火鍋\n另外可以泊車係加分",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "K W",
+          "uri": "https://www.google.com/maps/contrib/108361343998160488222/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrdKJ9_tB-iu7wW0vhQ7dxEGTn9fDIioILdufvYopCUu2-g1xBSg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-12-07T23:44:11.537921Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNWcWRLWjVBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNWcWRLWjVBRRAB!2m1!1s0x3403f078840bb41d:0x7aeed86657b9bfab"
+      },
+      {
+        "name": "places/ChIJHbQLhHjwAzQRq7-5V2bY7no/reviews/ChZDSUhNMG9nS0VJQ0FnSURLdl8tYVZBEAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 3,
+        "text": {
+          "text": "休閒鄉村飯店, 自攜海鮮加工, 小菜唔太巧手, 泊車方便",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "休閒鄉村飯店, 自攜海鮮加工, 小菜唔太巧手, 泊車方便",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Leslie Cheung",
+          "uri": "https://www.google.com/maps/contrib/102280007493565639344/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK8vbq8g0YRwGT3TVghx_JnUXZspbYJIllCU55IyAoHmQrLHA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2021-05-22T07:56:00.967312Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURLdl8tYVZBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURLdl8tYVZBEAE!2m1!1s0x3403f078840bb41d:0x7aeed86657b9bfab"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f078840bb41d:0x7aeed86657b9bfab!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8858255451154399147&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f078840bb41d:0x7aeed86657b9bfab!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f078840bb41d:0x7aeed86657b9bfab!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f078840bb41d:0x7aeed86657b9bfab!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJHbQLhHjwAzQRq7-5V2bY7no/photos/Aa-ngMZwfsd0THzuaxKv6OSFhb3M3rN36EU4l4NEgPJevaLXEHxs2UEeIUA4fcxtloy_gnOvxsSd6ce7M9ePfBn5lQbeYG1J4HwOUfpHFEL7M6nES_ZN4hT9Ynts4vmoMK5i9bdQvcRYQ9XMvXEEhPNNMpdlfqSrOF_5bzVbVeYmour1qbPaKdVPEv5S4WV510o9hfqYpC8xMHr6j75v37nyKfAt0n9aZXkPntvNgHLea6imDTJvaklrkurd7zMSjgw00M0nvGOTA7Qy37p2YyBG5C2f0VGxchsshC5Nf1KLipkuaCzYdybWB-GHI2gYenNyaEql9-JO3KMuPkvIr5oCim3kkHdjcug8VL98NVZpGl1Rli301yTLDanR3Zws4TN5QDcG_1NOVnJy01ItW20s3PKuu6w",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "tsukasa komorita",
+          "uri": "https://maps.google.com/maps/contrib/117053214258649917092",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVK6HDHCQfPgjp9HbJpNZ_popTQicESgiBYpqMReqCPrVnZt4E=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDswcHLJg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDswcHLJg!2e10!4m2!3m1!1s0x3403f078840bb41d:0x7aeed86657b9bfab"
+    },
+    "local_path": "photos/ChIJHbQLhHjwAzQRq7-5V2bY7no.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgMwfdj-qlJ7__fOgSCM2lc5fgttKiL5qgHKVU0k76TWjbNW7B7HslT3_zcKFdSpQF_og_Xytp5vB_d0O_reM28yDvXrRJgzMUrMeh9xpk7m-jOp_VHMBukbgdSs6R0NqtXwaQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 157640
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

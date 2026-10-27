@@ -1,0 +1,321 @@
+{
+  "google_place_id": "ChIJ20lFPF35AzQR8fk3vHACehI",
+  "restaurant_ids": [
+    "restaurant:2292000065"
+  ],
+  "fetched_at": "2026-10-23T15:38:31.126386+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ20lFPF35AzQR8fk3vHACehI",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2491 9829",
+    "internationalPhoneNumber": "+852 2491 9829",
+    "formattedAddress": "香港新界深井深康路13號",
+    "location": {
+      "latitude": 22.368021700000003,
+      "longitude": 114.0599034
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=1331379323058780657&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.nangkee.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 12:00 – 21:00",
+        "星期三: 12:00 – 21:00",
+        "星期四: 12:00 – 21:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 12:00 – 22:00",
+        "星期日: 12:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 390,
+    "displayName": {
+      "text": "能記飯店",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ20lFPF35AzQR8fk3vHACehI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sRFpXaEZabGx0Tmt4M2FGQTFURzlRT0U5SE5WRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "朋友約我去深井食能記燒鵝😍1962年開到而家，係老字號啊\n\n炭燒燒鵝新鮮出爐，皮脆肉嫩！炭燒叉燒好正，邊位焦脆少燶，肉軟腍多蜜～\n\n一定要叫砵焗生蠔，食咗兩隻 哈！蒜蓉粉絲蒸魷魚吸收精華湯汁～好正🦐著名粵菜蝦煎米粉。椒鹽茄子係即叫即炸，鹽鹹香惹味又夠鑊氣啊！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友約我去深井食能記燒鵝😍1962年開到而家，係老字號啊\n\n炭燒燒鵝新鮮出爐，皮脆肉嫩！炭燒叉燒好正，邊位焦脆少燶，肉軟腍多蜜～\n\n一定要叫砵焗生蠔，食咗兩隻 哈！蒜蓉粉絲蒸魷魚吸收精華湯汁～好正🦐著名粵菜蝦煎米粉。椒鹽茄子係即叫即炸，鹽鹹香惹味又夠鑊氣啊！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Serena Tao",
+          "uri": "https://www.google.com/maps/contrib/104819982041855049417/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSVNVqjdD26GyUsCq94u0RG-plUMFv9EEaSfbg-7MfVW6LB1n7=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-06-17T15:09:10.058383085Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sRFpXaEZabGx0Tmt4M2FGQTFURzlRT0U5SE5WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sRFpXaEZabGx0Tmt4M2FGQTFURzlRT0U5SE5WRRAB!2m1!1s0x3403f95d3c4549db:0x127a0270bc37f9f1"
+      },
+      {
+        "name": "places/ChIJ20lFPF35AzQR8fk3vHACehI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvMlVVNTRhMVJIVUhkRVMwVTJVMnhPWVd4c1kwRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "能記飯店啲燒鵝真係無得塊，每日新鮮出爐，用炭火慢燒。入口即化，一咬爆汁，仲要無味精，好好食，另外大推炭燒叉燒，最喜歡邊位焦脆帶燶，肉質軟腍多蜜，一咬鬆化\n\n其他小菜估唔到都好出息，砵焗生蠔，蒜蓉粉絲蒸魷魚，蝦煎米粉，椒鹽茄子都值得一試，而且有活動\n，LIKE佢哋Facebook 同 Instagram，會送一支樽裝汽水添",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "能記飯店啲燒鵝真係無得塊，每日新鮮出爐，用炭火慢燒。入口即化，一咬爆汁，仲要無味精，好好食，另外大推炭燒叉燒，最喜歡邊位焦脆帶燶，肉質軟腍多蜜，一咬鬆化\n\n其他小菜估唔到都好出息，砵焗生蠔，蒜蓉粉絲蒸魷魚，蝦煎米粉，椒鹽茄子都值得一試，而且有活動\n，LIKE佢哋Facebook 同 Instagram，會送一支樽裝汽水添",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yan Esther",
+          "uri": "https://www.google.com/maps/contrib/116966434397373524649/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeggIrRen5BlZT2CouKiCaEGvfsBZEuGED7DKW9jgEleembg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-06T09:47:24.303235961Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvMlVVNTRhMVJIVUhkRVMwVTJVMnhPWVd4c1kwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvMlVVNTRhMVJIVUhkRVMwVTJVMnhPWVd4c1kwRRAB!2m1!1s0x3403f95d3c4549db:0x127a0270bc37f9f1"
+      },
+      {
+        "name": "places/ChIJ20lFPF35AzQR8fk3vHACehI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGeFdrMUZkUzAzYUV3ekxVSlVVVXBzU0VSb1FsRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "深井老字號食店\n\n叉燒燒鵝雙拼\n必食脆皮燒鵝，有炭火煙熏香，皮脆肉嫩，一咬爆汁，配搭微焦叉燒，啖啖滋味。\n燒鵝配瀨粉，特別夾。\n\n椒鹽三鮮\n椒鹽惹味，魷魚彈牙、九肚魚嫩滑、鱔肉爽滑，外酥內嫩，粉漿薄。\n\n豉椒炒鵝腸\n鵝腸爽口脆嫩，冇腥味、椒香微辣、有鑊氣。\n\n花雕酒煮蜆\n蜆肉飽滿，帶有淡淡花雕酒香，湯汁鮮甜。\n\n配汽水、清新解渴。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "深井老字號食店\n\n叉燒燒鵝雙拼\n必食脆皮燒鵝，有炭火煙熏香，皮脆肉嫩，一咬爆汁，配搭微焦叉燒，啖啖滋味。\n燒鵝配瀨粉，特別夾。\n\n椒鹽三鮮\n椒鹽惹味，魷魚彈牙、九肚魚嫩滑、鱔肉爽滑，外酥內嫩，粉漿薄。\n\n豉椒炒鵝腸\n鵝腸爽口脆嫩，冇腥味、椒香微辣、有鑊氣。\n\n花雕酒煮蜆\n蜆肉飽滿，帶有淡淡花雕酒香，湯汁鮮甜。\n\n配汽水、清新解渴。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Natalie Pang",
+          "uri": "https://www.google.com/maps/contrib/100599689259714356098/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWR-lo_PRMUyPHOsX_uaMz_0EdVNjYEKrYCX2NZ2sq9KRtFNG946w=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-15T15:47:59.062427862Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGeFdrMUZkUzAzYUV3ekxVSlVVVXBzU0VSb1FsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGeFdrMUZkUzAzYUV3ekxVSlVVVXBzU0VSb1FsRRAB!2m1!1s0x3403f95d3c4549db:0x127a0270bc37f9f1"
+      },
+      {
+        "name": "places/ChIJ20lFPF35AzQR8fk3vHACehI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Wdk9EWldTRW95WkdkWlpreE9OMkZLWTJwUFRWRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "1962年開到而家嘅能記飯店，燒鵝燒足超過半世紀🦆每日新鮮出爐🌟炭火慢燒🔥皮脆到咔嚓聲，肉質嫩滑，一咬爆汁💦鵝油香攻鼻，無味精👍🏻純鵝香加炭火煙燻🌬️入深井必食😍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "1962年開到而家嘅能記飯店，燒鵝燒足超過半世紀🦆每日新鮮出爐🌟炭火慢燒🔥皮脆到咔嚓聲，肉質嫩滑，一咬爆汁💦鵝油香攻鼻，無味精👍🏻純鵝香加炭火煙燻🌬️入深井必食😍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "chau heiley",
+          "uri": "https://www.google.com/maps/contrib/103189804390972629982/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaUGZNXqj8MyOZfEVC4NLTEN-w0njLsrJTxMXfQ9txRSdp77IX=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-07T03:38:32.727497591Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Wdk9EWldTRW95WkdkWlpreE9OMkZLWTJwUFRWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Wdk9EWldTRW95WkdkWlpreE9OMkZLWTJwUFRWRRAB!2m1!1s0x3403f95d3c4549db:0x127a0270bc37f9f1"
+      },
+      {
+        "name": "places/ChIJ20lFPF35AzQR8fk3vHACehI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toSVluVkVNVlYyUVRGVGNFMUxVblZ5ZFVWdFJrRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "1962年\n剩係個招牌已經碩果僅存\n炭燒叉燒果然名不虛傳\n燶邊+蜜汁👍👍👍\n\n燒鵝熱辣辣多汁\n仲食咗筍殼魚同埋豉油王大蝦米粉底\n推介👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "1962年\n剩係個招牌已經碩果僅存\n炭燒叉燒果然名不虛傳\n燶邊+蜜汁👍👍👍\n\n燒鵝熱辣辣多汁\n仲食咗筍殼魚同埋豉油王大蝦米粉底\n推介👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "W Kate",
+          "uri": "https://www.google.com/maps/contrib/114827458120733608681/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKjtZFdeNuzwVUslosFLovYiUDZxEYBv84m0wuXV0sfIteVCdM=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-19T09:21:17.475323095Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toSVluVkVNVlYyUVRGVGNFMUxVblZ5ZFVWdFJrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toSVluVkVNVlYyUVRGVGNFMUxVblZ5ZFVWdFJrRRAB!2m1!1s0x3403f95d3c4549db:0x127a0270bc37f9f1"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": false,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f95d3c4549db:0x127a0270bc37f9f1!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1331379323058780657&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f95d3c4549db:0x127a0270bc37f9f1!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f95d3c4549db:0x127a0270bc37f9f1!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f95d3c4549db:0x127a0270bc37f9f1!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ20lFPF35AzQR8fk3vHACehI/photos/Aa-ngMa41o391slkugrNI3E4w_j54hQkiVhJoNLGh1oBFlMbtYo5HtQ6iu3LoJQr50zoIqc-1mWTOhzXcYEomssd3L3lba0Ws5b7RKU6mn0wPwhMDlH9_D5P2O2Ku8la8eKqw7gGJ84k1bsPZCznmpYxletQp_7CzxxdFSfWhEsUmzw-uRA6SRHk6eq1a6kxvAADDCFmk-5J-ElbKWA6fGZqeHqtaH85VatbnsL2-6_lEx363X0j0qX8a0Hrj2J1GRognWbWN_C8uYbReRtTggrPZ0kUSxy5jtGTTvLl6987rgnl8BWwo4w9uOKH-lKSjFLGxtuqd4etqc-ZjzllQSxUHJ2cyzg-wIdIV2eL-J2duEsbDVb-FsjsGBJUuddfh1nmOJNXeCYxPl27pKd-b-4ppJJ8LzQlEf9Vgs4OAxq1HpSEHQ",
+      "widthPx": 3264,
+      "heightPx": 2448,
+      "authorAttributions": [
+        {
+          "displayName": "能記飯店",
+          "uri": "https://maps.google.com/maps/contrib/107749840658766041454",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKRCUxu_exYIabGwEsZ3LhlKyEun3Ha1L745Et-3D8eMvLMyeq=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDbWtesqP8hauNFDYQIbfvT&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDbWtesqP8hauNFDYQIbfvT!2e10!4m2!3m1!1s0x3403f95d3c4549db:0x127a0270bc37f9f1"
+    },
+    "local_path": "photos/ChIJ20lFPF35AzQR8fk3vHACehI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiSK8NQUuencZmuOHr4b2Z7-4t6tEzjU4B8SVZLKNdAruoWfEiTgCLls53jFI8uRWP4sb1NR0pVERRPRY3x5GJo5DUZp62-0fidAHZeJFDYolslYuvBEg2vg1r5GJ4f8XwHBpyobklub2w=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 149922
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

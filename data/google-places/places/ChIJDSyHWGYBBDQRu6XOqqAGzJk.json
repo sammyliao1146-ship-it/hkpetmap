@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJDSyHWGYBBDQRu6XOqqAGzJk",
+  "restaurant_ids": [
+    "restaurant:3161808911"
+  ],
+  "fetched_at": "2026-10-23T15:42:26.361168+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJDSyHWGYBBDQRu6XOqqAGzJk",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2369 9333",
+    "internationalPhoneNumber": "+852 2369 9333",
+    "formattedAddress": "Nos. 13-15 Minden Avenue and No. 3, B/F Minden House, Blenheim Ave, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.2968929,
+      "longitude": 114.17470519999999
+    },
+    "rating": 4.8,
+    "googleMapsUri": "https://maps.google.com/?cid=11082240070182151611&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 6,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 6,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 6,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 6,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 6,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 6,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:00 – 06:00",
+        "星期二: 16:00 – 06:00",
+        "星期三: 16:00 – 06:00",
+        "星期四: 16:00 – 06:00",
+        "星期五: 16:00 – 06:00",
+        "星期六: 16:00 – 06:00",
+        "星期日: 16:00 – 06:00"
+      ],
+      "nextCloseTime": "2026-10-23T22:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 273,
+    "displayName": {
+      "text": "Dungeon Bar 地城酒吧",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "takeout": false,
+    "delivery": false,
+    "dineIn": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJDSyHWGYBBDQRu6XOqqAGzJk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VMlZtUmxkRzFCTm1rNFNHbG1ha0phV1Y5NldrRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "地方寬敞員工友善，飛鏢好去處，一家大細遊客都可以去，掟鏢優越想搵挑戰性也可以來。嘢食非常優秀性價比高薯條大份配菜多過麵。氣氛非常舒適早上環境清幽。晚上氣氛熱鬧，引發各位挑戰性嘅地方。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地方寬敞員工友善，飛鏢好去處，一家大細遊客都可以去，掟鏢優越想搵挑戰性也可以來。嘢食非常優秀性價比高薯條大份配菜多過麵。氣氛非常舒適早上環境清幽。晚上氣氛熱鬧，引發各位挑戰性嘅地方。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sam ting",
+          "uri": "https://www.google.com/maps/contrib/103729602511372906735/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQm_GgZ61KvRb7qNbk-dcSpMteJXqfK8Cc0SH5UrH38EJ4mX62=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-14T09:18:24.777797754Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21VMlZtUmxkRzFCTm1rNFNHbG1ha0phV1Y5NldrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VMlZtUmxkRzFCTm1rNFNHbG1ha0phV1Y5NldrRRAB!2m1!1s0x3404016658872c0d:0x99cc06a0aacea5bb"
+      },
+      {
+        "name": "places/ChIJDSyHWGYBBDQRu6XOqqAGzJk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SeGQxcGFlbkpqVlRKUU1IZ3phUzF3WlROaGMwRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢間 Bar 氛圍感超正，坐得好舒服。調酒師好 Nice，會好細心問你鍾意咩口味。杯 Cocktail 飲得出有用心思去調，味道好有層次，價錢喺同區嚟講亦算合理。無論係放工過黎 Happy Hour 鬆一鬆，定係約埋朋友傾計都好啱，一定會再幫襯！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間 Bar 氛圍感超正，坐得好舒服。調酒師好 Nice，會好細心問你鍾意咩口味。杯 Cocktail 飲得出有用心思去調，味道好有層次，價錢喺同區嚟講亦算合理。無論係放工過黎 Happy Hour 鬆一鬆，定係約埋朋友傾計都好啱，一定會再幫襯！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Delta",
+          "uri": "https://www.google.com/maps/contrib/110759898932666841070/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOlnBFHdaO4DE9yNMcV1ofQ6P2smzFNyVyfH2TqLIKMOTv5Zg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-19T18:18:46.627240466Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SeGQxcGFlbkpqVlRKUU1IZ3phUzF3WlROaGMwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SeGQxcGFlbkpqVlRKUU1IZ3phUzF3WlROaGMwRRAB!2m1!1s0x3404016658872c0d:0x99cc06a0aacea5bb"
+      },
+      {
+        "name": "places/ChIJDSyHWGYBBDQRu6XOqqAGzJk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWcGNVbGplbEEyT0RsSFZrOWpaVlI0TjFwcWRWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "酒吧氣氛好！收工通常都會去飲返兩杯！忘記一日的辛勞！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "酒吧氣氛好！收工通常都會去飲返兩杯！忘記一日的辛勞！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kapo ho",
+          "uri": "https://www.google.com/maps/contrib/116582284110314687201/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdoPVr__utUQPRzYrySpvYvKsYvgb2ZqAJQVp9AD0RgojmjA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-13T09:28:58.498451796Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWcGNVbGplbEEyT0RsSFZrOWpaVlI0TjFwcWRWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWcGNVbGplbEEyT0RsSFZrOWpaVlI0TjFwcWRWRRAB!2m1!1s0x3404016658872c0d:0x99cc06a0aacea5bb"
+      },
+      {
+        "name": "places/ChIJDSyHWGYBBDQRu6XOqqAGzJk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sc1JGRjFSVkp1VTNsaFJUSmthSGh4YWtKek5WRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "剛剛經過，看到做特價啤酒\n價錢優惠，坐得舒服自然\n氣氛好，直得推介\n拍拖聖地，朋友聚會閒談",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "剛剛經過，看到做特價啤酒\n價錢優惠，坐得舒服自然\n氣氛好，直得推介\n拍拖聖地，朋友聚會閒談",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kim Hung Stephen Chan",
+          "uri": "https://www.google.com/maps/contrib/111145264180193431373/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6CA6A2blVWBjcVRiG675nDOKMFpHfHatApzGwrhvTy2nV_w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-13T08:39:47.441495420Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sc1JGRjFSVkp1VTNsaFJUSmthSGh4YWtKek5WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sc1JGRjFSVkp1VTNsaFJUSmthSGh4YWtKek5WRRAB!2m1!1s0x3404016658872c0d:0x99cc06a0aacea5bb"
+      },
+      {
+        "name": "places/ChIJDSyHWGYBBDQRu6XOqqAGzJk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWbFlVdDJlSGxYZGxOa2NVcFdRbVV0V0hSMFkzYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "地點方便。最啱收工happy hours. 環境不錯地方寬敞。價錢平。大讚。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地點方便。最啱收工happy hours. 環境不錯地方寬敞。價錢平。大讚。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tat Hon, Derek Lee",
+          "uri": "https://www.google.com/maps/contrib/117202156056636411184/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2eGVk3epC6UWpCfScmYghlATUvyrTQBhqBkHYh1lG_6k8Ux2i=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-03T08:09:39.322802252Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWbFlVdDJlSGxYZGxOa2NVcFdRbVV0V0hSMFkzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWbFlVdDJlSGxYZGxOa2NVcFdRbVV0V0hSMFkzYxAB!2m1!1s0x3404016658872c0d:0x99cc06a0aacea5bb"
+      }
+    ],
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404016658872c0d:0x99cc06a0aacea5bb!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11082240070182151611&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404016658872c0d:0x99cc06a0aacea5bb!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404016658872c0d:0x99cc06a0aacea5bb!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404016658872c0d:0x99cc06a0aacea5bb!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJDSyHWGYBBDQRu6XOqqAGzJk/photos/Aa-ngMa5WDR8GCwa4uKF7-bSiKZS1L747rpT56iUxOGqaHI4iQzDak4v7wKu9xHY_roEpJrQa5n9RzO2W4R2Ui40RqMBYUH5QqUZyo35YTodciCk_3nXkEA7_0y_MvwxgQkQFlG1iIKtGrLq1m3pNzRwoWabhrG6PUED7Zp33oXaI5moCl0CW2feGwbKaF_GPn85_rZjAcz9eFlidjNxI5kkOBdMwNBsjxghAmRSUwvV_MC9ieXoYcUl9Nrrja-IiaKxPGETe3feD6Y-UN_EB480PXDgKJcvXGy2qp1tBgR5wn8moHSG1P35DjPN5GUaPcvbn2YnNGRveVRfgjBs3-8XUJ6Z8YQkGuOaoJR8buDMMZaZ-L6SaBV_9vCp34HsMSZS2iCWcfAlBxy3zz9zqlO8kmt9_XgYJcHIeq1Dqv2iZyOwYg",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Dang Le",
+          "uri": "https://maps.google.com/maps/contrib/104031994520001230031",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZjHJB2OHfP1-73_SlnZGrMB0z4NFrP51ffw2L8FPZp83LtwmuHg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBJ0tfr3DZdEnguQ2T8Z5v7&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBJ0tfr3DZdEnguQ2T8Z5v7!2e10!4m2!3m1!1s0x3404016658872c0d:0x99cc06a0aacea5bb"
+    },
+    "local_path": "photos/ChIJDSyHWGYBBDQRu6XOqqAGzJk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLclF0Y5B7yIsw1BjhF1jit6xLr4Bs6gDEWIy_6Fln2Zm59pVI0L_ya0YrNo64xCWGBbu_MTEvkQq6utxbqw5SgQ1SHoB7kqarfo1cgF0rbqSZrBorHy7G-vCSxR_hBkh0pNBEahtd5nUAtT=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 134796
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

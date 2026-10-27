@@ -1,0 +1,41 @@
+{
+  "id": "ChIJld6iNDWrBjQRSEsNFWdjQ3Y",
+  "types": [
+    "pharmacy",
+    "veterinary_care",
+    "pet_care",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島香港仔鴨脷洲利枝道138號鴨脷洲中心地下1號舖",
+  "location": {
+    "latitude": 22.2436051,
+    "longitude": 114.1532428
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8521764214301084488&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "鴨脷洲獸醫診所",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJld6iNDWrBjQRSEsNFWdjQ3Y/photos/Aa-ngMZ0OE3SaHrDqvD4JVSccqG4VaVQss7V5dcqY_ThXaDseMKbDEuuwdJB72RWnS1tPaQMUN95o-CoPMlhY0k02kc80ihuEuATPmt180jJgw9uZMQT30D9qHoOHDJ_7TUXZZHlIeSSmxbBNEarahAtP6PsGWASaWjAnJyHkNWmIyxNsoxq2z5tjlLIgcNSrRzWH3yIC1AmQmTNxRIeH3-ZDEzVaAUD13pfh0BV38YcejVFf5-AKzhDxoYi1ifj-2mCz2O5feacNAbQchq8Pq4YE-26sO4APt0uT2unOsXFwyVTz2PzIsvgK-6Vq--1GC7mlgqV1vVrFo54LCpk1zEQBygoqX5un0HPDswh3EIcjWVP6ZeShFnYfjkAxx3uzdjfnTj_dbrJjLmN29ES_w6JvWyNNdg",
+      "widthPx": 3000,
+      "heightPx": 2167,
+      "authorAttributions": [
+        {
+          "displayName": "Cam Ng",
+          "uri": "https://maps.google.com/maps/contrib/109951707155470811003",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIPRkgPuUZrRNwPm8C2jTZaWeL0g-br7oFf81ugE8O3_5Ssbg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICV2a3CaQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICV2a3CaQ!2e10!4m2!3m1!1s0x3406ab3534a2de95:0x76436367150d4b48"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:33.956312+00:00"
+}

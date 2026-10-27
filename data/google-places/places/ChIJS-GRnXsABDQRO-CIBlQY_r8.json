@@ -1,0 +1,348 @@
+{
+  "google_place_id": "ChIJS-GRnXsABDQRO-CIBlQY_r8",
+  "restaurant_ids": [
+    "restaurant:3118810541",
+    "restaurant:3118811906",
+    "restaurant:3118800629",
+    "restaurant:3118803530"
+  ],
+  "fetched_at": "2026-10-23T15:42:43.036290+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJS-GRnXsABDQRO-CIBlQY_r8",
+    "types": [
+      "cafe",
+      "coffee_shop",
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5503 6880",
+    "internationalPhoneNumber": "+852 5503 6880",
+    "formattedAddress": "香港香港島中環卑利街38號",
+    "location": {
+      "latitude": 22.282680799999998,
+      "longitude": 114.1527794
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=13834521854494695483&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://fineprint.hk/pages/location-soho",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:00 – 18:00",
+        "星期二: 06:00 – 18:00",
+        "星期三: 06:00 – 18:00",
+        "星期四: 06:00 – 18:00",
+        "星期五: 06:00 – 18:00",
+        "星期六: 06:00 – 18:00",
+        "星期日: 06:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-23T22:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 589,
+    "displayName": {
+      "text": "FINEPRINT",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesWine": false,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJS-GRnXsABDQRO-CIBlQY_r8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ObFl6SndTRWQ2UkMxNlNHaEdWRGRNVkdabU4yYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "每回來香港必來的店，咖啡好喝、食物好吃還有一個重點是客人的顏值都偏高！吃早餐的同時，眼睛還可以吃冰淇淋！很棒👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "每回來香港必來的店，咖啡好喝、食物好吃還有一個重點是客人的顏值都偏高！吃早餐的同時，眼睛還可以吃冰淇淋！很棒👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "莊空兒",
+          "uri": "https://www.google.com/maps/contrib/117139574156479118646/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZot1nQNJx2Iuge2iZl9s6XE2TGn_SScS8x1zUzlBENaIvJA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-27T04:20:10.280434731Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ObFl6SndTRWQ2UkMxNlNHaEdWRGRNVkdabU4yYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ObFl6SndTRWQ2UkMxNlNHaEdWRGRNVkdabU4yYxAB!2m1!1s0x3404007b9d91e14b:0xbffe18540688e03b"
+      },
+      {
+        "name": "places/ChIJS-GRnXsABDQRO-CIBlQY_r8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGVk5FUkdVM05GWm1wNGMxOXFhMXB5TjJOV2VHYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "酸種麵包。甜&鹹口味都好吃！\n但的確也蠻貴的，兩人總共260港幣\n\n那天天氣不是很好，外面很悶，也下著小雨，就找了室內的位置，室內只有一個大方桌，或是你做靠窗的位置。位置不多。\n\n決定好菜單後，到前方櫃檯點餐，店員蠻chill的，用英文時，我有點一時緊張了。最後也搞了個烏龍多點兩片吐司⋯ 店內客人也都是講英文的客人居多。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "酸種麵包。甜&鹹口味都好吃！\n但的確也蠻貴的，兩人總共260港幣\n\n那天天氣不是很好，外面很悶，也下著小雨，就找了室內的位置，室內只有一個大方桌，或是你做靠窗的位置。位置不多。\n\n決定好菜單後，到前方櫃檯點餐，店員蠻chill的，用英文時，我有點一時緊張了。最後也搞了個烏龍多點兩片吐司⋯ 店內客人也都是講英文的客人居多。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "林虹慈",
+          "uri": "https://www.google.com/maps/contrib/100474071424445516592/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiz9vXYimjYtPBPlrGOQk0LdsRKIhHUpzKkocdsZXmhPoNf68l=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-17T06:29:04.945291230Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGVk5FUkdVM05GWm1wNGMxOXFhMXB5TjJOV2VHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGVk5FUkdVM05GWm1wNGMxOXFhMXB5TjJOV2VHYxAB!2m1!1s0x3404007b9d91e14b:0xbffe18540688e03b"
+      },
+      {
+        "name": "places/ChIJS-GRnXsABDQRO-CIBlQY_r8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEeDdYYnBBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "比ig既打卡圖吸引左嚟😆\n中環店係中間有一大張高枱open seat\n所以自己隨便坐就得，order就直接去bar枱\n見到有人拎完野食會係出面既斜路坐\n係幾chill既，不過有機會要食二手煙😖\n\n🫐Ricotta Toast $95\n終於見到真身！Ricotta cheese食落好綿又有奶味\n配埋甜甜既蜜糖好正！而且每粒藍莓都甜😋\n酸種包係烘到脆脆地，口感煙韌\n\n🫐Smoked Salmon Avo Toast $115\n煙三文魚配牛油果係實無死既配搭(⁎⁍̴̛ᴗ⁍̴̛⁎)\n但再加埋nuts係面就好有口感\n份量都唔少，有誠意☺️\n\n飲左杯熱latte都okay，無咩特別👍🏽一定會再食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "比ig既打卡圖吸引左嚟😆\n中環店係中間有一大張高枱open seat\n所以自己隨便坐就得，order就直接去bar枱\n見到有人拎完野食會係出面既斜路坐\n係幾chill既，不過有機會要食二手煙😖\n\n🫐Ricotta Toast $95\n終於見到真身！Ricotta cheese食落好綿又有奶味\n配埋甜甜既蜜糖好正！而且每粒藍莓都甜😋\n酸種包係烘到脆脆地，口感煙韌\n\n🫐Smoked Salmon Avo Toast $115\n煙三文魚配牛油果係實無死既配搭(⁎⁍̴̛ᴗ⁍̴̛⁎)\n但再加埋nuts係面就好有口感\n份量都唔少，有誠意☺️\n\n飲左杯熱latte都okay，無咩特別👍🏽一定會再食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wahaha Tiffany",
+          "uri": "https://www.google.com/maps/contrib/113866696521651214700/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgrtC6Oiqju7EIWnC5T35132FUZfr49vvYmmLTcCNJP2_8PCkw5A=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-04-02T15:32:13.479809Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEeDdYYnBBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEeDdYYnBBRRAB!2m1!1s0x3404007b9d91e14b:0xbffe18540688e03b"
+      },
+      {
+        "name": "places/ChIJS-GRnXsABDQRO-CIBlQY_r8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwd2FHYnVBRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "📍Breakfast Bowl:\n很讚很推，燕麥水果乳酪，吃起來很清爽，藍莓香蕉的甜跟燕麥超級搭！！\n📍Bikini:\n起司火腿加上黑松露醬，這個也超好吃！偏鹹一點\n📍Roast Beef：烤牛肉熱壓吐司，裡面有洋蔥牛肉洋蔥起司，這個也很好吃可以點！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "📍Breakfast Bowl:\n很讚很推，燕麥水果乳酪，吃起來很清爽，藍莓香蕉的甜跟燕麥超級搭！！\n📍Bikini:\n起司火腿加上黑松露醬，這個也超好吃！偏鹹一點\n📍Roast Beef：烤牛肉熱壓吐司，裡面有洋蔥牛肉洋蔥起司，這個也很好吃可以點！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Manwang",
+          "uri": "https://www.google.com/maps/contrib/108238066851518845026/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEMMlcEDUUnS-P3kjIhsx8au1Ilx917pybV_ngbJOI4ecJLkJS=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-08-05T02:29:09.191461Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwd2FHYnVBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwd2FHYnVBRRAB!2m1!1s0x3404007b9d91e14b:0xbffe18540688e03b"
+      },
+      {
+        "name": "places/ChIJS-GRnXsABDQRO-CIBlQY_r8/reviews/ChdDSUhNMG9nS0VJQ0FnSURDMVBTODN3RRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 4,
+        "text": {
+          "text": "一早Bookmarked左大坑分店，有次經過中環大街，見到有好多外國人好寫意地坐係石路旁嘆Brunch，驚喜發現原來係Fineprint的中環店，剛好有3個望外街的位置，便決定同朋友試試。\n\nFineprint有Pastries、Cookies，仲有我最中意的Sourdough，食完真係好想買返一個半個同屋企人分享！\n\n《Jam & Toast $40》\nSourdough加藍莓醬+牛油組合，簡單配搭更能夠食出Sourdough的獨特香氣和酸味，麵包邊脆口，中間軟綿煙韌。Seasonal藍莓醬酸酸甜甜，我更中意搽滿牛油的吃法，半溶的牛油滲透在Sourdough，一口咬下，同時食到牛油的香氣和Sourdough的酸味。\n\n《Toast with Peanut Butter $25》\n除左Peanut Butter，另外可以選擇Vegemite、蜜糖、Marmite，Sourdough配花生醬對我黎講好有新鮮感，一向鍾情於呢種吃法的朋友卻吃得開懷，花生醬味道濃郁帶點微甜，口感順滑，有點意想不到的驚喜。\n\n《White $30》\n咖啡屬正常質素，味道香濃，奶味較重身，但容易快起泡。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一早Bookmarked左大坑分店，有次經過中環大街，見到有好多外國人好寫意地坐係石路旁嘆Brunch，驚喜發現原來係Fineprint的中環店，剛好有3個望外街的位置，便決定同朋友試試。\n\nFineprint有Pastries、Cookies，仲有我最中意的Sourdough，食完真係好想買返一個半個同屋企人分享！\n\n《Jam & Toast $40》\nSourdough加藍莓醬+牛油組合，簡單配搭更能夠食出Sourdough的獨特香氣和酸味，麵包邊脆口，中間軟綿煙韌。Seasonal藍莓醬酸酸甜甜，我更中意搽滿牛油的吃法，半溶的牛油滲透在Sourdough，一口咬下，同時食到牛油的香氣和Sourdough的酸味。\n\n《Toast with Peanut Butter $25》\n除左Peanut Butter，另外可以選擇Vegemite、蜜糖、Marmite，Sourdough配花生醬對我黎講好有新鮮感，一向鍾情於呢種吃法的朋友卻吃得開懷，花生醬味道濃郁帶點微甜，口感順滑，有點意想不到的驚喜。\n\n《White $30》\n咖啡屬正常質素，味道香濃，奶味較重身，但容易快起泡。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ris_foodfiesta",
+          "uri": "https://www.google.com/maps/contrib/105926664611532432912/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_No7cU_wSLesqsp2MzKbZEIla4LN_ndebYKZ73MTs_1U2Npxm=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2020-09-16T02:02:39.515917Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURDMVBTODN3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURDMVBTODN3RRAB!2m1!1s0x3404007b9d91e14b:0xbffe18540688e03b"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleRestroom": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404007b9d91e14b:0xbffe18540688e03b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13834521854494695483&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404007b9d91e14b:0xbffe18540688e03b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404007b9d91e14b:0xbffe18540688e03b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404007b9d91e14b:0xbffe18540688e03b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJS-GRnXsABDQRO-CIBlQY_r8/photos/Aa-ngMaemsIY9bIzcsXY1l1La9WP2f-EuINLDcu9wxWZah2xPfx2lLy8kNfQG4gww919VV_hAo8QlwQhOiyzBkxNIgR-Bas5eEkgbkzYDQAmBqEKQ7oEe3RQ7OjRC0d4XtiuDYoMmZuNU4OuCy5bMMN-kX_F5TKSrwZZOJd6M9YM5s0mU4e7jqLBHpW5DTx8ljuKNtIaFNWUEcuHtUUI28v3voLByPw0AGUUTDF3uA7uSQ4ZVagaQswW-mLtO7-PZbTdQ6mhZyigdULmUnGyScny3gi2c_pr7lNHPXV9k735j6S2F5IUAq9_l61I-c0Co6faM0miLsEIc3sbK8RCoGVew6kshn08xwGX-c29EGMJagjtghzD4q2PiCkcUzlqDncf2H-MqHJIbdo7nx1uhHdC-hHzdVg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Dmitry Babanov",
+          "uri": "https://maps.google.com/maps/contrib/114823151512552151369",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZvjHfup3m8PkC88_xaRKpU88r95jNpXWsMfV6BBHdXtLPSyOZkA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDT-tKWKg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT-tKWKg!2e10!4m2!3m1!1s0x3404007b9d91e14b:0xbffe18540688e03b"
+    },
+    "local_path": "photos/ChIJS-GRnXsABDQRO-CIBlQY_r8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFwT_AFiQq4AU3QemDfQiCapSzFySiJuBJ83jMDk7Mahq7F8yuXYk47PujyQjgGm1IjaZjSNoYE0EIYgvawyl-ug9_n8zNB1DNic7ME8oJFemKWdetbcq0ihQPKhEAIpNNnMc7=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 193664
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-soho",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/pages/location-soho",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "coffee_shop",
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://fineprint.hk/pages/fineprint-menu-soho"
+}

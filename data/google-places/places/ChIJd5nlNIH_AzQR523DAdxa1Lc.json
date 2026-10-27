@@ -1,0 +1,378 @@
+{
+  "google_place_id": "ChIJd5nlNIH_AzQR523DAdxa1Lc",
+  "restaurant_ids": [
+    "restaurant:2212191804"
+  ],
+  "fetched_at": "2026-10-23T15:40:19.981780+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJd5nlNIH_AzQR523DAdxa1Lc",
+    "types": [
+      "restaurant",
+      "barbecue_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9184 1021",
+    "internationalPhoneNumber": "+852 9184 1021",
+    "formattedAddress": "號地下, 205 Wan Chai Rd, Wan Chai, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2776785,
+      "longitude": 114.17888579999999
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=13246312304972361191&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://shorturl.at/zuh2Y",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 02:30",
+        "星期二: 11:30 – 14:30, 18:00 – 02:00",
+        "星期三: 11:30 – 14:30, 18:00 – 02:00",
+        "星期四: 11:30 – 14:30, 18:00 – 02:00",
+        "星期五: 11:30 – 14:30, 18:00 – 02:00",
+        "星期六: 18:00 – 02:00",
+        "星期日: 18:00 – 01:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 233,
+    "displayName": {
+      "text": "起友 BBQ",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJd5nlNIH_AzQR523DAdxa1Lc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25adk1pMWZMWGMzYVZvelUyeDFOa2xNWDFCNVVtYxAB",
+        "relativePublishTimeDescription": "4 週前",
+        "rating": 5,
+        "text": {
+          "text": "唔係講笑，我同我個friend都係學生\n佢11點開始下午學生餐\n非常有性價比，兩款都係$48\n仲要包埋汽水，可以加冰底唔使錢\n全部都係即叫即整\n我哋最終兩個都食唔晒，打包拎走\n我覺得佢買$70我都覺得合理",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "唔係講笑，我同我個friend都係學生\n佢11點開始下午學生餐\n非常有性價比，兩款都係$48\n仲要包埋汽水，可以加冰底唔使錢\n全部都係即叫即整\n我哋最終兩個都食唔晒，打包拎走\n我覺得佢買$70我都覺得合理",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "BO KO",
+          "uri": "https://www.google.com/maps/contrib/104300408510272417497/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUi1qykWyvKsXi6sbIrYO_Ifr3aYTRbvoP_WP6f-M1y0hsWCvw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-09-25T01:42:39.022993917Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25adk1pMWZMWGMzYVZvelUyeDFOa2xNWDFCNVVtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25adk1pMWZMWGMzYVZvelUyeDFOa2xNWDFCNVVtYxAB!2m1!1s0x3403ff8134e59977:0xb7d45adc01c36de7"
+      },
+      {
+        "name": "places/ChIJd5nlNIH_AzQR523DAdxa1Lc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZcE82ZEtREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "首先上枱嘅係孖醬：泰式辣醬➕沙嗲醬\n正所謂醬汁是靈魂！點乜都得\n必試BBQ名物燒花膠\n同場有我至愛的紅腸、魚片頭等\n炸日本白蝦送酒一流\n枱枱暢飲啤酒開紅酒\n整體好好氣氛嘅食店",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "首先上枱嘅係孖醬：泰式辣醬➕沙嗲醬\n正所謂醬汁是靈魂！點乜都得\n必試BBQ名物燒花膠\n同場有我至愛的紅腸、魚片頭等\n炸日本白蝦送酒一流\n枱枱暢飲啤酒開紅酒\n整體好好氣氛嘅食店",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Niki Chic",
+          "uri": "https://www.google.com/maps/contrib/106440161751219754169/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKUep-NrDI2F450al1XnhIm-5aGoWIWDVw4WCMXppuZB6BcDQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-05-01T12:47:23.135208Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZcE82ZEtREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZcE82ZEtREAE!2m1!1s0x3403ff8134e59977:0xb7d45adc01c36de7"
+      },
+      {
+        "name": "places/ChIJd5nlNIH_AzQR523DAdxa1Lc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoMWRtZDFOSEY2TFZadWMwMVVWR2N4YW1odlQyYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 1,
+        "text": {
+          "text": "食物唔錯，裝修環境簡單。計埋氣氛就價錢偏貴。\n\n不過。。。最重要係服務差。8:00叫咗碟豬頸肉，8:50先上，催佢講到係我問題咁。又話我哋之後又有加嘢食，想問有咩關係呢？ 又話要等埋其他枱概客一齊燒 問題係我落單嗰陣佢哋都未到。。就算係都唔關我事啦。擺明係漏單都唔肯認，其實講聲唔好意思條氣都順返。\n\n之後叫佢哋取消又唔肯兼態度好差，堅持取消先至幫你取消。\n\n如果唔係服務有問題應該會有下次 而家冇了",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物唔錯，裝修環境簡單。計埋氣氛就價錢偏貴。\n\n不過。。。最重要係服務差。8:00叫咗碟豬頸肉，8:50先上，催佢講到係我問題咁。又話我哋之後又有加嘢食，想問有咩關係呢？ 又話要等埋其他枱概客一齊燒 問題係我落單嗰陣佢哋都未到。。就算係都唔關我事啦。擺明係漏單都唔肯認，其實講聲唔好意思條氣都順返。\n\n之後叫佢哋取消又唔肯兼態度好差，堅持取消先至幫你取消。\n\n如果唔係服務有問題應該會有下次 而家冇了",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nick Li",
+          "uri": "https://www.google.com/maps/contrib/105943783663212445327/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYhvzlQ7FBD8HgK-L28T2wXI_E2zgfnOIX3lxNT91odMWtUA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-26T13:13:59.430543334Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoMWRtZDFOSEY2TFZadWMwMVVWR2N4YW1odlQyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoMWRtZDFOSEY2TFZadWMwMVVWR2N4YW1odlQyYxAB!2m1!1s0x3403ff8134e59977:0xb7d45adc01c36de7"
+      },
+      {
+        "name": "places/ChIJd5nlNIH_AzQR523DAdxa1Lc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaNEpYZ0t3EAE",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "🦑 西環勁抵食BBQ 🍢\n\n呢度嘅海鮮係好抵食，燒活鮑魚，燒生蠔同燒蟶子皇都係必點~ 新鮮又肥美。\n\n而且神奇地竟然有炸白蝦！平時日式餐廳先有，估唔到呢間up dup dup 都有得食🤤 又香又酥又脆，味道鹹鮮，送酒佳品，正\n\n仲有呢度嘅啤酒又平，不得了。難怪成日都爆場啦\n\n不過今次未食到朋友仔推薦既粥同甜品，下次要嚟再戰😋\n\np.s. 佢哋係比較地踎街坊 feel，服務就麻麻哋唔好太多諗法同埋係會漏單要自己追單，同埋因為全部食物即叫即燒，要預等耐啲時間～然後神奇地Openrice 個名又叫BBQ美食店，咁多花朵~",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🦑 西環勁抵食BBQ 🍢\n\n呢度嘅海鮮係好抵食，燒活鮑魚，燒生蠔同燒蟶子皇都係必點~ 新鮮又肥美。\n\n而且神奇地竟然有炸白蝦！平時日式餐廳先有，估唔到呢間up dup dup 都有得食🤤 又香又酥又脆，味道鹹鮮，送酒佳品，正\n\n仲有呢度嘅啤酒又平，不得了。難怪成日都爆場啦\n\n不過今次未食到朋友仔推薦既粥同甜品，下次要嚟再戰😋\n\np.s. 佢哋係比較地踎街坊 feel，服務就麻麻哋唔好太多諗法同埋係會漏單要自己追單，同埋因為全部食物即叫即燒，要預等耐啲時間～然後神奇地Openrice 個名又叫BBQ美食店，咁多花朵~",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "E K",
+          "uri": "https://www.google.com/maps/contrib/111859880432295446343/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9n4HKiyQ4u5x-1QVfoH8O5g5DT-hbQAuwrAf393wLy4DLkURjWA=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-01-03T12:28:53.865363956Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNaNEpYZ0t3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaNEpYZ0t3EAE!2m1!1s0x3403ff8134e59977:0xb7d45adc01c36de7"
+      },
+      {
+        "name": "places/ChIJd5nlNIH_AzQR523DAdxa1Lc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSTGFsazROR0Z4TUdSWGVEWllXV00zVlhCdmVWRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "午餐份量好大 但唔知點解雞髀無味， 雪味好勁同唔知點解會有少少腥味：好似食緊魚咁；但職員好熱情，碗仔翅狂加麻油胡椒粉勁好食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午餐份量好大 但唔知點解雞髀無味， 雪味好勁同唔知點解會有少少腥味：好似食緊魚咁；但職員好熱情，碗仔翅狂加麻油胡椒粉勁好食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Htc Only",
+          "uri": "https://www.google.com/maps/contrib/110601514022440342376/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJiRwrG0Hwg0HkIcXKkCBQ_DZ2MMY9ni8WDBGW06qz80U6pIg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-19T05:21:36.865828403Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSTGFsazROR0Z4TUdSWGVEWllXV00zVlhCdmVWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSTGFsazROR0Z4TUdSWGVEWllXV00zVlhCdmVWRRAB!2m1!1s0x3403ff8134e59977:0xb7d45adc01c36de7"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff8134e59977:0xb7d45adc01c36de7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13246312304972361191&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff8134e59977:0xb7d45adc01c36de7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff8134e59977:0xb7d45adc01c36de7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff8134e59977:0xb7d45adc01c36de7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJd5nlNIH_AzQR523DAdxa1Lc/photos/Aa-ngMYDAWYAnjL4PxriE8NVLOSRH_KmUhVewZljBeOX1l9O544ldUmDARtjOpZIL0JCVqPxktQdWFWAK-0naAlXNrLJWiyQvJhRgH_HBDCWfYa-FnxFpAooYdhFE2jFuhLN_jUEk6bKX4O6Hk4ddRsEn7R8frP6UYhTnAxYg9YZLDbYsM7CKOQELg5ebAckkPYUAe5c_7UwQ-UdOAQSAfzRZIqNaCr4fQQRuGLs39ii3zgRaLSDiMKgypUzmVF5RmlnarCKL9EzX3wH5ZVimZwDZ89ptsBu0xP_RLgcvnGJKl08vN766j62UgGjP-I6H9CcXyfvMfPg9So3aJF1ifbcH1J5RzzNGzZ1RTRz7peDpRrZp_Z-ZMUUus8keNnHdpGzb_iMw8cHCSHelHTVhK_YAhFKFOzVZErxS8jbDh4kFhMPxA",
+      "widthPx": 4096,
+      "heightPx": 4088,
+      "authorAttributions": [
+        {
+          "displayName": "Heyyo BBQ",
+          "uri": "https://maps.google.com/maps/contrib/111267968891750301794",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6EiTnpXQqzC_7NWYZ-GRJJy7MACkVZXJ-bZb6nNmoNhCNryA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDnC_Lxrb9omabQ4vZJyU0Q&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDnC_Lxrb9omabQ4vZJyU0Q!2e10!4m2!3m1!1s0x3403ff8134e59977:0xb7d45adc01c36de7"
+    },
+    "local_path": "photos/ChIJd5nlNIH_AzQR523DAdxa1Lc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7X58EXkduN48dghm1MoDnZE-doxxDO4rZA_HmrggJUXICMQCOf_LFTXPY-qCNGRUnYVhLMJl-GKpoCCnX1beNO60kvBwl0kaor4UsXC73PZ1vOEiOwU-lEJN9mBFC9KmO8RqFDGqs0m_c=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 161176
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "barbecue_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

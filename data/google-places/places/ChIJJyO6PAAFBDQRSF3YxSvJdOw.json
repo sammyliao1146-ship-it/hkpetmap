@@ -1,0 +1,329 @@
+{
+  "google_place_id": "ChIJJyO6PAAFBDQRSF3YxSvJdOw",
+  "restaurant_ids": [
+    "restaurant:2211811468"
+  ],
+  "fetched_at": "2026-10-23T15:51:51.753883+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJJyO6PAAFBDQRSF3YxSvJdOw",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2497 8188",
+    "internationalPhoneNumber": "+852 2497 8188",
+    "formattedAddress": "香港新界將軍澳東港城商場",
+    "location": {
+      "latitude": 22.3161569,
+      "longitude": 114.2660489
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=17038464480089496904&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 22:00",
+        "星期二: 07:00 – 22:00",
+        "星期三: 07:00 – 22:00",
+        "星期四: 07:00 – 22:00",
+        "星期五: 07:00 – 22:00",
+        "星期六: 07:00 – 22:00",
+        "星期日: 07:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 159,
+    "displayName": {
+      "text": "UURO Modern European (東港城)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "義大利餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "italian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJJyO6PAAFBDQRSF3YxSvJdOw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kR2EyVmhVR2szT0RnMlNVSXRNSFJPTjNaRmRWRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 3,
+        "text": {
+          "text": "雖然是百分百嘅分身但沒有什麼對不起客人, 茶餐價錢及份量都是合理, 上菜速度夠快, 味道也不過不失, 環境也舒適, 而且地方夠大, 人多時等候時間也不會長, 用餐人數多也會找到合適位置。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "雖然是百分百嘅分身但沒有什麼對不起客人, 茶餐價錢及份量都是合理, 上菜速度夠快, 味道也不過不失, 環境也舒適, 而且地方夠大, 人多時等候時間也不會長, 用餐人數多也會找到合適位置。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Emil Keung",
+          "uri": "https://www.google.com/maps/contrib/107284283295350934693/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZ0VKZvkNCXTeKp_-DhCH17pbwelikMnrUoJiB-gDleJjueUZzkA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-02T08:02:00.135230013Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kR2EyVmhVR2szT0RnMlNVSXRNSFJPTjNaRmRWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kR2EyVmhVR2szT0RnMlNVSXRNSFJPTjNaRmRWRRAB!2m1!1s0x340405003cba2327:0xec74c92bc5d85d48"
+      },
+      {
+        "name": "places/ChIJJyO6PAAFBDQRSF3YxSvJdOw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZNVZtWjFYMG94VkhaMWJqQldjRmg2V0hjeE4wRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "餐廳環境相對舒適，提供可容納6人的C型卡位，相對較少有。\n餐廳可使用QR CODE 落單，亦可向侍應下單。下午茶食物份量也不算少，但食物質素相對一般，對應下午茶時段價格也免強可接受。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳環境相對舒適，提供可容納6人的C型卡位，相對較少有。\n餐廳可使用QR CODE 落單，亦可向侍應下單。下午茶食物份量也不算少，但食物質素相對一般，對應下午茶時段價格也免強可接受。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Galen Fong",
+          "uri": "https://www.google.com/maps/contrib/110484057053863090069/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFLKkBc5mUeXq7ypFZzWTaIPKIaZWVNPyPxvzX7s6__eemD1frVQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-07-02T16:47:11.349307911Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZNVZtWjFYMG94VkhaMWJqQldjRmg2V0hjeE4wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZNVZtWjFYMG94VkhaMWJqQldjRmg2V0hjeE4wRRAB!2m1!1s0x340405003cba2327:0xec74c92bc5d85d48"
+      },
+      {
+        "name": "places/ChIJJyO6PAAFBDQRSF3YxSvJdOw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wNWJXMVlVa0YwYWs5ek1uaDJibVJFYTFGaU9HYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 1,
+        "text": {
+          "text": "Very bad experience! 服務員態度惡劣，送錯餐兩次，入座杯水都唔比，飲品飲筒插反轉，頭尾都唔分，一百七十幾嘅牛扒好似預製，個意麵等咗廿幾分鐘。唔知點樣有有臉仲收加一🤮🤮🤮🤮",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Very bad experience! 服務員態度惡劣，送錯餐兩次，入座杯水都唔比，飲品飲筒插反轉，頭尾都唔分，一百七十幾嘅牛扒好似預製，個意麵等咗廿幾分鐘。唔知點樣有有臉仲收加一🤮🤮🤮🤮",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pengcheng Guo",
+          "uri": "https://www.google.com/maps/contrib/103291375370315390511/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsdVqQJ7WQ-ip2gJwa775aDKBfnF52vnAtjdD66uaR-Lm41Hyg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-30T12:45:38.810233483Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wNWJXMVlVa0YwYWs5ek1uaDJibVJFYTFGaU9HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wNWJXMVlVa0YwYWs5ek1uaDJibVJFYTFGaU9HYxAB!2m1!1s0x340405003cba2327:0xec74c92bc5d85d48"
+      },
+      {
+        "name": "places/ChIJJyO6PAAFBDQRSF3YxSvJdOw/reviews/ChdDSUhNMG9nS0VJQ0FnTURvd2VIOXFBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "之前經過東港城，睇住依間餐廳裝修同開張，早幾晚終於嚟咗幫襯，超好生意，因為性價比超高，唔怪得知顧客絡繹不絕😂\n\n慢煮牛臉頰 $108配小食香烤粟米\n作為牛臉頰控，一見到餐牌有依個選擇即刻不作他選😂肉質好軟淋，配埋粟米🌽好正，份量仲好多。\n\n煙肉白酒鮮蜆闊麵 $78\n大堆頭嘅蜆，食極都有，蜆肉味甜，闊麵好掛汁，仲加咗蕃茄仔，感覺好清新健康😋\n\n松露野菌手工Pizza $78\n食咗咁多肉，叫返個素Pizza, 松露好多好香，一啲都唔吝嗇🍕\n\n依度嘅主食可以+$23配餐湯裸麥包及飲品，可以揀紅湯或白湯，另外佢嘅裸麥包好好食，甜甜哋好有麥香，我想encore😂\n\n焦糖海鹽雪糕牛角窩夫 +$28\n黑白心太軟 +$28\n雖然好飽，但都好想食甜品，窩夫好重牛油香，配天藍色嘅海鹽雪糕，好靚好好味。黑白心太軟流心做得唔錯，唔會太甜。\n\n評分：最高為5分\n治癒度：👩‍⚕👩‍⚕👩‍⚕👩‍⚕\n抵食度：💉💉💉💉💉\n翻兜指數：🩺🩺🩺🩺\n\nUURO\n將軍澳重華路8號東港城1樓188號舖\n📍坑口港鐵站A1出口12分鐘路程\n\n@uuro.hk\n#healingbobo #foodie #hkfoodie #foodiehk #香港 #美食 #坑口 #EastPointCity #東港城 #TseungKwanO #TKO #將軍澳 #UURO  #hkig #hkigfood #hongkong #hongkongfood #香港探店 #香港美食 #香港西餐 #西餐 #將軍澳美食 #將軍澳餐廳 #西餐廳 #手工披薩 #手工PIZZA #無米飯 #coffee #coffeedaily #咖啡 #甜品 #手工 #牛扒 #晚餐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "之前經過東港城，睇住依間餐廳裝修同開張，早幾晚終於嚟咗幫襯，超好生意，因為性價比超高，唔怪得知顧客絡繹不絕😂\n\n慢煮牛臉頰 $108配小食香烤粟米\n作為牛臉頰控，一見到餐牌有依個選擇即刻不作他選😂肉質好軟淋，配埋粟米🌽好正，份量仲好多。\n\n煙肉白酒鮮蜆闊麵 $78\n大堆頭嘅蜆，食極都有，蜆肉味甜，闊麵好掛汁，仲加咗蕃茄仔，感覺好清新健康😋\n\n松露野菌手工Pizza $78\n食咗咁多肉，叫返個素Pizza, 松露好多好香，一啲都唔吝嗇🍕\n\n依度嘅主食可以+$23配餐湯裸麥包及飲品，可以揀紅湯或白湯，另外佢嘅裸麥包好好食，甜甜哋好有麥香，我想encore😂\n\n焦糖海鹽雪糕牛角窩夫 +$28\n黑白心太軟 +$28\n雖然好飽，但都好想食甜品，窩夫好重牛油香，配天藍色嘅海鹽雪糕，好靚好好味。黑白心太軟流心做得唔錯，唔會太甜。\n\n評分：最高為5分\n治癒度：👩‍⚕👩‍⚕👩‍⚕👩‍⚕\n抵食度：💉💉💉💉💉\n翻兜指數：🩺🩺🩺🩺\n\nUURO\n將軍澳重華路8號東港城1樓188號舖\n📍坑口港鐵站A1出口12分鐘路程\n\n@uuro.hk\n#healingbobo #foodie #hkfoodie #foodiehk #香港 #美食 #坑口 #EastPointCity #東港城 #TseungKwanO #TKO #將軍澳 #UURO  #hkig #hkigfood #hongkong #hongkongfood #香港探店 #香港美食 #香港西餐 #西餐 #將軍澳美食 #將軍澳餐廳 #西餐廳 #手工披薩 #手工PIZZA #無米飯 #coffee #coffeedaily #咖啡 #甜品 #手工 #牛扒 #晚餐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Healingbobo",
+          "uri": "https://www.google.com/maps/contrib/107209383017460223173/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyBKC0832oSrD-ZHWIx1t1NW5KhJcd7aCpmNeB7-0JjHWJ5PKJ7g=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-04-25T16:11:57.687907Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvd2VIOXFBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvd2VIOXFBRRAB!2m1!1s0x340405003cba2327:0xec74c92bc5d85d48"
+      },
+      {
+        "name": "places/ChIJJyO6PAAFBDQRSF3YxSvJdOw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KWlFsQXdhUzFoVFZVdE9Vb3RWbkJJVWtKVlJHYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "兩點幾來試吓這間餐廳，點了兩個都係漢堡包餐，一個厚切煙肉，另一個漢堡牛肉，同樣配薯條，牛肉估唔到夠腍，好味！煙肉則又厚又大片，煎得香脆，好味(但當然好油膩啦)！餐牌上這兩個餐有紅辣椒提示，但完全沒有辣味。飲品都okay ！座位是弧形座，坐得並不太舒服，因要近距離對著另一枱客。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "兩點幾來試吓這間餐廳，點了兩個都係漢堡包餐，一個厚切煙肉，另一個漢堡牛肉，同樣配薯條，牛肉估唔到夠腍，好味！煙肉則又厚又大片，煎得香脆，好味(但當然好油膩啦)！餐牌上這兩個餐有紅辣椒提示，但完全沒有辣味。飲品都okay ！座位是弧形座，坐得並不太舒服，因要近距離對著另一枱客。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mimi Yu",
+          "uri": "https://www.google.com/maps/contrib/117504429474414846988/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLj5wfbaKq1yFAYaCuHA6EsApGFhhZAGz5FGprhbmC-kwvAAQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-01-25T14:37:57.217834760Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KWlFsQXdhUzFoVFZVdE9Vb3RWbkJJVWtKVlJHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KWlFsQXdhUzFoVFZVdE9Vb3RWbkJJVWtKVlJHYxAB!2m1!1s0x340405003cba2327:0xec74c92bc5d85d48"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340405003cba2327:0xec74c92bc5d85d48!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17038464480089496904&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405003cba2327:0xec74c92bc5d85d48!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340405003cba2327:0xec74c92bc5d85d48!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405003cba2327:0xec74c92bc5d85d48!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJJyO6PAAFBDQRSF3YxSvJdOw/photos/Aa-ngMaFfq_Wb5AUoURTOR3mjoZLc6NaOa9fIwSyFh5KY7m_AFVa_FnLcDvwLN9sT4SAJ6e78tg9xOORvjvAcH8BQZNazSbb50Qk12mg-ejkNbdaPr6sSf4BeZlmoDGzNFlhMxcdjMnArhvC9IbVFJ1VwjhXkewlEBR4E8eJ4DMsyVhwmsBwx7xuDpH0rwxU3SLz4pmUNnFNXzMctEu5SprQf8U_HXRtfDJWE53VkBSXILH39PDxucwAiNSa6E2r5D0sTWSB-7f3cfiToNJyp7Bqe6Cyf4bIYyOMFkx7JG19IOD0lbhEXVpyD8q666ApclPy38nUS5-jjXlDS9mjjzAWJajxvOUSgjPcfCDI8wiqcm5ALppy9W_3In6Hm1NneE5CjKzs5E8EvZVNVJ1qjMgWnRPLVdiImQJHdrqz0NYNi6JIZA",
+      "widthPx": 4000,
+      "heightPx": 2250,
+      "authorAttributions": [
+        {
+          "displayName": "Emil Keung",
+          "uri": "https://maps.google.com/maps/contrib/107284283295350934693",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZ0VKZvkNCXTeKp_-DhCH17pbwelikMnrUoJiB-gDleJjueUZzkA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA0eO7OVk0U4_9uCncDIUJY&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA0eO7OVk0U4_9uCncDIUJY!2e10!4m2!3m1!1s0x340405003cba2327:0xec74c92bc5d85d48"
+    },
+    "local_path": "photos/ChIJJyO6PAAFBDQRSF3YxSvJdOw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0TjKi52uxzZwdRSa1eubXeEMbqzRx_fKHixs3fd0PvApc5tr-XlXHxIAkTnh1aTz6z13Ks_vSeIE7CJ2dgmShrV4xU77_ZtuEdZHxSRRk5sFeYq5sSfLXAljN_4Mpii1MmYBcG8LDAvbe=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 154253
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "italian_restaurant",
+    "label": "義大利餐廳",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

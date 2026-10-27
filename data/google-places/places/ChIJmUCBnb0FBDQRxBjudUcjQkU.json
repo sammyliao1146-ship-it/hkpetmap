@@ -1,0 +1,323 @@
+{
+  "google_place_id": "ChIJmUCBnb0FBDQRxBjudUcjQkU",
+  "restaurant_ids": [
+    "restaurant:2298802542"
+  ],
+  "fetched_at": "2026-10-23T15:40:42.058961+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJmUCBnb0FBDQRxBjudUcjQkU",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2751 9177",
+    "internationalPhoneNumber": "+852 2751 9177",
+    "formattedAddress": "香港新界西貢灣景街18號號 地下",
+    "location": {
+      "latitude": 22.381024999999998,
+      "longitude": 114.27178889999999
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=4990590126908119236&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 23:00",
+        "星期二: 11:00 – 23:00",
+        "星期三: 11:00 – 23:00",
+        "星期四: 11:00 – 23:00",
+        "星期五: 11:00 – 23:00",
+        "星期六: 11:00 – 23:00",
+        "星期日: 11:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 287,
+    "displayName": {
+      "text": "BigFish Seafood & Grill",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "海鮮餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "seafood_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJmUCBnb0FBDQRxBjudUcjQkU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkRWEwMXZNbFZHU0d4aWJVbGFVa1J4UlVFd0xYYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "平日午餐，唔多人，坐得舒服，唔會嘈，食物份量都大，又味道不錯，包starter要了Salad, Main, Drink and Dessert先 $128加一，好抵食了，之後有時間會再去過",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平日午餐，唔多人，坐得舒服，唔會嘈，食物份量都大，又味道不錯，包starter要了Salad, Main, Drink and Dessert先 $128加一，好抵食了，之後有時間會再去過",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kenny Chang",
+          "uri": "https://www.google.com/maps/contrib/116664487332953657098/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4v4LN0jGeTTfWGHyb9I209ApHlivphHXYjHq4napJxZiSaS-1=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-16T13:09:07.014048628Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkRWEwMXZNbFZHU0d4aWJVbGFVa1J4UlVFd0xYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkRWEwMXZNbFZHU0d4aWJVbGFVa1J4UlVFd0xYYxAB!2m1!1s0x340405bd9d814099:0x4542234775ee18c4"
+      },
+      {
+        "name": "places/ChIJmUCBnb0FBDQRxBjudUcjQkU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnX2FYMmJnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "假日到西貢逛一下，喺附近泊好車，再搵餐廳食午餐。\n呢間餐廳有戶外嘅地方可以坐，非常適合養狗的人士，亦有好多外國人坐在戶外，感覺好放鬆so chill , relax\n\n點一個weekend set lunch ,grilled sirloin steak 炭燒西冷牛扒$228 ，口感一般般，不是太推薦，包一個餐湯或者沙律。\n\nBrunch menu , 經典班尼迪克蛋$118，egg banedit, 雞蛋半生熟，煮得啱啱好，中間有煙肉同埋菠菜。\n\n再加一個辣肉腸薄餅及朱古力奶昔\n埋單六百多，人均消費200左右",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "假日到西貢逛一下，喺附近泊好車，再搵餐廳食午餐。\n呢間餐廳有戶外嘅地方可以坐，非常適合養狗的人士，亦有好多外國人坐在戶外，感覺好放鬆so chill , relax\n\n點一個weekend set lunch ,grilled sirloin steak 炭燒西冷牛扒$228 ，口感一般般，不是太推薦，包一個餐湯或者沙律。\n\nBrunch menu , 經典班尼迪克蛋$118，egg banedit, 雞蛋半生熟，煮得啱啱好，中間有煙肉同埋菠菜。\n\n再加一個辣肉腸薄餅及朱古力奶昔\n埋單六百多，人均消費200左右",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Virgo Wong",
+          "uri": "https://www.google.com/maps/contrib/114784070554126862029/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOTIosEWoiSXOZWM343pDg9tz7a9vjHodODPNOOWf_c_l1-syG=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-02-20T07:07:20.320663Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnX2FYMmJnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnX2FYMmJnEAE!2m1!1s0x340405bd9d814099:0x4542234775ee18c4"
+      },
+      {
+        "name": "places/ChIJmUCBnb0FBDQRxBjudUcjQkU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jMVVtNTBaMGRyWjFWWUxUTk5iMDV0WXpJMWJuYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "非常之滿意，服務態度非常好，環境舒適，而且仲好有特色，價錢合理，三文魚扒非常之美味，外脆內軟，漢堡包都同樣出色",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常之滿意，服務態度非常好，環境舒適，而且仲好有特色，價錢合理，三文魚扒非常之美味，外脆內軟，漢堡包都同樣出色",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Penny Sun",
+          "uri": "https://www.google.com/maps/contrib/112142299962186103527/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV53vhowH8Lf2huCDf2UQzjEIHk1H-Kb46kBbtY2AImvTBCvp8mNA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-06-30T11:52:22.297473580Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jMVVtNTBaMGRyWjFWWUxUTk5iMDV0WXpJMWJuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jMVVtNTBaMGRyWjFWWUxUTk5iMDV0WXpJMWJuYxAB!2m1!1s0x340405bd9d814099:0x4542234775ee18c4"
+      },
+      {
+        "name": "places/ChIJmUCBnb0FBDQRxBjudUcjQkU/reviews/ChdDSUhNMG9nS0VJQ0FnSURNa2FMT3FBRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "星期日下午差不多3:00入到西貢，有啲肚餓，嗱嗱聲去搵嘢食醫肚。呢個時間人唔多，好容易搵位。由於天氣炎熱，我哋揀咗坐室內，呢個選擇絕對正確，因為外面真係熱辣辣🔥\n\n我哋叫咗三款食物：\n1. 土耳其🇹🇷卡巴🍖 ($198)⋯⋯ 只有雞肉🐔 不過幾好味，啲雞肉燒完都仲好嫩，唔會乾爭爭。仲跟幾塊薄餅同兩款醬料，我覺得紅色嗰款好味啲！\n2. 大蝦意粉🦐 ($138)⋯⋯ 帶微辣，夠乾身夠香口，好味😋 (不過小朋友未必食到)\n3. 香煎西冷🥩($158)⋯⋯ 呢個普普通通，原本叫五成熟，但明顯overcook咗😔\n\n加$20可以有餐湯或者飲品，今日係蘑菇湯，都幾好飲😋 Stella啤🍺就$25。\n\n店員有禮貌，唔係環境舒適，坐得舒服👍🏼",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期日下午差不多3:00入到西貢，有啲肚餓，嗱嗱聲去搵嘢食醫肚。呢個時間人唔多，好容易搵位。由於天氣炎熱，我哋揀咗坐室內，呢個選擇絕對正確，因為外面真係熱辣辣🔥\n\n我哋叫咗三款食物：\n1. 土耳其🇹🇷卡巴🍖 ($198)⋯⋯ 只有雞肉🐔 不過幾好味，啲雞肉燒完都仲好嫩，唔會乾爭爭。仲跟幾塊薄餅同兩款醬料，我覺得紅色嗰款好味啲！\n2. 大蝦意粉🦐 ($138)⋯⋯ 帶微辣，夠乾身夠香口，好味😋 (不過小朋友未必食到)\n3. 香煎西冷🥩($158)⋯⋯ 呢個普普通通，原本叫五成熟，但明顯overcook咗😔\n\n加$20可以有餐湯或者飲品，今日係蘑菇湯，都幾好飲😋 Stella啤🍺就$25。\n\n店員有禮貌，唔係環境舒適，坐得舒服👍🏼",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ken Ba",
+          "uri": "https://www.google.com/maps/contrib/105211426262732322786/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKKwW3M524NovDekm52zKf3k0WSEnqfUoYI6BF-4HQqTShZBKo=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2021-09-06T05:29:19.584571Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURNa2FMT3FBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURNa2FMT3FBRRAB!2m1!1s0x340405bd9d814099:0x4542234775ee18c4"
+      },
+      {
+        "name": "places/ChIJmUCBnb0FBDQRxBjudUcjQkU/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5cTZUdy1RRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "今天吃了豬肋骨，炸魚柳，薯條， pizza， 鮮意粉， 鹹肉薄餅 全部也很好吃 只是藍青口一般， 有一定的水準， 其實還有很多食物以影相片供大家分享環境也非常好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今天吃了豬肋骨，炸魚柳，薯條， pizza， 鮮意粉， 鹹肉薄餅 全部也很好吃 只是藍青口一般， 有一定的水準， 其實還有很多食物以影相片供大家分享環境也非常好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jayden & Yilia Chow",
+          "uri": "https://www.google.com/maps/contrib/108678694030338643968/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJUgmXmB1aze-VSDIWWy9TCd7bf7sfF2yefL7tcz-THNKKlK9Xfw=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2021-02-13T09:08:29.482172Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5cTZUdy1RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5cTZUdy1RRRAB!2m1!1s0x340405bd9d814099:0x4542234775ee18c4"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340405bd9d814099:0x4542234775ee18c4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4990590126908119236&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405bd9d814099:0x4542234775ee18c4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340405bd9d814099:0x4542234775ee18c4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405bd9d814099:0x4542234775ee18c4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJmUCBnb0FBDQRxBjudUcjQkU/photos/Aa-ngMbFCWXUaDqKW1mtd4PIuVG2F2wRM-9PCDS7OIMYXVNj0M6la2c41zS_3yb8cHdj36FfIFJxlahGNrkEgQV0HR_B1uixYxSbkf_Eazk962S4HS0QF6pE4cUwsvGU0yfXFpZdAaRTIdFrasFc-oehfaEW0FZKJP8SwPKIGB67ilgZNNKqLT1uzn1pexdGa29XHgpdGkAicyleb-g1FQSDAG6F6xM9wP0Z5rqd0X-sIeTfis8XYpW-v6R9XmfPNMK6u8lAAcZfTAAcsiKNUeiFDaE3vLDck1Z6Agf6KGMpK7lIrClnRd2VmU1XbiH1QsmFM0sod63eeifG5Lj8_zEz0Ymg21Ctdus2VnuTEKNmQOlPZkU_PdIKdQbvLIb3v0N0vBM6jQ9nBY_KUZ_6Ec-YKN_9Muk",
+      "widthPx": 2867,
+      "heightPx": 2150,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDh7cWxBg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh7cWxBg!2e10!4m2!3m1!1s0x340405bd9d814099:0x4542234775ee18c4"
+    },
+    "local_path": "photos/ChIJmUCBnb0FBDQRxBjudUcjQkU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDF_8lb41h4-HmvK5YziS7Y2yJ0n1PuBpOmRJKmsrjAmTlE1XaNRaDoV8x1b7v3tOVZFllGxedqTRisnw81A9CLYOMhbZimeQls8l5GfzNt5OjmW1ixfC0dGO7DJU5sukk-Fop=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 189044
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "seafood_restaurant",
+    "label": "海鮮餐廳",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

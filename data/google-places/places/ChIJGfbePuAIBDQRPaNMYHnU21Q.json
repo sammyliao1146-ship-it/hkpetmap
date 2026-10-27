@@ -1,0 +1,421 @@
+{
+  "google_place_id": "ChIJGfbePuAIBDQRPaNMYHnU21Q",
+  "restaurant_ids": [
+    "restaurant:2295001652"
+  ],
+  "fetched_at": "2026-10-23T15:48:28.994341+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJGfbePuAIBDQRPaNMYHnU21Q",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2665 7282",
+    "internationalPhoneNumber": "+852 2665 7282",
+    "formattedAddress": "香港新界大埔三門仔路",
+    "location": {
+      "latitude": 22.4567323,
+      "longitude": 114.2143302
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=6114714536857346877&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/profile.php?id=100057638341815",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 16:30, 17:30 – 23:00",
+        "星期二: 11:00 – 16:30, 17:30 – 23:00",
+        "星期三: 11:00 – 16:30, 17:30 – 23:00",
+        "星期四: 11:00 – 16:30, 17:30 – 23:00",
+        "星期五: 11:00 – 16:30, 17:30 – 23:00",
+        "星期六: 10:00 – 16:30, 17:30 – 23:00",
+        "星期日: 10:00 – 16:30, 17:30 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 806,
+    "displayName": {
+      "text": "皇朝明珠",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "廣東菜餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "cantonese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJGfbePuAIBDQRPaNMYHnU21Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WS2FqbHFWbEppUms5NWJHOHRhR1ZzTVU1dFpHYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 3,
+        "text": {
+          "text": "大美督皇朝明珠：好食，但價錢同個海景一樣咁廣闊\n\n五個點心、一個XO醬炒飯，埋單$700。味道係靚嘅，但個價錢明顯mark俾隔離比華利山別墅嘅業主。\n\n· XO醬炒飯（約$180）：鑊氣十足，XO醬鹹鮮有致，唔會一味死鹹，飯粒乾身分明，瑤柱絲點綴得靚。係高水準，但呢個價錢喺市區可以叫兩碟。\n· **蟹籽燒賣（68得四粒，食完要深呼吸。\n· 牛肉球（$58）：滑嫩、有牛味、馬蹄爽、陳皮香，喼汁都調得靚。味道係頂級酒樓級數，只係份量似「前菜」。\n· **蝦餃（72三粒，每啖$24，食完真係望吓個海諗吓人生。\n· 另外兩款點心：同樣用料靚、調味準，但每碟$50起跳。\n\n結論：食物質素對得住「明珠」二字，絕對唔係劣食。但你要明白，呢度唔係街坊茶樓，而係比華利山腳嘅「富豪飯堂」。如果你住附近、想搵個舒服地方食好嘢，OK；如果你專程揸車入嚟食點心，埋單見住$700，可能會問：「我係咪食咗兩粒和牛燒賣？」味道8/10，性價比2.5/10。建議：食景食質素，但唔好諗住平。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大美督皇朝明珠：好食，但價錢同個海景一樣咁廣闊\n\n五個點心、一個XO醬炒飯，埋單$700。味道係靚嘅，但個價錢明顯mark俾隔離比華利山別墅嘅業主。\n\n· XO醬炒飯（約$180）：鑊氣十足，XO醬鹹鮮有致，唔會一味死鹹，飯粒乾身分明，瑤柱絲點綴得靚。係高水準，但呢個價錢喺市區可以叫兩碟。\n· **蟹籽燒賣（68得四粒，食完要深呼吸。\n· 牛肉球（$58）：滑嫩、有牛味、馬蹄爽、陳皮香，喼汁都調得靚。味道係頂級酒樓級數，只係份量似「前菜」。\n· **蝦餃（72三粒，每啖$24，食完真係望吓個海諗吓人生。\n· 另外兩款點心：同樣用料靚、調味準，但每碟$50起跳。\n\n結論：食物質素對得住「明珠」二字，絕對唔係劣食。但你要明白，呢度唔係街坊茶樓，而係比華利山腳嘅「富豪飯堂」。如果你住附近、想搵個舒服地方食好嘢，OK；如果你專程揸車入嚟食點心，埋單見住$700，可能會問：「我係咪食咗兩粒和牛燒賣？」味道8/10，性價比2.5/10。建議：食景食質素，但唔好諗住平。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "UNO Leung",
+          "uri": "https://www.google.com/maps/contrib/102930480423216793609/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-jVNAjbR77dwe2pwqPrT9l34RYPAy96qp1fpgUk9tOIU1QQRH=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-24T04:22:41.896629091Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WS2FqbHFWbEppUms5NWJHOHRhR1ZzTVU1dFpHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WS2FqbHFWbEppUms5NWJHOHRhR1ZzTVU1dFpHYxAB!2m1!1s0x340408e03edef619:0x54dbd479604ca33d"
+      },
+      {
+        "name": "places/ChIJGfbePuAIBDQRPaNMYHnU21Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xReE1pMVNjbXcxVlVoR05GaFVZbnBmZERoMU9XYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "年初二親友茶聚，點心0K啦，乳豬燒得過火D，店分室内外，室外環境靚，適合有寵物人士共享，進餐時，遇上有醒獅向茶客拜年，增添過年氣氛，夠開心!餐後可向店左下方望海，觀賞山水之美，靚!店右方可行去三門仔新村，六十多年的漁民平房村，寧静的漁村生活，甚好，交通也方便，也可經新村行去馬屎洲，或坐街渡去，随意。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "年初二親友茶聚，點心0K啦，乳豬燒得過火D，店分室内外，室外環境靚，適合有寵物人士共享，進餐時，遇上有醒獅向茶客拜年，增添過年氣氛，夠開心!餐後可向店左下方望海，觀賞山水之美，靚!店右方可行去三門仔新村，六十多年的漁民平房村，寧静的漁村生活，甚好，交通也方便，也可經新村行去馬屎洲，或坐街渡去，随意。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "leung ah",
+          "uri": "https://www.google.com/maps/contrib/107366762959254869106/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlKq5RPaOaoBhLuROaOzK_RGI4PuxaRzgc_jHtWxTZfS3JLA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-19T06:48:52.599049110Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xReE1pMVNjbXcxVlVoR05GaFVZbnBmZERoMU9XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xReE1pMVNjbXcxVlVoR05GaFVZbnBmZERoMU9XYxAB!2m1!1s0x340408e03edef619:0x54dbd479604ca33d"
+      },
+      {
+        "name": "places/ChIJGfbePuAIBDQRPaNMYHnU21Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WVlRucE1aMWx5TTA5VVlqTXliMmw2TFVrdFFtYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "餐點唔係豪華，味道我個人覺得偏淡，係我杯茶，位置放便，有車位泊車，唔揸車嘅側邊都有巴士／小巴站，今日星期日嚟，露天位置坐滿人我就唔影相啦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐點唔係豪華，味道我個人覺得偏淡，係我杯茶，位置放便，有車位泊車，唔揸車嘅側邊都有巴士／小巴站，今日星期日嚟，露天位置坐滿人我就唔影相啦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ray Yan",
+          "uri": "https://www.google.com/maps/contrib/115789964737820818734/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCj4XzySv7voN8S_AD-iscn4H-AVLPOsGlhK4LpJ5PtzqfXXYWOw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-12-07T03:48:19.171135279Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WVlRucE1aMWx5TTA5VVlqTXliMmw2TFVrdFFtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WVlRucE1aMWx5TTA5VVlqTXliMmw2TFVrdFFtYxAB!2m1!1s0x340408e03edef619:0x54dbd479604ca33d"
+      },
+      {
+        "name": "places/ChIJGfbePuAIBDQRPaNMYHnU21Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SNWF6ZzVRbTUyWjA1NmEyOVFWRlk0VlVOSlNsRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "貴錢有點貴，但即叫即做，食物熱辣辣（今日得12度），係好味啲。\n瑤柱蛋白炒飯：唔多油，炒得唔錯\n蝦餃：普通一啲，無驚喜\n炸魷魚：熱辣辣，好脆\n蛋散：好多油，但鬆化\n蘿蔔咸水角：味道不錯，食賣相\n乳豬：皮脆肉嫩，唔肥唔瘦，最好食果個位（雖然漏了單）\n送紫米露😋\n\n酒樓位置對住八仙嶺，五人埋單$1046都合理嘅☺️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "貴錢有點貴，但即叫即做，食物熱辣辣（今日得12度），係好味啲。\n瑤柱蛋白炒飯：唔多油，炒得唔錯\n蝦餃：普通一啲，無驚喜\n炸魷魚：熱辣辣，好脆\n蛋散：好多油，但鬆化\n蘿蔔咸水角：味道不錯，食賣相\n乳豬：皮脆肉嫩，唔肥唔瘦，最好食果個位（雖然漏了單）\n送紫米露😋\n\n酒樓位置對住八仙嶺，五人埋單$1046都合理嘅☺️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "betty chu",
+          "uri": "https://www.google.com/maps/contrib/103397915426718273889/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjHU1PX4oeAOV6OxZ6NKlnzK3Sva-UOkQOA2BoZVRzh-oBN3k=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-01-23T05:22:49.731775250Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SNWF6ZzVRbTUyWjA1NmEyOVFWRlk0VlVOSlNsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SNWF6ZzVRbTUyWjA1NmEyOVFWRlk0VlVOSlNsRRAB!2m1!1s0x340408e03edef619:0x54dbd479604ca33d"
+      },
+      {
+        "name": "places/ChIJGfbePuAIBDQRPaNMYHnU21Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxdVNEUnZOSFpwV0VoblUwMWpWSGsyVjJoQ01sRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 4,
+        "text": {
+          "text": "環境舒服，又有適量嘅泊車位，員工態度都好友善，多款點心選擇，而且味道都好好，可以encore",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒服，又有適量嘅泊車位，員工態度都好友善，多款點心選擇，而且味道都好好，可以encore",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hobbit",
+          "uri": "https://www.google.com/maps/contrib/108974170176249684718/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLTnM6OVqxLHYgFWxUOjeAG2oHfOxpPSbq2_d1jtPZXPN6tYw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-10-30T04:58:35.850390707Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxdVNEUnZOSFpwV0VoblUwMWpWSGsyVjJoQ01sRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxdVNEUnZOSFpwV0VoblUwMWpWSGsyVjJoQ01sRRAB!2m1!1s0x340408e03edef619:0x54dbd479604ca33d"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340408e03edef619:0x54dbd479604ca33d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6114714536857346877&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340408e03edef619:0x54dbd479604ca33d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340408e03edef619:0x54dbd479604ca33d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340408e03edef619:0x54dbd479604ca33d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJGfbePuAIBDQRPaNMYHnU21Q/photos/Aa-ngMbrwWTfXnDg8cJ4PRrO_5z7liFiiaGX7rbsN89_WooF2jQM7pIW-m8R50mQ1Z5Sc_G7loaDuppHX9PTZ0VJw9OhIUpCt4PVNl4vrB1_ZtYP96dcqYGXcWg-tm0OHxtzeuX94kmDle6yUMYoVjXN9loKDr6rcgRvJbpHao24rxjvMIiHVbRlucxW4plcPHCsD0OZwtyGCbF4PjWi4A1mjmpDcLUTSiqP71cMlkWoWyoYvCLpUArsPspmC-DtkQ0ikN1SY5Qhz5VpCh9HanjY7ISdhLbgjTSiTpiLfP9AJ_MFrUCdYrrlZHZah5R6IRTmfMZ3kqko8K1igipu5Pw_-ovpKX4WOBcgH775xQO1a6Y0LMenJByKv448MXibqc6IwbjlYzdTEoBl-jhKKjroVjMk-Uf93x8",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "皇朝明珠",
+          "uri": "https://maps.google.com/maps/contrib/105377480752817227149",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJayhI0fEHP5WJtyF5W19xQ4_rec8aZR7-822fEY2tZqT9UNw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID9rNnGwwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9rNnGwwE!2e10!4m2!3m1!1s0x340408e03edef619:0x54dbd479604ca33d"
+    },
+    "local_path": "photos/ChIJGfbePuAIBDQRPaNMYHnU21Q.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlDSUGeRowFUlkpNpikSW_I8CP92ZcaTVmNXD3Td66Ty4SlDNJ4lcmIwEbAsuFf3Gj6SblsFlVFXlbU-Y9uRFDoVHvZaAZrqEjSZhU8GGJTXmhtNgW05aVNxGk_lwZ3e-mEYqfwg=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 776367
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cantonese_restaurant",
+    "label": "廣東菜餐廳",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

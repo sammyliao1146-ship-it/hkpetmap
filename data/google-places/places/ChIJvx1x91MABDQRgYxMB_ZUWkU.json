@@ -1,0 +1,323 @@
+{
+  "google_place_id": "ChIJvx1x91MABDQRgYxMB_ZUWkU",
+  "restaurant_ids": [
+    "restaurant:3112806661"
+  ],
+  "fetched_at": "2026-10-23T15:41:01.121183+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJvx1x91MABDQRgYxMB_ZUWkU",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2576 4785",
+    "internationalPhoneNumber": "+852 2576 4785",
+    "formattedAddress": "香港香港島銅鑼灣禮頓道123號",
+    "location": {
+      "latitude": 22.278285999999998,
+      "longitude": 114.18641749999999
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=4997400152182131841&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 17:00 – 02:00",
+        "星期二: 17:00 – 02:00",
+        "星期三: 17:00 – 02:00",
+        "星期四: 17:00 – 02:00",
+        "星期五: 17:00 – 02:00",
+        "星期六: 17:00 – 02:00",
+        "星期日: 17:00 – 02:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 115,
+    "displayName": {
+      "text": "Brecht's Circle Gastropub",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJvx1x91MABDQRgYxMB_ZUWkU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taSVdEWTFaVGxpVDNKeFkzSndMWGRyVEZwV2MzYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "地方舒服，送酒小食都做得好好👍🏻夜晚收工想落去飲杯放鬆吓氣氛都唔錯，但係星期五六晚成日都爆場，但係兩個姐姐好親切有禮🥰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地方舒服，送酒小食都做得好好👍🏻夜晚收工想落去飲杯放鬆吓氣氛都唔錯，但係星期五六晚成日都爆場，但係兩個姐姐好親切有禮🥰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "HIU LING LI",
+          "uri": "https://www.google.com/maps/contrib/109468811732025869924/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJyt8e1q9d52WN8ZGsCvligDP7TYAUTeGkew3L71nPdBZ9jDw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-09T12:40:58.523252411Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taSVdEWTFaVGxpVDNKeFkzSndMWGRyVEZwV2MzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taSVdEWTFaVGxpVDNKeFkzSndMWGRyVEZwV2MzYxAB!2m1!1s0x34040053f7711dbf:0x455a54f6074c8c81"
+      },
+      {
+        "name": "places/ChIJvx1x91MABDQRgYxMB_ZUWkU/reviews/ChZDSUhNMG9nS0VJQ0FnSURZa3FuT1BnEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 5,
+        "text": {
+          "text": "地方小小的，有沒有位子好像要看運氣。東西真的非常好吃，蠔飯的飯加了壽司醋，超愛。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地方小小的，有沒有位子好像要看運氣。東西真的非常好吃，蠔飯的飯加了壽司醋，超愛。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sim lau",
+          "uri": "https://www.google.com/maps/contrib/112837832368469478495/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxYkESqj1gdBJibgXaiFQ05_i8lkoEMt_59gC4zzHRUsqwi0lB=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2019-05-05T17:22:20.101689Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURZa3FuT1BnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURZa3FuT1BnEAE!2m1!1s0x34040053f7711dbf:0x455a54f6074c8c81"
+      },
+      {
+        "name": "places/ChIJvx1x91MABDQRgYxMB_ZUWkU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwM3NIOXJ3RRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 4,
+        "text": {
+          "text": "食品多樣化，味道也不錯，但上菜時間較耐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食品多樣化，味道也不錯，但上菜時間較耐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Adam Chan",
+          "uri": "https://www.google.com/maps/contrib/109561425841781840483/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBNIo0jdpXtX_SAAIluOmUaS3N2pNkvn73FJw6T3N-QZhyhCUK=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2019-11-06T14:56:12.211483Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQwM3NIOXJ3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQwM3NIOXJ3RRAB!2m1!1s0x34040053f7711dbf:0x455a54f6074c8c81"
+      },
+      {
+        "name": "places/ChIJvx1x91MABDQRgYxMB_ZUWkU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsS1VtaHpaMk5rZVRSclMzVmxXa0Z2ZGtGaU1tYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這家店迅速成為我在香港最愛的新去處，很大程度上要歸功於那位熱情周到的調酒師兼服務員。她親切友好，待人真誠，從我們踏入店門的那一刻起就讓我們感到賓至如歸。即使當時已經很晚了，而且我們剛從賽馬場過來，她也欣然讓我們點些小吃，絲毫沒有催促我們。\n\n所有菜色都棒極了。每道菜都新鮮美味，風味十足。辣醬尤其令人難忘，辣度也恰到好處。我特別喜歡烤串、玉米的調味，以及每道菜都精心烹調的用心。這裡的美食讓人忍不住想再點一道。\n\n餐廳的氣氛非常適合我們這樣的小團體，尤其適合我們這些初來乍到的朋友。這裡輕鬆舒適，讓人感覺很自在，非常適合暢所欲言。總而言之，這是一次難忘的用餐體驗，美食佳餚，服務更是無可挑剔。我已經迫不及待地想要再次光顧了。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "This place has quickly become my favorite new spot in Hong Kong, and a big part of that is thanks to the incredible bartender and server who took such wonderful care of us. She was warm, friendly, and genuinely welcoming, and made us feel completely at home from the moment we arrived. Even though it was quite late and we were coming from the horse track, she happily let us order snacks and never made us feel rushed.\n\nThe food was fantastic across the board. Everything tasted fresh, vibrant, and full of flavor. The hot sauce was especially memorable, adding just the right amount of kick. I loved the skewers, the seasoning on the corn, and how thoughtfully everything was prepared. It was the kind of food that makes you want to keep ordering just one more dish.\n\nThe space was perfect for our small group and worked especially well since we had a few Hong Kong newcomers with us. It felt relaxed, inviting, and easy to enjoy good conversation. Overall, it was a standout experience with great food and truly exceptional service. I cannot wait to go back.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Lewis Cardenas",
+          "uri": "https://www.google.com/maps/contrib/106169153330171304040/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkgXCcxJM1uCNcu83HXqeUdVcwoWRAiUp50sbOGnVFIbef6GJl=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-27T14:27:48.389650733Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsS1VtaHpaMk5rZVRSclMzVmxXa0Z2ZGtGaU1tYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsS1VtaHpaMk5rZVRSclMzVmxXa0Z2ZGtGaU1tYxAB!2m1!1s0x34040053f7711dbf:0x455a54f6074c8c81"
+      },
+      {
+        "name": "places/ChIJvx1x91MABDQRgYxMB_ZUWkU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wdmNqSTFNVXhtYURJek5XZFlkMGhPWHkxU2NGRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物、飲料和服務都非常棒。\n\n兩位服務員熱情周到地為我和我的朋友們調製了美味的雞尾酒。酒吧氛圍輕鬆舒適。食物也很美味，強烈推薦炸雞翅尖，是很好的小吃！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Excellent experience for food, drinks and services.\nTwo staff serve my fds and me very nice with tasty cocktails. The vibe at the pub feels great, comforts us. And the food tastes very good, u may try the deep fried chicken wing tips, recommended snacks!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Siu Yuen Wan",
+          "uri": "https://www.google.com/maps/contrib/113482340861543709807/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLhCrf7sWV0bFoXTdcmviKNIJTqFPG03DKq0tqWwazX6bCE9w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-02T18:11:49.034294967Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wdmNqSTFNVXhtYURJek5XZFlkMGhPWHkxU2NGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wdmNqSTFNVXhtYURJek5XZFlkMGhPWHkxU2NGRRAB!2m1!1s0x34040053f7711dbf:0x455a54f6074c8c81"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040053f7711dbf:0x455a54f6074c8c81!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4997400152182131841&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040053f7711dbf:0x455a54f6074c8c81!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040053f7711dbf:0x455a54f6074c8c81!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040053f7711dbf:0x455a54f6074c8c81!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJvx1x91MABDQRgYxMB_ZUWkU/photos/Aa-ngMadgjzhqjrmdzpHrhPqUZ7Kw8XYarSpLbHmBQOT6_6fbcxSVjRC2qyGWq8Cob8hlIReTUNiKFboQ8jI7AJJ6phgSNisLjG3RigKAmxy_pOU5QdiOhgalG5cyvGyXYDURuAuLtAjvQIp5uQg6cxvOnfKpYLzZR1ci_VTDo3V--3UPkYPuDlj_2R0CS_ucVp82Mye1qqK7FIJ1nY8kb4GJEGWOa3_sH1f1TBZp3Q6KHfO_6gDYH17-CqJEWA19KRJd0lEM9yHA_C_Uw6LJSLnmkL9WbbE3DZv3yPiqmIyP2P53O02eu4HDjjppniQWQ8Ev3xC2_mpJPx3cbLMwdeHlItt46czImyPZNMtxXYkVi7O-uwOpFjayiyCVrF8BUwCqmf5evmjF09oLXpc6Y6Xw3SX0zFH",
+      "widthPx": 4192,
+      "heightPx": 2359,
+      "authorAttributions": [
+        {
+          "displayName": "Brecht's Circle Gastropub",
+          "uri": "https://maps.google.com/maps/contrib/109150754186899699715",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMovJ9YtyzwUs7JdSlnL7DyBFUITJRha9jCaIUDTiT_jDikho=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6pIr9tAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6pIr9tAE!2e10!4m2!3m1!1s0x34040053f7711dbf:0x455a54f6074c8c81"
+    },
+    "local_path": "photos/ChIJvx1x91MABDQRgYxMB_ZUWkU.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLedwQqfg1bzGw-jQaP6EZc2TrYj-gYBI2JXdNgGMJGFPF4hSgp7ESH-8h4wfQFs70-_RoBO6VawMagaOqSVSwdrL7LaDBHWBimMRtnZBuv_SCZnSFH7XsKvI2S176qcgHN9hHco=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 600193
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

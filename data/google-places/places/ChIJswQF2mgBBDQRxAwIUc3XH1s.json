@@ -1,0 +1,314 @@
+{
+  "google_place_id": "ChIJswQF2mgBBDQRxAwIUc3XH1s",
+  "restaurant_ids": [
+    "restaurant:3118807204"
+  ],
+  "fetched_at": "2026-10-23T15:51:01.855041+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJswQF2mgBBDQRxAwIUc3XH1s",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港香港島中環德輔道中142號",
+    "location": {
+      "latitude": 22.285373,
+      "longitude": 114.154454
+    },
+    "rating": 4.8,
+    "googleMapsUri": "https://maps.google.com/?cid=6566204058557222084&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 18:00",
+        "星期二: 08:00 – 18:00",
+        "星期三: 08:00 – 18:00",
+        "星期四: 08:00 – 18:00",
+        "星期五: 08:00 – 18:00",
+        "星期六: 10:00 – 18:00",
+        "星期日: 10:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 58,
+    "displayName": {
+      "text": "Time for coffee",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJswQF2mgBBDQRxAwIUc3XH1s/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CRWRVMDVVR3hDVjB4d1VFY3RPVVJsTm5JMGVtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "店員介紹咖啡(冇奶)，又好似啤酒🍻感覺咖啡\n很不錯，鬧市中寧靜既享受",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員介紹咖啡(冇奶)，又好似啤酒🍻感覺咖啡\n很不錯，鬧市中寧靜既享受",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ying king Lo",
+          "uri": "https://www.google.com/maps/contrib/114647478684000292138/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIpdVqwrzT2d1MhWFazbgE40ppD8QaaX7wrnEVnw2GEMrTd1Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-30T03:44:20.463432110Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CRWRVMDVVR3hDVjB4d1VFY3RPVVJsTm5JMGVtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CRWRVMDVVR3hDVjB4d1VFY3RPVVJsTm5JMGVtYxAB!2m1!1s0x34040168da0504b3:0x5b1fd7cd51080cc4"
+      },
+      {
+        "name": "places/ChIJswQF2mgBBDQRxAwIUc3XH1s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsc1ZGVXpYM2hvYmxwa2FHdEJUVjlVVUY4M01sRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "推薦朱古力咖啡， 65%朱古力，非常香滑香濃，好味",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "推薦朱古力咖啡， 65%朱古力，非常香滑香濃，好味",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ha Ha Wong",
+          "uri": "https://www.google.com/maps/contrib/115766975358580039488/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWP-UWoINBZ1PINbfhy9OWfU_TFJN6F8C4mAUuWi4N0Y4rfxfvO=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-14T03:41:05.994010856Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsc1ZGVXpYM2hvYmxwa2FHdEJUVjlVVUY4M01sRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsc1ZGVXpYM2hvYmxwa2FHdEJUVjlVVUY4M01sRRAB!2m1!1s0x34040168da0504b3:0x5b1fd7cd51080cc4"
+      },
+      {
+        "name": "places/ChIJswQF2mgBBDQRxAwIUc3XH1s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twZlJVNWFkR0ZRWXpWcmQyZERlbkl4VnpKblluYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "推薦美式，空間乾淨",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "推薦美式，空間乾淨",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "wen chang Chung",
+          "uri": "https://www.google.com/maps/contrib/110712061442707217047/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILJZDNUSAHskSckHQMtUWatB6Ks-ZfRUCrJqih48I5XdMXrw=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-02-22T06:08:06.958430290Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twZlJVNWFkR0ZRWXpWcmQyZERlbkl4VnpKblluYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twZlJVNWFkR0ZRWXpWcmQyZERlbkl4VnpKblluYxAB!2m1!1s0x34040168da0504b3:0x5b1fd7cd51080cc4"
+      },
+      {
+        "name": "places/ChIJswQF2mgBBDQRxAwIUc3XH1s/reviews/ChdDSUhNMG9nS0VLN29wNzdYalBMRHF3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "咖啡好喝，環境舒適。少一顆星是廁所壞掉不能用。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "咖啡好喝，環境舒適。少一顆星是廁所壞掉不能用。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "A",
+          "uri": "https://www.google.com/maps/contrib/118020100365525269757/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKIRxf3oKlyhhh8dW-Upc7pdYxaeSdvvcpvuLn2fbs-ylkdUA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-05-15T10:14:44.274482Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VLN29wNzdYalBMRHF3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VLN29wNzdYalBMRHF3RRAB!2m1!1s0x34040168da0504b3:0x5b1fd7cd51080cc4"
+      },
+      {
+        "name": "places/ChIJswQF2mgBBDQRxAwIUc3XH1s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZeVFrSXRTbDluY25aWVdtVnZUVFJJYUZseWVIYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "- 熱美式\n- Flat White",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "- 熱美式\n- Flat White",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "King Kin Siu",
+          "uri": "https://www.google.com/maps/contrib/112244040402924685617/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXK1N-GX90-1_vbaEFgmGviXyUChqI9IOYBJjEwprhA_pN2iec=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-09T12:53:38.825170532Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZeVFrSXRTbDluY25aWVdtVnZUVFJJYUZseWVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZeVFrSXRTbDluY25aWVdtVnZUVFJJYUZseWVIYxAB!2m1!1s0x34040168da0504b3:0x5b1fd7cd51080cc4"
+      }
+    ],
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040168da0504b3:0x5b1fd7cd51080cc4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6566204058557222084&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040168da0504b3:0x5b1fd7cd51080cc4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040168da0504b3:0x5b1fd7cd51080cc4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040168da0504b3:0x5b1fd7cd51080cc4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJswQF2mgBBDQRxAwIUc3XH1s/photos/Aa-ngMZAeNLuJVBhfk7StrNPDgo8sV79Tz4EFNP16DNCuE73R0Q1i0z5Td8TXmMLGDN-9WcxTkPIrtNWeAN9GjJ2rIwJERwsb1ZYOk-t-BZbhiAX_gBcBucCXJSIUpJr67hfIgG0n1AqMe2G86d3Q95rPoF463koJB9XHHi8BAR7HZ6wMxX-jt2ZUOrSLWxH8GqOnlQjaDlTJdk4s3iPIu8cFtAoDpOhQj2z_iNsN6inG4HXJok8TGAnDY-FUcuujMUp-y4lOLbYhYFI8jd_eo2ifZdGUYVAe7psMFDy8asGr2jlFoCB7LZ9BuHYVE0VwGgCE7y9eWk2vIlsk-IOdqFSiBfJZ-6y0wcFgzWwMv5z7HGS0X0Ki_cRefpFy9RObA8NDlqD5aH3GmdkpnmVQ9WZGr2c_SdAe7VD6oviZeSX3O7i",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "PEIP ONG",
+          "uri": "https://maps.google.com/maps/contrib/110336952190520222628",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWISPjmNx1SmqVtIShznU0BCEjAKqkib1c7WB5ImX2y7J_6poFq=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBR3UfLZIOA6VwxoDSFlkNZ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBR3UfLZIOA6VwxoDSFlkNZ!2e10!4m2!3m1!1s0x34040168da0504b3:0x5b1fd7cd51080cc4"
+    },
+    "local_path": "photos/ChIJswQF2mgBBDQRxAwIUc3XH1s.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfC77B6JwOWDhJrB77AE76QMyfTof41K6zqVQOqIV6jCV-dsxa34PdosI5qOIUKzP-jwZJOPUIMNTT4w5lZWsP7wtOcPhnOqaHAca9usjMooANafQ_FT_bO_sUVv2LMhZ-mYCbW2uQF6aY=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 114227
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

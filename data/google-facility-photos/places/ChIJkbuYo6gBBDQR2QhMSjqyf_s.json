@@ -1,0 +1,41 @@
+{
+  "id": "ChIJkbuYo6gBBDQR2QhMSjqyf_s",
+  "types": [
+    "pet_store",
+    "pet_boarding_service",
+    "store",
+    "pet_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Shop 2, G/F, 80-82 Peel St, Mid-Levels, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.2804982,
+    "longitude": 114.1513135
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18122399388986509529&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "PET HK - Mid Levels Edition",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJkbuYo6gBBDQR2QhMSjqyf_s/photos/Aa-ngMbNviC4-DORnCpSIiijDgPZV88adGKwO9qaZjaMl3BGj_PJTjmwd8kgHHI3_WjFE5YZv8YFNURodNxv7gz1J5Em1y-CTgDwKGlj7MIIpQTjb97SVWzGUZ5wpPJjF9tpY3p4AJ0DuDdX7lbKXV4U9LUiu1AfS3RE5tzxY0OEN1BvJs8BfpFHwf6GOFc9qAzZzv6HtxvGzEfp1iJ4gnBv91ieCh0eIqN9loHp59lYPyb_8H-DnYhr3dA5JUmJVlmVXUZ9NhZrtCdQWQMfWjHME6HsIUmSFnqrKRP67JKcmDRO0x5MR1p8eAR_pG77zQp0t6NjzubfdL7n1nBQMMC2w6Hd49A8nYQZJ4Ez3p9WgnRhqocmrzMRi64Rgkp7x9n0PMYkVeahzTO6127GU46Byt0VX8PN_L4",
+      "widthPx": 3750,
+      "heightPx": 3375,
+      "authorAttributions": [
+        {
+          "displayName": "PET HK - Mid Levels Edition",
+          "uri": "https://maps.google.com/maps/contrib/103344196496747060345",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1vtzD4Fp-y9l-DH9o2AqLm8GSYrAl29nicOAElZoE2mvF-bVZ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICByqOUsAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICByqOUsAE!2e10!4m2!3m1!1s0x340401a8a398bb91:0xfb7fb23a4a4c08d9"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:24.320316+00:00"
+}

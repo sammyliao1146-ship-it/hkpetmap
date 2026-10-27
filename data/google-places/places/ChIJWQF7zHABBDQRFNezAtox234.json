@@ -1,0 +1,339 @@
+{
+  "google_place_id": "ChIJWQF7zHABBDQRFNezAtox234",
+  "restaurant_ids": [
+    "restaurant:2212800878",
+    "restaurant:2218818635",
+    "restaurant:2218815247"
+  ],
+  "fetched_at": "2026-10-23T15:42:35.748648+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJWQF7zHABBDQRFNezAtox234",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2535 7155",
+    "internationalPhoneNumber": "+852 2535 7155",
+    "formattedAddress": "香港香港島半山堅道73號",
+    "location": {
+      "latitude": 22.2815555,
+      "longitude": 114.15204039999999
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=9140954681096525588&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.elephantgrounds.com/en",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 20:00",
+        "星期二: 08:00 – 20:00",
+        "星期三: 08:00 – 20:00",
+        "星期四: 08:00 – 20:00",
+        "星期五: 08:00 – 20:00",
+        "星期六: 08:00 – 20:00",
+        "星期日: 08:00 – 20:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 493,
+    "displayName": {
+      "text": "Elephant Grounds (Central)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJWQF7zHABBDQRFNezAtox234/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvemNXSTF3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "這是一間裝修非常雅緻的Cafe, 甜品不是太多，但竟然有西班牙油炸鬼 Churros食，我們點了抹茶味，熱辣辣的churros點入冷的抹茶醬中有點像水火交融！入口感覺好奇妙。\n\n這裏的咖啡很有水準，我們應該會再來😊",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這是一間裝修非常雅緻的Cafe, 甜品不是太多，但竟然有西班牙油炸鬼 Churros食，我們點了抹茶味，熱辣辣的churros點入冷的抹茶醬中有點像水火交融！入口感覺好奇妙。\n\n這裏的咖啡很有水準，我們應該會再來😊",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "A Lam",
+          "uri": "https://www.google.com/maps/contrib/116127782854054836594/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZTH3LcvAmVtABQc2GcLd2vmBOdWUZveoAoPh-PM6wN5R7qcA__g=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-04-19T02:37:51.478304Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvemNXSTF3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvemNXSTF3RRAB!2m1!1s0x34040170cc7b0159:0x7edb31da02b3d714"
+      },
+      {
+        "name": "places/ChIJWQF7zHABBDQRFNezAtox234/reviews/ChdDSUhNMG9nS0VJQ0FnSURnemJ6ZzB3RRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 4,
+        "text": {
+          "text": "由中環皇后大道中經半山扶手電梯到堅道，右邊第一間店舖便是Elephant Grounds。\n\nEG門面裝修很優雅，有植物點綴，感覺很清麗脫俗。樓底很高，地方舒適，與一般的咖啡室有別。左邊梯級式座位給外賣人士享用咖啡，不收加一，右邊座位算堂座收加一。經過沖調櫃檯，後面還有不少座位，也有戶外座位。\n\n大杯(16oz)細杯(12oz)咖啡均有兩份咖啡，點了細杯Swiss Mocha ❨$45❩，改用豆奶沖調要+$6，再收加一 ❨比較少見❩，要$56。\n\n朱古力豆奶咖啡很香濃，甜度剛好，味道不錯。咖啡杯外面及裡面均有店舖名字，頗特別。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "由中環皇后大道中經半山扶手電梯到堅道，右邊第一間店舖便是Elephant Grounds。\n\nEG門面裝修很優雅，有植物點綴，感覺很清麗脫俗。樓底很高，地方舒適，與一般的咖啡室有別。左邊梯級式座位給外賣人士享用咖啡，不收加一，右邊座位算堂座收加一。經過沖調櫃檯，後面還有不少座位，也有戶外座位。\n\n大杯(16oz)細杯(12oz)咖啡均有兩份咖啡，點了細杯Swiss Mocha ❨$45❩，改用豆奶沖調要+$6，再收加一 ❨比較少見❩，要$56。\n\n朱古力豆奶咖啡很香濃，甜度剛好，味道不錯。咖啡杯外面及裡面均有店舖名字，頗特別。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "麵豉湯",
+          "uri": "https://www.google.com/maps/contrib/105973372482296900326/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4N9hZtC0jlcrRMn7WD_llkwqoBgyDC9yK3rfdjl9kO796jwQAmQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2018-03-20T18:43:07.727Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURnemJ6ZzB3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURnemJ6ZzB3RRAB!2m1!1s0x34040170cc7b0159:0x7edb31da02b3d714"
+      },
+      {
+        "name": "places/ChIJWQF7zHABBDQRFNezAtox234/reviews/ChdDSUhNMG9nS0VJQ0FnSURYbHZMLTdnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "這家咖啡廳就位於金鐘地鐵出口，餐點很美味😋隨時可見到人潮，很幸運週六去直接有位子",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這家咖啡廳就位於金鐘地鐵出口，餐點很美味😋隨時可見到人潮，很幸運週六去直接有位子",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Julie Chiu",
+          "uri": "https://www.google.com/maps/contrib/108876809839924105833/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhoWDYiXUhq6wi4xJ1dVx-H1-mLdwaCN1zb1JN2QKrb4kgRevl=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-10-26T23:32:51.510918Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYbHZMLTdnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYbHZMLTdnRRAB!2m1!1s0x34040170cc7b0159:0x7edb31da02b3d714"
+      },
+      {
+        "name": "places/ChIJWQF7zHABBDQRFNezAtox234/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxak1pVU5REAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 3,
+        "text": {
+          "text": "享用早餐不錯的地方，order的是breakfast sandwich，口感和每樣食材的配合都很美味。\n\n咖啡喝的是dirty，就比較一般。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "享用早餐不錯的地方，order的是breakfast sandwich，口感和每樣食材的配合都很美味。\n\n咖啡喝的是dirty，就比較一般。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kani Kiwi",
+          "uri": "https://www.google.com/maps/contrib/110653957806488220212/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVgJ13RLXIhW3OTw8iWTMOVJF1J4q2TwOwn-B5Gz1cAQxr-2ry=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2021-05-29T02:47:04.352803Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNxak1pVU5REAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxak1pVU5REAE!2m1!1s0x34040170cc7b0159:0x7edb31da02b3d714"
+      },
+      {
+        "name": "places/ChIJWQF7zHABBDQRFNezAtox234/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLbXM2bGVBEAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "服務非常好，讓人心情愉悅。環境座位還算寬敞，室外區域舒適。食物正常水平，咖啡不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務非常好，讓人心情愉悅。環境座位還算寬敞，室外區域舒適。食物正常水平，咖啡不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Karen Sung",
+          "uri": "https://www.google.com/maps/contrib/108320715653994603747/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3uatz5IzogII4nrgfJpDlN0SuLp8Rk2woEWZX74UvLwZqXDXF=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2021-04-02T05:10:43.096592Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNLbXM2bGVBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNLbXM2bGVBEAE!2m1!1s0x34040170cc7b0159:0x7edb31da02b3d714"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040170cc7b0159:0x7edb31da02b3d714!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9140954681096525588&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040170cc7b0159:0x7edb31da02b3d714!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040170cc7b0159:0x7edb31da02b3d714!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040170cc7b0159:0x7edb31da02b3d714!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJWQF7zHABBDQRFNezAtox234/photos/Aa-ngMZdcZipuW2yD-_SKXI6FqhCIxpSzIprXiqVACUMaEV3tzHt8sLrw2A-ut1dH-XjR3NHn7axg-zmVq4BIDVHWiDWtn4yE60LzxUZEt3aIuWXhch1-WI9YT4eflErUJOGPqVLbVr6ghgTHsrw3avsMBPo6QOwV-7svRF7lPFgNmUhOUl1QijK3AsyTSYVV2mTuSeu9upb3TGfmwy6YGVefzFIsqjnw76Qd3Kh6dAgRbBey6tsRC6U-QP9jAocAdFx6oQN9AAYF-wXg-fsBMQIyrjKd3NShX3-ZZlMwRSgYSFbxHdDi7GkQtczRZOsYwckJT6G4_sxfbkP6vAnSGRN-a30ncEBxgiI5oKnll6xpT2yHjxp4ptB4zZpaKnjbcFeopbRl4Zre2HVJIrlyV87q76xS-g",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Elephant Grounds (Central)",
+          "uri": "https://maps.google.com/maps/contrib/115186170286719148468",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIFqGOzttnI_HqudhHdUTy1kUK8WZbkIbyVOCAo2qGXvhcGog=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDFus_geQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFus_geQ!2e10!4m2!3m1!1s0x34040170cc7b0159:0x7edb31da02b3d714"
+    },
+    "local_path": "photos/ChIJWQF7zHABBDQRFNezAtox234.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGkoWnK6Bum6Z8xfiMocf16CyavPv1WbXoHqEZuuDep3-9aomYvyEPhrH5-Lttqu3a45PzS8sJSmSs7mdwXNZuxmyj-aAoE6zOizarQFOAEOeou85p5sAMArGPo7HMmRnm70dk=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 252889
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 404"
+  },
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

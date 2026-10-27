@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJwzLBxgr6AzQR0SF3_xCEEVE",
+  "restaurant_ids": [
+    "restaurant:2294801082"
+  ],
+  "fetched_at": "2026-10-23T15:38:21.372096+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJwzLBxgr6AzQR0SF3_xCEEVE",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2442 2111",
+    "internationalPhoneNumber": "+852 2442 2111",
+    "formattedAddress": "香港新界元朗達輝徑3號華健大廈地下3-4號",
+    "location": {
+      "latitude": 22.4416047,
+      "longitude": 114.0260593
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=5841595400216584657&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 22:00",
+        "星期二: 12:00 – 22:00",
+        "星期三: 12:00 – 22:00",
+        "星期四: 12:00 – 22:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 12:00 – 22:00",
+        "星期日: 12:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 310,
+    "displayName": {
+      "text": "Savour Cafe",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "義大利餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesVegetarianFood": true,
+    "primaryType": "italian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJwzLBxgr6AzQR0SF3_xCEEVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SbU5ITnVMVU15TTA5VGFFTlFkekJZYkZWYVZVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "嘢食服務環境都唔錯\n推介雞胸同豬\n多汁唔會韌\n沙律個汁都good\n全部嘢食都大大份 飽到傻\n白湯好飲過紅湯\n跟餐嘅蒜茸意粉咸返少少會更好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "嘢食服務環境都唔錯\n推介雞胸同豬\n多汁唔會韌\n沙律個汁都good\n全部嘢食都大大份 飽到傻\n白湯好飲過紅湯\n跟餐嘅蒜茸意粉咸返少少會更好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Omagajeh",
+          "uri": "https://www.google.com/maps/contrib/115947998859938397715/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUDOSv_zL8MgLlpIscqjsGKlblaVfiJkwrD68uPSw_qExTaG8=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-07T04:11:25.030370944Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SbU5ITnVMVU15TTA5VGFFTlFkekJZYkZWYVZVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SbU5ITnVMVU15TTA5VGFFTlFkekJZYkZWYVZVRRAB!2m1!1s0x3403fa0ac6c132c3:0x51118410ff7721d1"
+      },
+      {
+        "name": "places/ChIJwzLBxgr6AzQR0SF3_xCEEVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWM1JYbEZNRTVIVjBoQmVHMDFabUkxZGxScldGRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "一間環境不錯，戶外有寵物友善區的餐廳，中午12:00 多仍容易有位，午餐選擇多而且價格不高，有餐湯餐包用品都是$100左右，食物質素平穩，薯條好食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一間環境不錯，戶外有寵物友善區的餐廳，中午12:00 多仍容易有位，午餐選擇多而且價格不高，有餐湯餐包用品都是$100左右，食物質素平穩，薯條好食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lam Floren",
+          "uri": "https://www.google.com/maps/contrib/109166495323692015101/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsaLdOGbEbPUgddCnRLzNJoneFnRTTxYVRXLWUf6lPvPUwigAy=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-21T08:34:58.025149802Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWM1JYbEZNRTVIVjBoQmVHMDFabUkxZGxScldGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWM1JYbEZNRTVIVjBoQmVHMDFabUkxZGxScldGRRAB!2m1!1s0x3403fa0ac6c132c3:0x51118410ff7721d1"
+      },
+      {
+        "name": "places/ChIJwzLBxgr6AzQR0SF3_xCEEVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKb1dWTmpibkJXYmxOMGFXTkVWVlV4WVd0MGIyYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "享受了一個相當出色嘅餐時光, 以呢個價錢, 相當出色, 豬扒的製作及意粉99分以上, 魚柳就仲需要花多啲心事, 服務舒適傑出, 環境更是優雅極致, 一定會再來上品嚐一次室外用餐的體驗！\n\n請繼續保持這傑出質素！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "享受了一個相當出色嘅餐時光, 以呢個價錢, 相當出色, 豬扒的製作及意粉99分以上, 魚柳就仲需要花多啲心事, 服務舒適傑出, 環境更是優雅極致, 一定會再來上品嚐一次室外用餐的體驗！\n\n請繼續保持這傑出質素！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sea See",
+          "uri": "https://www.google.com/maps/contrib/104317832547327571444/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJ3OyMfOwTRxoRMKWbkEPVhc4sXa4eoJcRWn64zds26nAHOeE=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-02T05:18:04.540754498Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKb1dWTmpibkJXYmxOMGFXTkVWVlV4WVd0MGIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKb1dWTmpibkJXYmxOMGFXTkVWVlV4WVd0MGIyYxAB!2m1!1s0x3403fa0ac6c132c3:0x51118410ff7721d1"
+      },
+      {
+        "name": "places/ChIJwzLBxgr6AzQR0SF3_xCEEVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4WU9IVldXV016U2taRmNXRXdjV1pKZDJ0c1YwRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "20260702 savour 朗屏\n\n玩完室內法式滾球，食個靚 lunch😊\n\n黑醋汁雜菜沙律伴英式炸魚柳 $98\n\n今次唔食雞胸，試下炸魚。💯分。外皮好似新鮮炸起嘅油炸鬼咁薄咁脆！魚柳又係一片片嘅魚肉，唔係 cheap 雞魚手指合成肉。\n雜菜份量都幾多，係個黑醋汁比較多，有啲酸。😅\n\n+3分 ⭐⭐⭐ 小確幸\n\nyoutube @andyyan\n\n(scale)\n-4分 報東張\n-3分 免費都唔去\n-2分 喂！經理！\n-1分 咁都得？\n+0分 唔食無損失\n+1分 ⭐ 一試無妨\n+2分 ⭐⭐ 值得再食\n+3分 ⭐⭐⭐ 小確幸\n+4分 ⭐⭐⭐⭐ 快啲去試\n\n====\n\n20250519\n元朗 Savour 個煎雞胸配梅子蜜糖醬真係好好食。$88超抵.\n\nyoutube@andyyan",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "20260702 savour 朗屏\n\n玩完室內法式滾球，食個靚 lunch😊\n\n黑醋汁雜菜沙律伴英式炸魚柳 $98\n\n今次唔食雞胸，試下炸魚。💯分。外皮好似新鮮炸起嘅油炸鬼咁薄咁脆！魚柳又係一片片嘅魚肉，唔係 cheap 雞魚手指合成肉。\n雜菜份量都幾多，係個黑醋汁比較多，有啲酸。😅\n\n+3分 ⭐⭐⭐ 小確幸\n\nyoutube @andyyan\n\n(scale)\n-4分 報東張\n-3分 免費都唔去\n-2分 喂！經理！\n-1分 咁都得？\n+0分 唔食無損失\n+1分 ⭐ 一試無妨\n+2分 ⭐⭐ 值得再食\n+3分 ⭐⭐⭐ 小確幸\n+4分 ⭐⭐⭐⭐ 快啲去試\n\n====\n\n20250519\n元朗 Savour 個煎雞胸配梅子蜜糖醬真係好好食。$88超抵.\n\nyoutube@andyyan",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Andy Yan",
+          "uri": "https://www.google.com/maps/contrib/116908434873054032144/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWu0SPFhqPZNd95-oG7HPS7AwqzTa3UNgcQxDsbAtcswtzBtT1w=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-03T07:52:58.316491523Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4WU9IVldXV016U2taRmNXRXdjV1pKZDJ0c1YwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4WU9IVldXV016U2taRmNXRXdjV1pKZDJ0c1YwRRAB!2m1!1s0x3403fa0ac6c132c3:0x51118410ff7721d1"
+      },
+      {
+        "name": "places/ChIJwzLBxgr6AzQR0SF3_xCEEVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT201TlduWlhTMU5WT1hrek5XcEdlVjlMVmpreE5rRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 3,
+        "text": {
+          "text": "店員做嘢可唔可以認真啲😅😅，明明外賣講過話要意粉，結果变飯，蕃茄湯变白湯，熱奶茶变熱華田，冇一樣啱，定係服務員做事不認真/未瞓醒 俾錯客？？我真係非常唔满意",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員做嘢可唔可以認真啲😅😅，明明外賣講過話要意粉，結果变飯，蕃茄湯变白湯，熱奶茶变熱華田，冇一樣啱，定係服務員做事不認真/未瞓醒 俾錯客？？我真係非常唔满意",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Baileys",
+          "uri": "https://www.google.com/maps/contrib/104692307693794427494/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLm85VINbtoBYw-GvLjUfmm-yloyC0wMbpfACHg-9EwIVh91UW=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-02T15:57:20.864321320Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201TlduWlhTMU5WT1hrek5XcEdlVjlMVmpreE5rRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201TlduWlhTMU5WT1hrek5XcEdlVjlMVmpreE5rRRAB!2m1!1s0x3403fa0ac6c132c3:0x51118410ff7721d1"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fa0ac6c132c3:0x51118410ff7721d1!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5841595400216584657&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fa0ac6c132c3:0x51118410ff7721d1!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fa0ac6c132c3:0x51118410ff7721d1!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fa0ac6c132c3:0x51118410ff7721d1!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJwzLBxgr6AzQR0SF3_xCEEVE/photos/Aa-ngMbJfolGMlXXzXGkx6dsNkKEdBKEMJif9X_ZxJdWY0MrA7bLTWWUuYSznaqmY6tT5la6XGa4TydNebM7uwPnMvHe1SMsyoOi80P9PcnOYljMGIl4fPpzUhbV2bLRHRRtZT_h5Dp00Srqz2Oi9E74cOC30Z7wcBtRaIPVpT9YXhm5mEg02v7l6o0ZHPZcXnXlb3AY9VVTdIHblF0XxT15Or36dRqVCu4NMwzlPVMBo6NLjw1zOy_D8mAgcQaIWnCgdSBHB5uSWEw2BVw_ce40K4t0WR-zBXwVmLhY43IakOfagm3hwmtaiGz1pvQ3JmigRLVFnHsd9LxJxu9y7jC-0IqGFkuAVzliI4rR50RwiHwRxib1d7Z4_Imz7GOH_yQeRtMSlhejRbMOlTFXeR9zX9pIWeE",
+      "widthPx": 2880,
+      "heightPx": 2160,
+      "authorAttributions": [
+        {
+          "displayName": "Sunny Wai",
+          "uri": "https://maps.google.com/maps/contrib/105169773830319638376",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsiqIBR7wmXGZ8mwBzPHSSzO-wokfuEEsLytjxqBHc08oAl7PP=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWrMjtdQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWrMjtdQ!2e10!4m2!3m1!1s0x3403fa0ac6c132c3:0x51118410ff7721d1"
+    },
+    "local_path": "photos/ChIJwzLBxgr6AzQR0SF3_xCEEVE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMKVGlNnS5XEFep4yYT32_oHDc_d8Ng4HpUs8y4Ul71yy8fwPSEusyW-uNiWUHjq06HjFFjPS4-URUwSds5I00WRxFWVK1OutYmHA3HVFf6aTzHDAadek8thETYan_sVc6MNRC=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 153396
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "italian_restaurant",
+    "label": "義大利餐廳",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

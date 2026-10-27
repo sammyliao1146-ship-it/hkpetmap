@@ -1,0 +1,332 @@
+{
+  "google_place_id": "ChIJ5TVgFQABBDQRglE4FYD9wo8",
+  "restaurant_ids": [
+    "restaurant:3112809998"
+  ],
+  "fetched_at": "2026-10-23T15:47:14.524225+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ5TVgFQABBDQRglE4FYD9wo8",
+    "types": [
+      "western_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2397 8038",
+    "internationalPhoneNumber": "+852 2397 8038",
+    "formattedAddress": "香港香港島灣仔港灣道12號",
+    "location": {
+      "latitude": 22.2801945,
+      "longitude": 114.1724002
+    },
+    "rating": 3.4,
+    "googleMapsUri": "https://maps.google.com/?cid=10359120819459215746&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 18:00",
+        "星期二: 07:30 – 18:00",
+        "星期三: 07:30 – 18:00",
+        "星期四: 07:30 – 18:00",
+        "星期五: 07:30 – 18:00",
+        "星期六: 07:30 – 18:00",
+        "星期日: 08:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 9,
+    "displayName": {
+      "text": "Partager Bistro",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ5TVgFQABBDQRglE4FYD9wo8/reviews/ChZDSUhNMG9nS0VJQ0FnTURRanEtZ0hREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "最近喺灣仔派買一送一咖啡券，環境闊落，我食海南雞飯，質素滿意。同事食虎蝦意粉，都好吸引，服務員Nice，可以再幫襯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最近喺灣仔派買一送一咖啡券，環境闊落，我食海南雞飯，質素滿意。同事食虎蝦意粉，都好吸引，服務員Nice，可以再幫襯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Austin Chan",
+          "uri": "https://www.google.com/maps/contrib/100611447969491591855/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXlSe7rNX3j2FAVg4bzzsHsbUFVNYC0hP4mNY1koEf8lVQgQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-03-11T02:54:15.142636Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRanEtZ0hREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRanEtZ0hREAE!2m1!1s0x34040100156035e5:0x8fc2fd8015385182"
+      },
+      {
+        "name": "places/ChIJ5TVgFQABBDQRglE4FYD9wo8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRaGJHUUNnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "非常差的體驗！牛油果蛋三文治內的牛油果又生又苦澀，我認為蛋和麵包不用換了，但職員說不如換另一個餐，但結果等了半小時，追問後才知道㕑房不願意做。只見職員低下頭，原來他沒有辦法令廚房合作。。。所以這餐廳的食物和管理都很有問題。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常差的體驗！牛油果蛋三文治內的牛油果又生又苦澀，我認為蛋和麵包不用換了，但職員說不如換另一個餐，但結果等了半小時，追問後才知道㕑房不願意做。只見職員低下頭，原來他沒有辦法令廚房合作。。。所以這餐廳的食物和管理都很有問題。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mak Vivian",
+          "uri": "https://www.google.com/maps/contrib/115103150185575345842/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqxIwpt8m6sUS_2XDd10I6YIaF4R3m0DURaaYSIDewte89PA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-03-06T05:25:07.638588Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRaGJHUUNnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRaGJHUUNnEAE!2m1!1s0x34040100156035e5:0x8fc2fd8015385182"
+      },
+      {
+        "name": "places/ChIJ5TVgFQABBDQRglE4FYD9wo8/reviews/ChZDSUhNMG9nS0VJQ0FnTURRZzktbElnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "早前去灣仔Meeting，中間要等兩個鐘，喺天橋收到咖啡Coupon，先知政府大樓有間餐廳，就去飲杯咖啡食個包。店員好好人，冇嫌我食個包坐咁耐，環境亦舒服，可以睇電話做下嘢，好過去　其他Coffee Shop。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "早前去灣仔Meeting，中間要等兩個鐘，喺天橋收到咖啡Coupon，先知政府大樓有間餐廳，就去飲杯咖啡食個包。店員好好人，冇嫌我食個包坐咁耐，環境亦舒服，可以睇電話做下嘢，好過去　其他Coffee Shop。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "P p",
+          "uri": "https://www.google.com/maps/contrib/103124752083360253982/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJDQvQDWzbhd0Z_WRznGnEkaNKueEVzin9YykfRF68OcwhWpk=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-03-13T15:35:02.606309Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRZzktbElnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRZzktbElnEAE!2m1!1s0x34040100156035e5:0x8fc2fd8015385182"
+      },
+      {
+        "name": "places/ChIJ5TVgFQABBDQRglE4FYD9wo8/reviews/ChdDSUhNMG9nS0VJQ0FnTURRLWVTMGlRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "想食齋試咗Partager自助沙律吧，包湯任飲，麵包好味又飽肚，食物質素好，還有好正嘅黑松露鮮雜菌意粉！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "想食齋試咗Partager自助沙律吧，包湯任飲，麵包好味又飽肚，食物質素好，還有好正嘅黑松露鮮雜菌意粉！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Shera Cho",
+          "uri": "https://www.google.com/maps/contrib/100474822481276384071/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbKnIUKGBYDDucVaCIc0uUyY8q73pRI208PMGUVhrf0hCZH442=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-03-12T08:41:14.232170Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRLWVTMGlRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRLWVTMGlRRRAB!2m1!1s0x34040100156035e5:0x8fc2fd8015385182"
+      },
+      {
+        "name": "places/ChIJ5TVgFQABBDQRglE4FYD9wo8/reviews/ChZDSUhNMG9nS0VJQ0FnTURJX0lYaGFnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "絲滑的薑味拿鐵，薑皮細膩，口感完美平衡，令人難忘！\n\n友善的服務員和咖啡師熱情地接待了我的老母親，並首先為她送上了湯和熱飲。主菜的照片也很棒——皮脆肉嫩，令人垂涎。這裡是灣仔休憩放鬆的理想選擇。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Velvety ginger latte with fine ginger zest—perfectly balanced and memorable!\nFriendly staff and barista seated my elderly mom and served soup and hot drink for her first. See the photo of main dishes—crisp skin and tender meat. Perfect place to recharge in Wanchai.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Vivian Lai",
+          "uri": "https://www.google.com/maps/contrib/111803594922574115464/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7Eyo_aW3ntM-cg31yX_IdT5rgnhP4tiFN6YHasypfOmDVTkpo=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-04-08T07:11:20.920372Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJX0lYaGFnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJX0lYaGFnEAE!2m1!1s0x34040100156035e5:0x8fc2fd8015385182"
+      }
+    ],
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040100156035e5:0x8fc2fd8015385182!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10359120819459215746&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040100156035e5:0x8fc2fd8015385182!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040100156035e5:0x8fc2fd8015385182!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040100156035e5:0x8fc2fd8015385182!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ5TVgFQABBDQRglE4FYD9wo8/photos/Aa-ngMb1f3pvNYn7vbcntTssvSjFgRGthU5f0kNWuXoWhnjr9eMgM0JYT4HDuNVXdHjBG8A2vFsPnjy6uIMPN48XPQ1QvwjVdL4GtISYj1av8M2aOfh96bRHIb2DUPYU-bCwF77PdNJ-TAlp5DoLaKOIueB_yxJysFrx7LDRhS4cUzdznONecIl1PR7kjAm6sDQa4V5BKnAu4AEXK6b_hD1hMADQRbEwwOo2SKB8TdmuhVmU-UVcyRwljI3teDPc3jRAQdBqCXjJciwgfG5cmaCx9x88W6SKl914f-Rm7blkFe62h9brSgjYY10A7KZoVgP7yfN7Ts_z1JluwCx832Fe-Y7KLARLOhWfLcwrCPlB0oAV_SgPRxyh7N3DKo1o6GZt9-TVSQLZ1nnFv03Vhf2Mw5vfkhyDrATg8aDygUIFrCRJFA",
+      "widthPx": 3949,
+      "heightPx": 2632,
+      "authorAttributions": [
+        {
+          "displayName": "Larry Suen",
+          "uri": "https://maps.google.com/maps/contrib/101766765907249615956",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx9OqXDrpj5KSoIMSkxVM-9F0H2YjfAk59mR9McDZMxXYGTSIL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhATRp97d5fiE-kjlHf0TR71&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhATRp97d5fiE-kjlHf0TR71!2e10!4m2!3m1!1s0x34040100156035e5:0x8fc2fd8015385182"
+    },
+    "local_path": "photos/ChIJ5TVgFQABBDQRglE4FYD9wo8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXXOVfAWZ9Lrxa-PenY5tdCMHbLG4UcBJFSsk4hwUv-_WF6M-6Kr8A6zfqFI3I09FjjWkUycpgD2W5DB9ky8Xge0lW7Mq2buI3gPYN56zPpQYq_HE-p_U8c3kNFDgIDVvRoeONwtpNMh2K=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 159253
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

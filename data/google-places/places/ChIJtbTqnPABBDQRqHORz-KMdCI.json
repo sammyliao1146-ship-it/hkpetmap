@@ -1,0 +1,395 @@
+{
+  "google_place_id": "ChIJtbTqnPABBDQRqHORz-KMdCI",
+  "restaurant_ids": [
+    "restaurant:2262815231"
+  ],
+  "fetched_at": "2026-10-23T15:48:48.911985+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJtbTqnPABBDQRqHORz-KMdCI",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9555 8452",
+    "internationalPhoneNumber": "+852 9555 8452",
+    "formattedAddress": "G701, G/F, Square Mile II, 18 Ka Shin St, Tai Kok Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.320191800000003,
+      "longitude": 114.1611997
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=2482764200360899496&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://saya.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 12:00 – 15:00, 17:00 – 22:00",
+        "星期三: 12:00 – 15:00, 17:00 – 22:00",
+        "星期四: 12:00 – 15:00, 17:00 – 22:00",
+        "星期五: 12:00 – 15:00, 17:00 – 22:00",
+        "星期六: 12:00 – 15:00, 17:00 – 22:00",
+        "星期日: 12:00 – 15:00, 17:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 348,
+    "displayName": {
+      "text": "Restoran Saya",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesWine": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJtbTqnPABBDQRqHORz-KMdCI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2podU9WazRWUzFwWkVGS1JITmFlalp4ZHpKd1VYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "聽聞 Restoran Saya 係連續4年米芝蓮必比登推介，以親民價錢食到高質泰國菜，所以今次終於嚟試吓😋。餐廳主打正宗泰式風味，無論家庭聚餐定朋友聚會都幾適合，難怪一直都咁受歡迎。\n\n🦀 蟹肉奄列 $178\n蛋煎得啱啱好，入口嫩滑唔乾身🥚。蟹肉份量都幾足，蟹香突出，再蘸埋個泰式辣醬🌶️，即刻帶出酸辣層次，愈食愈開胃。\n\n🍲 冬蔭清湯煮花甲（不辣）$148\n花甲非常之新鮮🦪，粒粒鮮甜飽滿。冬蔭功清湯唔會過分濃味，香茅、青檸等香料味柔和🍋，飲落清爽又有泰式特色。\n\n🍖 泰式鹵水豬手 $158\n豬手炆得非常之入味✨，肉質軟腍，骨膠原豐富🤤。配埋酸酸辣辣嘅泰式醬汁，完美中和油膩感，好有去泰國食街頭名店嘅感覺🇹🇭\n\n🥭 細生日芒果糯米飯 $128\n賣相砌得好靚🎂，好適合生日慶祝打卡📸。芒果香甜多汁🥭，椰汁香濃，糯米煙韌，每一啖都充滿濃濃椰香。\n\n🥥 椰青 $58\n椰青都算大個🥥，椰青水清甜解渴。\n\n整體嚟講，以米芝蓮指南推介餐廳嚟講，Restoran Saya 價錢真係相當親民💯。菜式保持到正宗泰式風味，又唔會食到荷包出血，比起唔少同類泰國餐廳更加抵食👏。如果想用平民價錢食到有水準嘅泰國菜，呢間真係值得一試！🇹🇭😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "聽聞 Restoran Saya 係連續4年米芝蓮必比登推介，以親民價錢食到高質泰國菜，所以今次終於嚟試吓😋。餐廳主打正宗泰式風味，無論家庭聚餐定朋友聚會都幾適合，難怪一直都咁受歡迎。\n\n🦀 蟹肉奄列 $178\n蛋煎得啱啱好，入口嫩滑唔乾身🥚。蟹肉份量都幾足，蟹香突出，再蘸埋個泰式辣醬🌶️，即刻帶出酸辣層次，愈食愈開胃。\n\n🍲 冬蔭清湯煮花甲（不辣）$148\n花甲非常之新鮮🦪，粒粒鮮甜飽滿。冬蔭功清湯唔會過分濃味，香茅、青檸等香料味柔和🍋，飲落清爽又有泰式特色。\n\n🍖 泰式鹵水豬手 $158\n豬手炆得非常之入味✨，肉質軟腍，骨膠原豐富🤤。配埋酸酸辣辣嘅泰式醬汁，完美中和油膩感，好有去泰國食街頭名店嘅感覺🇹🇭\n\n🥭 細生日芒果糯米飯 $128\n賣相砌得好靚🎂，好適合生日慶祝打卡📸。芒果香甜多汁🥭，椰汁香濃，糯米煙韌，每一啖都充滿濃濃椰香。\n\n🥥 椰青 $58\n椰青都算大個🥥，椰青水清甜解渴。\n\n整體嚟講，以米芝蓮指南推介餐廳嚟講，Restoran Saya 價錢真係相當親民💯。菜式保持到正宗泰式風味，又唔會食到荷包出血，比起唔少同類泰國餐廳更加抵食👏。如果想用平民價錢食到有水準嘅泰國菜，呢間真係值得一試！🇹🇭😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "A Bite A Day",
+          "uri": "https://www.google.com/maps/contrib/116986937178246645416/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQ8kf3l563AhThrD-TS9EJfpS9xYIztM2JsjYN4Ns64CeV-A=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-26T02:29:09.055349722Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2podU9WazRWUzFwWkVGS1JITmFlalp4ZHpKd1VYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2podU9WazRWUzFwWkVGS1JITmFlalp4ZHpKd1VYYxAB!2m1!1s0x340401f09ceab4b5:0x22748ce2cf9173a8"
+      },
+      {
+        "name": "places/ChIJtbTqnPABBDQRqHORz-KMdCI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twemJYZ3hTM1p6UzNoWGJYWmhkMGgwTUdKelVsRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "大角咀呢間Restoran SAYA一直都好高人氣\n\n食物賣相靚之餘味道仲好好 完全係誠意之作💕\n\n🍰芒果糯米飯蛋糕\n呢個必點‼️ 將傳統芒果糯米飯變奏成蛋糕造型\n糯米飯壓成蛋糕底 中間夾住鮮甜芒果\n食落口感煙韌 椰香濃郁\n\n🥘泰式鹵水豬手\n豬手炆到超軟淋\n鹵水汁入晒味 皮Q彈有膠質\n配埋酸辣汁一齊食 解膩一流\n\n🍲冬蔭清湯煮花甲\n冬蔭功湯底酸酸辣辣好開胃\n花甲新鮮冇沙 肉質飽滿\n飲埋個湯 成個人即刻暖晒\n\n🦀蟹肉奄列\n呢個係驚喜之作‼️\n奄列煎到金黃脹卜卜 切開滿滿都係蟹肉\n蛋香加蟹肉鮮甜 點少少泰式辣醬 超惹味\n\n工業風裝修配埋泰式元素 坐得好舒服✨",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大角咀呢間Restoran SAYA一直都好高人氣\n\n食物賣相靚之餘味道仲好好 完全係誠意之作💕\n\n🍰芒果糯米飯蛋糕\n呢個必點‼️ 將傳統芒果糯米飯變奏成蛋糕造型\n糯米飯壓成蛋糕底 中間夾住鮮甜芒果\n食落口感煙韌 椰香濃郁\n\n🥘泰式鹵水豬手\n豬手炆到超軟淋\n鹵水汁入晒味 皮Q彈有膠質\n配埋酸辣汁一齊食 解膩一流\n\n🍲冬蔭清湯煮花甲\n冬蔭功湯底酸酸辣辣好開胃\n花甲新鮮冇沙 肉質飽滿\n飲埋個湯 成個人即刻暖晒\n\n🦀蟹肉奄列\n呢個係驚喜之作‼️\n奄列煎到金黃脹卜卜 切開滿滿都係蟹肉\n蛋香加蟹肉鮮甜 點少少泰式辣醬 超惹味\n\n工業風裝修配埋泰式元素 坐得好舒服✨",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "鈴鈴Ching Sum",
+          "uri": "https://www.google.com/maps/contrib/116233347375824219012/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJx_cU4c-JWs7KOvF9Jk30xftNe0yFjI9_3HG4Uk3tglbitWZs=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-09-08T11:02:09.869950827Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twemJYZ3hTM1p6UzNoWGJYWmhkMGgwTUdKelVsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twemJYZ3hTM1p6UzNoWGJYWmhkMGgwTUdKelVsRRAB!2m1!1s0x340401f09ceab4b5:0x22748ce2cf9173a8"
+      },
+      {
+        "name": "places/ChIJtbTqnPABBDQRqHORz-KMdCI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4MVNrZGhTMU4zUmpGU1UyaFBNSHAyZGpjNE1FRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳裝潢充滿濃厚泰國民族風，好似置身於泰國一樣❤️\n\n🐖泰式滷水豬手\n豬手肉煮得非常軟腍。豬皮充滿骨膠原，入口即溶，滷水汁調味啱啱好，滲滿整隻豬手，非常容易入口\n\n🍲冬蔭清湯煮花甲（不辣）\n以冬蔭湯底為基礎，但特別調整至不辣版本，保留了酸香與香草。湯底好香帶甜易入口，花甲份量足，而且鮮甜肉質肥美。\n\n🐮牛肉炒寬河粉\n牛肉熟度啱啱好，炒得超夠鑊氣。而且配料份量十分慷慨，河粉嘅軟糯質感令我回味泰國嘅味道。\n\n🦑小食拼盤\n非常足料嘅小食拼盤，包括有沙嗲雞串、炸豬頸肉條、雞棗、炸墨魚餅同蝦片。最欣賞嘅係沙嗲雞串雞肉嫩滑，配埋沙嗲汁非常滋味。 墨魚餅超大件，每一口都食到墨魚肉，夠晒鮮味彈牙，其他嘅都非常出色，眨吓眼就清晒\n\n🥭芒果糯米飯（生日版）\n如果有朋友生日芒果糯米飯蛋糕啱晒！仲有大同細俾你選擇。中間以新鮮芒果砌城玫瑰花，非常精美。芒果新鮮香甜，糯米飯煙韌仲有椰香味。話得係蛋糕，就有埋生日牌同蠟燭，非常有氣氛🎂\n\n🍹飲品方面，我哋叫咗清新解渴嘅芒果熱情果沙冰，同食泰國菜必飲嘅泰奶。另外鍾意飲酒嘅你哋可以揀$148 90分鐘紅白酒生啤free flow👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳裝潢充滿濃厚泰國民族風，好似置身於泰國一樣❤️\n\n🐖泰式滷水豬手\n豬手肉煮得非常軟腍。豬皮充滿骨膠原，入口即溶，滷水汁調味啱啱好，滲滿整隻豬手，非常容易入口\n\n🍲冬蔭清湯煮花甲（不辣）\n以冬蔭湯底為基礎，但特別調整至不辣版本，保留了酸香與香草。湯底好香帶甜易入口，花甲份量足，而且鮮甜肉質肥美。\n\n🐮牛肉炒寬河粉\n牛肉熟度啱啱好，炒得超夠鑊氣。而且配料份量十分慷慨，河粉嘅軟糯質感令我回味泰國嘅味道。\n\n🦑小食拼盤\n非常足料嘅小食拼盤，包括有沙嗲雞串、炸豬頸肉條、雞棗、炸墨魚餅同蝦片。最欣賞嘅係沙嗲雞串雞肉嫩滑，配埋沙嗲汁非常滋味。 墨魚餅超大件，每一口都食到墨魚肉，夠晒鮮味彈牙，其他嘅都非常出色，眨吓眼就清晒\n\n🥭芒果糯米飯（生日版）\n如果有朋友生日芒果糯米飯蛋糕啱晒！仲有大同細俾你選擇。中間以新鮮芒果砌城玫瑰花，非常精美。芒果新鮮香甜，糯米飯煙韌仲有椰香味。話得係蛋糕，就有埋生日牌同蠟燭，非常有氣氛🎂\n\n🍹飲品方面，我哋叫咗清新解渴嘅芒果熱情果沙冰，同食泰國菜必飲嘅泰奶。另外鍾意飲酒嘅你哋可以揀$148 90分鐘紅白酒生啤free flow👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Joelle Man",
+          "uri": "https://www.google.com/maps/contrib/111115533294703479704/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGhDlxotdP8XZM1RubJDjZvLCwM-qXdKHv4eKy30O6l5PsWoFk=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-14T08:41:41.300157329Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4MVNrZGhTMU4zUmpGU1UyaFBNSHAyZGpjNE1FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4MVNrZGhTMU4zUmpGU1UyaFBNSHAyZGpjNE1FRRAB!2m1!1s0x340401f09ceab4b5:0x22748ce2cf9173a8"
+      },
+      {
+        "name": "places/ChIJtbTqnPABBDQRqHORz-KMdCI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s4M2RtUnBkbkJ0UjBOQlEycFVRWFYwVlcwMlNuYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🌟連續四年米芝蓮必比登推介🌟\n主打特色泰國東北菜🇹🇭，裝修以湖水綠為主色，配搭馬賽克瓷磚餐桌，充滿異國風情～ 整體食物質素高！\n\n🍜泰北咖喱金麵配燒雞\n推介👍🏻 有兩款金麵，一半係油炸，麵條有口感之餘又掛汁，微辣咖喱汁香濃惹味！\n\n🎂生日版芒果糯米飯蛋糕\n生日必點🎈有埋生日蠟燭🕯️、生日牌，好有儀式感！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🌟連續四年米芝蓮必比登推介🌟\n主打特色泰國東北菜🇹🇭，裝修以湖水綠為主色，配搭馬賽克瓷磚餐桌，充滿異國風情～ 整體食物質素高！\n\n🍜泰北咖喱金麵配燒雞\n推介👍🏻 有兩款金麵，一半係油炸，麵條有口感之餘又掛汁，微辣咖喱汁香濃惹味！\n\n🎂生日版芒果糯米飯蛋糕\n生日必點🎈有埋生日蠟燭🕯️、生日牌，好有儀式感！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Karen kyt",
+          "uri": "https://www.google.com/maps/contrib/111759223239941113416/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-TPnMgFJtYjkMb8I_VFMRvLwr7wZGbrXR6XIwu8UDQT_kdKBRZg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-26T15:45:15.022629754Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s4M2RtUnBkbkJ0UjBOQlEycFVRWFYwVlcwMlNuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s4M2RtUnBkbkJ0UjBOQlEycFVRWFYwVlcwMlNuYxAB!2m1!1s0x340401f09ceab4b5:0x22748ce2cf9173a8"
+      },
+      {
+        "name": "places/ChIJtbTqnPABBDQRqHORz-KMdCI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKWGJYSXRlVXRQUWs5U1R5MWFTbFV0Y0hnNVRVRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "閨蜜鍾意食芒果糯米飯。知道這裏有芒果糯米飯蛋糕。專程來慶祝生日。果然係連續三年米芝蓮必比登推介。8pm到門口依然有好多人等位。環境舒適。食物水準高。對食物質素有要求的閨蜜評價滿意。\n\n冬蔭清湯煮花甲（不辣）\n以冬蔭湯底為基礎，但特別調整至不辣版本，保留了酸香與香草。適合不嗜辣的朋友。上枱已感到清新的檸檬葉香氣。花甲鮮甜。肉質肥美飽滿。\n\n炭火鹽燒魚\n炭火的香氣滲入魚肉，外層鹽焗帶出天然鮮味。食時揭開魚皮，魚肉保持嫩滑，入口時能感受到炭火的獨特焦香。魚肉可包生菜，粉絲，金不換一起吃。添加海鮮醬或泰式辣汁更有層次。\n\n泰式青咖喱雞\n青咖喱的香料層次豐富，淡淡的椰奶與香茅的清新。雞肉嫩滑，吸收了咖喱的香氣。配三件蒜蓉包。\n\n飛天炒通菜\n通菜火候掌握得宜，保持爽脆口感。蒜香與醬汁均濃郁，簡單好味。\n\n生日芒果糯米飯\n餐廳特別以精緻玫瑰花形狀呈現這道經典甜品。做成蛋糕的造型，適合慶祝生日。芒果香甜成熟，糯米飯軟糯不黏牙，淋上香滑的椰漿。完美的甜品。\n\n提一提喜歡喝酒的朋友~~$148/90mins 紅白酒生啤任飲。正呀。\n\n#restotansaya #thaifood #michelin #hkmichelin #hongkongfood #streetfood #taikoktsui #taikoktsuifood #spicyfood\n#tsuenwan #opmall #winetasting #nightlife",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "閨蜜鍾意食芒果糯米飯。知道這裏有芒果糯米飯蛋糕。專程來慶祝生日。果然係連續三年米芝蓮必比登推介。8pm到門口依然有好多人等位。環境舒適。食物水準高。對食物質素有要求的閨蜜評價滿意。\n\n冬蔭清湯煮花甲（不辣）\n以冬蔭湯底為基礎，但特別調整至不辣版本，保留了酸香與香草。適合不嗜辣的朋友。上枱已感到清新的檸檬葉香氣。花甲鮮甜。肉質肥美飽滿。\n\n炭火鹽燒魚\n炭火的香氣滲入魚肉，外層鹽焗帶出天然鮮味。食時揭開魚皮，魚肉保持嫩滑，入口時能感受到炭火的獨特焦香。魚肉可包生菜，粉絲，金不換一起吃。添加海鮮醬或泰式辣汁更有層次。\n\n泰式青咖喱雞\n青咖喱的香料層次豐富，淡淡的椰奶與香茅的清新。雞肉嫩滑，吸收了咖喱的香氣。配三件蒜蓉包。\n\n飛天炒通菜\n通菜火候掌握得宜，保持爽脆口感。蒜香與醬汁均濃郁，簡單好味。\n\n生日芒果糯米飯\n餐廳特別以精緻玫瑰花形狀呈現這道經典甜品。做成蛋糕的造型，適合慶祝生日。芒果香甜成熟，糯米飯軟糯不黏牙，淋上香滑的椰漿。完美的甜品。\n\n提一提喜歡喝酒的朋友~~$148/90mins 紅白酒生啤任飲。正呀。\n\n#restotansaya #thaifood #michelin #hkmichelin #hongkongfood #streetfood #taikoktsui #taikoktsuifood #spicyfood\n#tsuenwan #opmall #winetasting #nightlife",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "winnie lam",
+          "uri": "https://www.google.com/maps/contrib/110898283175259264350/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVd3QoH3G_Cjl86Hn2yDty-TpvHDr2iZaB5wulDHwdRuQJ5RxsV=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-26T11:33:37.450377640Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKWGJYSXRlVXRQUWs5U1R5MWFTbFV0Y0hnNVRVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKWGJYSXRlVXRQUWs5U1R5MWFTbFV0Y0hnNVRVRRAB!2m1!1s0x340401f09ceab4b5:0x22748ce2cf9173a8"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true,
+      "freeGarageParking": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401f09ceab4b5:0x22748ce2cf9173a8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2482764200360899496&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f09ceab4b5:0x22748ce2cf9173a8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401f09ceab4b5:0x22748ce2cf9173a8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f09ceab4b5:0x22748ce2cf9173a8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJtbTqnPABBDQRqHORz-KMdCI/photos/Aa-ngMYMNipBkdzZZiUZkfgXOskqTvhhg4khDNsGHjYUZWUzgDgStnMvVCzfPELRT0dHg3R5N7yYPJo34qqvDlfxAb_oDAJjJJfIFVokac5a-s10WiEnJCsH0IllocDaajxU5DEoOxTMSCdgkqXOiXQyu6DKk_u-J1GlarDt5HCFUQchRxCEwRTpyu3K6FZNCiudNJEVjadcWuMjW08XIYhztIZcb7e7B-vc8Lq6rv7IVu9uk_G0COunrURqZuIOlMSvMC5hrQgo_aRmTNxuRzZC1VPptoVM7lpq1qE1FhaQDG15hGHpPydZZgpcisE3VY_exy7zlLdaZnoQ8XhgNCqEA_P7ArPi9crKpJ8Pd5ZK9c7hTUdYIhbFpQWnmqjcn90dcxs8_eWhBj1BNRLG21EljmoKf043AtEFf1VDw2W4p4TkJQ",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Kit Kat lifestyle",
+          "uri": "https://maps.google.com/maps/contrib/113238778527634506958",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLdsegsQsq6C2v3oOqH5LsklmN0IvRYWN3Ntl3YJrd6Ske6XA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBJZWFggPULroGcCZ2twalp&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBJZWFggPULroGcCZ2twalp!2e10!4m2!3m1!1s0x340401f09ceab4b5:0x22748ce2cf9173a8"
+    },
+    "local_path": "photos/ChIJtbTqnPABBDQRqHORz-KMdCI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLedeSoH98lYebH0hxYaE_8C-6pTLGXz3wYjit07Vu9BrHTdZtIyFhoF6kSC6g9aJ4-kU5TQ29QsErzwpgYnDw5hiRAelNZwQjOT5OjCvPeYGmNbChuyodGHFxXOcwlMzvJjc0GkAV2CHN3e=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 206575
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ConnectError"
+  },
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

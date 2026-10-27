@@ -1,0 +1,38 @@
+{
+  "id": "ChIJB5bgkKj5AzQRwZNE7hLor9U",
+  "types": [
+    "pet_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界馬灣田寮新邨72號地下",
+  "location": {
+    "latitude": 22.3530248,
+    "longitude": 114.0593693
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15397780819007542209&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "I Care Pet Shop",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJB5bgkKj5AzQRwZNE7hLor9U/photos/Aa-ngMYs9zS2lC0DFTdVDhZhK0_8_Dmn9B7tv5E6E5oTmkSFo4MzTBPdCuxhtusIZU46S0MvBYdi86smmKuTBd7Ls2T3XfRsfssvQrmorZQTuQtJHi-cfijb1erUnn891rpe15y8uVlgtveTJ3kOA7d2apCJrjgs-3V7AFCJkeSKHpbzuQKZ_g9ZUD50lFRKCqp94ErtrlyuLhyFw_UMXwyy4r81p8GD-Zu6QDbHY77-QRCiS93ZGa1n1siaXbVXRWjg2rNk1LSgmoIXfEDuHQcf7AwFPlSFqCyn0KKfkyo1qBcICJP8rfGDLHstOvUPuS9ehU48W-IKZpx6kChkeW_SvKjSL9Hd_LgEhZjVWqjXLN0BBFp2LpvFNZ6BmMP6U5Jqk9pY8L5aM_TAt2PLCLWxIaraeX8",
+      "widthPx": 960,
+      "heightPx": 719,
+      "authorAttributions": [
+        {
+          "displayName": "I Care Pet Shop",
+          "uri": "https://maps.google.com/maps/contrib/104984485910220539731",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKL0AvsxXSLKav8_X3Lzc5FKB_Rm6CJMtb0d7RcA6G15gPrw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDChrCcSQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDChrCcSQ!2e10!4m2!3m1!1s0x3403f9a890e09607:0xd5afe812ee4493c1"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:18.722106+00:00"
+}

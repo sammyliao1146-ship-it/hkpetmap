@@ -1,0 +1,327 @@
+{
+  "google_place_id": "ChIJbwBFyccABDQRXwBU1Bwh1AE",
+  "restaurant_ids": [
+    "restaurant:2261814675",
+    "restaurant:3162802512"
+  ],
+  "fetched_at": "2026-10-23T15:44:14.689508+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJbwBFyccABDQRXwBU1Bwh1AE",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3188 3818",
+    "internationalPhoneNumber": "+852 3188 3818",
+    "formattedAddress": "香港九龍旺角西洋菜南街",
+    "location": {
+      "latitude": 22.3189496,
+      "longitude": 114.1702704
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=131766696805662815&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.joesbilliards.com/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 4,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 15:00 – 03:00",
+        "星期二: 15:00 – 03:00",
+        "星期三: 15:00 – 03:00",
+        "星期四: 15:00 – 03:00",
+        "星期五: 15:00 – 04:00",
+        "星期六: 15:00 – 04:00",
+        "星期日: 15:00 – 03:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 150,
+    "displayName": {
+      "text": "Joe's Billiards & Bar（旺角）",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJbwBFyccABDQRXwBU1Bwh1AE/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtcXJTckN3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "驚心動魄，各界好友高叫狂歡，狂野一晚",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "驚心動魄，各界好友高叫狂歡，狂野一晚",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "jessis jessis",
+          "uri": "https://www.google.com/maps/contrib/117016181541923526257/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUwsxNZB4W8y0eoOcYU1i1Sges1U1HqKixckxcTVwZuym3j-k=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-11-01T07:16:35.224981Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMtcXJTckN3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMtcXJTckN3EAE!2m1!1s0x340400c7c945006f:0x1d4211cd454005f"
+      },
+      {
+        "name": "places/ChIJbwBFyccABDQRXwBU1Bwh1AE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SSVZsUmtTMFp0UW5KTFFsWlRja2xCWjJsSU9IYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "三五知己傾偈飲酒的好地方",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "三五知己傾偈飲酒的好地方",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "can Lam",
+          "uri": "https://www.google.com/maps/contrib/108753143712184124532/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIaG0xh8Tmt1bP9Lyt9SN4j_cG_3mUQE4CjnxqrTXBBz-72Zg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-24T16:01:09.736356806Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SSVZsUmtTMFp0UW5KTFFsWlRja2xCWjJsSU9IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SSVZsUmtTMFp0UW5KTFFsWlRja2xCWjJsSU9IYxAB!2m1!1s0x340400c7c945006f:0x1d4211cd454005f"
+      },
+      {
+        "name": "places/ChIJbwBFyccABDQRXwBU1Bwh1AE/reviews/ChZDSUhNMG9nS0VJQ0FnSURZb2Z2bkxREAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 3,
+        "text": {
+          "text": "都幾貴，而且唔算好好坐，唔會成日去！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "都幾貴，而且唔算好好坐，唔會成日去！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Henry To",
+          "uri": "https://www.google.com/maps/contrib/109862480208177178772/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW91IoJZpQI9mTtOnytYcTK3aB2QOLmteo6mF9xpuUQ5lUzS2Pe=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2019-05-15T06:41:27.528521Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURZb2Z2bkxREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURZb2Z2bkxREAE!2m1!1s0x340400c7c945006f:0x1d4211cd454005f"
+      },
+      {
+        "name": "places/ChIJbwBFyccABDQRXwBU1Bwh1AE/reviews/ChZDSUhNMG9nS0VJQ0FnSURnZ2NldWFREAE",
+        "relativePublishTimeDescription": "9 年前",
+        "rating": 5,
+        "text": {
+          "text": "我必去的熱點，又有我最愛的美色桌球。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我必去的熱點，又有我最愛的美色桌球。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "南天生（Joe）",
+          "uri": "https://www.google.com/maps/contrib/108275578091329300793/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJon55DGr4QMYHvgmkftbjLHA62tLvxs-IOzy9YVN7xEWMB5IXlg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2017-01-26T23:47:49.861Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURnZ2NldWFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnZ2NldWFREAE!2m1!1s0x340400c7c945006f:0x1d4211cd454005f"
+      },
+      {
+        "name": "places/ChIJbwBFyccABDQRXwBU1Bwh1AE/reviews/ChdDSUhNMG9nS0VJQ0FnSURBdGUyaWpRRRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 3,
+        "text": {
+          "text": "我好似未去過所以唔敢發言",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我好似未去過所以唔敢發言",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "candy wong",
+          "uri": "https://www.google.com/maps/contrib/107726253330197842094/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUA5Xnsj7WuxRhZZKEEiFoPDh-m2gg4N7kZnO-rX_YFL7i9HSRi=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2018-05-14T02:43:13.718Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBdGUyaWpRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBdGUyaWpRRRAB!2m1!1s0x340400c7c945006f:0x1d4211cd454005f"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400c7c945006f:0x1d4211cd454005f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=131766696805662815&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400c7c945006f:0x1d4211cd454005f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400c7c945006f:0x1d4211cd454005f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400c7c945006f:0x1d4211cd454005f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJbwBFyccABDQRXwBU1Bwh1AE/photos/Aa-ngMYq1qOTJri_RyhhsnhUsd97xyPzrwxx_ne1DMOuFBtaFobfjHc2kTSRcp5tPia5Ox7cDOibJJmTfcfEM8j5i5Mg7xGBV5g1-RdGE7a9tPT6eikfBxzBLZOygj36zcqk--M_YMLT6bxtbbh9fPfqHQmtAVlDQUFowgS9qoDzT22k7k2z4ciJJT5Es449Xxi0FX7b9IsiGd21TpDuDXCwuqncqtp9ovYuhZRQ9ZzOSXcDKTeHiCp9PxuwcVFNLYjiiZcd2-bzEWCsFtsKligBNRTQyXdXHtl5Kh_ew-lrbK73KqhtH-bBLdvrXIQVQRoXxLkBTBeOAZvp1G54ncYbbhFsWdJP3GBDgXlNzgmRbWm1p2UeZ0MoE1VC9-kYUwd_nXvGt3JfCcSmqNEGh9h5HTy38P1sYwo",
+      "widthPx": 1024,
+      "heightPx": 682,
+      "authorAttributions": [
+        {
+          "displayName": "Ling Leong",
+          "uri": "https://maps.google.com/maps/contrib/107852642068245919891",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfk4pZ-szAf6sVCA7dKFaDkmDnhkCCXwcn7mLGusCmXvMYWhun=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4wdP90gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4wdP90gE!2e10!4m2!3m1!1s0x340400c7c945006f:0x1d4211cd454005f"
+    },
+    "local_path": "photos/ChIJbwBFyccABDQRXwBU1Bwh1AE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfI0qwZ-mklRGSwpSXaw4GHF30vY4Q9WeJ_Bz0Mq7g5kFJItyaWzKSu7zHAZ9pvO5l01HIBxJgNWH3czK652K41R0RoztqoAgZ-pKdmMwm3tnIWmHO_zGRpxXvshxxHeJi0eIFEXg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 124839
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "http://www.joesbilliards.com/index-4.html",
+        "label": "Menu",
+        "source_url": "http://www.joesbilliards.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "http://www.joesbilliards.com/index-4.html"
+}

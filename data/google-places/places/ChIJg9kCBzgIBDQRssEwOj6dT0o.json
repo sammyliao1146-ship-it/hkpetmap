@@ -1,0 +1,324 @@
+{
+  "google_place_id": "ChIJg9kCBzgIBDQRssEwOj6dT0o",
+  "restaurant_ids": [
+    "restaurant:2295801858"
+  ],
+  "fetched_at": "2026-10-23T15:47:37.054037+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJg9kCBzgIBDQRssEwOj6dT0o",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2613 2222",
+    "internationalPhoneNumber": "+852 2613 2222",
+    "formattedAddress": "香港新界大埔安祥路10號",
+    "location": {
+      "latitude": 22.4539898,
+      "longitude": 114.16754239999999
+    },
+    "rating": 3.4,
+    "googleMapsUri": "https://maps.google.com/?cid=5354671372556616114&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 18:00",
+        "星期二: 07:00 – 18:00",
+        "星期三: 07:00 – 18:00",
+        "星期四: 07:00 – 18:00",
+        "星期五: 07:00 – 21:30",
+        "星期六: 07:00 – 21:30",
+        "星期日: 07:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 408,
+    "displayName": {
+      "text": "歐陸冰室",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJg9kCBzgIBDQRssEwOj6dT0o/reviews/Ci9DQUlRQUNvZENodHljRjlvT214dk1XRkZWVjlXWkVKSWRtMDJaRFpaU0hoS1dVRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 3,
+        "text": {
+          "text": "周末二人到這間店試下午茶，點了紅豆西多士配煉奶，味道尚可，不過不失；朱古力窩夫則偏乾偏薄，口感欠佳。環境算是不錯，坐得舒服，服務也還可以。整體質素一般。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "周末二人到這間店試下午茶，點了紅豆西多士配煉奶，味道尚可，不過不失；朱古力窩夫則偏乾偏薄，口感欠佳。環境算是不錯，坐得舒服，服務也還可以。整體質素一般。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Natalie Kwan",
+          "uri": "https://www.google.com/maps/contrib/116634738687386978737/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjwxse9Aq31UuGOWP2PNAnisydt9168mmLweCCMKYHYaYnytHHTQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-06T08:43:34.455638147Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214dk1XRkZWVjlXWkVKSWRtMDJaRFpaU0hoS1dVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214dk1XRkZWVjlXWkVKSWRtMDJaRFpaU0hoS1dVRRAB!2m1!1s0x340408380702d983:0x4a4f9d3e3a30c1b2"
+      },
+      {
+        "name": "places/ChIJg9kCBzgIBDQRssEwOj6dT0o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pscGIxOWpkMGRpVWtnNGNsSm1jQzF6VG5wdmRYYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "原來呢間餐廳開業九年，但裝修一點也看不出帶有陳舊，估計是期間有裝修過吧，我最喜歡卡位的花磚桌面，真的很有風格及氣氛，讓人感覺這是餐廳而不是茶餐廳。\n\n分別叫了下午餐和茶餐，原來焗品份量都是相同，價格的分別就在於餐湯及蒜蓉包，我吃的是午餐，覺得喝了這個湯簡直是有賺，感覺是自家淆製，不是罐頭湯，蕃茄的酸味剛好。\n\n三文魚的焗品，感覺是比較腥的，但亦可以說成魚味比較重。飲品方面都是常規出品，就是把奶和糖給你調好的那種。\n\n特別說一下服務非常熱誠，最先是由門外笑容招呼，離開時還特意讓道，感覺員工對工作太有熱誠了，當時入座就已經想問營業時間，準備下一次介紹朋友再來。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "原來呢間餐廳開業九年，但裝修一點也看不出帶有陳舊，估計是期間有裝修過吧，我最喜歡卡位的花磚桌面，真的很有風格及氣氛，讓人感覺這是餐廳而不是茶餐廳。\n\n分別叫了下午餐和茶餐，原來焗品份量都是相同，價格的分別就在於餐湯及蒜蓉包，我吃的是午餐，覺得喝了這個湯簡直是有賺，感覺是自家淆製，不是罐頭湯，蕃茄的酸味剛好。\n\n三文魚的焗品，感覺是比較腥的，但亦可以說成魚味比較重。飲品方面都是常規出品，就是把奶和糖給你調好的那種。\n\n特別說一下服務非常熱誠，最先是由門外笑容招呼，離開時還特意讓道，感覺員工對工作太有熱誠了，當時入座就已經想問營業時間，準備下一次介紹朋友再來。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "BunnY Wong",
+          "uri": "https://www.google.com/maps/contrib/118380338271708870195/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuNxMqYv2dhs3NKOR5X45V_nBMY3CbxVFtsA8sPWWRTconCNG_9g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-09-28T06:21:04.393206512Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pscGIxOWpkMGRpVWtnNGNsSm1jQzF6VG5wdmRYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pscGIxOWpkMGRpVWtnNGNsSm1jQzF6VG5wdmRYYxAB!2m1!1s0x340408380702d983:0x4a4f9d3e3a30c1b2"
+      },
+      {
+        "name": "places/ChIJg9kCBzgIBDQRssEwOj6dT0o/reviews/Ci9DQUlRQUNvZENodHljRjlvT210eFkxSTBXREJ5Y21KTE9GVnBaMXA1WmtVeFJGRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "本來六十幾蚊我覺得ok嘅嗌咗個意粉但係食食下 食到 垃圾 而我同學嘅家長食到 化妝嗰啲 眼眉毛 唔建議食 肚痛咗三次 差評",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "本來六十幾蚊我覺得ok嘅嗌咗個意粉但係食食下 食到 垃圾 而我同學嘅家長食到 化妝嗰啲 眼眉毛 唔建議食 肚痛咗三次 差評",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Szekiu Cheng",
+          "uri": "https://www.google.com/maps/contrib/101740865742344026101/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhMzBF9fFQ9mvyag8FxEWMAfDOp9cY-MwSYDzPRxHQ2iNhBQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-11T15:17:16.536185340Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210eFkxSTBXREJ5Y21KTE9GVnBaMXA1WmtVeFJGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210eFkxSTBXREJ5Y21KTE9GVnBaMXA1WmtVeFJGRRAB!2m1!1s0x340408380702d983:0x4a4f9d3e3a30c1b2"
+      },
+      {
+        "name": "places/ChIJg9kCBzgIBDQRssEwOj6dT0o/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3eE1QbEFnEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "-西餐廳，價錢略貴。\n-食物不錯，長期滿座。\n-裝修幾靚，啲台有瓷磚圖畫。\n-焗野無中伏，焗豬手飯，焗豬扒意粉味道都唔錯，飲品仲可以簡橙汁添！\n-早餐湯底可選忌廉雞湯或意大利茄蓉，比較特別。\n-下午茶選擇都多，不過如果食返飯同意粉都只係平午餐少少。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "-西餐廳，價錢略貴。\n-食物不錯，長期滿座。\n-裝修幾靚，啲台有瓷磚圖畫。\n-焗野無中伏，焗豬手飯，焗豬扒意粉味道都唔錯，飲品仲可以簡橙汁添！\n-早餐湯底可選忌廉雞湯或意大利茄蓉，比較特別。\n-下午茶選擇都多，不過如果食返飯同意粉都只係平午餐少少。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fwa SmAsH",
+          "uri": "https://www.google.com/maps/contrib/103382255503163642729/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWh32Retml5KN8ZHyBSotkIQIZ78JvhjPHT2q-Ey9J8Ags_oj0=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2022-10-08T10:04:24.468124Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN3eE1QbEFnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN3eE1QbEFnEAE!2m1!1s0x340408380702d983:0x4a4f9d3e3a30c1b2"
+      },
+      {
+        "name": "places/ChIJg9kCBzgIBDQRssEwOj6dT0o/reviews/ChZDSUhNMG9nS0VJQ0FnSURZNG9hSWVBEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 1,
+        "text": {
+          "text": "平時下午來食ok\n但一到夜晚食就真係慘不忍睹\n夜晚來食3次3次都咁差\n\n7點半來到\n3餐都冇湯冇包\n有1餐冇薯菜☹️\n\n對上一次食比目魚燶到。。。\n連侍應自己拎埋來都唔好意思講話燶左\n咁你仲上碟。。。超難食。。。\n晚餐一次比一次差\n\n**************\n\n事隔3年後再來食下午茶\n三文魚碎蛋包\n上面得一小塊細到唔細既三文魚\n細到得一個小匙羹咁大\n收$40😩\n瑞士汁滷水雞髀\n個雞髀係超級鞋口\n尾上既窩夫\n店員仲打左正價單收$35\n跟餐收$28\n28蚊食兩件紙落肚\n從未見過窩夫可以做得咁簿咁慳皮\n店員人手好似從未好過\n點餐等好耐\n呢間野仲健在\n佩服",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平時下午來食ok\n但一到夜晚食就真係慘不忍睹\n夜晚來食3次3次都咁差\n\n7點半來到\n3餐都冇湯冇包\n有1餐冇薯菜☹️\n\n對上一次食比目魚燶到。。。\n連侍應自己拎埋來都唔好意思講話燶左\n咁你仲上碟。。。超難食。。。\n晚餐一次比一次差\n\n**************\n\n事隔3年後再來食下午茶\n三文魚碎蛋包\n上面得一小塊細到唔細既三文魚\n細到得一個小匙羹咁大\n收$40😩\n瑞士汁滷水雞髀\n個雞髀係超級鞋口\n尾上既窩夫\n店員仲打左正價單收$35\n跟餐收$28\n28蚊食兩件紙落肚\n從未見過窩夫可以做得咁簿咁慳皮\n店員人手好似從未好過\n點餐等好耐\n呢間野仲健在\n佩服",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "NB H",
+          "uri": "https://www.google.com/maps/contrib/118025320934227456721/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxsVsOgbfBnwh2m4C3O4B5n7siDN0mKmJ_IinIcFVZzIWiNTWghg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-07-09T08:49:40.295779Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURZNG9hSWVBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURZNG9hSWVBEAE!2m1!1s0x340408380702d983:0x4a4f9d3e3a30c1b2"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "parkingOptions": {
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340408380702d983:0x4a4f9d3e3a30c1b2!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5354671372556616114&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340408380702d983:0x4a4f9d3e3a30c1b2!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340408380702d983:0x4a4f9d3e3a30c1b2!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340408380702d983:0x4a4f9d3e3a30c1b2!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJg9kCBzgIBDQRssEwOj6dT0o/photos/Aa-ngMbFksS2ba9MClor1-zeuSSDBAd-OKOPcwXbDSMejNp5zw4foO9AftXVVTvQr-dsmospkjeXSFd8W4QWeypgVaeoGSPTGjznB81U5M_eDPvoFvh_YBFkfmsEaaq9kvi1TmRYd8ZCISuh_UksA1X3qyxWKEe0_DQolcVsDjm9WZfahMdnmRagv3Ek8Dk2XwosPy10651iSKGUidx1_K3N1FGdCD95lZYK7Bbd6cbO7fmosrKwOB1rTKQMlCKtfQm7kwiJShtwDdRwHqBPHTeT9NTcnUDxxACfk_DVUofsQpk_ZTMhFlqOF9Z4Y7Avi3eqmendisBPjcw8N3uYlyi_35w3Hq4desyR8YJpIJpv2lgCidtOY9m1zPeRBtIcgvSOPuLBjFN-i43-kIfzxxXq02cEDfa32XspDO84jPFRMNhLjw",
+      "widthPx": 4096,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "Yim Ling Cheung",
+          "uri": "https://maps.google.com/maps/contrib/107477549151821839173",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLczhhYV_7VUwdhyBWpVIwxrzgsdbO09UiDnpDv8IEtZ43pkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCGzjr7oIjagzLiYRrsDSmc&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCGzjr7oIjagzLiYRrsDSmc!2e10!4m2!3m1!1s0x340408380702d983:0x4a4f9d3e3a30c1b2"
+    },
+    "local_path": "photos/ChIJg9kCBzgIBDQRssEwOj6dT0o.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcc8ENIpFMeyBFea7gsFcrJ6vSum354LUd3ywnGK0m1a3cuLwPQlKxJX3Q1SLGR_RX2Lqpjuy5qmuBY8br1bd56lJlJuSNDvhGkrQ5tszrxpAs2I63FuwwZaPqAwoWnLRj-zba4zvStV-VJ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 183273
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

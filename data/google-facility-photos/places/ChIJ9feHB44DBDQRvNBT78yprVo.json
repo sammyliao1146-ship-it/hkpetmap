@@ -1,0 +1,39 @@
+{
+  "id": "ChIJ9feHB44DBDQRvNBT78yprVo",
+  "types": [
+    "dog_park",
+    "tourist_attraction",
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界將軍澳",
+  "location": {
+    "latitude": 22.3046088,
+    "longitude": 114.2684901
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6534065332038127804&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "環保大道寵物公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "dog_park",
+  "photos": [
+    {
+      "name": "places/ChIJ9feHB44DBDQRvNBT78yprVo/photos/Aa-ngMb6CWZr6o2plunicohwyS-9fL_Ry9XjC440et_h695J7592sAW6RQu4ugIlierSIGkeJcy7gQW9mk4TbXbi99BhvnxGKRw9-vRMqE98ZxxJvNaVZY8EsZepNc5VssEq5zCsmeRm5Er8ZJbf0P7nMNX3PhcXtqPlSoaX1yHMDFjb23zd8Jjje7m7I8wET6Ne6WjiOq77NezA1ZMoWnrA2_V4_Dk1dGSxJ38dI8sNzljFOJHm4Upl0x21GBuRZpogdlDtZqT2eve_0fo1Twrdxaqu1jkiyKZaPzGI5VkB_FTnM256kOO9J747huotIM7NUBtAarZIm-LTwJXJ8BSkj83UR9ZqAqDcTydu1XZdStf5USWL32_6LjpQzYpDXDdzNk_y4rmz842_pqwsfcefpBkHV-k",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "ka ho lam",
+          "uri": "https://maps.google.com/maps/contrib/110166470880534555802",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwwI8kIhO82VHcHOL6hFFZHrZuyS33ShL5D-UyKJJt-wHPl9gW=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICst8qufQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICst8qufQ!2e10!4m2!3m1!1s0x3404038e0787f7f5:0x5aada9ccef53d0bc"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:27.208564+00:00"
+}

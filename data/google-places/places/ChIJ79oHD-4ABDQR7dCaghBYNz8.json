@@ -1,0 +1,331 @@
+{
+  "google_place_id": "ChIJ79oHD-4ABDQR7dCaghBYNz8",
+  "restaurant_ids": [
+    "restaurant:3161805329",
+    "restaurant:2261812192"
+  ],
+  "fetched_at": "2026-10-23T15:38:33.141850+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ79oHD-4ABDQR7dCaghBYNz8",
+    "types": [
+      "chinese_noodle_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2366 7778",
+    "internationalPhoneNumber": "+852 2366 7778",
+    "formattedAddress": "香港九龍尖沙咀赫德道5-9號地下4號舖",
+    "location": {
+      "latitude": 22.298048299999998,
+      "longitude": 114.17422979999999
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=4555206376042451181&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 4,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 03:00",
+        "星期二: 11:00 – 03:00",
+        "星期三: 11:00 – 03:00",
+        "星期四: 11:00 – 03:00",
+        "星期五: 11:00 – 04:00",
+        "星期六: 11:00 – 04:00",
+        "星期日: 11:00 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 351,
+    "displayName": {
+      "text": "Sham Tsai Kee",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式麵館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "chinese_noodle_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ79oHD-4ABDQR7dCaghBYNz8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1RGVFNXRVVTlMWDNSaWNqbFlTSE0yYVRsMmVrRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "白灼魷魚真係非常好食，店子細細，但係食品出色，員工都好好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "白灼魷魚真係非常好食，店子細細，但係食品出色，員工都好好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "bon siu",
+          "uri": "https://www.google.com/maps/contrib/109799573994431023531/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAvYgWV2MRGyotR4Jn67Xp99eDpEw0M6VBqJkdjalwuPWNLQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-06T02:15:53.627436282Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1RGVFNXRVVTlMWDNSaWNqbFlTSE0yYVRsMmVrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1RGVFNXRVVTlMWDNSaWNqbFlTSE0yYVRsMmVrRRAB!2m1!1s0x340400ee0f07daef:0x3f375810829ad0ed"
+      },
+      {
+        "name": "places/ChIJ79oHD-4ABDQR7dCaghBYNz8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvcXNXNGZnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "如果不是相當在意環境的話覺得是非常值得一吃的小店，不會髒亂但店面就是香港式的狹窄。菜的出品很值得再次回訪！\n\n雲吞麵真的太好吃！雲吞飽滿圓潤，吃得到滿滿的蝦子，讓人相當驚艷！麵體部分就是香港大部分使用的伊麵，細緻又很有口感，如果在附近真的可以每天吃一碗～\n\n照片都是必點✅絕對不會讓人失望～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "如果不是相當在意環境的話覺得是非常值得一吃的小店，不會髒亂但店面就是香港式的狹窄。菜的出品很值得再次回訪！\n\n雲吞麵真的太好吃！雲吞飽滿圓潤，吃得到滿滿的蝦子，讓人相當驚艷！麵體部分就是香港大部分使用的伊麵，細緻又很有口感，如果在附近真的可以每天吃一碗～\n\n照片都是必點✅絕對不會讓人失望～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Shizuka A",
+          "uri": "https://www.google.com/maps/contrib/100582815175926895258/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNmYfdicCyrSMCCSdkAIVpeGNwNjvMKw30GVEKCgVa8V4V00_-qg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-04-16T09:37:46.162992Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvcXNXNGZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvcXNXNGZnEAE!2m1!1s0x340400ee0f07daef:0x3f375810829ad0ed"
+      },
+      {
+        "name": "places/ChIJ79oHD-4ABDQR7dCaghBYNz8/reviews/ChZDSUhNMG9nS0VMdWZzZTJDcDhPZlBBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "平日下午230分來，$82食了個下午茶餐-港式炸醬麵配凍奶茶，再加個淨零吞。係比較正宗的港式風味，未去到最好的水準，屬於稍好的水準。下午茶的價錢幾抵。\n食物算幾好，正宗的風味亦買少見少了。\n職員和環境衛生就普通水準。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平日下午230分來，$82食了個下午茶餐-港式炸醬麵配凍奶茶，再加個淨零吞。係比較正宗的港式風味，未去到最好的水準，屬於稍好的水準。下午茶的價錢幾抵。\n食物算幾好，正宗的風味亦買少見少了。\n職員和環境衛生就普通水準。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ka ho lai",
+          "uri": "https://www.google.com/maps/contrib/104366232887860561087/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9IiwP7yBrU0PfKrYjehp4b9gq_OTh8R8flKGlWSafAvKzfwYf=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-06-04T11:14:54.513658Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VMdWZzZTJDcDhPZlBBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMdWZzZTJDcDhPZlBBEAE!2m1!1s0x340400ee0f07daef:0x3f375810829ad0ed"
+      },
+      {
+        "name": "places/ChIJ79oHD-4ABDQR7dCaghBYNz8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHdkpHVDZ3RRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "傳統味道\n廣東雲吞麵是一種不單是食文化更是生活的傳承😀\n\n我一向比較喜愛兒時街檔的味道，這小店外貌不揚，隱在尖沙咀鬧市的小街舖位，但是我愛光顧的其中一店😋\n\n今晚正好在附近看七點半電影，趁前短時間來尋找兒時味道🤗\n\n分別點了雲吞麵，粗细各一及灼油菜，水準頗高，湯底好足味，大地魚及蝦殼想必加入来令湯底香氣更濃，麵條軟硬適中，有口感兼彈牙😋😋\n\n尋找傳統味道的好地方",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "傳統味道\n廣東雲吞麵是一種不單是食文化更是生活的傳承😀\n\n我一向比較喜愛兒時街檔的味道，這小店外貌不揚，隱在尖沙咀鬧市的小街舖位，但是我愛光顧的其中一店😋\n\n今晚正好在附近看七點半電影，趁前短時間來尋找兒時味道🤗\n\n分別點了雲吞麵，粗细各一及灼油菜，水準頗高，湯底好足味，大地魚及蝦殼想必加入来令湯底香氣更濃，麵條軟硬適中，有口感兼彈牙😋😋\n\n尋找傳統味道的好地方",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fred Au",
+          "uri": "https://www.google.com/maps/contrib/109405136498791034676/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvDRIl5j2bTXOMMxm0SAU7_-6R07JhgAo5HJWs5aMZlCmCoQp2=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2021-10-23T12:10:24.453561Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNHdkpHVDZ3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNHdkpHVDZ3RRAB!2m1!1s0x340400ee0f07daef:0x3f375810829ad0ed"
+      },
+      {
+        "name": "places/ChIJ79oHD-4ABDQR7dCaghBYNz8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CdVVYbDFNamcyTlZaMGVrTlJhMU4zVVhSMGJrRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "下午茶好細份都要$52\n凍檸茶 少甜都勁甜\n乾炒牛河無鑊氣 無乜味\n無樣野 好食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "下午茶好細份都要$52\n凍檸茶 少甜都勁甜\n乾炒牛河無鑊氣 無乜味\n無樣野 好食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "T K",
+          "uri": "https://www.google.com/maps/contrib/109698609800806644577/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtVhL_Lyitu2Z1rl4TPUSPb6rhUZgO118l_zlUSV8NZqsSIE0d=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-19T08:53:32.106296370Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CdVVYbDFNamcyTlZaMGVrTlJhMU4zVVhSMGJrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CdVVYbDFNamcyTlZaMGVrTlJhMU4zVVhSMGJrRRAB!2m1!1s0x340400ee0f07daef:0x3f375810829ad0ed"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": false,
+    "paymentOptions": {
+      "acceptsDebitCards": false,
+      "acceptsCashOnly": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400ee0f07daef:0x3f375810829ad0ed!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4555206376042451181&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ee0f07daef:0x3f375810829ad0ed!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400ee0f07daef:0x3f375810829ad0ed!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ee0f07daef:0x3f375810829ad0ed!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ79oHD-4ABDQR7dCaghBYNz8/photos/Aa-ngMZbCEiwZQRITPsvk94YVHzY72ymmMYGARHDbqKt8B2JNNRjCLm2ucH9OFzNIlwx7Z2ly5SLxj1276JtH_hW9hqqbF-I8Ls-u1Q-4yu7XdxiSRP5N7-Q6yl0qhTeofspk8RmVyenmw7WIsXTYgYj-9i7Fg8mTWqcEZT55x3Oqh1RXjc3LUSUkOsVTWO5Gp6zu4PSKacFWsXr7OGK5pSLoCh-bi34TkxdNWNHyA2unMAEr18zEkZbUhTsQnuLmVdQn2P7O0PSTPI4k6cYERa8v_JKAUCLYRE38HwQ6jwlq9pEOH0_3P7yB-Ee5RSpR5iNdaVKcU-uV8clC0RaC5MZtgENujTf-1liGrAPEaKGvSsz_hj5q_iBTxsaMAIoIYXySWUbqS0V7jv8zGaBmUyL_f2UfPA",
+      "widthPx": 2523,
+      "heightPx": 3166,
+      "authorAttributions": [
+        {
+          "displayName": "Julieanna Cheng",
+          "uri": "https://maps.google.com/maps/contrib/102789632089401811164",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzVSlipKcMq8y-gS_xEeufgFndBINU0AA1pwfQVdGHoNM6P2ZW9w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICbir6oEQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbir6oEQ!2e10!4m2!3m1!1s0x340400ee0f07daef:0x3f375810829ad0ed"
+    },
+    "local_path": "photos/ChIJ79oHD-4ABDQR7dCaghBYNz8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7b697JAJm4ToSRTZ7ppMN4YROsAsB9huT9WMaM_7z2cAdEMXu6T_wc8Eq1idghJzK1X3fBsLl6ZpGbs8ebxIn6MVFCwycDtIxQsXOg8gfd9_Ae6ISk9BsWTzEfaY0zS33GRGp=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 165969
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_noodle_restaurant",
+    "label": "中式麵館",
+    "types": [
+      "chinese_noodle_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

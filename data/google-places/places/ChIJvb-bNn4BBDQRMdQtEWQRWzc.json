@@ -1,0 +1,309 @@
+{
+  "google_place_id": "ChIJvb-bNn4BBDQRMdQtEWQRWzc",
+  "restaurant_ids": [
+    "restaurant:3112808898"
+  ],
+  "fetched_at": "2026-10-23T15:50:38.040063+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJvb-bNn4BBDQRMdQtEWQRWzc",
+    "types": [
+      "tea_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2686 8021",
+    "internationalPhoneNumber": "+852 2686 8021",
+    "formattedAddress": "香港香港島銅鑼灣勿地臣街8號",
+    "location": {
+      "latitude": 22.278217599999998,
+      "longitude": 114.18283939999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=3988801016449324081&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/TheMatchaTokyoHK",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 21:00",
+        "星期二: 10:00 – 21:00",
+        "星期三: 10:00 – 21:00",
+        "星期四: 10:00 – 21:00",
+        "星期五: 10:00 – 21:00",
+        "星期六: 10:00 – 21:00",
+        "星期日: 10:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 188,
+    "displayName": {
+      "text": "THE MATCHA TOKYO (銅鑼灣)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "茶行",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "primaryType": "tea_store",
+    "reviews": [
+      {
+        "name": "places/ChIJvb-bNn4BBDQRMdQtEWQRWzc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxMGFtWjNRbFJqZDNsbmRXeElPRlkyYmt4T1RtYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 2,
+        "text": {
+          "text": "抹茶品質不是太好，店員刷個三兩下而已，不是很認真在製作",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "抹茶品質不是太好，店員刷個三兩下而已，不是很認真在製作",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Shiuan-Ju Lin",
+          "uri": "https://www.google.com/maps/contrib/109106107777482678133/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsyE1bdAC1zTqZpdvQ8lP6ovJAguxGM1dJRatUcqerXF8uH2af=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-04T07:43:18.377690495Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxMGFtWjNRbFJqZDNsbmRXeElPRlkyYmt4T1RtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxMGFtWjNRbFJqZDNsbmRXeElPRlkyYmt4T1RtYxAB!2m1!1s0x3404017e369bbfbd:0x375b1164112dd431"
+      },
+      {
+        "name": "places/ChIJvb-bNn4BBDQRMdQtEWQRWzc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQycWZLVlRnEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "日本人氣過江龍——THE MATCHA TOKYO；來自東京表參道，呢間茶飲店以100%有機手製抹茶作為賣點，專注於抹茶既出品；係鹿兒島同京都宇治都設有自己既茶園，所有抹茶以每年第一造新茶製作而成，嚴選優質茶葉，再經手摘、石磨等傳統技藝，可以話相當專業🌱 味道方面，抹茶口感順滑、質地輕盈，甜度岩岩好，完全無茶葉中既苦澀味，亦無人造糖既假甜感覺。而Matcha Espresso Latte既三層漸變色漸層效果更加係精美絕倫；集結左抹茶既甘醇清香、咖啡既香味再配上牛奶，味道層次感豐富👍🏻 另外，Matcha Protein W/Milk，味道較為鮮明搶喉，屬於高蛋白飲品，推薦比健身中或者控制飲食嘅朋友～ 而茶飲店更設有少量甜食，相中包括左時下非常出名既Croffle，但由於現階段不設堂食，下次有機會一定會試",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "日本人氣過江龍——THE MATCHA TOKYO；來自東京表參道，呢間茶飲店以100%有機手製抹茶作為賣點，專注於抹茶既出品；係鹿兒島同京都宇治都設有自己既茶園，所有抹茶以每年第一造新茶製作而成，嚴選優質茶葉，再經手摘、石磨等傳統技藝，可以話相當專業🌱 味道方面，抹茶口感順滑、質地輕盈，甜度岩岩好，完全無茶葉中既苦澀味，亦無人造糖既假甜感覺。而Matcha Espresso Latte既三層漸變色漸層效果更加係精美絕倫；集結左抹茶既甘醇清香、咖啡既香味再配上牛奶，味道層次感豐富👍🏻 另外，Matcha Protein W/Milk，味道較為鮮明搶喉，屬於高蛋白飲品，推薦比健身中或者控制飲食嘅朋友～ 而茶飲店更設有少量甜食，相中包括左時下非常出名既Croffle，但由於現階段不設堂食，下次有機會一定會試",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jasmine Yau",
+          "uri": "https://www.google.com/maps/contrib/114009559045872392338/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEL3c0JJaRNVUmYc4V5dhmbEl0W5BU_171hyGeOUdYemrRbrs=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-05-18T13:41:41.509254Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQycWZLVlRnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQycWZLVlRnEAE!2m1!1s0x3404017e369bbfbd:0x375b1164112dd431"
+      },
+      {
+        "name": "places/ChIJvb-bNn4BBDQRMdQtEWQRWzc/reviews/ChdDSUhNMG9nS0VJQ0FnSURaX1lTcm1RRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "偶然在時代廣場旁邊見到The Matcha Tokyo，原來日本人氣抹茶店已經進駐香港，太耐冇去銅鑼灣了。本想重溫抹茶味道，見到有咖啡反而想試，買了杯大Latte，飲落應該是中烘焙，有種朱古力般的微苦味及醇厚咖啡風味，飲完感覺好爽，好飲！\n\n下次回來要試抹茶及雪糕😌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "偶然在時代廣場旁邊見到The Matcha Tokyo，原來日本人氣抹茶店已經進駐香港，太耐冇去銅鑼灣了。本想重溫抹茶味道，見到有咖啡反而想試，買了杯大Latte，飲落應該是中烘焙，有種朱古力般的微苦味及醇厚咖啡風味，飲完感覺好爽，好飲！\n\n下次回來要試抹茶及雪糕😌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jason To",
+          "uri": "https://www.google.com/maps/contrib/100619914520091418138/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPkNQODRWSv8N_k6975SBchi5JQVIeO1hyq8eehOSMwVaXcuI1=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-10-07T06:53:09.169254Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaX1lTcm1RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaX1lTcm1RRRAB!2m1!1s0x3404017e369bbfbd:0x375b1164112dd431"
+      },
+      {
+        "name": "places/ChIJvb-bNn4BBDQRMdQtEWQRWzc/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4cXBLZVlnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "因為定價比較貴，很偶然會光顧一次。店子剛好有會員優惠，買兩杯MATCHA ESPRESSO LATTE原價HKD96，會員優惠HKD88，特意來來喝。MATCHA ESPRESSO LATTE下面是抹茶，上面是奶和咖啡；由下面的抹茶慢慢喝，有抹茶、中間是奶、最後喝到上面的咖啡，整體感覺良好。店裡還有抹茶軟雪糕之類的，除了價錢比較貴之外，抹茶控值得一試。來的時候下雨，不用排隊，平時倒是要排一會兒。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "因為定價比較貴，很偶然會光顧一次。店子剛好有會員優惠，買兩杯MATCHA ESPRESSO LATTE原價HKD96，會員優惠HKD88，特意來來喝。MATCHA ESPRESSO LATTE下面是抹茶，上面是奶和咖啡；由下面的抹茶慢慢喝，有抹茶、中間是奶、最後喝到上面的咖啡，整體感覺良好。店裡還有抹茶軟雪糕之類的，除了價錢比較貴之外，抹茶控值得一試。來的時候下雨，不用排隊，平時倒是要排一會兒。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "夜行雲",
+          "uri": "https://www.google.com/maps/contrib/114581105890391828604/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWG09fgjLfuTzdSud1Lbt9m9IRulufB94hL67ElUVoNfhEu8ydjEw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-05-15T07:34:59.896179Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4cXBLZVlnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4cXBLZVlnEAE!2m1!1s0x3404017e369bbfbd:0x375b1164112dd431"
+      },
+      {
+        "name": "places/ChIJvb-bNn4BBDQRMdQtEWQRWzc/reviews/ChdDSUhNMG9nS0VJQ0FnSURtcXB6ZXh3RRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "Wide range of matcha products are available here, new flavours of matcha mix with soda / coffee / protein mix / dessert with interesting flavours.\nMatcha are whisked immediately and freshly after orders, with 100% organic tea powder from japan.\n\n來自東京表參道的綠茶店\n用了100%有機的抹茶粉\n從純抹茶 到加上梳打 牛奶 咖啡\n甚至 香蕉奶昔或蛋白飲料\n真的有好多不同種類⋆⸜ ⚘ ⸝⋆\n試了matcha espresso latte\n咖啡和抹茶的比例不錯 也有奶香\n口感也挺順滑𓂃 𓈒𓏸𑁍\n除此以外也有抹茶類的甜點\n有croffle和芭菲 期待熱潮緩解時再試試不同的口味\n週末的排隊隊伍都快要繞巷一周了 建議先試試簡單的口味\n等候時間會短一些\n店內也有其他抹茶產品可選購\n有抹茶粉 抹茶醬 也有茶筅等 是抹茶控的天堂啊│˶˙ᵕ˙˶)꜆",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Wide range of matcha products are available here, new flavours of matcha mix with soda / coffee / protein mix / dessert with interesting flavours.\nMatcha are whisked immediately and freshly after orders, with 100% organic tea powder from japan.\n\n來自東京表參道的綠茶店\n用了100%有機的抹茶粉\n從純抹茶 到加上梳打 牛奶 咖啡\n甚至 香蕉奶昔或蛋白飲料\n真的有好多不同種類⋆⸜ ⚘ ⸝⋆\n試了matcha espresso latte\n咖啡和抹茶的比例不錯 也有奶香\n口感也挺順滑𓂃 𓈒𓏸𑁍\n除此以外也有抹茶類的甜點\n有croffle和芭菲 期待熱潮緩解時再試試不同的口味\n週末的排隊隊伍都快要繞巷一周了 建議先試試簡單的口味\n等候時間會短一些\n店內也有其他抹茶產品可選購\n有抹茶粉 抹茶醬 也有茶筅等 是抹茶控的天堂啊│˶˙ᵕ˙˶)꜆",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sweet.n.savouryy",
+          "uri": "https://www.google.com/maps/contrib/100587049807841253844/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6PMbXJ4rJ4yXInCKuersKADIQL8b1HW5cgQ9rPZfG-3jQdXG8=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-01-25T02:45:06.096691Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURtcXB6ZXh3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURtcXB6ZXh3RRAB!2m1!1s0x3404017e369bbfbd:0x375b1164112dd431"
+      }
+    ],
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404017e369bbfbd:0x375b1164112dd431!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3988801016449324081&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017e369bbfbd:0x375b1164112dd431!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404017e369bbfbd:0x375b1164112dd431!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017e369bbfbd:0x375b1164112dd431!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJvb-bNn4BBDQRMdQtEWQRWzc/photos/Aa-ngMadb6GI1emnrYcFw_ZXazbOOweqX7HBLNn2wznnnysiLJEcImQvwOf91XIFcI8pmemd_v_21CbfkZixkcM7Ps57HJvkJfY3fp6DKV556VqQs9J7zpqjbBXy6DCqSO0QOrI77JOe-Lr7WMT4SJdiNYK2pvEYr_34u7nfG82Qpv5EqGwE7D9qte9dxh2ZInAvWgd_XDoJWKnd4ZdlRQt7usmPQpvBReBLygih3H6H6fTdYKWX2Zw8Zzkiz5ZbbtvBQUEM5dtoT4Y4GJYecWNIZ5-K6hqPBXXLQ7xTmK_WABlrAtVxDA4EqWb3wSVMApXS7ycYIiowd2SJPjOGISbkwKlyR0qPvySCjol3m2YoqXKLB6_OkmMMOzMA4KuNG10rB1uG_WrYN9A1cQ1H0MeQbKcZwu0",
+      "widthPx": 1171,
+      "heightPx": 998,
+      "authorAttributions": [
+        {
+          "displayName": "Andy Ho",
+          "uri": "https://maps.google.com/maps/contrib/118376331683821562663",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVapTJXNFViQ6cyILCGhC4hMrxQGiBE6BfBkybi7VFdnv5rHFuOiw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2m_HPJQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2m_HPJQ!2e10!4m2!3m1!1s0x3404017e369bbfbd:0x375b1164112dd431"
+    },
+    "local_path": "photos/ChIJvb-bNn4BBDQRMdQtEWQRWzc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdYNvktaLtoJXSr0rB3xX2OD_n1FnfATlknsUX3aE7GctiKqzA84Jo-2Q5VQPSlNU70o_vgK_akwDUuwzx907xiOyQKrKMSF2QvnOjmw2L3DEMHwxKMBwbR69Od3cwpCqa1ron=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 146431
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "tea_store",
+    "label": "茶行",
+    "types": [
+      "tea_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

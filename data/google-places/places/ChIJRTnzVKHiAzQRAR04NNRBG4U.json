@@ -1,0 +1,406 @@
+{
+  "google_place_id": "ChIJRTnzVKHiAzQRAR04NNRBG4U",
+  "restaurant_ids": [
+    "restaurant:3117001146",
+    "restaurant:2217802842"
+  ],
+  "fetched_at": "2026-10-23T15:37:50.315485+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJRTnzVKHiAzQRAR04NNRBG4U",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2988 1494",
+    "internationalPhoneNumber": "+852 2988 1494",
+    "formattedAddress": "香港新界東涌馬灣涌94號大嶼山",
+    "location": {
+      "latitude": 22.2841846,
+      "longitude": 113.93565029999999
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=9591332211080568065&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 14,
+            "minute": 15
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 15
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 15
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 15
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 15
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 15
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 15
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:00 – 14:15, 17:00 – 22:00",
+        "星期二: 09:00 – 14:15, 17:00 – 22:00",
+        "星期三: 09:00 – 14:15, 17:00 – 22:00",
+        "星期四: 09:00 – 14:15, 17:00 – 22:00",
+        "星期五: 09:00 – 14:15, 17:00 – 22:00",
+        "星期六: 09:00 – 14:15, 17:00 – 22:00",
+        "星期日: 09:00 – 14:15, 17:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 784,
+    "displayName": {
+      "text": "東昇海鮮酒家",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "海鮮餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "seafood_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJRTnzVKHiAzQRAR04NNRBG4U/reviews/ChZDSUhNMG9nS0VJQ0FnTURBcGN1eERREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "東昇樓海鮮酒家 (東涌) 📍\n東涌馬灣涌村涌口街94號地舖\n位於馬灣通村的「東昇樓海鮮酒家」是區內人氣旺盛的海鮮酒家，地方大適合朋友商務聚會🎈。昔日此地滿佈漁船，是漁民集中地，海鮮新鮮程度更可想而知，除咗鑊氣十足中菜、近廣為人知其宵夜茶市，可以點心做宵夜。\n脆皮菠蘿咕嚕肉：酸甜可口，外酥內嫩，搭配菠蘿的天然果酸，酸甜適中，開胃不膩，豬肉裹粉炸至金黃，外皮酥脆，內里肉質鮮嫩，口感層次豐富。菠蘿的加入帶來清新的果香，既增添了風味，又平衡了油膩感。毫不吝嗇的紅、黃、綠食材搭配，色澤鮮艷。\n豉油皇煎蝦碌：精挑細選蝦，鮮美的蝦肉和濃郁的豉油香氣十足，蝦肉本身帶有天然的甜味，經過煎制後，鮮味更加濃郁。豉油皇增添了咸鮮的底色，同時豉油的香氣與蝦的鮮味完美融合。外殼微微焦脆，內里的蝦肉卻依然保持嫩滑多汁，外殼脆到可以食埋落肚。\n煎藕餅：份量十足大大塊，原來係用蓮藕和豬肉組成再用煎炸嘅方式烹調，外表至金黃香脆，食落似豬皮質感，蓮藕粒增加口感，豬肉煙韌彈牙，難怪係招牌菜！\n紅燒乳鴿：皮脆肉嫩、香氣濃郁，外皮酥脆，內里肉質細嫩多汁，口感層次豐富。乳鴿吸收了多種調料的香氣，如醬油、料酒、八角、桂皮等，香味撲鼻。幾乎用上做吊燒雞方法慢慢贊油，待至表面看似炸，但其實係經高燒慢慢灼熱表皮變成玻璃皮質感，呈現紅亮的色澤。\n鮑魚雞煲：鮑魚的鮮美與雞肉的香甜完美融合，湯汁濃郁，鮮味十足。鮑魚口感彈嫩，雞肉鮮嫩多汁，用蠔油、鮑汁、醬油等調味，醬香濃郁，味道醇厚。鮑魚和雞肉都是高蛋白、低脂肪的食材，鮮味濃郁、肉質豐富、醬香醇厚的高檔菜餚，高貴而不貴，都係百幾蚊食到。\n總結：\n小菜海鮮夠曬鑊氣 仲有甜品小食可選\n值得一試的海鮮中菜酒家 多元化又出色\n難怪座無虛席\n#東涌#東昇樓#海鮮#中菜#紅燒乳鴿#脆皮菠蘿咕嚕肉#鮑魚雞煲#豉油皇煎蝦#煎藕餅#鑊氣十足#新鮮",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "東昇樓海鮮酒家 (東涌) 📍\n東涌馬灣涌村涌口街94號地舖\n位於馬灣通村的「東昇樓海鮮酒家」是區內人氣旺盛的海鮮酒家，地方大適合朋友商務聚會🎈。昔日此地滿佈漁船，是漁民集中地，海鮮新鮮程度更可想而知，除咗鑊氣十足中菜、近廣為人知其宵夜茶市，可以點心做宵夜。\n脆皮菠蘿咕嚕肉：酸甜可口，外酥內嫩，搭配菠蘿的天然果酸，酸甜適中，開胃不膩，豬肉裹粉炸至金黃，外皮酥脆，內里肉質鮮嫩，口感層次豐富。菠蘿的加入帶來清新的果香，既增添了風味，又平衡了油膩感。毫不吝嗇的紅、黃、綠食材搭配，色澤鮮艷。\n豉油皇煎蝦碌：精挑細選蝦，鮮美的蝦肉和濃郁的豉油香氣十足，蝦肉本身帶有天然的甜味，經過煎制後，鮮味更加濃郁。豉油皇增添了咸鮮的底色，同時豉油的香氣與蝦的鮮味完美融合。外殼微微焦脆，內里的蝦肉卻依然保持嫩滑多汁，外殼脆到可以食埋落肚。\n煎藕餅：份量十足大大塊，原來係用蓮藕和豬肉組成再用煎炸嘅方式烹調，外表至金黃香脆，食落似豬皮質感，蓮藕粒增加口感，豬肉煙韌彈牙，難怪係招牌菜！\n紅燒乳鴿：皮脆肉嫩、香氣濃郁，外皮酥脆，內里肉質細嫩多汁，口感層次豐富。乳鴿吸收了多種調料的香氣，如醬油、料酒、八角、桂皮等，香味撲鼻。幾乎用上做吊燒雞方法慢慢贊油，待至表面看似炸，但其實係經高燒慢慢灼熱表皮變成玻璃皮質感，呈現紅亮的色澤。\n鮑魚雞煲：鮑魚的鮮美與雞肉的香甜完美融合，湯汁濃郁，鮮味十足。鮑魚口感彈嫩，雞肉鮮嫩多汁，用蠔油、鮑汁、醬油等調味，醬香濃郁，味道醇厚。鮑魚和雞肉都是高蛋白、低脂肪的食材，鮮味濃郁、肉質豐富、醬香醇厚的高檔菜餚，高貴而不貴，都係百幾蚊食到。\n總結：\n小菜海鮮夠曬鑊氣 仲有甜品小食可選\n值得一試的海鮮中菜酒家 多元化又出色\n難怪座無虛席\n#東涌#東昇樓#海鮮#中菜#紅燒乳鴿#脆皮菠蘿咕嚕肉#鮑魚雞煲#豉油皇煎蝦#煎藕餅#鑊氣十足#新鮮",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ann Man Chi",
+          "uri": "https://www.google.com/maps/contrib/110344580543129386679/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLdejgBB60i_raHTwnWHw7YRvZGJJnZgK0yCGPIfDjFJ9cxvEl=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-02-10T15:02:09.904316Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBcGN1eERREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBcGN1eERREAE!2m1!1s0x3403e2a154f33945:0x851b41d434381d01"
+      },
+      {
+        "name": "places/ChIJRTnzVKHiAzQRAR04NNRBG4U/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NeWJtaEVXbVpvT0VvNWJIVkZRVlo1VVVKZlRGRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今日同同事去咗東星樓食午餐，整體感覺不過不失，以下係詳細分享：\n\n環境與服務 (7/10)：酒樓環境光猛整潔，枱與枱之間唔算太逼，坐得幾舒服。侍應反應算快，落單都有效率。\n\n性價比 (8/10)：午餐價錢合理，特價飯套餐五十幾蚊有交易，海鮮小菜比晚市平一大截，份量足。\n\n總結：東星樓係一間穩陣嘅街坊酒樓，食物水準穩定，價錢公道，想食平靚正海鮮午餐不妨一試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日同同事去咗東星樓食午餐，整體感覺不過不失，以下係詳細分享：\n\n環境與服務 (7/10)：酒樓環境光猛整潔，枱與枱之間唔算太逼，坐得幾舒服。侍應反應算快，落單都有效率。\n\n性價比 (8/10)：午餐價錢合理，特價飯套餐五十幾蚊有交易，海鮮小菜比晚市平一大截，份量足。\n\n總結：東星樓係一間穩陣嘅街坊酒樓，食物水準穩定，價錢公道，想食平靚正海鮮午餐不妨一試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Marco Chan",
+          "uri": "https://www.google.com/maps/contrib/113488572376572877259/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIkOSSJHpcsmDj2OYmnlkIxlP54iqOMILNxEPYp_PiesuhU4A=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-27T09:59:24.739773777Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25NeWJtaEVXbVpvT0VvNWJIVkZRVlo1VVVKZlRGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NeWJtaEVXbVpvT0VvNWJIVkZRVlo1VVVKZlRGRRAB!2m1!1s0x3403e2a154f33945:0x851b41d434381d01"
+      },
+      {
+        "name": "places/ChIJRTnzVKHiAzQRAR04NNRBG4U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoeTdhejN3RRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "樓面人手真的不足。需要什麼要走出去找樓面\n幸好菜式仍然不錯。\n唯獨蝦醬鮮尤不知發生什麼事。整塊蝦膏在鮮尤入面，無汁，墊底粉絲好乾。好似未煮好。以前不是這樣。\n6大人，吃了$2500.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "樓面人手真的不足。需要什麼要走出去找樓面\n幸好菜式仍然不錯。\n唯獨蝦醬鮮尤不知發生什麼事。整塊蝦膏在鮮尤入面，無汁，墊底粉絲好乾。好似未煮好。以前不是這樣。\n6大人，吃了$2500.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "K CHUNG",
+          "uri": "https://www.google.com/maps/contrib/106864576054170867128/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWu_3qdFxLy2f7I3rzLEC043xt86wNwmN1H5l_eXqgnHJmdu-j79A=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-02-22T08:05:44.286778Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoeTdhejN3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoeTdhejN3RRAB!2m1!1s0x3403e2a154f33945:0x851b41d434381d01"
+      },
+      {
+        "name": "places/ChIJRTnzVKHiAzQRAR04NNRBG4U/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oT1gyZGphbXBuYUdaaGRIbFhYMm8yT1hkUVJtYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 1,
+        "text": {
+          "text": "今日喺呢間餐廳食飯，體驗非常差。\n我哋叫咗一個煲仔飯，食到一半竟然喺入面見到一隻曱甴，真係完全接受唔到，衛生情況令人非常擔心。當下已即時通知職員，但對方反應比較冷淡，亦冇積極處理，感覺係唔想負責。\n最後將有問題嘅煲仔飯免單，其他食物仍然照收費，對於咁嚴重嘅衛生問題，呢個處理方式我認為唔合理。\n食物安全係最基本要求，今次經歷令人非常失望，短期內唔會再幫襯，亦提醒其他人要留意。\n\n已報食環。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日喺呢間餐廳食飯，體驗非常差。\n我哋叫咗一個煲仔飯，食到一半竟然喺入面見到一隻曱甴，真係完全接受唔到，衛生情況令人非常擔心。當下已即時通知職員，但對方反應比較冷淡，亦冇積極處理，感覺係唔想負責。\n最後將有問題嘅煲仔飯免單，其他食物仍然照收費，對於咁嚴重嘅衛生問題，呢個處理方式我認為唔合理。\n食物安全係最基本要求，今次經歷令人非常失望，短期內唔會再幫襯，亦提醒其他人要留意。\n\n已報食環。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Giselle Sze Man Lai",
+          "uri": "https://www.google.com/maps/contrib/109374086873589812051/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNhMbANXbIc6aN_X0dyuWVSfPzqQGJQleCVuCdqfBUcKz3iA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-07T16:35:34.390923307Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oT1gyZGphbXBuYUdaaGRIbFhYMm8yT1hkUVJtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oT1gyZGphbXBuYUdaaGRIbFhYMm8yT1hkUVJtYxAB!2m1!1s0x3403e2a154f33945:0x851b41d434381d01"
+      },
+      {
+        "name": "places/ChIJRTnzVKHiAzQRAR04NNRBG4U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4c1ltRkxhVVpWZEVoMFYySlpUMll6VmxoNFNFRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "燒鵝不肥好味。服務好好。。\n坐得舒服，係東涌一個不錯良好餐廳。。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "燒鵝不肥好味。服務好好。。\n坐得舒服，係東涌一個不錯良好餐廳。。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "joseph kw",
+          "uri": "https://www.google.com/maps/contrib/107056377701408414842/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZcBf-8DQyV3r3LbUExbyPX470GxkG8ab2rVNsVMDm6cC3-ulY=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-26T09:18:33.649828298Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4c1ltRkxhVVpWZEVoMFYySlpUMll6VmxoNFNFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4c1ltRkxhVVpWZEVoMFYySlpUMll6VmxoNFNFRRAB!2m1!1s0x3403e2a154f33945:0x851b41d434381d01"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403e2a154f33945:0x851b41d434381d01!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9591332211080568065&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e2a154f33945:0x851b41d434381d01!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403e2a154f33945:0x851b41d434381d01!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e2a154f33945:0x851b41d434381d01!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJRTnzVKHiAzQRAR04NNRBG4U/photos/Aa-ngMYflRxEJjYd6kaz7chJhADKI_h_ZnNp6Wi0tIZTrv6RWd-pG_Te6qA_Ma7BBNX0G8Ltdp2lXb8cuGVcSdWuHNjYP7PvMIIWRcN6SyOHodDYxB_8OCCP7LBd2cBsn91fP9uHS85pAHhijz2-8MMPdi2bfI5SOLsuy1kKaXJkl7AF-NqMCN4yiLPEPgj7moijIplmYqGxFKDwVSibIJnbs9strkvHUWTWwOvzS6gqcC6ZT4VkFzsYqhGMWMtCOptL_AkSrk13rEp4o52G3vtpPNRpEvqt7lHJN29gNJKyMWbztn2T1PaCxuy38-ZT8YLSOtPLdVyUtf2W8HAhSs8Giv0U0AF4oZheCFenR3IV-bpL2F0go5GlCzPEHyNprEVqeIersEfdGYyw6YaQWjiF0bqnS4Q",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "梁鈞諾",
+          "uri": "https://maps.google.com/maps/contrib/103898214026348547516",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrrLd1hZk-nHBzMGFCh8FrinUKsn5WWBDNBrI6HW5JdPOnKDDR=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICHvJXOPA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHvJXOPA!2e10!4m2!3m1!1s0x3403e2a154f33945:0x851b41d434381d01"
+    },
+    "local_path": "photos/ChIJRTnzVKHiAzQRAR04NNRBG4U.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDiytTc-WTj0JwiM0rjKvdJWmCOw83zvHHKll3OnCboeZ2RxTOsCbMX3vRft6fDzTsNktdfOXISgu5Bu6W3ySqHbQYBwf8EebSYjgS4PDTZw9lEwJCEFGebSoXFy6rcB8cVbLQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 154060
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "seafood_restaurant",
+    "label": "海鮮餐廳",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

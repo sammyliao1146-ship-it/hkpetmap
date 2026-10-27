@@ -1,0 +1,38 @@
+{
+  "id": "ChIJdZIwUDUBBDQR3XPMBSIDYLM",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍牛頭角觀塘道199號",
+  "location": {
+    "latitude": 22.322790299999998,
+    "longitude": 114.21510389999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12925334375214379997&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "牛頭角公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJdZIwUDUBBDQR3XPMBSIDYLM/photos/Aa-ngMZdF-iRuFlgShZLGmGBnpVHSjr9ovJbazrbuc8EztAOdBbWzR2me-KJ7gV5VMQEF9htLwiCV-7YSnijgUbAvrdmJurUSgCM64bV7uAl6O30WerYXvV6PvOleAvETn3spkOAEJMwOuJY1lCG1_7lmYKElX6x6wkX156ctCXk0WUr8huU84RPYy0s70qI0QTtyZZqtBspunUp8TUEimpDyA21k3WtD_m6B58SdUv4QPLv6VGYFax8HROP65MjnbjW1ADK1fVNREBXyXTSzFIhi77S_p76j40h5GSbQOlVsGudJMHDw5I3aWaHU0JTaCg00rjhdxdhyCPqVvUZGErVt1O4uMXTXcnSOb9TUbT2VtVFCwPA6eLn9_MozQrC4LN8yz7lRqEyKo1L7Hk8EG5CpqBLxw",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Wai Lun Aaron KO",
+          "uri": "https://maps.google.com/maps/contrib/108353587734942544325",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpJ1uC1ATNUv6u3HfLKnsstziSi9W4_oZOC-LwwXWayI3sBpOG=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-6MqQdA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-6MqQdA!2e10!4m2!3m1!1s0x3404013550309275:0xb360032205cc73dd"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:10.723091+00:00"
+}

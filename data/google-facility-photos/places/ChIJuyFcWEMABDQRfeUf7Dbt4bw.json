@@ -1,0 +1,38 @@
+{
+  "id": "ChIJuyFcWEMABDQRfeUf7Dbt4bw",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島山頂甘道27號",
+  "location": {
+    "latitude": 22.2669188,
+    "longitude": 114.1692484
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13610420369035879805&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "灣仔峽公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJuyFcWEMABDQRfeUf7Dbt4bw/photos/Aa-ngMZD5Afb0vtOmCaasBUn4m5cxMEe94vScnxIWiAN0NrI-gjWaWwJGKcaoQaB_7_GXqR38YZpZTuHNSS0zmLNfJzI1pHiz_GCqQnVTXcW-Du3Zp0DIeZG1JApxBN5smZRBboeBvU95hHlKuHVFrH2tgAjkyEk0j2TpwenPtADw1w_Jk0bXSd93R6piwA06O0qEIevXtr_fbR6GvwsH2YkmV66oYIx9jJaf4Tga_EWj43X2rQ2JdqLG3ILBtcQtChXvywNhM2sj4V-loWwTMNoRWdQC6CHW1bZ5IOXB9qscWEmkJzyciujoxaoaNi4hdNpGSNhRPNbT9MPVK9d0-5Bi9RtffZgfyX52n7MUnblkuDB3hrP59auaidkYOVTTFzWIJMkVT0jK08_tBpni-UQV9AOyMNN",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Maggie Maggie",
+          "uri": "https://maps.google.com/maps/contrib/115301078338979899425",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKFYXEcFsh5bKJoFY1Qbw-V5f0ZPZ1N_ZGJ5U2rHMSgIVz_-w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDG3euyhgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG3euyhgE!2e10!4m2!3m1!1s0x34040043585c21bb:0xbce1ed36ec1fe57d"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:24.739854+00:00"
+}

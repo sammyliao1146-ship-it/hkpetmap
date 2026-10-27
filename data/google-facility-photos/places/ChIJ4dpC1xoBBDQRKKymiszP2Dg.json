@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ4dpC1xoBBDQRKKymiszP2Dg",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍九龍灣九龍灣工業中心9樓19室",
+  "location": {
+    "latitude": 22.3230134,
+    "longitude": 114.21053619999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4096252338499922984&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "小不點渡假營地",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJ4dpC1xoBBDQRKKymiszP2Dg/photos/Aa-ngMaA39zydl5-F2MIxqk0x3VurQwbuKVrFexb61Tl8jcbCnVg97Tfl3HGf-iL75ReLMv4zO6T4hLIMFVzLLhaJvQsjpPhk60ejTBYXWfThlIuJBdILtPfwL1gV1K-khpEaiJTdCMoLfWpPmq8lwSfxOlizqgkqqglnYR98lkvLvuRqCFicMOYF6peNr_r-eaCqXn-lPpDrotaXj5WceO6fMJX6opJ7TRYhj9zBENzyuv4r0dDjYzKwSnrFOx5rOJUAhUG8KCI7mXVUwSa4JisnUAPprdw3RSiiNHgmJgRhZsdKu8Oa67i1ociEGeNTAEYHLJkobPmpr9WsnQHRZ-ZPTJMwCcc7h0uC5VYsIcXJ47pmG_CyGFIq6tZ9wr8yCqkKz68mgONnN0SVjZz2IRpGuksKnI",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "小不點渡假營地",
+          "uri": "https://maps.google.com/maps/contrib/114879035287894563344",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhhNU7LCb7SZC813btqL-MVaSntn1ftakrpodOxRLiBoIocw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDbqKyQeQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbqKyQeQ!2e10!4m2!3m1!1s0x3404011ad742dae1:0x38d8cfcc8aa6ac28"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:20.906491+00:00"
+}

@@ -1,0 +1,331 @@
+{
+  "google_place_id": "ChIJRzWB04b7AzQRKR6CtESQ1M8",
+  "restaurant_ids": [
+    "restaurant:2218813418"
+  ],
+  "fetched_at": "2026-10-23T15:47:49.407005+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJRzWB04b7AzQRKR6CtESQ1M8",
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2827 1528",
+    "internationalPhoneNumber": "+852 2827 1528",
+    "formattedAddress": "Ho Shun King Building Block 2, 3號 Fung Yau St S, Yuen Long, New Territories, 香港",
+    "location": {
+      "latitude": 22.4417908,
+      "longitude": 114.0336864
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=14975753285674343977&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://canadianpizza.oddle.me/en_HK/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 02:00",
+        "星期二: 11:00 – 02:00",
+        "星期三: 11:00 – 02:00",
+        "星期四: 11:00 – 02:00",
+        "星期五: 11:00 – 02:00",
+        "星期六: 11:00 – 02:00",
+        "星期日: 11:00 – 02:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 70,
+    "displayName": {
+      "text": "Canadian Pizza (元朗鳳攸南街店)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "外賣餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "reservable": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "primaryType": "meal_takeaway",
+    "reviews": [
+      {
+        "name": "places/ChIJRzWB04b7AzQRKR6CtESQ1M8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxRFUwVjZZa2RRU2pCMlprTTNhRFpNUTFkMmMyYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "榴槤芝心餡餅 好好味👍🏻\n初初以為手掌咁大 點知原來係半個pizza嘅size\n鹹鹹嘅芝士配搭淡淡榴槤餡 食完唔會太滯\n$50抵食 熊貓外賣自取 平過到店買",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "榴槤芝心餡餅 好好味👍🏻\n初初以為手掌咁大 點知原來係半個pizza嘅size\n鹹鹹嘅芝士配搭淡淡榴槤餡 食完唔會太滯\n$50抵食 熊貓外賣自取 平過到店買",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "luv Ting",
+          "uri": "https://www.google.com/maps/contrib/101777268468161513316/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUC9WuVPfrCT4zULGXaurGRJsOIuLnYg5ek5_9_Xptvna401qjQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-11T12:03:35.677976328Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxRFUwVjZZa2RRU2pCMlprTTNhRFpNUTFkMmMyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxRFUwVjZZa2RRU2pCMlprTTNhRFpNUTFkMmMyYxAB!2m1!1s0x3403fb86d3813547:0xcfd49044b4821e29"
+      },
+      {
+        "name": "places/ChIJRzWB04b7AzQRKR6CtESQ1M8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGTWNtVlRhRWhZV2t4NFNYTXllRmRsVERKRWVHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "晚上點了一個Carbonara，回家立即打開準備食嘅時候發現Pizza係濕嘅，濕到爛哂而且痴住咗個紙盒，打返鋪頭，佢話因為個蛋穿咗，啲蛋汁漏咗出嚟，咁如果佢一早知嘅就唔應該俾個客啦……\n\n淨係叫我來拎過個新嘅，坦白講一來我唔敢再要，二來我返去鋪頭拎都要時間都有成本啦，只係同我講唔來拎就無其他辦法\n\n垃圾",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晚上點了一個Carbonara，回家立即打開準備食嘅時候發現Pizza係濕嘅，濕到爛哂而且痴住咗個紙盒，打返鋪頭，佢話因為個蛋穿咗，啲蛋汁漏咗出嚟，咁如果佢一早知嘅就唔應該俾個客啦……\n\n淨係叫我來拎過個新嘅，坦白講一來我唔敢再要，二來我返去鋪頭拎都要時間都有成本啦，只係同我講唔來拎就無其他辦法\n\n垃圾",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alex Chiu",
+          "uri": "https://www.google.com/maps/contrib/117592694630477209936/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXB8ZgMH4i_RiS7Hj2F8F4nWSX3yx4rOsb1inYkvehfywuklkVmsA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-09-25T11:10:50.223811940Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGTWNtVlRhRWhZV2t4NFNYTXllRmRsVERKRWVHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGTWNtVlRhRWhZV2t4NFNYTXllRmRsVERKRWVHYxAB!2m1!1s0x3403fb86d3813547:0xcfd49044b4821e29"
+      },
+      {
+        "name": "places/ChIJRzWB04b7AzQRKR6CtESQ1M8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WTE1ubFpiRGRsYjB4aGVtWm5UMlJ1WVhWQ05YYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 1,
+        "text": {
+          "text": "我記得依個優惠試食價，左豉油王雞翼雙蛋，配飯配豉油，係我呢一世人食過最難食嘅一個飯，嗰日仲要等超過20分鐘，試食完之後完全勸退我",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我記得依個優惠試食價，左豉油王雞翼雙蛋，配飯配豉油，係我呢一世人食過最難食嘅一個飯，嗰日仲要等超過20分鐘，試食完之後完全勸退我",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jayden Chan",
+          "uri": "https://www.google.com/maps/contrib/105655376911177683269/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYnhu-WvgaHowPxiWww5AuYBKV8PexFVawPPEF2snETJOPBlo=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-16T20:13:39.576164634Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WTE1ubFpiRGRsYjB4aGVtWm5UMlJ1WVhWQ05YYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WTE1ubFpiRGRsYjB4aGVtWm5UMlJ1WVhWQ05YYxAB!2m1!1s0x3403fb86d3813547:0xcfd49044b4821e29"
+      },
+      {
+        "name": "places/ChIJRzWB04b7AzQRKR6CtESQ1M8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXeDczVUNnEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "3缺1 沒辦法好好吃飯\n所以今天選更近的一家店\n薄餅店\n但在下不吃薄餅\n因為想要吃意大利麵\n於是挑了這個 西班牙黑毛豬菠菜白汁螺絲粉 $62\n等餐的時間不長\n可以利用這段時間給自己拿餐具和拿點水\n再回到位置上很快便有得吃\n臭覺和視覺享受都很好\n超濃的調味料味\n一塊塊的豬肉和菠菜都清晰可見\n本來以為很細一碟\n只不過吃著吃著會感覺吃不完\n很大的一盤啊\n也不知道是不是之前不久吃了點小食物\n感覺好飽啊\n又或許加上味道太濃郁\n某程度上是不容易才能把它吃完\n\n楊枝甘露 $34\n這也可算是在下喜歡的東西之一\n只是芒果不能吃太多\n所以只能間中回味芒果味不突出\n反而西柚和奶香更出眾\n和那隨機被吸入皂西米\n喜歡..",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "3缺1 沒辦法好好吃飯\n所以今天選更近的一家店\n薄餅店\n但在下不吃薄餅\n因為想要吃意大利麵\n於是挑了這個 西班牙黑毛豬菠菜白汁螺絲粉 $62\n等餐的時間不長\n可以利用這段時間給自己拿餐具和拿點水\n再回到位置上很快便有得吃\n臭覺和視覺享受都很好\n超濃的調味料味\n一塊塊的豬肉和菠菜都清晰可見\n本來以為很細一碟\n只不過吃著吃著會感覺吃不完\n很大的一盤啊\n也不知道是不是之前不久吃了點小食物\n感覺好飽啊\n又或許加上味道太濃郁\n某程度上是不容易才能把它吃完\n\n楊枝甘露 $34\n這也可算是在下喜歡的東西之一\n只是芒果不能吃太多\n所以只能間中回味芒果味不突出\n反而西柚和奶香更出眾\n和那隨機被吸入皂西米\n喜歡..",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Clione Cheung",
+          "uri": "https://www.google.com/maps/contrib/104579405556098074687/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQ66ITwBJYep4mDo1JBNvGN2rejo3STEedwRomBcodPbkiqPaW=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-03-08T12:34:15.326759Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNXeDczVUNnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNXeDczVUNnEAE!2m1!1s0x3403fb86d3813547:0xcfd49044b4821e29"
+      },
+      {
+        "name": "places/ChIJRzWB04b7AzQRKR6CtESQ1M8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wSE1WWmlUMDQzV21Oc1puWjRjblpITXpaVVEzYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 1,
+        "text": {
+          "text": "打電話去叫講左三次要肉醬pizza，最後攞到返屋企係淨芝士pizza，搞到同屋企人鬧左場交，成個pizza 掉左！落單員講中文，我又係講中文，最後打電話去問佢話誤會左！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "打電話去叫講左三次要肉醬pizza，最後攞到返屋企係淨芝士pizza，搞到同屋企人鬧左場交，成個pizza 掉左！落單員講中文，我又係講中文，最後打電話去問佢話誤會左！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jemma C",
+          "uri": "https://www.google.com/maps/contrib/116246759434671239790/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtOm2o_WvChzri5YjYrUSGxFnTG-V5Ibo6lDfJ6pP27GB28wowXQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-21T11:34:18.643859793Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wSE1WWmlUMDQzV21Oc1puWjRjblpITXpaVVEzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wSE1WWmlUMDQzV21Oc1puWjRjblpITXpaVVEzYxAB!2m1!1s0x3403fb86d3813547:0xcfd49044b4821e29"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fb86d3813547:0xcfd49044b4821e29!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14975753285674343977&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb86d3813547:0xcfd49044b4821e29!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fb86d3813547:0xcfd49044b4821e29!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb86d3813547:0xcfd49044b4821e29!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJRzWB04b7AzQRKR6CtESQ1M8/photos/Aa-ngMZRnC9uT9AhY9qXEuEumz2DqjlJw0Q7gmfoh9G1QsKdts5sFbDVcWXnfTPr4Y377anbysKbeW7PRinV0LtReyMJkLLntB9M6NB1PG3EXWNJEbv0tTNmDCG6La4pE4wKC8jLlpdsBcuT_lWXrG_aGiv65-SE0Y9Ov8k8X01kMHEvoKhedYLS7UqsvK3VBeVNUuGZbuy4Bkk3ZnNmaavmBqFmYpTrNvKSo_pYV02R84mW3x7ofVNgFK84EDkATqQC532sGh36eyugcslJ1OCNxK8fz02Vb_Gv2CXLekvFPIw968AJ8bJje9rlMEsNoizEU6JxQuu9_tiy5OLzMX6ZhLLLTe68NpexDWyDHxVfKFfB_T-m--qghkRpXNBbuALg9O1lC6wsMr1thiSXMlx61Po7OwGaZlnJs1qtWaYVRp9HQg",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Brett Kwong",
+          "uri": "https://maps.google.com/maps/contrib/115742200769259092474",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuwq3EPgxHb86aEkW2uICtoLXa9e16cMWHxZY7GZdNlkww85QTkA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD5TsD5yRCGfohpAXwYqDpT&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD5TsD5yRCGfohpAXwYqDpT!2e10!4m2!3m1!1s0x3403fb86d3813547:0xcfd49044b4821e29"
+    },
+    "local_path": "photos/ChIJRzWB04b7AzQRKR6CtESQ1M8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdh54_jsnXxAsIk5B25rwxYxEr2I0vkDJlQVVvg1hxDYR45d-48gebxTdwqfAotBl2wY-CqvM0OiUUqry08r11W6a5_6FpcHmwelvQHHSFMeAn9cMmoIvfG4aDhIudV6YZlGm7J7aYaMJk6=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 128226
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://canadianpizza.oddle.me/#8aa603c99a68a3f0019a72245b5048f7",
+        "label": "新春開運派對套餐 Chinese New Year Party Set Menu",
+        "source_url": "https://canadianpizza.oddle.me/en_HK",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "meal_takeaway",
+    "label": "外賣餐廳",
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://canadianpizza.oddle.me/#8aa603c99a68a3f0019a72245b5048f7"
+}

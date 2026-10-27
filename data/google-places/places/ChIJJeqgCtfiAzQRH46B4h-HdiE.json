@@ -1,0 +1,524 @@
+{
+  "google_place_id": "ChIJJeqgCtfiAzQRH46B4h-HdiE",
+  "restaurant_ids": [
+    "restaurant:2217800712",
+    "restaurant:2217800703"
+  ],
+  "fetched_at": "2026-10-23T15:49:03.847867+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJJeqgCtfiAzQRH46B4h-HdiE",
+    "types": [
+      "restaurant",
+      "bistro",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3969 2500",
+    "internationalPhoneNumber": "+852 3969 2500",
+    "formattedAddress": "1 Sky City Road East, Hong Kong International Airport, Hong Kong SAR, New Territories, 香港",
+    "location": {
+      "latitude": 22.3189183,
+      "longitude": 113.94350589999999
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=2411263221517356575&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.marriott.com/en-us/hotels/hkgap-hong-kong-skycity-marriott-hotel/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:30 – 11:00, 12:00 – 14:30, 18:00 – 22:30",
+        "星期二: 06:30 – 11:00, 12:00 – 14:30, 18:00 – 22:30",
+        "星期三: 06:30 – 11:00, 12:00 – 14:30, 18:00 – 22:30",
+        "星期四: 06:30 – 11:00, 12:00 – 14:30, 18:00 – 22:30",
+        "星期五: 06:30 – 11:00, 12:00 – 14:30, 18:00 – 22:30",
+        "星期六: 06:30 – 11:00, 12:00 – 14:30, 18:00 – 22:30",
+        "星期日: 06:30 – 11:00, 12:00 – 14:30, 18:00 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-23T22:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 209,
+    "displayName": {
+      "text": "天際咖啡室",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJJeqgCtfiAzQRH46B4h-HdiE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wRlpIQkxXSFoyV1hkMVowMVZRM0ZmV0ZoTU5VRRAB",
+        "relativePublishTimeDescription": "12 個月前",
+        "rating": 4,
+        "text": {
+          "text": "酒店有免費接駁車到機場或東涌，酒店住宿客人用餐可享五折優惠，海鮮最推松葉蟹腳，比較新鮮. 蛋糕 ～ 乳酪蛋糕👍\n法國麵包好吃，比較特別 ～ 蓮藕排骨湯 （ 只有湯沒有料）種類算多，馬來西亞咖喱料理也不錯，海鮮覺得還好，來這裡的客人應該是方便搭飛機的居多",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "酒店有免費接駁車到機場或東涌，酒店住宿客人用餐可享五折優惠，海鮮最推松葉蟹腳，比較新鮮. 蛋糕 ～ 乳酪蛋糕👍\n法國麵包好吃，比較特別 ～ 蓮藕排骨湯 （ 只有湯沒有料）種類算多，馬來西亞咖喱料理也不錯，海鮮覺得還好，來這裡的客人應該是方便搭飛機的居多",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "咪咪",
+          "uri": "https://www.google.com/maps/contrib/103693912516259997464/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwFg4eMed-715LapwPQJH5gtk4Pe665GCsGWm21TIjQPtHuQrE=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-10-28T04:46:14.491318842Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wRlpIQkxXSFoyV1hkMVowMVZRM0ZmV0ZoTU5VRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wRlpIQkxXSFoyV1hkMVowMVZRM0ZmV0ZoTU5VRRAB!2m1!1s0x3403e2d70aa0ea25:0x2176871fe2818e1f"
+      },
+      {
+        "name": "places/ChIJJeqgCtfiAzQRH46B4h-HdiE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkQ1JHVjFWWGR1Wm5jd1YzcHpSVkpKVUVsSFNYYxAB",
+        "relativePublishTimeDescription": "12 個月前",
+        "rating": 4,
+        "text": {
+          "text": "菜色的品項不多，生魚片一般般，海鮮的部分，其實不算好，湯品也不太行，手握壽司只有3～4種，甜點也普遍，有優惠價還是可以來試吃，在klook購買的，離機場近，用餐環境還可以，但是附近沒有可以逛街的地方。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "菜色的品項不多，生魚片一般般，海鮮的部分，其實不算好，湯品也不太行，手握壽司只有3～4種，甜點也普遍，有優惠價還是可以來試吃，在klook購買的，離機場近，用餐環境還可以，但是附近沒有可以逛街的地方。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yi hsiung Hsiang (怕冷的冰人)",
+          "uri": "https://www.google.com/maps/contrib/101781753451111213619/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvpLhiTqDc3TYPiUgVg1pqnfwKV3YO3ACNw2x4qg8VZa9UjRSE1g=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-10-28T04:35:17.268615150Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkQ1JHVjFWWGR1Wm5jd1YzcHpSVkpKVUVsSFNYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkQ1JHVjFWWGR1Wm5jd1YzcHpSVkpKVUVsSFNYYxAB!2m1!1s0x3403e2d70aa0ea25:0x2176871fe2818e1f"
+      },
+      {
+        "name": "places/ChIJJeqgCtfiAzQRH46B4h-HdiE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2dGZiTXNBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "天際咖啡室 (赤鱲角) 📍\n赤鱲角香港國際機場航天城東路1號香港天際萬豪酒店1樓\n同朋友相聚食聖誕🎄大餐，黎到機場天際萬豪酒店一樓咖啡室享用自助晚餐，可以乘搭由東涌地鐵站開往酒店的免費接駁巴士🚌/S1 直達 車程十至十五分鐘。\n海鮮有六款，有龍蝦🦞：細細隻都有膏，龍蝦肉都好嫩口吾會韌，雪場蟹腳：比較幼細但海水味好重、但又吾會過鹽。蜆：都粒粒賬卜卜，幾新鮮。青口：大大隻鮮味十足。蝦🦐：新鮮，肉質爽彈。生蠔🦪：任食任拎，吾需要限拎幾多隻，細細隻，大癲，無咩礦物味，但洗得好乾淨係真嘅。\n刺身有厚切鯛魚、三文魚、吞拿魚、大大隻軟糯鮮甜牡丹蝦，不錯。\n熟食款式吾太多，基本上一行拎得曬，茄汁蝦、清蒸龍躉，點心數款、黑椒牛柳粒、鮑魚炒時蔬，有叉雞同燒鵝。羊架好韌，西冷牛扒🥩看似好嫩但好韌，質素一般。\n即席即煮面檔，有米粉、幼面、芽菜、可配搭蝦肉/牛丸等，簡簡單單，湯底是雞湯湯底，可加辣椒油炸蒜。\n甜品方面有H同M字頭雪糕，都回曬大本。仲有自家製豆腐花、提拉米蘇、水果 🍉、紅豆紫薯蛋糕、燉鮮奶等。幾有誠意。\n總結：\n人均消費港幣800\n聖誕慶祝節日一流\n#東涌#國際機場#天際萬豪酒店#自助晚餐#慶祝聖誕🎄#牛扒#生蠔#蟹腳#青口#蜆#大蝦#龍蝦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "天際咖啡室 (赤鱲角) 📍\n赤鱲角香港國際機場航天城東路1號香港天際萬豪酒店1樓\n同朋友相聚食聖誕🎄大餐，黎到機場天際萬豪酒店一樓咖啡室享用自助晚餐，可以乘搭由東涌地鐵站開往酒店的免費接駁巴士🚌/S1 直達 車程十至十五分鐘。\n海鮮有六款，有龍蝦🦞：細細隻都有膏，龍蝦肉都好嫩口吾會韌，雪場蟹腳：比較幼細但海水味好重、但又吾會過鹽。蜆：都粒粒賬卜卜，幾新鮮。青口：大大隻鮮味十足。蝦🦐：新鮮，肉質爽彈。生蠔🦪：任食任拎，吾需要限拎幾多隻，細細隻，大癲，無咩礦物味，但洗得好乾淨係真嘅。\n刺身有厚切鯛魚、三文魚、吞拿魚、大大隻軟糯鮮甜牡丹蝦，不錯。\n熟食款式吾太多，基本上一行拎得曬，茄汁蝦、清蒸龍躉，點心數款、黑椒牛柳粒、鮑魚炒時蔬，有叉雞同燒鵝。羊架好韌，西冷牛扒🥩看似好嫩但好韌，質素一般。\n即席即煮面檔，有米粉、幼面、芽菜、可配搭蝦肉/牛丸等，簡簡單單，湯底是雞湯湯底，可加辣椒油炸蒜。\n甜品方面有H同M字頭雪糕，都回曬大本。仲有自家製豆腐花、提拉米蘇、水果 🍉、紅豆紫薯蛋糕、燉鮮奶等。幾有誠意。\n總結：\n人均消費港幣800\n聖誕慶祝節日一流\n#東涌#國際機場#天際萬豪酒店#自助晚餐#慶祝聖誕🎄#牛扒#生蠔#蟹腳#青口#蜆#大蝦#龍蝦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "SANDRA FUNG",
+          "uri": "https://www.google.com/maps/contrib/117556460238929334945/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8YdXYBwGLo_yb7wlISlhBFcejGZePQ4NVmhX2v5k2UsrUYM0=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-12-22T16:07:02.593896Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2dGZiTXNBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2dGZiTXNBRRAB!2m1!1s0x3403e2d70aa0ea25:0x2176871fe2818e1f"
+      },
+      {
+        "name": "places/ChIJJeqgCtfiAzQRH46B4h-HdiE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OMFVWVXlXbWxIVG1aMlNEa3diRjlOV0U1bVZGRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "一家四口（2大2小）平日來食 buffet，環境舒適，地方整潔，食物款式亦多。\n我們特別喜歡海鮮、原條蒸魚、甜品/雪糕、麵檔湯底。\n非常滿意，下次再來。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一家四口（2大2小）平日來食 buffet，環境舒適，地方整潔，食物款式亦多。\n我們特別喜歡海鮮、原條蒸魚、甜品/雪糕、麵檔湯底。\n非常滿意，下次再來。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Prima Chan",
+          "uri": "https://www.google.com/maps/contrib/116777039188280478909/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVg98GHpqjUhFRNuV51Pnff_7vF8bkOiY2h3bGl7w3UpXqYbwcCw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-08-02T01:43:58.074664517Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OMFVWVXlXbWxIVG1aMlNEa3diRjlOV0U1bVZGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OMFVWVXlXbWxIVG1aMlNEa3diRjlOV0U1bVZGRRAB!2m1!1s0x3403e2d70aa0ea25:0x2176871fe2818e1f"
+      },
+      {
+        "name": "places/ChIJJeqgCtfiAzQRH46B4h-HdiE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wTWNHeHlkbmRUZG01TWRDMVpWRTFHYTE5clVtYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "東涌地鐵站A出口圆環處有接駁巴士，每半點1班車，蝦類新鲜",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "東涌地鐵站A出口圆環處有接駁巴士，每半點1班車，蝦類新鲜",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YPM",
+          "uri": "https://www.google.com/maps/contrib/100250044170965577612/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkZ0n7C7iUv03Hlt70FyOByLR6KuzjuKOT1FvLbduNd6-HB49r=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-08-12T05:14:49.890206254Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wTWNHeHlkbmRUZG01TWRDMVpWRTFHYTE5clVtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wTWNHeHlkbmRUZG01TWRDMVpWRTFHYTE5clVtYxAB!2m1!1s0x3403e2d70aa0ea25:0x2176871fe2818e1f"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403e2d70aa0ea25:0x2176871fe2818e1f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2411263221517356575&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e2d70aa0ea25:0x2176871fe2818e1f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403e2d70aa0ea25:0x2176871fe2818e1f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e2d70aa0ea25:0x2176871fe2818e1f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJJeqgCtfiAzQRH46B4h-HdiE/photos/Aa-ngMbrgGfTWLwFl845s8k7TYsLtjEbBqIR8vOOqC4YZmAEsyuD56nG0x0TclFLYUGi6ZqTOCRqCYsVP1SP_kLzjNVOrzZk4qtyXzCxdSPayf238LJ8uXFy3bA9lvvo-CBkgDUssi1ujlX6ZzICZihFtiB5NbgwkuN-r2ta07LD3hqVE63PCCna7sans_ES4aQvC0vWXj_4Icw2UXQAQEwQ3tNYcAS03LnNRZyFWqyD9cvC3SsJAEngcpP03DTK78WK4oQ5V9sQ5OOzstdMNnBRWqolXnqB8RyzvE-yQ9X-05Q2QTc7jhS8W93oK9mqZ3NIfmE3FDWApyuP7uLfz3zZ8NwmNBo32psBsEz6V9rBqC1M88fScpkW_i9An1mRJUirNyvHlYkD41BF5FIDnh53iteFsyA",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "authorAttributions": [
+        {
+          "displayName": "Lee Chun Shing",
+          "uri": "https://maps.google.com/maps/contrib/103741535138320259533",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvJUPAav3_gVqe675e5wT5ZYICPdfto0Esp0ZmAyz5m6e6RA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDV09DxSw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDV09DxSw!2e10!4m2!3m1!1s0x3403e2d70aa0ea25:0x2176871fe2818e1f"
+    },
+    "local_path": "photos/ChIJJeqgCtfiAzQRH46B4h-HdiE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfL9WyWr251iB9_n1XfCD0u3QY21vk420piZdU_vmcCYnxcVOMs050WaaiB20nO0GF8OswssfIe8OHPLI1LY6jiR9HMfhuZTY8H5Ub48p8DDumHNTZcPTGC3dcO7MGXa07JSIw1=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 153074
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.marriott.com/search/default.mi",
+        "label": "Find & Reserve",
+        "source_url": "https://www.marriott.com/en-us/hotels/hkgap-hong-kong-skycity-marriott-hotel/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.sevenrooms.com/reservations/skycitybistrohkgap/marriott-com-hotel-websites?venues=manhochineserestauranthkgap,skycitybistrohkgap",
+        "label": "Book a Table",
+        "source_url": "https://www.marriott.com/en-us/hotels/hkgap-hong-kong-skycity-marriott-hotel/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.sevenrooms.com/reservations/manhochineserestauranthkgap/marriott-com-hotel-websites?venues=manhochineserestauranthkgap,skycitybistrohkgap",
+        "label": "Book a Table",
+        "source_url": "https://www.marriott.com/en-us/hotels/hkgap-hong-kong-skycity-marriott-hotel/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "bistro",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.marriott.com/search/default.mi",
+  "menu_url": null
+}

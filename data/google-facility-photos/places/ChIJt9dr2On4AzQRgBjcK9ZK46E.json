@@ -1,0 +1,38 @@
+{
+  "id": "ChIJt9dr2On4AzQRgBjcK9ZK46E",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界荃灣怡康街2號",
+  "location": {
+    "latitude": 22.3633228,
+    "longitude": 114.1126015
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11665249743539017856&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "荃灣海濱公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJt9dr2On4AzQRgBjcK9ZK46E/photos/Aa-ngMZDZzs4_qCfjyYVNVTWFzcV5E-GDgcc1psjtykiFaYpAo-7ct54_ERodTQyYjWQ7DjzYiCuJ-tzJ2XrFiqgq0xTIhqwlhg3u0GgaraXRaEpt4DKuJLAmGCGQh23uptWj9N8M5p-cIOxpT59pOdg37Pr0KEx0BV7Q2BRZh25RvESXYIB555r9P8WoH45e25d4lMFGVovvJ3FfYg4Pfoh8TRQiztPFCqJRmY5LoXUCanEGAlORmYNDL0RcysB9lAuJi-b1KEFP7U15wO6cy40Au4EOpOUF6X4s1BA8QCxz0lGApXHlDqohVIWG7xn_rfhsum1buaHipbqhXGoiYVEcjkizBMS1hP4MMEQnOyAwzFLqAZ-aPRxO2z5egLmrX_7wpRqUG_efTdm0HfTGVE-fUvGMJU",
+      "widthPx": 4000,
+      "heightPx": 2250,
+      "authorAttributions": [
+        {
+          "displayName": "曾大人",
+          "uri": "https://maps.google.com/maps/contrib/108339155947840908012",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJHF5oGjBtYjz9ZxPkxBuUMNmfgZF56iXLsBs34ODHKYfnm9g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDOzdD0Zg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOzdD0Zg!2e10!4m2!3m1!1s0x3403f8e9d86bd7b7:0xa1e34ad62bdc1880"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:30.288097+00:00"
+}

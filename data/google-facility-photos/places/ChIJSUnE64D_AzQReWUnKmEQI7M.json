@@ -1,0 +1,38 @@
+{
+  "id": "ChIJSUnE64D_AzQReWUnKmEQI7M",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "G/F, 303 Queen's Rd W, Sai Ying Pun, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.287039399999998,
+    "longitude": 114.14211639999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12908178966479070585&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "西區獸醫診所",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJSUnE64D_AzQReWUnKmEQI7M/photos/Aa-ngMbH0bXSNxaum2hm9YSNTPxDa7nuCAVMigOjHHzxUrubpwSgktzK1Y68NLIoJot7GNXzZLv6dMSMeUyvoD0b9MegH4AkzE8leppKBo9xS4OXfHmteGpsr3Ew0h2kjoS6K9WOsbUS0IyscHEDawRGCC3bp-N_G_PMz5U6t39N6ebsizPVGdbGvjVmJSkxMpSyR5NraQCPHrxonUvKS1IYUwwuuQbcDPEJcAkAuuiHEyulj5lSWGH9lZ0qpR_nbhH5Ejcxv_3kQW83jSDI_tkr5pnv8sXc3lbPCVa6cmdI4_sCBSy0C_m5UAXbNrHJFmXT_vwOr1QOFWGh54vZK8o3FlMRl3aaJygq_VktIG0VlD9xhex-cgBaAppywbAhfmIY1b3MC7NaDH0pLzAuT59jr3pMTSM",
+      "widthPx": 3458,
+      "heightPx": 1945,
+      "authorAttributions": [
+        {
+          "displayName": "QueenWest Veterinary Clinic 西區獸醫診所",
+          "uri": "https://maps.google.com/maps/contrib/115312754543623101041",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqAMFNNch_Vm1zmn-Ce6pmi6Al9nmN32ltfd30QMZZZSy9W0Y=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICaq6XtdA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICaq6XtdA!2e10!4m2!3m1!1s0x3403ff80ebc44949:0xb32310612a276579"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:33.873217+00:00"
+}

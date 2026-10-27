@@ -1,0 +1,38 @@
+{
+  "id": "ChIJWc_OOKwHBDQRqsp_VFx6V5s",
+  "types": [
+    "pet_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Shop54, Wang Pok St, Sha Tin, New Territories, 香港",
+  "location": {
+    "latitude": 22.3823594,
+    "longitude": 114.190255
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11193549935825898154&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Lego Pet 樂高寵物(沙田中心 Sha Tin Centre)",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJWc_OOKwHBDQRqsp_VFx6V5s/photos/Aa-ngMYg0R8t_bLQ-rZmmEEJnZhhFT9FcFfgxSN0Dqbw5Mhcu9Q5J3RLDkONw7ZB4LLZwrIwDWN-1DWGIPD7RN-NGT-8SEOeOWSblwVNWPCHPwC44Zm02dsjVH2BxqerVbTkrB-WbVWSpHA8OCLRJD5T97vufxEJ1zErEDEdQHAf9cyQxpm_ZMaZDNtAtrE2gxVWOul0Ur-8ONIrfbusfqnEqzavbA_rKe9nFZxYmBVVjM4wUl-ZC4NuadlNwq72HfKKpwRMBXVqFJUTkh96DSQO3w8wILrPGLJMnnjJjoEoZC3HvCQWEHr38LFI3Ne4GnFQs2XtEs3AgfFApNG-qZjvsavsjgumKknaVo0zQ_XDyQoHY5CSMEvY9B7seIEsx12FmBzPcVrVuGK6KEElFLcrSz0RkEo",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "authorAttributions": [
+        {
+          "displayName": "Lego Pet 樂高寵物(沙田中心 Sha Tin Centre)",
+          "uri": "https://maps.google.com/maps/contrib/101247516918288167845",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXN2sTV6n05xRr3R8YRlaXtTg8XEcb3QzXatuWqoMo3KfZ05ww=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6jvbaCQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6jvbaCQ!2e10!4m2!3m1!1s0x340407ac38cecf59:0x9b577a5c547fcaaa"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:17.635552+00:00"
+}

@@ -1,0 +1,344 @@
+{
+  "google_place_id": "ChIJUZLie1YABDQR9KZH9b0jCNQ",
+  "restaurant_ids": [
+    "restaurant:2212812680"
+  ],
+  "fetched_at": "2026-10-23T15:42:35.859655+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJUZLie1YABDQR9KZH9b0jCNQ",
+    "types": [
+      "coffee_shop",
+      "ice_cream_shop",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2562 8688",
+    "internationalPhoneNumber": "+852 2562 8688",
+    "formattedAddress": "Fashion Walk, Shop C, G/F, 42-28 Paterson St, Causeway Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2817829,
+      "longitude": 114.1853403
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=15278501034625312500&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://elephantgrounds.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 21:00",
+        "星期二: 10:00 – 21:00",
+        "星期三: 10:00 – 21:00",
+        "星期四: 10:00 – 21:00",
+        "星期五: 10:00 – 21:00",
+        "星期六: 09:00 – 21:00",
+        "星期日: 09:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 671,
+    "displayName": {
+      "text": "Elephant Grounds (Fashion Walk)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJUZLie1YABDQR9KZH9b0jCNQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSQlpVVlNjalkxU1VobVNFaEZja1ZXTjBocFYzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "第一次來這裏，覺得員工服務態度好！食物款式不多，但咖啡和食物都很好。可能適逢逢週末，環境比較嘈吵。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第一次來這裏，覺得員工服務態度好！食物款式不多，但咖啡和食物都很好。可能適逢逢週末，環境比較嘈吵。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Crystal Wong",
+          "uri": "https://www.google.com/maps/contrib/110668604442013167751/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2GxRE9X7VI5WTUbuP5dbASPSGPDMcsPpMAu3h0ALFAZSaog=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-10-01T01:54:21.852854036Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSQlpVVlNjalkxU1VobVNFaEZja1ZXTjBocFYzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSQlpVVlNjalkxU1VobVNFaEZja1ZXTjBocFYzYxAB!2m1!1s0x340400567be29251:0xd40823bdf547a6f4"
+      },
+      {
+        "name": "places/ChIJUZLie1YABDQR9KZH9b0jCNQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KR01uTm9SRVJaTWxaWlVURTRUMVpoVFVwblMxRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "店家飲品選擇多。與沒煙的環境中感到相當舒適～平靜的午後～來一杯❤️且店員多做了一杯、而意外招待了我們Mocha☕️美好、就是一切的幸運，與身旁最在乎的人、一同感受～就是幸福☺️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店家飲品選擇多。與沒煙的環境中感到相當舒適～平靜的午後～來一杯❤️且店員多做了一杯、而意外招待了我們Mocha☕️美好、就是一切的幸運，與身旁最在乎的人、一同感受～就是幸福☺️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lin Ricky",
+          "uri": "https://www.google.com/maps/contrib/105029871644701692732/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHQYK9ZENIrviBetJC1qS02lu-fKKT2S4_VYNfIqTKX2utJQ5rMA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-12T06:52:08.112192940Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KR01uTm9SRVJaTWxaWlVURTRUMVpoVFVwblMxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KR01uTm9SRVJaTWxaWlVURTRUMVpoVFVwblMxRRAB!2m1!1s0x340400567be29251:0xd40823bdf547a6f4"
+      },
+      {
+        "name": "places/ChIJUZLie1YABDQR9KZH9b0jCNQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rNFIxcGhWME42VGs5TWFsWk9PRGxqZUZVM1NVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 3,
+        "text": {
+          "text": "咖啡幾好飲，不過完全冇冷氣，戴帽個女店員都好好幫我調校溫度不過都係好熱好焗，冇得坐耐啲，有啲可惜。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "咖啡幾好飲，不過完全冇冷氣，戴帽個女店員都好好幫我調校溫度不過都係好熱好焗，冇得坐耐啲，有啲可惜。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ning tai ng",
+          "uri": "https://www.google.com/maps/contrib/107035667149862099295/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJmQAktukse13SGWSEjxQWGbXfGZqkOQK_86J4TD8vUlneRJg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-03T16:18:10.494730541Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rNFIxcGhWME42VGs5TWFsWk9PRGxqZUZVM1NVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rNFIxcGhWME42VGs5TWFsWk9PRGxqZUZVM1NVRRAB!2m1!1s0x340400567be29251:0xd40823bdf547a6f4"
+      },
+      {
+        "name": "places/ChIJUZLie1YABDQR9KZH9b0jCNQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psR1p6WmlWbmh6YkVaeE4yRktSa2R3TWtWNVRuYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "每日都要飲咖啡既我，試左係fashion walk呢邊咁多間唔同既coffee shop, 最後都係最鍾意呢間🤣\n除左鍾意佢地既咖啡，另外同店員之間既溝通都好令我有親切感，拎咖啡個陣閒聊幾句，就好似大家生活係同一個社區咁，係好有溫度既服務 🥰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "每日都要飲咖啡既我，試左係fashion walk呢邊咁多間唔同既coffee shop, 最後都係最鍾意呢間🤣\n除左鍾意佢地既咖啡，另外同店員之間既溝通都好令我有親切感，拎咖啡個陣閒聊幾句，就好似大家生活係同一個社區咁，係好有溫度既服務 🥰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Y C",
+          "uri": "https://www.google.com/maps/contrib/113170100740746339022/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ_nYCf-JDa3gVf-dy7wCpKS0dlij7HLJBEldPoRsW2LMmSAg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-20T06:16:43.872973133Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psR1p6WmlWbmh6YkVaeE4yRktSa2R3TWtWNVRuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psR1p6WmlWbmh6YkVaeE4yRktSa2R3TWtWNVRuYxAB!2m1!1s0x340400567be29251:0xd40823bdf547a6f4"
+      },
+      {
+        "name": "places/ChIJUZLie1YABDQR9KZH9b0jCNQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaN19lX2FBEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "🍽 Elephant Grounds（銅鑼灣）\n​\n\n今天回學校，只是隨便說了一下行蹤，就約了朋友即興小聚🤭地方都容易搵到😳。\n​\n🥗Salmon Avocado Poke\n三文魚新鮮，配搭芋片一起吃，味道不錯🥰口味消新👍🏻\n​\n🥗Bistro Fries\n份量意想不到咁多，啱晒一邊傾計，一邊小酌，可惜今日主要飲咖啡😂\n​\n☕️Hojicha Latte\n​焙茶味好香‼️但飲完記得抹嘴🤭\n\n☕️Latte\n水準穩定，口味香滑👍🏻\n​\n☕️Valrona Mocha\n​口味甘香，甜度合適👍🏻一般外面既Mocha都會偏甜，但呢款口味到位💯\n\n🔸🔺🔸🔺🔸 🔸🔺🔸🔺🔸 🔸🔺🔸\n​\n​🖋️環境舒適、小聚好地方、食物新鮮、飲品都值得一試👍🏻\n\n🔸🔺🔸🔺🔸 🔸🔺🔸🔺🔸 🔸🔺🔸\n​\n​\n📍銅鑼灣百德新街42-48號Fashion Walk地下C號舖\n🚇港鐵銅鑼灣站E出口\n📱電話：2562 8688\n🈺星期一 - 五 10:00-22:00\n星期六、日、公眾假期 09:00-22:00\n​\n​\n#food___wonderland_hongkong\n​\nIG：@food___wonderland",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🍽 Elephant Grounds（銅鑼灣）\n​\n\n今天回學校，只是隨便說了一下行蹤，就約了朋友即興小聚🤭地方都容易搵到😳。\n​\n🥗Salmon Avocado Poke\n三文魚新鮮，配搭芋片一起吃，味道不錯🥰口味消新👍🏻\n​\n🥗Bistro Fries\n份量意想不到咁多，啱晒一邊傾計，一邊小酌，可惜今日主要飲咖啡😂\n​\n☕️Hojicha Latte\n​焙茶味好香‼️但飲完記得抹嘴🤭\n\n☕️Latte\n水準穩定，口味香滑👍🏻\n​\n☕️Valrona Mocha\n​口味甘香，甜度合適👍🏻一般外面既Mocha都會偏甜，但呢款口味到位💯\n\n🔸🔺🔸🔺🔸 🔸🔺🔸🔺🔸 🔸🔺🔸\n​\n​🖋️環境舒適、小聚好地方、食物新鮮、飲品都值得一試👍🏻\n\n🔸🔺🔸🔺🔸 🔸🔺🔸🔺🔸 🔸🔺🔸\n​\n​\n📍銅鑼灣百德新街42-48號Fashion Walk地下C號舖\n🚇港鐵銅鑼灣站E出口\n📱電話：2562 8688\n🈺星期一 - 五 10:00-22:00\n星期六、日、公眾假期 09:00-22:00\n​\n​\n#food___wonderland_hongkong\n​\nIG：@food___wonderland",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Phoenix",
+          "uri": "https://www.google.com/maps/contrib/108208201458140428464/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnCX5seNiT9vl_WkaS3zcVee0i9VLaQ72sqbq7ndd1UuMbRgxE=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-09-21T03:46:00.796050Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNaN19lX2FBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaN19lX2FBEAE!2m1!1s0x340400567be29251:0xd40823bdf547a6f4"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400567be29251:0xd40823bdf547a6f4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15278501034625312500&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400567be29251:0xd40823bdf547a6f4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400567be29251:0xd40823bdf547a6f4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400567be29251:0xd40823bdf547a6f4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJUZLie1YABDQR9KZH9b0jCNQ/photos/Aa-ngMaaiiWRRpDzGFTQHhm-1OYQ6IjeetBLVf4m7GKX99WuHyp5m0bzIC0kFNe-f68RasWjqXyyCAtPrc_m_DUPMwtQuOOj10f1uIqb3FqBOMgVvXdkW9kGcS4RqU7-yV69h7-G3U_JGuk6_8Xc49p6wBOTsRq5vW0y-FXkcPEFt2gJraE4ir7m7TrgFdeyoBX4amtEAvQb7dmjtARibD0AYSm0EtFSQz9ZgRcDVJLbWFfESU856ISlvo1HwvHZy2LKhobhNYStkquP-pv9nfIaPMtEOIB4DiQQR5P3cxvYEzbNoj-8DPFpes3RDMEqSg4QUnH0oWdYKGCNu27QrHaiDEN-_Wh-G4yZUjNNQSm8fNKM13quEOCqhcmxgERDsZIsnma_iYEXo3z2LlnbtUypn0WFTbA",
+      "widthPx": 1440,
+      "heightPx": 1800,
+      "authorAttributions": [
+        {
+          "displayName": "Michelle Lam",
+          "uri": "https://maps.google.com/maps/contrib/108784609745760877289",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrZc4FOCz7AcGuorZE4SGdMyBNzLpAyMERBSqnXndHoxWZ5T_e=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICe34KkUQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe34KkUQ!2e10!4m2!3m1!1s0x340400567be29251:0xd40823bdf547a6f4"
+    },
+    "local_path": "photos/ChIJUZLie1YABDQR9KZH9b0jCNQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnKGEg5WCwLtYpFxu7LaoPgrND9ThA1iYgt_bZpmwIMZO4hOFCWP5bpB-q0KLDlZpIgmGDSzNAHt2QPrZqpnw-U2I6ySLeBUaBvNUlfgg2MBDmds7GO9xsKIiAAK-oI8OPyRCz=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 240118
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.elephantgrounds.com/_files/ugd/4d24c9_3edf3e64006645f99d89709697a9f2fa.pdf",
+        "label": "MENU",
+        "source_url": "https://www.elephantgrounds.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "ice_cream_shop",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.elephantgrounds.com/_files/ugd/4d24c9_3edf3e64006645f99d89709697a9f2fa.pdf"
+}

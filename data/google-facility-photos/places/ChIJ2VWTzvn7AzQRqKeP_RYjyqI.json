@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ2VWTzvn7AzQRqKeP_RYjyqI",
+  "types": [
+    "pet_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界元朗大棠路41-59號地下4號舖",
+  "location": {
+    "latitude": 22.442344100000003,
+    "longitude": 114.0291257
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11730226761090181032&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "PetsOrder 寵物網 (Tai Tong Rd. 大棠路)",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJ2VWTzvn7AzQRqKeP_RYjyqI/photos/Aa-ngMZ3341P7Wzx7SO7aeakFvo02PmWhVJQP0Ps65XS7eRe-j_UELWMbBL1eBI9TwpDl0BqqZDwR-EaJHvdvfW3m2DIhN34ooNV3bxL_YJAY2qiz5lcAVp9UNjGBRunMG-9jSZEAlePBXVaYByG3uLk1EEkHskSoPIXcwVHVzjKg1M08EVQCKPl4K9bwS6ULpvYV1iIibb9wUrKEbMNIlLpdGSlUvJdFGyfBhSRqojxwlGekB0g8-uGEKuAGvJL-S0tWbnuceHPfD1XYzrQmzKHyBUSOUWIV0spQhYfZusTXzaQzASCmZHmZoEg6bV4VSQF-4Ke261WbmBfQB4rHIku8vPiY654YS3YCtMZE2RRylWyaYJ0N88_A2aL7TgnIbpXomBnKPwNM1jaPl6lUQ3UYnnaSvI",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Kam Ray",
+          "uri": "https://maps.google.com/maps/contrib/111418518570871961101",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXIkgYKFLVzzpBzePSaRoQ0yxjyXTmvZ985PNVRCNY4mWveG38=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDI2YWLBg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI2YWLBg!2e10!4m2!3m1!1s0x3403fbf9ce9355d9:0xa2ca2316fd8fa7a8"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:15.354959+00:00"
+}

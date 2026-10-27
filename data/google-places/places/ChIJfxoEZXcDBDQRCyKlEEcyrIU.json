@@ -1,0 +1,311 @@
+{
+  "google_place_id": "ChIJfxoEZXcDBDQRCyKlEEcyrIU",
+  "restaurant_ids": [
+    "restaurant:2298803749"
+  ],
+  "fetched_at": "2026-10-23T15:45:46.589733+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJfxoEZXcDBDQRCyKlEEcyrIU",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "formattedAddress": "香港新界將軍澳將軍澳中心",
+    "location": {
+      "latitude": 22.306766399999997,
+      "longitude": 114.2565099
+    },
+    "rating": 3,
+    "googleMapsUri": "https://maps.google.com/?cid=9632128983841972747&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 58,
+    "displayName": {
+      "text": "岩盤牛扒 (將軍澳中心店)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJfxoEZXcDBDQRCyKlEEcyrIU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGaUxWZEZTbEkwWHpkWVJYcFRNWGx1VjFSSWFsRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "店名：「岩盤牛扒」，非常吸引！可以自助點餐，因為有商場贈券，就現成落單點了雪糕牛肉豚骨拉麵，Vanilla雪糕加在熱騰騰的拉麵湯底，非常creamy, 牛肉片好味！至於牛肉挽肉蛋飯，好好味，鮮橙色的蛋黃液加在牛肉挽肉和豉油飯上，色彩既鮮艷，飯亦美味，牛肉好有肉汁！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店名：「岩盤牛扒」，非常吸引！可以自助點餐，因為有商場贈券，就現成落單點了雪糕牛肉豚骨拉麵，Vanilla雪糕加在熱騰騰的拉麵湯底，非常creamy, 牛肉片好味！至於牛肉挽肉蛋飯，好好味，鮮橙色的蛋黃液加在牛肉挽肉和豉油飯上，色彩既鮮艷，飯亦美味，牛肉好有肉汁！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "EE W",
+          "uri": "https://www.google.com/maps/contrib/108326175472223274127/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbJIgefAjLl3p2InztDIFq1BKUoMPxMjCiLmaaH18_yRyUVsgC0Q=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-09T13:16:08.588152535Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGaUxWZEZTbEkwWHpkWVJYcFRNWGx1VjFSSWFsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGaUxWZEZTbEkwWHpkWVJYcFRNWGx1VjFSSWFsRRAB!2m1!1s0x3404037765041a7f:0x85ac324710a5220b"
+      },
+      {
+        "name": "places/ChIJfxoEZXcDBDQRCyKlEEcyrIU/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6MlA2REpnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "今晚到將軍澳中心購物，經過「岩盤牛扒」，被門口的牛頭型大燈牌吸引，便停下腳步細看，原來是日式鐵板燒自助式餐廳，門口還有港地道、港牛扒大餐牌，我們就二話不說，選購這款風靡70年代的鐵板牛扒。\n\n地道牛扒配司華力腸餐~鬆軟鮮嫩的牛扒可以媲美和牛，被懷舊的牛形鐵板承載，很有親切感，我捧著熱氣騰騰的鐵板燒，服務員親切温馨提示：小心燙熱的鐵板；我將美味的醬汁淋下，當接觸到熱烘烘鐵板，就發出那熟悉的吱吱聲，猶如愉快的樂章，敲醒我的食欲！\n\n除了大大塊的牛扒，還有巨型司華力腸，香脆的薯條則用紙杯承載，我們開始大快朶頤了。\n\n鰻魚牛肉丼~鰻魚和牛肉都含豐富蛋白質，而且香濃美味，鰻魚肉厚實而油脂豐富，飯量很多，伴飯的鰻魚醬汁也很足夠，因此每口飯都吃到飯香和鰻魚醬汁鮮味。\n\n我們還追加吉列豚肉和帶子，蠻好的味道！\n\n超濃厚的芒果味雪糕配合暖烘烘冬甩，十分美味可，還要了Häagen-dazs咖啡味雪糕噢！\n\n除了窩心甜品，料不到的特飲~金牛！噢！噢！噢！真的牛氣冲天了！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今晚到將軍澳中心購物，經過「岩盤牛扒」，被門口的牛頭型大燈牌吸引，便停下腳步細看，原來是日式鐵板燒自助式餐廳，門口還有港地道、港牛扒大餐牌，我們就二話不說，選購這款風靡70年代的鐵板牛扒。\n\n地道牛扒配司華力腸餐~鬆軟鮮嫩的牛扒可以媲美和牛，被懷舊的牛形鐵板承載，很有親切感，我捧著熱氣騰騰的鐵板燒，服務員親切温馨提示：小心燙熱的鐵板；我將美味的醬汁淋下，當接觸到熱烘烘鐵板，就發出那熟悉的吱吱聲，猶如愉快的樂章，敲醒我的食欲！\n\n除了大大塊的牛扒，還有巨型司華力腸，香脆的薯條則用紙杯承載，我們開始大快朶頤了。\n\n鰻魚牛肉丼~鰻魚和牛肉都含豐富蛋白質，而且香濃美味，鰻魚肉厚實而油脂豐富，飯量很多，伴飯的鰻魚醬汁也很足夠，因此每口飯都吃到飯香和鰻魚醬汁鮮味。\n\n我們還追加吉列豚肉和帶子，蠻好的味道！\n\n超濃厚的芒果味雪糕配合暖烘烘冬甩，十分美味可，還要了Häagen-dazs咖啡味雪糕噢！\n\n除了窩心甜品，料不到的特飲~金牛！噢！噢！噢！真的牛氣冲天了！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Stella Luk",
+          "uri": "https://www.google.com/maps/contrib/107234291226142777950/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNMRauL0bzgtPSYdOrghHJ3ulVL3zy5Bu-WiFhwuMe6gZ44Tkl=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-05-30T15:21:54.372788Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6MlA2REpnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6MlA2REpnEAE!2m1!1s0x3404037765041a7f:0x85ac324710a5220b"
+      },
+      {
+        "name": "places/ChIJfxoEZXcDBDQRCyKlEEcyrIU/reviews/ChdDSUhNMG9nS0VJQ0FnSURENWMzOF9nRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "整體價錢親民，食物質素不錯，推介喜歡吃牛扒的朋友。 店內以木系為主，座位舒適。餐廳主打日式石板燒牛扒，客人可以自選喜愛的牛肉部位，即切即磅即燒的模式。晚餐🍴 ～ 港式鐵板牛扒 $72 ～ 餐廳除了供應日式石板燒牛， 仲有傳統港式鐵板餐。 經典牛仔造型的鐵板和超大塊的牛扒🥩， 肉汁軟腍，配上黑椒汁， 熱辣辣香噴噴。 脆脆薯條及飲品 $16～ 港式鐵板牛扒加$16， 有香脆美味的薯條🍟， 仲有一杯飲品🥤，我揀了jolly shandy。 富士山石板牛扒餐 $98～ 牛扒在熱石板上即烤， 可以因應自己喜好的熟度， 牛扒非常嫩滑🤤，口感鮮嫩而味濃， 加上富士山🏔️造型的飯糰， 非常可愛， 石板上還有大量的粟米， 甜美滋味。 富士山特飲 $22～ 波子汽水加雲呢拿雪糕的組合， 口感幼細豐盈， 打卡必點📸。 櫻花丼 $86～ 牛肉肉質嫩滑，配上溫泉蛋🍳， 滿滿的一碗，非常豐富。 冬甩雪糕 $28～ 軟滑雪糕配外酥內軟的冬甩🥯， 味道不會過甜， 推介。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "整體價錢親民，食物質素不錯，推介喜歡吃牛扒的朋友。 店內以木系為主，座位舒適。餐廳主打日式石板燒牛扒，客人可以自選喜愛的牛肉部位，即切即磅即燒的模式。晚餐🍴 ～ 港式鐵板牛扒 $72 ～ 餐廳除了供應日式石板燒牛， 仲有傳統港式鐵板餐。 經典牛仔造型的鐵板和超大塊的牛扒🥩， 肉汁軟腍，配上黑椒汁， 熱辣辣香噴噴。 脆脆薯條及飲品 $16～ 港式鐵板牛扒加$16， 有香脆美味的薯條🍟， 仲有一杯飲品🥤，我揀了jolly shandy。 富士山石板牛扒餐 $98～ 牛扒在熱石板上即烤， 可以因應自己喜好的熟度， 牛扒非常嫩滑🤤，口感鮮嫩而味濃， 加上富士山🏔️造型的飯糰， 非常可愛， 石板上還有大量的粟米， 甜美滋味。 富士山特飲 $22～ 波子汽水加雲呢拿雪糕的組合， 口感幼細豐盈， 打卡必點📸。 櫻花丼 $86～ 牛肉肉質嫩滑，配上溫泉蛋🍳， 滿滿的一碗，非常豐富。 冬甩雪糕 $28～ 軟滑雪糕配外酥內軟的冬甩🥯， 味道不會過甜， 推介。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "victoriay_eatwithvic",
+          "uri": "https://www.google.com/maps/contrib/114697832177333673125/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpCfwr1RRxacz1FrR7TJp1I5R3RsFpX8f_LBeVJsn43VN_Ow=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-04-12T08:37:47.266618Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURENWMzOF9nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURENWMzOF9nRRAB!2m1!1s0x3404037765041a7f:0x85ac324710a5220b"
+      },
+      {
+        "name": "places/ChIJfxoEZXcDBDQRCyKlEEcyrIU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBNXNhd09BEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "咁嘅價錢…不如去扒房吃！肉眼非常柴、老、韌，眼見仲有血水以為非常鮮嫩，點知…唉！總之一言難盡，個鐵板好細，非常唔方便切肉，d玉米跌曬出個鐵板，成個用餐體驗好麻麻。漢堡扒飯一樣好差，個肉好老，d飯又唔熱。可一不可再…",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "咁嘅價錢…不如去扒房吃！肉眼非常柴、老、韌，眼見仲有血水以為非常鮮嫩，點知…唉！總之一言難盡，個鐵板好細，非常唔方便切肉，d玉米跌曬出個鐵板，成個用餐體驗好麻麻。漢堡扒飯一樣好差，個肉好老，d飯又唔熱。可一不可再…",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "zoey luk",
+          "uri": "https://www.google.com/maps/contrib/107484044233673801644/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVA0Syzh8OX_u7nKi1yjLjeLPSSELf3jvRUKUOCDTKJvGGa7Osw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-01-31T13:09:18.789352Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBNXNhd09BEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBNXNhd09BEAE!2m1!1s0x3404037765041a7f:0x85ac324710a5220b"
+      },
+      {
+        "name": "places/ChIJfxoEZXcDBDQRCyKlEEcyrIU/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6NF9UTW9BRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "經過將軍澳中心岩盤牛扒，聞到鐵板牛扒好香，就地吃午餐！\n\n港式鐵板牛扒配司華力腸\n非常地道的香港風鐵板餐！鐵板發出滋滋聲,勾起食慾,微微的煙熏牛肉香氣令人食指大動！鮮嫩多汁的牛肉下面鋪了栗米，入口肉質軟嫩無比,肉汁立刻在口中爆發,恰到好處的鹹香,牛扒豐富的風味在舌尖上交織纏綿！$88就可以吃到甘大份量好味的牛扒加超大條香脆的司華力腸真是超抵！\n\n鰻魚丼\n鰻魚表面微微焦脆, 一口咬下,外層的香酥感立即出現,緊接著是內裡滑嫩多汁柔軟鮮美,在舌尖交織纏綿。鰻魚醬汁的鹹甜與飯粒的清香混合在一起,米飯軟糯可口不得了！\n\n雪糕地獄拉麵\n辣麵的辣味刺激舌尖,再吃一啖雪糕好清涼！辣麵的熱辣和雪糕的清涼形成了強烈的反差，好刺激！\n\n和風餐湯\n雖然是配送的餐湯，裡面都有幾塊嫩肉！\n沙律酸甜可口非常清爽！吉列豚香脆！泡菜酸辣開胃！薯條內軟外脆！只花了一點錢就有甘多好野吃，開心滿足！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "經過將軍澳中心岩盤牛扒，聞到鐵板牛扒好香，就地吃午餐！\n\n港式鐵板牛扒配司華力腸\n非常地道的香港風鐵板餐！鐵板發出滋滋聲,勾起食慾,微微的煙熏牛肉香氣令人食指大動！鮮嫩多汁的牛肉下面鋪了栗米，入口肉質軟嫩無比,肉汁立刻在口中爆發,恰到好處的鹹香,牛扒豐富的風味在舌尖上交織纏綿！$88就可以吃到甘大份量好味的牛扒加超大條香脆的司華力腸真是超抵！\n\n鰻魚丼\n鰻魚表面微微焦脆, 一口咬下,外層的香酥感立即出現,緊接著是內裡滑嫩多汁柔軟鮮美,在舌尖交織纏綿。鰻魚醬汁的鹹甜與飯粒的清香混合在一起,米飯軟糯可口不得了！\n\n雪糕地獄拉麵\n辣麵的辣味刺激舌尖,再吃一啖雪糕好清涼！辣麵的熱辣和雪糕的清涼形成了強烈的反差，好刺激！\n\n和風餐湯\n雖然是配送的餐湯，裡面都有幾塊嫩肉！\n沙律酸甜可口非常清爽！吉列豚香脆！泡菜酸辣開胃！薯條內軟外脆！只花了一點錢就有甘多好野吃，開心滿足！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sunsum9806",
+          "uri": "https://www.google.com/maps/contrib/112119256866209670928/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQSqTTeG7PkXtTki01BIYWhKnyZxmNjGWH9S44kIPXLWO40ko=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-06-12T03:04:35.833562Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6NF9UTW9BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6NF9UTW9BRRAB!2m1!1s0x3404037765041a7f:0x85ac324710a5220b"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404037765041a7f:0x85ac324710a5220b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9632128983841972747&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404037765041a7f:0x85ac324710a5220b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404037765041a7f:0x85ac324710a5220b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404037765041a7f:0x85ac324710a5220b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJfxoEZXcDBDQRCyKlEEcyrIU/photos/Aa-ngMZ1semLMO-vGDDObtAtiqLtwE5xOJ46Lnh8uvIuPV-hAPMKQzrsQp-mRaIy_9ePQ8lq7W61xL8tpblYVXNOaGRxSkuu3vvMoYJvRKKhCKtiQ9gWXm_Uv5Wkg7Fr327sbeJKG7g7y5KWi3HqBFFq4ipCRGdgARSLE4wE17XUtRaGm88Vt4mfmJqMzjSH_tg08D8aAlqHqBfe4rMhisL_huE0aF0focsXnl8wDsC2pn8kThQYmZtowKdMeOCcJa-u0i99ihspLQ-AR_i06LokX534wGeOTO6Tv-nqLZO9HML1drf7nLYLMn81CQ8qeZVVXU0YmfWUUxTRZa9-puO5O4wLn5LGl5zq99Cok3RV1vuoM1whdKht40APlZSsRBu6olI-ysab_kDmOvKS2Sm3WwE7RsY",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "sunsum9806",
+          "uri": "https://maps.google.com/maps/contrib/112119256866209670928",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQSqTTeG7PkXtTki01BIYWhKnyZxmNjGWH9S44kIPXLWO40ko=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDz4_TcUA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz4_TcUA!2e10!4m2!3m1!1s0x3404037765041a7f:0x85ac324710a5220b"
+    },
+    "local_path": "photos/ChIJfxoEZXcDBDQRCyKlEEcyrIU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLctBjozA0GIlavinV1rL20KVsDyNZGgO2kMNB1O9a2eIxPraZbTMGTDrXYGe3ABQrg_1mO7m9floAMPpCG9vgBcDC5yF4ACt7K-dDX-tYQUAp4C-ka1ECJQl3XsuvqqTRZOmp3T=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 306976
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

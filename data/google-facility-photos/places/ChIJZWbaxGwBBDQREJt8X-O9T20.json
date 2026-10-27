@@ -1,0 +1,40 @@
+{
+  "id": "ChIJZWbaxGwBBDQREJt8X-O9T20",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍九龍城獅子石道25號",
+  "location": {
+    "latitude": 22.328412,
+    "longitude": 114.1879986
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7876723057551514384&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Lego Pet 樂高寵物 (九龍城 Kowloon City)",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJZWbaxGwBBDQREJt8X-O9T20/photos/Aa-ngMaYdLy40MdgQNG9jW1O7-Ve6qeWLNJhtzOaoJParTusCGa2Z13ROJrbvzyA6KWIUxcQavmBfgiu8fS8zoP6KZ91RPuEDn3zQxwmkdnnQf4MKxf-vU8I_cgFWVGyXoRUVAjzIkGbG3xxCwX9e_hnNiprWLgGNfU-UXFnrsl5gstOik9ovUuNQMWcM5kMLzpofMhlcSItT0_ECn5B9TIBAKNBuMkY_00u8iFfLwVEBQypsjwVfaLRJ-aK_eyxFO3N8U4VDDK3jkFEwnPRcWVYbf3zRNLCr8FmebtuBISgPuO3KC-E8g-1rJj6-aazXNauDHlVKUR7CGICyjiK3TTwEhQgmuyrB665IpkLuoXhmcesWxRr9Nm-J0oBdRviNo0Y9UUVIjO0HPUJhSMaVGHyKOp56o2L9JM",
+      "widthPx": 775,
+      "heightPx": 1022,
+      "authorAttributions": [
+        {
+          "displayName": "Lego Pet 樂高寵物 (九龍城 Kowloon City)",
+          "uri": "https://maps.google.com/maps/contrib/108396505925274529028",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLmFsn8JN1P2hTkIl8_r5QQBuTCLrk6vLNEV70s0-LlF5EhdQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDRpvfs3gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRpvfs3gE!2e10!4m2!3m1!1s0x3404016cc4da6665:0x6d4fbde35f7c9b10"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:16.898777+00:00"
+}

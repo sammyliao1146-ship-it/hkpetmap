@@ -1,0 +1,37 @@
+{
+  "id": "ChIJd62gHVoFBDQRTmkb3rdCpF8",
+  "types": [
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "House, 45 Yan Yee Rd, Sai Kung, New Territories, 香港",
+  "location": {
+    "latitude": 22.3984745,
+    "longitude": 114.3004282
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6891706687256488270&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "The Dog Club",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJd62gHVoFBDQRTmkb3rdCpF8/photos/Aa-ngMbZr8cr8n4ApWFGEmW-OjJvZ8DwzdkC5QI5Y6dn6aBL7my4LIhsYgd9fSoYNtJxwh8roFWvT8YdKaVia_cQuDpShnFq93ZYhHLjoy6BH3lQjNjTS7MACSrCNejUOhaOfEUKBv90RBq6ufQ19jAVh9XmlFDiNXMsyobNXR7SKfNIgW_OtpCU3PJIxuKc9ShRT5rvqscVA8IERls3K-hK1JoJjqIg_GW529S-WlWq97THy2BWiXt8xiAUYTcVV-7q1uSPI0SJ8MNhi06E3tgV3mNvKDzrLZ079dOXCiDy4KG0KrWEg6kOEOROR3Hbi8HU9a2N9RdKN-1f-cWe7KvhS7DmOo4gG2iRzoxDMJEfLOK5D2GHvQ8XAzHj2RuDPvWuFQ2Soq5SgxRqN9bfTU6aOjN-4D953gjaRYt3fppOTOe74w",
+      "widthPx": 2556,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "The Dog Club",
+          "uri": "https://maps.google.com/maps/contrib/107004176933050448728",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2qKz0ZuttxqbyftE6ejJ11RUkwVv-NR7m0IzwoQ5_dkbITQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAqP-nx-BVoBgv2DvDeaQlc&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAqP-nx-BVoBgv2DvDeaQlc!2e10!4m2!3m1!1s0x3404055a1da0ad77:0x5fa442b7de1b694e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:23.106176+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ChIJJbxrBez4AzQRYhXQmhQu_KA",
+  "types": [
+    "pet_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界荃灣楊屋道63號",
+  "location": {
+    "latitude": 22.3683656,
+    "longitude": 114.1152896
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11600197406231106914&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "樂高寵物 Lego Pet (楊屋道Yeung Uk Road)",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJJbxrBez4AzQRYhXQmhQu_KA/photos/Aa-ngMYOafpWu4ZnxdU60NJgnz1FXzq43gj3Dj6vPTK-PGsjLKWS9ILUS3gxhnzgUUsaP7ckrp5Hqko1ai63piFwn9ku8QMF4TzlF9GtMKlngyWBQeQhcAnqoS5zA2Yhl8G43rceh7ElBaN_R5wnKNHXsLUVtrfT3mpedlZUloYW48v68LhcbdBCXvU8WT5kEsgrhnI8QM_DZkxBGPKY9AU3KW2k9wnUeFaXzANz5eqM6lkZEPQB5uXJhWgaMrme1tENy2_qxL680GWi8QIsK3FIF-sUq5stoKROzehL9E4NjDDj8QvCyfCtiu3bHQojGImH6q5rIU_1QdHCcWgQE7S4wLJAEs5yFIKZECT4HejhZS5Fy29_AjM176xbHQsd5SlVSGcCjgxgXmIfIIQmq8fmeVccPQ",
+      "widthPx": 2048,
+      "heightPx": 1365,
+      "authorAttributions": [
+        {
+          "displayName": "Lego Pet 樂高寵物 (楊屋道Yeung Uk Road)",
+          "uri": "https://maps.google.com/maps/contrib/106682806599952360988",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNqmqP8yr_JNdWFoSkkMHE92sRiUhzF8h-vKzn_wnIZg1sUbLO=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC61vTyLw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC61vTyLw!2e10!4m2!3m1!1s0x3403f8ec056bbc25:0xa0fc2e149ad01562"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:19.484653+00:00"
+}

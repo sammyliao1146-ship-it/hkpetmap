@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ0TBtWpn4AzQRQZroYESnjFw",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界葵涌石排街9號",
+  "location": {
+    "latitude": 22.3639024,
+    "longitude": 114.1370482
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6668889060354333249&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "石排街公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJ0TBtWpn4AzQRQZroYESnjFw/photos/Aa-ngMaKWfgI87Ws5yUO27N8dpHEiEYjm-PI7q4OvPRinvmP1xWinowsBCQRPUxhF-vNBXh71WhU-ZxaxHoJnmtMmnYsEd3ca_ajPYsR6F2B336QelIDNBTF0y3v8JvVCkAR4GbOBr3pHGxOnIiCZ_qbsJtDvBgq_xIPO0eDi130cCcXu-tYExem-7vaGQl-o0boxM9ciim1DzXtnUaOgaz1yL3C6T29EW_UVf0c_JlQTGz1HwxOIzZ6HRm_6kunCZ0i6zTqKpY2uzggDbrPGQv9M8qbmSm88yDzyDRGl6_nmZFaMHFVcPVl1KuXjOwkxEIvAlesVs74Uhw5E29G-T95pt1gCWBAwDCrezxumzhhzlQP5HoNbDNQoYop98cTU0-LkBiCa7qVdSrRMESYhqbJE7AXIuw",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Traveler, William Tong",
+          "uri": "https://maps.google.com/maps/contrib/111168247802139929767",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNpb6c-N-8vtXZ4q5-38RGb3fGyvGeSXKfK8MxKRFr6tnzDw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID1ydT4Ig&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID1ydT4Ig!2e10!4m2!3m1!1s0x3403f8995a6d30d1:0x5c8ca74460e89a41"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:21.394015+00:00"
+}

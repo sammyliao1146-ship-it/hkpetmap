@@ -1,0 +1,38 @@
+{
+  "id": "ChIJy3iwpEkGBDQRMEBaQKFh7rA",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界沙田大涌橋路55號",
+  "location": {
+    "latitude": 22.389045499999998,
+    "longitude": 114.20193289999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12749234940329738288&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "城門河第二海濱花園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJy3iwpEkGBDQRMEBaQKFh7rA/photos/Aa-ngMZP_7noUedAcl3eFQZd6axFncKAtBHrTmF68DBwB68ohdItn_IoTqK3M6_Y-j6A2uHIynDkdXtGaqKenGB7X75w33C9SDlzcfdmo_irxjLwWFhezACST-7vmgUgFC0m0l8vruT9dJ3WFNJsIgXdUwV-XqKMhmjIREHYNCA3qnYrv5FeweKnJkxyz4mDhTGkutSxLUBV4YkNHIOLh4iVvhRnoCnnsfScX-t20AxGXdTqQotRdjW0lzurPP5Xzql3f3FVl1w9OtlU2pCuGOBxqe9khtXP7dzf6M8hdttR4Kl-XyoUjRejDFOGMo8EGTfitUr5kU376AxZgjkZR3m8OB74reQyr_UxU2RXQ1KImPD-vsdwXpvf3kpMBJtwX29W4Qt4cdQDJ7jVBjceJA-zeHSgv_Y",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "authorAttributions": [
+        {
+          "displayName": "Dave Chan",
+          "uri": "https://maps.google.com/maps/contrib/109147033624592265236",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkBX12dnt6HyE1L-YXetCjahse_U6O6jeUZ-PsuPWO6A1jxg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE_JmJew&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE_JmJew!2e10!4m2!3m1!1s0x34040649a4b078cb:0xb0ee61a1405a4030"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:15.094952+00:00"
+}

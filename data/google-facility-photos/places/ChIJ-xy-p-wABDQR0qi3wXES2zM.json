@@ -1,0 +1,41 @@
+{
+  "id": "ChIJ-xy-p-wABDQR0qi3wXES2zM",
+  "types": [
+    "pet_store",
+    "pet_boarding_service",
+    "pet_care",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "Shop, The Paseo, 7 Kwun Chung St, Jordan, Kowloon, 香港",
+  "location": {
+    "latitude": 22.303465,
+    "longitude": 114.1685251
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3736600595624601810&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Ruff & Fetch 拉夫寵物生活 (佐敦 Jordan)",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJ-xy-p-wABDQR0qi3wXES2zM/photos/Aa-ngMZlwfs5BSL9EfCjA_6wl6RaP84iuhYBQEXy8TiWU1eOybKBEh-YlXG1vzuc7AvPC6X_x461fL8NV8rMqU69vWtAXEAIN5hkGqlx8wWeG5SsskJVf_2tanmLPu3oM3cJ7njUe5QLc_XnXdhXWE_e6cM0J43KjTjivIh_niWsGO6z3eBCNoe7xXtffcp4edGk9QlXFH6Tt2MaSSuFT2tIEdcxHkTs7i6WK-sXtrMpRcQ5es_BXpQjfjvkGS-9rnmwxj6JAn3LjmpyDEyi1AfNAj9_qoPlUpnQVcb8aZ0dbavsEztnwmrBfnENcQcISVJ9ZilAZzkprVu9W2saQF4cNWV1Rxf5TYf5QkfO5ubU4P5rgfOXLt_3jn7Nh3KJ6F7qFfqAEqDjU4zY446eoHl5j-oyamg",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "HN Mak",
+          "uri": "https://maps.google.com/maps/contrib/113755905351863443644",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJa5OVPMKr362uLz8pNlH0QKdQ5blqyTS8yAO65835auwhbCmlR=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID68oDnUg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID68oDnUg!2e10!4m2!3m1!1s0x340400eca7be1cfb:0x33db1271c1b7a8d2"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:17.826085+00:00"
+}

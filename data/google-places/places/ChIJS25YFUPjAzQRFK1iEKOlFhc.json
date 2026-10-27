@@ -1,0 +1,316 @@
+{
+  "google_place_id": "ChIJS25YFUPjAzQRFK1iEKOlFhc",
+  "restaurant_ids": [
+    "restaurant:2217800712"
+  ],
+  "fetched_at": "2026-10-23T15:49:05.303598+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJS25YFUPjAzQRFK1iEKOlFhc",
+    "types": [
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3969 2685",
+    "internationalPhoneNumber": "+852 3969 2685",
+    "formattedAddress": "香港新界大嶼山航天城東路1號",
+    "location": {
+      "latitude": 22.319083,
+      "longitude": 113.94373689999999
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=1663699232133131540&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.marriott.com/en-us/dining/restaurant-bar/hkgap-hong-kong-skycity-marriott-hotel/5737704-the-lounge.mi",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 01:00",
+        "星期二: 12:00 – 23:00",
+        "星期三: 12:00 – 23:00",
+        "星期四: 12:00 – 23:00",
+        "星期五: 12:00 – 23:00",
+        "星期六: 12:00 – 23:00",
+        "星期日: 12:00 – 01:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 9,
+    "displayName": {
+      "text": "大堂吧",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "沙發酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "lounge_bar",
+    "reviews": [
+      {
+        "name": "places/ChIJS25YFUPjAzQRFK1iEKOlFhc/reviews/Ci9DQUlRQUNvZENodHljRjlvT205TWJUa3RVRkU0WmtNeFZESklTRFJsZFZSSlUyYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "食個下午茶套餐, 唔錯！\n服務態度很好！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食個下午茶套餐, 唔錯！\n服務態度很好！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "PAULINE CHENG",
+          "uri": "https://www.google.com/maps/contrib/106802361994135917217/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJI3isJ9dF4ISCtK0OIN0_8YhuaUB936Gecn-pJ3ywf8XRqjA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-18T13:20:10.362353423Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205TWJUa3RVRkU0WmtNeFZESklTRFJsZFZSSlUyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205TWJUa3RVRkU0WmtNeFZESklTRFJsZFZSSlUyYxAB!2m1!1s0x3403e34315586e4b:0x1716a5a31062ad14"
+      },
+      {
+        "name": "places/ChIJS25YFUPjAzQRFK1iEKOlFhc/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3NTQybGlRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "個lounge 啲燈勁紅，影到對野食都係紅色。唔夠冷氣，有啲熱。食物中規中矩，服務正常。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "個lounge 啲燈勁紅，影到對野食都係紅色。唔夠冷氣，有啲熱。食物中規中矩，服務正常。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dorothy Ma",
+          "uri": "https://www.google.com/maps/contrib/110452604592417557803/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQB4MO1rjHYy4o0Dnc46vu8SXJkBocHLxGdwNqytprXlM-iCDlyA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-08-18T19:02:48.085122Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3NTQybGlRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3NTQybGlRRRAB!2m1!1s0x3403e34315586e4b:0x1716a5a31062ad14"
+      },
+      {
+        "name": "places/ChIJS25YFUPjAzQRFK1iEKOlFhc/reviews/ChdDSUhNMG9nS0VJQ0FnSURia2ZyN29BRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "近機場的酒店,自助餐性價比高.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "近機場的酒店,自助餐性價比高.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charles Yan",
+          "uri": "https://www.google.com/maps/contrib/108746014174902517906/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrl5d4xYF1Lzl_7n5g35p3D3XFlmCBEUBa1k_gwA_xgdUlQA=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-08-06T22:11:29.425826Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURia2ZyN29BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURia2ZyN29BRRAB!2m1!1s0x3403e34315586e4b:0x1716a5a31062ad14"
+      },
+      {
+        "name": "places/ChIJS25YFUPjAzQRFK1iEKOlFhc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKclp6RlFVMlEyTVhWdVRuRXhXV0ZTYlZGdWFVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "kk kk",
+          "uri": "https://www.google.com/maps/contrib/116005513407629864650/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIy96M1IXkmRARima0Qb1lU4ELKboKP4Vi6aN4wyg8yY62NPA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-08-30T11:33:53.998150375Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKclp6RlFVMlEyTVhWdVRuRXhXV0ZTYlZGdWFVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKclp6RlFVMlEyTVhWdVRuRXhXV0ZTYlZGdWFVRRAB!2m1!1s0x3403e34315586e4b:0x1716a5a31062ad14"
+      },
+      {
+        "name": "places/ChIJS25YFUPjAzQRFK1iEKOlFhc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcTZyNnd3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "authorAttribution": {
+          "displayName": "Akshat Jain",
+          "uri": "https://www.google.com/maps/contrib/114811150521414970004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXh6y1kP5fHgBkOQY3lVepon2JfUUBtsULgAs8Tp3Wr4kqaeJxJ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-01-19T03:07:11.380456Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfcTZyNnd3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfcTZyNnd3RRAB!2m1!1s0x3403e34315586e4b:0x1716a5a31062ad14"
+      }
+    ],
+    "servesDessert": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403e34315586e4b:0x1716a5a31062ad14!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1663699232133131540&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e34315586e4b:0x1716a5a31062ad14!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403e34315586e4b:0x1716a5a31062ad14!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e34315586e4b:0x1716a5a31062ad14!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJS25YFUPjAzQRFK1iEKOlFhc/photos/Aa-ngMZp3r1x8nFwZAMLbiZZPgmay_ylYt2Wzxa_7ySFp3qpfz2uo7O4B7Mz4ICguen4sIkGiJfYXzOFhMEmYYXLU8hqFeGOO378Y5Np3uujqxFGJ1n_xmkRcRzsu8oV-sWY5xZh6Tot2Mp_rR6oP6atqIUiTkwv9vtkMN8FQZHoo_eBg87yqPaL1UjURKERF1uDWtPGFBB5tSaS-j9JoHHuPZkpJfv9l4TK-mFOmYMTf2YA-1QCj1vJi9qjuhIgNYwvpWmtiaT6hdKsqx5TKU7Xvt-PuOqx5cFui5SMX1nCQ3UqL3-Nzoc241Ng5GJPnVehIKDIbxGL9kjk2VfXaJrTUdQQMc5O1Txl2wJoWcNT-8HBVHIZUU4T2MHkKaWRxNSF1yO4PrIVC7mxUpr8p_x1gMmztdWwUZkDgwaAK5bpFKm5",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "Bucky",
+          "uri": "https://maps.google.com/maps/contrib/113489734896504722090",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBkuQ20PBDaBB8F-Cz1hwwuhwAsl76pa7YF9XSu5ORUKYOIr0=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAoRWC_jWmZ0CPl6m9SuKGv&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAoRWC_jWmZ0CPl6m9SuKGv!2e10!4m2!3m1!1s0x3403e34315586e4b:0x1716a5a31062ad14"
+    },
+    "local_path": "photos/ChIJS25YFUPjAzQRFK1iEKOlFhc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRWjRGi33S0Tg1yvat-fKBuqsZHtH4Ihf22YWIEBlBdclLCrHS8DDM7Y8cu84feot-7JQu-7RTkdsDD_jANa08CDYC-AMmdOaZo2lKYmISMrkmnLuZ59yAZCNHB9eSXnhpSofzuDZm0H4=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 157641
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.marriott.com/reservation/lookupReservation.mi",
+        "label": "Look Up Reservation",
+        "source_url": "https://www.marriott.com/en-us/dining/restaurant-bar/hkgap-hong-kong-skycity-marriott-hotel/5737704-the-lounge.mi",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.marriott.com/help/global-phone-reservation-numbers.mi",
+        "label": "Global Reservation Phone Numbers",
+        "source_url": "https://www.marriott.com/en-us/dining/restaurant-bar/hkgap-hong-kong-skycity-marriott-hotel/5737704-the-lounge.mi",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "lounge_bar",
+    "label": "沙發酒吧",
+    "types": [
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.marriott.com/reservation/lookupReservation.mi",
+  "menu_url": null
+}

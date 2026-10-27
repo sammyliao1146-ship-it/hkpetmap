@@ -1,0 +1,311 @@
+{
+  "google_place_id": "ChIJV6DaSXoBBDQR4Ou5xUaUkAs",
+  "restaurant_ids": [
+    "restaurant:3161807820"
+  ],
+  "fetched_at": "2026-10-23T15:48:53.091442+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJV6DaSXoBBDQR4Ou5xUaUkAs",
+    "types": [
+      "bar",
+      "hookah_bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2732 2229",
+    "internationalPhoneNumber": "+852 2732 2229",
+    "formattedAddress": "4/F, Soho Tower, 25 Hart Ave, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.2979073,
+      "longitude": 114.1751434
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=833328962749459424&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.instagram.com/shesays.hk",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:30 – 02:00",
+        "星期二: 16:30 – 02:00",
+        "星期三: 16:30 – 02:00",
+        "星期四: 16:30 – 02:00",
+        "星期五: 16:30 – 02:00",
+        "星期六: 16:30 – 02:00",
+        "星期日: 16:30 – 01:30"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 186,
+    "displayName": {
+      "text": "She Says Lounge",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJV6DaSXoBBDQR4Ou5xUaUkAs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NdGJXWmpVMVpqUXpaTWVWZG5NWFJtVVVNd01tYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "店員服務熱情 調酒非常好喝 shisha很讚 五星好評❤️‍🔥",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員服務熱情 調酒非常好喝 shisha很讚 五星好評❤️‍🔥",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hin Ccy",
+          "uri": "https://www.google.com/maps/contrib/108038414507373092601/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjVOxFWOWxpfPN-tveMZ50bH3E2VdeugkbNwOcZPtnCI0qqvY=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-22T14:42:27.047119694Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25NdGJXWmpVMVpqUXpaTWVWZG5NWFJtVVVNd01tYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NdGJXWmpVMVpqUXpaTWVWZG5NWFJtVVVNd01tYxAB!2m1!1s0x3404017a49daa057:0xb909446c5b9ebe0"
+      },
+      {
+        "name": "places/ChIJV6DaSXoBBDQR4Ou5xUaUkAs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Nek9XWjVOVlZZZDBZMVYxRlFWazVoTm1wYWJuYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "服務員勁nice! 啲嘢好飲！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務員勁nice! 啲嘢好飲！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "JoJo So",
+          "uri": "https://www.google.com/maps/contrib/116370016486985985249/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIzcyeWuuzY47BHGSc6PNTxgaK9NhK1NOCnQFvJn4fJsS8yRw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-08-01T15:53:48.166038722Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Nek9XWjVOVlZZZDBZMVYxRlFWazVoTm1wYWJuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Nek9XWjVOVlZZZDBZMVYxRlFWazVoTm1wYWJuYxAB!2m1!1s0x3404017a49daa057:0xb909446c5b9ebe0"
+      },
+      {
+        "name": "places/ChIJV6DaSXoBBDQR4Ou5xUaUkAs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KYWVVZDRhMngxYjJWaFF6YzVYMWQzZFdvd1MzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "呢度d shisha好好食，野飲好飲，staff 好nice❤️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢度d shisha好好食，野飲好飲，staff 好nice❤️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "luk Tsz ching",
+          "uri": "https://www.google.com/maps/contrib/117661907192666563372/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1xbQasPFpkrZkxFLi3PqrA_eVAvp1leMi-AfPgGdJGpXW1A=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-08-18T15:02:10.539886472Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KYWVVZDRhMngxYjJWaFF6YzVYMWQzZFdvd1MzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KYWVVZDRhMngxYjJWaFF6YzVYMWQzZFdvd1MzYxAB!2m1!1s0x3404017a49daa057:0xb909446c5b9ebe0"
+      },
+      {
+        "name": "places/ChIJV6DaSXoBBDQR4Ou5xUaUkAs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paamF6bERNMUJhV0VOVk4wUmpRV1J6TUVzeFoxRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "店員服務好好 叫chun同Irene 服務熱情 個shisha好好食～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員服務好好 叫chun同Irene 服務熱情 個shisha好好食～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "hon san tam",
+          "uri": "https://www.google.com/maps/contrib/100977494583703848780/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmtB-hhOHocpgiIHRbL94iYmFq_mZT7mvxDwkYgRTMX01j5Yxy=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-08T14:33:44.334189931Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paamF6bERNMUJhV0VOVk4wUmpRV1J6TUVzeFoxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paamF6bERNMUJhV0VOVk4wUmpRV1J6TUVzeFoxRRAB!2m1!1s0x3404017a49daa057:0xb909446c5b9ebe0"
+      },
+      {
+        "name": "places/ChIJV6DaSXoBBDQR4Ou5xUaUkAs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkV1QzbEVVRE5LVG5VMFNVVk9kRVZyZFVwaFNXYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "Shisha好食，嘢飲好飲，環境舒適，staff靚女友善",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Shisha好食，嘢飲好飲，環境舒適，staff靚女友善",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wai man Lau",
+          "uri": "https://www.google.com/maps/contrib/101049857067909568708/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9djQ6ziRCg6fhErLfX3JjYh4QCVRkBsOlW0FS7n8zkLNZpA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-08-29T17:48:41.434264555Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkV1QzbEVVRE5LVG5VMFNVVk9kRVZyZFVwaFNXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkV1QzbEVVRE5LVG5VMFNVVk9kRVZyZFVwaFNXYxAB!2m1!1s0x3404017a49daa057:0xb909446c5b9ebe0"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404017a49daa057:0xb909446c5b9ebe0!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=833328962749459424&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017a49daa057:0xb909446c5b9ebe0!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404017a49daa057:0xb909446c5b9ebe0!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017a49daa057:0xb909446c5b9ebe0!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJV6DaSXoBBDQR4Ou5xUaUkAs/photos/Aa-ngMYr8Luepbg6h63FgWPD9jUhVga_vpfb9fFVMLdgsj2UuX-UolJNNk8w9Ga1WUO0NrA52gcDBFUePzlGUnHK2fatAVlzMD95gSD0yKJOOUtUrLz9Qm8_FzK9_4jgTEmqxqLdpNVsTpAyG776iy8xRaniXRJ-jG1OCgEhzIVyvp4zgyNwt3EaxoCL74HjesCNtNpk0Rz7wtDMh-p44Hq0M7pBfWYwZBBf1oS0RegGJtTShamxZdZGn3as5Th3yuCYJTvtNU-mUyB4U5deXeyRObM9vrfTz9GLQnxDGq2PqH0sVVXLUPnF4NDS4Dg132RMUiPcWJeD2XaqVk-CWD9ZL785PKPLGpHV0PEewrhgEJ6blwe9S2MqP-en-ioU5eixJz8ORVdaQgneQRT6zRUpwb9drIX_-Sga6QjgmlQR-iTuPw",
+      "widthPx": 1536,
+      "heightPx": 2048,
+      "authorAttributions": [
+        {
+          "displayName": "She Says Lounge",
+          "uri": "https://maps.google.com/maps/contrib/108139280075073221958",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2IKjhf_eayHFUTXH2PxOClodvxQyjJatwyiirqORWVzefftw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAGbyfQvhT4IGfhSbkACVxn&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQvhT4IGfhSbkACVxn!2e10!4m2!3m1!1s0x3404017a49daa057:0xb909446c5b9ebe0"
+    },
+    "local_path": "photos/ChIJV6DaSXoBBDQR4Ou5xUaUkAs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdC59-vFs5SuzD493-kkAKuK-bHBThwfcsOXr7MMwKeSWRqQzIPWNIcj_8H_CLgopSHTTwszN2BI_n-0_vvbHLSVOp9R4iUSdHGw2oIPk1NTBCMX5iK0qrXr8_9cQ25TueUol2wSHo8g-ct=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 277237
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "hookah_bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

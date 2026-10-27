@@ -1,0 +1,292 @@
+{
+  "google_place_id": "ChIJOdtNCqHwAzQRBydrV8aPEUo",
+  "restaurant_ids": [
+    "restaurant:2294808241"
+  ],
+  "fetched_at": "2026-10-23T15:52:22.085371+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJOdtNCqHwAzQRBydrV8aPEUo",
+    "types": [
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3549 8888",
+    "internationalPhoneNumber": "+852 3549 8888",
+    "formattedAddress": "香港新界元朗元朗安寧路38號",
+    "location": {
+      "latitude": 22.446762700000004,
+      "longitude": 114.02787909999999
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=5337205115443685127&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 22:30",
+        "星期二: 07:30 – 22:30",
+        "星期三: 07:30 – 22:30",
+        "星期四: 07:30 – 22:30",
+        "星期五: 07:30 – 22:30",
+        "星期六: 07:30 – 22:30",
+        "星期日: 07:30 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 395,
+    "displayName": {
+      "text": "世宙",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "服務業",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "service",
+    "reviews": [
+      {
+        "name": "places/ChIJOdtNCqHwAzQRBydrV8aPEUo/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtZ3VIeTJRRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "地點優質，近朗屏站，食野方便。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地點優質，近朗屏站，食野方便。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charles Yan",
+          "uri": "https://www.google.com/maps/contrib/108746014174902517906/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrl5d4xYF1Lzl_7n5g35p3D3XFlmCBEUBa1k_gwA_xgdUlQA=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2022-10-30T08:09:14.153355Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMtZ3VIeTJRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtZ3VIeTJRRRAB!2m1!1s0x3403f0a10a4ddb39:0x4a118fc6576b2707"
+      },
+      {
+        "name": "places/ChIJOdtNCqHwAzQRBydrV8aPEUo/reviews/ChZDSUhNMG9nS0VJQ0FnSURlMmIzSGJ3EAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 3,
+        "text": {
+          "text": "地點可以 但附近環境唔掂。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地點可以 但附近環境唔掂。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dennis LEUNG",
+          "uri": "https://www.google.com/maps/contrib/117458415567111193004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8-GittqC6kGrVpLscpRQ4HFrw2ysiojztqXuNhoRFmADHZkpg=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2022-10-14T09:59:12.011888Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURlMmIzSGJ3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURlMmIzSGJ3EAE!2m1!1s0x3403f0a10a4ddb39:0x4a118fc6576b2707"
+      },
+      {
+        "name": "places/ChIJOdtNCqHwAzQRBydrV8aPEUo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFM1MwTlhWMmRaWm10YVIyMUxla1V0VFRkalVrRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "元朗區其中一個不錯的私人屋苑，內園環境設計很寧静，有地舖商場，多間食肆眼見甚受歡迎！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "元朗區其中一個不錯的私人屋苑，內園環境設計很寧静，有地舖商場，多間食肆眼見甚受歡迎！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "曾大人",
+          "uri": "https://www.google.com/maps/contrib/108339155947840908012/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJHF5oGjBtYjz9ZxPkxBuUMNmfgZF56iXLsBs34ODHKYfnm9g=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-06-12T09:23:56.576970615Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFM1MwTlhWMmRaWm10YVIyMUxla1V0VFRkalVrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFM1MwTlhWMmRaWm10YVIyMUxla1V0VFRkalVrRRAB!2m1!1s0x3403f0a10a4ddb39:0x4a118fc6576b2707"
+      },
+      {
+        "name": "places/ChIJOdtNCqHwAzQRBydrV8aPEUo/reviews/ChdDSUhNMG9nS0VJQ0FnSURZbHFqZ2dRRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "元朗豪宅區🏢沾下豪氣🤩",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "元朗豪宅區🏢沾下豪氣🤩",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CC Chan",
+          "uri": "https://www.google.com/maps/contrib/101068357445830241898/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1R4gV1HOPa1ivfJvdXZRjfVWU-pxiPzaT2kIRgeR8hD89gsZR=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2019-05-11T02:34:23.660886Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURZbHFqZ2dRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURZbHFqZ2dRRRAB!2m1!1s0x3403f0a10a4ddb39:0x4a118fc6576b2707"
+      },
+      {
+        "name": "places/ChIJOdtNCqHwAzQRBydrV8aPEUo/reviews/ChZDSUhNMG9nS0VJQ0FnSURocFliMkh3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "這幾座私樓正位於元朗市的中心點！即是以前元朗新邨位置！清拆多年後最終建立了一至五座私人物業！我相信住這豪園的住客無論買餸或出街吃也好及坐西鐵都好方便！都只需步行五分鐘之內已可到達！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這幾座私樓正位於元朗市的中心點！即是以前元朗新邨位置！清拆多年後最終建立了一至五座私人物業！我相信住這豪園的住客無論買餸或出街吃也好及坐西鐵都好方便！都只需步行五分鐘之內已可到達！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "mo mo chan",
+          "uri": "https://www.google.com/maps/contrib/104802381190400013370/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyugvSxAiw-efItJinKJQutoCRho1z8BejeWO-do2Y4pWa4P-S=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-03-13T15:31:55.095573Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURocFliMkh3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURocFliMkh3EAE!2m1!1s0x3403f0a10a4ddb39:0x4a118fc6576b2707"
+      }
+    ],
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f0a10a4ddb39:0x4a118fc6576b2707!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5337205115443685127&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f0a10a4ddb39:0x4a118fc6576b2707!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f0a10a4ddb39:0x4a118fc6576b2707!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f0a10a4ddb39:0x4a118fc6576b2707!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJOdtNCqHwAzQRBydrV8aPEUo/photos/Aa-ngMav-RTr0o_VYWoutP3JNv9UNmiAz5awRcFadtVZnFLwjESgUGsvd05r5_cdVmq5zxQe51OZamgmpEAn1dwA--dCCUcZ_GKfHgt8dJ-vdBTI5b3aHkGXMV6Ytu-B46Ibw1Gd1dvn87QG4GTlZ6qwcVUGNfPvOy5sGJHEt4QB_jXSkQxjRhx0no0cA1InSvHaFhlP5tEqrvKGDb1U7fHM5GCWWVi84GuaeEM3PpNgrKUAtqTCVt5_fxHHHfLu0ALPywr9Lft-K2YKbs9TMUBq11TCe6Efj7kiT6P_c63rOfl2hENx__WNE4-VKdhrOnmtdbJck9cdgUvGX4y8SY6_EhWY-W4xzPWmea3DCimjx-W7FoEsrcNj-pL7wPliJCLShzgsdc5lxdTTNgJoLhCzCWQkZXjA",
+      "widthPx": 3456,
+      "heightPx": 4608,
+      "authorAttributions": [
+        {
+          "displayName": "Charles Yan",
+          "uri": "https://maps.google.com/maps/contrib/108746014174902517906",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrl5d4xYF1Lzl_7n5g35p3D3XFlmCBEUBa1k_gwA_xgdUlQA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC-guHe4AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-guHe4AE!2e10!4m2!3m1!1s0x3403f0a10a4ddb39:0x4a118fc6576b2707"
+    },
+    "local_path": "photos/ChIJOdtNCqHwAzQRBydrV8aPEUo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLftw-l9gRimbk1AH-63IfpN1IIMadM0YF6gJEUnweeG6Z2VVyr3VMQipBW76breOQpxA1l6kWHfH7c-shHcf9UydrKYsfCYbSjMxcEN-OMt0aajMi8BSqj3Vh_u-JuxUgKbr0xp=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 271856
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "service",
+    "label": "服務業",
+    "types": [
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

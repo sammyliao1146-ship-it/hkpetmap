@@ -1,0 +1,309 @@
+{
+  "google_place_id": "ChIJrwxmvBEBBDQRr1eyo8PgTUI",
+  "restaurant_ids": [
+    "restaurant:2218819489"
+  ],
+  "fetched_at": "2026-10-23T15:45:50.987068+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJrwxmvBEBBDQRr1eyo8PgTUI",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "Shop G08 G/F, The Peak Galleria, 118 Peak Rd, Central, The Peak, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2703965,
+      "longitude": 114.14992269999999
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=4777721910579582895&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.gelatomessina.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 20:00",
+        "星期二: 12:00 – 20:00",
+        "星期三: 12:00 – 20:00",
+        "星期四: 12:00 – 20:00",
+        "星期五: 12:00 – 21:00",
+        "星期六: 11:00 – 21:00",
+        "星期日: 11:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 111,
+    "displayName": {
+      "text": "Messina (The Peak)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "冰淇淋店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "primaryType": "ice_cream_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJrwxmvBEBBDQRr1eyo8PgTUI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWSWNIVm9Oa1pKWkVObkxYUkZSRzVPZDJKQlNVRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "超級美味的冰激凌\n\n椰子荔枝， 斑斕椰子🥥等的甜度適中不膩， 約$50 一杯。在室外座位面對青山嘆一杯風味獨特的雪糕很爽！ 還可以試食後再買呢！\n\n地點： 就在山頂廣場正門右邊。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "超級美味的冰激凌\n\n椰子荔枝， 斑斕椰子🥥等的甜度適中不膩， 約$50 一杯。在室外座位面對青山嘆一杯風味獨特的雪糕很爽！ 還可以試食後再買呢！\n\n地點： 就在山頂廣場正門右邊。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Diana",
+          "uri": "https://www.google.com/maps/contrib/103382880607761015603/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3MAz5q7cFjUfXbbBwboOwAqnhwYzwwJ5Y-51srezZs7gSFfCF=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-26T18:37:30.261394240Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWSWNIVm9Oa1pKWkVObkxYUkZSRzVPZDJKQlNVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWSWNIVm9Oa1pKWkVObkxYUkZSRzVPZDJKQlNVRRAB!2m1!1s0x34040111bc660caf:0x424de0c3a3b257af"
+      },
+      {
+        "name": "places/ChIJrwxmvBEBBDQRr1eyo8PgTUI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SaFpHZDZlbWxHWnpkNE5rdzRVMkppTm01eGNVRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Gelato選擇勁多 可以即場試左鍾意嘅味再決定 開心果同榛子朱古力都勁濃 勁好食 見到仲有狗狗專屬雪糕 下次要帶埋狗仔一齊黎",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Gelato選擇勁多 可以即場試左鍾意嘅味再決定 開心果同榛子朱古力都勁濃 勁好食 見到仲有狗狗專屬雪糕 下次要帶埋狗仔一齊黎",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "heaheafooddiary",
+          "uri": "https://www.google.com/maps/contrib/102749446083461092833/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYPMQjp80swsxIZ85qSWS8j_G0JyoGY5Phrg1qdb-gkYe1c70=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-04T08:40:13.112916298Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SaFpHZDZlbWxHWnpkNE5rdzRVMkppTm01eGNVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SaFpHZDZlbWxHWnpkNE5rdzRVMkppTm01eGNVRRAB!2m1!1s0x34040111bc660caf:0x424de0c3a3b257af"
+      },
+      {
+        "name": "places/ChIJrwxmvBEBBDQRr1eyo8PgTUI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25vemJqVjJUUzFCUzJaMWNrcGlSVzFVYUV0NFVXYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "雖然比澳洲貴\n但一次半次還可以啦（尤其是行完幾個山要獎勵下自己）\n當然吃三球啦（因為最抵食😆）\n開心果+榛子朱古力+海鹽焦糖白朱古力\n三個味對我來講甜度剛好\n不會過甜\n朋友嗰個係開心果+香港限定蕃薯味+極濃焦糖奶醬（呢個偏甜，很膩）",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "雖然比澳洲貴\n但一次半次還可以啦（尤其是行完幾個山要獎勵下自己）\n當然吃三球啦（因為最抵食😆）\n開心果+榛子朱古力+海鹽焦糖白朱古力\n三個味對我來講甜度剛好\n不會過甜\n朋友嗰個係開心果+香港限定蕃薯味+極濃焦糖奶醬（呢個偏甜，很膩）",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jess",
+          "uri": "https://www.google.com/maps/contrib/113846367632477007115/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqJPz2R1hQR37wRT_HSVmiQi4jpS4XXJYNQApoobvMKM0-NIaO=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-04T05:33:40.933361016Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25vemJqVjJUUzFCUzJaMWNrcGlSVzFVYUV0NFVXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25vemJqVjJUUzFCUzJaMWNrcGlSVzFVYUV0NFVXYxAB!2m1!1s0x34040111bc660caf:0x424de0c3a3b257af"
+      },
+      {
+        "name": "places/ChIJrwxmvBEBBDQRr1eyo8PgTUI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsM1dVbzVhbTB5YzJreVZtSTBlR2hWUTJJM1QxRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "山頂每週雪糕限定口味 🍦雲呢拿意式雪糕伴蘋果批及焦糖牛奶\n\n這款雲呢拿意式雪糕搭配蘋果批和焦糖牛奶，簡直秋天的完美享受！雪糕滑順，香甜的蘋果批帶來果香，而焦糖牛奶則為整體增添了濃郁的層次感，吃一口就讓人心情變好！超推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "山頂每週雪糕限定口味 🍦雲呢拿意式雪糕伴蘋果批及焦糖牛奶\n\n這款雲呢拿意式雪糕搭配蘋果批和焦糖牛奶，簡直秋天的完美享受！雪糕滑順，香甜的蘋果批帶來果香，而焦糖牛奶則為整體增添了濃郁的層次感，吃一口就讓人心情變好！超推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ball Super",
+          "uri": "https://www.google.com/maps/contrib/111181108158619989762/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsxfuYfSrVPjhJ6zGZGUzgTUOUKynrGALu79_-X1t1rPRInvhZ5w=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-11-04T09:24:28.242506685Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsM1dVbzVhbTB5YzJreVZtSTBlR2hWUTJJM1QxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsM1dVbzVhbTB5YzJreVZtSTBlR2hWUTJJM1QxRRAB!2m1!1s0x34040111bc660caf:0x424de0c3a3b257af"
+      },
+      {
+        "name": "places/ChIJrwxmvBEBBDQRr1eyo8PgTUI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKeGJUbDBSVGhoWW1Sc1RHaFRVMk13VjJSZmNVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "👍🏻店員服務態度很好，推薦的口味都很好吃😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "👍🏻店員服務態度很好，推薦的口味都很好吃😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yama企鵝",
+          "uri": "https://www.google.com/maps/contrib/106849244764871905765/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWESU_1c-2lgrY150Oea1zRXArGAD7By6-816oVOgksmSbnc_c=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-10-17T15:35:06.891802355Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKeGJUbDBSVGhoWW1Sc1RHaFRVMk13VjJSZmNVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKeGJUbDBSVGhoWW1Sc1RHaFRVMk13VjJSZmNVRRAB!2m1!1s0x34040111bc660caf:0x424de0c3a3b257af"
+      }
+    ],
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040111bc660caf:0x424de0c3a3b257af!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4777721910579582895&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040111bc660caf:0x424de0c3a3b257af!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040111bc660caf:0x424de0c3a3b257af!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040111bc660caf:0x424de0c3a3b257af!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJrwxmvBEBBDQRr1eyo8PgTUI/photos/Aa-ngMaG8QsD0mluHIYXFaGUMzJTvaogsa09ZoF7MIu-usSFRcnmhm0J6KuO-S6YQBbtxawOFlGiRoNgzmRHrteTMe4O84OfIpf4T4JBx9IktR6-egr3o9SW20RPds8sbnO4g0qhL9vXtEFlQts0uzqOJMrUt5OTawxz_Cb41sfdWNSBoXovuTwpIT_F-oEl0IzS8CD9hOlJI6Dv7PhqTrVOvbA3WFsBnmyLcYXHZxxsiPa6NHyPbVXpoXOJQdetXfvhUxEdXVKPPt5c0nUILA9LCD94zV4SxdvZjgiWVS5nYqSlUm0Jn9NKHkjKpCKoOJqoIdThFEhnw2F5_rNXEMOIb7tjWIU7voWMSuW_xQ8cJicWevg3qE1TUy_rEWHS6FTYyNWIeBrM1Bcmi101ETE1NHNf52M",
+      "widthPx": 4505,
+      "heightPx": 3003,
+      "authorAttributions": [
+        {
+          "displayName": "Messina (The Peak)",
+          "uri": "https://maps.google.com/maps/contrib/107421699894805856183",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRAwunT4EP4TznVdjXHmr3iBHeuxhqeQuQb-QdTJF6_dNJr58=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_sp6RcA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_sp6RcA!2e10!4m2!3m1!1s0x34040111bc660caf:0x424de0c3a3b257af"
+    },
+    "local_path": "photos/ChIJrwxmvBEBBDQRr1eyo8PgTUI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8eTI6YAisWNL1g16R160QQQAyRVZYOwbtnfyHGIp_2osa43PG7EWc6f9BFRnbdGyjKe8meRrniVu1-xVJZSIb4XoHShV97IZvE5jqSVlAuwRaSMtS0VbbedJsz0WoAwGgUt2q=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 125002
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "ice_cream_shop",
+    "label": "冰淇淋店",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

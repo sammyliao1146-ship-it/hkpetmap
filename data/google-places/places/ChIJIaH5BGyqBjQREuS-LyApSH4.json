@@ -1,0 +1,414 @@
+{
+  "google_place_id": "ChIJIaH5BGyqBjQREuS-LyApSH4",
+  "restaurant_ids": [
+    "restaurant:2215801191"
+  ],
+  "fetched_at": "2026-10-23T15:41:43.538293+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJIaH5BGyqBjQREuS-LyApSH4",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "8300 8006",
+    "internationalPhoneNumber": "+852 8300 8006",
+    "formattedAddress": "Shop 308, Stanley Plaza, 23 Carmel Rd, Stanley, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2192031,
+      "longitude": 114.2101826
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=9099568265318818834&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.taoheung.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 16:00, 18:00 – 22:00",
+        "星期二: 11:30 – 16:00, 18:00 – 22:00",
+        "星期三: 11:30 – 16:00, 18:00 – 22:00",
+        "星期四: 11:30 – 16:00, 18:00 – 22:00",
+        "星期五: 11:30 – 16:00, 18:00 – 22:00",
+        "星期六: 11:30 – 16:00, 18:00 – 22:00",
+        "星期日: 11:30 – 16:00, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 377,
+    "displayName": {
+      "text": "鍾菜館",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "廣東菜餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "cantonese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJIaH5BGyqBjQREuS-LyApSH4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGQmRHOUZURzFDZHpoUlNFbFlkM2t6WTNaa05tYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "擁清幽雅緻的用膳環境、友善的員工及專業用心煑理食材的大㕑，屬難得一遇的粵菜館⋯⋯\n在這兒品茗吃點心或晚飯小炒都是不錯的選擇．．\n一向不愛點套餐都要給個👍大碗翅龍蝦鮑魚餐鮑魚、龍蝦無得輸，但仍有可挑剔之處，就是大碗翅的湯底與翅身的透明色澤過於接近，特顯碗大難見翅的情況，前菜藤椒魚皮絲入口爽脆但藤椒味過份濃郁未必適合廣大市民口味，故難盡情大嚼略嫌有點兒浪費．．\n總體而言，鍾菜館在港人北上消費模式下仍能堅持出品實屬難得．．",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "擁清幽雅緻的用膳環境、友善的員工及專業用心煑理食材的大㕑，屬難得一遇的粵菜館⋯⋯\n在這兒品茗吃點心或晚飯小炒都是不錯的選擇．．\n一向不愛點套餐都要給個👍大碗翅龍蝦鮑魚餐鮑魚、龍蝦無得輸，但仍有可挑剔之處，就是大碗翅的湯底與翅身的透明色澤過於接近，特顯碗大難見翅的情況，前菜藤椒魚皮絲入口爽脆但藤椒味過份濃郁未必適合廣大市民口味，故難盡情大嚼略嫌有點兒浪費．．\n總體而言，鍾菜館在港人北上消費模式下仍能堅持出品實屬難得．．",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sake.zarusoba sake.zarusoba",
+          "uri": "https://www.google.com/maps/contrib/106407478583101547678/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWe8EZ6z3GgndHfuAa1GvFlq3h7pXsnwQmqYEHIJhiLWoFrxNev=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-19T14:47:53.878595559Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGQmRHOUZURzFDZHpoUlNFbFlkM2t6WTNaa05tYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGQmRHOUZURzFDZHpoUlNFbFlkM2t6WTNaa05tYxAB!2m1!1s0x3406aa6c04f9a121:0x7e4829202fbee412"
+      },
+      {
+        "name": "places/ChIJIaH5BGyqBjQREuS-LyApSH4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Wa1JXbFNkVnBFTURadGEzUm5XRE10TW5aMVZFRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "幾高質嘅茶樓，點心精緻，座位舒服，服務好好，價錢仲要唔貴！性價比👍\n另外有d單人點心，一龍點心有一粒燒賣/蝦餃！\n泊車方便，容易claim免費泊車優惠",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "幾高質嘅茶樓，點心精緻，座位舒服，服務好好，價錢仲要唔貴！性價比👍\n另外有d單人點心，一龍點心有一粒燒賣/蝦餃！\n泊車方便，容易claim免費泊車優惠",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Riley Kwok",
+          "uri": "https://www.google.com/maps/contrib/106227462447462290709/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3e6UgU8HtSda_WpFhZGOcMWJel36RkB4afSpT5fkJcviInyPwBw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-12-12T01:09:31.374943552Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Wa1JXbFNkVnBFTURadGEzUm5XRE10TW5aMVZFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Wa1JXbFNkVnBFTURadGEzUm5XRE10TW5aMVZFRRAB!2m1!1s0x3406aa6c04f9a121:0x7e4829202fbee412"
+      },
+      {
+        "name": "places/ChIJIaH5BGyqBjQREuS-LyApSH4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wMFprcG9lR1ZUTkVzdE1XUmlWbEZHWmxNMlIyYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "稻香集團旗下的中式食肆 走中高檔路線 早上有中式早茶 晚市有小菜點心 這家中式食肆已經在赤柱多年了 是難得的經營者 食物味道還不錯 有時候會做主題食物推廣 如果你對中式餐飲有要求可以來這裏嘗試一下 是南區少有的中菜選擇\n\nThe Chinese restaurant under Daoxiang Group takes the middle and high-end route. There are Chinese morning tea in the morning and snacks in the evening. This Chinese restaurant has been in Stanley for many years. It is a rare operator. The food tastes good. Sometimes it will do theme food promotion. If you have any requirements for Chinese catering, you can come here to try it. It is a rare choice of Chinese cuisine in the South District.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "稻香集團旗下的中式食肆 走中高檔路線 早上有中式早茶 晚市有小菜點心 這家中式食肆已經在赤柱多年了 是難得的經營者 食物味道還不錯 有時候會做主題食物推廣 如果你對中式餐飲有要求可以來這裏嘗試一下 是南區少有的中菜選擇\n\nThe Chinese restaurant under Daoxiang Group takes the middle and high-end route. There are Chinese morning tea in the morning and snacks in the evening. This Chinese restaurant has been in Stanley for many years. It is a rare operator. The food tastes good. Sometimes it will do theme food promotion. If you have any requirements for Chinese catering, you can come here to try it. It is a rare choice of Chinese cuisine in the South District.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mong Tung",
+          "uri": "https://www.google.com/maps/contrib/110771854490228721711/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvT4fmNNmDm-kMGOD4BwCDcxSd2qW9bC2h4YQcPrB14ehuuvs=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-26T02:54:27.598617530Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wMFprcG9lR1ZUTkVzdE1XUmlWbEZHWmxNMlIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wMFprcG9lR1ZUTkVzdE1XUmlWbEZHWmxNMlIyYxAB!2m1!1s0x3406aa6c04f9a121:0x7e4829202fbee412"
+      },
+      {
+        "name": "places/ChIJIaH5BGyqBjQREuS-LyApSH4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oMllYbERVRU5GY1RSU1dGUjVNVTk0YUY5ZlVXYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "高質中菜，但抵唔抵食就見仁見智",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "高質中菜，但抵唔抵食就見仁見智",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Li Hydan",
+          "uri": "https://www.google.com/maps/contrib/104425600249065764681/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLzXnCbdM4ioP9ZU2D9fz8bJxZMVnV4vI4qVleFzgFa1mVmkw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-15T10:49:24.661345127Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oMllYbERVRU5GY1RSU1dGUjVNVTk0YUY5ZlVXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oMllYbERVRU5GY1RSU1dGUjVNVTk0YUY5ZlVXYxAB!2m1!1s0x3406aa6c04f9a121:0x7e4829202fbee412"
+      },
+      {
+        "name": "places/ChIJIaH5BGyqBjQREuS-LyApSH4/reviews/ChdDSUhNMG9nS0VJQ0FnSURpek5MQm5RRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "本人於2020年11月尾光顧赤柱商場價鍾菜酒樓。\n疫情期間，這裏很注意衞生。 在十一點半正式營業前，門外已經有一條小小嘅人龍。 星期一至五 小點至大點的價錢很便宜， 但是到咗星期六及星期四每一款點心大約係貴七成。\n這裏斟茶水的設計亦都很方便， 很新穎 。可以令到食客自己可以不斷 煲滾水，沖茶十分新款。\n點菜的方式亦用了素描QRcode的方法. 在赤柱一帶，提供中色品茗嘅酒樓 ，這裏可以說是唯一一間啊。 各款點心味道亦都很好，值得推介！！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "本人於2020年11月尾光顧赤柱商場價鍾菜酒樓。\n疫情期間，這裏很注意衞生。 在十一點半正式營業前，門外已經有一條小小嘅人龍。 星期一至五 小點至大點的價錢很便宜， 但是到咗星期六及星期四每一款點心大約係貴七成。\n這裏斟茶水的設計亦都很方便， 很新穎 。可以令到食客自己可以不斷 煲滾水，沖茶十分新款。\n點菜的方式亦用了素描QRcode的方法. 在赤柱一帶，提供中色品茗嘅酒樓 ，這裏可以說是唯一一間啊。 各款點心味道亦都很好，值得推介！！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sukki Tam",
+          "uri": "https://www.google.com/maps/contrib/115062035072896192204/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkyUzvOEXLMnGn7UOUN2ztuUWidJ6cMU7NZNKklOaaRfQ3Qr69=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2020-11-27T10:09:18.721162Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURpek5MQm5RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURpek5MQm5RRRAB!2m1!1s0x3406aa6c04f9a121:0x7e4829202fbee412"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3406aa6c04f9a121:0x7e4829202fbee412!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9099568265318818834&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3406aa6c04f9a121:0x7e4829202fbee412!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3406aa6c04f9a121:0x7e4829202fbee412!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3406aa6c04f9a121:0x7e4829202fbee412!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJIaH5BGyqBjQREuS-LyApSH4/photos/Aa-ngMYyvaNPxoABeKngE0vZpvSjjAZzxCETEVUUIuQg6w18HMWTfFqgjVl9X47bYPvB0qSDXEn2WGOOeuSuC-YnmWnuGPxiTrpDA-1tKeeZNhN7kd3_2yzIPxaBw6_oLRU14BUiHJuvN4DFcg-vfIqBcPvX2krw8w1qfc6QWYh2z4LQHVDbsJN0UvtKTB2XeWoe4TUyNtvq6uEEyJSoR-2a8ixXsaQPptBueJTFcdFmm-fVu8C9iM6RWdlIW38f0kqWua-wU-mIvUruYFRr4XhoNQFOI6fCJEg00ylI6inYUsUQfxAmphsTSU7Ladg64tjUr1RCqn42qgk-WvCnxWSgsqHWfmjMxSjUntR7houC7YILgK9ce7JL7M7p93_APBtO29agoS7YwKPNUxokX5pJYEx0lJu27QiI4-Y4RLqRMBUc",
+      "widthPx": 4800,
+      "heightPx": 2962,
+      "authorAttributions": [
+        {
+          "displayName": "Nick Yung",
+          "uri": "https://maps.google.com/maps/contrib/114325967034446325933",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0w26pRzVoHnyj8XzR6jXEIPxyUSOhbN_yMRjuWQ8C9IX0KQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCKRigVxMjrkZPwcd5RWniz&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCKRigVxMjrkZPwcd5RWniz!2e10!4m2!3m1!1s0x3406aa6c04f9a121:0x7e4829202fbee412"
+    },
+    "local_path": "photos/ChIJIaH5BGyqBjQREuS-LyApSH4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNhfpkd-CuDypMMfZEwR_Y9VeYpviw_XDwZRrSIX596KZaI3boCBTqDk1W9FvCwlx0p_Ioypo1wrpEHa3az0bgmbUhcp4rFlaiJ_JJkLpK1V1SE_-Zmdeu1ZrMXObwf8p1jY8Qpv0_R3c=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 155109
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cantonese_restaurant",
+    "label": "廣東菜餐廳",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

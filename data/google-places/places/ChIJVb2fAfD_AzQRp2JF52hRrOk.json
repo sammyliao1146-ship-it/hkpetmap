@@ -1,0 +1,314 @@
+{
+  "google_place_id": "ChIJVb2fAfD_AzQRp2JF52hRrOk",
+  "restaurant_ids": [
+    "restaurant:3115228453"
+  ],
+  "fetched_at": "2026-10-23T15:49:31.227324+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJVb2fAfD_AzQRp2JF52hRrOk",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2989 9592",
+    "internationalPhoneNumber": "+852 2989 9592",
+    "formattedAddress": "Shop 316, Cyberport 3, Telegraph Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2595195,
+      "longitude": 114.1321588
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=16837922617829974695&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.starbucks.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 17:00",
+        "星期二: 07:30 – 17:00",
+        "星期三: 07:30 – 17:00",
+        "星期四: 07:30 – 17:00",
+        "星期五: 07:30 – 15:00",
+        "星期六: 休息",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-25T23:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 13,
+    "displayName": {
+      "text": "星巴克 (數碼港3樓)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "editorialSummary": {
+      "text": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJVb2fAfD_AzQRp2JF52hRrOk/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxaVpTU1B3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "我的優格裡居然有將近四分之一顆草莓，真是太健康了。我的大杯咖啡其實就是中盃加了更多水，淡得像水一樣。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "My yogurt contained nearly a whole quarter of a strawberry. So very healthy. My venti (large) coffee is just a medium one with more water. So very watery.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Yan Moistnado",
+          "uri": "https://www.google.com/maps/contrib/102225983334265297078/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLnkluo1EnU6jUU_egAoPAB-fPRlTor6_ho2iYGlaa7LZRXVA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-01-08T03:03:16.988487Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQxaVpTU1B3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQxaVpTU1B3EAE!2m1!1s0x3403fff0019fbd55:0xe9ac5168e74562a7"
+      },
+      {
+        "name": "places/ChIJVb2fAfD_AzQRp2JF52hRrOk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaMll6aFFVblIxTm1aYVIyVm9OVlpIZFRCVlpGRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Staff非常友善",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Staff非常友善",
+          "languageCode": "zh"
+        },
+        "authorAttribution": {
+          "displayName": "Charmy Cheng",
+          "uri": "https://www.google.com/maps/contrib/108919608886711443256/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3o7JLpLmFpYMDi9s_OHP3AkYWpU-s3IstjYlf5LHqESUkCVw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-03-24T17:16:10.546146397Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaMll6aFFVblIxTm1aYVIyVm9OVlpIZFRCVlpGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaMll6aFFVblIxTm1aYVIyVm9OVlpIZFRCVlpGRRAB!2m1!1s0x3403fff0019fbd55:0xe9ac5168e74562a7"
+      },
+      {
+        "name": "places/ChIJVb2fAfD_AzQRp2JF52hRrOk/reviews/ChdDSUhNMG9nS0VJQ0FnSURBbGRUcm9RRRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 4,
+        "text": {
+          "text": "數碼港的星巴克",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "One of the starbucks in cyberport",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Timmy C",
+          "uri": "https://www.google.com/maps/contrib/107753117390114402673/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJPkJgivm28wMenE92-msKFBx2MYFC31BwclY7PeyhZyVZNrA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2017-12-06T12:49:27.988Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBbGRUcm9RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBbGRUcm9RRRAB!2m1!1s0x3403fff0019fbd55:0xe9ac5168e74562a7"
+      },
+      {
+        "name": "places/ChIJVb2fAfD_AzQRp2JF52hRrOk/reviews/ChdDSUhNMG9nS0VJQ0FnSURNZ0pLejZnRRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 4,
+        "text": {
+          "text": "一家普通的星巴克。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Just a normal Starbucks.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Ryan Ho",
+          "uri": "https://www.google.com/maps/contrib/105115109391278231879/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULZ1KK9pS5WBz7gUwHVS1T_XP6qOteSRsj26zPZSUp_NOlPoNiOA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2019-12-12T08:41:35.520934Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURNZ0pLejZnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURNZ0pLejZnRRAB!2m1!1s0x3403fff0019fbd55:0xe9ac5168e74562a7"
+      },
+      {
+        "name": "places/ChIJVb2fAfD_AzQRp2JF52hRrOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlOGU2WGpBRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "環境不錯",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Nice ambiance",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "SC",
+          "uri": "https://www.google.com/maps/contrib/108582510801102723169/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEpGwAa6VTkF8XsI3yMyNM6-pvp3IaWgg5eP1fumXdm-QNfrqY=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-09-17T00:07:23.481703Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlOGU2WGpBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlOGU2WGpBRRAB!2m1!1s0x3403fff0019fbd55:0xe9ac5168e74562a7"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fff0019fbd55:0xe9ac5168e74562a7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16837922617829974695&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fff0019fbd55:0xe9ac5168e74562a7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fff0019fbd55:0xe9ac5168e74562a7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fff0019fbd55:0xe9ac5168e74562a7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJVb2fAfD_AzQRp2JF52hRrOk/photos/Aa-ngMa9FU5BkbuNZGxdBo63VYFfP0CIp1eIYQEVfA72sFEl16me3QMxt630xtrpC5DsTewmYR7fj6EBkO_Jr_2YsHZ5awG1AtS85Uqrz53oiJqyzkgrPz4nmj3y-JbQq02DoZJ2C2t4TSewAjRHkmbjLv0BcI55Bbz8xZQzXBvmSj_Xwdux7xWv1bPP05YQbauma5MJfhxjzS8FTKtcz33mKjg8R4o1t-ICSm4KFp8_JM1Pxdtu2HCslxcHQwFqiSmj_Hdi6k_Fc3hFaHIJo8PYLjDUMgW9ZzIZQZHeobJMJi15Rm8I0kd0odYro5EAUONkcbdNX1X8r_bqouxp71sDbKP4qz1BlYe8tKypzff0oWAWZo__7wX4ksU1Bb5V_Fxp7aJaPMM47kt9AlndPqeszQJzqtPunoM",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "authorAttributions": [
+        {
+          "displayName": "Timmy C",
+          "uri": "https://maps.google.com/maps/contrib/107753117390114402673",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJPkJgivm28wMenE92-msKFBx2MYFC31BwclY7PeyhZyVZNrA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE78qQ2QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE78qQ2QE!2e10!4m2!3m1!1s0x3403fff0019fbd55:0xe9ac5168e74562a7"
+    },
+    "local_path": "photos/ChIJVb2fAfD_AzQRp2JF52hRrOk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYg7GMwVp0HHeqYokuJ9UzmRkz2sqwTUMhngwV7uezitPYoaVtQClSu1hgIHBq10_Y_knACH8l4ma9vxv6-nTmMhc7bQziqlShdlLRI-PMeZDBF7lI6siNevE77QGzaI6jHg6bzA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 75443
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

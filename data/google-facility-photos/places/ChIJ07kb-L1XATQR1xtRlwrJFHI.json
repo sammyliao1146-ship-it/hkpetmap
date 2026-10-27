@@ -1,0 +1,41 @@
+{
+  "id": "ChIJ07kb-L1XATQR1xtRlwrJFHI",
+  "types": [
+    "veterinary_care",
+    "pharmacy",
+    "store",
+    "pet_care",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界梅窩梅窩鄉事會路5號",
+  "location": {
+    "latitude": 22.267769599999998,
+    "longitude": 113.99721869999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8220416267183528919&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Lantau Veterinary Clinic",
+    "languageCode": "en"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJ07kb-L1XATQR1xtRlwrJFHI/photos/Aa-ngMaDPNHE3CRunzZ_fxz6L0PeQt7-EWE7nQfhZ_ETwn8ZHL7u11VBducRmKzVECRvZEe0X_NtalyRsgASWYGA-j6VpQAf2ihGbE07FH6t08t0uO_enrdgfBdaT_x9UMvm8HwB77rOJBcwfl4nBrqkDPrObmbEKjWnN19uvrhDu0EgKUuxHvWf2iSZeUYxvZoySMF-hCx1s1gKW2ARuLSR0U_rwB4oWlS8yCo8uv2YNFJ_2ZHHIKwFSoeAcIYELFSz-QEtd8S2Lz_w-vxENTIsxc0kvAc7h04rU2iZp_k3YGKuYOkB9_yPqNblmJVmcHwoZRD85q1Ex1Moq90kvw9ij_MmzcnmTzH8kSRezYeOnLe5jnNCtCCYglSNCM2Qdq2xlyQLgSzps6O4jNDxhDv4DLHathueHIo",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "Lantau Veterinary Clinic",
+          "uri": "https://maps.google.com/maps/contrib/100557764862052992473",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLVPbvXyVBVglZ_TBPZdWXiwoFR5n46JSsXTL3y0LIZTAE77A=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDR3pKOtgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR3pKOtgE!2e10!4m2!3m1!1s0x340157bdf81bb9d3:0x7214c90a97511bd7"
+    }
+  ],
+  "photo_count": 9,
+  "fetched_at": "2026-10-24T00:38:54.478337+00:00"
+}

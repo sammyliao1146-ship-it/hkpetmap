@@ -1,0 +1,38 @@
+{
+  "id": "ChIJMyrMbR0ABDQRn7xdnsEybx4",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島鴨脷洲鴨脷洲大街",
+  "location": {
+    "latitude": 22.2451725,
+    "longitude": 114.1581021
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2193027350719741087&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "鴨脷洲公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJMyrMbR0ABDQRn7xdnsEybx4/photos/Aa-ngMZmuaPSTDouG9mDilDevNosx8Q5P6iR_Ouf2FIEW1uY0CRw_qSt2MXsViKIbo49NRGiisgnDrJ-2nrKPnDWsITcix3doNaEx5tPJwKSYddNZAwDdBuk_s9EcnnGw5Hp2ZBJQ9GvEKvb69rQIKPZ3r-ranvCW9-ZnjFMPGp9tRhqBS22AzK0SsmaSa-OlEKneaB2o1wcablfh22Q-eRg2UxhbPmU8eLcfZsAD2e6iwCLIy5uTjJquAUTIGay8UUM3ahSQOial7-PSJbc_ks2FpYX55iXqSLWcjXbGeOBCFl6MjpdAicYHegCbtSLqDQAeG-11n1qvO2s6zYmw-2owBFScKZUfv97nkkrn74opU1Ub-ZJdulPgEkN-xM8DL7f-VOTh249EFJqbf7zPe7mgcqh-fdEFsI",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Conor O'Mara",
+          "uri": "https://maps.google.com/maps/contrib/101614598140235688927",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYqBeH3wLA1BDuIWYGKCQ8-DPkesoYCJmS3p0CajxftCWE8w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDyz-CbugE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDyz-CbugE!2e10!4m2!3m1!1s0x3404001d6dcc2a33:0x1e6f32c19e5dbc9f"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:19.164032+00:00"
+}

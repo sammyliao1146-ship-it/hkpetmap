@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJP8nQ2DYBBDQRg0VHYsLIj7k",
+  "restaurant_ids": [
+    "restaurant:3152803813"
+  ],
+  "fetched_at": "2026-10-23T15:39:58.262160+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJP8nQ2DYBBDQRg0VHYsLIj7k",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "4645 8822",
+    "internationalPhoneNumber": "+852 4645 8822",
+    "formattedAddress": "香港九龍紅磡必嘉圍8號御悅地下B舖",
+    "location": {
+      "latitude": 22.3067983,
+      "longitude": 114.1836209
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=13371126555884340611&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/badgerscafehk?igsh=MTVzajUyYmdtNTNsYg==",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 20:00",
+        "星期二: 08:00 – 20:00",
+        "星期三: 08:00 – 20:00",
+        "星期四: 08:00 – 20:00",
+        "星期五: 08:00 – 20:00",
+        "星期六: 08:00 – 20:00",
+        "星期日: 08:00 – 20:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 96,
+    "displayName": {
+      "text": "Badgers Cafe",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJP8nQ2DYBBDQRg0VHYsLIj7k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSMVUxTXdkVkpSY0ZRek9FdFlTREUwVEVZNVNtYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "人唔多，但有驚喜\n好坐舒服\nAll day breakfast 有燒雞有waffle同蔬菜搭配好好\n位置近大酒店如果你唔介意",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "人唔多，但有驚喜\n好坐舒服\nAll day breakfast 有燒雞有waffle同蔬菜搭配好好\n位置近大酒店如果你唔介意",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Man Milk",
+          "uri": "https://www.google.com/maps/contrib/113350890275367257758/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8wz7W1JECKEdIeWzXzgEvkIZmqJaMn8I1VR_gHV6F4alB-duD=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-19T08:38:54.774953155Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSMVUxTXdkVkpSY0ZRek9FdFlTREUwVEVZNVNtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSMVUxTXdkVkpSY0ZRek9FdFlTREUwVEVZNVNtYxAB!2m1!1s0x34040136d8d0c93f:0xb98fc8c262474583"
+      },
+      {
+        "name": "places/ChIJP8nQ2DYBBDQRg0VHYsLIj7k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsa1dHOWxZbTVYYUZsSFNVRkdSMmRKZFRsNGFsRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "牛油窩夫很脆 咖啡亦不錯\n裝飾很有特色 紅磡hidden gem❤️\n只是座位比較少",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "牛油窩夫很脆 咖啡亦不錯\n裝飾很有特色 紅磡hidden gem❤️\n只是座位比較少",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Stephanie Au",
+          "uri": "https://www.google.com/maps/contrib/102640910957951941980/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5ZRSIenGZRO0HDpQ1EawNAlGCXiOGhrEawx03Gg_HvuI39e23=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-04T09:12:46.656929931Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsa1dHOWxZbTVYYUZsSFNVRkdSMmRKZFRsNGFsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsa1dHOWxZbTVYYUZsSFNVRkdSMmRKZFRsNGFsRRAB!2m1!1s0x34040136d8d0c93f:0xb98fc8c262474583"
+      },
+      {
+        "name": "places/ChIJP8nQ2DYBBDQRg0VHYsLIj7k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVd2JreE9lbXBoVVVodVNWQTNNM04wTWpOR1owRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 2,
+        "text": {
+          "text": "食物ok\n最主要係嗰位光頭店員好似好趕收工咁\n我1240左右入座 1點半佢就想收哂我啲野\n但我碗飯同飲品係未食完飲完的⋯\n明明定位係cafe 咁趕客嘅話觀憑就不太好⋯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物ok\n最主要係嗰位光頭店員好似好趕收工咁\n我1240左右入座 1點半佢就想收哂我啲野\n但我碗飯同飲品係未食完飲完的⋯\n明明定位係cafe 咁趕客嘅話觀憑就不太好⋯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cynthia Law",
+          "uri": "https://www.google.com/maps/contrib/117710820907914511197/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4w_5a4syYcvGf_o1PtT_S5utZ7XtSfgOMdZFLBvxpUAaborfm=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-09T06:14:01.949134258Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVd2JreE9lbXBoVVVodVNWQTNNM04wTWpOR1owRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVd2JreE9lbXBoVVVodVNWQTNNM04wTWpOR1owRRAB!2m1!1s0x34040136d8d0c93f:0xb98fc8c262474583"
+      },
+      {
+        "name": "places/ChIJP8nQ2DYBBDQRg0VHYsLIj7k/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VeE5XSkljMkkzYlZRd1dUaHBXR0ZzUzNsd1IwRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "牛腱肉沙律另外加煎帶子，牛腱肉香牛味同煎得幾香\n龍蝦汁煮帶子大蝦猫耳朵，呢個一般般\n大蝦好重雪味\n抹茶椰子水好飲，但係杯蜜糖薑latte 就一d薑味都無😂\n星期六去環境幾安靜，適合傾偈",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "牛腱肉沙律另外加煎帶子，牛腱肉香牛味同煎得幾香\n龍蝦汁煮帶子大蝦猫耳朵，呢個一般般\n大蝦好重雪味\n抹茶椰子水好飲，但係杯蜜糖薑latte 就一d薑味都無😂\n星期六去環境幾安靜，適合傾偈",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ho Litina",
+          "uri": "https://www.google.com/maps/contrib/117651204408952918071/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJHUnXWgxKi25zhrmdWIEsP12-yZN13xhoUkKLR1y0xchT1HA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-07T09:20:35.866401072Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VeE5XSkljMkkzYlZRd1dUaHBXR0ZzUzNsd1IwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VeE5XSkljMkkzYlZRd1dUaHBXR0ZzUzNsd1IwRRAB!2m1!1s0x34040136d8d0c93f:0xb98fc8c262474583"
+      },
+      {
+        "name": "places/ChIJP8nQ2DYBBDQRg0VHYsLIj7k/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4di02Skl3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "呢間今期大熱既湖水綠Cafe相信大家都唔會陌生, 有室外同內既座位, 主要走復古懷舊路線😉 星期六黎到11點令室內都已經坐得7788, 所以大家想坐靚位就要趁早喇😉 食物選擇以三文治, 全日早餐, 意粉為主, 飲品就正常款式咖啡同茶類可以選擇😚\n\nBrioche🥪 ($58)\n餡料可以揀黑椒火腿或牛肉, 鬆軟既包配上黑椒火腿, 蛋沙律, 生菜, 呢個組合幾清爽, 蛋沙律好突出, 另外仲配有黑醋沙律👍🏽\n\nDirty☕️ ($45）\n咖啡偏nutty 轉左做燕麥奶($5) 味道正常既奶啡🤔\n\n呢度少人既話會幾Chill, 聽住Jazz, 睇下書, 做下自己野😎 食物比我想像中出色, 老細仲每人送左一塊Lotus餅乾作為開業禮物😇",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間今期大熱既湖水綠Cafe相信大家都唔會陌生, 有室外同內既座位, 主要走復古懷舊路線😉 星期六黎到11點令室內都已經坐得7788, 所以大家想坐靚位就要趁早喇😉 食物選擇以三文治, 全日早餐, 意粉為主, 飲品就正常款式咖啡同茶類可以選擇😚\n\nBrioche🥪 ($58)\n餡料可以揀黑椒火腿或牛肉, 鬆軟既包配上黑椒火腿, 蛋沙律, 生菜, 呢個組合幾清爽, 蛋沙律好突出, 另外仲配有黑醋沙律👍🏽\n\nDirty☕️ ($45）\n咖啡偏nutty 轉左做燕麥奶($5) 味道正常既奶啡🤔\n\n呢度少人既話會幾Chill, 聽住Jazz, 睇下書, 做下自己野😎 食物比我想像中出色, 老細仲每人送左一塊Lotus餅乾作為開業禮物😇",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "weisikmui",
+          "uri": "https://www.google.com/maps/contrib/104017337118067731163/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNFHqOpQKQ_fG_qB_mqTqP9ZN_2Ob7uIVVCB6ZNM4UuvzTqCNJ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-06-18T04:32:03.121771Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4di02Skl3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4di02Skl3EAE!2m1!1s0x34040136d8d0c93f:0xb98fc8c262474583"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040136d8d0c93f:0xb98fc8c262474583!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13371126555884340611&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040136d8d0c93f:0xb98fc8c262474583!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040136d8d0c93f:0xb98fc8c262474583!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040136d8d0c93f:0xb98fc8c262474583!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJP8nQ2DYBBDQRg0VHYsLIj7k/photos/Aa-ngMZOaI0YzsPoNYY4PaUBEd7UkLoyAW5RApgAWyh9TO4CcF2B3V0vNFsNj3jsAb-NcndBsdUqK8pxFsOs4SllifQUThxUozTPsRr8qUcCvQzkmXq_JvT4JQC4l0A2RWRQ4lVJGcIlmM4wjsPvnAGNMLozcWG8a6kVwsVSfA385fnrCPzkrrWIQCC4KGznQYJ_1aF2QMbEJPSOrqSO-8VCyrv7o7GnalqBqzP6TsN-zacZqC8q2jrSdDdBZJaNk1WTF-DoLNukeu3v3bk3fbCHUylBjSVz8y4981zhDBV7pAavhD6B5FVrxpd6TB_U5owXBIiexliyjumVRaQSuOI5HCR3w3GtrVxOVrVLCSNFWw0RxN2DVgqmjf16zr6EABr19C6WdF-xEfnQyrF8KNnaRAEm9g9iwpQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Badgers cafe",
+          "uri": "https://maps.google.com/maps/contrib/111069552127579064477",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILKaxHMDYsES7BnjRZ_PtcOJwKKRJDJuywMLz3NSt5U40qzw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICTlsvZyAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTlsvZyAE!2e10!4m2!3m1!1s0x34040136d8d0c93f:0xb98fc8c262474583"
+    },
+    "local_path": "photos/ChIJP8nQ2DYBBDQRg0VHYsLIj7k.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLebJ_A7DxqYtP-P4-CbkrvLvc1YUmwtUtgjpzjRck_IVjHYs0TBQgVNL_J2T5KhxGXMMbm9P3ac0pjBz8SKyy8mvESVil4HtU16Xao3hFvbTQ21psB8xk3PZVL94ILP_eud_8RXLA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 245971
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,415 @@
+{
+  "google_place_id": "ChIJaXMpMYf_AzQRnhA0V5gxCL0",
+  "restaurant_ids": [
+    "restaurant:2218813472"
+  ],
+  "fetched_at": "2026-10-23T15:37:54.788838+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJaXMpMYf_AzQRnhA0V5gxCL0",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2520 3222",
+    "internationalPhoneNumber": "+852 2520 3222",
+    "formattedAddress": "香港香港島西營盤正街62號",
+    "location": {
+      "latitude": 22.2849056,
+      "longitude": 114.1420488
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=13621191603349885086&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/River25203222/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 45
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 15:00, 17:00 – 21:45",
+        "星期二: 11:00 – 15:00, 17:00 – 21:45",
+        "星期三: 11:00 – 15:00, 17:00 – 21:45",
+        "星期四: 11:00 – 15:00, 17:00 – 21:45",
+        "星期五: 11:00 – 15:00, 17:00 – 21:45",
+        "星期六: 11:00 – 15:00, 17:00 – 21:45",
+        "星期日: 11:00 – 15:00, 17:00 – 21:45"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 211,
+    "displayName": {
+      "text": "River Sichuan Restaurant",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJaXMpMYf_AzQRnhA0V5gxCL0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaSlltcDBjRXA1ZFRCak9UWlpRMkZJT1ZsUU4xRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "傳統川菜餐廳，也有不少不辣的選擇，火氣十足，調味恰到好處，不會有一般茶餐廳常吃到的過多酸酯味，還有一些蕃茄碎提鮮👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "傳統川菜餐廳，也有不少不辣的選擇，火氣十足，調味恰到好處，不會有一般茶餐廳常吃到的過多酸酯味，還有一些蕃茄碎提鮮👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Edwin Lee",
+          "uri": "https://www.google.com/maps/contrib/106562947406086950081/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJMk6sjacLtKhlAFFs7fH2f_r09kaJpBQpg5zySDbHADzoDcw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-06-12T05:00:49.458175536Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaSlltcDBjRXA1ZFRCak9UWlpRMkZJT1ZsUU4xRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaSlltcDBjRXA1ZFRCak9UWlpRMkZJT1ZsUU4xRRAB!2m1!1s0x3403ff8731297369:0xbd0831985734109e"
+      },
+      {
+        "name": "places/ChIJaXMpMYf_AzQRnhA0V5gxCL0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkOE43ODhBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "走到正街近頂這算偏的位置，有著一家很受歡迎的四川菜館，平日的晚飯時段都幾乎坐滿。跟友人點了四道菜，有辣有不辣都試。⁡\n⁡\n糖醋里脊 $118⁡\n成品像咕嚕肉的做法，嫩豬里脊肉包裹一層糖醋粉漿，入口酸酸甜甜味道醒胃，肉質嫩中帶爽。無論作為前菜、很好下飯的主菜或是解辣用的小食也相當適合，我倆很喜歡。⁡\n⁡\n干煸牛肉 $168⁡\n上菜一大盤十分誇張。大量辣椒乾、花椒、芽菜及蔥蒜中佈滿牛肉片，超過二人份量。一整盤乾爽牛肉片肉質柔軟、既香又惹味，沾了辣椒籽愈吃愈辣，夠刺激。在一大堆食材中尋找牛肉片，也是吃這道菜的一種樂趣。⁡\n⁡\n重慶酸辣粉 $58⁡\n煮熟至半透明的紅薯粉質感滑溜、煙靭又彈牙真的很好咬，配上酸中帶微辣，比較溫和的湯讓人一口接一口吃。⁡\n⁡\n清湯手工餃子 $88⁡\n一碗共有八隻清湯水餃，每隻都巨型有重量，餡料為韭菜豬肉末，全部爆餡有湯汁，頗為飽肚。⁡\n⁡\n最後店家還送了桂花冰粉，透明啫喱狀，入口卻能立即解辣好神奇。加上桂花就更清香及refreshing~ 為相對濃味的晚餐作結尾，合適不過。⁡",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "走到正街近頂這算偏的位置，有著一家很受歡迎的四川菜館，平日的晚飯時段都幾乎坐滿。跟友人點了四道菜，有辣有不辣都試。⁡\n⁡\n糖醋里脊 $118⁡\n成品像咕嚕肉的做法，嫩豬里脊肉包裹一層糖醋粉漿，入口酸酸甜甜味道醒胃，肉質嫩中帶爽。無論作為前菜、很好下飯的主菜或是解辣用的小食也相當適合，我倆很喜歡。⁡\n⁡\n干煸牛肉 $168⁡\n上菜一大盤十分誇張。大量辣椒乾、花椒、芽菜及蔥蒜中佈滿牛肉片，超過二人份量。一整盤乾爽牛肉片肉質柔軟、既香又惹味，沾了辣椒籽愈吃愈辣，夠刺激。在一大堆食材中尋找牛肉片，也是吃這道菜的一種樂趣。⁡\n⁡\n重慶酸辣粉 $58⁡\n煮熟至半透明的紅薯粉質感滑溜、煙靭又彈牙真的很好咬，配上酸中帶微辣，比較溫和的湯讓人一口接一口吃。⁡\n⁡\n清湯手工餃子 $88⁡\n一碗共有八隻清湯水餃，每隻都巨型有重量，餡料為韭菜豬肉末，全部爆餡有湯汁，頗為飽肚。⁡\n⁡\n最後店家還送了桂花冰粉，透明啫喱狀，入口卻能立即解辣好神奇。加上桂花就更清香及refreshing~ 為相對濃味的晚餐作結尾，合適不過。⁡",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Karin S",
+          "uri": "https://www.google.com/maps/contrib/110576722550837779976/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUxbQXPo6SbkUaJAb44zpCbHQK_eWw-y00fTaOnemFa0oaqDrX=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-02-10T11:27:08.023453Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkOE43ODhBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkOE43ODhBRRAB!2m1!1s0x3403ff8731297369:0xbd0831985734109e"
+      },
+      {
+        "name": "places/ChIJaXMpMYf_AzQRnhA0V5gxCL0/reviews/ChZDSUhNMG9nS0VJQ0FnSURyZzZqZUR3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "我真係好鍾意食川菜 所以每次都會係香港試唔同嘅川菜 今次搵到間係西環都算隱世嘅川菜館 一入黎就好有濃濃嘅中華風味😂\n\n 💲118\n酸酸甜甜嘅糖醋里脊真係好開胃😋 但係對我嚟講 有啲太酸 不過送飯就一流啦 肉質飽滿 炸得啱啱好 如果酸味可以調整少少會更加完美😜\n\n 💲168\n每次食重慶辣子雞都好似係係度玩尋寶遊戲😂因為全部都係辣椒 呢間嘅份量都適中👍 雞粒炸得好脆 調味好惹味 每一口都感受到辣味嘅刺激🔥 辣度對我黎講都啱啱好 令我一啖接一啖停唔到口\n\n無唸過食完之後 仲有免費桂花冰粉食\n冰冰涼涼 好適合食完辣嘢之後食🥰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我真係好鍾意食川菜 所以每次都會係香港試唔同嘅川菜 今次搵到間係西環都算隱世嘅川菜館 一入黎就好有濃濃嘅中華風味😂\n\n 💲118\n酸酸甜甜嘅糖醋里脊真係好開胃😋 但係對我嚟講 有啲太酸 不過送飯就一流啦 肉質飽滿 炸得啱啱好 如果酸味可以調整少少會更加完美😜\n\n 💲168\n每次食重慶辣子雞都好似係係度玩尋寶遊戲😂因為全部都係辣椒 呢間嘅份量都適中👍 雞粒炸得好脆 調味好惹味 每一口都感受到辣味嘅刺激🔥 辣度對我黎講都啱啱好 令我一啖接一啖停唔到口\n\n無唸過食完之後 仲有免費桂花冰粉食\n冰冰涼涼 好適合食完辣嘢之後食🥰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hannah",
+          "uri": "https://www.google.com/maps/contrib/115899916932318151606/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKYlp3oPy52Hq5Z9_CsTaZ--V89t3sIEfxoD0rRpbpzGwtYCA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-09-01T16:36:42.675698Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyZzZqZUR3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyZzZqZUR3EAE!2m1!1s0x3403ff8731297369:0xbd0831985734109e"
+      },
+      {
+        "name": "places/ChIJaXMpMYf_AzQRnhA0V5gxCL0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQc1l2aktnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "今日去開港島，朋友話想食川菜，經過見到呢間餐廳感覺幾正宗，就入去試下。我地叫左酸菜魚同擔擔麵。酸菜魚真係好惹味，魚肉鮮嫩，湯底酸酸辣辣，好開胃！擔擔麵辣味剛好，面條Q彈，配埋濃郁嘅擔擔醬，真係一流！🔥🍜 店員話可以揀辣度，如果唔食得辣，可以揀BB辣，貼心服務👍 仲有甜品桂花冰粉送，冰冰涼涼，岩哂用黎解辣，真係爽呀！🥵🍧\n\n而家做緊promotion，係大眾點評或者OpenRice打卡及收藏會送特麯酒1杯同埋自家製四川臘腸！如果寫埋食評，會送蒜泥青瓜/涼拌木耳呀！優惠多多，真係要把握機會！🍹🥒\n\n呢間餐廳嘅裝潢簡約而有特色，環境舒適，適合同朋友聚會或者家人一齊嚟。職員服務態度好好，令人感到賓至如歸。無論你係鍾意辣定係唔食得辣，都有適合你嘅選擇。下次去港島可以試下呢間餐廳！✨☺️\n\n川之源 (西環)\n西環西營盤正街62號地舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日去開港島，朋友話想食川菜，經過見到呢間餐廳感覺幾正宗，就入去試下。我地叫左酸菜魚同擔擔麵。酸菜魚真係好惹味，魚肉鮮嫩，湯底酸酸辣辣，好開胃！擔擔麵辣味剛好，面條Q彈，配埋濃郁嘅擔擔醬，真係一流！🔥🍜 店員話可以揀辣度，如果唔食得辣，可以揀BB辣，貼心服務👍 仲有甜品桂花冰粉送，冰冰涼涼，岩哂用黎解辣，真係爽呀！🥵🍧\n\n而家做緊promotion，係大眾點評或者OpenRice打卡及收藏會送特麯酒1杯同埋自家製四川臘腸！如果寫埋食評，會送蒜泥青瓜/涼拌木耳呀！優惠多多，真係要把握機會！🍹🥒\n\n呢間餐廳嘅裝潢簡約而有特色，環境舒適，適合同朋友聚會或者家人一齊嚟。職員服務態度好好，令人感到賓至如歸。無論你係鍾意辣定係唔食得辣，都有適合你嘅選擇。下次去港島可以試下呢間餐廳！✨☺️\n\n川之源 (西環)\n西環西營盤正街62號地舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "FaiHung",
+          "uri": "https://www.google.com/maps/contrib/114953879061028402762/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNpjqETv_1ILN4u4YogZyzbBiO-BElNgrQACwcJ2oWQGt_SvsS=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-11-25T13:36:55.901845Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQc1l2aktnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQc1l2aktnEAE!2m1!1s0x3403ff8731297369:0xbd0831985734109e"
+      },
+      {
+        "name": "places/ChIJaXMpMYf_AzQRnhA0V5gxCL0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpNGZPOEF3EAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "作為一個經常喺西營盤出沒嘅人，我成日都會路過呢間餐廳。而我咁鍾意食川菜，每次路過都好想試。今次終於有機會同朋友去食呢間川菜，好開心。\n\n店員介紹水煮魚、酸菜魚、辣子雞同埋餃子都係呢到嘅招牌菜。但因為得兩個人，就揀左水煮魚同埋辣子雞啦。\n\n🐥辣子雞 $158\n一上碟嗰陣都呆左一呆，因為冇諗過會係咁大碟。入面嘅雞粒都唔少，炸得香脆可口，有薑蒜辣椒一齊炒，好香。不過因為炸得好香脆，食啲雞嗰陣記得要小心碎骨啊。辣到啱啱好，唔會太辣，所以唔會掩蓋香味。\n\n🎣水煮魚 $188\n有水煮魚同水煮桂花魚揀，店員話水煮魚係冇骨嘅冰鮮魚柳，水煮桂花魚就係新鮮桂花魚，有啲骨嘅。新鮮桂花魚就當然係靚啲啦，不過因為朋友唔鍾意吐魚骨，所以最後揀咗無骨嘅水煮魚。\n\n辣子雞已經夠大碟㗎啦，點知水煮魚上枱嗰陣仲震撼。好大碗。入面有好多紅薯寬粉同埋芽菜，全部都煮得好入味。望落以為啲魚片唔係好多，點知食落發現食極都食唔晒，食極都仲有魚片。好抵食。\n\n個辣度應該好多人都可以接受到，辣辣地，鹹鹹地，好食。\n\n食水煮魚有紅油就無可避免㗎啦，但呢度嘅紅油唔會過多，感覺都適中。\n\n🍚白飯 $15\n店員話食水煮魚可以配飯、麵或者餃子都OK。但因為個人喜好鍾意食川菜嗰陣有飯食，所以揀咗叫兩碗白飯。啲水煮魚真係好送飯，正。始終都係覺得白飯同水煮魚先係perfect match。\n\n🍧桂花冰粉 $0\n本身冇叫到桂花冰粉，食飯食到一半嘅時候，店員突然送上兩碗桂花冰粉，好驚喜。原來喺呢度食晚飯，每位都會送一碗桂花冰粉。食到覺得有啲口渴或者有啲辣嘅時候，可以食一啖桂花冰粉。呢碗桂花冰粉真係好解渴，又好解辣。食川菜必備。\n\n最後，因為我哋食得比較夜，成為左呢度最後一檯客。所以埋單嗰陣，撞正老闆娘收舖，就同老闆娘傾左幾句。原來老闆娘係四川人，咁呢度嘅川菜一定好正宗啦。老闆娘話因為要遷就香港人口味，所以將辣度調低左。因為我哋冇特別話要辣啲或者小辣，所以啱啱嘅水煮魚同辣子雞會係呢到嘅正常辣度，不過對四川人黎講就會係小辣。同埋呢度比起其他四川菜嘅餐廳，用嘅油比較清少少同埋係靚啲嘅油，係同正宗四川菜用嘅油會貼近少少。聽完之後，就更加覺得呢餐食得好抵啦。\n\n另外原來呢度嘅菜可以揀要辣啲或者麻啲㗎。大家有preference嗰陣可以落單嗰陣同店員講埋。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "作為一個經常喺西營盤出沒嘅人，我成日都會路過呢間餐廳。而我咁鍾意食川菜，每次路過都好想試。今次終於有機會同朋友去食呢間川菜，好開心。\n\n店員介紹水煮魚、酸菜魚、辣子雞同埋餃子都係呢到嘅招牌菜。但因為得兩個人，就揀左水煮魚同埋辣子雞啦。\n\n🐥辣子雞 $158\n一上碟嗰陣都呆左一呆，因為冇諗過會係咁大碟。入面嘅雞粒都唔少，炸得香脆可口，有薑蒜辣椒一齊炒，好香。不過因為炸得好香脆，食啲雞嗰陣記得要小心碎骨啊。辣到啱啱好，唔會太辣，所以唔會掩蓋香味。\n\n🎣水煮魚 $188\n有水煮魚同水煮桂花魚揀，店員話水煮魚係冇骨嘅冰鮮魚柳，水煮桂花魚就係新鮮桂花魚，有啲骨嘅。新鮮桂花魚就當然係靚啲啦，不過因為朋友唔鍾意吐魚骨，所以最後揀咗無骨嘅水煮魚。\n\n辣子雞已經夠大碟㗎啦，點知水煮魚上枱嗰陣仲震撼。好大碗。入面有好多紅薯寬粉同埋芽菜，全部都煮得好入味。望落以為啲魚片唔係好多，點知食落發現食極都食唔晒，食極都仲有魚片。好抵食。\n\n個辣度應該好多人都可以接受到，辣辣地，鹹鹹地，好食。\n\n食水煮魚有紅油就無可避免㗎啦，但呢度嘅紅油唔會過多，感覺都適中。\n\n🍚白飯 $15\n店員話食水煮魚可以配飯、麵或者餃子都OK。但因為個人喜好鍾意食川菜嗰陣有飯食，所以揀咗叫兩碗白飯。啲水煮魚真係好送飯，正。始終都係覺得白飯同水煮魚先係perfect match。\n\n🍧桂花冰粉 $0\n本身冇叫到桂花冰粉，食飯食到一半嘅時候，店員突然送上兩碗桂花冰粉，好驚喜。原來喺呢度食晚飯，每位都會送一碗桂花冰粉。食到覺得有啲口渴或者有啲辣嘅時候，可以食一啖桂花冰粉。呢碗桂花冰粉真係好解渴，又好解辣。食川菜必備。\n\n最後，因為我哋食得比較夜，成為左呢度最後一檯客。所以埋單嗰陣，撞正老闆娘收舖，就同老闆娘傾左幾句。原來老闆娘係四川人，咁呢度嘅川菜一定好正宗啦。老闆娘話因為要遷就香港人口味，所以將辣度調低左。因為我哋冇特別話要辣啲或者小辣，所以啱啱嘅水煮魚同辣子雞會係呢到嘅正常辣度，不過對四川人黎講就會係小辣。同埋呢度比起其他四川菜嘅餐廳，用嘅油比較清少少同埋係靚啲嘅油，係同正宗四川菜用嘅油會貼近少少。聽完之後，就更加覺得呢餐食得好抵啦。\n\n另外原來呢度嘅菜可以揀要辣啲或者麻啲㗎。大家有preference嗰陣可以落單嗰陣同店員講埋。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Poor Student Loves Food (hkgourmetparadise)",
+          "uri": "https://www.google.com/maps/contrib/107062848914267807932/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpym94lMGT9wuNp1s0XmYzXNl6aQcojiZ2SmwWhlq-kjn1XA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2020-11-05T17:05:11.061728Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNpNGZPOEF3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNpNGZPOEF3EAE!2m1!1s0x3403ff8731297369:0xbd0831985734109e"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff8731297369:0xbd0831985734109e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13621191603349885086&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff8731297369:0xbd0831985734109e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff8731297369:0xbd0831985734109e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff8731297369:0xbd0831985734109e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJaXMpMYf_AzQRnhA0V5gxCL0/photos/Aa-ngMYB3BwDMfS2ZhMkZPlFUSOGmjv4d-9VCq_2FwgwblXFMDi4b6SG9ylCzoMSy6IoCS93lKCI0oaE73qqaHDASTJ0zA2gpWaw2NwXGkBUSv1N3CRwsAA6EvobYRXxBn9AFP3YX4KysuPzhhTSgEpFBcUAKHZ-cJdjabo0yrYE1fZ3IlkfQYhuqGQXX5-q0Ak0mHh0dWsz8aLNcAKQDcrDSnRloKb2ki--P_OLr8tffeTcQahha3UqZg1yvdjWr0-ar-lx1o7k0kU0FV-HSmyGOw0QvPiHF4AZejOSbUzEh7yJ3mBbDz_2EjocZVwvqYbfUeQzKzs28iIAELWzXCZBEzLqsu6g_RQ6JwI2i8gxTLH515HYeQSvsIsUVETMiCHRkcaVjzlipYIU-u_Rgc3qeiumUbjyepGAY4tpNM5eZDTsrA",
+      "widthPx": 3719,
+      "heightPx": 2789,
+      "authorAttributions": [
+        {
+          "displayName": "Amit Saplé",
+          "uri": "https://maps.google.com/maps/contrib/100029118760261735781",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX28RR0qKe-KiD4fikgKV3WzVi1X2V4OiLrOlLjwCNewYlz7CBB=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC0nD1eJ-fyKlpkQzGvmkOG&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC0nD1eJ-fyKlpkQzGvmkOG!2e10!4m2!3m1!1s0x3403ff8731297369:0xbd0831985734109e"
+    },
+    "local_path": "photos/ChIJaXMpMYf_AzQRnhA0V5gxCL0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMgleRMp-8YiScHoG4bAW-220Km8aN5XiXGuvPQKo4Lvc_OlP2pcaLiXILzPrAbpFYnozLC4onXcqR-GrccFAvP3hb2o-AObu9zIAeKU8mF-Vzjb2MglwBHztyR3FXvQ8F-18EbtwA9g40=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 184665
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

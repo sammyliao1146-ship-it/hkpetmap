@@ -1,0 +1,326 @@
+{
+  "google_place_id": "ChIJOwNv4bkFBDQRDukGczUnGCM",
+  "restaurant_ids": [
+    "restaurant:2298001972"
+  ],
+  "fetched_at": "2026-10-23T15:43:44.670415+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJOwNv4bkFBDQRDukGczUnGCM",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2791 0834",
+    "internationalPhoneNumber": "+852 2791 0834",
+    "formattedAddress": "香港新界蕉坑",
+    "location": {
+      "latitude": 22.374412300000003,
+      "longitude": 114.26518019999999
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=2528814301285116174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.deafcafe.org.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:30 – 16:30",
+        "星期二: 休息",
+        "星期三: 08:30 – 16:30",
+        "星期四: 08:30 – 16:30",
+        "星期五: 08:30 – 16:30",
+        "星期六: 08:30 – 16:30",
+        "星期日: 08:30 – 16:30"
+      ],
+      "nextOpenTime": "2026-10-24T00:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 333,
+    "displayName": {
+      "text": "聰鳴茶座",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJOwNv4bkFBDQRDukGczUnGCM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNzhtSHNRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "童年回憶，地道cafe，望住一片綠田，Staff好人又nice，環境舒服寫意，慢活一流之選。\n個人推薦pizza同沙冰，味道同賣相都很可以👍🏽",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "童年回憶，地道cafe，望住一片綠田，Staff好人又nice，環境舒服寫意，慢活一流之選。\n個人推薦pizza同沙冰，味道同賣相都很可以👍🏽",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Minnie Lam",
+          "uri": "https://www.google.com/maps/contrib/112542261431172500047/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjkQT0nNo0t7frC0O3U9uzAK9thY0fPebqx1h8zDUfKlMNZog=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-04-05T17:41:41.519736Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJNzhtSHNRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJNzhtSHNRRRAB!2m1!1s0x340405b9e16f033b:0x231827357306e90e"
+      },
+      {
+        "name": "places/ChIJOwNv4bkFBDQRDukGczUnGCM/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5aU5ua0h3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "位於獅子會內的聰鳴茶座，距離停車場只須步行5到10分鐘，是公園唯一休閒休息及用餐的地方，設有室內及室外座位，大部份遊人都喜歡坐室外，因為可以享受大自然的景色，享受俾食物包圍及涼風吹送的感覺，還有可以與愛犬一同用餐。點餐的方式是自助型式，只要在餐廳的櫃位點餐付款，然後等叫號碼再取餐便可。人多的時候，等餐時間可能較長，因為食物即叫即做，尤其是薄餅，所以能保存溫度。如愛犬覺得肚餓也可為他們點一份餐點，餐廳提供兩款寵物食品作選擇，炮製時間大概15到20分鐘因為要用人手炮製，除了要切菜、雞蛋碎、雞肉、還要加入罐頭魚攪拌才行。都是新鮮製作出來的，至於狗狗喜不喜歡，就要看他們的口味及胃口了。\n還有請留意，坐在室外座位難免會有蚊叮虫咬，所以請帶備蚊怕水，帶愛犬前來也要注意做好防虫防蚤。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於獅子會內的聰鳴茶座，距離停車場只須步行5到10分鐘，是公園唯一休閒休息及用餐的地方，設有室內及室外座位，大部份遊人都喜歡坐室外，因為可以享受大自然的景色，享受俾食物包圍及涼風吹送的感覺，還有可以與愛犬一同用餐。點餐的方式是自助型式，只要在餐廳的櫃位點餐付款，然後等叫號碼再取餐便可。人多的時候，等餐時間可能較長，因為食物即叫即做，尤其是薄餅，所以能保存溫度。如愛犬覺得肚餓也可為他們點一份餐點，餐廳提供兩款寵物食品作選擇，炮製時間大概15到20分鐘因為要用人手炮製，除了要切菜、雞蛋碎、雞肉、還要加入罐頭魚攪拌才行。都是新鮮製作出來的，至於狗狗喜不喜歡，就要看他們的口味及胃口了。\n還有請留意，坐在室外座位難免會有蚊叮虫咬，所以請帶備蚊怕水，帶愛犬前來也要注意做好防虫防蚤。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mel Leung",
+          "uri": "https://www.google.com/maps/contrib/110815654318796693880/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsfu315xDsbjPaqYGEn0h6vuTMn9ZIJ9kzZziqsPaf91dgEgpmGw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-02-29T18:55:15.676805Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5aU5ua0h3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5aU5ua0h3EAE!2m1!1s0x340405b9e16f033b:0x231827357306e90e"
+      },
+      {
+        "name": "places/ChIJOwNv4bkFBDQRDukGczUnGCM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuNjlQOUtnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "“聰鳴茶座”\n(茶座)設有室外及室內坐位可供選擇！\n室內坐落舒適，有冷氣，環境衛生清潔💯\n室外座位有太陽傘⛱️及吹風機🌀但“小心蚊叮”\n今次試食🍕，即叫即做，新鮮熱辣，好味😋\n天氣熱就飲“檸檬沙冰”🥤🧊\n但食物價格就貴了一點點....😅\n服務員姐姐/哥哥都好有禮貌🤝👍\n值得推薦👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "“聰鳴茶座”\n(茶座)設有室外及室內坐位可供選擇！\n室內坐落舒適，有冷氣，環境衛生清潔💯\n室外座位有太陽傘⛱️及吹風機🌀但“小心蚊叮”\n今次試食🍕，即叫即做，新鮮熱辣，好味😋\n天氣熱就飲“檸檬沙冰”🥤🧊\n但食物價格就貴了一點點....😅\n服務員姐姐/哥哥都好有禮貌🤝👍\n值得推薦👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "AL",
+          "uri": "https://www.google.com/maps/contrib/115805085789118187114/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5WHPQvNprqJM2ut3IWIy3KPYsEL-C8bkEpUD2BDq64fuzHA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-09-30T06:16:24.549970Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuNjlQOUtnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuNjlQOUtnEAE!2m1!1s0x340405b9e16f033b:0x231827357306e90e"
+      },
+      {
+        "name": "places/ChIJOwNv4bkFBDQRDukGczUnGCM/reviews/ChZDSUhNMG9nS0VJQ0FnSURoNHFiS1d3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "Pizza 係用正規pizza oven, of course not those Napoli version but still authentic one.\n户外享用景觀一流，有啲意大利莊園感覺。\n唯一問題就係假日車位唔會夠用。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Pizza 係用正規pizza oven, of course not those Napoli version but still authentic one.\n户外享用景觀一流，有啲意大利莊園感覺。\n唯一問題就係假日車位唔會夠用。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rico Li",
+          "uri": "https://www.google.com/maps/contrib/101175645669936114388/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVN613oOrnefE8FlEmxYKbhv1srj4tg1TYBF5WBq1AIjmyObGz2sQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-03-05T03:13:20.606692Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoNHFiS1d3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoNHFiS1d3EAE!2m1!1s0x340405b9e16f033b:0x231827357306e90e"
+      },
+      {
+        "name": "places/ChIJOwNv4bkFBDQRDukGczUnGCM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWaTk3dGhnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "知道係社企餐廳。有室內和戶外座。食物種類不算多。尤其飯款。pizza好食。食環境、和支持社企。啱行吓戶口和食野傾計好地方。有機會會再去。埋單$209",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "知道係社企餐廳。有室內和戶外座。食物種類不算多。尤其飯款。pizza好食。食環境、和支持社企。啱行吓戶口和食野傾計好地方。有機會會再去。埋單$209",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Move Cheung",
+          "uri": "https://www.google.com/maps/contrib/113256056404413545520/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKafE1-omB3gCJhb6XaPOwgHWfLVnP5PADdJWREW4V6Dn-Lmw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-12-09T09:28:49.291346Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNWaTk3dGhnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNWaTk3dGhnRRAB!2m1!1s0x340405b9e16f033b:0x231827357306e90e"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340405b9e16f033b:0x231827357306e90e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2528814301285116174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405b9e16f033b:0x231827357306e90e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340405b9e16f033b:0x231827357306e90e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405b9e16f033b:0x231827357306e90e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJOwNv4bkFBDQRDukGczUnGCM/photos/Aa-ngMY1-klw2xPaMoJmba_1NV5Hvh_y7f_rNebgmPjJboifAYj2DXQEZQ_yncemD5WITV1Cx-WIYLZ7iy2flMGuZ4P42ZpyYWZEfcGyh1ZL6QBbHWya07yYbdbefj8h4eQ4YamsCcCYXpqmBhFuiA8MjUTIQ8op8A1NkkgmaGXjfAhUU18CjM22-HVp6cPxI9GeYgc5Th_1_phOH5D_QzEsb1WtF6lE8wXI0zqc6t1ki4A0-sBbruCWII3M7Tst3h3N7R3Nb5AHu6WhxOlQzEw13LyuL0WIjRWihpQQOf_r6aIkz4tywRR0lFB1jP0RigNDEWgkOg18N-EzzPiccXIGkvOQNokxMCMTGQcOO1n4priYF9CLK11OT5imVUBU-4TAZizizp7lRnH_5-PFKL5yPXiBJUdmsFz1PgOpfI7bg0a00g",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "sincere",
+          "uri": "https://maps.google.com/maps/contrib/105013562953371367256",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJSeez0D1jRtzAYy76a2KFulph1nKGvv9yGGwwRPB0I8Qpv1A=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAiAtrDpnjKuJ04R9EHbRcx&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAiAtrDpnjKuJ04R9EHbRcx!2e10!4m2!3m1!1s0x340405b9e16f033b:0x231827357306e90e"
+    },
+    "local_path": "photos/ChIJOwNv4bkFBDQRDukGczUnGCM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc07fRn2wB9JlDYiua8CKJDIRfyUIYxFc3Ef0ge3X7aEJrZo135huBOobGwimCCuRX9DG2vWcN1th1nInDwK2ipanSMcAj5WZdEVfpIkf3iPHRYA4NM5wAKE8LnyvJwnoxIEKX1VEIfwp8r=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 130676
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://dcafe1.deaf.org.hk/menu",
+        "label": "餐飲",
+        "source_url": "https://dcafe1.deaf.org.hk",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://dcafe1.deaf.org.hk/menu"
+}

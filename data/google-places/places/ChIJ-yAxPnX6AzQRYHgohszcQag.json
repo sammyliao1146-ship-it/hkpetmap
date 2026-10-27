@@ -1,0 +1,316 @@
+{
+  "google_place_id": "ChIJ-yAxPnX6AzQRYHgohszcQag",
+  "restaurant_ids": [
+    "restaurant:2294801620"
+  ],
+  "fetched_at": "2026-10-23T15:46:06.403481+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ-yAxPnX6AzQRYHgohszcQag",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2475 5872",
+    "internationalPhoneNumber": "+852 2475 5872",
+    "formattedAddress": "香港新界元朗安駿里2號地下1213號鋪",
+    "location": {
+      "latitude": 22.442017399999997,
+      "longitude": 114.0235737
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=12124214442840324192&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:30",
+        "星期二: 11:30 – 22:30",
+        "星期三: 休息",
+        "星期四: 11:30 – 22:30",
+        "星期五: 11:30 – 22:30",
+        "星期六: 11:30 – 22:30",
+        "星期日: 11:30 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 277,
+    "displayName": {
+      "text": "薄荷葉泰國菜",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ-yAxPnX6AzQRYHgohszcQag/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5T2FUWlBNbmQzWVZab05XeDRRWGwyVGtWdFRuYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 2,
+        "text": {
+          "text": "近期喺 Threads 成日見到呢間嘢，決定組團實測。全晚最高質竟然係薄餅，夠脆夠入味。生菜包無乜肥肉嘅口感，炒得有啲乾。Pad Thai 唔酸唔辣完全唔合格；黄咖喱唔夠濃、味精偏甜；串燒燒得好dry，沙嗲醬稀到似水，得個死鹹。生蝦一般。冬陰公一啲都唔辣，亦都唔夠酸，飲落反而好似平時西餐廳嘅蕃茄湯。食完埋單，總結無下次！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "近期喺 Threads 成日見到呢間嘢，決定組團實測。全晚最高質竟然係薄餅，夠脆夠入味。生菜包無乜肥肉嘅口感，炒得有啲乾。Pad Thai 唔酸唔辣完全唔合格；黄咖喱唔夠濃、味精偏甜；串燒燒得好dry，沙嗲醬稀到似水，得個死鹹。生蝦一般。冬陰公一啲都唔辣，亦都唔夠酸，飲落反而好似平時西餐廳嘅蕃茄湯。食完埋單，總結無下次！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hello Noey",
+          "uri": "https://www.google.com/maps/contrib/112424968343785616928/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYm8ixfH7WXIwePBLbPTqdeILxTUrwFutXjsXCsBNoVqQnsIbT=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-18T08:07:58.609185997Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5T2FUWlBNbmQzWVZab05XeDRRWGwyVGtWdFRuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5T2FUWlBNbmQzWVZab05XeDRRWGwyVGtWdFRuYxAB!2m1!1s0x3403fa753e3120fb:0xa841dccc86287860"
+      },
+      {
+        "name": "places/ChIJ-yAxPnX6AzQRYHgohszcQag/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OS09EVTFUR0pKTmxGNGRFcDZTMkZYTUdoQ00xRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 2,
+        "text": {
+          "text": "一句講晒：食物難食加服務差🤢\n\n一行三人叫咗個二人餐，另外再加個咖哩牛腩。最初待應話冇牛腩，轉咗黃咖哩雞再加$50轉新鮮雞，後來待應問要唔要薄餅，咁就加咗\n\n待應推介啤酒同芒果糯米飯，我地冇要到，然後未叫完餐待應就擰轉頭走咗去😰唔知係咪因為冇接受佢嘅建議就有咁嘅服務態度？\n\n上餐，佢碟魔鬼魚又梅又冇肉，完全唔知食緊啲乜😩 黃咖哩雞完全冇咖哩味同香味，啲雞又冇味，似乎叫黃色汁撈雞比較合適，質素同學校飯堂個啲差唔多。得個生菜包同炒通菜叫做正常少少🤏🏻\n\n最尾埋單人頭每人$200左右，同待應講想對一對張單再電子支付，點知張單都未睇到待應竟然將個卡機「隊」埋部電話度夾硬收錢😨 咁同強搶有咩分別？後來睇到張單先知簿餅原來另外加$15/塊，點餐時完全冇提\n\n好驚訝Google review 竟然有接近4分，但間餐廳經常冇乜人幫襯，再唔改善睇得出應該好快會執",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一句講晒：食物難食加服務差🤢\n\n一行三人叫咗個二人餐，另外再加個咖哩牛腩。最初待應話冇牛腩，轉咗黃咖哩雞再加$50轉新鮮雞，後來待應問要唔要薄餅，咁就加咗\n\n待應推介啤酒同芒果糯米飯，我地冇要到，然後未叫完餐待應就擰轉頭走咗去😰唔知係咪因為冇接受佢嘅建議就有咁嘅服務態度？\n\n上餐，佢碟魔鬼魚又梅又冇肉，完全唔知食緊啲乜😩 黃咖哩雞完全冇咖哩味同香味，啲雞又冇味，似乎叫黃色汁撈雞比較合適，質素同學校飯堂個啲差唔多。得個生菜包同炒通菜叫做正常少少🤏🏻\n\n最尾埋單人頭每人$200左右，同待應講想對一對張單再電子支付，點知張單都未睇到待應竟然將個卡機「隊」埋部電話度夾硬收錢😨 咁同強搶有咩分別？後來睇到張單先知簿餅原來另外加$15/塊，點餐時完全冇提\n\n好驚訝Google review 竟然有接近4分，但間餐廳經常冇乜人幫襯，再唔改善睇得出應該好快會執",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ng Ronnie",
+          "uri": "https://www.google.com/maps/contrib/100804632914303816380/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIznCnh_B-PUjoAIL1lEizA9r2CcbPBQYvxV2s-63SPuNCa8Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-21T06:16:54.013126989Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OS09EVTFUR0pKTmxGNGRFcDZTMkZYTUdoQ00xRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OS09EVTFUR0pKTmxGNGRFcDZTMkZYTUdoQ00xRRAB!2m1!1s0x3403fa753e3120fb:0xa841dccc86287860"
+      },
+      {
+        "name": "places/ChIJ-yAxPnX6AzQRYHgohszcQag/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5bXNMTUtREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "[✨元朗薄荷葉泰國菜•泰國風情餐廳🌿]\n#薄荷葉泰國餐廳 #元朗\n🍍特色菠蘿飯 $128\n用木桶上枱嘅菠蘿飯的確係比較少見，有大量肉鬆，大蝦同魷魚等配料，非常足料🤩個飯底都炒得幾香口，無論係分量定質素都值得推薦👍🏻\n🌿班蘭咖哩雞 $118\n斑蘭咖哩係屬於甜口嘅咖哩，混入椰汁更加增添唔少天然嘅香甜味。雞肉肉質細嫩，入口會食出淡淡清幽班蘭香氣💫\n🥬肉碎生菜包 $108\n用上薄荷葉同檸檬汁調味，肉碎份量都唔少，仲要炒得香口惹味，配埋爽脆嘅生菜一齊食，真係絕配💯\n🥬馬拉盞炒通菜 $78\n通菜新鮮。馬拉盞辣度適中，味道濃郁，咸咸地好滋味😊\n🥥椰青 $50/each\n味道清甜又解渴\n————————♡♡♡♡♡♡————————\n✨總結\n餐廳位於元朗劇院隔離，室內佈置有多盞彩繽紛的吊燈，加上大象畫布同埋戶外座位，泰國風情滿滿。好適合夜晚同朋友一邊飲返杯一邊醫肚🍻\n📍薄荷葉泰國菜\n🏠元朗安駿里2號怡康大廈地下12-13號舖\n#jmhkfoodie #hkfoodie #hkeat #hkeats #hkfood #hkig #hkgirl #food #hkfooddaily #hkfoodblogger #hongkongfood #hongkongfoodie #852food #香港美食 #香港食評 #香港餐廳 #為食港女 #元朗 #元朗美食 #元朗好去處 #元朗食好西 #元朗餐廳 #薄荷葉泰國餐廳",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "[✨元朗薄荷葉泰國菜•泰國風情餐廳🌿]\n#薄荷葉泰國餐廳 #元朗\n🍍特色菠蘿飯 $128\n用木桶上枱嘅菠蘿飯的確係比較少見，有大量肉鬆，大蝦同魷魚等配料，非常足料🤩個飯底都炒得幾香口，無論係分量定質素都值得推薦👍🏻\n🌿班蘭咖哩雞 $118\n斑蘭咖哩係屬於甜口嘅咖哩，混入椰汁更加增添唔少天然嘅香甜味。雞肉肉質細嫩，入口會食出淡淡清幽班蘭香氣💫\n🥬肉碎生菜包 $108\n用上薄荷葉同檸檬汁調味，肉碎份量都唔少，仲要炒得香口惹味，配埋爽脆嘅生菜一齊食，真係絕配💯\n🥬馬拉盞炒通菜 $78\n通菜新鮮。馬拉盞辣度適中，味道濃郁，咸咸地好滋味😊\n🥥椰青 $50/each\n味道清甜又解渴\n————————♡♡♡♡♡♡————————\n✨總結\n餐廳位於元朗劇院隔離，室內佈置有多盞彩繽紛的吊燈，加上大象畫布同埋戶外座位，泰國風情滿滿。好適合夜晚同朋友一邊飲返杯一邊醫肚🍻\n📍薄荷葉泰國菜\n🏠元朗安駿里2號怡康大廈地下12-13號舖\n#jmhkfoodie #hkfoodie #hkeat #hkeats #hkfood #hkig #hkgirl #food #hkfooddaily #hkfoodblogger #hongkongfood #hongkongfoodie #852food #香港美食 #香港食評 #香港餐廳 #為食港女 #元朗 #元朗美食 #元朗好去處 #元朗食好西 #元朗餐廳 #薄荷葉泰國餐廳",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "J M (JM.HKFOODIE)",
+          "uri": "https://www.google.com/maps/contrib/117245021708748828302/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzwIu_yFDUQdMz4E79DpmbaEmqFOKWHGTrKQfbsgPxP7KtROWU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-03-15T15:25:59.109420Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5bXNMTUtREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5bXNMTUtREAE!2m1!1s0x3403fa753e3120fb:0xa841dccc86287860"
+      },
+      {
+        "name": "places/ChIJ-yAxPnX6AzQRYHgohszcQag/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSemRtRk9SbkEzV204d2EwSlJOelZFT1Y4M1YwRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 1,
+        "text": {
+          "text": "本來今年母親節想帶家人開開心心吃頓飯，選了這間薄荷葉泰國菜，結果這頓飯真的讓我們全家人「永生難忘」。\n​\n1. 挑戰生物常識的「低溫」串燒\n​我們額外點了一份 $112 的串燒（6串）。這道菜刷新了我對泰式料理的認知。一般串燒追求火候，但這間餐廳反其道而行之，送上來時肉質呈現一種如藝術品般的冰涼感。那種溫度，彷彿肉塊在幾分鐘前還在冰箱裡靜思，完美保留了脂肪凝固後的原始嚼勁。112元買這六串能有效「降火」的肉，性價比之高，真是讓家人受寵若驚。\n​\n2. 「極簡主義」的冬陰功湯\n​我們點的是六人套餐，隨餐附送的冬陰功湯展現了餐廳對「精緻生活」的極致追求。六個人分那一小鍋湯，畫面極其溫馨，大家一人分得一小口，像是在進行某種神聖的品酒儀式。這種對分量精確到「滴」的控制，成功避免了我們攝入過多水分，餐廳的用心良苦，確實讓人「飽」得很快。\n​\n3. 修身養性的上菜速度\n​這裡的上菜速度非常適合想要修禪的朋友。每道菜之間的空檔，長到足夠讓我們全家人重新回顧一遍家譜，甚至思考人生意義。在飢餓與等待的交織下，我們深刻體會到了母親節「感恩」的真諦——感恩我們至少還能等到下一盤菜。\n​\n總結\n​如果你想在節日期間，體驗一種與世無爭、清冷入骨、且能測試家人耐性的用餐環境，薄荷葉絕對是你的不二之選。\n\n整體評價：\n​食物溫度： 零分（如果可以給負分的話）\n​飽足感： 負值（靠喝水撐飽）\n​推薦指數： 建議想跟親友斷絕關係的人去試試",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "本來今年母親節想帶家人開開心心吃頓飯，選了這間薄荷葉泰國菜，結果這頓飯真的讓我們全家人「永生難忘」。\n​\n1. 挑戰生物常識的「低溫」串燒\n​我們額外點了一份 $112 的串燒（6串）。這道菜刷新了我對泰式料理的認知。一般串燒追求火候，但這間餐廳反其道而行之，送上來時肉質呈現一種如藝術品般的冰涼感。那種溫度，彷彿肉塊在幾分鐘前還在冰箱裡靜思，完美保留了脂肪凝固後的原始嚼勁。112元買這六串能有效「降火」的肉，性價比之高，真是讓家人受寵若驚。\n​\n2. 「極簡主義」的冬陰功湯\n​我們點的是六人套餐，隨餐附送的冬陰功湯展現了餐廳對「精緻生活」的極致追求。六個人分那一小鍋湯，畫面極其溫馨，大家一人分得一小口，像是在進行某種神聖的品酒儀式。這種對分量精確到「滴」的控制，成功避免了我們攝入過多水分，餐廳的用心良苦，確實讓人「飽」得很快。\n​\n3. 修身養性的上菜速度\n​這裡的上菜速度非常適合想要修禪的朋友。每道菜之間的空檔，長到足夠讓我們全家人重新回顧一遍家譜，甚至思考人生意義。在飢餓與等待的交織下，我們深刻體會到了母親節「感恩」的真諦——感恩我們至少還能等到下一盤菜。\n​\n總結\n​如果你想在節日期間，體驗一種與世無爭、清冷入骨、且能測試家人耐性的用餐環境，薄荷葉絕對是你的不二之選。\n\n整體評價：\n​食物溫度： 零分（如果可以給負分的話）\n​飽足感： 負值（靠喝水撐飽）\n​推薦指數： 建議想跟親友斷絕關係的人去試試",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Y T",
+          "uri": "https://www.google.com/maps/contrib/101131072261757092682/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRXp1BptYoRNA_WR7PxlukJ1eqY8-ooqylt4G7ZeLtFkMcig=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-10T13:41:09.284461714Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSemRtRk9SbkEzV204d2EwSlJOelZFT1Y4M1YwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSemRtRk9SbkEzV204d2EwSlJOelZFT1Y4M1YwRRAB!2m1!1s0x3403fa753e3120fb:0xa841dccc86287860"
+      },
+      {
+        "name": "places/ChIJ-yAxPnX6AzQRYHgohszcQag/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSamJ6SkxaRk5EU25sSU1GODFiVVUxWDB4VmJYYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "午餐48蚊包飲品，真係稱得上性價比高\n炒金邊粉都有穫氣\n午餐時間唔算多人，唔駛等位\n良心價嘅餐廳愈來愈少，希望大家都會支持一下。\n餐廳好有酒吧feel,所以略為有啲太暗",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午餐48蚊包飲品，真係稱得上性價比高\n炒金邊粉都有穫氣\n午餐時間唔算多人，唔駛等位\n良心價嘅餐廳愈來愈少，希望大家都會支持一下。\n餐廳好有酒吧feel,所以略為有啲太暗",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mrs Chan",
+          "uri": "https://www.google.com/maps/contrib/113481308831447341327/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-cR0yzDWtGm-teSf8QhJw2k4_K3XyJJSibKZLG_EBdz-HHA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-07-08T08:30:25.946903509Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSamJ6SkxaRk5EU25sSU1GODFiVVUxWDB4VmJYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSamJ6SkxaRk5EU25sSU1GODFiVVUxWDB4VmJYYxAB!2m1!1s0x3403fa753e3120fb:0xa841dccc86287860"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidStreetParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fa753e3120fb:0xa841dccc86287860!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12124214442840324192&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fa753e3120fb:0xa841dccc86287860!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fa753e3120fb:0xa841dccc86287860!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fa753e3120fb:0xa841dccc86287860!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ-yAxPnX6AzQRYHgohszcQag/photos/Aa-ngMYrAUxEcgFTOHg3tLZoZ5c7eHwRZIkeCszCEiNNBAwEc5HObS3BPeu53iCnWV21YmI6d7uvRSNDQnUzP6koFiBcqT6kYhDEyGkenUTed_VjGnluNEQtDyVXKp974nzGDZU3f83YYxxQl51sMynbGmDYJ5Kb8P-PS49QDCA7RsjchbkjZVH8IrGtEelFpjSsz5p02Fz_SZmnOjO5TPL-O-wu4zuQAzy_6CpxergBq4wFdASI52hv9VyffYUClZqiBH6rQjY_MPbPdkusf7TrdZ374YYGVmEHpd7ELYabI37lVochE9iQclLFCCQDgYAjxH2e6bxKDTGSV2ilnR9R8g8HVPoKt0VZZLXXV7jFjbyGYaRGDsaciPXf57J8AmNl9errzSbbHMtq3rl0I982KdR3zzU",
+      "widthPx": 720,
+      "heightPx": 477,
+      "authorAttributions": [
+        {
+          "displayName": "Mint Thai House 薄荷葉泰國菜",
+          "uri": "https://maps.google.com/maps/contrib/103883824562205706315",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdc3wEWQKJ_nW7s3vErFTed_AOdv9AKmRcEXwcAXxKsn_k-VY=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICigsy2KA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICigsy2KA!2e10!4m2!3m1!1s0x3403fa753e3120fb:0xa841dccc86287860"
+    },
+    "local_path": "photos/ChIJ-yAxPnX6AzQRYHgohszcQag.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4MtO2UU1aU1v-m6iZ5TSOWeQMA9-0stHaAEvBh6xmlwuyoxDOroyhXVVnTOAlmRdNDOwmfKttg0VywtHUBMQKt41IXxfrWRsYvDq8G8YIUorJN2JJMRa_0J6SQG7-p8pLqMxx=s4800-w720",
+    "content_type": "image/jpeg",
+    "bytes": 287981
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

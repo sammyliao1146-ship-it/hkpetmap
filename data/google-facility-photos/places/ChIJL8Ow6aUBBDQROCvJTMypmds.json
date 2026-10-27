@@ -1,0 +1,38 @@
+{
+  "id": "ChIJL8Ow6aUBBDQROCvJTMypmds",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍何文田自由道11號",
+  "location": {
+    "latitude": 22.318969,
+    "longitude": 114.17455899999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15823865460669623096&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Pet Villa HMT",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJL8Ow6aUBBDQROCvJTMypmds/photos/Aa-ngMZSlFDQoBW6GZHk_7EMsN-bXu-gMIxrG5TR1sKhlyjzzo8HKDumPyJtxMXUpHhQrPj0JiE5Tm7GyZBry22XXDT8AUCuwkMamdroiQNJwnpod6wgyaihzEbYHyPugTxem56FDbZO5u7y3VgADBLPW1GxbAY3t5TITc1U2VXgvXCn_o_cIHCYV9yLOw4IXLnrf1jH_4IB_h_8eZQlVx1g9k9BltMUo28fipescnh6dHbJg5nKhDZuSNqckoNaohcod-T_aVugLYDedos9G8eC24SAYA5l7LkzfI811KlZGWPUGFmElrIh-1qLTdFmvQTV6K8XKa4DQCTkwzc9m-tV_mhchjLp9zYHL3inh1RNNaU7RwfIjneWQ2rhbc3wusA-IIILB2UjSuEbkTRwAp2PG9sCsLn7AA-Xo4dRd5OKHkgubg",
+      "widthPx": 1536,
+      "heightPx": 2048,
+      "authorAttributions": [
+        {
+          "displayName": "Angel Tong",
+          "uri": "https://maps.google.com/maps/contrib/117486025707772759838",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8DgDKLrdB3x_blUS1LfBFm71BRBLzxavU3dXm9BQpXHV7nv8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCcyJTn04sb2P3Hesu428eG&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCcyJTn04sb2P3Hesu428eG!2e10!4m2!3m1!1s0x340401a5e9b0c32f:0xdb99a9cc4cc92b38"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:16.227137+00:00"
+}

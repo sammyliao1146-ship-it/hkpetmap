@@ -1,0 +1,327 @@
+{
+  "google_place_id": "ChIJh5d_nO0DBDQRB_nYoDTKId0",
+  "restaurant_ids": [
+    "restaurant:2298805480"
+  ],
+  "fetched_at": "2026-10-23T15:46:12.077540+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJh5d_nO0DBDQRB_nYoDTKId0",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2549 3818",
+    "internationalPhoneNumber": "+852 2549 3818",
+    "formattedAddress": "香港新界將軍澳唐賢街19號天晉匯2期地下G17號舖",
+    "location": {
+      "latitude": 22.3056047,
+      "longitude": 114.25975369999999
+    },
+    "rating": 3,
+    "googleMapsUri": "https://maps.google.com/?cid=15934239283999209735&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/brand/momo-classic",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 22:00",
+        "星期二: 07:00 – 22:00",
+        "星期三: 07:00 – 22:00",
+        "星期四: 07:00 – 22:00",
+        "星期五: 07:00 – 22:00",
+        "星期六: 07:00 – 22:00",
+        "星期日: 07:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 78,
+    "displayName": {
+      "text": "木兆小品 (PopWalk店)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJh5d_nO0DBDQRB_nYoDTKId0/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bGJLX01REAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "今次過嚟食咗個酸辣豬扒米線，份量好充足$40有豬扒米線亦都有嘢飲我嗌咗熱奶茶少少奶，但係都仍然嫌佢太多奶。個豬扒米線其實都好足料，裏面有好多唔同嘅配菜，豬扒大大塊，食完之後都飽。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次過嚟食咗個酸辣豬扒米線，份量好充足$40有豬扒米線亦都有嘢飲我嗌咗熱奶茶少少奶，但係都仍然嫌佢太多奶。個豬扒米線其實都好足料，裏面有好多唔同嘅配菜，豬扒大大塊，食完之後都飽。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "孤獨的美食家",
+          "uri": "https://www.google.com/maps/contrib/109325995288272821291/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJfQMbcvfDWVyD2ajK7E7AEJrUhD_UMZzpwP41WkCXufGbJu3_Vw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-03-27T08:23:17.705813Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3bGJLX01REAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3bGJLX01REAE!2m1!1s0x340403ed9c7f9787:0xdd21ca34a0d8f907"
+      },
+      {
+        "name": "places/ChIJh5d_nO0DBDQRB_nYoDTKId0/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3elBlZlh3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "夜晚未諗到食咩 見到呢間都有唔少人食 就入去試試 叫咗精選二人套餐 ($158 好似係)熱賣小菜揀咗椒鹽一字骨 經典小菜揀咗家鄕小炒皇\n\n啲小菜份量唔算多又唔算係好少 menu圖片只供參考🫢不過最好就多返少少🤣椒鹽骨幾好味 但一字骨關係 無得啖啖肉 🫣小炒皇有啲蝦仁 腰果 銀魚乾等等 味道正正常常 個燉湯又幾多湯料 飲完唔會口渴\n\n夜晚嚟講兩個小菜再加有燉湯 呢個價錢都算ok\n話說成日見到佢個舖頭名都覺得呢間野係食甜品",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "夜晚未諗到食咩 見到呢間都有唔少人食 就入去試試 叫咗精選二人套餐 ($158 好似係)熱賣小菜揀咗椒鹽一字骨 經典小菜揀咗家鄕小炒皇\n\n啲小菜份量唔算多又唔算係好少 menu圖片只供參考🫢不過最好就多返少少🤣椒鹽骨幾好味 但一字骨關係 無得啖啖肉 🫣小炒皇有啲蝦仁 腰果 銀魚乾等等 味道正正常常 個燉湯又幾多湯料 飲完唔會口渴\n\n夜晚嚟講兩個小菜再加有燉湯 呢個價錢都算ok\n話說成日見到佢個舖頭名都覺得呢間野係食甜品",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fanfan",
+          "uri": "https://www.google.com/maps/contrib/117790792661522899436/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjk3m5GRfMxOUlj5U5NhQPQ565o3OADayrczjtA-SHvqASNnc=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-08-13T09:33:31.293587Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3elBlZlh3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3elBlZlh3EAE!2m1!1s0x340403ed9c7f9787:0xdd21ca34a0d8f907"
+      },
+      {
+        "name": "places/ChIJh5d_nO0DBDQRB_nYoDTKId0/reviews/ChRDSUhNMG9nS0VJQ0FnSURKc3VaVRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "很久沒吃這家！掛住户個麻酸辣米線！餐牌影過新的，但食物都跟先前差不多！現在可以掃枱上QR code下單，免等人手做，清楚快速！米線可選小辣，味道辣度合心！只可惜老公點了炒豬扒即食麵，佢成日會叫呢款，但又好多時會太鹹！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很久沒吃這家！掛住户個麻酸辣米線！餐牌影過新的，但食物都跟先前差不多！現在可以掃枱上QR code下單，免等人手做，清楚快速！米線可選小辣，味道辣度合心！只可惜老公點了炒豬扒即食麵，佢成日會叫呢款，但又好多時會太鹹！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Siu Chi Poon",
+          "uri": "https://www.google.com/maps/contrib/107718372060890653808/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJgLEs0fOJnsWp24Oc4PMjtnZ_1OhgPyeQCrrf8bRo__pB4Lg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-07-12T09:31:27.146631494Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSURKc3VaVRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSURKc3VaVRAB!2m1!1s0x340403ed9c7f9787:0xdd21ca34a0d8f907"
+      },
+      {
+        "name": "places/ChIJh5d_nO0DBDQRB_nYoDTKId0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxUVJVZEVVSEYzU1dKSFJtZEhWVlpRVm5VeFRFRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "蕃茄雞扒通粉，加一碟雞蛋和蒜蓉麵包，食物一般。但非常可怕的是，吃完早餐後把碟推開，碟底竟然爬出一隻很細的曱甴。我坐下來等食物的時候是沒有的，不知是跟食物碟一起過來，還是在枱底爬過來。希望不要肚痛🤢😭",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "蕃茄雞扒通粉，加一碟雞蛋和蒜蓉麵包，食物一般。但非常可怕的是，吃完早餐後把碟推開，碟底竟然爬出一隻很細的曱甴。我坐下來等食物的時候是沒有的，不知是跟食物碟一起過來，還是在枱底爬過來。希望不要肚痛🤢😭",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kwok Sylvia",
+          "uri": "https://www.google.com/maps/contrib/116089691846900058671/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-_oym1i9QX2OIU59YUOdv-rypp8XcG37j-E_MzTJ7s2_0Iw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-02T03:16:32.175305339Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxUVJVZEVVSEYzU1dKSFJtZEhWVlpRVm5VeFRFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxUVJVZEVVSEYzU1dKSFJtZEhWVlpRVm5VeFRFRRAB!2m1!1s0x340403ed9c7f9787:0xdd21ca34a0d8f907"
+      },
+      {
+        "name": "places/ChIJh5d_nO0DBDQRB_nYoDTKId0/reviews/ChZDSUhNMG9nS0VJQ0FnSURUdVB5d0dnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 2,
+        "text": {
+          "text": "之前有試過午餐，見環境清潔OK，食物味道OK；但今次就來試早餐...\n\n當天下單後，送上了咖啡後，一直等待。下單後17／18分鐘追過單，20分再追，最後要24分鐘後才送上即食麵。\n\n麵還很硬未腍，幾明顯是剛加熱湯就出菜。因為趕時間，是但吃了點就走了。\n\n很不愉快的漏單經歷。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "之前有試過午餐，見環境清潔OK，食物味道OK；但今次就來試早餐...\n\n當天下單後，送上了咖啡後，一直等待。下單後17／18分鐘追過單，20分再追，最後要24分鐘後才送上即食麵。\n\n麵還很硬未腍，幾明顯是剛加熱湯就出菜。因為趕時間，是但吃了點就走了。\n\n很不愉快的漏單經歷。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Emile Lam",
+          "uri": "https://www.google.com/maps/contrib/111987683463448184696/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYlYCdn9x1QdRzzVeQdMHNt2-8QAh2pS3z1OtZOFtV0_Ro99LP=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-05-22T10:37:15.220246Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUdVB5d0dnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUdVB5d0dnEAE!2m1!1s0x340403ed9c7f9787:0xdd21ca34a0d8f907"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340403ed9c7f9787:0xdd21ca34a0d8f907!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15934239283999209735&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403ed9c7f9787:0xdd21ca34a0d8f907!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340403ed9c7f9787:0xdd21ca34a0d8f907!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403ed9c7f9787:0xdd21ca34a0d8f907!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJh5d_nO0DBDQRB_nYoDTKId0/photos/Aa-ngMatQUN3o8O17nnNeR3Z351IwXPXKg7SwV3fsrNkhglg32nnAIELUmjcukqnGJk1438CV5JJ1FLNk4ZjDTLeeCHCHtwhcqVJb9vORMlMRIi1BHb61U89ltbZ5spH1hoPgkGChyZinLVv17Xzs5ZpWl9VNcNtcNf2deOaUqsyTFM-ptZ03DcqRSKl8ivPCgYpvLjyGHUxhmN8KhC-aEb_P404-0PZ-AoV7Yd3Ki5mXk4xA0d92zSkuroPIM9AupZO-VdklgCXQzzl-HU7s-u2BRNflPV8V3YLJax4026HClyn7t9DChxF6hGalVPyZnZfCenqd06XwJVdZUjVqFg9IAiZZ3tYqhJP-Z8B5OcqGftjXPXK7WTLos6v11Vxcm9ftR9IdEgXwh5sd7iPYFN7dsGf8ObAyyE",
+      "widthPx": 4080,
+      "heightPx": 2304,
+      "authorAttributions": [
+        {
+          "displayName": "Tai Ip",
+          "uri": "https://maps.google.com/maps/contrib/103785507461777852373",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLc2FFM78svvN7jwd-H6J6lDX-cCm6877V9DuHisYuG_KUwdg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICtmfTC1wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICtmfTC1wE!2e10!4m2!3m1!1s0x340403ed9c7f9787:0xdd21ca34a0d8f907"
+    },
+    "local_path": "photos/ChIJh5d_nO0DBDQRB_nYoDTKId0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY1UzVNwobaoAK6GCBavNF7TY-cbKPY-raag3aJCRAJDn9hRxVLrp_hplAp_jKmjnfwOEyUzpI-agnWZt7h7HgCwNIIU1jvIBRHsKqYsI4invivUxD3UPrXtIRAycXhj9NctH25g=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 150566
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

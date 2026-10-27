@@ -1,0 +1,38 @@
+{
+  "id": "ChIJw7zI9ewDBDQRxc65RBMnuXw",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "海邊, Tseung Kwan O, New Territories, 香港",
+  "location": {
+    "latitude": 22.3019589,
+    "longitude": 114.25999209999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8987257495105425093&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "將軍澳海濱公園",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJw7zI9ewDBDQRxc65RBMnuXw/photos/Aa-ngMaqE-5ceVRQWEMqMYDIJMqZK62gNxFp7ll6NU6uQIOe7Oirfq65Nm3QaW5ezVTWPGSmLl_cZ1uF7qv5In7QRQq-sSWOWdf1gtCM-4_NtKGbywhQdHZBQ42SAWePDmv8aKA7io579D3B9UGINpujGIO6BeUYaP699q5IHJ3o3AMfPBtUygDHxGTSWSX-vRNAFc60Z8B6HAQJfKFTIY_gfJ4EI1q1lCKMnsQwrSBPwk-3T_q8hrsgWJXlMtl6sXzUaptRMqgtTlnvEXU3pFZ0CiRQZN3cY1UpYwdRNRoN_DBRnsDxSI6OfNZCKtiAvSCO5KCRfWHryAde1V4J4hdv1ogSVDkJf0_eYCygPK_4bZ-M_TMZpz-H_DigPRNj-6YYG85rQPYpCAaVcptI93dR0g_RXhw-vwA",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "이동규",
+          "uri": "https://maps.google.com/maps/contrib/101132260744241163598",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIJC6pUfezqLCrd7dQzn-ysE_rIBEpQagn9u6BOFhssUzC4FA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDO5p-_tgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO5p-_tgE!2e10!4m2!3m1!1s0x340403ecf5c8bcc3:0x7cb9271344b9cec5"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:17.044411+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ChIJ18IvKjEHBDQR65VSZkDffrs",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍九龍塘歌和老街17號",
+  "location": {
+    "latitude": 22.3387843,
+    "longitude": 114.173701
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13510481399845656043&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "歌和老街公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJ18IvKjEHBDQR65VSZkDffrs/photos/Aa-ngMbAGHm1TQe9UgJvFdkjObmLPvxupsO0QMuaAgpGcl5gF6Grz6vyHa_kHVxqBOpsZYz12o2oDCxj32zy01-drzX26QTFPzAE-EcokPHpaDB1azsRcvIJKiNWDw9ejeU0PT4I_fH3rEe1q_s9fRXSfIqpoYGW1cVu0y5xwURIGh_TkodKwBIlW-wd-G1LqxsNKgOPmQCVuSng4wkciYmDivwSWsGBnCuTYsUeh-MlzzeJ2LjvfiWvYvadSN-AMgXUCwY6cWWVREtXr906wzVFqCZICfCA5p47EI3-lVirdAyCcMitQ6kAY07IGrt-GFC8DgIYxJ4OjRrbJVPJRsXfeo2EjC8hCsFvPsPJdh90lnprUOCrs51yOC3Pa_c7J3JovRYAf0IheKL8RdJYq5GQNRpEpEc",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "MW Cheng",
+          "uri": "https://maps.google.com/maps/contrib/102345310704379026024",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSK48NFL8lG27qerc__wG7CQMkrnpEwBaYY9uty6fqHk0KOcJN=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDclcCxBA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDclcCxBA!2e10!4m2!3m1!1s0x340407312a2fc2d7:0xbb7edf40665295eb"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:28.252143+00:00"
+}

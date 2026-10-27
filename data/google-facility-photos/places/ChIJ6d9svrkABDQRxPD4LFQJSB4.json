@@ -1,0 +1,41 @@
+{
+  "id": "ChIJ6d9svrkABDQRxPD4LFQJSB4",
+  "types": [
+    "pharmacy",
+    "veterinary_care",
+    "pet_care",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Shop G/F, Astoria Crest, 229 Hai Tan St, Sham Shui Po, Kowloon, 香港",
+  "location": {
+    "latitude": 22.3291836,
+    "longitude": 114.1575668
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2182004276597420228&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "毛國界動物醫院",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJ6d9svrkABDQRxPD4LFQJSB4/photos/Aa-ngMYFs16m9qex60DSczcHFMVL2hJo3FHvDC8Wl49u0sOJCBFez5mjDraylt6KLLn4SAzWrHoh75qqIm7ngq1a292Ic_oQLE6BPZfdDbRQgnzCC7WGQ48DD9FEh9RrARwOw0DfjlXGVIV7Hbf1LmvHXYUtg0B65I5kJ-wryetwpYsQMMACUSn5ZiFReBADCFrl3XYV6n_th4nSTNBXOi3KK-xkxltXhB2yaUURhpPQyX6KsAKtjc1w1FSMFauQb9zlMr0Lsp7K5Cto7L6xwnXFpxF63_zZTOliKgKzI_mvnuH9SqZtJZAIUpc86dQLyx--UdJur5pBHszv7mRxpoWyniyCt2tbbGzEnyhVtRpphseq2tVIUnrbZvbU8-5kCyiEBQuaLiXCIHSQiVsqwGqBa8NJ_JGPlrM",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Wai Ki Wong",
+          "uri": "https://maps.google.com/maps/contrib/102680249213328416583",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAeoFaa3PsAmE769XbayzRbQ-jB2XybtqzkTehx_Jea3Ymrw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICOhNiT-gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOhNiT-gE!2e10!4m2!3m1!1s0x340400b9be6cdfe9:0x1e4809542cf8f0c4"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:40.883630+00:00"
+}

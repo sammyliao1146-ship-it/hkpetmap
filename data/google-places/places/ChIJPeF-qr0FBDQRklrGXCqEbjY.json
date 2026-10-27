@@ -1,0 +1,333 @@
+{
+  "google_place_id": "ChIJPeF-qr0FBDQRklrGXCqEbjY",
+  "restaurant_ids": [
+    "restaurant:2298800634"
+  ],
+  "fetched_at": "2026-10-23T15:45:14.727597+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJPeF-qr0FBDQRklrGXCqEbjY",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2792 9966",
+    "internationalPhoneNumber": "+852 2792 9966",
+    "formattedAddress": "香港新界西貢市場街",
+    "location": {
+      "latitude": 22.379779499999998,
+      "longitude": 114.27207779999999
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=3922217642966276754&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://loafon.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 544,
+    "displayName": {
+      "text": "六福菜館",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "海鮮餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "seafood_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJPeF-qr0FBDQRklrGXCqEbjY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoRVoyUk5NM0o0WVdoRFRtTkhhRmxQUTJOMFJVRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "西貢米芝蓮一星海鮮店果然名不虛傳，食材新鮮，味道一流。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西貢米芝蓮一星海鮮店果然名不虛傳，食材新鮮，味道一流。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hin Sze Sham",
+          "uri": "https://www.google.com/maps/contrib/113816682974833843273/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLR0MxrGoX7GAff9sEb0GceLpaSL39PeVpMkmWGSDdA-CQ9WQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-20T06:15:26.075418345Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoRVoyUk5NM0o0WVdoRFRtTkhhRmxQUTJOMFJVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoRVoyUk5NM0o0WVdoRFRtTkhhRmxQUTJOMFJVRRAB!2m1!1s0x340405bdaa7ee13d:0x366e842a5cc65a92"
+      },
+      {
+        "name": "places/ChIJPeF-qr0FBDQRklrGXCqEbjY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsalZHczNSRFEzZW1kUU1HdDVabUZoYURjdFFuYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "好少入西貢食海鮮，今次有朋友帶路提議去食晚飯，我就當然舉手贊成啦！每一道菜都新鮮美味，果然近海得食啊。原來仲係米芝蓮一星食府，真係有驚喜到我啊！\n\n西貢地道魚湯\n好濃郁魚香嘅滾湯，原來用咁十幾種魚去煲，鮮甜魚味再加上酸甜番茄堆疊，好有家的感覺。\n\n椒鹽奇脆豆腐\n朋友大推依個招牌菜，比起平時正正方方個款更讓我滿足，長長嘅鮮嫩豆腐磚口感好滑溜。椒鹽味道剛好不會蓋過豆香，皮薄之餘內裡仲保持到好平滑。\n\n椒鹽焗大連鮮鮑魚\n鮑魚新鮮嘅程度係用咗椒鹽嘅處理都依然鮮味彈牙，個頭唔細嘅大連鮑魚，外衣好薄脆，鮑魚邊仲好腍嫩，中間就彈牙口感，讓人回味。\n\n鹽蒸野生海魚\n一行十人當然要點條魚食下，魚肉好厚啖啖肉，蘸埋醬汁伴住蔥食係一流啊！\n\n蒜蓉粉絲蒸貴妃蚌\n蚌肉好鮮味，夾埋蒜蓉食更加分。\n\n薑蔥炒蟶子皇配煎米粉\n蟶子皇好大隻，上枱滋滋作響超誘人！薑蔥炒過香氣十足，好味到朋友連料頭都唔放過啊！\n\n椒鹽鮮魷\n去菜館必點嘅送酒菜，炸得香脆內裡魷魚好彈牙，頗有水準呢！\n\n蒜蓉粉絲蒸茄子\n一開始以為上錯菜，見到全碟白雪雪一片，原來係去咗皮嘅茄子蒸粉絲，配搭埋蒜蓉加上蔥花芫茜點綴都係全片白色畫面，望落去清淡但食落卻重蒜味同埋幾有油香。\n\n豉油王炒麵\n朋友話之前食過好推介嘅豉油王炒麵，炒得好乾身嘅麵底，調味都剛剛好。\n\n藥膳辣酒煮花螺\n嗜辣嘅朋友點咗依道，麻香十足送酒一流啊！\n\n天婦羅桶蠔伴生菜\n酥脆外殼包住飽滿嘅桶蠔，用生菜包住食清爽咗，整體唔會膩。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好少入西貢食海鮮，今次有朋友帶路提議去食晚飯，我就當然舉手贊成啦！每一道菜都新鮮美味，果然近海得食啊。原來仲係米芝蓮一星食府，真係有驚喜到我啊！\n\n西貢地道魚湯\n好濃郁魚香嘅滾湯，原來用咁十幾種魚去煲，鮮甜魚味再加上酸甜番茄堆疊，好有家的感覺。\n\n椒鹽奇脆豆腐\n朋友大推依個招牌菜，比起平時正正方方個款更讓我滿足，長長嘅鮮嫩豆腐磚口感好滑溜。椒鹽味道剛好不會蓋過豆香，皮薄之餘內裡仲保持到好平滑。\n\n椒鹽焗大連鮮鮑魚\n鮑魚新鮮嘅程度係用咗椒鹽嘅處理都依然鮮味彈牙，個頭唔細嘅大連鮑魚，外衣好薄脆，鮑魚邊仲好腍嫩，中間就彈牙口感，讓人回味。\n\n鹽蒸野生海魚\n一行十人當然要點條魚食下，魚肉好厚啖啖肉，蘸埋醬汁伴住蔥食係一流啊！\n\n蒜蓉粉絲蒸貴妃蚌\n蚌肉好鮮味，夾埋蒜蓉食更加分。\n\n薑蔥炒蟶子皇配煎米粉\n蟶子皇好大隻，上枱滋滋作響超誘人！薑蔥炒過香氣十足，好味到朋友連料頭都唔放過啊！\n\n椒鹽鮮魷\n去菜館必點嘅送酒菜，炸得香脆內裡魷魚好彈牙，頗有水準呢！\n\n蒜蓉粉絲蒸茄子\n一開始以為上錯菜，見到全碟白雪雪一片，原來係去咗皮嘅茄子蒸粉絲，配搭埋蒜蓉加上蔥花芫茜點綴都係全片白色畫面，望落去清淡但食落卻重蒜味同埋幾有油香。\n\n豉油王炒麵\n朋友話之前食過好推介嘅豉油王炒麵，炒得好乾身嘅麵底，調味都剛剛好。\n\n藥膳辣酒煮花螺\n嗜辣嘅朋友點咗依道，麻香十足送酒一流啊！\n\n天婦羅桶蠔伴生菜\n酥脆外殼包住飽滿嘅桶蠔，用生菜包住食清爽咗，整體唔會膩。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cara Yeung",
+          "uri": "https://www.google.com/maps/contrib/105939776497139858120/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWi5znMGuQhYXGPFPUUtMYLhdPcykYtXPi2EC5_S87brhSIwJkL=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-10-12T17:27:51.773708290Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsalZHczNSRFEzZW1kUU1HdDVabUZoYURjdFFuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsalZHczNSRFEzZW1kUU1HdDVabUZoYURjdFFuYxAB!2m1!1s0x340405bdaa7ee13d:0x366e842a5cc65a92"
+      },
+      {
+        "name": "places/ChIJPeF-qr0FBDQRklrGXCqEbjY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twQ1JFbGxNbTgzVkdwdlV6Sk5PVFJNTWtRNVpXYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "好耐冇去西貢食海鮮，今日一行五人，知道「六福菜館」已經連續十幾年榮獲米芝蓮一星，當然值得去朝聖！\n\n既然一場黎到，當然要痛快地𣈱飲𣈱食，先對得住自己嘛！😋😋\n\n💥西貢地道魚湯\n💥椒鹽奇脆豆腐\n💥椒鹽焗大連鮮鮑魚\n💥米湯低溫慢煮元貝\n💥薑蔥炒蟶子皇配煎米粉\n💥花雕蛋白蒸斑馬瀨尿蝦\n💥芝士開邊龍蝦拌伊麵\n💥蜜糖欖角骨\n💥蒜蓉粉絲蒸茄子\n💥海南老椰汁 / 芒果沙冰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好耐冇去西貢食海鮮，今日一行五人，知道「六福菜館」已經連續十幾年榮獲米芝蓮一星，當然值得去朝聖！\n\n既然一場黎到，當然要痛快地𣈱飲𣈱食，先對得住自己嘛！😋😋\n\n💥西貢地道魚湯\n💥椒鹽奇脆豆腐\n💥椒鹽焗大連鮮鮑魚\n💥米湯低溫慢煮元貝\n💥薑蔥炒蟶子皇配煎米粉\n💥花雕蛋白蒸斑馬瀨尿蝦\n💥芝士開邊龍蝦拌伊麵\n💥蜜糖欖角骨\n💥蒜蓉粉絲蒸茄子\n💥海南老椰汁 / 芒果沙冰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Purple Rabbit",
+          "uri": "https://www.google.com/maps/contrib/104292268727564919487/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0JN0LtCZn_3FXP_ucoyAR87oS7elfwzq6witVEUbbKL5Lj-yViw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-09-03T09:17:22.706834732Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twQ1JFbGxNbTgzVkdwdlV6Sk5PVFJNTWtRNVpXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twQ1JFbGxNbTgzVkdwdlV6Sk5PVFJNTWtRNVpXYxAB!2m1!1s0x340405bdaa7ee13d:0x366e842a5cc65a92"
+      },
+      {
+        "name": "places/ChIJPeF-qr0FBDQRklrGXCqEbjY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaTk1GcG1TbGhMZW5SS01sbHFXVmhtTFRKMVpsRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "星期日和家人一行九人走到西貢郊遊，上山又下海，最後回到西貢的六福菜館食晚飯，主要是因為屋企人都未試過呢間，而且又是米芝蓮店，所以決定一試。\n\n晚市人頭湧湧，不過餐廳有3層，我們預先等位，行完碼頭一圈返去剛好。\n\n9個人食了以下食物：\n\n西貢地道魚湯(例半)，湯頭甜清，有魚的鮮味。\n\n椒鹽奇脆豆腐，外皮香脆，豆腐嫩滑。\n\n椒鹽焗大連鮮鮑魚是招牌之一，鮑魚手掌般大隻，爽口彈牙，椒鹽十分惹味。\n\n鹽蒸野生海魚，對愛食魚的人黎講，真係正！大大條，食落一點不腥。魚肉結實又嫩滑，簡單配上薑蔥豉油，已經好好食！\n\n蒜蓉粉絲蒸貴妃蚌，鮮甜非常。\n\n薑蔥炒蟶子皇配煎米粉，另一招牌。蟶子一定要趁熱食，米粉吸晒蟶子鮮味。\n\n椒鹽鮮魷，香脆彈牙，送啤酒一流！\n\n蒜蓉粉絲蒸茄子，超級多蒜蓉鋪面，愛死了！茄子食落唔油，和粉絲原來咁夾。\n\n豉油王炒麵，炒得好乾身，一點也不油，點點芝麻更加錦上添花！\n\n藥膳辣酒煮花螺，上枱冇耐已經被秒清，因為大家都鍾意它的辣度與酒香！\n\n天婦羅桶蠔伴生菜，炸醬很薄，桶蠔肥美又Juicy，加少許沙律醬夾上生菜，一啲都唔膩！\n\n呢餐加埋啤酒、前菜、汁醬、茶位等等所有雜費，埋單大概$6500，人均$750有找，個人覺得好抵食。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期日和家人一行九人走到西貢郊遊，上山又下海，最後回到西貢的六福菜館食晚飯，主要是因為屋企人都未試過呢間，而且又是米芝蓮店，所以決定一試。\n\n晚市人頭湧湧，不過餐廳有3層，我們預先等位，行完碼頭一圈返去剛好。\n\n9個人食了以下食物：\n\n西貢地道魚湯(例半)，湯頭甜清，有魚的鮮味。\n\n椒鹽奇脆豆腐，外皮香脆，豆腐嫩滑。\n\n椒鹽焗大連鮮鮑魚是招牌之一，鮑魚手掌般大隻，爽口彈牙，椒鹽十分惹味。\n\n鹽蒸野生海魚，對愛食魚的人黎講，真係正！大大條，食落一點不腥。魚肉結實又嫩滑，簡單配上薑蔥豉油，已經好好食！\n\n蒜蓉粉絲蒸貴妃蚌，鮮甜非常。\n\n薑蔥炒蟶子皇配煎米粉，另一招牌。蟶子一定要趁熱食，米粉吸晒蟶子鮮味。\n\n椒鹽鮮魷，香脆彈牙，送啤酒一流！\n\n蒜蓉粉絲蒸茄子，超級多蒜蓉鋪面，愛死了！茄子食落唔油，和粉絲原來咁夾。\n\n豉油王炒麵，炒得好乾身，一點也不油，點點芝麻更加錦上添花！\n\n藥膳辣酒煮花螺，上枱冇耐已經被秒清，因為大家都鍾意它的辣度與酒香！\n\n天婦羅桶蠔伴生菜，炸醬很薄，桶蠔肥美又Juicy，加少許沙律醬夾上生菜，一啲都唔膩！\n\n呢餐加埋啤酒、前菜、汁醬、茶位等等所有雜費，埋單大概$6500，人均$750有找，個人覺得好抵食。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "June",
+          "uri": "https://www.google.com/maps/contrib/110268643821076831337/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqdSKdcTSnVTGMa5H0dQY4CPJbMEZQAxaYeeECnSVj0Zrx-lAnvQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-09-25T11:19:41.473001525Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaTk1GcG1TbGhMZW5SS01sbHFXVmhtTFRKMVpsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaTk1GcG1TbGhMZW5SS01sbHFXVmhtTFRKMVpsRRAB!2m1!1s0x340405bdaa7ee13d:0x366e842a5cc65a92"
+      },
+      {
+        "name": "places/ChIJPeF-qr0FBDQRklrGXCqEbjY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s4d2VIRlphV2RJV0MxQmVVdHJWMlZUVnpCUWJrRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "上星期六，我同幾個朋友去咗西貢嘅「六福菜館」食飯，真係一個字：正！呢間多年米芝連嘅海鮮餐廳真係無人不曉，坐低嗰陣已經聞到陣陣鑊氣，胃口即刻大增。\n\n番茄薯仔魚湯：呢碗湯真係暖心暖胃！番茄嘅酸甜味好濃，配上薯仔嘅軟綿同魚肉嘅鮮甜，飲落好似屋企湯咁有愛。魚湯好新鮮，無腥味，湯底清甜到飲晒一碗仲想encore，絕對係開胃首選！\n\n海班龍吐珠：哇，呢道菜係全餐飯嘅焦點！海班起骨，肉質彈牙，成條魚骨煎得脆卜卜，充滿驚喜。\n\n薑蔥蟶子：蟶子新鮮到不得了，爽口彈牙，薑蔥嘅香氣完全滲入蟶肉，炒得啱啱好，唔會過火。底層嘅米粉吸晒啲汁，滑溜溜又夠味，食到停唔到口，連我個平時唔食蟶子嘅朋友都話正！\n\n北菇雞腳：呢道菜係懷舊嘅滋味！北菇好香，雞腳炆得軟腍入味，啜一啜連骨都甩得開。醬汁濃而不膩，撈飯一流，差啲連碟都舔晒！\n\n炆腩仔：肥瘦適中嘅腩仔，炆到入口即化，肥肉油香四溢，瘦肉又唔會柴。醬汁帶點甜香，真係好邪惡但好過癮！\n\n艇仔飯：呢個艇仔飯好有西貢特色，飯粒粒分明，配料有蝦乾、魷魚同臘腸粒，仲有啲蝦醬青蔥提味。整體好似一場海鮮party，食材新鮮，份量又夠，食到好似坐喺西貢海邊咁chill。\n\n豉皇炒麵：炒麵真是一個「香」字了得！豉皇醬汁好濃郁，麵條炒得乾身爽脆，仲有陣陣芝麻香扑鼻而來。咬落去，麵條有啲微焦嘅鑊氣，配上芽菜同蔥段，簡單但好滋味！\n\n椒鹽鮑魚：鮑魚做得好出色！外層炸得金黃香脆，鮑魚肉質軟嫩有彈性，椒鹽嘅香辣味好搶，仲帶點蒜香同蔥花，食落好似喺食高級小食咁過癮，唔夠喉啊！\n\n鹽水浸花甲：花甲好新鮮，每隻都肥美飽滿，鹽水浸得啱啱好，保留晒海水嘅鮮味。加咗少少蔥同薑，食落清爽又惹味，係一個好簡單但好滿足嘅菜式，啜到最後連汁都飲晒！\n\n六福菜館真係無得彈，無論係海鮮、炒菜定湯水，每道菜都好有水準，仲要好有西貢嘅海邊風味。服務員態度親切，上菜快，價錢又合理，係一間值得再encore嘅餐廳。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "上星期六，我同幾個朋友去咗西貢嘅「六福菜館」食飯，真係一個字：正！呢間多年米芝連嘅海鮮餐廳真係無人不曉，坐低嗰陣已經聞到陣陣鑊氣，胃口即刻大增。\n\n番茄薯仔魚湯：呢碗湯真係暖心暖胃！番茄嘅酸甜味好濃，配上薯仔嘅軟綿同魚肉嘅鮮甜，飲落好似屋企湯咁有愛。魚湯好新鮮，無腥味，湯底清甜到飲晒一碗仲想encore，絕對係開胃首選！\n\n海班龍吐珠：哇，呢道菜係全餐飯嘅焦點！海班起骨，肉質彈牙，成條魚骨煎得脆卜卜，充滿驚喜。\n\n薑蔥蟶子：蟶子新鮮到不得了，爽口彈牙，薑蔥嘅香氣完全滲入蟶肉，炒得啱啱好，唔會過火。底層嘅米粉吸晒啲汁，滑溜溜又夠味，食到停唔到口，連我個平時唔食蟶子嘅朋友都話正！\n\n北菇雞腳：呢道菜係懷舊嘅滋味！北菇好香，雞腳炆得軟腍入味，啜一啜連骨都甩得開。醬汁濃而不膩，撈飯一流，差啲連碟都舔晒！\n\n炆腩仔：肥瘦適中嘅腩仔，炆到入口即化，肥肉油香四溢，瘦肉又唔會柴。醬汁帶點甜香，真係好邪惡但好過癮！\n\n艇仔飯：呢個艇仔飯好有西貢特色，飯粒粒分明，配料有蝦乾、魷魚同臘腸粒，仲有啲蝦醬青蔥提味。整體好似一場海鮮party，食材新鮮，份量又夠，食到好似坐喺西貢海邊咁chill。\n\n豉皇炒麵：炒麵真是一個「香」字了得！豉皇醬汁好濃郁，麵條炒得乾身爽脆，仲有陣陣芝麻香扑鼻而來。咬落去，麵條有啲微焦嘅鑊氣，配上芽菜同蔥段，簡單但好滋味！\n\n椒鹽鮑魚：鮑魚做得好出色！外層炸得金黃香脆，鮑魚肉質軟嫩有彈性，椒鹽嘅香辣味好搶，仲帶點蒜香同蔥花，食落好似喺食高級小食咁過癮，唔夠喉啊！\n\n鹽水浸花甲：花甲好新鮮，每隻都肥美飽滿，鹽水浸得啱啱好，保留晒海水嘅鮮味。加咗少少蔥同薑，食落清爽又惹味，係一個好簡單但好滿足嘅菜式，啜到最後連汁都飲晒！\n\n六福菜館真係無得彈，無論係海鮮、炒菜定湯水，每道菜都好有水準，仲要好有西貢嘅海邊風味。服務員態度親切，上菜快，價錢又合理，係一間值得再encore嘅餐廳。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Etta Lai",
+          "uri": "https://www.google.com/maps/contrib/103514690922362617833/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfLos1NaE6NPwAhmAlgFjiwsP-sTrGt-HvVxon_eG6LfKN7fA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-07-01T02:15:23.213450119Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s4d2VIRlphV2RJV0MxQmVVdHJWMlZUVnpCUWJrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s4d2VIRlphV2RJV0MxQmVVdHJWMlZUVnpCUWJrRRAB!2m1!1s0x340405bdaa7ee13d:0x366e842a5cc65a92"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "valetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340405bdaa7ee13d:0x366e842a5cc65a92!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3922217642966276754&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405bdaa7ee13d:0x366e842a5cc65a92!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340405bdaa7ee13d:0x366e842a5cc65a92!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405bdaa7ee13d:0x366e842a5cc65a92!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJPeF-qr0FBDQRklrGXCqEbjY/photos/Aa-ngMaKWOl37V4cDtIMgbBW2pdcVz2SM4dmQFwXi7sQV2sq98JFnOJAhGfLUWqipGrpVa5B2cuacATDSkQLFoVXdkSHj7MQfx8iuXLuu8cNF2k8-NLaajwMCDC1DH1o9bHR5y5f7FBGYCC7J8KHFPy02_zkFToh_gdXEbA5_3w9FhXVd7uluGYgFSk-h5k0o5Dc6n0ZalBCOuaz9SLlam0Lbg4lEobB9O9AfO2v--sHGmqO-YuCBArRYN4L9kq0j0f3Jyq9gElRKRr5PyamdPWwYMRKr-TfDDrOfZbY9FNKx9Em6tHh3gq_bUDwZ6qT0O2jD2JhSHEj6Ai3Dtr6wQeT6sQCvxvIzwUAkNynNIDmZoSv2vO6LgOS4iAmtzN6Ni-VMM_um7mH2BiETm0nfNX8K8NOAvI8",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "k Ying Lee",
+          "uri": "https://maps.google.com/maps/contrib/104298081142488370860",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKf6BkYypJKn9S6KmJnK8QTMFHjP2fdSCAOhh-oAHReKBwVOQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4tZLdnwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4tZLdnwE!2e10!4m2!3m1!1s0x340405bdaa7ee13d:0x366e842a5cc65a92"
+    },
+    "local_path": "photos/ChIJPeF-qr0FBDQRklrGXCqEbjY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfocFR8ygX2MpE7foA0ZHBuQCQKmKuK-8CMUEMnGctLPAz_feoBBBDueQQrnCo5kMV6zhRzNif9iiKYpplQtcaSDxAaqXKKLRRu_1jxotzmwhBdp4Prlu_RPoEZTdDkA9oY2os0=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 212608
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ReadTimeout"
+  },
+  "cuisine": {
+    "primary_type": "seafood_restaurant",
+    "label": "海鮮餐廳",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

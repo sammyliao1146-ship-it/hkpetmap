@@ -1,0 +1,417 @@
+{
+  "google_place_id": "ChIJyzRpwygHBDQRNW9qtRF2OGY",
+  "restaurant_ids": [
+    "restaurant:2252810206"
+  ],
+  "fetched_at": "2026-10-23T15:46:05.079833+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJyzRpwygHBDQRNW9qtRF2OGY",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2877 3839",
+    "internationalPhoneNumber": "+852 2877 3839",
+    "formattedAddress": "香港九龍老虎岩聯合道198號樂富廣場3樓3106-3109號舖",
+    "location": {
+      "latitude": 22.337780499999997,
+      "longitude": 114.1867279
+    },
+    "rating": 3.3,
+    "googleMapsUri": "https://maps.google.com/?cid=7365767008994619189&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 16:00, 18:00 – 23:30",
+        "星期二: 07:00 – 16:00, 18:00 – 23:30",
+        "星期三: 07:00 – 16:00, 18:00 – 23:30",
+        "星期四: 07:00 – 16:00, 18:00 – 23:30",
+        "星期五: 07:00 – 16:00, 18:00 – 23:30",
+        "星期六: 07:00 – 16:00, 18:00 – 23:30",
+        "星期日: 07:00 – 16:00, 18:00 – 23:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 688,
+    "displayName": {
+      "text": "名苑酒家",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJyzRpwygHBDQRNW9qtRF2OGY/reviews/ChZDSUhNMG9nS0VKMmloNVNBeS1YS0hnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "上次去完啟德睇完演唱會，發現體育園正式開幕後人流越黎越多，同有唔少既餐廳，\n名苑酒家，平時我地係新界都係同屋企人常去晚餐之一，\n今日都黎啟德試下先～名苑酒家做緊新張優惠\n限量：紅燒脆皮乳鴿$68買一送一呀 !! 一定要試😆，黎到，顏色好靚， 脆皮口感嫩滑，仲好有肉汁，滿足\n\n波士頓龍蝦配伊麵 $198，cp值超高，啖啖肉，伊麵吸收左啲上湯牛油，好好味，\n仲可以自選醬汁 ，我地揀上湯牛油，見到好有創意有卡邦尼汁，下次要試下先得\n另加$30 ，伊麵底， 份量都幾多 ，其實真係好抵食呀\n\n鮮菠蘿咕嚕肉 $118\n好鐘意酸酸甜甜既咭嚕肉，啲菠蘿都好好食，粒粒肉質十分爽彈，所以呢款一直都受歡迎\n\n椒鹽魷魚鬚 $68\n外層酥脆， 咀嚼時仲好有口感，椒鹽調味仲恰到好處，正\n\n九龍城啟德承啟道38-39號啟德體育園啟德零售館2 3樓\nM2-310號舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "上次去完啟德睇完演唱會，發現體育園正式開幕後人流越黎越多，同有唔少既餐廳，\n名苑酒家，平時我地係新界都係同屋企人常去晚餐之一，\n今日都黎啟德試下先～名苑酒家做緊新張優惠\n限量：紅燒脆皮乳鴿$68買一送一呀 !! 一定要試😆，黎到，顏色好靚， 脆皮口感嫩滑，仲好有肉汁，滿足\n\n波士頓龍蝦配伊麵 $198，cp值超高，啖啖肉，伊麵吸收左啲上湯牛油，好好味，\n仲可以自選醬汁 ，我地揀上湯牛油，見到好有創意有卡邦尼汁，下次要試下先得\n另加$30 ，伊麵底， 份量都幾多 ，其實真係好抵食呀\n\n鮮菠蘿咕嚕肉 $118\n好鐘意酸酸甜甜既咭嚕肉，啲菠蘿都好好食，粒粒肉質十分爽彈，所以呢款一直都受歡迎\n\n椒鹽魷魚鬚 $68\n外層酥脆， 咀嚼時仲好有口感，椒鹽調味仲恰到好處，正\n\n九龍城啟德承啟道38-39號啟德體育園啟德零售館2 3樓\nM2-310號舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Venus Tai",
+          "uri": "https://www.google.com/maps/contrib/101190273136005935293/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSt-07nFg6gMMyaTh-1BUHhPdab_GyxM2YZDYR-mieLjHJng=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-06-02T01:46:39.306602Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VKMmloNVNBeS1YS0hnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VKMmloNVNBeS1YS0hnEAE!2m1!1s0x34040728c36934cb:0x66387611b56a6f35"
+      },
+      {
+        "name": "places/ChIJyzRpwygHBDQRNW9qtRF2OGY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZM1R6WlVTRWRGVUdSYWNsWlhMVmxtYVZWTmJYYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 2,
+        "text": {
+          "text": "我明白租金貴人工貴成本貴，好處是清潔衛生， 枱和枱算係隔得遠，但星期一8個點心有3個非常差， 例如殭屍肉排骨， 油浸點心， 服務，其實係冇服務，人手不足，我希望無加一。 唔會去第二次亦都唔會叫入朋友去。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我明白租金貴人工貴成本貴，好處是清潔衛生， 枱和枱算係隔得遠，但星期一8個點心有3個非常差， 例如殭屍肉排骨， 油浸點心， 服務，其實係冇服務，人手不足，我希望無加一。 唔會去第二次亦都唔會叫入朋友去。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "cljesse ng",
+          "uri": "https://www.google.com/maps/contrib/107632096463719067524/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUg7PEjah5S8KRmWyLobQ5spVI-qdP_kP1Am40r9HhgjOXb1Oe5=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-01T13:17:55.410789101Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pZM1R6WlVTRWRGVUdSYWNsWlhMVmxtYVZWTmJYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZM1R6WlVTRWRGVUdSYWNsWlhMVmxtYVZWTmJYYxAB!2m1!1s0x34040728c36934cb:0x66387611b56a6f35"
+      },
+      {
+        "name": "places/ChIJyzRpwygHBDQRNW9qtRF2OGY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVcThYeWdBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "「名苑酒家」\n@橫頭磡 樂富廣場\n食肆位置係「橫頭磡 樂富廣場」，並非「樂富區」，希望 Google 唔好誤導市民。\n\n店舖上一手「天福軒」係昔日「樂富中心」嘅大租戶「天福飲食集團」旗下其中一間食肆。\n\n最近光顧在母親節之後嘅早市，明顯增聘咗員工，服務員好咗不少。 (2024.05.14)\n\n依家嘅「名苑」食物種類頗多外省種類，只有少數本地傳統款式。飲早茶、食晏、晚餐開茶之後都預咗自行加水, 否則又係會渴死。嗰日早上入去，其中叫咗雞扎，等咗好耐先上枱，外皮腐竹味道怪怪地，最惨啲雪藏雞肉完全未熟。(2018-10)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "「名苑酒家」\n@橫頭磡 樂富廣場\n食肆位置係「橫頭磡 樂富廣場」，並非「樂富區」，希望 Google 唔好誤導市民。\n\n店舖上一手「天福軒」係昔日「樂富中心」嘅大租戶「天福飲食集團」旗下其中一間食肆。\n\n最近光顧在母親節之後嘅早市，明顯增聘咗員工，服務員好咗不少。 (2024.05.14)\n\n依家嘅「名苑」食物種類頗多外省種類，只有少數本地傳統款式。飲早茶、食晏、晚餐開茶之後都預咗自行加水, 否則又係會渴死。嗰日早上入去，其中叫咗雞扎，等咗好耐先上枱，外皮腐竹味道怪怪地，最惨啲雪藏雞肉完全未熟。(2018-10)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Uranus LAU",
+          "uri": "https://www.google.com/maps/contrib/103686780705653655198/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAe8m6xkq-jecQOGsPB4a7EP9MrVI43fHIK0VN0MIEFk7Pjg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-10-07T17:39:48.287065Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNVcThYeWdBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNVcThYeWdBRRAB!2m1!1s0x34040728c36934cb:0x66387611b56a6f35"
+      },
+      {
+        "name": "places/ChIJyzRpwygHBDQRNW9qtRF2OGY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsbnJlVGFREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 2,
+        "text": {
+          "text": "燒鵝 搭米線夠奇怪 無瀨粉無米粉。碗米線仲要唔熱，燒鵝凍到啲油都埋結。\n其他食物仲算可以。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "燒鵝 搭米線夠奇怪 無瀨粉無米粉。碗米線仲要唔熱，燒鵝凍到啲油都埋結。\n其他食物仲算可以。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dennis LEUNG",
+          "uri": "https://www.google.com/maps/contrib/117458415567111193004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8-GittqC6kGrVpLscpRQ4HFrw2ysiojztqXuNhoRFmADHZkpg=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2023-11-19T08:10:12.783523Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsbnJlVGFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsbnJlVGFREAE!2m1!1s0x34040728c36934cb:0x66387611b56a6f35"
+      },
+      {
+        "name": "places/ChIJyzRpwygHBDQRNW9qtRF2OGY/reviews/ChdDSUhNMG9nS0VJQ0FnSURCbThMNzZBRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 1,
+        "text": {
+          "text": "年初一食垃圾！乜味都冇，服務員只顧收紅包！新年比人🔪是定律？名苑以前也常幫襯，今次真係好失望！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "年初一食垃圾！乜味都冇，服務員只顧收紅包！新年比人🔪是定律？名苑以前也常幫襯，今次真係好失望！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Daniel Chu",
+          "uri": "https://www.google.com/maps/contrib/105968946926457684783/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLdppDevb6LJeNfnX9liSTP6LlbRTpogp0u1aYWY4BN-MhiBQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-01-29T11:35:53.362099Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCbThMNzZBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCbThMNzZBRRAB!2m1!1s0x34040728c36934cb:0x66387611b56a6f35"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040728c36934cb:0x66387611b56a6f35!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7365767008994619189&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040728c36934cb:0x66387611b56a6f35!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040728c36934cb:0x66387611b56a6f35!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040728c36934cb:0x66387611b56a6f35!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJyzRpwygHBDQRNW9qtRF2OGY/photos/Aa-ngMbKg0UrJ7uqrDHJBzgHu9utQkamHgfE3bKMamB4w0fTchIRO8Wfex0R5AOuOrhoFOfK2eXyQeky1hX1c4G9LH1t321uHajsuY_SN6DaVpphTv4ldPeKcIkybjDV8lq3Rj9SH_NaL8p7Heo3ByTmR8jFZFjsr-ph9bpRBPnqPmJT04CKDY4fphLzC8beuUGsnIUU3CP6BLgiIBBou0Rf0dzad2Qmnp8dL-SSUPi8_zICslbkZha7WxSR5QFFT_1FKF9aahbZvb3Hao_pBMi61u9KXZv_BunCIIvCGh1v-hd4Agg-HDIxPei26agYYQJ1utO0fmgYvomdWX6iS26f5ON4NYLLJlLRWmC-gqbwBH_O8lMPtS-ElmhcngZXB6p4rnIM0f4dcItHnO9igzLqwMDxNE2VBSoBGzx2AN6Ivqf9UA",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Cheung Daniel",
+          "uri": "https://maps.google.com/maps/contrib/103800593919554154017",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDn_CDAb1y2ZkNYKZgPlxnI77l_jpH8-HjWRlURhaMQAMYmWg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBU0WZnQ2jNipoCxmiINWtH&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBU0WZnQ2jNipoCxmiINWtH!2e10!4m2!3m1!1s0x34040728c36934cb:0x66387611b56a6f35"
+    },
+    "local_path": "photos/ChIJyzRpwygHBDQRNW9qtRF2OGY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdK4RPvtslFdvsEg0oe2QhoLhIHl9p-bKmmY6BZR0IA0SGe27hXMI8V_a5kBLQXBzLgCrDd-KUxRi_u-ZWZU_G-NFBCraOZzJV9D7YSd2eXKJc_bERZssEft_fsIJTlJWyIJUlha90PbX9H=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 126158
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hk-petfinder"
+version = "0.1.0"
+description = "香港毛孩地圖：狗友善餐廳、寵物設施、活動同粵語 AI 助手"
+requires-python = ">=3.12"
+dependencies = ["truststore>=0.10,<1", "httpx>=0.28,<1", "fastapi==0.159.1", "uvicorn[standard]==0.54.0", "openai-agents==0.24.0", "mcp>=2.3,<3", "python-dotenv>=1,<2", "redis>=5,<8", "beautifulsoup4>=4.12,<5", "pdfplumber>=0.11,<1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "fakeredis>=2.26,<3"]
+
+[tool.setuptools.packages.find]
+include = ["backend*", "agent*"]
+
+[tool.setuptools.package-data]
+"backend.app.data" = ["*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["backend/tests"]

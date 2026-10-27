@@ -1,0 +1,41 @@
+{
+  "id": "ChIJi602NFj3AzQRrZCriauKcJU",
+  "types": [
+    "veterinary_care",
+    "pharmacy",
+    "store",
+    "pet_care",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界八鄉G/F, No. 108 Kam Tin Shi, Kam Tin",
+  "location": {
+    "latitude": 22.440104599999998,
+    "longitude": 114.06197530000001
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10768259178396618925&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "錦田獸醫醫院",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJi602NFj3AzQRrZCriauKcJU/photos/Aa-ngMbr5tg9gv7gm4dSgl6IQJtKxYV9YMF94EfAb0Wor9RLtJT1JEIAsVxGoUKVoKL3v9WNT-G44mLUcBt-e0Q6eC2iPSN9gumXt5p4bmunCQgHt9uvutSm9RVVHH5uXi6Z5mxT3UmRFORzZL94RuaDyV00gUhVDT3DDb8FaIooPib2qvZRUGmOVuKyKuGD-wNfTf4xRoRiEBCH-r4fiDD_zecC5Xcrx5wpJ0bIBRKS4uKormOW5ElNERX5ckYAj2IOpR2Qfyr_3dzEh4tQXu66ZDzMUs7quyZfOr6VSHeEticPq3SM4na206O2blIddx1PEt72e8ohEBZSmcDAet63SSuCLVzH-5w1sQTKbugRtR-xArJtJeOh5Tifg0XAw4_GuC3ydDe31fyNqKNmJXsGHY7u9oA7",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Kam Tin Veterinary Hospital 錦田獸醫醫院",
+          "uri": "https://maps.google.com/maps/contrib/114629008622775985132",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXF7-PfHsMX5uRmSt4a5MceMkVLpyPGTQf8QB_FO161MG062Q6p=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhj8L9iAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhj8L9iAE!2e10!4m2!3m1!1s0x3403f7583436ad8b:0x95708aab89ab90ad"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:48.485541+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ChIJa43v1V73AzQR7WJh8tUeDWQ",
+  "types": [
+    "pet_store",
+    "pet_care",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界錦田錦田市街108號",
+  "location": {
+    "latitude": 22.4404348,
+    "longitude": 114.0613826
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7209452482733368045&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Pet Elements Limited",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJa43v1V73AzQR7WJh8tUeDWQ/photos/Aa-ngMa9HhfJY79Nu0v9Y4BaivCtE9ErvByq1z29hhXQvV6FrKmlDyjoEwvAo9aR6HsRlsPN1NAwCEzfO36qGHZr0sbUhpLaldnRfytJBZA-BOjW5ZQEcZXCJRAQPyoQA2rP_VK_VBwudzWwYaJHEEwVfzKqCY-ReVnDDHNmEJNOdU2nkd-x5kISD0MlRd6bbbXn5INSBBzqYed9dCM3PQ0ykN07BLTnSwfIeBz3A6w4gJzWYW6VtyvR1u6tPRAKYjBxSgwnbb5L-4rJFdOfZuGLce-moVICMXPuz45JC-IEGb__mbA2-uFTkkHRK8n9tq64yvaDpQ6MOU54iokTslOvp3vQEwH6oACFr9IaXV6SNU1wENO5LY8N3MgIhaVNzF35bQxm-Tlu2FpLvrJQ2d9IEMgzYeI",
+      "widthPx": 960,
+      "heightPx": 640,
+      "authorAttributions": [
+        {
+          "displayName": "Angel Kai Ni Chan",
+          "uri": "https://maps.google.com/maps/contrib/108874745334575779169",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGFFPKxxk9Ia8WPVXQ99751fbxLDAwAammYxG-U_zI9E1t0B1B4g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8jqPbcA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8jqPbcA!2e10!4m2!3m1!1s0x3403f75ed5ef8d6b:0x640d1ed5f26162ed"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:48.822924+00:00"
+}

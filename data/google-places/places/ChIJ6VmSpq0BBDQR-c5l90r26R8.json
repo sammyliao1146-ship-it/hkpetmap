@@ -1,0 +1,325 @@
+{
+  "google_place_id": "ChIJ6VmSpq0BBDQR-c5l90r26R8",
+  "restaurant_ids": [
+    "restaurant:2263804012"
+  ],
+  "fetched_at": "2026-10-23T15:38:30.449440+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ6VmSpq0BBDQR-c5l90r26R8",
+    "types": [
+      "barbecue_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6440 7128",
+    "internationalPhoneNumber": "+852 6440 7128",
+    "formattedAddress": "香港九龍深水埗福華街110號地下全層",
+    "location": {
+      "latitude": 22.3312,
+      "longitude": 114.1629258
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=2299639886588006137&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 3,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 3,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:00 – 03:00",
+        "星期二: 16:00 – 03:00",
+        "星期三: 16:00 – 03:00",
+        "星期四: 16:00 – 03:00",
+        "星期五: 16:00 – 03:30",
+        "星期六: 16:00 – 03:00",
+        "星期日: 16:00 – 03:00"
+      ],
+      "nextCloseTime": "2026-10-23T19:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 12,
+    "displayName": {
+      "text": "開心烤吧",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": false,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": false,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ6VmSpq0BBDQR-c5l90r26R8/reviews/ChdDSUhNMG9nS0VJQ0FnSURqcHJyWDlBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "來過很多次了，暫時點的食物還沒有失望。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "來過很多次了，暫時點的食物還沒有失望。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "TF Wong",
+          "uri": "https://www.google.com/maps/contrib/100175501297660503690/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJz7ISLvZLRyAuXCQUsEOkRq6WyLJqG5JA4VLoyQi3T3qVULQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-05-02T15:18:16.031703Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqcHJyWDlBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqcHJyWDlBRRAB!2m1!1s0x340401ada69259e9:0x1fe9f64af765cef9"
+      },
+      {
+        "name": "places/ChIJ6VmSpq0BBDQR-c5l90r26R8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYcFlqeFNBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "環境舒服，食物美味，店員熱情。 已經第十次光顧了。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒服，食物美味，店員熱情。 已經第十次光顧了。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "GuyHK Bike",
+          "uri": "https://www.google.com/maps/contrib/106961975889221722406/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNIpPKbnXG8OuemaMTeKwnr8JsorrK1UnGcM_bBhD8Wf7Q0Wch=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-10-18T17:44:11.752216Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYcFlqeFNBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYcFlqeFNBEAE!2m1!1s0x340401ada69259e9:0x1fe9f64af765cef9"
+      },
+      {
+        "name": "places/ChIJ6VmSpq0BBDQR-c5l90r26R8/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxb2RhZmx3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "幫襯就很少人人都無乜留意",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "幫襯就很少人人都無乜留意",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CHI KONG SHEK (鬼爺)",
+          "uri": "https://www.google.com/maps/contrib/107195500791683588397/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVqnzT_Y0yL0JB3wZorxY_6jadudwK-2EJ-qR-yDc2uTxt94_0=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-12-31T00:14:12.699778Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxb2RhZmx3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxb2RhZmx3RRAB!2m1!1s0x340401ada69259e9:0x1fe9f64af765cef9"
+      },
+      {
+        "name": "places/ChIJ6VmSpq0BBDQR-c5l90r26R8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNabGZxZ0lBEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "1000分人有好 嘢食有正👍🏻",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "1000分人有好 嘢食有正👍🏻",
+          "languageCode": "zh"
+        },
+        "authorAttribution": {
+          "displayName": "Diu Nei",
+          "uri": "https://www.google.com/maps/contrib/106086606455616833848/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXopV8VdexZMnfuK_q-RFAJxThYetrWPZkD5dnuuF-p6R9YHnHFew=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-09-14T18:23:58.136156Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNabGZxZ0lBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNabGZxZ0lBEAE!2m1!1s0x340401ada69259e9:0x1fe9f64af765cef9"
+      },
+      {
+        "name": "places/ChIJ6VmSpq0BBDQR-c5l90r26R8/reviews/ChdDSUhNMG9nS0VJQ0FnSUROaXZpZm5RRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "人好多😁",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Sangat Ramai sekali 😁",
+          "languageCode": "id"
+        },
+        "authorAttribution": {
+          "displayName": "Scorpio Girls",
+          "uri": "https://www.google.com/maps/contrib/113347809433510621509/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzkrd06lWs9nwT_xZ1cwSB_o-s4AVXodVvKK4eGm7U1eMPGjCfpA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-01-21T11:59:39.519941Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUROaXZpZm5RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUROaXZpZm5RRRAB!2m1!1s0x340401ada69259e9:0x1fe9f64af765cef9"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401ada69259e9:0x1fe9f64af765cef9!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2299639886588006137&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401ada69259e9:0x1fe9f64af765cef9!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401ada69259e9:0x1fe9f64af765cef9!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401ada69259e9:0x1fe9f64af765cef9!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ6VmSpq0BBDQR-c5l90r26R8/photos/Aa-ngMbcWZnCGKF--YASbpQNcV23DHTnRXYFJfK3I2WySOT38g3gYX56AEdG9snL6Z-0BwJlRpkiaQQH_KEyB_ehZzHHULGYltLKOZ1ckoGWz8lLjDd-oovdbS0XeNo-TS8v3eCM56HcnBzq9F2HYnB-EbTYMpdYcs_JmV22jmI69dfpg7l2k25fDlQmdG4uIhxpp9Z6gSBYsJQcyFZSw8lxWJaSutDxeO2NgpwP4i5sbJ_IL3bb-cRKRhps4jrxcwHJmXlmenQFkbaLiczraERb9fs0j3Z9erXD_Von6onHmLD9N2K2KbeQSN73I0qZM9N8LDDPPqNVWUdC1hH2xogvJdJ6FKgGJ1l4wn_P-uS1gd904XIWjLWZWhlJbhwI_Ip7zk6wylSDmXr2ggtINv-CY0s-gQ",
+      "widthPx": 2160,
+      "heightPx": 3840,
+      "authorAttributions": [
+        {
+          "displayName": "開心烤吧",
+          "uri": "https://maps.google.com/maps/contrib/117992498194807131448",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLtHUI-kLQrSI3O4MiPyvUT65ZusEw4aKniFAAMSHz1lq_Eag=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDJq-CyQg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJq-CyQg!2e10!4m2!3m1!1s0x340401ada69259e9:0x1fe9f64af765cef9"
+    },
+    "local_path": "photos/ChIJ6VmSpq0BBDQR-c5l90r26R8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWaQN7jHyGfwTnM8VVMZe2P19UvTafV_18U0HHh2z5BC4XqtYv3DsIj986LJVKLXxFq0oemBGuOzk5zZiNwI6SCH13Yms-TuGa3pGdNZekImnkuw1KeROcXfoaUzn546JD32k=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 172750
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "barbecue_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

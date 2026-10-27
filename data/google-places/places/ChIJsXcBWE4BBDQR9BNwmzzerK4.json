@@ -1,0 +1,448 @@
+{
+  "google_place_id": "ChIJsXcBWE4BBDQR9BNwmzzerK4",
+  "restaurant_ids": [
+    "restaurant:2261816741"
+  ],
+  "fetched_at": "2026-10-23T15:46:19.540982+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJsXcBWE4BBDQR9BNwmzzerK4",
+    "types": [
+      "asian_fusion_restaurant",
+      "asian_restaurant",
+      "fusion_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3751 3009",
+    "internationalPhoneNumber": "+852 3751 3009",
+    "formattedAddress": "Shop OTE303, 3/F, 海運大廈 Harbour City, Canton Rd, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.294563,
+      "longitude": 114.1650563
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=12586679410480911348&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.thefoodstoryhk.com/mulan",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:30, 18:00 – 22:30",
+        "星期二: 12:00 – 15:30, 18:00 – 22:30",
+        "星期三: 12:00 – 15:30, 18:00 – 22:30",
+        "星期四: 12:00 – 15:30, 18:00 – 22:30",
+        "星期五: 12:00 – 15:30, 18:00 – 22:30",
+        "星期六: 12:00 – 15:30, 17:30 – 22:30",
+        "星期日: 12:00 – 15:30, 17:30 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 168,
+    "displayName": {
+      "text": "沐瀾",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "亞洲各國料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "asian_fusion_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJsXcBWE4BBDQR9BNwmzzerK4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnMmVtWnhSRlZNT0dKbFVIcFlWM0ozVDIwdFNIYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "一間近期備受矚目的高級餐廳，\n裝潢高雅寧靜，\n擁有極佳的維多利亞港海景，\n由曾獲「黑珍珠二鑽」殊榮的知名女主廚掌廚。\n\n主打 「中菜西做」的概念，\n深入中國各地搜羅獨特季節性優質食材，\n將傳統中式風味與精緻細膩西方烹調，\n揉合為一。象徵烹飪藝術的創新與變化。\n\n🔶龍蝦煲仔飯\n煲仔飯的高級奢華版，\n將原隻龍蝦鋪在米飯上，\n賣相相當吸引，\n龍蝦的海鮮精華滲入每一粒米飯，\n飯焦金黃酥脆，香氣四溢。\n\n🔶西鳳脆皮雞·沙薑香草醬\n雞皮炸得極度酥脆，雞肉肉汁豐盈，\n沾點特製沙薑香草醬，\n帶有辛香與西式香草的清香。\n\n🔶鴨泡膠·燉蛋\n將傳統中式珍饈「鴨泡膠」\n與法式經典的蒸燉蛋結合。\n燉蛋如絲般軟滑，蛋香濃郁；\n鴨泡膠彈牙黏糯，\n富含滿滿膠原蛋白。\n\n🔶乳鴿釀鮑魚·紅酒西梅汁\n極為繁複及有心思的菜式，\n外皮香脆，豐富油脂香，肉質多汁，\n更釀新鮮蠔皇鮑魚，鮮嫩彈牙。\n\n🔶天婦羅虎蝦·紫蘇·腐乳醬\n完美展現中西合璧的創意，\n虎蝦經高溫炸至外皮極其酥脆、\n蝦肉保持爽彈鮮甜，\n包裹的紫蘇葉，帶來獨特草本清香。\n\n🔶涼拌輕煎吞拿魚漬馬蹄沙律\n吞拿魚表面經輕煎，軟嫩又鮮美，\n還帶有醬油漬過的鹹甜風味；\n搭配爽脆馬蹄，清甜多汁。\n\n🔶雲南雞㙡菌·金耳·茭白·松露豆腐醬\n雲南特產的雞㙡菌，\n帶有獨特原始山野鮮香，\n金耳口感軟糯膠質，\n茭白清甜爽脆。\n\n🔶沐瀾氣節海味燉湯\n餐廳的頂級老火湯，\n經過長時間慢火細燉，\n放入多種珍貴海味\n精華完全溶入濃郁湯中，\n鮮甜滋潤，暖胃滋補。\n\n🔶沐瀾氣節蔬菜濃湯\n餐廳全素的蔬菜濃湯，\n採用當造的時令蔬菜慢熬，\n天然清甜，綿密順滑。\n\n🔶山竹奶凍西瓜冰\n完美的飯後清口甜品，\n山竹清甜花香，奶凍口感柔滑細膩，\n西瓜冰冰涼清爽，\n為整場盛宴畫下清爽，完美句號。\n#尖沙咀美食 #海港城 #沐瀾Mulan",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一間近期備受矚目的高級餐廳，\n裝潢高雅寧靜，\n擁有極佳的維多利亞港海景，\n由曾獲「黑珍珠二鑽」殊榮的知名女主廚掌廚。\n\n主打 「中菜西做」的概念，\n深入中國各地搜羅獨特季節性優質食材，\n將傳統中式風味與精緻細膩西方烹調，\n揉合為一。象徵烹飪藝術的創新與變化。\n\n🔶龍蝦煲仔飯\n煲仔飯的高級奢華版，\n將原隻龍蝦鋪在米飯上，\n賣相相當吸引，\n龍蝦的海鮮精華滲入每一粒米飯，\n飯焦金黃酥脆，香氣四溢。\n\n🔶西鳳脆皮雞·沙薑香草醬\n雞皮炸得極度酥脆，雞肉肉汁豐盈，\n沾點特製沙薑香草醬，\n帶有辛香與西式香草的清香。\n\n🔶鴨泡膠·燉蛋\n將傳統中式珍饈「鴨泡膠」\n與法式經典的蒸燉蛋結合。\n燉蛋如絲般軟滑，蛋香濃郁；\n鴨泡膠彈牙黏糯，\n富含滿滿膠原蛋白。\n\n🔶乳鴿釀鮑魚·紅酒西梅汁\n極為繁複及有心思的菜式，\n外皮香脆，豐富油脂香，肉質多汁，\n更釀新鮮蠔皇鮑魚，鮮嫩彈牙。\n\n🔶天婦羅虎蝦·紫蘇·腐乳醬\n完美展現中西合璧的創意，\n虎蝦經高溫炸至外皮極其酥脆、\n蝦肉保持爽彈鮮甜，\n包裹的紫蘇葉，帶來獨特草本清香。\n\n🔶涼拌輕煎吞拿魚漬馬蹄沙律\n吞拿魚表面經輕煎，軟嫩又鮮美，\n還帶有醬油漬過的鹹甜風味；\n搭配爽脆馬蹄，清甜多汁。\n\n🔶雲南雞㙡菌·金耳·茭白·松露豆腐醬\n雲南特產的雞㙡菌，\n帶有獨特原始山野鮮香，\n金耳口感軟糯膠質，\n茭白清甜爽脆。\n\n🔶沐瀾氣節海味燉湯\n餐廳的頂級老火湯，\n經過長時間慢火細燉，\n放入多種珍貴海味\n精華完全溶入濃郁湯中，\n鮮甜滋潤，暖胃滋補。\n\n🔶沐瀾氣節蔬菜濃湯\n餐廳全素的蔬菜濃湯，\n採用當造的時令蔬菜慢熬，\n天然清甜，綿密順滑。\n\n🔶山竹奶凍西瓜冰\n完美的飯後清口甜品，\n山竹清甜花香，奶凍口感柔滑細膩，\n西瓜冰冰涼清爽，\n為整場盛宴畫下清爽，完美句號。\n#尖沙咀美食 #海港城 #沐瀾Mulan",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jacky Ching",
+          "uri": "https://www.google.com/maps/contrib/105795781155884908792/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLcAvd6d45dVy6N3Iw4pXVlKHIRsJa8I2AZNQ9wiNMtFqQcIA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-02T15:18:57.308006471Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tnMmVtWnhSRlZNT0dKbFVIcFlWM0ozVDIwdFNIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnMmVtWnhSRlZNT0dKbFVIcFlWM0ozVDIwdFNIYxAB!2m1!1s0x3404014e580177b1:0xaeacde3c9b7013f4"
+      },
+      {
+        "name": "places/ChIJsXcBWE4BBDQR9BNwmzzerK4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OTlltcFVVa0pTWjJkMllWOW1NMVJrVWxsamFuYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "Book左枱，被安排窗邊位置。好似大部分枱都有海景。\n我哋叫左三個set lunch。\n前菜，\n雲南茭白 . 舞茸. 松露豆腐醬汁（素食）：擺盤好靚。茭白同舞茸口感都好好，加上比較light嘅豆腐汁（無乜松露味），幾清新，又食到食材嘅原味。\n煙鴨胸沙律.鎮江油醋汁：沙律菜新鮮，鴨胸無連皮，鹹左少少。不過連埋啲菜一齊食，就balance 返。\n雞柳蓮藕沙律 .麻婆豆腐汁：似麻醬手絲雞。醬汁係有輕微辣，不過食得辣嘅，應該唔覺得佢有辣味。都清新，可能調味方面就light左少少。餐廳有辣椒醬架（川味，湖南同黃椒醬）提供。\n餐湯，\n甜甜地，可能嚟自南瓜嘅甜。但如果再甜啲，就變左甜品。口感creamy,但就唔太稠，可能係中式嘅關係。\n主菜，\n柱侯鴨胸. 陳皮燴飯：呢個最濃味，都係最好味。啲飯濕濕地，有少少陳皮味。鴨胸好嫩，份量都多。\n雲南野菌花彫燴飯（舞茸 .牛肝菌 .蟲草花 . 金\n耳）：素食。個飯質地同鴨胸嗰個一樣，只係味道淡啲。金耳口感唔錯，似肉食。呢個比較light。\n澳洲青口臘味\"飯\"（臘腸.潤腸 .米型粉）：我鍾意呢呢青口，唔似大陸嗰啲，呢款嫩啲。但無乜味。米型粉比較al dente.啲粉入面有臘腸同潤腸，但好少。都係唔太濃味。\n甜品，\n最好食。紅豆沙食到紅豆粒，有西米。椰汁整成泡，方係最上面。數太甜，又有口感。\n可以一試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Book左枱，被安排窗邊位置。好似大部分枱都有海景。\n我哋叫左三個set lunch。\n前菜，\n雲南茭白 . 舞茸. 松露豆腐醬汁（素食）：擺盤好靚。茭白同舞茸口感都好好，加上比較light嘅豆腐汁（無乜松露味），幾清新，又食到食材嘅原味。\n煙鴨胸沙律.鎮江油醋汁：沙律菜新鮮，鴨胸無連皮，鹹左少少。不過連埋啲菜一齊食，就balance 返。\n雞柳蓮藕沙律 .麻婆豆腐汁：似麻醬手絲雞。醬汁係有輕微辣，不過食得辣嘅，應該唔覺得佢有辣味。都清新，可能調味方面就light左少少。餐廳有辣椒醬架（川味，湖南同黃椒醬）提供。\n餐湯，\n甜甜地，可能嚟自南瓜嘅甜。但如果再甜啲，就變左甜品。口感creamy,但就唔太稠，可能係中式嘅關係。\n主菜，\n柱侯鴨胸. 陳皮燴飯：呢個最濃味，都係最好味。啲飯濕濕地，有少少陳皮味。鴨胸好嫩，份量都多。\n雲南野菌花彫燴飯（舞茸 .牛肝菌 .蟲草花 . 金\n耳）：素食。個飯質地同鴨胸嗰個一樣，只係味道淡啲。金耳口感唔錯，似肉食。呢個比較light。\n澳洲青口臘味\"飯\"（臘腸.潤腸 .米型粉）：我鍾意呢呢青口，唔似大陸嗰啲，呢款嫩啲。但無乜味。米型粉比較al dente.啲粉入面有臘腸同潤腸，但好少。都係唔太濃味。\n甜品，\n最好食。紅豆沙食到紅豆粒，有西米。椰汁整成泡，方係最上面。數太甜，又有口感。\n可以一試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Emily Cheng",
+          "uri": "https://www.google.com/maps/contrib/112012152992708921520/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6FI64w1jq10aWsxWBs8mZrb0OkhqUjZzOnSnViCxHPhnVKQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-30T02:51:40.342985111Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OTlltcFVVa0pTWjJkMllWOW1NMVJrVWxsamFuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OTlltcFVVa0pTWjJkMllWOW1NMVJrVWxsamFuYxAB!2m1!1s0x3404014e580177b1:0xaeacde3c9b7013f4"
+      },
+      {
+        "name": "places/ChIJsXcBWE4BBDQR9BNwmzzerK4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSd1RGOVNkbGRsVFVKUGNEUjFNM05NWkRWQ2RWRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "順時而食「中菜西造」套餐，每道都係驚喜！\n試咗佢哋 六月限定·芒種•夏至晚市二人套餐\n全程食到wow wow聲，真心好食！\n約會、紀念日、帶鍾意嘅人嚟食，氣氛一流💕\n\n📋 必點名菜推薦\n\n🔸 鴨泡膠·燉蛋\n呢個一定要叫！蟹王燉蛋超濃郁，配鴨泡膠，滑得嚟仲帶鮮甜，第一啖已經閉眼享受！\n\n🔸 乳鴿釀鮑魚·紅酒西梅汁\n從來冇諗過乳鴿同鮑魚可以一齊\n鴿肉嫩、鮑魚彈牙，紅酒西梅汁微酸微甜，解晒膩\n上枱仲好有排面，打卡一流📸\n\n🔸 龍蝦煲仔飯\n儀式感🔥爆！\n煲底鋪海鹽，即場點火燒飯焦，幾分鐘後啲香味爆發晒出嚟🦞\n龍蝦味完全滲入粒粒飯，飯焦脆口唔苦，兩個人爭住食🤤\n\n🍮 甜品兩款都必點！🐶大推\n· 柚子玫瑰花椒芝士餅：柚子同芝士平衡得好好，甜中帶微微花椒香，但不會搶味。\n· 山竹奶凍西瓜冰：山竹味好出，清清爽爽收尾，絕對唔膩，呢個好有驚喜！為成餐畫上最完美句號！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "順時而食「中菜西造」套餐，每道都係驚喜！\n試咗佢哋 六月限定·芒種•夏至晚市二人套餐\n全程食到wow wow聲，真心好食！\n約會、紀念日、帶鍾意嘅人嚟食，氣氛一流💕\n\n📋 必點名菜推薦\n\n🔸 鴨泡膠·燉蛋\n呢個一定要叫！蟹王燉蛋超濃郁，配鴨泡膠，滑得嚟仲帶鮮甜，第一啖已經閉眼享受！\n\n🔸 乳鴿釀鮑魚·紅酒西梅汁\n從來冇諗過乳鴿同鮑魚可以一齊\n鴿肉嫩、鮑魚彈牙，紅酒西梅汁微酸微甜，解晒膩\n上枱仲好有排面，打卡一流📸\n\n🔸 龍蝦煲仔飯\n儀式感🔥爆！\n煲底鋪海鹽，即場點火燒飯焦，幾分鐘後啲香味爆發晒出嚟🦞\n龍蝦味完全滲入粒粒飯，飯焦脆口唔苦，兩個人爭住食🤤\n\n🍮 甜品兩款都必點！🐶大推\n· 柚子玫瑰花椒芝士餅：柚子同芝士平衡得好好，甜中帶微微花椒香，但不會搶味。\n· 山竹奶凍西瓜冰：山竹味好出，清清爽爽收尾，絕對唔膩，呢個好有驚喜！為成餐畫上最完美句號！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Golden Woo",
+          "uri": "https://www.google.com/maps/contrib/105484746630352129597/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOHyCnvyOMhqunIY1JiV2qjxBm8YApPN7E1dU6gl7wgQMKeOw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-15T08:15:11.308870594Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSd1RGOVNkbGRsVFVKUGNEUjFNM05NWkRWQ2RWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSd1RGOVNkbGRsVFVKUGNEUjFNM05NWkRWQ2RWRRAB!2m1!1s0x3404014e580177b1:0xaeacde3c9b7013f4"
+      },
+      {
+        "name": "places/ChIJsXcBWE4BBDQR9BNwmzzerK4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWWk4wSkZSa2hvT1ZWeVUwdFpRVmxaVkVzMGQyYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "位於海港城既中菜廳，對正維港海景，氣氛十足，好適合慶祝同約會。今晚叫左二人套餐 ($1688/2位)，仲另外加點餐廳既限定菜式「雲南菇菌節」。\n\n➤雲南雞㙡菌 · 金耳 · 茭白 · 松露豆腐醬\n將中式既食材加入西式既烹調，菇菌軟嫩，黑松露好香，醬汁綿密細膩。\n\n►龍蝦煲仔飯\n原隻龍蝦頭擺盤，店員上菜時會將煲底海鹽點火加熱，受熱後即刻有烈火閃出，非常吸睛。米飯煮到粒粒分明，底部仲有飯焦，而龍蝦肉去哂殼，肉質結實，新鮮彈牙。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於海港城既中菜廳，對正維港海景，氣氛十足，好適合慶祝同約會。今晚叫左二人套餐 ($1688/2位)，仲另外加點餐廳既限定菜式「雲南菇菌節」。\n\n➤雲南雞㙡菌 · 金耳 · 茭白 · 松露豆腐醬\n將中式既食材加入西式既烹調，菇菌軟嫩，黑松露好香，醬汁綿密細膩。\n\n►龍蝦煲仔飯\n原隻龍蝦頭擺盤，店員上菜時會將煲底海鹽點火加熱，受熱後即刻有烈火閃出，非常吸睛。米飯煮到粒粒分明，底部仲有飯焦，而龍蝦肉去哂殼，肉質結實，新鮮彈牙。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "co two",
+          "uri": "https://www.google.com/maps/contrib/104945950635379838529/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLbWGcSbZHxeaTj_s6YiSzeUn_LmM1g5uJ_BylGsIDLQRnV1A=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-26T13:56:46.994457315Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWWk4wSkZSa2hvT1ZWeVUwdFpRVmxaVkVzMGQyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWWk4wSkZSa2hvT1ZWeVUwdFpRVmxaVkVzMGQyYxAB!2m1!1s0x3404014e580177b1:0xaeacde3c9b7013f4"
+      },
+      {
+        "name": "places/ChIJsXcBWE4BBDQR9BNwmzzerK4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsRVNucDVjbEpTVVZWek1qUkRhMmR5WlRad0xYYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "團年飯揀咗呢間餐廳，因為屋企有人鍾意食中餐，又有人鐘意西餐，搵嚟搵去最後搵咗呢間中菜西造餐廳食咗個6course 晚餐，好似西餐咁有得由頭揀到甜品，但係個涵又有得揀啲中式嘢食，頭盤揀咗個花膠，湯揀咗個西湯，今日係南瓜湯，好濃郁！！Main\n就揀咗個澳洲西冷，好有肉味，叫咗五成熟！\n去到個飯揀咗個中式飯，佢係煲仔上，熱辣辣！仲有魚翅喺上面，好適合食團年飯，最後甜品覺得一定要試呢個芝士餅，出邊未食過呢種咁特別嘅，有花椒！\n仲有個海景睇，總結嚟講都幾抵食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "團年飯揀咗呢間餐廳，因為屋企有人鍾意食中餐，又有人鐘意西餐，搵嚟搵去最後搵咗呢間中菜西造餐廳食咗個6course 晚餐，好似西餐咁有得由頭揀到甜品，但係個涵又有得揀啲中式嘢食，頭盤揀咗個花膠，湯揀咗個西湯，今日係南瓜湯，好濃郁！！Main\n就揀咗個澳洲西冷，好有肉味，叫咗五成熟！\n去到個飯揀咗個中式飯，佢係煲仔上，熱辣辣！仲有魚翅喺上面，好適合食團年飯，最後甜品覺得一定要試呢個芝士餅，出邊未食過呢種咁特別嘅，有花椒！\n仲有個海景睇，總結嚟講都幾抵食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cindy Lai",
+          "uri": "https://www.google.com/maps/contrib/116190050813717028716/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZz12DcsjI3lw-qSNCYk7j0R3BrbNS2zRa7KNgTNgAc07fOJeP=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-03-09T01:53:05.764174347Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsRVNucDVjbEpTVVZWek1qUkRhMmR5WlRad0xYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsRVNucDVjbEpTVVZWek1qUkRhMmR5WlRad0xYYxAB!2m1!1s0x3404014e580177b1:0xaeacde3c9b7013f4"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404014e580177b1:0xaeacde3c9b7013f4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12586679410480911348&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014e580177b1:0xaeacde3c9b7013f4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404014e580177b1:0xaeacde3c9b7013f4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014e580177b1:0xaeacde3c9b7013f4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJsXcBWE4BBDQR9BNwmzzerK4/photos/Aa-ngMawkYPr1Pr_UMUZj3PQQKBmP5wcBcbyHXr7unf_t2bnw7FxdbTCr9EMZn0J83x8i_-G1rFyL15kZvLWZsUNwl8P6aKNJT3yKN5ANxcQe7rQvplZ40XMuP6PVBex9TB-IRc7SjzOGkbFQ4OFRe7hSd7zjmzR92VOEg3zdzSo4D47wdAEw1mk9YxauyNTm5vLyki0lYQK0NN9_CbOglpO7BZPcx9z7yP7Pgsulae8tVV2q3Annj3SEcQRC6G5WVMF4NcVuYIGj4GtMFxLwieFZm2Nq3uj59co6ivVF-epGND26-ZluFMvAzRH_UaXoqUkLDhHifr5ZvVV0H070VeFJDng45jowZ67CcDR3aFjb33M_7fDqKRgGy_em79Z_6J6QQcyOLeh80MU8EGken_DRXeG0Ug",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "MULAN",
+          "uri": "https://maps.google.com/maps/contrib/104785280324008532610",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWV8wUMbbxBg7hAwzlQQoeU5gjRCPiX0xQo8kKZhvRxExX5l0k=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICHnKrceg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHnKrceg!2e10!4m2!3m1!1s0x3404014e580177b1:0xaeacde3c9b7013f4"
+    },
+    "local_path": "photos/ChIJsXcBWE4BBDQR9BNwmzzerK4.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLch34y41I0da-IXL1d1m6Qg0LRWEII5esG5CHhugt1oa0bb-kupINBkM4yqRI0uIxH314Bi6gyP8tbfdrfulMIsDFX-enIKz79tpxZts_9ti8nz6wDqOnhKqC38NOCnG4A44lw3=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 606677
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://inline.app/booking/-O5pXAhYCXP2m36D6GbN:inline-live-3/-O5pXAtrs2uMQHX4ZCg_",
+        "label": "即 時 訂 座",
+        "source_url": "https://www.thefoodstoryhk.com/mulan",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_1047c6f6a0e642a99a9a76d0a116e21e.pdf",
+        "label": "À LA CARTE MENU",
+        "source_url": "https://www.thefoodstoryhk.com/mulan",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_9dcc24033cd94712a327e6c7558b53d8.pdf",
+        "label": "LUNCH MENU",
+        "source_url": "https://www.thefoodstoryhk.com/mulan",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_9fdca39326d54ac086fc3528f475ee4c.pdf",
+        "label": "DINNER MENU",
+        "source_url": "https://www.thefoodstoryhk.com/mulan",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_c88505ad305f41b8a6c1dbad6459455c.pdf",
+        "label": "松露節餐牌",
+        "source_url": "https://www.thefoodstoryhk.com/mulan",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_cd564631c3534d2da671a0201f195b22.pdf",
+        "label": "DRINK MENU",
+        "source_url": "https://www.thefoodstoryhk.com/mulan",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "asian_fusion_restaurant",
+    "label": "亞洲各國料理餐廳",
+    "types": [
+      "asian_fusion_restaurant",
+      "asian_restaurant",
+      "fusion_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://inline.app/booking/-O5pXAhYCXP2m36D6GbN:inline-live-3/-O5pXAtrs2uMQHX4ZCg_",
+  "menu_url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_1047c6f6a0e642a99a9a76d0a116e21e.pdf"
+}

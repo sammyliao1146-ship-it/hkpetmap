@@ -1,0 +1,347 @@
+{
+  "google_place_id": "ChIJEedNQFQDBDQRRZ0zu-RGcyM",
+  "restaurant_ids": [
+    "restaurant:2298804593"
+  ],
+  "fetched_at": "2026-10-23T15:48:28.047395+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJEedNQFQDBDQRRZ0zu-RGcyM",
+    "types": [
+      "western_restaurant",
+      "family_restaurant",
+      "steak_house",
+      "meal_takeaway",
+      "pizza_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2868 2236",
+    "internationalPhoneNumber": "+852 2868 2236",
+    "formattedAddress": "Shop 20 G/F Papillon Square, 21 Tong Chun St, Tseung Kwan O, New Territories, 香港",
+    "location": {
+      "latitude": 22.303181799999997,
+      "longitude": 114.2638612
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=2554463361856412997&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://communityconcepts-hk.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 22:30",
+        "星期二: 11:00 – 22:30",
+        "星期三: 11:00 – 22:30",
+        "星期四: 11:00 – 22:30",
+        "星期五: 11:00 – 22:30",
+        "星期六: 11:00 – 22:30",
+        "星期日: 11:00 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 395,
+    "displayName": {
+      "text": "Riverside Grill",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesVegetarianFood": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJEedNQFQDBDQRRZ0zu-RGcyM/reviews/ChdDSUhNMG9nS0VJQ0FnTURBczhHQS1nRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "環境好好，附近休閒清靜！店員服務態度非常好，今日我哋有少少雨，店員很快便幫我們開了傘檔雨！食物質素不錯，尤其是鐵板菜式！\n最欣賞甜品，是homemade ！對於少食甜品的我也覺得好味到！甜而不膩！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境好好，附近休閒清靜！店員服務態度非常好，今日我哋有少少雨，店員很快便幫我們開了傘檔雨！食物質素不錯，尤其是鐵板菜式！\n最欣賞甜品，是homemade ！對於少食甜品的我也覺得好味到！甜而不膩！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Vic Ki Law",
+          "uri": "https://www.google.com/maps/contrib/104623205724730139722/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUb4T-Axk9wJH_UG2ndB2GurWZrFf6g4CNR5VtMh2q-BRE_wY_p=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-02-11T17:59:50.722716Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBczhHQS1nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBczhHQS1nRRAB!2m1!1s0x34040354404de711:0x237346e4bb339d45"
+      },
+      {
+        "name": "places/ChIJEedNQFQDBDQRRZ0zu-RGcyM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twdlpsQk9ZamRUTVhSaWIxZFJOa05FVlVaS1NYYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "因為過嚟探朋友順便就黎呢間近海嘅餐廳食野，雖位置幾僻，坐得舒服，唔會好嘈。\n\nLunch set真係抵食，百零蚊有前菜、主菜、乳酪，加多少少錢有甜品，望落去細細份但其實食完已經好飽。\n\n意粉味道濃，幾香。牛扒叫咗五成熟，切開啱啱好，肉質軟，唔韌。\n\n甜品加配咗是日蛋糕，簡單一件tiramisu，唔太甜。\n\n整體唔錯，以呢個價錢，算係交足功課。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "因為過嚟探朋友順便就黎呢間近海嘅餐廳食野，雖位置幾僻，坐得舒服，唔會好嘈。\n\nLunch set真係抵食，百零蚊有前菜、主菜、乳酪，加多少少錢有甜品，望落去細細份但其實食完已經好飽。\n\n意粉味道濃，幾香。牛扒叫咗五成熟，切開啱啱好，肉質軟，唔韌。\n\n甜品加配咗是日蛋糕，簡單一件tiramisu，唔太甜。\n\n整體唔錯，以呢個價錢，算係交足功課。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chui Yee",
+          "uri": "https://www.google.com/maps/contrib/114287260270371076038/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIg4Quzi3f9ag9dnELBoO0RhqJK7-NpzhY8Vy3DaipvGUrN_w=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-09-16T11:49:34.571070330Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twdlpsQk9ZamRUTVhSaWIxZFJOa05FVlVaS1NYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twdlpsQk9ZamRUTVhSaWIxZFJOa05FVlVaS1NYYxAB!2m1!1s0x34040354404de711:0x237346e4bb339d45"
+      },
+      {
+        "name": "places/ChIJEedNQFQDBDQRRZ0zu-RGcyM/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1Mzh5MHZBRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "這間位在將軍澳海濱長廊的西餐廳，菜式融合各地的精髓，半開放式的環境亦令其更開揚舒適，無論假日和家人來享受個悠閒午餐或和一群朋友聚會都很合適。\n\nꪔ̤̮千島海鮮薄餅 ($168)\n薄批底十分鬆脆，加上上面的千島醬、海鮮青和大量的芝士，整體配搭得宜。\n\nꗯ̤̮濃汁牛柳10安士 ($328)\n牛柳生熟度選擇了Medium，餐廳烹調恰到好處。外層煎至微微焦脆帶炭燒的香氣，裡面肉質呈粉紅色，口感軟嫩且肉味十足。\n\nꪔ̤̮烤炸雞胸肉芝士蕃茄醬($178)\n雞胸肉沾上麵包粉後用油去煎，煎完了再在上頭加上蕃茄醬和芝士烤至微脆芝士溶化。雞胸扒份量超多，足足有三塊。\n\nꗯ̤̮朱古力心太軟 ($98)\n心太軟即點即製需等候約15分鐘，切開後朱古力漿如泉湧出，是一道相當出色的甜品。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間位在將軍澳海濱長廊的西餐廳，菜式融合各地的精髓，半開放式的環境亦令其更開揚舒適，無論假日和家人來享受個悠閒午餐或和一群朋友聚會都很合適。\n\nꪔ̤̮千島海鮮薄餅 ($168)\n薄批底十分鬆脆，加上上面的千島醬、海鮮青和大量的芝士，整體配搭得宜。\n\nꗯ̤̮濃汁牛柳10安士 ($328)\n牛柳生熟度選擇了Medium，餐廳烹調恰到好處。外層煎至微微焦脆帶炭燒的香氣，裡面肉質呈粉紅色，口感軟嫩且肉味十足。\n\nꪔ̤̮烤炸雞胸肉芝士蕃茄醬($178)\n雞胸肉沾上麵包粉後用油去煎，煎完了再在上頭加上蕃茄醬和芝士烤至微脆芝士溶化。雞胸扒份量超多，足足有三塊。\n\nꗯ̤̮朱古力心太軟 ($98)\n心太軟即點即製需等候約15分鐘，切開後朱古力漿如泉湧出，是一道相當出色的甜品。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "P F (peggie.dailylife)",
+          "uri": "https://www.google.com/maps/contrib/118006400639661759339/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOtDJZUEQjZkw_60Eh6xcAH9Qg6EDYWCJbWdvRWEEnUDZSeO9Q=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-10-18T05:50:49.670858Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM1Mzh5MHZBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM1Mzh5MHZBRRAB!2m1!1s0x34040354404de711:0x237346e4bb339d45"
+      },
+      {
+        "name": "places/ChIJEedNQFQDBDQRRZ0zu-RGcyM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGM1JEQmtYMjkzU0hSZmNVazJNQzF3TkY5MGIyYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "出品味道良好，扒類生熟控制剛好，服務也好！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "出品味道良好，扒類生熟控制剛好，服務也好！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kwok Wing Cheng",
+          "uri": "https://www.google.com/maps/contrib/107111628869760420046/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQ0LZZIDduB4HHY8Sw9kQ5n2xP1jisnqfbp-eweSKZFkH4IyKT=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-01-24T14:36:31.803699200Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGM1JEQmtYMjkzU0hSZmNVazJNQzF3TkY5MGIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGM1JEQmtYMjkzU0hSZmNVazJNQzF3TkY5MGIyYxAB!2m1!1s0x34040354404de711:0x237346e4bb339d45"
+      },
+      {
+        "name": "places/ChIJEedNQFQDBDQRRZ0zu-RGcyM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOUWRXYzNjM0pvT0VSWFkzRkZXRU5qVGxWMmRFRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好鍾意去將軍澳南呢邊，環境同空氣都好好，遠望將南大橋，確人令人賞心悅目。以前成日幫襯一間土耳其菜餐廳，可惜已經關門大吉。見到呢間Riverside Grill，就睇下會唔會成為佢嘅常客。\n\n我去呢邊通常都係飲嘢多，所以簡簡單單叫少少嘢食就算。我哋點咗《經典芝士薯條》同《香濃芝士大蝦意大利粉》。估唔到嘅係睇落好普通嘅菜式都有驚喜，《經典芝士薯條》，估唔到咁大碟，薯條係遍幼身，但炸得夠脆同夠熱，舖上大量嘅芝士，十分邪惡；\n\n《香濃芝士大蝦意大利粉》相信係暫時我食過嘅以意大利粉之中最高分，配上大蝦，芝士、蘑菇等食材，口感滿分。大量邪惡嘅芝士，濃厚嘅芝士包圍住成條意粉，意粉完全做到Al Dente嘅口感，加上爽口彈牙嘅大蝦，香濃嘅蘑菇片，完全感到好滿足。\n\n跟住係飲品，係我哋叫咗好幾款嘢飲，最鍾意係Long Island，呢個係必飲嘅cocktail。而且坐室外可以邊嘆美酒，邊欣賞優美嘅風景。唔飲酒嘅，佢嘅Fruit Punch都係一個唔錯嘅選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好鍾意去將軍澳南呢邊，環境同空氣都好好，遠望將南大橋，確人令人賞心悅目。以前成日幫襯一間土耳其菜餐廳，可惜已經關門大吉。見到呢間Riverside Grill，就睇下會唔會成為佢嘅常客。\n\n我去呢邊通常都係飲嘢多，所以簡簡單單叫少少嘢食就算。我哋點咗《經典芝士薯條》同《香濃芝士大蝦意大利粉》。估唔到嘅係睇落好普通嘅菜式都有驚喜，《經典芝士薯條》，估唔到咁大碟，薯條係遍幼身，但炸得夠脆同夠熱，舖上大量嘅芝士，十分邪惡；\n\n《香濃芝士大蝦意大利粉》相信係暫時我食過嘅以意大利粉之中最高分，配上大蝦，芝士、蘑菇等食材，口感滿分。大量邪惡嘅芝士，濃厚嘅芝士包圍住成條意粉，意粉完全做到Al Dente嘅口感，加上爽口彈牙嘅大蝦，香濃嘅蘑菇片，完全感到好滿足。\n\n跟住係飲品，係我哋叫咗好幾款嘢飲，最鍾意係Long Island，呢個係必飲嘅cocktail。而且坐室外可以邊嘆美酒，邊欣賞優美嘅風景。唔飲酒嘅，佢嘅Fruit Punch都係一個唔錯嘅選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cheng Vic",
+          "uri": "https://www.google.com/maps/contrib/105220106862107878004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX02dXoE-77xhfrFmZQF5z78HjGqO-8Jh5ECjUyhxksyPOFut1L=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-30T14:38:59.750918527Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOUWRXYzNjM0pvT0VSWFkzRkZXRU5qVGxWMmRFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOUWRXYzNjM0pvT0VSWFkzRkZXRU5qVGxWMmRFRRAB!2m1!1s0x34040354404de711:0x237346e4bb339d45"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040354404de711:0x237346e4bb339d45!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2554463361856412997&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040354404de711:0x237346e4bb339d45!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040354404de711:0x237346e4bb339d45!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040354404de711:0x237346e4bb339d45!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJEedNQFQDBDQRRZ0zu-RGcyM/photos/Aa-ngMYk6xNlftB3MIZfiX6CzTWH0wDe4SO-DRacy5EBwjthK4vzzy2MrTR1tMifXwD88wJVwl_kNKcns9bVu7jaZvYRsw0cAm_gmx103BWQL4JHNSy1Hjpn3HOJi-5mM_YA8YZ9xwRU5-eDF2oV72jSiF62Ntz-SnyubQU1Flg17tYMFu1ThH9la87weJYdztD1fHjF7n-tx5e-QR2eedKnFiK1WCnXYZkCmgaeMdgzPmR_dyrY1Lr0aagF-aWwxszuhsdZgO4S4Ym8XuSXgMHOeEeLTZluKWCX0IkLxgfn1atZLpxKLtuMkORsCkzyqG72CheSRv8oLJHuhZLh1pbuTq2eJgd-w122Nyubrmku2IU_GQc-Ngv5ZLfN5JYibPewrVrockGecrBe9zdYTGNiEQCLREvzVPkxaCFsEJ3COVuSSA",
+      "widthPx": 4800,
+      "heightPx": 3199,
+      "authorAttributions": [
+        {
+          "displayName": "Larry Suen",
+          "uri": "https://maps.google.com/maps/contrib/101766765907249615956",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx9OqXDrpj5KSoIMSkxVM-9F0H2YjfAk59mR9McDZMxXYGTSIL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDadByYNzs5UTT4xpcvLs6A&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDadByYNzs5UTT4xpcvLs6A!2e10!4m2!3m1!1s0x34040354404de711:0x237346e4bb339d45"
+    },
+    "local_path": "photos/ChIJEedNQFQDBDQRRZ0zu-RGcyM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLflgCBRousZhSX9z37UQrtI27axXtfNnzjkqyGL-RNnMqDIDQ4FtASmZhW5vKe_p8Ctb5HwA6krSPf1eZQ7OapbCpXZE8i6kT5zHkQx6nIpJQ_HeDD2t8Tubknexp0GagOdz4ubPdVNSfxg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 196961
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ConnectError"
+  },
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "family_restaurant",
+      "steak_house",
+      "meal_takeaway",
+      "pizza_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

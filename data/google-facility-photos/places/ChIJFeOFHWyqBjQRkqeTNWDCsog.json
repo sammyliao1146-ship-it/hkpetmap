@@ -1,0 +1,40 @@
+{
+  "id": "ChIJFeOFHWyqBjQRkqeTNWDCsog",
+  "types": [
+    "shopping_mall",
+    "tourist_attraction",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島赤柱佳美道23號",
+  "location": {
+    "latitude": 22.2191132,
+    "longitude": 114.209886
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9850149053484214162&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "赤柱廣場",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "shopping_mall",
+  "photos": [
+    {
+      "name": "places/ChIJFeOFHWyqBjQRkqeTNWDCsog/photos/Aa-ngMaoLLrHQ8Mft4SOpuOu0He9D1Vo_4yTUc2Uk2xNRrUL172ZDNOnhtoqY-gHOwAH9cyBCssyCuQ9eheZcMwyzxHpWr2gJuG8Xl99QbV10GxEyYKZ02xmYmT9DjYUW36xHyUm89MmxOpFuxtCbIss2WhRUdrSUDU6akhRxd4WmmWk8ueHeaLf_maP_OwNmR1VNcY5Zi_0TDa9L7fDYPRuf7DrMaKw9i8nKRj-4rF3y5qIUx8wzn7PIbYyx_PLqdciEc61zWjX8CKefqW5fO6J_4XVj0MXnsAcURuSgRbbxqf2B4xg7r_WIJtTRoavr01L1R2cWlx3G5sgRf2yXUHddxbyNhyQz4-KaQRJeX3AFGMd-2bFvhLaxW7RMvekCUFVu4Hg18mpIH1zBh1iKM5UR5aPQOM",
+      "widthPx": 3648,
+      "heightPx": 2736,
+      "authorAttributions": [
+        {
+          "displayName": "Marcus Ho",
+          "uri": "https://maps.google.com/maps/contrib/108380563882547622386",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocItxiH2QAum4qmKUUvXt9GkJAmsNX_fNPrG5cDn3cv3sywwug=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKwrHIJw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKwrHIJw!2e10!4m2!3m1!1s0x3406aa6c1d85e315:0x88b2c2603593a792"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:58.814373+00:00"
+}

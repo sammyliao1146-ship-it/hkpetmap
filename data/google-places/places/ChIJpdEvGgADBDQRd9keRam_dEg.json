@@ -1,0 +1,305 @@
+{
+  "google_place_id": "ChIJpdEvGgADBDQRd9keRam_dEg",
+  "restaurant_ids": [
+    "restaurant:2298805082"
+  ],
+  "fetched_at": "2026-10-23T15:40:30.486010+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJpdEvGgADBDQRd9keRam_dEg",
+    "types": [
+      "bakery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港新界日出康城康城路1號",
+    "location": {
+      "latitude": 22.294695200000003,
+      "longitude": 114.2708705
+    },
+    "rating": 3.2,
+    "googleMapsUri": "https://maps.google.com/?cid=5221008601759275383&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 21:30",
+        "星期二: 08:00 – 21:30",
+        "星期三: 08:00 – 21:30",
+        "星期四: 08:00 – 21:30",
+        "星期五: 08:00 – 21:30",
+        "星期六: 08:00 – 21:30",
+        "星期日: 08:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 19,
+    "displayName": {
+      "text": "Beans Bakery (Lohas Park)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "烘焙屋",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "primaryType": "bakery",
+    "reviews": [
+      {
+        "name": "places/ChIJpdEvGgADBDQRd9keRam_dEg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJeVQwbzFUVkE0YUMxeldEaEtaRlF5ZFVWMU9WRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "原本諗住此店，似將軍澳分店有意粉、Pizza提供。\n但原來只有咖啡及麵包，小咗一個用餐選擇，有啲失望。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "原本諗住此店，似將軍澳分店有意粉、Pizza提供。\n但原來只有咖啡及麵包，小咗一個用餐選擇，有啲失望。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ck",
+          "uri": "https://www.google.com/maps/contrib/110046349667273025996/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImhNaUEwLDKRwj-HUGfPL9WwMzKO60xSlMwUp6gMut27LTjw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-25T22:46:45.185053766Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJeVQwbzFUVkE0YUMxeldEaEtaRlF5ZFVWMU9WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJeVQwbzFUVkE0YUMxeldEaEtaRlF5ZFVWMU9WRRAB!2m1!1s0x340403001a2fd1a5:0x4874bfa9451ed977"
+      },
+      {
+        "name": "places/ChIJpdEvGgADBDQRd9keRam_dEg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SQk9YRnlWazlmWm5adGEzZHNaRXhwT1MxV01rRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 2,
+        "text": {
+          "text": "試咗2次都好難食😂 完全唔係平時beans cafe 嘅質素\n\n$48件tiramisu 牛角包硬過牛角。\n蜜糖bagel 就嚟咬到牙都甩。\n\n希望改善下啦 本身好期待🥲",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "試咗2次都好難食😂 完全唔係平時beans cafe 嘅質素\n\n$48件tiramisu 牛角包硬過牛角。\n蜜糖bagel 就嚟咬到牙都甩。\n\n希望改善下啦 本身好期待🥲",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nuvile Mok",
+          "uri": "https://www.google.com/maps/contrib/108218605037210499364/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKnibQqPe3IHyQmZqJ1TaaievXiCBqGzDprWA4dXMAFy-o2EpE=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-09T05:54:00.144996343Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SQk9YRnlWazlmWm5adGEzZHNaRXhwT1MxV01rRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SQk9YRnlWazlmWm5adGEzZHNaRXhwT1MxV01rRRAB!2m1!1s0x340403001a2fd1a5:0x4874bfa9451ed977"
+      },
+      {
+        "name": "places/ChIJpdEvGgADBDQRd9keRam_dEg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WbGRHWjBkM1I2WjJKSmJrSjJjRU5NTFZBNVkzYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 1,
+        "text": {
+          "text": "嗌左杯黑芝麻latte 少少咖啡味都冇，盡少甜都勁勁勁甜，不如你叫黑芝麻糖水，上邊嗰幾粒嘢一開始攞到有驚喜，但食咗一粒，入邊係硬嘅。。。。😌未煮熟，杯嘢等左勁耐。嚟過兩三次，次次櫥窗嘅包都得嗰幾款，咖啡又冇得轉oat milk只得鮮奶。\n一間只得飲咖啡同埋麵包嘅舖頭，你連咖啡都唔俾人轉奶，麵包又唔齊，究竟開嚟做乜",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "嗌左杯黑芝麻latte 少少咖啡味都冇，盡少甜都勁勁勁甜，不如你叫黑芝麻糖水，上邊嗰幾粒嘢一開始攞到有驚喜，但食咗一粒，入邊係硬嘅。。。。😌未煮熟，杯嘢等左勁耐。嚟過兩三次，次次櫥窗嘅包都得嗰幾款，咖啡又冇得轉oat milk只得鮮奶。\n一間只得飲咖啡同埋麵包嘅舖頭，你連咖啡都唔俾人轉奶，麵包又唔齊，究竟開嚟做乜",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Zoe Ngan",
+          "uri": "https://www.google.com/maps/contrib/113417689446063992122/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiEUvGfpmxTOWIVGy7VrR1Y59hzDnAz0NwHLOZ7LIOff_IiQY=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-11-16T07:13:44.690178541Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WbGRHWjBkM1I2WjJKSmJrSjJjRU5NTFZBNVkzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WbGRHWjBkM1I2WjJKSmJrSjJjRU5NTFZBNVkzYxAB!2m1!1s0x340403001a2fd1a5:0x4874bfa9451ed977"
+      },
+      {
+        "name": "places/ChIJpdEvGgADBDQRd9keRam_dEg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVVIxbDZhbEkwUldrNFFsTk9XbkpmWldsWU9VRRAB",
+        "relativePublishTimeDescription": "本週",
+        "rating": 4,
+        "text": {
+          "text": "麵包店咖啡店飲咖啡食个包、環境吾錯枱吾多不過可以望到溜冰場、溜冰場好大係標準場地、經常有比賽、好正",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "麵包店咖啡店飲咖啡食个包、環境吾錯枱吾多不過可以望到溜冰場、溜冰場好大係標準場地、經常有比賽、好正",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "FaiWong Choi",
+          "uri": "https://www.google.com/maps/contrib/110067252333780654968/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXS1BtF-ykAP3jNmChCT9lt2GrhDvFBUNaOzvUuJ49mFlgHcC10bw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-10-19T13:25:50.465611250Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOVVIxbDZhbEkwUldrNFFsTk9XbkpmWldsWU9VRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOVVIxbDZhbEkwUldrNFFsTk9XbkpmWldsWU9VRRAB!2m1!1s0x340403001a2fd1a5:0x4874bfa9451ed977"
+      },
+      {
+        "name": "places/ChIJpdEvGgADBDQRd9keRam_dEg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5amVYcHVhbGRzU1ZsUWFrUTFkV1puUmtkck5XYxAB",
+        "relativePublishTimeDescription": "3 週前",
+        "rating": 5,
+        "text": {
+          "text": "周末聽朋友推介，去到將軍澳中心試荳子烘焙🥐\n正餐同現烤麵包選擇好多，午餐、下午茶都啱晒！\n\n點咗特級草飼西冷牛扒，揀五成熟，肉質嫩口又有咬感，配粗切曲薯條，外脆入面綿綿地。\n跟餐叫少冰檸檬蜂蜜，清爽解膩，岩岩好。\n\n甜品選擇真係多！脆皮朱古力牛角酥，酥皮層層脆卜卜，入面餡料濃郁又唔會太甜。\n仲有藍梅忌廉芝士比高、脆曲奇朱古力比高，同埋好特別嘅雷沙湯丸口味葡達，試新嘢一流✨\n\n麵包款好多：蔓越莓酸種包、扭紋發酵多士、長法包，麥香好重，口感紥實，買返屋企做早餐一流！\n\n📍荳子烘焙｜將軍澳中心\n#將軍澳美食 #荳子烘焙 #香港探店 #將軍澳cafe #麵包控 #香港cafe #foodieh",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "周末聽朋友推介，去到將軍澳中心試荳子烘焙🥐\n正餐同現烤麵包選擇好多，午餐、下午茶都啱晒！\n\n點咗特級草飼西冷牛扒，揀五成熟，肉質嫩口又有咬感，配粗切曲薯條，外脆入面綿綿地。\n跟餐叫少冰檸檬蜂蜜，清爽解膩，岩岩好。\n\n甜品選擇真係多！脆皮朱古力牛角酥，酥皮層層脆卜卜，入面餡料濃郁又唔會太甜。\n仲有藍梅忌廉芝士比高、脆曲奇朱古力比高，同埋好特別嘅雷沙湯丸口味葡達，試新嘢一流✨\n\n麵包款好多：蔓越莓酸種包、扭紋發酵多士、長法包，麥香好重，口感紥實，買返屋企做早餐一流！\n\n📍荳子烘焙｜將軍澳中心\n#將軍澳美食 #荳子烘焙 #香港探店 #將軍澳cafe #麵包控 #香港cafe #foodieh",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Xing Z",
+          "uri": "https://www.google.com/maps/contrib/108660082880473786129/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNGXksvxOHOKXCEUEFOApWwNi_7qYKEATK5ckYK6cynWwRGpr4=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-09-26T07:39:57.556747225Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5amVYcHVhbGRzU1ZsUWFrUTFkV1puUmtkck5XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5amVYcHVhbGRzU1ZsUWFrUTFkV1puUmtkck5XYxAB!2m1!1s0x340403001a2fd1a5:0x4874bfa9451ed977"
+      }
+    ],
+    "servesCoffee": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340403001a2fd1a5:0x4874bfa9451ed977!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5221008601759275383&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403001a2fd1a5:0x4874bfa9451ed977!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340403001a2fd1a5:0x4874bfa9451ed977!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403001a2fd1a5:0x4874bfa9451ed977!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJpdEvGgADBDQRd9keRam_dEg/photos/Aa-ngMaMgCOAJk6p4DUx0c62qisvvrDGD-5F8D2_WEhpm93OCMZ5I-19fiocR4GjHKSqKChAzQKRPpvyz535ZzE0rj8bVKZ79kZlQ13pOURCAqs7g_QDpox7Nc3YVcZapiFtnqKkppo_JZbbvTzbp_yzoDTVApJUnWL2kc4IKcEloVLqOFXSJPzCyCxmc-fbTrdPgI39XjDB8ap2ZqtL8kAmYsdhY65tBSDTbytfhW5NHC7OtjVZLzH4IbRxgjnilTwuKuy4VbEEuBDrYhWzqu1TqRU9to7RNFUEgH-C_3gYhqReFoNsbJjEtXqmOqa86wD5K70_7rCchhi5SpWhXPACXuISC_TA2GgZbGBvxue1AAilogyCZHunKXQKkSWMujiGT99U3aw_8hxWyuzsdB5b4Xi1G3cqbZuPpX-JEDKYzxXRKw",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "FaiWong Choi",
+          "uri": "https://maps.google.com/maps/contrib/110067252333780654968",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXS1BtF-ykAP3jNmChCT9lt2GrhDvFBUNaOzvUuJ49mFlgHcC10bw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDTm9jukwqpqvyFj67ZsL9_&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDTm9jukwqpqvyFj67ZsL9_!2e10!4m2!3m1!1s0x340403001a2fd1a5:0x4874bfa9451ed977"
+    },
+    "local_path": "photos/ChIJpdEvGgADBDQRd9keRam_dEg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWuk_iSt8_HcpUoUYdvLGx5SQqtVPUHtsroefNnZ-_wxeg4_apnayBOowpzhv6A7JmCjxs9myE09SOPTkDK95T8frihoZa3q8WB9U_ZExUCt2UI194PTAkhDSvJThQOHBVYK9VWQU4RNoP=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 141717
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bakery",
+    "label": "烘焙屋",
+    "types": [
+      "bakery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,408 @@
+{
+  "google_place_id": "ChIJE0k0j3wBBDQRLRQCEhYgzcM",
+  "restaurant_ids": [
+    "restaurant:2218817049"
+  ],
+  "fetched_at": "2026-10-23T15:51:01.052049+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJE0k0j3wBBDQRLRQCEhYgzcM",
+    "types": [
+      "asian_fusion_restaurant",
+      "fusion_restaurant",
+      "asian_restaurant",
+      "french_restaurant",
+      "european_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9822 7957",
+    "internationalPhoneNumber": "+852 9822 7957",
+    "formattedAddress": "香港香港島中環閣麟街閣麟街46-48號FOCO 22/F",
+    "location": {
+      "latitude": 22.282251199999997,
+      "longitude": 114.1540069
+    },
+    "rating": 4.8,
+    "googleMapsUri": "https://maps.google.com/?cid=14108968486785127469&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 17:00 – 22:00",
+        "星期二: 12:00 – 15:00, 17:00 – 22:00",
+        "星期三: 12:00 – 15:00, 17:00 – 22:00",
+        "星期四: 12:00 – 15:00, 17:00 – 22:00",
+        "星期五: 12:00 – 15:00, 17:00 – 22:00",
+        "星期六: 12:00 – 15:00, 17:00 – 22:00",
+        "星期日: 12:00 – 15:00, 17:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 28,
+    "displayName": {
+      "text": "Thomas & T's",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "亞洲各國料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "asian_fusion_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJE0k0j3wBBDQRLRQCEhYgzcM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkR1lpMDNVRWhXZGpndFdGVlBWelZSV0dWQ1RHYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Thomas & T’s\n\nThomas & T’s 位於中環 FOCO 大廈 22 樓，是一間以吧枱 Omakase 為核心的精緻餐廳。用餐節奏以多道小品與壽司串聯，強調主廚手法、器皿美學與視覺儀式感。整體體驗偏向實驗性與融合風格，適合重視互動與細節的食客。\n\n主廚 Thomas Tam 背景結合五星級與米其林經驗，擅長把日本壽司技術與法式工藝、本地食材做跨界融合。料理重視食材處理、溫度控制與口感對比，常以冷熱交替、慢煮與石燒等技法製造層次，並以藝術化的餐具與擺盤強化整體敘事。\n\n晚市廚師發辦為 8 道菜，包含前菜、壽司、玉子燒、湯與甜品，屬完整體驗路線。\n\n慢燉小品 11 horas以小鐵罐呈上，打開時蒸氣與香氣同時釋放。內餡質地柔軟但結構完整，香草與食用花為尾韻帶來清爽對比，濃郁度集中而不膩。\n\n碎生魚配黑魚子，魚肉處理細膩，黑魚子在口中爆裂，瞬間放大鹹鮮但不掩蓋魚本身的鮮甜。米飯份量輕，重心在海味與質地對比，適合喜歡海味層次的食客。\n\n金銀箔壽司視覺奢華但重點仍在魚片油脂與刷醬的平衡。金銀箔為點綴，若魚質與米飯溫度控制得當，這道能成為晚餐高潮。\n\n豆皮粉絲卷與醬珠，豆皮彈性與粉絲滑順形成明顯口感對比，醬珠提供爆裂的鹹香，細節處理顯示廚房對口感層次的追求。\n\n奶油龍蝦濃湯或溫品，質地綿密、溫潤，若以高湯或松露提味，能有效收斂生食的鮮味並作為中段過渡，讓整套菜的節奏更圓滿。\n\n擺盤與器皿：餐具選擇（畫作盤、金邊盤、玻璃器皿）與菜色互相呼應，視覺敘事完整，提升用餐儀式感。主廚解說與上菜節奏為體驗加分，觀察製作過程成為用餐的一部分。\n\nThomas & T’s 是一場以技術與美學及味覺演出。主廚在火候、冷熱對比與口感設計上展現功力，擺盤與器皿的藝術感為整體體驗加分。想享受互動式吧枱、創新小品與視覺儀式，這裡值得一試。\n\n#我愛旅行\n#BigJ熱愛旅遊\n#ilovetravel\n#traveller\n#enjoymylife\n#foodies\n#jasontai1106\n#jason_tai1106\n#Thomas\n#Central\n#Hongkong\n#香港\n#Omakase\n#日式料理",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Thomas & T’s\n\nThomas & T’s 位於中環 FOCO 大廈 22 樓，是一間以吧枱 Omakase 為核心的精緻餐廳。用餐節奏以多道小品與壽司串聯，強調主廚手法、器皿美學與視覺儀式感。整體體驗偏向實驗性與融合風格，適合重視互動與細節的食客。\n\n主廚 Thomas Tam 背景結合五星級與米其林經驗，擅長把日本壽司技術與法式工藝、本地食材做跨界融合。料理重視食材處理、溫度控制與口感對比，常以冷熱交替、慢煮與石燒等技法製造層次，並以藝術化的餐具與擺盤強化整體敘事。\n\n晚市廚師發辦為 8 道菜，包含前菜、壽司、玉子燒、湯與甜品，屬完整體驗路線。\n\n慢燉小品 11 horas以小鐵罐呈上，打開時蒸氣與香氣同時釋放。內餡質地柔軟但結構完整，香草與食用花為尾韻帶來清爽對比，濃郁度集中而不膩。\n\n碎生魚配黑魚子，魚肉處理細膩，黑魚子在口中爆裂，瞬間放大鹹鮮但不掩蓋魚本身的鮮甜。米飯份量輕，重心在海味與質地對比，適合喜歡海味層次的食客。\n\n金銀箔壽司視覺奢華但重點仍在魚片油脂與刷醬的平衡。金銀箔為點綴，若魚質與米飯溫度控制得當，這道能成為晚餐高潮。\n\n豆皮粉絲卷與醬珠，豆皮彈性與粉絲滑順形成明顯口感對比，醬珠提供爆裂的鹹香，細節處理顯示廚房對口感層次的追求。\n\n奶油龍蝦濃湯或溫品，質地綿密、溫潤，若以高湯或松露提味，能有效收斂生食的鮮味並作為中段過渡，讓整套菜的節奏更圓滿。\n\n擺盤與器皿：餐具選擇（畫作盤、金邊盤、玻璃器皿）與菜色互相呼應，視覺敘事完整，提升用餐儀式感。主廚解說與上菜節奏為體驗加分，觀察製作過程成為用餐的一部分。\n\nThomas & T’s 是一場以技術與美學及味覺演出。主廚在火候、冷熱對比與口感設計上展現功力，擺盤與器皿的藝術感為整體體驗加分。想享受互動式吧枱、創新小品與視覺儀式，這裡值得一試。\n\n#我愛旅行\n#BigJ熱愛旅遊\n#ilovetravel\n#traveller\n#enjoymylife\n#foodies\n#jasontai1106\n#jason_tai1106\n#Thomas\n#Central\n#Hongkong\n#香港\n#Omakase\n#日式料理",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chi Hon Tai",
+          "uri": "https://www.google.com/maps/contrib/107752586015469596909/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-Br_sfeDwgBFxMtUiSRBqfmvwrATboah8LkhGs_2yIqpx=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-09T06:16:06.558878383Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkR1lpMDNVRWhXZGpndFdGVlBWelZSV0dWQ1RHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkR1lpMDNVRWhXZGpndFdGVlBWelZSV0dWQ1RHYxAB!2m1!1s0x3404017c8f344913:0xc3cd20161202142d"
+      },
+      {
+        "name": "places/ChIJE0k0j3wBBDQRLRQCEhYgzcM/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNllhY3VBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "十分欣賞Thomas將香港特色和故事融入omakase當中，令每一餐也獨一無二。Thomas十分細心，留意客人喜好和需要，讓我想起「王牌調酒師」。很記得他說：跟足menu的只是set menu，因應每位客人喜好而設計的才是omakase。一餐之中有多個驚喜，好像叻沙花膠、「鹹魚白菜」，還有「叉燒飯」。Thomas對口感和味道也有著重細節的功夫，如將帶子手撕，加強口感，也試過以花膠代替麵條做出炒貴刁。是間讓人想一來再來的餐廳！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "十分欣賞Thomas將香港特色和故事融入omakase當中，令每一餐也獨一無二。Thomas十分細心，留意客人喜好和需要，讓我想起「王牌調酒師」。很記得他說：跟足menu的只是set menu，因應每位客人喜好而設計的才是omakase。一餐之中有多個驚喜，好像叻沙花膠、「鹹魚白菜」，還有「叉燒飯」。Thomas對口感和味道也有著重細節的功夫，如將帶子手撕，加強口感，也試過以花膠代替麵條做出炒貴刁。是間讓人想一來再來的餐廳！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yan On The Road",
+          "uri": "https://www.google.com/maps/contrib/114963990722343593983/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoT-9lIv352kie3S1z0Obu0pM-7uepwwXFCigrApDO6lrUKpzBlA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-03-12T03:36:30.038059Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNllhY3VBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNllhY3VBRRAB!2m1!1s0x3404017c8f344913:0xc3cd20161202142d"
+      },
+      {
+        "name": "places/ChIJE0k0j3wBBDQRLRQCEhYgzcM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzeWRXSmZZMmRCUjNNelVuaG9RbWREVEdoYVZFRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "8月尾買咗支sake一直都未開黎飲，想喺年底前飲埋佢，所以今日就同老婆去咗中環一間鮨店食個lunch飲埋支sake😊\n\n其實喺好耐之前我同老婆已經食過一次Thomas & T's，果時佢地仲喺尖沙咀😅\n\n佢地唔係行傳統江戶前壽司路線，係比較新派嘅fusion壽司路線。有時食得江戶前壽司多，間中轉下口味都唔錯嘅😄 整體我同老婆都覺得全部嘢都啱我地口味，同埋佢地嘅食具都真係幾靚幾別緻。Thomas師傅又熱情好傾，整個用餐體驗非常好👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "8月尾買咗支sake一直都未開黎飲，想喺年底前飲埋佢，所以今日就同老婆去咗中環一間鮨店食個lunch飲埋支sake😊\n\n其實喺好耐之前我同老婆已經食過一次Thomas & T's，果時佢地仲喺尖沙咀😅\n\n佢地唔係行傳統江戶前壽司路線，係比較新派嘅fusion壽司路線。有時食得江戶前壽司多，間中轉下口味都唔錯嘅😄 整體我同老婆都覺得全部嘢都啱我地口味，同埋佢地嘅食具都真係幾靚幾別緻。Thomas師傅又熱情好傾，整個用餐體驗非常好👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kenneth Hui",
+          "uri": "https://www.google.com/maps/contrib/116921791466043016880/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2J90qoj1yu3R_iy33e9R6_FG3ReIQ8-8BAvhaWy82juBSXy6b=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-12-28T08:34:50.083636357Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzeWRXSmZZMmRCUjNNelVuaG9RbWREVEdoYVZFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzeWRXSmZZMmRCUjNNelVuaG9RbWREVEdoYVZFRRAB!2m1!1s0x3404017c8f344913:0xc3cd20161202142d"
+      },
+      {
+        "name": "places/ChIJE0k0j3wBBDQRLRQCEhYgzcM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ZMWNWZHRRVmwyVUVodFFYTlFXSEZ0WTNRMlFWRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "📍Thomas & T's (中環)\n\n菜單由主廚安排，食材時令及新鮮，每道菜都展現主廚的匠心獨運，將法式與日式元素巧妙融合，顧客亦可近距離與主廚互動。\n\n✨伊左木魚\n-配柚子胡椒，陣陣清新柚子香氣。\n✨赤貝配上醋味蛋黃醬\n-配上醋味蛋黃醬，醬汁微酸開胃。\n✨茶碗蒸\n-食材有花紹蟹和日本松茸，嫩滑而且層次豐富。\n✨車海老\n-別具匠心，將蝦殼風乾磨成粉灑在蝦肉上，蝦肉彈牙口感極佳。\n✨雞泡魚白子春卷\n-搭配熱情果醬，滑嫩綿密，入口即化。\n✨秋刀魚\n-撒上香蔥粉，帶出濃郁鮮甜味。\n✨醬油漬吞拿魚赤身\n-油脂豐厚，入口即化。\n✨新鮮三文魚籽與千層薯仔搭配\n-令視覺和味覺雙重享受。\n✨青咖喱青檸蝶魚\n--創意搭配，味道清香，保留魚肉原汁原味。\n✨拖羅酸蘿蔔杯\n-為整個餐點增添色彩。\n✨魚湯Cappuccino\n-呈現方式讓人驚喜不已，濃郁的魚湯與奶泡的結合，別具一番風味。\n✨無麩質麵包\n-僅用雞蛋和淮山製作，口感輕盈。\n\n整體而言，這十七道精緻菜式不僅食材新鮮，而且每一道菜都充滿創意與心思，絕對值得一試！\n————————————————————\n📍Thomas & T's (中環)\n中環閣麟街46-48號FOCO 22樓\n————————————————————\n整體用餐體驗\n✨味道(5/5)\n✨環境(5/5)\n✨服務(5/5)\n✨性價比(5/5)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "📍Thomas & T's (中環)\n\n菜單由主廚安排，食材時令及新鮮，每道菜都展現主廚的匠心獨運，將法式與日式元素巧妙融合，顧客亦可近距離與主廚互動。\n\n✨伊左木魚\n-配柚子胡椒，陣陣清新柚子香氣。\n✨赤貝配上醋味蛋黃醬\n-配上醋味蛋黃醬，醬汁微酸開胃。\n✨茶碗蒸\n-食材有花紹蟹和日本松茸，嫩滑而且層次豐富。\n✨車海老\n-別具匠心，將蝦殼風乾磨成粉灑在蝦肉上，蝦肉彈牙口感極佳。\n✨雞泡魚白子春卷\n-搭配熱情果醬，滑嫩綿密，入口即化。\n✨秋刀魚\n-撒上香蔥粉，帶出濃郁鮮甜味。\n✨醬油漬吞拿魚赤身\n-油脂豐厚，入口即化。\n✨新鮮三文魚籽與千層薯仔搭配\n-令視覺和味覺雙重享受。\n✨青咖喱青檸蝶魚\n--創意搭配，味道清香，保留魚肉原汁原味。\n✨拖羅酸蘿蔔杯\n-為整個餐點增添色彩。\n✨魚湯Cappuccino\n-呈現方式讓人驚喜不已，濃郁的魚湯與奶泡的結合，別具一番風味。\n✨無麩質麵包\n-僅用雞蛋和淮山製作，口感輕盈。\n\n整體而言，這十七道精緻菜式不僅食材新鮮，而且每一道菜都充滿創意與心思，絕對值得一試！\n————————————————————\n📍Thomas & T's (中環)\n中環閣麟街46-48號FOCO 22樓\n————————————————————\n整體用餐體驗\n✨味道(5/5)\n✨環境(5/5)\n✨服務(5/5)\n✨性價比(5/5)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wasabi",
+          "uri": "https://www.google.com/maps/contrib/102791735721495962087/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVtW8YNQABqFzohQl0OVrpc_35ZNqrXlQPEM5X4-u_ma2d_CZdqg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-08T02:52:31.800832200Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ZMWNWZHRRVmwyVUVodFFYTlFXSEZ0WTNRMlFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ZMWNWZHRRVmwyVUVodFFYTlFXSEZ0WTNRMlFWRRAB!2m1!1s0x3404017c8f344913:0xc3cd20161202142d"
+      },
+      {
+        "name": "places/ChIJE0k0j3wBBDQRLRQCEhYgzcM/reviews/ChZDSUhNMG9nS0VMT3FwWldYcGJuWktnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "最愛杯漁湯！\n其他食材、出品也很滿意！！！\n\n最欣賞的是職員打燈，替我與老公影17週年結婚相！細心！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最愛杯漁湯！\n其他食材、出品也很滿意！！！\n\n最欣賞的是職員打燈，替我與老公影17週年結婚相！細心！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "SukiWaiYi Chan",
+          "uri": "https://www.google.com/maps/contrib/115341205954174798514/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX74Q5_AF5Tl3Ve_5B705Z00_nI0wMYYpyQBueKNhHL-6-xKN--0A=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-05-28T13:09:24.692780Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VMT3FwWldYcGJuWktnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMT3FwWldYcGJuWktnEAE!2m1!1s0x3404017c8f344913:0xc3cd20161202142d"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404017c8f344913:0xc3cd20161202142d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14108968486785127469&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017c8f344913:0xc3cd20161202142d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404017c8f344913:0xc3cd20161202142d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017c8f344913:0xc3cd20161202142d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJE0k0j3wBBDQRLRQCEhYgzcM/photos/Aa-ngMaL_8p3F1AQXK5FEoqI2SX5Gx3ThQNXtHXaSjelb50uysRmxobL6FkBQ0TRQOxU2vPp4EW1MmKs_ULGrJg9g5n4NP9TnYZnTI1ut__9xhhTcOTfIa4FO-eyt7HH_6Y0mNzeiflVxoWDYp1v9yJv61gKeFAn_d4TVJSIrKPrH_d4MnZi7zh0UCYQSFrX9D9ktrIqNlafECOLsfpyozSLk3WMyD-hHq9D6onA4IU8oGe9faQUG9kpWMkzSj087qm55IYSr3-ffqNN7zVDZh07EfolDXz3nlMUhssVLsmLlpbI7r0eJYSSrS-2MYhxOETqr9qP2efw7lCygCkemiWuNxIe3Q4NijOzkSgh9cOi2FvsJuOFH66p9JrwFuWllRUoqmE4mhfOGC2wF2Pqdyl-tyaWt4k09zmUUA1dQFBD378BGw",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Chi Hon Tai",
+          "uri": "https://maps.google.com/maps/contrib/107752586015469596909",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-Br_sfeDwgBFxMtUiSRBqfmvwrATboah8LkhGs_2yIqpx=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA6-yM_VQzQDF3B3Hy-IQDe&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA6-yM_VQzQDF3B3Hy-IQDe!2e10!4m2!3m1!1s0x3404017c8f344913:0xc3cd20161202142d"
+    },
+    "local_path": "photos/ChIJE0k0j3wBBDQRLRQCEhYgzcM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTammxjFz8jhvKIJqjiCfCGAwg43bKpLKkjAMnvP4pz3gke7dslOodHrnju9N6iYyS22QcEWm6CAbYOmwg39XRnnQowYQvxm8iafIkuqkuARlsT5d9i2XOX_HgUyjqS6gY1JGnPNHmN2Ts=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 173368
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "asian_fusion_restaurant",
+    "label": "亞洲各國料理餐廳",
+    "types": [
+      "asian_fusion_restaurant",
+      "fusion_restaurant",
+      "asian_restaurant",
+      "french_restaurant",
+      "european_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,367 @@
+{
+  "google_place_id": "ChIJdRjnkhQJBDQRSVIE5WUIRz0",
+  "restaurant_ids": [
+    "restaurant:2297810133"
+  ],
+  "fetched_at": "2026-10-23T15:48:35.536156+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJdRjnkhQJBDQRSVIE5WUIRz0",
+    "types": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3690 2823",
+    "internationalPhoneNumber": "+852 3690 2823",
+    "formattedAddress": "S033, G/F, Building 8W, 8 Science Park E Ave, Pak Shek Kok, New Territories, 香港",
+    "location": {
+      "latitude": 22.426312199999998,
+      "longitude": 114.21158059999999
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=4415507193387045449&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://rubytuesday.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 17:00",
+        "星期二: 11:00 – 22:00",
+        "星期三: 11:00 – 22:00",
+        "星期四: 11:00 – 22:00",
+        "星期五: 11:00 – 22:00",
+        "星期六: 10:00 – 22:00",
+        "星期日: 10:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 107,
+    "displayName": {
+      "text": "Ruby Tuesday (Science Park)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "美式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "american_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJdRjnkhQJBDQRSVIE5WUIRz0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsV2JHTkVVM2xLTFZkUVpFcENVbU5JVGpGeWMxRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 3,
+        "text": {
+          "text": "2026年5月\n牛排唔香，肉質普通，多根，園區沒有太多選擇西餐，唯有間唔中食下算。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2026年5月\n牛排唔香，肉質普通，多根，園區沒有太多選擇西餐，唯有間唔中食下算。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cho Cho",
+          "uri": "https://www.google.com/maps/contrib/107179936670915919311/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhL9ME7BgY5yiBfJF1Rw7wOfVSviyVPta9JZcb5nIo8NMkOl63=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-24T05:11:55.620792928Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsV2JHTkVVM2xLTFZkUVpFcENVbU5JVGpGeWMxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsV2JHTkVVM2xLTFZkUVpFcENVbU5JVGpGeWMxRRAB!2m1!1s0x3404091492e71875:0x3d470865e5045249"
+      },
+      {
+        "name": "places/ChIJdRjnkhQJBDQRSVIE5WUIRz0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCc1EyWm1hWFJZU1ZkVGFUZHdRVUpZUW5OZmJHYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "垃圾餐廳，黑店。會員費$1500, 無任何回贈，如果唔入會就要俾正價，係雙倍價錢。\n肉眼扒正價六百幾蚊，原本以為咁貴價錢，應該好高級好好食，結果牛扒叫五成，黎左個9成熟，硬到咬唔郁，又多筋，同百幾蚊既牛扒差不多質素。\n\n如果貴得黎好食都可以接受，又貴又難食，舢板充炮艇，完全唔知佢何來的自信收咁貴。最後仲好意思再叫我入會，佢睇唔見成塊車呔牛扒剩左係碟上面既咩？",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "垃圾餐廳，黑店。會員費$1500, 無任何回贈，如果唔入會就要俾正價，係雙倍價錢。\n肉眼扒正價六百幾蚊，原本以為咁貴價錢，應該好高級好好食，結果牛扒叫五成，黎左個9成熟，硬到咬唔郁，又多筋，同百幾蚊既牛扒差不多質素。\n\n如果貴得黎好食都可以接受，又貴又難食，舢板充炮艇，完全唔知佢何來的自信收咁貴。最後仲好意思再叫我入會，佢睇唔見成塊車呔牛扒剩左係碟上面既咩？",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YU Sing",
+          "uri": "https://www.google.com/maps/contrib/115938348486723406400/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNC7o7160PYEq-fJdQi-1GykQOHctLREdHTiAZKd7TkPqFug=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-07T05:30:09.751502735Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCc1EyWm1hWFJZU1ZkVGFUZHdRVUpZUW5OZmJHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCc1EyWm1hWFJZU1ZkVGFUZHdRVUpZUW5OZmJHYxAB!2m1!1s0x3404091492e71875:0x3d470865e5045249"
+      },
+      {
+        "name": "places/ChIJdRjnkhQJBDQRSVIE5WUIRz0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wVU9ESnNkMVUyYVhsVlEwSmtja0ZoWHpkQlpYYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境唔錯好舒服，可以坐室外或者室內，食物質素高，嘢食上嚟嗰陣隻碟仲係熱，服務又周到，做會員仲有半價好抵食！！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境唔錯好舒服，可以坐室外或者室內，食物質素高，嘢食上嚟嗰陣隻碟仲係熱，服務又周到，做會員仲有半價好抵食！！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Acce Opal",
+          "uri": "https://www.google.com/maps/contrib/103462882898356886270/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJLZMS7zaZRczFa3VCcZF_nEbukKmEvMmrk3wmnQNi2DkGS2g=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-15T14:55:59.996182551Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wVU9ESnNkMVUyYVhsVlEwSmtja0ZoWHpkQlpYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wVU9ESnNkMVUyYVhsVlEwSmtja0ZoWHpkQlpYYxAB!2m1!1s0x3404091492e71875:0x3d470865e5045249"
+      },
+      {
+        "name": "places/ChIJdRjnkhQJBDQRSVIE5WUIRz0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSaVIzTldlRXBpTVd3M1JHaGtOVzF2ZFY5UVRtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "所有嘢都好好，係有少少貴，如果做咗會員價錢合理",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "所有嘢都好好，係有少少貴，如果做咗會員價錢合理",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Xavier Lau",
+          "uri": "https://www.google.com/maps/contrib/109766701926852655464/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWh90fJVr1hBYtVhlaczJmMDOJrH54dWOtG1gGHGfxtIABoly8S2A=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-06-20T13:13:33.644742098Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSaVIzTldlRXBpTVd3M1JHaGtOVzF2ZFY5UVRtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSaVIzTldlRXBpTVd3M1JHaGtOVzF2ZFY5UVRtYxAB!2m1!1s0x3404091492e71875:0x3d470865e5045249"
+      },
+      {
+        "name": "places/ChIJdRjnkhQJBDQRSVIE5WUIRz0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNibXRmekR3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "【沙田科學園｜半價嘆超大份邪惡美國菜🧀】\n=================================\n📍 𝐑𝐮𝐛𝐲 𝐓𝐮𝐞𝐬𝐝𝐚𝐲 (香港科學園)\n地址: 沙田白石角香港科學園第二期科技大道西𝟖號尚湖樓𝟖𝐖地下𝐒𝟎𝟑𝟑號舖\n💰 總數 $𝟔𝟑𝟑｜人均 $𝟑𝟏𝟔\n==================================\n眾所周知𝐑𝐮𝐛𝐲 𝐓𝐮𝐞𝐬𝐝𝐚𝐲的會員優惠簡直是無敵！今天一於去尋找童年回憶！想不到食物的份量一如以往，都是美國𝐬𝐢𝐳𝐞，超！級！大！份！\n———\n✤ 𝐔𝐒𝐃𝐀 𝐁𝐮𝐭𝐜𝐡𝐞𝐫’𝐬 𝐒𝐭𝐞𝐚𝐤｜$𝟐𝟗𝟗(會員價)\n𝐌𝐞𝐝𝐢𝐮𝐦 𝐫𝐚𝐫𝐞的美國特級西冷勁大份超厚肉！甫切開便見到鮮嫩的肉質和絲絲血水，搭配香氣四溢的蒜蓉牛油🧈，更上一層樓。𝐬𝐢𝐝𝐞更是香甜的蕃薯條🍠\n\n✤ 𝐌𝐚𝐜 ‘𝐧’ 𝐂𝐡𝐞𝐞𝐬𝐞𝐛𝐮𝐫𝐠𝐞𝐫｜$𝟏𝟑𝟗(會員價)\n居然第一次見𝐌𝐚𝐜 𝐚𝐧𝐝 𝐂𝐡𝐞𝐞𝐬𝐞 𝐜𝐫𝐨𝐬𝐬𝐨𝐯𝐞𝐫的𝐛𝐮𝐫𝐠𝐞𝐫🍔滿瀉的芝士通心粉既𝐜𝐡𝐞𝐞𝐬𝐲又濃郁，搭配肉質鮮嫩的漢堡扒、鮮嫩生菜🥬、酸瓜、番茄🍅；特粗薯條炸到黃金酥脆\n\n✤ 𝐑𝐓 𝐂𝐡𝐞𝐞𝐬𝐞 𝐖𝐚𝐟𝐟𝐥𝐞 𝐅𝐫𝐢𝐞𝐬｜$𝟗𝟗(會員價)\n好大份‼️果然美國餐廳就是𝐜𝐫𝐚𝐳𝐲 𝐬𝐢𝐳𝐞。超邪惡𝐜𝐡𝐞𝐞𝐬𝐲無比的芝士薯格搭配鹹香煙肉🥓\n\n✤ 𝐓𝐢𝐫𝐚𝐦𝐢𝐬𝐮 𝐌𝐢𝐥𝐤𝐬𝐡𝐚𝐤𝐞｜$𝟓𝟒(會員價)\n邪惡𝐜𝐫𝐞𝐚𝐦跟朱古力醬簡直是𝐩𝐞𝐫𝐟𝐞𝐜𝐭 𝐦𝐚𝐭𝐜𝐡\n\n✤ 𝐑𝐮𝐛𝐲 𝐅𝐫𝐞𝐬𝐡𝐞𝐫 ｜$𝟒𝟐(會員價)\n入口清新𝐫𝐞𝐟𝐫𝐞𝐬𝐡𝐢𝐧𝐠，酸甜解膩\n=================================",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "【沙田科學園｜半價嘆超大份邪惡美國菜🧀】\n=================================\n📍 𝐑𝐮𝐛𝐲 𝐓𝐮𝐞𝐬𝐝𝐚𝐲 (香港科學園)\n地址: 沙田白石角香港科學園第二期科技大道西𝟖號尚湖樓𝟖𝐖地下𝐒𝟎𝟑𝟑號舖\n💰 總數 $𝟔𝟑𝟑｜人均 $𝟑𝟏𝟔\n==================================\n眾所周知𝐑𝐮𝐛𝐲 𝐓𝐮𝐞𝐬𝐝𝐚𝐲的會員優惠簡直是無敵！今天一於去尋找童年回憶！想不到食物的份量一如以往，都是美國𝐬𝐢𝐳𝐞，超！級！大！份！\n———\n✤ 𝐔𝐒𝐃𝐀 𝐁𝐮𝐭𝐜𝐡𝐞𝐫’𝐬 𝐒𝐭𝐞𝐚𝐤｜$𝟐𝟗𝟗(會員價)\n𝐌𝐞𝐝𝐢𝐮𝐦 𝐫𝐚𝐫𝐞的美國特級西冷勁大份超厚肉！甫切開便見到鮮嫩的肉質和絲絲血水，搭配香氣四溢的蒜蓉牛油🧈，更上一層樓。𝐬𝐢𝐝𝐞更是香甜的蕃薯條🍠\n\n✤ 𝐌𝐚𝐜 ‘𝐧’ 𝐂𝐡𝐞𝐞𝐬𝐞𝐛𝐮𝐫𝐠𝐞𝐫｜$𝟏𝟑𝟗(會員價)\n居然第一次見𝐌𝐚𝐜 𝐚𝐧𝐝 𝐂𝐡𝐞𝐞𝐬𝐞 𝐜𝐫𝐨𝐬𝐬𝐨𝐯𝐞𝐫的𝐛𝐮𝐫𝐠𝐞𝐫🍔滿瀉的芝士通心粉既𝐜𝐡𝐞𝐞𝐬𝐲又濃郁，搭配肉質鮮嫩的漢堡扒、鮮嫩生菜🥬、酸瓜、番茄🍅；特粗薯條炸到黃金酥脆\n\n✤ 𝐑𝐓 𝐂𝐡𝐞𝐞𝐬𝐞 𝐖𝐚𝐟𝐟𝐥𝐞 𝐅𝐫𝐢𝐞𝐬｜$𝟗𝟗(會員價)\n好大份‼️果然美國餐廳就是𝐜𝐫𝐚𝐳𝐲 𝐬𝐢𝐳𝐞。超邪惡𝐜𝐡𝐞𝐞𝐬𝐲無比的芝士薯格搭配鹹香煙肉🥓\n\n✤ 𝐓𝐢𝐫𝐚𝐦𝐢𝐬𝐮 𝐌𝐢𝐥𝐤𝐬𝐡𝐚𝐤𝐞｜$𝟓𝟒(會員價)\n邪惡𝐜𝐫𝐞𝐚𝐦跟朱古力醬簡直是𝐩𝐞𝐫𝐟𝐞𝐜𝐭 𝐦𝐚𝐭𝐜𝐡\n\n✤ 𝐑𝐮𝐛𝐲 𝐅𝐫𝐞𝐬𝐡𝐞𝐫 ｜$𝟒𝟐(會員價)\n入口清新𝐫𝐞𝐟𝐫𝐞𝐬𝐡𝐢𝐧𝐠，酸甜解膩\n=================================",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "WingLing Lam",
+          "uri": "https://www.google.com/maps/contrib/116008801175016732978/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvbBYp-Xbx32Omlve7Z__7t5glMOC07kru_TMJ4M8TiJhQk2Ru=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-07-26T02:48:40.730721Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNibXRmekR3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNibXRmekR3EAE!2m1!1s0x3404091492e71875:0x3d470865e5045249"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404091492e71875:0x3d470865e5045249!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4415507193387045449&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404091492e71875:0x3d470865e5045249!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404091492e71875:0x3d470865e5045249!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404091492e71875:0x3d470865e5045249!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJdRjnkhQJBDQRSVIE5WUIRz0/photos/Aa-ngMasCK5nnd7VfwNYCpyEZF14pDxR395o_C2ST1r6Emnc1dtV2Qbo8fQY8ZyIYIwlA7FAKZ2aEIWhceyam0q68GMwGlm_jjItPtcYcKcnHg93mLGLj43hWrDOWKkBFb6VVmypQGcE3Po3kmPuaIpl-cAATgcwf-4ADCeKA_5Uxrl7V5mQvOik_oZl81UOYrKN0RLg_erX24hznWWBwpjyDtoL6MmVdVsyrBQfy6T6HKQRQSbQ1gryqTF5uxgU_Km4KDHj7Gya764i2hUlILFPQw9w1A1vpBtpMzoEW4wyqAbxpsanbGilowqfqfhXenug6pkUrAQkl28CrlarzWfvmNIVwftWLp32KWniOuLhpl3OUSQBQhh-oLiE2SLy_eXzZDBZRLb-4E8ODyi90FBw4RNdpOZ0",
+      "widthPx": 720,
+      "heightPx": 720,
+      "authorAttributions": [
+        {
+          "displayName": "Ruby Tuesday (Science Park)",
+          "uri": "https://maps.google.com/maps/contrib/104717450319604916911",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKaLnclo-7eKWXckCBgzwPGeotltTbEzq9Cu316BhSh2P2xUg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICNkNTf7wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNkNTf7wE!2e10!4m2!3m1!1s0x3404091492e71875:0x3d470865e5045249"
+    },
+    "local_path": "photos/ChIJdRjnkhQJBDQRSVIE5WUIRz0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyRMK_11zzxhnd77wiHsqxqxi2-PqwF65Ivx7PRU1Qz3IJHNYeWZuMZY1PIDHShA5xl7b_rP3xPsDqQISxS2idX74S0pOYy0k-Bh3UoRQlTCw0t7GA-wrmYyasT0-NW8LXWNpm=s4800-w720",
+    "content_type": "image/jpeg",
+    "bytes": 217588
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://book.bistrochat.com/rubytuesdayhk",
+        "label": "Book Now Book Now",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://book.bistrochat.com/rubytuesdaymk",
+        "label": "Book Now",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://rubytuesday.com.hk/menu/",
+        "label": "Menu",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://rubytuesday.com.hk/takeaway-menu/",
+        "label": "Takeaway Order",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "http://rubytuesday.com.hk/wp-content/uploads/2024/04/Party-Set_04082024.pdf",
+        "label": "Party Set Menu",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "http://rubytuesday.com.hk/wp-content/uploads/2025/09/Kids-Party-Set-Menu.pdf",
+        "label": "Kids Set Menu",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "american_restaurant",
+    "label": "美式餐廳",
+    "types": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://book.bistrochat.com/rubytuesdayhk",
+  "menu_url": "https://rubytuesday.com.hk/menu/"
+}

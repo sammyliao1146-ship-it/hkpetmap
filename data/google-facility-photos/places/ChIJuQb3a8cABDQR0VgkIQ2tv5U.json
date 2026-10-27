@@ -1,0 +1,45 @@
+{
+  "id": "ChIJuQb3a8cABDQR0VgkIQ2tv5U",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "pet_store",
+    "hospital",
+    "supplier",
+    "store",
+    "health",
+    "food",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "1/F, Bldg 484, 488 Shanghai St, Mong Kok, Kowloon, 香港",
+  "location": {
+    "latitude": 22.3164651,
+    "longitude": 114.16886699999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10790533504105208017&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Pets Central Mongkok 24-hour Animal Hospital 旺角24小時動物醫院",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJuQb3a8cABDQR0VgkIQ2tv5U/photos/Aa-ngMYFzVU_q1Wcnw6PdzF1rEUNf-OuKa5LDziqP7dcH-pqcpW__Q5qK-SlrSaiVqCsDjmTT3XAx2qw_FuV4gQuAhTac_mR1OLH_sAwHa5viHrnhN5Od2NUeU0Xraquwe7XBSEoTsex1vkX7rWG7Me4EqEorYrCKF2qhRKK46Oj2P94lL19QtDNHPRhNIS79sJIu0yiA2Ji6LsVodU3ni1FfbjtN3KZuwTpbj1T_UtXI3qFwO_XjXuNrXZsSlKyZyoP-FP3FrANrNzqqANjnqV5kB9r7riRwjYRyaudBNCVlHELmSqfrT-42Q6b8mlTXjJqyRRVbtuJJ7PMEwZvSHwWZqewg_v8Urlm9CKOQNz-gl7iBAVK_AI2xRAhRaAm-SJlXhNLkuOGLrtIxprmzFOyLm8b62EmV2sdvhr0li3IyiK7_g",
+      "widthPx": 2270,
+      "heightPx": 3032,
+      "authorAttributions": [
+        {
+          "displayName": "Pets Central Mongkok Hospital (24-hour) 旺角醫院 (24小時服務)",
+          "uri": "https://maps.google.com/maps/contrib/103933459302386865390",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8d0xx6ezu8nWSHdxrD2okmmEA6szaiUPq0AHiHxdXXmJgrJ2J=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDOTJWguh93-G6Xc-5X4tdX&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDOTJWguh93-G6Xc-5X4tdX!2e10!4m2!3m1!1s0x340400c76bf706b9:0x95bfad0d212458d1"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:25.342510+00:00"
+}

@@ -1,0 +1,350 @@
+{
+  "google_place_id": "ChIJW1d9kc0BBDQR5hOserbvZ6M",
+  "restaurant_ids": [
+    "restaurant:2218813843"
+  ],
+  "fetched_at": "2026-10-23T15:48:05.643234+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJW1d9kc0BBDQR5hOserbvZ6M",
+    "types": [
+      "indian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2388 8874",
+    "internationalPhoneNumber": "+852 2388 8874",
+    "formattedAddress": "Shop G01 G/F, The Peak Galleria, 118 Peak Rd, Central, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2710036,
+      "longitude": 114.15033199999999
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=11774643317804635110&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.rajasthanrifles.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 21:00",
+        "星期二: 12:00 – 21:00",
+        "星期三: 12:00 – 21:00",
+        "星期四: 12:00 – 21:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 08:30 – 22:00",
+        "星期日: 08:30 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 1405,
+    "displayName": {
+      "text": "Rajasthan Rifles",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "印度餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "indian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJW1d9kc0BBDQR5hOserbvZ6M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CVmVGWnRSRmcxY21KbFRWQkdkRWhZTldoelZtYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今日去咗呢間餐廳，非常之好味！嗰啲嘅職員好有善、嘢食好好食，尤其嗰個薄餅，大家有機會上嚟山頂試吓啦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日去咗呢間餐廳，非常之好味！嗰啲嘅職員好有善、嘢食好好食，尤其嗰個薄餅，大家有機會上嚟山頂試吓啦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "cvyhometk yeung",
+          "uri": "https://www.google.com/maps/contrib/105615666619827405923/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXscZrKlItmoG1xFX4ayPahdDgcPUt1qwVcSNJujSTX6ggoQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-08T06:16:34.551431721Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CVmVGWnRSRmcxY21KbFRWQkdkRWhZTldoelZtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CVmVGWnRSRmcxY21KbFRWQkdkRWhZTldoelZtYxAB!2m1!1s0x340401cd917d575b:0xa367efb67aac13e6"
+      },
+      {
+        "name": "places/ChIJW1d9kc0BBDQR5hOserbvZ6M/reviews/Ci9DQUlRQUNvZENodHljRjlvT210RlFVaEtiMnQzTWs5RUxXSlFWRlpQZW0xUE9HYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "前排睇Threads見到有人大推山頂呢間餐廳嘅早餐, 話勁正喎!\n所以即刻約friend 一齊上山頂食早餐順便行山.\n.\n我哋四個人每人叫咗一款早餐, 全部都好啱打卡.\n.\nMilk Bun French Toast (HK$128)\n賣相好靚.\n不過麵包吸晒啲牛奶, 質感變得好淋, 食落有啲黐口嘅感覺.\n我麻麻地個口感.\n.\nDrop Scones (HK$148)\n呢個真心有驚喜!\n賣相都係好吸引.\n好鬆軟.\n淋埋蜜糖食超正!\n食完即刻想叫多一份.\n呢個比French Toast好食好多.\n.\n冇諗過呢度嘅Rolls咁有驚喜.\n.\nRifle Rolls - Bacon and Honey （HK$158)\nBacon厚度適中.\n食落唔會好乾好柴.\n煙肉香, 蜜糖甜, 配埋軟熟嘅naan, 食落好和諧,\n好滿足.\n.\nRifle Rolls - Sausage and Crushed Peppercorns （HK$158)\n食落辣辣地咁, 有胡椒味.\n點埋個綠色醬, 味道仲帶少少薄荷清新, 鹹中帶辣, 層次超豐富.\n我覺得係今餐早餐之中最好食.\n.\n整體嚟講, 呢間餐廳嘅早餐賣相一流.\n氣氛都幾chill.\n山頂嚟講, 呢個價錢算合理.\n食物味道都唔錯, 係我覺得個Fresh Toast麻麻哋啫.\n如果想同班friend 輕鬆行山前後食個靚早餐, 嚟呢度都一個唔錯嘅選擇.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "前排睇Threads見到有人大推山頂呢間餐廳嘅早餐, 話勁正喎!\n所以即刻約friend 一齊上山頂食早餐順便行山.\n.\n我哋四個人每人叫咗一款早餐, 全部都好啱打卡.\n.\nMilk Bun French Toast (HK$128)\n賣相好靚.\n不過麵包吸晒啲牛奶, 質感變得好淋, 食落有啲黐口嘅感覺.\n我麻麻地個口感.\n.\nDrop Scones (HK$148)\n呢個真心有驚喜!\n賣相都係好吸引.\n好鬆軟.\n淋埋蜜糖食超正!\n食完即刻想叫多一份.\n呢個比French Toast好食好多.\n.\n冇諗過呢度嘅Rolls咁有驚喜.\n.\nRifle Rolls - Bacon and Honey （HK$158)\nBacon厚度適中.\n食落唔會好乾好柴.\n煙肉香, 蜜糖甜, 配埋軟熟嘅naan, 食落好和諧,\n好滿足.\n.\nRifle Rolls - Sausage and Crushed Peppercorns （HK$158)\n食落辣辣地咁, 有胡椒味.\n點埋個綠色醬, 味道仲帶少少薄荷清新, 鹹中帶辣, 層次超豐富.\n我覺得係今餐早餐之中最好食.\n.\n整體嚟講, 呢間餐廳嘅早餐賣相一流.\n氣氛都幾chill.\n山頂嚟講, 呢個價錢算合理.\n食物味道都唔錯, 係我覺得個Fresh Toast麻麻哋啫.\n如果想同班friend 輕鬆行山前後食個靚早餐, 嚟呢度都一個唔錯嘅選擇.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "E’s Travelogue",
+          "uri": "https://www.google.com/maps/contrib/113647697067398574181/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQeHzk2cHy2AlqZpW-wzInESQx0X9LhQHUIyoYo9oTjpCNckoB=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-15T02:23:02.917806294Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210RlFVaEtiMnQzTWs5RUxXSlFWRlpQZW0xUE9HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210RlFVaEtiMnQzTWs5RUxXSlFWRlpQZW0xUE9HYxAB!2m1!1s0x340401cd917d575b:0xa367efb67aac13e6"
+      },
+      {
+        "name": "places/ChIJW1d9kc0BBDQR5hOserbvZ6M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taQ2FWOTNSRjlWTTNSVVF6QTFSMXBGYXpWRlZIYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境靚 早餐份量好澎湃 食完好滿足 Drop Scones有驚喜！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境靚 早餐份量好澎湃 食完好滿足 Drop Scones有驚喜！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "heaheafooddiary",
+          "uri": "https://www.google.com/maps/contrib/102749446083461092833/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYPMQjp80swsxIZ85qSWS8j_G0JyoGY5Phrg1qdb-gkYe1c70=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-04T08:35:33.490829045Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taQ2FWOTNSRjlWTTNSVVF6QTFSMXBGYXpWRlZIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taQ2FWOTNSRjlWTTNSVVF6QTFSMXBGYXpWRlZIYxAB!2m1!1s0x340401cd917d575b:0xa367efb67aac13e6"
+      },
+      {
+        "name": "places/ChIJW1d9kc0BBDQR5hOserbvZ6M/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzck52Yk9BEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "2024年11月1日星期五到山頂的\nRajasthan Rifles食印度聖誕大餐，以為同西方聖誕節一樣，會有唔少人會著上應節服飾，但現場只見一對couple穿上紅色的應節服式！\n已很久沒有來山頂，想像不到超多自由行，由的士站步行到餐廳，都見滿滿的人潮，但遊客都是看夜景和坐覽車，未見他們光顧餐廳！\n未知是否印度聖誕節關係，餐廳顧客比平時多，服務方面亦有點顧此失彼，明明是我們先到入坐，但上菜卻比隔離枱慢，有點失望！\n食物方面，印度菜都是很重味道，所以並不是我最愛，很多東西吃一兩口已感覺很油膩，全晚口氣都充滿食物的味道，感覺一般！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2024年11月1日星期五到山頂的\nRajasthan Rifles食印度聖誕大餐，以為同西方聖誕節一樣，會有唔少人會著上應節服飾，但現場只見一對couple穿上紅色的應節服式！\n已很久沒有來山頂，想像不到超多自由行，由的士站步行到餐廳，都見滿滿的人潮，但遊客都是看夜景和坐覽車，未見他們光顧餐廳！\n未知是否印度聖誕節關係，餐廳顧客比平時多，服務方面亦有點顧此失彼，明明是我們先到入坐，但上菜卻比隔離枱慢，有點失望！\n食物方面，印度菜都是很重味道，所以並不是我最愛，很多東西吃一兩口已感覺很油膩，全晚口氣都充滿食物的味道，感覺一般！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Camel Lok",
+          "uri": "https://www.google.com/maps/contrib/117030189875465008268/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsTVFZm8fqj3JjrnlvvhlsrQP1xsMuLS9f4a3ufxt13kdTg3e5=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-11-03T15:21:11.145885Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzck52Yk9BEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzck52Yk9BEAE!2m1!1s0x340401cd917d575b:0xa367efb67aac13e6"
+      },
+      {
+        "name": "places/ChIJW1d9kc0BBDQR5hOserbvZ6M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNONzZYTDdBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "山頂餐廳都5少，因為有張black sheep gift card豪D食印度菜。免治羊肉dipping配milk bun冇得輸是必吃.chicken tikka份量頗大肉質嫩滑。naan 單叫小貴但2大塊尚算合理。black sheep 餐廳走high end 價錢5平但食物真心5錯慶祝食餐好也是不錯選擇",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "山頂餐廳都5少，因為有張black sheep gift card豪D食印度菜。免治羊肉dipping配milk bun冇得輸是必吃.chicken tikka份量頗大肉質嫩滑。naan 單叫小貴但2大塊尚算合理。black sheep 餐廳走high end 價錢5平但食物真心5錯慶祝食餐好也是不錯選擇",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sue san Lor",
+          "uri": "https://www.google.com/maps/contrib/106166061361422231188/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrLniJ76LM9CW4Qa9T2f5Tic1WnTVf7SDQ_FfNqrCN8G5eVQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-01-19T07:10:39.243456Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNONzZYTDdBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNONzZYTDdBRRAB!2m1!1s0x340401cd917d575b:0xa367efb67aac13e6"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401cd917d575b:0xa367efb67aac13e6!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11774643317804635110&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401cd917d575b:0xa367efb67aac13e6!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401cd917d575b:0xa367efb67aac13e6!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401cd917d575b:0xa367efb67aac13e6!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJW1d9kc0BBDQR5hOserbvZ6M/photos/Aa-ngMZyhU5f2TlJbKSjRTJkLB19YmdYBMp7Ghpx8RLqBHH1enc2q2DnDd0f-Q7h5pdecq-XmvjYQr2tXpO0tkerrm4oFKC-rgXZZRNabkpxCHa7M5ro7REJ-7EHHYe1M3fgKYLvCU9tBNz97cNX2FnM6-Pe0vgA0N2Ji4tL5-2bKw4sCcc3ziJ8t83AHSlDszDHNBh6jr_FGPzKxaUj_Y2MEeGM7tnI5dkYuM5E5q18jYEbhwrG5C-Bz8ZYAn-dWNsIBc7v_ajs9BU5uQ08tZPyCbwHPo61f4MkiCTd9jgl0ojbJuIdQ2plfOLHhrgzc3Eul7bu_EdRZoa3SaTaJPH1ryRwxMFAKTSzphfLwmHLudSGW4pOBy-SUgsYIpx3ZWF0TkUSG5s_dBs8Ce0A8IJkVW_QTNqjpBg",
+      "widthPx": 4800,
+      "heightPx": 3198,
+      "authorAttributions": [
+        {
+          "displayName": "Rajasthan Rifles",
+          "uri": "https://maps.google.com/maps/contrib/115297862738304461224",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGz5uesQUrAoqqQcIpk-e3vDdbI7jJjVSsCQRvA_dAPwkmfxE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8kKrTqQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8kKrTqQE!2e10!4m2!3m1!1s0x340401cd917d575b:0xa367efb67aac13e6"
+    },
+    "local_path": "photos/ChIJW1d9kc0BBDQR5hOserbvZ6M.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZDziOdoN7NLabyESu6iwIECsupP0KanD2SL7i-81HRUvIQ7wCP-TWXH2Ft-FgSRqe7pQlFESAkkTy3LKa2rtosb7d4mync_2zTWGrxHm5pqsBXJizbj41IxHxkgu_0gZb4WKO4g=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 144132
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.sevenrooms.com/reservations/rajasthanrifles/tc-web?default_party_size=4&default_time=6PM",
+        "label": "立即訂座",
+        "source_url": "https://www.rajasthanrifles.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.sevenrooms.com/explore/rajasthanrifles/reservations/create/search?tracking=booking-widget",
+        "label": "Book Now",
+        "source_url": "https://www.rajasthanrifles.com/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.rajasthanrifles.com/s/RR-MainMenu_9July2026_DIGITAL.pdf",
+        "label": "FOOD MENU",
+        "source_url": "https://www.rajasthanrifles.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.rajasthanrifles.com/#menu",
+        "label": "Menu",
+        "source_url": "https://www.rajasthanrifles.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "indian_restaurant",
+    "label": "印度餐廳",
+    "types": [
+      "indian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.sevenrooms.com/reservations/rajasthanrifles/tc-web?default_party_size=4&default_time=6PM",
+  "menu_url": "https://www.rajasthanrifles.com/s/RR-MainMenu_9July2026_DIGITAL.pdf"
+}

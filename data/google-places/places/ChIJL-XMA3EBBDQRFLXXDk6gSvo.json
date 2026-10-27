@@ -1,0 +1,319 @@
+{
+  "google_place_id": "ChIJL-XMA3EBBDQRFLXXDk6gSvo",
+  "restaurant_ids": [
+    "restaurant:3111161413"
+  ],
+  "fetched_at": "2026-10-23T15:42:31.130775+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJL-XMA3EBBDQRFLXXDk6gSvo",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2977 5422",
+    "internationalPhoneNumber": "+852 2977 5422",
+    "formattedAddress": "香港香港島愛秩序灣太康街51號",
+    "location": {
+      "latitude": 22.2866464,
+      "longitude": 114.22319110000001
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=18035403914875483412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 1,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 1,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 00:30",
+        "星期二: 07:30 – 00:30",
+        "星期三: 07:30 – 00:30",
+        "星期四: 07:30 – 00:30",
+        "星期五: 07:30 – 01:30",
+        "星期六: 07:30 – 01:30",
+        "星期日: 07:30 – 00:30"
+      ],
+      "nextCloseTime": "2026-10-23T17:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 259,
+    "displayName": {
+      "text": "東堤餐廳",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJL-XMA3EBBDQRFLXXDk6gSvo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGWFNVZzVURzFqTW5kaVZFVmtPRTVtTUdsRE9XYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "咖啡唔錯，點了一份多春魚，有驚喜，夠新鮮酥脆，配檸檬味道不錯👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "咖啡唔錯，點了一份多春魚，有驚喜，夠新鮮酥脆，配檸檬味道不錯👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sauling To",
+          "uri": "https://www.google.com/maps/contrib/103099129442580557747/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZOaZ1PVzimqVXr2My2uhomYDjMqQv2jtYJY7fFQ6VUCE8=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-15T17:00:24.228709258Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGWFNVZzVURzFqTW5kaVZFVmtPRTVtTUdsRE9XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGWFNVZzVURzFqTW5kaVZFVmtPRTVtTUdsRE9XYxAB!2m1!1s0x3404017103cce52f:0xfa4aa04e0ed7b514"
+      },
+      {
+        "name": "places/ChIJL-XMA3EBBDQRFLXXDk6gSvo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSaU0wMUdURUZZTkMxT2JtMUlSemRKWVhWSFRYYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "過了早餐時間還展示早餐餐牌，客人拿着早餐餐牌指着套餐點餐，他們並不會告訴你早餐時間已過然後你點的食物是按正價計算，飲品亦按正價2x 計算。下單後那張手寫單不是放在我張枱上，而是放在我看不到的隔籬枱😂\n當你跟他們理論佢會將責任擺返喺你身上，叫我自己下次記着幾多點之後就冇早餐！😂\n出街食餐晏都要個客記住你哋啲規矩，而唔係你地落單嘅責任，真係當全香港淨係得你一間有沙嗲公仔麵食！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "過了早餐時間還展示早餐餐牌，客人拿着早餐餐牌指着套餐點餐，他們並不會告訴你早餐時間已過然後你點的食物是按正價計算，飲品亦按正價2x 計算。下單後那張手寫單不是放在我張枱上，而是放在我看不到的隔籬枱😂\n當你跟他們理論佢會將責任擺返喺你身上，叫我自己下次記着幾多點之後就冇早餐！😂\n出街食餐晏都要個客記住你哋啲規矩，而唔係你地落單嘅責任，真係當全香港淨係得你一間有沙嗲公仔麵食！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "silver law",
+          "uri": "https://www.google.com/maps/contrib/105336657568345871487/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKBasj9cwPAq7V3rm3sHfcz2j28fGRV8LZ0O9yeJfuyZoNBvg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-25T07:36:12.341738141Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSaU0wMUdURUZZTkMxT2JtMUlSemRKWVhWSFRYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSaU0wMUdURUZZTkMxT2JtMUlSemRKWVhWSFRYYxAB!2m1!1s0x3404017103cce52f:0xfa4aa04e0ed7b514"
+      },
+      {
+        "name": "places/ChIJL-XMA3EBBDQRFLXXDk6gSvo/reviews/ChdDSUhNMG9nS0VJQ0FnTURBb1pDcWdRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "菜式都係一般茶記菜式，但價格相宜，炒意粉都係即叫即做，熱辣辣幾好食，但啤酒偏貴，普通樽裝Hoegaarden都收HKD 52。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "菜式都係一般茶記菜式，但價格相宜，炒意粉都係即叫即做，熱辣辣幾好食，但啤酒偏貴，普通樽裝Hoegaarden都收HKD 52。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anthony Mak",
+          "uri": "https://www.google.com/maps/contrib/107696028504197590585/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrO0gsJ5Co13zfrGrD7lvaz-pYnZwDlshrVtgLXRO4VaSU2AdO=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-03-15T23:47:33.473605Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBb1pDcWdRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBb1pDcWdRRRAB!2m1!1s0x3404017103cce52f:0xfa4aa04e0ed7b514"
+      },
+      {
+        "name": "places/ChIJL-XMA3EBBDQRFLXXDk6gSvo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0WVRUZHpWMWx3ZGxBdFkxbEdWWFpYY0doMGVFRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "這個環境算貴，除早餐外都是散叫，但餐廳質素未到這個水平，餐廳細，座位迫，客人稍為大聲點已經感覺得嘈吵。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這個環境算貴，除早餐外都是散叫，但餐廳質素未到這個水平，餐廳細，座位迫，客人稍為大聲點已經感覺得嘈吵。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "danny lai",
+          "uri": "https://www.google.com/maps/contrib/102100304101149993779/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI8stnvReX84u_497L2A_3YQUZiINVrRWwcvw63RP0DrHx01A=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-24T08:02:13.047297002Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0WVRUZHpWMWx3ZGxBdFkxbEdWWFpYY0doMGVFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0WVRUZHpWMWx3ZGxBdFkxbEdWWFpYY0doMGVFRRAB!2m1!1s0x3404017103cce52f:0xfa4aa04e0ed7b514"
+      },
+      {
+        "name": "places/ChIJL-XMA3EBBDQRFLXXDk6gSvo/reviews/Ci9DQUlRQUNvZENodHljRjlvT201T2RFRkRUbVI2WW5JMkxYQklWRVo1TmtKUFJFRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 1,
+        "text": {
+          "text": "因為係海旁所以值錢; 價錢太貴但食物質素完全不值; 油煙味都好勁; 包你去完唔想再去",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "因為係海旁所以值錢; 價錢太貴但食物質素完全不值; 油煙味都好勁; 包你去完唔想再去",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "SleepingTom",
+          "uri": "https://www.google.com/maps/contrib/102943913447928674060/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-iod78zrJW7a5E3htei_CTTyQu3gpi_uushHUFneV7Y3oSuo=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-11T08:38:37.151766848Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201T2RFRkRUbVI2WW5JMkxYQklWRVo1TmtKUFJFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201T2RFRkRUbVI2WW5JMkxYQklWRVo1TmtKUFJFRRAB!2m1!1s0x3404017103cce52f:0xfa4aa04e0ed7b514"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404017103cce52f:0xfa4aa04e0ed7b514!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=18035403914875483412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017103cce52f:0xfa4aa04e0ed7b514!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404017103cce52f:0xfa4aa04e0ed7b514!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017103cce52f:0xfa4aa04e0ed7b514!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJL-XMA3EBBDQRFLXXDk6gSvo/photos/Aa-ngMYUFKPQx53SWwh9Dur6erPnXaOa_KjSovhpiTc7DMozmzvwNFkPGuJj563n_rE8xV8Mzn3L6-BTF2YrHdpL3PRZ4Q8hvb3ZcYzWMHYjwwLcyJEHoPk_0COCgUCrkqOG1ghdA8Hbw1fCBkN0ijg1NBUj5AAPKSKExqVVgrs8LgnGNSakQnYYSoqVstP4VEIo2EyFYPrxsGM4R-4zvY5GlBJacW6-Par5sWGtHb0g1miEgK_jIEJa2ihcIFxI2tr1jQXgZJ5dkxTdaVRd5Odz70k2ruDkY7NANYK7HsgYFajIbwKfJH481waGhtF7qB7LcSaMxQ5WTQJFT3uTSKThIOzy_8y_rFbZ4Zt23A17m8kswyYkvB1rfoJxkmLoJkEJ0fNQOerYy1W24j36d5xZnxUH9kez3mA",
+      "widthPx": 4030,
+      "heightPx": 2687,
+      "authorAttributions": [
+        {
+          "displayName": "Larry Suen",
+          "uri": "https://maps.google.com/maps/contrib/101766765907249615956",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx9OqXDrpj5KSoIMSkxVM-9F0H2YjfAk59mR9McDZMxXYGTSIL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDegZz7sQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDegZz7sQE!2e10!4m2!3m1!1s0x3404017103cce52f:0xfa4aa04e0ed7b514"
+    },
+    "local_path": "photos/ChIJL-XMA3EBBDQRFLXXDk6gSvo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnxXg8y92g2HlckH4DIWZoLtUxcvTk2IKxFcA-VFUT_MObY1S0OrFNwmlV_SBwkVbhq2PJvR1sIGxci-WTgLUm468dTWBaJlsgWaAUBmLBbcsqoJcczmpxt3Kkv5CabQhSk6kqKA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 176142
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

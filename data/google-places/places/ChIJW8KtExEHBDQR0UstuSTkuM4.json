@@ -1,0 +1,418 @@
+{
+  "google_place_id": "ChIJW8KtExEHBDQR0UstuSTkuM4",
+  "restaurant_ids": [
+    "restaurant:2297807337"
+  ],
+  "fetched_at": "2026-10-23T15:39:28.455309+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJW8KtExEHBDQR0UstuSTkuM4",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2633 0881",
+    "internationalPhoneNumber": "+852 2633 0881",
+    "formattedAddress": "香港新界沙田源康街1號",
+    "location": {
+      "latitude": 22.3836887,
+      "longitude": 114.20848939999999
+    },
+    "rating": 4.9,
+    "googleMapsUri": "https://maps.google.com/?cid=14895906613904624593&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://aldaboll.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 22:30",
+        "星期二: 12:00 – 15:00, 18:00 – 22:30",
+        "星期三: 12:00 – 15:00, 18:00 – 22:30",
+        "星期四: 12:00 – 15:00, 18:00 – 22:30",
+        "星期五: 12:00 – 15:00, 18:00 – 22:30",
+        "星期六: 12:00 – 15:00, 18:00 – 22:30",
+        "星期日: 12:00 – 15:00, 18:00 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 195,
+    "displayName": {
+      "text": "火蓮花日本餐廳",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJW8KtExEHBDQR0UstuSTkuM4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkaldrSnhTVVJ5Y2xobWRsY3dUVmxEUld4UGJYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今次喺 OpenRice 預訂咗［買 1 送 1］初夏廚師發辦（$1280/2位），Follow IG 仲免費送埋極上鵝肝多士！\n\n10 道菜式道道精緻：本鮪拖羅同縞鰺刺身新鮮肥美；和風生牛肉他他油花漂亮甘香；原隻虎蝦雲丹黃金燒大隻爽彈配香濃海膽醬；琥珀焦糖燒北海道黑毛豚外焦內嫩帶甜香。仲有滑嫩嘅貝柱茶碗蒸、清爽嘅盛岡冷麵同當季日本哈密瓜甜品。\n\n2 人埋單連加一 $1536（人均 $768）。喺酒店頂層望住開揚河景歎高質 Omakase，性價比極高，絕對係約會同慶祝首選！🌟",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次喺 OpenRice 預訂咗［買 1 送 1］初夏廚師發辦（$1280/2位），Follow IG 仲免費送埋極上鵝肝多士！\n\n10 道菜式道道精緻：本鮪拖羅同縞鰺刺身新鮮肥美；和風生牛肉他他油花漂亮甘香；原隻虎蝦雲丹黃金燒大隻爽彈配香濃海膽醬；琥珀焦糖燒北海道黑毛豚外焦內嫩帶甜香。仲有滑嫩嘅貝柱茶碗蒸、清爽嘅盛岡冷麵同當季日本哈密瓜甜品。\n\n2 人埋單連加一 $1536（人均 $768）。喺酒店頂層望住開揚河景歎高質 Omakase，性價比極高，絕對係約會同慶祝首選！🌟",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sooong Mr. (Mr. Sooong)",
+          "uri": "https://www.google.com/maps/contrib/105961012124882645197/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJxwx2Hf6BvPbKbisBaGlE0LnLZKZzsEQ9IzoQEoPtTzE5=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-27T09:12:56.135456515Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkaldrSnhTVVJ5Y2xobWRsY3dUVmxEUld4UGJYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkaldrSnhTVVJ5Y2xobWRsY3dUVmxEUld4UGJYYxAB!2m1!1s0x3404071113adc25b:0xceb8e424b92d4bd1"
+      },
+      {
+        "name": "places/ChIJW8KtExEHBDQR0UstuSTkuM4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCNmFsaEpSMlpyVEdOMllVbHZhbEl4Ylc5emNXYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "帝逸酒店頂層嘅火蓮花ALDA BOLL係間日本餐廳，環境舒服，景觀開揚，可以一邊用用餐，一邊欣賞住開揚河景，而家仲做緊Omakase買一送一，性價比好高!\n\n🔥先付\n蟹肉蒪菜拌柚子酸汁啫喱\n啫喱入口酸甜，伴上蟹肉食清新開胃，穴子棒壽司口感柔軟帶鮮味\n\n🔥向付\n刺身有本鮪拖羅、縞鯵、笛吹鯛薄造：笛吹鯛肉質晶瑩剔透，肉質緊實彈牙！縞鯵口感順滑鮮甜；拖羅入口即溶\n\n🔥小鉢\n和風生牛肉他他\n牛肉味道濃郁，口感軟嫩，配上醬汁十分惹味\n\n🔥蓋物\n日式高湯茶碗蒸佐貝柱\n入口滑溜，貝柱鮮甜配上嫩滑蒸蛋，味道十分之夾\n\n🔥燒物\n原隻虎蝦· 雲丹黃金燒\n開邊虎蝦加上海膽醬醬，鮮味爆發，味道勁香濃\n\n🔥冷鉢\n章魚·蛇腹胡瓜佐昆布士佐酢\n味道層次豐富，酸香開胃，昆布柴魚提鮮，章魚彈牙，青瓜爽脆\n\n🔥強肴\n琥珀焦糖燒北海道黑毛豚伴季節燒野菜\n黑毛豚肉油脂香醇，肉質燒完都好軟嫩，咬落仲好多汁，帶有香甜焦糖香氣\n\n🔥湯品\n鱧魚牡丹造·一番高湯\n鱧魚肉質鮮甜，熱辣辣好暖胃\n\n🔥食事\n盛岡冷麵\n麵條煙煙韌韌，配料有泡菜、醃蘿蔔同燴蛋，混入酸甜湯汁清爽又消暑\n\n🔥水物\n季節之甜品\n是日精選水果配和菓子",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "帝逸酒店頂層嘅火蓮花ALDA BOLL係間日本餐廳，環境舒服，景觀開揚，可以一邊用用餐，一邊欣賞住開揚河景，而家仲做緊Omakase買一送一，性價比好高!\n\n🔥先付\n蟹肉蒪菜拌柚子酸汁啫喱\n啫喱入口酸甜，伴上蟹肉食清新開胃，穴子棒壽司口感柔軟帶鮮味\n\n🔥向付\n刺身有本鮪拖羅、縞鯵、笛吹鯛薄造：笛吹鯛肉質晶瑩剔透，肉質緊實彈牙！縞鯵口感順滑鮮甜；拖羅入口即溶\n\n🔥小鉢\n和風生牛肉他他\n牛肉味道濃郁，口感軟嫩，配上醬汁十分惹味\n\n🔥蓋物\n日式高湯茶碗蒸佐貝柱\n入口滑溜，貝柱鮮甜配上嫩滑蒸蛋，味道十分之夾\n\n🔥燒物\n原隻虎蝦· 雲丹黃金燒\n開邊虎蝦加上海膽醬醬，鮮味爆發，味道勁香濃\n\n🔥冷鉢\n章魚·蛇腹胡瓜佐昆布士佐酢\n味道層次豐富，酸香開胃，昆布柴魚提鮮，章魚彈牙，青瓜爽脆\n\n🔥強肴\n琥珀焦糖燒北海道黑毛豚伴季節燒野菜\n黑毛豚肉油脂香醇，肉質燒完都好軟嫩，咬落仲好多汁，帶有香甜焦糖香氣\n\n🔥湯品\n鱧魚牡丹造·一番高湯\n鱧魚肉質鮮甜，熱辣辣好暖胃\n\n🔥食事\n盛岡冷麵\n麵條煙煙韌韌，配料有泡菜、醃蘿蔔同燴蛋，混入酸甜湯汁清爽又消暑\n\n🔥水物\n季節之甜品\n是日精選水果配和菓子",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cindy Ho",
+          "uri": "https://www.google.com/maps/contrib/117606809592772096399/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7E_wJdqvVB2PKNmMhSReNWxdOrh4M-R8A0JQjSJAEVD661g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-07T00:02:48.795840472Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCNmFsaEpSMlpyVEdOMllVbHZhbEl4Ylc5emNXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCNmFsaEpSMlpyVEdOMllVbHZhbEl4Ylc5emNXYxAB!2m1!1s0x3404071113adc25b:0xceb8e424b92d4bd1"
+      },
+      {
+        "name": "places/ChIJW8KtExEHBDQR0UstuSTkuM4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxa2JtMTJVR05PYms5TFYxUktiVE0zWnpRemQwRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🌅 28樓高空治癒系！城門河畔的日式午餐\n位於帝逸酒店頂層的火蓮花日本餐廳，主打日式烤海鮮與西式料理的創意結合。這裏堅持用新鮮正宗的食材，提供多元化的菜色與飲品選擇，讓你一邊看著開揚的城門河景，一邊品嚐地道日本風味。\n\n🍣 料理長嚴選盲盒蓋飯套餐 ｜ $388\n由幾款精緻小碗飯組合而成：\n鮑魚：口感冰涼、厚實彈牙，有帶出鮑魚原本的鮮味\n國產牛肉：肉質夠腍，油花平均\n鰻魚海膽飯：鰻魚油脂多，配上甘甜海膽，兩種味道蠻配合、不搶味\n花魚茶漬飯：魚皮微脆，倒進茶湯做茶泡飯，剛好中和了魚脂的油膩感\n甜蝦三文魚角切魚生飯：方塊魚生和甜蝦很爽口，油脂和鮮味都有到位\n\n🍛 咖哩吉列海鮮套餐 ｜ $208\n炸物主角是大虎蝦、鮟鱇魚和日本生蠔，分量給得很足\n炸功：外皮薄脆不油膩，裡面有保留到海鮮的原汁原味\n咖哩：醬汁另外分開裝，裡面的洋蔥、薯仔和紅蘿蔔很多，味道偏甜，適合撈飯。\n\n💡 套餐一齊嚟嘅仲有沙律、茶碗蒸、麵豉湯同漬物。最後附上綠茶雪糕🍧茶味好濃、好滑溜",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🌅 28樓高空治癒系！城門河畔的日式午餐\n位於帝逸酒店頂層的火蓮花日本餐廳，主打日式烤海鮮與西式料理的創意結合。這裏堅持用新鮮正宗的食材，提供多元化的菜色與飲品選擇，讓你一邊看著開揚的城門河景，一邊品嚐地道日本風味。\n\n🍣 料理長嚴選盲盒蓋飯套餐 ｜ $388\n由幾款精緻小碗飯組合而成：\n鮑魚：口感冰涼、厚實彈牙，有帶出鮑魚原本的鮮味\n國產牛肉：肉質夠腍，油花平均\n鰻魚海膽飯：鰻魚油脂多，配上甘甜海膽，兩種味道蠻配合、不搶味\n花魚茶漬飯：魚皮微脆，倒進茶湯做茶泡飯，剛好中和了魚脂的油膩感\n甜蝦三文魚角切魚生飯：方塊魚生和甜蝦很爽口，油脂和鮮味都有到位\n\n🍛 咖哩吉列海鮮套餐 ｜ $208\n炸物主角是大虎蝦、鮟鱇魚和日本生蠔，分量給得很足\n炸功：外皮薄脆不油膩，裡面有保留到海鮮的原汁原味\n咖哩：醬汁另外分開裝，裡面的洋蔥、薯仔和紅蘿蔔很多，味道偏甜，適合撈飯。\n\n💡 套餐一齊嚟嘅仲有沙律、茶碗蒸、麵豉湯同漬物。最後附上綠茶雪糕🍧茶味好濃、好滑溜",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yan B",
+          "uri": "https://www.google.com/maps/contrib/105328867476126623790/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvgVwtmbVrSPx8guqub_Bt0Sh9uRdbXAKi5lMz0d7EiyidMyejkA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-01T12:39:04.437856354Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxa2JtMTJVR05PYms5TFYxUktiVE0zWnpRemQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxa2JtMTJVR05PYms5TFYxUktiVE0zWnpRemQwRRAB!2m1!1s0x3404071113adc25b:0xceb8e424b92d4bd1"
+      },
+      {
+        "name": "places/ChIJW8KtExEHBDQR0UstuSTkuM4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSZlFXaHVZamxLWkROTFRsVXdSRkUxUnpKQldHYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "沙田帝逸酒店🏨頂層嘅火蓮花日本餐廳🥢可以欣賞住開揚河景🌊，歎正宗日本菜🇯🇵，而且仲有個酒吧區🍸真係超級chill呀！\n\n呢度主打地道🔥濱燒海鮮同埋經典洋食🦐，裝修充滿日式禪意同溫暖木系色調🪵，吧枱座位仲可以近距離睇師傅手藝🔪。\n餐廳仲持有狗隻入食肆牌照🐶大家可以帶埋心愛嘅狗狗🐈一齊嚟，不過記得要提前通知餐廳！\n\n呢個初夏🍱套餐每位HK$1280💰仲有OpenRice買一送一優惠👍性價超高呀！\n\n先付：\n蟹肉🦀蒪菜拌柚子酸汁啫喱入口酸甜，非常清新開胃🍊，配埋鮮味十足嘅穴子棒壽司🍣完美打開味蕾。\n\n向付：\n本鮪拖羅🐟、縞鯵、笛吹鯛薄造，🥢拖羅入口即溶真係好正🤤，縞鯵油脂豐富又爽實鮮甜，😍鯛魚薄切晶瑩剔透，佢哋嚴選新鮮食材真係食得出！\n\n小鉢：\n和風生牛肉他他🥩牛肉味道濃郁，而且口感嫩滑😋，醬汁調配得啱啱好，👍惹味得嚟又唔會蓋過肉香。\n\n蓋物：\n日式高湯茶碗蒸佐貝柱🥄入口好滑溜，配上鮮甜貝柱，🥚食落去真係天作之合。\n\n燒物：\n原隻虎蝦·雲丹黃金燒🦐因為加咗海膽醬，所以非常之香濃🔥，彈牙蝦肉吸晒啲精華🤤燒得好高質。\n\n冷鉢：\n章魚·蛇腹胡瓜佐昆布士佐酢🥒微酸味道幫手清一清味蕾，🐙八爪魚軟腍，配埋青瓜爽脆解膩✨好有心思。\n\n強肴：\n琥珀焦糖燒🇯🇵北海道黑毛豚伴季節燒野菜🌽，香甜焦糖配上豐富油脂香嘅豚肉🐖，加上燒粟米仔吸晒肉汁好好食😋！\n\n湯品：\n鱧魚牡丹造·一番高湯🥣入口好清甜，加上鱧魚嘅鮮甜🐟，飲落去成個人好溫暖😌。\n\n食事：\n盛岡冷麵🍜煙韌麵條配埋清涼湯汁🧊，夏天食呢個真係最啱晒👏。\n\n水物：\n季節之甜品係生果配和菓子，🍈清甜生果配上精緻和菓子🍡為呢一餐畫上完美句號🥰。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "沙田帝逸酒店🏨頂層嘅火蓮花日本餐廳🥢可以欣賞住開揚河景🌊，歎正宗日本菜🇯🇵，而且仲有個酒吧區🍸真係超級chill呀！\n\n呢度主打地道🔥濱燒海鮮同埋經典洋食🦐，裝修充滿日式禪意同溫暖木系色調🪵，吧枱座位仲可以近距離睇師傅手藝🔪。\n餐廳仲持有狗隻入食肆牌照🐶大家可以帶埋心愛嘅狗狗🐈一齊嚟，不過記得要提前通知餐廳！\n\n呢個初夏🍱套餐每位HK$1280💰仲有OpenRice買一送一優惠👍性價超高呀！\n\n先付：\n蟹肉🦀蒪菜拌柚子酸汁啫喱入口酸甜，非常清新開胃🍊，配埋鮮味十足嘅穴子棒壽司🍣完美打開味蕾。\n\n向付：\n本鮪拖羅🐟、縞鯵、笛吹鯛薄造，🥢拖羅入口即溶真係好正🤤，縞鯵油脂豐富又爽實鮮甜，😍鯛魚薄切晶瑩剔透，佢哋嚴選新鮮食材真係食得出！\n\n小鉢：\n和風生牛肉他他🥩牛肉味道濃郁，而且口感嫩滑😋，醬汁調配得啱啱好，👍惹味得嚟又唔會蓋過肉香。\n\n蓋物：\n日式高湯茶碗蒸佐貝柱🥄入口好滑溜，配上鮮甜貝柱，🥚食落去真係天作之合。\n\n燒物：\n原隻虎蝦·雲丹黃金燒🦐因為加咗海膽醬，所以非常之香濃🔥，彈牙蝦肉吸晒啲精華🤤燒得好高質。\n\n冷鉢：\n章魚·蛇腹胡瓜佐昆布士佐酢🥒微酸味道幫手清一清味蕾，🐙八爪魚軟腍，配埋青瓜爽脆解膩✨好有心思。\n\n強肴：\n琥珀焦糖燒🇯🇵北海道黑毛豚伴季節燒野菜🌽，香甜焦糖配上豐富油脂香嘅豚肉🐖，加上燒粟米仔吸晒肉汁好好食😋！\n\n湯品：\n鱧魚牡丹造·一番高湯🥣入口好清甜，加上鱧魚嘅鮮甜🐟，飲落去成個人好溫暖😌。\n\n食事：\n盛岡冷麵🍜煙韌麵條配埋清涼湯汁🧊，夏天食呢個真係最啱晒👏。\n\n水物：\n季節之甜品係生果配和菓子，🍈清甜生果配上精緻和菓子🍡為呢一餐畫上完美句號🥰。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cyril Chan",
+          "uri": "https://www.google.com/maps/contrib/106621712214042306569/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZndazfPDWvPEBq_J0htzt-IOUwzT7oQPv6H-48kS09AJW5inW=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-02T12:27:24.666520345Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSZlFXaHVZamxLWkROTFRsVXdSRkUxUnpKQldHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSZlFXaHVZamxLWkROTFRsVXdSRkUxUnpKQldHYxAB!2m1!1s0x3404071113adc25b:0xceb8e424b92d4bd1"
+      },
+      {
+        "name": "places/ChIJW8KtExEHBDQR0UstuSTkuM4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOM01YbDRaRGw0VmpOd2QzZE5ORFZzYzB0RVRFRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今次發現帝逸酒店頂樓火蓮花日本餐廳做緊優惠, 初夏omakase 套餐 $1280 買一送一！\n\n先付\n螢光魷魚一文字酢味噌、蟹肉水雲酢物\n酸爽醒胃涼菜\n\n向付\n大吞拿魚腩、鰹魚、鮫鰈\n刺身件件厚切肥美\n\n蓋物\n日式茶碗蒸佐香煎鵝肝及螢光魷魚\n大大塊鵝肝入口即溶\n\n煮物\n子持魷魚\n有菜同大根伴碟，煮得午入味\n\n炸物\n大蝦天婦羅\n唔厚粉，大蝦新鮮\n\n燒物\n燒春日野菜\n\n強肴\n網燒國產牛西冷\n嫩滑juicy\n\n御飯\n白魚及螢光魷魚釜飯、漬物\n滿滿白飯魚同螢光魷魚，一口鮮，底部仲有黃金飯焦\n\n湯品\n旬魚清湯\n有魚鮮味\n\n水物\n季節之甜品\n哈蜜瓜大福同時令水果\n\n整體份量好多，種類都豐富，最喜歡都係\n刺身同西冷牛排，推介",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次發現帝逸酒店頂樓火蓮花日本餐廳做緊優惠, 初夏omakase 套餐 $1280 買一送一！\n\n先付\n螢光魷魚一文字酢味噌、蟹肉水雲酢物\n酸爽醒胃涼菜\n\n向付\n大吞拿魚腩、鰹魚、鮫鰈\n刺身件件厚切肥美\n\n蓋物\n日式茶碗蒸佐香煎鵝肝及螢光魷魚\n大大塊鵝肝入口即溶\n\n煮物\n子持魷魚\n有菜同大根伴碟，煮得午入味\n\n炸物\n大蝦天婦羅\n唔厚粉，大蝦新鮮\n\n燒物\n燒春日野菜\n\n強肴\n網燒國產牛西冷\n嫩滑juicy\n\n御飯\n白魚及螢光魷魚釜飯、漬物\n滿滿白飯魚同螢光魷魚，一口鮮，底部仲有黃金飯焦\n\n湯品\n旬魚清湯\n有魚鮮味\n\n水物\n季節之甜品\n哈蜜瓜大福同時令水果\n\n整體份量好多，種類都豐富，最喜歡都係\n刺身同西冷牛排，推介",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dadada 怒食街頭四圍走 (manda.c)",
+          "uri": "https://www.google.com/maps/contrib/100959180547807103031/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJq01g0CezwEIv59qzX69CtF4MC0MeFKiptRncACReCbNZomPx=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-23T14:09:11.054410460Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOM01YbDRaRGw0VmpOd2QzZE5ORFZzYzB0RVRFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOM01YbDRaRGw0VmpOd2QzZE5ORFZzYzB0RVRFRRAB!2m1!1s0x3404071113adc25b:0xceb8e424b92d4bd1"
+      }
+    ],
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404071113adc25b:0xceb8e424b92d4bd1!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14895906613904624593&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404071113adc25b:0xceb8e424b92d4bd1!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404071113adc25b:0xceb8e424b92d4bd1!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404071113adc25b:0xceb8e424b92d4bd1!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJW8KtExEHBDQR0UstuSTkuM4/photos/Aa-ngMbBUm_0MYnMk4QaGlGPubtYsepds6BGQuTIGLui3f-6o0tiBDOULtfbKC4HNKw7KbG9MXUX9V0gl7wQPsBST2wpOf46MYAFhgrNpirC64CXlsvFgbWqzt2-xh49tl5Mqo_1mL8hBkECPguBp8gOmpcshofeMwaItcjXYOX5qrYO2TZ9mQ5dBknKlNfW1NimelTotpGO7NQwJWCusc-QifZv4i-e3MxtiNiMprZgJGkBFWp6YQP5AtnyaexsRxzsOlVwWQKncxIVadhNICm-FqwQjqzpikDGBKanF6TaWmw-8qYW5kDvIcVZGTb4_Ui_CbSEW99rA73FPhKoUOooexKiZ3uJMS6Qm27nhgatzsE4GihspmTvs_JVh5q9Irz8KjWN_kTnvS8dkOeTO4p7eiiuciYJkY1UuplkDqutNwCMOw",
+      "widthPx": 2936,
+      "heightPx": 1957,
+      "authorAttributions": [
+        {
+          "displayName": "Alda Boll Japanese Restaurant 火蓮花日本餐廳",
+          "uri": "https://maps.google.com/maps/contrib/101048093369076010006",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2xt3g9JzY3hzM3iARJ7mcTev4zofshhh6wvF4YLKcgnp8z8gm=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBN4ed44w-zLs4XUV_KmtQj&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBN4ed44w-zLs4XUV_KmtQj!2e10!4m2!3m1!1s0x3404071113adc25b:0xceb8e424b92d4bd1"
+    },
+    "local_path": "photos/ChIJW8KtExEHBDQR0UstuSTkuM4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSjJfg6DPjJhcQh9UDWvYOf3kAx0zw9lnmgHlLwYpeNNrc9XPKVRWFroYzbe09bv9wmrCK9Ur08rkgoMaFxaH9gkgqkj3XSa1H5AwETlSQ1o8TGhBOSaF2Mw0QL7w1l_v-dcwLbAlSIZzd=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 117451
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://aldaboll.com.hk/booking/",
+        "label": "訂座",
+        "source_url": "https://aldaboll.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://aldaboll.com.hk/#menu",
+        "label": "餐牌",
+        "source_url": "https://aldaboll.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://aldaboll.com.hk/wp-content/uploads/2026/02/202601_%E7%81%AB%E8%93%AE%E8%8A%B1_Main-Menu-r8_preview_B.pdf",
+        "label": "",
+        "source_url": "https://aldaboll.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://aldaboll.com.hk/booking/",
+  "menu_url": "https://aldaboll.com.hk/#menu"
+}

@@ -1,0 +1,324 @@
+{
+  "google_place_id": "ChIJJU9VA94BBDQRG5sdQSCXR48",
+  "restaurant_ids": [
+    "restaurant:2212820755"
+  ],
+  "fetched_at": "2026-10-23T15:38:15.359966+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJJU9VA94BBDQRG5sdQSCXR48",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2891 2623",
+    "internationalPhoneNumber": "+852 2891 2623",
+    "formattedAddress": "香港香港島灣仔巴路士街京都大廈",
+    "location": {
+      "latitude": 22.276610899999998,
+      "longitude": 114.1765984
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=10324386835557358363&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 18:00 – 02:00",
+        "星期二: 18:00 – 02:00",
+        "星期三: 18:00 – 02:00",
+        "星期四: 18:00 – 02:00",
+        "星期五: 18:00 – 02:00",
+        "星期六: 18:00 – 02:00",
+        "星期日: 18:00 – 02:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 196,
+    "displayName": {
+      "text": "旺記打冷小菜館",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "廣東菜餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "primaryType": "cantonese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJJU9VA94BBDQRG5sdQSCXR48/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FNVgxRTVhekJyTTFFdGVHTm9ZVGx2V0hWU1lVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "晚上九點多來也還是很熱鬧，每樣東西都很好吃，強推！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晚上九點多來也還是很熱鬧，每樣東西都很好吃，強推！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alex Chen",
+          "uri": "https://www.google.com/maps/contrib/112611655548766515644/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXO_6IE-Oiqj49pmlSIBJMEhWHioFi-AWxLonAteAzCJg2X64Xa=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-14T23:27:11.018546016Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25FNVgxRTVhekJyTTFFdGVHTm9ZVGx2V0hWU1lVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FNVgxRTVhekJyTTFFdGVHTm9ZVGx2V0hWU1lVRRAB!2m1!1s0x340401de03554f25:0x8f479720411d9b1b"
+      },
+      {
+        "name": "places/ChIJJU9VA94BBDQRG5sdQSCXR48/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSbVRUaGlNakZhUTNKVGJUTkVNelZtUjJJNFNVRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "很有傳统碟頭飯味道的小菜館。午市\n叫一些60元以上的即炒即製的炒粉麵飯，便能嚐到大㕑的镬氣。\n這裡的晚市很熱鬧的，先訂枱吧。\n今天21/11/2025, 乾炒豬扒河+例湯+冷/熱飲=$55\n除了夠地道又好味，還有...即炒夠熱，有镬氣，辣椒醬也好好味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很有傳统碟頭飯味道的小菜館。午市\n叫一些60元以上的即炒即製的炒粉麵飯，便能嚐到大㕑的镬氣。\n這裡的晚市很熱鬧的，先訂枱吧。\n今天21/11/2025, 乾炒豬扒河+例湯+冷/熱飲=$55\n除了夠地道又好味，還有...即炒夠熱，有镬氣，辣椒醬也好好味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lawrence Chan",
+          "uri": "https://www.google.com/maps/contrib/102579748847376816217/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpDCfzgefxtj8Kku3praw0gRG68qLI5sW4lVGJoy1mP-RqSQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-14T05:31:29.428013791Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSbVRUaGlNakZhUTNKVGJUTkVNelZtUjJJNFNVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSbVRUaGlNakZhUTNKVGJUTkVNelZtUjJJNFNVRRAB!2m1!1s0x340401de03554f25:0x8f479720411d9b1b"
+      },
+      {
+        "name": "places/ChIJJU9VA94BBDQRG5sdQSCXR48/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOSlpHRldabmRhTnpkUE1IaFVUM3BvZVRkaFUzYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "基本上都是在地人在吃 我基本有經過灣仔 我都會來這回味味道一下 畢竟阿姨們都很親切熱心 菜色上可以請他們推薦 我覺得大致上都有三分至四分的水準",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "基本上都是在地人在吃 我基本有經過灣仔 我都會來這回味味道一下 畢竟阿姨們都很親切熱心 菜色上可以請他們推薦 我覺得大致上都有三分至四分的水準",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ryan Liao",
+          "uri": "https://www.google.com/maps/contrib/114480882544181514708/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmek8A0M60-Mlu2h6PGtzfe1Jv6rN_tkKU5TQJxnbekJHI0_9q=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-12-28T16:20:14.014121345Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOSlpHRldabmRhTnpkUE1IaFVUM3BvZVRkaFUzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOSlpHRldabmRhTnpkUE1IaFVUM3BvZVRkaFUzYxAB!2m1!1s0x340401de03554f25:0x8f479720411d9b1b"
+      },
+      {
+        "name": "places/ChIJJU9VA94BBDQRG5sdQSCXR48/reviews/ChZDSUhNMG9nS0VJQ0FnSURiMHFucWJnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "豉汁蒸鱔好肥美，蛋白蒸蟹香滑溜，皮脆肉滑炸子雞，不好錯過滷豬手。再來又飲豬肺湯，加個椒鹽瀨尿蝦，味味出色，灣仔一絕。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "豉汁蒸鱔好肥美，蛋白蒸蟹香滑溜，皮脆肉滑炸子雞，不好錯過滷豬手。再來又飲豬肺湯，加個椒鹽瀨尿蝦，味味出色，灣仔一絕。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sherman",
+          "uri": "https://www.google.com/maps/contrib/116974957563213120255/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlV9-uaQHdNLA9TBAvMwLIHncUf8UEfeqICKVXnsXtiO4WTQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-10-03T22:19:10.109283713Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURiMHFucWJnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiMHFucWJnEAE!2m1!1s0x340401de03554f25:0x8f479720411d9b1b"
+      },
+      {
+        "name": "places/ChIJJU9VA94BBDQRG5sdQSCXR48/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLZzRURm13RRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "朋友搵咗間打冷話好正，咁就去試吓啦😋先嚟個滷水大拼盤🤤大大碟！乜都有！包括滷水鵝，鵝腸紅腸，大腸，小腸，豆腐😍份量十足呀！不過我覺得個滷水汁唔算勁入味，但整體都唔錯😋\n\n蠔餅反而覺得有點易碎，似食緊脆口小食咁😂還可以，蠔仔唔腥🤣\n韭菜豬紅就一定係打冷基本餸😂好食👍🏻🤤最尾2個餸有蜜味燒膳！好有驚喜！好惹味🤤🤤椒鹽釀大腸送酒一流呀🤤🤤",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友搵咗間打冷話好正，咁就去試吓啦😋先嚟個滷水大拼盤🤤大大碟！乜都有！包括滷水鵝，鵝腸紅腸，大腸，小腸，豆腐😍份量十足呀！不過我覺得個滷水汁唔算勁入味，但整體都唔錯😋\n\n蠔餅反而覺得有點易碎，似食緊脆口小食咁😂還可以，蠔仔唔腥🤣\n韭菜豬紅就一定係打冷基本餸😂好食👍🏻🤤最尾2個餸有蜜味燒膳！好有驚喜！好惹味🤤🤤椒鹽釀大腸送酒一流呀🤤🤤",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mavis Chan",
+          "uri": "https://www.google.com/maps/contrib/116772705011914241555/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZNo6flQjB6eNmGt6hKhmbwlS-tRFDTL3dCB2DVy77la8DaJg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2021-04-16T08:50:58.432685Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNLZzRURm13RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNLZzRURm13RRAB!2m1!1s0x340401de03554f25:0x8f479720411d9b1b"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401de03554f25:0x8f479720411d9b1b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10324386835557358363&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401de03554f25:0x8f479720411d9b1b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401de03554f25:0x8f479720411d9b1b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401de03554f25:0x8f479720411d9b1b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJJU9VA94BBDQRG5sdQSCXR48/photos/Aa-ngMZcu6tW-gGdLoQKnpW4Pis_jQlhmWsudsyC1zsdaDSSDyEpyc_F_NO8-bLSZNJf-mW602hTDQ3jdSyXcmb4vNNSH3grN-bqZdSB9-o31eZnd8GCMrW9hxnLSsxMXsC4ENwT-yUQXLjcyhmpaQgEfg_N1aPaQxTXIleNKNCwQCaq--J9P9QH8PLmeiqAC9hmIAyjk7pnXZ08b674D1tPTq-byCfUWyD8vzPUFFxX6z6_kfndSlmcualQ2ih2sXojMSHQ9xIPWlbFkN67inakqQbuMevmroTq2mOoqnphLFl2rcL02cGa-PsOtySsttjU4fJtZACDZfQa_dWaEQ-tBjEKe28vUfNLpMwtjJ-mBya5oyZ7JB-hQR_Bx7g3AIwVYRwecBNqzDXqfWoX2B-N0BlzMDQ",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "MIAOW NG Wai Kit",
+          "uri": "https://maps.google.com/maps/contrib/111661740892000308290",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGTndAK5T_cuvz7pzvDtJgI1vdMOn_n4ZvnqWcCYg8Rl7Try-8lA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-n-qCVA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-n-qCVA!2e10!4m2!3m1!1s0x340401de03554f25:0x8f479720411d9b1b"
+    },
+    "local_path": "photos/ChIJJU9VA94BBDQRG5sdQSCXR48.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfElPfe0LzIcB72HBeQSMoGCrI1Yrop3incEupa_BaQD1PZqaHYk0KtHI0rlW0I8NwGvnlZgTb34z_fhZEZdjA3qepQ98Sl408TO8ANOrqNo6YElI1fRI07S76kWENRVbSS84Bq=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 191532
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cantonese_restaurant",
+    "label": "廣東菜餐廳",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

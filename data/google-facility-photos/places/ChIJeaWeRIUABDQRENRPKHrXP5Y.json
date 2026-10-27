@@ -1,0 +1,37 @@
+{
+  "id": "ChIJeaWeRIUABDQRENRPKHrXP5Y",
+  "types": [
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍尖沙咀博物館道",
+  "location": {
+    "latitude": 22.298762099999998,
+    "longitude": 114.15587599999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10826608948884263952&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "西九龍海濱長廊",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "tourist_attraction",
+  "photos": [
+    {
+      "name": "places/ChIJeaWeRIUABDQRENRPKHrXP5Y/photos/Aa-ngMZ1Pfz632zF-NYZ-KKOTH71HTJYLqoPyyTseZFsg4fcHvERBT5bDxHEoz8wPVQ7V_mdp7eNuWo5RGFyKFSoigOWjQdPTZCDfEQET7vV6qKVrxXGMCqYerUPyLXpoad-qj-xaGMXWxnXElIn85ASpeNm1XlC45CE14GFE6H32UYRQ-91WZV9SP9hqf9plKBa-hoVY7MgwQwuA4Gey-Tnx7T5fzR5cNLZSGtoJmeFoyCXvATHRF8xflwxgq1E_ENSAu37PVzfKu6K-z5QIiqokVZuL40D_UI_7ppxGAEsR6UNjWtYojngf2VWaVXtnyzqL1j2yfrPcKoxVfUn9tZOwYm0JTXubVBKrniqtRlk1-W1wIszsOzB6p_ulrjNaUZkFYpsBz7EapWbmIllXKvcvrkvYB-d9eI",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Xingxiang Qiu",
+          "uri": "https://maps.google.com/maps/contrib/106803907652958903775",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnlXapGyWh9iGswQDu2cA4koD4icWKalCGRKHgU4M3Ena88pA4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKipXdvgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKipXdvgE!2e10!4m2!3m1!1s0x34040085449ea579:0x963fd77a284fd410"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:29.607052+00:00"
+}

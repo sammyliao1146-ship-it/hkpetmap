@@ -1,0 +1,376 @@
+{
+  "google_place_id": "ChIJq6qabOoABDQRG-6lqrt4HmM",
+  "restaurant_ids": [
+    "restaurant:2261809004"
+  ],
+  "fetched_at": "2026-10-23T15:42:03.441668+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJq6qabOoABDQRG-6lqrt4HmM",
+    "types": [
+      "halal_restaurant",
+      "indian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9834 9222",
+    "internationalPhoneNumber": "+852 9834 9222",
+    "formattedAddress": "G/F & M/F, Mau Lam Commercial Building, 16-18 Mau Lam St, Jordan, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3075974,
+      "longitude": 114.17203529999999
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=7142278806473403931&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.curryleaf.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 23:00",
+        "星期二: 11:00 – 15:00, 18:00 – 23:00",
+        "星期三: 11:00 – 15:00, 18:00 – 23:00",
+        "星期四: 06:00 – 23:00",
+        "星期五: 11:00 – 23:00",
+        "星期六: 11:00 – 23:00",
+        "星期日: 11:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 1373,
+    "displayName": {
+      "text": "咖喱葉",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "印度餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "indian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJq6qabOoABDQRG-6lqrt4HmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CM2VtMWpVV3B3Y2xsUFVHWmplalZMY200NFlVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "📍Curry Leaf\n熱愛印度菜嘅我，今次就嚟到佐敦茂林街呢邊嘅傳統印度餐廳，Curry Leaf係主打北印度菜，如果好似我咁唔愛太辣的話，嚟呢度就啱晒啦😉\n呢度亦係一間獲得清真認證嘅印度餐廳，餐廳內有兩層，樓上座位亦都相當寬闊舒服\n\n🌀Butter Chicken $158\n「牛油咖喱雞」果然係呢度嘅招牌菜之一，Creamy奶油蕃茄微辣帶奶香，雞肉塊份量都多，而且肉質好嫩😋最啱配Naan\n\n🌀Pani  Puri (6 pcs) $68\n「薄脆香辣水球」傳統印度街頭小吃，小麥粉造成嘅脆球洞上填咗香辣馬鈴薯餡料，食時再倒入冰涼薄荷香辣水、或紅色甜甜地嘅羅望子，口感刺激又清爽🥰\n\n🌀Chicken Hyderabadi 「海德畢雞肉」$158\n好特別，印度煲仔飯😆一定要叫嚟試吓啦！用瓦罐裝住嘅煲仔飯份量滿滿，混合咗唔同香料嘅印度米飯好香，粒粒分明，飯下層有香料醃製咗燉雞肉，雞肉份量超多\n\n🌀Cheese Naan$64/Garlic Naan $48\n今次點咗兩款口味，呢度嘅芝士烤餅內餡隱藏住溶化嘅芝士🤩蒜香烤餅係用泥爐烤製，充滿住蒜蓉香氣，烤餅夠鬆軟有韌性👍\n\n🌀Tandoori Chicken 「泥爐烤雞」$148\n無骨雞肉塊用香料和酸奶醃製過，在經爐炭火烤，雞肉外焦內嫩🥰雞肉鮮艷嘅橘紅色係用上辣椒粉、薑黃和Garam Masala而成，風味真係好獨特😋\n\n今次冇飲酒，分別叫咗兩款印度特飲\n🌀Mango Lassi $78\n「芒果乳酪」經典印度特飲，用咗最好嘅印度芒果品種阿方索芒果打成茸，配以乳酪、冰鎮混合打製而成，呢度做出嘅芒果乳酪味道超級濃郁順滑\n\n🌀Pineapple Slush $48\n「鳳梨沙冰」，第一次飲印度菠蘿沙冰😆驚喜真係好好飲😋用新鮮菠蘿肉打成，每飲一啖都食到有新鮮菠蘿肉，呢度仲加咗蘋果汁，冰涼解渴❤️\n\n食到結尾又點少得一杯印度奶茶同甜品呢😍\n🌀Masala Chai $28\n「香料奶茶」為印度人經典日常飲品，紅茶為基底，加入豆蔻、肉桂、生薑 、鮮奶煮製，口感濃稠超香滑，冬天飲仲可以暖身暖胃添🥰\n\n🌀Gulab Jamun $58\n「玫瑰奶球」甜度驚人嘅印度傳統甜品，乾乳酪+麵粉做成小圓球，炸至金黃色，再浸泡響玫瑰熬成嘅熱糖漿之中，至於口感係表皮札實，內裏軟綿濕潤吸收哂濃郁糖漿🤭\n\n💟食物滿意之外，Service亦都好好，呢度個manager重非常之Nice🥰\n下次再嚟，想試吓呢度嘅Momo、同咖喱串燒🤤",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "📍Curry Leaf\n熱愛印度菜嘅我，今次就嚟到佐敦茂林街呢邊嘅傳統印度餐廳，Curry Leaf係主打北印度菜，如果好似我咁唔愛太辣的話，嚟呢度就啱晒啦😉\n呢度亦係一間獲得清真認證嘅印度餐廳，餐廳內有兩層，樓上座位亦都相當寬闊舒服\n\n🌀Butter Chicken $158\n「牛油咖喱雞」果然係呢度嘅招牌菜之一，Creamy奶油蕃茄微辣帶奶香，雞肉塊份量都多，而且肉質好嫩😋最啱配Naan\n\n🌀Pani  Puri (6 pcs) $68\n「薄脆香辣水球」傳統印度街頭小吃，小麥粉造成嘅脆球洞上填咗香辣馬鈴薯餡料，食時再倒入冰涼薄荷香辣水、或紅色甜甜地嘅羅望子，口感刺激又清爽🥰\n\n🌀Chicken Hyderabadi 「海德畢雞肉」$158\n好特別，印度煲仔飯😆一定要叫嚟試吓啦！用瓦罐裝住嘅煲仔飯份量滿滿，混合咗唔同香料嘅印度米飯好香，粒粒分明，飯下層有香料醃製咗燉雞肉，雞肉份量超多\n\n🌀Cheese Naan$64/Garlic Naan $48\n今次點咗兩款口味，呢度嘅芝士烤餅內餡隱藏住溶化嘅芝士🤩蒜香烤餅係用泥爐烤製，充滿住蒜蓉香氣，烤餅夠鬆軟有韌性👍\n\n🌀Tandoori Chicken 「泥爐烤雞」$148\n無骨雞肉塊用香料和酸奶醃製過，在經爐炭火烤，雞肉外焦內嫩🥰雞肉鮮艷嘅橘紅色係用上辣椒粉、薑黃和Garam Masala而成，風味真係好獨特😋\n\n今次冇飲酒，分別叫咗兩款印度特飲\n🌀Mango Lassi $78\n「芒果乳酪」經典印度特飲，用咗最好嘅印度芒果品種阿方索芒果打成茸，配以乳酪、冰鎮混合打製而成，呢度做出嘅芒果乳酪味道超級濃郁順滑\n\n🌀Pineapple Slush $48\n「鳳梨沙冰」，第一次飲印度菠蘿沙冰😆驚喜真係好好飲😋用新鮮菠蘿肉打成，每飲一啖都食到有新鮮菠蘿肉，呢度仲加咗蘋果汁，冰涼解渴❤️\n\n食到結尾又點少得一杯印度奶茶同甜品呢😍\n🌀Masala Chai $28\n「香料奶茶」為印度人經典日常飲品，紅茶為基底，加入豆蔻、肉桂、生薑 、鮮奶煮製，口感濃稠超香滑，冬天飲仲可以暖身暖胃添🥰\n\n🌀Gulab Jamun $58\n「玫瑰奶球」甜度驚人嘅印度傳統甜品，乾乳酪+麵粉做成小圓球，炸至金黃色，再浸泡響玫瑰熬成嘅熱糖漿之中，至於口感係表皮札實，內裏軟綿濕潤吸收哂濃郁糖漿🤭\n\n💟食物滿意之外，Service亦都好好，呢度個manager重非常之Nice🥰\n下次再嚟，想試吓呢度嘅Momo、同咖喱串燒🤤",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Luna Meow daily",
+          "uri": "https://www.google.com/maps/contrib/101398134910154534294/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqby3xpo1vuijaMAHybvyiQXnqlWh8oNmBI6s62HHfLGu5yu6M=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-30T15:25:52.997694897Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CM2VtMWpVV3B3Y2xsUFVHWmplalZMY200NFlVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CM2VtMWpVV3B3Y2xsUFVHWmplalZMY200NFlVRRAB!2m1!1s0x340400ea6c9aaaab:0x631e78bbaaa5ee1b"
+      },
+      {
+        "name": "places/ChIJq6qabOoABDQRG-6lqrt4HmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xocU5URTNPVk16YjJwVmNqaEJaMDFMVjI4M01uYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境舒適，職員友善，好傳統的印度菜式，非常適合朋友相聚慶祝生日（有生日禮物）。\nrameen is really nice and helpful, thanks for the birthday surprise.  Nice food.  Agreat place for gathering.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒適，職員友善，好傳統的印度菜式，非常適合朋友相聚慶祝生日（有生日禮物）。\nrameen is really nice and helpful, thanks for the birthday surprise.  Nice food.  Agreat place for gathering.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Suky Cat",
+          "uri": "https://www.google.com/maps/contrib/114360187074477684240/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLOH9p4WxgzuHgK6tdMGHMN27p5lYQoz5ik3L-4xrHqqg5acRF=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-19T12:06:44.234288153Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xocU5URTNPVk16YjJwVmNqaEJaMDFMVjI4M01uYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xocU5URTNPVk16YjJwVmNqaEJaMDFMVjI4M01uYxAB!2m1!1s0x340400ea6c9aaaab:0x631e78bbaaa5ee1b"
+      },
+      {
+        "name": "places/ChIJq6qabOoABDQRG-6lqrt4HmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twdmMyWTBhM0JvTkVoNmRFWTRNMEp1VG5STE1FRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "環境舒適，有落地窗，食品不錯，職員態度友善。午餐套餐$100以下，比單點勝價比高。建議1，2人先以套餐試口味",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒適，有落地窗，食品不錯，職員態度友善。午餐套餐$100以下，比單點勝價比高。建議1，2人先以套餐試口味",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Beau Chan",
+          "uri": "https://www.google.com/maps/contrib/104010835829161872108/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzLnQj3m86j9duyendS-Ee_6711TgnbXM-w6HjU6iIHYTCbhen=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-09-02T02:25:41.903135204Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twdmMyWTBhM0JvTkVoNmRFWTRNMEp1VG5STE1FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twdmMyWTBhM0JvTkVoNmRFWTRNMEp1VG5STE1FRRAB!2m1!1s0x340400ea6c9aaaab:0x631e78bbaaa5ee1b"
+      },
+      {
+        "name": "places/ChIJq6qabOoABDQRG-6lqrt4HmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT210Q2NXZFZTVmhQWjJVMVRsOVdUSFpsWms1SGVHYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "幾款裡面黑扁豆咖哩竟然最好吃，但價格已經上漲了。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "幾款裡面黑扁豆咖哩竟然最好吃，但價格已經上漲了。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anita Hui",
+          "uri": "https://www.google.com/maps/contrib/111366404028914109511/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTWaYxz8YHt-iU0V-CtktKDstnZsNvRT-DIesOrHb7toBJT2M=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-05T04:56:27.086722064Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210Q2NXZFZTVmhQWjJVMVRsOVdUSFpsWms1SGVHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210Q2NXZFZTVmhQWjJVMVRsOVdUSFpsWms1SGVHYxAB!2m1!1s0x340400ea6c9aaaab:0x631e78bbaaa5ee1b"
+      },
+      {
+        "name": "places/ChIJq6qabOoABDQRG-6lqrt4HmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21odlpuZzFjbmxwTkVNM2NsRlVSWEI2TkZORVEyYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物環境服務都一流 Satinder 態度好好 好熱情招待🥰🥰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物環境服務都一流 Satinder 態度好好 好熱情招待🥰🥰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "有貓就給讚",
+          "uri": "https://www.google.com/maps/contrib/113398607796896502897/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUltWNoA2GX8SVB-sygaGXUnq9RphwdJVfUZDmrK1FzOVLH6KE=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-10-29T08:22:15.734352203Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21odlpuZzFjbmxwTkVNM2NsRlVSWEI2TkZORVEyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21odlpuZzFjbmxwTkVNM2NsRlVSWEI2TkZORVEyYxAB!2m1!1s0x340400ea6c9aaaab:0x631e78bbaaa5ee1b"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400ea6c9aaaab:0x631e78bbaaa5ee1b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7142278806473403931&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ea6c9aaaab:0x631e78bbaaa5ee1b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400ea6c9aaaab:0x631e78bbaaa5ee1b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ea6c9aaaab:0x631e78bbaaa5ee1b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJq6qabOoABDQRG-6lqrt4HmM/photos/Aa-ngMaYWN0B2HWNBPaaeDvxp2zm_fvQ37nWNKloSjnfmR0AofjGWNCTaxd3a3qj7tSwSKqnoRKG98NTyT2YutXDpTaTGwA-9zQub3-6W5mNe4eZpLSYOUpFkBQdqrqy11RThsRyWWVun-RA_cQmF7fOAgxYBgR617srnFbeD9CzwHv2Czsj0nPgh3SK5beBHwtJmcb5mewMGGkYOkpGu-KvqmnCSOhDLPNDRGrbJLmMLHAcMq5jQYDkJwJvtiVdLqzM-mEWfZKOyfr_5YcxJqKl3wnudNkhb5yWCoZyot5VgoP3FPIbth1_8wFYyxsEg403GQYadqc-yKAreQSBWs6zh5eF-hFCa6Q9oLQJ80wWi8OB5_YY3gmv5_3foneMJu0Aqs4T3FuJXN257wCStJmqx18JF2NK7-P18A76GtYTgM6J-A",
+      "widthPx": 1600,
+      "heightPx": 900,
+      "authorAttributions": [
+        {
+          "displayName": "Curry Leaf Indian Cuisine 咖喱葉",
+          "uri": "https://maps.google.com/maps/contrib/116632492758102380305",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbA-Hc5DXYJ3dxFAaP5eSXrkAqxmmS9pJzAJkcy1LXSUZxXHSh=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBeQ15DtAmVqpqX6CJJXUAq&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBeQ15DtAmVqpqX6CJJXUAq!2e10!4m2!3m1!1s0x340400ea6c9aaaab:0x631e78bbaaa5ee1b"
+    },
+    "local_path": "photos/ChIJq6qabOoABDQRG-6lqrt4HmM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsIHMxfxPjG6Zvdbbp4EO9hNpI3eAIvzOWVmOWiuPOdwRmcwAXmj4bbo65AfLHRt2CdO5fDYCDjUjgaw6_oByznaSoymP9deY5BnAUHCSHKpRDIq44rnFeGhl-YgNUymRLi-tJZlftlp06=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 97246
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://curryleaf.hk/Reservations",
+        "label": "Reservations",
+        "source_url": "https://curryleaf.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://curryleaf.hk/Menu",
+        "label": "Menu",
+        "source_url": "https://curryleaf.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "indian_restaurant",
+    "label": "印度餐廳",
+    "types": [
+      "halal_restaurant",
+      "indian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://curryleaf.hk/Reservations",
+  "menu_url": "https://curryleaf.hk/Menu"
+}

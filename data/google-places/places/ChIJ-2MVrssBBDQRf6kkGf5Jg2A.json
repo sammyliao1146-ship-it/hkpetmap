@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJ-2MVrssBBDQRf6kkGf5Jg2A",
+  "restaurant_ids": [
+    "restaurant:2263808096"
+  ],
+  "fetched_at": "2026-10-23T15:46:22.762819+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ-2MVrssBBDQRf6kkGf5Jg2A",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港香港島上環皇后大道中368號偉利廣場地下G03號舖",
+    "location": {
+      "latitude": 22.285834800000003,
+      "longitude": 114.149091
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=6954483605282531711&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 20:00",
+        "星期二: 07:00 – 20:00",
+        "星期三: 07:00 – 20:00",
+        "星期四: 07:00 – 20:00",
+        "星期五: 07:00 – 20:00",
+        "星期六: 07:00 – 20:00",
+        "星期日: 07:00 – 20:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 12,
+    "displayName": {
+      "text": "喜點DIM",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ-2MVrssBBDQRf6kkGf5Jg2A/reviews/ChZDSUhNMG9nS0VJQ0FnSURMLUlxR1pBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "買豆腐花要另外俾5毛錢買匙羹，如果唔買點食？咁做生意祝你長做長有",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "買豆腐花要另外俾5毛錢買匙羹，如果唔買點食？咁做生意祝你長做長有",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "旅遊行者",
+          "uri": "https://www.google.com/maps/contrib/117281155506744906010/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKyvU-hyAYUBLoR2YW92-D9TX8eBWwxku3C4u1TeOgaKrDUXlL=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-06-25T10:11:35.231765Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMLUlxR1pBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMLUlxR1pBEAE!2m1!1s0x340401cbae1563fb:0x608349fe1924a97f"
+      },
+      {
+        "name": "places/ChIJ-2MVrssBBDQRf6kkGf5Jg2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWb1pUTnBaMGhVTUhwQ2RTMWFWVVI2U2pGRmFrRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 1,
+        "text": {
+          "text": "想向喜點dim集團投訴🙏🏻：\n\n早班有位女店員態度極惡劣，說話超大聲，唔加錢買豆漿，佢就話：唔係呀嘛， 8蚊都唔加！😅講到唔加好似得罪佢咁，跟住特登裝完個燒賣，就擺喺裏面，要客人伸手入去拎，唔會拎個燒賣遞俾客人。\n未見過咁差態度嘅店員😅😅😅\n\n希望公司可以認真處理店員的服務態度🙏🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "想向喜點dim集團投訴🙏🏻：\n\n早班有位女店員態度極惡劣，說話超大聲，唔加錢買豆漿，佢就話：唔係呀嘛， 8蚊都唔加！😅講到唔加好似得罪佢咁，跟住特登裝完個燒賣，就擺喺裏面，要客人伸手入去拎，唔會拎個燒賣遞俾客人。\n未見過咁差態度嘅店員😅😅😅\n\n希望公司可以認真處理店員的服務態度🙏🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tong Alice",
+          "uri": "https://www.google.com/maps/contrib/112672752667957638315/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkvDaQyoJ67WWS5AGVdZ7nozYaCuG1aoaTM9o9mT9YMC2Img=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-09-10T23:54:18.409163891Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWb1pUTnBaMGhVTUhwQ2RTMWFWVVI2U2pGRmFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWb1pUTnBaMGhVTUhwQ2RTMWFWVVI2U2pGRmFrRRAB!2m1!1s0x340401cbae1563fb:0x608349fe1924a97f"
+      },
+      {
+        "name": "places/ChIJ-2MVrssBBDQRf6kkGf5Jg2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WalQzZzVaM1pPT0d4cU9EWnJlbFZNYXpsR0xXYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物幾乎都很好吃，只有燒賣不太合我的口味。餃子和米飯套餐都很棒。服務生不太熱情，可能是因為語言障礙。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "The food was almost all good, only except for the siumai but that's only for my preference. The dumplings and rice meals were great. The staff are not really that friendly.  Probably due to the language barrier.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Kd Diao",
+          "uri": "https://www.google.com/maps/contrib/100426349670053305988/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU85vVOtnm03mvhpuclDyJ9BXOIORlPOIUJWdHOXajeiQ535hU=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-28T15:33:32.727403037Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WalQzZzVaM1pPT0d4cU9EWnJlbFZNYXpsR0xXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WalQzZzVaM1pPT0d4cU9EWnJlbFZNYXpsR0xXYxAB!2m1!1s0x340401cbae1563fb:0x608349fe1924a97f"
+      },
+      {
+        "name": "places/ChIJ-2MVrssBBDQRf6kkGf5Jg2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSUGFtaHdPRkpGWlZkRlVEUlRWbmhXV1RBeFMwRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "便宜又好吃\n\n我最喜歡這裡的豆腐花\n\n只能外帶\n\n這次我第一次嘗試了點心，也很好吃\n\n我在香港期間應該會去很多次。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "安くて美味しい\nここの豆腐花が一番のお気に入り\nテイクアウト専門です\n今回初めて、点心も買ってみたけど、これまた美味しい\n香港滞在中、何度も行きそう",
+          "languageCode": "ja"
+        },
+        "authorAttribution": {
+          "displayName": "Mi",
+          "uri": "https://www.google.com/maps/contrib/101458102451981977984/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtsm9RcB9Iscfe-3g-Ey9t8hmKKpGTL3TQCxJ7GM7OLfil58Y=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-03T00:57:47.390723912Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSUGFtaHdPRkpGWlZkRlVEUlRWbmhXV1RBeFMwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSUGFtaHdPRkpGWlZkRlVEUlRWbmhXV1RBeFMwRRAB!2m1!1s0x340401cbae1563fb:0x608349fe1924a97f"
+      },
+      {
+        "name": "places/ChIJ-2MVrssBBDQRf6kkGf5Jg2A/reviews/ChdDSUhNMG9nS0VJQ0FnSURWaXEyNzFnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "我把它帶回飯店當零食吃了，味道好極了！我應該多買一些的。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "여기서 테이크아웃해서 숙소에서 간식으로 먹엇어요\n아니 오ㅐ케 맛잇음?? 더 살걸..",
+          "languageCode": "ko"
+        },
+        "authorAttribution": {
+          "displayName": "H K",
+          "uri": "https://www.google.com/maps/contrib/103972032192484332273/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBNNMt-KGpvFgR___SEXok-M7fiIa6RfsmqqlUHx4DmvAbEMK0=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-12-12T05:32:52.847144Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWaXEyNzFnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWaXEyNzFnRRAB!2m1!1s0x340401cbae1563fb:0x608349fe1924a97f"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401cbae1563fb:0x608349fe1924a97f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6954483605282531711&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401cbae1563fb:0x608349fe1924a97f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401cbae1563fb:0x608349fe1924a97f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401cbae1563fb:0x608349fe1924a97f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ-2MVrssBBDQRf6kkGf5Jg2A/photos/Aa-ngMYrVdhEB-LMdN2gBUk1H1IX1CwTH2IsCVdED5-F9mY77CezP9fgYW-rLvMsROcZtJLfr-d9iPMqGRWUvh7aHmLOG_XKX1iuIJHBmlxX8nrq1TJnUJr2BFPckGOWglB6ZX0j7kkTtyPQ25_UiX7QW8EWoIEslt7sQss9BDFR9if5B7l7jRCdrrAoYhUcE-g-38tOtbH6UAPIfmgX5rrVCWp-O4lTkqRZCHFsAeI0buO81zwXS_QeKemvbE1oEmZh-DsnhvKlZ-BidofzBBTF_LsDic8WfTwpDshOdDagJYjPLRr3V3MLwc6Zhw4AEtdO8nJGGhKi_w9Qk_ybk32qoEFL6PeI5Su315WPfOk0Ry00bBparTCKddV4umgSip8gdJUvRtlu4dyphWBOouS72arTrN-y15bbhiTlHg2ObinDiQ",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhASWCuOBFuRDbs0LjSTwhgi&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhASWCuOBFuRDbs0LjSTwhgi!2e10!4m2!3m1!1s0x340401cbae1563fb:0x608349fe1924a97f"
+    },
+    "local_path": "photos/ChIJ-2MVrssBBDQRf6kkGf5Jg2A.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEfu2f-tp2mY33Uq9kU9b4WDas_UIMOnPl4LDW4nEkz3iTYBzD5FwdsfXp-2UerXbNhp8ifLBUTmZUb7s4ac06mA6BJFBAx1MyGH9A3hO28D170tGEauq66E3w-5hwgVSfQZWrcZuEAfsK=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 203048
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

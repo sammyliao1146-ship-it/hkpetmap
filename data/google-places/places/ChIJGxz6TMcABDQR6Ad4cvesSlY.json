@@ -1,0 +1,336 @@
+{
+  "google_place_id": "ChIJGxz6TMcABDQR6Ad4cvesSlY",
+  "restaurant_ids": [
+    "restaurant:3112807327"
+  ],
+  "fetched_at": "2026-10-23T15:48:08.764521+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJGxz6TMcABDQR6Ad4cvesSlY",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2674 7388",
+    "internationalPhoneNumber": "+852 2674 7388",
+    "formattedAddress": "Shop B & C G, F, 67 Sing Woo Rd, Happy Valley, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.267918299999998,
+      "longitude": 114.18687179999999
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=6217972414315759592&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.reactioncoffee.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 18:00",
+        "星期二: 08:00 – 18:00",
+        "星期三: 08:00 – 18:00",
+        "星期四: 08:00 – 18:00",
+        "星期五: 08:00 – 18:00",
+        "星期六: 08:00 – 18:00",
+        "星期日: 08:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 230,
+    "displayName": {
+      "text": "REACTION Coffee Roasters (Happy Valley)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJGxz6TMcABDQR6Ad4cvesSlY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBd1JYSnFRWFUxUjJKdFVubDZhRGRYUTBaZllrRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 2,
+        "text": {
+          "text": "(Translated by Google) Not enough air conditioning. The floor is low, it feels very cramped. Even the Americano takes 20 minutes to arrive. No next time.\n\n(Original)\n唔夠冷氣。樓底低，好壓抑。Americano都可以等20mins。無下次",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "(Translated by Google) Not enough air conditioning. The floor is low, it feels very cramped. Even the Americano takes 20 minutes to arrive. No next time.\n\n(Original)\n唔夠冷氣。樓底低，好壓抑。Americano都可以等20mins。無下次",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Song Ma",
+          "uri": "https://www.google.com/maps/contrib/103541991547175689989/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWb1iofFuLPaX6LkbFeg3Duu4PJaQmWiN4KIZqAMtkxRqZvZE0=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-13T07:52:16.505026450Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBd1JYSnFRWFUxUjJKdFVubDZhRGRYUTBaZllrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBd1JYSnFRWFUxUjJKdFVubDZhRGRYUTBaZllrRRAB!2m1!1s0x340400c74cfa1c1b:0x564aacf7727807e8"
+      },
+      {
+        "name": "places/ChIJGxz6TMcABDQR6Ad4cvesSlY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sVmMxb3laRFk1WTNabmJERndVR1U0VmtFMlRWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Dirty tiramisu 勁正 好好食\nEgg Benedict 同意粉都出色",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Dirty tiramisu 勁正 好好食\nEgg Benedict 同意粉都出色",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alan Chan",
+          "uri": "https://www.google.com/maps/contrib/114981197241395839882/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIU6Yo1jtm3sdjSdkOWtB99ZL4CBB5JvJyHkU8Xsd8xSHvZwII=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-03T16:56:19.206385730Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sVmMxb3laRFk1WTNabmJERndVR1U0VmtFMlRWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sVmMxb3laRFk1WTNabmJERndVR1U0VmtFMlRWRRAB!2m1!1s0x340400c74cfa1c1b:0x564aacf7727807e8"
+      },
+      {
+        "name": "places/ChIJGxz6TMcABDQR6Ad4cvesSlY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGM1pIVmFPRTVrWW1WdlgxaDRlbXhaYzNWclJIYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "08112025六\n一行6人 加一猫\n中午12時半 人不多\n叫了好多嘢食\n樣樣都唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "08112025六\n一行6人 加一猫\n中午12時半 人不多\n叫了好多嘢食\n樣樣都唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "fai c",
+          "uri": "https://www.google.com/maps/contrib/113723734511334199299/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFlJvHh1gpeJ2cZONfKIKN8wtC_LxZCgUZU9XRijZ48GpI2Cc=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-11T16:28:50.383842093Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGM1pIVmFPRTVrWW1WdlgxaDRlbXhaYzNWclJIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGM1pIVmFPRTVrWW1WdlgxaDRlbXhaYzNWclJIYxAB!2m1!1s0x340400c74cfa1c1b:0x564aacf7727807e8"
+      },
+      {
+        "name": "places/ChIJGxz6TMcABDQR6Ad4cvesSlY/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2ektTZnVRRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "終於到我去呢間好評如潮嘅澳洲風cafe，就喺k11對面以前Passion嘅舖位，屋企人去完話啡同食物都唔錯，一星期後極速同我再訪，平日lunch time都坐滿七成左右。小店用QR code落單，隔離對夫婦唔識整店員都好熱心幫佢地直接order。(w/ 10% service charge)\n\n🍽Baked Portobello w/ Black Truffle Scrambled Eggs Burger ($98)\n炒蛋非常嫩滑，份量多到要用澎湃嚟形容，啖啖都食到松露醬味，burger應該加左紅菜頭汁所以呈粉色，口感鬆軟，大啡菇厚身多汁，蕃薯條脆身又多薯蓉，推薦！\n\n🍽Spanish Duroc Pork Belly Eggs Benedict ($112)\n慢煮豬腩膏同肉一半半，肉質未到入口即溶但都幾腍，兩塊酸種麵包有穀物喺入面，更有口感，亦帶麥香，拮穿埋水波蛋點蛋汁食食更正，配菜有醃洋蔥同加左醋嘅羽衣甘藍好開胃。\n\n☕️Cold Brew ($52)\n附上冰杯好貼心，慢慢㗳有莓果香，酸澀甜味都係點到即止，倒落冰杯會溝淡左，我鍾意直接飲。\n\n☕️Dirty ($42 + Oat Milk $4)\n好清嘅分層，咖啡淳香味濃，幾欣賞佢可以揀fruity或nutty嘅豆，啲奶應該好夠凍食到一半都未同啲啡融合。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "終於到我去呢間好評如潮嘅澳洲風cafe，就喺k11對面以前Passion嘅舖位，屋企人去完話啡同食物都唔錯，一星期後極速同我再訪，平日lunch time都坐滿七成左右。小店用QR code落單，隔離對夫婦唔識整店員都好熱心幫佢地直接order。(w/ 10% service charge)\n\n🍽Baked Portobello w/ Black Truffle Scrambled Eggs Burger ($98)\n炒蛋非常嫩滑，份量多到要用澎湃嚟形容，啖啖都食到松露醬味，burger應該加左紅菜頭汁所以呈粉色，口感鬆軟，大啡菇厚身多汁，蕃薯條脆身又多薯蓉，推薦！\n\n🍽Spanish Duroc Pork Belly Eggs Benedict ($112)\n慢煮豬腩膏同肉一半半，肉質未到入口即溶但都幾腍，兩塊酸種麵包有穀物喺入面，更有口感，亦帶麥香，拮穿埋水波蛋點蛋汁食食更正，配菜有醃洋蔥同加左醋嘅羽衣甘藍好開胃。\n\n☕️Cold Brew ($52)\n附上冰杯好貼心，慢慢㗳有莓果香，酸澀甜味都係點到即止，倒落冰杯會溝淡左，我鍾意直接飲。\n\n☕️Dirty ($42 + Oat Milk $4)\n好清嘅分層，咖啡淳香味濃，幾欣賞佢可以揀fruity或nutty嘅豆，啲奶應該好夠凍食到一半都未同啲啡融合。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "HK Foodpath",
+          "uri": "https://www.google.com/maps/contrib/103828869390896382542/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxlktaRBDvPLW-ijJt93nu4vrprKejcyIG9oP4kIsgdcvd4FM=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2021-09-22T12:50:36.213160Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ2ektTZnVRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2ektTZnVRRRAB!2m1!1s0x340400c74cfa1c1b:0x564aacf7727807e8"
+      },
+      {
+        "name": "places/ChIJGxz6TMcABDQR6Ad4cvesSlY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2aFpUQUpnEAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "📍Reaction Coffee Roasters\nShop 67B&C No.67 Sing Woo Road Happy Valley\n1. Superfood Salad $115\nPurple sweet potato | kale | honey red wine vinegar | avocado | cherry tomato | quinoa | corn | granola\n2. Black Truffle Scrambled Egg Bagel $84\nblack truffle scrambled egg | bacon | rocket | cherry tomato | cream cheese | whole wheat bagel\n經常食素嘅我去左跑馬地依間cafe搵食，佢個沙律真係啱晒我口味！個燒粟米勁靚！\nFollow me 👉🏻 @Foodie_eat_a_lot for more\n❤️🧡💛💚💙💜🖤🤍🤎❤️🧡💛💙\n@reactioncoffeeroasters #foodieeatalot #con #salad #fresh #yummy #eat #eatmore #eattheworld #foodie #food #foodiehk #foodphotography #foodpics #foodlover #foodblogger #foodlovers #852 #852food",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "📍Reaction Coffee Roasters\nShop 67B&C No.67 Sing Woo Road Happy Valley\n1. Superfood Salad $115\nPurple sweet potato | kale | honey red wine vinegar | avocado | cherry tomato | quinoa | corn | granola\n2. Black Truffle Scrambled Egg Bagel $84\nblack truffle scrambled egg | bacon | rocket | cherry tomato | cream cheese | whole wheat bagel\n經常食素嘅我去左跑馬地依間cafe搵食，佢個沙律真係啱晒我口味！個燒粟米勁靚！\nFollow me 👉🏻 @Foodie_eat_a_lot for more\n❤️🧡💛💚💙💜🖤🤍🤎❤️🧡💛💙\n@reactioncoffeeroasters #foodieeatalot #con #salad #fresh #yummy #eat #eatmore #eattheworld #foodie #food #foodiehk #foodphotography #foodpics #foodlover #foodblogger #foodlovers #852 #852food",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodie eat a lot",
+          "uri": "https://www.google.com/maps/contrib/101737992989012577751/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoJbY2pZx_HpwIGWyxhwl-n3uvHqCpm8uNAseP_FBF2CdKuRE=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2021-10-05T09:19:09.048061Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ2aFpUQUpnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ2aFpUQUpnEAE!2m1!1s0x340400c74cfa1c1b:0x564aacf7727807e8"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400c74cfa1c1b:0x564aacf7727807e8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6217972414315759592&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400c74cfa1c1b:0x564aacf7727807e8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400c74cfa1c1b:0x564aacf7727807e8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400c74cfa1c1b:0x564aacf7727807e8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJGxz6TMcABDQR6Ad4cvesSlY/photos/Aa-ngMblWz8Dl2iqfP_ONjs280ny-lY227dy8qm8nMi3WmIY3NCBmazS6Fjbji_yUIqnlT51fcKOi2oP52TmF-EiK9sJxg_FAdRcKPamT-9r-nQv7Od6bJA_qYCNhbr5oVx-16j0NUHLtUKGCGIgAhtepXFUam9g-NV1JPmmv1GLu35X-zPEgfGxqEW3fUNDFui3rtSVU1e8Ww4zWw3XF_5uu57_13WutVZIgq6HtW-nzL4mz-HuIqgN9Zt2kDVy5WxoHjs_gDk4jO_KgH1rbIIljTR8d-Hjt1DFCCt9A3ifWMBDxfr_RF_F47o39czoLP501t5GjmaEKgMADqWPeJeO4JIcKXvKFwYJXG7Z6PTOOq2nnOeGc203nbzYptm6-ydngKUx33hBbuaa78u1CwxHivv7jVe3awIjb3HgskCFv4Ku4w",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "authorAttributions": [
+        {
+          "displayName": "REACTION Coffee Roasters (Happy Valley)",
+          "uri": "https://maps.google.com/maps/contrib/109359067068197710247",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJnnbnaXCctOupkHJo9TE3bp6U-EW8NnGTj5dTifwLZineBdw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA8O8JBcgEaKf-rOieKha29&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA8O8JBcgEaKf-rOieKha29!2e10!4m2!3m1!1s0x340400c74cfa1c1b:0x564aacf7727807e8"
+    },
+    "local_path": "photos/ChIJGxz6TMcABDQR6Ad4cvesSlY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3b6Ydt41Q1AFmqu4IusLVBSQFizEzGfeXOG2EGN50RIqJsgXwvufx1nVf9KhHZi2yolUtkc1q_iQo7jyFFbUIoEnHfdpkblgwml_Z810QgBr9yd1n_N9tLuVEQsyqyqRWUGItfyJrcxR4=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 145395
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.reactioncoffee.com.hk/collections/action-reaction-workshop",
+        "label": "Book Now",
+        "source_url": "https://www.reactioncoffee.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.reactioncoffee.com.hk/collections/action-reaction-workshop",
+  "menu_url": null
+}

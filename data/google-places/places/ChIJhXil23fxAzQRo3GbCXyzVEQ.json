@@ -1,0 +1,314 @@
+{
+  "google_place_id": "ChIJhXil23fxAzQRo3GbCXyzVEQ",
+  "restaurant_ids": [
+    "restaurant:2294804726"
+  ],
+  "fetched_at": "2026-10-23T15:49:20.567678+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJhXil23fxAzQRo3GbCXyzVEQ",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2185 7592",
+    "internationalPhoneNumber": "+852 2185 7592",
+    "formattedAddress": "香港新界天水圍天湖路1號1樓B13C號舖",
+    "location": {
+      "latitude": 22.4531603,
+      "longitude": 114.00067349999999
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=4923757637941293475&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:30 – 22:00",
+        "星期二: 10:30 – 22:00",
+        "星期三: 10:30 – 22:00",
+        "星期四: 10:30 – 22:00",
+        "星期五: 10:30 – 22:00",
+        "星期六: 10:30 – 22:00",
+        "星期日: 10:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 23,
+    "displayName": {
+      "text": "辣將軍",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJhXil23fxAzQRo3GbCXyzVEQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sSlpteGtOR3hKWldacGVVeHhWREZzVlRJd1IxRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "服務很好，姐姐很熱情，很好吃，點了二人餐還加了個下午茶餐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務很好，姐姐很熱情，很好吃，點了二人餐還加了個下午茶餐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lovely Banana",
+          "uri": "https://www.google.com/maps/contrib/100272887432807609731/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUu3sHgKPe9hXygyTadLXe-IjWoWVS0Cl7_2pOxHpphy9GFbwn2=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-11-30T02:19:56.464404424Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sSlpteGtOR3hKWldacGVVeHhWREZzVlRJd1IxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sSlpteGtOR3hKWldacGVVeHhWREZzVlRJd1IxRRAB!2m1!1s0x3403f177dba57885:0x4454b37c099b71a3"
+      },
+      {
+        "name": "places/ChIJhXil23fxAzQRo3GbCXyzVEQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbWZYRlNnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "午餐set 回鍋肉+凍飲 $63\n回鍋肉 料頭多鑊氣夠好食 但不算太辣\n江湖菜風格油重 但有兩三舊食落有臭味\n價格合理 新北江屬中上水平",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午餐set 回鍋肉+凍飲 $63\n回鍋肉 料頭多鑊氣夠好食 但不算太辣\n江湖菜風格油重 但有兩三舊食落有臭味\n價格合理 新北江屬中上水平",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jacky Fung",
+          "uri": "https://www.google.com/maps/contrib/110419652283450055842/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSMyAVR2KiIaW629msVRpYLdsulwL8cL7UOgc__kEmca49PBs3=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-04-11T08:17:56.140897Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbWZYRlNnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbWZYRlNnEAE!2m1!1s0x3403f177dba57885:0x4454b37c099b71a3"
+      },
+      {
+        "name": "places/ChIJhXil23fxAzQRo3GbCXyzVEQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUREc3UyR3FnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "份量比平常的多很多 價錢不貴 味道好 賣相也不錯 姐姐都好好人",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "份量比平常的多很多 價錢不貴 味道好 賣相也不錯 姐姐都好好人",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ho Kei B",
+          "uri": "https://www.google.com/maps/contrib/113970671211574931200/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWn-vmA0GR8JoZcbVF4JB9boixhtmxiWt02w3LGoa1XNgEDPSbP=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-04-07T17:07:04.375206Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREc3UyR3FnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREc3UyR3FnRRAB!2m1!1s0x3403f177dba57885:0x4454b37c099b71a3"
+      },
+      {
+        "name": "places/ChIJhXil23fxAzQRo3GbCXyzVEQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzek1xeEhBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "午市套餐，價格親民。叫咗‘大辣小麻‘水煮鯇魚，嘩，好耐冇食到咁接近真正川菜風味啦。魚片以紅油浸熟，滑捋捋，分量多，最後我打包走一半魚片同配菜。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午市套餐，價格親民。叫咗‘大辣小麻‘水煮鯇魚，嘩，好耐冇食到咁接近真正川菜風味啦。魚片以紅油浸熟，滑捋捋，分量多，最後我打包走一半魚片同配菜。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "雲吞",
+          "uri": "https://www.google.com/maps/contrib/117065815586302800883/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUz51rlIGkeQ3WarnzcdoF9wRYpGDi_-OUJ3x4cxYNyAYtW148m=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-11-03T12:48:11.972885Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzek1xeEhBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzek1xeEhBEAE!2m1!1s0x3403f177dba57885:0x4454b37c099b71a3"
+      },
+      {
+        "name": "places/ChIJhXil23fxAzQRo3GbCXyzVEQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsZk1teHdXR0pZYmtKTFVrUk1VV2cyTmw5c2RFRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好好吃🤤 夠鑊氣👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好好吃🤤 夠鑊氣👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cizi",
+          "uri": "https://www.google.com/maps/contrib/106991626898750857939/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV17FI2HZIYtKixt5uSQeoOvjdmx8X-0SSvynjRbqp4CPcxwMA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-01-25T23:02:50.703184973Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsZk1teHdXR0pZYmtKTFVrUk1VV2cyTmw5c2RFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsZk1teHdXR0pZYmtKTFVrUk1VV2cyTmw5c2RFRRAB!2m1!1s0x3403f177dba57885:0x4454b37c099b71a3"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "goodForChildren": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f177dba57885:0x4454b37c099b71a3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4923757637941293475&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f177dba57885:0x4454b37c099b71a3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f177dba57885:0x4454b37c099b71a3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f177dba57885:0x4454b37c099b71a3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJhXil23fxAzQRo3GbCXyzVEQ/photos/Aa-ngMaqHOnyaWx8aJ93LB_e0QiQJHSHScuJtErU1hLL8lXLuDzMMCcgerwV0SKv3blEDj1H9JQ49O3dkwpbsiOAj-_Jidgq1ZY29CjgLNDeAGlpY8lOixt-VsDPZ2hhbkikyKqB8-a_E17sf0v1Oagc3SSOssCMYHi6HvAG1lreKSH2w24xhA61r9zKuu10LyWBXDFtsCoQDoe5ezFtGP5bqaKtXgnku4prQf9KnpL4zuuf0RzPv-JbVthpwlQ-ZQ6lYWECmIwBaXks89luYQqXiq40j1VuH4Oe1NV2l0VeVg-A-1aKy7CT1nhMljIGc87SnYPLAnPEPBVYOzhVQUT2nV2AismPRZivBpn4_h_kcJxKrkN3jt3d_XS0v3MqBFcsXXNwJyBYcX1LFITSVXdknBoHfJKRC166zp-63EMlqwhCSA",
+      "widthPx": 4640,
+      "heightPx": 2608,
+      "authorAttributions": [
+        {
+          "displayName": "小伍",
+          "uri": "https://maps.google.com/maps/contrib/117711587744055180269",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqlSYW0luJxYm76YGZX5SK1wPsGptn92dqGJUsGDbaZ0H3PME=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD8zWRCt91UDc2SdJXvI0t3&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD8zWRCt91UDc2SdJXvI0t3!2e10!4m2!3m1!1s0x3403f177dba57885:0x4454b37c099b71a3"
+    },
+    "local_path": "photos/ChIJhXil23fxAzQRo3GbCXyzVEQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-nUeZe-dWfQCq6LS50j-cUxFDuP70GS3lNzhEtWDj3GS_h-XBblFF-5oSdH4W9YAwkrJ3_Cu9NY2XVqQNE7Ee8Sy_7sEyrtMRan7XKwcaP2BvZt2qLqnMVqhxH7gOd2TcveRoWGjVHaAc=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 126837
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

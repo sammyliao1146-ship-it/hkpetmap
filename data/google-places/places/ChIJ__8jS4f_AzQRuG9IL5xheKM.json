@@ -1,0 +1,400 @@
+{
+  "google_place_id": "ChIJ__8jS4f_AzQRuG9IL5xheKM",
+  "restaurant_ids": [
+    "restaurant:2218818802"
+  ],
+  "fetched_at": "2026-10-23T15:44:38.172459+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ__8jS4f_AzQRuG9IL5xheKM",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2804 1555",
+    "internationalPhoneNumber": "+852 2804 1555",
+    "formattedAddress": "G/F, Hang Sing Mansion, 64 High St, Sai Ying Pun, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.285120600000003,
+      "longitude": 114.1415492
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=11779272148823601080&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.kruawalaiphan.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 14:30, 17:00 – 22:00",
+        "星期二: 11:00 – 14:30, 17:00 – 22:00",
+        "星期三: 11:00 – 14:30, 17:00 – 22:00",
+        "星期四: 11:00 – 14:30, 17:00 – 22:00",
+        "星期五: 11:00 – 14:30, 17:00 – 22:00",
+        "星期六: 11:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 420,
+    "displayName": {
+      "text": "Krua Walaiphan",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": false,
+    "servesVegetarianFood": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ__8jS4f_AzQRuG9IL5xheKM/reviews/ChZDSUhNMG9nS0VJQ0FnSURyZzd6VGZREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "—🇹🇭西營盤的工業風泰菜—\n在高街一直都有很多不同風格的餐廳和酒吧。今天來到附近修剪頭髮前，先覓食一番。\n\n髮廊員工異口同聲推薦的這一間，小妹當然不會錯過！由於單人匹馬，今次只能嚐一個set lunch.\n\n小碗餐湯尚算足料，雖然標榜 no MSG, 但仍然有感受到一絲MSG 的味道（心理作用？）\n\n主菜點了各人大力推舉的Fried rice Pad Ka Prao, 即泰式肉碎炒飯🌶️ 一上枱見到有煎蛋在飯面🍳馬上加分（利申：雞蛋愛好者～）。\n肉碎、炒飯和所有香料，已在鑊中完美地炒至均勻分布，不是飯還飯，肉還肉。\n\n跟飯有一小兜魚露，不過本身已經很夠味。飯中夾雜幾條大辣椒，怕太辣的話，務必挑走/先告訴店員。 （5小辣已是盡頭的me）\n辛辣味道，新鮮天然的，跟味粉炒出來的有很明顯的分別👍🏻很是喜歡，辣得過癮～\n\n另加一杯$15 Thai Lemongrass juice, 雖說不是跟餐飲品，但午市價錢來說，十分合理。\n\n如果下次再路經西營盤，是會encore 的餐廳🫶🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "—🇹🇭西營盤的工業風泰菜—\n在高街一直都有很多不同風格的餐廳和酒吧。今天來到附近修剪頭髮前，先覓食一番。\n\n髮廊員工異口同聲推薦的這一間，小妹當然不會錯過！由於單人匹馬，今次只能嚐一個set lunch.\n\n小碗餐湯尚算足料，雖然標榜 no MSG, 但仍然有感受到一絲MSG 的味道（心理作用？）\n\n主菜點了各人大力推舉的Fried rice Pad Ka Prao, 即泰式肉碎炒飯🌶️ 一上枱見到有煎蛋在飯面🍳馬上加分（利申：雞蛋愛好者～）。\n肉碎、炒飯和所有香料，已在鑊中完美地炒至均勻分布，不是飯還飯，肉還肉。\n\n跟飯有一小兜魚露，不過本身已經很夠味。飯中夾雜幾條大辣椒，怕太辣的話，務必挑走/先告訴店員。 （5小辣已是盡頭的me）\n辛辣味道，新鮮天然的，跟味粉炒出來的有很明顯的分別👍🏻很是喜歡，辣得過癮～\n\n另加一杯$15 Thai Lemongrass juice, 雖說不是跟餐飲品，但午市價錢來說，十分合理。\n\n如果下次再路經西營盤，是會encore 的餐廳🫶🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Loulouise",
+          "uri": "https://www.google.com/maps/contrib/101074645928952397462/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUxmIQpTsrMpDXIYpbaC2oQb1M4yraccm9l7vnuMEEjvfw4rM=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-07-19T15:28:04.688869Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyZzd6VGZREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyZzd6VGZREAE!2m1!1s0x3403ff874b23ffff:0xa378619c2f486fb8"
+      },
+      {
+        "name": "places/ChIJ__8jS4f_AzQRuG9IL5xheKM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjaDlMQkx3EAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 4,
+        "text": {
+          "text": "👉🏻Khao Niew Mamuang💲78\nTraditional mango sticky rice with cream of coconut\n芒果糯米飯🥭糯米飯好甜椰奶味😋芒果都甜 不過我覺得有少少硬\n〰️〰️〰️〰️〰️〰️〰️〰️〰️\n👉🏻Kor Moo Yang 💲148\nGrilled pork neck served with our house special sauce\n超好食！🥰勁厚切🤩但又唔會好肥🥰燒得啱啱好 係我食過最好食嘅豬頸肉🥰\n〰️〰️〰️〰️〰️〰️〰️〰️〰️\n👉🏻Kai Jiaw💲148\nThai crab meat omelet served with sriracha sauce\n我覺得呢個幾好食 入邊超多蟹肉 不過我覺得個蛋就落重咗少少麵粉 好似食緊塊麵包咁 好易濟🤔\n〰️〰️〰️〰️〰️〰️〰️〰️〰️\n👉🏻Som Tum Thai / Thai Green Papaya 💲78\nThai garlic, cherry tomatoes, dried shrimps, beans, peanuts & chill tossed with Tamarind dressing\n青木瓜口感唔錯 不過佢入邊啲青豆真係不了 legit生食 仲有啲花生配搭有少少奇怪 呢碟比較辣🌶\n〰️〰️〰️〰️〰️〰️〰️〰️〰️\n👉🏻Khao Pad Sub Pa Rod Talay 💲158\nPineapple fried rice with seafood, carrots, peas, corn, eggs, yellow curry powder, cashew nuts and pork floss\n超多海鮮🤩係我食過最多海鮮嘅菠蘿炒飯🥳重要啲海鮮都幾好食😋青口個汁幾好味 但浸左落啲飯到唔係咁好😕好鍾意入邊啲魷魚 大大舊🥳仲有好多腰果🤤不過整體個飯偏濕 乾身少少就好🤨\n〰️〰️〰️〰️〰️〰️〰️〰️〰️\nKrua Walaiphan (西環)\n📍西環西營盤高街29號高宏閣地舖\n🔗#7eating西環#7eating泰國菜",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "👉🏻Khao Niew Mamuang💲78\nTraditional mango sticky rice with cream of coconut\n芒果糯米飯🥭糯米飯好甜椰奶味😋芒果都甜 不過我覺得有少少硬\n〰️〰️〰️〰️〰️〰️〰️〰️〰️\n👉🏻Kor Moo Yang 💲148\nGrilled pork neck served with our house special sauce\n超好食！🥰勁厚切🤩但又唔會好肥🥰燒得啱啱好 係我食過最好食嘅豬頸肉🥰\n〰️〰️〰️〰️〰️〰️〰️〰️〰️\n👉🏻Kai Jiaw💲148\nThai crab meat omelet served with sriracha sauce\n我覺得呢個幾好食 入邊超多蟹肉 不過我覺得個蛋就落重咗少少麵粉 好似食緊塊麵包咁 好易濟🤔\n〰️〰️〰️〰️〰️〰️〰️〰️〰️\n👉🏻Som Tum Thai / Thai Green Papaya 💲78\nThai garlic, cherry tomatoes, dried shrimps, beans, peanuts & chill tossed with Tamarind dressing\n青木瓜口感唔錯 不過佢入邊啲青豆真係不了 legit生食 仲有啲花生配搭有少少奇怪 呢碟比較辣🌶\n〰️〰️〰️〰️〰️〰️〰️〰️〰️\n👉🏻Khao Pad Sub Pa Rod Talay 💲158\nPineapple fried rice with seafood, carrots, peas, corn, eggs, yellow curry powder, cashew nuts and pork floss\n超多海鮮🤩係我食過最多海鮮嘅菠蘿炒飯🥳重要啲海鮮都幾好食😋青口個汁幾好味 但浸左落啲飯到唔係咁好😕好鍾意入邊啲魷魚 大大舊🥳仲有好多腰果🤤不過整體個飯偏濕 乾身少少就好🤨\n〰️〰️〰️〰️〰️〰️〰️〰️〰️\nKrua Walaiphan (西環)\n📍西環西營盤高街29號高宏閣地舖\n🔗#7eating西環#7eating泰國菜",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "HK 7eating",
+          "uri": "https://www.google.com/maps/contrib/113551104390001133088/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViRa35oSD21j4RbdhPCgnU0lf9JJFvpY6vN6EJWDjz5nEUxBc=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2020-04-19T04:03:55.865626Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNjaDlMQkx3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNjaDlMQkx3EAE!2m1!1s0x3403ff874b23ffff:0xa378619c2f486fb8"
+      },
+      {
+        "name": "places/ChIJ__8jS4f_AzQRuG9IL5xheKM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNnJqTFNnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "朋友帶我來吃正正泰國菜🇹🇭\n串燒是豬肉 肉質很厚切 燒🉐️啱啱好👍🏽\n黃咖哩軟殼蟹也很高質 🈶️兩隻蟹🦀\n蟹係全隻的喔 很驚喜又好味 出色😍🤩\n伴菜也很足料 黃咖哩超好味😋\n配埋個薄餅更加不得了🤤\n甜品點了椰青雪糕 好🈶️特色好吸睛👀✨\n椰青入面是🈵️🈵️的椰肉和椰子味雪糕\n雪糕較甜 但夾埋椰青肉食就啱啱好👍🏽\n絕對🈶️𝚎𝚗𝚌𝚘𝚛𝚎的機會喔♥️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友帶我來吃正正泰國菜🇹🇭\n串燒是豬肉 肉質很厚切 燒🉐️啱啱好👍🏽\n黃咖哩軟殼蟹也很高質 🈶️兩隻蟹🦀\n蟹係全隻的喔 很驚喜又好味 出色😍🤩\n伴菜也很足料 黃咖哩超好味😋\n配埋個薄餅更加不得了🤤\n甜品點了椰青雪糕 好🈶️特色好吸睛👀✨\n椰青入面是🈵️🈵️的椰肉和椰子味雪糕\n雪糕較甜 但夾埋椰青肉食就啱啱好👍🏽\n絕對🈶️𝚎𝚗𝚌𝚘𝚛𝚎的機會喔♥️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "食指大動EatFingerBigMove",
+          "uri": "https://www.google.com/maps/contrib/109440535707988167551/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5jgO38O9-pWKNTMW0SecHZwXykt3XtQKadJS06T0oRtR_96U=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-08-01T17:44:53.205402Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwNnJqTFNnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwNnJqTFNnEAE!2m1!1s0x3403ff874b23ffff:0xa378619c2f486fb8"
+      },
+      {
+        "name": "places/ChIJ__8jS4f_AzQRuG9IL5xheKM/reviews/ChdDSUhNMG9nS0VJQ0FnSURZd29TSjJ3RRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 5,
+        "text": {
+          "text": "好食，午市套餐抵食，服務非常好，值得一讚",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好食，午市套餐抵食，服務非常好，值得一讚",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fun Fun",
+          "uri": "https://www.google.com/maps/contrib/114758296547207547766/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKU7xGS52UTAgVfMVpUC1SCBqs_kyLqrGufYXm3MSKiTpSj1g=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2019-05-04T18:35:16.944100Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURZd29TSjJ3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURZd29TSjJ3RRAB!2m1!1s0x3403ff874b23ffff:0xa378619c2f486fb8"
+      },
+      {
+        "name": "places/ChIJ__8jS4f_AzQRuG9IL5xheKM/reviews/ChZDSUhNMG9nS0VJQ0FnSURwcE43Y1B3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "食物質素唔錯，最鍾意青咖喱鸡🐔，好浓郁。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物質素唔錯，最鍾意青咖喱鸡🐔，好浓郁。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "manlin Q",
+          "uri": "https://www.google.com/maps/contrib/113509853260748571774/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAbohlpFJZBe5jH2s7Kr-XRcOkxjb68fu-CSRd4S_01hIUOg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-08-16T12:31:17.968968Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwcE43Y1B3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwcE43Y1B3EAE!2m1!1s0x3403ff874b23ffff:0xa378619c2f486fb8"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": false
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff874b23ffff:0xa378619c2f486fb8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11779272148823601080&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff874b23ffff:0xa378619c2f486fb8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff874b23ffff:0xa378619c2f486fb8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff874b23ffff:0xa378619c2f486fb8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ__8jS4f_AzQRuG9IL5xheKM/photos/Aa-ngMb1AbXmeKIhNgaFfKqY4MSaBlEOHxgLktqzMleo1liHbNWLGHHmx0fV3rTxKysbUJr3Uc9G8T2hnhsevYeuCtLW3cj8EfgW_lYsOzV3v6GUkWp36xT2HcUfHw6wGf_CH3vPld6KjrLWMhGuBmRUK5aWdq9NlucU2nAoh1xtjbBJZT0M7AnLG-ntdj6VgTdC82ANEwUDcKlDEUt0MYgkwKmt-Z4UUQwxuUcpRARMoEjhgLULPjDtXIuP3W1R8xHmQh93QSgyAqTFWCN3G3u4JD568Y4-qidE6bQUGKP066bpjmPLSL5bXZeExqQ_l1U8umR6rXV2jJde1GYvyMIgpq3yTLaLhwR1gbcMp_enn7D68O2-teWCfHuhMVvbb8iEBQ7Wf6BYajO4W3u4w-ooLRAvkKZsqnRkMKbCSoVjbR4myg",
+      "widthPx": 2581,
+      "heightPx": 1936,
+      "authorAttributions": [
+        {
+          "displayName": "Krua Walaiphan",
+          "uri": "https://maps.google.com/maps/contrib/102189614890843429687",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmr95pag8LzqScOw3M-rL-whE3SxGrBmgdsDDCegOH0kjd90zl=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA1yGyerdpF2mQq3RMeqZYV&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA1yGyerdpF2mQq3RMeqZYV!2e10!4m2!3m1!1s0x3403ff874b23ffff:0xa378619c2f486fb8"
+    },
+    "local_path": "photos/ChIJ__8jS4f_AzQRuG9IL5xheKM.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfenQMlOvPxRG0Bmoh_-r776tSDYm7nfMr0QhVjuIINAQlpnRJMbKGIR9Zqye2p2QPs3FMys9WgtHUI5JvTyfKrQhpRoLA_6zMtmBRNo1BmjfNKnstvbcVHEb-EZtyqWRczAYkKcad2hrOY=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 866670
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.kruawalaiphan.com/s/kw-A-la-carte-menu-2026.pdf",
+        "label": "MENU",
+        "source_url": "https://www.kruawalaiphan.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.kruawalaiphan.com/s/kw-A-la-carte-menu-2026.pdf"
+}

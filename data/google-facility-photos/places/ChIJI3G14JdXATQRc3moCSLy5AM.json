@@ -1,0 +1,39 @@
+{
+  "id": "ChIJI3G14JdXATQRc3moCSLy5AM",
+  "types": [
+    "campground",
+    "tourist_attraction",
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "LantauIsland, Lantau Island, New Territories, 香港",
+  "location": {
+    "latitude": 22.239286,
+    "longitude": 113.97894099999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=280615304808659315&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "貝澳營地",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "campground",
+  "photos": [
+    {
+      "name": "places/ChIJI3G14JdXATQRc3moCSLy5AM/photos/Aa-ngMbfiT8Ulhs01XD2SQzUs_MQJV4DA79E0g9_5Q68vUkbOLcbCD3kO91q_IMkrzIbMYtxLlipG8BVx4BECGhR2yWnwrK_NcPvO9krg3LLQYFk0j2JT7Pxtufz0uyiSdEcX4N-saYbQaHJL88mrT37C1AzVsnSeMhtIwfobTu4TDFyXLLYnmUvHJSioVSffSIp61iAi4Wg3nzVIPho5fvF_PzChxqbjLJWcFBGXn6J-t0gxoTQDPeNFbU1iDSnpWsbb159sdvTAE8A4k1IFibV0ZQ_6LNkk8H8ZeCBjt8LwuORU8UoOKgrIv2D3YpMLYDLP1_5XjoMj1W_N-ojqAg6hI8UnSpB0DeMDuPZu4xsOl_IVp8Ej9Nef2NBGneajOcyVJR14aK4KMzGVHdYZH-nua2inQ8",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "kwan chung Wong",
+          "uri": "https://maps.google.com/maps/contrib/106558101972749261608",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIa4HppCKdYhWUVHPhRg9W4LGoRPWg69b4-rtWqLBvBWANUwQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICVmI_leQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICVmI_leQ!2e10!4m2!3m1!1s0x34015797e0b57123:0x3e4f22209a87973"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:32.286556+00:00"
+}

@@ -1,0 +1,305 @@
+{
+  "google_place_id": "ChIJWfJBYwABBDQRTF2Zzlk33Dc",
+  "restaurant_ids": [
+    "restaurant:3112810488"
+  ],
+  "fetched_at": "2026-10-23T15:42:52.860436+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJWfJBYwABBDQRTF2Zzlk33Dc",
+    "types": [
+      "supermarket",
+      "grocery_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2549 5068",
+    "internationalPhoneNumber": "+852 2549 5068",
+    "formattedAddress": "香港香港島灣仔皇后大道東183號Hopewell Mall15/F",
+    "location": {
+      "latitude": 22.2746422,
+      "longitude": 114.1717929
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=4025153025820155212&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 20:30",
+        "星期二: 10:00 – 20:30",
+        "星期三: 10:00 – 20:30",
+        "星期四: 10:00 – 20:30",
+        "星期五: 10:00 – 20:30",
+        "星期六: 10:00 – 21:30",
+        "星期日: 10:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 30,
+    "displayName": {
+      "text": "Food Parc",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "超級市場",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "supermarket",
+    "reviews": [
+      {
+        "name": "places/ChIJWfJBYwABBDQRTF2Zzlk33Dc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwWmVWbHBNbkozZEU1ak0xUlVabWhGTFRJME5HYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 3,
+        "text": {
+          "text": "位於合和中心二期，15樓的超級市場，地方大，但人不多（可能昨天是大年初一吧）走比較西式路綫的，賣的也是較西式的",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於合和中心二期，15樓的超級市場，地方大，但人不多（可能昨天是大年初一吧）走比較西式路綫的，賣的也是較西式的",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "evelyn T",
+          "uri": "https://www.google.com/maps/contrib/109723094782336729793/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1HSfvZKZPyUEwOk3ykOgcc6xRoIG7UTiDuNpW6KipME5MUyQnOA=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-02-18T07:05:20.767217612Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwWmVWbHBNbkozZEU1ak0xUlVabWhGTFRJME5HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwWmVWbHBNbkozZEU1ak0xUlVabWhGTFRJME5HYxAB!2m1!1s0x340401006341f259:0x37dc3759ce995d4c"
+      },
+      {
+        "name": "places/ChIJWfJBYwABBDQRTF2Zzlk33Dc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aRFkyRTBSRmhHYzBOa1VEVmtObkZpTFU4d1VsRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "This this dish,轉菜底加$10，食物一般",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "This this dish,轉菜底加$10，食物一般",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Camel Lok",
+          "uri": "https://www.google.com/maps/contrib/117030189875465008268/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsTVFZm8fqj3JjrnlvvhlsrQP1xsMuLS9f4a3ufxt13kdTg3e5=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-21T03:14:20.894307463Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aRFkyRTBSRmhHYzBOa1VEVmtObkZpTFU4d1VsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aRFkyRTBSRmhHYzBOa1VEVmtObkZpTFU4d1VsRRAB!2m1!1s0x340401006341f259:0x37dc3759ce995d4c"
+      },
+      {
+        "name": "places/ChIJWfJBYwABBDQRTF2Zzlk33Dc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaWFoySnROek53VkRNMFFqUjFTbk50Y1ZoWVYyYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "食生蠔的不要在这家買，店員开蠔的技術，認知及衛生存疑。\n昨天在Food Parc在賣生蠔的柜枱買咗14隻生蠔，店員負责开蠔，包好後回到家發現每隻蠔肉都:\n体無完膚，不似原型\n估計係店員开生蠔時用蠔刀沒有避开蠔肉下掀蠔蓋所致，即係把蠔刀在汚槽的蠔殼遊走後再插穿蠔肉，想想咁樣会否造成蠔肉受汚染， 生蠔係生食，衛生嘅要求係極高，超市管理層都应該对店員處理生蠔有適當程度嘅要求!\n再睇吓個檸檬，幾乎係切片，店員都应該知道檸檬用來揸在手搾汁用的，切到咁薄掂拿起搾汁。\n以後無信心在呢間超市買生鲜啦!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食生蠔的不要在这家買，店員开蠔的技術，認知及衛生存疑。\n昨天在Food Parc在賣生蠔的柜枱買咗14隻生蠔，店員負责开蠔，包好後回到家發現每隻蠔肉都:\n体無完膚，不似原型\n估計係店員开生蠔時用蠔刀沒有避开蠔肉下掀蠔蓋所致，即係把蠔刀在汚槽的蠔殼遊走後再插穿蠔肉，想想咁樣会否造成蠔肉受汚染， 生蠔係生食，衛生嘅要求係極高，超市管理層都应該对店員處理生蠔有適當程度嘅要求!\n再睇吓個檸檬，幾乎係切片，店員都应該知道檸檬用來揸在手搾汁用的，切到咁薄掂拿起搾汁。\n以後無信心在呢間超市買生鲜啦!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tse Bonnie",
+          "uri": "https://www.google.com/maps/contrib/111571801275804541841/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3Q8GUd4NqI69zR0QzyF7m6cX8JJeKiLW3p8RZfSeu6w-WJA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-30T00:17:42.911014051Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaWFoySnROek53VkRNMFFqUjFTbk50Y1ZoWVYyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaWFoySnROek53VkRNMFFqUjFTbk50Y1ZoWVYyYxAB!2m1!1s0x340401006341f259:0x37dc3759ce995d4c"
+      },
+      {
+        "name": "places/ChIJWfJBYwABBDQRTF2Zzlk33Dc/reviews/ChZDSUhNMG9nS0VMNnRyOENzcks2bFZnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "高級版百佳超級市場，有幾檔小食店。位於商場十五樓，來回耗時，出入口鄰近停車場，宜小心看管兒童",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "高級版百佳超級市場，有幾檔小食店。位於商場十五樓，來回耗時，出入口鄰近停車場，宜小心看管兒童",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Man",
+          "uri": "https://www.google.com/maps/contrib/110915608493924919787/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcKFS2ctFmfMEWv2bHIbq8r2a7kV633xPWsBP4o_rEEcgmgRw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-06-01T16:35:00.848533Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VMNnRyOENzcks2bFZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMNnRyOENzcks2bFZnEAE!2m1!1s0x340401006341f259:0x37dc3759ce995d4c"
+      },
+      {
+        "name": "places/ChIJWfJBYwABBDQRTF2Zzlk33Dc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVMlZtcDZMV1ZtU0VWc00yOHRkM1paUzJaMVlYYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "今天去試THIS THIS TWIST，兩個餸，牛肋肉，烤雞脾，隻雞脾D肉好(鞋)，無咩味道，牛肋肉都還可以(但比較碎)飯都很少，都要88元，整體賣這個價錢，不太值，唔會再去。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今天去試THIS THIS TWIST，兩個餸，牛肋肉，烤雞脾，隻雞脾D肉好(鞋)，無咩味道，牛肋肉都還可以(但比較碎)飯都很少，都要88元，整體賣這個價錢，不太值，唔會再去。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kamfai Cheung",
+          "uri": "https://www.google.com/maps/contrib/108884184866185352831/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKHOIKKveC03L5PIQQS8OXn4YlzRXiA53GZUwtLXK0LeFN-g=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-10-05T10:13:14.634396160Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tVMlZtcDZMV1ZtU0VWc00yOHRkM1paUzJaMVlYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVMlZtcDZMV1ZtU0VWc00yOHRkM1paUzJaMVlYYxAB!2m1!1s0x340401006341f259:0x37dc3759ce995d4c"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401006341f259:0x37dc3759ce995d4c!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4025153025820155212&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401006341f259:0x37dc3759ce995d4c!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401006341f259:0x37dc3759ce995d4c!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401006341f259:0x37dc3759ce995d4c!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJWfJBYwABBDQRTF2Zzlk33Dc/photos/Aa-ngMasDQfAcHMrqgQktHaJzCDBPtOlHr-4GPquecYvVOa589IVL_dFbN5RHPrzeZl1UrpN8seKSRBCwoaCasOAtmBJI8fJewf0PZU8QZyq1FG-lHiAFMSKyqzyitFyoWaprUfcKRKQCL8YUO4lg2OwlTYZ2ylPeaGRdN_DPIQlkKXAloQkoNwvunV5NyVmGto0_4hL6dAy81Zdgui2sDBmo1FhXVj-bhQe5outsvN4S5kbMhPHRt08eClYW9pbp8SdCHY93Ukq3G5huW6t4gNJ3PnWXaWbOJEOiQfglBLUSWBSbqk593FysMWAP3pyp0sRzn-l91uKKEKIPH0VHwCSeTz-Q2MfZUKELwvO1ZZnSHnH6EhhJ1pzfumNqI-9KnkBJnWkbawOKa-0OG_g4LXDXyBAE76wlpXXwfbMNtcz493U",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Food Parc",
+          "uri": "https://maps.google.com/maps/contrib/112212172820840575834",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdj21stR2ocmOuxNMTC3FfY3k-7E4ptADOY7HI9y4yZT2wzEE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDkJLs6Wq275q9IsNxBDRiB&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDkJLs6Wq275q9IsNxBDRiB!2e10!4m2!3m1!1s0x340401006341f259:0x37dc3759ce995d4c"
+    },
+    "local_path": "photos/ChIJWfJBYwABBDQRTF2Zzlk33Dc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQPF9Nbtsjy28sz92gDjCGoMlvvmF1FgWjrHOeK6guaTIdCa-y-g3b1nUncL6ftnO8IxQIkdv8hcvLiQmxXIDZGXmfj12ekNPslLc8LBMt-SEcH3k8XV8q6igYAxdZiOsJWAjWHkmc5Es=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 151699
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "supermarket",
+    "label": "超級市場",
+    "types": [
+      "supermarket",
+      "grocery_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ChIJo2c0-7wHBDQRR85-1l9J-gw",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界沙田排頭街",
+  "location": {
+    "latitude": 22.3845785,
+    "longitude": 114.1870247
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=935140548602154567&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "香港貓酒店 Hong Kong Cat Hotel",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJo2c0-7wHBDQRR85-1l9J-gw/photos/Aa-ngMZigdoVrrvWej8z3w4HQ5vvkkLaP-pFuiNFLaEEtJL7acdPGZ0TZhJg7C8IW0FwaQ_PDlB1qWdBKyvUVYH7h0GJoek6nhImYm8wrCVOiTG1sMrno1xYZyoAacqFne4JMlzU0vY1wsTxH0TxNi5buaei_5cQuZz7EhkE09ddNFXyuWV0wXC6ZEJlpapPoyYYppmbsyGYDnlD1Pbr3jxYsm1DeA4iZ7WnN9Ch7x_Manr8AVnjYkH-koy9p8wWz85frXNZWarbUXWg8DQjifuA2clBIl6IG2S_D8TFCdAKLi0uvcPzef0CNsmdk5fCwSD38oa8anSzCbQ4GaIOb8QpNOerqygAWbsdSy_b1Wwo05IoXB1KqqtN9Wdc1IjnI3cZyWlxDMGJBos_uzvDCYKaySuB5DY",
+      "widthPx": 1076,
+      "heightPx": 812,
+      "authorAttributions": [
+        {
+          "displayName": "香港貓酒店 Hong Kong Cat Hotel",
+          "uri": "https://maps.google.com/maps/contrib/108523174789557264548",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVpiVWBU-I4rgdjsroJO6zx-bkGDj1sm1NlEzxZY2VnrYrTJs=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC-1Ke9LQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-1Ke9LQ!2e10!4m2!3m1!1s0x340407bcfb3467a3:0xcfa495fd67ece47"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:10.424563+00:00"
+}

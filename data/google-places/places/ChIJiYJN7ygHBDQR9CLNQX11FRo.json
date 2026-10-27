@@ -1,0 +1,326 @@
+{
+  "google_place_id": "ChIJiYJN7ygHBDQR9CLNQX11FRo",
+  "restaurant_ids": [
+    "restaurant:2253804356"
+  ],
+  "fetched_at": "2026-10-23T15:43:58.683535+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJiYJN7ygHBDQR9CLNQX11FRo",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3168 1376",
+    "internationalPhoneNumber": "+852 3168 1376",
+    "formattedAddress": "香港九龍老虎岩聯合道198號UG2樓U210, U211及U213號舖",
+    "location": {
+      "latitude": 22.3375113,
+      "longitude": 114.1873012
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=1879537600332374772&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/brand/itamama",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 22:00",
+        "星期二: 07:00 – 22:00",
+        "星期三: 07:00 – 22:00",
+        "星期四: 07:00 – 22:00",
+        "星期五: 07:00 – 22:00",
+        "星期六: 07:00 – 22:00",
+        "星期日: 07:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 84,
+    "displayName": {
+      "text": "Itamama (樂富)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "義大利餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": true,
+    "primaryType": "italian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJiYJN7ygHBDQR9CLNQX11FRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0a1REQlRUR3RwYzJWMGVUWXRSa1JYZVRSNU1XYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "早上落單時間為10:27，送餐時間為11:04. 只是腸仔/餐肉/蛋拼多士！有多難。明顯是漏了單，多次催促才能上枱。炸魚柳可以不用考慮，質量十分之差勁。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "早上落單時間為10:27，送餐時間為11:04. 只是腸仔/餐肉/蛋拼多士！有多難。明顯是漏了單，多次催促才能上枱。炸魚柳可以不用考慮，質量十分之差勁。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fung",
+          "uri": "https://www.google.com/maps/contrib/117085884424682639881/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzVPsYaesrp1m-bXTA6Jqn8G2Zbcph6sMWyOp1KbwfGLCOc5mP9g=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-10-18T03:09:23.540055340Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0a1REQlRUR3RwYzJWMGVUWXRSa1JYZVRSNU1XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0a1REQlRUR3RwYzJWMGVUWXRSa1JYZVRSNU1XYxAB!2m1!1s0x34040728ef4d8289:0x1a15757d41cd22f4"
+      },
+      {
+        "name": "places/ChIJiYJN7ygHBDQR9CLNQX11FRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwVmFrb3RSbkJ2ZFdGV1h6VTJiREF3WlVadlNuYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 1,
+        "text": {
+          "text": "環境乾淨 價錢公道 。56港幣的早餐 味道不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境乾淨 價錢公道 。56港幣的早餐 味道不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Love Ally",
+          "uri": "https://www.google.com/maps/contrib/107897554746835902508/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK8qeN0v79GYcJrFcPVpewF9RWzge0mzpq1ERIhqVbZx1JwjLM=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-13T00:53:51.468010690Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwVmFrb3RSbkJ2ZFdGV1h6VTJiREF3WlVadlNuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwVmFrb3RSbkJ2ZFdGV1h6VTJiREF3WlVadlNuYxAB!2m1!1s0x34040728ef4d8289:0x1a15757d41cd22f4"
+      },
+      {
+        "name": "places/ChIJiYJN7ygHBDQR9CLNQX11FRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1R1VYSllZekkxWTB4b1JsWXpVMmR2VXpBM2FHYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 3,
+        "text": {
+          "text": "出街食想健康啲，補加15蚊食菜，只得六條，少咗啲囉。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "出街食想健康啲，補加15蚊食菜，只得六條，少咗啲囉。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "siu on wong",
+          "uri": "https://www.google.com/maps/contrib/101063286993780006566/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX43P3KUjNgAeVHbqAXnAY3fBWUDnze1qWQBHt1xNBl9HVexBY=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-07T09:20:04.627002970Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1R1VYSllZekkxWTB4b1JsWXpVMmR2VXpBM2FHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1R1VYSllZekkxWTB4b1JsWXpVMmR2VXpBM2FHYxAB!2m1!1s0x34040728ef4d8289:0x1a15757d41cd22f4"
+      },
+      {
+        "name": "places/ChIJiYJN7ygHBDQR9CLNQX11FRo/reviews/ChdDSUhNMG9nS0VJQ0FnSURYcWREdjdRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "Zaza好鍾意食包，mama bakery係其中一間經常惠顧嘅麵包店，事關呢度嘅麵包外觀幾吸引，味道都唔錯；就算隔夜，用焗爐焗返起都好好食\n\n今次買咗$18 5個QQ麻糬波波，全部揀晒黑芝麻味，麻糬波波芝麻香，做到麻糬嗰種軟軟淋淋嘅質感；蒜香草軟法包嘅蒜味好香好濃烈，而且包身脹卜卜，好吸引；香濃車打芝士條嘅芝士味唔算係太香，但非常大條，算幾抵食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Zaza好鍾意食包，mama bakery係其中一間經常惠顧嘅麵包店，事關呢度嘅麵包外觀幾吸引，味道都唔錯；就算隔夜，用焗爐焗返起都好好食\n\n今次買咗$18 5個QQ麻糬波波，全部揀晒黑芝麻味，麻糬波波芝麻香，做到麻糬嗰種軟軟淋淋嘅質感；蒜香草軟法包嘅蒜味好香好濃烈，而且包身脹卜卜，好吸引；香濃車打芝士條嘅芝士味唔算係太香，但非常大條，算幾抵食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "za zaber",
+          "uri": "https://www.google.com/maps/contrib/103634021175591374990/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIwLwsFwZHKOieueeqg0HJBAtS8bUPjt05E1bJWMZC7DnKLeQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-10-29T01:15:37.082400Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYcWREdjdRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYcWREdjdRRRAB!2m1!1s0x34040728ef4d8289:0x1a15757d41cd22f4"
+      },
+      {
+        "name": "places/ChIJiYJN7ygHBDQR9CLNQX11FRo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOenBlcWxnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "經過附近商場見唔錯同屋企人去左試下。肉質都算嫩，唔會過熟，醬汁都ok，茄汁偏酸。煙三文魚飯都ok，但對於唔鍾意食芫茜嘅人黎講就真係唔建議，每一啖都係芫茜味，如果餐牌有備註一下就好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "經過附近商場見唔錯同屋企人去左試下。肉質都算嫩，唔會過熟，醬汁都ok，茄汁偏酸。煙三文魚飯都ok，但對於唔鍾意食芫茜嘅人黎講就真係唔建議，每一啖都係芫茜味，如果餐牌有備註一下就好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "얀-",
+          "uri": "https://www.google.com/maps/contrib/104421449421571711909/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRLStfrcB6hzZQYPFOKrQmzLTyHnfu1JAbUpwO9mlwNoAz8mry=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-01-14T16:00:12.901596Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNOenBlcWxnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNOenBlcWxnRRAB!2m1!1s0x34040728ef4d8289:0x1a15757d41cd22f4"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040728ef4d8289:0x1a15757d41cd22f4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1879537600332374772&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040728ef4d8289:0x1a15757d41cd22f4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040728ef4d8289:0x1a15757d41cd22f4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040728ef4d8289:0x1a15757d41cd22f4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJiYJN7ygHBDQR9CLNQX11FRo/photos/Aa-ngMaChO72iOAfvZZdL1mdgmGDwsXRB7COnNgPNLlDvHzooKyRRNtQp-o6K6GYRQNvetivdYKwRjtZUCht3sqY8aW31hSZO2T8_1LFCFl9ClTrCHeBZAT9liQUaAg3KP1WEkYTB1Kl8GwcbSlAS5r0Dall8-MFdmArQkpEU3dt_QhExyPIv_9jMUm73mo5Ho7kQ_nCdhMK8oVqPP5iUvPsDdDDpdRUB4mpbocM4iS7QlHYTAOIxbOJ61D2jpOEjnxn6MNjm7R-0naYt0rHQihjGJeeALPbUpe7UZF3JLP64DxNM6ruz0fbGeGj2o9Zehl-Ye2JE6_kXtKp6QU3qJQKidV7TAQqaW-RqH9JGHb2lKbB0IW4adC_Up-lRw3XMHt1_qzd_d0GxD6PSoZsW-9l5Hd56aWW_4w",
+      "widthPx": 1920,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "Jack Seto",
+          "uri": "https://maps.google.com/maps/contrib/114000227073151489527",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgrTd56OS4o-T7ASXQYJTgVejXiNsKmYfslR9coOa1MPPgCBIdtg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2n-SunwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2n-SunwE!2e10!4m2!3m1!1s0x34040728ef4d8289:0x1a15757d41cd22f4"
+    },
+    "local_path": "photos/ChIJiYJN7ygHBDQR9CLNQX11FRo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf13BnyfDtsTM7-MrqPOIx6jFl5orwx-awPr7AxAHB1lnqK2Dao3WccEd60DoMoMzaLEj3kUFmLhPZA_Xq15Snu6PH7zMQjS3i51waBUI4F6gEbLfM8tmrlk3NYaHh27Ev1x1bmhw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 145823
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "italian_restaurant",
+    "label": "義大利餐廳",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

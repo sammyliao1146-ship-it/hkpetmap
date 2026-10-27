@@ -1,0 +1,38 @@
+{
+  "id": "ChIJvQSn_6wBBDQR9-ZMMYSLJh4",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Unit B, 5/F, 332-334 Lockhart Rd, Wan Chai, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.2788705,
+    "longitude": 114.17851429999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2172577270131910391&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Pet Villa, Wan Chai",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJvQSn_6wBBDQR9-ZMMYSLJh4/photos/Aa-ngMZw5Dy5MPkRTA4qIoJsFZqR0svcIFAF8OpECiYFiM4mpeoCaZyT1_TzunUedkHj-dxA1SYEobIotx8f5p14JiQtguMEFICBRUbG11Ml0PYvPMOb4YEMP_C2u1kiP_8pHkl4qJgOpa_I6F3oVINQiRozsoS7LlwpYXWfroXqd8QADLnicpYuX1A6kCE1bkv_pWwQ7NQJDI5GDlNl-_lYTekb7yXulvZXMjKw35y0YSzGWplJVhxE_y7EcIQEFOX-8jlGeOraBrcM_4CfiOjyeC1l1ZkXuUPqqRVlB7OI8NKbVoFiHN68RyBgGBnWi-CoyHOnrbIgbgepLpb1aIaEaE7537eshuyzOkLdFTYk003ffY1CH6HVfzZyI9baoXOQNgPn3zbHQchcSygjwmhd-MUgUD_vLdE",
+      "widthPx": 1024,
+      "heightPx": 683,
+      "authorAttributions": [
+        {
+          "displayName": "Pet Villa, Wan Chai",
+          "uri": "https://maps.google.com/maps/contrib/117542979500522570306",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4czKBLYKQ05uSykJMvGUW_rNZz6fib_VWZpT9RWW0lKPjZg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDHqruM7wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHqruM7wE!2e10!4m2!3m1!1s0x340401acffa704bd:0x1e268b84314ce6f7"
+    }
+  ],
+  "photo_count": 5,
+  "fetched_at": "2026-10-24T00:38:19.717866+00:00"
+}

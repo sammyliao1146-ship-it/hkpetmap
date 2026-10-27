@@ -1,0 +1,39 @@
+{
+  "id": "ChIJh8CNKM75AzQRyWZwo09Mlos",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界 元朗, 八鄉, 馬鞍崗442號",
+  "location": {
+    "latitude": 22.4155455,
+    "longitude": 114.0653081
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10058310722706761417&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Dogcation Pet Hotel",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJh8CNKM75AzQRyWZwo09Mlos/photos/Aa-ngMbQmJrvQLVcNLb0gS4StR2pwy5nhGyZOrHIyh4D0Rso40OvWq6e6qQxoRBnc0WaX-9Pw4nDnKtgsYQta0Xge7EngzAyBUpSpx6SLLBYRJVVpJgeGsAZToU1pBOx-ykFSnqm2_x5V_VS-P3KhdBRG1_oPNxoww9GamoqJOkMJgKH4OaWuB8hJZJOTO5YTYuX25YcI2TLrsWHxoQCtpalRjwp3uWnB2xOW7ziNr613kByle4BpJdtjqC3E_HfbQpWgxIKXTCOg7HmVWL6WxU36e4Gllzy640YwET5yWpfucxtJgOnX_IF_DfpQfaLneiGOjqmC4mhJdoyzie2MOK_uPa_80Yf-YvAPvJqZMHvHLQL5iircQxbHCen3ZNoDs3wDLk9YNgFToJ3i3lLk4og-enPqU00K3PhMmCMNB9h5EvYpw",
+      "widthPx": 1145,
+      "heightPx": 644,
+      "authorAttributions": [
+        {
+          "displayName": "Dogcation Pet Hotel",
+          "uri": "https://maps.google.com/maps/contrib/110870320467321653816",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHqzrQ_qRN9Wh3QQPbLhuGteC7nT3IjvSEqsQBdtqeLbSCfS0=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAA7_ir9G12v81bWx7bb_aw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA7_ir9G12v81bWx7bb_aw!2e10!4m2!3m1!1s0x3403f9ce288dc087:0x8b964c4fa37066c9"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:10.070443+00:00"
+}

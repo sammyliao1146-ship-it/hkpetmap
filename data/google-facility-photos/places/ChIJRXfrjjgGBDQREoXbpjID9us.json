@@ -1,0 +1,37 @@
+{
+  "id": "ChIJRXfrjjgGBDQREoXbpjID9us",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界沙田安景街23號",
+  "location": {
+    "latitude": 22.392502,
+    "longitude": 114.20599519999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17002780959266538770&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "安景街公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJRXfrjjgGBDQREoXbpjID9us/photos/Aa-ngMYOiI8VRSzT6GhexCWcKm_ZQIx0MgYaU2LXcz2Lwu9vPy6N3a2iFSOY3fXREOV8hOptHfcHpSS9C_X6g0kvXRvAtt5EqvCcrcFRMU_wy0uOcqtp_n20PRtWDyijFp4bi4qHinX9q-yTIhPSEhdb43ZCPThwPuDtcwLZzWW1oQ1znFX-eWGqtyp62MSMrhLvEXlRWUcnpyKbtV79QyRGvKiyYrkudF1uF0-B_BXTpNztYwf2FIIQszj_JR8Ph1HnfWms29uQC6LbW0LHt-6JqZqyUX9OF7xwf_svhx6mNLBvpgt1K3ib-sVITsyUYzM37i7pdEj2YJiNy3gFfqDdq0x_hlmPHTimtoHyfm_n2BWb-Mz9_YPPJrN18zK9vC011K3yw39XGdSAsELHrQO4ZX7ewD76",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Casey Poon",
+          "uri": "https://maps.google.com/maps/contrib/110489932294254381514",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKPPtTAYixlvJWl6vGoV_5gq2miCRr6hDu2FFZR_uayuC5TBw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDdl66VswE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDdl66VswE!2e10!4m2!3m1!1s0x340406388eeb7745:0xebf60332a6db8512"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:26.665254+00:00"
+}

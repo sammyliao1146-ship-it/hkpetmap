@@ -1,0 +1,320 @@
+{
+  "google_place_id": "ChIJDzWcC-75AzQRrpnafarJfnY",
+  "restaurant_ids": [
+    "restaurant:2292807837"
+  ],
+  "fetched_at": "2026-10-23T15:44:46.997411+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJDzWcC-75AzQRrpnafarJfnY",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3426 2668",
+    "internationalPhoneNumber": "+852 3426 2668",
+    "formattedAddress": "香港新界荃灣白田壩街45號五廠3樓305",
+    "location": {
+      "latitude": 22.3750707,
+      "longitude": 114.1101695
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=8538483677634140590&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 12:00 – 18:00",
+        "星期三: 12:00 – 18:00",
+        "星期四: 12:00 – 18:00",
+        "星期五: 12:00 – 18:00",
+        "星期六: 12:00 – 18:00",
+        "星期日: 12:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 74,
+    "displayName": {
+      "text": "LABELS Coffee Cafe",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJDzWcC-75AzQRrpnafarJfnY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKcVdUUkJjSFF6UzIxc1EzcEtaRWRVY0hrMVYyYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "南豐紗廠甜品Cafe，主打各款雪糕甜品!!更有假日限定軟雪糕系列，酒鬼必試加入酒精既 Espresso Affogato系列!!咖啡及抹茶軟雪糕都係人氣之選，週未到南豐放一放鬆，仲可以試埋!!\n\n- 阿法奇朵 (Espresso Affogato)\n軟滑奶香軟雪糕，配上一小杯濃縮咖啡，香甜甘苦交織，冰與火享受!!\n\n- 天山\n抹茶雪糕茶香突出，加入加日本黑糖漿，甜度剛剛好!!仲有雙色白玉，煙軔不過硬，口感極佳!!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "南豐紗廠甜品Cafe，主打各款雪糕甜品!!更有假日限定軟雪糕系列，酒鬼必試加入酒精既 Espresso Affogato系列!!咖啡及抹茶軟雪糕都係人氣之選，週未到南豐放一放鬆，仲可以試埋!!\n\n- 阿法奇朵 (Espresso Affogato)\n軟滑奶香軟雪糕，配上一小杯濃縮咖啡，香甜甘苦交織，冰與火享受!!\n\n- 天山\n抹茶雪糕茶香突出，加入加日本黑糖漿，甜度剛剛好!!仲有雙色白玉，煙軔不過硬，口感極佳!!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "LO S.M.",
+          "uri": "https://www.google.com/maps/contrib/102631892219406316532/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9CztkDn2ynEBMRFHFjFfzG1xUW0GY8p7yF_b33mp-vGYUwQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-04T10:03:24.783083308Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKcVdUUkJjSFF6UzIxc1EzcEtaRWRVY0hrMVYyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKcVdUUkJjSFF6UzIxc1EzcEtaRWRVY0hrMVYyYxAB!2m1!1s0x3403f9ee0b9c350f:0x767ec9aa7dda99ae"
+      },
+      {
+        "name": "places/ChIJDzWcC-75AzQRrpnafarJfnY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WRmFHMDFjREkyY2xkQ1ZFOHRNMUZYUTBwc2RXYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "今日去了一間可以帶寵物的Cafe。隔離是自家品牌服裝。餐廳環境舒適，還有戶外區。主打\n自家製北海道牛乳軟雪糕。\n\n點了二款雪糕，超好味：\nBaileys Espresso Affogat\n用自家製北海道牛乳軟雪糕配Espresso & Baileys,雪糕香濃軟滑,帶有咖啡同百利甜酒濃香味。口感非常特別，值得一試。\n\n天山：抹茶雪糕配白玉，日本黃豆粉 ，十勝紅豆，日本黑糖漿。抹茶雪糕甘香奶味香濃，白玉丸口感煙靭。\n\n飲品：焦糖布丁咖啡加棉花糖\n打卡推介， 白雲形狀棉花糖， 可以配以任何熱飲，點了焦糖布丁咖啡，香味濃厚。\nSunset Punch 日落:是橙汁，菠蘿汁加草莓果醬配水果。有士多啤梨，藍莓，青提子，菠蘿，橙。所有生果都好生鮮，酸酸甜甜。夏日炎炎很適合飲返杯生果特飲，飲完仲可以成杯生果都食晒。\n\n餐前蕃茄濃湯，酸酸甜甜好開胃。大量蕃茄肉好有口感。\n\n主菜：日本明太子海鮮忌廉意粉，明太子咸香惹味，海鮮豐富，蜆肉甜美。意粉食落真係好creamy ，份量好多，可以開心share。\n\n100%純牛肉雙重芝士竹炭漢堡配蜜糖芥茉醬&蕃茄沙律,辣味薯角\n黑色漢堡超巨大,麵包焗得鬆脆。漢堡扒超厚，肉汁豐富配上蜜糖芥末醬，融化的芝士，蕃茄，生菜。薯角香脆，沙律清新。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日去了一間可以帶寵物的Cafe。隔離是自家品牌服裝。餐廳環境舒適，還有戶外區。主打\n自家製北海道牛乳軟雪糕。\n\n點了二款雪糕，超好味：\nBaileys Espresso Affogat\n用自家製北海道牛乳軟雪糕配Espresso & Baileys,雪糕香濃軟滑,帶有咖啡同百利甜酒濃香味。口感非常特別，值得一試。\n\n天山：抹茶雪糕配白玉，日本黃豆粉 ，十勝紅豆，日本黑糖漿。抹茶雪糕甘香奶味香濃，白玉丸口感煙靭。\n\n飲品：焦糖布丁咖啡加棉花糖\n打卡推介， 白雲形狀棉花糖， 可以配以任何熱飲，點了焦糖布丁咖啡，香味濃厚。\nSunset Punch 日落:是橙汁，菠蘿汁加草莓果醬配水果。有士多啤梨，藍莓，青提子，菠蘿，橙。所有生果都好生鮮，酸酸甜甜。夏日炎炎很適合飲返杯生果特飲，飲完仲可以成杯生果都食晒。\n\n餐前蕃茄濃湯，酸酸甜甜好開胃。大量蕃茄肉好有口感。\n\n主菜：日本明太子海鮮忌廉意粉，明太子咸香惹味，海鮮豐富，蜆肉甜美。意粉食落真係好creamy ，份量好多，可以開心share。\n\n100%純牛肉雙重芝士竹炭漢堡配蜜糖芥茉醬&蕃茄沙律,辣味薯角\n黑色漢堡超巨大,麵包焗得鬆脆。漢堡扒超厚，肉汁豐富配上蜜糖芥末醬，融化的芝士，蕃茄，生菜。薯角香脆，沙律清新。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "winnie lam",
+          "uri": "https://www.google.com/maps/contrib/110898283175259264350/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVd3QoH3G_Cjl86Hn2yDty-TpvHDr2iZaB5wulDHwdRuQJ5RxsV=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-09-16T23:56:22.517108795Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WRmFHMDFjREkyY2xkQ1ZFOHRNMUZYUTBwc2RXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WRmFHMDFjREkyY2xkQ1ZFOHRNMUZYUTBwc2RXYxAB!2m1!1s0x3403f9ee0b9c350f:0x767ec9aa7dda99ae"
+      },
+      {
+        "name": "places/ChIJDzWcC-75AzQRrpnafarJfnY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQenV5ZGNREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "【Labels冰室】位於南豐紗廠 3樓的角落，有室內外位置，裝修以黑白色為主，風格簡潔型格；而且還可以帶毛孩🐶🐱一起用餐！\n\n看到Meun有Tea Set，毋庸置疑，必選😆當初還以為會不飽肚，結果份量十足🤭🤭\n\n✨《LABELS High Tea Set》\n🍴第一層：甜點\n— 流心葡撻\n口感軟滑，甜而不膩\n— 迷你西多士\n鬆鬆軟軟，配上花生醬，咸香惹味\n— 迷你烤棉花糖布朗尼\n朱古力味濃郁，襯上棉花糖，一口一件，口感豐富\n— 士多啤梨啫喱杯\n用上士多啤梨切片來裝飾；啫喱酸酸甜甜，非常醒胃\n\n🍴第二層：鹹點\n— 迷你漢堡\n漢堡厚身，由牛肉、豬肉混合而成，且充滿洋蔥香氣\n— 迷你芝士火腿烘多士\n多士脆身，配上濃郁的芝士，十分惹味\n— 炸薯條\n竟然是配糖漿，但出奇地搭配\n— 蜜糖雞翼2隻\n香香甜甜、皮脆肉嫩\n\n飲品：龍眼茶(熱)\n\n✨《白雲棉花糖+焦糖燉蛋咖啡》\n非常吸睛的打卡飲品😍棉花糖會因為咖啡的熱氣而慢慢溶化；☕️咖啡上面則有經過火炙而變得脆口的焦糖。整體很搭配，香香甜甜😌\n\n✨《特濃咖啡配牛奶軟雪糕》\n雪糕軟滑，且牛奶味香濃🍦；搭配特濃咖啡，雪糕沒有即刻溶掉，反而冰火交融，苦甜平衡",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "【Labels冰室】位於南豐紗廠 3樓的角落，有室內外位置，裝修以黑白色為主，風格簡潔型格；而且還可以帶毛孩🐶🐱一起用餐！\n\n看到Meun有Tea Set，毋庸置疑，必選😆當初還以為會不飽肚，結果份量十足🤭🤭\n\n✨《LABELS High Tea Set》\n🍴第一層：甜點\n— 流心葡撻\n口感軟滑，甜而不膩\n— 迷你西多士\n鬆鬆軟軟，配上花生醬，咸香惹味\n— 迷你烤棉花糖布朗尼\n朱古力味濃郁，襯上棉花糖，一口一件，口感豐富\n— 士多啤梨啫喱杯\n用上士多啤梨切片來裝飾；啫喱酸酸甜甜，非常醒胃\n\n🍴第二層：鹹點\n— 迷你漢堡\n漢堡厚身，由牛肉、豬肉混合而成，且充滿洋蔥香氣\n— 迷你芝士火腿烘多士\n多士脆身，配上濃郁的芝士，十分惹味\n— 炸薯條\n竟然是配糖漿，但出奇地搭配\n— 蜜糖雞翼2隻\n香香甜甜、皮脆肉嫩\n\n飲品：龍眼茶(熱)\n\n✨《白雲棉花糖+焦糖燉蛋咖啡》\n非常吸睛的打卡飲品😍棉花糖會因為咖啡的熱氣而慢慢溶化；☕️咖啡上面則有經過火炙而變得脆口的焦糖。整體很搭配，香香甜甜😌\n\n✨《特濃咖啡配牛奶軟雪糕》\n雪糕軟滑，且牛奶味香濃🍦；搭配特濃咖啡，雪糕沒有即刻溶掉，反而冰火交融，苦甜平衡",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Shely Wong",
+          "uri": "https://www.google.com/maps/contrib/110621178130059995284/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtWZzupzDCb-qJBxkFAysjb2Dgai3eUYCtHvdC83QmfwsaBT3P=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-11-24T11:58:00.706332Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQenV5ZGNREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQenV5ZGNREAE!2m1!1s0x3403f9ee0b9c350f:0x767ec9aa7dda99ae"
+      },
+      {
+        "name": "places/ChIJDzWcC-75AzQRrpnafarJfnY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2aHZMM2FREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "𝑳𝑨𝑩𝑬𝑳𝑺 𝑯𝒊𝒈𝒉 𝑻𝒆𝒂 𝑺𝒆𝒕\n\n（$158 𝘧𝘰𝘳 𝘰𝘯𝘦 $298 𝘧𝘰𝘳 𝘵𝘸𝘰）\n(𝘐𝘯𝘤𝘭𝘶𝘥𝘦𝘥 𝘰𝘯𝘦 𝘤𝘰𝘧𝘧𝘦𝘦 / 𝘵𝘦𝘢 / 𝘴𝘦𝘵 𝘥𝘳𝘪𝘯𝘬\n+$30 𝘶𝘱𝘨𝘳𝘢𝘥𝘦 𝘵𝘰 𝘢 𝘨𝘭𝘢𝘴𝘴 𝘰𝘧 𝘚𝘱𝘢𝘳𝘬𝘭𝘪𝘯𝘨 𝘸𝘪𝘯𝘦)\n\n食Hightea 通常西式，帶有香港本土風情/味道絕對令人期待\n\n甜點\n* 流心葡撻\n* 迷你西多士\n* 迷你烤棉花糖布朗尼\n* 士多啤梨啫喱杯\n\n鹹點\n* 迷你漢堡\n* 迷你芝士火腿烘多士\n* 炸薯條\n* 蜜糖雞翼\n\n白雲棉花糖+焦糖燉蛋咖啡\n呢款飲品係單點好絕對值得一試！非常吸睛打卡飲品，可以揀白色/灰色棉花糖\n\n抹茶拿鐵\n\n特濃咖啡配牛奶軟雪糕\n超有驚喜嘅甜品，軟雪糕超軟滑冇冰粒，牛奶味香濃",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "𝑳𝑨𝑩𝑬𝑳𝑺 𝑯𝒊𝒈𝒉 𝑻𝒆𝒂 𝑺𝒆𝒕\n\n（$158 𝘧𝘰𝘳 𝘰𝘯𝘦 $298 𝘧𝘰𝘳 𝘵𝘸𝘰）\n(𝘐𝘯𝘤𝘭𝘶𝘥𝘦𝘥 𝘰𝘯𝘦 𝘤𝘰𝘧𝘧𝘦𝘦 / 𝘵𝘦𝘢 / 𝘴𝘦𝘵 𝘥𝘳𝘪𝘯𝘬\n+$30 𝘶𝘱𝘨𝘳𝘢𝘥𝘦 𝘵𝘰 𝘢 𝘨𝘭𝘢𝘴𝘴 𝘰𝘧 𝘚𝘱𝘢𝘳𝘬𝘭𝘪𝘯𝘨 𝘸𝘪𝘯𝘦)\n\n食Hightea 通常西式，帶有香港本土風情/味道絕對令人期待\n\n甜點\n* 流心葡撻\n* 迷你西多士\n* 迷你烤棉花糖布朗尼\n* 士多啤梨啫喱杯\n\n鹹點\n* 迷你漢堡\n* 迷你芝士火腿烘多士\n* 炸薯條\n* 蜜糖雞翼\n\n白雲棉花糖+焦糖燉蛋咖啡\n呢款飲品係單點好絕對值得一試！非常吸睛打卡飲品，可以揀白色/灰色棉花糖\n\n抹茶拿鐵\n\n特濃咖啡配牛奶軟雪糕\n超有驚喜嘅甜品，軟雪糕超軟滑冇冰粒，牛奶味香濃",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Twins Foodie Diary",
+          "uri": "https://www.google.com/maps/contrib/100262804505792239405/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW36_4sUDYUJVq1kUf-Qa0aTq1HjcIOwnJcXG474F9Lo4HfAOzP=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-12-10T11:20:01.544694Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2aHZMM2FREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2aHZMM2FREAE!2m1!1s0x3403f9ee0b9c350f:0x767ec9aa7dda99ae"
+      },
+      {
+        "name": "places/ChIJDzWcC-75AzQRrpnafarJfnY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2amV1MkpREAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "南豐紗廠一向係文青朝聖地，估唔到都有好多好野食！今日趁假期去南豐紗廠行完街就順便食埋野。去左一間叫 Labels Cafe + Bar嘅餐廳試下。\n\n❤️先來碟柚子醋沙律。\n有沙律菜同蕃茄仔。落左d油令沙律食起黎冇咁乾。加左柚子醋嘅沙律食落酸酸地好開胃。沙律菜好爽脆，夠曬新鮮！\n\n❤️菠菜芝士意大利雲吞\n雲吞入面嘅芝士餡勁香勁濃郁😻芝士迷必嗌！雲吞皮薄得黎有口感而且唔易穿。加上茄汁平衡番芝士嘅味道唔會太漏。\n\n❤️龍蝦汁鳳梨蝦闊麵\n一上枱已經聞到好香嘅蝦味。食食下咬到黑胡椒，添上微辣。除左大大隻嘅蝦之外，重有一片片蘑菇。蝦漲卜卜，蝦肉唔會霉，夠新鮮，唔會有雪藏味。\n\n同朋友各嗌左「薑味梳打配雜果冰」同「熱情果伯爵茶配雜果冰」。\n\n❤️熱情果伯爵茶配雜果冰\n伯爵茶嘅茶香同熱情果嘅果香完美融合～🥰係理想嘅味道👍🏻。最特別係佢將士多啤梨放入冰入面！😍有唔同種類嘅水果，水果份量多。\n\n❤️焦糖脆燉蛋超大份！😱同朋友兩份食都好飽🙈，下次一定要留肚慢慢歎先得。燉蛋夠曬熱，蛋又香又滑。焦糖甜脆。雲呢拿雪糕夠晒大，一啖雪糕一啖燉蛋，冰火交融嘅感覺真係棒棒der！😻整體唔會太甜甜到有漏嘅感覺👍🏻。\n\n❤️脆皮榛子朱古力球有塊葉片形嘅朱古力放喺朱古力球上。「葉」上重有金箔，成件事好grand～😍無論外型同味道都同金莎差唔多。外層脆皮上有nuts。外脆內軟。朱古力球中間係榛子醬。整體朱古力味濃。 鍾意朱古力嘅朋友必嗌！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "南豐紗廠一向係文青朝聖地，估唔到都有好多好野食！今日趁假期去南豐紗廠行完街就順便食埋野。去左一間叫 Labels Cafe + Bar嘅餐廳試下。\n\n❤️先來碟柚子醋沙律。\n有沙律菜同蕃茄仔。落左d油令沙律食起黎冇咁乾。加左柚子醋嘅沙律食落酸酸地好開胃。沙律菜好爽脆，夠曬新鮮！\n\n❤️菠菜芝士意大利雲吞\n雲吞入面嘅芝士餡勁香勁濃郁😻芝士迷必嗌！雲吞皮薄得黎有口感而且唔易穿。加上茄汁平衡番芝士嘅味道唔會太漏。\n\n❤️龍蝦汁鳳梨蝦闊麵\n一上枱已經聞到好香嘅蝦味。食食下咬到黑胡椒，添上微辣。除左大大隻嘅蝦之外，重有一片片蘑菇。蝦漲卜卜，蝦肉唔會霉，夠新鮮，唔會有雪藏味。\n\n同朋友各嗌左「薑味梳打配雜果冰」同「熱情果伯爵茶配雜果冰」。\n\n❤️熱情果伯爵茶配雜果冰\n伯爵茶嘅茶香同熱情果嘅果香完美融合～🥰係理想嘅味道👍🏻。最特別係佢將士多啤梨放入冰入面！😍有唔同種類嘅水果，水果份量多。\n\n❤️焦糖脆燉蛋超大份！😱同朋友兩份食都好飽🙈，下次一定要留肚慢慢歎先得。燉蛋夠曬熱，蛋又香又滑。焦糖甜脆。雲呢拿雪糕夠晒大，一啖雪糕一啖燉蛋，冰火交融嘅感覺真係棒棒der！😻整體唔會太甜甜到有漏嘅感覺👍🏻。\n\n❤️脆皮榛子朱古力球有塊葉片形嘅朱古力放喺朱古力球上。「葉」上重有金箔，成件事好grand～😍無論外型同味道都同金莎差唔多。外層脆皮上有nuts。外脆內軟。朱古力球中間係榛子醬。整體朱古力味濃。 鍾意朱古力嘅朋友必嗌！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cute B",
+          "uri": "https://www.google.com/maps/contrib/113045639718724115367/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAJgWZRIU2q4Fw0lMeOHSZD0MUWPRiNntAIAIDW9nlmIY1_uaFkw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2021-10-07T11:13:14.663864Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ2amV1MkpREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ2amV1MkpREAE!2m1!1s0x3403f9ee0b9c350f:0x767ec9aa7dda99ae"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f9ee0b9c350f:0x767ec9aa7dda99ae!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8538483677634140590&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9ee0b9c350f:0x767ec9aa7dda99ae!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f9ee0b9c350f:0x767ec9aa7dda99ae!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9ee0b9c350f:0x767ec9aa7dda99ae!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJDzWcC-75AzQRrpnafarJfnY/photos/Aa-ngMYhbMnwVenCDzE_gUkzdyVpkA9m1C2xreNC7ZTD1uaZHNgemOiWVdSd7yl_P68I-3Ge_aOIzZnSXHbLbqlgEM8ys9A9bZOJm3O8yYkQlmLHgILHAP0yLVIshLB7qjx_zhY4EVG2-M58OiOGx4y6-zvy2isQ3d3Als-89m1tTdj1Uw38nLMpkOiP893i07ic8smiYrQ5kkHkVdlE_JfD7CGD4Q-p7UdMtQGhTq2BiDywFe1gMWCFveQxdu3lx2onwKiSNo9pNns6XoVafqN837E2FfVAHae-o52VEUKvcINhm8Db5o-X30Xw4BuHjRXzfU4WaeR4dpVMXplW3wfVL6kco-OmMw2qYP1i9xwQlDl1vO2_qIDgUjNGpnq5H3xZiiawyYsEod06hchA3O6ibtSo2vcx",
+      "widthPx": 1080,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "LABELS Coffee Cafe + Bar",
+          "uri": "https://maps.google.com/maps/contrib/114832556048647272997",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ2vefVjiqpsvjpALuSVm8k5xrULRbj04CtLxrR81A4nO5bqQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8k7PS4wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8k7PS4wE!2e10!4m2!3m1!1s0x3403f9ee0b9c350f:0x767ec9aa7dda99ae"
+    },
+    "local_path": "photos/ChIJDzWcC-75AzQRrpnafarJfnY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2LSUTB1lJcg43Eq6_O7ArztpP8HhVVZKWVvs1pWrwb4AGHpblFPcD7nnTM9MK9A6pBN7r1DG8FM2DcQ6CSA4m5uFtFGd5ZFmOOPVPG7HL0ATcH7UDhF7LsEY61uZvWARdvUUD=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 214988
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

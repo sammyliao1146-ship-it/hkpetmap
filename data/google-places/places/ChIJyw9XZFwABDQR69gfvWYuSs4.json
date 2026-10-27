@@ -1,0 +1,316 @@
+{
+  "google_place_id": "ChIJyw9XZFwABDQR69gfvWYuSs4",
+  "restaurant_ids": [
+    "restaurant:2212817029"
+  ],
+  "fetched_at": "2026-10-23T15:46:31.694520+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJyw9XZFwABDQR69gfvWYuSs4",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2506 3101",
+    "internationalPhoneNumber": "+852 2506 3101",
+    "formattedAddress": "香港香港島地下安安大樓灣仔駱克道125號",
+    "location": {
+      "latitude": 22.2782868,
+      "longitude": 114.1727177
+    },
+    "rating": 3.2,
+    "googleMapsUri": "https://maps.google.com/?cid=14864744538884266219&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:30 – 20:00",
+        "星期二: 06:30 – 20:00",
+        "星期三: 06:30 – 20:00",
+        "星期四: 06:30 – 20:00",
+        "星期五: 06:30 – 20:00",
+        "星期六: 07:00 – 18:00",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 416,
+    "displayName": {
+      "text": "8號冰室",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJyw9XZFwABDQR69gfvWYuSs4/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WWFVRjNUMDAzTjJWNlIyOHphbTlxWlVoYU4zYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 3,
+        "text": {
+          "text": "8號冰室（No. 8 Cafe） 是一家位於香港灣仔的傳統港式茶餐廳，鄰近駱克道。店內提供常見的港式早餐、常餐、下午茶與粉麵，包含西多士、蛋撻、菠蘿包、雞扒公仔麵以及港式奶茶。今天中午叫了一個8號芝士煎蛋菠蘿油、熱奶茶、咖喱牛腩飯、黑椒豬扒蛋意粉。三人吃得飽飽的十分愉快，埋單216元，下次再來。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "8號冰室（No. 8 Cafe） 是一家位於香港灣仔的傳統港式茶餐廳，鄰近駱克道。店內提供常見的港式早餐、常餐、下午茶與粉麵，包含西多士、蛋撻、菠蘿包、雞扒公仔麵以及港式奶茶。今天中午叫了一個8號芝士煎蛋菠蘿油、熱奶茶、咖喱牛腩飯、黑椒豬扒蛋意粉。三人吃得飽飽的十分愉快，埋單216元，下次再來。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "David Tsou",
+          "uri": "https://www.google.com/maps/contrib/107403006206161784654/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWI8QwMtS6eo7Wf-BlwC0f7mxNWbIZIuGR9kUHwpXLByAfkxlw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-31T10:16:40.332530753Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205WWFVRjNUMDAzTjJWNlIyOHphbTlxWlVoYU4zYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205WWFVRjNUMDAzTjJWNlIyOHphbTlxWlVoYU4zYxAB!2m1!1s0x3404005c64570fcb:0xce4a2e66bd1fd8eb"
+      },
+      {
+        "name": "places/ChIJyw9XZFwABDQR69gfvWYuSs4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ObVIwcHVTVGxNZUdsVk5HRkNRbTVoU0dGTlpVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "8號黃金西多士好好吃啊！ 揚州炒飯也很有鍋氣！ 附贈飲料加3元變成冰的，好喝！\n店裏的服務人員都很熱情的招呼。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "8號黃金西多士好好吃啊！ 揚州炒飯也很有鍋氣！ 附贈飲料加3元變成冰的，好喝！\n店裏的服務人員都很熱情的招呼。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Geri Wen",
+          "uri": "https://www.google.com/maps/contrib/105287213493081431339/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ9mJ8I6cg1DFVZ8R9-1hAIbENDtNJkxeXINuokTUsTcaeD_w=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-13T07:35:17.259915539Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ObVIwcHVTVGxNZUdsVk5HRkNRbTVoU0dGTlpVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ObVIwcHVTVGxNZUdsVk5HRkNRbTVoU0dGTlpVRRAB!2m1!1s0x3404005c64570fcb:0xce4a2e66bd1fd8eb"
+      },
+      {
+        "name": "places/ChIJyw9XZFwABDQR69gfvWYuSs4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKSFYwSkZlVFYwWVRsWlFuZFdNV2RNUTFaT1NHYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 2,
+        "text": {
+          "text": "點了一份西多士十分奇怪，沒有詢問客人需要煉奶還是糖漿。直接倒了煉奶，詢問下原來也有糖漿的。應該給客人選擇需要煉奶還是糖漿。不是繁忙時間，也安排二人，坐位需要打對坐，當有一位客人進來時，也安排在一起十分逼夾，下午茶時間不繁忙，還有很多空枱，為什麼要這樣呢？ 坐得不舒服，也要求每一個都需要點餐或單點一杯飲品。服務員態度也不是太有善。不會再到上址進食。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "點了一份西多士十分奇怪，沒有詢問客人需要煉奶還是糖漿。直接倒了煉奶，詢問下原來也有糖漿的。應該給客人選擇需要煉奶還是糖漿。不是繁忙時間，也安排二人，坐位需要打對坐，當有一位客人進來時，也安排在一起十分逼夾，下午茶時間不繁忙，還有很多空枱，為什麼要這樣呢？ 坐得不舒服，也要求每一個都需要點餐或單點一杯飲品。服務員態度也不是太有善。不會再到上址進食。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hyo LAM",
+          "uri": "https://www.google.com/maps/contrib/116850135570835679755/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJdgmfeRwwAIHMByzlBqbkYtFewk3csuA3CRzzDoxtvVxxzNw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-16T05:44:20.382266885Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKSFYwSkZlVFYwWVRsWlFuZFdNV2RNUTFaT1NHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKSFYwSkZlVFYwWVRsWlFuZFdNV2RNUTFaT1NHYxAB!2m1!1s0x3404005c64570fcb:0xce4a2e66bd1fd8eb"
+      },
+      {
+        "name": "places/ChIJyw9XZFwABDQR69gfvWYuSs4/reviews/Ci9DQUlRQUNvZENodHljRjlvT205aVlURm9VVGN0VGxWRGJucEtaemR3VDJkM01FRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 2,
+        "text": {
+          "text": "外送⋯餐點清淡沒味道！不如吃泡麵划算",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "外送⋯餐點清淡沒味道！不如吃泡麵划算",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "韓泰莉（Alice）",
+          "uri": "https://www.google.com/maps/contrib/101649126779068601773/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRgviBelf7fIIfXlGpU4DMx3z8iBmAfr5E3sfH9XqvLRlAgCa8-g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-01-06T08:21:30.863211247Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205aVlURm9VVGN0VGxWRGJucEtaemR3VDJkM01FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205aVlURm9VVGN0VGxWRGJucEtaemR3VDJkM01FRRAB!2m1!1s0x3404005c64570fcb:0xce4a2e66bd1fd8eb"
+      },
+      {
+        "name": "places/ChIJyw9XZFwABDQR69gfvWYuSs4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvd2ItYUZREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "豉油皇雞柳炒麵味道一般，唔係好多雞柳好似淨係食緊炒麵咁，黑椒蜜糖豬扒飯味道就唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "豉油皇雞柳炒麵味道一般，唔係好多雞柳好似淨係食緊炒麵咁，黑椒蜜糖豬扒飯味道就唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wilson Wong",
+          "uri": "https://www.google.com/maps/contrib/101105865559032936742/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf9eCTktF4UJiqZeFFiV3ERSM9BazFHFmhFvMrMaQH8TE2rvx3iw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-04-17T14:29:20.741532Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvd2ItYUZREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvd2ItYUZREAE!2m1!1s0x3404005c64570fcb:0xce4a2e66bd1fd8eb"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": false,
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404005c64570fcb:0xce4a2e66bd1fd8eb!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14864744538884266219&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005c64570fcb:0xce4a2e66bd1fd8eb!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404005c64570fcb:0xce4a2e66bd1fd8eb!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005c64570fcb:0xce4a2e66bd1fd8eb!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJyw9XZFwABDQR69gfvWYuSs4/photos/Aa-ngMbvk2-D4J8VKSG-iqNNTqQfzj4egQDMPReOx83AOCYX8Axjz4R5UGr_fz_VDzGoiULy_wh92D-V-NGoN3KVII50zBR7CPAiBRUtuX4Zvt-k3KZFKtRB5vGK7thpNSZ0yLJ_9wrurL9_lgFTA_b7-bipjLfxUnlQtpwqw3pVy__xoz3HpWlN6iqgunKW8aUY7jDcArL0GVbs7MMigjpdcVc4QjJir_tcynrdU7obi8i1lNON8mjS2yamCSl_wO5SCcaiWraYp5WWrmSlI84CTw_m66Q9smCBuMN_41RD1XxkKgTrhvbKTAydQbi8BYOyL126KRzoaB2HlgIqgjC81RfWqz39E1q1AmA-AOkRK-Cm5oKXHlW5qwy__uL-CSpBQqyz7kxKy_WYEWcci-nA1xk9cJnowup4raex4Qpvfuya",
+      "widthPx": 4208,
+      "heightPx": 3120,
+      "authorAttributions": [
+        {
+          "displayName": "mili Minecraft",
+          "uri": "https://maps.google.com/maps/contrib/116514496755198022380",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbXnsC7oSH-i5HiiZMJ979kZ793b_Kz3vqKhjeCvGOBuVS4uY=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBzQD2qOA5ndsPQPezK3ZlO&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBzQD2qOA5ndsPQPezK3ZlO!2e10!4m2!3m1!1s0x3404005c64570fcb:0xce4a2e66bd1fd8eb"
+    },
+    "local_path": "photos/ChIJyw9XZFwABDQR69gfvWYuSs4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGHTd8xrKCY3SpdePSvEZxPwk6AcNrxTb-BVl25NO19ZDEPbGUhUWFgdGpsj6_UT0UzFYNy0Gkfd9Mw6haKFNxYg1ZAi5ar2ngPjYRxX1jYQ3ZgjzSBvo4XVSMxwhqiHGPQB6qXgWja-0=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 159068
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

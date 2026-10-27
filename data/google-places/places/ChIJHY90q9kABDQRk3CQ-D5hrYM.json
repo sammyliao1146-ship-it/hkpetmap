@@ -1,0 +1,316 @@
+{
+  "google_place_id": "ChIJHY90q9kABDQRk3CQ-D5hrYM",
+  "restaurant_ids": [
+    "restaurant:3163803211"
+  ],
+  "fetched_at": "2026-10-23T15:38:08.865493+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJHY90q9kABDQRk3CQ-D5hrYM",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "8494 6694",
+    "internationalPhoneNumber": "+852 8494 6694",
+    "formattedAddress": "香港九龍菴由長沙灣道美居中心2座",
+    "location": {
+      "latitude": 22.334531700000003,
+      "longitude": 114.1595998
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=9488346913025585299&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 3,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 03:00",
+        "星期二: 11:00 – 03:00",
+        "星期三: 11:00 – 03:00",
+        "星期四: 11:00 – 03:00",
+        "星期五: 11:00 – 03:00",
+        "星期六: 11:00 – 03:00",
+        "星期日: 休息"
+      ],
+      "nextCloseTime": "2026-10-23T19:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 70,
+    "displayName": {
+      "text": "串皇小食",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "servesVegetarianFood": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJHY90q9kABDQRk3CQ-D5hrYM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrMlRWVkVUWFpVYlU5bVNFOXpWSEZEVDJzMFdIYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "串皇價錢公道，碗仔翅加豬油渣必食推介，豬油渣咬落爽脆又唔肥，味道都很香口，其他串燒樣樣都好食，推介雞心串燒，希望下次再來",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "串皇價錢公道，碗仔翅加豬油渣必食推介，豬油渣咬落爽脆又唔肥，味道都很香口，其他串燒樣樣都好食，推介雞心串燒，希望下次再來",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "mak tony",
+          "uri": "https://www.google.com/maps/contrib/115940665585236066313/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlEBsb9VQ-4XawZwTVJ93RfyZal0wYT_JvOEqRo4NqXw8veaLw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-03T09:05:57.925801610Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xrMlRWVkVUWFpVYlU5bVNFOXpWSEZEVDJzMFdIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrMlRWVkVUWFpVYlU5bVNFOXpWSEZEVDJzMFdIYxAB!2m1!1s0x340400d9ab748f1d:0x83ad613ef8907093"
+      },
+      {
+        "name": "places/ChIJHY90q9kABDQRk3CQ-D5hrYM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvd1lXVnRUalV4T0ZoeE5tZGFlQzFzVDNOeFduYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "這家店絕對是貼地美食的代表！沒有網紅裝修，靠的就是口碑相傳，街坊們下班後都愛來這食串烧和地道小食，人均幾十蚊吃到飽，味道卻驚艷到想私藏！\n\n🍢串燒系列\n蜜汁叉燒串：外層焦脆帶蜜香，蜜糖的甜味和炭火香交融，咬下去肉汁滿溢，越嚼越香\n炭燒豬頸肉：爽口彈牙不油膩，表面微焦帶炭香，撒上椒鹽更過癮，鹽中帶甜，層次豐富\n雞中翼：皮脆肉嫩爆汁！外皮烤得金黃酥脆，內裡雞肉鮮嫩多汁，醃料入味，帶點蒜香和蜜糖香，絕對是必點\n\n生菜魚肉碗仔翅\n魚肉彈牙到像在嘴裡跳舞，碗仔翅濃稠度剛好，加點胡椒粉更惹味\n\n生菜魚肉酸辣蝦麵\n酸辣湯底夠醒胃，魚肉鮮甜，麵條爽滑！\n\n牛腩麵\n大大塊牛腩燉得軟爛不塞牙，陣陣腩汁香！\n\n💬 總結：深水埗掃街必收名單！吃的是人情味+鑊氣，絕對會N刷～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這家店絕對是貼地美食的代表！沒有網紅裝修，靠的就是口碑相傳，街坊們下班後都愛來這食串烧和地道小食，人均幾十蚊吃到飽，味道卻驚艷到想私藏！\n\n🍢串燒系列\n蜜汁叉燒串：外層焦脆帶蜜香，蜜糖的甜味和炭火香交融，咬下去肉汁滿溢，越嚼越香\n炭燒豬頸肉：爽口彈牙不油膩，表面微焦帶炭香，撒上椒鹽更過癮，鹽中帶甜，層次豐富\n雞中翼：皮脆肉嫩爆汁！外皮烤得金黃酥脆，內裡雞肉鮮嫩多汁，醃料入味，帶點蒜香和蜜糖香，絕對是必點\n\n生菜魚肉碗仔翅\n魚肉彈牙到像在嘴裡跳舞，碗仔翅濃稠度剛好，加點胡椒粉更惹味\n\n生菜魚肉酸辣蝦麵\n酸辣湯底夠醒胃，魚肉鮮甜，麵條爽滑！\n\n牛腩麵\n大大塊牛腩燉得軟爛不塞牙，陣陣腩汁香！\n\n💬 總結：深水埗掃街必收名單！吃的是人情味+鑊氣，絕對會N刷～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sunsum9806",
+          "uri": "https://www.google.com/maps/contrib/112119256866209670928/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQSqTTeG7PkXtTki01BIYWhKnyZxmNjGWH9S44kIPXLWO40ko=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-07-11T06:55:10.568954442Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tvd1lXVnRUalV4T0ZoeE5tZGFlQzFzVDNOeFduYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvd1lXVnRUalV4T0ZoeE5tZGFlQzFzVDNOeFduYxAB!2m1!1s0x340400d9ab748f1d:0x83ad613ef8907093"
+      },
+      {
+        "name": "places/ChIJHY90q9kABDQRk3CQ-D5hrYM/reviews/ChZDSUhNMG9nS0VJQ0FnSURWbW95RExBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "原本喺土瓜灣只做外賣嘅串燒小店搬咗嚟長沙灣，而家除咗外賣，仲有得堂食添！呢到嘅串燒係即叫即燒，唔想浪費時間等嘅人可以喺佢哋嘅網站預先落定單，夠哂方便！除咗串燒之外，呢到仲可以食到飯麵同埋其他小食～\n\n燒原條黃立倉💰HK$61\n好少店舖會燒成條魚，魚皮燒到硬硬地鎖住魚肉啲水份，食落鮮嫩，重點係條魚冇乜碎骨，點埋泰式辣汁更加正～\n\n燒原條茄子💰HK$24\n呢度嘅茄子係冇落孜然粉，淨係用咗秘制醬汁、大量蒜蓉同埋蔥花嚟調味已經好香～\n\n燒豆腐皮💰HK$11\n係呢到嘅招牌菜之一，豆腐皮係浸咗滿滿嘅自家製醬汁先再拎去燒嘅，咬落外脆內軟～\n\n燒肥牛金菇卷💰HK$20\n肥牛燒到表面少少脆，裏面嘅金菇爽口～\n\n燒羊架💰HK$38\n係呢到嘅招牌菜之一，好香羊味，食落去啖啖肉，勁juicy～\n\n燒叉燒💰HK$15\n係呢到嘅招牌菜之一，自家醃製嘅叉燒，係其他地方食唔到嘅味道～\n\n燒豬頸肉💰HK$15\n有嚼勁，食落唔會肥唔會漏～\n\n燒豬腩肉💰HK$15\n豬皮燒到好脆，加埋肥瘦均勻嘅肉，點埋芥末醬，味道好過癮～\n\n燒雞心💰HK$15\n每粒雞心中間有啲雞肝隔住，雞心質地厚實加埋粉粉地嘅雞肝，兩種口感夾雜住一齊，別有一番風味～\n\n燒牛脷💰HK$20\n偏厚身，口感好淋唔會韌～\n\n燒牛肋粒💰HK$20\n肥瘦均勻得嚟又彈牙～\n\n燒西蘭花💰HK$10\n沾上薄薄嘅辣粉同埋孜然粉，口感爽脆，食到停唔到口～\n\n燒秋葵💰HK$10\n燒完之後冇咗果種滑潺潺的感覺～\n\n燒尖椒💰HK$10\n新鮮爽脆～\n\n油渣麵💰HK$24\n呢到嘅豬油渣係軟身果隻，麵就用咗口感彈牙嘅上海粗麵～\n\n總結係喺呢間充滿人情味嘅小店用親民嘅價錢就可以食到美味串燒，性價比超高，係長沙灣區宵夜嘅好選擇👍🏻 唔怪之得老闆話佢哋啲串燒唔係中式亦都唔係川式，深深感受到呢到老闆對味道嘅執着，呢種獨有嘅串燒風味，大概就係老闆口中所講嘅串皇式串燒啦～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "原本喺土瓜灣只做外賣嘅串燒小店搬咗嚟長沙灣，而家除咗外賣，仲有得堂食添！呢到嘅串燒係即叫即燒，唔想浪費時間等嘅人可以喺佢哋嘅網站預先落定單，夠哂方便！除咗串燒之外，呢到仲可以食到飯麵同埋其他小食～\n\n燒原條黃立倉💰HK$61\n好少店舖會燒成條魚，魚皮燒到硬硬地鎖住魚肉啲水份，食落鮮嫩，重點係條魚冇乜碎骨，點埋泰式辣汁更加正～\n\n燒原條茄子💰HK$24\n呢度嘅茄子係冇落孜然粉，淨係用咗秘制醬汁、大量蒜蓉同埋蔥花嚟調味已經好香～\n\n燒豆腐皮💰HK$11\n係呢到嘅招牌菜之一，豆腐皮係浸咗滿滿嘅自家製醬汁先再拎去燒嘅，咬落外脆內軟～\n\n燒肥牛金菇卷💰HK$20\n肥牛燒到表面少少脆，裏面嘅金菇爽口～\n\n燒羊架💰HK$38\n係呢到嘅招牌菜之一，好香羊味，食落去啖啖肉，勁juicy～\n\n燒叉燒💰HK$15\n係呢到嘅招牌菜之一，自家醃製嘅叉燒，係其他地方食唔到嘅味道～\n\n燒豬頸肉💰HK$15\n有嚼勁，食落唔會肥唔會漏～\n\n燒豬腩肉💰HK$15\n豬皮燒到好脆，加埋肥瘦均勻嘅肉，點埋芥末醬，味道好過癮～\n\n燒雞心💰HK$15\n每粒雞心中間有啲雞肝隔住，雞心質地厚實加埋粉粉地嘅雞肝，兩種口感夾雜住一齊，別有一番風味～\n\n燒牛脷💰HK$20\n偏厚身，口感好淋唔會韌～\n\n燒牛肋粒💰HK$20\n肥瘦均勻得嚟又彈牙～\n\n燒西蘭花💰HK$10\n沾上薄薄嘅辣粉同埋孜然粉，口感爽脆，食到停唔到口～\n\n燒秋葵💰HK$10\n燒完之後冇咗果種滑潺潺的感覺～\n\n燒尖椒💰HK$10\n新鮮爽脆～\n\n油渣麵💰HK$24\n呢到嘅豬油渣係軟身果隻，麵就用咗口感彈牙嘅上海粗麵～\n\n總結係喺呢間充滿人情味嘅小店用親民嘅價錢就可以食到美味串燒，性價比超高，係長沙灣區宵夜嘅好選擇👍🏻 唔怪之得老闆話佢哋啲串燒唔係中式亦都唔係川式，深深感受到呢到老闆對味道嘅執着，呢種獨有嘅串燒風味，大概就係老闆口中所講嘅串皇式串燒啦～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nancy Lee",
+          "uri": "https://www.google.com/maps/contrib/111306620878882475344/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfLwZJq8ivr_8bbJnb3Ftl6LGxYYGzw86j014WpqF8caym-A=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2023-12-12T09:54:22.293522Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWbW95RExBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWbW95RExBEAE!2m1!1s0x340400d9ab748f1d:0x83ad613ef8907093"
+      },
+      {
+        "name": "places/ChIJHY90q9kABDQRk3CQ-D5hrYM/reviews/ChdDSUhNMG9nS0VJQ0FnSURkeTlmYS1nRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "放咗工去咗一間長沙灣嘅串燒店🍢\n原來舊舖係喺土瓜灣\n後來舊區重建就搬咗嚟深水埗長沙灣\n舖頭細細 只係坐到大概8至10個人\n但就人情味十足👍🏻\n每個客人都同老闆有講有笑 真係好難得🥹\n除咗串燒佢哋仲有煲仔飯同埋三餸麵\n見到餐牌上嘅價錢 簡直係想嚟個放題🤣\n串燒燒得啱啱好 好惹味 調味唔會太鹹",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "放咗工去咗一間長沙灣嘅串燒店🍢\n原來舊舖係喺土瓜灣\n後來舊區重建就搬咗嚟深水埗長沙灣\n舖頭細細 只係坐到大概8至10個人\n但就人情味十足👍🏻\n每個客人都同老闆有講有笑 真係好難得🥹\n除咗串燒佢哋仲有煲仔飯同埋三餸麵\n見到餐牌上嘅價錢 簡直係想嚟個放題🤣\n串燒燒得啱啱好 好惹味 調味唔會太鹹",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Couple Foodie in HK",
+          "uri": "https://www.google.com/maps/contrib/114343663182982772624/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwgmj-vGOtvZoY2BTVcQ59n_ROoqaSPsDq17mBeOGT__53s6A=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-02-27T08:26:04.204459Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURkeTlmYS1nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURkeTlmYS1nRRAB!2m1!1s0x340400d9ab748f1d:0x83ad613ef8907093"
+      },
+      {
+        "name": "places/ChIJHY90q9kABDQRk3CQ-D5hrYM/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5Zzg2Y3pRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "而家兩個人出街食晚飯，\n要$200食到正嘢又飽肚，真係有難度～\n點知屋企附近開咗間 🌸 串皇 🌸\n#抵食高水準，#回頭率極高⬆️\n店內雖小，提供多款串燒、燒煲仔飯，\n經常 #座無虛席，好多人排隊堂食及買外賣‼️\n.\n🔸🔸🔸🔷🔸🔸🔸🔷🔸🔸🔸🔷\n.\n🍢 #串燒\n近60款選擇，\n可選不同辣度：麻、大、中、小、不\n海鮮可加芝士：+$6\n.\n🦪生蠔 $31/3\n生蠔大大隻，上面鋪蒜蓉同蔥，肥美鮮甜。\n.\n🍢肥牛金菇卷 $20\n肥牛燒出油香，夾住金菇，入口嫩滑多汁。\n.\n🍢牛柳 $20\n肉嫩多汁，灑上滿滿嘅孜然粉，倍感惹味～\n.\n🍢羊肉 $20\n羊肉無羶味，肉質軟嫩，加埋孜然粉，\n辣辣地，好鬼正！\n.\n🥒翠肉瓜 $10\n翠肉瓜燒得香脆，爽口富辣感。\n.\n🐟三文魚頭 $39\n好大個魚頭呀～外皮香脆，肉質鮮甜肥美。\n.\n🔸🔸🔸🔷🔸🔸🔸🔷🔸🔸🔸🔷\n.\n♨️ #燒煲仔飯\n有15款選擇，單拼$50 隨後每款加$10\n另有豉汁白鱔、韮王黃鱔、薑蔥田雞 每款$68\n.\n♨️排骨臘肉燒煲仔飯 $60\n一打開香氣撲鼻，排骨肉嫩多汁、\n臘肉香噴噴，D飯仲有飯焦，瞬間清晒～\n.\n仲有好多款串燒同燒煲仔飯想試，\n一於下星期再去食先🤤",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "而家兩個人出街食晚飯，\n要$200食到正嘢又飽肚，真係有難度～\n點知屋企附近開咗間 🌸 串皇 🌸\n#抵食高水準，#回頭率極高⬆️\n店內雖小，提供多款串燒、燒煲仔飯，\n經常 #座無虛席，好多人排隊堂食及買外賣‼️\n.\n🔸🔸🔸🔷🔸🔸🔸🔷🔸🔸🔸🔷\n.\n🍢 #串燒\n近60款選擇，\n可選不同辣度：麻、大、中、小、不\n海鮮可加芝士：+$6\n.\n🦪生蠔 $31/3\n生蠔大大隻，上面鋪蒜蓉同蔥，肥美鮮甜。\n.\n🍢肥牛金菇卷 $20\n肥牛燒出油香，夾住金菇，入口嫩滑多汁。\n.\n🍢牛柳 $20\n肉嫩多汁，灑上滿滿嘅孜然粉，倍感惹味～\n.\n🍢羊肉 $20\n羊肉無羶味，肉質軟嫩，加埋孜然粉，\n辣辣地，好鬼正！\n.\n🥒翠肉瓜 $10\n翠肉瓜燒得香脆，爽口富辣感。\n.\n🐟三文魚頭 $39\n好大個魚頭呀～外皮香脆，肉質鮮甜肥美。\n.\n🔸🔸🔸🔷🔸🔸🔸🔷🔸🔸🔸🔷\n.\n♨️ #燒煲仔飯\n有15款選擇，單拼$50 隨後每款加$10\n另有豉汁白鱔、韮王黃鱔、薑蔥田雞 每款$68\n.\n♨️排骨臘肉燒煲仔飯 $60\n一打開香氣撲鼻，排骨肉嫩多汁、\n臘肉香噴噴，D飯仲有飯焦，瞬間清晒～\n.\n仲有好多款串燒同燒煲仔飯想試，\n一於下星期再去食先🤤",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Amy Ng",
+          "uri": "https://www.google.com/maps/contrib/115180973220808314702/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqk5eogL85j7FJanmkx6T-bSZUSkXRPxJVCVHzwTNIlfMo3KvS=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-03-20T11:04:01.889251Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5Zzg2Y3pRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5Zzg2Y3pRRRAB!2m1!1s0x340400d9ab748f1d:0x83ad613ef8907093"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "parkingOptions": {
+      "freeParkingLot": false,
+      "paidParkingLot": true,
+      "freeStreetParking": false,
+      "paidStreetParking": true,
+      "valetParking": false,
+      "freeGarageParking": false,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400d9ab748f1d:0x83ad613ef8907093!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9488346913025585299&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400d9ab748f1d:0x83ad613ef8907093!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400d9ab748f1d:0x83ad613ef8907093!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400d9ab748f1d:0x83ad613ef8907093!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJHY90q9kABDQRk3CQ-D5hrYM/photos/Aa-ngMY8a4_U25DoPumiGvFrtokgGROvQmUE79iqEV_s1RHLIpcIOv7TDeVOTcjTjCgtvaniuCNxib9IIdiMNL7nWUNUR781_1cvYOeI3e3CeQSgfBJK7tWBvD7NChzYJppo-Dc7KdYKSNGPou9VrTIm9L-DK5ZDPPZ7SyMk-jYwm1uTAUh_s83isGnLAg3zXddJB775Q4xugSFjDvJdni3FgjLq1peBBfr3_UFbadOQnK2sy-lzU-psqnXcGiDFeS_mdcIbSuS-YayZxZWZafHz-Z4EmgV9I4EqQaxKl4uKdZOCr_19S7eNasOYThb-FEgDp1w8OU8dKNX0OaW-IUo-fpQHCyDj5gPOVk_SIRG_ydVGm4auX31HiecMhAmh9NIL7KILNMuJr1EiECYPrSsB-7DgbsTPLtU",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Jasmine Lam",
+          "uri": "https://maps.google.com/maps/contrib/108790901740525668983",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL67cgcc7ehory4JkTgDbxEUaKygi7NbihZeDJYezM7c0dwcQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC9pZb-1AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9pZb-1AE!2e10!4m2!3m1!1s0x340400d9ab748f1d:0x83ad613ef8907093"
+    },
+    "local_path": "photos/ChIJHY90q9kABDQRk3CQ-D5hrYM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmVOgiV0ajgkw5Zj_7F8pl5X9LJW7mOAECQmJIMdpT42TyZ7VF3l6n5_zQIHYPR6cVWvHvg2YqMT1v0HxyrHfYwp4Ca8svqhYfoB1OnuzZ3VMcASQdQImMkiUn3IyZRQtuXcDyTQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 289154
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,382 @@
+{
+  "google_place_id": "ChIJSY35LrIJBDQRmR3jWXOJa0s",
+  "restaurant_ids": [
+    "restaurant:2295001652"
+  ],
+  "fetched_at": "2026-10-23T15:48:30.638118+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJSY35LrIJBDQRmR3jWXOJa0s",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9463 5278",
+    "internationalPhoneNumber": "+852 9463 5278",
+    "formattedAddress": "大尾督龍尾村19A號, Tai Mei Tuk Tsuen, New Territories, 香港",
+    "location": {
+      "latitude": 22.4728718,
+      "longitude": 114.23156619999999
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=5434588503874936217&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://instagram.com/thelungcuisine?igshid=YmMyMTA2M2Y=",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 14:30, 18:00 – 23:00",
+        "星期二: 12:00 – 14:30, 18:00 – 23:00",
+        "星期三: 休息",
+        "星期四: 12:00 – 14:30, 18:00 – 23:00",
+        "星期五: 12:00 – 14:30, 18:00 – 23:00",
+        "星期六: 12:00 – 14:30, 18:00 – 23:00",
+        "星期日: 12:00 – 14:30, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 36,
+    "displayName": {
+      "text": "龍尾軒",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "廣東菜餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "cantonese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJSY35LrIJBDQRmR3jWXOJa0s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSc2NFdGlOME5ZTjBnNGIya3lSMHB4VmtSa05WRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 3,
+        "text": {
+          "text": "幾好食，但冇乜驚喜\n賣單每人三佰幾蚊，唔係好值",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "幾好食，但冇乜驚喜\n賣單每人三佰幾蚊，唔係好值",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eugene Wong",
+          "uri": "https://www.google.com/maps/contrib/110761556864163653682/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICilYiPuy5Eh_jeRIjBb7CWwvgBnAX9TayLVk1Rvq6v37ZIw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-26T14:18:44.494532393Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSc2NFdGlOME5ZTjBnNGIya3lSMHB4VmtSa05WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSc2NFdGlOME5ZTjBnNGIya3lSMHB4VmtSa05WRRAB!2m1!1s0x340409b22ef98d49:0x4b6b897359e31d99"
+      },
+      {
+        "name": "places/ChIJSY35LrIJBDQRmR3jWXOJa0s/reviews/ChZDSUhNMG9nS0VJQ0FnTURndkptcFdnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "位於大埔❣︎龍尾軒❣︎係一間專做私房菜嘅粵式餐廳，由前福臨門廚師🧑🏻‍🍳主理，經驗非常豐富，每日以最新鮮食材同山珍海味為大家煮出新鮮菜餚，以中式座園設計😍打卡晚飯聚餐一流👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於大埔❣︎龍尾軒❣︎係一間專做私房菜嘅粵式餐廳，由前福臨門廚師🧑🏻‍🍳主理，經驗非常豐富，每日以最新鮮食材同山珍海味為大家煮出新鮮菜餚，以中式座園設計😍打卡晚飯聚餐一流👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "鍾怡怡",
+          "uri": "https://www.google.com/maps/contrib/100929503215332504910/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5NXFBxiaJ-R_zfQLpYMoTvgORUj1_L041VmvZiJ2TtapYkQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-02-23T08:50:41.807779Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndkptcFdnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndkptcFdnEAE!2m1!1s0x340409b22ef98d49:0x4b6b897359e31d99"
+      },
+      {
+        "name": "places/ChIJSY35LrIJBDQRmR3jWXOJa0s/reviews/ChdDSUhNMG9nS0VJQ0FnSURSaGUyUHpnRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "4月初嗰陣趁住連假入咗大尾篤玩，預先book定位試吓呢間私房菜，睇吓到底openrice嘅零負評係堅定流😆 環境好舒服，可以望住個園境食飯，仲有啲包廂可以打吓卡。可能因為餐廳門口唔太顯眼，午飯時間人流不多比較清靜。\n\n我地4個人嚟食飯，本身訂咗6餸1湯，再額外送咗碟海蜇做前菜、同埋紅豆沙做甜品。整體非常滿意，所有食材都好新鮮，不過因為我地人數唔多，冇試到燒豬同桂花雞係一個遺憾（又想試多啲款又驚住食唔晒😢）。最值得推薦嘅係冰鎮鮑魚、椒鹽鮮魷同埋羊肚菌燉湯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "4月初嗰陣趁住連假入咗大尾篤玩，預先book定位試吓呢間私房菜，睇吓到底openrice嘅零負評係堅定流😆 環境好舒服，可以望住個園境食飯，仲有啲包廂可以打吓卡。可能因為餐廳門口唔太顯眼，午飯時間人流不多比較清靜。\n\n我地4個人嚟食飯，本身訂咗6餸1湯，再額外送咗碟海蜇做前菜、同埋紅豆沙做甜品。整體非常滿意，所有食材都好新鮮，不過因為我地人數唔多，冇試到燒豬同桂花雞係一個遺憾（又想試多啲款又驚住食唔晒😢）。最值得推薦嘅係冰鎮鮑魚、椒鹽鮮魷同埋羊肚菌燉湯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sylvia Ng",
+          "uri": "https://www.google.com/maps/contrib/101281760771536376563/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfhvDybHfGCz0OkyzkOvU2cSOG-ztNFRCyH5UxXBCT2iBbXjVS=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2023-04-29T15:29:56.859366Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSaGUyUHpnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSaGUyUHpnRRAB!2m1!1s0x340409b22ef98d49:0x4b6b897359e31d99"
+      },
+      {
+        "name": "places/ChIJSY35LrIJBDQRmR3jWXOJa0s/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wcGFWcGtXbTkyZUdsVFdIZzRWRVl4WDBRMllVRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "大埔高質私房菜，提前一天預約更好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大埔高質私房菜，提前一天預約更好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "DE SIE MAX MAK",
+          "uri": "https://www.google.com/maps/contrib/116047899385020019035/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbxfMyrDQGy_lmJFddMPg6_Xf8-qtqiw-HCqc-X2SpYS47Vw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-01-03T05:39:59.452603250Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wcGFWcGtXbTkyZUdsVFdIZzRWRVl4WDBRMllVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wcGFWcGtXbTkyZUdsVFdIZzRWRVl4WDBRMllVRRAB!2m1!1s0x340409b22ef98d49:0x4b6b897359e31d99"
+      },
+      {
+        "name": "places/ChIJSY35LrIJBDQRmR3jWXOJa0s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZMllVdzNWRTF2YTJ4UWRHOVVYMFV3ZWxWYWJrRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境好舒服\n食物美味\n服務態度很好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境好舒服\n食物美味\n服務態度很好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Bee Shiu",
+          "uri": "https://www.google.com/maps/contrib/112002609371627708608/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKl-J_-Vgar3xyIJ55vhWC6B2zxOcm4MZpGgb2ulYPFbMCPig=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-03T15:10:18.716580133Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pZMllVdzNWRTF2YTJ4UWRHOVVYMFV3ZWxWYWJrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZMllVdzNWRTF2YTJ4UWRHOVVYMFV3ZWxWYWJrRRAB!2m1!1s0x340409b22ef98d49:0x4b6b897359e31d99"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340409b22ef98d49:0x4b6b897359e31d99!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5434588503874936217&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409b22ef98d49:0x4b6b897359e31d99!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340409b22ef98d49:0x4b6b897359e31d99!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409b22ef98d49:0x4b6b897359e31d99!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJSY35LrIJBDQRmR3jWXOJa0s/photos/Aa-ngMYvNuogmpHNlDefO-8n3RlhPxXJQpbJgsv7v3IOwwV9cGt7g6s4AxT6sTSUVINK2jKdVAyhafq6JkjTUluT6G7iUHUXhlyAaMmxZE5OC_TfDOxpQfFmnyWObxB9gU9lSu8fRmSxcDhgOzGM0PjHFPKmF2oLNstmCLf2GVp7wcok4qCW0GTkYDVjfwPj50qOUxo479Lc-e4GoD3qykH80S0ImJ0CAoUq9rTz8k1iyl0wHgdryl-mKhVvUyy3HcaYNjWw7sCou6Zoj3uIfqcN77E4KNy1MnS-ZRhi_6art-bYzNWTFUAois3IdTHHSo8CuTUiJh0hC3YxYhXAR4eSDOMJO5gkfpHOiiUDjGyXCH5YrwNG8IUTHkbLSf8OawPCksVTNVVoau8s-ukJ40TIzUrIUJE",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Carroll Cheng",
+          "uri": "https://maps.google.com/maps/contrib/111335081905312394340",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUI2jnoN82f32vLvd98_oROdJDt7gmva4KmXNh7mQ7-_BVvj3M_EA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC_8NHiSQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_8NHiSQ!2e10!4m2!3m1!1s0x340409b22ef98d49:0x4b6b897359e31d99"
+    },
+    "local_path": "photos/ChIJSY35LrIJBDQRmR3jWXOJa0s.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLflBzGsqUGcoMUaoqqzW4fcP0JvppVGssqRJgAbbenbghmSJZWOMF74SOaZS104XPYnsJgSUe4DWh9ZaRva1UgPYvObOA2x36BNHUmRscstNBG0sp-6vnu3luwZBGQ2KO9v50gG=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 384425
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cantonese_restaurant",
+    "label": "廣東菜餐廳",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

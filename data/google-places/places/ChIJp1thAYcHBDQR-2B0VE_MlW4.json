@@ -1,0 +1,412 @@
+{
+  "google_place_id": "ChIJp1thAYcHBDQR-2B0VE_MlW4",
+  "restaurant_ids": [
+    "restaurant:3163802838"
+  ],
+  "fetched_at": "2026-10-23T15:49:22.376899+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJp1thAYcHBDQR-2B0VE_MlW4",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9179 8652",
+    "internationalPhoneNumber": "+852 9179 8652",
+    "formattedAddress": "香港九龍長沙灣福榮街538號喜遇地下2號舖",
+    "location": {
+      "latitude": 22.3394943,
+      "longitude": 114.15326979999999
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=7968499756793356539&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 16:00, 18:00 – 22:00",
+        "星期二: 12:00 – 16:00, 18:00 – 22:00",
+        "星期三: 12:00 – 16:00, 18:00 – 22:00",
+        "星期四: 12:00 – 16:00, 18:00 – 22:00",
+        "星期五: 12:00 – 16:00, 18:00 – 22:00",
+        "星期六: 12:00 – 16:00, 18:00 – 22:00",
+        "星期日: 12:00 – 16:00, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 766,
+    "displayName": {
+      "text": "洋食商店（長沙灣）",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJp1thAYcHBDQR-2B0VE_MlW4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5elRsVnNZM1JLV1VaQlIyTlFURWhqWDFSR2JVRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "【 洋食商店令人回味無窮 】\n\n🎏終於食到長沙灣的「洋食商店」喇！好欣賞佢哋充滿日本風格嘅裝修，有好多唔同的商店招牌，彷彿置身係日本嘅商店街一樣，好有特色呀！\n\n🍡「洋食商店」係一間日式西餐館，我哋點了一份2人套餐，有壽喜燒、關東煮、2款小食同壽喜燒粟米濃湯燉飯，性價比高。\n\n🥩澳洲M9和牛西冷＆美國頂級牛頸脊套餐\n店員會幫忙煮，可以解放雙手，好好享受。先用牛油起鍋，2款牛肉都燒到勁好味，好重肉味，沾滿生蛋一齊食，勁滿足呀！\n\n🍚最後仲有壽喜燒粟米濃湯燉飯，每口都充滿香濃的粟米味。🍥關東煮材料豐富，有白蘿蔔、魚板、蒟蒻等，好清甜美味。\n\n🥟小食有外皮酥脆多肉汁的鷄皮餃子，口感層次豐富。也有椒鹽日本魷魚鬚，脆卜卜好好味。最後飲番杯 青檸梳打和青提荔枝蘆薈烏龍 ，烏龍茶底配搭香甜的青提荔枝，好清新解渴。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "【 洋食商店令人回味無窮 】\n\n🎏終於食到長沙灣的「洋食商店」喇！好欣賞佢哋充滿日本風格嘅裝修，有好多唔同的商店招牌，彷彿置身係日本嘅商店街一樣，好有特色呀！\n\n🍡「洋食商店」係一間日式西餐館，我哋點了一份2人套餐，有壽喜燒、關東煮、2款小食同壽喜燒粟米濃湯燉飯，性價比高。\n\n🥩澳洲M9和牛西冷＆美國頂級牛頸脊套餐\n店員會幫忙煮，可以解放雙手，好好享受。先用牛油起鍋，2款牛肉都燒到勁好味，好重肉味，沾滿生蛋一齊食，勁滿足呀！\n\n🍚最後仲有壽喜燒粟米濃湯燉飯，每口都充滿香濃的粟米味。🍥關東煮材料豐富，有白蘿蔔、魚板、蒟蒻等，好清甜美味。\n\n🥟小食有外皮酥脆多肉汁的鷄皮餃子，口感層次豐富。也有椒鹽日本魷魚鬚，脆卜卜好好味。最後飲番杯 青檸梳打和青提荔枝蘆薈烏龍 ，烏龍茶底配搭香甜的青提荔枝，好清新解渴。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Annie Cheng",
+          "uri": "https://www.google.com/maps/contrib/101946301052595015020/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIaMvjIM-y6YKA4pxnnGMiloyLU6XEUsiH6okxp1YBlc-MFOQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-11-13T13:27:44.191275798Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5elRsVnNZM1JLV1VaQlIyTlFURWhqWDFSR2JVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5elRsVnNZM1JLV1VaQlIyTlFURWhqWDFSR2JVRRAB!2m1!1s0x3404078701615ba7:0x6e95cc4f547460fb"
+      },
+      {
+        "name": "places/ChIJp1thAYcHBDQR-2B0VE_MlW4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNM2VtUnhTa3c1UTB0V1dYZ3dZakJYTVd0UFYzYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "第一次嚟到位於長沙灣洋食商店，一間充滿日本風情嘅西日居酒屋，享受一頓充滿驚喜嘅日式洋食晚餐。餐廳充滿濃厚日本復古風格，有好多唔同嘅商店招牌、懷舊零食玩具，甚至仲有部遊戲機，彷彿置身日本嘅商店街一樣，打卡一流 。木系色調配暖黃燈光，座位寬敞舒適，氛圍溫馨愜意，非常適合情侶撐枱腳或朋友聚會\n推介：中海老海鮮炒飯、明太子玉子燒",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第一次嚟到位於長沙灣洋食商店，一間充滿日本風情嘅西日居酒屋，享受一頓充滿驚喜嘅日式洋食晚餐。餐廳充滿濃厚日本復古風格，有好多唔同嘅商店招牌、懷舊零食玩具，甚至仲有部遊戲機，彷彿置身日本嘅商店街一樣，打卡一流 。木系色調配暖黃燈光，座位寬敞舒適，氛圍溫馨愜意，非常適合情侶撐枱腳或朋友聚會\n推介：中海老海鮮炒飯、明太子玉子燒",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Elaine",
+          "uri": "https://www.google.com/maps/contrib/117746954643584797212/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIp6nIjm2UHPf6DYvAeA58vNPSWVBqehXcfP5z8j3mVHQ_j=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-06T13:02:39.628720023Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNM2VtUnhTa3c1UTB0V1dYZ3dZakJYTVd0UFYzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNM2VtUnhTa3c1UTB0V1dYZ3dZakJYTVd0UFYzYxAB!2m1!1s0x3404078701615ba7:0x6e95cc4f547460fb"
+      },
+      {
+        "name": "places/ChIJp1thAYcHBDQR-2B0VE_MlW4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSRGJtZDJNV1JLWWxoYWRFRkxMWFpZVG1WSFYyYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今天第二次來吃晚飯了。餐廳裝修很有日本風情。\n\n食物方面：  壽喜燒牛頗高質，很軟熟，牛味香濃。最欣賞有專人幫你燒，適合手殘黨。\n\n燉飯很特別，帶點牛油味焦香，份量不多但已令人滿足。\n\n最後值得一讚的是甜品 ~ 法式焦糖布甸，雞味夠、口感滑、焦糖味亦適中，水準比很多西餐廳還要好，飯後必點！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今天第二次來吃晚飯了。餐廳裝修很有日本風情。\n\n食物方面：  壽喜燒牛頗高質，很軟熟，牛味香濃。最欣賞有專人幫你燒，適合手殘黨。\n\n燉飯很特別，帶點牛油味焦香，份量不多但已令人滿足。\n\n最後值得一讚的是甜品 ~ 法式焦糖布甸，雞味夠、口感滑、焦糖味亦適中，水準比很多西餐廳還要好，飯後必點！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alan Cheung",
+          "uri": "https://www.google.com/maps/contrib/105407501480658555679/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9-D7sPLiLrqEDSq9zD2Bi3te66WJxs-2AqOsHrsYWDTLM5Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-28T11:59:56.362473831Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSRGJtZDJNV1JLWWxoYWRFRkxMWFpZVG1WSFYyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSRGJtZDJNV1JLWWxoYWRFRkxMWFpZVG1WSFYyYxAB!2m1!1s0x3404078701615ba7:0x6e95cc4f547460fb"
+      },
+      {
+        "name": "places/ChIJp1thAYcHBDQR-2B0VE_MlW4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4VFMwVTVhekpSTjBReVkyY3dla1p0V1UxcVIyYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "西日居酒屋洋食商店，位於長沙灣福榮街，裝修充滿昭和復古風味，懷舊日式擺設，讓人瞬間有置身日本小食堂的感覺，氣氛輕鬆親切。\n\n洋食商店套餐有壽喜燒及日式炊飯，是夜試了後者。\n\n日式炊飯二人餐已經包括兩款小食、關東煮及一款炊飯，另可以優惠價錢加特色飲品。\n\n明太子玉子燒厚切鬆軟，蛋香濃郁，明太子鹹鮮，加上脆口蟹籽，味道層次豐富。\n\n洋食商店粟米切成長條件，入口鮮甜可口又帶點鹹香。\n\n關東煮湯底清甜，蘿蔔、竹輪、蒟蒻等材料吸滿湯汁，暖胃又舒服。\n\n主菜車海老海鮮炊飯，鐵鍋熱辣上枱，車海老新鮮彈牙，帶烤過香氣。鮮蜆排滿一圈，飯粒吸收海鮮味道，鍋底略帶飯焦，兩人分享份量剛好。\n\n波子汽水為罐裝，清新解膩，完美搭配炊飯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西日居酒屋洋食商店，位於長沙灣福榮街，裝修充滿昭和復古風味，懷舊日式擺設，讓人瞬間有置身日本小食堂的感覺，氣氛輕鬆親切。\n\n洋食商店套餐有壽喜燒及日式炊飯，是夜試了後者。\n\n日式炊飯二人餐已經包括兩款小食、關東煮及一款炊飯，另可以優惠價錢加特色飲品。\n\n明太子玉子燒厚切鬆軟，蛋香濃郁，明太子鹹鮮，加上脆口蟹籽，味道層次豐富。\n\n洋食商店粟米切成長條件，入口鮮甜可口又帶點鹹香。\n\n關東煮湯底清甜，蘿蔔、竹輪、蒟蒻等材料吸滿湯汁，暖胃又舒服。\n\n主菜車海老海鮮炊飯，鐵鍋熱辣上枱，車海老新鮮彈牙，帶烤過香氣。鮮蜆排滿一圈，飯粒吸收海鮮味道，鍋底略帶飯焦，兩人分享份量剛好。\n\n波子汽水為罐裝，清新解膩，完美搭配炊飯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Joey Chan",
+          "uri": "https://www.google.com/maps/contrib/106814595519294411787/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlyHfwKhvYs1XFvzgERP6s-d3fp6wJIOyTM0vdqxYu-emnXA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-27T01:54:59.585460390Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4VFMwVTVhekpSTjBReVkyY3dla1p0V1UxcVIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4VFMwVTVhekpSTjBReVkyY3dla1p0V1UxcVIyYxAB!2m1!1s0x3404078701615ba7:0x6e95cc4f547460fb"
+      },
+      {
+        "name": "places/ChIJp1thAYcHBDQR-2B0VE_MlW4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aalh6Rk1ZbE5wVUVsSWVHaHVOamt4V0ZKNVJVRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 3,
+        "text": {
+          "text": "踏入店內，濃郁的日本地道居酒屋風情撲面而來。木質裝潢搭配復古燈籠，牆上貼滿日式海報，營造出溫馨微醺的愜意氛圍。最讓人驚喜的是，這裡還是室內寵物友善餐廳，能讓毛孩舒服地坐在身旁，一同享受治癒時光。\n\n靈魂招牌咖喱豬扒飯一上桌便香氣四溢。金黃酥脆的炸豬扒外脆內嫩，鎖滿豐沛肉汁；秘製咖喱醬汁醇厚濃郁，帶著微微辛香與蔬果甘甜，包裹著粒粒分明的米飯，每口都是極致美味，絕對是帶毛孩聚餐的完美深夜食堂！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "踏入店內，濃郁的日本地道居酒屋風情撲面而來。木質裝潢搭配復古燈籠，牆上貼滿日式海報，營造出溫馨微醺的愜意氛圍。最讓人驚喜的是，這裡還是室內寵物友善餐廳，能讓毛孩舒服地坐在身旁，一同享受治癒時光。\n\n靈魂招牌咖喱豬扒飯一上桌便香氣四溢。金黃酥脆的炸豬扒外脆內嫩，鎖滿豐沛肉汁；秘製咖喱醬汁醇厚濃郁，帶著微微辛香與蔬果甘甜，包裹著粒粒分明的米飯，每口都是極致美味，絕對是帶毛孩聚餐的完美深夜食堂！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Franky Ng",
+          "uri": "https://www.google.com/maps/contrib/105190726529461860523/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8oIv8e2QCh8et4gag8-a4_NrW6poSxV8rIHkBUlDVbl5DzWEliw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-24T12:42:12.114110351Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aalh6Rk1ZbE5wVUVsSWVHaHVOamt4V0ZKNVJVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aalh6Rk1ZbE5wVUVsSWVHaHVOamt4V0ZKNVJVRRAB!2m1!1s0x3404078701615ba7:0x6e95cc4f547460fb"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404078701615ba7:0x6e95cc4f547460fb!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7968499756793356539&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404078701615ba7:0x6e95cc4f547460fb!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404078701615ba7:0x6e95cc4f547460fb!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404078701615ba7:0x6e95cc4f547460fb!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJp1thAYcHBDQR-2B0VE_MlW4/photos/Aa-ngMZ5V5z866EXQMQw4_INbz-JukuruyPdynOncbqzowPKvbYrK8qFf2QIr-n8NjTvIaN-X_lQitNspiK8So009OmMBF1q2QXP6WujXpwcnzBSfwq7ip3iDALf8-n_scTIbySNxCj0a7MaY7-dUU0lnW2aWYX5wrMqHdR_BSw5pr_ndQobkk3iwsPEn43-hveioRsQs0bVIbyxVBTHijwfDAW0jhrQdyMHqFbbyAtBJyAvmQ2EYck_DO2nwutTgMDFJ7TeBtN43eW5ixByFcVoRU7FChxLpabfX9xZ0fIWL-AY_fe8mlb8VRv_-DZAc1gpFnPqitFLK1OfQiNsMaZR7wKS6hbjHAL-u9WqodVImnZITK3dKlkNIqbVT2pW33HhiSVuvH74DpGgFLsLIh4R21BRpaqS",
+      "widthPx": 1536,
+      "heightPx": 2048,
+      "authorAttributions": [
+        {
+          "displayName": "洋食商店（長沙灣）",
+          "uri": "https://maps.google.com/maps/contrib/103224401404094847164",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKijUEVNiEoptpud4M08pd_NLgQm265d5u5rfbX_dapJ_xcOQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJlqmn9QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJlqmn9QE!2e10!4m2!3m1!1s0x3404078701615ba7:0x6e95cc4f547460fb"
+    },
+    "local_path": "photos/ChIJp1thAYcHBDQR-2B0VE_MlW4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQoGB2c0o-7oMh3LusaBA3servhzU5tqSAxobf3MdJKsmPiQ3sMfSX7hoyttt8qYhXjoRKYLWT5yvsloTwhFHB1dkhWSHcfzAgPYUi7AIJUdMwYd7cXe48RS0N9vrUexVXklUW=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 327431
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

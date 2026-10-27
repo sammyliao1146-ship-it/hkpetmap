@@ -1,0 +1,308 @@
+{
+  "google_place_id": "ChIJBc1Dvk4ABDQRMUq6N0teGDk",
+  "restaurant_ids": [
+    "restaurant:3112188325"
+  ],
+  "fetched_at": "2026-10-23T15:39:27.984297+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJBc1Dvk4ABDQRMUq6N0teGDk",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2838 0533",
+    "internationalPhoneNumber": "+852 2838 0533",
+    "formattedAddress": "香港香港島跑馬地景光街38號",
+    "location": {
+      "latitude": 22.268926999999998,
+      "longitude": 114.1843522
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=4114141936753461809&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.openrice.com/restaurant/sr2.htm?shopid=47532",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 4,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 19:00 – 04:00",
+        "星期二: 18:00 – 03:00",
+        "星期三: 18:00 – 03:00",
+        "星期四: 18:00 – 03:00",
+        "星期五: 19:00 – 04:00",
+        "星期六: 19:00 – 04:00",
+        "星期日: 18:00 – 03:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 48,
+    "displayName": {
+      "text": "alabar",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJBc1Dvk4ABDQRMUq6N0teGDk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzN18zQ2x3RRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 4,
+        "text": {
+          "text": "舊式酒廊的感覺。顧客年齡層為40上。可以唱歌。但論候時間非常久。不管客人多或少。都很久才一首。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "舊式酒廊的感覺。顧客年齡層為40上。可以唱歌。但論候時間非常久。不管客人多或少。都很久才一首。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "canmil wong",
+          "uri": "https://www.google.com/maps/contrib/101715227485837174282/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKMDX4Q0wMhUf5fKfw2YZ14gTTl1ObfJBRRLY43LiBpzcPrXQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2020-02-27T02:03:20.990803Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNzN18zQ2x3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzN18zQ2x3RRAB!2m1!1s0x3404004ebe43cd05:0x39185e4b37ba4a31"
+      },
+      {
+        "name": "places/ChIJBc1Dvk4ABDQRMUq6N0teGDk/reviews/ChZDSUhNMG9nS0VJQ0FnSURzN3N6dkJnEAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "城市中綠洲，音響設備靚，聚腳客人歌唱水準高，歌曲懷舊與近期新歌英日韓都有都有，水準比好多K房高",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "城市中綠洲，音響設備靚，聚腳客人歌唱水準高，歌曲懷舊與近期新歌英日韓都有都有，水準比好多K房高",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chi Him Yuen",
+          "uri": "https://www.google.com/maps/contrib/106082155368692934472/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQiyuD0eUuoOgt9y95e6Ui8Erjw8RiyJ62k4ztONzQlC_t_A=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2020-03-04T18:10:20.509045Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURzN3N6dkJnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURzN3N6dkJnEAE!2m1!1s0x3404004ebe43cd05:0x39185e4b37ba4a31"
+      },
+      {
+        "name": "places/ChIJBc1Dvk4ABDQRMUq6N0teGDk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNScmZIM0VREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "哥唐的世紀牽手照🥹🥹上次帶著孩子去，下次一定進去消費",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "哥唐的世紀牽手照🥹🥹上次帶著孩子去，下次一定進去消費",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charlie Tsai",
+          "uri": "https://www.google.com/maps/contrib/101077207825103179878/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6HtfLFq3Vpl4zynB_vY3qmGhhKvEE6VwFyO7TG_6FH_4KDopw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2023-04-08T04:33:51.502496Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNScmZIM0VREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNScmZIM0VREAE!2m1!1s0x3404004ebe43cd05:0x39185e4b37ba4a31"
+      },
+      {
+        "name": "places/ChIJBc1Dvk4ABDQRMUq6N0teGDk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBeXF5WTB3RRAB",
+        "relativePublishTimeDescription": "9 年前",
+        "rating": 5,
+        "text": {
+          "text": "很多名人明星都會到這裡",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很多名人明星都會到這裡",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "jacky max",
+          "uri": "https://www.google.com/maps/contrib/101056069580623444467/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRABqAOvDH4kptfR08Z1K9ipNZb3S1mkUI_CUZZU6PjTM2sf6zdQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2017-08-01T08:51:00.170Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBeXF5WTB3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBeXF5WTB3RRAB!2m1!1s0x3404004ebe43cd05:0x39185e4b37ba4a31"
+      },
+      {
+        "name": "places/ChIJBc1Dvk4ABDQRMUq6N0teGDk/reviews/ChZDSUhNMG9nS0VJQ0FnSURMM1pleFVnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "影星爾冬陞開的店",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "影星爾冬陞開的店",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "賴秀琴",
+          "uri": "https://www.google.com/maps/contrib/102906100578858502483/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKcjaLCTm2hvZE1OBj__6TEC_HvcUKt2dfjjkcPo_qX-vsG6AMU=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-06-29T22:34:15.719191Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMM1pleFVnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMM1pleFVnEAE!2m1!1s0x3404004ebe43cd05:0x39185e4b37ba4a31"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404004ebe43cd05:0x39185e4b37ba4a31!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4114141936753461809&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404004ebe43cd05:0x39185e4b37ba4a31!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404004ebe43cd05:0x39185e4b37ba4a31!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404004ebe43cd05:0x39185e4b37ba4a31!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJBc1Dvk4ABDQRMUq6N0teGDk/photos/Aa-ngMY7zxdkOr7sv8AxCsvfMlc1J62wW-YskA-DrHs1NH30CMOsVBQvHCegy4Y4Dbh9UN0nzmEpgWckGSXB5SqUkCCp_BRSG9DqwsFBIr0dR0L0LNlDNPTLBSymtMLKVvSQna-40inLCBdnRZmYOfUadJFyOO7f3-mmmX-Z0yt1EJSrKuP1H4aAdQRzDpZ2yMu01dvdwV_25FydaWTUThEmekYf8l7UVOhGUB6_Ecynqh87yBn-9w19I8XApYbjKrXlgRKvJw7yYav0aDybTLzaJFcBkHzce9eHN0rOwGB5cSrTi0Yp3gQnBzmhWrztsPQAQx-i8GGOptIMJ-7bZ1dlWwoioxFt4iC77c9EA9BMlYaPkDhrJhyFO44jB363So_e0yoGWejcvE4DZun1V8heKOvnZfGlBbY",
+      "widthPx": 719,
+      "heightPx": 485,
+      "authorAttributions": [
+        {
+          "displayName": "alabar",
+          "uri": "https://maps.google.com/maps/contrib/114177656364485910169",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLzHD1IQ-Nt-cMetS5pLuuoNlKR_VqWYz3k5o7RLGB7FEawhA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8p_rn2wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8p_rn2wE!2e10!4m2!3m1!1s0x3404004ebe43cd05:0x39185e4b37ba4a31"
+    },
+    "local_path": "photos/ChIJBc1Dvk4ABDQRMUq6N0teGDk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaYPTn-s4kd33ehrk0axMMinze95NtvUYTNJuP9PjdfBAIS9iZNEjiqR8ITjkc9OgIl3ZvhFEI-tB1IvDa2rR76eShfTL3vwfFqShKEba30qLrAd7IbbX2Caz_9tF2sapZOSKMow=s4800-w719",
+    "content_type": "image/jpeg",
+    "bytes": 110922
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

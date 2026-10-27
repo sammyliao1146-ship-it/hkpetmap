@@ -1,0 +1,38 @@
+{
+  "id": "ChIJy9WuAZcIBDQRlFcWR-LQDLU",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界科學園",
+  "location": {
+    "latitude": 22.42766,
+    "longitude": 114.21212009999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13046031890859317140&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "白石角海濱長廊",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJy9WuAZcIBDQRlFcWR-LQDLU/photos/Aa-ngMY3oCDZiQuxYcwicrrDYvUdtx5StzRO7zDQDGkdeMWOILBPU4gzQlOUfkLzO3JIpXamIC1anKC-OHP0o6JTuq4RZKrdx-ceNZb2joGfKqEflTVCEqOYkvWriyZpTYz7Zz8h1V8edGjEqirDivaimpX-zCA7g9w_6JXHyLco5u_FUVf0vQcpQ2ONn6mr9PmWm1W_PSF7jnPfYOfNkLvaorE1Se-wV7WrYVLMGaR0Fhd8CG6hvphfz-jsRr4F7xxEUq55tyqaeIh0HH18imeLEkT4p804v-dmYSeqw5ACc82xpwPPUW_sOgl_134U3pw1KkkCOlISpXccJ_nCifwomAqMalDG82BucCCFdu9qaVQ-vN35awqW0ysMysGjarixdSJ6Wi0JFeWAGWPdi0kYit-z4lId",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "siu man wong",
+          "uri": "https://maps.google.com/maps/contrib/109419005860621483935",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLTkvjjyzMxyC3QUr70cbZvYjlnHKjIxkX2U4qctvySdqWyXQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICa7JHMwAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa7JHMwAE!2e10!4m2!3m1!1s0x3404089701aed5cb:0xb50cd0e247165794"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:08.590821+00:00"
+}

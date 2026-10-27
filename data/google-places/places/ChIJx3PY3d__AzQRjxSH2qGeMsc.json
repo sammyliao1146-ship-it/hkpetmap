@@ -1,0 +1,402 @@
+{
+  "google_place_id": "ChIJx3PY3d__AzQRjxSH2qGeMsc",
+  "restaurant_ids": [
+    "restaurant:2215801191"
+  ],
+  "fetched_at": "2026-10-23T15:41:44.150505+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJx3PY3d__AzQRjxSH2qGeMsc",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "8300 8198",
+    "internationalPhoneNumber": "+852 8300 8198",
+    "formattedAddress": "香港香港島鋼綫灣數碼港道100號数碼港",
+    "location": {
+      "latitude": 22.261119400000002,
+      "longitude": 114.12986710000001
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=14353709380376401039&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.taoheung.com.hk/tc/brands/chung_s_house/index_p_2.html",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 16:00, 18:00 – 23:00",
+        "星期二: 11:30 – 16:00, 18:00 – 23:00",
+        "星期三: 11:30 – 16:00, 18:00 – 23:00",
+        "星期四: 11:30 – 16:00, 18:00 – 23:00",
+        "星期五: 11:30 – 16:00, 18:00 – 23:00",
+        "星期六: 10:00 – 16:00, 18:00 – 22:00",
+        "星期日: 10:00 – 16:00, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 118,
+    "displayName": {
+      "text": "鍾菜館",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJx3PY3d__AzQRjxSH2qGeMsc/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxdk1LeHRnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "店內環境不錯，室內空間寬敞，即使滿座也不會太嘈吵。服務員親切細心，只是菜式及味道比較一般，冬至晚飯算是可以，份量夠。有機會再試試點心或其他晚市小菜。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店內環境不錯，室內空間寬敞，即使滿座也不會太嘈吵。服務員親切細心，只是菜式及味道比較一般，冬至晚飯算是可以，份量夠。有機會再試試點心或其他晚市小菜。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jessica Mak",
+          "uri": "https://www.google.com/maps/contrib/117187646088558479344/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuj3pV3ncDKY-_rMbqoqqvayU2MXVjOde3K_E_v5mjw3FBNLLN=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2023-12-25T11:06:24.450322Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxdk1LeHRnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxdk1LeHRnRRAB!2m1!1s0x3403ffdfddd873c7:0xc7329ea1da87148f"
+      },
+      {
+        "name": "places/ChIJx3PY3d__AzQRjxSH2qGeMsc/reviews/ChZDSUhNMG9nS0VJQ0FnSURIdjliTExBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "同同事一班人去食中秋節飯\n叫左幾樣唔同點心，食完有記憶點得：\n1. 雞絲粉皮\n粉皮粗幼不一\n個人喜歡幼身啲\n調味就一般芝麻醬\n\n2. 牛仔骨\n又韌又硬\n唔推薦\n\n其他點心，如燒賣蝦餃都真心一般\n係檯同檯空間大啲\n服務都一般",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "同同事一班人去食中秋節飯\n叫左幾樣唔同點心，食完有記憶點得：\n1. 雞絲粉皮\n粉皮粗幼不一\n個人喜歡幼身啲\n調味就一般芝麻醬\n\n2. 牛仔骨\n又韌又硬\n唔推薦\n\n其他點心，如燒賣蝦餃都真心一般\n係檯同檯空間大啲\n服務都一般",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Goodday Everyday (Per_bread_lover)",
+          "uri": "https://www.google.com/maps/contrib/116386475592662747408/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-5xY360eKjKCKc9zsOoWFhg2OtP98xUsm2VFmbH_I3BQk3rA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-09-21T11:03:26.594235Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIdjliTExBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIdjliTExBEAE!2m1!1s0x3403ffdfddd873c7:0xc7329ea1da87148f"
+      },
+      {
+        "name": "places/ChIJx3PY3d__AzQRjxSH2qGeMsc/reviews/ChdDSUhNMG9nS0VJQ0FnSURSa0xTNTd3RRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "第一次黎薄扶林🌝\n原來咁荒蕪⋯⋯⋯⋯\n\n同長輩聚聚\n佢地都係鍾意飲啖茶食個包\n整體幾好味😆無野係難食\n四個人食到超級飽\n人均$250-$270左右\n\n環境裝潢堅靚堅high class咁😳\nQR落單\n基本上除咗埋單都唔使點叫職員做野\n每張枱旁邊有張枱仔放茶水\n斟水斟茶完全自助\n好先進🤣差啲唔曉搞\n\n⍥ 南乳發菜豬手\n⍥ 生拆鮮蝦餃\n⍥ 原蝦燒賣皇\n⍥ 魚肚棉花雞\n⍥ 生煎菜肉包\n⍥ 炸銀絲卷\n⍥ 香煎黃金糕\n⍥ 金勾珍珠雞\n⍥ 上湯蟲草花牛肉球\n⍥ 川汁抄手\n⍥ 翅湯鮮竹卷\n⍥ 春風得意腸\n⍥ 黑毛豬叉燒腸\n⍥ XO醬蘿蔔糕\n⍥ 七味脆豆腐\n⍥ 鍾菜館炒飯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第一次黎薄扶林🌝\n原來咁荒蕪⋯⋯⋯⋯\n\n同長輩聚聚\n佢地都係鍾意飲啖茶食個包\n整體幾好味😆無野係難食\n四個人食到超級飽\n人均$250-$270左右\n\n環境裝潢堅靚堅high class咁😳\nQR落單\n基本上除咗埋單都唔使點叫職員做野\n每張枱旁邊有張枱仔放茶水\n斟水斟茶完全自助\n好先進🤣差啲唔曉搞\n\n⍥ 南乳發菜豬手\n⍥ 生拆鮮蝦餃\n⍥ 原蝦燒賣皇\n⍥ 魚肚棉花雞\n⍥ 生煎菜肉包\n⍥ 炸銀絲卷\n⍥ 香煎黃金糕\n⍥ 金勾珍珠雞\n⍥ 上湯蟲草花牛肉球\n⍥ 川汁抄手\n⍥ 翅湯鮮竹卷\n⍥ 春風得意腸\n⍥ 黑毛豬叉燒腸\n⍥ XO醬蘿蔔糕\n⍥ 七味脆豆腐\n⍥ 鍾菜館炒飯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Food Historyyy",
+          "uri": "https://www.google.com/maps/contrib/102422439344487177532/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwkGvbuDngwmYfEYXoiIg8gebc3EwswPvzV6btAKBzM_Enkaw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-04-15T14:42:03.492203Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSa0xTNTd3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSa0xTNTd3RRAB!2m1!1s0x3403ffdfddd873c7:0xc7329ea1da87148f"
+      },
+      {
+        "name": "places/ChIJx3PY3d__AzQRjxSH2qGeMsc/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1MjlLMWhRRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "中式酒家, 打卡景 點多.\n今日天朗氣清,  去 數碼港探朋友,  乘機去 鍾菜館  歎個午茶.   特別一贊, 鍾菜館 位於商場地面層, 可以在酒家門前上落車, 極方便大眾 出入.  到達鍾菜館, 第一個感覺, 酒家外觀中式設計, 頗優越, 真誤以為我們身在中國.\n\n接待處用上石頭砌成的檯.  只欠古裝服飾美女, 看右方有木雕座椅, 帆船及金龍金鳳擺設, 打卡最好.\n\n餐廳樓底高, 座位設計獨特, 有 大圓枱,  梳化座, 燈光和詣.  適合家庭, 朋友聚餐. 餐廳裝修得好雅緻.\n\n有多間 VIP房, 牆上有不同中式擺設, 中式花瓶擺設也非常配合.\n還有值得打卡的 [木門] 玉石對聯,   [屏風]  看看中國的典故.  石砌的牆,  又像去了影城, 感覺好特式.\n\n欣賞環境後, 到選擇食物.   我們掃描 QR碼 可以自助點餐, 看著雲石台, 配翠綠色餐具, 感覺好清新.    每張枱有加熱水裝置, 自己加茶加水極方便.  茗茶每位$20. 我們叫了蝦餃, 燒賣, 叉燒包, 都是一位一籠, 清潔大方.\n\n蝦餃蝦肉新鮮, 爽口.  燒賣內有花菰, 豬肉打得彈牙,  吾錯. 釀辣椒,  鹹水角, 煎餃 也合水準.\n\n紅油抄手,  做得好食.\n\n春風得意腸, 腸粉皮很薄,   口感挺滑.  肉餡很多, 有蝦, 瘦肉, 菰菌.  伴有菜遠,  同靚豉油.\n\n鹹水角,   炸得鬆脆,  唔會油膩.\n\n叉燒飽, 叉燒味濃,  飽好鬆軟.\n\n叉燒酥, 叉燒饀料豐富,  入口鬆軟,  面上貼滿芝麻焗得香口.\n\n蒸蘿蔔糕,  好熱, 調味不錯.\n\n洗手間也有與別不同的設計, 入門牆上有中式國畫, 好美.  每個洗手盆,  有自動皂液及吹風機,  設備好好.\n\n食物款式多,  坐得舒服, 我們自駕,  停車場有免費泊車.  會再來.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "中式酒家, 打卡景 點多.\n今日天朗氣清,  去 數碼港探朋友,  乘機去 鍾菜館  歎個午茶.   特別一贊, 鍾菜館 位於商場地面層, 可以在酒家門前上落車, 極方便大眾 出入.  到達鍾菜館, 第一個感覺, 酒家外觀中式設計, 頗優越, 真誤以為我們身在中國.\n\n接待處用上石頭砌成的檯.  只欠古裝服飾美女, 看右方有木雕座椅, 帆船及金龍金鳳擺設, 打卡最好.\n\n餐廳樓底高, 座位設計獨特, 有 大圓枱,  梳化座, 燈光和詣.  適合家庭, 朋友聚餐. 餐廳裝修得好雅緻.\n\n有多間 VIP房, 牆上有不同中式擺設, 中式花瓶擺設也非常配合.\n還有值得打卡的 [木門] 玉石對聯,   [屏風]  看看中國的典故.  石砌的牆,  又像去了影城, 感覺好特式.\n\n欣賞環境後, 到選擇食物.   我們掃描 QR碼 可以自助點餐, 看著雲石台, 配翠綠色餐具, 感覺好清新.    每張枱有加熱水裝置, 自己加茶加水極方便.  茗茶每位$20. 我們叫了蝦餃, 燒賣, 叉燒包, 都是一位一籠, 清潔大方.\n\n蝦餃蝦肉新鮮, 爽口.  燒賣內有花菰, 豬肉打得彈牙,  吾錯. 釀辣椒,  鹹水角, 煎餃 也合水準.\n\n紅油抄手,  做得好食.\n\n春風得意腸, 腸粉皮很薄,   口感挺滑.  肉餡很多, 有蝦, 瘦肉, 菰菌.  伴有菜遠,  同靚豉油.\n\n鹹水角,   炸得鬆脆,  唔會油膩.\n\n叉燒飽, 叉燒味濃,  飽好鬆軟.\n\n叉燒酥, 叉燒饀料豐富,  入口鬆軟,  面上貼滿芝麻焗得香口.\n\n蒸蘿蔔糕,  好熱, 調味不錯.\n\n洗手間也有與別不同的設計, 入門牆上有中式國畫, 好美.  每個洗手盆,  有自動皂液及吹風機,  設備好好.\n\n食物款式多,  坐得舒服, 我們自駕,  停車場有免費泊車.  會再來.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "花生 MaMa",
+          "uri": "https://www.google.com/maps/contrib/100450139491588929732/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwQO7XCCE7MITE2yYVCyMgKBapXVtQ7FI3pcvsFe8ZUqmVzwED=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-08-30T09:36:09.170274Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR1MjlLMWhRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1MjlLMWhRRRAB!2m1!1s0x3403ffdfddd873c7:0xc7329ea1da87148f"
+      },
+      {
+        "name": "places/ChIJx3PY3d__AzQRjxSH2qGeMsc/reviews/Ci9DQUlRQUNvZENodHljRjlvT214Q05EQlZZMGhVWmtKQ1ZXSTJVMVJ3ZVZsWVNWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 1,
+        "text": {
+          "text": "服務特別差，點菜點漏了一句道歉都沒有，欠缺最基本的服務素質，菜品也很一般，性價比很低不推薦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務特別差，點菜點漏了一句道歉都沒有，欠缺最基本的服務素質，菜品也很一般，性價比很低不推薦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Susana Gao",
+          "uri": "https://www.google.com/maps/contrib/109727165088316820192/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHHCKZi8x5f7QTqb2UKPoGy7UIxiuxv0Z2oKcRVBjw4N1FDA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-01T12:08:11.752243921Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214Q05EQlZZMGhVWmtKQ1ZXSTJVMVJ3ZVZsWVNWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214Q05EQlZZMGhVWmtKQ1ZXSTJVMVJ3ZVZsWVNWRRAB!2m1!1s0x3403ffdfddd873c7:0xc7329ea1da87148f"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ffdfddd873c7:0xc7329ea1da87148f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14353709380376401039&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ffdfddd873c7:0xc7329ea1da87148f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ffdfddd873c7:0xc7329ea1da87148f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ffdfddd873c7:0xc7329ea1da87148f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJx3PY3d__AzQRjxSH2qGeMsc/photos/Aa-ngMaxiV3xyGQYWJessh_oNUFyU9q_r9VNlb6ZMNZMleHSgFrNWLFt5JI7yczZ-1nXtocdFAROC8pO_izTk3JT_aRStsi4bgFC-q8yq391MHoZerz-_nR5mXtQsCcEI63pJoRnRDNYePcdE9b_AbFWEJb2vTgdtJNpnfK48J-mC09CaOT3FruoZ1lOPg57gCSmeV2Y2glgG2vmQAyvqDYY5qhQjGvOKFSGwldZlHTTmRAt6Rwi03qvstuOpg1Rh7Ez8g-OpZmFxQRSEtimho7nzfVTyeoNPTcn63PX92qkUQqi0oQp5xQOmU0d6VFgJdTsOX8PtgYiTNDp-rDdTBs0Bklg2v-CHncsd3jHXqSHY-tJMFU10I8j2nPnqxBItKtQvbw3muhxb3D_p6Tz4ha4nLXG4Vfi",
+      "widthPx": 1600,
+      "heightPx": 900,
+      "authorAttributions": [
+        {
+          "displayName": "Ronald WU",
+          "uri": "https://maps.google.com/maps/contrib/104480335925830901434",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIj9HfMWeLWUqWI6qv75_O7Vi9S_zRGGdNIPZpbCh6Qrhn8UzCX=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICR7dv7yAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR7dv7yAE!2e10!4m2!3m1!1s0x3403ffdfddd873c7:0xc7329ea1da87148f"
+    },
+    "local_path": "photos/ChIJx3PY3d__AzQRjxSH2qGeMsc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4pYlaUlzFg2maOLirgbfIGfbCSfCN8xRHvEJlO4x8eAc39b781PulRpVsLdI9rGATyNss9da41_4Ng14ZJO-R4o5VdgLFOVCCAbm4TDO9kuaNdveItS2UpllWnWdwsb-ld1Dz=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 132899
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

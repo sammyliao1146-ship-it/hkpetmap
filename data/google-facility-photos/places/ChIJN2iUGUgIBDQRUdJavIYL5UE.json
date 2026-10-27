@@ -1,0 +1,40 @@
+{
+  "id": "ChIJN2iUGUgIBDQRUdJavIYL5UE",
+  "types": [
+    "convenience_store",
+    "food_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界大埔108 - 109汀角路 10 號 大元邨大元商場 地下 101 &",
+  "location": {
+    "latitude": 22.4551557,
+    "longitude": 114.1683273
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4748214055445647953&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "7-11便利店 (大元邨店)",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "convenience_store",
+  "photos": [
+    {
+      "name": "places/ChIJN2iUGUgIBDQRUdJavIYL5UE/photos/Aa-ngMb4BlR74BsRyf5Ey83nkeIDl2ojrDGqW7Q80rsP12NzQmln26DPyP-IgmCyZtnZmBXBDWxTqdn_CLQ3zIBQGsWTzqa7Y2BnsQN_ySGeNlx7kD0FiwJc_pP9n5NcYISnvNfKDkECItdG9t7mwXqf9c061B9ERm2KiDjPI14aAEWBt9-hGGa0LCE_TmRptzRSFd1aKuY15gEBw4J8sXBXmXqbCjLHyeCgrCi2bfE2JID8C406EyYmVZUJx26m7RCtVG5Ecd16BGHDzBvAlmoHC7QhC8cZWuuhxoPB5A8fO5ZArNuDwFwc9ya5gVU_8-STorxIEh-oQMXb6KLqTVK88TE9B4tAn2zPr5BpQLjYpHXb5jzEMvGEM4mB8RtSCKa6ckN5s-210pttKAMVkd9IeFU0Kvv4XZE",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Leo Chan",
+          "uri": "https://maps.google.com/maps/contrib/111195400867858817164",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNHSFDefifFFTqi0Y9cKt1MhjPicSWyKCuKRoioOCCuGwCVKlHrQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEtZzh5wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEtZzh5wE!2e10!4m2!3m1!1s0x3404084819946837:0x41e50b86bc5ad251"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:03.886596+00:00"
+}

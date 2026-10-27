@@ -1,0 +1,400 @@
+{
+  "google_place_id": "ChIJO1N3O1cABDQRMhhmCBjrkXM",
+  "restaurant_ids": [
+    "restaurant:2297810027"
+  ],
+  "fetched_at": "2026-10-23T15:52:28.788842+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJO1N3O1cABDQRMhhmCBjrkXM",
+    "types": [
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5301 1818",
+    "internationalPhoneNumber": "+852 5301 1818",
+    "formattedAddress": "香港新界沙田橫壆街1-15號3080舖",
+    "location": {
+      "latitude": 22.3829766,
+      "longitude": 114.19117709999999
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=8327695674437408818&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 4,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 16:30, 18:00 – 22:00",
+        "星期二: 11:30 – 16:30, 18:00 – 22:00",
+        "星期三: 11:30 – 16:30, 18:00 – 22:00",
+        "星期四: 11:30 – 16:30, 18:00 – 22:00",
+        "星期五: 11:30 – 16:30, 18:00 – 22:00",
+        "星期六: 11:30 – 16:30, 18:00 – 22:00",
+        "星期日: 11:30 – 04:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 747,
+    "displayName": {
+      "text": "Y PASTA",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "食品專賣店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "food_store",
+    "reviews": [
+      {
+        "name": "places/ChIJO1N3O1cABDQRMhhmCBjrkXM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWUlp6TnllamRyY0dsa1RsRlZNVGRSVG5aQldtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 2,
+        "text": {
+          "text": "食物方面麻麻地 性價比低 服務一般\n\n-芝士小龍蝦飲管意粉➡️芝士太過濃，吃兩口就好膩，兩個人也無法吃完一盤，剩了一大半\n\n-蒜油大蝦➡️平時在外面吃過的蒜香濃郁且蝦子鹹香彈牙超好吃，但這間卻吃起來像0調味，蝦子一點鹹香都沒有，懷疑是不是忘了加鹽調味，更別說是蒜香味了，0蒜味，像是把幾顆蒜頭跟冷凍蝦油泡在熱油裡直接出餐，好失望\n\n-黑松露濃湯➡️正正常常，沒什麼記憶點\n\n-蒜蓉包➡️沒想到最好食係個蒜蓉包，烤的很脆，蒜蓉醬也很夠味道\n\n整體來說絕對不會回訪",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物方面麻麻地 性價比低 服務一般\n\n-芝士小龍蝦飲管意粉➡️芝士太過濃，吃兩口就好膩，兩個人也無法吃完一盤，剩了一大半\n\n-蒜油大蝦➡️平時在外面吃過的蒜香濃郁且蝦子鹹香彈牙超好吃，但這間卻吃起來像0調味，蝦子一點鹹香都沒有，懷疑是不是忘了加鹽調味，更別說是蒜香味了，0蒜味，像是把幾顆蒜頭跟冷凍蝦油泡在熱油裡直接出餐，好失望\n\n-黑松露濃湯➡️正正常常，沒什麼記憶點\n\n-蒜蓉包➡️沒想到最好食係個蒜蓉包，烤的很脆，蒜蓉醬也很夠味道\n\n整體來說絕對不會回訪",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mita Cheng",
+          "uri": "https://www.google.com/maps/contrib/112375124064983763360/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK55E6F7q8a0HhTQJKlF2Eo1JUliguzgF4C7yxad8UzAljshqWr=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-15T10:48:56.882032716Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWUlp6TnllamRyY0dsa1RsRlZNVGRSVG5aQldtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWUlp6TnllamRyY0dsa1RsRlZNVGRSVG5aQldtYxAB!2m1!1s0x340400573b77533b:0x7391eb1808661832"
+      },
+      {
+        "name": "places/ChIJO1N3O1cABDQRMhhmCBjrkXM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3dE5tUnRWUzF5Vm5CbVJVSjFaVU5OWm1sZmMwRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "週六試下 Y Pasta Brunch❗\n分別點了墨魚汁帆立貝飲管粉，羅勒松子香草醬雞肉波浪粉 及 辣肉腸薄餅❗幾樣食物質素都幾好味，不錯❗餐湯野菌濃湯非常好飲❗\n整體食物出品中上，價錢亦算合理，值得一試❗",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "週六試下 Y Pasta Brunch❗\n分別點了墨魚汁帆立貝飲管粉，羅勒松子香草醬雞肉波浪粉 及 辣肉腸薄餅❗幾樣食物質素都幾好味，不錯❗餐湯野菌濃湯非常好飲❗\n整體食物出品中上，價錢亦算合理，值得一試❗",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "0307 CCH",
+          "uri": "https://www.google.com/maps/contrib/113723052026811179352/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEG11dBXl2iq14LDkJB3MlyyF56o5THXZ2TTpbO0vqDFAL8Q=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-07-18T09:28:52.642170984Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3dE5tUnRWUzF5Vm5CbVJVSjFaVU5OWm1sZmMwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3dE5tUnRWUzF5Vm5CbVJVSjFaVU5OWm1sZmMwRRAB!2m1!1s0x340400573b77533b:0x7391eb1808661832"
+      },
+      {
+        "name": "places/ChIJO1N3O1cABDQRMhhmCBjrkXM/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wMlJVZDJNSEpETVZoV04xWlZjMmh2YUZoNE1VRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "星期六夜晚去食 前一晚嘗試訂枱 訂唔到四位\nWhatsApp溝通想訂四位，但係冇回覆\n當日夜晚Walk in 原來仲有好多位\n手工意粉有很多款式 pizza大多種類都冇見過或者聽過 Pizza有啲醬汁嘅配搭都好新奇 有啲唔敢嘗試\n今次試吓 整體都唔錯\n枱面都會有盞燈，方便食物打卡，製造氛圍感\n輕觸頂部可以調整燈光顏色以及強度",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期六夜晚去食 前一晚嘗試訂枱 訂唔到四位\nWhatsApp溝通想訂四位，但係冇回覆\n當日夜晚Walk in 原來仲有好多位\n手工意粉有很多款式 pizza大多種類都冇見過或者聽過 Pizza有啲醬汁嘅配搭都好新奇 有啲唔敢嘗試\n今次試吓 整體都唔錯\n枱面都會有盞燈，方便食物打卡，製造氛圍感\n輕觸頂部可以調整燈光顏色以及強度",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "C K Yan",
+          "uri": "https://www.google.com/maps/contrib/105734089931450692627/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMCmF-SlxCTeUMKHTHOayrm3Hjwxpu4_m5tOcbPU6-bf0op10T=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-06T17:13:53.863573051Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wMlJVZDJNSEpETVZoV04xWlZjMmh2YUZoNE1VRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMlJVZDJNSEpETVZoV04xWlZjMmh2YUZoNE1VRRAB!2m1!1s0x340400573b77533b:0x7391eb1808661832"
+      },
+      {
+        "name": "places/ChIJO1N3O1cABDQRMhhmCBjrkXM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SbmVXUmZkbEZtUld4TGNYVlFUMDAxYkZGM1kwRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "之前朋友帶過嚟食晚餐覺得好好食，趁母親節帶咗阿媽嚟食午餐,可以自選醬汁意粉同配搭好多選擇，食咗個墨魚汁波浪粉配完配原條墨魚正💯，小食白酒蜆肉都好新鮮好好食😋小食雞翼非常好食外脆內軟熟，同埋坐嘅環境都好舒適👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "之前朋友帶過嚟食晚餐覺得好好食，趁母親節帶咗阿媽嚟食午餐,可以自選醬汁意粉同配搭好多選擇，食咗個墨魚汁波浪粉配完配原條墨魚正💯，小食白酒蜆肉都好新鮮好好食😋小食雞翼非常好食外脆內軟熟，同埋坐嘅環境都好舒適👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tari Tan",
+          "uri": "https://www.google.com/maps/contrib/115292672363747671362/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUO8LqZdlLdLkRAoszHjQ7ozd9yI2W4bS1_HoxmBfHXoFFCe9I=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-11T07:36:31.748020814Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SbmVXUmZkbEZtUld4TGNYVlFUMDAxYkZGM1kwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SbmVXUmZkbEZtUld4TGNYVlFUMDAxYkZGM1kwRRAB!2m1!1s0x340400573b77533b:0x7391eb1808661832"
+      },
+      {
+        "name": "places/ChIJO1N3O1cABDQRMhhmCBjrkXM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SQlJYZGZVSEJyWmpjMGJFYzNSMmhZWTFGclZuYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "超抵食手工意粉！已經係沙田區食堂之一，條條口感煙韌有咬口🍝。Cabonara同短管粉都好正，豬面肉骨炆到好淋，小食唔錯。唯一要講嘅係咖啡比較普通，建議試非咖啡或酒精飲品😎小朋友都好鍾意呢間😘",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "超抵食手工意粉！已經係沙田區食堂之一，條條口感煙韌有咬口🍝。Cabonara同短管粉都好正，豬面肉骨炆到好淋，小食唔錯。唯一要講嘅係咖啡比較普通，建議試非咖啡或酒精飲品😎小朋友都好鍾意呢間😘",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Andy Sha",
+          "uri": "https://www.google.com/maps/contrib/104292980885593052908/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBktpm3HneS9i90n5ozPewol0omzVahjEcLT-KB_42rWU9=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-02-27T02:29:06.047147867Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SQlJYZGZVSEJyWmpjMGJFYzNSMmhZWTFGclZuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SQlJYZGZVSEJyWmpjMGJFYzNSMmhZWTFGclZuYxAB!2m1!1s0x340400573b77533b:0x7391eb1808661832"
+      }
+    ],
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400573b77533b:0x7391eb1808661832!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8327695674437408818&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400573b77533b:0x7391eb1808661832!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400573b77533b:0x7391eb1808661832!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400573b77533b:0x7391eb1808661832!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJO1N3O1cABDQRMhhmCBjrkXM/photos/Aa-ngMYEKpBJ-EWbUl98laG45lh3Gh6nk24tKC2QiO5bKhwaddM2zhkB0akSu_9pXI95vvieFjvDh6T32UccnqHAEiCdtcr0jv-DvapmDM94ss7lKInoUe-MrS-DgkQXj6LMtD7VtCHQNAyjE_GNodmaKLC7B91buxxl9wAsaN8H9h3y7hVasQLf35mh1cZtsB2tKrMjfKk9X7A_KiYaIZhGUzERRij081z5tDlwZhBU-rs1uzOIOacMdGOkCqgbef9b33728yZ0ynS9b2G_MOGaZ0AkIEchf5jZyvvv93XUI0tIOhVyimdpCPMPXBbN3gDTq5BPO0mRrGI0RLN6jg5HzN4oJw5oahksTOqa1GZXqbDCXSYul4gtmfq00UF68rrBXl8GVOS6kTwvaFuvfG469T7yYg",
+      "widthPx": 4800,
+      "heightPx": 3201,
+      "authorAttributions": [
+        {
+          "displayName": "Y PASTA",
+          "uri": "https://maps.google.com/maps/contrib/110378318178753603663",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLmMxl_jdQYEetcmSsS346LfNTceiQkbNajfsmlqsMPI0lwJA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICV-fDwMg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICV-fDwMg!2e10!4m2!3m1!1s0x340400573b77533b:0x7391eb1808661832"
+    },
+    "local_path": "photos/ChIJO1N3O1cABDQRMhhmCBjrkXM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwTXrMdv99rDu0o93p0sW4ASE5JweyTjUMSsW5KdvbELw9N5bBHXFKDYc7ia50aKNTBNlQ1IviRSQOF9-qnPJj8rVO4wUR3wtaw5_4XppQL59WbYTizGE-tCDOk5slpy7UOnM=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 71004
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "food_store",
+    "label": "食品專賣店",
+    "types": [
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

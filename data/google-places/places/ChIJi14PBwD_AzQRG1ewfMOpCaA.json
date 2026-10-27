@@ -1,0 +1,293 @@
+{
+  "google_place_id": "ChIJi14PBwD_AzQRG1ewfMOpCaA",
+  "restaurant_ids": [
+    "restaurant:3118812051"
+  ],
+  "fetched_at": "2026-10-23T15:47:04.910521+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJi14PBwD_AzQRG1ewfMOpCaA",
+    "types": [
+      "asian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "7072 1238",
+    "internationalPhoneNumber": "+852 7072 1238",
+    "formattedAddress": "Shop 7, 2 Sheung Fung Ln, Sai Ying Pun, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.285997899999998,
+      "longitude": 114.1412859
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=11531934977934513947&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 11:30 – 21:00",
+        "星期三: 11:30 – 21:00",
+        "星期四: 11:30 – 21:00",
+        "星期五: 11:30 – 21:00",
+        "星期六: 11:30 – 21:00",
+        "星期日: 12:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 7,
+    "displayName": {
+      "text": "Ooh La La",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "亞洲風味餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "primaryType": "asian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJi14PBwD_AzQRG1ewfMOpCaA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOUlNYcDFNa0U0VmpGSFQwdGpiV0ZyTTFoUmRXYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "坊間比較少見的 hot cake, 幾種口味選擇都很不錯，上次吃過抹茶👍🏼，今次是伯爵茶，茶味清香，質感濃厚，十分滿意。下次再要試試店員推薦的朱古力伯爵茶，還有French Toast …… 期待。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "坊間比較少見的 hot cake, 幾種口味選擇都很不錯，上次吃過抹茶👍🏼，今次是伯爵茶，茶味清香，質感濃厚，十分滿意。下次再要試試店員推薦的朱古力伯爵茶，還有French Toast …… 期待。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cheung Mellie",
+          "uri": "https://www.google.com/maps/contrib/114238022872597283211/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIOcwx3iRA8Bvd6NobaCUCRicWhvJ4dpC-_YsYqGIXEpjgjwg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-10-13T08:44:51.431506457Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOUlNYcDFNa0U0VmpGSFQwdGpiV0ZyTTFoUmRXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOUlNYcDFNa0U0VmpGSFQwdGpiV0ZyTTFoUmRXYxAB!2m1!1s0x3403ff00070f5e8b:0xa009a9c37cb0571b"
+      },
+      {
+        "name": "places/ChIJi14PBwD_AzQRG1ewfMOpCaA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKcllraHFTVWhIV0ZkVFVtTTJhR3g0WVROSVdXYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "Oohlala Café，真係好嘢！冷泡咖啡香氣撲鼻，入口冰涼醒神，唔止係味蕾享受，仲係一場心靈嘅旅行。由街口行入去，沿途見到啲舊香港嘅痕跡——老招牌、石屎牆、舊式鐵閘，彷彿時光倒流，令人回味無窮。入到去，店員笑容滿面，招呼周到，好有香港人情味，令人感覺溫暖。呢啲地方，唔止係飲杯咖啡咁簡單，係一種生活態度，一種對舊時光嘅致敬。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Oohlala Café，真係好嘢！冷泡咖啡香氣撲鼻，入口冰涼醒神，唔止係味蕾享受，仲係一場心靈嘅旅行。由街口行入去，沿途見到啲舊香港嘅痕跡——老招牌、石屎牆、舊式鐵閘，彷彿時光倒流，令人回味無窮。入到去，店員笑容滿面，招呼周到，好有香港人情味，令人感覺溫暖。呢啲地方，唔止係飲杯咖啡咁簡單，係一種生活態度，一種對舊時光嘅致敬。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "King Anthony",
+          "uri": "https://www.google.com/maps/contrib/110822554834271794404/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUr8-1nteKqMTg7uU4UykSpqFXtHlpM6VPorznmmRqNBrOQdfmD=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-10-11T05:17:13.858912070Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKcllraHFTVWhIV0ZkVFVtTTJhR3g0WVROSVdXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKcllraHFTVWhIV0ZkVFVtTTJhR3g0WVROSVdXYxAB!2m1!1s0x3403ff00070f5e8b:0xa009a9c37cb0571b"
+      },
+      {
+        "name": "places/ChIJi14PBwD_AzQRG1ewfMOpCaA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxMmFHNWFTMDUwU0VWMWRrTnBWRXBaTlZOd01XYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "Weekend 想去西營盤cafe hopping 但發現出名嘅Cafe 係Full 晒😂\n但我只係想搵間可以靜靜地傾偈坐耐啲\n用試伏嘅心態入咗間新開完全無人嘅Cafe\n連Ig 都無😂 不過嘢食係幾好食！ French Toast 係用brioche 浸牛奶浸咗7個鐘再茶花生醬去整！\n然後Hot Cake 都係出面少見嘅甜品！！Earl Grey好濃好好食！\n不過呢間想飲啡嘅就唔啱你了 佢哋未有barista😂\n同Staff 傾計仲話佢哋想做街坊客 細細地做人情味嘅Cafe\n但好似無咩人幫襯 遲啲開學就轉做lunch 賣飯盒\n西營盤返學嘅dental 同學可以支持小店一試～\n如果想搵間靜少少嘅地方Chill\n下午茶可以過嚟Jap 個 Hotcake 😋🤟🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Weekend 想去西營盤cafe hopping 但發現出名嘅Cafe 係Full 晒😂\n但我只係想搵間可以靜靜地傾偈坐耐啲\n用試伏嘅心態入咗間新開完全無人嘅Cafe\n連Ig 都無😂 不過嘢食係幾好食！ French Toast 係用brioche 浸牛奶浸咗7個鐘再茶花生醬去整！\n然後Hot Cake 都係出面少見嘅甜品！！Earl Grey好濃好好食！\n不過呢間想飲啡嘅就唔啱你了 佢哋未有barista😂\n同Staff 傾計仲話佢哋想做街坊客 細細地做人情味嘅Cafe\n但好似無咩人幫襯 遲啲開學就轉做lunch 賣飯盒\n西營盤返學嘅dental 同學可以支持小店一試～\n如果想搵間靜少少嘅地方Chill\n下午茶可以過嚟Jap 個 Hotcake 😋🤟🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Moonly Eat with",
+          "uri": "https://www.google.com/maps/contrib/106533991983216452240/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHOSb3sMV_lXgSdlz8YlsqT35SbtfYWSVOJYVIiQgufPfUrA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-08-31T03:50:09.870307847Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxMmFHNWFTMDUwU0VWMWRrTnBWRXBaTlZOd01XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxMmFHNWFTMDUwU0VWMWRrTnBWRXBaTlZOd01XYxAB!2m1!1s0x3403ff00070f5e8b:0xa009a9c37cb0571b"
+      },
+      {
+        "name": "places/ChIJi14PBwD_AzQRG1ewfMOpCaA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKUWJHMW5OSGhpTjNnM1UyVTRkRzFuUlRsVFVrRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 1,
+        "text": {
+          "text": "飲品選擇少, 餐廳對面就係寺廟焚化爐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "飲品選擇少, 餐廳對面就係寺廟焚化爐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "LOUIS TSE",
+          "uri": "https://www.google.com/maps/contrib/104038775443465070702/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3LEU2uUX5pR5WDvfMBInj8MxHJr7K2fhYVWyMyC8WwRO3OTU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-01T06:01:07.494035084Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKUWJHMW5OSGhpTjNnM1UyVTRkRzFuUlRsVFVrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKUWJHMW5OSGhpTjNnM1UyVTRkRzFuUlRsVFVrRRAB!2m1!1s0x3403ff00070f5e8b:0xa009a9c37cb0571b"
+      },
+      {
+        "name": "places/ChIJi14PBwD_AzQRG1ewfMOpCaA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jM1NIVmxRVGRmWTFNMFMyMUhUM2R1YVRCNFFWRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物很美味，老闆也很友善。我無意中聽到她和另一位顧客聊天，說她會仔細考慮顧客的喜好、選用哪些食材，以及如何讓食物更美味。她也提到，她盡力堅持所有食材都從零開始製作，而不是使用市售產品。\n\n雖然餐廳位置可能有點偏僻，但我每次去都覺得很溫馨舒適。這裡已經成為我最喜歡的地方了❤️",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "The food is quite nice & the owner is friendly. I overheard her talking with another customer about how she thinks through what customers would like, what ingredients to use, & how to make her food tastier. She also mentioned how she tries her best to make everything from scratch instead of store bought items.\nIt may be located in a weird area but I feel warm & welcomed every time I go. My new favourite place ❤️",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Veronica Chow",
+          "uri": "https://www.google.com/maps/contrib/105186724794408709252/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeaF69BW60lcnmGHjdGFOXGBeVbjJiYXK1gBpqybSGywBCZtWvzQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-27T03:38:44.569461690Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jM1NIVmxRVGRmWTFNMFMyMUhUM2R1YVRCNFFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jM1NIVmxRVGRmWTFNMFMyMUhUM2R1YVRCNFFWRRAB!2m1!1s0x3403ff00070f5e8b:0xa009a9c37cb0571b"
+      }
+    ],
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff00070f5e8b:0xa009a9c37cb0571b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11531934977934513947&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff00070f5e8b:0xa009a9c37cb0571b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff00070f5e8b:0xa009a9c37cb0571b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff00070f5e8b:0xa009a9c37cb0571b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJi14PBwD_AzQRG1ewfMOpCaA/photos/Aa-ngMYk-X10zBiDiGj4WISpPy4w5tmgrMthYlA6Ee5MxG8hCSulpAwmxltELxw_EbeXFLvJV3JBUrDz1XcP9M2mosbS5yNjl2i0RaQoBWQooEZ4_QkdRje9eHniZzTRQo5iYmkd4pitbyZmjHKxpo4ut9jGYthe-py9R4V9dltoUJBb7SeNqaIdA_MkGFwycb0tsx2aHPcTaZaMlfrZppT0ovfXd5jjXBxBTNPnBGebIsMrLuJYuMImZv5thXChPB0Ywt9-xMWtR0GVa9zWVjy_IrAWJydetEptJ0oGiL_wsS3SSdqhexleok6yJXBv74NxC3Vc_9Mgn6564wspksjJwZMzG-XX5N8DPKbAp3dKR7HbHVDtdgTD4-BOQlhSbniVQhPTzV-HBAjNF5NI2wyJ4eitkRkWM2i7hbY-5RWeJcWeoQ",
+      "widthPx": 2992,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "LOUIS TSE",
+          "uri": "https://maps.google.com/maps/contrib/104038775443465070702",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3LEU2uUX5pR5WDvfMBInj8MxHJr7K2fhYVWyMyC8WwRO3OTU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDeqUZi41hh_cKpCMhA62GU&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDeqUZi41hh_cKpCMhA62GU!2e10!4m2!3m1!1s0x3403ff00070f5e8b:0xa009a9c37cb0571b"
+    },
+    "local_path": "photos/ChIJi14PBwD_AzQRG1ewfMOpCaA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5zNuWGKs5ujlj_GmDfd6Q-NAlJWKWz7ZFtA6yD8G4FWWoVfM156mT7hshx2kLTDYPH6kyjY02_RTMy9phqJbauHFo061bWWnRMdL_Ztg7H-NOjQ0eKCGikmZiZzD36mhGhhAkB6-uZOGD=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 166880
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "asian_restaurant",
+    "label": "亞洲風味餐廳",
+    "types": [
+      "asian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,430 @@
+{
+  "google_place_id": "ChIJNQXVre__AzQRFmZwFn2vzpI",
+  "restaurant_ids": [
+    "restaurant:2215802990"
+  ],
+  "fetched_at": "2026-10-23T15:51:37.855571+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJNQXVre__AzQRFmZwFn2vzpI",
+    "types": [
+      "japanese_restaurant",
+      "asian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2980 7406",
+    "internationalPhoneNumber": "+852 2980 7406",
+    "formattedAddress": "Le Meridien Hong Kong, Cyberport, 100 Cyberport Rd, Telegraph Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2619574,
+      "longitude": 114.1295129
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=10578585526522111510&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.marriott.com/en-us/hotels/hkgmd-le-meridien-hong-kong-cyberport/dining/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 14:00, 18:00 – 21:00",
+        "星期二: 12:00 – 14:00, 18:00 – 21:00",
+        "星期三: 12:00 – 14:00, 18:00 – 21:00",
+        "星期四: 12:00 – 14:00, 18:00 – 21:00",
+        "星期五: 12:00 – 14:00, 18:00 – 21:00",
+        "星期六: 12:00 – 14:30, 18:00 – 21:00",
+        "星期日: 12:00 – 14:30, 18:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 72,
+    "displayName": {
+      "text": "Umami",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJNQXVre__AzQRFmZwFn2vzpI/reviews/ChdDSUhNMG9nS0VJQ0FnSURMNXM3TC1RRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "完全係驚喜之作！本身諗住搵間近近地餐廳靜靜地食生日飯。諗住試吓，點知勁好食！同埋呢個環境、服務、食物好值。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "完全係驚喜之作！本身諗住搵間近近地餐廳靜靜地食生日飯。諗住試吓，點知勁好食！同埋呢個環境、服務、食物好值。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mandy Lu",
+          "uri": "https://www.google.com/maps/contrib/111877818966026759814/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9WI-SGvHlnjvYa7wc9h9OvzYd15iX2Mrq_0f5Mr9SOHa9iw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-06-27T13:05:05.537498Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMNXM3TC1RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMNXM3TC1RRRAB!2m1!1s0x3403ffefadd50535:0x92ceaf7d16706616"
+      },
+      {
+        "name": "places/ChIJNQXVre__AzQRFmZwFn2vzpI/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1LXVQZE1BEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "星期六和朋友走到薄扶林一帶house warming，見時間尙早，就直接在附近醫一醫肚再去朋友家。\n\n來到艾美酒店的日本餐廳Umami吃個午餐。餐廳樓底夠高，一派和風路線，有戶外用餐區，養著錦鯉和烏龜，沐浴在陽光下，好不寫意。\n\n正好這裏提供的weekend brunch 合我們心意。套餐包括前菜、主菜和甜品，也可以按個人喜好加入wine pairing。\n\n不過這個weekend brunch我們只需要選主菜，因為這個餐包括所有前菜。先來的是前菜三點，有合鴨煮、鮟鱇魚肝、三文魚子啫喱。\n\n牛油果蟹肉薯仔沙律鋪面的是一個蟹肉小山，下面的薯仔蓉幼滑，輕怡又清新。\n\n再來的刺身壽司賣相精美。刺身有吞拿魚腩、油甘魚、牡丹蝦，件件鮮甜肥美。壽司則有平目魚、酒煮鮑魚、帶子，飯不算多，一口一件剛好。\n\n接下來的鴨肝煎得兩邊焦黃，伴威士忌汁，油香滿溢又有酒香。\n\n天婦羅拼盤有海蝦、南瓜、番薯和日本穴子。炸得輕身又脆口。\n\n主菜選了柚子味噌法國有機春雞配茄子，春雞小小的一隻但肉很多。雞皮金黃而肥膏不多，直接連皮食亦不覺膩。雞肉保持鮮嫩多汁，醮上一旁的香䓤、柚子味噌醬，帶點微酸更能食出嫩滑。\n\n另一主菜則加錢點了吉列日本和牛配黑松露醬伴南瓜蓉。肥中肉厚的兩件外皮炸得金黃但透著微粉紅，看得到的透明油脂夾雜其中。\n\n黑松露醬味道很香，加上蛋汁，配炸得香口的吉列和牛，送飯一流。牛肉的油香，松露香和菌香共冶一爐。望住窗外的翠綠景色，令人心曠神怡。最後再吃件有質素的甜品，感覺心滿意足，可以開始餘下大半日的行程了。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期六和朋友走到薄扶林一帶house warming，見時間尙早，就直接在附近醫一醫肚再去朋友家。\n\n來到艾美酒店的日本餐廳Umami吃個午餐。餐廳樓底夠高，一派和風路線，有戶外用餐區，養著錦鯉和烏龜，沐浴在陽光下，好不寫意。\n\n正好這裏提供的weekend brunch 合我們心意。套餐包括前菜、主菜和甜品，也可以按個人喜好加入wine pairing。\n\n不過這個weekend brunch我們只需要選主菜，因為這個餐包括所有前菜。先來的是前菜三點，有合鴨煮、鮟鱇魚肝、三文魚子啫喱。\n\n牛油果蟹肉薯仔沙律鋪面的是一個蟹肉小山，下面的薯仔蓉幼滑，輕怡又清新。\n\n再來的刺身壽司賣相精美。刺身有吞拿魚腩、油甘魚、牡丹蝦，件件鮮甜肥美。壽司則有平目魚、酒煮鮑魚、帶子，飯不算多，一口一件剛好。\n\n接下來的鴨肝煎得兩邊焦黃，伴威士忌汁，油香滿溢又有酒香。\n\n天婦羅拼盤有海蝦、南瓜、番薯和日本穴子。炸得輕身又脆口。\n\n主菜選了柚子味噌法國有機春雞配茄子，春雞小小的一隻但肉很多。雞皮金黃而肥膏不多，直接連皮食亦不覺膩。雞肉保持鮮嫩多汁，醮上一旁的香䓤、柚子味噌醬，帶點微酸更能食出嫩滑。\n\n另一主菜則加錢點了吉列日本和牛配黑松露醬伴南瓜蓉。肥中肉厚的兩件外皮炸得金黃但透著微粉紅，看得到的透明油脂夾雜其中。\n\n黑松露醬味道很香，加上蛋汁，配炸得香口的吉列和牛，送飯一流。牛肉的油香，松露香和菌香共冶一爐。望住窗外的翠綠景色，令人心曠神怡。最後再吃件有質素的甜品，感覺心滿意足，可以開始餘下大半日的行程了。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "June",
+          "uri": "https://www.google.com/maps/contrib/110268643821076831337/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqdSKdcTSnVTGMa5H0dQY4CPJbMEZQAxaYeeECnSVj0Zrx-lAnvQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-08-19T06:19:24.240412Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1LXVQZE1BEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1LXVQZE1BEAE!2m1!1s0x3403ffefadd50535:0x92ceaf7d16706616"
+      },
+      {
+        "name": "places/ChIJNQXVre__AzQRFmZwFn2vzpI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpbS15d2V3EAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "位於港島南區的數碼港偶然會來一趟，但艾美酒店這邊倒是沒有去過。這次是因為在網上發現到一個看起來滿吸引的Afternoon Tea Set 就跟朋友過來了囉～大概是位置偏遠的關係，由3點吃到5點的Tea，期間只有我們和另外一桌而已\n整個環境很寧靜，落地玻璃旁有一個細細的水池\nUmami Japanese Restaurant and Bar 還是一間日本菜餐廳!!\n\n老實說看過原本餐牌的定價算是頗貴的，所以有點意外這Tea Set 的價錢！\nLeisure Tea Time ($380 For Two)\n要用筷子吃的日式Tea Set, 與平時用刀叉吃的當然有分別囉\n\n鹹點有六款，每款看起來都很精緻～\n所以這Tea Set 不是預大家吃得飽肚的。\n三文魚青瓜刺身卷 & 蒲鉾明太子 -\n前者是薄切的爽脆青瓜與肥美的三文魚；\n後者則是外層Q彈，內層有顆粒感的明太子\n普普通通的 蟹籽沙律 ～但蟹籽很卜卜脆\n\n鰻魚玉子燒 - 軟熟的蛋包著鬆軟的鰻魚，一口就沒有了\n帶子牛油果他他配柚子沙律汁 - 覺得兩者跟柚子的味道不是太夾，\n另外帶子不是切粒~而是一片的口感會更加好\n雜錦刺身壽司卷 - 平時的卷物入面是青瓜，這卷是用牛油果的!!\n\n甜點方面，左中兩款的貌相其實頗不錯的～但整體一般\n士多啤梨蛋糕卷 - 蛋糕稍微乾身了些，中間的有點像莓果醬的味道\n紅豆羊羹 - 下層部份很有紅豆蓉的口感，\n配合上層一起吃的話甜度剛剛好！\n抹茶蕨餅 - 這個真的很難吃~抹茶粉都乾掉黏在蕨餅上，\n吃落一口苦澀味道散不去 ...\n\n最後還有 柚子雪葩 ～好香的柚子味道，有涼透心感。\n餐飲有果汁、咖啡或茶可以選擇，\n加$100就可以升級至兩杯香檳或清酒馬天尼\n\nTotal：$387.6 (已包括原價加一服務費 & 未加一前8%匯豐信用卡優惠)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於港島南區的數碼港偶然會來一趟，但艾美酒店這邊倒是沒有去過。這次是因為在網上發現到一個看起來滿吸引的Afternoon Tea Set 就跟朋友過來了囉～大概是位置偏遠的關係，由3點吃到5點的Tea，期間只有我們和另外一桌而已\n整個環境很寧靜，落地玻璃旁有一個細細的水池\nUmami Japanese Restaurant and Bar 還是一間日本菜餐廳!!\n\n老實說看過原本餐牌的定價算是頗貴的，所以有點意外這Tea Set 的價錢！\nLeisure Tea Time ($380 For Two)\n要用筷子吃的日式Tea Set, 與平時用刀叉吃的當然有分別囉\n\n鹹點有六款，每款看起來都很精緻～\n所以這Tea Set 不是預大家吃得飽肚的。\n三文魚青瓜刺身卷 & 蒲鉾明太子 -\n前者是薄切的爽脆青瓜與肥美的三文魚；\n後者則是外層Q彈，內層有顆粒感的明太子\n普普通通的 蟹籽沙律 ～但蟹籽很卜卜脆\n\n鰻魚玉子燒 - 軟熟的蛋包著鬆軟的鰻魚，一口就沒有了\n帶子牛油果他他配柚子沙律汁 - 覺得兩者跟柚子的味道不是太夾，\n另外帶子不是切粒~而是一片的口感會更加好\n雜錦刺身壽司卷 - 平時的卷物入面是青瓜，這卷是用牛油果的!!\n\n甜點方面，左中兩款的貌相其實頗不錯的～但整體一般\n士多啤梨蛋糕卷 - 蛋糕稍微乾身了些，中間的有點像莓果醬的味道\n紅豆羊羹 - 下層部份很有紅豆蓉的口感，\n配合上層一起吃的話甜度剛剛好！\n抹茶蕨餅 - 這個真的很難吃~抹茶粉都乾掉黏在蕨餅上，\n吃落一口苦澀味道散不去 ...\n\n最後還有 柚子雪葩 ～好香的柚子味道，有涼透心感。\n餐飲有果汁、咖啡或茶可以選擇，\n加$100就可以升級至兩杯香檳或清酒馬天尼\n\nTotal：$387.6 (已包括原價加一服務費 & 未加一前8%匯豐信用卡優惠)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dolly Chan",
+          "uri": "https://www.google.com/maps/contrib/108294886827109875493/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGqpPSdFKKsI1LN-5PRtUIUZHnCKdPr8Q8c_it-m4LqdFla7KE-A=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2020-11-16T13:12:40.986513Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNpbS15d2V3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNpbS15d2V3EAE!2m1!1s0x3403ffefadd50535:0x92ceaf7d16706616"
+      },
+      {
+        "name": "places/ChIJNQXVre__AzQRFmZwFn2vzpI/reviews/ChdDSUhNMG9nS0VOZnNoZWIzcHA2dGhRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "服務態度非常好，為記念日帶來了驚喜。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務態度非常好，為記念日帶來了驚喜。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "SOYC",
+          "uri": "https://www.google.com/maps/contrib/101610352872944835594/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3RK-0ij9YhamOpBTQa7WjHYvMujn3ZRDRjInnmc4tIP41IrWBUw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-05-18T04:41:24.616046Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOZnNoZWIzcHA2dGhRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOZnNoZWIzcHA2dGhRRRAB!2m1!1s0x3403ffefadd50535:0x92ceaf7d16706616"
+      },
+      {
+        "name": "places/ChIJNQXVre__AzQRFmZwFn2vzpI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQweGJDYzRRRRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 3,
+        "text": {
+          "text": "yellow tail魚生新鮮美味，燒牛就。。。。。。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "yellow tail魚生新鮮美味，燒牛就。。。。。。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Carson Chan",
+          "uri": "https://www.google.com/maps/contrib/113247740269018515690/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjWGMER-h2oipr3VOS00hRox5E1aRUI-ze1Ffkd2i4VJNPn1_S=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2019-11-12T16:26:38.448535Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQweGJDYzRRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQweGJDYzRRRRAB!2m1!1s0x3403ffefadd50535:0x92ceaf7d16706616"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ffefadd50535:0x92ceaf7d16706616!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10578585526522111510&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ffefadd50535:0x92ceaf7d16706616!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ffefadd50535:0x92ceaf7d16706616!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ffefadd50535:0x92ceaf7d16706616!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJNQXVre__AzQRFmZwFn2vzpI/photos/Aa-ngMb9fU_-J80Fuf-Qc90ApTonKJ424bihQKQwk9dhrQ-ROAhhGMcZDcXhFKld4q0mY4eDrgbE9eOSTHptua00_2JO0vGZ60k22YkBw7tXnmAlwibyfqoQogm0MtvjGOB3iw5oYTPSGwYvl01Oojnm7ghDYhThKSq7NPuTonzdbKZiJfU1Lq2CIjS6p3bp0qeT1tpnLkdiGYof37khHO8B39KN2l6zNO8thLw2EbWHUv2seE_vbs5KV2WT2W92lLRks7RNni7gnPRVUEMSbrXrd5-KpOQfY7zLnbqJNiCcMgYRPl87u9XNDe_kBK1cHH22zrmE2CerOpjCxU4wbqjz6v4_91BiHdPWoWAtZB0npB8pqTITgmhfm7_8Enxymd2wWnRfLfN8EzGUeXi1oj_X0f7803a7",
+      "widthPx": 1920,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "Umami",
+          "uri": "https://maps.google.com/maps/contrib/105707845924544053612",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjxI8vbp_HMPpJccQ3l2LgeEBPidZofMoX9eFWYN9o-U4HHno=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICu9LH_vAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu9LH_vAE!2e10!4m2!3m1!1s0x3403ffefadd50535:0x92ceaf7d16706616"
+    },
+    "local_path": "photos/ChIJNQXVre__AzQRFmZwFn2vzpI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxSUdD_wa2v4FRyhTcRmyMDGtRmnKbQLCyusOluc5zR6UxfFM-EpYPtDb4tSJE7zFxdTRUrJEogOA_f2nUG-0Vl4rgKuTBGlJCcMCha-zmDb1pPFmpblrSsBCkmixXL3D8Q732=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 85262
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.marriott.com/search/default.mi",
+        "label": "Find & Reserve",
+        "source_url": "https://www.marriott.com/en-us/hotels/hkgmd-le-meridien-hong-kong-cyberport/dining/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.sevenrooms.com/reservations/southsidebistrohkgmd/marriott-com-hotel-websites?venues=namfonghkgmd,southsidebistrohkgmd,umamilatitude22hkgmd",
+        "label": "Book a Table",
+        "source_url": "https://www.marriott.com/en-us/hotels/hkgmd-le-meridien-hong-kong-cyberport/dining/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fp.sevenrooms.com/reservations/namfonghkgmd?venues=namfonghkgmd,southsidebistrohkgmd,umamilatitude22hkgmd",
+        "label": "Book a Table",
+        "source_url": "https://www.marriott.com/en-us/hotels/hkgmd-le-meridien-hong-kong-cyberport/dining/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.sevenrooms.com/reservations/umamilatitude22hkgmd/marriott-com-hotel-websites?venues=namfonghkgmd,southsidebistrohkgmd,umamilatitude22hkgmd",
+        "label": "Book a Table",
+        "source_url": "https://www.marriott.com/en-us/hotels/hkgmd-le-meridien-hong-kong-cyberport/dining/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "asian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.marriott.com/search/default.mi",
+  "menu_url": null
+}

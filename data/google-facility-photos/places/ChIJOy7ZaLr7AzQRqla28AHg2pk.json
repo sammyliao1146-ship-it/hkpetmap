@@ -1,0 +1,39 @@
+{
+  "id": "ChIJOy7ZaLr7AzQRqla28AHg2pk",
+  "types": [
+    "pet_care",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "G/F, Leung Tin Village No.59, Leung Tin Village, New Territories, 香港",
+  "location": {
+    "latitude": 22.3988731,
+    "longitude": 113.97754150000002
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11086419731663967914&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Hello Meow Meow 屯門貓酒店及沖涼美容服務",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJOy7ZaLr7AzQRqla28AHg2pk/photos/Aa-ngMYOPetyfUQvEwm7YvjDikLpm0bpypE1OAySsdbD01kX84v8Ldtwl6UnnHlZpQxOuZws5XTsjYZasx6oy4-ohgncKcvHHJwD-W8v6U4aI8an2Kdd-E-g9OnFzzE4UWK7vmePwelPrW_blXGhhcSSIy9KLxUrabFuqHD3Ekd1ypB7C3ddDEptIDqRJmcJKqKzCgXYulP1Z_IWU1F51eDPIjW3EU_u1XWdK1IeX856IByoP1nth5QlgAgY8TllO9e82HKALFHcy221yMpCUI2RBEw6fCtoWUEir42_Pp13pSaggMx5N2qzXK045gs9ZSA70NpKejk47q7WCLgx5p5EKERwWepZmBqTVD7lpIEdNax5n7qs32UhEnjdVIJYqzH3zkSq7Il5JU6-38DOcJvzZndqY0jfcaUGz9os-9lE9iEb",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "Ching Ching Chan",
+          "uri": "https://maps.google.com/maps/contrib/104336037184395356350",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHmQa0RxaDFOUlla_BPDIyraWf7fAkVsGA1o1Jh_U8ddEiOw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBJ-6M3fvRIA7vtIVzCWLkg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBJ-6M3fvRIA7vtIVzCWLkg!2e10!4m2!3m1!1s0x3403fbba68d92e3b:0x99dae001f0b656aa"
+    }
+  ],
+  "photo_count": 3,
+  "fetched_at": "2026-10-24T00:38:23.255315+00:00"
+}

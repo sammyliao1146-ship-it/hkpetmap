@@ -1,0 +1,40 @@
+{
+  "id": "ChIJ2d1lOQAHBDQR9hWxLgyoClo",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "service",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍新蒲崗彩虹道106號",
+  "location": {
+    "latitude": 22.3365212,
+    "longitude": 114.19496369999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6488182983457052150&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "海寧動物醫院 Harbour Animal Hospital",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJ2d1lOQAHBDQR9hWxLgyoClo/photos/Aa-ngMbX7bA6izTPNoOUY4XZYDBFWVKSfYVcvmqii1ZvI1iLAOmTF8OxbCQzYfDcV2MtkV6FN5wWLIySewi8l_Xr2UQcd3KK0qV9jZ9PaeKswjoTv4v0-LWJEvPOrw6Sr2A0vbLQi3QEKaBmHdWaCNgShdSo4Sy9Zf0gkRWp5-dV7Ofbj-Os792Q0ISsY3n2p1ZP4mv8tvuWA97Db0f3YAdhDgYowY2BxrBxzgzYhpVlBgXvy1UVn4-R7R10I2C3cgKSzbfsrc3x7l0qeBx6CQf4XhSHI_-uaOz0Z_H_JkgpEZwk1SoF8CDVw8E9t7Auki07W9NrBaL_PnExWOd288jqdHPup9lDmiA3YnoMZ4LgoUBKvPvzZMim1IkDA04ccaMvPeFQvtJX1GXgroDrXq3pl2SlL4rThaT9UjbosUre3MTSUQ",
+      "widthPx": 2048,
+      "heightPx": 1591,
+      "authorAttributions": [
+        {
+          "displayName": "海寧動物醫院 Harbour Animal Hospital",
+          "uri": "https://maps.google.com/maps/contrib/102413283989865414010",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKf6-JYNb-660DxlArrZcNfPzPvm5FExFSWg7dJIWg1Yz50C4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAGbzaqOBHxG2fjpwUAC5oW&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaqOBHxG2fjpwUAC5oW!2e10!4m2!3m1!1s0x340407003965ddd9:0x5a0aa80c2eb115f6"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:41.818115+00:00"
+}

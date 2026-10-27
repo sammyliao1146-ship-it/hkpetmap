@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJ-V9bewAHBDQRhtlcRO0dAeQ",
+  "restaurant_ids": [
+    "restaurant:2263809655"
+  ],
+  "fetched_at": "2026-10-23T15:38:45.102328+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ-V9bewAHBDQRhtlcRO0dAeQ",
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3460 5323",
+    "internationalPhoneNumber": "+852 3460 5323",
+    "formattedAddress": "香港九龍長沙灣瓊林街g06",
+    "location": {
+      "latitude": 22.3391766,
+      "longitude": 114.1464824
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=16429445820515670406&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 19:00",
+        "星期二: 07:00 – 19:00",
+        "星期三: 07:00 – 19:00",
+        "星期四: 07:00 – 19:00",
+        "星期五: 07:00 – 19:00",
+        "星期六: 07:00 – 19:00",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 17,
+    "displayName": {
+      "text": "開花結果",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "速食餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "fast_food_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ-V9bewAHBDQRhtlcRO0dAeQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkMVFrcFhSMEpNUTJweGVsQlZjVk16T1hGMlJFRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "沙律好味到不得了！\n健康、美味、有益\n但要有排長龍等候心理準備",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "沙律好味到不得了！\n健康、美味、有益\n但要有排長龍等候心理準備",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Carmen TAM",
+          "uri": "https://www.google.com/maps/contrib/114793869492108753036/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfmPyIFdiSSTwNdcdEpjq1XNbQsZpKCkcAReNtDNbmBd74dg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-06-29T06:38:53.067485283Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkMVFrcFhSMEpNUTJweGVsQlZjVk16T1hGMlJFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkMVFrcFhSMEpNUTJweGVsQlZjVk16T1hGMlJFRRAB!2m1!1s0x340407007b5b5ff9:0xe4011ded445cd986"
+      },
+      {
+        "name": "places/ChIJ-V9bewAHBDQRhtlcRO0dAeQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxUlUxRTNaMlY2TVZKcWRHTmFXV0Z1TURVMVMwRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "環境舒適,食物品種多\n好味",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒適,食物品種多\n好味",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "jackson leung",
+          "uri": "https://www.google.com/maps/contrib/110572444422371990905/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnmh2RF3NE_l_dOlYN9e-caE73PTnNlK3tLvwwcioHQLMxdfrQaw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-16T08:16:49.212683677Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxUlUxRTNaMlY2TVZKcWRHTmFXV0Z1TURVMVMwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxUlUxRTNaMlY2TVZKcWRHTmFXV0Z1TURVMVMwRRAB!2m1!1s0x340407007b5b5ff9:0xe4011ded445cd986"
+      },
+      {
+        "name": "places/ChIJ-V9bewAHBDQRhtlcRO0dAeQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aRFQxYzNSRVk1VDJsdU1ITnFOMkZ4YkROamIyYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物對得住價錢，難怪長期排隊等位喔...",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物對得住價錢，難怪長期排隊等位喔...",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fiona Lam",
+          "uri": "https://www.google.com/maps/contrib/100875367475864668014/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEFn9AnW9ZiZV8dJurkky9lddGDt8UxUc3blE3pRQqZB2EUX8W=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-12-18T15:13:28.810278037Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aRFQxYzNSRVk1VDJsdU1ITnFOMkZ4YkROamIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aRFQxYzNSRVk1VDJsdU1ITnFOMkZ4YkROamIyYxAB!2m1!1s0x340407007b5b5ff9:0xe4011ded445cd986"
+      },
+      {
+        "name": "places/ChIJ-V9bewAHBDQRhtlcRO0dAeQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT201elIyZHVaM1JpUTNJMU9TMVBPV1U0V1VZd1pHYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "性價比超高。食完會想再食！！！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "性價比超高。食完會想再食！！！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "지은",
+          "uri": "https://www.google.com/maps/contrib/102523583874829679774/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYr5n6AWmQmzEOc8BnMlGXwmzHprEkh_h6tMQiZS1qxWMreQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-08T13:57:44.379387295Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201elIyZHVaM1JpUTNJMU9TMVBPV1U0V1VZd1pHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201elIyZHVaM1JpUTNJMU9TMVBPV1U0V1VZd1pHYxAB!2m1!1s0x340407007b5b5ff9:0xe4011ded445cd986"
+      },
+      {
+        "name": "places/ChIJ-V9bewAHBDQRhtlcRO0dAeQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT204MmRreGlWRGhzYmt4bVlVeFRkSE5JVURFMFZsRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 3,
+        "text": {
+          "text": "早餐魚柳分量太細，丹麥多士唔夠溫度",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "早餐魚柳分量太細，丹麥多士唔夠溫度",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "C k",
+          "uri": "https://www.google.com/maps/contrib/108325469405404002186/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXAItKlPAY4dCKVJp-BWi7h6FYI56SOi2SCNixfLC1CIMI_g=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-09T10:42:17.741883408Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT204MmRreGlWRGhzYmt4bVlVeFRkSE5JVURFMFZsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204MmRreGlWRGhzYmt4bVlVeFRkSE5JVURFMFZsRRAB!2m1!1s0x340407007b5b5ff9:0xe4011ded445cd986"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340407007b5b5ff9:0xe4011ded445cd986!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16429445820515670406&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407007b5b5ff9:0xe4011ded445cd986!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340407007b5b5ff9:0xe4011ded445cd986!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407007b5b5ff9:0xe4011ded445cd986!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ-V9bewAHBDQRhtlcRO0dAeQ/photos/Aa-ngMYsyg_LyK91WBlVtrvSFI7eJxOfeZQwAqeucrZdgQ4zMkOwGUDOnSuwrk1rbO8tqbLw3s64tqqJ3FbGOxxSDL3B1jA1NGEJex5xvOTcuBhhbNbVbKp08YG0eDgXSPM0KP29vGqD03xjrEc8ua4kjJ38HwDNgW7yvWAxhtDSEcuMu9wXyOtOG0tX2q8DCYrfk9a9w7SM2qhuELsI4anVNgQRsnN4ZrwCN4zdd69LWkP-dLQSKWlcg6gHDLtbPyLxa41AJ8keKczzK5F11K-f5gf0EqTCWcWEqjriy-VTLWBOylyD3SOUVW6Q2YkgH_WBz_Li0j4n9NDU3z-AQ6YQZml7tF4MbTSMDxYJ4IQpl-XYzVi3WMfAslVbtRIR1g8ng-5L-NyAE4OeT_Vw-VZepYWN9lb1fQZ3DCcyz5reJQNh8g",
+      "widthPx": 2301,
+      "heightPx": 1295,
+      "authorAttributions": [
+        {
+          "displayName": "KoalaHuggie",
+          "uri": "https://maps.google.com/maps/contrib/110354131350722604993",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzCTA3feE7ypQSZAnIMVXgDy81_ZZnLJPjX59Fw2NI_RqZExg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCEtt_ThLe0bDAIExjKt2II&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCEtt_ThLe0bDAIExjKt2II!2e10!4m2!3m1!1s0x340407007b5b5ff9:0xe4011ded445cd986"
+    },
+    "local_path": "photos/ChIJ-V9bewAHBDQRhtlcRO0dAeQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUaJg7LXc4MaNR661WBbkDk5_Pqg_YymgUnBfJAX7SN0WbfbIrU1Xo0ohMnt0oAahp_LcuYdj18n98j8lH4eRWf5ifRcrODKbnuTECEDklxP0JJign1mlAREvsBvIe-5oChhiLPdZUs26H=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 88495
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "fast_food_restaurant",
+    "label": "速食餐廳",
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ChIJkehXBisHBDQRWmWaXBdvH1g",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍九龍城賈炳達道128號",
+  "location": {
+    "latitude": 22.3309857,
+    "longitude": 114.18796239999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6349916145744242010&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "九龍城廣場 Kowloon City Plaza",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "shopping_mall",
+  "photos": [
+    {
+      "name": "places/ChIJkehXBisHBDQRWmWaXBdvH1g/photos/Aa-ngMagdpaWsqoV5SMLyfWvYLqiaGQOiPuoxkQheOl5-hz5Xzra7FSQsTMuDHWLf2028gV2wdGKUBJ6LxznqoY0-w747Z1cGBm4CLgjUQbY84-1IQ7sa2vrn9mjQvnL_RR4885MMZiVVsgZ48hqJ9oVvbeOXOMRKODWIvftWhvQ_A200sPzM3HcxmCNpePV4kyQwdjvMNeP3VnxxYJEEF2N9desvhFYZqp6EAZlHkSUuRYJ9027H2Zo9ggJhSlMVB4OP3WZoiyRUakcIGBqNcZxXCfEdzrSbkUrtk6gz3LG9F5jS5PCzAB-aW0DhLHfii1I_3Ybz6T88onI7Tz2gJWrVAyC_NcJjBKXrUtUKitstHH3LphtS6K-tVCA16Enewh6RbqDYA5GlNJEXbaJ-qKNlmH1JJNiJkc0LHxHSPQSjrCb",
+      "widthPx": 1320,
+      "heightPx": 892,
+      "authorAttributions": [
+        {
+          "displayName": "九龍城廣場 Kowloon City Plaza",
+          "uri": "https://maps.google.com/maps/contrib/114463420656652008087",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2EGZZmU3kDPwtHNUSx2XF9YkLuDKcVfrbztXpHMDXca7mxoI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAT0IWhZa-02JMQtowNcXOO&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAT0IWhZa-02JMQtowNcXOO!2e10!4m2!3m1!1s0x3404072b0657e891:0x581f6f175c9a655a"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:01.015674+00:00"
+}

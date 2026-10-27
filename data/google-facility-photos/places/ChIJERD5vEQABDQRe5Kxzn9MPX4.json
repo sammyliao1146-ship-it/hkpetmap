@@ -1,0 +1,38 @@
+{
+  "id": "ChIJERD5vEQABDQRe5Kxzn9MPX4",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界元朗鳳琴街22號, Kam Lung Mansion, 13號",
+  "location": {
+    "latitude": 22.443146000000002,
+    "longitude": 114.0338252
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9096510934170571387&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "香港獸醫中心",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJERD5vEQABDQRe5Kxzn9MPX4/photos/Aa-ngMaLBMDSQ-aty72-YnidMl9BpnZ60ZTR6bT8UfmwEmg5JkfTVSJsP15vcSjld6RIbjH74cURPZTcDpc09cjq7Q4tQVUKSN_G-7KY1ypp3yeMYJd_zb5XPI61G15WCDoM1CUIcIaxDKZVizn2Uk-t5SoIYxlb4PNKAyXSrrXvG3S_ZpNTyNFCsEK9qlXuo4pdRpx25ZqHcKsLew-PS5NecEIyv40ecNw2gAmqMuS9QmDViwRWHx1L2Y0cOVDXxqHXrz9uEcqpsjKI7BvZguewo5B9wOEFPRhcvcRA6EB5l6uFC-bZjTC_06s7JJIY7bQVxuDGQ8Ty5CZvqHDxp1T5QgaYEizZrTtIiSRqQ2iNRpl2a0VkFTWqBWwlUdXL3L05GTx0JSSmvc42n9nV_cBmUMTLDPQ",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Ka Sau Law (Waterlaw)",
+          "uri": "https://maps.google.com/maps/contrib/104726373833074318593",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1gL7GS5C_x1iH4H4Kn5EkQSFZVxlJFt_2EPqMHydvxnr02MtLsA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDuj8vLCg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuj8vLCg!2e10!4m2!3m1!1s0x34040044bcf91011:0x7e3d4c7fceb1927b"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:47.936104+00:00"
+}

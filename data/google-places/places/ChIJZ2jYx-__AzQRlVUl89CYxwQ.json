@@ -1,0 +1,340 @@
+{
+  "google_place_id": "ChIJZ2jYx-__AzQRlVUl89CYxwQ",
+  "restaurant_ids": [
+    "restaurant:3115228453"
+  ],
+  "fetched_at": "2026-10-23T15:49:30.086910+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJZ2jYx-__AzQRlVUl89CYxwQ",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2989 6115",
+    "internationalPhoneNumber": "+852 2989 6115",
+    "formattedAddress": "4/F, Cyberport 3, 100 Cyberport Rd, Telegraph Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2613602,
+      "longitude": 114.1306855
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=344411919717062037&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.starbucks.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 18:00",
+        "星期二: 07:30 – 18:00",
+        "星期三: 07:30 – 18:00",
+        "星期四: 07:30 – 18:00",
+        "星期五: 07:30 – 18:00",
+        "星期六: 09:00 – 18:00",
+        "星期日: 09:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 110,
+    "displayName": {
+      "text": "星巴克 (數碼港4樓)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "editorialSummary": {
+      "text": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJZ2jYx-__AzQRlVUl89CYxwQ/reviews/ChdDSUhNMG9nS0VNMm5ydkgzNjdmUWdBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "我住附近成日幫襯，呢度staffs極度友善，個個笑容滿臉!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我住附近成日幫襯，呢度staffs極度友善，個個笑容滿臉!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "j jooee",
+          "uri": "https://www.google.com/maps/contrib/109195013360661187563/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBZ2Uo1RnqC_CYgxH6TetWSzYgvbSCsa8x9CLEwKtggHXk-tI7=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-05-26T14:00:50.633947Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VNMm5ydkgzNjdmUWdBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VNMm5ydkgzNjdmUWdBRRAB!2m1!1s0x3403ffefc7d86867:0x4c798d0f3255595"
+      },
+      {
+        "name": "places/ChIJZ2jYx-__AzQRlVUl89CYxwQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMbnZpOWFREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "員工服務態度好，坐低等竟然會送埋杯嘢飲埋位🤓 good vibe",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "員工服務態度好，坐低等竟然會送埋杯嘢飲埋位🤓 good vibe",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ありむらさ",
+          "uri": "https://www.google.com/maps/contrib/108291144926519180919/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfWkarVaYrhFAyKFfXN-DB-qwYUM6GB-XxRcIO1QB4d56IEQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-06-19T11:35:13.410957Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMbnZpOWFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMbnZpOWFREAE!2m1!1s0x3403ffefc7d86867:0x4c798d0f3255595"
+      },
+      {
+        "name": "places/ChIJZ2jYx-__AzQRlVUl89CYxwQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvNnZhX3RRRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "座位不多，但有室外公共空間，與親朋好友可消磨半天。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "座位不多，但有室外公共空間，與親朋好友可消磨半天。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tomy Ho",
+          "uri": "https://www.google.com/maps/contrib/113970697061869742090/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVySoLBFSKyOnbl23QVwujS-Vuh1QJ8DnIR9J0TLV_bjFJJYXA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2019-02-11T00:18:08.504535Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNvNnZhX3RRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNvNnZhX3RRRRAB!2m1!1s0x3403ffefc7d86867:0x4c798d0f3255595"
+      },
+      {
+        "name": "places/ChIJZ2jYx-__AzQRlVUl89CYxwQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwM1l5anZ3RRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 5,
+        "text": {
+          "text": "位於數碼港內，人流少，清淨，感覺舒服。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於數碼港內，人流少，清淨，感覺舒服。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Grary Lo",
+          "uri": "https://www.google.com/maps/contrib/101082615655054208783/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKLpLDfDdJombW6jzgcVy0c5XYS96oxMl-olTcUpKHqLNVSeg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2019-10-07T11:24:21.405980Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwM1l5anZ3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwM1l5anZ3RRAB!2m1!1s0x3403ffefc7d86867:0x4c798d0f3255595"
+      },
+      {
+        "name": "places/ChIJZ2jYx-__AzQRlVUl89CYxwQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURtLTREM3FBRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "地方寬敞！環境休靜！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地方寬敞！環境休靜！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chan Fai Fung",
+          "uri": "https://www.google.com/maps/contrib/103594472727548265627/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLicWk78i06kTMFcs1pPVqTdlsama4TbkDboPJ0Ys024K8rQQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-02-10T16:35:18.722978Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURtLTREM3FBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURtLTREM3FBRRAB!2m1!1s0x3403ffefc7d86867:0x4c798d0f3255595"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ffefc7d86867:0x4c798d0f3255595!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=344411919717062037&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ffefc7d86867:0x4c798d0f3255595!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ffefc7d86867:0x4c798d0f3255595!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ffefc7d86867:0x4c798d0f3255595!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJZ2jYx-__AzQRlVUl89CYxwQ/photos/Aa-ngMZoPDbmnujvbmSjcAun5s1mMrGzUOnNXiAJOcb_ivjf0yrsF6QWiFObtEDF2M6-WhUvQV0iplrkrT2ewOCZvjBwuECdxL8bS7z-SOlhjGY8F-efvP3gOGYSfRHKuoMBBq3xTVWHe2BXM-hdjRZhD7UmI5Sbi--AjsEhX5axHDxM9huseulbAsOAxcA11EknkemgPx3yesz8lp75FbYnamLHszEKDPBob90JYbC1M92Dn-nkjmsHA7klqKi0DzqwcAgOcXYI9ZfIhy9Vjo7qQpOGOcPGlw4DK2buSrtNGj8AivCvjLqEVJTWTpuuiGprW1Ws8cxKu54CaTjqvSJcy2BC0F1q5p_ynYCU_VhE60Ke1K7Wg8ssH1Ydw37g1ZXh0mCiE9dBgWvmhbH8x4z3HzXheTk",
+      "widthPx": 4160,
+      "heightPx": 2340,
+      "authorAttributions": [
+        {
+          "displayName": "Geoff Murtaugh",
+          "uri": "https://maps.google.com/maps/contrib/100011147054145121557",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAuQa4_WFWt6kHSYf-ZeZYP8DYbaIcWS8pUF8JYIvC8dJmKctz=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDcy8_ofQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcy8_ofQ!2e10!4m2!3m1!1s0x3403ffefc7d86867:0x4c798d0f3255595"
+    },
+    "local_path": "photos/ChIJZ2jYx-__AzQRlVUl89CYxwQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgPu94Rxc65Y55neDOo7BePFwQAHr-KYn9PbzPdmoFl54Of6MboGHqlE0MXs9SkiBl9BIcNOLgXU9YP-x6wKCO4SiNu8IvuKnsVR3-TeunCdNvUDFWMQsYGZjdwrTWWF9pkVw2=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 80421
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

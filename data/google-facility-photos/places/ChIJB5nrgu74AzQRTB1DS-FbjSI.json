@@ -1,0 +1,40 @@
+{
+  "id": "ChIJB5nrgu74AzQRTB1DS-FbjSI",
+  "types": [
+    "bakery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界荃灣楊屋道1號Citywalk 1Shop 25-26, G/F",
+  "location": {
+    "latitude": 22.3696989,
+    "longitude": 114.1140802
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2489747192194211148&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "A-1 Bakery & Chateraise",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "bakery",
+  "photos": [
+    {
+      "name": "places/ChIJB5nrgu74AzQRTB1DS-FbjSI/photos/Aa-ngMYn626_I6SvUcjy8WOYMi91uuYuNlCkUoxUlnmPqBlK0YA5aNQd9JxntSsXKx6rLqeC8hsKFqM_1zD6fvQWxRA40Hud-m_18Tp3jxq65ZeodRzsdZHIOcDDf7yYSQrWnAc17YljnO-R7DkRaCEHZUk_ei6xriCUdaBhpEVUPmTywBqAU8imnr6SDqHuguU5wVzoA-zReT8gw6PoBbyhRlSS8s3_vczyagKn6ks3taWtqRjLhAHSdAbwyEEdEMv0MBU-z21b-iSXF1GGHBtZf3-HbfLI9yWZp-R3ztkVMqA1pmLt7dHFziiao-QYGX34qlIMDQ_qJjvbZXfGte1zOTwbjCJFcg68hSAwoJ9uuM2v66siTse6xlE6II78M3xUmR_uuqm9eP63E2fAljT2XIMIYCuwND8",
+      "widthPx": 750,
+      "heightPx": 422,
+      "authorAttributions": [
+        {
+          "displayName": "A-1 BAKERY 英王麵包店",
+          "uri": "https://maps.google.com/maps/contrib/110812096712557538624",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLPh4XcfM1R5kgzucZk2rCA_gvwd_IuNrzo8MFJNHGIKrIgtA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC5_4eAlwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5_4eAlwE!2e10!4m2!3m1!1s0x3403f8ee82eb9907:0x228d5be14b431d4c"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:03.015541+00:00"
+}

@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJpWo6XnwABDQRw122I_4_HSM",
+  "restaurant_ids": [
+    "restaurant:3118807295"
+  ],
+  "fetched_at": "2026-10-23T15:44:12.309071+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJpWo6XnwABDQRw122I_4_HSM",
+    "types": [
+      "dim_sum_restaurant",
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3956 5500",
+    "internationalPhoneNumber": "+852 3956 5500",
+    "formattedAddress": "香港香港島中環蘇杭街3-5號榮發樓樓5 室2 號",
+    "location": {
+      "latitude": 22.285244,
+      "longitude": 114.15265409999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=2530248926405483971&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 21:00",
+        "星期二: 07:30 – 21:00",
+        "星期三: 07:30 – 21:00",
+        "星期四: 07:30 – 21:00",
+        "星期五: 07:30 – 21:00",
+        "星期六: 07:30 – 18:30",
+        "星期日: 07:30 – 17:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 461,
+    "displayName": {
+      "text": "蘇杭冰室",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "茶餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "dim_sum_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJpWo6XnwABDQRw122I_4_HSM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWd1kySjJSMkY0U2toWU1uTTRSRlpJWkVrNWJtYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 3,
+        "text": {
+          "text": "星期日中午不用排隊等位，就入去奉獻第一次，叫了雙併义燒、蝦仁蛋炒飯。凍0茶少冰。义烧普通、蝦仁大隻、爽、凍0茶不澀、不過不覺少冰囉！大致份量夠飽、水準ok。會有下次（不用排隊狀況下）。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期日中午不用排隊等位，就入去奉獻第一次，叫了雙併义燒、蝦仁蛋炒飯。凍0茶少冰。义烧普通、蝦仁大隻、爽、凍0茶不澀、不過不覺少冰囉！大致份量夠飽、水準ok。會有下次（不用排隊狀況下）。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Move Cheung",
+          "uri": "https://www.google.com/maps/contrib/113256056404413545520/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKafE1-omB3gCJhb6XaPOwgHWfLVnP5PADdJWREW4V6Dn-Lmw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-23T05:15:06.170813918Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWd1kySjJSMkY0U2toWU1uTTRSRlpJWkVrNWJtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWd1kySjJSMkY0U2toWU1uTTRSRlpJWkVrNWJtYxAB!2m1!1s0x3404007c5e3a6aa5:0x231d3ffe23b65dc3"
+      },
+      {
+        "name": "places/ChIJpWo6XnwABDQRw122I_4_HSM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0SlJETlZkRXMwV0VaWWNVaENNVmROUzBKWVFsRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "早晨套餐，奶油脆豬不用加錢，非常脆及好味，奶茶調校得正合我心意。麻辣肉丁公仔麵，肉丁自家製的，感覺健康。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "早晨套餐，奶油脆豬不用加錢，非常脆及好味，奶茶調校得正合我心意。麻辣肉丁公仔麵，肉丁自家製的，感覺健康。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nikita ng",
+          "uri": "https://www.google.com/maps/contrib/117292226746721811174/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVd015975OwZTk4LAkaj3CDogvhO6_fbYyDCC65iEqhvbpIAA2QJA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-09T02:11:37.737367536Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0SlJETlZkRXMwV0VaWWNVaENNVmROUzBKWVFsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0SlJETlZkRXMwV0VaWWNVaENNVmROUzBKWVFsRRAB!2m1!1s0x3404007c5e3a6aa5:0x231d3ffe23b65dc3"
+      },
+      {
+        "name": "places/ChIJpWo6XnwABDQRw122I_4_HSM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFek1rZHBVRTV6WnpSUFJuWkpZWGRJTjBGMWJFRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "星期日下午茶時段和太太二人到訪此餐廳，不用排隊，坐卡位。環境安静清絜，員工友善。叫了豬排包餐及炸魚柳餐，跟沙津及奶茶。豬排肉質juicy及tender, 不柴不梅，好味的。炸魚柳要特別一讚，肉質結實，吃得出一片一片魚肉的質地，肉質唔淋。奶茶都好飲。最後加單叫了鮮油多，內有2mm厚的牛油，多士係熱的，牛油是凍的，美味👍🏻。最後要提吓沙津，用新鮮的蘋果，芒果，桃，及波蘿做的，唔係罐頭貨。感謝店家對食物水準的堅持，大力推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期日下午茶時段和太太二人到訪此餐廳，不用排隊，坐卡位。環境安静清絜，員工友善。叫了豬排包餐及炸魚柳餐，跟沙津及奶茶。豬排肉質juicy及tender, 不柴不梅，好味的。炸魚柳要特別一讚，肉質結實，吃得出一片一片魚肉的質地，肉質唔淋。奶茶都好飲。最後加單叫了鮮油多，內有2mm厚的牛油，多士係熱的，牛油是凍的，美味👍🏻。最後要提吓沙津，用新鮮的蘋果，芒果，桃，及波蘿做的，唔係罐頭貨。感謝店家對食物水準的堅持，大力推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CF Ko",
+          "uri": "https://www.google.com/maps/contrib/105434220562039245280/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJLp9Fmc2CvjVTKTf7QYFRRrsbBgDYJh2S3b1jSFqvIZQ70gg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-02-17T23:50:13.873301357Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xFek1rZHBVRTV6WnpSUFJuWkpZWGRJTjBGMWJFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFek1rZHBVRTV6WnpSUFJuWkpZWGRJTjBGMWJFRRAB!2m1!1s0x3404007c5e3a6aa5:0x231d3ffe23b65dc3"
+      },
+      {
+        "name": "places/ChIJpWo6XnwABDQRw122I_4_HSM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25selMzaElZa2RWWDFKMFJGTkxiVXd6VFV4Zk0yYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "常住在上環的我，竟然和我的小可愛意外發掘到這間值得收藏的小店。\n\n豬潤米線新鮮又滑嫩，完全沒有腥味，火候掌握得恰到好處。瑞士雞脾撈麵更是驚喜，雞腿滷得十分入味，肉質鮮嫩多汁，帶著淡淡甜香卻完全不膩口，每一口都很滿足。\n\n店內環境乾淨整潔，用餐舒適，服務人員也相當親切，讓整體用餐體驗更加分。真的很值得推薦。\n\n下次再住上環，一定會再回訪。超讚的啦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "常住在上環的我，竟然和我的小可愛意外發掘到這間值得收藏的小店。\n\n豬潤米線新鮮又滑嫩，完全沒有腥味，火候掌握得恰到好處。瑞士雞脾撈麵更是驚喜，雞腿滷得十分入味，肉質鮮嫩多汁，帶著淡淡甜香卻完全不膩口，每一口都很滿足。\n\n店內環境乾淨整潔，用餐舒適，服務人員也相當親切，讓整體用餐體驗更加分。真的很值得推薦。\n\n下次再住上環，一定會再回訪。超讚的啦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Craig Tsai",
+          "uri": "https://www.google.com/maps/contrib/106642744968589562185/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI-p65sjTpHbGW_5PZMPooocStpRWIjrW2V6gPWL1hOXG4xLw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-20T08:08:22.059786029Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25selMzaElZa2RWWDFKMFJGTkxiVXd6VFV4Zk0yYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25selMzaElZa2RWWDFKMFJGTkxiVXd6VFV4Zk0yYxAB!2m1!1s0x3404007c5e3a6aa5:0x231d3ffe23b65dc3"
+      },
+      {
+        "name": "places/ChIJpWo6XnwABDQRw122I_4_HSM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toVU5GaEJVVkY0VUcweFUxcFhORmhzWjFJMVVHYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "60蚊都唔使一個午餐連嘢飲，咁嘅價錢包你食得飽，餸又多，滑蛋勁滑，士頭婆招呼又好又靚女，真係支持下。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "60蚊都唔使一個午餐連嘢飲，咁嘅價錢包你食得飽，餸又多，滑蛋勁滑，士頭婆招呼又好又靚女，真係支持下。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "gladys wan",
+          "uri": "https://www.google.com/maps/contrib/104910986966121542684/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIngmqBRv2vr_O2jdevmzumJ9E9W3fjk7D2Itl9KPjzMv5SaA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-27T14:01:05.571476160Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toVU5GaEJVVkY0VUcweFUxcFhORmhzWjFJMVVHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toVU5GaEJVVkY0VUcweFUxcFhORmhzWjFJMVVHYxAB!2m1!1s0x3404007c5e3a6aa5:0x231d3ffe23b65dc3"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404007c5e3a6aa5:0x231d3ffe23b65dc3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2530248926405483971&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404007c5e3a6aa5:0x231d3ffe23b65dc3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404007c5e3a6aa5:0x231d3ffe23b65dc3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404007c5e3a6aa5:0x231d3ffe23b65dc3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJpWo6XnwABDQRw122I_4_HSM/photos/Aa-ngMYDntCi0340coJdUwqXBjnm6spSxrLQirHeO5BOtHwkS7xS5YIlUGmzhVGfOpwxmq4kn6tDrthSIKkB7dAxBa-biY8jegLbrgx_m-02fCbMYU51CVUI0_DW0Tfnnh65ErqhWQeszkbrD24L9gu1BTnRSGLyH97-jMEW7z9SqEz9_tx61O8Np4MySp8l-BLtVSNQKRiHD9dds3l7p3zBrRUDZfXC9qijHY7iqpjjWARGVJQhnd12UYPukFGX0FfXcn3GLV-EkHUxe5Kdbvq-5eJonr8qWiedDJI0-uhCWyn1TmH2XL-lkQDves98FO2tbuO8l3oWdkOrdOpMgqEjPR3tMfpkgOOZFkfPbgbSwi9G8GDjIsCQhWyYOiG-qDUOf2m1BUdbupV3et45D06-NZMHTepgij4vfsla8dPOFH2b7w",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "F L",
+          "uri": "https://maps.google.com/maps/contrib/111371499899554356672",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf3e2p1MOwP3wWJzIIQ7bXyxeG4Nqn4ts4kQ-QtGSuGRbjgiWlog=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBz8mYmcPTnwnQYSeIiltkD&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBz8mYmcPTnwnQYSeIiltkD!2e10!4m2!3m1!1s0x3404007c5e3a6aa5:0x231d3ffe23b65dc3"
+    },
+    "local_path": "photos/ChIJpWo6XnwABDQRw122I_4_HSM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmVOqwtAvXFNA6T-zTuibtacKgvkRGhSdmELa_Qmk1yD4_uFsruQn2ooiqWpRst6ZIi8Vlhd-dZNd6xD0vAquVCDyzvxyjxR5zbKsXI0akN8QF72Ns52PbZ3rN8L8EwyjHtIlv49zf3yNg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 186680
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "dim_sum_restaurant",
+    "label": "茶餐廳",
+    "types": [
+      "dim_sum_restaurant",
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

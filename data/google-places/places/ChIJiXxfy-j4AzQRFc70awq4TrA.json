@@ -1,0 +1,331 @@
+{
+  "google_place_id": "ChIJiXxfy-j4AzQRFc70awq4TrA",
+  "restaurant_ids": [
+    "restaurant:2292807679"
+  ],
+  "fetched_at": "2026-10-23T15:46:12.080981+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJiXxfy-j4AzQRFc70awq4TrA",
+    "types": [
+      "korean_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3168 6033",
+    "internationalPhoneNumber": "+852 3168 6033",
+    "formattedAddress": "香港新界荃灣大河道100號海之戀商場地下G16號舖",
+    "location": {
+      "latitude": 22.3686778,
+      "longitude": 114.1092319
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=12704293953759137301&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/brand/momoku",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 22:00",
+        "星期二: 07:00 – 22:00",
+        "星期三: 07:00 – 22:00",
+        "星期四: 07:00 – 22:00",
+        "星期五: 07:00 – 22:00",
+        "星期六: 07:00 – 22:00",
+        "星期日: 07:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 249,
+    "displayName": {
+      "text": "韓樂 (海之戀商場店)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "韓國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "korean_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJiXxfy-j4AzQRFc70awq4TrA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xndFJsb3dRVGhEVW1kUmEzWXdNVlpqVWtsVlVWRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "正常 港式韓國野食，似茶記咁連 烏冬意粉都有，都幾啱香港人口味連鎖水平。\n唔會難食。\n仲有寵物有善。\n中午都幾多上年紀客戶捧場。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "正常 港式韓國野食，似茶記咁連 烏冬意粉都有，都幾啱香港人口味連鎖水平。\n唔會難食。\n仲有寵物有善。\n中午都幾多上年紀客戶捧場。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Boris Chow",
+          "uri": "https://www.google.com/maps/contrib/110749235308199770305/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpLVq9ZCDZMpG_ik0zQQA3yPwKs8hpGVfXNag2EwK6RuIoNlhQsg=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-08-12T06:34:22.777651788Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xndFJsb3dRVGhEVW1kUmEzWXdNVlpqVWtsVlVWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xndFJsb3dRVGhEVW1kUmEzWXdNVlpqVWtsVlVWRRAB!2m1!1s0x3403f8e8cb5f7c89:0xb04eb80a6bf4ce15"
+      },
+      {
+        "name": "places/ChIJiXxfy-j4AzQRFc70awq4TrA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWaFRtTnNVakpZVmpsdE1IcHhVbmRVYm1GMmRIYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 2,
+        "text": {
+          "text": "味道正常，像百分百的感覺，不過重點是他們的米一定是用中國內地的米，吃得出來的，還說是用珍珠米，原來是中國珍珠米，不會再光顧⋯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道正常，像百分百的感覺，不過重點是他們的米一定是用中國內地的米，吃得出來的，還說是用珍珠米，原來是中國珍珠米，不會再光顧⋯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Poor King",
+          "uri": "https://www.google.com/maps/contrib/104828124930358121805/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0w8y79iK0aIWQHHeHPV1zf9HPoDpbTTeC4vSS5_oemw5OtwT6=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-27T11:33:28.153007077Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWaFRtTnNVakpZVmpsdE1IcHhVbmRVYm1GMmRIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWaFRtTnNVakpZVmpsdE1IcHhVbmRVYm1GMmRIYxAB!2m1!1s0x3403f8e8cb5f7c89:0xb04eb80a6bf4ce15"
+      },
+      {
+        "name": "places/ChIJiXxfy-j4AzQRFc70awq4TrA/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4NU1XSVpnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "去過呢間韓樂落兩次， 地方寬敞， 坐得舒服， 下午茶時段好超值， 款式又多， 分量又充足， 好值得推介！！ 37蚊竟然可以食到高質素炸魚 薯條， 仲可以配埋即磨咖啡， 真係難以相信！ 未試過呢間嘅朋友真係要試下",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "去過呢間韓樂落兩次， 地方寬敞， 坐得舒服， 下午茶時段好超值， 款式又多， 分量又充足， 好值得推介！！ 37蚊竟然可以食到高質素炸魚 薯條， 仲可以配埋即磨咖啡， 真係難以相信！ 未試過呢間嘅朋友真係要試下",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Emily C",
+          "uri": "https://www.google.com/maps/contrib/116561443361527088290/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI158kzlDFSPHoo9jsVR0uuWa1GMLtsnSgCgtuVS0aO5ezEtQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2023-05-11T04:52:38.968190Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4NU1XSVpnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4NU1XSVpnEAE!2m1!1s0x3403f8e8cb5f7c89:0xb04eb80a6bf4ce15"
+      },
+      {
+        "name": "places/ChIJiXxfy-j4AzQRFc70awq4TrA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1NTdqZ2RBEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "去過荃灣海之戀果間2次, 食品2次都ok, 可能有某D食物有參差情況, 但總括都算唔錯, 服務亦可接受。\n\n坐位都算闊落, 每枱距離還可以, 衛生都ok, 可以再去。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "去過荃灣海之戀果間2次, 食品2次都ok, 可能有某D食物有參差情況, 但總括都算唔錯, 服務亦可接受。\n\n坐位都算闊落, 每枱距離還可以, 衛生都ok, 可以再去。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Uky Yeung",
+          "uri": "https://www.google.com/maps/contrib/110970851701645747474/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYmKXvnNdtiUg3XSmUl4g40orVzFJA0Wem7nJRSBbFiQl4C2g=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-08-31T11:26:05.269544Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1NTdqZ2RBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1NTdqZ2RBEAE!2m1!1s0x3403f8e8cb5f7c89:0xb04eb80a6bf4ce15"
+      },
+      {
+        "name": "places/ChIJiXxfy-j4AzQRFc70awq4TrA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZck9Qb3dRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "250501 12pm lunch\n有位直入\n食過早餐 OK 嘅\n又黎食 lunch\n自己掃 code order\n份量夠大\n味道合格\n價錢合理\n抵食之選",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "250501 12pm lunch\n有位直入\n食過早餐 OK 嘅\n又黎食 lunch\n自己掃 code order\n份量夠大\n味道合格\n價錢合理\n抵食之選",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Elesy Lee",
+          "uri": "https://www.google.com/maps/contrib/102208918588168210647/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYuahIplTxEhFx-9DT9R1qXS6yTGjN9tIvEPXkn8jQrw1Xl-9rVQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-05-02T06:29:10.053678Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZck9Qb3dRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZck9Qb3dRRRAB!2m1!1s0x3403f8e8cb5f7c89:0xb04eb80a6bf4ce15"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f8e8cb5f7c89:0xb04eb80a6bf4ce15!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12704293953759137301&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f8e8cb5f7c89:0xb04eb80a6bf4ce15!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f8e8cb5f7c89:0xb04eb80a6bf4ce15!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f8e8cb5f7c89:0xb04eb80a6bf4ce15!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJiXxfy-j4AzQRFc70awq4TrA/photos/Aa-ngMYDKZRe70v4REBayq0u_NrGZzxQ08WnLHp_qtIqe70CNYtTi1ajGbxvtFTiFG8mThybAEoFmGrOot1RMsEJdhTDKeLxPLqn3fDts_plKfFCL-4OadQc-sR240XoiOdIU0_DjuW6zoDewcw-fuVYLAg6l6MQNW12SAX3qjKzC_WdPkwskctIhlwujnM2Dn7nNB5Wi7kpg4WyPszcg_Iff9LXD7bKK5w6A4ZPTtKkuRk3a688IG9dsVCLTkysvtnptFelktnnWE1TXLKuGyLVy8DqWPEAiyY5Jk5vpqE4b5u7rbLTIphxZN04MCF9c8VsBJSxEBaKE51AgfU8N-JlsNe0v2kfpNmaFlxRv2dPrFJsSMnFNqtLrPffvwE28w0BjFFAq9Iy-DB4WHvnsQikW8AMwwA",
+      "widthPx": 3658,
+      "heightPx": 1804,
+      "authorAttributions": [
+        {
+          "displayName": "Andy Mok",
+          "uri": "https://maps.google.com/maps/contrib/111846166957826855295",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5nJfMHaKbbnzi6cic3kgbCtvfau6LU95VpWtLefPH9tC62xbiIA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDG_-TaDg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG_-TaDg!2e10!4m2!3m1!1s0x3403f8e8cb5f7c89:0xb04eb80a6bf4ce15"
+    },
+    "local_path": "photos/ChIJiXxfy-j4AzQRFc70awq4TrA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCKV3OABjKJdHSiKE8I0DbzgVNBxMsAEnda_RGQDXUUgoSPdKNseiQgTWC09BsBhAR6wCeSbP9maDYomNyBRPr-21YhPENCr6Fsyvii1ekIzQwbRJvo6x_UkzEC46Z5YUV3yxM=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 147664
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "korean_restaurant",
+    "label": "韓國餐廳",
+    "types": [
+      "korean_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ChIJmZLBuEf2AzQRWtwSYRqKlaQ",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界上水安圃村52號",
+  "location": {
+    "latitude": 22.486998699999997,
+    "longitude": 114.11793469999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11859537039652478042&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "香港犬隻工作及障礙賽事會",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJmZLBuEf2AzQRWtwSYRqKlaQ/photos/Aa-ngManaiVQUGYhgqcN5dP4DbUwUICKLb9rp3OCMUupcQ3QhO_my0Gqox7ZBY6jut7xG5x3qTvlfeFLefJriIBBuftZpGue7ior1c7xtCGUMHF4X6e1TiDU_3_ieCVRZjp1TCPfOD1UWWJpb2khc6jKo2Hz7fckirifsjDlbeDKh39TkSEDrdqtkxPCBSKM4dgmI8RsrbuHEa3bbOlRDPO_-KhZTl1HR836Sdb3k5v5Kjlq-qbyQ6L2_eWyEtHPTPzQiZyI7D3GFf8lTjBgPQiu6P-L_x6n0mYPrzfD7WW4tIPNSVRji1s8NDCDhZQtC4o6Ejj3e_7TWUIHU9Hj4wjOwB4iK5W3tnoqTctzfBO0ZCz-qZl-9kwH02ESzVbzJabxLFNC_ydBNdrLe5NJPZODA7hRJiy96bc",
+      "widthPx": 4064,
+      "heightPx": 3048,
+      "authorAttributions": [
+        {
+          "displayName": "Melody Chu",
+          "uri": "https://maps.google.com/maps/contrib/102642951433893709705",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLkrBmBvhMkq5JeyGSVgbI6So_-eL_myBafCAxRtN5yvo3KYw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDr6JPqzwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr6JPqzwE!2e10!4m2!3m1!1s0x3403f647b8c19299:0xa4958a1a6112dc5a"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:07.265191+00:00"
+}

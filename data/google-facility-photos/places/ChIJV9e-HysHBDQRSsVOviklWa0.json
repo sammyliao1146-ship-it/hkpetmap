@@ -1,0 +1,38 @@
+{
+  "id": "ChIJV9e-HysHBDQRSsVOviklWa0",
+  "types": [
+    "pet_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍九龍城獅子石道68號",
+  "location": {
+    "latitude": 22.3298582,
+    "longitude": 114.18830709999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12491055902705501514&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "寵物城",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJV9e-HysHBDQRSsVOviklWa0/photos/Aa-ngMZCxk5mYVfpRty6O9JBR5aYBPpAexkk9RhK9bf2evkVSiumudMtBGuXuBsQSma9OaXf1sf_h24kXSdlcjSBzgeKazUrC4dwkDJSMuODfQy4ULsl-S7feBVopcqLpufRxjQGM1GEqwmdDyfeu8ydYBe3MF7c1WM5mP3CLOTI1EQiwRLzpEFBQmoJXtDIsfGU5M1szbHyjbGl3siPof7AMnICeFYd6eSSQXkjwTHAHuvJx2CdxwmBP55k1FusSkiOgowTnOMUxtUHzmcxcDl8HqZCBknPZiwnU6Oumb9Jtpdg2MPzocISrHDomwDVhWFmON9GXrzZ9hur9PLBihSpa1fBKl1O6kbu9My2-6qjU31f1YJu3uV1faEbzGt6wK-3eFvs-HQiDup8twxeFqGFNrIrBvlZGmM",
+      "widthPx": 3439,
+      "heightPx": 4653,
+      "authorAttributions": [
+        {
+          "displayName": "G C.",
+          "uri": "https://maps.google.com/maps/contrib/106979947267504278548",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLYO2yw9ra0uY4UiC6CXfrzgzOjB0uSFdYkb34ZjkQVHpNXgQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4vvvj6gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4vvvj6gE!2e10!4m2!3m1!1s0x3404072b1fbed757:0xad592529be4ec54a"
+    }
+  ],
+  "photo_count": 5,
+  "fetched_at": "2026-10-24T00:38:23.433935+00:00"
+}

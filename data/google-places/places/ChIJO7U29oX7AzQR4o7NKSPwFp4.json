@@ -1,0 +1,321 @@
+{
+  "google_place_id": "ChIJO7U29oX7AzQR4o7NKSPwFp4",
+  "restaurant_ids": [
+    "restaurant:3193802253"
+  ],
+  "fetched_at": "2026-10-23T15:50:04.182696+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJO7U29oX7AzQR4o7NKSPwFp4",
+    "types": [
+      "korean_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "formattedAddress": "香港新界 Tuen Mun New Town, 屯隆街4號PlazaPhase 1 Block",
+    "location": {
+      "latitude": 22.3930333,
+      "longitude": 113.9765256
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=11391556341296107234&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 66,
+    "displayName": {
+      "text": "Terrace in seaside (屯門)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "韓國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": true,
+    "primaryType": "korean_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJO7U29oX7AzQR4o7NKSPwFp4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSU2NXNUZiMVJIUjBwb1IyaFlUV05LWm5sdFMwRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢個超級肉醬芝士千層麵$112，真材實料，雖然邪惡，但好好味！肉酱份量夠，鮮茄醬酸甜適中，千層麵厚度啱啱好，又唔會太過厚，吸哂d酱汁，如果一個人食，係會有啲膩，兩個人食就啱啱好，正🩷🩷",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢個超級肉醬芝士千層麵$112，真材實料，雖然邪惡，但好好味！肉酱份量夠，鮮茄醬酸甜適中，千層麵厚度啱啱好，又唔會太過厚，吸哂d酱汁，如果一個人食，係會有啲膩，兩個人食就啱啱好，正🩷🩷",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Edith",
+          "uri": "https://www.google.com/maps/contrib/102341707590813931728/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2nu3wOOAKjbmt1nXvOKVM5NBwfq-4uKX2fcUZ17fpT9Ohjw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-28T11:23:27.159743951Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSU2NXNUZiMVJIUjBwb1IyaFlUV05LWm5sdFMwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSU2NXNUZiMVJIUjBwb1IyaFlUV05LWm5sdFMwRRAB!2m1!1s0x3403fb85f636b53b:0x9e16f02329cd8ee2"
+      },
+      {
+        "name": "places/ChIJO7U29oX7AzQR4o7NKSPwFp4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jNFUyVlVXbkZtZUhKYVNTMUpOVWQxTTFCR1gzYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "邪惡cafe 🥰 牛肋肉撈飯正常發揮，\n即造甜品完美，朱古力味道剛好，即使杜拜朱古力都唔算太甜，焦糖脆脆太少唔夠喉。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "邪惡cafe 🥰 牛肋肉撈飯正常發揮，\n即造甜品完美，朱古力味道剛好，即使杜拜朱古力都唔算太甜，焦糖脆脆太少唔夠喉。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "F L",
+          "uri": "https://www.google.com/maps/contrib/106523147393531878982/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVV3yuccvECVC2pX98qlpc5I_DmPCqO2-SuPxsX-ApHPDjCyaY=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-09T05:13:27.437823381Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jNFUyVlVXbkZtZUhKYVNTMUpOVWQxTTFCR1gzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jNFUyVlVXbkZtZUhKYVNTMUpOVWQxTTFCR1gzYxAB!2m1!1s0x3403fb85f636b53b:0x9e16f02329cd8ee2"
+      },
+      {
+        "name": "places/ChIJO7U29oX7AzQR4o7NKSPwFp4/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xWVNtNHdjM2hsUld3d05Vc3pNVGRNT0ZoQk4wRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 4,
+        "text": {
+          "text": "雜莓蜜糖熱香餅 🥞 柑橘朱古力夢幻蛋糕卷 🍰\n\n係屯門市廣場行到有少少攰，就想搵個地方坐下，食個下午茶！Terrace in seaside 座位開揚，帶著兩個小朋友都坐得好舒服！\n\n帶小朋友去下午茶最緊要有甜品，一睇 MENU 就已經睇中左個好岩小朋友既下午茶，雜莓蜜糖熱香餅，熱香餅迷迷你你好得意，雜莓有草莓藍莓，好新鮮！仲有 Terrace in seaside 最出名既柑橘，幾款水果連埋熱香餅一齊食，有無蜜糖一樣咁好味！\n\n自己揀左柑橘朱古力夢幻蛋糕卷，一見到真係幾夢幻，有兩朵花拌碟，賣相好吸引，朱古力卷好濃郁，柑橘又香甜多汁。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "雜莓蜜糖熱香餅 🥞 柑橘朱古力夢幻蛋糕卷 🍰\n\n係屯門市廣場行到有少少攰，就想搵個地方坐下，食個下午茶！Terrace in seaside 座位開揚，帶著兩個小朋友都坐得好舒服！\n\n帶小朋友去下午茶最緊要有甜品，一睇 MENU 就已經睇中左個好岩小朋友既下午茶，雜莓蜜糖熱香餅，熱香餅迷迷你你好得意，雜莓有草莓藍莓，好新鮮！仲有 Terrace in seaside 最出名既柑橘，幾款水果連埋熱香餅一齊食，有無蜜糖一樣咁好味！\n\n自己揀左柑橘朱古力夢幻蛋糕卷，一見到真係幾夢幻，有兩朵花拌碟，賣相好吸引，朱古力卷好濃郁，柑橘又香甜多汁。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "新手港媽",
+          "uri": "https://www.google.com/maps/contrib/107735991011039237549/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3Q0DPfaJgJGrl2o-zorTloYhGXIBI2ZDHuAFFepLIn5ZZAp8=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-11-03T14:35:27.699235305Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xWVNtNHdjM2hsUld3d05Vc3pNVGRNT0ZoQk4wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xWVNtNHdjM2hsUld3d05Vc3pNVGRNT0ZoQk4wRRAB!2m1!1s0x3403fb85f636b53b:0x9e16f02329cd8ee2"
+      },
+      {
+        "name": "places/ChIJO7U29oX7AzQR4o7NKSPwFp4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WUUxUQXhTVTlWYVRsYVJqQkpNWEJMY0VkdlptYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "5/2025 個樣就好靚嘅\n但係唔熱㗎囉啲嘢食\n唔熱就爭好遠啦，唔好食㗎\n個千層麵其實如果熱咗應該好食嘅\n個窩夫都幾香蛋味\n性價比低",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "5/2025 個樣就好靚嘅\n但係唔熱㗎囉啲嘢食\n唔熱就爭好遠啦，唔好食㗎\n個千層麵其實如果熱咗應該好食嘅\n個窩夫都幾香蛋味\n性價比低",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hikari",
+          "uri": "https://www.google.com/maps/contrib/116739609986507825975/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTvYzVMHFa6l2lAGyI5z3Ob5UrG0Dryg8Iqc1d2UDNR_Ohih8=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-08-21T09:22:21.037054269Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WUUxUQXhTVTlWYVRsYVJqQkpNWEJMY0VkdlptYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WUUxUQXhTVTlWYVRsYVJqQkpNWEJMY0VkdlptYxAB!2m1!1s0x3403fb85f636b53b:0x9e16f02329cd8ee2"
+      },
+      {
+        "name": "places/ChIJO7U29oX7AzQR4o7NKSPwFp4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkUExWWnRSbmx0YlZWTWFEZDFUbWMxUm1WSFRHYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "明明4人位吉左但都唔俾我地先，要我地坐2人位圓椅。下組2人就隨即可以坐，服務已經好差。牛肋肉飯d牛似肥牛，仲要幾咸。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "明明4人位吉左但都唔俾我地先，要我地坐2人位圓椅。下組2人就隨即可以坐，服務已經好差。牛肋肉飯d牛似肥牛，仲要幾咸。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "BOX TV",
+          "uri": "https://www.google.com/maps/contrib/109911904215949923650/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbT4y_h8KuePssakU5L1SRcJ-uMoMhUrT9zD8rRE1Re96aaQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-11T04:49:51.444359224Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkUExWWnRSbmx0YlZWTWFEZDFUbWMxUm1WSFRHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkUExWWnRSbmx0YlZWTWFEZDFUbWMxUm1WSFRHYxAB!2m1!1s0x3403fb85f636b53b:0x9e16f02329cd8ee2"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fb85f636b53b:0x9e16f02329cd8ee2!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11391556341296107234&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb85f636b53b:0x9e16f02329cd8ee2!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fb85f636b53b:0x9e16f02329cd8ee2!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb85f636b53b:0x9e16f02329cd8ee2!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJO7U29oX7AzQR4o7NKSPwFp4/photos/Aa-ngMbSga6HI4DHhCS1cpJFu9oSXc2FWIaluErH97KyhJ_FmD1rCNIyLReuN2_waG9MVJj-Odh04PONN9vRQqijPy2foDmSpCn6SlPgXTlkDwyGyyjb5bdXeirOZbLSPhPhRA7NwVjn4u8ezZMBQXm82auZEEvivvsdYRehnIHeBOIY9XDardoebNvBIrnr1iq_Cg2dCelk4uufrgLR6yU_nHik3z56qZOpigDCw1DwVFwVrtM2spmCZKDoI_lK60S6csuPWtk_XatsXMxkOZ2xzB3xVFreLvg6L4FQFm845w9gHbsTuxxT5t7Ky-y4kU1dJ9PYXCcrYdenHUKWQQCLN32yTyX-4WnY4T5YUXYsLrIzEL0IuRzrJu5wTrVtry2_XRRBx2L_sYmY3RtZDfZC8dQqDXxqQxw",
+      "widthPx": 3954,
+      "heightPx": 2224,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDB-sLw_wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB-sLw_wE!2e10!4m2!3m1!1s0x3403fb85f636b53b:0x9e16f02329cd8ee2"
+    },
+    "local_path": "photos/ChIJO7U29oX7AzQR4o7NKSPwFp4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLctfKpGMUWn4IqMfH731-T-a8JKEdv3FDrh5efSdt5pzMwRLURF5Am9vsLjPIkAXDP2SpvGemko4TXe_akodq5zsVCWPqmreGbo1XHZh6LHDhu7pCR3EOTpzXzauFZ-AujmehuzHA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 177181
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "korean_restaurant",
+    "label": "韓國餐廳",
+    "types": [
+      "korean_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

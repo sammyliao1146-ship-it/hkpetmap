@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ7ZclOTz7AzQRzGuDwj4ZG4c",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界屯門屯門鄉事會路",
+  "location": {
+    "latitude": 22.392146999999998,
+    "longitude": 113.97358799999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9735402776833518540&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "屯門公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJ7ZclOTz7AzQRzGuDwj4ZG4c/photos/Aa-ngMZGD81aFNfLOX6kKD5ETcXUByrTvfC-2E3GH8G9orjMKM1ynOQw8X1MtrCy5xPlIZbNy6NFhqFFI3BnxG44yuRKY1GIvwEvixU577Oeodh6C7EzjqZ23nuTR8zHYb5pNj6ftXuQx0HiS8i44YvpO2ikalKJLys9BsubveIrq0IY3oJcDTHydJfuxabn1-cEgi5eNdiu-Av-mAMRyWwpVde26YqDG971hLbOeqencbx7i5CMg4rBMzkjzxCUlwFZRrzCu-bwPAZRr36SnO5ejaACQeTUNT5vdX790XV8QhlCtxuE-9WgqXfoEN0gQnR0ZZWp-e3Miif-4d3JCoolc7SQtqgFvFsqgmSAkYhtJcGtmisYT9muBSVXvcQILrID_unOoIKswnKhZ0itw2GZqPnuv3QJRNg",
+      "widthPx": 2884,
+      "heightPx": 2144,
+      "authorAttributions": [
+        {
+          "displayName": "方劍雲",
+          "uri": "https://maps.google.com/maps/contrib/115192499696622028504",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJfJC2LfWbxbdqCf2NfVR1T6ROgucGzuhe7tK4GPdn6t172kw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC9-Y6fvwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9-Y6fvwE!2e10!4m2!3m1!1s0x3403fb3c392597ed:0x871b193ec2836bcc"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:14.239075+00:00"
+}

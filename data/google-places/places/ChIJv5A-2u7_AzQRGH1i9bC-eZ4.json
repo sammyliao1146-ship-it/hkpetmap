@@ -1,0 +1,382 @@
+{
+  "google_place_id": "ChIJv5A-2u7_AzQRGH1i9bC-eZ4",
+  "restaurant_ids": [
+    "restaurant:2218819531"
+  ],
+  "fetched_at": "2026-10-23T15:45:23.401813+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJv5A-2u7_AzQRGH1i9bC-eZ4",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9862 7830",
+    "internationalPhoneNumber": "+852 9862 7830",
+    "formattedAddress": "G/ F , Hang Sing Mansion , 48-78, 72 High St, Sai Ying Pun, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2850648,
+      "longitude": 114.14126399999999
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=11419367997414997272&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://bistro-concept.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 16:00 – 23:00",
+        "星期二: 12:00 – 15:00, 16:00 – 23:00",
+        "星期三: 12:00 – 15:00, 16:00 – 23:00",
+        "星期四: 12:00 – 15:00, 16:00 – 23:00",
+        "星期五: 12:00 – 15:00, 16:00 – 23:00",
+        "星期六: 12:00 – 23:00",
+        "星期日: 12:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 312,
+    "displayName": {
+      "text": "Lobster Shack Steak House",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "海鮮餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "seafood_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJv5A-2u7_AzQRGH1i9bC-eZ4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaWVJGazBRakV4VlV4emVGWkVNelpQZEV4aVEwRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "當然在海邊吃龍蝦，感覺會更加浪漫，而這龍蝦主打的餐廳雖然只是在住宅區內，在裝修上也盡力營造一種海灘的感覺，當然裝修不是最重要的重點，而是它的套餐相當超值，頭盤有生蠔，鮮味不錯，而且足夠Creamy，並沒有霉爛的味道；龍蝦湯鮮味也夠，如果再加上干邑，味道會更出色。當然主角一定是Surf and turf，半隻澳洲來的龍蝦，簡單用牛油和蒜蓉處理，但鮮味和口感的爽彈真的不用說太多。肉眼扒油香和肉香ok，如果表面再焦脆一點就更完美，但還是那一句，人均$400有這種級數已經物超所值。\n\nSurf and turf（海陸雙拼）源於二十世紀中葉的美國餐飲文化，尤以一九六〇年代的高級牛扒屋最具代表性。它通常把牛扒與龍蝦同碟呈上，象徵海洋與陸地食材的結合。這種配搭流行，主要因為兩者皆屬高價食材，能營造豐盛、豪華與節慶感，亦反映當時美國中產階層追求享受與身份展示的飲食風尚。\n\nAlthough lobster by the sea feels more romantic, this lobster-focused restaurant in a residential area still creates a relaxed beachside mood. Its set menu is excellent value: creamy, fresh oysters, a flavorful lobster bisque that would be even better with cognac, and the highlight, surf and turf. The half Australian lobster, simply cooked with butter and garlic, is sweet and springy, while the ribeye has decent fat and beefy aroma. At around HK$400 per person, it is great value.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "當然在海邊吃龍蝦，感覺會更加浪漫，而這龍蝦主打的餐廳雖然只是在住宅區內，在裝修上也盡力營造一種海灘的感覺，當然裝修不是最重要的重點，而是它的套餐相當超值，頭盤有生蠔，鮮味不錯，而且足夠Creamy，並沒有霉爛的味道；龍蝦湯鮮味也夠，如果再加上干邑，味道會更出色。當然主角一定是Surf and turf，半隻澳洲來的龍蝦，簡單用牛油和蒜蓉處理，但鮮味和口感的爽彈真的不用說太多。肉眼扒油香和肉香ok，如果表面再焦脆一點就更完美，但還是那一句，人均$400有這種級數已經物超所值。\n\nSurf and turf（海陸雙拼）源於二十世紀中葉的美國餐飲文化，尤以一九六〇年代的高級牛扒屋最具代表性。它通常把牛扒與龍蝦同碟呈上，象徵海洋與陸地食材的結合。這種配搭流行，主要因為兩者皆屬高價食材，能營造豐盛、豪華與節慶感，亦反映當時美國中產階層追求享受與身份展示的飲食風尚。\n\nAlthough lobster by the sea feels more romantic, this lobster-focused restaurant in a residential area still creates a relaxed beachside mood. Its set menu is excellent value: creamy, fresh oysters, a flavorful lobster bisque that would be even better with cognac, and the highlight, surf and turf. The half Australian lobster, simply cooked with butter and garlic, is sweet and springy, while the ribeye has decent fat and beefy aroma. At around HK$400 per person, it is great value.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CF Wu",
+          "uri": "https://www.google.com/maps/contrib/109375527585718445499/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwEbgmuCSil8QrZrdbEegTsczheHwTGlkSAGDAtDmXyOlrjz-MYw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-20T07:26:06.390985244Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaWVJGazBRakV4VlV4emVGWkVNelpQZEV4aVEwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaWVJGazBRakV4VlV4emVGWkVNelpQZEV4aVEwRRAB!2m1!1s0x3403ffeeda3e90bf:0x9e79beb0f5627d18"
+      },
+      {
+        "name": "places/ChIJv5A-2u7_AzQRGH1i9bC-eZ4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGc1RVVjRjbHBUUm5sMlkxVXpjbVJLY2tOak0xRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "龍蝦很小 有點失望 而且沒有很新鮮 但是老闆很熱情 其他西餐部分都還可以 對得起價錢吧",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "龍蝦很小 有點失望 而且沒有很新鮮 但是老闆很熱情 其他西餐部分都還可以 對得起價錢吧",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chubby V",
+          "uri": "https://www.google.com/maps/contrib/108763904005926219882/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRFSi5B5lCXpM0XvrChCQ_4qOrPVfYAtIWiEmzsCn-ycqOvhw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-28T17:58:08.460649833Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGc1RVVjRjbHBUUm5sMlkxVXpjbVJLY2tOak0xRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGc1RVVjRjbHBUUm5sMlkxVXpjbVJLY2tOak0xRRAB!2m1!1s0x3403ffeeda3e90bf:0x9e79beb0f5627d18"
+      },
+      {
+        "name": "places/ChIJv5A-2u7_AzQRGH1i9bC-eZ4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1MkxYUndXVlF5WjBGc05tOTZNWEZxT0U1aldFRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "行過西營盤高街，比我發現到呢間龍蝦專門店喎！餐廳裝修好得意，成個海洋世界咁，勁打卡able㗎～ 晚市套餐$388起，已經包齊前菜、餐湯、主菜同甜品，都幾抵食！重點推薦Lobster Mac & Cheese，啖啖龍蝦肉，個芝士汁濃到呢～ 真心好食！\n\n🥣餐湯\n🫕 Seafood Chowder\n忌廉香得嚟唔膩，一啖舀落去好多魚粒同薯仔粒，暖笠笠好滿足～\n\n🦞Lobster Bisque\n飲到淡淡龍蝦鮮甜\n\n🍴前菜\n🦪 Fresh oyster with Thai fish cake\n生蠔肥嘟嘟好creamy，泰式魚餅炸得香口，點埋個酸甜醬好開胃😋\n\n🍽️主菜\n🐟Served with lobster risotto, spinach, and salmon roe\n外皮脆到似紙，魚肉仲keep到嫩滑，淨係落鹽已經夠晒味～下面個龍蝦汁risotto口感軟身，加埋爆汁三文魚子同菠菜，口感好豐富💖\n\n🦞Lobster Mac & Cheese\n一上枱就見到超誇張嘅拉絲效果🧀！用咗車打同mozzarella兩種芝士，通粉完全入哂味，芝士濃得嚟唔鹹，通粉焗得剛好，仲有粒粒龍蝦肉仔，好幸福啊～\n\n🍴甜品\n🍰Cheesecake\n質地比較實淨，但入口慢慢溶化，芝士味好濃郁，底層消化餅同面頭嘅草莓啫喱平衡得啱啱好，甜而不膩。\n\n🧀Tiramisu\n咖啡同酒香好出，一層層口感好軟滑～ 芝士部分輕盈，同浸透咖啡酒嘅手指餅好夾，食落完全唔膩！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "行過西營盤高街，比我發現到呢間龍蝦專門店喎！餐廳裝修好得意，成個海洋世界咁，勁打卡able㗎～ 晚市套餐$388起，已經包齊前菜、餐湯、主菜同甜品，都幾抵食！重點推薦Lobster Mac & Cheese，啖啖龍蝦肉，個芝士汁濃到呢～ 真心好食！\n\n🥣餐湯\n🫕 Seafood Chowder\n忌廉香得嚟唔膩，一啖舀落去好多魚粒同薯仔粒，暖笠笠好滿足～\n\n🦞Lobster Bisque\n飲到淡淡龍蝦鮮甜\n\n🍴前菜\n🦪 Fresh oyster with Thai fish cake\n生蠔肥嘟嘟好creamy，泰式魚餅炸得香口，點埋個酸甜醬好開胃😋\n\n🍽️主菜\n🐟Served with lobster risotto, spinach, and salmon roe\n外皮脆到似紙，魚肉仲keep到嫩滑，淨係落鹽已經夠晒味～下面個龍蝦汁risotto口感軟身，加埋爆汁三文魚子同菠菜，口感好豐富💖\n\n🦞Lobster Mac & Cheese\n一上枱就見到超誇張嘅拉絲效果🧀！用咗車打同mozzarella兩種芝士，通粉完全入哂味，芝士濃得嚟唔鹹，通粉焗得剛好，仲有粒粒龍蝦肉仔，好幸福啊～\n\n🍴甜品\n🍰Cheesecake\n質地比較實淨，但入口慢慢溶化，芝士味好濃郁，底層消化餅同面頭嘅草莓啫喱平衡得啱啱好，甜而不膩。\n\n🧀Tiramisu\n咖啡同酒香好出，一層層口感好軟滑～ 芝士部分輕盈，同浸透咖啡酒嘅手指餅好夾，食落完全唔膩！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Misu Mak",
+          "uri": "https://www.google.com/maps/contrib/109731144526767313219/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnk-fuUOZvtMszjRnNoAMf_RtTLjVKBQsTAggYyG14ckyXuv9o=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-31T10:24:57.766969697Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1MkxYUndXVlF5WjBGc05tOTZNWEZxT0U1aldFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1MkxYUndXVlF5WjBGc05tOTZNWEZxT0U1aldFRRAB!2m1!1s0x3403ffeeda3e90bf:0x9e79beb0f5627d18"
+      },
+      {
+        "name": "places/ChIJv5A-2u7_AzQRGH1i9bC-eZ4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paS1RIQXhSbEJ3V1ZWUFh6RnNXSFJaYjI5amJsRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "✨️今天推薦和介紹一間位於西營盤高街，吃烤龍蝦的好地方就是「Lobster Shack」，餐廳內的牆壁以海鮮主題，有魚，有龍蝦，有八爪魚等，幾有Feel🤭再加上今天人客不算太多，比較寧靜，坐得也舒服😄\n\n✨️今天我和女朋友兩位來吃，點選了兩份Set dinner, 一份就是「Grilled Whole Lobster 450-500g)，另一份就是「Lobster Mac & Cheese」。每份Set dinner 都包括餐湯，前菜是生蠔配魚餅，蛋糕甜品。\n\n✨️餐湯有兩款，一款是龍蝦湯，另一款是海鮮巧達濃湯。個人覺得兩款都好飲，一款好香濃龍蝦味，另一款好像在飲周打海鮮湯的感覺，有魷魚肉吃。\n\n✨️前菜方面，我們不太愛吃生蠔，服務員把前菜轉成4粒泰式魚餅，咬落去卜卜脆，彈牙好食🤭\n\n✨️主菜龍蝦是450-500g,今次膏不算多，但都算大隻，龍蝦鉗大大隻又淡淡肉，香脆薯條和沙律。聞落去烤得好香🤭不過如果多膏啲就完美。我上網也看到其他網友吃過分享過的食評也是多膏。\n\n✨️另一款主食是龍蝦芝士焗通心粉，芝士拉絲和芝士味好濃😄份量十足又熱辣辣，真係焗得好好💞\n\n✨️最後甜品吃了一件芝士蛋糕，提拉米蘇蛋糕，個人覺得提拉米蘇蛋糕較好吃，香濃咖啡味，我中意😆\n\n✨️看完有興趣來吃的網友們，歡迎來吃呀。真係好食又坐得舒服。服務員又有禮貌，仲可以慢慢坐傾下計，沒有用餐時間限制。\n\n📍Lobster Shack (西環)\n📍西環西營盤高街48-78號恆陞大樓地下",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "✨️今天推薦和介紹一間位於西營盤高街，吃烤龍蝦的好地方就是「Lobster Shack」，餐廳內的牆壁以海鮮主題，有魚，有龍蝦，有八爪魚等，幾有Feel🤭再加上今天人客不算太多，比較寧靜，坐得也舒服😄\n\n✨️今天我和女朋友兩位來吃，點選了兩份Set dinner, 一份就是「Grilled Whole Lobster 450-500g)，另一份就是「Lobster Mac & Cheese」。每份Set dinner 都包括餐湯，前菜是生蠔配魚餅，蛋糕甜品。\n\n✨️餐湯有兩款，一款是龍蝦湯，另一款是海鮮巧達濃湯。個人覺得兩款都好飲，一款好香濃龍蝦味，另一款好像在飲周打海鮮湯的感覺，有魷魚肉吃。\n\n✨️前菜方面，我們不太愛吃生蠔，服務員把前菜轉成4粒泰式魚餅，咬落去卜卜脆，彈牙好食🤭\n\n✨️主菜龍蝦是450-500g,今次膏不算多，但都算大隻，龍蝦鉗大大隻又淡淡肉，香脆薯條和沙律。聞落去烤得好香🤭不過如果多膏啲就完美。我上網也看到其他網友吃過分享過的食評也是多膏。\n\n✨️另一款主食是龍蝦芝士焗通心粉，芝士拉絲和芝士味好濃😄份量十足又熱辣辣，真係焗得好好💞\n\n✨️最後甜品吃了一件芝士蛋糕，提拉米蘇蛋糕，個人覺得提拉米蘇蛋糕較好吃，香濃咖啡味，我中意😆\n\n✨️看完有興趣來吃的網友們，歡迎來吃呀。真係好食又坐得舒服。服務員又有禮貌，仲可以慢慢坐傾下計，沒有用餐時間限制。\n\n📍Lobster Shack (西環)\n📍西環西營盤高街48-78號恆陞大樓地下",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cheuk Hei Lo (積仔記吃喝玩樂旅遊達人)",
+          "uri": "https://www.google.com/maps/contrib/111404325020172136924/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKWw8l608Vv2SDz4SQhzyL5VuXrzfv9cQb72oK3mw9A3xHbOW0=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-10-20T07:09:19.114522075Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paS1RIQXhSbEJ3V1ZWUFh6RnNXSFJaYjI5amJsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paS1RIQXhSbEJ3V1ZWUFh6RnNXSFJaYjI5amJsRRAB!2m1!1s0x3403ffeeda3e90bf:0x9e79beb0f5627d18"
+      },
+      {
+        "name": "places/ChIJv5A-2u7_AzQRGH1i9bC-eZ4/reviews/Ci9DQUlRQUNvZENodHljRjlvT210RlkzaDNTekJxYTNKclEzTnlVVTluV1RobWRFRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "西營盤嘅波士頓龍蝦專門店，同朋友一人嗌咗一份set dinner，包括咗前菜、餐湯、主菜同埋甜品 。呢度整個vibe都好正，帶點外國風情，夠晒休閒舒適 。雖然呢晚冇食到佢哋嘅原隻龍蝦，但係好多菜式都有龍蝦嘅元素，都好滿足 。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西營盤嘅波士頓龍蝦專門店，同朋友一人嗌咗一份set dinner，包括咗前菜、餐湯、主菜同埋甜品 。呢度整個vibe都好正，帶點外國風情，夠晒休閒舒適 。雖然呢晚冇食到佢哋嘅原隻龍蝦，但係好多菜式都有龍蝦嘅元素，都好滿足 。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chubby Bowtie",
+          "uri": "https://www.google.com/maps/contrib/111671628591664053139/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzXCVpeFnYR9UmgPCju8HSw2H6JVHUuzCh3WxDpZK-JN3y2xY=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-10-12T03:07:58.687665144Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210RlkzaDNTekJxYTNKclEzTnlVVTluV1RobWRFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210RlkzaDNTekJxYTNKclEzTnlVVTluV1RobWRFRRAB!2m1!1s0x3403ffeeda3e90bf:0x9e79beb0f5627d18"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ffeeda3e90bf:0x9e79beb0f5627d18!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11419367997414997272&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ffeeda3e90bf:0x9e79beb0f5627d18!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ffeeda3e90bf:0x9e79beb0f5627d18!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ffeeda3e90bf:0x9e79beb0f5627d18!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJv5A-2u7_AzQRGH1i9bC-eZ4/photos/Aa-ngMa71sxGbi0jHIQbZOY2a_PSafj_gwy_ic1xfFPMUa4GuNsUDg9M7YQb5-hInxgc9vUrEz-bJ6yNRSnU4ddMjwtgUNuA0FIWmZVNCFauV2PXnUb9ZL4gf_NPXTH8q1kk6whrmScIKU0Y9jNtBXpRVUliDMqpkK3SWNkM5Uq8rRBvN6v60SyxD-t_mova6C9PUi_FCvh0R0t49TUhD6yfnlZ9oYwKqIvTflb1gXR-pVrNfhCYRsKezfkdJDUSNSdM83wEzT8BBiiOLy2q5lgr-Twsa-Hz1jIqU9mUiKcgGiS0KYkvwJpu8ogFUCWy7ACHD4XRiaygn6oS5k-8mawEnYee9pdV2UfouKhIEVW2fk3YheNfZlbjNuPENDCgNqby6DPM2WDdt4RmvSwhGMrPWWfpK7c",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "authorAttributions": [
+        {
+          "displayName": "Lobster Shack Steak House",
+          "uri": "https://maps.google.com/maps/contrib/101555018238001275039",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0nTn8I1dRJh8bAdezvH6WPoJDNhouoiJmmNV2qYC0YizS9eO3=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICPnNOKCA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPnNOKCA!2e10!4m2!3m1!1s0x3403ffeeda3e90bf:0x9e79beb0f5627d18"
+    },
+    "local_path": "photos/ChIJv5A-2u7_AzQRGH1i9bC-eZ4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPiJWp3u7fIKh9A_rvW0kFYJQjz5gYgWGDobgxDWmkQz0-tyRGaANmmB3j3v08ztaM39tvOMzMFKap_ZYTbB37o-Vyf8R5DtYkL8_9818xzMCXEyrJHKKSvRbHXU22dAMYhWPX=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 155244
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "seafood_restaurant",
+    "label": "海鮮餐廳",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

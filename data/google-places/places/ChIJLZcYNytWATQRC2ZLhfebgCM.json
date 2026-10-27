@@ -1,0 +1,337 @@
+{
+  "google_place_id": "ChIJLZcYNytWATQRC2ZLhfebgCM",
+  "restaurant_ids": [
+    "restaurant:2217800235"
+  ],
+  "fetched_at": "2026-10-23T15:45:44.298004+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJLZcYNytWATQRC2ZLhfebgCM",
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2984 1102",
+    "internationalPhoneNumber": "+852 2984 1102",
+    "formattedAddress": "香港新界梅窩銀運路3號梅窩中心C座大嶼山梅窩銀礦灣銀運路3號 梅窩中心地下1，3及5號舖",
+    "location": {
+      "latitude": 22.2644064,
+      "longitude": 114.00190320000002
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=2558216075741980171&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.mcdonalds.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:00 – 23:30",
+        "星期二: 06:00 – 23:30",
+        "星期三: 06:00 – 23:30",
+        "星期四: 06:00 – 23:30",
+        "星期五: 06:00 – 23:30",
+        "星期六: 06:00 – 23:30",
+        "星期日: 06:00 – 23:30"
+      ],
+      "nextOpenTime": "2026-10-23T22:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 408,
+    "displayName": {
+      "text": "麥當勞 (梅窩)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "速食餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "fast_food_restaurant",
+    "editorialSummary": {
+      "text": "老字號的經典連鎖速食店，以漢堡和薯條聞名。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJLZcYNytWATQRC2ZLhfebgCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WclFXWktNM1o2V1VodVlUaERUa1UzVGxaQmJsRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這間麥當勞是梅窩區比較收費廉宜大眾化的食肆 食物有一定水準 但這裏的價格會比其他非遊客區的麥當勞稍為貴一點 因為香港的麥當勞不是統一定價的",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間麥當勞是梅窩區比較收費廉宜大眾化的食肆 食物有一定水準 但這裏的價格會比其他非遊客區的麥當勞稍為貴一點 因為香港的麥當勞不是統一定價的",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mong Tung",
+          "uri": "https://www.google.com/maps/contrib/110771854490228721711/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvT4fmNNmDm-kMGOD4BwCDcxSd2qW9bC2h4YQcPrB14ehuuvs=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-08T17:39:49.059765044Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WclFXWktNM1o2V1VodVlUaERUa1UzVGxaQmJsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WclFXWktNM1o2V1VodVlUaERUa1UzVGxaQmJsRRAB!2m1!1s0x3401562b3718972d:0x23809bf7854b660b"
+      },
+      {
+        "name": "places/ChIJLZcYNytWATQRC2ZLhfebgCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxSFVuWmlaSGx4WnpGeGFsUTBSRzR4VW01a1JGRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 2,
+        "text": {
+          "text": "早前去，點的是無鹽薯條，但係當我攞到嘅時候竟然只係暖嘅，唔似係即炸。\n點內有些深色小昆蟲在飛， 不似蚊也不似蒼蠅，有人猜是蛾蚋。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "早前去，點的是無鹽薯條，但係當我攞到嘅時候竟然只係暖嘅，唔似係即炸。\n點內有些深色小昆蟲在飛， 不似蚊也不似蒼蠅，有人猜是蛾蚋。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "wy lo",
+          "uri": "https://www.google.com/maps/contrib/101478833205710184469/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1iR8ZfyIZmzqmb-yTW1QWAPLO0eeueoS5818O8rkJPpqV4w=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-06-07T15:53:04.979170918Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxSFVuWmlaSGx4WnpGeGFsUTBSRzR4VW01a1JGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxSFVuWmlaSGx4WnpGeGFsUTBSRzR4VW01a1JGRRAB!2m1!1s0x3401562b3718972d:0x23809bf7854b660b"
+      },
+      {
+        "name": "places/ChIJLZcYNytWATQRC2ZLhfebgCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWUGR6WTJPWGhpYjB0R1MxOXZiMTlzVm5BMmNtYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 2,
+        "text": {
+          "text": "可能是偏遠地區吧，早上點餐有80％機會等超過10分鐘還未有得取，雖然唯一一位餐廳經理及其同事忙不過來",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "可能是偏遠地區吧，早上點餐有80％機會等超過10分鐘還未有得取，雖然唯一一位餐廳經理及其同事忙不過來",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "MicGo KWOK",
+          "uri": "https://www.google.com/maps/contrib/102162224541268934402/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5UgFfVQ-uVVb5DumRW46dOq65uekdJ18zoT6uB01J0d9MyOI=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-29T00:18:55.768035882Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWUGR6WTJPWGhpYjB0R1MxOXZiMTlzVm5BMmNtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWUGR6WTJPWGhpYjB0R1MxOXZiMTlzVm5BMmNtYxAB!2m1!1s0x3401562b3718972d:0x23809bf7854b660b"
+      },
+      {
+        "name": "places/ChIJLZcYNytWATQRC2ZLhfebgCM/reviews/ChZDSUhNMG9nS0VJQ0FnSURlcXUtdEpnEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 3,
+        "text": {
+          "text": "海景值5⭐️  其他就…😎\n\n是日全日下雨，難得搶到大嶼山禁區紙，下雨都照去啦！ 這家金拱門靠近海邊，天氣好時一定感覺寫意。不過下雨天，店面地板非常濕滑，需要步步為營。好不容易等到最靠近海邊的座位有位，但天花卻不斷滴水，仿如置身露天茶座。\n\n至於食物，都係咁啦😎",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "海景值5⭐️  其他就…😎\n\n是日全日下雨，難得搶到大嶼山禁區紙，下雨都照去啦！ 這家金拱門靠近海邊，天氣好時一定感覺寫意。不過下雨天，店面地板非常濕滑，需要步步為營。好不容易等到最靠近海邊的座位有位，但天花卻不斷滴水，仿如置身露天茶座。\n\n至於食物，都係咁啦😎",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Goo Shiney",
+          "uri": "https://www.google.com/maps/contrib/115584445250976903235/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-QwRGRm8l2c5Buw-9KvaTdQBg-CtPgoXPy3LF9zDmhLCnbg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2022-10-07T16:56:42.316581Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURlcXUtdEpnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURlcXUtdEpnEAE!2m1!1s0x3401562b3718972d:0x23809bf7854b660b"
+      },
+      {
+        "name": "places/ChIJLZcYNytWATQRC2ZLhfebgCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT210TWJrZzJNMjB0YUhoV1EwSjJWemQwV2tsUWFHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "都幾好味，下次仲會嚟嘅",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "都幾好味，下次仲會嚟嘅",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "柯柏文",
+          "uri": "https://www.google.com/maps/contrib/110754100244124374904/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGtj0i7FyjvQUHIZwz1zYBEkKvdBqujrEI6TaX7vdojBAk-g=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-09-23T16:50:24.798977502Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210TWJrZzJNMjB0YUhoV1EwSjJWemQwV2tsUWFHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210TWJrZzJNMjB0YUhoV1EwSjJWemQwV2tsUWFHYxAB!2m1!1s0x3401562b3718972d:0x23809bf7854b660b"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3401562b3718972d:0x23809bf7854b660b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2558216075741980171&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3401562b3718972d:0x23809bf7854b660b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3401562b3718972d:0x23809bf7854b660b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3401562b3718972d:0x23809bf7854b660b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJLZcYNytWATQRC2ZLhfebgCM/photos/Aa-ngMaSvYfFsWhOAdGvdyYn0IBCdlrWCd_6VD0sfNuY15yTmIcc58NBk0W5GUV5p6E9HYs07XhvNouts8or9SUEZgGC9fouhVsY2iK3ikRHFiPjVL7GYVuNK64EK3FQiGrGsuGogU4bYnC338TCyf2efVcpUenv4zXPV7GvO28mSPXYb9ZTni1SIwls6Ill4dzk52izhILXVtKWXZmPZUVIqfX4zl7hwGtDSN-Vwv-PkFK_ehO0j4jcEMmaqHN8v5hNlF7W9uPWHw10VTVqczoSoAeqRPK6us1jQqgFaCPt0fFO9u-nszs6xFveLjj2AErzYfFYNdWCNO2XM3f6VGzkuCShLTGeaURSs1HfUCTpVA6C3ATYaHiHSAxEPwmgwyh3qWb63i0UTTPtdmpj0R-C-9Gmz4pHzjE",
+      "widthPx": 3753,
+      "heightPx": 1688,
+      "authorAttributions": [
+        {
+          "displayName": "Mike K.",
+          "uri": "https://maps.google.com/maps/contrib/114890961356281185359",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBx8MjRtlEPoZ9m7k_BunJXw8YI-BfHBz0jhyh9AYMYmK8ypYf=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2y7fYtgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2y7fYtgE!2e10!4m2!3m1!1s0x3401562b3718972d:0x23809bf7854b660b"
+    },
+    "local_path": "photos/ChIJLZcYNytWATQRC2ZLhfebgCM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMO8ntiECen1kkgJrfASdmcl5TE6I2XdgQa8pyKcszIL9mDxWHTuX3izMvWl6PU1qyo-8vy-S8PWi1-5VaB0UoeVu6KfR8WQ_4oUTxRR78vJc5uIkW2OfATTzTYf0TzihLKk8Xgg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 124865
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.mcdonalds.com.hk/menu/mccafe/",
+        "label": "了解更多",
+        "source_url": "https://www.mcdonalds.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "fast_food_restaurant",
+    "label": "速食餐廳",
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.mcdonalds.com.hk/menu/mccafe/"
+}

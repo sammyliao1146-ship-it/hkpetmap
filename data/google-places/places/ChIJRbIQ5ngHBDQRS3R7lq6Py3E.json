@@ -1,0 +1,327 @@
+{
+  "google_place_id": "ChIJRbIQ5ngHBDQRS3R7lq6Py3E",
+  "restaurant_ids": [
+    "restaurant:2263804924"
+  ],
+  "fetched_at": "2026-10-23T15:46:03.555341+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJRbIQ5ngHBDQRS3R7lq6Py3E",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2461 8020",
+    "internationalPhoneNumber": "+852 2461 8020",
+    "formattedAddress": "Shop 1, G/F, 368 Castle Peak Rd, So Uk, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3390724,
+      "longitude": 114.1558263
+    },
+    "rating": 3.3,
+    "googleMapsUri": "https://maps.google.com/?cid=8199805526569874507&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/brand/milk-cafe",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 21:00",
+        "星期二: 07:00 – 21:00",
+        "星期三: 07:00 – 21:00",
+        "星期四: 07:00 – 21:00",
+        "星期五: 07:00 – 21:00",
+        "星期六: 07:00 – 21:00",
+        "星期日: 07:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 193,
+    "displayName": {
+      "text": "牛奶冰室 (喜韻)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJRbIQ5ngHBDQRS3R7lq6Py3E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGWmNWaFZkWFF4VjJsemRrZGhXbDlEVTFKYWFFRRAB",
+        "relativePublishTimeDescription": "3 週前",
+        "rating": 2,
+        "text": {
+          "text": "第一次去呢間，掃左qr code，餐飲改唔到甜/冰/濃度，apps 有問題。自助飲水位置頗遠。食物質素一般，叉燒干柴。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第一次去呢間，掃左qr code，餐飲改唔到甜/冰/濃度，apps 有問題。自助飲水位置頗遠。食物質素一般，叉燒干柴。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yan JY",
+          "uri": "https://www.google.com/maps/contrib/111681668242614325980/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKc9SFcwDeueAJ93RYkDdzHqSYtoh5Fe2SsMdxgsMTW8G9fCw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-09-30T06:54:52.171216291Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGWmNWaFZkWFF4VjJsemRrZGhXbDlEVTFKYWFFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGWmNWaFZkWFF4VjJsemRrZGhXbDlEVTFKYWFFRRAB!2m1!1s0x34040778e610b245:0x71cb8fae967b744b"
+      },
+      {
+        "name": "places/ChIJRbIQ5ngHBDQRS3R7lq6Py3E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkOXBDeEdBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "11am 完左要做既野，決定黎食個early bunch先。\n之前坐車經過已經好期待佢開張，終於有機會試下～ 兩層鋪位地方唔細，不過其實底層位置不算多。\n叫左兩個早餐，一個雞扒all day ＋ 火腿通，另外再叫左個火腿通＋滑蛋。\n最欣賞既係火腿通裏面竟然有粒粒南瓜♥️ 同埋麵包唔係d餐包/方包，佢地既麵包係正既！\n最終亦叫左佢地有名既芝士爆醬拉絲菠蘿包，兩個人share岩岩好，普普通通，試過ok。\n返去之前再買埋明天早餐，用電子支付＋今日既收據有少少折扣。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "11am 完左要做既野，決定黎食個early bunch先。\n之前坐車經過已經好期待佢開張，終於有機會試下～ 兩層鋪位地方唔細，不過其實底層位置不算多。\n叫左兩個早餐，一個雞扒all day ＋ 火腿通，另外再叫左個火腿通＋滑蛋。\n最欣賞既係火腿通裏面竟然有粒粒南瓜♥️ 同埋麵包唔係d餐包/方包，佢地既麵包係正既！\n最終亦叫左佢地有名既芝士爆醬拉絲菠蘿包，兩個人share岩岩好，普普通通，試過ok。\n返去之前再買埋明天早餐，用電子支付＋今日既收據有少少折扣。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sheep in the city",
+          "uri": "https://www.google.com/maps/contrib/117015467333184630083/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXt9B7oeDsBbfod-ZXNQtxf5HYvtcsU8iQM-C_jn5NCE56c9g8=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-02-15T04:42:02.345773Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkOXBDeEdBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkOXBDeEdBEAE!2m1!1s0x34040778e610b245:0x71cb8fae967b744b"
+      },
+      {
+        "name": "places/ChIJRbIQ5ngHBDQRS3R7lq6Py3E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyN19IZjF3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "✨叫咗個下午茶餐試試,一口雞球蔥油撈麵、配牛乳莓莓。杯嘢顏色好靚,用作來打卡為最好不過了❗個蔥油撈麵蔥好多很香,但啲雞有點overdone, 有啲乾,如果杯飲品凍啲及有少少似沙冰嘅感覺,那就冇得頂了❗整體並沒有太大驚喜,不過不失啦。😊",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "✨叫咗個下午茶餐試試,一口雞球蔥油撈麵、配牛乳莓莓。杯嘢顏色好靚,用作來打卡為最好不過了❗個蔥油撈麵蔥好多很香,但啲雞有點overdone, 有啲乾,如果杯飲品凍啲及有少少似沙冰嘅感覺,那就冇得頂了❗整體並沒有太大驚喜,不過不失啦。😊",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wai T",
+          "uri": "https://www.google.com/maps/contrib/103788560283438577686/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJIKZtu-7H7WlEhb8v8mijINIoXPnaUynupcwTW1-EG-baFaQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-07-17T07:05:31.591789Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNyN19IZjF3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNyN19IZjF3RRAB!2m1!1s0x34040778e610b245:0x71cb8fae967b744b"
+      },
+      {
+        "name": "places/ChIJRbIQ5ngHBDQRS3R7lq6Py3E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poUWJIQmxkbGxMVVVGSldYZGhXbUpKTVcweGFGRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 3,
+        "text": {
+          "text": "早餐味道普普通通，不過不失，也不算特別便宜。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "早餐味道普普通通，不過不失，也不算特別便宜。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "TY Mo",
+          "uri": "https://www.google.com/maps/contrib/106599519563159339436/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKS3NpVfbNVLXK3OHcXIpM_01LtXsPm6zos82GgrWVB5bCGw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-28T08:14:36.015757772Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poUWJIQmxkbGxMVVVGSldYZGhXbUpKTVcweGFGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poUWJIQmxkbGxMVVVGSldYZGhXbUpKTVcweGFGRRAB!2m1!1s0x34040778e610b245:0x71cb8fae967b744b"
+      },
+      {
+        "name": "places/ChIJRbIQ5ngHBDQRS3R7lq6Py3E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNocktDMmlRRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "朋友出嚟深水埗八仙買角仔，我都唔執輸買咗一包細嘅，之後去咗長沙灣牛奶冰室食下午茶，佢個西多士真係超級邪惡又好食，入邊鋪滿咗粗粒嘅花生醬，好似仲有塊芝士添，厚實嘅西多食一件都飽，佢有得配雪糕或者紅豆，我呢款係咩都冇最Classic。朋友食嘅午餐肉蛋治足足有三塊麵包喺度，應該又係超飽肚。\n另一朝喺牛奶冰室堂食嘅早餐，質素唔錯可以一食！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友出嚟深水埗八仙買角仔，我都唔執輸買咗一包細嘅，之後去咗長沙灣牛奶冰室食下午茶，佢個西多士真係超級邪惡又好食，入邊鋪滿咗粗粒嘅花生醬，好似仲有塊芝士添，厚實嘅西多食一件都飽，佢有得配雪糕或者紅豆，我呢款係咩都冇最Classic。朋友食嘅午餐肉蛋治足足有三塊麵包喺度，應該又係超飽肚。\n另一朝喺牛奶冰室堂食嘅早餐，質素唔錯可以一食！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dick Lai",
+          "uri": "https://www.google.com/maps/contrib/112263354783340224348/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcR76aAa46Bv6Kn7q6uqwrHsjim8cPMgD0teQeYF2CvsACPcRK=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-02-07T05:08:21.381398Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNocktDMmlRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNocktDMmlRRRAB!2m1!1s0x34040778e610b245:0x71cb8fae967b744b"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040778e610b245:0x71cb8fae967b744b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8199805526569874507&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040778e610b245:0x71cb8fae967b744b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040778e610b245:0x71cb8fae967b744b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040778e610b245:0x71cb8fae967b744b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJRbIQ5ngHBDQRS3R7lq6Py3E/photos/Aa-ngMZ4tkajHLk4dWwW3E1Kcg8DRq3fCrkP6GbyAUkOjQ0stGzZBgwEL38vTxTxyGhX6owCHkP0OVM3jzS23UkZ5rARptsQREAmB0d4eOfMz2E-kIgTuibe--7FjmMReCZg3isID7GU7DaaS3rAP9eBWjNXmT3krnX4MtJSuta7CcgjG-hB5qNVrjNV7uJdL3Y_0mC7TOVOO8zIwXbAmicn8SbhzNkgbo4QsDnBqpxmLfQF4K9FUN0BF2_ODo7RVRzYJ-7L0R9X1EeOlpKz12gF91ir5hLlQyHye2zbXSYMH-3DSTfM1OELUL71a3F7xzc29ksMHIYQNn0iR_yg4LqbHYnisT3Nep0tElLVE0_qlPOyrdYfD9MgzfhNxXXWvWWnGqkSS6sBLYolPQMjn2h2gsX25Q",
+      "widthPx": 3901,
+      "heightPx": 2257,
+      "authorAttributions": [
+        {
+          "displayName": "Andy Mok",
+          "uri": "https://maps.google.com/maps/contrib/111846166957826855295",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5nJfMHaKbbnzi6cic3kgbCtvfau6LU95VpWtLefPH9tC62xbiIA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDh-u-nNw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh-u-nNw!2e10!4m2!3m1!1s0x34040778e610b245:0x71cb8fae967b744b"
+    },
+    "local_path": "photos/ChIJRbIQ5ngHBDQRS3R7lq6Py3E.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOPMZBbPRnXRihTQ-OCYwHlYz3QBaNAJ6lIcj7jX_pSQwbRMhzyLuqr71tAlp-6ej1fFbZUJx_7IYZ-R6CrsaBM_aMJIEQvpRjOCekw-18m6B7P_QAhgKLyeqHKCqeeAt5za8=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 160425
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

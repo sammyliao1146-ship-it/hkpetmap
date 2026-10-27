@@ -1,0 +1,310 @@
+{
+  "google_place_id": "ChIJZ2pB1aQBBDQR6T3FYQc2tLc",
+  "restaurant_ids": [
+    "restaurant:3111804686"
+  ],
+  "fetched_at": "2026-10-23T15:51:05.874409+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJZ2pB1aQBBDQR6T3FYQc2tLc",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "地下D1號舖, 26號 Kam Ping St, North Point, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2902401,
+      "longitude": 114.199951
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=13237264610081717737&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://timetogold.org/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 11:30 – 18:30",
+        "星期三: 11:30 – 18:30",
+        "星期四: 11:30 – 18:30",
+        "星期五: 11:30 – 18:30",
+        "星期六: 11:30 – 18:30",
+        "星期日: 11:30 – 18:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 128,
+    "displayName": {
+      "text": "糕點時光",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJZ2pB1aQBBDQR6T3FYQc2tLc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0d1RsOVZjek5PYmxob1RsSjVVWHBRUkRSSFJIYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "南瓜湯底雞肉蕎麥麵好好食，雞胸超軟有汁。南瓜湯底是南瓜蓉，南瓜味濃郁。\n\n九宮格的量超級足，兩個人都食唔晒要打包，但可以一次過試晒傳統糕點。開心果糯米糍好食。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "南瓜湯底雞肉蕎麥麵好好食，雞胸超軟有汁。南瓜湯底是南瓜蓉，南瓜味濃郁。\n\n九宮格的量超級足，兩個人都食唔晒要打包，但可以一次過試晒傳統糕點。開心果糯米糍好食。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Allison Pang",
+          "uri": "https://www.google.com/maps/contrib/114074371275975585024/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJC-P1Y1UgDncZ3LRY9MGdT9AxusYW6_vJSeJu3hj8fvQsY1Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-04T07:54:36.792433584Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s0d1RsOVZjek5PYmxob1RsSjVVWHBRUkRSSFJIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0d1RsOVZjek5PYmxob1RsSjVVWHBRUkRSSFJIYxAB!2m1!1s0x340401a4d5416a67:0xb7b4360761c53de9"
+      },
+      {
+        "name": "places/ChIJZ2pB1aQBBDQR6T3FYQc2tLc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4MlV6Wk1TRXBoY0RKTVN6QmhhR05hZFVOTGJFRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "“糕點時光”\n\n食得開心！\n一落座就試咗烤天貝伴蜜糖芥末醬刈包，呢個素菜冇得輸！天貝烤到剛剛好，帶住香濃既大豆味，咬下去有啲脆感。蜜糖配芥末醬，比例剛好，甜中帶辣，蕃茄🍅生菜🥬配刈包，每一啖都好新鮮～～過癮！\n\n前菜既醋白蘿蔔有驚喜，酸酸脆脆帶甜，啱啱好可以解膩～\n\n再嚟花生糯米糍，呢個甜品又讓我回味無窮！手工糯米皮厚滑，裡面包住香濃花生餡，有嚼勁又唔會太甜，一食想再食！\n\n但仲有杯海鹽芝士奶蓋茉莉飄香，咁有下次再加甜品lu~~~\n\n飲品奶蓋配合茉莉茶既清香，口感層次豐富，齒頰留香。\n\n整個體驗超級滿足，值得走再試！\n\n#糕點時光 #社企餐廳\n#saludlivingstyle #養生殿堂 #番工狠鮮fu系列",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "“糕點時光”\n\n食得開心！\n一落座就試咗烤天貝伴蜜糖芥末醬刈包，呢個素菜冇得輸！天貝烤到剛剛好，帶住香濃既大豆味，咬下去有啲脆感。蜜糖配芥末醬，比例剛好，甜中帶辣，蕃茄🍅生菜🥬配刈包，每一啖都好新鮮～～過癮！\n\n前菜既醋白蘿蔔有驚喜，酸酸脆脆帶甜，啱啱好可以解膩～\n\n再嚟花生糯米糍，呢個甜品又讓我回味無窮！手工糯米皮厚滑，裡面包住香濃花生餡，有嚼勁又唔會太甜，一食想再食！\n\n但仲有杯海鹽芝士奶蓋茉莉飄香，咁有下次再加甜品lu~~~\n\n飲品奶蓋配合茉莉茶既清香，口感層次豐富，齒頰留香。\n\n整個體驗超級滿足，值得走再試！\n\n#糕點時光 #社企餐廳\n#saludlivingstyle #養生殿堂 #番工狠鮮fu系列",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kerry chan",
+          "uri": "https://www.google.com/maps/contrib/102232574676842637407/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjmrnFjvBkdfuYUgm32aea2y26-jjYM0DqbUaaCcllJZWLwZeKNg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-03T03:59:44.789232305Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w4MlV6Wk1TRXBoY0RKTVN6QmhhR05hZFVOTGJFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4MlV6Wk1TRXBoY0RKTVN6QmhhR05hZFVOTGJFRRAB!2m1!1s0x340401a4d5416a67:0xb7b4360761c53de9"
+      },
+      {
+        "name": "places/ChIJZ2pB1aQBBDQR6T3FYQc2tLc/reviews/ChdDSUhNMG9nS0VJQ0FnSURmc01IaHNBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "我們從繁囂的英皇道轉入錦屏街，寧靜中帶旺的街道上，尋找那些時光回味的糕點。\n\n因為網上的推介是社企愛心小店，今天終於可以一嘗「懷舊糕點九宮格拼盤 」了！\n\n懷舊糕點加入了新元素，令美味添加玩味，例如流心芝麻卷、流心雙薯西米糕（紫薯及蕃薯），附上小膠管，享用時候才將芝麻醬汁、椰汁唧到甜品上，挺有趣！迷你砵仔糕的竹籤，也是最漂亮的！玩味剝皮橘子包，的確很吸引，可以剝皮的橘子包玩意十足，餡內有少許甜酸味道，吃了一個像橘子，但又不是橘子的甜品，很有新鮮感，總括九款甜品的甜度很適合港人味道。\n\n我們還點選兩款主食：\n\n五香梅菜扣肉刈包套餐~ 梅菜和扣肉構成鮮味甘香的餡料，用刈包夾著吃，盡享台式美味。\n\n傳統港式五香牛雜麵 ~五香牛雜沒有肥膩油脂，麵質爽滑，屬健康版牛雜麵。\n\n糕點店裝潢簡潔雅緻舒適，而且我還有多款甜品未嘗味，所以，稍後會再來，今次也外賣回家請家人嘗嘗。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我們從繁囂的英皇道轉入錦屏街，寧靜中帶旺的街道上，尋找那些時光回味的糕點。\n\n因為網上的推介是社企愛心小店，今天終於可以一嘗「懷舊糕點九宮格拼盤 」了！\n\n懷舊糕點加入了新元素，令美味添加玩味，例如流心芝麻卷、流心雙薯西米糕（紫薯及蕃薯），附上小膠管，享用時候才將芝麻醬汁、椰汁唧到甜品上，挺有趣！迷你砵仔糕的竹籤，也是最漂亮的！玩味剝皮橘子包，的確很吸引，可以剝皮的橘子包玩意十足，餡內有少許甜酸味道，吃了一個像橘子，但又不是橘子的甜品，很有新鮮感，總括九款甜品的甜度很適合港人味道。\n\n我們還點選兩款主食：\n\n五香梅菜扣肉刈包套餐~ 梅菜和扣肉構成鮮味甘香的餡料，用刈包夾著吃，盡享台式美味。\n\n傳統港式五香牛雜麵 ~五香牛雜沒有肥膩油脂，麵質爽滑，屬健康版牛雜麵。\n\n糕點店裝潢簡潔雅緻舒適，而且我還有多款甜品未嘗味，所以，稍後會再來，今次也外賣回家請家人嘗嘗。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Stella Luk",
+          "uri": "https://www.google.com/maps/contrib/107234291226142777950/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNMRauL0bzgtPSYdOrghHJ3ulVL3zy5Bu-WiFhwuMe6gZ44Tkl=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-01-03T14:10:18.825672Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmc01IaHNBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmc01IaHNBRRAB!2m1!1s0x340401a4d5416a67:0xb7b4360761c53de9"
+      },
+      {
+        "name": "places/ChIJZ2pB1aQBBDQR6T3FYQc2tLc/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcnVIRkV3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": ".\n由細到大都好鍾意Vintage嘅嘢☺️今日同朋友去咗糕點時光lunch🙌🏻佢係一間致力於保存傳統糕點文化的社會企業‼️店舖以懷舊設計為特色，提供多種傳統港式糕點🥮如白糖糕、西米糕、芝麻卷、砵仔糕等👍🏻重拾兒時嘅味道😋\n\n養生豆腐菇菌紅米飯🍚\n健康為主題，豆腐和菇菌搭配紅米飯，營養豐富，口感綿滑。紅米飯的微甜與豆腐的嫩滑完美結合\n\n懷舊糕點九宮格拼盤🍱\n這款拼盤呈現了多種懷舊糕點，包括缽仔糕、白糖糕等。每一款糕點都保留了傳統的口感和味道，一個值得品嘗的香港傳統美食體驗\n\n藥膳醇香單骨雞翼\n這道菜結合了藥膳的滋補元素和單骨雞翼的爽口感，醇香的藥材味道與雞翼的嫩滑完美融合\n\nXO醬蘿蔔糕\n蘿蔔糕與XO醬的搭配是經典的香港美食組合。慢火煎香的蘿蔔糕與濃郁的XO醬完美匹配，讓人在每一口中體驗到濃厚的味道和回憶\n\n📍糕點時光 (北角)\n北角錦屏街26號幸福大樓地下D1號舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": ".\n由細到大都好鍾意Vintage嘅嘢☺️今日同朋友去咗糕點時光lunch🙌🏻佢係一間致力於保存傳統糕點文化的社會企業‼️店舖以懷舊設計為特色，提供多種傳統港式糕點🥮如白糖糕、西米糕、芝麻卷、砵仔糕等👍🏻重拾兒時嘅味道😋\n\n養生豆腐菇菌紅米飯🍚\n健康為主題，豆腐和菇菌搭配紅米飯，營養豐富，口感綿滑。紅米飯的微甜與豆腐的嫩滑完美結合\n\n懷舊糕點九宮格拼盤🍱\n這款拼盤呈現了多種懷舊糕點，包括缽仔糕、白糖糕等。每一款糕點都保留了傳統的口感和味道，一個值得品嘗的香港傳統美食體驗\n\n藥膳醇香單骨雞翼\n這道菜結合了藥膳的滋補元素和單骨雞翼的爽口感，醇香的藥材味道與雞翼的嫩滑完美融合\n\nXO醬蘿蔔糕\n蘿蔔糕與XO醬的搭配是經典的香港美食組合。慢火煎香的蘿蔔糕與濃郁的XO醬完美匹配，讓人在每一口中體驗到濃厚的味道和回憶\n\n📍糕點時光 (北角)\n北角錦屏街26號幸福大樓地下D1號舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "crystal fung",
+          "uri": "https://www.google.com/maps/contrib/107228927010029216650/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJBhvoTnrgSNF1xc-Du4xyaS8DNtZ0fyWGMx6bfsrSvT13OyQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-03-11T05:05:53.742014Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRcnVIRkV3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcnVIRkV3EAE!2m1!1s0x340401a4d5416a67:0xb7b4360761c53de9"
+      },
+      {
+        "name": "places/ChIJZ2pB1aQBBDQR6T3FYQc2tLc/reviews/ChZDSUhNMG9nS0VLRFhrc09ueXVlZ2FREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "北角開咗一間良心社企店， 主力支持長者同婦女就業，十分有意義。 最緊要係 ，好有香港地道風味， 有70-80年代既撥輪電話、舊式水壺等， 再加上一啲依家買少見少既香港傳統糕點，真係好值得去試下🫰🏻\n🥙 烤天貝伴蜜糖芥末醬刈包（$72） ： 熟我既人都知我都會係特定日子食素，依個食物就岩哂我🤩🤩 天貝其實係以黃豆發酵而成， 含有好多既營養 ，包括蛋白質、維生素B12等等，對素食者黎講非常友好！ 天貝加上生蕃茄、生菜配合蜜糖芥末醬及刈包，口感十分豐富同甜甜地幾特別！ 絕對值得一試！ 跟餐仲有前菜同甜品 ，飲品加$30\n🥤 糯米丸子艾草拿鐵： 聽個名幾特別， 艾草對女性黎講有保養作用👍一黎補充營養低脂肪，岩哂我減磅既人， 另外仲暖宮活血，  舒緩M痛。飲落唔會太甜。\n🥣 醬煮鮮菌天貝（$58） ： 同樣以天貝做成，加上雜菌同醬汁， 口感唔錯。\n🥧 懷舊糕點九宮格拼盤（$98） ： 依樣絕對係必食甜品之一，有齊9種香港地道傳統甜品，包括砵仔糕、白糖糕、菲林卷、花生糯米糍、叮叮糖、花生糖、流心雙薯西米糕等。 樣樣都好懷念😋😋 個人最中意砵仔糕，因為細個成日都食😍，同埋細細個咁好易入口。\n依間除左係素食人士既天堂，仲要有寵物食得既糕點😝 除左堂食，仲可以外賣，買埋番屋企當宵夜都得！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "北角開咗一間良心社企店， 主力支持長者同婦女就業，十分有意義。 最緊要係 ，好有香港地道風味， 有70-80年代既撥輪電話、舊式水壺等， 再加上一啲依家買少見少既香港傳統糕點，真係好值得去試下🫰🏻\n🥙 烤天貝伴蜜糖芥末醬刈包（$72） ： 熟我既人都知我都會係特定日子食素，依個食物就岩哂我🤩🤩 天貝其實係以黃豆發酵而成， 含有好多既營養 ，包括蛋白質、維生素B12等等，對素食者黎講非常友好！ 天貝加上生蕃茄、生菜配合蜜糖芥末醬及刈包，口感十分豐富同甜甜地幾特別！ 絕對值得一試！ 跟餐仲有前菜同甜品 ，飲品加$30\n🥤 糯米丸子艾草拿鐵： 聽個名幾特別， 艾草對女性黎講有保養作用👍一黎補充營養低脂肪，岩哂我減磅既人， 另外仲暖宮活血，  舒緩M痛。飲落唔會太甜。\n🥣 醬煮鮮菌天貝（$58） ： 同樣以天貝做成，加上雜菌同醬汁， 口感唔錯。\n🥧 懷舊糕點九宮格拼盤（$98） ： 依樣絕對係必食甜品之一，有齊9種香港地道傳統甜品，包括砵仔糕、白糖糕、菲林卷、花生糯米糍、叮叮糖、花生糖、流心雙薯西米糕等。 樣樣都好懷念😋😋 個人最中意砵仔糕，因為細個成日都食😍，同埋細細個咁好易入口。\n依間除左係素食人士既天堂，仲要有寵物食得既糕點😝 除左堂食，仲可以外賣，買埋番屋企當宵夜都得！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "karen ka",
+          "uri": "https://www.google.com/maps/contrib/108703865265812272255/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtJcQQuHGAew6Fyjr5Ub_NUD58DQChWDIaxs_7lIRYwgry48EE=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-05-15T11:39:13.899657Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VLRFhrc09ueXVlZ2FREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VLRFhrc09ueXVlZ2FREAE!2m1!1s0x340401a4d5416a67:0xb7b4360761c53de9"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401a4d5416a67:0xb7b4360761c53de9!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13237264610081717737&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401a4d5416a67:0xb7b4360761c53de9!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401a4d5416a67:0xb7b4360761c53de9!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401a4d5416a67:0xb7b4360761c53de9!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJZ2pB1aQBBDQR6T3FYQc2tLc/photos/Aa-ngMaa_NvGW5vKx4pU6QtjUR1U2q8z_OQ3zED8SMHIRriNtNi4BDPTPiDS_ouhQfyRAdxLvuU8W7tNuDnDaRJ3DcsGdk-HpGmgHC1GkWZt-nbAPyEcIWamt5tPoMwp6ZhFc3_R6qShVGCu45go8AJQWEq9lCMLIp_NpFKr3gsyY_T_emukJjf0HmhViD3LMYz_qcXoEG_R3KyrOYf6Nc1z84686um2qc2fSIeMbgVWlVQAJHA80vsQ_XBOsUVHUO7QW_sR7XhMn4VQnU4alI-J7LaQBGa_M-mYN7pEInaLrWPPB22j9w3bDWt-AM9QhYLdN7nwDWUd9UBpXqz74ls_BTKj69S2g8nt4AR2u3cKATyTtg36OFrVDvlHs-F2xvxhYHvScErskmJ9ergz8k95HDTgg_hfhWQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Time To Gold",
+          "uri": "https://maps.google.com/maps/contrib/107545753561002274242",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzA5xbdb1ZHq71X4JiBpdasLhduHf_4XU3uJh-3H6SHi0tzkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICXv8Hg_QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXv8Hg_QE!2e10!4m2!3m1!1s0x340401a4d5416a67:0xb7b4360761c53de9"
+    },
+    "local_path": "photos/ChIJZ2pB1aQBBDQR6T3FYQc2tLc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjYSxf4flCrxKqAw6mn6iBk-raOku-QTtqbi0W_XU6_miSxWDzWd7FdRC5_ijM0Ye1UL_KwMdecHR_FMvA6M34R3-RtWxLbU7gPs2UjWRtsUittznjw6xTUdcF2K_VilzMaJx2VA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 272694
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

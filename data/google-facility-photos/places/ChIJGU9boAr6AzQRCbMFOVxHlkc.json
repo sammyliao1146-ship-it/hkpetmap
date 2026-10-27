@@ -1,0 +1,38 @@
+{
+  "id": "ChIJGU9boAr6AzQRCbMFOVxHlkc",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界元朗屏會街25號",
+  "location": {
+    "latitude": 22.447206599999998,
+    "longitude": 114.02181499999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5158388884618720009&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "CityVet - Yuen Long Vet Hospital 城市獸醫 - 元朗",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJGU9boAr6AzQRCbMFOVxHlkc/photos/Aa-ngMbAeSZF3OHhUEOBo24FIlw7ZdDvlp7uQ6YXEO-nfmLqDULYb9jYTHxMWSMIZnqZhQW0ud7VMcxCgEQq3jwtuVcopXA2dlDSvz1zuTrzdNT6dk3G0-TPNAI6nWqS4cGacZsVGCzKTYyI_anDf9Rh5PzCHmONOYwvQcKIZVvWWYoV805FZd3FlkhDrAQFx5W4Q0xz8-anmBuKrZUSutWvO371QlDCUPx2PW2LB7DfyOYHgQ1W1FYMe49a7SNosjaRYklW8pVpWlU0zTcQojgqBKN8gQoQK4WYoEkU6clXT4EK2OcbbJdjmYq9hS1oipoMGI443kS9voNWmCgSEMUADhMtnRQkaOGbUzxJa7gzWi8MQ8K0uRO19iR_QXhbyyMQUiGX0YhF982mrWQAUGtaC2dOvYcwVsKGhDrptlDNjH8A0w",
+      "widthPx": 2000,
+      "heightPx": 2000,
+      "authorAttributions": [
+        {
+          "displayName": "CityVet - Yuen Long Vet Hospital 城市獸醫 - 元朗",
+          "uri": "https://maps.google.com/maps/contrib/107877284924838762679",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-OE_iBMKph29QpY4Wc3PfJ9vBO8iMCPx_0Ijf-wVupnuKGzE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDw241O4OIozF4dKeJSL4y7&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDw241O4OIozF4dKeJSL4y7!2e10!4m2!3m1!1s0x3403fa0aa05b4f19:0x4796475c3905b309"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:47.972907+00:00"
+}

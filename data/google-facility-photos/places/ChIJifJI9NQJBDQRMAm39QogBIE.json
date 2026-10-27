@@ -1,0 +1,38 @@
+{
+  "id": "ChIJifJI9NQJBDQRMAm39QogBIE",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "太 亨 DD7Lot59, Lam Tsuen, New Territories, 香港",
+  "location": {
+    "latitude": 22.471176000000003,
+    "longitude": 114.1478633
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9296590762243721520&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "寵物山莊",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJifJI9NQJBDQRMAm39QogBIE/photos/Aa-ngMZxRCtJ9TWjS9aPEoG_5qyOtEjLgTyXGnIKlmxor9gICYYtTRIIc9qSSbVADJpOspFKJyPjw1SZQmZsC808T3JBl1mvzVq-iJ7niZiWlo67qQLpvHTDZUz19h2jqIAd3r3v_ROzdyPiO31NLGVMiLLMDKkWMHg4Qf9AOmZ_V42OMtbhpjeJdoFz_kQjoKlenj1iSXEUrU6QfEOP8V5bQuHvLa7e_VtbiBxrh03HUqlez0kuw4-cj6730Ocx9YUThiFVtbmPL1eEcYxIT36Tgf82S2s3vMLWYjBQBUQB86NLxIhbo3D3e1c14S4ygIUg9X-81zgKSprZv0cFGDjtBGWMG2xUNFBOPBV5QooCY6gPsC7FN0lUrocmCV9DoWAepA46r0ch7J1zv1P5RU9soPI7FhqvTag",
+      "widthPx": 4592,
+      "heightPx": 3064,
+      "authorAttributions": [
+        {
+          "displayName": "Matthew C",
+          "uri": "https://maps.google.com/maps/contrib/116314114617069244981",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVElrCCPhikvbY-5juqy5qEmvlQKZoVmKg0_1M_RWBQtU0cGzlj=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE8-iHtAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE8-iHtAE!2e10!4m2!3m1!1s0x340409d4f448f289:0x8104200af5b70930"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:13.743372+00:00"
+}

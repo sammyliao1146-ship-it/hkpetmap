@@ -1,0 +1,346 @@
+{
+  "google_place_id": "ChIJp-LS4lwDBDQR9yI4B0zVS1Y",
+  "restaurant_ids": [
+    "restaurant:2298805921",
+    "restaurant:2298805930"
+  ],
+  "fetched_at": "2026-10-23T15:42:52.524429+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJp-LS4lwDBDQR9yI4B0zVS1Y",
+    "types": [
+      "food_court",
+      "ramen_restaurant",
+      "asian_restaurant",
+      "fast_food_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6642 4323",
+    "internationalPhoneNumber": "+852 6642 4323",
+    "formattedAddress": "香港新界將軍澳駿昌街5號號 地下",
+    "location": {
+      "latitude": 22.2885247,
+      "longitude": 114.27269509999999
+    },
+    "rating": 2.4,
+    "googleMapsUri": "https://maps.google.com/?cid=6218298233030451959&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://foodoasis.downtown.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 18:00",
+        "星期二: 08:00 – 18:00",
+        "星期三: 08:00 – 18:00",
+        "星期四: 08:00 – 18:00",
+        "星期五: 08:00 – 18:00",
+        "星期六: 08:00 – 18:00",
+        "星期日: 10:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 33,
+    "displayName": {
+      "text": "Food Oasis",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "美食廣場",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": false,
+    "servesBeer": true,
+    "servesWine": false,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "food_court",
+    "reviews": [
+      {
+        "name": "places/ChIJp-LS4lwDBDQR9yI4B0zVS1Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4dmZteGN3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "下午茶人流少, 但食物價錢一般偏貴, 午飯可能都要60至到80-90蚊, 下午茶都仍有少量二三十蚊選擇. 沒有什麼服務可言，因為主要自動自助付款，手機點餐。\n但付款程序唔算好清晰，都要試幾次，才可以處理到。用八達通可能會簡單少少 ，掃二維碼佢有幾部機可以掃，變咗有時都唔知放響邊一架barcode機度。食物都可接受，一般茶餐廳級數。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "下午茶人流少, 但食物價錢一般偏貴, 午飯可能都要60至到80-90蚊, 下午茶都仍有少量二三十蚊選擇. 沒有什麼服務可言，因為主要自動自助付款，手機點餐。\n但付款程序唔算好清晰，都要試幾次，才可以處理到。用八達通可能會簡單少少 ，掃二維碼佢有幾部機可以掃，變咗有時都唔知放響邊一架barcode機度。食物都可接受，一般茶餐廳級數。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yip David",
+          "uri": "https://www.google.com/maps/contrib/114808442535968660405/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKMCDRVY5wlOWjHZlDaNHVLrk2ajAlRUTvk4AzZfI2qCbhaWA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-05-24T06:59:33.377244Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4dmZteGN3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4dmZteGN3EAE!2m1!1s0x3404035ce2d2e2a7:0x564bd54c073822f7"
+      },
+      {
+        "name": "places/ChIJp-LS4lwDBDQR9yI4B0zVS1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkRFJIVkJZalZXZEVKcllTMTRRVTVFY0hodU9WRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 3,
+        "text": {
+          "text": "食物款式多, 份量都大, 價錢算普通, 麥記都要60蚊喇\n投訴多主要係個餐廳經理成日趕客，唔比客人自帶食物進場。\nD地盤客訓覺又叫保安趕, 得罪好多地盤阿叔",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物款式多, 份量都大, 價錢算普通, 麥記都要60蚊喇\n投訴多主要係個餐廳經理成日趕客，唔比客人自帶食物進場。\nD地盤客訓覺又叫保安趕, 得罪好多地盤阿叔",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "hk blowduck",
+          "uri": "https://www.google.com/maps/contrib/112659446107490562610/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJBNssXOwONR0cAp9sobqqQe5oUVfstZ5HACAxIf4JJNEc_mA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-05T06:34:20.346557184Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkRFJIVkJZalZXZEVKcllTMTRRVTVFY0hodU9WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkRFJIVkJZalZXZEVKcllTMTRRVTVFY0hodU9WRRAB!2m1!1s0x3404035ce2d2e2a7:0x564bd54c073822f7"
+      },
+      {
+        "name": "places/ChIJp-LS4lwDBDQR9yI4B0zVS1Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURXb3NfWlZnEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "星期六只得不多於一成左右顧客，所以都非常鬆動，但就會有個別食店沒有營業。有高枱，一般坐位枱，有卡位任君選擇。食店選擇有咖啡、三文治店，有車仔麵店，有茶餐廳式店，有日本丼飯，有拉麵，亦有食物自動販賣機等。點餐是先用手機拍下場內二維碼，在網頁內有齊所有場內食店，可以一次過跨食店點餐，最後確定後手機會出現一個二維碼，帶這個二維碼到場內各付款機掃描器掃描後付款後就可以安坐等叫號。今次幫襯了茶餐廳食下午茶，點了一份隻併三文治，凍飲$50，及常餐豬扒麵配一份炒蛋，多士$54。食物質素是可以的。畢竟附近都沒有其他食肆。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期六只得不多於一成左右顧客，所以都非常鬆動，但就會有個別食店沒有營業。有高枱，一般坐位枱，有卡位任君選擇。食店選擇有咖啡、三文治店，有車仔麵店，有茶餐廳式店，有日本丼飯，有拉麵，亦有食物自動販賣機等。點餐是先用手機拍下場內二維碼，在網頁內有齊所有場內食店，可以一次過跨食店點餐，最後確定後手機會出現一個二維碼，帶這個二維碼到場內各付款機掃描器掃描後付款後就可以安坐等叫號。今次幫襯了茶餐廳食下午茶，點了一份隻併三文治，凍飲$50，及常餐豬扒麵配一份炒蛋，多士$54。食物質素是可以的。畢竟附近都沒有其他食肆。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Garfield Mak",
+          "uri": "https://www.google.com/maps/contrib/109648724708517582426/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiMQnKpmVQj2_htR5dkgp4MbYHvjZqy564M8vgBLgj1EDG_g=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-03-19T10:22:49.035521Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXb3NfWlZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXb3NfWlZnEAE!2m1!1s0x3404035ce2d2e2a7:0x564bd54c073822f7"
+      },
+      {
+        "name": "places/ChIJp-LS4lwDBDQR9yI4B0zVS1Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUMta01XeU53EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "下午茶雙併燒味飯，跟湯及汽水$48，味道唔錯，會再幫襯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "下午茶雙併燒味飯，跟湯及汽水$48，味道唔錯，會再幫襯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "N C",
+          "uri": "https://www.google.com/maps/contrib/116018924735920831382/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWz4QWWvqL2HVSKC4EvpaydgzsPerGk-i0fu6fZMD9rnjVMkM5w=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-10-24T23:14:12.193481Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMta01XeU53EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMta01XeU53EAE!2m1!1s0x3404035ce2d2e2a7:0x564bd54c073822f7"
+      },
+      {
+        "name": "places/ChIJp-LS4lwDBDQR9yI4B0zVS1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aMWEybEtPRlI2VTJwTE1FdG1abVI0VkdObFQzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "(補充，佢地獨市生意，d野又貴又難食，我第2天行左去領都附近lunch,其實只是15分鐘路程，其中一半在商場有蓋地方行，開心好多）\n用手機點餐，不過沒有手機支付，要去果幾部機支付，但是支付系統經常壞，偽高科技，。\n\n另外手機點餐時，設計惡劣，早餐加在隱瞞位置自動點了追加項目，要人手醒目去取消，營商手法奸詐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "(補充，佢地獨市生意，d野又貴又難食，我第2天行左去領都附近lunch,其實只是15分鐘路程，其中一半在商場有蓋地方行，開心好多）\n用手機點餐，不過沒有手機支付，要去果幾部機支付，但是支付系統經常壞，偽高科技，。\n\n另外手機點餐時，設計惡劣，早餐加在隱瞞位置自動點了追加項目，要人手醒目去取消，營商手法奸詐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Htc Htc",
+          "uri": "https://www.google.com/maps/contrib/105210664417677818412/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKt8pRtnay2Lc7HcYIGTDMEXIX-CTN3uj47nDqzP-0xPKXN3g=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-08-02T00:56:05.892905075Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aMWEybEtPRlI2VTJwTE1FdG1abVI0VkdObFQzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aMWEybEtPRlI2VTJwTE1FdG1abVI0VkdObFQzYxAB!2m1!1s0x3404035ce2d2e2a7:0x564bd54c073822f7"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404035ce2d2e2a7:0x564bd54c073822f7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6218298233030451959&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404035ce2d2e2a7:0x564bd54c073822f7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404035ce2d2e2a7:0x564bd54c073822f7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404035ce2d2e2a7:0x564bd54c073822f7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJp-LS4lwDBDQR9yI4B0zVS1Y/photos/Aa-ngMZV2V_r4l7CrYLK5LbgxLGiGbPVz3WsaTd3pKRMyOeWHcAyoF-L2Mf-VoXPDCxGARq9un4CueXGAa7uTeX6nzksoe1JpJ_sA3-lDfdv-bzP1DQDPYHVQJ6TNAFJJ-DOvescasI7HN_d9fNV-F4QZDWZH5TGwGMj4subHwRBgzRJ-C3eF4q-NsZXLBjDOGRdYk1Q_8Io2ezn5zGNmeiEkYXhzcXWNbgwR2qE1Ckns1CoBUlzPpfMZ-VBZxgr4rPXqy8gfBEj-ttQDivbUMASzyvmL4eoCJY-XleJVbdlSle8ONkx1wbRD8Vo4VFRhNlEj5AegxLxZzNRiwrwR0n40LdLMeNtLi6OjE_Q5VoLxI4MI5MoSKeBpCcPPxqfLNG008TxplqlN2iF8hvogr0IynXvaz0-4Yc",
+      "widthPx": 4800,
+      "heightPx": 3266,
+      "authorAttributions": [
+        {
+          "displayName": "Food Oasis",
+          "uri": "https://maps.google.com/maps/contrib/113027155148160603955",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoyK1_5_0EvZwIrLsjVk6fLnnVTeSVKGGSxz2jRtGw25I-IQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDq8rWOxAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq8rWOxAE!2e10!4m2!3m1!1s0x3404035ce2d2e2a7:0x564bd54c073822f7"
+    },
+    "local_path": "photos/ChIJp-LS4lwDBDQR9yI4B0zVS1Y.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwizLvLANZJzCTgb8_R-wpFUwpQ7ISaLVbs6OF8WpwHoCqUOnV1OHlTc0hx40Q00YV3MTETN4_qHUbunH-9P5kjGRGZZJN9jaSpvR0fEK584DQQNFDqyLgCWS9KNX4O1IMuIxpzA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 132415
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ReadTimeout"
+  },
+  "cuisine": {
+    "primary_type": "food_court",
+    "label": "美食廣場",
+    "types": [
+      "food_court",
+      "ramen_restaurant",
+      "asian_restaurant",
+      "fast_food_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

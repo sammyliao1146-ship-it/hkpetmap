@@ -1,0 +1,403 @@
+{
+  "google_place_id": "ChIJBYl8yBL_AzQRK2ckDHnwtqU",
+  "restaurant_ids": [
+    "restaurant:3118810541",
+    "restaurant:3118811906"
+  ],
+  "fetched_at": "2026-10-23T15:42:42.218237+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJBYl8yBL_AzQRK2ckDHnwtqU",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5722 2016",
+    "internationalPhoneNumber": "+852 5722 2016",
+    "formattedAddress": "香港香港島石塘咀南里8-12號",
+    "location": {
+      "latitude": 22.2855426,
+      "longitude": 114.13459010000001
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=11940995864704870187&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://fineprint.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:00 – 18:00",
+        "星期二: 06:00 – 18:00",
+        "星期三: 06:00 – 18:00",
+        "星期四: 06:00 – 18:00",
+        "星期五: 06:00 – 18:00",
+        "星期六: 06:00 – 18:00",
+        "星期日: 06:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-23T22:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 164,
+    "displayName": {
+      "text": "FINEPRINT",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJBYl8yBL_AzQRK2ckDHnwtqU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SdFJGRlZRMDVrUTBnNGRrVnBiMWs0Y0dreWVIYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "巧克力不怎麼樣 廉價的味道\n食物吐司還行 熱酥 煙燻鮭魚酪梨的好吃 但個人不喜歡它的調味堅果\n不過份量多一些女生來說偏大\n服務不好，女服務生說聽不懂中文，結果講英文也聽不懂，英文也只講單字",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "巧克力不怎麼樣 廉價的味道\n食物吐司還行 熱酥 煙燻鮭魚酪梨的好吃 但個人不喜歡它的調味堅果\n不過份量多一些女生來說偏大\n服務不好，女服務生說聽不懂中文，結果講英文也聽不懂，英文也只講單字",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ciao Q",
+          "uri": "https://www.google.com/maps/contrib/111509579968770644015/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVO7qmQJUfKZl57ba1aBQRmsX_-599nAyMOWplmE5092tVdCvg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-18T17:00:28.835462269Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SdFJGRlZRMDVrUTBnNGRrVnBiMWs0Y0dreWVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SdFJGRlZRMDVrUTBnNGRrVnBiMWs0Y0dreWVIYxAB!2m1!1s0x3403ff12c87c8905:0xa5b6f0790c24672b"
+      },
+      {
+        "name": "places/ChIJBYl8yBL_AzQRK2ckDHnwtqU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oU01VNXdSVlE0TjJGcVNEQlhVbGQyZEZKM01GRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 3,
+        "text": {
+          "text": "咖啡豆質素唔差。係咖啡師無沖好啫🙂",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "咖啡豆質素唔差。係咖啡師無沖好啫🙂",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "C.K. Ngan",
+          "uri": "https://www.google.com/maps/contrib/112826292480057109717/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUD7Qcxicvga6zhVqg3zeECNXxsZ7l0wzJkMRyRCaQDcKU43c3INw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-08-22T06:30:09.739928522Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oU01VNXdSVlE0TjJGcVNEQlhVbGQyZEZKM01GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oU01VNXdSVlE0TjJGcVNEQlhVbGQyZEZKM01GRRAB!2m1!1s0x3403ff12c87c8905:0xa5b6f0790c24672b"
+      },
+      {
+        "name": "places/ChIJBYl8yBL_AzQRK2ckDHnwtqU/reviews/ChdDSUhNMG9nS0VMSHQ4dlQ4MHZDNy1nRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "服務生風格非常港式，餐點價格稍貴（不過以香港水準來說算正常），麵包與咖啡就跟我在歐洲吃到的一樣美味，若住在附近可以來品嚐一次看看！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務生風格非常港式，餐點價格稍貴（不過以香港水準來說算正常），麵包與咖啡就跟我在歐洲吃到的一樣美味，若住在附近可以來品嚐一次看看！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lucy Chou",
+          "uri": "https://www.google.com/maps/contrib/117523751927607098971/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLzfGraCxGZvvsOLzEYv6_vAh_xxTPtj4FGJcJPc4Wu2SLWgv4=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-05-24T05:02:15.710504Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VMSHQ4dlQ4MHZDNy1nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VMSHQ4dlQ4MHZDNy1nRRAB!2m1!1s0x3403ff12c87c8905:0xa5b6f0790c24672b"
+      },
+      {
+        "name": "places/ChIJBYl8yBL_AzQRK2ckDHnwtqU/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbC03SUdnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "真係我食過最好食嘅toast .ᐟ literally the BEST brunch toast combo yet imo🤌🏻\n\n✦ blueberry ricotta ($95)\n酸甜嘅藍莓 + 清新易入口嘅瑞可塔起司，再淋上蜂蜜真係完美嘅配搭🥹\nthe sweet & sour taste of the blueberries + light & soft ricotta cheese, with a drizzle of honey is literally the most clever delish combo🥹\n\n—\n\nʜᴋᴅ $100-150 𝗉𝗉\n𝙧𝙚𝙨𝙚𝙧𝙫𝙖𝙩𝙞𝙤𝙣𝙨: no\n𝙧𝙚𝙫𝙞𝙨𝙞𝙩? yes\n𝙤𝙫𝙚𝙧𝙖𝙡𝙡: 8/10\n\n—\n\n📍 Fineprint (multiple branches)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "真係我食過最好食嘅toast .ᐟ literally the BEST brunch toast combo yet imo🤌🏻\n\n✦ blueberry ricotta ($95)\n酸甜嘅藍莓 + 清新易入口嘅瑞可塔起司，再淋上蜂蜜真係完美嘅配搭🥹\nthe sweet & sour taste of the blueberries + light & soft ricotta cheese, with a drizzle of honey is literally the most clever delish combo🥹\n\n—\n\nʜᴋᴅ $100-150 𝗉𝗉\n𝙧𝙚𝙨𝙚𝙧𝙫𝙖𝙩𝙞𝙤𝙣𝙨: no\n𝙧𝙚𝙫𝙞𝙨𝙞𝙩? yes\n𝙤𝙫𝙚𝙧𝙖𝙡𝙡: 8/10\n\n—\n\n📍 Fineprint (multiple branches)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "oatsnwaffles",
+          "uri": "https://www.google.com/maps/contrib/117010623742889965129/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3eLz5Yg4UBzBRQXx5bGo90d2tg1Pg9Wp96xkmxG9UOp0st9PU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-04-13T15:15:43.010636Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbC03SUdnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbC03SUdnEAE!2m1!1s0x3403ff12c87c8905:0xa5b6f0790c24672b"
+      },
+      {
+        "name": "places/ChIJBYl8yBL_AzQRK2ckDHnwtqU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyM2VLMUd3EAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "⫷ 超人氣𝗙𝗶𝗻𝗲𝗽𝗿𝗶𝗻𝘁新開西環分店 🥗｜沙律𝗧𝗼𝗮𝘀𝘁𝗶𝗲𝘀同樣出色 👏🏻 ⫸\n« ʜᴏɴɢ ᴋᴏɴɢ ꜰᴏᴏᴅɪᴇ | ʜᴏɴᴇꜱᴛ ʀᴇᴠɪᴇᴡꜱ »\n\n我諗去開大坑Fineprint嘅大家應該都覺得餐廳比較細，成日大排長龍 🥲 不過最近Fineprint喺西環南里開咗第四間分店 😍 環境大啲，空間感十足，有一種度假嘅感覺 🤪 小編覺得 Fineprint toasties 整體都好高質 😋 好想試晒呢度所有嘅toasties 🔥\n\n𝐍𝐮𝐝𝐞 𝐁𝐨𝐰𝐥｜𝐇𝐊$90｜✩ : 7.5\n𝘢𝘷𝘰, 𝘴𝘢𝘭𝘮𝘰𝘯, 𝘤𝘩𝘦𝘳𝘳𝘺 𝘵𝘰𝘮𝘢𝘵𝘰𝘦𝘴, 𝘣𝘰𝘪𝘭𝘦𝘥 𝘦𝘨𝘨, 𝘨𝘳𝘦𝘦𝘯𝘴\n每樣食材都好足料，無論係牛油果定係三文魚，份量都唔錯，沙律菜亦都幾新鮮 ☺️ 佢嘅dressing係olive oil，略嫌太多，食到最後覺得有少少油膩 🤏🏻 下次食要叫佢唔好落咁重手，但整體質素幾好 🤩\n\n𝐁𝐢𝐤𝐢𝐧𝐢 𝐓𝐨𝐚𝐬𝐭｜𝐇𝐊$75｜✩ : 8\n𝘫𝘢𝘮𝘰𝘯, 𝘵𝘳𝘶𝘧𝘧𝘭𝘦, 𝘮𝘰𝘻𝘻𝘢𝘳𝘦𝘭𝘭𝘢\n呢款同sourdough唔同，Bikini麵包比較鬆軟 (小編prefer軟身既麵包 🤓)，而且presentation比較特別係條狀麵包 🍞 truffle味好香 🫶🏻 一啲都唔膩 🥹 同mozzarella簡直係世界級夾! 🤩 不過份量比較少，幾分鐘就食晒，可能要多50%先夠飽 😶\n\n𝐑𝐨𝐚𝐬𝐭 𝐁𝐞𝐞𝐟 𝐓𝐨𝐚𝐬𝐭｜𝐇𝐊$75｜✩ : 7\n𝘳𝘰𝘢𝘴𝘵 𝘣𝘦𝘦𝘧, 𝘤𝘢𝘳𝘢𝘮𝘦𝘭𝘪𝘴𝘦𝘥 𝘰𝘯𝘪𝘰𝘯 𝘤𝘩𝘶𝘵𝘯𝘦𝘺, 𝘤𝘩𝘦𝘥𝘥𝘢𝘳, 𝘥𝘪𝘫𝘰𝘯 𝘮𝘶𝘴𝘵𝘢𝘳𝘥\n呢款toast就用返sourdough，外層烘得好香脆，牛肉質素正常 😗 但係份量真係比較細份，以正常食量嚟講都會食唔飽，同行朋友對呢個toast嘅評價亦比較普通 🥲\n\n▫️\n喜 歡 我 的 分 享 記 得 追 蹤 @foodshibe 🐾\n再 按 右 上 角 小 鈴 噹 開 啟 帖 子 通 知 🔔\n你 們 的 支 持 都 是 我 分 享 的 動 力 🥰\n« ʜᴏɴɢ ᴋᴏɴɢ ꜰᴏᴏᴅɪᴇ | ʜᴏɴᴇꜱᴛ ʀᴇᴠɪᴇᴡꜱ »",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "⫷ 超人氣𝗙𝗶𝗻𝗲𝗽𝗿𝗶𝗻𝘁新開西環分店 🥗｜沙律𝗧𝗼𝗮𝘀𝘁𝗶𝗲𝘀同樣出色 👏🏻 ⫸\n« ʜᴏɴɢ ᴋᴏɴɢ ꜰᴏᴏᴅɪᴇ | ʜᴏɴᴇꜱᴛ ʀᴇᴠɪᴇᴡꜱ »\n\n我諗去開大坑Fineprint嘅大家應該都覺得餐廳比較細，成日大排長龍 🥲 不過最近Fineprint喺西環南里開咗第四間分店 😍 環境大啲，空間感十足，有一種度假嘅感覺 🤪 小編覺得 Fineprint toasties 整體都好高質 😋 好想試晒呢度所有嘅toasties 🔥\n\n𝐍𝐮𝐝𝐞 𝐁𝐨𝐰𝐥｜𝐇𝐊$90｜✩ : 7.5\n𝘢𝘷𝘰, 𝘴𝘢𝘭𝘮𝘰𝘯, 𝘤𝘩𝘦𝘳𝘳𝘺 𝘵𝘰𝘮𝘢𝘵𝘰𝘦𝘴, 𝘣𝘰𝘪𝘭𝘦𝘥 𝘦𝘨𝘨, 𝘨𝘳𝘦𝘦𝘯𝘴\n每樣食材都好足料，無論係牛油果定係三文魚，份量都唔錯，沙律菜亦都幾新鮮 ☺️ 佢嘅dressing係olive oil，略嫌太多，食到最後覺得有少少油膩 🤏🏻 下次食要叫佢唔好落咁重手，但整體質素幾好 🤩\n\n𝐁𝐢𝐤𝐢𝐧𝐢 𝐓𝐨𝐚𝐬𝐭｜𝐇𝐊$75｜✩ : 8\n𝘫𝘢𝘮𝘰𝘯, 𝘵𝘳𝘶𝘧𝘧𝘭𝘦, 𝘮𝘰𝘻𝘻𝘢𝘳𝘦𝘭𝘭𝘢\n呢款同sourdough唔同，Bikini麵包比較鬆軟 (小編prefer軟身既麵包 🤓)，而且presentation比較特別係條狀麵包 🍞 truffle味好香 🫶🏻 一啲都唔膩 🥹 同mozzarella簡直係世界級夾! 🤩 不過份量比較少，幾分鐘就食晒，可能要多50%先夠飽 😶\n\n𝐑𝐨𝐚𝐬𝐭 𝐁𝐞𝐞𝐟 𝐓𝐨𝐚𝐬𝐭｜𝐇𝐊$75｜✩ : 7\n𝘳𝘰𝘢𝘴𝘵 𝘣𝘦𝘦𝘧, 𝘤𝘢𝘳𝘢𝘮𝘦𝘭𝘪𝘴𝘦𝘥 𝘰𝘯𝘪𝘰𝘯 𝘤𝘩𝘶𝘵𝘯𝘦𝘺, 𝘤𝘩𝘦𝘥𝘥𝘢𝘳, 𝘥𝘪𝘫𝘰𝘯 𝘮𝘶𝘴𝘵𝘢𝘳𝘥\n呢款toast就用返sourdough，外層烘得好香脆，牛肉質素正常 😗 但係份量真係比較細份，以正常食量嚟講都會食唔飽，同行朋友對呢個toast嘅評價亦比較普通 🥲\n\n▫️\n喜 歡 我 的 分 享 記 得 追 蹤 @foodshibe 🐾\n再 按 右 上 角 小 鈴 噹 開 啟 帖 子 通 知 🔔\n你 們 的 支 持 都 是 我 分 享 的 動 力 🥰\n« ʜᴏɴɢ ᴋᴏɴɢ ꜰᴏᴏᴅɪᴇ | ʜᴏɴᴇꜱᴛ ʀᴇᴠɪᴇᴡꜱ »",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodshibe - HK Foodie",
+          "uri": "https://www.google.com/maps/contrib/107682632488318903693/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTzjSKl1zWGN41wRC5UctkZZEjk_v1rMFFkiNq25KjmwkjM4xj=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-05-22T15:44:39.043201Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQyM2VLMUd3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQyM2VLMUd3EAE!2m1!1s0x3403ff12c87c8905:0xa5b6f0790c24672b"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff12c87c8905:0xa5b6f0790c24672b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11940995864704870187&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff12c87c8905:0xa5b6f0790c24672b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff12c87c8905:0xa5b6f0790c24672b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff12c87c8905:0xa5b6f0790c24672b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJBYl8yBL_AzQRK2ckDHnwtqU/photos/Aa-ngMasV2yXOYa0Y4_UnRkLhbXM5ZBX0iIAGE5IsqI96i1qSeJYa7kyTCbuCxitU7V2foe3CP1_o0qc-pDeaOtXiUkt0XrDsrHX23LdOoTxp6ipk5xKVkd8Av_9__Y1Yftc_-p_8IsRPG-lnNa4TiMV9CDAH6fjJwnVZeEVIxOIWLTvRpVe0r1KxCYcBp9KqqJmdj9f-EYrboDMapIjDeVi1Cmu6B1w9HwjbG4w1fyBXkhYNeVOA86R9PvAzBxQYa7ZLvM5kfjBtNwzg_7cRL1qPwEJstSfVmlprg0bARTtXfxZgDx40gjpZXG3Ki7AC_AutBvLHDAoHKWJSxc_rYsM1b-mTXd0aSBYF0MOx-b3Qga_zCyq2jKeVLThb6bWWwUQHP-uwSCcNrqZV-26czRLguAdJg",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Chris Hall",
+          "uri": "https://maps.google.com/maps/contrib/116958197330252167732",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX66fKAUiKESZKlruT4IsoAT2tYzm8etyrq_3seIABbitJpFdhFCA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC32-uMEA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC32-uMEA!2e10!4m2!3m1!1s0x3403ff12c87c8905:0xa5b6f0790c24672b"
+    },
+    "local_path": "photos/ChIJBYl8yBL_AzQRK2ckDHnwtqU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd84eUHoasAWNcA8pQEn4mU4mayn4bajLkwBwupsrQekcyYu5ck5Ads7L-AZJ7zuFdj1uNWuuWhf3jdiYR0upjsbj9aQAnhxh9jlnP7S1iJrphit7RJ4L5t3oWTsNQ8UhYzp18=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 375642
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-soho",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-exchange-square",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-pedder-buildng",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-second-street",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-south-lane",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-wan-chai",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-lily-street",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-one-causeway-bay",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-happy-valley",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-quarry-bay",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-hkia",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-cmp",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://fineprint.hk/pages/fineprint-menu-soho"
+}

@@ -1,0 +1,201 @@
+{
+  "google_place_id": "ChIJIZoUJHMBBDQRaxynUv92I-c",
+  "restaurant_ids": [
+    "restaurant:3162216016"
+  ],
+  "fetched_at": "2026-10-23T15:39:46.315972+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJIZoUJHMBBDQRaxynUv92I-c",
+    "types": [
+      "medical_clinic",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9740 9143",
+    "internationalPhoneNumber": "+852 9740 9143",
+    "formattedAddress": "Shop B, G/F, Greenery Court, 250 Fa Yuen St, Mong Kok, Kowloon, 香港",
+    "location": {
+      "latitude": 22.326017699999998,
+      "longitude": 114.1699388
+    },
+    "rating": 5,
+    "googleMapsUri": "https://maps.google.com/?cid=16655286685921647723&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.chhis.org/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:00 – 18:00",
+        "星期二: 09:00 – 18:00",
+        "星期三: 09:00 – 18:00",
+        "星期四: 09:00 – 18:00",
+        "星期五: 09:00 – 18:00",
+        "星期六: 09:00 – 18:00",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 2,
+    "displayName": {
+      "text": "整全保健學院 - 綜合服務中心",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "診所",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "medical_clinic",
+    "reviews": [
+      {
+        "name": "places/ChIJIZoUJHMBBDQRaxynUv92I-c/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oMldIVkhlRGh1T0Rsb2F6TkRWa3RmUkROUGFWRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "# alansvocalcover",
+          "uri": "https://www.google.com/maps/contrib/108305915827548123084/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxCifjBKzsQIIf3MIvj7eVNgBX7Goodigp7gi0BfzoeliugQEO=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-08-22T22:37:46.801943360Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oMldIVkhlRGh1T0Rsb2F6TkRWa3RmUkROUGFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oMldIVkhlRGh1T0Rsb2F6TkRWa3RmUkROUGFWRRAB!2m1!1s0x3404017324149a21:0xe72376ff52a71c6b"
+      },
+      {
+        "name": "places/ChIJIZoUJHMBBDQRaxynUv92I-c/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3M2RTV3V3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Dil bahadur Purja pun",
+          "uri": "https://www.google.com/maps/contrib/116396403840616852017/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK8s4eOgWU5Io4-d7vT4twc5Y11MEUnuS9jfEnsu5T4C8_AEzwF=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-08-18T08:04:32.777239Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3M2RTV3V3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3M2RTV3V3RRAB!2m1!1s0x3404017324149a21:0xe72376ff52a71c6b"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404017324149a21:0xe72376ff52a71c6b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16655286685921647723&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017324149a21:0xe72376ff52a71c6b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404017324149a21:0xe72376ff52a71c6b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017324149a21:0xe72376ff52a71c6b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": null,
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.chhis.org/book-online",
+        "label": "線上預訂",
+        "source_url": "https://www.chhis.org/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "http://wix.com/?utm_campaign=vir_created_with",
+        "label": "ALL RIGHT RESERVED.",
+        "source_url": "https://www.chhis.org/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "medical_clinic",
+    "label": "診所",
+    "types": [
+      "medical_clinic",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.chhis.org/book-online",
+  "menu_url": null
+}

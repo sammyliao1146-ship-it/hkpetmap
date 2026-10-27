@@ -1,0 +1,48 @@
+{
+  "google_place_id": "ChIJ8Xo5y8AABDQRvd_V2zxPEbM",
+  "restaurant_ids": [
+    "restaurant:2261821932"
+  ],
+  "fetched_at": "2026-10-23T15:51:05.780727+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ8Xo5y8AABDQRvd_V2zxPEbM",
+    "types": [
+      "subpremise",
+      "street_address"
+    ],
+    "formattedAddress": "香港九龍旺角咸美頓街5A號咸美頓大廈",
+    "location": {
+      "latitude": 22.3145207,
+      "longitude": 114.169466
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=12903181530198040509&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "displayName": {
+      "text": "咸美頓大廈",
+      "languageCode": "zh-TW"
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400c0cb397af1:0xb3114f3cdbd5dfbd!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12903181530198040509&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400c0cb397af1:0xb3114f3cdbd5dfbd!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": null,
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": null,
+    "label": null,
+    "types": [
+      "subpremise",
+      "street_address"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

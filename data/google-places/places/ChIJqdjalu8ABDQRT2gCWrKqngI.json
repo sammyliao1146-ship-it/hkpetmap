@@ -1,0 +1,405 @@
+{
+  "google_place_id": "ChIJqdjalu8ABDQRT2gCWrKqngI",
+  "restaurant_ids": [
+    "restaurant:2261804489"
+  ],
+  "fetched_at": "2026-10-23T15:41:48.940888+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJqdjalu8ABDQRT2gCWrKqngI",
+    "types": [
+      "banquet_hall",
+      "dim_sum_restaurant",
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "event_venue",
+      "meal_delivery",
+      "food_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3962 1188",
+    "internationalPhoneNumber": "+852 3962 1188",
+    "formattedAddress": "九龍尖沙咀東帝國中心, 1樓, 68號 Mody Rd, Tsim Sha Tsui East, Kowloon, 香港",
+    "location": {
+      "latitude": 22.2982115,
+      "longitude": 114.17860639999999
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=188775917387147343&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.clubone.com.hk/article/%E5%A9%9A%E5%AE%B4-%E7%B6%AD%E6%B8%AF%E7%9A%87%E5%AE%B4/%E5%A0%B4%E5%9C%B0%E4%BB%8B%E7%B4%B9.html?utm_campaign=gmb_cta_website&utm_content=tv&utm_medium=organic&utm_source=google%20my%20business",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 23:00",
+        "星期二: 12:00 – 15:00, 18:00 – 23:00",
+        "星期三: 12:00 – 15:00, 18:00 – 23:00",
+        "星期四: 12:00 – 15:00, 18:00 – 23:00",
+        "星期五: 12:00 – 15:00, 18:00 – 23:00",
+        "星期六: 11:00 – 15:00, 18:00 – 23:00",
+        "星期日: 11:00 – 15:00, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 809,
+    "displayName": {
+      "text": "會所一號 維港皇宴",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "宴會廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "primaryType": "banquet_hall",
+    "reviews": [
+      {
+        "name": "places/ChIJqdjalu8ABDQRT2gCWrKqngI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWTWQybzVRMDltUzNOUk5tSlVTV05NVTBZeWRGRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "多謝晒場地經理岑生Willem 、 MC Water 及一眾跟場、傳菜、廚師等等所有工作人員.\n籌備期間我地成日有好多野問，但岑生同Water 都唔怕麻煩，好快回覆我地! Big Day 當日場地安排好好，幫我地打點好一切，Water 當日帶動氣氛及Drink Cam 幫左我地好多，到場賓客都讚好!!\n食物質素好滿意，半島廳十鬆圍都唔覺迫，亦合符預算內，整體感覺好好，讓我地有難忘既回憶!! Thanks all!!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "多謝晒場地經理岑生Willem 、 MC Water 及一眾跟場、傳菜、廚師等等所有工作人員.\n籌備期間我地成日有好多野問，但岑生同Water 都唔怕麻煩，好快回覆我地! Big Day 當日場地安排好好，幫我地打點好一切，Water 當日帶動氣氛及Drink Cam 幫左我地好多，到場賓客都讚好!!\n食物質素好滿意，半島廳十鬆圍都唔覺迫，亦合符預算內，整體感覺好好，讓我地有難忘既回憶!! Thanks all!!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pp Wong",
+          "uri": "https://www.google.com/maps/contrib/101365819493383977013/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKxztEb978PY-S6eG3MPtchuS3Grt547DLgGSXl6kqkQqMsWw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-03-14T06:55:17.424197123Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWTWQybzVRMDltUzNOUk5tSlVTV05NVTBZeWRGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWTWQybzVRMDltUzNOUk5tSlVTV05NVTBZeWRGRRAB!2m1!1s0x340400ef96dad8a9:0x29eaab25a02684f"
+      },
+      {
+        "name": "places/ChIJqdjalu8ABDQRT2gCWrKqngI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxMFVWZ3dkbUY0WDI1YVIzQXlVRGd5UkVaU00yYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "親愛的 Joyce，由衷感謝妳係婚宴中的專業統籌！從籌備到當晚的每個細節，妳都安排得井井有條，令我他能無後顧之憂地享受大日子。妳既細心與應變能力，又開始到結束一直親力親為讓婚禮圓滿成功，賓客讚不絕口。再次謝謝妳及整個團隊付出，辛苦晒！」",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "親愛的 Joyce，由衷感謝妳係婚宴中的專業統籌！從籌備到當晚的每個細節，妳都安排得井井有條，令我他能無後顧之憂地享受大日子。妳既細心與應變能力，又開始到結束一直親力親為讓婚禮圓滿成功，賓客讚不絕口。再次謝謝妳及整個團隊付出，辛苦晒！」",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "PK Chan",
+          "uri": "https://www.google.com/maps/contrib/113618392183395484198/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ2Ol3REwVoxK56Py8yw8CC67J3XRqAadVWw3v23YaXAsVT5Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-06T09:33:31.978947713Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxMFVWZ3dkbUY0WDI1YVIzQXlVRGd5UkVaU00yYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxMFVWZ3dkbUY0WDI1YVIzQXlVRGd5UkVaU00yYxAB!2m1!1s0x340400ef96dad8a9:0x29eaab25a02684f"
+      },
+      {
+        "name": "places/ChIJqdjalu8ABDQRT2gCWrKqngI/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xRFNYWlliSGhMTVV4UGEwUlNhM010TjNsMVdXYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "上星期幫家人辦婚宴，十分推薦大家來！\n\n場地包各式各樣設施/服務，前台、飯台嘅精美佈置都係由場地提供🤩 自己買左啲花藝裝飾for stage，負責人macky做多份幫我安裝埋，好細心👍🏻\n\n開席前買左蛋糕野飲package，不過實在太多準備事宜，唔得閒食，但樓面服務員好貼心一碟一碟送黎比行黎行去嘅我，非常感激😭\n\n最後就係流程安排📆 不得不讚負責人macky嘅策劃力，十分周到周全，好睇得出佢經驗豐富！第一次搞婚禮，好多野唔識，macky經常提點，但絕對唔會過度介入/更改流程，好尊重我地。例如我地自設點蠟燭、跳舞儀式，以及持續播放slidesshow，一切都好順利好睇，entertain到來賓，全賴背後macky嘅細心安排。仲有新人跳舞，macky同樓面夾好停一陣上菜。影大合照嘅時候都會幫忙搬凳、排位 係非常貼心嘅團隊！\n\n負責人當日在場睇住，所以幾乎沒有甩漏。婚宴的順利，有賴clubone專業的服務以及安排🫶🏻❤️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "上星期幫家人辦婚宴，十分推薦大家來！\n\n場地包各式各樣設施/服務，前台、飯台嘅精美佈置都係由場地提供🤩 自己買左啲花藝裝飾for stage，負責人macky做多份幫我安裝埋，好細心👍🏻\n\n開席前買左蛋糕野飲package，不過實在太多準備事宜，唔得閒食，但樓面服務員好貼心一碟一碟送黎比行黎行去嘅我，非常感激😭\n\n最後就係流程安排📆 不得不讚負責人macky嘅策劃力，十分周到周全，好睇得出佢經驗豐富！第一次搞婚禮，好多野唔識，macky經常提點，但絕對唔會過度介入/更改流程，好尊重我地。例如我地自設點蠟燭、跳舞儀式，以及持續播放slidesshow，一切都好順利好睇，entertain到來賓，全賴背後macky嘅細心安排。仲有新人跳舞，macky同樓面夾好停一陣上菜。影大合照嘅時候都會幫忙搬凳、排位 係非常貼心嘅團隊！\n\n負責人當日在場睇住，所以幾乎沒有甩漏。婚宴的順利，有賴clubone專業的服務以及安排🫶🏻❤️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "neko jaan",
+          "uri": "https://www.google.com/maps/contrib/101754850098576691876/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTcROE_FwHddr1PElWk9B27f521LhL_A-_BN7q6sOL2snTdo4=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-23T05:44:46.863093846Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xRFNYWlliSGhMTVV4UGEwUlNhM010TjNsMVdXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xRFNYWlliSGhMTVV4UGEwUlNhM010TjNsMVdXYxAB!2m1!1s0x340400ef96dad8a9:0x29eaab25a02684f"
+      },
+      {
+        "name": "places/ChIJqdjalu8ABDQRT2gCWrKqngI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oeVdsbG1kSE5RUlVacFVIQkdlakpVVlRSeFZVRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "場地光明乾淨！\n尤其經理Wilem 由Day 1 開始事事親力親為，講解清楚及詳盡，讓我地都好安心🥰😊\n\n到Big Day 當日，所有細節已為我地安排妥當，不用我地擔心及操勞☺️ 感謝當日每一位幫忙安排場地及細節既經理，統籌及服務生😄👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "場地光明乾淨！\n尤其經理Wilem 由Day 1 開始事事親力親為，講解清楚及詳盡，讓我地都好安心🥰😊\n\n到Big Day 當日，所有細節已為我地安排妥當，不用我地擔心及操勞☺️ 感謝當日每一位幫忙安排場地及細節既經理，統籌及服務生😄👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pan Li",
+          "uri": "https://www.google.com/maps/contrib/105346522009369267382/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRkbXzloPOf39xSpaL2F8p8Tg6hiOSmIv8oH0zoNfZAAkUCA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-12T17:21:17.939923842Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oeVdsbG1kSE5RUlVacFVIQkdlakpVVlRSeFZVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oeVdsbG1kSE5RUlVacFVIQkdlakpVVlRSeFZVRRAB!2m1!1s0x340400ef96dad8a9:0x29eaab25a02684f"
+      },
+      {
+        "name": "places/ChIJqdjalu8ABDQRT2gCWrKqngI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OaWMxaEVaVkZqV1ZWcE1uTnVXV1J5YlROMFpHYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "感謝ClubOne The Victoria 讓我和老婆完成一個一生唯一的婚禮。這裡整個場地非常優美，由證婚的無敵大海景，到晚宴轉移到前端的華麗大舞台，我和老婆都十分喜歡。野食方面，由證婚的蛋糕小食到晚宴的每道菜餚，都提供得很充足並且味道不錯。我們婚禮後多位來賓都反映給我們對食物質素很滿意。\n\n最後，我和老婆想特別鳴謝我們的場地經理，Macky Lo。由事前打點安排，到正日每個環節的執行，應變，Macky都展現專業的工作能力和貼心態度。全靠她的出色工作，我們整個婚禮都很順利地進行，所以特此在這表達感謝❤️❤️❤️。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "感謝ClubOne The Victoria 讓我和老婆完成一個一生唯一的婚禮。這裡整個場地非常優美，由證婚的無敵大海景，到晚宴轉移到前端的華麗大舞台，我和老婆都十分喜歡。野食方面，由證婚的蛋糕小食到晚宴的每道菜餚，都提供得很充足並且味道不錯。我們婚禮後多位來賓都反映給我們對食物質素很滿意。\n\n最後，我和老婆想特別鳴謝我們的場地經理，Macky Lo。由事前打點安排，到正日每個環節的執行，應變，Macky都展現專業的工作能力和貼心態度。全靠她的出色工作，我們整個婚禮都很順利地進行，所以特此在這表達感謝❤️❤️❤️。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kay kay",
+          "uri": "https://www.google.com/maps/contrib/109767199651675854160/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ63UyrtYVln8koHuqd6yHRIxap3xSDVZokat_K1CQDGKTjYQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-19T19:50:07.134368517Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OaWMxaEVaVkZqV1ZWcE1uTnVXV1J5YlROMFpHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OaWMxaEVaVkZqV1ZWcE1uTnVXV1J5YlROMFpHYxAB!2m1!1s0x340400ef96dad8a9:0x29eaab25a02684f"
+      }
+    ],
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400ef96dad8a9:0x29eaab25a02684f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=188775917387147343&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ef96dad8a9:0x29eaab25a02684f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400ef96dad8a9:0x29eaab25a02684f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ef96dad8a9:0x29eaab25a02684f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJqdjalu8ABDQRT2gCWrKqngI/photos/Aa-ngMap7gG7Mk5y0_6UqdCGplm9LMl76C-7s7YQTdyFxzJgQvCFLWTjSXmtqxsvd3rfK4OL6vHLXiWZdkWycxBHH85srYzmbDLy5Tg0yTOmUW3giMddoO1w-j829nY-ZQAUnGgC-kL0ynWr0z4MJxlpW_M_aFmY3n3UaGHZ6gC3KBGFPVoThCgNEF9fV4KIlPks03XfoBz-KhOMuKOlSWbAQG9Mz7khxEqZGZpOaIaEaRy6IHxRTP5XEa-mRBPgovetoC8jRW50aez0x9xHAuvg4b3GCtRV3ITZLaCp-9uXqlJUZ0tgtIWRSRVJ-HD38YZD4iF91PQI2uMRKBBSC_WGt0XGc574EepplzZoauM_oG1zRoWfirCeE21R7fLax8RUE1guI-oI6KWi8zWlGE77zU47MihM9Vj4_RfHlc_5w--t",
+      "widthPx": 1600,
+      "heightPx": 899,
+      "authorAttributions": [
+        {
+          "displayName": "會所一號 維港皇宴",
+          "uri": "https://maps.google.com/maps/contrib/104234252556132274095",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgNKjWXhitxYpaI6TIK_Gft-40XnMFc7_42yH7cAuT_DfQr8XW=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC82R4FO09Z_xilWUSrvFrE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC82R4FO09Z_xilWUSrvFrE!2e10!4m2!3m1!1s0x340400ef96dad8a9:0x29eaab25a02684f"
+    },
+    "local_path": "photos/ChIJqdjalu8ABDQRT2gCWrKqngI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsbWyFuOeSC2uLAGbqbLNE-jBaZi9XpK6TerE66fxL55b0PM26yz2arc2-HSyMyK3Y5AijBSwSggguottF9DgOoN_isDX7W10GvqqwtEIjn7LaJGlba0n1_wKVAo0QiUfB4ImOfEs0hEE=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 138660
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "banquet_hall",
+    "label": "宴會廳",
+    "types": [
+      "banquet_hall",
+      "dim_sum_restaurant",
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "event_venue",
+      "meal_delivery",
+      "food_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

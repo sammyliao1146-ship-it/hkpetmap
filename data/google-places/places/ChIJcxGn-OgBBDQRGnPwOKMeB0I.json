@@ -1,0 +1,303 @@
+{
+  "google_place_id": "ChIJcxGn-OgBBDQRGnPwOKMeB0I",
+  "restaurant_ids": [
+    "restaurant:3152804588"
+  ],
+  "fetched_at": "2026-10-23T15:50:27.950170+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJcxGn-OgBBDQRGnPwOKMeB0I",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9776 6746",
+    "internationalPhoneNumber": "+852 9776 6746",
+    "formattedAddress": "香港九龍紅磡紅磡灣中心21號鋪",
+    "location": {
+      "latitude": 22.305208699999998,
+      "longitude": 114.1856543
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=4757805217724003098&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 09:00 – 22:00",
+        "星期三: 09:00 – 22:00",
+        "星期四: 09:00 – 22:00",
+        "星期五: 09:00 – 22:00",
+        "星期六: 11:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 79,
+    "displayName": {
+      "text": "咖啡會",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJcxGn-OgBBDQRGnPwOKMeB0I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5NWFtVlhTMWhzWDA0M2NtRXlialpIU0MxMk5YYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "紅磡黃埔咖啡友精選🌟\n打完一張卡掛住食 唔記得冇影其他\n好好食 水準唔錯\n啡又好飲((連對啡有要求個fd都話我今次揀得唔錯😤\n對甜品有要求嘅我真係好想講佢哋個Tiramisù\n酒味岩岩好 唔太濃太淡 又唔會死甜\n如果午市都做埋就好啦😫",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "紅磡黃埔咖啡友精選🌟\n打完一張卡掛住食 唔記得冇影其他\n好好食 水準唔錯\n啡又好飲((連對啡有要求個fd都話我今次揀得唔錯😤\n對甜品有要求嘅我真係好想講佢哋個Tiramisù\n酒味岩岩好 唔太濃太淡 又唔會死甜\n如果午市都做埋就好啦😫",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Daisy Lam",
+          "uri": "https://www.google.com/maps/contrib/103349387850617545097/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1ECr297KQm3lcBgG5WBiEGdBnvf1qenxkLTLqitYlpZkF=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-04T06:39:31.046652049Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5NWFtVlhTMWhzWDA0M2NtRXlialpIU0MxMk5YYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5NWFtVlhTMWhzWDA0M2NtRXlialpIU0MxMk5YYxAB!2m1!1s0x340401e8f8a71173:0x42071ea338f0731a"
+      },
+      {
+        "name": "places/ChIJcxGn-OgBBDQRGnPwOKMeB0I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKNmJsaElhR3hWY3kxeldrSnRkRXBmZWtkbk9WRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 1,
+        "text": {
+          "text": "好差！咖啡難飲，叫咗杯miso apple latte ，鹹到呢。諗住dirty 會正常，叫咗要nutty d , 一飲落去，酸既。本身都冇乜期望，但真係好難飲。一定要比差評。\nservice 混亂，入去前話要share table ，因為普通枱滿咗，要等比較耐，ok 明白，入到去，咁啱見二人枱有人走，問下可唔可以轉枱，點知職員話二人普通枱有最底消費，只叫咖啡唔坐得。最搞笑係當時我都未落order，又點知我一定唔叫食物？ 入座安排好混亂。感覺好差。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好差！咖啡難飲，叫咗杯miso apple latte ，鹹到呢。諗住dirty 會正常，叫咗要nutty d , 一飲落去，酸既。本身都冇乜期望，但真係好難飲。一定要比差評。\nservice 混亂，入去前話要share table ，因為普通枱滿咗，要等比較耐，ok 明白，入到去，咁啱見二人枱有人走，問下可唔可以轉枱，點知職員話二人普通枱有最底消費，只叫咖啡唔坐得。最搞笑係當時我都未落order，又點知我一定唔叫食物？ 入座安排好混亂。感覺好差。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "edith lee",
+          "uri": "https://www.google.com/maps/contrib/108325941764565865860/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLnAlNeGEkrUenR3q68CRditOti1h_tX-w0oWXSdfrCehHBRA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-02-21T16:54:22.604531029Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKNmJsaElhR3hWY3kxeldrSnRkRXBmZWtkbk9WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKNmJsaElhR3hWY3kxeldrSnRkRXBmZWtkbk9WRRAB!2m1!1s0x340401e8f8a71173:0x42071ea338f0731a"
+      },
+      {
+        "name": "places/ChIJcxGn-OgBBDQRGnPwOKMeB0I/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SemQwUmlkV1oyTTFsTk9IQXhia1UxYmxocUxXYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "黃埔最新人氣Cafe!!店鋪走木系美式復古風格，融合本地工藝文化，由香港本地木系品牌設計，非常有品味!!仲有半戶外寵物友善區域，不用日曬雨淋又有氣氛!!\n\n主打除左咖啡外，亦可試試各款特色飲品!!不同時段會提供不同食物，全部都係香港人Comfort food，由意粉、咖哩飯到牛扒都有，味道亦不錯!!\n\n- Creamy Bacon & Mushroom Pasta\n忌廉濃厚又掛汁，撒上一層芝士碎，充滿蒜頭及黑椒香氣!!煙肉煎得金黃鹹香，雜菇份量十足!!整體充滿磨菇芳香，味道雖然沒有突出之處，但食得舒服又有熟悉感覺!!\n\n- Blood Orange Fizzy\n血橙香甜清新，再加上梳打清爽氣泡，清新解膩，夏天飲一流!!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "黃埔最新人氣Cafe!!店鋪走木系美式復古風格，融合本地工藝文化，由香港本地木系品牌設計，非常有品味!!仲有半戶外寵物友善區域，不用日曬雨淋又有氣氛!!\n\n主打除左咖啡外，亦可試試各款特色飲品!!不同時段會提供不同食物，全部都係香港人Comfort food，由意粉、咖哩飯到牛扒都有，味道亦不錯!!\n\n- Creamy Bacon & Mushroom Pasta\n忌廉濃厚又掛汁，撒上一層芝士碎，充滿蒜頭及黑椒香氣!!煙肉煎得金黃鹹香，雜菇份量十足!!整體充滿磨菇芳香，味道雖然沒有突出之處，但食得舒服又有熟悉感覺!!\n\n- Blood Orange Fizzy\n血橙香甜清新，再加上梳打清爽氣泡，清新解膩，夏天飲一流!!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "LO S.M.",
+          "uri": "https://www.google.com/maps/contrib/102631892219406316532/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9CztkDn2ynEBMRFHFjFfzG1xUW0GY8p7yF_b33mp-vGYUwQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-10T07:30:13.581196620Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SemQwUmlkV1oyTTFsTk9IQXhia1UxYmxocUxXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SemQwUmlkV1oyTTFsTk9IQXhia1UxYmxocUxXYxAB!2m1!1s0x340401e8f8a71173:0x42071ea338f0731a"
+      },
+      {
+        "name": "places/ChIJcxGn-OgBBDQRGnPwOKMeB0I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVmJVSmpkMjlCUTNrMlpGOWliMFpwYkdKVWExRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "原本想試豬扒同提拉米蘇，但當日bunch無豬扒，而提拉米蘇只在晚市提供，有點可惜。所以點了bunch 嘅steak 同埋芝士磨菇意粉。Bunch 唔包飲品，另點了杯cold brew。芝士磨菇意粉不錯，係䌓忙午市都可以意粉煮得剛剛好，調味適中，唯獨芝士多少少會更好。牛扒雖然不是此行目的，但牛扒要讚一個。七成熟剛剛好，切開肉心仍然紅嫩但沒有紅水，外皮有燒香味，明顯是用明火燒而不是煎的，跟碟薯條就不要有期望。Cold brew 是另一驚喜，飲落有香濃咖啡味，對得住店名。雖然兩點多仍要排隊入座，店內有幾張大枱，數張二人靠牆枱，及數張4, 5 人枱，若然對拼枱沒有問題，都只是等了數分鐘。店內會播放稍為強勁音樂，不喜者可另找清靜店舖。下次要再來試晚市豬扒及提拉米蘇。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "原本想試豬扒同提拉米蘇，但當日bunch無豬扒，而提拉米蘇只在晚市提供，有點可惜。所以點了bunch 嘅steak 同埋芝士磨菇意粉。Bunch 唔包飲品，另點了杯cold brew。芝士磨菇意粉不錯，係䌓忙午市都可以意粉煮得剛剛好，調味適中，唯獨芝士多少少會更好。牛扒雖然不是此行目的，但牛扒要讚一個。七成熟剛剛好，切開肉心仍然紅嫩但沒有紅水，外皮有燒香味，明顯是用明火燒而不是煎的，跟碟薯條就不要有期望。Cold brew 是另一驚喜，飲落有香濃咖啡味，對得住店名。雖然兩點多仍要排隊入座，店內有幾張大枱，數張二人靠牆枱，及數張4, 5 人枱，若然對拼枱沒有問題，都只是等了數分鐘。店內會播放稍為強勁音樂，不喜者可另找清靜店舖。下次要再來試晚市豬扒及提拉米蘇。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Garfield Mak",
+          "uri": "https://www.google.com/maps/contrib/109648724708517582426/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiMQnKpmVQj2_htR5dkgp4MbYHvjZqy564M8vgBLgj1EDG_g=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-21T10:21:12.260916171Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOVmJVSmpkMjlCUTNrMlpGOWliMFpwYkdKVWExRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOVmJVSmpkMjlCUTNrMlpGOWliMFpwYkdKVWExRRAB!2m1!1s0x340401e8f8a71173:0x42071ea338f0731a"
+      },
+      {
+        "name": "places/ChIJcxGn-OgBBDQRGnPwOKMeB0I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWZmNrcFhkV2hJZDFoUVIwZEdlREpYVDFGYVMyYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境,裝修幾好 仲要寵物友善🤍牛扒5成熟黎到啱啱好 肉味夠!老闆勁nice 🥰會再黎",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境,裝修幾好 仲要寵物友善🤍牛扒5成熟黎到啱啱好 肉味夠!老闆勁nice 🥰會再黎",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "abee lam",
+          "uri": "https://www.google.com/maps/contrib/104664766950947820420/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2PYygoxHNgv2yBceZznKkCfgm0AuCbVAqvOjrYh4H3r44Cw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-21T03:05:56.904852950Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWZmNrcFhkV2hJZDFoUVIwZEdlREpYVDFGYVMyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWZmNrcFhkV2hJZDFoUVIwZEdlREpYVDFGYVMyYxAB!2m1!1s0x340401e8f8a71173:0x42071ea338f0731a"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401e8f8a71173:0x42071ea338f0731a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4757805217724003098&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401e8f8a71173:0x42071ea338f0731a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401e8f8a71173:0x42071ea338f0731a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401e8f8a71173:0x42071ea338f0731a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJcxGn-OgBBDQRGnPwOKMeB0I/photos/Aa-ngMbUwOWbWn0LQKGwSDBN0Digu1i5lsIk_cOSPvyc4p1i5w8nxpStv2oRPlWrDl8BiWMgjKlttXVhqcElZ9a4kzzwU46fntbR8XoY4uIkBBT3sea1s08EN5_Ee5ob8MyV9uL_Q0Q3SpAiGKVWHH5eOuBOQyNkEETSl1pxlDpRBj1kEM9icysONDaIfwKQ7t9PymmO_rjcWGeuveqh4H8QidaJwVMtKEyoG9OWr4zculyH2Ztl1hjr2PQoT2oBysHsVj9h8mVPVHBxYVdzLw_2_cW9Q-qX0YHOj5s8qJHWbPESqtJRXSUKVbbRPIMT116oWUOAum_eky3RXCdQHQ9FV28zhb8xtKbfDfac4nqUfgFtr9QuoeM8JXaHPF1EibVSU085aABSI3NyE76bjat1RDdb_K9zTAg-1NOuuHkflWxD",
+      "widthPx": 4800,
+      "heightPx": 3201,
+      "authorAttributions": [
+        {
+          "displayName": "The Coffee Club",
+          "uri": "https://maps.google.com/maps/contrib/115972691483647408949",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUe7o72QeXrGMDhWJFFSiP2pzrQ_I3IflkljsiducRPJ42UDeM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhASfR-XstXcf2t_P1Ql2nAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhASfR-XstXcf2t_P1Ql2nAE!2e10!4m2!3m1!1s0x340401e8f8a71173:0x42071ea338f0731a"
+    },
+    "local_path": "photos/ChIJcxGn-OgBBDQRGnPwOKMeB0I.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYpBkD0xH9LJBnPvn6qtUfq2KAzKKJh9t9gBfPhwAZ-8DhDdnLPCf58i8katAzq4J23TGO-mbrUcEMUw4oIY6DDZS34ljVND_XiqD5lsk_CO5NouWRfiTIi6A7YBoA9As7zBBybJRZUCY=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 142895
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

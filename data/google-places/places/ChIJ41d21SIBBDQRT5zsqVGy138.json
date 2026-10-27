@@ -1,0 +1,334 @@
+{
+  "google_place_id": "ChIJ41d21SIBBDQRT5zsqVGy138",
+  "restaurant_ids": [
+    "restaurant:2212821970"
+  ],
+  "fetched_at": "2026-10-23T15:43:15.058272+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ41d21SIBBDQRT5zsqVGy138",
+    "types": [
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5239 7516",
+    "internationalPhoneNumber": "+852 5239 7516",
+    "formattedAddress": "Ground floor, 33 Haven St, Causeway Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2774921,
+      "longitude": 114.1871046
+    },
+    "rating": 4.8,
+    "googleMapsUri": "https://maps.google.com/?cid=9212027626622590031&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://s.openrice.com/QrbS0mwCD00~uVNgGBA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 18:00 – 23:30",
+        "星期二: 18:00 – 23:30",
+        "星期三: 18:00 – 23:30",
+        "星期四: 18:00 – 23:30",
+        "星期五: 18:00 – 23:30",
+        "星期六: 18:00 – 23:30",
+        "星期日: 18:00 – 23:30"
+      ],
+      "nextOpenTime": "2026-10-24T10:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 10,
+    "displayName": {
+      "text": "Gordo",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "歐風餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "european_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ41d21SIBBDQRT5zsqVGy138/reviews/ChZDSUhNMG9nS0VNbmN5TS1NLU9tN2R3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "非常溫馨嘅小店，每一道菜都好好味！\n店舖小小但用餐環境十分舒適，生蠔好新鮮，魷魚竟然十分軟滑！\n巨大梳乎厘影相同味道都好正，期待雨次再試不同的菜式😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常溫馨嘅小店，每一道菜都好好味！\n店舖小小但用餐環境十分舒適，生蠔好新鮮，魷魚竟然十分軟滑！\n巨大梳乎厘影相同味道都好正，期待雨次再試不同的菜式😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eunice Chan",
+          "uri": "https://www.google.com/maps/contrib/110880570584274500535/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJeOjt2oPhNvWmOvESDz7nf0AWe1Y60DETu3y0rMuyx4iE33w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-05-10T15:49:17.591504Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VNbmN5TS1NLU9tN2R3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VNbmN5TS1NLU9tN2R3EAE!2m1!1s0x34040122d57657e3:0x7fd7b251a9ec9c4f"
+      },
+      {
+        "name": "places/ChIJ41d21SIBBDQRT5zsqVGy138/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwU2JWRjFWamw0ZFZGcWFHSkZiR05UVkMxeWNIYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食材一流，新鮮，好味！值得支持",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食材一流，新鮮，好味！值得支持",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Harry Chan",
+          "uri": "https://www.google.com/maps/contrib/106100879988718371948/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLt2uR8OorwXpitxfwUOrcjLILE4G9-BPL5-555kLUUQUwKIA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-04-19T07:07:26.837130617Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwU2JWRjFWamw0ZFZGcWFHSkZiR05UVkMxeWNIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwU2JWRjFWamw0ZFZGcWFHSkZiR05UVkMxeWNIYxAB!2m1!1s0x34040122d57657e3:0x7fd7b251a9ec9c4f"
+      },
+      {
+        "name": "places/ChIJ41d21SIBBDQRT5zsqVGy138/reviews/ChZDSUhNMG9nS0VKUDNvckNyZ0lqSlRREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "絕對值得一試！\n\nGordo餐廳提供愉悅的用餐體驗，食物和服務都無可挑剔。餐廳裝潢簡約而不失時尚，溫暖的燈光和木質元素營造出舒適的氛圍。服務員熱情周到。\n\n虎蝦麵是一大亮點，鮮嫩的蝦仁帶著淡淡的蒜香，還可以選擇添加辣椒片，讓每一口都充滿驚喜。\n\n烤玉米「排骨」令人驚訝——切片玉米棒用香草烤製，再撒上美味的起司。味道鮮美，非常適合分享。\n\n迫不及待想再來！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "A must try!\n\nGordo offers a pleasant dining experience with good food and service. The decor is simple yet stylish, with warm lighting and wooden touches creating a comfortable atmosphere. The staff is friendly and attentive.\n\nThe Tiger Prawn Pasta was a highlight, with tender prawns and notes of garlic and you get an option of adding chilli flakes, making each bite enjoyable.\n\nThe Corn “Ribs” were a surprising treat—sliced corn cobs grilled with herbs and sprinkled with flavourful cheese.  They were tasty and fun to share.\n\nCan’t wait to come back for more!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "N Sin",
+          "uri": "https://www.google.com/maps/contrib/118184995454521823148/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLuYNIWqITeeGgsUPQTGQUKNauczRBSeJh6WGkLLem1pKICA0xl=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-05-29T12:19:07.960355Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VKUDNvckNyZ0lqSlRREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VKUDNvckNyZ0lqSlRREAE!2m1!1s0x34040122d57657e3:0x7fd7b251a9ec9c4f"
+      },
+      {
+        "name": "places/ChIJ41d21SIBBDQRT5zsqVGy138/reviews/Ci9DQUlRQUNvZENodHljRjlvT210aVUyUnNWM2hEVlZkS1VtSlBkSGN5V1RCaWVsRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "銅鑼灣靜謐小巷盡頭的隱藏寶藏！\n\n第一次來這裡就徹底愛上了。店面不大，所以如果可以的話最好提前預訂，尤其是人多的時候。食物美味無比，毋庸置疑。真後悔沒提前預訂烤肋排，不過即便如此，我們點的所有菜都非常好吃。一定要點舒芙蕾當甜點，比那家老字號好吃太多了（懂的都懂）。\n\n這裡真是個美食、朋友和美好時光的理想之地。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Hidden gem at the end of a small street in the quiet area of causeway bay!\n\nI definitely love this place after my first visit. Its not huge, so book ahead if you are able to, especially if you have a big group. The food is amazing, needless to say. Wish we preordered the prime rib but regardless, everything we ordered was delicious. And make sure you order the soufflé for dessert. Waaaaay better than that other classic spot iykyk\n\nTruly a place for food, friends, and good times.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Anne Cheung",
+          "uri": "https://www.google.com/maps/contrib/104343444890248021346/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSB4bn76RaWzay3DfvhvG_r2aWsswmDPT8H5tzcFIqu4mw379Y=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-07-14T20:20:31.921009363Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210aVUyUnNWM2hEVlZkS1VtSlBkSGN5V1RCaWVsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210aVUyUnNWM2hEVlZkS1VtSlBkSGN5V1RCaWVsRRAB!2m1!1s0x34040122d57657e3:0x7fd7b251a9ec9c4f"
+      },
+      {
+        "name": "places/ChIJ41d21SIBBDQRT5zsqVGy138/reviews/Ci9DQUlRQUNvZENodHljRjlvT214cFltTXlVMFZITWkxTWVVeExhbVV5Y25aUWIxRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物太好吃了，尤其是肉類和神奇的舒芙蕾鬆餅。一定會再來的，真是個隱藏的寶藏餐廳。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "The food was so good , especially meat and the magic soufflé pancake . Will definitely come back again , it is a hidden gem.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Riccardo Russo",
+          "uri": "https://www.google.com/maps/contrib/117495583337119857576/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVP1WUr20kcD74RCGvlLRGKMGzDG8Kgfhi_68lk5iLYIXt3hvIzvA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-03-01T13:25:27.186121870Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214cFltTXlVMFZITWkxTWVVeExhbVV5Y25aUWIxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214cFltTXlVMFZITWkxTWVVeExhbVV5Y25aUWIxRRAB!2m1!1s0x34040122d57657e3:0x7fd7b251a9ec9c4f"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": false,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040122d57657e3:0x7fd7b251a9ec9c4f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9212027626622590031&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040122d57657e3:0x7fd7b251a9ec9c4f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040122d57657e3:0x7fd7b251a9ec9c4f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040122d57657e3:0x7fd7b251a9ec9c4f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ41d21SIBBDQRT5zsqVGy138/photos/Aa-ngMZhfa5MImxpDkr0zsoiCUNP21Y1M-ZqBwQ7cOphcPAw6FtW9eEMw2hhgH-Q1WsgAk_wdz4W1aXud6e2YcS4ryE4SDKD923f2h7DPCXsBK4r-A-9TGIUvP4IYtUyHfP8z9PB3QtNkFwUndIHrGsV8Lc0O_nD-Y_9QQOqPBEJsN-Ybgp9JvEtVa-uxTqbKij1Mo6Vgt0KYAx47LQDCim-qKIycRpqpWzTA6zjx0iii2Ysc6f6GkodG0A4ij0lsSig-XUmkdWZeBdRDNML46duEPDANGp1J7ViElA8pOs9Eo06k0OdwUd8Lden8ufujd5aBIaTB_FmVemiWC8EDH2l0HYvERGMyGZu1a6KKXn4okNwkkYXktT1t1nLT_8vw-aLyGtM6CaRPn1NXew94ZDHFFPzjeIeNgZp4kNX8O3TTzRUtg",
+      "widthPx": 3617,
+      "heightPx": 3536,
+      "authorAttributions": [
+        {
+          "displayName": "Gordo",
+          "uri": "https://maps.google.com/maps/contrib/113388786395365249433",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ1bj3i0H6M6fF5qJfvJHLWBqjfMJr0svS9PQ6w03dKr1ERiA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhByycnpW9LO5Odt-BKPbill&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhByycnpW9LO5Odt-BKPbill!2e10!4m2!3m1!1s0x34040122d57657e3:0x7fd7b251a9ec9c4f"
+    },
+    "local_path": "photos/ChIJ41d21SIBBDQRT5zsqVGy138.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3C1tn5UnOWIxQcRY3a_GsKTvIHyuHWKUR_SwFtTZb64nUYLa8sY45CdqFX3g_4a9dv3lYbLW1krjylEjaUHwpnzrKCgKIzvi7JSE62zypJMNjLOAFa7KNEJA9_VCzNQplt5qn3dXD-ZU_=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 144522
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.openrice.com/zh/hongkong/r-gordo-%E9%8A%85%E9%91%BC%E7%81%A3-%E8%A5%BF%E5%BC%8F-r893891/book?from=PoiDetailOverview",
+        "label": "訂座",
+        "source_url": "https://www.openrice.com/zh/hongkong/r-gordo-%E9%8A%85%E9%91%BC%E7%81%A3-%E8%A5%BF%E5%BC%8F-r893891?_sUrl=https%3A%2F%2Fs.openrice.com%2FQrbS0mwCD00~uVNgGBA",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://biz.openrice.com/hk/zh/restaurants/booking",
+        "label": "訂座",
+        "source_url": "https://www.openrice.com/zh/hongkong/r-gordo-%E9%8A%85%E9%91%BC%E7%81%A3-%E8%A5%BF%E5%BC%8F-r893891?_sUrl=https%3A%2F%2Fs.openrice.com%2FQrbS0mwCD00~uVNgGBA",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.openrice.com/zh/hongkong/r-gordo-%E9%8A%85%E9%91%BC%E7%81%A3-%E8%A5%BF%E5%BC%8F-r893891/menus",
+        "label": "餐牌",
+        "source_url": "https://www.openrice.com/zh/hongkong/r-gordo-%E9%8A%85%E9%91%BC%E7%81%A3-%E8%A5%BF%E5%BC%8F-r893891?_sUrl=https%3A%2F%2Fs.openrice.com%2FQrbS0mwCD00~uVNgGBA",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.openrice.com/zh/hongkong/r-gordo-%E9%8A%85%E9%91%BC%E7%81%A3-%E8%A5%BF%E5%BC%8F-r893891/photos/menu",
+        "label": "",
+        "source_url": "https://www.openrice.com/zh/hongkong/r-gordo-%E9%8A%85%E9%91%BC%E7%81%A3-%E8%A5%BF%E5%BC%8F-r893891?_sUrl=https%3A%2F%2Fs.openrice.com%2FQrbS0mwCD00~uVNgGBA",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "european_restaurant",
+    "label": "歐風餐廳",
+    "types": [
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.openrice.com/zh/hongkong/r-gordo-%E9%8A%85%E9%91%BC%E7%81%A3-%E8%A5%BF%E5%BC%8F-r893891/book?from=PoiDetailOverview",
+  "menu_url": "https://www.openrice.com/zh/hongkong/r-gordo-%E9%8A%85%E9%91%BC%E7%81%A3-%E8%A5%BF%E5%BC%8F-r893891/menus"
+}

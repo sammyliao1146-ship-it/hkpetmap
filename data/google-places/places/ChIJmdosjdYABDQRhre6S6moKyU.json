@@ -1,0 +1,308 @@
+{
+  "google_place_id": "ChIJmdosjdYABDQRhre6S6moKyU",
+  "restaurant_ids": [
+    "restaurant:3152283172",
+    "restaurant:3152804348"
+  ],
+  "fetched_at": "2026-10-23T15:40:02.448444+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJmdosjdYABDQRhre6S6moKyU",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2761 0083",
+    "internationalPhoneNumber": "+852 2761 0083",
+    "formattedAddress": "香港九龍土瓜灣譚公道16-26號長城商場地下2號鋪",
+    "location": {
+      "latitude": 22.321148599999997,
+      "longitude": 114.18798489999999
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=2678419848475359110&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.barpacific.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 4,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:30 – 04:00",
+        "星期二: 16:30 – 04:00",
+        "星期三: 16:30 – 04:00",
+        "星期四: 16:30 – 04:00",
+        "星期五: 16:30 – 04:00",
+        "星期六: 16:30 – 04:00",
+        "星期日: 16:30 – 04:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 38,
+    "displayName": {
+      "text": "Bar Pacific",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJmdosjdYABDQRhre6S6moKyU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJcDR6NkZnEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 3,
+        "text": {
+          "text": "街坊酒吧，價錢合理",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "街坊酒吧，價錢合理",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "劉醒",
+          "uri": "https://www.google.com/maps/contrib/102230625734481788222/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIDsKfboG_KH1S1I3kTLQUqRuzmb11QcxvZPfSMbJe6wNuVjw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2018-12-10T18:46:48.788165065Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNJcDR6NkZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNJcDR6NkZnEAE!2m1!1s0x340400d68d2cda99:0x252ba8a94bbab786"
+      },
+      {
+        "name": "places/ChIJmdosjdYABDQRhre6S6moKyU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBMWE3emJ3EAE",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "text": {
+          "text": "個個都好劈得",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "個個都好劈得",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Angus Lo",
+          "uri": "https://www.google.com/maps/contrib/111110075894226159405/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4D6Cugp3dugBMFfdpn-Meyon_c_31eK8-WMm49oxZ1bye-w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2018-04-20T12:12:45.087Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBMWE3emJ3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBMWE3emJ3EAE!2m1!1s0x340400d68d2cda99:0x252ba8a94bbab786"
+      },
+      {
+        "name": "places/ChIJmdosjdYABDQRhre6S6moKyU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwelVIWm9TamRsU0hGbmRHbDBMVzB6TmpkMlVrRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 2,
+        "text": {
+          "text": "這家酒吧很難評價，因為我們在那裡玩得很開心，但也有些事情讓我們重新考慮是否還要再去。\n\n生啤酒不錯，但考慮到它的地理位置，價格偏高（一品脫88美元），我覺得土瓜灣的啤酒應該更便宜。而且，店家會送你一些很難拒絕的餅乾，但你還得額外付20美元。最後，10%的服務費也讓我們感到驚訝。所以，基本上只喝一杯啤酒就要花不少錢。\n\n飛鏢遊戲很有趣。他們有3台飛鏢機，每人每局5美元。工作人員很友好，可以幫你把大額鈔票換成5美元的硬幣。\n\n他們有卡拉OK，所以能聽到人們唱歌感覺很棒（我們很幸運，他們唱得都很好）。喝醉的人還好，但讓我不太滿意的是，我們離開的時候身上都是煙味，不得不洗衣服。\n\n整體來說，我給2.5分。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "This bar is quite hard to rate, as the time we had there was fun, but there were also things that made us rethink our next visit.\n\nThe draft beer is good but expensive (88$ for a pint) given the location (I would think that To Kwa Wan would be cheaper). Also, you're served crackers that are quite hard to refuse and u gotta pay not her $20 for them. In the end, we were surprised by the 10 % service charge. So basically having just one beer got quite expensive.\n\nDarts were fun. They have 3 dart machines, and it costs $5 per person, per game. The staff were nice to exchange bigger banknotes for $5 coins.\n\nThey have karaoke so it was nice to hear people singing (we were lucky that they could sing). Drunk people were okay but think I didn't like was that when we left, we smelled like cigarettes and had to wash our clothes after.\n\nWould like to give 2.5 overall.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Klára Ondrušová",
+          "uri": "https://www.google.com/maps/contrib/114180489273749009693/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0uX1Oxim2HfVS0r2Sxhn2tj2sjAdOZWgMX88HukvFLtieKmJk=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-17T03:53:00.634879648Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwelVIWm9TamRsU0hGbmRHbDBMVzB6TmpkMlVrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwelVIWm9TamRsU0hGbmRHbDBMVzB6TmpkMlVrRRAB!2m1!1s0x340400d68d2cda99:0x252ba8a94bbab786"
+      },
+      {
+        "name": "places/ChIJmdosjdYABDQRhre6S6moKyU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzM2E2NWFREAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "值得一去的好地方。服務也不錯。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Cool place to visit. Good service.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Noel Kelly",
+          "uri": "https://www.google.com/maps/contrib/114693440881318699006/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKcq652uvoW3hddFTzpM3iZyAK31fTscZ8xff5ONbQH2Znn9gw2=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2020-02-11T10:32:07.366913Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNzM2E2NWFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNzM2E2NWFREAE!2m1!1s0x340400d68d2cda99:0x252ba8a94bbab786"
+      },
+      {
+        "name": "places/ChIJmdosjdYABDQRhre6S6moKyU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBX2I2dEZnEAE",
+        "relativePublishTimeDescription": "10 年前",
+        "rating": 4,
+        "text": {
+          "text": "Friendly staff, small but nice place",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Friendly staff, small but nice place",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Shaun Daggett",
+          "uri": "https://www.google.com/maps/contrib/101387166158020480942/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJK5XryXnCMLg2S5NYs-neOB5lPsRJXiXIuc0C-vTxH13UYnsQc=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2015-11-03T11:18:04.848Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBX2I2dEZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBX2I2dEZnEAE!2m1!1s0x340400d68d2cda99:0x252ba8a94bbab786"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400d68d2cda99:0x252ba8a94bbab786!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2678419848475359110&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400d68d2cda99:0x252ba8a94bbab786!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400d68d2cda99:0x252ba8a94bbab786!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400d68d2cda99:0x252ba8a94bbab786!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJmdosjdYABDQRhre6S6moKyU/photos/Aa-ngMYQjk00f2KpxCiUDF7G01gMvB7zQPCr_5vd86YfXZcex5gtTeBdRz972IoCgwU_TwHfhhUbiuPOv41Qwk6BeALd3nD8pI7IF6sdZpUh7alGtT1ulLQPnwaooAWSDA4GVVuLflRMdYLCvz3IUPLZnlOQNqSZi30mcxlQSxduDs8QPdlqijf9luDvPPIfY42P30OJRXGwfA_L-8TIb6Fe8WhVBzBdGyPRyZP7gaJQzcVLEUkn2oOdsm6TRoPpOJFaYkEY-mNhMeW1_L9HwoMFiCsh8nfYQLDEdZNLuSuZB2AMhMsGCwA16UpR9yf0z9hkUXPUJOttKrE02pBE6k4u5gsAI-Fc1wg1eksO0E0-N3eFHlu-wW-qVUm3UqD7bQaKZhS2OfPboNol5JedqAJhTfRuCKZmU6r0Htkn2IbKDk0Bdw",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Yat Ching Lau",
+          "uri": "https://maps.google.com/maps/contrib/113078375393903174343",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUU_hzmMG5NomCblg6QAj0mUH7w0Heau-FXvXy1CIWUT3HT7o2a=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAtrygAkcxt3r-7Cm5UKmyz&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAtrygAkcxt3r-7Cm5UKmyz!2e10!4m2!3m1!1s0x340400d68d2cda99:0x252ba8a94bbab786"
+    },
+    "local_path": "photos/ChIJmdosjdYABDQRhre6S6moKyU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSgVaGeBXB32foioTBS9Fvf8Uts0VHrc48yt3Ipsu4elS2871BDV3o1sQro83_ZSTfoYNuVK4_SuE2ttv2WIrPkO4Jdg9tupJWVKip2f6l3L3CGb4_vdsngCT0cM52bBjAasUrbWSkxpVH=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 156710
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

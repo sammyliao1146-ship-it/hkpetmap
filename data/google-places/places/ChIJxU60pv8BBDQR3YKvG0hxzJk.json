@@ -1,0 +1,151 @@
+{
+  "google_place_id": "ChIJxU60pv8BBDQR3YKvG0hxzJk",
+  "restaurant_ids": [
+    "restaurant:3162281018"
+  ],
+  "fetched_at": "2026-10-23T15:44:26.529170+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJxU60pv8BBDQR3YKvG0hxzJk",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港九龍旺角通菜街223號",
+    "location": {
+      "latitude": 22.3259398,
+      "longitude": 114.16902999999999
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=11082357337568019165&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 4,
+    "displayName": {
+      "text": "Vsing太子店",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJxU60pv8BBDQR3YKvG0hxzJk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SVFF6VTRhRmRCWW1kVFRrNWhVMUJpVXpSSGVIYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 1,
+        "text": {
+          "text": "臭煙味重，控煙辦唔做野",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "臭煙味重，控煙辦唔做野",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gh Yy",
+          "uri": "https://www.google.com/maps/contrib/101616398344998173504/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5rPFK_qSaN9UpRCBStLmaaxWU8dmUDDcnaQCxQvjTZzqZ1w=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-09-09T10:45:22.707591659Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SVFF6VTRhRmRCWW1kVFRrNWhVMUJpVXpSSGVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SVFF6VTRhRmRCWW1kVFRrNWhVMUJpVXpSSGVIYxAB!2m1!1s0x340401ffa6b44ec5:0x99cc71481baf82dd"
+      },
+      {
+        "name": "places/ChIJxU60pv8BBDQR3YKvG0hxzJk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaVE1VSlBSazVpT1ZCVlFUZDZZV3RIV0RkSFFVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Stone Thousand",
+          "uri": "https://www.google.com/maps/contrib/105670322004967492109/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIM141knXkVqsn3Xjd19EuiY_BBS3W-cljE7h6Cp1Mj4Xfnag=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-07-14T10:06:39.290298669Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaVE1VSlBSazVpT1ZCVlFUZDZZV3RIV0RkSFFVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaVE1VSlBSazVpT1ZCVlFUZDZZV3RIV0RkSFFVRRAB!2m1!1s0x340401ffa6b44ec5:0x99cc71481baf82dd"
+      },
+      {
+        "name": "places/ChIJxU60pv8BBDQR3YKvG0hxzJk/reviews/ChZDSUhNMG9nS0VJQ0FnSURYaTVhWEN3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Joe Ho",
+          "uri": "https://www.google.com/maps/contrib/105292275050898634441/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXK9xWoq2LBTbIPvXRAKl5p1_VXChRipNOheZ8nwr_j7543hQQXwg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-10-31T02:47:19.570809Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYaTVhWEN3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYaTVhWEN3EAE!2m1!1s0x340401ffa6b44ec5:0x99cc71481baf82dd"
+      },
+      {
+        "name": "places/ChIJxU60pv8BBDQR3YKvG0hxzJk/reviews/ChdDSUhNMG9nS0VJQ0FnSURYdV9DZTR3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "H Hui",
+          "uri": "https://www.google.com/maps/contrib/107405240559675363033/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIx6xgeZqrKmY4ABODBz1HKpYRaA1FZpzPl2KT6R1b8rG3I6w=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-10-31T10:26:52.509659Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYdV9DZTR3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYdV9DZTR3RRAB!2m1!1s0x340401ffa6b44ec5:0x99cc71481baf82dd"
+      }
+    ],
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401ffa6b44ec5:0x99cc71481baf82dd!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11082357337568019165&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401ffa6b44ec5:0x99cc71481baf82dd!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401ffa6b44ec5:0x99cc71481baf82dd!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401ffa6b44ec5:0x99cc71481baf82dd!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJxU60pv8BBDQR3YKvG0hxzJk/photos/Aa-ngMYYrPYqhx16JiN64dC74ZvO7ZvtSwatFcxv3SQGpi0IinmvuZiy4EVQjOAiJPwCorPfNdCZFnqRQNw-joHJF6RkXExylzZiPU888jggt8s3sd8XhYKRmQ0nW_hIH7YIJNXtHEzHHKsxp-x4VKp_fyvApbOkaTuhPv0ZINDa_boe2TRhk5OLMKCTu1vWjKz74y0c9bljVhDfCTU2hFtg0oHQuCEzwZi8oZzWnCnpnhAFO-SjoSiisa9-L5qZuBbyHshSnCuJ-FsQHfQ9Pfdyftj3QPHwxrhkKNLSzORcYg0T9sHfBJU-4fz0VqTUD_a-ypIL383FyWgq8fU31ELXGUVb-WVa2WEYwp5-XvPRdaX-JLe6jaXxvpGowmgGVs44_JhVefkHzosaXZsk-2sOulmh8QmJUWB0iGZd_bZhMaCD",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "Tin Tin Tin",
+          "uri": "https://maps.google.com/maps/contrib/115501989515796476027",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJCDPjEXA4nTrbM3tTYVNYhAyptlQLc1Os4OHHReEFOvmDA3A=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAM5bbdkyYFdDIFbckAto_Y&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAM5bbdkyYFdDIFbckAto_Y!2e10!4m2!3m1!1s0x340401ffa6b44ec5:0x99cc71481baf82dd"
+    },
+    "local_path": "photos/ChIJxU60pv8BBDQR3YKvG0hxzJk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFoqxDJvmhYIhufylBHqlXXc_WjxSGju2JH1hkPf6rvr8c6Te9oI-eWbYubO0TAkT3RxyY111PWfmvFILrVGQNSCRpCwbxrnHsSVFi2gWATuLKes2YNjhkdCNc6kAVqiS3z-GvZN5UxOI=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 111881
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

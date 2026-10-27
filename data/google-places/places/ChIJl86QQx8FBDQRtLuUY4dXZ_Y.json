@@ -1,0 +1,309 @@
+{
+  "google_place_id": "ChIJl86QQx8FBDQRtLuUY4dXZ_Y",
+  "restaurant_ids": [
+    "restaurant:3198801626"
+  ],
+  "fetched_at": "2026-10-23T15:41:56.233395+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJl86QQx8FBDQRtLuUY4dXZ_Y",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6897 6830",
+    "internationalPhoneNumber": "+852 6897 6830",
+    "formattedAddress": "G/F, 37 See Cheung St, Sai Kung, New Territories, 香港",
+    "location": {
+      "latitude": 22.379666699999998,
+      "longitude": 114.271869
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=17755256294934363060&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 18:00",
+        "星期二: 休息",
+        "星期三: 11:00 – 18:00",
+        "星期四: 11:00 – 18:00",
+        "星期五: 11:00 – 18:00",
+        "星期六: 11:00 – 19:00",
+        "星期日: 11:00 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 52,
+    "displayName": {
+      "text": "Commute.",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJl86QQx8FBDQRtLuUY4dXZ_Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kQk0zTklUVVZJYWs1RlRHeFlPREo1UjJ0V2NuYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "香港朋友開車載我們來到西貢碼頭走走\n很多風格各異的Cafe 可以選擇\n草莓可朗芙好吃\n可惜跟我想像的不一樣😆\n（以為是真的草莓切片搭配鮮奶油）",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "香港朋友開車載我們來到西貢碼頭走走\n很多風格各異的Cafe 可以選擇\n草莓可朗芙好吃\n可惜跟我想像的不一樣😆\n（以為是真的草莓切片搭配鮮奶油）",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Koby Chen",
+          "uri": "https://www.google.com/maps/contrib/104577969857922287862/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlVY2pimOYKrYNzbTWRkwSpXfSsgdKWEiLNTiPKRcWKA_jhQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-09-28T11:13:17.324161055Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kQk0zTklUVVZJYWs1RlRHeFlPREo1UjJ0V2NuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kQk0zTklUVVZJYWs1RlRHeFlPREo1UjJ0V2NuYxAB!2m1!1s0x3404051f4390ce97:0xf66757876394bbb4"
+      },
+      {
+        "name": "places/ChIJl86QQx8FBDQRtLuUY4dXZ_Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4RmIwOUhYMWx0U2pocmR6WkZiek5aVkdSNFVFRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 2,
+        "text": {
+          "text": "今次我點了一杯抹茶 latte，以及一碟鹹蛋黃意粉（全名我已經不太記得）。不過，這次整體味道令我有點失望。\n\n那杯抹茶 latte 對我來說實在太甜，而那碟鹹蛋黃意粉則明顯過鹹。其實我平時本身都算喜歡較重口味的食物，但今次甜和鹹的程度都超出了我可以接受的範圍，所以整體用餐體驗並不理想。\n\n以我個人感受來說，餐廳在調味方面仍有頗大的改善空間。出餐前如果能更仔細留意味道平衡，相信整體食物質素會更好。\n\n至於環境方面，店內算整潔，亦有空間讓客人坐下來慢慢用餐或稍作休息，裝修亦算不錯，整體感覺尚算舒服。如果只是想來打卡、影相，或者單純找個地方坐一坐，我覺得還算可以接受；但如果對食物本身有要求，這裡未必會令人滿意，因為以我這次的經驗來說，食物質素確實比較一般。\n\nThis time I ordered a matcha latte and a salted egg yolk pasta dish, although I cannot remember the full name of the pasta. Unfortunately, the overall taste was quite disappointing.\n\nThe matcha latte was far too sweet for me, while the pasta was extremely salty. I normally do enjoy stronger flavors, so I am not someone who prefers everything bland. Even so, both the sweetness and the saltiness were beyond what I could comfortably accept, so the overall dining experience was not very enjoyable.\n\nIn my personal opinion, there is still a lot of room for improvement when it comes to seasoning and balance in the food. If more attention were paid to the taste before serving, the overall quality would likely be much better.\n\nAs for the environment, the place was clean and had enough space for customers to sit down, eat, and rest for a while. The interior was also quite decent, so the overall atmosphere felt reasonably comfortable. If you are mainly looking for a place to take photos or simply sit and relax for a while, it may still be acceptable. But if you care a lot about the food itself, this place may not be very satisfying, because based on my experience, the food quality was really quite average.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次我點了一杯抹茶 latte，以及一碟鹹蛋黃意粉（全名我已經不太記得）。不過，這次整體味道令我有點失望。\n\n那杯抹茶 latte 對我來說實在太甜，而那碟鹹蛋黃意粉則明顯過鹹。其實我平時本身都算喜歡較重口味的食物，但今次甜和鹹的程度都超出了我可以接受的範圍，所以整體用餐體驗並不理想。\n\n以我個人感受來說，餐廳在調味方面仍有頗大的改善空間。出餐前如果能更仔細留意味道平衡，相信整體食物質素會更好。\n\n至於環境方面，店內算整潔，亦有空間讓客人坐下來慢慢用餐或稍作休息，裝修亦算不錯，整體感覺尚算舒服。如果只是想來打卡、影相，或者單純找個地方坐一坐，我覺得還算可以接受；但如果對食物本身有要求，這裡未必會令人滿意，因為以我這次的經驗來說，食物質素確實比較一般。\n\nThis time I ordered a matcha latte and a salted egg yolk pasta dish, although I cannot remember the full name of the pasta. Unfortunately, the overall taste was quite disappointing.\n\nThe matcha latte was far too sweet for me, while the pasta was extremely salty. I normally do enjoy stronger flavors, so I am not someone who prefers everything bland. Even so, both the sweetness and the saltiness were beyond what I could comfortably accept, so the overall dining experience was not very enjoyable.\n\nIn my personal opinion, there is still a lot of room for improvement when it comes to seasoning and balance in the food. If more attention were paid to the taste before serving, the overall quality would likely be much better.\n\nAs for the environment, the place was clean and had enough space for customers to sit down, eat, and rest for a while. The interior was also quite decent, so the overall atmosphere felt reasonably comfortable. If you are mainly looking for a place to take photos or simply sit and relax for a while, it may still be acceptable. But if you care a lot about the food itself, this place may not be very satisfying, because based on my experience, the food quality was really quite average.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "天神公園流浪漢",
+          "uri": "https://www.google.com/maps/contrib/111543820974303620610/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLFTTUuu9t25ofHaZIayOsGbjCRGgIKuUqj9QMt4Otw41wQ5w=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-04-08T12:25:19.812113985Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4RmIwOUhYMWx0U2pocmR6WkZiek5aVkdSNFVFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4RmIwOUhYMWx0U2pocmR6WkZiek5aVkdSNFVFRRAB!2m1!1s0x3404051f4390ce97:0xf66757876394bbb4"
+      },
+      {
+        "name": "places/ChIJl86QQx8FBDQRtLuUY4dXZ_Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxNGVuWkdNa2xWVjB0T2FXNWZXbk5UZFVSR1QxRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "喜歡抺茶的朋友必去，抺茶拿鐵超好飲，好似去左日本咁",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "喜歡抺茶的朋友必去，抺茶拿鐵超好飲，好似去左日本咁",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "根本太太",
+          "uri": "https://www.google.com/maps/contrib/107044697518538311798/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKy0XFU2rD1aj83UslCeRrM8sySmwjA4q1kAUdVFd2m02wS5w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-27T12:21:24.927484796Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxNGVuWkdNa2xWVjB0T2FXNWZXbk5UZFVSR1QxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxNGVuWkdNa2xWVjB0T2FXNWZXbk5UZFVSR1QxRRAB!2m1!1s0x3404051f4390ce97:0xf66757876394bbb4"
+      },
+      {
+        "name": "places/ChIJl86QQx8FBDQRtLuUY4dXZ_Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxMFdGWlFWRU4xYVhwdWNIZFViV2xFV25NMmVtYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "寵物友善，寵物可坐在室外，比想像中好食，價錢雖然貴了一點，但整體不錯👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "寵物友善，寵物可坐在室外，比想像中好食，價錢雖然貴了一點，但整體不錯👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lai Manyee",
+          "uri": "https://www.google.com/maps/contrib/108194147512288271933/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlhqTt1qpHBZP7cccFYjoDYUYw_Z1or3Kz69FNkX_0A7dVkA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-04-21T07:38:29.706828504Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxMFdGWlFWRU4xYVhwdWNIZFViV2xFV25NMmVtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxMFdGWlFWRU4xYVhwdWNIZFViV2xFV25NMmVtYxAB!2m1!1s0x3404051f4390ce97:0xf66757876394bbb4"
+      },
+      {
+        "name": "places/ChIJl86QQx8FBDQRtLuUY4dXZ_Y/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBMTRxMnVRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "今日行完山揾嘢食，叫左韓式泡菜煙肉忌廉意粉好好味，下次再嚟試埋甜\n品。\nHaving late lunch here after hiking. Pasta is yummy and quite a lot of choices for drink. Will come to try waffle next time.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日行完山揾嘢食，叫左韓式泡菜煙肉忌廉意粉好好味，下次再嚟試埋甜\n品。\nHaving late lunch here after hiking. Pasta is yummy and quite a lot of choices for drink. Will come to try waffle next time.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chung Karen",
+          "uri": "https://www.google.com/maps/contrib/104236647844754375126/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKO2O8qz5OCa7lDX45seaoV17qxecKbdaVw-grbdU19wpkAIg=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-02-05T07:22:48.936258Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBMTRxMnVRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBMTRxMnVRRRAB!2m1!1s0x3404051f4390ce97:0xf66757876394bbb4"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404051f4390ce97:0xf66757876394bbb4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17755256294934363060&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404051f4390ce97:0xf66757876394bbb4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404051f4390ce97:0xf66757876394bbb4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404051f4390ce97:0xf66757876394bbb4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJl86QQx8FBDQRtLuUY4dXZ_Y/photos/Aa-ngMZi69jh6NCVF_OpJbh5zTeg-otFh_j_2qAhgcVq8CSy-eMh9DQjQZZTn4S7dwuWfjVRMju0stGPDag6kcizQqDq7TsmJydlHN49IXGGiPWnt-Yx7fYsw57B4bxzVbmZMzqe0H4V2uneeDDTZQdEivzSOxVGevV-SXkMz9SBwmzgrYZJ1GwfhECkOoxcJPIezcPLuNnD9ymdUr4i7KdB0QfhO5qqRSrM5W_hYaPSe8IkZfh9jnXHEDBxbLpUbzQ_BN1PZNpv1_o-BbYlRvfkMjnwh_vbkItp5oHt-eRxduvEnIDsmP9WuywHg-fjuXYUsKntl3uH-hCha1Azn3m6510q_I6mrH4hquqlg-qb3jE5LF92sh-Lwpxd7JcIi5bbBMrq_aLtCC0p7VXXDdqxfcJikCE",
+      "widthPx": 4000,
+      "heightPx": 2252,
+      "authorAttributions": [
+        {
+          "displayName": "Chung Karen",
+          "uri": "https://maps.google.com/maps/contrib/104236647844754375126",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKO2O8qz5OCa7lDX45seaoV17qxecKbdaVw-grbdU19wpkAIg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCA14q2BQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA14q2BQ!2e10!4m2!3m1!1s0x3404051f4390ce97:0xf66757876394bbb4"
+    },
+    "local_path": "photos/ChIJl86QQx8FBDQRtLuUY4dXZ_Y.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0gM5S5oD2Gie3R0s3dM9fkmU9z3ebs3a40eckNqivzpAUN5TuZA7_ZdMoCD0BJnrfwVgG4mEClnY6awoVX3PfouneAVxr7jh9OS4HNYHk1hH7rFoTVcrPAFeChdw-lm_rK_Cz=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 118081
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

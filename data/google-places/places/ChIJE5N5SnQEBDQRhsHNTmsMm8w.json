@@ -1,0 +1,322 @@
+{
+  "google_place_id": "ChIJE5N5SnQEBDQRhsHNTmsMm8w",
+  "restaurant_ids": [
+    "restaurant:2298002054"
+  ],
+  "fetched_at": "2026-10-23T15:45:36.861228+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJE5N5SnQEBDQRhsHNTmsMm8w",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2774 4448",
+    "internationalPhoneNumber": "+852 2774 4448",
+    "formattedAddress": "香港新界坑口寶寧路25號, Fu Ning Garden Commercial Complex, 5-6號舖 25 Po Ning Road",
+    "location": {
+      "latitude": 22.3188717,
+      "longitude": 114.26726359999999
+    },
+    "rating": 3.4,
+    "googleMapsUri": "https://maps.google.com/?cid=14743391460150591878&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 21:30",
+        "星期二: 11:00 – 21:30",
+        "星期三: 07:30 – 22:00",
+        "星期四: 07:30 – 22:00",
+        "星期五: 11:00 – 21:30",
+        "星期六: 09:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 94,
+    "displayName": {
+      "text": "南豐餐廳小廚",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJE5N5SnQEBDQRhsHNTmsMm8w/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1akpMc2lnRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "這間是在馬路旁地鋪是一家人開，牛什粉麵味道算是不錯，價錢比商場裡面那間粉麵鋪平宜DD.沒有這間之前，我都是不商場裡面那間粉麵鋪食。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間是在馬路旁地鋪是一家人開，牛什粉麵味道算是不錯，價錢比商場裡面那間粉麵鋪平宜DD.沒有這間之前，我都是不商場裡面那間粉麵鋪食。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jeffrey Tjiam",
+          "uri": "https://www.google.com/maps/contrib/114981646519237078689/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPBFs48_J_OMPRj2JVjDXFe1d6zX9wikei1rJM1fdMY-NVf7Do6w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2022-07-22T12:34:44.749210Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN1akpMc2lnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN1akpMc2lnRRAB!2m1!1s0x340404744a799313:0xcc9b0c6b4ecdc186"
+      },
+      {
+        "name": "places/ChIJE5N5SnQEBDQRhsHNTmsMm8w/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GU016Wk5hVTE1VTJWVVIyVTFiVmxYVkdkc1UwRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "香港傳統茶記！有大排檔小炒質素！夠野味！唔會將好多青紅黃椒配菜夾硬炒落一碟，足料！\n香港買少見少嘅小店！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "香港傳統茶記！有大排檔小炒質素！夠野味！唔會將好多青紅黃椒配菜夾硬炒落一碟，足料！\n香港買少見少嘅小店！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fong Ling Lai",
+          "uri": "https://www.google.com/maps/contrib/117736654440139096944/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc0jTHxqhVW0gAmb56rtS_OkTu2pF6TtkK-GyxlASVJkIrzLjf=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-08T13:20:34.229267013Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GU016Wk5hVTE1VTJWVVIyVTFiVmxYVkdkc1UwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GU016Wk5hVTE1VTJWVVIyVTFiVmxYVkdkc1UwRRAB!2m1!1s0x340404744a799313:0xcc9b0c6b4ecdc186"
+      },
+      {
+        "name": "places/ChIJE5N5SnQEBDQRhsHNTmsMm8w/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3c1BLNmFREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 1,
+        "text": {
+          "text": "牛坑腩佢話係瘦肉，仲要賣 $60 幾蚊\n如果係個後生的煮麪，千萬唔好入去",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "牛坑腩佢話係瘦肉，仲要賣 $60 幾蚊\n如果係個後生的煮麪，千萬唔好入去",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cheuk Wang Cheng",
+          "uri": "https://www.google.com/maps/contrib/114516872619825714409/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc7gdHz7t5cxlSVzyVCUAs6BvETMTx0Gg3NR_X8ELZ36LrsBhR=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-06-14T08:12:31.080919Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR3c1BLNmFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR3c1BLNmFREAE!2m1!1s0x340404744a799313:0xcc9b0c6b4ecdc186"
+      },
+      {
+        "name": "places/ChIJE5N5SnQEBDQRhsHNTmsMm8w/reviews/ChZDSUhNMG9nS0VJQ0FnSURJbG9id0V3EAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "位置唔起眼，但坑腩好食，但略嫌有點瘦，肥少少應該更加香口，份量很多!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位置唔起眼，但坑腩好食，但略嫌有點瘦，肥少少應該更加香口，份量很多!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chung Ida",
+          "uri": "https://www.google.com/maps/contrib/107690456636473659479/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIjVWVi2FRik9LpRUQ2cJXKcRUpqkT9q-En0s23y3TAXLkI5g=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2019-01-03T15:09:33.298781553Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURJbG9id0V3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURJbG9id0V3EAE!2m1!1s0x340404744a799313:0xcc9b0c6b4ecdc186"
+      },
+      {
+        "name": "places/ChIJE5N5SnQEBDQRhsHNTmsMm8w/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYbHFMTC13RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "湯底同配料都濃厚, 有柱候味\n河粉帶爽彈\n牛腩軟硬肥瘦適中 (主觀喜好)\n牛雜足料: 牛膀 x 2, 牛肺 x 4, 牛肚 x 4, 粉腸 x 1, 牛大腸 x1",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "湯底同配料都濃厚, 有柱候味\n河粉帶爽彈\n牛腩軟硬肥瘦適中 (主觀喜好)\n牛雜足料: 牛膀 x 2, 牛肺 x 4, 牛肚 x 4, 粉腸 x 1, 牛大腸 x1",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "L",
+          "uri": "https://www.google.com/maps/contrib/111524004961995529328/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIWrQYpWXhlM6ZxeQ3KKwPHuRcM5t5xHRtoSPF9kmOvTDc29Lmo=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-07-09T03:06:57.127456293Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYbHFMTC13RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYbHFMTC13RRAB!2m1!1s0x340404744a799313:0xcc9b0c6b4ecdc186"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340404744a799313:0xcc9b0c6b4ecdc186!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14743391460150591878&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340404744a799313:0xcc9b0c6b4ecdc186!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340404744a799313:0xcc9b0c6b4ecdc186!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340404744a799313:0xcc9b0c6b4ecdc186!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJE5N5SnQEBDQRhsHNTmsMm8w/photos/Aa-ngMZ3zrbcHzW_l-iXBZk2fYTDBv5InqyfYcTulzFKdejBR3qJFXnEHk0OslQyJUFh37smfzGxEs2X2utPfj3c9lmclp9z8JQwR3frPoCtp4YNp9i9RloqW9U01n90icmE_99a788CIUAijR9BqEWndy88imZQO3IvfPdiBW23ea9TF6AJHbZc9DeajZcOAgPOj0X978R693G4_zUkQDUCfT2koexhcaSxiHUoyhX8q34c-712lOhdG7yZcY53uTyrQPx08TnkKRcBl6xoH726SN6oKNVxrLzL56RFeyLY-Srb5kSngMVI-YYEJpRj2PTHuRz9TbSgn_C3_yHqIGv4g-7CaOrgJlGTLEVqKfKxfkEwUPIeg7CJtFK8aug58DojhZApGyJYvrm8Bn8gQxQctL5H3hFU",
+      "widthPx": 3264,
+      "heightPx": 2448,
+      "authorAttributions": [
+        {
+          "displayName": "l3eeboo",
+          "uri": "https://maps.google.com/maps/contrib/110537112898535306673",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVoEdEjFSeic1bpKd7gv3Ex8LoxJNEL59VCe5Hv3MiFDXJlvaqJEA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8oJ7bjQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8oJ7bjQE!2e10!4m2!3m1!1s0x340404744a799313:0xcc9b0c6b4ecdc186"
+    },
+    "local_path": "photos/ChIJE5N5SnQEBDQRhsHNTmsMm8w.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeio8qsP5zvh0kz4CKC42tWqXqEfNBHDdxbSHwFP5hqQaLfovNXOQDsuD6bBZ5Fv_C63EFNGdyQIwcvkOjswilcFjasZca7YmpyAIj-nEOp7jiXGoG8se5ap9--Oor9oeSQ9UB_=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 156241
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

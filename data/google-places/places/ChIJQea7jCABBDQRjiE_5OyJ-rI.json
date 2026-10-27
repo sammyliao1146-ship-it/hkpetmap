@@ -1,0 +1,408 @@
+{
+  "google_place_id": "ChIJQea7jCABBDQRjiE_5OyJ-rI",
+  "restaurant_ids": [
+    "restaurant:2262811248"
+  ],
+  "fetched_at": "2026-10-23T15:46:08.888869+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJQea7jCABBDQRjiE_5OyJ-rI",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2307 5387",
+    "internationalPhoneNumber": "+852 2307 5387",
+    "formattedAddress": "香港九龍大角咀海輝道18號香港遨凱酒店地下 G01號舖",
+    "location": {
+      "latitude": 22.3176612,
+      "longitude": 114.1564528
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=12896772133463466382&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 15:30, 18:00 – 23:30",
+        "星期二: 11:30 – 15:30, 18:00 – 23:30",
+        "星期三: 11:30 – 15:30, 18:00 – 23:30",
+        "星期四: 11:30 – 15:30, 18:00 – 23:30",
+        "星期五: 11:30 – 15:30, 18:00 – 23:30",
+        "星期六: 11:30 – 15:30, 18:00 – 23:30",
+        "星期日: 11:30 – 15:30, 18:00 – 23:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 161,
+    "displayName": {
+      "text": "莫云",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJQea7jCABBDQRjiE_5OyJ-rI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjMVJXNDVSV1pYVldrMlIzVjRTbXR0U1cxbGFFRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "精緻中菜🥢視覺味覺同步享受\n\n經朋友介紹去咗近奧運站酒店入面嘅精緻粵菜館「莫云」食飯，菜式將傳統粵菜功夫與現代精緻賣相完美結合，每一道菜都好似藝術品一樣，味道亦極具層次，非常啱隆重聚餐或者同長輩慶祝食飯\n\n羊肚菌燉螺頭 @$128\n燉湯色澤清澈呈深琥珀色，用筷子夾起可以見到超大件、燉到軟腍嘅螺頭，裡面仲放咗滋補嘅羊肚菌，味道鮮甜，帶有濃郁菇香同海味精華，暖胃又養生\n\n古法蟠龍東星斑 $1200\n呢道絕對係全晚mvp！大廚將整條東星斑切片並捲曲排列成「蟠龍」形態，魚肉下面墊有勝瓜段，魚肉上面鋪古法醬料同蔥花，旁邊仲配有一朵用洋蔥精心雕刻而成嘅蓮花，東星斑火候蒸得恰到好處，魚肉鮮嫩滑溜，鮮味十足\n\n黑松露鮮鮑魚飯 @$128\n炒飯底炒得粒粒分明、乾身有氣鑊，炒飯頂部放上一整隻口感彈牙嘅鮮鮑魚，鮑魚帶黑松露香味，十分滋味\n\n桃膠燉雪梨\n食完晚飯經理仲送左碗糖水，入口清甜潤喉，作為呢餐嘅完美結尾\n\n📌莫云 (大角咀)\n地址：大角咀海輝道18號香港遨凱酒店地下G01號舖\n\n#莫云  #香港遨凱酒店 #蟠龍東星斑 #羊肚菌燉螺頭 #黑松露鮮鮑魚飯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "精緻中菜🥢視覺味覺同步享受\n\n經朋友介紹去咗近奧運站酒店入面嘅精緻粵菜館「莫云」食飯，菜式將傳統粵菜功夫與現代精緻賣相完美結合，每一道菜都好似藝術品一樣，味道亦極具層次，非常啱隆重聚餐或者同長輩慶祝食飯\n\n羊肚菌燉螺頭 @$128\n燉湯色澤清澈呈深琥珀色，用筷子夾起可以見到超大件、燉到軟腍嘅螺頭，裡面仲放咗滋補嘅羊肚菌，味道鮮甜，帶有濃郁菇香同海味精華，暖胃又養生\n\n古法蟠龍東星斑 $1200\n呢道絕對係全晚mvp！大廚將整條東星斑切片並捲曲排列成「蟠龍」形態，魚肉下面墊有勝瓜段，魚肉上面鋪古法醬料同蔥花，旁邊仲配有一朵用洋蔥精心雕刻而成嘅蓮花，東星斑火候蒸得恰到好處，魚肉鮮嫩滑溜，鮮味十足\n\n黑松露鮮鮑魚飯 @$128\n炒飯底炒得粒粒分明、乾身有氣鑊，炒飯頂部放上一整隻口感彈牙嘅鮮鮑魚，鮑魚帶黑松露香味，十分滋味\n\n桃膠燉雪梨\n食完晚飯經理仲送左碗糖水，入口清甜潤喉，作為呢餐嘅完美結尾\n\n📌莫云 (大角咀)\n地址：大角咀海輝道18號香港遨凱酒店地下G01號舖\n\n#莫云  #香港遨凱酒店 #蟠龍東星斑 #羊肚菌燉螺頭 #黑松露鮮鮑魚飯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "愛吃的小猴子",
+          "uri": "https://www.google.com/maps/contrib/107032888110499733177/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkAjsWXiIpM2LccIRIs_8v9dMzjuf0NP14gy98llpJ37_mFikJ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-29T13:09:57.968193061Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjMVJXNDVSV1pYVldrMlIzVjRTbXR0U1cxbGFFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjMVJXNDVSV1pYVldrMlIzVjRTbXR0U1cxbGFFRRAB!2m1!1s0x340401208cbbe641:0xb2fa89ece43f218e"
+      },
+      {
+        "name": "places/ChIJQea7jCABBDQRjiE_5OyJ-rI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3MmFIZFdUa2wxWDNwamRURm5abWxZUXpSd1VFRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今日受到朋友邀請去咗，大角咀香港遨凱酒店內一家粵菜餐廳莫云 Mokone食中菜，環境優雅坐得非常舒服🙏\n\n食咗幾道菜最鍾意，西澳龍蝦仔金湯乳酪龍吐珠，一上枱賣相非常精緻，龍蝦好彈牙配上龍蝦湯乳酪好香滑，最驚喜係龍吐珠，原來係一個香梨包住自家製豬肉餡，另外點咗幾樣小炒好有鑊氣，特別係黑松露海鮮鵝肝炒飯，炒得粒粒分明，而且好多料，食到粒粒鵝肝、蝦肉和帶子，非常推薦👍\n\n西澳龍蝦仔金湯乳酪龍吐珠 $ 1080\n椒鹽九肚魚 $ 148\n馬拉盞金蝦啫芥蘭 $ 168\n黑松露海鮮鵝肝炒飯 $ 199\n鮮果拔絲咕嚕肉 $ 238",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日受到朋友邀請去咗，大角咀香港遨凱酒店內一家粵菜餐廳莫云 Mokone食中菜，環境優雅坐得非常舒服🙏\n\n食咗幾道菜最鍾意，西澳龍蝦仔金湯乳酪龍吐珠，一上枱賣相非常精緻，龍蝦好彈牙配上龍蝦湯乳酪好香滑，最驚喜係龍吐珠，原來係一個香梨包住自家製豬肉餡，另外點咗幾樣小炒好有鑊氣，特別係黑松露海鮮鵝肝炒飯，炒得粒粒分明，而且好多料，食到粒粒鵝肝、蝦肉和帶子，非常推薦👍\n\n西澳龍蝦仔金湯乳酪龍吐珠 $ 1080\n椒鹽九肚魚 $ 148\n馬拉盞金蝦啫芥蘭 $ 168\n黑松露海鮮鵝肝炒飯 $ 199\n鮮果拔絲咕嚕肉 $ 238",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yan Yen Tse",
+          "uri": "https://www.google.com/maps/contrib/113892716156007726580/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJLnHTA_PEVrcy5JkC-hwFsPaOyAltuBW8D-hqQDpOzUY51AA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-16T00:46:40.625827532Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3MmFIZFdUa2wxWDNwamRURm5abWxZUXpSd1VFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3MmFIZFdUa2wxWDNwamRURm5abWxZUXpSd1VFRRAB!2m1!1s0x340401208cbbe641:0xb2fa89ece43f218e"
+      },
+      {
+        "name": "places/ChIJQea7jCABBDQRjiE_5OyJ-rI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oMmFXOTBXVEp3VUhKc1JISjNjemRtTm1OdVJrRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "真正的中菜味道完全沒有違和感，真是食完返尋味，這間位於酒店裏面的中菜館環境非常安靜，服務很體貼，很適合商務聚餐夠體面。菜館內還有鎮店之寶，乾魚翅比小童還要高，世界末日之前記得要煮起來吃掉，嘗嘗是什麼味！\n\n首先上菜的是脆口炸魚花生小食，大大條白飯魚炸起再配上養生蕎麥茶，麥香甜而不燥熱，健康又適合調整口腔味覺，為品嘗下一道菜做準備。\n\n今次點了黑醋脆鱔柳，濃稠甜黑醋恰好包裹脆薄的炸皮，鱔魚條彈牙鮮味，咬下啖啖魚香汁美。之後是漁夫浸勝瓜，打開蓋掩後見到小圓碟大小的魚腐變化縮成小巧球狀在白湯上飄浮，視覺效果着實一流，材料豐富的白湯有勝瓜小雲耳枸杞小西芹粒等食材，配上雲朵輕盈的魚腐啖啖暖入心內，即使夏天仍然是一款消暑但又暖身的入味湯品。\n\n然後上菜的是叉燒拼燒肉，厚切的香甜彈而軟熟鬆化的叉燒令人回憶起十多年前有幸於政府部門專門招待高官賓客的中式餐宴中食到的叉燒是同等的肉質部位運用及烤料技術，豚脂肥美好食的程度實在令人充滿懷念感，再加上金箔點綴簡直令人再憶起對美食的執著瞬間是為何而存在的初衷。而燒肉亦脆皮卜卜的，最內層肉底香咸度拿捏得非常精準，連脂帶肉一併咬下的快感實在沒法擋下中菜獨有的魅力。\n\n下一道野生嫩滑的老鼠斑，上面鋪滿了30年老菜甫，菜甫帶有種豆豉濃郁咸香又夾雜瑤柱乾絲絲質感，與滑溜肥美的鮮魚肉映映雙輝，底下的魚汁更帶有魚香膠質，即使用油覆面亦遮蓋不了魚汁的滋味。再來份薑蔥鮑魚撈粗麵，粗麵被鮮甜鮑汁豪邁地淋上面，而鮑汁鮑魚亦漂亮地切成薄片鋪排於麵面，一啖粗麵一口飽魚再夾雜些許清新薑蔥絲，也許美味的道理是從不過時，只需要再次品嚐憶起當初的信念。\n\n最後的芋頭西米露糖水，顆粒煙韌分明的質感實在令人難以忘記童年回憶，混入芋頭香糯的椰汁糖水中為這餐美食完結刻劃句號，能成為經典的美食是一種被認可的唯一，而世上永遠總有千萬種模防，只有正宗的經典才能再次刷新需要被記載的經典美味。\n\n此記味蕾到此一遊。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "真正的中菜味道完全沒有違和感，真是食完返尋味，這間位於酒店裏面的中菜館環境非常安靜，服務很體貼，很適合商務聚餐夠體面。菜館內還有鎮店之寶，乾魚翅比小童還要高，世界末日之前記得要煮起來吃掉，嘗嘗是什麼味！\n\n首先上菜的是脆口炸魚花生小食，大大條白飯魚炸起再配上養生蕎麥茶，麥香甜而不燥熱，健康又適合調整口腔味覺，為品嘗下一道菜做準備。\n\n今次點了黑醋脆鱔柳，濃稠甜黑醋恰好包裹脆薄的炸皮，鱔魚條彈牙鮮味，咬下啖啖魚香汁美。之後是漁夫浸勝瓜，打開蓋掩後見到小圓碟大小的魚腐變化縮成小巧球狀在白湯上飄浮，視覺效果着實一流，材料豐富的白湯有勝瓜小雲耳枸杞小西芹粒等食材，配上雲朵輕盈的魚腐啖啖暖入心內，即使夏天仍然是一款消暑但又暖身的入味湯品。\n\n然後上菜的是叉燒拼燒肉，厚切的香甜彈而軟熟鬆化的叉燒令人回憶起十多年前有幸於政府部門專門招待高官賓客的中式餐宴中食到的叉燒是同等的肉質部位運用及烤料技術，豚脂肥美好食的程度實在令人充滿懷念感，再加上金箔點綴簡直令人再憶起對美食的執著瞬間是為何而存在的初衷。而燒肉亦脆皮卜卜的，最內層肉底香咸度拿捏得非常精準，連脂帶肉一併咬下的快感實在沒法擋下中菜獨有的魅力。\n\n下一道野生嫩滑的老鼠斑，上面鋪滿了30年老菜甫，菜甫帶有種豆豉濃郁咸香又夾雜瑤柱乾絲絲質感，與滑溜肥美的鮮魚肉映映雙輝，底下的魚汁更帶有魚香膠質，即使用油覆面亦遮蓋不了魚汁的滋味。再來份薑蔥鮑魚撈粗麵，粗麵被鮮甜鮑汁豪邁地淋上面，而鮑汁鮑魚亦漂亮地切成薄片鋪排於麵面，一啖粗麵一口飽魚再夾雜些許清新薑蔥絲，也許美味的道理是從不過時，只需要再次品嚐憶起當初的信念。\n\n最後的芋頭西米露糖水，顆粒煙韌分明的質感實在令人難以忘記童年回憶，混入芋頭香糯的椰汁糖水中為這餐美食完結刻劃句號，能成為經典的美食是一種被認可的唯一，而世上永遠總有千萬種模防，只有正宗的經典才能再次刷新需要被記載的經典美味。\n\n此記味蕾到此一遊。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foca Foca",
+          "uri": "https://www.google.com/maps/contrib/117418797898743749004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJOR5lolyZbzNHIMiVW3kGnvvtqrYEq1A54HaQsEfo-FgiAlQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-01T06:49:07.218348596Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oMmFXOTBXVEp3VUhKc1JISjNjemRtTm1OdVJrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oMmFXOTBXVEp3VUhKc1JISjNjemRtTm1OdVJrRRAB!2m1!1s0x340401208cbbe641:0xb2fa89ece43f218e"
+      },
+      {
+        "name": "places/ChIJQea7jCABBDQRjiE_5OyJ-rI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sclRWSlJTR3cyWjIweVMwcHlNek5NWWxsRWRFRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "之前夜晚專登去咗大角咀呢間好多人推薦嘅私房菜「莫云」！餐廳環境好雅致，簡約現代加少少中式風，燈光柔和舒服，坐得好chill 好啱商務聚會同埋家庭聚餐！  ✨。我哋兩個人今日試咗幾款招牌菜，價錢屬中高檔，但質素同驚喜度對得住個價！👇\n\n🐟 私房菜 海東星斑脆米海鮮湯 ($1280)\n\n好香 湯底係用新鮮龍蝦熬製，奶白濃稠，好鮮甜 🦞。海東星斑起咗肉切薄片，火候控制得啱啱好，入口鮮嫩滑溜，完全冇腥味。最正係佢哋嘅脆米，倒落熱湯入面「滋滋」聲！同時咬落去卜卜脆，吸滿咗濃郁嘅龍蝦湯汁，軟硬口感交織，層次超級豐富！🤤\n\n🕊️ 玻璃脆皮乳鴿 ($98/隻)\n呢個乳鴿外皮酥脆，有好多肉汁爆出嚟 💦。鴿肉嫩滑入味！\n\n🍖 欖角冰梅一口骨 ($128) 🌟\n味道好有驚喜！欖角嘅鹹香同冰梅嘅酸甜融合，帶住淡淡果香，完全中和咗排骨嘅油膩感。排骨煎得外香內嫩，咬落去好多汁，酸酸甜甜超級開胃，真係停唔到口！凍食仲好味！\n\n🥬 金湯珍珠浸時蔬 ($50/位)\n呢個湯底係每日新鮮雞湯熬製，仲加埋用薏米手工製造嘅珍珠，超級無敵鮮甜好飲！味道清甜鮮美。入面嘅時蔬翠綠新鮮，煮得軟硬適中，仲有粒粒珍珠增加口感，非常解膩！\n\n仲有甜品🍰\n係中式糖水 我哋嗰日係紅棗雪梨蓮子糖水 好啱老人家去飲！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "之前夜晚專登去咗大角咀呢間好多人推薦嘅私房菜「莫云」！餐廳環境好雅致，簡約現代加少少中式風，燈光柔和舒服，坐得好chill 好啱商務聚會同埋家庭聚餐！  ✨。我哋兩個人今日試咗幾款招牌菜，價錢屬中高檔，但質素同驚喜度對得住個價！👇\n\n🐟 私房菜 海東星斑脆米海鮮湯 ($1280)\n\n好香 湯底係用新鮮龍蝦熬製，奶白濃稠，好鮮甜 🦞。海東星斑起咗肉切薄片，火候控制得啱啱好，入口鮮嫩滑溜，完全冇腥味。最正係佢哋嘅脆米，倒落熱湯入面「滋滋」聲！同時咬落去卜卜脆，吸滿咗濃郁嘅龍蝦湯汁，軟硬口感交織，層次超級豐富！🤤\n\n🕊️ 玻璃脆皮乳鴿 ($98/隻)\n呢個乳鴿外皮酥脆，有好多肉汁爆出嚟 💦。鴿肉嫩滑入味！\n\n🍖 欖角冰梅一口骨 ($128) 🌟\n味道好有驚喜！欖角嘅鹹香同冰梅嘅酸甜融合，帶住淡淡果香，完全中和咗排骨嘅油膩感。排骨煎得外香內嫩，咬落去好多汁，酸酸甜甜超級開胃，真係停唔到口！凍食仲好味！\n\n🥬 金湯珍珠浸時蔬 ($50/位)\n呢個湯底係每日新鮮雞湯熬製，仲加埋用薏米手工製造嘅珍珠，超級無敵鮮甜好飲！味道清甜鮮美。入面嘅時蔬翠綠新鮮，煮得軟硬適中，仲有粒粒珍珠增加口感，非常解膩！\n\n仲有甜品🍰\n係中式糖水 我哋嗰日係紅棗雪梨蓮子糖水 好啱老人家去飲！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "fukfukcouple_foodie",
+          "uri": "https://www.google.com/maps/contrib/102470691249603614122/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXQMwn3TElCZRCyhmfrdWMqZXKy81Bhetr3SSLCbg0kKkDbQ4=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-11T15:51:43.406531518Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sclRWSlJTR3cyWjIweVMwcHlNek5NWWxsRWRFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sclRWSlJTR3cyWjIweVMwcHlNek5NWWxsRWRFRRAB!2m1!1s0x340401208cbbe641:0xb2fa89ece43f218e"
+      },
+      {
+        "name": "places/ChIJQea7jCABBDQRjiE_5OyJ-rI/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xb1RVWmZVR0Y2VlhReFRGZFdZelZ4VkRORVlrRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 3,
+        "text": {
+          "text": "（服務2粒星星係因為，原本叫左炸豆腐，但所有餸到左同都就食完了，但都未到就問下如果未煮可唔可以cancel。點知聽到佢地係入面傾，經理同職員講話係漏左單呀，無入到單。而家加返，漏左都唔可以cancel。我地聽到都打個突，再睇返原來一開頭出左嘅單，係真係漏左無入單，到最后埋單時，張單真係寫住漏單。如果係茶餐廳我覺得呢個態度係無問題，但酒店咁嘅態度同咁大聲講出嚟真心有啲那個。）\n\n終於可以帶毛孩入室內酒店餐廳！遨凱酒店「莫云」寵物友善，環境舒適，仲有魚缸睇，好開心😭\n\n🥣 羊肚菌燉響螺 湯頭清甜濃郁，羊肚菌香獨特，響螺軟腍入味，滋補潤喉。\n\n🧈 椒鹽脆皮黃金磚（炸豆腐） 外層金黃酥脆，椒鹽香口，內裡超嫩滑，外脆內軟。\n\n🐷 伊利比亞叉燒 肉質軟腍，肥瘦均勻，入口即化，燒至微焦，蜜味恰到好處，爸爸大讚！\n\n🍍 鮮果拔絲咕嚕肉 外脆內嫩，醬汁酸甜，夾起拉出糖絲，菠蘿果香平衡油膩。\n\n🍚 黑松露海鮮鵝肝炒飯 松露香撲鼻，飯粒分明，蝦仁、帶子、蟹肉、鵝肝粒豐富，每啖鮮甜油香。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "（服務2粒星星係因為，原本叫左炸豆腐，但所有餸到左同都就食完了，但都未到就問下如果未煮可唔可以cancel。點知聽到佢地係入面傾，經理同職員講話係漏左單呀，無入到單。而家加返，漏左都唔可以cancel。我地聽到都打個突，再睇返原來一開頭出左嘅單，係真係漏左無入單，到最后埋單時，張單真係寫住漏單。如果係茶餐廳我覺得呢個態度係無問題，但酒店咁嘅態度同咁大聲講出嚟真心有啲那個。）\n\n終於可以帶毛孩入室內酒店餐廳！遨凱酒店「莫云」寵物友善，環境舒適，仲有魚缸睇，好開心😭\n\n🥣 羊肚菌燉響螺 湯頭清甜濃郁，羊肚菌香獨特，響螺軟腍入味，滋補潤喉。\n\n🧈 椒鹽脆皮黃金磚（炸豆腐） 外層金黃酥脆，椒鹽香口，內裡超嫩滑，外脆內軟。\n\n🐷 伊利比亞叉燒 肉質軟腍，肥瘦均勻，入口即化，燒至微焦，蜜味恰到好處，爸爸大讚！\n\n🍍 鮮果拔絲咕嚕肉 外脆內嫩，醬汁酸甜，夾起拉出糖絲，菠蘿果香平衡油膩。\n\n🍚 黑松露海鮮鵝肝炒飯 松露香撲鼻，飯粒分明，蝦仁、帶子、蟹肉、鵝肝粒豐富，每啖鮮甜油香。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Misu Mak",
+          "uri": "https://www.google.com/maps/contrib/109731144526767313219/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnk-fuUOZvtMszjRnNoAMf_RtTLjVKBQsTAggYyG14ckyXuv9o=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-18T14:54:44.809086033Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xb1RVWmZVR0Y2VlhReFRGZFdZelZ4VkRORVlrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xb1RVWmZVR0Y2VlhReFRGZFdZelZ4VkRORVlrRRAB!2m1!1s0x340401208cbbe641:0xb2fa89ece43f218e"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidGarageParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401208cbbe641:0xb2fa89ece43f218e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12896772133463466382&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401208cbbe641:0xb2fa89ece43f218e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401208cbbe641:0xb2fa89ece43f218e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401208cbbe641:0xb2fa89ece43f218e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJQea7jCABBDQRjiE_5OyJ-rI/photos/Aa-ngMYw9S6RC1O3B8p6k6tKtK_Fq-sJdM9g5wfNIHXBdk4dtykuHNNsKXxxYAreKvgtv6YVhaTSZXeoYMXOvTzLZJlUfqSvIUYm9zcC8prxeiX1YBIGUCtcMDQ_JOhLLm8_1_Wc44PDPLmavrFAnXfve3jJ-UDwef_8RY63274I97mMzj2rIiAO6b8X6B1-vIZaKI47SoeN8DLFmTiWFy6jN_K4jk8fXoSJ3nqnWYbizTLUM4_1hBeN8QE9HHceWWoqkF_38HD1thjAaq96VEiJ1kOplw57GHq5GAFpqBEnNzh2uzbS9ASfQ-5-5CjXBaAHErNc49ytKqLscHmXHlIRxeTusthGgcfdVlASzT_DNt22guXDj2D35PeRVHtSeyFadg51eq1VCrKjLz6zVaQ9XrvmJD38ju0jRAI_H-v-iErE",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Carl Cheng",
+          "uri": "https://maps.google.com/maps/contrib/109893618713320401449",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXWCd3a_KjfPdgCh-PdMeBRAb7TCmUSNlHjal4xIUTeboqib-z=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDArOkvXwXiWYzlALS_Lb8K&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDArOkvXwXiWYzlALS_Lb8K!2e10!4m2!3m1!1s0x340401208cbbe641:0xb2fa89ece43f218e"
+    },
+    "local_path": "photos/ChIJQea7jCABBDQRjiE_5OyJ-rI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmly4aMaF16PlcMHdxUYZvs5pnZWQpYfRXWMIHP14JqZ02ILMOFZgIYSHBh6IJV0tkAWv8Nuxiq8Y_b6GAqqhfMdoaqYwJJ6pzUdzgkbSG1inRq4ncvObZ4JFZHZzKB7dPzjKhBX_oAkA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 124344
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

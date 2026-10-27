@@ -1,0 +1,38 @@
+{
+  "id": "ChIJTyMjCQwEBDQRUVXfKhXaR28",
+  "types": [
+    "housing_complex",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界新都城欣景路8號",
+  "location": {
+    "latitude": 22.3231863,
+    "longitude": 114.2577924
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8018617446004905297&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "新都城二期",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "housing_complex",
+  "photos": [
+    {
+      "name": "places/ChIJTyMjCQwEBDQRUVXfKhXaR28/photos/Aa-ngMawEjRtNG6RCebEHY8VWLKTQCs8a85Fttht_Po4xfAe2wD1nq2qvLa36N2gUSUbpIxHyFwJEiOhexb0ays1AJ_7h2ky-9ip7_FfsrTnieffJ0-bGqUInaNXHBMvo5Hm2_8NRZrRwFtWsrez4TAgx1Q2S_s0Sjx72wK3ELE2yBA97aSJhVBzVAVvtu-96j4clBrhFqAWClHMbPyH3uOCeNNXplrpJev4bSwVEWnFxR6_r11RfDlIF_kqRyhhqUkZyaSffcYKaVKfUgl5KxJc28PpRW20FD0MKAmSTgYtuu9IIXswNFEtT_yvThJELZhNqyBsvAmb5fFTUL7uId63JWTCPiNNut0KBhgubgj18mU_-cit8_eYuJ7E4_3MeUVR4IR_MzRPI0Njs654sizZaUmFlZY",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Sam L",
+          "uri": "https://maps.google.com/maps/contrib/112256985793681857809",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHV9IPaMTQOPUFfoXWBjTPSyrmQmqpF-XdlnpbW3sdBIPNMQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICm7IK1Bg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm7IK1Bg!2e10!4m2!3m1!1s0x3404040c0923234f:0x6f47da152adf5551"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:05.639587+00:00"
+}

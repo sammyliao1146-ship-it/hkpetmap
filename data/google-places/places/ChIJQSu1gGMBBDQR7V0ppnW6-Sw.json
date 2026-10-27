@@ -1,0 +1,309 @@
+{
+  "google_place_id": "ChIJQSu1gGMBBDQR7V0ppnW6-Sw",
+  "restaurant_ids": [
+    "restaurant:3162805575",
+    "restaurant:3152803202"
+  ],
+  "fetched_at": "2026-10-23T15:52:09.158118+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJQSu1gGMBBDQR7V0ppnW6-Sw",
+    "types": [
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3595 2567",
+    "internationalPhoneNumber": "+852 3595 2567",
+    "formattedAddress": "香港九龍大角咀利得街26號",
+    "location": {
+      "latitude": 22.320962299999998,
+      "longitude": 114.16124429999999
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=3240826421331451373&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/wanland.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:00 – 18:00",
+        "星期二: 休息",
+        "星期三: 09:00 – 18:00",
+        "星期四: 09:00 – 18:00",
+        "星期五: 09:00 – 18:00",
+        "星期六: 09:00 – 18:00",
+        "星期日: 09:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 134,
+    "displayName": {
+      "text": "Wan Land Cafe",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "食品專賣店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "primaryType": "food_store",
+    "reviews": [
+      {
+        "name": "places/ChIJQSu1gGMBBDQR7V0ppnW6-Sw/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wMGMyVnlTMlJQTURsV1JrRkxkeTF1V1RKaGMzYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "食勻大角咀之旅\n\nCafe嚟講算有好多選擇，toast、pasta、all day breakfast、甜品，當然仲有好多咖啡同非咖啡類嘅飲品。座位有好多，但係顧客亦都唔少，當日坐喺室內嘅空間，好彩天氣唔算熱同埋有風扇，坐得都算舒服。\n\n食物份量足，咖啡都高質素，不過係價錢有啲貴。主食平均$100，飲品平均$50左右。如果有套餐會比較吸引。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食勻大角咀之旅\n\nCafe嚟講算有好多選擇，toast、pasta、all day breakfast、甜品，當然仲有好多咖啡同非咖啡類嘅飲品。座位有好多，但係顧客亦都唔少，當日坐喺室內嘅空間，好彩天氣唔算熱同埋有風扇，坐得都算舒服。\n\n食物份量足，咖啡都高質素，不過係價錢有啲貴。主食平均$100，飲品平均$50左右。如果有套餐會比較吸引。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Matthew Ming",
+          "uri": "https://www.google.com/maps/contrib/106159665580425157053/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBhocvFwSBIbTH1zd-QKrz3evn8R25d6m8iuUHNRDLz2TXzB2_=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-13T17:16:32.687295028Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wMGMyVnlTMlJQTURsV1JrRkxkeTF1V1RKaGMzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMGMyVnlTMlJQTURsV1JrRkxkeTF1V1RKaGMzYxAB!2m1!1s0x3404016380b52b41:0x2cf9ba75a6295ded"
+      },
+      {
+        "name": "places/ChIJQSu1gGMBBDQR7V0ppnW6-Sw/reviews/Ci9DQUlRQUNvZENodHljRjlvT205dWVHVXRhRVZzUkMwM2FtZGtRVTlrTmxkS2IzYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "其實已經幫襯咗好多次，第一次寫食評😆\n今次食咗明太子三文魚麻花卷麵，三文魚、蟹籽非常多，而且加咗青瓜絲，中和返意粉本身嘅Creamy感，成件事清爽哂～\n另附上Olly店長靚女相一張❤️❤️❤️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "其實已經幫襯咗好多次，第一次寫食評😆\n今次食咗明太子三文魚麻花卷麵，三文魚、蟹籽非常多，而且加咗青瓜絲，中和返意粉本身嘅Creamy感，成件事清爽哂～\n另附上Olly店長靚女相一張❤️❤️❤️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Xenia Cheung",
+          "uri": "https://www.google.com/maps/contrib/110395163378077814657/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpxiS_8vy0eY4bVferzTNhvaM44vTfJU0-0Bn0iU3QazGXbixNDQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-05T12:38:05.065509242Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205dWVHVXRhRVZzUkMwM2FtZGtRVTlrTmxkS2IzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205dWVHVXRhRVZzUkMwM2FtZGtRVTlrTmxkS2IzYxAB!2m1!1s0x3404016380b52b41:0x2cf9ba75a6295ded"
+      },
+      {
+        "name": "places/ChIJQSu1gGMBBDQR7V0ppnW6-Sw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVMlFrdG1TVFZEU1ZOUlJXeDRTRkp0ZDJndE5XYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢間大地亮白色調為主嘅Cafe今年係九龍城開咗新分店！主打厚厚吐司 意粉 同Croffle\n\n除室外可以帶寵物 仲有多款寵物趣緻鮮食 例如燒賣 鯛魚燒 聽聞有時柴犬店長會駐場🐕 不過當日就見唔到了😆\n———————————————————————\n🥪一浪總匯吐司（$83）\n望落爆晒餡咁已經好吸引🤩\n厚切雞扒意想不到地嫩滑🥹\n最估唔到係原來配花生醬咁夾！🤩\n煎雞扒香中多咗花生醇厚香氣🤌🏻\n配埋厚嫩炒蛋 清爽高麗菜絲\n層次分明 食到好滿足 不錯！👍🏻\n\n🍠金沙芋泥麻糬吐司 （$88）\n微溫吐司配上幼滑天然芋泥\n帶來微微冰火兩重嘅感覺 🧊\n最正係中間夾上一大片軟糯麻薯\n加埋沙沙嘅肉鬆 口感豐富🥹\n鹹甜中又有流心金沙醬嘅奶黃味\n暫時食過覺得最正嘅芋泥多士👍🏻\n不過如果個包焗得再熱啲仲正！\n🐰耳仔飛起指數：10/10\n\n☕️涷橙啡 （$45）\n果汁先生X齋啡咁 酸爽開胃！⚡️\n\n🥛鐵觀音可可牛奶 （$58）\n可可粉X牛奶 冇乜鐵觀音味 🤨\n但可可粉似未溶哂 飲落渣渣的 一般😣\n———————————————————————",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間大地亮白色調為主嘅Cafe今年係九龍城開咗新分店！主打厚厚吐司 意粉 同Croffle\n\n除室外可以帶寵物 仲有多款寵物趣緻鮮食 例如燒賣 鯛魚燒 聽聞有時柴犬店長會駐場🐕 不過當日就見唔到了😆\n———————————————————————\n🥪一浪總匯吐司（$83）\n望落爆晒餡咁已經好吸引🤩\n厚切雞扒意想不到地嫩滑🥹\n最估唔到係原來配花生醬咁夾！🤩\n煎雞扒香中多咗花生醇厚香氣🤌🏻\n配埋厚嫩炒蛋 清爽高麗菜絲\n層次分明 食到好滿足 不錯！👍🏻\n\n🍠金沙芋泥麻糬吐司 （$88）\n微溫吐司配上幼滑天然芋泥\n帶來微微冰火兩重嘅感覺 🧊\n最正係中間夾上一大片軟糯麻薯\n加埋沙沙嘅肉鬆 口感豐富🥹\n鹹甜中又有流心金沙醬嘅奶黃味\n暫時食過覺得最正嘅芋泥多士👍🏻\n不過如果個包焗得再熱啲仲正！\n🐰耳仔飛起指數：10/10\n\n☕️涷橙啡 （$45）\n果汁先生X齋啡咁 酸爽開胃！⚡️\n\n🥛鐵觀音可可牛奶 （$58）\n可可粉X牛奶 冇乜鐵觀音味 🤨\n但可可粉似未溶哂 飲落渣渣的 一般😣\n———————————————————————",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Woof Bunny",
+          "uri": "https://www.google.com/maps/contrib/114823234312090381932/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbM7oxeQYZv-MHswC3fwQK2zSIMXSPBChOXt0MxVB5iahkiKw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-11-26T11:26:36.525358987Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tVMlFrdG1TVFZEU1ZOUlJXeDRTRkp0ZDJndE5XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVMlFrdG1TVFZEU1ZOUlJXeDRTRkp0ZDJndE5XYxAB!2m1!1s0x3404016380b52b41:0x2cf9ba75a6295ded"
+      },
+      {
+        "name": "places/ChIJQSu1gGMBBDQR7V0ppnW6-Sw/reviews/Ci9DQUlRQUNvZENodHljRjlvT201UWJEazROMHRIVkU1RlRDMWpNMGh1WlRVMVluYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "突然醒起原來未出過post🥲🙏🏻真係失敗，一間咁正既餐廳竟然唔記得出post😰依家即刻出返先🫰🏼\n呢到咖啡好特別，今次同朋友各嗌一杯（一杯富士山蘋果啡一杯冰一鳳梨），非常香加埋水果味好夾。另外大推台灣蔗汁奶👍🏼👍🏼👍🏼\n呢到既三文治大癲，尤其金莎芋泥肉鬆，作為一個300磅肥佬竟然食完可以一日一餐頂到12點收工😰個份量可想而知😂\n仲有明太子意粉，調味剛剛好，明太子既咸香加埋煙三文魚同奶油醬配合得非常好，仲要加5蚊有加多啲麵，夠晒滿足。\n仲有必須見既秋犬呀❤️❤️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "突然醒起原來未出過post🥲🙏🏻真係失敗，一間咁正既餐廳竟然唔記得出post😰依家即刻出返先🫰🏼\n呢到咖啡好特別，今次同朋友各嗌一杯（一杯富士山蘋果啡一杯冰一鳳梨），非常香加埋水果味好夾。另外大推台灣蔗汁奶👍🏼👍🏼👍🏼\n呢到既三文治大癲，尤其金莎芋泥肉鬆，作為一個300磅肥佬竟然食完可以一日一餐頂到12點收工😰個份量可想而知😂\n仲有明太子意粉，調味剛剛好，明太子既咸香加埋煙三文魚同奶油醬配合得非常好，仲要加5蚊有加多啲麵，夠晒滿足。\n仲有必須見既秋犬呀❤️❤️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "RogerWong Wong",
+          "uri": "https://www.google.com/maps/contrib/101364981938928523841/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9-duRwNicatAl4vZEF0fjKdlABeEeaiwO5C6pemU6vl2dgEIfyQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-01-17T08:55:02.929754108Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201UWJEazROMHRIVkU1RlRDMWpNMGh1WlRVMVluYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201UWJEazROMHRIVkU1RlRDMWpNMGh1WlRVMVluYxAB!2m1!1s0x3404016380b52b41:0x2cf9ba75a6295ded"
+      },
+      {
+        "name": "places/ChIJQSu1gGMBBDQR7V0ppnW6-Sw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSaGVrMTZNeTA1TlRaamJGRnRSbUZuYjNkQ01HYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "一開始被店家外觀吸引，觀察菜單與環境後覺得磁場很好，決定支持一波。看了飲品菜單，咖啡是用台灣有名的興波咖啡豆，瞬間覺得親切，哈哈！ 餐點與飲品選擇很多，價格適中，服務很棒，而且寵物友善，超級喜歡！\n\n今天點了一浪招牌吐司，味道清爽簡單，沒什麼負擔感；飲品選了開心果玄米豆奶，啊～好喝啊！豆奶打成奶泡喝起來口感層次也很不錯，而且不甜膩。\n\n之後再來品嚐咖啡和點心，謝謝店家給予的美好。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一開始被店家外觀吸引，觀察菜單與環境後覺得磁場很好，決定支持一波。看了飲品菜單，咖啡是用台灣有名的興波咖啡豆，瞬間覺得親切，哈哈！ 餐點與飲品選擇很多，價格適中，服務很棒，而且寵物友善，超級喜歡！\n\n今天點了一浪招牌吐司，味道清爽簡單，沒什麼負擔感；飲品選了開心果玄米豆奶，啊～好喝啊！豆奶打成奶泡喝起來口感層次也很不錯，而且不甜膩。\n\n之後再來品嚐咖啡和點心，謝謝店家給予的美好。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "WanJu Liao",
+          "uri": "https://www.google.com/maps/contrib/109830526848207078256/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL7hAPoUtOlvm0n0vNui-OWKXJMPDKET4l8rOpVj_eCc2X7QA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-01T05:57:13.712049688Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSaGVrMTZNeTA1TlRaamJGRnRSbUZuYjNkQ01HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSaGVrMTZNeTA1TlRaamJGRnRSbUZuYjNkQ01HYxAB!2m1!1s0x3404016380b52b41:0x2cf9ba75a6295ded"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404016380b52b41:0x2cf9ba75a6295ded!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3240826421331451373&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404016380b52b41:0x2cf9ba75a6295ded!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404016380b52b41:0x2cf9ba75a6295ded!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404016380b52b41:0x2cf9ba75a6295ded!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJQSu1gGMBBDQR7V0ppnW6-Sw/photos/Aa-ngMZcmZhgUMXq2UeNoh6nsmlpVfY3uNIis8tUbuDf4Qi9Kbor4tM2HcVzWp6CvkMuIRrw1CrZuf_qpX91vq10ZBv0DEtiVgK9cdw4X1isTuLXS2LHqPvq-lo_wtuEiBH5irhNU5BP8JK3qLuMgZpfu1kziFLg0MliRbL0DOBaSs7IopU5lzrk3aL3kn4U4qfZKgxa4ijoNI9zATYzrBofRBv1qdawJPNnVemY4-Em7BOOov-4ijok9wyLE7oXpP6JPdE-6RCTwNV7ryJ2q9wyp_q0k-ATqhyABdy5HecquKIv8HdXgFsyzD0dcEoGmTXBJ8AHSftL6EvRQ_j4LNTCt6LqgeGiqEBgoC49h0HFJv2ZoeI_GNSLuADZR11ukdYc5Sak5CluQSdaL47XmtVY5pttyVM",
+      "widthPx": 1043,
+      "heightPx": 588,
+      "authorAttributions": [
+        {
+          "displayName": "一浪 Wan Land Cafe",
+          "uri": "https://maps.google.com/maps/contrib/108753581516855852970",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2TWF7D74uDA2QsP5qypjsVpsazDKOJiy5p0rr5fqzEtqXk70=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICapuCBRQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICapuCBRQ!2e10!4m2!3m1!1s0x3404016380b52b41:0x2cf9ba75a6295ded"
+    },
+    "local_path": "photos/ChIJQSu1gGMBBDQR7V0ppnW6-Sw.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_9mpNQ_jR7A3pTZYAzw3F0yK4IiEp5g0bsIHcJKzdPBWPeHkiy5zqqgxEcDhDqAb1fJaCsnOucICTrczC3o69_Ezfek_SuZzZUN0oXO8XkW8ocuBhGM0Yjf3MOjjwjpzagWoA=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 487180
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "food_store",
+    "label": "食品專賣店",
+    "types": [
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,359 @@
+{
+  "google_place_id": "ChIJs18QCvABBDQRiNjyxd5Q450",
+  "restaurant_ids": [
+    "restaurant:2218810145"
+  ],
+  "fetched_at": "2026-10-23T15:44:58.512869+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJs18QCvABBDQRiNjyxd5Q450",
+    "types": [
+      "restaurant",
+      "steak_house",
+      "french_restaurant",
+      "european_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2801 6122",
+    "internationalPhoneNumber": "+852 2801 6122",
+    "formattedAddress": "Shop 007 LG1, 88 Queensway, Pacific Place, Admiralty, Admiralty, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.277509,
+      "longitude": 114.16634099999999
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=11377026001401993352&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://lavache.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 21:00",
+        "星期二: 12:00 – 21:00",
+        "星期三: 12:00 – 21:00",
+        "星期四: 12:00 – 21:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 12:00 – 22:00",
+        "星期日: 12:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 483,
+    "displayName": {
+      "text": "La Vache! 金鐘店",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJs18QCvABBDQRiNjyxd5Q450/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0WVZ6RnlaRlJSUWpSdk9WTmlRVU5uYzBGSk5VRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "👍🏼地鐵站出口、環境衛生、裝修及氣氛具特色、服務員有禮有善、食物質素優質，價錢合理！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "👍🏼地鐵站出口、環境衛生、裝修及氣氛具特色、服務員有禮有善、食物質素優質，價錢合理！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ivan ko",
+          "uri": "https://www.google.com/maps/contrib/112416769763984855539/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6RDLUCJLgI5zl3W0JbNMeb6VRkmWKGCeWJbwnRJbq9xTuplg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-08T04:32:53.743532228Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0WVZ6RnlaRlJSUWpSdk9WTmlRVU5uYzBGSk5VRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0WVZ6RnlaRlJSUWpSdk9WTmlRVU5uYzBGSk5VRRAB!2m1!1s0x340401f00a105fb3:0x9de350dec5f2d888"
+      },
+      {
+        "name": "places/ChIJs18QCvABBDQRiNjyxd5Q450/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0NVdHOXNaVEUxY1hSTFdXSkJkRVZ3ZVRJNFVFRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "我非常喜歡的人氣法式牛扒店\n我同我老婆已經第二次食\n入座會點完餐會先上沙律跟麵包\n合桃沙律非常開胃\n牛扒點了medium同medium rare\n口感非常嫩口 肉味很香\n配上特制芥末醬非常好吃\n薯條是無限量供應\n甜品點了朱古力蛋糕 雖然幾好食\n但158蚊有點貴我覺得可以跳過\n整齊用餐體驗非常好 氣氛好服務好\n牛扒薯條都很出色\n可惜價錢有點貴跟店員只會說英文\n比較適合節日慶祝才會來一次",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我非常喜歡的人氣法式牛扒店\n我同我老婆已經第二次食\n入座會點完餐會先上沙律跟麵包\n合桃沙律非常開胃\n牛扒點了medium同medium rare\n口感非常嫩口 肉味很香\n配上特制芥末醬非常好吃\n薯條是無限量供應\n甜品點了朱古力蛋糕 雖然幾好食\n但158蚊有點貴我覺得可以跳過\n整齊用餐體驗非常好 氣氛好服務好\n牛扒薯條都很出色\n可惜價錢有點貴跟店員只會說英文\n比較適合節日慶祝才會來一次",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ifrit Man",
+          "uri": "https://www.google.com/maps/contrib/115434831165394556890/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiiRzcw3I1Uyr3BJ3BvTFfgCnY-5bNtiIXsEtgyAZGA7TfIQU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-15T09:34:44.492721650Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0NVdHOXNaVEUxY1hSTFdXSkJkRVZ3ZVRJNFVFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0NVdHOXNaVEUxY1hSTFdXSkJkRVZ3ZVRJNFVFRRAB!2m1!1s0x340401f00a105fb3:0x9de350dec5f2d888"
+      },
+      {
+        "name": "places/ChIJs18QCvABBDQRiNjyxd5Q450/reviews/ChdDSUhNMG9nS0VQNmgxOF8zX0ptU2lnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "不過不失的法式牛扒屋\n\n巴籍港人Syed Asim Hussain和加拿大廚師拍檔Christopher Mark創辦的Black sheet 餐飲集團打造的La Vache 把傳統法式牛扒店帶進太古廣場，餐牌只有一款Rib eye 加無限薯條供應。牛扒不過不失。 這裡的室外區域座位很不舒服。\n\n環境： 有室內外用餐區域，室外有street Cafe feel\n牛扒： 今天吃的牛扒比以前的好。 選了Medium , 筋不多，柔嫩。\n薯條： 比較dry,不香。\n飲品： 偏貴\n服務： OK\n\n午餐只有一款選擇： Rib Eye。 set menu 不包咖啡和茶。跟餐的麵包和牛油不錯。\n喜歡吃牛扒的我吃盡各種頂級牛扒， 認為以兩人午餐過千（ 沒喝酒） 的價錢，附近的幾家牛扒屋更好。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "不過不失的法式牛扒屋\n\n巴籍港人Syed Asim Hussain和加拿大廚師拍檔Christopher Mark創辦的Black sheet 餐飲集團打造的La Vache 把傳統法式牛扒店帶進太古廣場，餐牌只有一款Rib eye 加無限薯條供應。牛扒不過不失。 這裡的室外區域座位很不舒服。\n\n環境： 有室內外用餐區域，室外有street Cafe feel\n牛扒： 今天吃的牛扒比以前的好。 選了Medium , 筋不多，柔嫩。\n薯條： 比較dry,不香。\n飲品： 偏貴\n服務： OK\n\n午餐只有一款選擇： Rib Eye。 set menu 不包咖啡和茶。跟餐的麵包和牛油不錯。\n喜歡吃牛扒的我吃盡各種頂級牛扒， 認為以兩人午餐過千（ 沒喝酒） 的價錢，附近的幾家牛扒屋更好。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Diana",
+          "uri": "https://www.google.com/maps/contrib/103382880607761015603/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3MAz5q7cFjUfXbbBwboOwAqnhwYzwwJ5Y-51srezZs7gSFfCF=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-05-17T02:29:23.264273Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VQNmgxOF8zX0ptU2lnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VQNmgxOF8zX0ptU2lnRRAB!2m1!1s0x340401f00a105fb3:0x9de350dec5f2d888"
+      },
+      {
+        "name": "places/ChIJs18QCvABBDQRiNjyxd5Q450/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxaXRpMmNREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "人氣法式扒房•生日慶祝之選\n全店主食就只有牛扒，一坐底店員就會問牛扒要幾熟，得飲品同甜品要order ✅\n\n—— Trimmed entrecôte steak $398\n依個價錢已經包左牛扒、薯條同沙律。薯條都係highlight！因為係任食㗎！你食到咁上下就會有店員問需唔需要refill，啲薯條堅係脆正啊👍🏻\n\n牛扒一盤切好上枱，份量唔少，叫左medium rare就真係煎得啱啱好，肉質超嫩完全冇筋！！！！牛味香濃，外層煎到好香；特別欣賞下面有蠟燭暖住，食到最後啲肉都仲熱熱地，超滿意啊！\n\n—— Lemon Pie\n生日慶祝叫甜品就可以寫字，加幾個店員黎祝福你🤣8成忌廉加2成檸檬餡係底，偏甜，忌廉唔係好輕盈，食多會有少少膩，檸檬餡就唔錯酸酸甜甜\n\n🌟推薦指數：10/10‼️\n▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️\n📍 La Vache! (金鐘)\n金鐘金鐘道88號太古廣場LG1樓007號舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "人氣法式扒房•生日慶祝之選\n全店主食就只有牛扒，一坐底店員就會問牛扒要幾熟，得飲品同甜品要order ✅\n\n—— Trimmed entrecôte steak $398\n依個價錢已經包左牛扒、薯條同沙律。薯條都係highlight！因為係任食㗎！你食到咁上下就會有店員問需唔需要refill，啲薯條堅係脆正啊👍🏻\n\n牛扒一盤切好上枱，份量唔少，叫左medium rare就真係煎得啱啱好，肉質超嫩完全冇筋！！！！牛味香濃，外層煎到好香；特別欣賞下面有蠟燭暖住，食到最後啲肉都仲熱熱地，超滿意啊！\n\n—— Lemon Pie\n生日慶祝叫甜品就可以寫字，加幾個店員黎祝福你🤣8成忌廉加2成檸檬餡係底，偏甜，忌廉唔係好輕盈，食多會有少少膩，檸檬餡就唔錯酸酸甜甜\n\n🌟推薦指數：10/10‼️\n▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️\n📍 La Vache! (金鐘)\n金鐘金鐘道88號太古廣場LG1樓007號舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "FoodTravel_World",
+          "uri": "https://www.google.com/maps/contrib/109019530253160535532/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVoDIw3fahEeJJSO4lS9nAvexHSKEi9agIUx9H2IciQ5ZZPRBU=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-12-27T07:48:59.294683Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxaXRpMmNREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxaXRpMmNREAE!2m1!1s0x340401f00a105fb3:0x9de350dec5f2d888"
+      },
+      {
+        "name": "places/ChIJs18QCvABBDQRiNjyxd5Q450/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMDRPVndRRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "第一次嚟金鐘分店，餐廳環境依然好有情調，燈光是剛好照射枱面，鋪上招牌紅色格仔枱布和畫畫枱紙，好classic。當然，最想食佢哋嘅肉眼扒和任食薯條啦。件巨型法式千層酥好輕巧、酥脆，好好味😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第一次嚟金鐘分店，餐廳環境依然好有情調，燈光是剛好照射枱面，鋪上招牌紅色格仔枱布和畫畫枱紙，好classic。當然，最想食佢哋嘅肉眼扒和任食薯條啦。件巨型法式千層酥好輕巧、酥脆，好好味😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Miss Cukiee",
+          "uri": "https://www.google.com/maps/contrib/100660877099972581021/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLG5L2q8Nolsm7GuIARMx3CeY6eDsnoHuZtHHCefcLyRAJ_kY=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-01-28T03:57:28.975381Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCMDRPVndRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCMDRPVndRRRAB!2m1!1s0x340401f00a105fb3:0x9de350dec5f2d888"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401f00a105fb3:0x9de350dec5f2d888!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11377026001401993352&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f00a105fb3:0x9de350dec5f2d888!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401f00a105fb3:0x9de350dec5f2d888!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f00a105fb3:0x9de350dec5f2d888!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJs18QCvABBDQRiNjyxd5Q450/photos/Aa-ngMbb_4G3zDRDqbo9kjAM0SEfmsqqNONS-Vwm_bL285PFrJcIT0wzergCfAslQwQS9VNzNuduwQVm3WWntBWN85fBjN4zPdR9wT2MQhi_E5dboCYYIjhfVW4Libb2JmxqBS9Tyu6kq-tU1nf1jsssMciWwp4VCjALzE8SuLAcBfwvPq6yzBxlU7VkyvZXDkQDfoHpKxUiHIRvgeV7YJzYPTn8-sf7cJQYmUYbG0SqZ3xqPDH5Nln3ToktJ8qY2gdLSbrb727S2hl3JnE_zRFfGhmsOmXY2jZiSWVtcjPQi-tW_n8Q5v7F4howuha78SwSgE-BV0lgQGBNF-xP0-cukpDFiRiQ3OH5HpBDaw25ijhKU-vlFyUMeHqGY-IUBNWoZNzKh1HSIKidUYYn_7TKqcdXmfo",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "La Vache! Admiralty",
+          "uri": "https://maps.google.com/maps/contrib/103056054051092764893",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNy4QzgmaeFKyfHzSPh8Nw2-hPy6S6fSe6U-jWkmbf9vwhe_PG=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqr5KRbA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqr5KRbA!2e10!4m2!3m1!1s0x340401f00a105fb3:0x9de350dec5f2d888"
+    },
+    "local_path": "photos/ChIJs18QCvABBDQRiNjyxd5Q450.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3sxyJ1RsWWCJfWLTNRTCODMgIkXo0H3RapU9yQaBL2_ByRvQcOG-vaBStaQ5KXojG9nA0yQA36DAbR-z0BkLF2tc94K8DYZgpBYa8txEcJNXE1X0rxxG8lEI03_D_F8cnBUQv=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 156701
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.lavache.com.hk/book-now-sc",
+        "label": "分店地址",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.lavache.com.hk/menu-tc",
+        "label": "菜單",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.lavache.com.hk/menu-sc",
+        "label": "菜单",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.lavache.com.hk/menu",
+        "label": "MENU",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "steak_house",
+      "french_restaurant",
+      "european_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.lavache.com.hk/book-now-sc",
+  "menu_url": "https://www.lavache.com.hk/menu-tc"
+}

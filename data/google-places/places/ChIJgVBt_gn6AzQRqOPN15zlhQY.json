@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJgVBt_gn6AzQRqOPN15zlhQY",
+  "restaurant_ids": [
+    "restaurant:3194801123"
+  ],
+  "fetched_at": "2026-10-23T15:38:32.496600+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJgVBt_gn6AzQRqOPN15zlhQY",
+    "types": [
+      "chinese_noodle_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2915 7288",
+    "internationalPhoneNumber": "+852 2915 7288",
+    "formattedAddress": "香港新界元朗建業街88號仁義大廈",
+    "location": {
+      "latitude": 22.4423314,
+      "longitude": 114.0313594
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=470034197928338344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 00:00",
+        "星期二: 11:00 – 02:00",
+        "星期三: 11:00 – 02:00",
+        "星期四: 11:00 – 02:00",
+        "星期五: 11:00 – 02:00",
+        "星期六: 11:00 – 02:00",
+        "星期日: 11:00 – 02:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 401,
+    "displayName": {
+      "text": "深仔記 - 元朗",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式麵館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_noodle_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJgVBt_gn6AzQRqOPN15zlhQY/reviews/ChZDSUhNMG9nS0VJQ0FnSURnNVlpYkV3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "裝修用心，但以這區來計，這價位似乎有點過份進取，味道只屬一般\n2023.06 外賣來計，味道不錯，價位算中",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "裝修用心，但以這區來計，這價位似乎有點過份進取，味道只屬一般\n2023.06 外賣來計，味道不錯，價位算中",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Raymond C.s",
+          "uri": "https://www.google.com/maps/contrib/115993445207987674730/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUy1_Z9U3FsTUsD3taZjyIzNEbRrRipYl6RIAdx4c_FUBY16jiTUw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2023-08-06T05:39:51.320379Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURnNVlpYkV3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnNVlpYkV3EAE!2m1!1s0x3403fa09fe6d5081:0x685e59cd7cde3a8"
+      },
+      {
+        "name": "places/ChIJgVBt_gn6AzQRqOPN15zlhQY/reviews/ChdDSUhNMG9nS0VJQ0FnSURpNHFITjBBRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "元朗區屬於水準，鮮蝦雲吞用兩隻中蝦來包，煮出彈牙爽麵，湯頭夠清有大地魚味。還有其他請親自發掘。有總店的水準。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "元朗區屬於水準，鮮蝦雲吞用兩隻中蝦來包，煮出彈牙爽麵，湯頭夠清有大地魚味。還有其他請親自發掘。有總店的水準。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "WK LAW",
+          "uri": "https://www.google.com/maps/contrib/112388090840276486094/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQCeBSrNGTytN9w7WtgTb08cYzcvJ_f52tN20kvCFjH14EzQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2020-11-30T16:13:59.136394Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURpNHFITjBBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURpNHFITjBBRRAB!2m1!1s0x3403fa09fe6d5081:0x685e59cd7cde3a8"
+      },
+      {
+        "name": "places/ChIJgVBt_gn6AzQRqOPN15zlhQY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1RFZUVnpSR1JQVUhSRFJ6ZDBjMDFwV2xGa01rRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 1,
+        "text": {
+          "text": "大概10點幾去元朗建業街深仔記食宵夜，本來想食碗雲吞麵或者艇仔粥鬆一鬆，結果遇上超級差體驗！\n叫咗可樂 + 青瓜海蜇+ 皮蛋 + 雲吞麵試下 食物本身OK啦，份量正常，味道都算及格（雖然唔係特別驚艷）。\n但最火滾係那位短髮女職員（應該係樓面執嘢嗰個），由頭到尾黑面，客人叫野都唔望人一眼，語氣極度唔耐煩，叫佢畀杯水嗰陣仲好似欠咗佢幾世債咁，成個過程感覺好唔舒服。其他客人都係自己坐低等，無乜人招呼，態度差到極點！\n深仔記元朗店以前都試過幾次，雲吞麵算OK，但今次服務真係完全接受唔到。大家如果唔想畀人黑面，千祈唔好去元朗呢間，尤其夜晚去，職員心情差就當你出氣袋。\n強烈差評！一星都嫌多！希望老闆睇到可以改善下服務態度啦～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大概10點幾去元朗建業街深仔記食宵夜，本來想食碗雲吞麵或者艇仔粥鬆一鬆，結果遇上超級差體驗！\n叫咗可樂 + 青瓜海蜇+ 皮蛋 + 雲吞麵試下 食物本身OK啦，份量正常，味道都算及格（雖然唔係特別驚艷）。\n但最火滾係那位短髮女職員（應該係樓面執嘢嗰個），由頭到尾黑面，客人叫野都唔望人一眼，語氣極度唔耐煩，叫佢畀杯水嗰陣仲好似欠咗佢幾世債咁，成個過程感覺好唔舒服。其他客人都係自己坐低等，無乜人招呼，態度差到極點！\n深仔記元朗店以前都試過幾次，雲吞麵算OK，但今次服務真係完全接受唔到。大家如果唔想畀人黑面，千祈唔好去元朗呢間，尤其夜晚去，職員心情差就當你出氣袋。\n強烈差評！一星都嫌多！希望老闆睇到可以改善下服務態度啦～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kelvin Lee",
+          "uri": "https://www.google.com/maps/contrib/105236910057115657149/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULvJqGNHqqAAPCyopOehITtdoKi6CEhN03rLJwMzpf9ckt22rEVw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-02T15:10:54.879880409Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1RFZUVnpSR1JQVUhSRFJ6ZDBjMDFwV2xGa01rRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1RFZUVnpSR1JQVUhSRFJ6ZDBjMDFwV2xGa01rRRAB!2m1!1s0x3403fa09fe6d5081:0x685e59cd7cde3a8"
+      },
+      {
+        "name": "places/ChIJgVBt_gn6AzQRqOPN15zlhQY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEaHBQSlR3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "早兩年住係附近買開$18油菜，一直都滿盒，所以今日經過再幫襯，點知返到屋企打開，得5條，無錯係5條菜仔。外賣加多$2，計埋即係$5一條菜\n\n打返過去問，又同我講老細唔係香港，又話唔關佢地夜更事，係早更同事扎嘅份量。只得推搪，毫無改善之意！\n\n簡單兩個字：黑店。\n\n如果係比唔起鋪租做到咁，就正正經經加價，比返正常份量，做到咁無恥，呃消費者錢，野食又普通，呢啲味道周街都做到，唔知呢間野有咩存在價值。\n\n呃錢嘅鋪頭請大家幫襯前三思。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "早兩年住係附近買開$18油菜，一直都滿盒，所以今日經過再幫襯，點知返到屋企打開，得5條，無錯係5條菜仔。外賣加多$2，計埋即係$5一條菜\n\n打返過去問，又同我講老細唔係香港，又話唔關佢地夜更事，係早更同事扎嘅份量。只得推搪，毫無改善之意！\n\n簡單兩個字：黑店。\n\n如果係比唔起鋪租做到咁，就正正經經加價，比返正常份量，做到咁無恥，呃消費者錢，野食又普通，呢啲味道周街都做到，唔知呢間野有咩存在價值。\n\n呃錢嘅鋪頭請大家幫襯前三思。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wong Hannah",
+          "uri": "https://www.google.com/maps/contrib/108881542744062487454/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7rd59rwq5eTxjcRykDb1gVNl-9GCoD28KCUCOndSPfj96BEyK=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-03-27T13:48:55.637894Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEaHBQSlR3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEaHBQSlR3EAE!2m1!1s0x3403fa09fe6d5081:0x685e59cd7cde3a8"
+      },
+      {
+        "name": "places/ChIJgVBt_gn6AzQRqOPN15zlhQY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvcHFmT3ZnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "廣東傳統麵食，雲呑麵正，呢碗係雲呑肥鵝腸麵",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "廣東傳統麵食，雲呑麵正，呢碗係雲呑肥鵝腸麵",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kamuel kam",
+          "uri": "https://www.google.com/maps/contrib/109132842185440996607/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUC5lcBdWCKrcJH8NUM6T8w7Ef7LJ3SAP1GM2Fl17zbmouohlW9sQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-05-15T09:24:17.205617Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNvcHFmT3ZnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNvcHFmT3ZnRRAB!2m1!1s0x3403fa09fe6d5081:0x685e59cd7cde3a8"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": false,
+    "paymentOptions": {
+      "acceptsCreditCards": false,
+      "acceptsDebitCards": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fa09fe6d5081:0x685e59cd7cde3a8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=470034197928338344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fa09fe6d5081:0x685e59cd7cde3a8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fa09fe6d5081:0x685e59cd7cde3a8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fa09fe6d5081:0x685e59cd7cde3a8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJgVBt_gn6AzQRqOPN15zlhQY/photos/Aa-ngMb_avg6NAGNITggbda1iZcXBQGOM7Guzag2DN7GJS2EerW7XaR2fYbfBKR2ddP6w0HrELFp7GwV1fk09GxZW-U90FZ7_7CBxqgG7cewNE7LuOHIBBGIQDM0l01jjOndbzl4GkDIFVYsKti5f0iYyA9kCb7Fzo_Gd2QuvQdNOkBjUcmllADSWBirJfonjJfrBdCOkd6V9Asw0ph1DKDZu1lsvTEgJf6whN5t-3el9ZagbnNvXEQkDTkX0mZv_MLax4eveUQTpSc9NlGGSH28K_Ik_epdbO5-JPz_BvBWGnT0nruGz9A-yadda8-MuH69RK038M4vkPaOyj9TK6mJVx3mMZ4Pq4FxCraV-9yt0dagVdyXsLggJfeWJr7DJ2AqPM0v54ffjDfrah4uBImZZMeWZ5s",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Brett Kwong",
+          "uri": "https://maps.google.com/maps/contrib/115742200769259092474",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuwq3EPgxHb86aEkW2uICtoLXa9e16cMWHxZY7GZdNlkww85QTkA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDHjMvUTA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHjMvUTA!2e10!4m2!3m1!1s0x3403fa09fe6d5081:0x685e59cd7cde3a8"
+    },
+    "local_path": "photos/ChIJgVBt_gn6AzQRqOPN15zlhQY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfel3wyb8GIem2EnG7e-fPiiML9zxiB6ua5kfaWvfvbWyPMsoWpEGUfA157Q9p4icwpWUY6XScpvEJru720vsg-aW4d0ifjKwZXGpHeL39ZpRp860fsQ0KmgE-q_MhN3Wyd_NQS=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 149895
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_noodle_restaurant",
+    "label": "中式麵館",
+    "types": [
+      "chinese_noodle_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

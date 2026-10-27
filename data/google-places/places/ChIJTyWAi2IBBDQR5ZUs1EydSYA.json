@@ -1,0 +1,412 @@
+{
+  "google_place_id": "ChIJTyWAi2IBBDQR5ZUs1EydSYA",
+  "restaurant_ids": [
+    "restaurant:2251061597"
+  ],
+  "fetched_at": "2026-10-23T15:43:38.016671+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJTyWAi2IBBDQR5ZUs1EydSYA",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2346 7878",
+    "internationalPhoneNumber": "+852 2346 7878",
+    "formattedAddress": "號 a, 43 鯉魚門海傍道中 Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2895193,
+      "longitude": 114.2377523
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=9244092663457420773&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 17:30 – 20:30",
+        "星期二: 12:00 – 15:00, 17:30 – 20:30",
+        "星期三: 12:00 – 15:00, 17:30 – 20:30",
+        "星期四: 12:00 – 15:00, 17:30 – 20:30",
+        "星期五: 12:00 – 15:00, 17:30 – 20:30",
+        "星期六: 12:00 – 15:00, 17:30 – 20:30",
+        "星期日: 12:00 – 15:00, 17:30 – 20:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "userRatingCount": 195,
+    "displayName": {
+      "text": "海景海鮮酒家",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "海鮮餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "seafood_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJTyWAi2IBBDQR5ZUs1EydSYA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsanV1VC1BRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "所有海鮮由客人自己提供, 酒家只負責烹煮, 不知是否星期六的午市較淡靜, 連自己共兩圍, 差不多包場! 地下飯廳不大, 座位偏窄, 裝修過時, 全場只得一位老樓面招呼, 他說沒有菜牌, 因為只得咕嚕肉炒菜炒飯麵之類提供, 其它欠奉; 慶幸加工出來的海鮮味道尚算中規中矩, 沒有失望亦沒帶來驚喜! 加工費合理, 自備海鮮約二千元共3位吃, 酒家烹煮收費約六百元。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "所有海鮮由客人自己提供, 酒家只負責烹煮, 不知是否星期六的午市較淡靜, 連自己共兩圍, 差不多包場! 地下飯廳不大, 座位偏窄, 裝修過時, 全場只得一位老樓面招呼, 他說沒有菜牌, 因為只得咕嚕肉炒菜炒飯麵之類提供, 其它欠奉; 慶幸加工出來的海鮮味道尚算中規中矩, 沒有失望亦沒帶來驚喜! 加工費合理, 自備海鮮約二千元共3位吃, 酒家烹煮收費約六百元。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Y L",
+          "uri": "https://www.google.com/maps/contrib/111390256375368936555/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLBOCMXFfwjNueVyHBnpmNIjXhpTVxrKTLNPQv0eWB0uPm7O0Rmw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-11-18T14:03:48.971278Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsanV1VC1BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsanV1VC1BRRAB!2m1!1s0x340401628b80254f:0x80499d4cd42c95e5"
+      },
+      {
+        "name": "places/ChIJTyWAi2IBBDQR5ZUs1EydSYA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwSVVHVmxPRFJHYUVsUGVYb3ljV2M1Y1ZVMWVtYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "買海鮮去加工，大廚👍\n火喉啱啱好 👍 鮑魚爽嘅 😋 蟶子爽嘅 😋\n扇貝爽嘅 😋 魚好嫩滑 😋\n服務好友善❤️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "買海鮮去加工，大廚👍\n火喉啱啱好 👍 鮑魚爽嘅 😋 蟶子爽嘅 😋\n扇貝爽嘅 😋 魚好嫩滑 😋\n服務好友善❤️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Laulau",
+          "uri": "https://www.google.com/maps/contrib/104504977303585302724/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDTqNKrWg9M5lYIZyLoAd37AjythwTbBZ9rhVQmBfXmQXUpA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-03T17:29:43.975547925Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwSVVHVmxPRFJHYUVsUGVYb3ljV2M1Y1ZVMWVtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwSVVHVmxPRFJHYUVsUGVYb3ljV2M1Y1ZVMWVtYxAB!2m1!1s0x340401628b80254f:0x80499d4cd42c95e5"
+      },
+      {
+        "name": "places/ChIJTyWAi2IBBDQR5ZUs1EydSYA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlaXN2eWVnEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "每年家中什麼喜慶日子， 朋友相聚皆在這裡吃,   朋友們都很喜歡 🤩🤩留下不少回憶😍  娜姐,誠實可靠, 親切款待, 真材實料,  味道一流, 水準穩定， 包你食過返尋味, 食海鮮最緊要食得放心，唔駛一頸血 😂😂 預早訂定，比個預算幾錢位， 娜姐實安排妥當。。。 當然要求要合理啦 😂😂😂 仲有無敵靚海景睇日落 。。\n\n首選推象拔蚌刺身，黃金蝦，豉椒炒蟶子及咕嚕肉",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "每年家中什麼喜慶日子， 朋友相聚皆在這裡吃,   朋友們都很喜歡 🤩🤩留下不少回憶😍  娜姐,誠實可靠, 親切款待, 真材實料,  味道一流, 水準穩定， 包你食過返尋味, 食海鮮最緊要食得放心，唔駛一頸血 😂😂 預早訂定，比個預算幾錢位， 娜姐實安排妥當。。。 當然要求要合理啦 😂😂😂 仲有無敵靚海景睇日落 。。\n\n首選推象拔蚌刺身，黃金蝦，豉椒炒蟶子及咕嚕肉",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Elsa Chan",
+          "uri": "https://www.google.com/maps/contrib/101910442475954658991/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXijnD80Jn23UKq-xvVkcfzNZpxHM6dbaWC3HEU9uToOvRFyL9K7A=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-09-10T23:31:12.016771Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlaXN2eWVnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlaXN2eWVnEAE!2m1!1s0x340401628b80254f:0x80499d4cd42c95e5"
+      },
+      {
+        "name": "places/ChIJTyWAi2IBBDQR5ZUs1EydSYA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taVlMwcElRMmxTTFhJMWMwWmFRMWswTTE4emFrRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好抵呀，$190嘅餐! 海鮮新鮮又好食,員工又好Nice!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好抵呀，$190嘅餐! 海鮮新鮮又好食,員工又好Nice!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Iris Choy",
+          "uri": "https://www.google.com/maps/contrib/113022601088123109821/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVA_82Tyvi3Id17lilF78qllE6hXW0EmPfWU8QWEsIZRGw7770=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-24T14:11:55.048414674Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taVlMwcElRMmxTTFhJMWMwWmFRMWswTTE4emFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taVlMwcElRMmxTTFhJMWMwWmFRMWswTTE4emFrRRAB!2m1!1s0x340401628b80254f:0x80499d4cd42c95e5"
+      },
+      {
+        "name": "places/ChIJTyWAi2IBBDQR5ZUs1EydSYA/reviews/ChdDSUhNMG9nS0VJQ0FnSURBM2FMR3ZRRRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 4,
+        "text": {
+          "text": "海鮮好味同新鮮，但係連炸饅頭、桂花糕、咕嚕肉都好好味，嘩！個炒飯我哋十幾人都食唔曬 打包回家，真係😋😋。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "海鮮好味同新鮮，但係連炸饅頭、桂花糕、咕嚕肉都好好味，嘩！個炒飯我哋十幾人都食唔曬 打包回家，真係😋😋。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Po Tung Tsang",
+          "uri": "https://www.google.com/maps/contrib/105156221573067236288/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCYyWQy1ZSGJg6Iolcv4QU65mTkozLMcDMIrP3NZDiE2664ce0=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2018-03-01T11:23:04.413Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBM2FMR3ZRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBM2FMR3ZRRRAB!2m1!1s0x340401628b80254f:0x80499d4cd42c95e5"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401628b80254f:0x80499d4cd42c95e5!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9244092663457420773&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401628b80254f:0x80499d4cd42c95e5!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401628b80254f:0x80499d4cd42c95e5!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401628b80254f:0x80499d4cd42c95e5!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJTyWAi2IBBDQR5ZUs1EydSYA/photos/Aa-ngMZC7Cjy41TFrV8EQw9hv98bgMhBghy4dF-1FhYC1mwy051l0l5hQmCheV-dXtCnISjHmPB6lCIg90ThRxq7hg-XDTISby_bbyZt875798nOzsPw-w6nZaNplKSaxHeIMLhzz2QkjWAcHErWMEBtKt8Qezp5rh6bXiU_KhOzPoLS1GWg7iDeThdH14MWL7TooYISZYeiIZvS6SLBRuxY79fzOqZOQpw9xjuUva5TUVG-JIN37sp6FrBNC9UBa9vooa4xCn0Pp2InaEw6-yU9xL9-ZWDW7a5tpHw9OStmYtvhIrRgr9OwOqOTMIGpxo7_zcdKYMoe9MzEFWgoPvIc_8vk2IgflWspIKgWlvDAK--1k7tnsNDn9G4CHF_nrG3yq7vOmyy05MdGe26GNCYm1SUYi-Nc24jp77lqJeVHA90AAw",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "andy Kan",
+          "uri": "https://maps.google.com/maps/contrib/115013296076236510860",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0lpwX7K52DB-ls_fneOcHp5cp6Gc9RaW7Q7CYr4nxxsbc7NU5Hg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAQyZ0ZjdB75Sa-MHj0nrZX&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAQyZ0ZjdB75Sa-MHj0nrZX!2e10!4m2!3m1!1s0x340401628b80254f:0x80499d4cd42c95e5"
+    },
+    "local_path": "photos/ChIJTyWAi2IBBDQR5ZUs1EydSYA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_P0ZRKCMaXn9E0BLvY0NlT4M-DMgUrGLLWoSp0RpSJ_Jsn8vgwO6lRz81er0gmKKgBWA0Jvyl1_wqOD6qjXCHtObKdRSTWWJpqRuyuJU4ffWLJM3oRUmCRR0S7ZHWo23Ixg1KwkoQPV2i=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 129485
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "seafood_restaurant",
+    "label": "海鮮餐廳",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

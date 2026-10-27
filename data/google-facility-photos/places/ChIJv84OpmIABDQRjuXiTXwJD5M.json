@@ -1,0 +1,39 @@
+{
+  "id": "ChIJv84OpmIABDQRjuXiTXwJD5M",
+  "types": [
+    "ferry_terminal",
+    "transit_station",
+    "transportation_service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島中環",
+  "location": {
+    "latitude": 22.288377999999998,
+    "longitude": 114.15663099999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10596698877713376654&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "中環2號渡輪碼頭",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "ferry_terminal",
+  "photos": [
+    {
+      "name": "places/ChIJv84OpmIABDQRjuXiTXwJD5M/photos/Aa-ngMYr8GfrmR5oYylVcLazlrD_Nrz_5M-TmQg8oc4yInd5boWSv92cZMSv6qCF-gHByz2et92F051bEf8jIAJFQ4vByGfuiTRO_AcLtp_bSgZJVtud_LzGdGjV99bgGbImQVdhQIE6P12Tc_kQh0lJHltIdRf5v_90XPCpMvsDiRSdB_mglFuUXYL4JSoSeDQd8R8RHTrd4_xX56xh3O-4PxQTJ3SNGaxkoCHN3c4BHTTGffpH_ni6WrrHQg0R1sVjGfqG8YhU-xwq682zCQlAY5-tPCeVsQToG6-Qj-AjBCltCRJR-1yo4ZxU-_3oUnLC1RVAqOwOyq9LHIZAsF2PQotwddXhzVQO3YAAOYNZ8jkMc6Uehq5MZJQt3H6lpBNRSj2QmPROAOdaqsMzs_HyjDFVRA",
+      "widthPx": 1600,
+      "heightPx": 888,
+      "authorAttributions": [
+        {
+          "displayName": "Ronald WU",
+          "uri": "https://maps.google.com/maps/contrib/104480335925830901434",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIj9HfMWeLWUqWI6qv75_O7Vi9S_zRGGdNIPZpbCh6Qrhn8UzCX=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDB8fO9CA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB8fO9CA!2e10!4m2!3m1!1s0x34040062a60ecebf:0x930f097c4de2e58e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:24.241296+00:00"
+}

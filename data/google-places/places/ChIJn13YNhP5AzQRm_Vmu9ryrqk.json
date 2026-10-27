@@ -1,0 +1,306 @@
+{
+  "google_place_id": "ChIJn13YNhP5AzQRm_Vmu9ryrqk",
+  "restaurant_ids": [
+    "restaurant:3192803037"
+  ],
+  "fetched_at": "2026-10-23T15:50:16.054464+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJn13YNhP5AzQRm_Vmu9ryrqk",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2945 1152",
+    "internationalPhoneNumber": "+852 2945 1152",
+    "formattedAddress": "G/F, Grand Bay View Hotel, 123 Castle Peak Rd - Ting Kau, Tsuen Wan, New Territories, 香港",
+    "location": {
+      "latitude": 22.3676973,
+      "longitude": 114.09223619999999
+    },
+    "rating": 5,
+    "googleMapsUri": "https://maps.google.com/?cid=12226977059618354587&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.grandbayview.com/en/index.html",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 22:00",
+        "星期二: 12:00 – 22:00",
+        "星期三: 12:00 – 22:00",
+        "星期四: 12:00 – 22:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 12:00 – 22:00",
+        "星期日: 12:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 11,
+    "displayName": {
+      "text": "The Bay Lounge",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "takeout": false,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJn13YNhP5AzQRm_Vmu9ryrqk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ZdFMwTXlhMFU0T0ZONk1UbDZjbTlrVGxGYU5YYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境優美 ，性價比高 ，在這裏住了一晚\n晚上可以欣賞超靚夜景 ，同好朋友到酒吧飲嘢 ，超好回憶，確實回味無窮。 早上到餐廳食自助早午餐 ，選擇多 價錢超值 港幣80元 😄😃👍👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境優美 ，性價比高 ，在這裏住了一晚\n晚上可以欣賞超靚夜景 ，同好朋友到酒吧飲嘢 ，超好回憶，確實回味無窮。 早上到餐廳食自助早午餐 ，選擇多 價錢超值 港幣80元 😄😃👍👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Candy Chung",
+          "uri": "https://www.google.com/maps/contrib/106696594721899170228/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHY58e_80eYxaEjCXMxywajnoxqshZMX9C4eLen7eOAmhPRw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-09T07:22:54.381101542Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ZdFMwTXlhMFU0T0ZONk1UbDZjbTlrVGxGYU5YYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ZdFMwTXlhMFU0T0ZONk1UbDZjbTlrVGxGYU5YYxAB!2m1!1s0x3403f91336d85d9f:0xa9aef2dabb66f59b"
+      },
+      {
+        "name": "places/ChIJn13YNhP5AzQRm_Vmu9ryrqk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSTVF6ZzJkbXBsYmxCNlNtOHhia1ZLTFhsRGFXYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "大堂環境舒適，寬敞，很適合relex\n呢排做緊promotion. 有Happy hour.唔駛出去同人逼，仲有海景睇，讚",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大堂環境舒適，寬敞，很適合relex\n呢排做緊promotion. 有Happy hour.唔駛出去同人逼，仲有海景睇，讚",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lok lokloklok",
+          "uri": "https://www.google.com/maps/contrib/117690845169202468368/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI-wPs0d7sTNABVJfTmQEWa8Sv0Lx4lAg9_UHPOuOTsQusvpA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-06T07:47:33.429592065Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSTVF6ZzJkbXBsYmxCNlNtOHhia1ZLTFhsRGFXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSTVF6ZzJkbXBsYmxCNlNtOHhia1ZLTFhsRGFXYxAB!2m1!1s0x3403f91336d85d9f:0xa9aef2dabb66f59b"
+      },
+      {
+        "name": "places/ChIJn13YNhP5AzQRm_Vmu9ryrqk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kRGQydFZNa1JPVW1WUmVIaHBiMGwzYVZoaVpHYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境舒適， 無敵海景，比到一種度假的感覺。尤其是日落的景色非常優美。好值得推薦同一班朋友去暢飲聊天及打咭的好地方。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒適， 無敵海景，比到一種度假的感覺。尤其是日落的景色非常優美。好值得推薦同一班朋友去暢飲聊天及打咭的好地方。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eric Ng",
+          "uri": "https://www.google.com/maps/contrib/112966392840209939544/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLWsbMM2qIKk8bVZKV6a6smAzvzzW0k0ALVrug548C1qcRlg-grA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-05T12:49:44.878725526Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kRGQydFZNa1JPVW1WUmVIaHBiMGwzYVZoaVpHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kRGQydFZNa1JPVW1WUmVIaHBiMGwzYVZoaVpHYxAB!2m1!1s0x3403f91336d85d9f:0xa9aef2dabb66f59b"
+      },
+      {
+        "name": "places/ChIJn13YNhP5AzQRm_Vmu9ryrqk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KWlRHcElaWGRPUW05SlpEbFRiRTl4ZGpkSFluYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這個地方有無敵海景 ,環境舒服 同朋友聚會簡直一流, 價錢合理 仲有超大停車場,可以揸車...吃喝玩樂後可以再去遊車河💯💯💯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這個地方有無敵海景 ,環境舒服 同朋友聚會簡直一流, 價錢合理 仲有超大停車場,可以揸車...吃喝玩樂後可以再去遊車河💯💯💯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "stoney chan",
+          "uri": "https://www.google.com/maps/contrib/101216131256085332892/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKu1Ju97BE-Bl8Uwoj2KHdHxJzmd0OaYx87nAsp9dmgTFu4fg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-05T10:32:43.877819035Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KWlRHcElaWGRPUW05SlpEbFRiRTl4ZGpkSFluYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KWlRHcElaWGRPUW05SlpEbFRiRTl4ZGpkSFluYxAB!2m1!1s0x3403f91336d85d9f:0xa9aef2dabb66f59b"
+      },
+      {
+        "name": "places/ChIJn13YNhP5AzQRm_Vmu9ryrqk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CNGEyMHpkemg1WHpKMmFYcGhhSFpuU2psTWNtYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "在這個地方看到日落，地方寬敞，餐廳食物種類多，服務又好 ，而且性價比高，是放假relax的好去處",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "在這個地方看到日落，地方寬敞，餐廳食物種類多，服務又好 ，而且性價比高，是放假relax的好去處",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "William choi",
+          "uri": "https://www.google.com/maps/contrib/113251552250339832856/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzpwNtEZRBLJRij23AQa2BNyqq20cgGKLMhhzPSnPj2vFQtg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-09T07:59:13.768830130Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CNGEyMHpkemg1WHpKMmFYcGhhSFpuU2psTWNtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CNGEyMHpkemg1WHpKMmFYcGhhSFpuU2psTWNtYxAB!2m1!1s0x3403f91336d85d9f:0xa9aef2dabb66f59b"
+      }
+    ],
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f91336d85d9f:0xa9aef2dabb66f59b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12226977059618354587&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f91336d85d9f:0xa9aef2dabb66f59b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f91336d85d9f:0xa9aef2dabb66f59b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f91336d85d9f:0xa9aef2dabb66f59b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJn13YNhP5AzQRm_Vmu9ryrqk/photos/Aa-ngMYwpYrk1DpQhTtsDUsyX-qhE7Tsyh35_jUEbq6gfU7M7gAdc6lIVohSw2ncPW9MuABlhekEtalrJu6sFHF9jCcozKntF3H5-2Mo_9RAYGe_xLJjFMOZDnOIZjEtNFfqnRuhZUlCIjhajtCZ-YV0uZuTPtCE0FBTYhYbH1EmSZ0_2cr5CAqrDbjFqZPv-9aD4kfNtdBdZh-rTRKRiAY3I6HbwKfYBwtj43AmoyTxmFzUsl4IL4vNEtQBELOJOzDbxUTwPkAvJffvMrmRb4cyGmV7o7N3vl8Z_xXZ5EJL566ZiNpltZVqAjG88pzk07c1yz_k_JoLhcRXEiLGBO54c2nh5JFrNnr6j0k9ixUYQ4njCvJs66uXz0Anid012w2xN7w1Xm277RVH2rZ_XtZkQjWY51WTcxQtStspgcwaiNaa",
+      "widthPx": 1600,
+      "heightPx": 900,
+      "authorAttributions": [
+        {
+          "displayName": "The Bay Lounge",
+          "uri": "https://maps.google.com/maps/contrib/110570412924959510286",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJyK8WpN18f6jqlO5tr4BPwLdX5w-f6kzFrpziiuOdQD_DG5g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBSgdDhKS3_1GnXUCvGTDck&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBSgdDhKS3_1GnXUCvGTDck!2e10!4m2!3m1!1s0x3403f91336d85d9f:0xa9aef2dabb66f59b"
+    },
+    "local_path": "photos/ChIJn13YNhP5AzQRm_Vmu9ryrqk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCdlg2WQ_W3dK1YOiyRpO3Ao3uSCPorXbbuF5E5oBSxYM3Cv9FkfPSSp8unHdSZd-MmmEd7UNvM1ijJhLJuU7a7xACwFoL6J9zsTzCaErfIvdtm2mYqtlwWrKbIvUnJHbKPAw9X5sdP3Y=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 174391
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

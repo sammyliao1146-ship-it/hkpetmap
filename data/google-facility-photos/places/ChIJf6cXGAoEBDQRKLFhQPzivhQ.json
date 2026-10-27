@@ -1,0 +1,38 @@
+{
+  "id": "ChIJf6cXGAoEBDQRKLFhQPzivhQ",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界將軍澳運隆路",
+  "location": {
+    "latitude": 22.3188021,
+    "longitude": 114.25753279999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1494881699373363496&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "寶康公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJf6cXGAoEBDQRKLFhQPzivhQ/photos/Aa-ngMbC63tAJFdlH8hgwvvSJp-cjEiS9Peoptvlg1Tla1y1UocaxcN_8IYTyJictEdpBRKRWjsGRG7Lh7baguoC4I5uWfiIg5vpunL-wVNJ1pjTwCJs2yUdvpmhoUOpiFVMjV6LoipvstudTFy9-_fcM2XLBQ_15PNYmZRowrJuYphfZ2eyZ8dAC5q9xcWw2hwHanrPrOkM8IEMq4fmMuESPyQJtbB8EVGGLHk-XSJYPJB07zyE6NSumDBZ6vJ_Sl38WEizLodSq3U5DTiB0VczWz-9wsRdi1AYE_xvA-05buPzMWdRdH7YL71re4_7Fr5lVBfcCUhHCgP-cflvzGrvWidtqQiUG6tWMtMzLYLD5xwLqeEnVV2U4EzbTexgHgM5OO_3EOW6a0gWWWqsRR1KjrO1_dd7",
+      "widthPx": 4096,
+      "heightPx": 3512,
+      "authorAttributions": [
+        {
+          "displayName": "Terry Wong",
+          "uri": "https://maps.google.com/maps/contrib/115252332430830545390",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJdesrTsCff5axEJSelniRF1yeZ6JPIVS3zY5W2udMHnK8nY7GU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC99bqt1gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC99bqt1gE!2e10!4m2!3m1!1s0x3404040a1817a77f:0x14bee2fc4061b128"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:13.212847+00:00"
+}

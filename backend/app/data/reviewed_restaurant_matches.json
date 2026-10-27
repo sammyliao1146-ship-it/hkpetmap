@@ -1,0 +1,34 @@
+{
+  "restaurant:2218813472": {
+    "google_place_id": "ChIJaXMpMYf_AzQRnhA0V5gxCL0",
+    "source_address": "香港西營盤正街62號地下",
+    "google_address": "香港香港島西營盤正街62號",
+    "max_distance_m": 30,
+    "evidence": "Both addresses identify 62 Centre Street, Sai Ying Pun; Chinese/English venue names differ.",
+    "reviewed_at": "2026-10-24"
+  },
+  "restaurant:2297804286": {
+    "google_place_id": "ChIJa_WuEa0HBDQRz_LnapQEEmc",
+    "source_address": "新界沙田新城市廣場第一期1層110號鋪",
+    "google_address": "沙田 新 城市 廣場 第 1 期 第 1 層 110 鋪, Sha Tin, New Territories, 香港",
+    "max_distance_m": 120,
+    "evidence": "Both addresses identify Shop 110, Level 1, Phase 1, New Town Plaza, Sha Tin.",
+    "reviewed_at": "2026-10-24"
+  },
+  "restaurant:2297809360": {
+    "google_place_id": "ChIJ9ZDdASUJBDQR4qIeaWGYjRg",
+    "source_address": "新界沙田白石角  香港科學園1期 1E大廈 地下 S003D單位",
+    "google_address": "香港新界科學園科技大道東1號Building 1E Shop S003D",
+    "max_distance_m": 250,
+    "evidence": "Both addresses identify Building 1E, Unit S003D, Hong Kong Science Park.",
+    "reviewed_at": "2026-10-24"
+  },
+  "restaurant:2262811080": {
+    "google_place_id": "ChIJBX-pqL4ABDQRo72yV6gOcw0",
+    "source_address": "九龍西九龍海庭道18號奧海城商場第2期 高層地下UG50號鋪",
+    "google_address": "號 奧 海 城 2 期 UG50 號 舖, 18 Hoi Ting Rd, West Kowloon, Kowloon, 香港",
+    "max_distance_m": 250,
+    "evidence": "Both addresses identify Shop UG50, Olympian City 2, 18 Hoi Ting Road. Google uses the short name 穴.",
+    "reviewed_at": "2026-10-24"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ChIJE0PNF7MGBDQRFAbmt6I943U",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "42 Yuet Wah Street, Kowloon, 香港",
+  "location": {
+    "latitude": 22.3243298,
+    "longitude": 114.22316780000001
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8494701091230189076&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "觀塘上配水庫花園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJE0PNF7MGBDQRFAbmt6I943U/photos/Aa-ngMZ4Cbem4GVjdMbNz4_5syIYMivHF7zH_ROXD4NtvQdtwfCAyS-UFVYyu357_eJBVIz19NPf8BALqM6Kmnn4JIn1LscBranZBoixdQeUrUHnvVOXEMkCBwVlttuqbEGlbj17XqbEfJmF44QXxuH-01XRcAPkxXjYXHDeUmwlhvxagdvFOQn0SijpObo4fuE2-5DpMIbh-8tdHcc5YIeCk35H4Fkgn7LDJXrjrgykdPLCdSo5va32cOSeEZJaeNQxgO71CCGvZRG3LfPbY5AQlW5wR0h_tWGA2zl4kWI1ypkEmkT80fDsS7LWdfh-seWJlxQC6c23ySWuKv3DeJgyhv7Mcq3KRkedX3NB2vty-eauVWpQNVb6U_Cbmu-46_sjyvL-WBSCOXJo_VNwNIU9imRTTmQyW0Q",
+      "widthPx": 3968,
+      "heightPx": 2240,
+      "authorAttributions": [
+        {
+          "displayName": "Vut Iong Ung",
+          "uri": "https://maps.google.com/maps/contrib/109706834154574494655",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJPrRvzoycq5AuGjbnvfa8wRNE9hqdhuWC94FAsA2eZf0WnXQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDs-bqezQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDs-bqezQE!2e10!4m2!3m1!1s0x340406b317cd4313:0x75e33da2b7e60614"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:15.943620+00:00"
+}

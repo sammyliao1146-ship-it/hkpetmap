@@ -1,0 +1,316 @@
+{
+  "google_place_id": "ChIJKyjj_dYBBDQR6EHtThRxI6c",
+  "restaurant_ids": [
+    "restaurant:2252805918"
+  ],
+  "fetched_at": "2026-10-23T15:46:20.252756+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJKyjj_dYBBDQR6EHtThRxI6c",
+    "types": [
+      "japanese_izakaya_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2702 1770",
+    "internationalPhoneNumber": "+852 2702 1770",
+    "formattedAddress": "香港九龍九龍城獅子石道15號號地鋪",
+    "location": {
+      "latitude": 22.3281937,
+      "longitude": 114.18802199999999
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=12043594160556294632&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/Mutsu_hk-626481707872720/?ref=br_rs",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 18:00 – 00:00",
+        "星期三: 18:00 – 00:00",
+        "星期四: 18:00 – 00:00",
+        "星期五: 18:00 – 00:00",
+        "星期六: 18:00 – 00:00",
+        "星期日: 18:00 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 76,
+    "displayName": {
+      "text": "陸奧酒場",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "居酒屋",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "japanese_izakaya_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJKyjj_dYBBDQR6EHtThRxI6c/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KYWNFZDVkMUp6ZUU1amRVVTBkbkpmV1dkamVWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "上餐速度快、態度友善、環境好、食物味道一流\n好多嘢食都等唔切影相就落咗肚\n特別推介雞皮！！！勁好味",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "上餐速度快、態度友善、環境好、食物味道一流\n好多嘢食都等唔切影相就落咗肚\n特別推介雞皮！！！勁好味",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Blue Blue",
+          "uri": "https://www.google.com/maps/contrib/117571654570138378023/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyrNTGKk-Z9kfKcrvWazAjSeP4Gu7QjwECK_cOIdvzoWPtrd4ovw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-04T05:11:49.873986500Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KYWNFZDVkMUp6ZUU1amRVVTBkbkpmV1dkamVWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KYWNFZDVkMUp6ZUU1amRVVTBkbkpmV1dkamVWRRAB!2m1!1s0x340401d6fde3282b:0xa72371144eed41e8"
+      },
+      {
+        "name": "places/ChIJKyjj_dYBBDQR6EHtThRxI6c/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwNy1QZW13RRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "🍶陸奧酒場 🌸串燒居酒屋🍺\n\n🐮牛肋肉 $42 :即叫即燒，只係加咗少少調味，好突出牛嘅味道，牛肋肉雖然唔係最爽嫩嘅部份，但佢嘅肉味最重，口感唔錯😋\n\n🐔自家製免治雞肉棒 $44 :呢個免治雞肉配日本蛋漿，配搭又唔錯，將蛋漿撈勻雞肉沾落去食，口感特別👍🏻，雞肉嫩滑，再加上特製醬汁，味道突然昇華哂😆😆\n\n🐔雞脾肉 $38 :外型幾特別，睇唔出係雞肉，圓筒形嘅雞髀肉燒到香脆，咬落肉質豐富，絕對唔乾身😆😆\n\n🐷梅醬紫蘇黑豚 $40 :呢款係我最喜愛之一👏🏻，將一件平平無奇嘅黑豚肉經過醃製，非常爽口，脂肪遍布均勻，最特別嘅係梅醬加紫蘇葉嘅配搭😍，拼埋食非常開胃，味道又唔會過鹹，一流🥰🥰\n\n🍠甘薯 $34 :燒至金黃色嘅番薯，表面仲有好似焦糖咁，食落脆卜卜，甜而不膩🤤🤤\n\n🍢豆腐 $28 :燒得好食😆，最緊要係佢嘅醬料，面層有秘製醬汁再加少少香蔥，燒到脆邊，一件平平無奇嘅豆腐就變咗超惹味嘅燒物👏🏻👏🏻\n\n🍹柚子乙女 $40  :最後我哋叫咗支裝嘢飲，除咗無酒精嘅汽水之外，仲有果汁酒，清酒等🍶，款式非常多，我哋今次就冇嗌到酒精類嘅嘢飲，叫左呢一支柚子乙女，個名幾特別，試吓的確幾與眾不同，佢係柚子味嘅汽水，有種特別既味道🤤，唔甜之餘仲有清新嘅柚子味，另外呢一款🍹波子汽水 $28唔使介紹都知，好有地道風味👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🍶陸奧酒場 🌸串燒居酒屋🍺\n\n🐮牛肋肉 $42 :即叫即燒，只係加咗少少調味，好突出牛嘅味道，牛肋肉雖然唔係最爽嫩嘅部份，但佢嘅肉味最重，口感唔錯😋\n\n🐔自家製免治雞肉棒 $44 :呢個免治雞肉配日本蛋漿，配搭又唔錯，將蛋漿撈勻雞肉沾落去食，口感特別👍🏻，雞肉嫩滑，再加上特製醬汁，味道突然昇華哂😆😆\n\n🐔雞脾肉 $38 :外型幾特別，睇唔出係雞肉，圓筒形嘅雞髀肉燒到香脆，咬落肉質豐富，絕對唔乾身😆😆\n\n🐷梅醬紫蘇黑豚 $40 :呢款係我最喜愛之一👏🏻，將一件平平無奇嘅黑豚肉經過醃製，非常爽口，脂肪遍布均勻，最特別嘅係梅醬加紫蘇葉嘅配搭😍，拼埋食非常開胃，味道又唔會過鹹，一流🥰🥰\n\n🍠甘薯 $34 :燒至金黃色嘅番薯，表面仲有好似焦糖咁，食落脆卜卜，甜而不膩🤤🤤\n\n🍢豆腐 $28 :燒得好食😆，最緊要係佢嘅醬料，面層有秘製醬汁再加少少香蔥，燒到脆邊，一件平平無奇嘅豆腐就變咗超惹味嘅燒物👏🏻👏🏻\n\n🍹柚子乙女 $40  :最後我哋叫咗支裝嘢飲，除咗無酒精嘅汽水之外，仲有果汁酒，清酒等🍶，款式非常多，我哋今次就冇嗌到酒精類嘅嘢飲，叫左呢一支柚子乙女，個名幾特別，試吓的確幾與眾不同，佢係柚子味嘅汽水，有種特別既味道🤤，唔甜之餘仲有清新嘅柚子味，另外呢一款🍹波子汽水 $28唔使介紹都知，好有地道風味👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alice Chu",
+          "uri": "https://www.google.com/maps/contrib/118181660846877262961/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUygxhy5FoLxgzYljdf5AoEoDnT5ZEmt7P_UYnsN0qGPyTC5R8I=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-08-13T06:17:36.677730Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwNy1QZW13RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwNy1QZW13RRAB!2m1!1s0x340401d6fde3282b:0xa72371144eed41e8"
+      },
+      {
+        "name": "places/ChIJKyjj_dYBBDQR6EHtThRxI6c/reviews/ChdDSUhNMG9nS0VJQ0FnSURxdFBlbWdnRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "這裡的串燒處理得恰到好處，試了多款食物，也很美味！店員有禮，值錢合理，會再來光顧。最喜愛：紫蘇豚肉串、明太子玉子燒、燒白鱔串。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這裡的串燒處理得恰到好處，試了多款食物，也很美味！店員有禮，值錢合理，會再來光顧。最喜愛：紫蘇豚肉串、明太子玉子燒、燒白鱔串。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "C L",
+          "uri": "https://www.google.com/maps/contrib/101842630124934880210/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdqpSLjVRLQnt8fjbPLkLTDcL7_97bSMr2ALZTws5GQ2NzW8hH=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2021-06-30T11:24:53.462916Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURxdFBlbWdnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURxdFBlbWdnRRAB!2m1!1s0x340401d6fde3282b:0xa72371144eed41e8"
+      },
+      {
+        "name": "places/ChIJKyjj_dYBBDQR6EHtThRxI6c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOeUlDY1RBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "環境不錯的日式裝潢 陸奧酒場\n\n食物質素不錯 燒烤認真 但偏細份\n鯛魚湯味道不錯\n上菜速度挺快\n店員也很主動招呼 服務不錯\n是吃日式串燒和聊天的好地方。\n如果加埋背景音樂就好了😌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境不錯的日式裝潢 陸奧酒場\n\n食物質素不錯 燒烤認真 但偏細份\n鯛魚湯味道不錯\n上菜速度挺快\n店員也很主動招呼 服務不錯\n是吃日式串燒和聊天的好地方。\n如果加埋背景音樂就好了😌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Stella Au Yeung",
+          "uri": "https://www.google.com/maps/contrib/100918099296624807965/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLt-_VrH46k-EfbTk4F6dFl_YSX98I34_q7m3pRILUvWiYVwg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-01-11T16:11:51.650041Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNOeUlDY1RBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNOeUlDY1RBEAE!2m1!1s0x340401d6fde3282b:0xa72371144eed41e8"
+      },
+      {
+        "name": "places/ChIJKyjj_dYBBDQR6EHtThRxI6c/reviews/ChdDSUhNMG9nS0VJQ0FnSURPa01YWG5nRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "九龍城的小店\n店員服務親切有禮\n定價不便宜，但食物質素交到貨有突，味道洽到好處。牛舌芯、生蠔、唐揚、雞翼、都好食\n冇去日本後好耐冇見過用楓葉裝飾，唔知十一二月來會唔會有紅葉🍁呢\n店面不大，小店格局，坐吧檯可以睇到廚師準備食物",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "九龍城的小店\n店員服務親切有禮\n定價不便宜，但食物質素交到貨有突，味道洽到好處。牛舌芯、生蠔、唐揚、雞翼、都好食\n冇去日本後好耐冇見過用楓葉裝飾，唔知十一二月來會唔會有紅葉🍁呢\n店面不大，小店格局，坐吧檯可以睇到廚師準備食物",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Catie Chan",
+          "uri": "https://www.google.com/maps/contrib/113343446499779204403/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKPQKRuT3Of3Mg-AejOtfP7sDS92QIBU6ToeFYcWahPgE9kWw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2022-06-25T06:45:46.048125Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURPa01YWG5nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURPa01YWG5nRRAB!2m1!1s0x340401d6fde3282b:0xa72371144eed41e8"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCoffee": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401d6fde3282b:0xa72371144eed41e8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12043594160556294632&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401d6fde3282b:0xa72371144eed41e8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401d6fde3282b:0xa72371144eed41e8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401d6fde3282b:0xa72371144eed41e8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJKyjj_dYBBDQR6EHtThRxI6c/photos/Aa-ngMayld2P1pgCytxXNb5-XfnsC9ezXaR1tjsqD7mrkV4VWotEzNKI5xRrrlKeXONTUhCoW3XwwGRsqYyX8yYF3O5I7_QvgFWoshZxXptV3WmOTa8eDKdlupSUWk_x8hCFk7qRJ7bNc1qcdqLol3PrhQCZGIgR0bQLELW2SIDNxk0Y3EYjS-z5gqGMixqUGK3hLPhcEHXyXP4HHchSPqfzyHmNpzt3OjMQslK3PwFU4srGzcRnBikQ5Y2dTBFH-8FrIID7lQKXpjekYOhZdEDEvogPENey8Xx1YcwGVdBOF-8cPHmbKBQadgZ-Txx9E6HHiZMrNq0XP7A44OwE5lMgyuue_lJnSEB26Uj9hh-NvUM079FRnYodpCAz_dV1AeflQi91oVkMlr2Qrh6wM4rQ6xkJRneQ",
+      "widthPx": 768,
+      "heightPx": 1024,
+      "authorAttributions": [
+        {
+          "displayName": "陸奧酒場",
+          "uri": "https://maps.google.com/maps/contrib/108243823135885527092",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0fzXp44ZNvAhch7zgkjXQ1H6kd-5wuMd9nNBq7MubNeUoug=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC81eb9vQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC81eb9vQE!2e10!4m2!3m1!1s0x340401d6fde3282b:0xa72371144eed41e8"
+    },
+    "local_path": "photos/ChIJKyjj_dYBBDQR6EHtThRxI6c.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_mGRRezBcJo217EptbsDLC5X3su6lxNk40JTQCAibmyNHf3UdiAeHeYCqRtbBV-Npn-AidMfWsabI93P0lwaPtttwRxox7tTe93NZA4ErySn4Ar8PdbdxSe67UYEvfXuYWR35=s4800-w768",
+    "content_type": "image/jpeg",
+    "bytes": 110435
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_izakaya_restaurant",
+    "label": "居酒屋",
+    "types": [
+      "japanese_izakaya_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

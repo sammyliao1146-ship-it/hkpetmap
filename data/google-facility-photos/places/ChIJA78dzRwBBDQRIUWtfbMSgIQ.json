@@ -1,0 +1,40 @@
+{
+  "id": "ChIJA78dzRwBBDQRIUWtfbMSgIQ",
+  "types": [
+    "pet_boarding_service",
+    "store",
+    "pet_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Shop D, 2A Wing Hing St, Causeway Bay, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.2849632,
+    "longitude": 114.19117
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9547651772142404897&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Wagging Tails",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJA78dzRwBBDQRIUWtfbMSgIQ/photos/Aa-ngMbRlPFX33k6MOdyc9w38PcYREdoa9388xWBv7Lf4g0HsoWvXE1m-HFqrUb8imV_5BXams2-TZEOSyNILF9nLBoGeQQvtzvtV-y4h6JXQKPpuce_RMuBU72t-UXGebd7tSz7u9LkBbX6JDqQULFBmohygicN3MP-GSE5PU-gDu8e8EFkrjxAonJ4fiBFig-__6HQiJJo-Zouw_HtNqehWjbsqV96PDWtXwIeG5adD96di6jEhx821nigg_3EyVKqizIM2YUNOdMsZxPVPliugnddOvwkecfWVuI9Wh1hUnQAacijCu8whFYbfrhcoRBNOhMDwA4sojNljDoUrc7Uxk45QuifNAgwH9q3DktrGhRi4uAufxaT08unNU0ux_eUIf7uSdvPtaciF--muFnXmOZO0Kg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "HoRay 5ive",
+          "uri": "https://maps.google.com/maps/contrib/100653415959406642576",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWp8L_Mi0ZMreXt0a6AgajV8H9v5R1VoQjANHOeNYi3qPSXtocp=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDc6uWhGg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDc6uWhGg!2e10!4m2!3m1!1s0x3404011ccd1dbf03:0x848012b37dad4521"
+    }
+  ],
+  "photo_count": 8,
+  "fetched_at": "2026-10-24T00:38:10.325987+00:00"
+}

@@ -1,0 +1,320 @@
+{
+  "google_place_id": "ChIJuWUcBIkBBDQR4cEKMHxEmG4",
+  "restaurant_ids": [
+    "restaurant:3111803984",
+    "restaurant:3111803160"
+  ],
+  "fetched_at": "2026-10-23T15:40:12.924761+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJuWUcBIkBBDQR4cEKMHxEmG4",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3705 1008",
+    "internationalPhoneNumber": "+852 3705 1008",
+    "formattedAddress": "香港香港島柴灣環翠道",
+    "location": {
+      "latitude": 22.262016499999998,
+      "longitude": 114.2358251
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=7969194840804737505&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.barpacific.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 4,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:30 – 04:00",
+        "星期二: 16:30 – 04:00",
+        "星期三: 16:30 – 04:00",
+        "星期四: 16:30 – 04:00",
+        "星期五: 16:30 – 04:00",
+        "星期六: 16:30 – 04:00",
+        "星期日: 16:30 – 04:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 41,
+    "displayName": {
+      "text": "Bar Pacific 太平洋酒吧",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJuWUcBIkBBDQR4cEKMHxEmG4/reviews/ChdDSUhNMG9nS0VJQ0FnSURlOXJpcm9RRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "好舒服嘅地方，朋友一聚，傾下偈，掉下飛鏢，好好玩。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好舒服嘅地方，朋友一聚，傾下偈，掉下飛鏢，好好玩。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ng Dicky",
+          "uri": "https://www.google.com/maps/contrib/110719362184530710780/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXHrvQn7zS88NKuKXeJRBLaTYW6PLk6lEoDevHnPmeadidnkcDSA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-10-17T12:33:12.799660Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURlOXJpcm9RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURlOXJpcm9RRRAB!2m1!1s0x34040189041c65b9:0x6e98447c300ac1e1"
+      },
+      {
+        "name": "places/ChIJuWUcBIkBBDQR4cEKMHxEmG4/reviews/ChdDSUhNMG9nS0VJQ0FnSURIOEo3OF9RRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "氛圍一般，酒價偏高，算無聊",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "氛圍一般，酒價偏高，算無聊",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "藍色滿天星",
+          "uri": "https://www.google.com/maps/contrib/106194574260678586397/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMifuBI62x4RfQXgUnevVv39WjSbW1aOXGkhRkL4eZr1SalEsd=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-09-11T16:53:28.967357Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIOEo3OF9RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIOEo3OF9RRRAB!2m1!1s0x34040189041c65b9:0x6e98447c300ac1e1"
+      },
+      {
+        "name": "places/ChIJuWUcBIkBBDQR4cEKMHxEmG4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNncGNMTC1nRRAB",
+        "relativePublishTimeDescription": "14 年前",
+        "rating": 2,
+        "text": {
+          "text": "差到無朋友～電腦又舊又慢",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "差到無朋友～電腦又舊又慢",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "起黃",
+          "uri": "https://www.google.com/maps/contrib/101832033769427494351/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJNuE06iFTlDdUqBP4xsU1ABoASZ0XN1eAktylw2HCPhJgRQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2012-10-04T23:25:19.330802Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNncGNMTC1nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNncGNMTC1nRRAB!2m1!1s0x34040189041c65b9:0x6e98447c300ac1e1"
+      },
+      {
+        "name": "places/ChIJuWUcBIkBBDQR4cEKMHxEmG4/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNnFtQTdnRRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 3,
+        "text": {
+          "text": "消閒之選",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "消閒之選",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eric Li",
+          "uri": "https://www.google.com/maps/contrib/110184353252850887392/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7TsgeYU3nS_FylfjF6EVHaWKJS6VuVqQ5bgn7nfmvCK4kjQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2018-05-06T08:20:29.134Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBNnFtQTdnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBNnFtQTdnRRAB!2m1!1s0x34040189041c65b9:0x6e98447c300ac1e1"
+      },
+      {
+        "name": "places/ChIJuWUcBIkBBDQR4cEKMHxEmG4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwOTc2WVlBEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "員工so nice",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "員工so nice",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yu Ching Lau",
+          "uri": "https://www.google.com/maps/contrib/104064859378554143530/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKEC8tkqJPWDgZ9HpWInh8bpenvYqx2dSDa1HlFz2uy0bIfag=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-08-12T13:47:35.505238Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwOTc2WVlBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwOTc2WVlBEAE!2m1!1s0x34040189041c65b9:0x6e98447c300ac1e1"
+      }
+    ],
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040189041c65b9:0x6e98447c300ac1e1!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7969194840804737505&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040189041c65b9:0x6e98447c300ac1e1!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040189041c65b9:0x6e98447c300ac1e1!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040189041c65b9:0x6e98447c300ac1e1!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJuWUcBIkBBDQR4cEKMHxEmG4/photos/Aa-ngMYEBfD4g5WLJ4S-WAif6Kj2Om4dzeJLU56wkWohPQWPVJ14ArijD21KzJP6R2p9t1bZs1hTq2YlkbOJlx6GW_lm0CPeSgQaseiMQdJGmVL5f3FWPop8Vqp5Lry2zEoml9hVY5UmrC5coz3ZqnBiWccYWJ95LhK-qlJmaaDJC2lQgesTYyo9KQpyfwB0arHNLsssMuEy9dLTlYizyQxtLwbr4ILmU0ViLL1GLQbNETlks1Ep4cYwrdwEEMeU1dfewNNvB0pUQ8Ftg-tiTAkiDACdWEUK8bHOQBPqk4os7sOSb5DiVLfIeCKiJOVL45Mt4SeFcLWPUN0RxVeSEADcvgfezyVttQvRMQbD5c_iJjBSTzvNepdY4DblKejAwe0TnwMM6dANq1InVtTjQYSpZH5jh9o",
+      "widthPx": 4640,
+      "heightPx": 3480,
+      "authorAttributions": [
+        {
+          "displayName": "Julian March",
+          "uri": "https://maps.google.com/maps/contrib/102740412863287451738",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0pcOsUhMepuXWttyt5kQ-ILoMO7uwZbg_e4jArIHbd8BR4GZ70w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDcr5m_dw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcr5m_dw!2e10!4m2!3m1!1s0x34040189041c65b9:0x6e98447c300ac1e1"
+    },
+    "local_path": "photos/ChIJuWUcBIkBBDQR4cEKMHxEmG4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcn2XXdML81UyVXvwAwr4qdzmp9xNkQ57TMOsyJadvf6CDXOznYbgtkMeQSrlbWnbbHnjJYZUPR5J9hDG-NU77_LwADzcM29nIf9dvOmOW82exVYdDEyIxkxHPsbkVi91vC_6l5=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 149960
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

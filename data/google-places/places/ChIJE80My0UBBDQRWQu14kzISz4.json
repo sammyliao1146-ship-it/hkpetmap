@@ -1,0 +1,330 @@
+{
+  "google_place_id": "ChIJE80My0UBBDQRWQu14kzISz4",
+  "restaurant_ids": [
+    "restaurant:3161811443"
+  ],
+  "fetched_at": "2026-10-23T15:52:24.259240+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJE80My0UBBDQRWQu14kzISz4",
+    "types": [
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9390 5310",
+    "internationalPhoneNumber": "+852 9390 5310",
+    "formattedAddress": "Unit GF-05, G/F, Art Park. 22 Museum Drive, West Kowloon, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.2989249,
+      "longitude": 114.1559387
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=4488901686151416665&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://yearshk.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 21:00",
+        "星期二: 08:00 – 21:00",
+        "星期三: 08:00 – 21:00",
+        "星期四: 08:00 – 21:00",
+        "星期五: 08:00 – 21:00",
+        "星期六: 08:00 – 21:00",
+        "星期日: 08:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 58,
+    "displayName": {
+      "text": "Play with Years 素年",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "素食餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "vegan_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJE80My0UBBDQRWQu14kzISz4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pONGJHbG9ZMHh4VjNwalpYTjVaemR1VVVsV2NuYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "西九文化區有不少餐廳，這應該是地區唯一一間全素食餐廳！ 素食餐廳餐牌選擇頗多，又簡單烘焙類、沙律，碳水、漢堡、甜品等不同選擇！\n\n位置靠近海邊，景色不錯，當日餐廳用餐人數合理，用餐環境舒服！\n\n店員服務正常發揮。\n\n提供水，但需要向店員自行詢問！\n\n有關不同食品的評價內容可以參考附上的照片中不同的標記！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西九文化區有不少餐廳，這應該是地區唯一一間全素食餐廳！ 素食餐廳餐牌選擇頗多，又簡單烘焙類、沙律，碳水、漢堡、甜品等不同選擇！\n\n位置靠近海邊，景色不錯，當日餐廳用餐人數合理，用餐環境舒服！\n\n店員服務正常發揮。\n\n提供水，但需要向店員自行詢問！\n\n有關不同食品的評價內容可以參考附上的照片中不同的標記！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Esther Lizette",
+          "uri": "https://www.google.com/maps/contrib/111078166751777149712/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZx1ao2UGoIJbjq5emDaVJZL1ay9G1Z7TgB_bbbHo3D5LdOu0H1w=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-10T20:40:12.223537331Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pONGJHbG9ZMHh4VjNwalpYTjVaemR1VVVsV2NuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pONGJHbG9ZMHh4VjNwalpYTjVaemR1VVVsV2NuYxAB!2m1!1s0x34040145cb0ccd13:0x3e4bc84ce2b50b59"
+      },
+      {
+        "name": "places/ChIJE80My0UBBDQRWQu14kzISz4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjM1ptOXBkbE5YYjFGRk1EQlVlbGx0Vkd0SVFXYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "我覺得呢間分店係最好食嘅素年\n\n肉醬意粉做得有誠意\n意粉煙靭又掛汁\n\n芫荽漢堡麵包外脆內軟\n漢堡真係好似牛肉漢堡，煎得好香\n薯條好好味！\n\n手搖荔枝茶\n真係唔錯👍🏻\n\n不過真係熱……冷氣有冇得搞搞佢？🤣",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我覺得呢間分店係最好食嘅素年\n\n肉醬意粉做得有誠意\n意粉煙靭又掛汁\n\n芫荽漢堡麵包外脆內軟\n漢堡真係好似牛肉漢堡，煎得好香\n薯條好好味！\n\n手搖荔枝茶\n真係唔錯👍🏻\n\n不過真係熱……冷氣有冇得搞搞佢？🤣",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Terry Ip",
+          "uri": "https://www.google.com/maps/contrib/108891728446155676514/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZCbE4zCKT0Q1Y8qlSd3WjFPepKCrCFNM8y-WmczUhRWiBmB8=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-27T16:22:09.922884997Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xjM1ptOXBkbE5YYjFGRk1EQlVlbGx0Vkd0SVFXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjM1ptOXBkbE5YYjFGRk1EQlVlbGx0Vkd0SVFXYxAB!2m1!1s0x34040145cb0ccd13:0x3e4bc84ce2b50b59"
+      },
+      {
+        "name": "places/ChIJE80My0UBBDQRWQu14kzISz4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kM2VHbHlZVFozY1daTlQxbGxhSFF4YkRKME5IYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "第一次去素年西九文化區嘅分店，店舖座位唔多，所以我哋預先book定位。新春期間每枱送一碟素撈起。\n\n日式烤野菜財源滾滾湯咖喱飯\n配酥炸素雞膇 ($158)\n咖喱汁好惹味，唔係好辣、有少少番茄味，送飯一流。配料有烤椰菜花、甘筍、薯仔、南瓜同燈籠椒。\n\n一路發財Play All Day全日早餐 ($168)\n中間嘅奇亞籽燕麥杯有燕麥奶味，似食緊麥皮。黃色球狀嘅食材係南瓜蓉，有少少沙律醬嘅味。\n\n三文魚躍鳶飛牛油果芒果蓋飯碗/沙律碗 ($138)\n\n年年有餘盤滿缽滿撈起拼盤 (送)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第一次去素年西九文化區嘅分店，店舖座位唔多，所以我哋預先book定位。新春期間每枱送一碟素撈起。\n\n日式烤野菜財源滾滾湯咖喱飯\n配酥炸素雞膇 ($158)\n咖喱汁好惹味，唔係好辣、有少少番茄味，送飯一流。配料有烤椰菜花、甘筍、薯仔、南瓜同燈籠椒。\n\n一路發財Play All Day全日早餐 ($168)\n中間嘅奇亞籽燕麥杯有燕麥奶味，似食緊麥皮。黃色球狀嘅食材係南瓜蓉，有少少沙律醬嘅味。\n\n三文魚躍鳶飛牛油果芒果蓋飯碗/沙律碗 ($138)\n\n年年有餘盤滿缽滿撈起拼盤 (送)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Polly Chan",
+          "uri": "https://www.google.com/maps/contrib/115436191843899224767/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIFGm7X9T_l2Tu8W8Tgcc-eJR0ZFpWkiWGm4p3jPaGnWBcIPw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-01T11:30:08.152204581Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kM2VHbHlZVFozY1daTlQxbGxhSFF4YkRKME5IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kM2VHbHlZVFozY1daTlQxbGxhSFF4YkRKME5IYxAB!2m1!1s0x34040145cb0ccd13:0x3e4bc84ce2b50b59"
+      },
+      {
+        "name": "places/ChIJE80My0UBBDQRWQu14kzISz4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1cmRqUmxWRWxxYmpoNVMyNDVXR2s0UjJWcFNuYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "Years 西九文化分店\n\n去咗西九文化區睇野，順便入咗 Years 西九文化分店試下。地點幾靚，喺海邊，坐戶外睇景好舒服。不過可能因為近海同人多，餐廳入面啲冷氣真係唔夠力，坐耐咗會覺得有啲焗，夏天嚟應該幾考驗耐性。唔知係唔係因為打開道門冷氣走晒。\n\n送餐速度偏慢，可能係廚房人手唔夠。油煙都幾大。\n\n另外店內有賣雪糕，有啲人買完雪糕會搵個位坐低，但係餐廳應該係帶位模式，唔係自己搵位嗰種，咁呢就會有啲令人混淆混亂，唔知點做好。\n\n主食叫咗意粉，麵煮得唔錯，彈牙度OK。不過調味偏甜，鹹味唔太夠，如果再鹹少少會更平衡，食落更惹味。漢堡包就係一貫水準，素食人士最佳選擇。\n\n飲品方面我叫咗荔枝檸檬梳打，呢個就幾驚喜，夠冰夠清爽，甜度控制得好，配住主食一齊飲好解膩，喺咁熱嘅環境入面特別加分。Super C 100%果汁，冇得輸。\n\n另外意大利雪糕採用植物奶，幾清新唔錯。\n\n總括嚟講，Years 西九文化分店環境好，景觀一流，夜晚去更加浪漫。但冷氣同出餐速度可以改善。食物味道有潛力，只係調味未算最理想。飲品反而成為亮點，梳打清新得嚟唔會死甜。適合唔趕時間，想hea住睇海、慢慢歎嘢飲嘅人。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Years 西九文化分店\n\n去咗西九文化區睇野，順便入咗 Years 西九文化分店試下。地點幾靚，喺海邊，坐戶外睇景好舒服。不過可能因為近海同人多，餐廳入面啲冷氣真係唔夠力，坐耐咗會覺得有啲焗，夏天嚟應該幾考驗耐性。唔知係唔係因為打開道門冷氣走晒。\n\n送餐速度偏慢，可能係廚房人手唔夠。油煙都幾大。\n\n另外店內有賣雪糕，有啲人買完雪糕會搵個位坐低，但係餐廳應該係帶位模式，唔係自己搵位嗰種，咁呢就會有啲令人混淆混亂，唔知點做好。\n\n主食叫咗意粉，麵煮得唔錯，彈牙度OK。不過調味偏甜，鹹味唔太夠，如果再鹹少少會更平衡，食落更惹味。漢堡包就係一貫水準，素食人士最佳選擇。\n\n飲品方面我叫咗荔枝檸檬梳打，呢個就幾驚喜，夠冰夠清爽，甜度控制得好，配住主食一齊飲好解膩，喺咁熱嘅環境入面特別加分。Super C 100%果汁，冇得輸。\n\n另外意大利雪糕採用植物奶，幾清新唔錯。\n\n總括嚟講，Years 西九文化分店環境好，景觀一流，夜晚去更加浪漫。但冷氣同出餐速度可以改善。食物味道有潛力，只係調味未算最理想。飲品反而成為亮點，梳打清新得嚟唔會死甜。適合唔趕時間，想hea住睇海、慢慢歎嘢飲嘅人。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Piyo - ピヨイー",
+          "uri": "https://www.google.com/maps/contrib/113340592579737056999/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaemXiXhHw9DDg9NRhXb0BUaJu3FKFRZq6Vla5uZN0J2hZA3AS=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-10-22T07:28:41.114018201Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1cmRqUmxWRWxxYmpoNVMyNDVXR2s0UjJWcFNuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1cmRqUmxWRWxxYmpoNVMyNDVXR2s0UjJWcFNuYxAB!2m1!1s0x34040145cb0ccd13:0x3e4bc84ce2b50b59"
+      },
+      {
+        "name": "places/ChIJE80My0UBBDQRWQu14kzISz4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGeFFVOHpUMjlyVVhCcVZqRjBjMWx3Tlcwd2JWRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "對素年years.hk最大嘅印象當然就係灣仔藍屋嘅 wanaka，係素年唯一一間可以坐室外嘅Dog Friendly店 🐾，不過宜家唔只一間，位於📍西九文化區嘅分店 “Play with Years”終於開咗啦，毛孩雖有唔能夠入內但團隊對毛孩都好友善🐩🦮！\n─ · ─ · ─ · ─ · ─\n奴才對佢個無花果酸種麵包好有興趣，可惜原來係早餐限定（8-11am）😧！最後佢叫咗🌶️麻辣米線配素魚腐，完全唔辣，但蒜味好重 🧄，如果個醬汁可以厚身少少掛汁效果會更好。\n─ · ─ · ─ · ─ · ─\n西九限定嘅純素gelato 雪糕不得不試🍨，店內嘅海報誇下海口稱自己係全香港最好食，口味多又夠地道而且性價比幾高，奴才自己搭配黑芝麻豆腐口味 🖤🤍，佢評價係「唔甜」但味道相比起傳統用上牛奶嘅意式雪糕唔濃，不過應該係西九內最好，絕對可以一試吖。\n─ · ─ · ─ · ─ · ─\n椰子控嘅佢飲品叫咗matcha coconut🍵🥥，坦白講抹茶一定唔係高質，所以定價算進取。店內仲有提供各類烘焙單品，適合輕食嘅朋友🍪🥐🥯。\n\nFollow me @bichoncoolcool",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "對素年years.hk最大嘅印象當然就係灣仔藍屋嘅 wanaka，係素年唯一一間可以坐室外嘅Dog Friendly店 🐾，不過宜家唔只一間，位於📍西九文化區嘅分店 “Play with Years”終於開咗啦，毛孩雖有唔能夠入內但團隊對毛孩都好友善🐩🦮！\n─ · ─ · ─ · ─ · ─\n奴才對佢個無花果酸種麵包好有興趣，可惜原來係早餐限定（8-11am）😧！最後佢叫咗🌶️麻辣米線配素魚腐，完全唔辣，但蒜味好重 🧄，如果個醬汁可以厚身少少掛汁效果會更好。\n─ · ─ · ─ · ─ · ─\n西九限定嘅純素gelato 雪糕不得不試🍨，店內嘅海報誇下海口稱自己係全香港最好食，口味多又夠地道而且性價比幾高，奴才自己搭配黑芝麻豆腐口味 🖤🤍，佢評價係「唔甜」但味道相比起傳統用上牛奶嘅意式雪糕唔濃，不過應該係西九內最好，絕對可以一試吖。\n─ · ─ · ─ · ─ · ─\n椰子控嘅佢飲品叫咗matcha coconut🍵🥥，坦白講抹茶一定唔係高質，所以定價算進取。店內仲有提供各類烘焙單品，適合輕食嘅朋友🍪🥐🥯。\n\nFollow me @bichoncoolcool",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "bichon cool cool",
+          "uri": "https://www.google.com/maps/contrib/112164155056675208064/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaO0y91KOXmOR7-psu5_pzmgFpl5K_DH3kLsPvV7CNzM4IZp8=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-09-11T05:54:14.795198429Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGeFFVOHpUMjlyVVhCcVZqRjBjMWx3Tlcwd2JWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGeFFVOHpUMjlyVVhCcVZqRjBjMWx3Tlcwd2JWRRAB!2m1!1s0x34040145cb0ccd13:0x3e4bc84ce2b50b59"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040145cb0ccd13:0x3e4bc84ce2b50b59!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4488901686151416665&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040145cb0ccd13:0x3e4bc84ce2b50b59!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040145cb0ccd13:0x3e4bc84ce2b50b59!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040145cb0ccd13:0x3e4bc84ce2b50b59!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJE80My0UBBDQRWQu14kzISz4/photos/Aa-ngMZIyrZhz2fxueFkFSprqwNHZMo7RSndOrB4_YyClX7fFxlx9uAATZJ2w8mWB8i_zIwCmRNMms_WCsoAjSX14hOfX3sF-f5CPpBh-Kz6Pqa5bN5eMQtS9I_Cc6D8pdwPABktRqmuP9VeYQwQtSL1gVAklXwfTkfhOgbFYSpckZGVjG9yVWDDIhSDCTGW878LXx6ZPNny9ozl4AjVVaVH8ANlPhpPvctyoOwqwa-Dh3lhoKSeOtrQOFnNWEIXP2e5hMnqkrR8-UU12C9lUMLzhQQieT3zBUFzmG9_5YgpjVcBG1eijJYvacIELpP88tY68oD0dYAtXYfh7Pp5CMWqBST5gFW7DLKg3oVN4_MKxiiuBbAU3rGwZcxKfhwdQUBitj7YUZsf95SYqQ80e11pBolfRS9-p0I3jQsjySs2zmWf",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Keith Huang (MrKeithHuang)",
+          "uri": "https://maps.google.com/maps/contrib/109352308814446610924",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFuoQPMnUuh0CUC3JOV-snWy76HBarVEsVr3PoUlIRBcBD6Mewvg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAdrehiDiukY3rrKzSJ-dxz&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAdrehiDiukY3rrKzSJ-dxz!2e10!4m2!3m1!1s0x34040145cb0ccd13:0x3e4bc84ce2b50b59"
+    },
+    "local_path": "photos/ChIJE80My0UBBDQRWQu14kzISz4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyD02JdSldENfCG85DqMOX0jtaYeDAislYQQG_19S-m63Pq1m7GInU9tzkykXyUdWl2FB7tEzMGLVbIZR453SV_xNyQF4Juv8WToGv-mTHMV_3hgdPbtgCHsOab3GGbzmd9N7wuTGX0Ek=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 145762
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.yearshk.com/pages/menu",
+        "label": "SHOPS & MENUS｜分店資料及餐單",
+        "source_url": "https://www.yearshk.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.yearshk.com/collections/years-party-set",
+        "label": "Years Party Set 到會餐單",
+        "source_url": "https://www.yearshk.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "vegan_restaurant",
+    "label": "素食餐廳",
+    "types": [
+      "vegan_restaurant",
+      "vegetarian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.yearshk.com/pages/menu"
+}

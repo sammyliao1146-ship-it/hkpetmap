@@ -1,0 +1,38 @@
+{
+  "id": "ChIJe9HsXAABBDQRQ5SWdS6v6tA",
+  "types": [
+    "pet_care",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "9號 Yen Chow St, Sham Shui Po, Kowloon, 香港",
+  "location": {
+    "latitude": 22.3288123,
+    "longitude": 114.1580363
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15054037318515463235&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "阿棍屋",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJe9HsXAABBDQRQ5SWdS6v6tA/photos/Aa-ngMb87GMKxBsh8BCYAxHouVt0CE3G0nPgElFmMpYPiOHj5Q4ExRFFK9lYcBUu5CA33TQyogCVKzUQsW7NKAs8NDzYj_EFZiQF95pWKpD1xSVyARG0248x7fg6TAnXKVdOme14C9Vm-jTl2sqBwKfyBefGm66jLa9mpigEFe_1f23Z8vjkr5QyN-WAjJW8X9ZcJ5eweU-8Y_tCi1xfCWRdf2A_Tg9bnJCaohmEG72Asq4tOrm2OZXYE609jlBpWvsRQTHHdjiCzPfU_E-LqoZq9W5OgNtUBK-neBpgve71c-LkUZe0nhNVWyF25_X8C3U0K1IidP1P2ahtRShZAqK8S_tFXDXCiybEDV_S86oqUorsjx5z3MyHbI2ySJ-dACCaD1YJF7h1EXfiYyVJnYHzxkfKQLUin1rfVDrDVF7NF6ra5w",
+      "widthPx": 4096,
+      "heightPx": 1840,
+      "authorAttributions": [
+        {
+          "displayName": "Ranze Leung",
+          "uri": "https://maps.google.com/maps/contrib/114877060347141131898",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5tmHFS_WrdKG7JBOZHkqXSpg6epsy-EmtCGH180oRv0OxBQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDse07UO2UB_LfYMNLNKrpg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDse07UO2UB_LfYMNLNKrpg!2e10!4m2!3m1!1s0x340401005cecd17b:0xd0eaaf2e75969443"
+    }
+  ],
+  "photo_count": 1,
+  "fetched_at": "2026-10-24T00:38:41.901667+00:00"
+}

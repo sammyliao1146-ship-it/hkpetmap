@@ -1,0 +1,339 @@
+{
+  "google_place_id": "ChIJk3wyK5YFBDQRg20ecqrJPoo",
+  "restaurant_ids": [
+    "restaurant:3198800313"
+  ],
+  "fetched_at": "2026-10-23T15:49:32.841738+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJk3wyK5YFBDQRg20ecqrJPoo",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2792 7725",
+    "internationalPhoneNumber": "+852 2792 7725",
+    "formattedAddress": "香港新界西貢親民街16號",
+    "location": {
+      "latitude": 22.382303099999998,
+      "longitude": 114.2717268
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=9961621159686335875&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.starbucks.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 21:00",
+        "星期二: 07:00 – 21:00",
+        "星期三: 07:00 – 21:00",
+        "星期四: 07:00 – 21:00",
+        "星期五: 07:00 – 21:00",
+        "星期六: 07:00 – 21:00",
+        "星期日: 07:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 386,
+    "displayName": {
+      "text": "星巴克 (親民街店)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": false,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "editorialSummary": {
+      "text": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJk3wyK5YFBDQRg20ecqrJPoo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBd3VDQWlnRRAB",
+        "relativePublishTimeDescription": "9 年前",
+        "rating": 4,
+        "text": {
+          "text": "西貢這間星巴克職員服務態度很親切。 除了室內位置，也可坐在門口露天桌椅，親近一下西貢小市鎮的風味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西貢這間星巴克職員服務態度很親切。 除了室內位置，也可坐在門口露天桌椅，親近一下西貢小市鎮的風味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "tak shing Chan",
+          "uri": "https://www.google.com/maps/contrib/114174252366459298054/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVs1FS6bpJEUcu-7AxuxsuFesFoEPThb98ab4Y642hLrz9Ns1dabw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2017-01-07T06:42:06.674Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBd3VDQWlnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBd3VDQWlnRRAB!2m1!1s0x340405962b327c93:0x8a3ec9aa721e6d83"
+      },
+      {
+        "name": "places/ChIJk3wyK5YFBDQRg20ecqrJPoo/reviews/ChdDSUhNMG9nS0VJQ0FnSURGaU1IR3NBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 2,
+        "text": {
+          "text": "再次到來 但服務非常差 飲品加了價 杯中冇寫上姓名  冇法辦別 當時我傾電話 就坐在旁邊 但他們說叫了 因為我在傾電話 聽唔到 請問你叫果杯野飲名聽唔到定我個名\n再次問個男仔 非常不耐煩 回答已叫了 叫了什麼？ 不能同時有同個客戶點這杯飲品嗎 之前的服務還可以 現在的是 差 差 差\n冷氣仲要不足",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "再次到來 但服務非常差 飲品加了價 杯中冇寫上姓名  冇法辦別 當時我傾電話 就坐在旁邊 但他們說叫了 因為我在傾電話 聽唔到 請問你叫果杯野飲名聽唔到定我個名\n再次問個男仔 非常不耐煩 回答已叫了 叫了什麼？ 不能同時有同個客戶點這杯飲品嗎 之前的服務還可以 現在的是 差 差 差\n冷氣仲要不足",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tony Bogard",
+          "uri": "https://www.google.com/maps/contrib/107973715502223923059/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4WTmXquyFSLRfwbzoLVSHeREqtJiArwfoKKhAKbtgq1J-vRgu=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-08-08T04:24:44.885625Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGaU1IR3NBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGaU1IR3NBRRAB!2m1!1s0x340405962b327c93:0x8a3ec9aa721e6d83"
+      },
+      {
+        "name": "places/ChIJk3wyK5YFBDQRg20ecqrJPoo/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdklhVWRnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "交通利便:🎉🌞🏕️😁😃🎉\n乘坐着港鐵去彩虹站找C2出口處🚝\n再坐西貢市中心區:🏕️🌞\n綠色專線小巴NO.1A巴士🚌\n九龍專線巴士NO.92巴士🚃\n便能到西貢市中心購物中心地帶🏕️🛍️\n該咖啡店特色:🎊😁☕☕😃🎊\n落地透視玻璃屏幕設計外牆👍🌟🙋\n外圍亦有提供客人悠閒座位🙇\n付款以電子繳付/現金等👍💰🛍️\n自加品牌消費處用品/食品等🛒🙋\n購物自在坐得舒心舒閒寬敞👍😁\n親切有禮笑容服務員仔細推介👍🧑‍💼🤵\n獨立整淨寬敞洗手間👍😁🚪\n嘆嘆咖啡店完畢並前往鄰近店舖:🙋🛍️\n24小時麥當勞/大型日用食物店/銀行\n購物輕鬆自在消閒好去處🎊🛍️🛒🎉",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "交通利便:🎉🌞🏕️😁😃🎉\n乘坐着港鐵去彩虹站找C2出口處🚝\n再坐西貢市中心區:🏕️🌞\n綠色專線小巴NO.1A巴士🚌\n九龍專線巴士NO.92巴士🚃\n便能到西貢市中心購物中心地帶🏕️🛍️\n該咖啡店特色:🎊😁☕☕😃🎊\n落地透視玻璃屏幕設計外牆👍🌟🙋\n外圍亦有提供客人悠閒座位🙇\n付款以電子繳付/現金等👍💰🛍️\n自加品牌消費處用品/食品等🛒🙋\n購物自在坐得舒心舒閒寬敞👍😁\n親切有禮笑容服務員仔細推介👍🧑‍💼🤵\n獨立整淨寬敞洗手間👍😁🚪\n嘆嘆咖啡店完畢並前往鄰近店舖:🙋🛍️\n24小時麥當勞/大型日用食物店/銀行\n購物輕鬆自在消閒好去處🎊🛍️🛒🎉",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kingking Lam",
+          "uri": "https://www.google.com/maps/contrib/116229362015329022292/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7G_dkETYCsCGl3_z70dFnI_L-UH6GAEiQEe_ZipSemxBFdhLY=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-01-14T09:28:30.889795Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCdklhVWRnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCdklhVWRnEAE!2m1!1s0x340405962b327c93:0x8a3ec9aa721e6d83"
+      },
+      {
+        "name": "places/ChIJk3wyK5YFBDQRg20ecqrJPoo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBOTVuTkZBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "西頁星巴克，地點方便，服務態度友善。嘆咖啡都算舒適平靜～～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西頁星巴克，地點方便，服務態度友善。嘆咖啡都算舒適平靜～～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Francis Tang",
+          "uri": "https://www.google.com/maps/contrib/109921771498723721045/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUj61slGMFHp8ruMGDZzTU0_tg0frchseIbiHgdJmOcfQvY87JD=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-02-05T11:31:01.264452Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBOTVuTkZBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBOTVuTkZBEAE!2m1!1s0x340405962b327c93:0x8a3ec9aa721e6d83"
+      },
+      {
+        "name": "places/ChIJk3wyK5YFBDQRg20ecqrJPoo/reviews/ChZDSUhNMG9nS0VJQ0FnSURnMzdfR1pnEAE",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 4,
+        "text": {
+          "text": "星巴克從來都是休閒，閱讀，聚首，上網，甚至傾生意(主要是談保險吧！)的好地方！這間位於香港西貢的也是，而更加有特色的是，會見到很多居住在附近的西方人來這裏，也有很多顧客帶領他們的狗狗來，主人坐在門前的室外餐桌，狗狗則伏在地上，一派柔閒的閱讀或閒聊，很有歐洲色彩！從星巴克走不遠就是海邊，假日遊人很多！狗狗也多！我常說西貢是人，狗狗和牛牛的天堂！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星巴克從來都是休閒，閱讀，聚首，上網，甚至傾生意(主要是談保險吧！)的好地方！這間位於香港西貢的也是，而更加有特色的是，會見到很多居住在附近的西方人來這裏，也有很多顧客帶領他們的狗狗來，主人坐在門前的室外餐桌，狗狗則伏在地上，一派柔閒的閱讀或閒聊，很有歐洲色彩！從星巴克走不遠就是海邊，假日遊人很多！狗狗也多！我常說西貢是人，狗狗和牛牛的天堂！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "K. C. Poon",
+          "uri": "https://www.google.com/maps/contrib/104193545122352011527/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5_swrx17JlA7j2UZaQ99-p6KwG7RPhlq1_l-EdMNWh83f=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2018-07-07T03:54:12.268Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURnMzdfR1pnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnMzdfR1pnEAE!2m1!1s0x340405962b327c93:0x8a3ec9aa721e6d83"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340405962b327c93:0x8a3ec9aa721e6d83!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9961621159686335875&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405962b327c93:0x8a3ec9aa721e6d83!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340405962b327c93:0x8a3ec9aa721e6d83!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405962b327c93:0x8a3ec9aa721e6d83!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJk3wyK5YFBDQRg20ecqrJPoo/photos/Aa-ngMbMv79K_8W-jzO84zosBzIl9lPJodD7QvoYjqFDPiQxUU5MoLTU_yhmoumev4gfYNvsvpWJRfGMxRcktkzW_qa1Czj23lOmJCIdbiGB2olVzrLVNZ6mKct2knmgw0ds8Wj8p_2dIFKlKyryQvjq0Wx_PGmg-20aFCYRtb_eNNshuFpqsh5QC9pcDXkyPhcGzFdW-Fv05SM5w9uNIh2BqPOyOwlXYgPHxlGm5iTOIa3d_nA9NnZvtMY7pxTNav_GOV0YGokAvpd7Q_fV4mPxWetB0b-D_uyw3orOfYuD14xAXU_DY0So_sNDEQNz7nO36xGdj1bCnVjEEJbNMp6hG2-0FXbjpzXqRtgN7CpJr0X1SaeFSpavhmDW0OUar74OqkrUx6Adh7jr0cWs6ZUmxVwcdRCCV78",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDXkoa-iAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXkoa-iAE!2e10!4m2!3m1!1s0x340405962b327c93:0x8a3ec9aa721e6d83"
+    },
+    "local_path": "photos/ChIJk3wyK5YFBDQRg20ecqrJPoo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRgYSxdoYfbruejVtO-pO3GTOJv2B34j-xFC4P4-IqBz5rJJobj1UBa0wjaxryUOAqttOkztAUPbeVt-QUhfnK1zZWDsqu-QOaxa7-xyN7iB16mMhr3B7a7nrG6F_CE1EQMeBrpQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 182364
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

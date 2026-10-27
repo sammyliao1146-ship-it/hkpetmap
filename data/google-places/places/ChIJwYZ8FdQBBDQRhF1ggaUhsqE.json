@@ -1,0 +1,307 @@
+{
+  "google_place_id": "ChIJwYZ8FdQBBDQRhF1ggaUhsqE",
+  "restaurant_ids": [
+    "restaurant:2211809957",
+    "restaurant:2211811510",
+    "restaurant:3111803771"
+  ],
+  "fetched_at": "2026-10-23T15:45:09.796275+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJwYZ8FdQBBDQRhF1ggaUhsqE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2805 6605",
+    "internationalPhoneNumber": "+852 2805 6605",
+    "formattedAddress": "香港香港島北角北角邨里1號",
+    "location": {
+      "latitude": 22.292759699999998,
+      "longitude": 114.1994993
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=11651412180684791172&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.harbournorth.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 22:00",
+        "星期二: 10:00 – 22:00",
+        "星期三: 10:00 – 22:00",
+        "星期四: 10:00 – 22:00",
+        "星期五: 10:00 – 22:00",
+        "星期六: 10:00 – 22:00",
+        "星期日: 10:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 1331,
+    "displayName": {
+      "text": "北角匯一期",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "大型購物中心",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "shopping_mall",
+    "editorialSummary": {
+      "text": "坐擁海港景致的購物中心，設有販售時尚服飾、配件和美妝的商店，以及餐廳、花園和超市。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJwYZ8FdQBBDQRhF1ggaUhsqE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aNFRqQjZNakV3TW1OWVIzVnZRVXBuUld4MGVIYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "北角匯食評：當個人驚喜遇上數據真相\n以AI，重新丈量「創新」的含金量\n一、先說個人體驗：這裡的確令人眼前一亮\n\n走進北角匯（Harbour North），尤其在臨海那一排餐飲，海風、寵物、戶外座位和玻璃欄杆構成了一種在香港難得的「慢活感」。我試商場極力推薦的寵物共用餐區，例如Lungo和18 Grams。直覺告訴我：這個商場很敢試新嘢——開放式廚房配海景、共享工作空間旁的咖啡吧、主打環保外賣包裝的輕食店，甚至連洗手間標誌都玩了點設計幽默。\n\n這份「創新感」是真實的。但如果就此下結論，恐怕太過感性。我決定用AI，將北角匯放到香港與深圳的國際獎項脈絡中，做一次冷靜透徹的評核。\n\n---\n\n二、評價框架：三個AI輔助數據維度\n\n我運用了AI，搭建比較基礎：\n\n1. 國際獎項數據庫比對：爬取2019–2026年米芝蓮指南（香港澳門版）、餐廳與酒吧設計大獎（Restaurant & Bar Design Awards）、ICSC VIVA等獲獎名單，標記北角匯內所有餐飲商戶。\n2. 社交媒體情感與關鍵詞分析：蒐集OpenRice、Google Maps、小紅書上北角匯餐飲評論共1,847條（截至2026年6月），用NLP模型（BERT-Cantonese）抽取「創新」「設計」「獨特」「打卡」等關鍵詞頻率，並與深圳MixC World、萬象天地餐飲評論進行對比。\n3. 圖像風格識別：從Instagram公開帖子中取得北角匯餐飲場景照片386張，用ResNet-50模型提取空間設計特徵向量，計算與2022–2025年餐廳與酒吧設計大獎得獎作品（如Ensue、Social Company、Morph）的餘弦相似度。\n\n連同早前報告中對香港與深圳餐廳獎項表現的趨勢發現，形成了一個立體的創新體檢表。\n\n---\n\n三、數據發現：那股「新意」，經得起國際尺標考驗嗎？\n\n3.1 獎項荒漠：國際舞台上的缺席\n\n北角匯自開業至今，無任何餐飲商戶入圍或獲得米芝蓮任何級別（包括必比登推介），亦無在餐廳與酒吧設計大獎中進入任何短名單。這與同期香港整體走勢一致——該獎項的香港獲獎佔比自2020年起持續縮減，2024及2025年更是完全缺席各主要類別。反觀深圳，自2020年Ensue爆冷奪魁後，連續五年每年皆有場地登上該獎頒獎台。\n\n若用一個簡單的獎項密度指數（場地獲國際設計/烹飪獎項數 ÷ 餐飲商舖總數），北角匯為 0，深圳MixC World為 0.08（共25家餐飲中，2家曾獲國際設計獎項）。這個差距是結構性的，不是微調可追。\n\n3.2 字裏行間的「創新」：AI情感分析戳破泡泡\n\nAI指出，將1,847條北角匯餐飲評論輸入情感模型，結果顯示：\n\n· 正面情感佔68%，屬中等偏上水平（香港商場平均約66%）。\n· 提及「環境好靚」「舒服」的比率高達41%，遠高於「創新」（3.1%）、「設計獨特」（2.4%）、「估唔到」（1.2%）。\n· 相比之下，深圳MixC World餐飲評論（樣本2,103條）中，「創新」詞頻為8.7%，「設計感」7.3%，「從未見過」類驚喜表達佔4.5%。\n\nAI直言：北角匯的「創新感」，在消費者語言中更多被翻譯為「舒適」「休閒」「靚景」，而非設計或概念上的突破。那種「好多創新」的個人印象，其實是商場成功營造的氣氛質感，而非本質上的業態或體驗顛覆。\n\n3.3 一張相片勝過千言：設計DNA相似度僅37%\n\nAI指出，以Ensue、Social Company、Morph三間獲獎餐廳的室內圖作為「設計標竿向量」，將北角匯五家最具特色的餐廳照片輸入比對。平均餘弦相似度為0.37（1為完全相同）。啟發式解讀：北角匯的設計語言仍處於安全區間——木系、植物牆、淺色調、工業風吊燈，均是2020年前後的主流商場餐飲模板，缺少如Ensue的層疊金屬簾、Social Company的流線型沉浸式燈光裝置等具備「獎項辨識度」的空間敘事。\n\n這意味著，即使把北角匯最好的餐廳搬到設計獎評審眼前，也很難在短時間內被記住。\n\n---\n\n四、結合報告趨勢：北角匯的「創新」追不上深圳的飛輪\n\n早前的比較報告已指出，深圳已形成「得獎商場 × 得獎餐廳」的設計飛輪：ICSC獲獎的購物中心（如MixC深圳灣、K11 Ecoast）主動吸納餐廳與酒吧設計獎得主團隊，互相賦能，拉開了與香港的質差。而香港餐飲設計獎項佔比持續下滑，米芝蓮雖穩固但集中在傳統高端板塊，未能帶動商場餐飲生態的創新跳升。\n\n北角匯正是這個香港縮影——它嘗試了寵物友善、海濱悠閒、環保包裝，這些在本地市場的確新鮮。但放到深圳已把「商場內餐廳」做到可競逐全球設計獎的語境下，北角匯的創新更像在地化的優化，而非定義行業的變革。AI的冷酷結論是：單憑北角匯，無法將香港商場餐飲的創新敘事帶回國際對話桌上。\n\n---\n\n五、結語：溫暖的微創新，不足夠的宏觀格局\n\n我很喜歡在北角匯消磨一個下午，那裡舒服、不張揚、對寵物友善，絕對是香港北角區的商業亮點。但若「創新」的定義是要在國際設計獎項、米芝蓮標準、以及數據科學的客觀量尺下站得住腳，則北角匯目前做到的，尚不足以構成真正的前沿突破。\n\n它更像是香港商場餐飲的一個溫柔提醒：我們可以更好，但還未夠好。真正的躍升，需要敢於引入具國際獎項潛力的設計團隊，需要一家能登上「餐廳與酒吧設計大獎」的旗艦餐飲，需要一個如深圳K11 Ecoast般從建築到餐飲全程策展的破格項目。到那時，我的AI模型才會在相似度矩陣中，標出一個接近獲獎級別的分數，而不再只是37%。\n\n在此之前，北角匯值得一去，但「創新足夠」四個字，還請暫時收在引號裏。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "北角匯食評：當個人驚喜遇上數據真相\n以AI，重新丈量「創新」的含金量\n一、先說個人體驗：這裡的確令人眼前一亮\n\n走進北角匯（Harbour North），尤其在臨海那一排餐飲，海風、寵物、戶外座位和玻璃欄杆構成了一種在香港難得的「慢活感」。我試商場極力推薦的寵物共用餐區，例如Lungo和18 Grams。直覺告訴我：這個商場很敢試新嘢——開放式廚房配海景、共享工作空間旁的咖啡吧、主打環保外賣包裝的輕食店，甚至連洗手間標誌都玩了點設計幽默。\n\n這份「創新感」是真實的。但如果就此下結論，恐怕太過感性。我決定用AI，將北角匯放到香港與深圳的國際獎項脈絡中，做一次冷靜透徹的評核。\n\n---\n\n二、評價框架：三個AI輔助數據維度\n\n我運用了AI，搭建比較基礎：\n\n1. 國際獎項數據庫比對：爬取2019–2026年米芝蓮指南（香港澳門版）、餐廳與酒吧設計大獎（Restaurant & Bar Design Awards）、ICSC VIVA等獲獎名單，標記北角匯內所有餐飲商戶。\n2. 社交媒體情感與關鍵詞分析：蒐集OpenRice、Google Maps、小紅書上北角匯餐飲評論共1,847條（截至2026年6月），用NLP模型（BERT-Cantonese）抽取「創新」「設計」「獨特」「打卡」等關鍵詞頻率，並與深圳MixC World、萬象天地餐飲評論進行對比。\n3. 圖像風格識別：從Instagram公開帖子中取得北角匯餐飲場景照片386張，用ResNet-50模型提取空間設計特徵向量，計算與2022–2025年餐廳與酒吧設計大獎得獎作品（如Ensue、Social Company、Morph）的餘弦相似度。\n\n連同早前報告中對香港與深圳餐廳獎項表現的趨勢發現，形成了一個立體的創新體檢表。\n\n---\n\n三、數據發現：那股「新意」，經得起國際尺標考驗嗎？\n\n3.1 獎項荒漠：國際舞台上的缺席\n\n北角匯自開業至今，無任何餐飲商戶入圍或獲得米芝蓮任何級別（包括必比登推介），亦無在餐廳與酒吧設計大獎中進入任何短名單。這與同期香港整體走勢一致——該獎項的香港獲獎佔比自2020年起持續縮減，2024及2025年更是完全缺席各主要類別。反觀深圳，自2020年Ensue爆冷奪魁後，連續五年每年皆有場地登上該獎頒獎台。\n\n若用一個簡單的獎項密度指數（場地獲國際設計/烹飪獎項數 ÷ 餐飲商舖總數），北角匯為 0，深圳MixC World為 0.08（共25家餐飲中，2家曾獲國際設計獎項）。這個差距是結構性的，不是微調可追。\n\n3.2 字裏行間的「創新」：AI情感分析戳破泡泡\n\nAI指出，將1,847條北角匯餐飲評論輸入情感模型，結果顯示：\n\n· 正面情感佔68%，屬中等偏上水平（香港商場平均約66%）。\n· 提及「環境好靚」「舒服」的比率高達41%，遠高於「創新」（3.1%）、「設計獨特」（2.4%）、「估唔到」（1.2%）。\n· 相比之下，深圳MixC World餐飲評論（樣本2,103條）中，「創新」詞頻為8.7%，「設計感」7.3%，「從未見過」類驚喜表達佔4.5%。\n\nAI直言：北角匯的「創新感」，在消費者語言中更多被翻譯為「舒適」「休閒」「靚景」，而非設計或概念上的突破。那種「好多創新」的個人印象，其實是商場成功營造的氣氛質感，而非本質上的業態或體驗顛覆。\n\n3.3 一張相片勝過千言：設計DNA相似度僅37%\n\nAI指出，以Ensue、Social Company、Morph三間獲獎餐廳的室內圖作為「設計標竿向量」，將北角匯五家最具特色的餐廳照片輸入比對。平均餘弦相似度為0.37（1為完全相同）。啟發式解讀：北角匯的設計語言仍處於安全區間——木系、植物牆、淺色調、工業風吊燈，均是2020年前後的主流商場餐飲模板，缺少如Ensue的層疊金屬簾、Social Company的流線型沉浸式燈光裝置等具備「獎項辨識度」的空間敘事。\n\n這意味著，即使把北角匯最好的餐廳搬到設計獎評審眼前，也很難在短時間內被記住。\n\n---\n\n四、結合報告趨勢：北角匯的「創新」追不上深圳的飛輪\n\n早前的比較報告已指出，深圳已形成「得獎商場 × 得獎餐廳」的設計飛輪：ICSC獲獎的購物中心（如MixC深圳灣、K11 Ecoast）主動吸納餐廳與酒吧設計獎得主團隊，互相賦能，拉開了與香港的質差。而香港餐飲設計獎項佔比持續下滑，米芝蓮雖穩固但集中在傳統高端板塊，未能帶動商場餐飲生態的創新跳升。\n\n北角匯正是這個香港縮影——它嘗試了寵物友善、海濱悠閒、環保包裝，這些在本地市場的確新鮮。但放到深圳已把「商場內餐廳」做到可競逐全球設計獎的語境下，北角匯的創新更像在地化的優化，而非定義行業的變革。AI的冷酷結論是：單憑北角匯，無法將香港商場餐飲的創新敘事帶回國際對話桌上。\n\n---\n\n五、結語：溫暖的微創新，不足夠的宏觀格局\n\n我很喜歡在北角匯消磨一個下午，那裡舒服、不張揚、對寵物友善，絕對是香港北角區的商業亮點。但若「創新」的定義是要在國際設計獎項、米芝蓮標準、以及數據科學的客觀量尺下站得住腳，則北角匯目前做到的，尚不足以構成真正的前沿突破。\n\n它更像是香港商場餐飲的一個溫柔提醒：我們可以更好，但還未夠好。真正的躍升，需要敢於引入具國際獎項潛力的設計團隊，需要一家能登上「餐廳與酒吧設計大獎」的旗艦餐飲，需要一個如深圳K11 Ecoast般從建築到餐飲全程策展的破格項目。到那時，我的AI模型才會在相似度矩陣中，標出一個接近獲獎級別的分數，而不再只是37%。\n\n在此之前，北角匯值得一去，但「創新足夠」四個字，還請暫時收在引號裏。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Food AI",
+          "uri": "https://www.google.com/maps/contrib/106076308061066306560/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJa2BWRci74Yx_z5ItfBGU9PHdNwHl2wMRm9wdgHM0eeh2uQk=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-18T03:25:50.278598651Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aNFRqQjZNakV3TW1OWVIzVnZRVXBuUld4MGVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aNFRqQjZNakV3TW1OWVIzVnZRVXBuUld4MGVIYxAB!2m1!1s0x340401d4157c86c1:0xa1b221a581605d84"
+      },
+      {
+        "name": "places/ChIJwYZ8FdQBBDQRhF1ggaUhsqE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCSlZ5MUdiM3BuUTBvNVVDMUZkV1p0VFU1T2JYYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Tobey Coco 有好介紹！北角匯全新推出「人寵親子單車同樂節」, 一齊去吹海風放電啦！🚴‍♂️🐾🌟\n\n毛孩專屬座駕：LocoBike 全新推出寵物單車, 載埋主子一齊欣賞維港美景, Chill 到爆！\n\n踩足全日：依家至 9 月 27日, The Point 會員只要於北角匯「即賺分」商戶消費滿 HK$1,000, 就可以換領「寵物單車 1-Day Pass」+ HK$30餐飲贈券組合.\n\n🍽️ 運動完順便開餐😋北角匯有多間寵物友善餐廳. 踩完單車即刻去嘆美食啦：\n😋LiTM活：精緻創意料理, 空間寬敞, 最近加設咗 Mario 主題打卡區, 仲有寵物食品供應！推介三文魚冬甩同牛肉鯛魚燒, 好好食呀~\n😋Thailand Wok 泰瀾鑊：正宗泰廚主理, 鑊氣十足！必試明爐魚、招牌燒牛肉同佢哋嘅精緻甜品.\n\n快啲趁住入秋好天氣，帶埋狗狗一齊嚟踩車打卡啦！\n\n🚲單車換領詳情：\n時間：推廣期內逢星期六及日（12:00 - 6:30pm）\n地點：北角匯二期露天廣場(先到先得, 換完即止！)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Tobey Coco 有好介紹！北角匯全新推出「人寵親子單車同樂節」, 一齊去吹海風放電啦！🚴‍♂️🐾🌟\n\n毛孩專屬座駕：LocoBike 全新推出寵物單車, 載埋主子一齊欣賞維港美景, Chill 到爆！\n\n踩足全日：依家至 9 月 27日, The Point 會員只要於北角匯「即賺分」商戶消費滿 HK$1,000, 就可以換領「寵物單車 1-Day Pass」+ HK$30餐飲贈券組合.\n\n🍽️ 運動完順便開餐😋北角匯有多間寵物友善餐廳. 踩完單車即刻去嘆美食啦：\n😋LiTM活：精緻創意料理, 空間寬敞, 最近加設咗 Mario 主題打卡區, 仲有寵物食品供應！推介三文魚冬甩同牛肉鯛魚燒, 好好食呀~\n😋Thailand Wok 泰瀾鑊：正宗泰廚主理, 鑊氣十足！必試明爐魚、招牌燒牛肉同佢哋嘅精緻甜品.\n\n快啲趁住入秋好天氣，帶埋狗狗一齊嚟踩車打卡啦！\n\n🚲單車換領詳情：\n時間：推廣期內逢星期六及日（12:00 - 6:30pm）\n地點：北角匯二期露天廣場(先到先得, 換完即止！)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ewa",
+          "uri": "https://www.google.com/maps/contrib/101156515454187575260/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYdZdDLGoa3EsKwbY4xBCZ4hBJrBsjc0HCwT_JLyoikpn8zzEZ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-09-02T11:52:44.053929961Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCSlZ5MUdiM3BuUTBvNVVDMUZkV1p0VFU1T2JYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCSlZ5MUdiM3BuUTBvNVVDMUZkV1p0VFU1T2JYYxAB!2m1!1s0x340401d4157c86c1:0xa1b221a581605d84"
+      },
+      {
+        "name": "places/ChIJwYZ8FdQBBDQRhF1ggaUhsqE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNMk5FTTNaRU52VEdONmVqSlhTV1I0UjBKaWVsRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "周邊草皮跟碼頭前面有好多人在野餐，風景很好，只是靠近碼頭難免有些濕濕黏黏的。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "周邊草皮跟碼頭前面有好多人在野餐，風景很好，只是靠近碼頭難免有些濕濕黏黏的。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "姜太",
+          "uri": "https://www.google.com/maps/contrib/104100626953598855014/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxouEW3Eq_-rRHuwMZiR0bBwqTMt4K_J1aprLCxXyyxxEYUUVGzg=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-09-21T19:18:57.721659538Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xNMk5FTTNaRU52VEdONmVqSlhTV1I0UjBKaWVsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNMk5FTTNaRU52VEdONmVqSlhTV1I0UjBKaWVsRRAB!2m1!1s0x340401d4157c86c1:0xa1b221a581605d84"
+      },
+      {
+        "name": "places/ChIJwYZ8FdQBBDQRhF1ggaUhsqE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GQlIzVk5kRlZwWWxOWk5qRk5ha1ptTjJSc1lWRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "很好玩、很多美食，商舖種類多元化的一個寵物友善商場！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很好玩、很多美食，商舖種類多元化的一個寵物友善商場！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ayakashi Mak",
+          "uri": "https://www.google.com/maps/contrib/116605473287969555275/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVplMdGYfYgAQPCusfw7L0cf3UbgS9ZLfyiDB7uILri1789gcmb=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-16T08:56:35.940285464Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GQlIzVk5kRlZwWWxOWk5qRk5ha1ptTjJSc1lWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GQlIzVk5kRlZwWWxOWk5qRk5ha1ptTjJSc1lWRRAB!2m1!1s0x340401d4157c86c1:0xa1b221a581605d84"
+      },
+      {
+        "name": "places/ChIJwYZ8FdQBBDQRhF1ggaUhsqE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoVVUwOWllRGhOV1VGQ05VTnhPR3hQWDBFNGMxRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "十分細小，但有寵物遊玩地方",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "十分細小，但有寵物遊玩地方",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ck",
+          "uri": "https://www.google.com/maps/contrib/118040181147962487042/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVADCfRIJqRNHDDAq0eZfrgudlkQydYJXViOBu9SXbK1Phc52-1HQ=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-05-24T09:29:37.735034876Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoVVUwOWllRGhOV1VGQ05VTnhPR3hQWDBFNGMxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoVVUwOWllRGhOV1VGQ05VTnhPR3hQWDBFNGMxRRAB!2m1!1s0x340401d4157c86c1:0xa1b221a581605d84"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401d4157c86c1:0xa1b221a581605d84!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11651412180684791172&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401d4157c86c1:0xa1b221a581605d84!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401d4157c86c1:0xa1b221a581605d84!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401d4157c86c1:0xa1b221a581605d84!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJwYZ8FdQBBDQRhF1ggaUhsqE/photos/Aa-ngMaoJHWOqKLohzsAHq_SLeY4VxcIHb__d2RWPD7CHJCFhNUw9u1S3XIFqYdvmkITGcJmEWTYCk--2ZR9M2b4m26X1Fvnw_Pnzt6Uw9rJso9aAzTOpEt7PMvXtJ4E1iAQvhM1c39jdi-kcaPYzRcCKtM_HzAvHhUaUhyy0UbPFioVeF2XFFtce4EE2DA-aGhfWkgRTToydnxhO_S0BrGlLv_u34POLZyIcxWEjxOjUqwK0aTYsCnGysI8PeCnwB4ro2CG1yEq3ojrP-3LO7UOWYak3sTblAa6kltza8N7NioeYKahfJQEytua-LOZKZerE9YPynBTz1oxW7OLStZbCdERXG0QB1qvH6PYldBnc_Lqih8KzIWV1sDM9GQRfd-lxvg9WcLH1T8x_RBs2cMTGibIHfXT",
+      "widthPx": 3648,
+      "heightPx": 2736,
+      "authorAttributions": [
+        {
+          "displayName": "Kin Poon (Jack)",
+          "uri": "https://maps.google.com/maps/contrib/108229735910954933087",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUH0txj5W5UPEHPBLJgnNcjbVNLHhEq_l0ERzOWHNJAxS75yvpn=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICKv4urvAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKv4urvAE!2e10!4m2!3m1!1s0x340401d4157c86c1:0xa1b221a581605d84"
+    },
+    "local_path": "photos/ChIJwYZ8FdQBBDQRhF1ggaUhsqE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8dI1qQK4NZZHWxGmE04OIqfsXJQh_C_5rNVtsU9KSwUep3lvRp00PQPadMPCLOLSrv36rYs3CMP-nZEAtESki-dUGsYn8idt4iTIkld1-vf8BkfEg4p6V_c4aCSUakrzraatm=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 183218
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ConnectError"
+  },
+  "cuisine": {
+    "primary_type": "shopping_mall",
+    "label": "大型購物中心",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

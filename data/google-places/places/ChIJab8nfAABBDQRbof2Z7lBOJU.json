@@ -1,0 +1,382 @@
+{
+  "google_place_id": "ChIJab8nfAABBDQRbof2Z7lBOJU",
+  "restaurant_ids": [
+    "restaurant:2261806661"
+  ],
+  "fetched_at": "2026-10-23T15:38:40.835674+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJab8nfAABBDQRbof2Z7lBOJU",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3791 2768",
+    "internationalPhoneNumber": "+852 3791 2768",
+    "formattedAddress": "Shops 30-41, G/F, Houston Centre, 63, 地下30至41號舖, 東, 63號 Mody Rd, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.2980295,
+      "longitude": 114.17686549999999
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=10752416374916024174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 15:30, 17:30 – 23:00",
+        "星期二: 11:00 – 15:30, 17:30 – 23:00",
+        "星期三: 11:00 – 15:30, 17:30 – 23:00",
+        "星期四: 11:00 – 15:30, 17:30 – 23:00",
+        "星期五: 11:00 – 15:30, 17:30 – 23:00",
+        "星期六: 11:00 – 15:30, 17:30 – 23:00",
+        "星期日: 11:00 – 15:30, 17:30 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 67,
+    "displayName": {
+      "text": "潮味大排檔",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJab8nfAABBDQRbof2Z7lBOJU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnNGJYZHlNSGxPUTNSTGVqQTBNbll4UW14dVJtYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "約咗朋友聚舊想食潮州菜，朋友介紹咗尖沙咀好時中心呢間「潮味大排檔」。餐廳環境寬敞，設有滷水檔同海鮮檔，食物選擇多。\n\n🦐 家鄉九肚魚烙\n九肚魚烙係潮汕傳統烙菜，呢度嘅九肚魚煎得金黃香脆，外脆內軟滑，九肚魚肉質嫩滑，啖啖肉超滿足。\n\n🦪 豉椒聖子煎米粉底\n聖子大大隻，肉質鮮甜彈牙，豉椒汁炒得勁惹味，煎米粉煎得外脆內軟，撈埋豉椒汁更惹味。\n\n🦪 汕頭煎蠔餅\n潮州經典小食！蠔餅煎得金黃香口，外層微微焦脆，入面蠔仔飽滿鮮甜，口感外脆內軟😋\n\n🦆 滷水鴨片\n食潮州菜點可以唔試滷水！肉質嫩滑，滷水汁入味得嚟唔會過鹹，豆腐索晒汁，同樣出色👍\n\n🍜 乾炒牛河\n河粉炒得乾身，條條分明，牛肉片嫩滑唔韌，芽菜爽脆，豉油味香濃得嚟唔會過鹹，鑊氣十足🍳",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "約咗朋友聚舊想食潮州菜，朋友介紹咗尖沙咀好時中心呢間「潮味大排檔」。餐廳環境寬敞，設有滷水檔同海鮮檔，食物選擇多。\n\n🦐 家鄉九肚魚烙\n九肚魚烙係潮汕傳統烙菜，呢度嘅九肚魚煎得金黃香脆，外脆內軟滑，九肚魚肉質嫩滑，啖啖肉超滿足。\n\n🦪 豉椒聖子煎米粉底\n聖子大大隻，肉質鮮甜彈牙，豉椒汁炒得勁惹味，煎米粉煎得外脆內軟，撈埋豉椒汁更惹味。\n\n🦪 汕頭煎蠔餅\n潮州經典小食！蠔餅煎得金黃香口，外層微微焦脆，入面蠔仔飽滿鮮甜，口感外脆內軟😋\n\n🦆 滷水鴨片\n食潮州菜點可以唔試滷水！肉質嫩滑，滷水汁入味得嚟唔會過鹹，豆腐索晒汁，同樣出色👍\n\n🍜 乾炒牛河\n河粉炒得乾身，條條分明，牛肉片嫩滑唔韌，芽菜爽脆，豉油味香濃得嚟唔會過鹹，鑊氣十足🍳",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "KK Fu",
+          "uri": "https://www.google.com/maps/contrib/117997066541858105746/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6aExwmvU3vWGrrDWKDaq8b_M2QNHldrlXofyap0W0Dz7Z-zJn=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-12T12:36:41.291627594Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnNGJYZHlNSGxPUTNSTGVqQTBNbll4UW14dVJtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnNGJYZHlNSGxPUTNSTGVqQTBNbll4UW14dVJtYxAB!2m1!1s0x340401007c27bf69:0x953841b967f6876e"
+      },
+      {
+        "name": "places/ChIJab8nfAABBDQRbof2Z7lBOJU/reviews/Ci9DQUlRQUNvZENodHljRjlvT214eFZWaGFVM1o0WlRVMVFYWkJkM28wYW5kM05GRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🦀 一班朋友圍埋食潮州嘢，就係要叫到成枱滿先有氣氛！\n\n前排約咗幾個friend去尖沙咀潮味大排檔，一坐低已經feel到嗰種地道大排檔嘅熱鬧感，滷水檔同海鮮缸就喺面前，未食已經流口水！🤤\n\n🦆 滷水鵝片\n鵝片切得薄身但肉質依然嫩滑，滷水汁鹹香入味，唔會過濃\n\n🦪 汕頭煎蠔餅\n呢個必點！外層炸到金黃酥脆，蠔仔粒粒飽滿爆漿，咬落去仲有蛋香\n\n🐟 椒鹽九肚魚\n外脆內軟滑，椒鹽鹹香，魚肉入口即溶，完全冇骨\n\n🥬 方魚炒芥蘭苗\n方魚碎鹹香脆口，芥蘭苗爽甜無渣，簡單但好有鑊氣\n\n🍚 芋頭鹹肉炒飯\n飯粒炒得乾身分明，芋頭煎到金黃香口，配鹹肉粒好惹味\n\n🦞 老潮式蔥燒遼參煲 $580（全晚最豪！）\n遼參炆得軟腍入味，蔥燒汁濃郁掛汁，連啲蒜頭都好好食\n\n🦐 鹽焗海蝦\n蝦殼有鹽焗香氣，蝦肉爽口彈牙",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🦀 一班朋友圍埋食潮州嘢，就係要叫到成枱滿先有氣氛！\n\n前排約咗幾個friend去尖沙咀潮味大排檔，一坐低已經feel到嗰種地道大排檔嘅熱鬧感，滷水檔同海鮮缸就喺面前，未食已經流口水！🤤\n\n🦆 滷水鵝片\n鵝片切得薄身但肉質依然嫩滑，滷水汁鹹香入味，唔會過濃\n\n🦪 汕頭煎蠔餅\n呢個必點！外層炸到金黃酥脆，蠔仔粒粒飽滿爆漿，咬落去仲有蛋香\n\n🐟 椒鹽九肚魚\n外脆內軟滑，椒鹽鹹香，魚肉入口即溶，完全冇骨\n\n🥬 方魚炒芥蘭苗\n方魚碎鹹香脆口，芥蘭苗爽甜無渣，簡單但好有鑊氣\n\n🍚 芋頭鹹肉炒飯\n飯粒炒得乾身分明，芋頭煎到金黃香口，配鹹肉粒好惹味\n\n🦞 老潮式蔥燒遼參煲 $580（全晚最豪！）\n遼參炆得軟腍入味，蔥燒汁濃郁掛汁，連啲蒜頭都好好食\n\n🦐 鹽焗海蝦\n蝦殼有鹽焗香氣，蝦肉爽口彈牙",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "G Ginny",
+          "uri": "https://www.google.com/maps/contrib/106264324739950773002/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtO7and4HDJUFdn5g9Smm8qwYNiqweS6Ne8CcW5V9KYseNIEno=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-08T05:25:50.157843044Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214eFZWaGFVM1o0WlRVMVFYWkJkM28wYW5kM05GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214eFZWaGFVM1o0WlRVMVFYWkJkM28wYW5kM05GRRAB!2m1!1s0x340401007c27bf69:0x953841b967f6876e"
+      },
+      {
+        "name": "places/ChIJab8nfAABBDQRbof2Z7lBOJU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WWlpUVldTRE5mVVUxTWNsTnRkR3gzVm5oQ2JtYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "位於尖沙咀東部的潮州菜館，裝潢刻意營造六、七年代的潮式排檔風格。\n\n✨  蘿蔔灌漿\n傳統的潮汕手工菜。外脆內軟，一口咬下能感受到濃郁的蘿蔔香氣與豐富層次。\n\n✨ 滷水拼盤（鵝肉、掌、翼、腩肉、雞蛋）\n鵝肉肉質軟嫩且富有肉香，掌翼皮香肉滑且入味，腩肉肥而不膩，能做到口感脆彈的絕佳層次。另搭配了非常滑溜的滷水豆腐和雞蛋。滷水味道濃郁帶香氣，相當美味！\n\n✨ 汕頭煎蠔餅\n金黃色的蠔餅，飽滿的新鮮蠔仔份量足，跟濃郁蛋香與酥脆口感的完美結合。\n\n✨ 潮州炸雙棗\n外層炸至金黃酥脆，內餡飽滿。蝦棗以新鮮蝦肉搭配馬蹄，口感彈牙且帶爽脆。蟹棗則有啖啖的蟹肉。\n\n✨ 清心丸綠豆爽\n清甜的綠豆，配搭煙韌口感的清心丸，清潤解渴。\n\n他們還有多款廚師推介及小食，應該不錯，下次再來試試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於尖沙咀東部的潮州菜館，裝潢刻意營造六、七年代的潮式排檔風格。\n\n✨  蘿蔔灌漿\n傳統的潮汕手工菜。外脆內軟，一口咬下能感受到濃郁的蘿蔔香氣與豐富層次。\n\n✨ 滷水拼盤（鵝肉、掌、翼、腩肉、雞蛋）\n鵝肉肉質軟嫩且富有肉香，掌翼皮香肉滑且入味，腩肉肥而不膩，能做到口感脆彈的絕佳層次。另搭配了非常滑溜的滷水豆腐和雞蛋。滷水味道濃郁帶香氣，相當美味！\n\n✨ 汕頭煎蠔餅\n金黃色的蠔餅，飽滿的新鮮蠔仔份量足，跟濃郁蛋香與酥脆口感的完美結合。\n\n✨ 潮州炸雙棗\n外層炸至金黃酥脆，內餡飽滿。蝦棗以新鮮蝦肉搭配馬蹄，口感彈牙且帶爽脆。蟹棗則有啖啖的蟹肉。\n\n✨ 清心丸綠豆爽\n清甜的綠豆，配搭煙韌口感的清心丸，清潤解渴。\n\n他們還有多款廚師推介及小食，應該不錯，下次再來試試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lang lang",
+          "uri": "https://www.google.com/maps/contrib/102619113903431286489/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLwVE4Cpqg0ik00dsaEmrLxKOKabx8PGlitEtJE0disCLJowQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-24T13:52:42.060268778Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WWlpUVldTRE5mVVUxTWNsTnRkR3gzVm5oQ2JtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WWlpUVldTRE5mVVUxTWNsTnRkR3gzVm5oQ2JtYxAB!2m1!1s0x340401007c27bf69:0x953841b967f6876e"
+      },
+      {
+        "name": "places/ChIJab8nfAABBDQRbof2Z7lBOJU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wbFpuWTRkbVptY0VSMFIyczJha1ZYYldreVdGRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "必食爐火烘住的紅燒潮州翅\n\n約咗朋友聚舊,揀咗食潮州菜。店內面擺放住魚缸和各式打冷食材,甚有風味。\n\n🔸紅燒潮州翅\n呢個係必點菜式。湯底濃稠鮮味(唔駛加醋或芫荽都得）,啖啖都食到魚翅,上枱時仲有個爐烘著,由頭到尾都保持住熱度👍🏻。\n\n🔸滷水鵝片\n鵝片口感腍身,滷水汁入味。\n\n🔸椒鹽九肚魚\n九肚魚外脆內軟滑,椒鹽味鹹香。\n\n🔸豬油炒蕃薯苗\n蕃薯苗鮮嫩,上湯入味多汁。\n\n🔸芋頭鹹肉炒飯\n米飯乾爽,芋頭和鹹肉略嫌乾身,整體味道偏淡。\n\n🔸鹽焗海蝦飯\n海蝦飯較平凡,不過有啲蝦有蝦膏。\n\n用餐期間,店員會主動幫你換碟、提供手套和濕紙巾,體貼暖心。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "必食爐火烘住的紅燒潮州翅\n\n約咗朋友聚舊,揀咗食潮州菜。店內面擺放住魚缸和各式打冷食材,甚有風味。\n\n🔸紅燒潮州翅\n呢個係必點菜式。湯底濃稠鮮味(唔駛加醋或芫荽都得）,啖啖都食到魚翅,上枱時仲有個爐烘著,由頭到尾都保持住熱度👍🏻。\n\n🔸滷水鵝片\n鵝片口感腍身,滷水汁入味。\n\n🔸椒鹽九肚魚\n九肚魚外脆內軟滑,椒鹽味鹹香。\n\n🔸豬油炒蕃薯苗\n蕃薯苗鮮嫩,上湯入味多汁。\n\n🔸芋頭鹹肉炒飯\n米飯乾爽,芋頭和鹹肉略嫌乾身,整體味道偏淡。\n\n🔸鹽焗海蝦飯\n海蝦飯較平凡,不過有啲蝦有蝦膏。\n\n用餐期間,店員會主動幫你換碟、提供手套和濕紙巾,體貼暖心。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "TM128",
+          "uri": "https://www.google.com/maps/contrib/105686710158412405336/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsfLa53a5C1kejF7f_VsNt1QTLwjIbYj50oHqgXV04cgX19w=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-15T15:19:36.785649405Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wbFpuWTRkbVptY0VSMFIyczJha1ZYYldreVdGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wbFpuWTRkbVptY0VSMFIyczJha1ZYYldreVdGRRAB!2m1!1s0x340401007c27bf69:0x953841b967f6876e"
+      },
+      {
+        "name": "places/ChIJab8nfAABBDQRbof2Z7lBOJU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2preWJrRnNjMkZFTTFsWFJVb3dZMGRwTTJwdlMxRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "尖沙咀嘅 潮味大排檔，就係嗰種一坐低就有潮汕風味扑面而來嘅地方。菜式夠地道，食落去仲有啲懷舊味道，啱晒同班朋友夜晚吹水、慢慢嘆。\n//蘿蔔灌漿：入口軟糯，蘿蔔清甜同米漿融合，暖笠笠好治癒。\n//鹹菜燉豬肚湯：鹹香帶酸，豬肚爽脆，飲完成個胃都舒服晒。\n//椒鹽珍珠蠔：外脆內嫩，蠔肉鮮甜，椒鹽香氣勁惹味。\n//滷水鵝片：滷香滲入鵝肉，片片油香四溢，送酒一流。\n//潮汕雜魚煲：三款魚一齊落煲，魚鮮互補：䱽魚帶清甜、沙𩺬出厚味、黃花魚添香滑，令湯底自然鮮美。\n//清心丸綠豆爽：飯後必食，清涼解膩，甜而不膩，收尾剛剛好。\n呢度嘅 vibe 就係大排檔式嘅熱鬧氛圍，食物夠地道，甜品又有驚喜，成個用餐體驗好潮汕、好親切。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "尖沙咀嘅 潮味大排檔，就係嗰種一坐低就有潮汕風味扑面而來嘅地方。菜式夠地道，食落去仲有啲懷舊味道，啱晒同班朋友夜晚吹水、慢慢嘆。\n//蘿蔔灌漿：入口軟糯，蘿蔔清甜同米漿融合，暖笠笠好治癒。\n//鹹菜燉豬肚湯：鹹香帶酸，豬肚爽脆，飲完成個胃都舒服晒。\n//椒鹽珍珠蠔：外脆內嫩，蠔肉鮮甜，椒鹽香氣勁惹味。\n//滷水鵝片：滷香滲入鵝肉，片片油香四溢，送酒一流。\n//潮汕雜魚煲：三款魚一齊落煲，魚鮮互補：䱽魚帶清甜、沙𩺬出厚味、黃花魚添香滑，令湯底自然鮮美。\n//清心丸綠豆爽：飯後必食，清涼解膩，甜而不膩，收尾剛剛好。\n呢度嘅 vibe 就係大排檔式嘅熱鬧氛圍，食物夠地道，甜品又有驚喜，成個用餐體驗好潮汕、好親切。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "agape agape 63486777",
+          "uri": "https://www.google.com/maps/contrib/107668737257637968886/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmk1UJg5z1eDUn40J68MjsOxyckkCmYODLvUHYawYeQvWtlfBY8g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-18T09:49:37.674592563Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2preWJrRnNjMkZFTTFsWFJVb3dZMGRwTTJwdlMxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2preWJrRnNjMkZFTTFsWFJVb3dZMGRwTTJwdlMxRRAB!2m1!1s0x340401007c27bf69:0x953841b967f6876e"
+      }
+    ],
+    "menuForChildren": false,
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401007c27bf69:0x953841b967f6876e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10752416374916024174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401007c27bf69:0x953841b967f6876e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401007c27bf69:0x953841b967f6876e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401007c27bf69:0x953841b967f6876e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJab8nfAABBDQRbof2Z7lBOJU/photos/Aa-ngMZR_YwXRqQDIyPyQ3qtziorDy0nGT5_lHhrjVbEvBoGUgIaOLv-M4o5GzNQbkcTzSHsIc96-x0zxwnToLr74KFGQN_eW-qqhx6koe-wD3K8U6ga1H91BxWkIjHGlJtP44M4DNGYTLF8GnPHi-pjgdRli348aFArP1rnubSYfs9bAco46cWvnGY1yXQT0RWwCfDOX6BLbVi2ochgGI675ueeGQW3T34pONOS8379r7_IGPGgCPNLZvZuTHT-7-UvjOb1guUGaf-uDbLiTwo7hffUuLa0IUZVPc3qPqQF-nv7jWXa4Z8F_0smqjw6o4ZdjvdOskgh_iS9HXPwg3W3JuKKvFqBbtHC0bC66zTpg7AJpvdH60AzXWcw93m2PsKoKvVkHZ3YEpUuQRBxWu9foIObIWxfvZ5XAsORLLfto0uDAg",
+      "widthPx": 4647,
+      "heightPx": 3902,
+      "authorAttributions": [
+        {
+          "displayName": "花生 MaMa",
+          "uri": "https://maps.google.com/maps/contrib/100450139491588929732",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwQO7XCCE7MITE2yYVCyMgKBapXVtQ7FI3pcvsFe8ZUqmVzwED=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBv3N3-VDuWNPhR8o18w7VO&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBv3N3-VDuWNPhR8o18w7VO!2e10!4m2!3m1!1s0x340401007c27bf69:0x953841b967f6876e"
+    },
+    "local_path": "photos/ChIJab8nfAABBDQRbof2Z7lBOJU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9ZYVOxtcHIKxPxzOSbRWrmp_EKXpbQAqfetKdzxfFh_lOxRyhUtkDO_15OtDroYZDAHdsyGEXsLkTe0dZwoBTjtqVEneoqUsq-62rXZoCSvx-y24pMNE9NbokunmSU57_pr1ybqBt8V5Y=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 197408
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

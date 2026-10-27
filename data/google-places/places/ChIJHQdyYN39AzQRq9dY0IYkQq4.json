@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJHQdyYN39AzQRq9dY0IYkQq4",
+  "restaurant_ids": [
+    "restaurant:3117000596"
+  ],
+  "fetched_at": "2026-10-23T15:38:23.120984+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJHQdyYN39AzQRq9dY0IYkQq4",
+    "types": [
+      "fast_food_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2983 0554",
+    "internationalPhoneNumber": "+852 2983 0554",
+    "formattedAddress": "香港新界坪洲",
+    "location": {
+      "latitude": 22.2842785,
+      "longitude": 114.0391746
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=12556638872502065067&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 08:00 – 16:00",
+        "星期三: 08:00 – 16:00",
+        "星期四: 08:00 – 16:00",
+        "星期五: 08:00 – 16:00",
+        "星期六: 08:00 – 16:30",
+        "星期日: 08:00 – 16:30"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 499,
+    "displayName": {
+      "text": "祺森冰室",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJHQdyYN39AzQRq9dY0IYkQq4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xodVowcG9NR1YwZWtocVltOHhhM1JSZGtOMGJtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "今日咁熱更係食個下午茶，飲杯紅豆冰。 d 紅豆好大粒，奶茶好滑😋😋😋\n西多，蝦多，同凍檸茶一向咁高汁🥰🥰🥰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日咁熱更係食個下午茶，飲杯紅豆冰。 d 紅豆好大粒，奶茶好滑😋😋😋\n西多，蝦多，同凍檸茶一向咁高汁🥰🥰🥰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rita Lam",
+          "uri": "https://www.google.com/maps/contrib/115757074540463782367/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIo-E7ItpkXvToTaoeihLoLpHM9zXEpsOWNYMgDMMakz35otw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-29T11:06:19.570837848Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xodVowcG9NR1YwZWtocVltOHhhM1JSZGtOMGJtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xodVowcG9NR1YwZWtocVltOHhhM1JSZGtOMGJtYxAB!2m1!1s0x3403fddd6072071d:0xae422486d058d7ab"
+      },
+      {
+        "name": "places/ChIJHQdyYN39AzQRq9dY0IYkQq4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pabE5rOVhOR3RFU1VaUmRHcGhiVWh3YkdkM1pYYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "必食蝦多士、滑奶茶、咖啡都好好味",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "必食蝦多士、滑奶茶、咖啡都好好味",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Saiwing Chan",
+          "uri": "https://www.google.com/maps/contrib/117336024340872067104/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ17Julm5SsblnDT4ORMS38JboB-4UDycv3Gf3bVbz8uXYoUQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-19T06:43:05.200421021Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pabE5rOVhOR3RFU1VaUmRHcGhiVWh3YkdkM1pYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pabE5rOVhOR3RFU1VaUmRHcGhiVWh3YkdkM1pYYxAB!2m1!1s0x3403fddd6072071d:0xae422486d058d7ab"
+      },
+      {
+        "name": "places/ChIJHQdyYN39AzQRq9dY0IYkQq4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GaFlrUnZPWGhyTlhwRE1tdFRhRTVqWVdaWmJIYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "最有名的是蝦多士，是挺不錯的，即叫即炸，餡也算多。\n其他的感覺上就比較普通，價格偏向有點高。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最有名的是蝦多士，是挺不錯的，即叫即炸，餡也算多。\n其他的感覺上就比較普通，價格偏向有點高。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alice C",
+          "uri": "https://www.google.com/maps/contrib/103857068083642084577/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBxVx21spUIHQSVxf0Zpdhg2KsTi3y991zJlYnLXL5xx6e9mmztw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-09-09T17:24:37.151856004Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GaFlrUnZPWGhyTlhwRE1tdFRhRTVqWVdaWmJIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GaFlrUnZPWGhyTlhwRE1tdFRhRTVqWVdaWmJIYxAB!2m1!1s0x3403fddd6072071d:0xae422486d058d7ab"
+      },
+      {
+        "name": "places/ChIJHQdyYN39AzQRq9dY0IYkQq4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNucl96SEhREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "蝦多士真係好正!!  值得讚!!  即炸嘅。  外面茶餐廳已經好少有蝦多士。\n\n咖哩豬扒飯一般。  不過啲豬扒都應該係即炸嘅。  咖哩汁亦唔錯。  不過如果豬扒可以再厚少少、有咬口啲會更好。\n\n奶茶紅豆冰 同 tiramisu紅豆冰(我無試)都幾特別。\n\n性價比唔錯。\n\n今日假日，外面都不時有人排隊。\n\n要留意返 佢哋平日係收4pm。  假日4:30pm收。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "蝦多士真係好正!!  值得讚!!  即炸嘅。  外面茶餐廳已經好少有蝦多士。\n\n咖哩豬扒飯一般。  不過啲豬扒都應該係即炸嘅。  咖哩汁亦唔錯。  不過如果豬扒可以再厚少少、有咬口啲會更好。\n\n奶茶紅豆冰 同 tiramisu紅豆冰(我無試)都幾特別。\n\n性價比唔錯。\n\n今日假日，外面都不時有人排隊。\n\n要留意返 佢哋平日係收4pm。  假日4:30pm收。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Paul Cheung",
+          "uri": "https://www.google.com/maps/contrib/109010713572923756426/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLtKazIEn60bdWmP7lQu1rP_TL05rzl60cyuuWoq0WezIjfvz9Zw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-10-01T10:21:18.504062Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNucl96SEhREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNucl96SEhREAE!2m1!1s0x3403fddd6072071d:0xae422486d058d7ab"
+      },
+      {
+        "name": "places/ChIJHQdyYN39AzQRq9dY0IYkQq4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oMWRWaGZXamx0TFVwUFh6TkthWEo1TjJSNk0zYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 3,
+        "text": {
+          "text": "中規中距，蝦多士係好食既\n但網上吹捧得太誇張",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "中規中距，蝦多士係好食既\n但網上吹捧得太誇張",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chris2077",
+          "uri": "https://www.google.com/maps/contrib/115067652565271989392/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKmYkznHR6qUm9tFYacTco_zU7jw7cFQuBeWq8gJirAjAbRig=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-09-06T08:36:31.765275338Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oMWRWaGZXamx0TFVwUFh6TkthWEo1TjJSNk0zYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oMWRWaGZXamx0TFVwUFh6TkthWEo1TjJSNk0zYxAB!2m1!1s0x3403fddd6072071d:0xae422486d058d7ab"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": false,
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fddd6072071d:0xae422486d058d7ab!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12556638872502065067&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fddd6072071d:0xae422486d058d7ab!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fddd6072071d:0xae422486d058d7ab!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fddd6072071d:0xae422486d058d7ab!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJHQdyYN39AzQRq9dY0IYkQq4/photos/Aa-ngMbvFqFikMHzY4cyg_BwhGqELbuZTI3orD4U2nJ6510Acx8kQYh896fEsaECZnIKswQMYbyZvABYz8J1391LpxLrLr6NHpGC29-6Vy5o35QGZa0RCCFFIQsNzE-jWzLPRLFrMO1pOHV1F0lXCfe8-ui1uiYdnTwleE0CXZ6zTj_brKhL471aBJjMsfvhf3jzcWsj7RULcgIITHYDcZ_DXLaQCDjhdoZlQ1gncp7K-oqqaV08zYq4ZyS5uWDRY_maQjEJRzAySJhSheWnvAr_ALnJKT8sjBD9ZdvKdLdGd9cLHLRO2rpBJDRdiKyZPQ7ehpu58oPxAyOY-U0zx9qMb5b29gA4wljz9tVr7pRLi3TiLWwCExlpjNsC6d6IRgCRkzQvkq8cKLtN5_Kmn19II_gKLKPArsM",
+      "widthPx": 4800,
+      "heightPx": 2707,
+      "authorAttributions": [
+        {
+          "displayName": "Wason Yuen",
+          "uri": "https://maps.google.com/maps/contrib/113891026473298742184",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSrM-9x2VMgr0cwkbWVkZ43RXHV1qJaQkVPjgrwyMpS9MV3ATVDA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDi1IzpsgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDi1IzpsgE!2e10!4m2!3m1!1s0x3403fddd6072071d:0xae422486d058d7ab"
+    },
+    "local_path": "photos/ChIJHQdyYN39AzQRq9dY0IYkQq4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKwgV6PJc6og5g_-_Ban4Q-gRlLTGhq_9s4ED3Hko1nim4yxK_Y24hoeXZU3-4q7bwqcLQkp34hcnOC8576Lrk4qB9YIl-NvJp_i8_9vZ1E8UzktowIX37DN4Uo5Xbw7cdtHsLVw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 166020
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "fast_food_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

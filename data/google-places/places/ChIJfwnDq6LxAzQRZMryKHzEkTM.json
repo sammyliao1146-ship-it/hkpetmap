@@ -1,0 +1,330 @@
+{
+  "google_place_id": "ChIJfwnDq6LxAzQRZMryKHzEkTM",
+  "restaurant_ids": [
+    "restaurant:2294810947"
+  ],
+  "fetched_at": "2026-10-23T15:45:54.340376+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJfwnDq6LxAzQRZMryKHzEkTM",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2620 1807",
+    "internationalPhoneNumber": "+852 2620 1807",
+    "formattedAddress": "香港新界元朗元朗朗日路新元朗中心1座",
+    "location": {
+      "latitude": 22.445414,
+      "longitude": 114.0353026
+    },
+    "rating": 3.2,
+    "googleMapsUri": "https://maps.google.com/?cid=3715967205099358820&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/brand/milk-cafe",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 21:30",
+        "星期二: 07:00 – 21:30",
+        "星期三: 07:00 – 21:30",
+        "星期四: 07:00 – 21:30",
+        "星期五: 07:00 – 21:30",
+        "星期六: 07:00 – 21:30",
+        "星期日: 07:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 214,
+    "displayName": {
+      "text": "牛奶冰室 (形點)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJfwnDq6LxAzQRZMryKHzEkTM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GeU5FZ3liMkpFT1RORU9EUkhNbFpQWVRSRk5GRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "需要等位\n催淚蛋飯幾好食\n不過睇手神  有時多肉有時少肉\n味道十分夠 已經翻兜幾次 時多時少\n香港食既辣椒炒肉都加豆豉",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "需要等位\n催淚蛋飯幾好食\n不過睇手神  有時多肉有時少肉\n味道十分夠 已經翻兜幾次 時多時少\n香港食既辣椒炒肉都加豆豉",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Man",
+          "uri": "https://www.google.com/maps/contrib/100689004522941706710/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJknK_pniQkjjIpIyPhOQQGddON-im1sNZ0NGEmCaDHhN_yg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-23T14:54:33.823717784Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GeU5FZ3liMkpFT1RORU9EUkhNbFpQWVRSRk5GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GeU5FZ3liMkpFT1RORU9EUkhNbFpQWVRSRk5GRRAB!2m1!1s0x3403f1a2abc3097f:0x3391c47c28f2ca64"
+      },
+      {
+        "name": "places/ChIJfwnDq6LxAzQRZMryKHzEkTM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KMWNFeHdXRkZCU1VScFlteGhWbXA1ZERGclJHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "我食過兩間牛奶奶冰室，呢間比御海灣優勝少少，因為人手較果間多，而且鋪位大，足以容納較多顧客。\n我哋叫咗紅燒豆腐魚柳飯及香蔥叉燒飯，叉燒賣相麻麻，但味道不錯。工人姐姐食魚柳飯，佢第二次食，應該美味。\n我哋都叫檸檬茶，雖然是預先壓榨的檸檬汁，但不用我哋擠壓，仲想點喎⋯⋯收貨吧！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我食過兩間牛奶奶冰室，呢間比御海灣優勝少少，因為人手較果間多，而且鋪位大，足以容納較多顧客。\n我哋叫咗紅燒豆腐魚柳飯及香蔥叉燒飯，叉燒賣相麻麻，但味道不錯。工人姐姐食魚柳飯，佢第二次食，應該美味。\n我哋都叫檸檬茶，雖然是預先壓榨的檸檬汁，但不用我哋擠壓，仲想點喎⋯⋯收貨吧！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "betty chu",
+          "uri": "https://www.google.com/maps/contrib/103397915426718273889/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjHU1PX4oeAOV6OxZ6NKlnzK3Sva-UOkQOA2BoZVRzh-oBN3k=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-10-13T13:39:01.055681164Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KMWNFeHdXRkZCU1VScFlteGhWbXA1ZERGclJHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KMWNFeHdXRkZCU1VScFlteGhWbXA1ZERGclJHYxAB!2m1!1s0x3403f1a2abc3097f:0x3391c47c28f2ca64"
+      },
+      {
+        "name": "places/ChIJfwnDq6LxAzQRZMryKHzEkTM/reviews/ChdDSUhNMG9nS0VJeXBqOU9Gby1HcjNnRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 2,
+        "text": {
+          "text": "好壞各半 。\n食物：\n一口豬意粉好食，但我估唔到有骨，失策 。\n雞翼伊麵炒燶咗，有點難食。\n牛肉意粉無味 。\n黑松露雞球炒飯，重芝士味，顯得黑松露變成無味，都好食。\n餐具：比我想像中的污糟，甚至有菜漬，我使用前全部都需要洗過，抹過。\n服務：我試過攞位時講明五個人，結果職員起明明有空枱多的情況下都要求我們使用四座位，只在旁邊加多一張座椅，變相我哋冇位置可以食飯，令我覺得完全不接受，結果我自己要搬枱變成一張真實的五座位枱 。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好壞各半 。\n食物：\n一口豬意粉好食，但我估唔到有骨，失策 。\n雞翼伊麵炒燶咗，有點難食。\n牛肉意粉無味 。\n黑松露雞球炒飯，重芝士味，顯得黑松露變成無味，都好食。\n餐具：比我想像中的污糟，甚至有菜漬，我使用前全部都需要洗過，抹過。\n服務：我試過攞位時講明五個人，結果職員起明明有空枱多的情況下都要求我們使用四座位，只在旁邊加多一張座椅，變相我哋冇位置可以食飯，令我覺得完全不接受，結果我自己要搬枱變成一張真實的五座位枱 。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Traveler, William Tong",
+          "uri": "https://www.google.com/maps/contrib/111168247802139929767/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNpb6c-N-8vtXZ4q5-38RGb3fGyvGeSXKfK8MxKRFr6tnzDw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-03-08T06:22:35.699800133Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJeXBqOU9Gby1HcjNnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJeXBqOU9Gby1HcjNnRRAB!2m1!1s0x3403f1a2abc3097f:0x3391c47c28f2ca64"
+      },
+      {
+        "name": "places/ChIJfwnDq6LxAzQRZMryKHzEkTM/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4b2ZyMHVnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "5月2025\n星期六取籌攞位，等候時間大約15分鐘，可以接受。\n星洲炒米味唔夠濃，預制翻熱與否已經係其次。\n2杯凍餐飲追咗3次到食完，最後先至送到\n\n既然唔係因為出餐快，唔係因為好食，唔係因為平，又唔係服務好，唯一只係貪位置方便，咁應該揾過其他餐廳，橫掂商場內大把選擇。\n\n8月2023\n今日用外賣平台訂餐外賣自取。\n7:34pm落，預計8pm攞得。\n8:05去到，職員話未出。\n幾經催促，最後8:30先攞到，遲咗30分鐘。\n同一時間，亦有另外一個客人報稱等外賣超過50分鐘。\n\n食物的質素係OK, 不過服務方面 (例如今次要等30分鐘為例)，就真係唔掂，如果唔想等嘅，就建議食第二間。\n\n6月2023\n於Yoho Mall揾地方食個快速午餐，最後揀咗牛奶冰室。\n叫咗一個雪菜肉絲炆米，食物品質一般，成碟的肉絲少得可憐。\n凍奶茶雖然大杯，但無咩茶味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "5月2025\n星期六取籌攞位，等候時間大約15分鐘，可以接受。\n星洲炒米味唔夠濃，預制翻熱與否已經係其次。\n2杯凍餐飲追咗3次到食完，最後先至送到\n\n既然唔係因為出餐快，唔係因為好食，唔係因為平，又唔係服務好，唯一只係貪位置方便，咁應該揾過其他餐廳，橫掂商場內大把選擇。\n\n8月2023\n今日用外賣平台訂餐外賣自取。\n7:34pm落，預計8pm攞得。\n8:05去到，職員話未出。\n幾經催促，最後8:30先攞到，遲咗30分鐘。\n同一時間，亦有另外一個客人報稱等外賣超過50分鐘。\n\n食物的質素係OK, 不過服務方面 (例如今次要等30分鐘為例)，就真係唔掂，如果唔想等嘅，就建議食第二間。\n\n6月2023\n於Yoho Mall揾地方食個快速午餐，最後揀咗牛奶冰室。\n叫咗一個雪菜肉絲炆米，食物品質一般，成碟的肉絲少得可憐。\n凍奶茶雖然大杯，但無咩茶味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tony Cheung",
+          "uri": "https://www.google.com/maps/contrib/108526166780844617977/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIcKyUdQ0bw1gkt35sX3n0QN5EzyID8cX0LUNCcUjJlkHWusQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-05-25T01:48:42.792792Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4b2ZyMHVnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4b2ZyMHVnRRAB!2m1!1s0x3403f1a2abc3097f:0x3391c47c28f2ca64"
+      },
+      {
+        "name": "places/ChIJfwnDq6LxAzQRZMryKHzEkTM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNweVpDNUJREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "#港女覓食到元朗\n\n呢間餐廳屬於靚仔嘅茶餐廳，燈火通明，座位夠闊落，岩曬一家大細幫襯架。餐牌都有分早餐、午餐、下午茶&晚餐。\n\n佢地嘅早餐好抵食又大份，而且都有多款選擇，實有一款岩你😁\n\n我地個日去食午市揀左\n\n✨豉汁涼瓜牛肉飯 $62\n涼瓜爽口帶點苦澀味，如果煮淋D入更入味和更軟。牛肉夠嫩滑。\n\n✨星州炒米 $64\n咖喱粉夠惹味，米粉爽口彈牙，碟粉好夠火候，熱辣辣，配料入面嘅蝦都多。\n\n✨牛糖牛乳涼粉冰 跟餐補+$9\n即使叫左少甜都仲好甜😂而且奶味也不夠濃，下次都係飲返茶記有嘅奶茶/檸水啦😝\n\n佢地人手略嫌不足，要叫幾次先有人彩我😂 點餐用QR code 下單，餐牌放係枱底下位置。\n\n✨總結\n人均消費💸：$73/1人\n味道：🌕🌕🌕🌑🌑\n份量：🌕🌕🌕🌗🌑\n服務：🌕🌕🌗🌑 🌑\n質素：🌕🌕🌕🌑🌑\n\n🍴 牛奶冰室 (形點 II) (元朗)\n📍元朗朗日路8號形點 II L1樓A101號舖\n::::::::୨୧::::::::୨୧::::::::୨୧:::::::::୨୧:::::::::\n#hkfoodie#eat#gathering\n#food #foodphotography #foodblogger #foodstagram #instafood #hkfood #foodpics #photooftheday #foodie #foodlover #foodlife\n#foodholiceatdiary",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "#港女覓食到元朗\n\n呢間餐廳屬於靚仔嘅茶餐廳，燈火通明，座位夠闊落，岩曬一家大細幫襯架。餐牌都有分早餐、午餐、下午茶&晚餐。\n\n佢地嘅早餐好抵食又大份，而且都有多款選擇，實有一款岩你😁\n\n我地個日去食午市揀左\n\n✨豉汁涼瓜牛肉飯 $62\n涼瓜爽口帶點苦澀味，如果煮淋D入更入味和更軟。牛肉夠嫩滑。\n\n✨星州炒米 $64\n咖喱粉夠惹味，米粉爽口彈牙，碟粉好夠火候，熱辣辣，配料入面嘅蝦都多。\n\n✨牛糖牛乳涼粉冰 跟餐補+$9\n即使叫左少甜都仲好甜😂而且奶味也不夠濃，下次都係飲返茶記有嘅奶茶/檸水啦😝\n\n佢地人手略嫌不足，要叫幾次先有人彩我😂 點餐用QR code 下單，餐牌放係枱底下位置。\n\n✨總結\n人均消費💸：$73/1人\n味道：🌕🌕🌕🌑🌑\n份量：🌕🌕🌕🌗🌑\n服務：🌕🌕🌗🌑 🌑\n質素：🌕🌕🌕🌑🌑\n\n🍴 牛奶冰室 (形點 II) (元朗)\n📍元朗朗日路8號形點 II L1樓A101號舖\n::::::::୨୧::::::::୨୧::::::::୨୧:::::::::୨୧:::::::::\n#hkfoodie#eat#gathering\n#food #foodphotography #foodblogger #foodstagram #instafood #hkfood #foodpics #photooftheday #foodie #foodlover #foodlife\n#foodholiceatdiary",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CHING LEE",
+          "uri": "https://www.google.com/maps/contrib/110143710840736018946/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJdau6fhb39_TcrxIDclOzy9Nnb4D5MuzaQn3QD9UqndNI_w=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-08-06T02:35:03.863313Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNweVpDNUJREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNweVpDNUJREAE!2m1!1s0x3403f1a2abc3097f:0x3391c47c28f2ca64"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f1a2abc3097f:0x3391c47c28f2ca64!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3715967205099358820&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f1a2abc3097f:0x3391c47c28f2ca64!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f1a2abc3097f:0x3391c47c28f2ca64!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f1a2abc3097f:0x3391c47c28f2ca64!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJfwnDq6LxAzQRZMryKHzEkTM/photos/Aa-ngMbS69J-6VGk07apmddbROb_1n5qkqKEXA7cJoLVle1MMFLG9wxaT1GicGN3H15RWvC0LsuVdtO8YxJrbutBxp-E-P9siRFneewJRIYHp01Zy2PPS6mpaJmxG4xpYyUWOknGCBFw-o_f9CwYUTOz7G8EUiG6AmqiS1rROC2ISI6Vwn3I6RW_7HD8yxF7kUo9ZMHAc-UUBAUQuuIgyl4tK7O-IP5Dnn3qOJpFGE790BxsfcI_MSIbFYBIhPW9km387NqTQmJ_VqxmaRHqVSKP-PVn8d51A66nBmVO0t9UgBt3w80e1WXxy0Kz6WEoWAH7oHQnYScpiLl1C6B26PqadKW7XWF60H2H1EbHwWkP4fcIaHVs60jMArOWGUHibNT1fUdhlJ0nTLF5X1TQr7NTJauCCKbeGiM",
+      "widthPx": 4000,
+      "heightPx": 2306,
+      "authorAttributions": [
+        {
+          "displayName": "Andy Mok",
+          "uri": "https://maps.google.com/maps/contrib/111846166957826855295",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5nJfMHaKbbnzi6cic3kgbCtvfau6LU95VpWtLefPH9tC62xbiIA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDx05v53AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx05v53AE!2e10!4m2!3m1!1s0x3403f1a2abc3097f:0x3391c47c28f2ca64"
+    },
+    "local_path": "photos/ChIJfwnDq6LxAzQRZMryKHzEkTM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkcr60jEAuNd4dB2voSdyPpZQA-mZXwOVQ3R6dVTCKoOp9UM-tfM9CchKTPXbarjkA-hkQt6Jei1C5MYAukB9cU-zBKOfUeP8SHKRX9nsnJ2VS5PfgmS_U9IBiyCv2BdQPY1Zp5w=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 154303
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

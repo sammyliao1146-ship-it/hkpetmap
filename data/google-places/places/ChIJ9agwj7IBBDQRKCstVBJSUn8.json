@@ -1,0 +1,401 @@
+{
+  "google_place_id": "ChIJ9agwj7IBBDQRKCstVBJSUn8",
+  "restaurant_ids": [
+    "restaurant:2211811741"
+  ],
+  "fetched_at": "2026-10-23T15:47:02.564662+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ9agwj7IBBDQRKCstVBJSUn8",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3896 9900",
+    "internationalPhoneNumber": "+852 3896 9900",
+    "formattedAddress": "2/F, West Tower, Hyatt Centric Victoria Harbour Hong Kong, 北角1 North Point Estate Ln, North Point, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.292759699999998,
+      "longitude": 114.1994993
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=9174485629582256936&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.hyatt.com/hyatt-centric/en-US/hkgct-hyatt-centric-victoria-harbour-hong-kong/dining/sichuan-verandah",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 22:00",
+        "星期二: 12:00 – 15:00, 18:00 – 22:00",
+        "星期三: 12:00 – 15:00, 18:00 – 22:00",
+        "星期四: 12:00 – 15:00, 18:00 – 22:00",
+        "星期五: 12:00 – 15:00, 18:00 – 22:00",
+        "星期六: 12:00 – 15:00, 18:00 – 22:00",
+        "星期日: 12:00 – 15:00, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 23,
+    "displayName": {
+      "text": "Sichuan Verandah 北川小館",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesVegetarianFood": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ9agwj7IBBDQRKCstVBJSUn8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGUGFuQm9NVFp1UW01TVIxWkxja053WXpVNVVVRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今次嚟到位於北角嘅香港維港凱悅尚萃酒店\n佢哋新開左間海景川菜館 「北川小館」\n餐廳位於酒店 2 樓\n佢呢度呢可以自由去到選擇呢個辣度\n無論係唔係好食得辣\n定係好鍾意食辣呢 都會搵到啱你嘅口味 🌶️\n我哋叫咗\n涼拌小菜\n▫️招牌川味口水雞 $148\n▫️蒜泥白肉卷 $148\n口水雞既雞肉好嫩滑\n醬汁係特製辣椒紅油醬汁\n中間仲有一層啫喱咁\n蒜泥白肉卷非常有驚喜👍🏻\n入邊包咗青瓜\n好鍾意呢個配搭\n因為食落去個口感豐富\n有肉又有爽口嘅口感\n主菜\n▫️酸菜魚湯桂花魚 $368\n▫️麻辣水煮牛肉 $318\n酸菜魚湯桂花魚\n我好鍾意佢個湯底\n真係平時飲魚湯 煲到奶白色嗰種 🐟\n魚湯好好飲 係白鯽魚熬製的鮮甜酸辣湯底\n佢用到桂花魚 肉質細滑 👍🏻\n麻辣水煮牛肉\n揀咗BB辣 🌶️\n上面係牛肉 下面係菠菜\n肉嘅份量比得好多\n好香麻 唔會去到太辣\n鍾意食辣嘅可以自己叫辣啲\n主食\n▫️招牌北川炒飯 $248\n招牌北川炒飯\n入邊有臘腸同埋潤腸\n係炒得乾身嗰一種\n臘腸潤腸嘅份量非常多\n啖啖都有",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次嚟到位於北角嘅香港維港凱悅尚萃酒店\n佢哋新開左間海景川菜館 「北川小館」\n餐廳位於酒店 2 樓\n佢呢度呢可以自由去到選擇呢個辣度\n無論係唔係好食得辣\n定係好鍾意食辣呢 都會搵到啱你嘅口味 🌶️\n我哋叫咗\n涼拌小菜\n▫️招牌川味口水雞 $148\n▫️蒜泥白肉卷 $148\n口水雞既雞肉好嫩滑\n醬汁係特製辣椒紅油醬汁\n中間仲有一層啫喱咁\n蒜泥白肉卷非常有驚喜👍🏻\n入邊包咗青瓜\n好鍾意呢個配搭\n因為食落去個口感豐富\n有肉又有爽口嘅口感\n主菜\n▫️酸菜魚湯桂花魚 $368\n▫️麻辣水煮牛肉 $318\n酸菜魚湯桂花魚\n我好鍾意佢個湯底\n真係平時飲魚湯 煲到奶白色嗰種 🐟\n魚湯好好飲 係白鯽魚熬製的鮮甜酸辣湯底\n佢用到桂花魚 肉質細滑 👍🏻\n麻辣水煮牛肉\n揀咗BB辣 🌶️\n上面係牛肉 下面係菠菜\n肉嘅份量比得好多\n好香麻 唔會去到太辣\n鍾意食辣嘅可以自己叫辣啲\n主食\n▫️招牌北川炒飯 $248\n招牌北川炒飯\n入邊有臘腸同埋潤腸\n係炒得乾身嗰一種\n臘腸潤腸嘅份量非常多\n啖啖都有",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hana Lo",
+          "uri": "https://www.google.com/maps/contrib/116355358423891813233/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuTUU1GE8NwR0WEwF7nF0KzZH-bQbnLC0NVPbYl0n83UKdCzY=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-30T03:20:16.686463897Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGUGFuQm9NVFp1UW01TVIxWkxja053WXpVNVVVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGUGFuQm9NVFp1UW01TVIxWkxja053WXpVNVVVRRAB!2m1!1s0x340401b28f30a8f5:0x7f525212542d2b28"
+      },
+      {
+        "name": "places/ChIJ9agwj7IBBDQRKCstVBJSUn8/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xYWJIcFhNWGgxVjFsdlgyOVJkRkpYYnpkd1UzYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Great food, brand new setup, and nice location! Enjoyed the sichuan style mandarin fish and spicy beef soooo much - delicious!! Oh and I don’t have a photo but there’s one deep fried chicken dish which is finger licking good! 可能係香港最好食嘅酸菜魚，辣子雞同水煮牛肉都好好食👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Great food, brand new setup, and nice location! Enjoyed the sichuan style mandarin fish and spicy beef soooo much - delicious!! Oh and I don’t have a photo but there’s one deep fried chicken dish which is finger licking good! 可能係香港最好食嘅酸菜魚，辣子雞同水煮牛肉都好好食👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tess",
+          "uri": "https://www.google.com/maps/contrib/110970240642046197811/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIl4J8FYQcJt9AbL9TURkuglhIUm2kKu1UgTJ_budfFt2AlBw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-16T04:39:55.594037075Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xYWJIcFhNWGgxVjFsdlgyOVJkRkpYYnpkd1UzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xYWJIcFhNWGgxVjFsdlgyOVJkRkpYYnpkd1UzYxAB!2m1!1s0x340401b28f30a8f5:0x7f525212542d2b28"
+      },
+      {
+        "name": "places/ChIJ9agwj7IBBDQRKCstVBJSUn8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Kc1EwUTNXa3RQZUhoSk0yaHBVMWM0ZUZOSWNGRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境簡約雅麗，海景相伴，建議點杯雞尾酒，為繁忙的一天減壓。\n\nMala Punch 、Cosmopolitan\n酒精成分恰當、同時容易入口。\n\n正宗川菜，香辣不霸氣，水準不俗。\n招牌川味口水雞\n蒜泥白肉卷\n風味地道，口感豐富不膩，稱職的開胃前菜。\n\n酸菜魚湯桂花魚\n桂花魚肉質細嫩，酸辣濃郁的湯底令魚肉更加嫩滑，酸度適中。\n\n麻辣水煮牛肉\n夠麻夠辣，裏面有韭菜，牛肉非常嫩滑。\n\n招牌北川炒飯\n四川臘肉惹味的鹹香，成功提昇了炒飯的香氣，更有漂亮的蛋花，不愧為招牌。\n\n花椒焦糖燉蛋\n中西混合的變奏，喜歡那輕輕的花椒香。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境簡約雅麗，海景相伴，建議點杯雞尾酒，為繁忙的一天減壓。\n\nMala Punch 、Cosmopolitan\n酒精成分恰當、同時容易入口。\n\n正宗川菜，香辣不霸氣，水準不俗。\n招牌川味口水雞\n蒜泥白肉卷\n風味地道，口感豐富不膩，稱職的開胃前菜。\n\n酸菜魚湯桂花魚\n桂花魚肉質細嫩，酸辣濃郁的湯底令魚肉更加嫩滑，酸度適中。\n\n麻辣水煮牛肉\n夠麻夠辣，裏面有韭菜，牛肉非常嫩滑。\n\n招牌北川炒飯\n四川臘肉惹味的鹹香，成功提昇了炒飯的香氣，更有漂亮的蛋花，不愧為招牌。\n\n花椒焦糖燉蛋\n中西混合的變奏，喜歡那輕輕的花椒香。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "IE食神俠侶",
+          "uri": "https://www.google.com/maps/contrib/110462445081962898332/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPGg0OaPnlITpOm0V8c2HaHDI1WqH82uQCGLFBu-BX515cn0s=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-21T04:48:31.761165841Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Kc1EwUTNXa3RQZUhoSk0yaHBVMWM0ZUZOSWNGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Kc1EwUTNXa3RQZUhoSk0yaHBVMWM0ZUZOSWNGRRAB!2m1!1s0x340401b28f30a8f5:0x7f525212542d2b28"
+      },
+      {
+        "name": "places/ChIJ9agwj7IBBDQRKCstVBJSUn8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGU1RqZE1TVUZQV1daTWJYZHlSMjFrT1ZOcGQwRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "北角高質新派川菜 🌶️\n\n北川小館的菜色展現了新派川菜的精緻度。特別喜歡他們的蒜泥白肉，擺盤政治，蒜泥醬汁濃郁入味；酸菜魚的湯底鮮甜，魚片分量十足。\n\n環境舒適，服務周到\n\n對於喜歡吃川菜但又追求優雅用餐環境的人來說，這裡絕對值得一試！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "北角高質新派川菜 🌶️\n\n北川小館的菜色展現了新派川菜的精緻度。特別喜歡他們的蒜泥白肉，擺盤政治，蒜泥醬汁濃郁入味；酸菜魚的湯底鮮甜，魚片分量十足。\n\n環境舒適，服務周到\n\n對於喜歡吃川菜但又追求優雅用餐環境的人來說，這裡絕對值得一試！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anson Li",
+          "uri": "https://www.google.com/maps/contrib/104324206690402019593/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUKWIIEvFPpOlSlfrU6hJTABMXuAzrHwbWuEM_gJZF2k6XvtQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-21T03:29:25.485060561Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGU1RqZE1TVUZQV1daTWJYZHlSMjFrT1ZOcGQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGU1RqZE1TVUZQV1daTWJYZHlSMjFrT1ZOcGQwRRAB!2m1!1s0x340401b28f30a8f5:0x7f525212542d2b28"
+      },
+      {
+        "name": "places/ChIJ9agwj7IBBDQRKCstVBJSUn8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paU2JIb3hPV3B2VWw5QlJUVnBjVlpsVDBaVWRtYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "酸菜魚同抄手好味！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "酸菜魚同抄手好味！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Matthew Kwok",
+          "uri": "https://www.google.com/maps/contrib/111115244067503462858/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvls_ZBpg16ZzazhmZGKksGpK1Cw9UB-aIS2rjGP53APMcdw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-16T02:51:49.725860585Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paU2JIb3hPV3B2VWw5QlJUVnBjVlpsVDBaVWRtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paU2JIb3hPV3B2VWw5QlJUVnBjVlpsVDBaVWRtYxAB!2m1!1s0x340401b28f30a8f5:0x7f525212542d2b28"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "valetParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401b28f30a8f5:0x7f525212542d2b28!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9174485629582256936&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401b28f30a8f5:0x7f525212542d2b28!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401b28f30a8f5:0x7f525212542d2b28!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401b28f30a8f5:0x7f525212542d2b28!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ9agwj7IBBDQRKCstVBJSUn8/photos/Aa-ngMYbm_t3oZIyKnjL6wjNkdlVbQnooU_2j4M_MhJzqaGTpGm6OsKtc2GMvrjs7C_o2uwIebHVjpMl4IaUlt2ZsKnwKiGDIBlnUcS-Jt2teoGrHziXXi1aDkAqQEzXIax9sPO6LSTwb7v8WgromahN_x4DtVBEkmO_I8rKFLXjRLbZVEuJKxurGEzIbAzavAaYXKiNFwwNsux_PzE_r1Tjsg0QXXYLNXX6SvWc6LV5KBy9-oy_CI5IdldQnrzJF0PKE9EA5gzzw_rGvTdfVCba_nm4nrOd6M_cZmyz5v11w67PYdzzH9YjOX1m34siT10Biovzo7_tMrQbb25fdxH-wuQMx0qn-zNR63bsEcvlxdp5x5vAr45sN0MpecPsWaKJqNmuZdMC4UpM54NbfErGprtHr1zk5KPcwIqxtdvnPZfCDw",
+      "widthPx": 3072,
+      "heightPx": 4096,
+      "authorAttributions": [
+        {
+          "displayName": "IE食神俠侶",
+          "uri": "https://maps.google.com/maps/contrib/110462445081962898332",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPGg0OaPnlITpOm0V8c2HaHDI1WqH82uQCGLFBu-BX515cn0s=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBa8dIeuqKMgBVV25jaryhR&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBa8dIeuqKMgBVV25jaryhR!2e10!4m2!3m1!1s0x340401b28f30a8f5:0x7f525212542d2b28"
+    },
+    "local_path": "photos/ChIJ9agwj7IBBDQRKCstVBJSUn8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLczUUjhrL5A9Aknu2aDPnXcl15G09jmLyiomL6Gd535yOKLZLwKIwlUC64w8ml0gpcCSo0HV1Aa-T7yVW-D8m-vAxgbdapB1TxzMlDoITymYICww7pG8doRHH404-ewOZwFxeEwdQ5bZua9=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 224868
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 429"
+  },
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

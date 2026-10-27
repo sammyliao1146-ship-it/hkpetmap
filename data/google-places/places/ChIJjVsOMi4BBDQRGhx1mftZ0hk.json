@@ -1,0 +1,406 @@
+{
+  "google_place_id": "ChIJjVsOMi4BBDQRGhx1mftZ0hk",
+  "restaurant_ids": [
+    "restaurant:2212818004"
+  ],
+  "fetched_at": "2026-10-23T15:46:23.540444+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJjVsOMi4BBDQRGhx1mftZ0hk",
+    "types": [
+      "japanese_izakaya_restaurant",
+      "yakitori_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5968 0586",
+    "internationalPhoneNumber": "+852 5968 0586",
+    "formattedAddress": "Shop 4, G/F, 18 Ship St, Wan Chai, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.275962699999997,
+      "longitude": 114.1708858
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=1860648533203688474&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://book.bistrochat.com/nadagogo/google",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 14:30, 17:30 – 23:00",
+        "星期二: 12:00 – 14:30, 17:30 – 23:00",
+        "星期三: 12:00 – 14:30, 17:30 – 23:00",
+        "星期四: 12:00 – 14:30, 17:30 – 23:00",
+        "星期五: 12:00 – 14:30, 17:30 – 23:30",
+        "星期六: 12:00 – 14:30, 17:30 – 23:30",
+        "星期日: 12:00 – 14:30, 17:30 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 222,
+    "displayName": {
+      "text": "Nadagogo",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "居酒屋",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "japanese_izakaya_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJjVsOMi4BBDQRGhx1mftZ0hk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFMFJGODJVM0Y2YkVWVWRVeFZlVkl0YTJGcFMxRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Brunch套餐（$588/2人），整體體驗非常驚喜！\n【菜品推薦】\n自家制月見日本免治雞肉棒：絕對是必點！雞肉棒裡混了雞軟骨碎，口感豐富，蘸上濃郁日本生蛋黃和特製醬汁，口感非常絲滑。\n明太子紫蘇豚肉卷：豚肉包裹著紫蘇葉和明太子，紫蘇清香完美中和了豚肉油膩，鹹香惹味。\n刺身三點盛：包含櫻鯛、鰤魚和赤蝦，食材很新鮮，蝦肉軟糯清甜，品質在線。\n吉列廣島蠔：外皮炸得金黃酥脆，裡面蠔肉依舊飽滿多汁，火候掌握得剛好。\n沖繩香檸燒酎特飲：額外加點的特飲，酸酸甜甜的，帶著淡淡酒香，跟串燒和炸物是絕配。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Brunch套餐（$588/2人），整體體驗非常驚喜！\n【菜品推薦】\n自家制月見日本免治雞肉棒：絕對是必點！雞肉棒裡混了雞軟骨碎，口感豐富，蘸上濃郁日本生蛋黃和特製醬汁，口感非常絲滑。\n明太子紫蘇豚肉卷：豚肉包裹著紫蘇葉和明太子，紫蘇清香完美中和了豚肉油膩，鹹香惹味。\n刺身三點盛：包含櫻鯛、鰤魚和赤蝦，食材很新鮮，蝦肉軟糯清甜，品質在線。\n吉列廣島蠔：外皮炸得金黃酥脆，裡面蠔肉依舊飽滿多汁，火候掌握得剛好。\n沖繩香檸燒酎特飲：額外加點的特飲，酸酸甜甜的，帶著淡淡酒香，跟串燒和炸物是絕配。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rina C (Siufarb)",
+          "uri": "https://www.google.com/maps/contrib/104256192743451167545/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXcIN0BMMXp4Bp7_cUsCMCcckzvYilLEkpM6drbktzRsIRkWWdOw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-10T17:46:46.542795889Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFMFJGODJVM0Y2YkVWVWRVeFZlVkl0YTJGcFMxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFMFJGODJVM0Y2YkVWVWRVeFZlVkl0YTJGcFMxRRAB!2m1!1s0x3404012e320e5b8d:0x19d259fb99751c1a"
+      },
+      {
+        "name": "places/ChIJjVsOMi4BBDQRGhx1mftZ0hk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kRk5IRkZaRU5KZVc1elgyOUVSRE5UTUUxNlJIYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "週末Brunch Set性價比高\n套餐有沙律、刺身、卷物、炸物、串燒、爐端燒同主食🤩\n另外我哋有追加刺身同升級菜式🤤肚皮真係好滿足\n✨季節刺身\n我哋追加咗拖羅同海膽變5点盛\n當中嘅櫻鯛肉質彈牙，拖羅入口即溶，海膽鮮甜綿滑\n✨串燒\n我哋揀咗自家製月見日本免治雞肉棒同明太子紫蘇豚肉卷🤩\n。免治雞肉棒混入軟骨增加口感，蘸上日本生雞蛋🥚提升滑溜口感\n。微焦豚肉卷包住清香紫蘇葉同埋鹹香明太子醬🤤非常惹味",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "週末Brunch Set性價比高\n套餐有沙律、刺身、卷物、炸物、串燒、爐端燒同主食🤩\n另外我哋有追加刺身同升級菜式🤤肚皮真係好滿足\n✨季節刺身\n我哋追加咗拖羅同海膽變5点盛\n當中嘅櫻鯛肉質彈牙，拖羅入口即溶，海膽鮮甜綿滑\n✨串燒\n我哋揀咗自家製月見日本免治雞肉棒同明太子紫蘇豚肉卷🤩\n。免治雞肉棒混入軟骨增加口感，蘸上日本生雞蛋🥚提升滑溜口感\n。微焦豚肉卷包住清香紫蘇葉同埋鹹香明太子醬🤤非常惹味",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Siufuma小芙媽",
+          "uri": "https://www.google.com/maps/contrib/113753397039064138095/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBl98HEGSwFg9eJKBM-sz6r7e3Ym-V7_JFPpppj6rezXlJW4g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-30T12:34:52.137179448Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kRk5IRkZaRU5KZVc1elgyOUVSRE5UTUUxNlJIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kRk5IRkZaRU5KZVc1elgyOUVSRE5UTUUxNlJIYxAB!2m1!1s0x3404012e320e5b8d:0x19d259fb99751c1a"
+      },
+      {
+        "name": "places/ChIJjVsOMi4BBDQRGhx1mftZ0hk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCMk5uTXpaQzFCWWkxU1NtY3hVVXRIYlc5aFJFRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "週末早午餐。二人前 $588 包含 7 道菜，份量同質素都令人滿意。\n前菜沙律新鮮，刺身三點盛（櫻鯛、鰤魚、赤蝦）新鮮厚切，赤蝦大隻甜美。香蔥吞拿魚腩蓉海苔卷味道剛好。串燒推薦「明太子紫蘇葉豚肉卷」同「自家製月見免治雞肉棒」，雞肉棒沾滿蛋汁非常滑嫩。炸物嘅吉列廣島蠔外脆內多汁，爐端燒豬腩肉西京燒帶有微甜醬香。主食揀咗木魚湯烏冬同明太子茶漬飯，熱湯暖胃作結，非常大飽足。\n另外加點嘅沖繩香檸燒酌特飲同芋燒酌味道清爽。餐廳走開放式木系日式裝潢，坐吧枱可以睇到師傅即席烹調，環境舒適，服務到位",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "週末早午餐。二人前 $588 包含 7 道菜，份量同質素都令人滿意。\n前菜沙律新鮮，刺身三點盛（櫻鯛、鰤魚、赤蝦）新鮮厚切，赤蝦大隻甜美。香蔥吞拿魚腩蓉海苔卷味道剛好。串燒推薦「明太子紫蘇葉豚肉卷」同「自家製月見免治雞肉棒」，雞肉棒沾滿蛋汁非常滑嫩。炸物嘅吉列廣島蠔外脆內多汁，爐端燒豬腩肉西京燒帶有微甜醬香。主食揀咗木魚湯烏冬同明太子茶漬飯，熱湯暖胃作結，非常大飽足。\n另外加點嘅沖繩香檸燒酌特飲同芋燒酌味道清爽。餐廳走開放式木系日式裝潢，坐吧枱可以睇到師傅即席烹調，環境舒適，服務到位",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Siufarb Kiekie",
+          "uri": "https://www.google.com/maps/contrib/100117755761004596781/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCdsvdOTM8o264u5DqLSQREowuB3j_er8xoqcPFZ2-W3HQ4Ok=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-09T18:09:06.929479331Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCMk5uTXpaQzFCWWkxU1NtY3hVVXRIYlc5aFJFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCMk5uTXpaQzFCWWkxU1NtY3hVVXRIYlc5aFJFRRAB!2m1!1s0x3404012e320e5b8d:0x19d259fb99751c1a"
+      },
+      {
+        "name": "places/ChIJjVsOMi4BBDQRGhx1mftZ0hk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGb1RFOURSWE0zU3pOSk4wUktTamRmTUUxdVJVRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "灣仔「灘五郷」週末二人前Weekend Brunch Menu只需$588就可以享用到9道菜式，當中更包含串燒主廚下田豪馬席前料理嘅2道串燒。餐廳設有室內、室外座位，可以品嚐到由多位擅長各個烹飪領域及世界得獎師傅炮製嘅博多串燒、爐端燒。\n\n*此餐廳收取全單10%服務費。\n\n週末二人前Weekend Brunch Menu（一人$294），季節刺身三點盛，櫻鯛刺身，肉質色澤粉嫩，味道鮮甜；赤蝦刺身，赤蝦好大隻，口感軟糯，食落好新鮮；鰤魚刺身，肉質肥美，口感厚身，食落油脂味濃。\n\n海苔卷配千本漬香蔥吞拿魚腩蓉（跟餐$0），三文魚籽味道不腥，吞拿魚腩蓉份量多，配以千本漬、香蔥食用，可以幫助解膩，海苔卷醋飯食落酸度適中。\n\n煙三文魚水菜凱撒沙律（跟餐$0），煙三文魚肉質嫩滑味道鹹香，日本水菜、羅馬生菜、車厘茄口感爽脆，配以凱撒沙律醬、巴馬臣芝士粉食用，味道清爽。\n\n明太子茶漬飯（跟餐$0），表面鋪滿紫菜、日本彩色米通，飯粒口感軟綿，配以明太子、芥末食用，味道鹹鮮、帶點辛辣，茶湯飲落茶味清香。\n\n沖繩香檸燒酌特飲（單點$98），飲落帶點沖繩香檸的清香味道，味道酸甜，容易入口。\n\n熱茶（跟餐$0），茶味清香。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "灣仔「灘五郷」週末二人前Weekend Brunch Menu只需$588就可以享用到9道菜式，當中更包含串燒主廚下田豪馬席前料理嘅2道串燒。餐廳設有室內、室外座位，可以品嚐到由多位擅長各個烹飪領域及世界得獎師傅炮製嘅博多串燒、爐端燒。\n\n*此餐廳收取全單10%服務費。\n\n週末二人前Weekend Brunch Menu（一人$294），季節刺身三點盛，櫻鯛刺身，肉質色澤粉嫩，味道鮮甜；赤蝦刺身，赤蝦好大隻，口感軟糯，食落好新鮮；鰤魚刺身，肉質肥美，口感厚身，食落油脂味濃。\n\n海苔卷配千本漬香蔥吞拿魚腩蓉（跟餐$0），三文魚籽味道不腥，吞拿魚腩蓉份量多，配以千本漬、香蔥食用，可以幫助解膩，海苔卷醋飯食落酸度適中。\n\n煙三文魚水菜凱撒沙律（跟餐$0），煙三文魚肉質嫩滑味道鹹香，日本水菜、羅馬生菜、車厘茄口感爽脆，配以凱撒沙律醬、巴馬臣芝士粉食用，味道清爽。\n\n明太子茶漬飯（跟餐$0），表面鋪滿紫菜、日本彩色米通，飯粒口感軟綿，配以明太子、芥末食用，味道鹹鮮、帶點辛辣，茶湯飲落茶味清香。\n\n沖繩香檸燒酌特飲（單點$98），飲落帶點沖繩香檸的清香味道，味道酸甜，容易入口。\n\n熱茶（跟餐$0），茶味清香。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yeuk shuen Fung",
+          "uri": "https://www.google.com/maps/contrib/100789221951017414938/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRPwtAU_0v_7eByr8o54K9kRaP2zd9yGVo1_bm5QyJ6UM0vw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-04T16:46:35.896653142Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGb1RFOURSWE0zU3pOSk4wUktTamRmTUUxdVJVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGb1RFOURSWE0zU3pOSk4wUktTamRmTUUxdVJVRRAB!2m1!1s0x3404012e320e5b8d:0x19d259fb99751c1a"
+      },
+      {
+        "name": "places/ChIJjVsOMi4BBDQRGhx1mftZ0hk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGWE9FUlBXVmRNYjJWNVNUbHJWR2c0T0dGTFVXYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "刺身🐟、卷物🍣、串燒、炸物、爐端燒🔥，全部都出色。而且灘五郷唔係只得晚市，Weekend Brunch $588/2人，可追加兩小時無限暢飲🍶😆\n\nWeekend Brunch\n🥗煙三文魚水菜沙律\n🐟🦐⭐️季節刺身：櫻鯛、簡魚、赤蝦、追加咗肥美嘅拖羅、極新鮮嘅海膽，款款都好食\n🍣海苔卷配千本漬 香葱吞拿魚腩蓉\n🦪吉列廣島壕：非常肥美，口感一流\n🔥爐端燒：upgrade 咗澳洲和牛橫隔膜肉排🐄，肉質好靚，牛味濃郁，真係燒得好香\n🔥串燒：七款選兩款，自家製月見日本免治雞肉棒 ＆ 明太子紫蘇葉豚肉卷好食得嚟又特別\n🍜主食：每人可選一款，有野菜牛肉讚岐烏冬，明太子茶漬飯，本身已經好滿足，食完真係超級飽。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "刺身🐟、卷物🍣、串燒、炸物、爐端燒🔥，全部都出色。而且灘五郷唔係只得晚市，Weekend Brunch $588/2人，可追加兩小時無限暢飲🍶😆\n\nWeekend Brunch\n🥗煙三文魚水菜沙律\n🐟🦐⭐️季節刺身：櫻鯛、簡魚、赤蝦、追加咗肥美嘅拖羅、極新鮮嘅海膽，款款都好食\n🍣海苔卷配千本漬 香葱吞拿魚腩蓉\n🦪吉列廣島壕：非常肥美，口感一流\n🔥爐端燒：upgrade 咗澳洲和牛橫隔膜肉排🐄，肉質好靚，牛味濃郁，真係燒得好香\n🔥串燒：七款選兩款，自家製月見日本免治雞肉棒 ＆ 明太子紫蘇葉豚肉卷好食得嚟又特別\n🍜主食：每人可選一款，有野菜牛肉讚岐烏冬，明太子茶漬飯，本身已經好滿足，食完真係超級飽。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sakura",
+          "uri": "https://www.google.com/maps/contrib/104445619378489162107/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRoQQBQ1OtFc1L9XDR6yEOGLUyJ89HFozuCsoq9q96a0xQmg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-26T11:48:15.742034790Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGWE9FUlBXVmRNYjJWNVNUbHJWR2c0T0dGTFVXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGWE9FUlBXVmRNYjJWNVNUbHJWR2c0T0dGTFVXYxAB!2m1!1s0x3404012e320e5b8d:0x19d259fb99751c1a"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404012e320e5b8d:0x19d259fb99751c1a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1860648533203688474&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012e320e5b8d:0x19d259fb99751c1a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404012e320e5b8d:0x19d259fb99751c1a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012e320e5b8d:0x19d259fb99751c1a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJjVsOMi4BBDQRGhx1mftZ0hk/photos/Aa-ngMZXFCpyTI-jw0LUss8wLs3YvGDw8M8MYQ_Z5Vux5OXmumVIvTACjaU3YZCaeVPPf4OxhgV9StcbuW9S7R71DFZJUATi28eZkEuo_8xAgZ5imVEvAnGW1AXMuOCYdNchxkjG3uagyIYkHlAJp6XQoJZJOC2xPBFex1CKurDG4Pjnrrsy86RdL91tEVmm092a8T6ASlJ83FfQKO_DmzhCR1cgmnctVzUwAlZ89e1OuDKO--cALxk4MPkc_bOAcsksauasmCpuTpNcT1-uK_zHmTzYdQIdO9PNeV4-rTji33-rl8tYL74CHZYi6FILCWGHjaA-C9CVO13boVjpy4OibTiYlP4VRoyuO8tYzV5au1rqGNCJjczNLMMek6KXgAr8DIi3sPrlbgqXCDLdzcmwPeRNig",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Nadagogo",
+          "uri": "https://maps.google.com/maps/contrib/112145742679207774788",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5cqC4RUsRm1MrCKiaCwGrkce1ZF4jBzLrLp457N6OrUF31o=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDAh8bWUQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAh8bWUQ!2e10!4m2!3m1!1s0x3404012e320e5b8d:0x19d259fb99751c1a"
+    },
+    "local_path": "photos/ChIJjVsOMi4BBDQRGhx1mftZ0hk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPgkxRBFjflX2v9PQHee-PsM9fJAzyo9wYVWPBhIVTIkcquQHRhShJSOiHPhJQVVBZMpAFKfgq00FyfEYw9VneuRILsTGXh4GxB09BxObgIspBjP9g1OCr5rHK1k4M3oh211k=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 135576
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_izakaya_restaurant",
+    "label": "居酒屋",
+    "types": [
+      "japanese_izakaya_restaurant",
+      "yakitori_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

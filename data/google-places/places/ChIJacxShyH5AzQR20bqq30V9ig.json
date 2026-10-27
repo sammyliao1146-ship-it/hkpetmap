@@ -1,0 +1,405 @@
+{
+  "google_place_id": "ChIJacxShyH5AzQR20bqq30V9ig",
+  "restaurant_ids": [
+    "restaurant:2292806065"
+  ],
+  "fetched_at": "2026-10-23T15:50:37.444260+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJacxShyH5AzQR20bqq30V9ig",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5776 0962",
+    "internationalPhoneNumber": "+852 5776 0962",
+    "formattedAddress": "香港新界荃灣享和街53號地下E1號舖",
+    "location": {
+      "latitude": 22.3716118,
+      "longitude": 114.1122221
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=2951570235287291611&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/thaigrillhk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 16:00 – 21:30",
+        "星期二: 12:00 – 15:00, 16:00 – 21:30",
+        "星期三: 12:00 – 15:00, 16:00 – 21:30",
+        "星期四: 12:00 – 15:00, 16:00 – 21:30",
+        "星期五: 12:00 – 15:00, 16:00 – 21:30",
+        "星期六: 12:00 – 15:00, 16:00 – 21:30",
+        "星期日: 12:00 – 15:00, 16:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 163,
+    "displayName": {
+      "text": "泰Grill (享和街)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJacxShyH5AzQR20bqq30V9ig/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5UVpIQnJWRVZqTTB4VFdEZDFVVGhXZERCVVdVRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "整體質素幾 OK，性價比幾高，係嗰種平時唔知食乜會想再返去食嘅街坊店。\n\n🍜 冬蔭功雞肉金邊粉 ($58 套餐)\n上枱見到好大碗，配料俾得好足，雞肉同菇都幾多。湯底酸酸地帶少少辣，幾醒胃，不過層次感就稍微單薄咗啲，如果香料味可以再濃郁啲就正晒。\n🍢 沙嗲串燒炒飯 ($80 套餐)\n串燒反而有驚喜，肉質肥瘦啱啱好，燒得幾香又唔會乾，點埋沙嗲醬食唔錯。炒飯就正常發揮啦。\n🍹 飲品\n叫咗熱泰奶同凍青檸茶，Lunch Set 加幾蚊就有，幾划算。\n總結：\n兩個人埋單 $138，喺呢區嚟講真心抵食。啲嘢食對得住個價錢有餘，經過可以一試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "整體質素幾 OK，性價比幾高，係嗰種平時唔知食乜會想再返去食嘅街坊店。\n\n🍜 冬蔭功雞肉金邊粉 ($58 套餐)\n上枱見到好大碗，配料俾得好足，雞肉同菇都幾多。湯底酸酸地帶少少辣，幾醒胃，不過層次感就稍微單薄咗啲，如果香料味可以再濃郁啲就正晒。\n🍢 沙嗲串燒炒飯 ($80 套餐)\n串燒反而有驚喜，肉質肥瘦啱啱好，燒得幾香又唔會乾，點埋沙嗲醬食唔錯。炒飯就正常發揮啦。\n🍹 飲品\n叫咗熱泰奶同凍青檸茶，Lunch Set 加幾蚊就有，幾划算。\n總結：\n兩個人埋單 $138，喺呢區嚟講真心抵食。啲嘢食對得住個價錢有餘，經過可以一試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "為食肥腩",
+          "uri": "https://www.google.com/maps/contrib/112005516380626005363/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK1XSSG-uBbBZtAL0pG8n7jLeYmEgtNGwq5lA9aJJwEiGLxfA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-24T08:51:13.514905209Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5UVpIQnJWRVZqTTB4VFdEZDFVVGhXZERCVVdVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5UVpIQnJWRVZqTTB4VFdEZDFVVGhXZERCVVdVRRAB!2m1!1s0x3403f9218752cc69:0x28f6157dabea46db"
+      },
+      {
+        "name": "places/ChIJacxShyH5AzQR20bqq30V9ig/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rdGVFOXRjSEF0Y1RWcGJrNXpNRWRIV2xZME5GRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "l 荃灣 | 泰國菜 |\n\n食不相暪，小編其實已經吾系第一次幫襯，都想再介紹返位於荃灣享和街，食飯時間爆哂場既人氣泰菜 一 泰Grill\n\n🦐泰式炸蝦餅 $78\n炸蝦餅炸得金黃香脆，食落彈牙🤤👍🏻👍🏻\n\n🍝泰式炒金邊粉 $93\n炒得非常有鑊氣，調味酸酸甜甜幾開胃🤤👍🏻👍🏻\n\n🐥🐮🐷泰式串燒 $88\n燒得夠香亦吾會柴，配埋有花生香既沙嗲醬🤤👍🏻👍🏻\n\n🍍原條泰式海鮮菠蘿炒飯 $98\n炒得非常有鑊氣，上檯個陣仲出緊煙，而配料亦算比得幾足🤤👍🏻👍🏻\n\n📍泰Grill  @thaigrillhk\n地址：荃灣享和街53號都城大樓地下E1號舖\n\n#荃灣 #泰Grill #泰菜 #留港消費 #荃灣食乜好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "l 荃灣 | 泰國菜 |\n\n食不相暪，小編其實已經吾系第一次幫襯，都想再介紹返位於荃灣享和街，食飯時間爆哂場既人氣泰菜 一 泰Grill\n\n🦐泰式炸蝦餅 $78\n炸蝦餅炸得金黃香脆，食落彈牙🤤👍🏻👍🏻\n\n🍝泰式炒金邊粉 $93\n炒得非常有鑊氣，調味酸酸甜甜幾開胃🤤👍🏻👍🏻\n\n🐥🐮🐷泰式串燒 $88\n燒得夠香亦吾會柴，配埋有花生香既沙嗲醬🤤👍🏻👍🏻\n\n🍍原條泰式海鮮菠蘿炒飯 $98\n炒得非常有鑊氣，上檯個陣仲出緊煙，而配料亦算比得幾足🤤👍🏻👍🏻\n\n📍泰Grill  @thaigrillhk\n地址：荃灣享和街53號都城大樓地下E1號舖\n\n#荃灣 #泰Grill #泰菜 #留港消費 #荃灣食乜好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wong_game Louis",
+          "uri": "https://www.google.com/maps/contrib/112730484490288268524/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIMh5Avdvj45eYyZLKow0CeHce95qXaDhG-FoT2HhNr3oCy2g=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-14T18:02:13.482667350Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rdGVFOXRjSEF0Y1RWcGJrNXpNRWRIV2xZME5GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rdGVFOXRjSEF0Y1RWcGJrNXpNRWRIV2xZME5GRRAB!2m1!1s0x3403f9218752cc69:0x28f6157dabea46db"
+      },
+      {
+        "name": "places/ChIJacxShyH5AzQR20bqq30V9ig/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xT2VXTnVZMkZ1VWxjemVHZ3pjV1oyYjJOeWMxRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 2,
+        "text": {
+          "text": "係我食過最普通嘅泰菜😓\n豬牛雞串燒，肉質少乾，醬汁普通\n冬蔭功海鮮鍋，第一啖已經覺得超鹹，食唔到落去\n魷魚同蝦就還好\n炒通菜比較淡，唔夠入味\n唯獨係個泰式檸檬茶幾香，好飲\n\n總結性價比很低，唔會再幫襯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "係我食過最普通嘅泰菜😓\n豬牛雞串燒，肉質少乾，醬汁普通\n冬蔭功海鮮鍋，第一啖已經覺得超鹹，食唔到落去\n魷魚同蝦就還好\n炒通菜比較淡，唔夠入味\n唯獨係個泰式檸檬茶幾香，好飲\n\n總結性價比很低，唔會再幫襯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kit ying",
+          "uri": "https://www.google.com/maps/contrib/103636648173571682405/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLSRDon6U5-pqgYuF7kWa0PnRv1mFZcbfj1jmugkJ9yYtfYMw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-25T10:21:20.472830573Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xT2VXTnVZMkZ1VWxjemVHZ3pjV1oyYjJOeWMxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xT2VXTnVZMkZ1VWxjemVHZ3pjV1oyYjJOeWMxRRAB!2m1!1s0x3403f9218752cc69:0x28f6157dabea46db"
+      },
+      {
+        "name": "places/ChIJacxShyH5AzQR20bqq30V9ig/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oV2NEZDRkalZrTm5KbVYyMUplWFpPWm1JdFVIYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "假期想簡簡單單食一餐，🐑今次喺荃灣就揀咗呢間泰國菜。店舖裝修簡潔，坐得舒服。\n\nLunch\n\n🍜 極上牛肩胛船麵 $98\n🐮 牛肩胛肉質軟嫩，湯底濃郁帶有淡淡香料風味，牛丸都好Juicy幾好食，麵條吸附湯汁，口感豐富。\n\n🍲 冬蔭功湯(小)\n🌶️ 湯頭酸辣醒神，香茅與檸檬葉香氣突出，辣度適中，非常開胃。\n\n🍤 蛋包虎蝦炒金邊粉 $138\n🔥 虎蝦鮮彈飽滿，隻蝦切半再炸到香脆，令口感同香氣昇華。最特別係金邊粉外面有一層好薄嘅蛋包住，好似一個鳥巢咁，賣相吸引之餘，混合辣粉同埋花生粒粒一齊食感覺好豐富！\n\n🥗 青木瓜沙律(小)\n🌿 口感爽脆，酸甜中帶微辣，魚露香氣點綴得恰到好處，清新解膩。\n\n🥭 芒果糯米飯 | +$38\n🌟 芒果香甜多汁，糯米飯軟糯且帶有椰香，甜而不膩，作為單點品質對得起價位。\n\n🧋 凍泰式奶茶(少甜、少冰)\n☕ 茶香濃厚，甜度調配得宜，冰量減少後更能品嚐到奶茶的細緻口感。\n\n☕ 凍泰咖啡(少甜、少冰)\n咖啡烘焙香氣醇厚，與煉乳甜味平衡，少冰設定讓風味更集中。\n\n✨ 兩個主餐各有特色，船麵湯底濃郁正宗，金邊粉鑊氣十足，配菜同飲品都配搭得宜，重點係~勁抵食份量好多！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "假期想簡簡單單食一餐，🐑今次喺荃灣就揀咗呢間泰國菜。店舖裝修簡潔，坐得舒服。\n\nLunch\n\n🍜 極上牛肩胛船麵 $98\n🐮 牛肩胛肉質軟嫩，湯底濃郁帶有淡淡香料風味，牛丸都好Juicy幾好食，麵條吸附湯汁，口感豐富。\n\n🍲 冬蔭功湯(小)\n🌶️ 湯頭酸辣醒神，香茅與檸檬葉香氣突出，辣度適中，非常開胃。\n\n🍤 蛋包虎蝦炒金邊粉 $138\n🔥 虎蝦鮮彈飽滿，隻蝦切半再炸到香脆，令口感同香氣昇華。最特別係金邊粉外面有一層好薄嘅蛋包住，好似一個鳥巢咁，賣相吸引之餘，混合辣粉同埋花生粒粒一齊食感覺好豐富！\n\n🥗 青木瓜沙律(小)\n🌿 口感爽脆，酸甜中帶微辣，魚露香氣點綴得恰到好處，清新解膩。\n\n🥭 芒果糯米飯 | +$38\n🌟 芒果香甜多汁，糯米飯軟糯且帶有椰香，甜而不膩，作為單點品質對得起價位。\n\n🧋 凍泰式奶茶(少甜、少冰)\n☕ 茶香濃厚，甜度調配得宜，冰量減少後更能品嚐到奶茶的細緻口感。\n\n☕ 凍泰咖啡(少甜、少冰)\n咖啡烘焙香氣醇厚，與煉乳甜味平衡，少冰設定讓風味更集中。\n\n✨ 兩個主餐各有特色，船麵湯底濃郁正宗，金邊粉鑊氣十足，配菜同飲品都配搭得宜，重點係~勁抵食份量好多！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lydia Wong",
+          "uri": "https://www.google.com/maps/contrib/106423930985739034113/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUe-AafdJcgCEvYLHx28-dQx9oDN9D10oMxG6Fj2TGlY_4vcDI=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-08T13:00:28.645207207Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oV2NEZDRkalZrTm5KbVYyMUplWFpPWm1JdFVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oV2NEZDRkalZrTm5KbVYyMUplWFpPWm1JdFVIYxAB!2m1!1s0x3403f9218752cc69:0x28f6157dabea46db"
+      },
+      {
+        "name": "places/ChIJacxShyH5AzQR20bqq30V9ig/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OdWNUTkdOa2xVVlV0TWFFeGFNVmRIY0VWak1YYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "前日搭屯馬線去南豐紗廠玩，途經呢間泰式小店，之前食過中環分店，覺得滿意，就入咗。\n叫咗大蝦金邊粉、牛肩胛湯河，配小食蝦餅、糯米飯。\n虎蝦開邊，賣相幾靚，隔離枱一入門口見到我哋食，都話“好靚仔”，同waiter叫咗同一款。爭d以為話我哋個人靚仔xd...\n蝦餅好彈牙。糯米飯都恰到好處。湯河就普通。可能叫炒嘢比較有鑊氣。有機會再試埋串燒。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "前日搭屯馬線去南豐紗廠玩，途經呢間泰式小店，之前食過中環分店，覺得滿意，就入咗。\n叫咗大蝦金邊粉、牛肩胛湯河，配小食蝦餅、糯米飯。\n虎蝦開邊，賣相幾靚，隔離枱一入門口見到我哋食，都話“好靚仔”，同waiter叫咗同一款。爭d以為話我哋個人靚仔xd...\n蝦餅好彈牙。糯米飯都恰到好處。湯河就普通。可能叫炒嘢比較有鑊氣。有機會再試埋串燒。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Elinor",
+          "uri": "https://www.google.com/maps/contrib/102856714574417481327/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqkIgWLFXFKjSyJW1Egf4Ufl-NcdpZSRoJ1ehn2ivy9QLGcQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-02-02T17:03:14.135834054Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OdWNUTkdOa2xVVlV0TWFFeGFNVmRIY0VWak1YYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OdWNUTkdOa2xVVlV0TWFFeGFNVmRIY0VWak1YYxAB!2m1!1s0x3403f9218752cc69:0x28f6157dabea46db"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f9218752cc69:0x28f6157dabea46db!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2951570235287291611&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9218752cc69:0x28f6157dabea46db!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f9218752cc69:0x28f6157dabea46db!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9218752cc69:0x28f6157dabea46db!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJacxShyH5AzQR20bqq30V9ig/photos/Aa-ngMamukwroJC-zPfP_J1N5YBx6_Xp5IK5TIJJibIj0U1WXi6KLztNV4-xZY3CjKi6xjcO0Y6ItZApYo-3uVgwyFk2LgkWxctLHDYouNVFmYS5xj-COZpHlLt4Kw6I2iBUlPFgN-yraMoKcU9FGK2m3QYYoJFwSNWKEsywKYpAjmJBDJEIgmeo0ltXEeqyw4BAqeYwPOtCz1u44EZQFQDLXZs14eimXNlzRyXmcXcOU8mnQbLN0_pbyuTb3Dnbi9T6TbfuEm7hJWSXFtvxfH_sWdvtMimVeIZFepupH54NZHlyXvftAGMlyB5p7w3t5FJDBClL53YcccUDX0_q2kKdoH7ixPkUJnp4XA1OXTizwCgC07OTMq83PRlb565OK5BJgE3sEQobQHeyVFhyMlZKQkwwP-g",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "authorAttributions": [
+        {
+          "displayName": "泰Grill",
+          "uri": "https://maps.google.com/maps/contrib/104050271399275506865",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKrDufn5U-H-P8Ce7TiEarAtApA1dAcr8LjVT4kznDybDeTTg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDTzLf1Lg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTzLf1Lg!2e10!4m2!3m1!1s0x3403f9218752cc69:0x28f6157dabea46db"
+    },
+    "local_path": "photos/ChIJacxShyH5AzQR20bqq30V9ig.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqtXoBFvtLswGX7-mCMwC4nywtDONzRmFwqT-gaIsaMsp6qminW9vn0bpQq2jy-4VLMPQa57ABEba8JYTkDGh1zsh2MinGllr3Arm9h9TdXFQC38__ZkKT22Al5twkfB6C3EAA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 153765
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

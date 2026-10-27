@@ -1,0 +1,307 @@
+{
+  "google_place_id": "ChIJjyJeYwMBBDQRROU-eMSD3l4",
+  "restaurant_ids": [
+    "restaurant:3118803530"
+  ],
+  "fetched_at": "2026-10-23T15:44:25.045520+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJjyJeYwMBBDQRROU-eMSD3l4",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港香港島中環機利文新街4號號地下",
+    "location": {
+      "latitude": 22.284622799999998,
+      "longitude": 114.15395389999999
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=6836046164249208132&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 22:00",
+        "星期二: 08:00 – 22:00",
+        "星期三: 08:00 – 22:00",
+        "星期四: 08:00 – 22:00",
+        "星期五: 08:00 – 22:00",
+        "星期六: 10:30 – 21:00",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-24T02:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 18,
+    "displayName": {
+      "text": "堅秋堂",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "servesBrunch": true,
+    "servesVegetarianFood": false,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJjyJeYwMBBDQRROU-eMSD3l4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taNWRrTjBVREZOVFVjdGFHRkJRWGc1Y2paUGNIYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "見新開張冇耐就嗌外賣，呢個餐$68好抵食，不過嘢飲方面(湯同杯茶 兩杯份量都少一半，菜嘅話可以多多一兩條，如果叉燒飯落多少少汁落去會更加好食，食落有d乾)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "見新開張冇耐就嗌外賣，呢個餐$68好抵食，不過嘢飲方面(湯同杯茶 兩杯份量都少一半，菜嘅話可以多多一兩條，如果叉燒飯落多少少汁落去會更加好食，食落有d乾)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gabriel Wan",
+          "uri": "https://www.google.com/maps/contrib/113296308565974048757/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJxnW4welPlnEGyISal3h4UR4TPKV2uxsfRKqDcs9zVI53m7Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-11T07:56:31.830221345Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taNWRrTjBVREZOVFVjdGFHRkJRWGc1Y2paUGNIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taNWRrTjBVREZOVFVjdGFHRkJRWGc1Y2paUGNIYxAB!2m1!1s0x34040103635e228f:0x5ede83c4783ee544"
+      },
+      {
+        "name": "places/ChIJjyJeYwMBBDQRROU-eMSD3l4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xweVVIUjRXbFpmUVhkRlkyMUlkSEkyV2paNFpIYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "😋 正 好味\n叉燒煎蛋炒通粉",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "😋 正 好味\n叉燒煎蛋炒通粉",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "On Yee Fong",
+          "uri": "https://www.google.com/maps/contrib/101332189290524799471/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWbxwpVmblL6cvOdBzE3N2gDQ2Mp5wZSF2bmBB5do8BC6wPOQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-20T10:15:29.333205123Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xweVVIUjRXbFpmUVhkRlkyMUlkSEkyV2paNFpIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xweVVIUjRXbFpmUVhkRlkyMUlkSEkyV2paNFpIYxAB!2m1!1s0x34040103635e228f:0x5ede83c4783ee544"
+      },
+      {
+        "name": "places/ChIJjyJeYwMBBDQRROU-eMSD3l4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SUVEwVnNWekJzWnpGMVpVOXNhREpyVVdwVE1GRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "叉燒炒通粉堅秋正！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "叉燒炒通粉堅秋正！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Michelle Chin",
+          "uri": "https://www.google.com/maps/contrib/106256620451378611058/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLq_-2J0OIODOFlOKIlYKMcq5FnZTVC4SW3kv6uyEjnhh0EKzQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-16T07:16:40.281225693Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SUVEwVnNWekJzWnpGMVpVOXNhREpyVVdwVE1GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SUVEwVnNWekJzWnpGMVpVOXNhREpyVVdwVE1GRRAB!2m1!1s0x34040103635e228f:0x5ede83c4783ee544"
+      },
+      {
+        "name": "places/ChIJjyJeYwMBBDQRROU-eMSD3l4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5V05uSlNhR3gyU2tGa1JVRlRkVzVZWm5RMFVtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "瑞士雞翼同腩叉飯都煮恰到好處！咖啡豆味道好特別 👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "瑞士雞翼同腩叉飯都煮恰到好處！咖啡豆味道好特別 👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mak Bianca",
+          "uri": "https://www.google.com/maps/contrib/117295587521963771646/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUy4o7j-vy_nhUzDkcape7oFFi5tpFiCiJgdHPeT_UZHE1iMtlv=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-18T12:05:47.611299060Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5V05uSlNhR3gyU2tGa1JVRlRkVzVZWm5RMFVtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5V05uSlNhR3gyU2tGa1JVRlRkVzVZWm5RMFVtYxAB!2m1!1s0x34040103635e228f:0x5ede83c4783ee544"
+      },
+      {
+        "name": "places/ChIJjyJeYwMBBDQRROU-eMSD3l4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKTU0yaE1NRzlzVG0xQlNWQjNaVFp6YkdaemQxRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "老闆娘堅秋好人！ weekend 帶狗狗嚟食返個brunch😍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "老闆娘堅秋好人！ weekend 帶狗狗嚟食返個brunch😍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alan Poon",
+          "uri": "https://www.google.com/maps/contrib/101851360449413916658/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUgt7hhtrgbt9ZvZM5wBnmXDq50Cz8s56iWKbEWLXNkPPlJoXqqQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-18T08:50:26.129790312Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKTU0yaE1NRzlzVG0xQlNWQjNaVFp6YkdaemQxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKTU0yaE1NRzlzVG0xQlNWQjNaVFp6YkdaemQxRRAB!2m1!1s0x34040103635e228f:0x5ede83c4783ee544"
+      }
+    ],
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040103635e228f:0x5ede83c4783ee544!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6836046164249208132&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040103635e228f:0x5ede83c4783ee544!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040103635e228f:0x5ede83c4783ee544!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040103635e228f:0x5ede83c4783ee544!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJjyJeYwMBBDQRROU-eMSD3l4/photos/Aa-ngMa36rV3aQJZlmSf1Z5eFat9JwAyzVLaKMg3jgBW2QBDSz83040juUj84x1hKxRcryJ0D2BQtqV3y80MuaxWc7JB_QZ_EDSgO2YM7ecy6S1zkCVpSu-NZtx9cwF5A-98ebAtV_clC9H7LbEK2ZGFyuTdlXhcBAyS4OEhbLNLix2RFeILqy9ceKag7nyjWq53vAQbhjYnWCEwvA7u26VmdwAhuwLMhLwgOFc3jXFeycbGUczR-WsYcaJsukRmFTc3TjUHYIc_ur9xBoLPOS5hJqjkthCtFsIIvskBb-NQSwYJYA3ZqzBESHd9HTAo7mp6Yz7VQImeW6nC4Fm79Yn9p_zPNUvKdD_lWIuXMtm531iTsJpQzNuOP83I1ivoECvu1CrzBBYv7pFSONZIZUAEE-oVYP19nUzsnSs0hOG7jieG",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Roger CPA",
+          "uri": "https://maps.google.com/maps/contrib/110486273629233292836",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYnfi1Nhi9J6Nkg7aPGKl29U5fksiaWFZfAEF8WV7Wy_PQTpoV=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDki383f6UkvNMU1GtLfjEj&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDki383f6UkvNMU1GtLfjEj!2e10!4m2!3m1!1s0x34040103635e228f:0x5ede83c4783ee544"
+    },
+    "local_path": "photos/ChIJjyJeYwMBBDQRROU-eMSD3l4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdooOkVX_ETyGpDXQ3otzqtmZKVLV-yUz76jUEjmjzbl1jAdY4PGpURenRFBNrWOny2rEEpnSpH7pa64NuvzMOaBf5EiuM82REILgjiUqgZVN65pO1jvpvbyuj3tK07pkeKSSDTLG304fQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 101257
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

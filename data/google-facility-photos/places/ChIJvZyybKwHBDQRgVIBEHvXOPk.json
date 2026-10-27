@@ -1,0 +1,42 @@
+{
+  "id": "ChIJvZyybKwHBDQRgVIBEHvXOPk",
+  "types": [
+    "veterinary_care",
+    "medical_center",
+    "hospital",
+    "pet_care",
+    "health",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "G/F, 5B Hilton Plaza, Shatin Centre St, Shatin, Sha Tin, New Territories, 香港",
+  "location": {
+    "latitude": 22.379776,
+    "longitude": 114.187045
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17958340437689324161&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "沙田綠十字寵物診所",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJvZyybKwHBDQRgVIBEHvXOPk/photos/Aa-ngMaXWMqlMoiPb1RYLt13pV5AE1L8u44pRSgf8hrixf1BMXsfXAUYMjJkQzQ8LFP4r_Y_lgsKc085GzNVJCRYcGwFt2go8eIpd_OVMK1gDH-uNjm2xjJEddOlMPJBB1wMibElJWjnfXlR2kt5jNIs076fOexsvHfgRBP_c56Gus7LaZhFSARFGFnd9AOOVhVKDLxW6qL4aafA6ikJHpOHZYVq_BBG0-Vik6V6oQyA7-xQUaGojpbv5f3FP5l62MatxyraE94V7g23OhQDlEgewOFuaUA_FOLNvJC_ELQNmey6a2wq1Eg0REDQSAXwrk7qh5G_a3-xrNgdJH-SwC7p2dGkdanC9UHIPQhzN2xGxNp_41oWdMdYWbQ_tgBRjj6Sv0wzLKlUob9O7ne_IIB6xe9QISU",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "F L",
+          "uri": "https://maps.google.com/maps/contrib/111371499899554356672",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf3e2p1MOwP3wWJzIIQ7bXyxeG4Nqn4ts4kQ-QtGSuGRbjgiWlog=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDypYytKA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDypYytKA!2e10!4m2!3m1!1s0x340407ac6cb29cbd:0xf938d77b10015281"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:44.671542+00:00"
+}

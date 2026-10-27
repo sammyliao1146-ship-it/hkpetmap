@@ -1,0 +1,37 @@
+{
+  "id": "ChIJmzqsRCMGBDQRVurbPN5wSJk",
+  "types": [
+    "sports_activity_location",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界沙田",
+  "location": {
+    "latitude": 22.4040414,
+    "longitude": 114.2100916
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11045202185932237398&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "香港賽馬會馬房",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "sports_activity_location",
+  "photos": [
+    {
+      "name": "places/ChIJmzqsRCMGBDQRVurbPN5wSJk/photos/Aa-ngMYS6EnlIQbpvNgLDNqL6CkPG5upjKkHw_bxhQHPhzItXd8fruo0-reA7nvQxw2PDFLtsjC-RQfzPIJR7xo7WQ7afo4IrDoRof53jgON6oe9dhjsFDDq9m61TmKYOJ7SMugGx2kGCLlPfuzpnNOgs7ZpEoH4KD4DXADZStrvndPM20RYyRlk3JuvTuR4vMlRsvddg087l6_En1_eo8SadDHyMQycwhsWpOrmle17ZKzHEsEG7zHFmZ_bcfSuZbG-Ez-lMMRYWXAn0C0wYczOxsAeAhSdvY31WdYGm8Vy4ylV076bWCm1QgkfwCISFRCX0E0rXl9A8uwXf2wa5UBk90HRiSLRfcVXEMMcmtRwPcaYw-6u47rrjZdTSpO9VzKvR_V8aMLygAP8SMFuxWiscwu3tdw",
+      "widthPx": 4000,
+      "heightPx": 2250,
+      "authorAttributions": [
+        {
+          "displayName": "曾大人",
+          "uri": "https://maps.google.com/maps/contrib/108339155947840908012",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJHF5oGjBtYjz9ZxPkxBuUMNmfgZF56iXLsBs34ODHKYfnm9g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDpxJXqeg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpxJXqeg!2e10!4m2!3m1!1s0x3404062344ac3a9b:0x994870de3cdbea56"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:08.707915+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ChIJxW6_L7EIBDQRGOij0O2P0IQ",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界馬鞍山鞍駿街12號",
+  "location": {
+    "latitude": 22.427018699999998,
+    "longitude": 114.2308248
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9570307459732727832&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "馬鞍山公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJxW6_L7EIBDQRGOij0O2P0IQ/photos/Aa-ngMZg1NE8iuIIKRzTGIkQUgfT3ETktAy_3cRWsOA3jABtUzuMZ_CcQdyTU-c5X1-0fTQIzdIqpgnKMt5IfsvQinJJWlwSSQZVMoIrixFqAfrbT3FmKiTvqF5fBitrxwTCGEIxXiOR4uHrdwBdEakJQ89GbpzhrHdaNY0HX8E6xjP5rIwO9PIEJS0HG_OBbQnX1USyrX3RwiLFOhb8f3pzOJoeDtloBZBCSUs--DlZUivhSsaGheywI9TK4MZYgmAhmN-1YcIYBluu9s7j7zvJ9XEq9ABtGDm9ZeQYq0kmFi9HXf5wk7yIPqFiaH2wpoJI7ZuNUqx7OHkoVb6lrIjuWmcr2_oiIalhocjL7shnC7ssN2n3UAvYuH5xAl0Erh3juH_9runZ4KZNLoP-T40HqC6RJNE",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Alex Luk",
+          "uri": "https://maps.google.com/maps/contrib/108846092480304360674",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUh-1XbpKK7ra6LKio3n55v9j6P2om-Dp1Or67RKnFtNjfVWzknw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDa_sKuHg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDa_sKuHg!2e10!4m2!3m1!1s0x340408b12fbf6ec5:0x84d08fedd0a3e818"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:28.737531+00:00"
+}

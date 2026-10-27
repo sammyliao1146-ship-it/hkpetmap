@@ -1,0 +1,413 @@
+{
+  "google_place_id": "ChIJT06EsnXjAzQReKn-AgqgLiA",
+  "restaurant_ids": [
+    "restaurant:2217803322"
+  ],
+  "fetched_at": "2026-10-23T15:50:34.362246+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJT06EsnXjAzQReKn-AgqgLiA",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3556 3228",
+    "internationalPhoneNumber": "+852 3556 3228",
+    "formattedAddress": "12/F, Lantau Island, International Airport, 8 Airport Expo Blvd, Chek Lap Kok, New Territories, 香港",
+    "location": {
+      "latitude": 22.3192316,
+      "longitude": 113.9419454
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=2318966823002745208&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.regala-hotels.com/en/restaurants-and-bars/jade",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 17:30 – 22:00",
+        "星期二: 12:00 – 15:00, 17:30 – 22:00",
+        "星期三: 12:00 – 15:00, 17:30 – 22:00",
+        "星期四: 12:00 – 15:00, 17:30 – 22:00",
+        "星期五: 12:00 – 15:00, 17:30 – 22:00",
+        "星期六: 12:00 – 15:00, 17:30 – 22:00",
+        "星期日: 12:00 – 15:00, 17:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 91,
+    "displayName": {
+      "text": "玉 the Jade",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "廣東菜餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "cantonese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJT06EsnXjAzQReKn-AgqgLiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsZlkxTXlUbmg0VG1WSlFuVmhUbWRMVG1ack5XYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "🐦 滬韻三錦碟\n一開始會上前菜開一開胃先~四川花椒慢煮妙齡乳鴿凍食帶有微麻香；雨前龍井甘蔗煙燻溏心蛋🥚；鎮江香醋拌紅海蜇頭爽脆酸甜~\n\n🥩 東坡雪花和牛\n其實得一款係有和牛🤣，佢做嘅方式好特別用咗東坡醬汁，鹹鹹甜甜咁。平時呢種做法多數要喺排骨度🤔，用和牛代替最大分別係變到入口即化同會帶有淡淡油脂香。\n\n🐟 金湯酸菜魚\n酸菜魚調味偏重，配搭埋下面嘅薯粉同配料就啱啱好😌。魚片切得厚薄適中，口感滑嫩。\n\n🦐 甜豆河蝦仁\n河蝦仁粒粒都好飽滿爽彈，加埋翠綠嘅甜豆一齊炒，味道清甜簡單。\n\n🍲 凍松茸鮮螺頭燉雞\n鮮螺頭、雞肉同松茸嘅鮮味完全融入晒入去，食到一半飲個湯清一清幾舒服☺️。\n\n🥢 濃湯大煮百葉絲\n呢個係比較清淡嘅一道菜，百葉絲切得好幼細，配埋菇絲一齊食好似食緊麵咁😂。\n\n🎃 中西甜品薈萃\n最後甜品係南瓜露配桂花糕綠茶紅豆糕。南瓜露口感幼滑濃郁，不過味道都偏甜；飯後分量一人少少啱啱好😛。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🐦 滬韻三錦碟\n一開始會上前菜開一開胃先~四川花椒慢煮妙齡乳鴿凍食帶有微麻香；雨前龍井甘蔗煙燻溏心蛋🥚；鎮江香醋拌紅海蜇頭爽脆酸甜~\n\n🥩 東坡雪花和牛\n其實得一款係有和牛🤣，佢做嘅方式好特別用咗東坡醬汁，鹹鹹甜甜咁。平時呢種做法多數要喺排骨度🤔，用和牛代替最大分別係變到入口即化同會帶有淡淡油脂香。\n\n🐟 金湯酸菜魚\n酸菜魚調味偏重，配搭埋下面嘅薯粉同配料就啱啱好😌。魚片切得厚薄適中，口感滑嫩。\n\n🦐 甜豆河蝦仁\n河蝦仁粒粒都好飽滿爽彈，加埋翠綠嘅甜豆一齊炒，味道清甜簡單。\n\n🍲 凍松茸鮮螺頭燉雞\n鮮螺頭、雞肉同松茸嘅鮮味完全融入晒入去，食到一半飲個湯清一清幾舒服☺️。\n\n🥢 濃湯大煮百葉絲\n呢個係比較清淡嘅一道菜，百葉絲切得好幼細，配埋菇絲一齊食好似食緊麵咁😂。\n\n🎃 中西甜品薈萃\n最後甜品係南瓜露配桂花糕綠茶紅豆糕。南瓜露口感幼滑濃郁，不過味道都偏甜；飯後分量一人少少啱啱好😛。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "90s_fatfatgirl",
+          "uri": "https://www.google.com/maps/contrib/103061693087555960329/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6lZb-JqM6Icr7voOUxJOm5QLg9jPJ-nSIioXuS4khKrtVENa3VA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-14T09:28:47.453322946Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsZlkxTXlUbmg0VG1WSlFuVmhUbWRMVG1ack5XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsZlkxTXlUbmg0VG1WSlFuVmhUbWRMVG1ack5XYxAB!2m1!1s0x3403e375b2844e4f:0x202ea00a02fea978"
+      },
+      {
+        "name": "places/ChIJT06EsnXjAzQReKn-AgqgLiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKdlZWaE1lbFp6ZFdSelVHSnZSRzkxVDJ4WlZFRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "機場博覽館附近發現一間可以飽覽飛機升降的靚景中菜廳，位於博覽館附近的酒店內，餐廳位於高層，景色優美，奢華裝修，坐得舒適。餐廳晚上有提供多款套餐。\n\n🍽️滬韻雪花和牛盛宴 二人餐 $688\n第三位可以加$340。\n\n🐥四川花椒慢煮乳鴿\n乳鴿以滷水汁和醉酒浸泡煮熟再雪凍，再加配香濃花椒味，入口帶少少麻，肉質軟嫩又入味，凍食不油膩。\n\n🫓鎮江香醋拌紅海蜇頭\n海蜇頭比一般海蜇較為爽口、有咬口，普遍扁身一片，以鎮汁醋浸過，味道帶酸甜。底下配爽口青瓜，好開胃的前菜。\n\n🥚雨前龍井甘蔗煙燻溏心蛋\n溏心蛋帶微微茶味甘甜，加了龍井茶葉亦沒有搶去溏心蛋味。\n\n🍲凍松茸鮮螺頭燉雞湯\n燉雞湯好清甜，湯表面的油大部分都已清走，湯料凍松茸、螺頭和雞肉都放在湯內。\n\n🦐甜豆河蝦仁\n河蝦仁不算大隻，但表面幾滑，入口彈牙，味道清清的不錯。\n\n🥩東坡雪花和牛\n和牛入口好重油脂，口感像東坡肉，雖然只有2件，但因為油脂感比較重，所以吃一件份量剛好足夠，再多一件便會很快飽。旁邊配了琥珀合桃，甜甜的又夠脆。\n\n🍜濃湯大煮百葉絲\n因為和牛偏油膩，所以配味道較清淡的百葉絲可以平衡一下，湯內有以豆做的百葉絲、少少肉碎、金華火腿等，簡單以金華火腿帶點咸味。\n\n🐟金湯酸菜魚\n魚肉夠滑，吸收了金湯精華，好入味，有萵筍、酸菜、陳村粉等配料，沒有辣味。\n\n🍰甜品\n南瓜露好滑，滑到像花奶！另外配了2款糕點，紅豆糕和綠豆糕，整體甜品都不會好甜！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "機場博覽館附近發現一間可以飽覽飛機升降的靚景中菜廳，位於博覽館附近的酒店內，餐廳位於高層，景色優美，奢華裝修，坐得舒適。餐廳晚上有提供多款套餐。\n\n🍽️滬韻雪花和牛盛宴 二人餐 $688\n第三位可以加$340。\n\n🐥四川花椒慢煮乳鴿\n乳鴿以滷水汁和醉酒浸泡煮熟再雪凍，再加配香濃花椒味，入口帶少少麻，肉質軟嫩又入味，凍食不油膩。\n\n🫓鎮江香醋拌紅海蜇頭\n海蜇頭比一般海蜇較為爽口、有咬口，普遍扁身一片，以鎮汁醋浸過，味道帶酸甜。底下配爽口青瓜，好開胃的前菜。\n\n🥚雨前龍井甘蔗煙燻溏心蛋\n溏心蛋帶微微茶味甘甜，加了龍井茶葉亦沒有搶去溏心蛋味。\n\n🍲凍松茸鮮螺頭燉雞湯\n燉雞湯好清甜，湯表面的油大部分都已清走，湯料凍松茸、螺頭和雞肉都放在湯內。\n\n🦐甜豆河蝦仁\n河蝦仁不算大隻，但表面幾滑，入口彈牙，味道清清的不錯。\n\n🥩東坡雪花和牛\n和牛入口好重油脂，口感像東坡肉，雖然只有2件，但因為油脂感比較重，所以吃一件份量剛好足夠，再多一件便會很快飽。旁邊配了琥珀合桃，甜甜的又夠脆。\n\n🍜濃湯大煮百葉絲\n因為和牛偏油膩，所以配味道較清淡的百葉絲可以平衡一下，湯內有以豆做的百葉絲、少少肉碎、金華火腿等，簡單以金華火腿帶點咸味。\n\n🐟金湯酸菜魚\n魚肉夠滑，吸收了金湯精華，好入味，有萵筍、酸菜、陳村粉等配料，沒有辣味。\n\n🍰甜品\n南瓜露好滑，滑到像花奶！另外配了2款糕點，紅豆糕和綠豆糕，整體甜品都不會好甜！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "EatTo BeJoy",
+          "uri": "https://www.google.com/maps/contrib/115653094982528531005/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLGXgc-QBx0bB2XSZR_OshFmWgTL_XVOmMK9ohf58t4_OnfcQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-09-03T10:51:52.051467138Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKdlZWaE1lbFp6ZFdSelVHSnZSRzkxVDJ4WlZFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKdlZWaE1lbFp6ZFdSelVHSnZSRzkxVDJ4WlZFRRAB!2m1!1s0x3403e375b2844e4f:0x202ea00a02fea978"
+      },
+      {
+        "name": "places/ChIJT06EsnXjAzQReKn-AgqgLiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZeVdHWkVaa3hKZEdZeVEyVnRjVUZwVEV0Rk0wRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢度最正嘅位係有落地大玻璃，可以望住跑道睇飛機升降，感覺好開揚放鬆。而且職員服務態度好好，細心又有禮貌，成餐飯食得幾舒服。\n\n「四川花椒慢煮妙齡乳鴿」\n全晚最深刻一定係呢個頭盤，佢係凍食嘅。我本身好鍾意食乳鴿，呢隻乳鴿花椒味特別濃，一咬落去陣麻香好出，惹味得嚟又唔會蓋過肉味，整體好味又新穎👍🏻\n\n其他菜式都發揮出水準。頭盤個鎮江香醋海蜇頭好爽脆開胃，煙燻溏心蛋陣茶香亦好出，溏心做得好好🤤 而個燉湯加入咗松茸同鮮螺頭，飲落清甜得嚟帶陣陣菇香，非常暖胃🩷 另外，仲有套餐先至有嘅東坡雪花和牛，組合都幾特別，酸酸甜甜🙈 金湯酸菜魚酸度適中，魚片滑溜，中菜廳用粉皮代替薯粉，感覺更加入味🐟 配埋個濃湯大煮百葉絲一齊食，索晒啲湯汁精華，口感好豐富😝 至於甜豆河蝦仁就炒得爽甜彈牙，最後有凍嘅雞豆米作甜品，食落去好清涼舒服，特別啱晒夏天食😍\n\n另外睇餐牌見到佢哋有個$168嘅套餐，包咗鮑魚鵝掌、手撕雞、叉燒同飯。如果下次想睇show/旅行前食餐飯，都可以試吓！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢度最正嘅位係有落地大玻璃，可以望住跑道睇飛機升降，感覺好開揚放鬆。而且職員服務態度好好，細心又有禮貌，成餐飯食得幾舒服。\n\n「四川花椒慢煮妙齡乳鴿」\n全晚最深刻一定係呢個頭盤，佢係凍食嘅。我本身好鍾意食乳鴿，呢隻乳鴿花椒味特別濃，一咬落去陣麻香好出，惹味得嚟又唔會蓋過肉味，整體好味又新穎👍🏻\n\n其他菜式都發揮出水準。頭盤個鎮江香醋海蜇頭好爽脆開胃，煙燻溏心蛋陣茶香亦好出，溏心做得好好🤤 而個燉湯加入咗松茸同鮮螺頭，飲落清甜得嚟帶陣陣菇香，非常暖胃🩷 另外，仲有套餐先至有嘅東坡雪花和牛，組合都幾特別，酸酸甜甜🙈 金湯酸菜魚酸度適中，魚片滑溜，中菜廳用粉皮代替薯粉，感覺更加入味🐟 配埋個濃湯大煮百葉絲一齊食，索晒啲湯汁精華，口感好豐富😝 至於甜豆河蝦仁就炒得爽甜彈牙，最後有凍嘅雞豆米作甜品，食落去好清涼舒服，特別啱晒夏天食😍\n\n另外睇餐牌見到佢哋有個$168嘅套餐，包咗鮑魚鵝掌、手撕雞、叉燒同飯。如果下次想睇show/旅行前食餐飯，都可以試吓！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jas Kong",
+          "uri": "https://www.google.com/maps/contrib/109334920987964795061/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLVBK67MrUu_Mj7Hhp6lK47h_H2iQ8LvNVBoEvzneRlKvzT0Q=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-31T06:06:19.957129581Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZeVdHWkVaa3hKZEdZeVEyVnRjVUZwVEV0Rk0wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZeVdHWkVaa3hKZEdZeVEyVnRjVUZwVEV0Rk0wRRAB!2m1!1s0x3403e375b2844e4f:0x202ea00a02fea978"
+      },
+      {
+        "name": "places/ChIJT06EsnXjAzQReKn-AgqgLiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GcGRFSkVUakoyYUhRNWREQXdiVk5GZFRseVZYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "尋日去咗麗豪航天城酒店✈️既「玉 The Jade」同屋企人食飯😋\n個到有得睇飛機降落，打卡一流！我地叫咗「滬韻雪花和牛盛宴」🌟\n\n🥢 滬韻三錦碟：四川花椒慢煮妙齡乳鴿好嫩滑，仲帶陣陣惹味麻香；配埋龍井煙燻溏心蛋同爽脆海蜇，層次豐富超開胃吖！\n🥣 凍松茸鮮螺頭燉雞：火候十足，湯頭鮮甜清潤，好足料添🫶🏻\n🍤 甜豆河蝦仁：河蝦仁細粒彈牙，甜豆翠綠清爽🤓\n🥩 東坡雪花和牛: 和牛脂香豐腴，醬汁香濃超入味，肉質仲好嫩滑！\n🐟 金湯酸菜魚：金黃湯底酸辣度適中，魚肉軟滑無骨，好惹味。\n🍲 濃湯大煮百葉絲 & 🍮 中西甜品薈萃：百葉絲吸滿濃稠鮮湯；最後以精緻嘅中西甜點為呢餐完美作結。\n\n放假想望住飛機降落歎高質美食，絕對要save低呢間！📸",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "尋日去咗麗豪航天城酒店✈️既「玉 The Jade」同屋企人食飯😋\n個到有得睇飛機降落，打卡一流！我地叫咗「滬韻雪花和牛盛宴」🌟\n\n🥢 滬韻三錦碟：四川花椒慢煮妙齡乳鴿好嫩滑，仲帶陣陣惹味麻香；配埋龍井煙燻溏心蛋同爽脆海蜇，層次豐富超開胃吖！\n🥣 凍松茸鮮螺頭燉雞：火候十足，湯頭鮮甜清潤，好足料添🫶🏻\n🍤 甜豆河蝦仁：河蝦仁細粒彈牙，甜豆翠綠清爽🤓\n🥩 東坡雪花和牛: 和牛脂香豐腴，醬汁香濃超入味，肉質仲好嫩滑！\n🐟 金湯酸菜魚：金黃湯底酸辣度適中，魚肉軟滑無骨，好惹味。\n🍲 濃湯大煮百葉絲 & 🍮 中西甜品薈萃：百葉絲吸滿濃稠鮮湯；最後以精緻嘅中西甜點為呢餐完美作結。\n\n放假想望住飛機降落歎高質美食，絕對要save低呢間！📸",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ma Jai",
+          "uri": "https://www.google.com/maps/contrib/105242779599468273060/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzVEB-giX8oujNwSdQYMLBISCaeuARhMHjnFzRYyNHAV7jyJ_B=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-24T15:31:53.694677188Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GcGRFSkVUakoyYUhRNWREQXdiVk5GZFRseVZYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GcGRFSkVUakoyYUhRNWREQXdiVk5GZFRseVZYYxAB!2m1!1s0x3403e375b2844e4f:0x202ea00a02fea978"
+      },
+      {
+        "name": "places/ChIJT06EsnXjAzQReKn-AgqgLiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wQ01rSlNVSGhDUlZseE1EQlNOV05pU1hKS2VtYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "去Expo 睇Show，先生揀咗最近既中菜食個靚早飯就輕鬆過條馬路入場。\n酒店 12/F 環境好舒服，估唔到早飯時段都多人，等一陣就被帶到舒服小圓桌，闊落好坐。\n我地嗌咗個 滬韻雪花和牛盛宴二人餐\n8 courses\n頭盤個雨前龍井甘蔗煙燻溏心蛋好出色，個煙燻鹽好香，完美提鮮蛋香；紅海蜇頭爽脆；乳鴿鮮嫩麻香。\n松茸鮮螺頭燉雞湯足料香濃，Regal酒店既燉湯向來出色，一碗湯入面有足5,6粒螺頭，唔係好大粒，但係好濃。\n甜豆河蝦仁，清清地，爽既。\n東坡雪花和牛 好特別，未食過呢個組合既和牛，開胃既。\n金湯酸菜魚麻香微辣，麻既感覺刺激。\n濃湯大煮百葉絲有驚喜，豆香湯濃又唔會太咸，加晒分。\n最後甜品有南瓜露&紅荳糕，啱晒香港人口味，唔太甜。\n食飽飽就去睇拉闊啦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "去Expo 睇Show，先生揀咗最近既中菜食個靚早飯就輕鬆過條馬路入場。\n酒店 12/F 環境好舒服，估唔到早飯時段都多人，等一陣就被帶到舒服小圓桌，闊落好坐。\n我地嗌咗個 滬韻雪花和牛盛宴二人餐\n8 courses\n頭盤個雨前龍井甘蔗煙燻溏心蛋好出色，個煙燻鹽好香，完美提鮮蛋香；紅海蜇頭爽脆；乳鴿鮮嫩麻香。\n松茸鮮螺頭燉雞湯足料香濃，Regal酒店既燉湯向來出色，一碗湯入面有足5,6粒螺頭，唔係好大粒，但係好濃。\n甜豆河蝦仁，清清地，爽既。\n東坡雪花和牛 好特別，未食過呢個組合既和牛，開胃既。\n金湯酸菜魚麻香微辣，麻既感覺刺激。\n濃湯大煮百葉絲有驚喜，豆香湯濃又唔會太咸，加晒分。\n最後甜品有南瓜露&紅荳糕，啱晒香港人口味，唔太甜。\n食飽飽就去睇拉闊啦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Peggy Tang",
+          "uri": "https://www.google.com/maps/contrib/112833768892670156106/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIIJNRj0dvkzpJAXVEsHHB8r8gp4bD6eGKiJjyxAag398toTg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-09-08T08:48:20.868841539Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wQ01rSlNVSGhDUlZseE1EQlNOV05pU1hKS2VtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wQ01rSlNVSGhDUlZseE1EQlNOV05pU1hKS2VtYxAB!2m1!1s0x3403e375b2844e4f:0x202ea00a02fea978"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403e375b2844e4f:0x202ea00a02fea978!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2318966823002745208&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e375b2844e4f:0x202ea00a02fea978!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403e375b2844e4f:0x202ea00a02fea978!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e375b2844e4f:0x202ea00a02fea978!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJT06EsnXjAzQReKn-AgqgLiA/photos/Aa-ngMZ7mAFvJz0AwhJWsjon16MkVURSI-Geu-ujLHEPqxWCHuitB_cX3PiBTtGJw7GVnD0lf8L4v6vLtFBYAZlgugJWpuZKc8BhxdTeLfScJFgOJJTxjnTc-Ktr8lSjdCQJkLOAWylvryvUsJPajttoxbysRSDzRBnrPYxnZXzh3bx__nRYYDZj3lGP_-fgggUkFIGkoZJfSt2EA8K3kvcUeNrkcw0R-6csA5dVVp-bT3VpF3dZe1eTcteiF_tdLB2nN2TPRg_x-IZlYpRFXv_66CAGxUWDxLhJ4She7c_IfahAsMwrAtr41c-OI4pJRVoQo8So3gi-CIY5sNkCYx7byygSOqOGODnZL_FIpn-RORtUxFI63ogbh4zg6vvYcmZCmPcjlPYE679bp-jnFiywRuyJa2LNCtJwiLMSWYuz-VnzrA",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "EatTo BeJoy",
+          "uri": "https://maps.google.com/maps/contrib/115653094982528531005",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLGXgc-QBx0bB2XSZR_OshFmWgTL_XVOmMK9ohf58t4_OnfcQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA8OOh1t0TW-bwufY1wJL3q&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA8OOh1t0TW-bwufY1wJL3q!2e10!4m2!3m1!1s0x3403e375b2844e4f:0x202ea00a02fea978"
+    },
+    "local_path": "photos/ChIJT06EsnXjAzQReKn-AgqgLiA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHP42Att48Fvnyw-n7wJZJG96fGiTRqCq7ny9n6Z8VLgzMimObUEcmm85aDbSfTEjMXjYm4ebpFzwTERK3IL-9v3Q5rxbMp5ZHj_dfO04cCAyjDefN0wun9Tg2TawyIEKuFHnHFCx1Y8yz=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 238841
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.booking.regalhotel.com/?rlang=en-US",
+        "label": "Book now",
+        "source_url": "https://www.regala-hotels.com/en/restaurants-and-bars/jade",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-09/RGSH_the%20Jade%20A%20La%20Carte%20Menu%2027%20Jul%202026.pdf",
+        "label": "A La Carte Menu",
+        "source_url": "https://www.regala-hotels.com/en/restaurants-and-bars/jade",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cantonese_restaurant",
+    "label": "廣東菜餐廳",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.booking.regalhotel.com/?rlang=en-US",
+  "menu_url": "https://www.regalhotel.com/sites/regal/files/2026-09/RGSH_the%20Jade%20A%20La%20Carte%20Menu%2027%20Jul%202026.pdf"
+}

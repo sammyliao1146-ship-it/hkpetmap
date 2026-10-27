@@ -1,0 +1,89 @@
+[
+  {
+    "id": "curated:airside",
+    "category": "malls",
+    "name": "AIRSIDE",
+    "district": "九龍城",
+    "address": "九龍啟德協調道2號",
+    "address_en": "2 Concorde Road, Kai Tak, Kowloon",
+    "source_url": "https://www.airside.com.hk/zh-hk/visit/pet-friendly-paradise",
+    "source_name": "AIRSIDE 官方寵物友善指引",
+    "pet_policy": "designated_area",
+    "notes": [
+      "寵物共融區：地下露天廣場、地下商場室內空間、2樓空中農莊同6樓空中花園。",
+      "請牽繩，個別商店同餐廳規則另計。"
+    ],
+    "latitude": 22.3308,
+    "longitude": 114.19804,
+    "coordinate_source": "政府 ALS 地址結果（人工核對建築物／碼頭名），2026-10-23"
+  },
+  {
+    "id": "curated:spca-wan-chai",
+    "category": "vets",
+    "name": "愛護動物協會灣仔中心",
+    "district": "灣仔",
+    "address": "香港灣仔運盛街5號",
+    "address_en": "5 Wan Shing Street, Wan Chai",
+    "source_url": "https://www.spca.org.hk/animal-care-services/dog-behaviour-and-training/dog-behaviour-training-courses/",
+    "source_name": "SPCA 官方課程及場地資料",
+    "pet_policy": "conditional",
+    "notes": [
+      "訓練課程喺2樓平台舉行，實際上課位置以課程通知為準。",
+      "醫療服務同開放時間請向中心核實。"
+    ]
+  },
+  {
+    "id": "curated:spca-tsing-yi",
+    "category": "vets",
+    "name": "愛護動物協會青衣中心",
+    "district": "葵青",
+    "address": "新界青衣長輝路38號",
+    "address_en": "38 Cheung Fai Road, Tsing Yi",
+    "source_url": "https://www.spca.org.hk/animal-care-services/dog-behaviour-and-training/dog-behaviour-training-courses/",
+    "source_name": "SPCA 官方課程及場地資料",
+    "pet_policy": "conditional",
+    "notes": [
+      "提供狗隻訓練課程，上課安排請睇課程通知。",
+      "醫療服務同開放時間請向中心核實。"
+    ],
+    "latitude": 22.34691,
+    "longitude": 114.11159,
+    "coordinate_source": "政府 ALS 地址結果（人工核對建築物／碼頭名），2026-10-23"
+  },
+  {
+    "id": "curated:central-pier-5",
+    "category": "transport",
+    "name": "中環5號碼頭・長洲航線",
+    "district": "中西",
+    "address": "香港中環民光街中環5號碼頭",
+    "address_en": "Central Pier 5, Man Kwong Street, Central",
+    "source_url": "https://www.sunferry.com.hk/en/notice/carriage-pets",
+    "source_name": "新渡輪官方攜寵守則",
+    "pet_policy": "conditional",
+    "notes": [
+      "往長洲航線有攜寵安排；普通渡輪豪華位唔接受寵物。",
+      "按守則使用籠／袋／寵物車，或牽繩並戴口罩；上船前請向職員確認。"
+    ],
+    "latitude": 22.28762,
+    "longitude": 114.15937,
+    "coordinate_source": "政府 ALS 地址結果（人工核對建築物／碼頭名），2026-10-23"
+  },
+  {
+    "id": "curated:central-pier-6",
+    "category": "transport",
+    "name": "中環6號碼頭・梅窩航線",
+    "district": "中西",
+    "address": "香港中環民光街中環6號碼頭",
+    "address_en": "Central Pier 6, Man Kwong Street, Central",
+    "source_url": "https://www.sunferry.com.hk/en/notice/carriage-pets",
+    "source_name": "新渡輪官方攜寵守則",
+    "pet_policy": "conditional",
+    "notes": [
+      "往梅窩航線有攜寵安排，班次同指定座位請向營辦商確認。",
+      "按守則使用籠／袋／寵物車，或牽繩並戴口罩。"
+    ],
+    "latitude": 22.28739,
+    "longitude": 114.16026,
+    "coordinate_source": "政府 ALS 地址結果（人工核對建築物／碼頭名），2026-10-23"
+  }
+]

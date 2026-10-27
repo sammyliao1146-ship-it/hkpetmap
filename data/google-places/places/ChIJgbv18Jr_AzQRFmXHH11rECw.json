@@ -1,0 +1,429 @@
+{
+  "google_place_id": "ChIJgbv18Jr_AzQRFmXHH11rECw",
+  "restaurant_ids": [
+    "restaurant:2218806814"
+  ],
+  "fetched_at": "2026-10-23T15:41:01.156613+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJgbv18Jr_AzQRFmXHH11rECw",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2485 2345",
+    "internationalPhoneNumber": "+852 2485 2345",
+    "formattedAddress": "Yue On Building, Ground Floor, 78-86 Catchick St, Kennedy Town, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.283024599999997,
+      "longitude": 114.12694929999999
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=3175155785005491478&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.bresola.net/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:30, 18:00 – 23:00",
+        "星期二: 12:00 – 15:30, 18:00 – 23:00",
+        "星期三: 12:00 – 15:30, 18:00 – 23:00",
+        "星期四: 12:00 – 15:30, 18:00 – 23:00",
+        "星期五: 12:00 – 15:30, 18:00 – 23:00",
+        "星期六: 12:00 – 15:30, 18:00 – 23:00",
+        "星期日: 12:00 – 15:30, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "userRatingCount": 177,
+    "displayName": {
+      "text": "BRESOLA",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "義大利餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "italian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJgbv18Jr_AzQRFmXHH11rECw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRNE5VZENOa1YxTVhOSU5YWXRZbEpCT1ZFeFQzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "嚟咗好多次嘅餐廳😍一定要幫佢寫個食評😍\n呢間嘅蜆意粉同埋豬扒超級好食, 店主熱情好客👍🏻\n\n蜆意粉嘅蜆好新鮮肥美，意粉調味啱啱好，豬扒整得好juicy and tender, 隔離嘅薯條係舖頭自己整，超級有誠意👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "嚟咗好多次嘅餐廳😍一定要幫佢寫個食評😍\n呢間嘅蜆意粉同埋豬扒超級好食, 店主熱情好客👍🏻\n\n蜆意粉嘅蜆好新鮮肥美，意粉調味啱啱好，豬扒整得好juicy and tender, 隔離嘅薯條係舖頭自己整，超級有誠意👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sophia Fong",
+          "uri": "https://www.google.com/maps/contrib/113979146461446020748/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpIwpfW0vZL33-cVRxAyqDDPbi5DX1Rkt71uBoiekU6LyMYw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-10-05T05:58:51.779075099Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xRNE5VZENOa1YxTVhOSU5YWXRZbEpCT1ZFeFQzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRNE5VZENOa1YxTVhOSU5YWXRZbEpCT1ZFeFQzYxAB!2m1!1s0x3403ff9af0f5bb81:0x2c106b5d1fc76516"
+      },
+      {
+        "name": "places/ChIJgbv18Jr_AzQRFmXHH11rECw/reviews/ChdDSUhNMG9nS0VJQ0FnSUMybWF5ZjJnRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "意大利餐廳小店， 地點適中， 食物可口， 賣相 漂亮， 價錢合理。 招呼一流！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "意大利餐廳小店， 地點適中， 食物可口， 賣相 漂亮， 價錢合理。 招呼一流！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lok King",
+          "uri": "https://www.google.com/maps/contrib/115898401727365730715/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8dJSceXoOeKRUIK8sg6ZcXF5V29q9R2JS7Dz1GkBIYMWTPsUy=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-04-25T01:50:59.277604Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMybWF5ZjJnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMybWF5ZjJnRRAB!2m1!1s0x3403ff9af0f5bb81:0x2c106b5d1fc76516"
+      },
+      {
+        "name": "places/ChIJgbv18Jr_AzQRFmXHH11rECw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlcHQtRnh3RRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "一間小餐廳,座位寬敞, 食物質素不錯. 令人印象深刻的是那一位身兼數職的服務員, 健談  及服務都照顧週到.價錢相當合理, 有多種餐單,可留待下回分解.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一間小餐廳,座位寬敞, 食物質素不錯. 令人印象深刻的是那一位身兼數職的服務員, 健談  及服務都照顧週到.價錢相當合理, 有多種餐單,可留待下回分解.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "nelson hui",
+          "uri": "https://www.google.com/maps/contrib/118295993129236288379/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLSS4fv5KZdoqPoNaM6puhtb5nb1IziTDasidKzrkyuS8yCEQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-09-13T00:03:04.197710Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlcHQtRnh3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlcHQtRnh3RRAB!2m1!1s0x3403ff9af0f5bb81:0x2c106b5d1fc76516"
+      },
+      {
+        "name": "places/ChIJgbv18Jr_AzQRFmXHH11rECw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVZ3Z5blRnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "食物一直都保持到水準，地方細， 但舒服， 適合傾計， Ktown, 我覺得乾淨整齊的地方",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物一直都保持到水準，地方細， 但舒服， 適合傾計， Ktown, 我覺得乾淨整齊的地方",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Edmond Chan",
+          "uri": "https://www.google.com/maps/contrib/101050968270402398869/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-NB3WGl7t6unZXhr5b-E_JvmqxHl3RiHBX8-pPq33D2jExrTA6g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-05-01T23:28:22.706555Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNVZ3Z5blRnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNVZ3Z5blRnEAE!2m1!1s0x3403ff9af0f5bb81:0x2c106b5d1fc76516"
+      },
+      {
+        "name": "places/ChIJgbv18Jr_AzQRFmXHH11rECw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSMHI3dW1nRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "很熱情的招待",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很熱情的招待",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lucky 7",
+          "uri": "https://www.google.com/maps/contrib/116840917342406344684/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxBhsYU66EmUlW9ZS8jm6AG1cOzH8eKKfz6OHK5kUU5exWTIgEbQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-03-29T06:51:42.384295Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSMHI3dW1nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSMHI3dW1nRRAB!2m1!1s0x3403ff9af0f5bb81:0x2c106b5d1fc76516"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff9af0f5bb81:0x2c106b5d1fc76516!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3175155785005491478&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff9af0f5bb81:0x2c106b5d1fc76516!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff9af0f5bb81:0x2c106b5d1fc76516!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff9af0f5bb81:0x2c106b5d1fc76516!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "450"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJgbv18Jr_AzQRFmXHH11rECw/photos/Aa-ngMb8cj37uelNARdffoJdbqRGRk7TA_3LsTan8ml2GskIoVrFXqJpUQM7QLVSqfuh5OfwDi_GIlQFIGU6BU2QxJf8tDhQeiOxLAUygWXf7v0W8vrdeOw9nExTKDa3cfciU_Ye8xavYBmkb4buomFkm-KG4KQEXbapWewRrbCeO9gI_YPnkNBkydKMt21VMbsD75MIvlrVspksYi_F7V3UoaBa-NEkJgJfr5TrJ3NRmIGRmN_IvYZz_6qKBVvbfcTu6eAbu4FVB4wLZaq5d4HoO6T7dxCSt_tcyWxMHYqY8MvcT-uzOyj9QRUukJIMgcFvkF--wusK7GEJOT6tydvVBS_H6TRvu7j420TqTT7zki7g_nuk1A1E_JcHV7CyWt7cBxsxNEce4xvCQRu6fZP9B54TZc9uFtg",
+      "widthPx": 1124,
+      "heightPx": 633,
+      "authorAttributions": [
+        {
+          "displayName": "BRESOLA",
+          "uri": "https://maps.google.com/maps/contrib/115614117358025075318",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTFKy0NnejQbIk8I1k-6al9xknL9PBooONywBVFneQ7eF1Ta-i=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID6q4mj7AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6q4mj7AE!2e10!4m2!3m1!1s0x3403ff9af0f5bb81:0x2c106b5d1fc76516"
+    },
+    "local_path": "photos/ChIJgbv18Jr_AzQRFmXHH11rECw.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLckzAGv-XwXNp-Xbp-l5EzjHH80aOEq9AOUl1DhDpT8gthC8vT3yuk-KehlGkwyi7NTiBSCclYCb5BwuGeBpSmODPUZhqsuywBTcDyz0a9fHf8L_qNRDmXd9VytugY3AXxHfRmFkQ=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 410204
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.bresola.net/reservations",
+        "label": "Reservations",
+        "source_url": "https://www.bresola.net/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.bresola.net/menus",
+        "label": "See Menu",
+        "source_url": "https://www.bresola.net/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "italian_restaurant",
+    "label": "義大利餐廳",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.bresola.net/reservations",
+  "menu_url": "https://www.bresola.net/menus"
+}

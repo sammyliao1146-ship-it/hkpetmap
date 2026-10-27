@@ -1,0 +1,39 @@
+{
+  "id": "ChIJg6-Obj8BBDQRVRZ5Ju955DA",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "transportation_service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍啟德",
+  "location": {
+    "latitude": 22.306185,
+    "longitude": 114.21341600000001
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3523074876560184917&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "啟德郵輪碼頭",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "bus_station",
+  "photos": [
+    {
+      "name": "places/ChIJg6-Obj8BBDQRVRZ5Ju955DA/photos/Aa-ngMbmbOe7iBue1kXPqnM8Nv_M5907OJneA83GpiaFk2f8X4_GKOZzbdX73TjElxXfsvswwXL7brgZCHgaXgFB1jiBK9UMF8dtNMNYxv8Ra301xvtxbBymKRpiqhIcusEXSWslL0He13ADtbfFlVR_5yeWByT0L5nfzrhjdVsa0i16SFOU3XoJGuLkjqBebR3cwkeGocvKMqKpwjsPpQ4Mp4RVxS4zTaYtQo9_pWfmGarUqhLHzc8jALwV7cXDYGK0oD476-f5u-eWutdDtJCYD2I1OFYbi5BZ6bvnnFZuZPWvSuISYKS-X1p96uvtPUdr1YxASiiDSnXNMvGWnIgcHcT_3L0JwNT_m4TEeQjUmvGcTyaAmL2D_XDzbw-Cr-Ds2mvxM9HhezIo4XW42oITqGhNNsc",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Wai Hong Cheung",
+          "uri": "https://maps.google.com/maps/contrib/115403218030152070160",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsC1xvBPAEK5Zhe3ERtmhDUpVWNehkXkjVZ-Q6-bqLZ6v_sQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC2eWsLw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC2eWsLw!2e10!4m2!3m1!1s0x3404013f6e8eaf83:0x30e479ef26791655"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:15.071001+00:00"
+}

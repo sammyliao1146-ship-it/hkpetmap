@@ -1,0 +1,376 @@
+{
+  "google_place_id": "ChIJ13SarC35AzQRyNn5fcoi3tc",
+  "restaurant_ids": [
+    "restaurant:2292807314"
+  ],
+  "fetched_at": "2026-10-23T15:48:32.486854+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ13SarC35AzQRyNn5fcoi3tc",
+    "types": [
+      "american_restaurant",
+      "western_restaurant",
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2832 9268",
+    "internationalPhoneNumber": "+852 2832 9268",
+    "formattedAddress": "Shop 1013, 1/F, 海之戀商場100 Tai Ho Rd, Tsuen Wan, New Territories, 香港",
+    "location": {
+      "latitude": 22.368017299999998,
+      "longitude": 114.11040229999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=15554908416076536264&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.rubytuesday.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 22:00",
+        "星期二: 11:00 – 22:00",
+        "星期三: 11:00 – 22:00",
+        "星期四: 11:00 – 22:00",
+        "星期五: 11:00 – 23:00",
+        "星期六: 11:00 – 23:00",
+        "星期日: 11:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 463,
+    "displayName": {
+      "text": "Ruby Tuesday",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "美式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesVegetarianFood": true,
+    "primaryType": "american_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ13SarC35AzQRyNn5fcoi3tc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxblNWVktVbEo0Vm1rMk5qQjFZVE53TjNRMVVtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "午市套餐幾抵食，價錢合理之餘份量都唔錯，性價比高。餐廳環境舒服，座位寬躺。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午市套餐幾抵食，價錢合理之餘份量都唔錯，性價比高。餐廳環境舒服，座位寬躺。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Riley Kwok",
+          "uri": "https://www.google.com/maps/contrib/106227462447462290709/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3e6UgU8HtSda_WpFhZGOcMWJel36RkB4afSpT5fkJcviInyPwBw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-05-31T13:48:24.536248604Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxblNWVktVbEo0Vm1rMk5qQjFZVE53TjNRMVVtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxblNWVktVbEo0Vm1rMk5qQjFZVE53TjNRMVVtYxAB!2m1!1s0x3403f92dac9a74d7:0xd7de22ca7df9d9c8"
+      },
+      {
+        "name": "places/ChIJ13SarC35AzQRyNn5fcoi3tc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmczhXS293RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "食物味道不錯，環境氣氛也很好，職員服務也OK，價錢稍貴。\n\n只是吃到甜品的時候，送上來的三隻碟子中，有兩隻碟子有一點怪味，後來侍應也馬上幫我們換了新的貼紙。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物味道不錯，環境氣氛也很好，職員服務也OK，價錢稍貴。\n\n只是吃到甜品的時候，送上來的三隻碟子中，有兩隻碟子有一點怪味，後來侍應也馬上幫我們換了新的貼紙。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "doidoilo lo",
+          "uri": "https://www.google.com/maps/contrib/100213397710084401312/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4l3sH1-NNNdV_vcALWc0p9R2ds0IzX2CADDEwQhsojWfyYg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-01-01T11:42:35.047126Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmczhXS293RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmczhXS293RRAB!2m1!1s0x3403f92dac9a74d7:0xd7de22ca7df9d9c8"
+      },
+      {
+        "name": "places/ChIJ13SarC35AzQRyNn5fcoi3tc/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1cE5iVW5BRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "沒有會員，最近做緊a la Carte 75折(飲品除外)。可能因為咁，比較多人，坐得較逼。冷氣開得很大，服務員不足，限1.5小時用餐時間。雖然有75折，但也要約$500/人。縱合衡量食物、價錢、服務等整體用餐體驗，CP值並不高。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "沒有會員，最近做緊a la Carte 75折(飲品除外)。可能因為咁，比較多人，坐得較逼。冷氣開得很大，服務員不足，限1.5小時用餐時間。雖然有75折，但也要約$500/人。縱合衡量食物、價錢、服務等整體用餐體驗，CP值並不高。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Griff Chan",
+          "uri": "https://www.google.com/maps/contrib/117830811651075410316/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzoRR6-Tiric1c-V4UCR1qrNOvdRVmE3UU36_fXtyDoKa6NUsukA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-10-10T13:13:04.136665Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM1cE5iVW5BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM1cE5iVW5BRRAB!2m1!1s0x3403f92dac9a74d7:0xd7de22ca7df9d9c8"
+      },
+      {
+        "name": "places/ChIJ13SarC35AzQRyNn5fcoi3tc/reviews/ChZDSUhNMG9nS0VJQ0FnSURPN183T1RBEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 2,
+        "text": {
+          "text": "十年以上冇幫襯，因為同行課金咗$1200做咗會員，要食返幾餐回本。\n基本上佢唔係做非會員嘅客，因為個價錢係唔合理。\n抱住冇十年前對佢好冇expectation嘅心情去食，5位大人2個小朋友食咗$1700。\n唔係樣樣有影低，盡量簡單講：\n洋蔥湯，免頭有一層溶溶地嘅芝士，裏面有好多麵包同洋蔥，但係一飲過湯超鹹，腎者之石。\n雞翼係細隻，成百五蚊盤，味道還可以，小朋友鍾意。\nOreo Smoothie regular size，天口好熱飲呢個都幾好，算幾濃。\n煙肉牛油果雞扒漢堡，首先薯條都幾好食，其次個漢堡都幾特別，中間夾住嘅煙肉芝士牛油果雞扒生菜都幾新鮮，雞扒起碼唔柴先，算係喜出望外，$118算係勉強合格。\nbutcher’s steak 食落有筋，啲肉好大陣羶味，fail！\nT bone steak 5成熟，望落好大，打卡就得，一切又係咬唔開嘅肉，$219蚊，食唔到嘅肉畀食到嘅多，fail。\n我戥入咗會嘅人慘，畀成$1200入會仲要成日食想回本⋯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "十年以上冇幫襯，因為同行課金咗$1200做咗會員，要食返幾餐回本。\n基本上佢唔係做非會員嘅客，因為個價錢係唔合理。\n抱住冇十年前對佢好冇expectation嘅心情去食，5位大人2個小朋友食咗$1700。\n唔係樣樣有影低，盡量簡單講：\n洋蔥湯，免頭有一層溶溶地嘅芝士，裏面有好多麵包同洋蔥，但係一飲過湯超鹹，腎者之石。\n雞翼係細隻，成百五蚊盤，味道還可以，小朋友鍾意。\nOreo Smoothie regular size，天口好熱飲呢個都幾好，算幾濃。\n煙肉牛油果雞扒漢堡，首先薯條都幾好食，其次個漢堡都幾特別，中間夾住嘅煙肉芝士牛油果雞扒生菜都幾新鮮，雞扒起碼唔柴先，算係喜出望外，$118算係勉強合格。\nbutcher’s steak 食落有筋，啲肉好大陣羶味，fail！\nT bone steak 5成熟，望落好大，打卡就得，一切又係咬唔開嘅肉，$219蚊，食唔到嘅肉畀食到嘅多，fail。\n我戥入咗會嘅人慘，畀成$1200入會仲要成日食想回本⋯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "H B Wong",
+          "uri": "https://www.google.com/maps/contrib/103102161888202595400/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVseB5AagGhRvo_AyAcJEDDTP_wKb10VQ68vMBXPKMlcjSDfNG=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-07-17T14:11:29.523776Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPN183T1RBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPN183T1RBEAE!2m1!1s0x3403f92dac9a74d7:0xd7de22ca7df9d9c8"
+      },
+      {
+        "name": "places/ChIJ13SarC35AzQRyNn5fcoi3tc/reviews/ChZDSUhNMG9nS0VJQ0FnTURJLTQtd0VnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "🍔香脆炸雞漢堡配熔岩芝士醬\n新推出既炸雞漢堡！Size大過我個拳頭兩倍，上面有Juicy既大啡菇，加配埋店員推介既熔岩芝士醬🤩超邪惡，薯條連埋少少薯皮，香脆得黎入面小小濕潤\n\n🥧森林雜莓脆趣\n以前甜品多數叫蘋果金寶，今次黎到有呢款新甜品，係雜莓底配上肉桂糖脆皮🍓再加埋雪糕同焦糖醬，酸度上面幾高，係解膩唔滯既好甜品",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🍔香脆炸雞漢堡配熔岩芝士醬\n新推出既炸雞漢堡！Size大過我個拳頭兩倍，上面有Juicy既大啡菇，加配埋店員推介既熔岩芝士醬🤩超邪惡，薯條連埋少少薯皮，香脆得黎入面小小濕潤\n\n🥧森林雜莓脆趣\n以前甜品多數叫蘋果金寶，今次黎到有呢款新甜品，係雜莓底配上肉桂糖脆皮🍓再加埋雪糕同焦糖醬，酸度上面幾高，係解膩唔滯既好甜品",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Corgi Ms",
+          "uri": "https://www.google.com/maps/contrib/113330439815639000011/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNvPBUbsfnupaoXqPiUahCauTt1Vc03_4OMAgiof4kaf3mkRo=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-04-14T03:22:32.959612Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJLTQtd0VnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJLTQtd0VnEAE!2m1!1s0x3403f92dac9a74d7:0xd7de22ca7df9d9c8"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f92dac9a74d7:0xd7de22ca7df9d9c8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15554908416076536264&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f92dac9a74d7:0xd7de22ca7df9d9c8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f92dac9a74d7:0xd7de22ca7df9d9c8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f92dac9a74d7:0xd7de22ca7df9d9c8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "450"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ13SarC35AzQRyNn5fcoi3tc/photos/Aa-ngMZoWXNTozH9PT2Q-nJDSaiJJPAP6emzOPWTD6hV6M_t7Vcq-3utDEa1k39KBZQBMPeszij3vYHNT0FysgktDXM9IV3ZG7bUIe6MbAW5bEYjdceAQ7gInxW9_9rGwyQw-QNCKAykCr-WsAM1YFcR0WH1b_6Vb4LzsO4_nwf9jKIQVnD_rS15vdje5lXU1iUo3MkyprpeOC7Y2kgH2EPeSUKUAq3yBoWAf8HpOW2-END5tdiGp-mgtpWQARYYyYeKC8JiQvbgUd8pHdXF78fAFBEpP5wRqp9C8FNqnP5lAKUyO6B9XqHLxRuS9ckO2iq1LGYb4q3f9Rks9WJgOOrehayWdNBxJe5pbObOIivCBKqh4Yo0loNsRDjYfAcZBohMeNifwXkD1lUR8nDcVLBpJnsgBg",
+      "widthPx": 1440,
+      "heightPx": 1800,
+      "authorAttributions": [
+        {
+          "displayName": "Siufuma小芙媽",
+          "uri": "https://maps.google.com/maps/contrib/113753397039064138095",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBl98HEGSwFg9eJKBM-sz6r7e3Ym-V7_JFPpppj6rezXlJW4g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-jLf5Jg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-jLf5Jg!2e10!4m2!3m1!1s0x3403f92dac9a74d7:0xd7de22ca7df9d9c8"
+    },
+    "local_path": "photos/ChIJ13SarC35AzQRyNn5fcoi3tc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNcbaxDGm3KLA6nY_jbWlaO5-bF-Py3m4Jd6s6dj4GBzRvPvtxmN9ZCbaWlbvFHCoE9hw9a-fTqhibeuUBE2qbMBbcViZ7Bszo-Hyq_F3zefQUzhplPWeWOaFjlWvXrETXTi4=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 200692
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://book.bistrochat.com/rubytuesdayhk",
+        "label": "Book Now Book Now",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://book.bistrochat.com/rubytuesdaymk",
+        "label": "Book Now",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://rubytuesday.com.hk/menu/",
+        "label": "Menu",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://rubytuesday.com.hk/takeaway-menu/",
+        "label": "Takeaway Order",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "http://rubytuesday.com.hk/wp-content/uploads/2024/04/Party-Set_04082024.pdf",
+        "label": "Party Set Menu",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "http://rubytuesday.com.hk/wp-content/uploads/2025/09/Kids-Party-Set-Menu.pdf",
+        "label": "Kids Set Menu",
+        "source_url": "https://rubytuesday.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "american_restaurant",
+    "label": "美式餐廳",
+    "types": [
+      "american_restaurant",
+      "western_restaurant",
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://book.bistrochat.com/rubytuesdayhk",
+  "menu_url": "https://rubytuesday.com.hk/menu/"
+}

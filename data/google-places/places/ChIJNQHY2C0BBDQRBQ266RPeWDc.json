@@ -1,0 +1,336 @@
+{
+  "google_place_id": "ChIJNQHY2C0BBDQRBQ266RPeWDc",
+  "restaurant_ids": [
+    "restaurant:3118809042"
+  ],
+  "fetched_at": "2026-10-23T15:40:54.196958+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJNQHY2C0BBDQRBQ266RPeWDc",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "formattedAddress": "香港香港島中環擺花街38-42號",
+    "location": {
+      "latitude": 22.2824198,
+      "longitude": 114.15415189999999
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=3988181647143603461&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 19:00",
+        "星期二: 08:00 – 19:00",
+        "星期三: 08:00 – 19:00",
+        "星期四: 08:00 – 19:00",
+        "星期五: 08:00 – 19:00",
+        "星期六: 08:00 – 19:00",
+        "星期日: 08:00 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 564,
+    "displayName": {
+      "text": "藍瓶咖啡 (擺花街)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": false,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "editorialSummary": {
+      "text": "時尚連鎖咖啡廳，供應高級咖啡與高點，另販售咖啡豆與沖泡設備。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJNQHY2C0BBDQRBQ266RPeWDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KalJYbDRiMFZLVkhWMWVrUmhVa2R5TTNGS0xWRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "藍瓶咖啡的價位稍高，但咖啡有一定的品質。之前在韓國明洞喝過覺得還不賴～擺花街的分店有二樓座位區。露營椅的配置面向窗外，喝杯咖啡看看路上人群熙熙攘攘很悠閒。沒有特別限制用餐時間。保溫瓶等等商品也挺有質感的。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "藍瓶咖啡的價位稍高，但咖啡有一定的品質。之前在韓國明洞喝過覺得還不賴～擺花街的分店有二樓座位區。露營椅的配置面向窗外，喝杯咖啡看看路上人群熙熙攘攘很悠閒。沒有特別限制用餐時間。保溫瓶等等商品也挺有質感的。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "姜太",
+          "uri": "https://www.google.com/maps/contrib/104100626953598855014/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxouEW3Eq_-rRHuwMZiR0bBwqTMt4K_J1aprLCxXyyxxEYUUVGzg=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-07-21T17:57:28.196480669Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KalJYbDRiMFZLVkhWMWVrUmhVa2R5TTNGS0xWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KalJYbDRiMFZLVkhWMWVrUmhVa2R5TTNGS0xWRRAB!2m1!1s0x3404012dd8d80135:0x3758de13e9ba0d05"
+      },
+      {
+        "name": "places/ChIJNQHY2C0BBDQRBQ266RPeWDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCSFJESnpaSFZFT0dGQ1NHTXplbFZ3TVRBNFFWRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "藍瓶咖啡，我們點拿鐵一杯港幣52，咖啡香.濃郁，2樓內用空間寬敞.氛圍好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "藍瓶咖啡，我們點拿鐵一杯港幣52，咖啡香.濃郁，2樓內用空間寬敞.氛圍好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mandy Chi",
+          "uri": "https://www.google.com/maps/contrib/111214807650006985482/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJSV4G3CinFiT4vp0qaAi_QqAF5TJ5CdUsysXo_GtOrq4aUKg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-26T02:35:25.678639706Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCSFJESnpaSFZFT0dGQ1NHTXplbFZ3TVRBNFFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCSFJESnpaSFZFT0dGQ1NHTXplbFZ3TVRBNFFWRRAB!2m1!1s0x3404012dd8d80135:0x3758de13e9ba0d05"
+      },
+      {
+        "name": "places/ChIJNQHY2C0BBDQRBQ266RPeWDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSMllrZExSamxwUmtSbE1XWk5Oek54T0hrMlVIYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "朋友請了杯美式咖啡，據朋友說他覺得這家咖啡很好喝，是跟瑞幸與便利商店賣的比，我是覺得這是一定要的吧！價格有差的呢！據他描述咖啡喝入口後會留下餘韻，我這不常喝的人是感覺不大出來啦，不管如何，逛街後喝一杯蠻解渴的",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友請了杯美式咖啡，據朋友說他覺得這家咖啡很好喝，是跟瑞幸與便利商店賣的比，我是覺得這是一定要的吧！價格有差的呢！據他描述咖啡喝入口後會留下餘韻，我這不常喝的人是感覺不大出來啦，不管如何，逛街後喝一杯蠻解渴的",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yi-Pin Fang",
+          "uri": "https://www.google.com/maps/contrib/101594511981281990305/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU53KU7ifSDcpJvaeqTHtGjT-h2-c3o-w6QCaZajcMRVXy-Aqp66g=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-26T13:21:34.212408830Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSMllrZExSamxwUmtSbE1XWk5Oek54T0hrMlVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSMllrZExSamxwUmtSbE1XWk5Oek54T0hrMlVIYxAB!2m1!1s0x3404012dd8d80135:0x3758de13e9ba0d05"
+      },
+      {
+        "name": "places/ChIJNQHY2C0BBDQRBQ266RPeWDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZMFZIQkNTelZoUjNnMGJEQlFSWFowVFZndFNIYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "吃完午餐過來喝杯熱抹茶，雖然不能調糖度但不會太甜，二樓冷氣很涼，看著窗外的景色很放鬆～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "吃完午餐過來喝杯熱抹茶，雖然不能調糖度但不會太甜，二樓冷氣很涼，看著窗外的景色很放鬆～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Angela HSU",
+          "uri": "https://www.google.com/maps/contrib/114155162073714764030/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx5BlfGWJ23BT8sLmVt-cK3SYlt536YaR-Pspl73s8b6rXIAk=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-05T14:56:52.645190506Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pZMFZIQkNTelZoUjNnMGJEQlFSWFowVFZndFNIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZMFZIQkNTelZoUjNnMGJEQlFSWFowVFZndFNIYxAB!2m1!1s0x3404012dd8d80135:0x3758de13e9ba0d05"
+      },
+      {
+        "name": "places/ChIJNQHY2C0BBDQRBQ266RPeWDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCR09VNDBWVFZaUzFSc2FuRTJiM1JIVkZNNVVuYxAB",
+        "relativePublishTimeDescription": "12 個月前",
+        "rating": 5,
+        "text": {
+          "text": "有個小小的露天空間可以做大概三桌、雖然外面有點吵，但是可以感受滿滿的港味、蘭芳園就在附近、有夠難喝的奶茶非常一般，不知道為什麼生意那麼好？\n\n藍瓶咖啡瓶子有夠可愛的超好用\n在香港跟日本買可能比較便宜\n\n港幣200 、覺得很值得",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有個小小的露天空間可以做大概三桌、雖然外面有點吵，但是可以感受滿滿的港味、蘭芳園就在附近、有夠難喝的奶茶非常一般，不知道為什麼生意那麼好？\n\n藍瓶咖啡瓶子有夠可愛的超好用\n在香港跟日本買可能比較便宜\n\n港幣200 、覺得很值得",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mei Chen",
+          "uri": "https://www.google.com/maps/contrib/100375503759633780645/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-UDiKuB5Lv0u69gr1apznd6LzHn9m35uYF35SWI88g5n6CmF-=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-10-27T11:04:39.633973021Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCR09VNDBWVFZaUzFSc2FuRTJiM1JIVkZNNVVuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCR09VNDBWVFZaUzFSc2FuRTJiM1JIVkZNNVVuYxAB!2m1!1s0x3404012dd8d80135:0x3758de13e9ba0d05"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404012dd8d80135:0x3758de13e9ba0d05!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3988181647143603461&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012dd8d80135:0x3758de13e9ba0d05!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404012dd8d80135:0x3758de13e9ba0d05!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012dd8d80135:0x3758de13e9ba0d05!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJNQHY2C0BBDQRBQ266RPeWDc/photos/Aa-ngMZWQ56ehPmcbtHted5Z1VSHrBYjavtd58kDbiF6ZiOZOEy47SU7QbYQ9rPuw4PTlnz5wJi7SqnrlZBB56oluI2XuCxnMO1T_pXXtLsHX_8uOYt2n5Ze8zfkpSXjTYfI8idnGgQ0ZDHCAuJTQQLKcKwGGs-sPljnAALT5QzouMbPKJHLWvfbh8eKIskwULNzPeBKiJmuqBbjj7YFLghLFA5E8Rks_bb8BMGvdbs8xOYI3HFcN1TyPCR2Kh6jL4tuKNTcA1PnaCEIV2tCOOU_jnse3mCK7OxNFB3J50wii8fXMqISgFxfog9eUOoguJKY2q8HS6gFSehaRonlX_25EmYqofwoqlZffLDuiYPxwwIR_bvKbYr3rA2CUjMHubgZGmAvQLoRNLmScp7IDsgMGOaXIBOo",
+      "widthPx": 750,
+      "heightPx": 486,
+      "authorAttributions": [
+        {
+          "displayName": "Blue Bottle Coffee",
+          "uri": "https://maps.google.com/maps/contrib/114718095332903132001",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwFvA4ZS6uqcUzg-6PFZaO7XJA2FN0NRzMKDl_skmPX7DBhg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6tKjJ8QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6tKjJ8QE!2e10!4m2!3m1!1s0x3404012dd8d80135:0x3758de13e9ba0d05"
+    },
+    "local_path": "photos/ChIJNQHY2C0BBDQRBQ266RPeWDc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1YttIJtXma8JB_Y6MzsvMuLMsrcrPSF4yDojV0vW_UnJa1Zd0OE1FvwZ0gWHuGCdg-efJ_hC2Wo4Sm-kAQkGzOWbpYasuc_w4WQzrw2xwN8M9pwhSnktW9ngtaI3T4NwL9_Ws=s4800-w750",
+    "content_type": "image/jpeg",
+    "bytes": 129408
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

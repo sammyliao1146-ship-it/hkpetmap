@@ -1,0 +1,294 @@
+{
+  "google_place_id": "ChIJ0zAit6oBBDQRAIhBSPDBzUs",
+  "restaurant_ids": [
+    "restaurant:3112810327"
+  ],
+  "fetched_at": "2026-10-23T15:47:18.337624+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ0zAit6oBBDQRAIhBSPDBzUs",
+    "types": [
+      "educational_institution",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2371 4738",
+    "internationalPhoneNumber": "+852 2371 4738",
+    "formattedAddress": "Shop G07, G/F - 2/F, Tower 535, 535 Jaffe Rd, Causeway Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2813968,
+      "longitude": 114.1839249
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=5462235160818845696&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.preface.ai/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:30 – 19:00",
+        "星期二: 08:30 – 19:00",
+        "星期三: 08:30 – 19:00",
+        "星期四: 08:30 – 19:00",
+        "星期五: 08:30 – 19:00",
+        "星期六: 08:30 – 19:00",
+        "星期日: 08:30 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 61,
+    "displayName": {
+      "text": "PCW (Preface HQ)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "教育機構",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "primaryType": "educational_institution",
+    "reviews": [
+      {
+        "name": "places/ChIJ0zAit6oBBDQRAIhBSPDBzUs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wcllXdzJWVlJLWHpGV2JtNWpkamRSVjJWc1dYYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今天去了參加保良局康復服務舉辦的藝萌遊藝坊！\n有很多活動可以參加！還有一些精品可以購買！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今天去了參加保良局康復服務舉辦的藝萌遊藝坊！\n有很多活動可以參加！還有一些精品可以購買！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yuenling ho",
+          "uri": "https://www.google.com/maps/contrib/112277494558893812903/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUP3OxVnzdmHIMhTfFJruaDgIrCdPCsUINcdcVMlFpzkZLCI9Y=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-11-11T17:52:05.918762138Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wcllXdzJWVlJLWHpGV2JtNWpkamRSVjJWc1dYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wcllXdzJWVlJLWHpGV2JtNWpkamRSVjJWc1dYYxAB!2m1!1s0x340401aab72230d3:0x4bcdc1f048418800"
+      },
+      {
+        "name": "places/ChIJ0zAit6oBBDQRAIhBSPDBzUs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CMlFrTmlPV2MxUlRSYVkySXdNRmxOV1hoM2JHYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 1,
+        "text": {
+          "text": "付款後安排不了上課時間，同意退款後，又十問九唔應，就快兩個月都未退到款，點解退款要搞咁耐？",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "付款後安排不了上課時間，同意退款後，又十問九唔應，就快兩個月都未退到款，點解退款要搞咁耐？",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "O Lee",
+          "uri": "https://www.google.com/maps/contrib/113962797965469762377/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLmeuEU2GMz6UVVDRBDzifnE1MPG9-aY0t-t7gWQjg_91Z_nQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-06T06:03:09.183716985Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CMlFrTmlPV2MxUlRSYVkySXdNRmxOV1hoM2JHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CMlFrTmlPV2MxUlRSYVkySXdNRmxOV1hoM2JHYxAB!2m1!1s0x340401aab72230d3:0x4bcdc1f048418800"
+      },
+      {
+        "name": "places/ChIJ0zAit6oBBDQRAIhBSPDBzUs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNocXRMdUlREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 1,
+        "text": {
+          "text": "外聘到其他大學教課有待加強。把兩小時當四小時教，品質令人堪憂。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "外聘到其他大學教課有待加強。把兩小時當四小時教，品質令人堪憂。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gary Pu",
+          "uri": "https://www.google.com/maps/contrib/108703874851770715985/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNk0Ez6wSBMJVLoDem1MJo-nW5riyggYCONKTQCvJG_fOTGQ0=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-02-10T09:05:03.719130Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNocXRMdUlREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNocXRMdUlREAE!2m1!1s0x340401aab72230d3:0x4bcdc1f048418800"
+      },
+      {
+        "name": "places/ChIJ0zAit6oBBDQRAIhBSPDBzUs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPa2JUNHNRRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "環境優美，無敵海景，工作人員好專業",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境優美，無敵海景，工作人員好專業",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Elvis Chan",
+          "uri": "https://www.google.com/maps/contrib/113020032893958917921/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJy3AE_iVGxovkvWdMOurkFWr32UgGFKRJOPT2MqtxjrPqeWA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2022-06-12T10:32:18.463718Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPa2JUNHNRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPa2JUNHNRRRAB!2m1!1s0x340401aab72230d3:0x4bcdc1f048418800"
+      },
+      {
+        "name": "places/ChIJ0zAit6oBBDQRAIhBSPDBzUs/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xck5VZDFVa3A0Wkd0NlMxWmhjelZtZUV0UE1uYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "Preface是一家集教育和商務於一體的中心，在香港各地開設了幾家咖啡館和葡萄酒吧，包括位於銅鑼灣謝斐道535大廈總部內的那家。咖啡館位於大樓一層，一進門就能看到，每天早上8:30至晚上7:00營業。\n\n店內設有工作桌和開放式座位，提供豐富的黑咖啡、白咖啡、非咖啡飲品和葡萄酒，您可以在舒適的空調環境中享用。\n\n我最近去那裡喝了一杯小杯咖啡（piccolo），咖啡師在酒吧精心製作，味道很棒。濃縮咖啡的風味濃鬱，牛奶的加入恰到好處，口感柔和，是一款不錯的白咖啡。這次體驗很棒，以後還會再去這家Preface咖啡館喝咖啡。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Preface is a educational and business centre that has opened a few coffee & wine shops around the city including at their HQ at the Tower 535 building on Jaffe Road in Causeway Bay. The coffee shop is located immediately as you enter their facility at street level and open from 8.30am to 7pm daily.\n\nYou'll find work space tables along with open seating along with a simple list of black and white coffees, non-coffee drinks and wine you can order and enjoy in A/C temperature controlled environs.\n\nI recently stopped by and was served a good piccolo, nicely prepared by the barista at the counter. Espresso flavour came through, enough milk added to cut the edge, making for a nice white coffee drink. Will gladly return for another coffee at this Preface location based on this experience.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "BradinHK",
+          "uri": "https://www.google.com/maps/contrib/117832408789555351833/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9lI4bCd7FSlVL5eQUmHr1XKaKCj0KGf3lET8qxJPWVfFy6f8D6g=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-02-05T22:11:53.926667489Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xck5VZDFVa3A0Wkd0NlMxWmhjelZtZUV0UE1uYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xck5VZDFVa3A0Wkd0NlMxWmhjelZtZUV0UE1uYxAB!2m1!1s0x340401aab72230d3:0x4bcdc1f048418800"
+      }
+    ],
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401aab72230d3:0x4bcdc1f048418800!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5462235160818845696&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401aab72230d3:0x4bcdc1f048418800!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401aab72230d3:0x4bcdc1f048418800!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401aab72230d3:0x4bcdc1f048418800!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ0zAit6oBBDQRAIhBSPDBzUs/photos/Aa-ngMaA5mDhdSRZAtsiNAJ9ph2nfvsfl9YjvqbB0z5jLv1ExFFEWmfa60-e-p2NIe2Z21FlW6uuJw0sxnAdyImtsNftDUUmHeRTnhYED0LF9dfLU-nPPtlBUdqMyVSMbI3BL1z36Ny-V42VR4QEjepa4p9CM_Iz3tifBMVk0zv6GNCzYtmU2FGkb1l-exj37jhMDJ4IYExXYZQvbWUs-iiCEC7k-cjJ-HCt0iru4LzSFTBPr3RzpmYSU69e27RX_EOYLinEF1FLumthkaAUUM4wjmQkTBzRo9NCDD9Ga2lZ_F-QsSGKPDnSL4Cr92WQY9qiU11zZL12_lQ79WexlIxZtqpIpqaq0vdZ4V61OnDp7_a_lkwQu4Gt2V1m-vMkoja2HaWr8GZpzNpJiYcwbVbHB3JKPd8",
+      "widthPx": 1080,
+      "heightPx": 1350,
+      "authorAttributions": [
+        {
+          "displayName": "Preface HQ",
+          "uri": "https://maps.google.com/maps/contrib/108339318252204777957",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyt-d2pLPThQTryfyMYXMVV29pCRUefo86QcAL1q2fGto_bbEc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDn0NKLQw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn0NKLQw!2e10!4m2!3m1!1s0x340401aab72230d3:0x4bcdc1f048418800"
+    },
+    "local_path": "photos/ChIJ0zAit6oBBDQRAIhBSPDBzUs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0bAsn6o_umPzgjF2GAaZ-6Eiw22ra3N8Cj0fSF90eFOju4L9kU_zuslIB3FxDjZkmLBf8jtRJJ3BFiunuIK5H-kss_OcQMMk3iIzqbYBkoEm7cgnAcHwHiJ7GviR55uJapG3u=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 148557
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "educational_institution",
+    "label": "教育機構",
+    "types": [
+      "educational_institution",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

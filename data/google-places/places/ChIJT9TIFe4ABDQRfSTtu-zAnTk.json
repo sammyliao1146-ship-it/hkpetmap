@@ -1,0 +1,437 @@
+{
+  "google_place_id": "ChIJT9TIFe4ABDQRfSTtu-zAnTk",
+  "restaurant_ids": [
+    "restaurant:2261220953"
+  ],
+  "fetched_at": "2026-10-23T15:44:55.795700+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJT9TIFe4ABDQRfSTtu-zAnTk",
+    "types": [
+      "steak_house",
+      "french_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2666 6818",
+    "internationalPhoneNumber": "+852 2666 6818",
+    "formattedAddress": "香港九龍尖沙咀赫德道12號",
+    "location": {
+      "latitude": 22.2981807,
+      "longitude": 114.1750168
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=4151686554503160957&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.lavache.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 23:00",
+        "星期二: 12:00 – 15:00, 18:00 – 23:00",
+        "星期三: 12:00 – 15:00, 18:00 – 23:00",
+        "星期四: 12:00 – 15:00, 18:00 – 23:00",
+        "星期五: 12:00 – 15:00, 18:00 – 00:00",
+        "星期六: 12:00 – 15:00, 18:00 – 00:00",
+        "星期日: 12:00 – 15:00, 18:00 – 23:00"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 1040,
+    "displayName": {
+      "text": "La Vache!",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "法國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "french_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJT9TIFe4ABDQRfSTtu-zAnTk/reviews/Ci9DQUlRQUNvZENodHljRjlvT201WlZubzJaMHRZYlhkUlNITXpVa1F6U1hwTVJuYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 4,
+        "text": {
+          "text": "老牌瑞士餐廳。星期六晚上來。沒有坐滿。但頗多外國人。怕瑞士火鍋太邪惡，點了其他菜式。煎芝士有新鮮感，不錯。田螺肉無味。不值。三文魚扒外皮脆魚肉不乾，可接受。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "老牌瑞士餐廳。星期六晚上來。沒有坐滿。但頗多外國人。怕瑞士火鍋太邪惡，點了其他菜式。煎芝士有新鮮感，不錯。田螺肉無味。不值。三文魚扒外皮脆魚肉不乾，可接受。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Andrew Kao",
+          "uri": "https://www.google.com/maps/contrib/103409548497640734723/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOd74Ge2jJ8RwPjHqLYQew4W3AtcrwrepND9rDNwZnJHddEGyj=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-11-22T04:13:05.527752454Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201WlZubzJaMHRZYlhkUlNITXpVa1F6U1hwTVJuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201WlZubzJaMHRZYlhkUlNITXpVa1F6U1hwTVJuYxAB!2m1!1s0x340400ee15c8d44f:0x399dc0ecbbed247d"
+      },
+      {
+        "name": "places/ChIJT9TIFe4ABDQRfSTtu-zAnTk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOM1UyNW5RVVV5U1MxSFYzSnFNbGh3VTNGRGVHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "小店一間，不是很大。  我有black series 優惠，有包、沙律、牛扒、甜品，不包飲品，埋單每人$430左右。 （平日大概$460 但不包甜品/ 不包飲品。）\n\n食物不過不失，服務OK，生日氣氛幾好，嚇我朋友一跳😂，但限時一個半鐘比較趕。\n\n寫在甜品碟邊的生日字句寫得很靚。 讚。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "小店一間，不是很大。  我有black series 優惠，有包、沙律、牛扒、甜品，不包飲品，埋單每人$430左右。 （平日大概$460 但不包甜品/ 不包飲品。）\n\n食物不過不失，服務OK，生日氣氛幾好，嚇我朋友一跳😂，但限時一個半鐘比較趕。\n\n寫在甜品碟邊的生日字句寫得很靚。 讚。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Y U",
+          "uri": "https://www.google.com/maps/contrib/108051817540537781008/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKM-KO_pHpWX-mttWvEzlQu4sOJDPf_YTrsnV7ktQEduoHiVA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-07-11T12:04:44.397330105Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOM1UyNW5RVVV5U1MxSFYzSnFNbGh3VTNGRGVHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOM1UyNW5RVVV5U1MxSFYzSnFNbGh3VTNGRGVHYxAB!2m1!1s0x340400ee15c8d44f:0x399dc0ecbbed247d"
+      },
+      {
+        "name": "places/ChIJT9TIFe4ABDQRfSTtu-zAnTk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpLVlhS0FREAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "朋友帶我去的餐廳~🥩🍟🥗🍹\n禮拜五晚上九點多，不用等位子就順利入座了\n事前只知道是吃牛排的\n一坐下想要餐牌，結果根本沒有哈哈\n店裡是按人頭點餐的，我們三個人就直接點了三份\n\n🥖麵包先上，有奶油作伴，但麵包不是熱的讓我有點失望🤔\n\n🥗蠻喜歡沙拉的油醋醬，吃光光\n\n🍟然後我朋友最喜歡的薯條來了，她整個興奮到像小孩一樣跟我說：薯條是吃到飽的！哈哈哈\n我帶著懷疑一吃，靠也太好吃了吧！\n吃得出剛炸好，灑上有調味過的鹽巴，夠乾身夠脆，吼現在回味都好想再去吃\n\n🥩啊然後主角出現了，銀盤下有小蠟燭保溫，但如果愛吃比較生的，記得別把牛排放太久，會越放越熟喔，我們是點五分熟，吼邊邊是脆的，肉很嫩，好吃！哦！然後牛排的沾醬也很好吃😆\n\n🍹飲料的部份，我們點了唯一兩杯mocktail ，覺得可以pass\n\n整體來說，絕對會再去！\n小減分的位置是，店裡很吵🤣比較難好好聊天\n不過跟一群朋友去是蠻適合的，約會就不要了~",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友帶我去的餐廳~🥩🍟🥗🍹\n禮拜五晚上九點多，不用等位子就順利入座了\n事前只知道是吃牛排的\n一坐下想要餐牌，結果根本沒有哈哈\n店裡是按人頭點餐的，我們三個人就直接點了三份\n\n🥖麵包先上，有奶油作伴，但麵包不是熱的讓我有點失望🤔\n\n🥗蠻喜歡沙拉的油醋醬，吃光光\n\n🍟然後我朋友最喜歡的薯條來了，她整個興奮到像小孩一樣跟我說：薯條是吃到飽的！哈哈哈\n我帶著懷疑一吃，靠也太好吃了吧！\n吃得出剛炸好，灑上有調味過的鹽巴，夠乾身夠脆，吼現在回味都好想再去吃\n\n🥩啊然後主角出現了，銀盤下有小蠟燭保溫，但如果愛吃比較生的，記得別把牛排放太久，會越放越熟喔，我們是點五分熟，吼邊邊是脆的，肉很嫩，好吃！哦！然後牛排的沾醬也很好吃😆\n\n🍹飲料的部份，我們點了唯一兩杯mocktail ，覺得可以pass\n\n整體來說，絕對會再去！\n小減分的位置是，店裡很吵🤣比較難好好聊天\n不過跟一群朋友去是蠻適合的，約會就不要了~",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "amdreamer yip",
+          "uri": "https://www.google.com/maps/contrib/111269933132870362920/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMYcs9KsVxg5SmMjFDy5gdgpYhU8n7pHAPRkccZNCelVBa2YA9=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2020-11-08T10:59:56.066503Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNpLVlhS0FREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNpLVlhS0FREAE!2m1!1s0x340400ee15c8d44f:0x399dc0ecbbed247d"
+      },
+      {
+        "name": "places/ChIJT9TIFe4ABDQRfSTtu-zAnTk/reviews/ChZDSUhNMG9nS0VJQ0FnSURya3Ezd0ZnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "和朋友到尖沙咀鋸扒，來這裡鋸扒不是因為這裡的牛扒好吃，是這裡的無限添食炸薯條，外脆內軟帶微甜的薯條，總讓我滿足，還有這裡的甜品，絕對邪惡絕對墮落絕對快樂。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "和朋友到尖沙咀鋸扒，來這裡鋸扒不是因為這裡的牛扒好吃，是這裡的無限添食炸薯條，外脆內軟帶微甜的薯條，總讓我滿足，還有這裡的甜品，絕對邪惡絕對墮落絕對快樂。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Phantom Loners",
+          "uri": "https://www.google.com/maps/contrib/100319179725767747621/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWi5KjAf4N8Vlp98IGYGTXdQ0FJIt_F0HGUrp6REqhe43BzalQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-07-16T11:03:38.307888Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURya3Ezd0ZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURya3Ezd0ZnEAE!2m1!1s0x340400ee15c8d44f:0x399dc0ecbbed247d"
+      },
+      {
+        "name": "places/ChIJT9TIFe4ABDQRfSTtu-zAnTk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpNmJpSkVBEAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "超滿足法國餐廳食牛扒加薯條😋\n香港最好食嘅薯條？！🍟 同朋友慶祝生日，又係時候揀間好嘢食！😋 呢間法式扒房已經bookmark左好耐，今次決定要食佢🤓 佢剩係得drink menu 野食就只有法包，合桃沙律，Prime 肉眼扒 ，同埋任食嘅薯條。 $318 加一 一坐低冇幾耐，店員就會問你想塊牛扒要幾多成熟\n\n牆上面嘅插畫都幾靚，配合返餐廳裏面嘅音樂，真係做到好似歐洲嘅餐廳咁！\n\n每人兩片法包加牛油🧈法包好軟熟\n\n合桃沙律🥗上面有法式芥末醬汁👍🏻啲菜好新鮮🤣\n\n肉眼扒送上🤓🤓🤓 餐廳好貼心咁用蠟燭熱住個盤，上面有兩種醬汁，其中唔使講係茄汁啦，另一種係法式嘅醬汁，有啲忌廉嘅感覺。\n\n店員會先將其中三舊牛，放喺隻碟度先，之後另外大半隻碟就放咗薯條🍟\n\n牛扒揀咗medium，好香牛味，好鮮嫩，一啲都唔老，食到有脂肪嘅地方就好重油脂感🤤煎得好靚！😋😋\n\n牛扒係主角，薯條永遠都係配角，但係今次嘅薯條真係好好食，超級香脆，炸到金黃色，薯條係幼身嘅，聽講係用牛既油去炸。真係食到唔停口😎😎 食到最尾都仲係好脆！店員仲會拎啲薯條過嚟問你要唔要添食，不過我怕熱氣，都係唔好食咁多🤣\n\n叫咗兩件甜品，其中一件係檸檬撻，賣相超級靚！ 佢嘅忌廉同檸檬嘅分布有啲唔平均，檸檬係相對地少好多，勁大層忌廉😂係好食嘅，不過自己一個人食晒就真係好漏，如果兩個人食飯，建議叫一個甜品就夠😂\n\n呢度嘅甜品都係冇餐牌㗎，係有一㗎甜品車，店員見你食到7788就會問你食唔食甜品，會推架甜品車過嚟，你可以望下有邊一款想食再同店員講。 🍮🍰🧁🍩🍧 每一款$118 ，因為同朋友慶祝生日所以都冇計錢，想食咩就叫咩啦，不過埋單就覺得甜品有少少貴。\n\n同左店員講係想同朋友慶祝生日，叫佢幫我喺碟上面寫朋友個名，上菜嘅時候仲校到全場音樂勁大聲，然後突然之間轉左做生日歌🤣🤣 職員仲會用即影即有相機影相📸️跟住送一張生日卡俾你🤓 真係好有氣氛呀😆😆",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "超滿足法國餐廳食牛扒加薯條😋\n香港最好食嘅薯條？！🍟 同朋友慶祝生日，又係時候揀間好嘢食！😋 呢間法式扒房已經bookmark左好耐，今次決定要食佢🤓 佢剩係得drink menu 野食就只有法包，合桃沙律，Prime 肉眼扒 ，同埋任食嘅薯條。 $318 加一 一坐低冇幾耐，店員就會問你想塊牛扒要幾多成熟\n\n牆上面嘅插畫都幾靚，配合返餐廳裏面嘅音樂，真係做到好似歐洲嘅餐廳咁！\n\n每人兩片法包加牛油🧈法包好軟熟\n\n合桃沙律🥗上面有法式芥末醬汁👍🏻啲菜好新鮮🤣\n\n肉眼扒送上🤓🤓🤓 餐廳好貼心咁用蠟燭熱住個盤，上面有兩種醬汁，其中唔使講係茄汁啦，另一種係法式嘅醬汁，有啲忌廉嘅感覺。\n\n店員會先將其中三舊牛，放喺隻碟度先，之後另外大半隻碟就放咗薯條🍟\n\n牛扒揀咗medium，好香牛味，好鮮嫩，一啲都唔老，食到有脂肪嘅地方就好重油脂感🤤煎得好靚！😋😋\n\n牛扒係主角，薯條永遠都係配角，但係今次嘅薯條真係好好食，超級香脆，炸到金黃色，薯條係幼身嘅，聽講係用牛既油去炸。真係食到唔停口😎😎 食到最尾都仲係好脆！店員仲會拎啲薯條過嚟問你要唔要添食，不過我怕熱氣，都係唔好食咁多🤣\n\n叫咗兩件甜品，其中一件係檸檬撻，賣相超級靚！ 佢嘅忌廉同檸檬嘅分布有啲唔平均，檸檬係相對地少好多，勁大層忌廉😂係好食嘅，不過自己一個人食晒就真係好漏，如果兩個人食飯，建議叫一個甜品就夠😂\n\n呢度嘅甜品都係冇餐牌㗎，係有一㗎甜品車，店員見你食到7788就會問你食唔食甜品，會推架甜品車過嚟，你可以望下有邊一款想食再同店員講。 🍮🍰🧁🍩🍧 每一款$118 ，因為同朋友慶祝生日所以都冇計錢，想食咩就叫咩啦，不過埋單就覺得甜品有少少貴。\n\n同左店員講係想同朋友慶祝生日，叫佢幫我喺碟上面寫朋友個名，上菜嘅時候仲校到全場音樂勁大聲，然後突然之間轉左做生日歌🤣🤣 職員仲會用即影即有相機影相📸️跟住送一張生日卡俾你🤓 真係好有氣氛呀😆😆",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hk Eatistruelove (Eatistruelove.hk)",
+          "uri": "https://www.google.com/maps/contrib/115385812921333174176/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNC-HYTQGpqJfoJ60FBpXcaKoROQ8J5SneQJicIoOc1SSJmw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2020-11-07T08:58:40.277091Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNpNmJpSkVBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNpNmJpSkVBEAE!2m1!1s0x340400ee15c8d44f:0x399dc0ecbbed247d"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": false,
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400ee15c8d44f:0x399dc0ecbbed247d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4151686554503160957&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ee15c8d44f:0x399dc0ecbbed247d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400ee15c8d44f:0x399dc0ecbbed247d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ee15c8d44f:0x399dc0ecbbed247d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJT9TIFe4ABDQRfSTtu-zAnTk/photos/Aa-ngMaYJCxCmTHMFxEzv9EYTDBBkKxxA_KXRwsYiOiRcYgBsh8xDjzwMcrqXN444pfaLWSTmroWG1W7TXqD5yesInOujuulmocvhgTz9e6Kl54DMh0Lwu3FaNCT_W-BI5dLmIauNb7ehIE6z8A2FSablATZa2gyPphc6LxLVmfJX81-F8BHHUswFIFB15iRggBVT62sw2H80jFAQEtb01yiWoXT31D18qZSAgFZxoIVVNRH4KDNRfbi6zWguyr8ZgNdXj5c3RQQqZc47oMFH_1bZZHO7D4GjcrulKlErvXIRNSqrFLs5WDDO4Ue_M4BIejRDdpHne2YVPUvo-E8LzOQEwCXKMcxeU9AlrzoR5LyhWqDpSEPu9-JV6gHC_p0grw4Q4tRDTTFNk_27IhB5ohWxmd9S8wgG5M",
+      "widthPx": 827,
+      "heightPx": 551,
+      "authorAttributions": [
+        {
+          "displayName": "La Vache!",
+          "uri": "https://maps.google.com/maps/contrib/107269569553008133890",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX14fuU07ApAIPpBMMMcLNkKPw6yaMWbL1kBRz2ZOUQxbvkjNM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC89bP33QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC89bP33QE!2e10!4m2!3m1!1s0x340400ee15c8d44f:0x399dc0ecbbed247d"
+    },
+    "local_path": "photos/ChIJT9TIFe4ABDQRfSTtu-zAnTk.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfylNMr4v1IN3GHn4ojbGPDcDKZK6BblRoVWtiokCBtBo6h5mfUzZEE4tA5usBelnP87qlAYFIMxOQ_1WkRxCg-R60WV0_UIClffl0hgadnk0luT7Lvw7mnKQ1AVQPCyPoUMuGjxA=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 680394
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.lavache.com.hk/book-now-sc",
+        "label": "分店地址",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.lavache.com.hk/menu-tc",
+        "label": "菜單",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.lavache.com.hk/menu-sc",
+        "label": "菜单",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.lavache.com.hk/menu",
+        "label": "MENU",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "french_restaurant",
+    "label": "法國餐廳",
+    "types": [
+      "steak_house",
+      "french_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.lavache.com.hk/book-now-sc",
+  "menu_url": "https://www.lavache.com.hk/menu-tc"
+}

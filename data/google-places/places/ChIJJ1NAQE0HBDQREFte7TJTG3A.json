@@ -1,0 +1,310 @@
+{
+  "google_place_id": "ChIJJ1NAQE0HBDQREFte7TJTG3A",
+  "restaurant_ids": [
+    "restaurant:3197802437"
+  ],
+  "fetched_at": "2026-10-23T15:50:05.404774+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJJ1NAQE0HBDQREFte7TJTG3A",
+    "types": [
+      "korean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2606 6836",
+    "internationalPhoneNumber": "+852 2606 6836",
+    "formattedAddress": "一期L6樓609號舖, 新城市廣場, 18號 Sha Tin Centre St, Sha Tin, New Territories, 香港",
+    "location": {
+      "latitude": 22.3817578,
+      "longitude": 114.18863719999999
+    },
+    "rating": 3.4,
+    "googleMapsUri": "https://maps.google.com/?cid=8078141834814970640&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 68,
+    "displayName": {
+      "text": "Terrace in seaside (Sha Tin)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "韓國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": true,
+    "primaryType": "korean_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJJ1NAQE0HBDQREFte7TJTG3A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnMFRWVjBaR3Q2TVhvMGFsbFRhWGR1UlZCcldVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "今日十月一日假期，無意之間搵到呢間韓式輕食店，充滿驚喜！\n\n食物價錢合理，沙律新鮮，Pancake 不甜，正！\n飲品賣相充滿美感，乳酪飲品不太甜，辛苦了水吧位的waitress !\n\n裝修舒適，waiters 服務友善，在極繁忙的一天。有個後生仔仍然臉帶笑容，很難得！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日十月一日假期，無意之間搵到呢間韓式輕食店，充滿驚喜！\n\n食物價錢合理，沙律新鮮，Pancake 不甜，正！\n飲品賣相充滿美感，乳酪飲品不太甜，辛苦了水吧位的waitress !\n\n裝修舒適，waiters 服務友善，在極繁忙的一天。有個後生仔仍然臉帶笑容，很難得！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "marco tsang",
+          "uri": "https://www.google.com/maps/contrib/102139074010644555563/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhsGJFXlTc2rMkKG0WgjMoMcf_LpG5he7unAoUiwX4BCemxA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-10-01T11:26:46.536899050Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tnMFRWVjBaR3Q2TVhvMGFsbFRhWGR1UlZCcldVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnMFRWVjBaR3Q2TVhvMGFsbFRhWGR1UlZCcldVRRAB!2m1!1s0x3404074d40405327:0x701b5332ed5e5b10"
+      },
+      {
+        "name": "places/ChIJJ1NAQE0HBDQREFte7TJTG3A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tONk5EWXRXbk5tTWxwUFlrRm9SMGxyUjBFM1MyYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "服務: Ok！\n氣氛: 在商場走廊中間 冇乜人流嗰陣先去就OK\n餐點: 杜拜朱古力窩夫幾好食！ 飯卷都唔差嘅但係就性價比而言有啲貴，嘢飲正正常常！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務: Ok！\n氣氛: 在商場走廊中間 冇乜人流嗰陣先去就OK\n餐點: 杜拜朱古力窩夫幾好食！ 飯卷都唔差嘅但係就性價比而言有啲貴，嘢飲正正常常！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Emily Wong",
+          "uri": "https://www.google.com/maps/contrib/108230324086415760901/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHJaTwGxUiue0HkBN2ZtV-06LAhBEgItVkva0sUlqIYQy5X-Wa=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-22T11:13:15.426749775Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tONk5EWXRXbk5tTWxwUFlrRm9SMGxyUjBFM1MyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tONk5EWXRXbk5tTWxwUFlrRm9SMGxyUjBFM1MyYxAB!2m1!1s0x3404074d40405327:0x701b5332ed5e5b10"
+      },
+      {
+        "name": "places/ChIJJ1NAQE0HBDQREFte7TJTG3A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKWWNGSTVkSEI0TjFSMGNTMU1XRFZGYzI1a1pHYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 2,
+        "text": {
+          "text": "📍Terrace in Seaside\n/ 🌶️韓式辣吞拿魚飯捲🐟 $108 /\n⭐️(⭐️)\n之前食過牛肉飯卷係好食的🐮 鍾意吞拿魚，一於試吓\n喂！$108吞拿魚會唔會少得過分？😤\n以為辣吞拿魚係辣味嘅吞拿魚🌶️\n點知原來係加咗泡菜喺中間😔\n味道嚟講就正常 唔難食，但係亦都唔係好食😀\n蔬菜亦都比較少 唔夠蔬菜爽脆嘅感覺🥬\n冇下次拜拜～\n.\n@terrace.in.seaside.hk\n#terraceinseaside#kimbap#gimbap#김밥#韓國菜",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "📍Terrace in Seaside\n/ 🌶️韓式辣吞拿魚飯捲🐟 $108 /\n⭐️(⭐️)\n之前食過牛肉飯卷係好食的🐮 鍾意吞拿魚，一於試吓\n喂！$108吞拿魚會唔會少得過分？😤\n以為辣吞拿魚係辣味嘅吞拿魚🌶️\n點知原來係加咗泡菜喺中間😔\n味道嚟講就正常 唔難食，但係亦都唔係好食😀\n蔬菜亦都比較少 唔夠蔬菜爽脆嘅感覺🥬\n冇下次拜拜～\n.\n@terrace.in.seaside.hk\n#terraceinseaside#kimbap#gimbap#김밥#韓國菜",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yummi • Jappi",
+          "uri": "https://www.google.com/maps/contrib/101066010129931368491/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiFPfbVZIthMKWDakp2yuS6S7FJn7-EEOt1CkyWWg7L0pNcTo=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-23T08:18:29.414747760Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKWWNGSTVkSEI0TjFSMGNTMU1XRFZGYzI1a1pHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKWWNGSTVkSEI0TjFSMGNTMU1XRFZGYzI1a1pHYxAB!2m1!1s0x3404074d40405327:0x701b5332ed5e5b10"
+      },
+      {
+        "name": "places/ChIJJ1NAQE0HBDQREFte7TJTG3A/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3N0pTVU53EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "佢喺香港話咁快就開咗十零間分店。Tea Time諗唔到食咩，入嚟坐低嘆份窩夫都幾Chill㗎🧇，大人細路都啱食🫶🏻！\n\n🍗 燒慢煮雞腿紫蘇拌飯 │ $108\n一上枱已經聞到好香，隻雞脾仲滴晒汁好Juicy✨，食落係蜜糖BBQ味幾惹味🍯。個拌飯都炒得好有穫氣，有種煲仔飯嘅焦香感，唔錯！\n\n🌯 醬燒牛肉飯卷 │ $88\n係好Common嘅韓國家常料理，食得出紫菜嗰種麻油香氣，差唔多次次嚟會嗌呢個🤘🏻，好方便Share食，味道又穩陣！\n\n🥗 輕盈又滿足的煙三文魚沙律 │ $86\n啲煙三文魚多到好似唔使成本咁😳，食極都仲有好多塊。啲沙津菜又夠新鮮🥬，唔會有太多醬汁，成份嘢都好好味！\n\n💚 開唔開心試咗先知嘅開心果窩夫 │ $138\n好搞笑，我覺得佢個外型好似一隻植物系嘅寵物小精靈叫 { 菊草葉 }，可能咁啱有塊葉喺上面啦🥬，賣相都幾得意。\n佢個窩夫係蜜糖口味，所以食落會有少少偏甜啲🤏🏻，不過佢Topping啲開心果醬都濃嘅，如果有得加球開心果雪糕會更加正🙌🏻。\n\n🍊 濟州柑橘乳酪 │ $68\n🍹 初夏青柑柚子梳打 │ $42\n呢2杯都係大推嘅打卡凍飲\n價值貴啲啲，但係都幾好飲好清爽🍀！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "佢喺香港話咁快就開咗十零間分店。Tea Time諗唔到食咩，入嚟坐低嘆份窩夫都幾Chill㗎🧇，大人細路都啱食🫶🏻！\n\n🍗 燒慢煮雞腿紫蘇拌飯 │ $108\n一上枱已經聞到好香，隻雞脾仲滴晒汁好Juicy✨，食落係蜜糖BBQ味幾惹味🍯。個拌飯都炒得好有穫氣，有種煲仔飯嘅焦香感，唔錯！\n\n🌯 醬燒牛肉飯卷 │ $88\n係好Common嘅韓國家常料理，食得出紫菜嗰種麻油香氣，差唔多次次嚟會嗌呢個🤘🏻，好方便Share食，味道又穩陣！\n\n🥗 輕盈又滿足的煙三文魚沙律 │ $86\n啲煙三文魚多到好似唔使成本咁😳，食極都仲有好多塊。啲沙津菜又夠新鮮🥬，唔會有太多醬汁，成份嘢都好好味！\n\n💚 開唔開心試咗先知嘅開心果窩夫 │ $138\n好搞笑，我覺得佢個外型好似一隻植物系嘅寵物小精靈叫 { 菊草葉 }，可能咁啱有塊葉喺上面啦🥬，賣相都幾得意。\n佢個窩夫係蜜糖口味，所以食落會有少少偏甜啲🤏🏻，不過佢Topping啲開心果醬都濃嘅，如果有得加球開心果雪糕會更加正🙌🏻。\n\n🍊 濟州柑橘乳酪 │ $68\n🍹 初夏青柑柚子梳打 │ $42\n呢2杯都係大推嘅打卡凍飲\n價值貴啲啲，但係都幾好飲好清爽🍀！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mandy Or",
+          "uri": "https://www.google.com/maps/contrib/115008471736254234901/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKc7iumSk_RBRW_Vp7QhMKiFWD6-BTlQ3L_ZFpUQX1R7yxHdQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-03-24T08:36:08.268286Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3N0pTVU53EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3N0pTVU53EAE!2m1!1s0x3404074d40405327:0x701b5332ed5e5b10"
+      },
+      {
+        "name": "places/ChIJJ1NAQE0HBDQREFte7TJTG3A/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4ajdPZk5BEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "呢間以濟州柑橘為主題嘅韓國過江龍清新cafe, 人氣爆燈，店內座無虛席，長期有人排隊，登陸香港之後分店開到第5間，選址沙田新城市廣場，餐廳半開放式設計，食物賣相多有特色，好啱打卡！\n\n————————————————————————-\n✔️韓國蜆肉紫蘇飯$118\n蜆肉大粒爽口有水份，加入咗韓式辣醬去炒。飯粒用醬汁炒過甘甘甜甜，口感適中。紫蘇葉有獨特香氣，令整道菜嘅口感更加豐富。\n\n✔️醬燒牛肉飯卷$82\n主要以醬燒牛肉、飯、青瓜、紅蘿蔔、醃製酸蘿蔔、蛋粒等卷成的韓式壽司。餡料多，飯少，唔會太有滯膩感。\n\n✔️清甜柑橘窩夫$98\n非常推介呢個甜品！窩夫即整，做到外脆內暖。成個甜品仲有濟州柑橘，特別清甜，果酸度特別底！雖然上面有唔少cream，但係呢隻cream好light、好滑，係完全食晒都唔會覺得有負擔！食之前淋上特製嘅柑橘甜醬，口腔全方位充滿唔同質感和味道嘅柑橘香氣！\n\n✔️濟州柑橘乳酪$68\n呢杯飲品係餐廳嘅signature飲品！杯蓋上有個空心柑橘外皮好吸睛，好啱打卡！飲品使用當地柑橘和牛奶製成，口感滑順，帶有柑橘的清香。\n\n✔️柚子檸檬梳打(凍)$42\n使用柚子、檸檬、梳打水製成，清涼解渴，適合夏天飲用。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間以濟州柑橘為主題嘅韓國過江龍清新cafe, 人氣爆燈，店內座無虛席，長期有人排隊，登陸香港之後分店開到第5間，選址沙田新城市廣場，餐廳半開放式設計，食物賣相多有特色，好啱打卡！\n\n————————————————————————-\n✔️韓國蜆肉紫蘇飯$118\n蜆肉大粒爽口有水份，加入咗韓式辣醬去炒。飯粒用醬汁炒過甘甘甜甜，口感適中。紫蘇葉有獨特香氣，令整道菜嘅口感更加豐富。\n\n✔️醬燒牛肉飯卷$82\n主要以醬燒牛肉、飯、青瓜、紅蘿蔔、醃製酸蘿蔔、蛋粒等卷成的韓式壽司。餡料多，飯少，唔會太有滯膩感。\n\n✔️清甜柑橘窩夫$98\n非常推介呢個甜品！窩夫即整，做到外脆內暖。成個甜品仲有濟州柑橘，特別清甜，果酸度特別底！雖然上面有唔少cream，但係呢隻cream好light、好滑，係完全食晒都唔會覺得有負擔！食之前淋上特製嘅柑橘甜醬，口腔全方位充滿唔同質感和味道嘅柑橘香氣！\n\n✔️濟州柑橘乳酪$68\n呢杯飲品係餐廳嘅signature飲品！杯蓋上有個空心柑橘外皮好吸睛，好啱打卡！飲品使用當地柑橘和牛奶製成，口感滑順，帶有柑橘的清香。\n\n✔️柚子檸檬梳打(凍)$42\n使用柚子、檸檬、梳打水製成，清涼解渴，適合夏天飲用。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lylyw",
+          "uri": "https://www.google.com/maps/contrib/114704900156109915928/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWd0hdp8wucOJ067swj_RiTK66bj18r-oNRcVbZGsZXuo0Yw6jU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-06-17T06:14:59.214949Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4ajdPZk5BEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4ajdPZk5BEAE!2m1!1s0x3404074d40405327:0x701b5332ed5e5b10"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404074d40405327:0x701b5332ed5e5b10!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8078141834814970640&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404074d40405327:0x701b5332ed5e5b10!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404074d40405327:0x701b5332ed5e5b10!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404074d40405327:0x701b5332ed5e5b10!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJJ1NAQE0HBDQREFte7TJTG3A/photos/Aa-ngMZTzTt_eUuLf3NMYHJUPVmNQppAe-iYxCedabNQYas5DTDlQJ0YZv7emZDH-Y5C-9qMRCZfJi1kJAo5d7FxTU_ixBf4-s0HuXrHsE1vNirb-nfd4dWmekjCXoJMmCh7aHOc6y0y2nlU_rBpEwOPvsCJUvi26isaNKHSFkfN5ZCB5Y0cfDmOzFOhYLhNMqawV71lEEaH9vNKX9-nKXp44owuMHofC5A_wO_b9gGef9jjjTmeTrgLp-nqehhl8J1udOU03dQCxVwDqHKxbJxR64jrEzBDpXvrpV8TrChb_2e_pc5WqLsq5Je2K3NnmUTH7bn04JW_VXp_LVt9CWm9THYCAVDtyUSP0z05eBzPIBSUfMgXTIqOeT8Ci0E8j_RJBJXBKPcBBqVzLUQbo6_UCyfeqYkp",
+      "widthPx": 1440,
+      "heightPx": 1800,
+      "authorAttributions": [
+        {
+          "displayName": "Yonnie Wong",
+          "uri": "https://maps.google.com/maps/contrib/111428164288959105179",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrEGBHTzR-rkAaoHsDg6c-OfFaTmxBjLSG43iMww3vyTZfRfxE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEM_r797zhYnH9AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEM_r797zhYnH9AE!2e10!4m2!3m1!1s0x3404074d40405327:0x701b5332ed5e5b10"
+    },
+    "local_path": "photos/ChIJJ1NAQE0HBDQREFte7TJTG3A.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGRXji8S8j_gXjIIv2MMsbWQTfmX_rpTaWPfJbEjTiwk1oE3KMbs8rCH99dZXYH3o4hDARvrcVhgoNYiStorVJu5UYbo5wTSu_6-dLGYe5i7r4QSLds83YaY4a6Hp4mxFgeC38=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 200144
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "korean_restaurant",
+    "label": "韓國餐廳",
+    "types": [
+      "korean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

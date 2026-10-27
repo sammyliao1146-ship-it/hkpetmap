@@ -1,0 +1,41 @@
+{
+  "id": "ChIJecP5-sUABDQRjBggTA-nxg0",
+  "types": [
+    "pharmacy",
+    "veterinary_care",
+    "pet_care",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "G/F-2/F, Trinity Towers, 339 Lai Chi Kok Rd, Sham Shui Po, Kowloon, 香港",
+  "location": {
+    "latitude": 22.328954,
+    "longitude": 114.1596344
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=992664452025292940&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "城大動物醫療中心 | CityU Veterinary Medical Centre",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJecP5-sUABDQRjBggTA-nxg0/photos/Aa-ngMYlI8EiQhQJoU3OuR7urDfzXzdtLLMLXuuhx8ztuvbwmiR0q7L7xuT_Q387_uUyCxzA7nwoNN-mTPPavW1AkTjn02ne_zEzuSvzJ2rgdRoNMT2hlH-Bf2gAHC5u2g7PX5cdQiDiYmbOh-6ern5por_J9N21stsbF6XamRsdt0LOsDc-E2nMMCXa_vbrZhKEvCf8ByU6l0PL-ee6uusw_UcFNTrQKIESlr0i2wKziKowpm474lT-nb9nnkYNn5mLv2FGDZpYCeGcjrHgcC13JgYBK62cvkDEqODbPjOc4ZDrC-tzuthIfoJOpMhnJWtf9QbkBKiCnW0W0sWQFd9cvoq2-I3pJrId_3pxDr1oLAB7AqUdYL4hAzb1zOl6Sg5_5T5dt96cSMYAn6Rl5Bt9G5cKU-4NKIE",
+      "widthPx": 2048,
+      "heightPx": 800,
+      "authorAttributions": [
+        {
+          "displayName": "CityU Veterinary Medical Centre Primary Care 城大動物醫療中心-全科獸醫診所",
+          "uri": "https://maps.google.com/maps/contrib/103876193553539088478",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeie0NZsf7JO8UvwkzMnwp0kEZyLTMEtrwNUaljJyyhf8S4d8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC63KO-_gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC63KO-_gE!2e10!4m2!3m1!1s0x340400c5faf9c379:0xdc6a70f4c20188c"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:39.309433+00:00"
+}

@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJ5WxzN00BBDQRrPUHTYfwhoU",
+  "restaurant_ids": [
+    "restaurant:3111802848"
+  ],
+  "fetched_at": "2026-10-23T15:40:18.059752+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ5WxzN00BBDQRrPUHTYfwhoU",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3619 7265",
+    "internationalPhoneNumber": "+852 3619 7265",
+    "formattedAddress": "香港香港島北角英皇道58號康福園",
+    "location": {
+      "latitude": 22.2865395,
+      "longitude": 114.19307219999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=9621642117827261868&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.barpacific.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 4,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:30 – 04:00",
+        "星期二: 16:30 – 04:00",
+        "星期三: 16:30 – 04:00",
+        "星期四: 16:30 – 04:00",
+        "星期五: 16:30 – 04:00",
+        "星期六: 16:30 – 04:00",
+        "星期日: 16:30 – 04:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 16,
+    "displayName": {
+      "text": "Bar Pacific (SHOP 81)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJ5WxzN00BBDQRrPUHTYfwhoU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtNnVEX3p3RRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "地方舒服，地點也方便",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地方舒服，地點也方便",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sam Yys",
+          "uri": "https://www.google.com/maps/contrib/108182734641369603369/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURpCTzd2UFeYIEGo9EKCckSwnmwtm0v-4K28xeRTFSBmnvQlTSNw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-11-27T01:20:28.682736Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtNnVEX3p3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtNnVEX3p3RRAB!2m1!1s0x3404014d37736ce5:0x8586f0874d07f5ac"
+      },
+      {
+        "name": "places/ChIJ5WxzN00BBDQRrPUHTYfwhoU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoaGRqYzNTVWhXVkhWeGJYUmFjR3BpZG1sSVFWRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "地方夠大、交通方便",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地方夠大、交通方便",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Andy Wong",
+          "uri": "https://www.google.com/maps/contrib/115676919228968376751/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHdyCc-0cPj0ScdmovhE7JRGVpg4yPM7Vw4ilATpmD9DHFu7flRw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-10-04T08:12:04.054507106Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoaGRqYzNTVWhXVkhWeGJYUmFjR3BpZG1sSVFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoaGRqYzNTVWhXVkhWeGJYUmFjR3BpZG1sSVFWRRAB!2m1!1s0x3404014d37736ce5:0x8586f0874d07f5ac"
+      },
+      {
+        "name": "places/ChIJ5WxzN00BBDQRrPUHTYfwhoU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1NHVQTVh3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "這是一家提供標準娛樂設施的酒吧，有台球、卡拉OK、飛鏢和啤酒乒乓。服務一般，沒什麼特別之處。提供花生、飲料和一些基本的熱食小吃，例如雞翅，不會出錯。這是一家適合在工作日晚上消磨時光的當地酒吧。我們去的那天，有人在室內抽煙。所以如果您不吸煙，請謹慎考慮。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "General bar with standard entertainment, pool, karaoke, darts and beer pong. Service is ok without much surprised. Peanuts, refreshment and some basic hot snacks like wings which cannot go wrong. A local bar where you can hang out on a regular weekday evening. On the day we went there were some people smoking cigarettes indoor. So consider it if you are a non-smoker.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Robert Lo",
+          "uri": "https://www.google.com/maps/contrib/111146214987047456054/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxbp9FsNTt2KzVwUhk_WyaoEKN_MWd9Q3xI9O29eFpJYlMJw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-10-21T17:23:16.159079Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ1NHVQTVh3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1NHVQTVh3EAE!2m1!1s0x3404014d37736ce5:0x8586f0874d07f5ac"
+      },
+      {
+        "name": "places/ChIJ5WxzN00BBDQRrPUHTYfwhoU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMi1qZkZ3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "這家酒吧創意十足，魅力四射，只有在香港才能感受到！卡拉OK音響設備令人驚喜，氛圍宜人，空間寬敞，服務人員熱情友好，充滿年輕人的活力。在香港的體驗非常棒，我強烈推薦！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Creative and charming bar that can only be felt in Hong Kong! Surprised by karaoke sound facilities, pleasant atmosphere, spacious place, friendly and warm serving of young people. Have a great experience in Hong Kong. I definitely recommend it!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Lucky Itsme",
+          "uri": "https://www.google.com/maps/contrib/114704840628131455379/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYojnymuz09oNA7oAqD9zIubh_fPxoedlDXFtxPWb-cM_oQQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-03-22T21:51:29.628518Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmMi1qZkZ3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmMi1qZkZ3EAE!2m1!1s0x3404014d37736ce5:0x8586f0874d07f5ac"
+      },
+      {
+        "name": "places/ChIJ5WxzN00BBDQRrPUHTYfwhoU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfMkllM1dBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "這裡有台卡拉OK機，但是聲音太大了，我完全聽不到朋友的聲音……ㅠㅠ 工作人員非常友好，酒吧氛圍也不錯，但是卡拉OK機壞了。噪音大到我都分不清这里到底是酒吧还是卡拉OK酒吧了。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "노래방 기계 있는데 진짜 너무 시끄러워서 친구 목소리 아예 안 들림..ㅠㅠ 직원들은 엄청 친절하고 바 분위기 자체는 좋았음 근데 노래방 기계 미쳣음 걍 개시끄러움 심각함 술집인지 노래방인지 분간이 안 감",
+          "languageCode": "ko"
+        },
+        "authorAttribution": {
+          "displayName": "박주원",
+          "uri": "https://www.google.com/maps/contrib/106322747052096628054/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpv0eh91AFuactMMBuaaK9MjZX6wOj7y2mdZEWm3bTEBmaFA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-01-12T16:10:11.252434Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfMkllM1dBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfMkllM1dBEAE!2m1!1s0x3404014d37736ce5:0x8586f0874d07f5ac"
+      }
+    ],
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404014d37736ce5:0x8586f0874d07f5ac!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9621642117827261868&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014d37736ce5:0x8586f0874d07f5ac!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404014d37736ce5:0x8586f0874d07f5ac!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014d37736ce5:0x8586f0874d07f5ac!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ5WxzN00BBDQRrPUHTYfwhoU/photos/Aa-ngMZXg1rzWi6EYzjXGxbz30FuFw44zBaCRd6gpEuEnWeeOthjqVwI4RTUteM0k9kzpAfT9isEPIYMSMTHIVvfr-NZHXE2Ohm1uK0Swv0xCiHfCDHZgriMzhJWggNIdD0Tw7OUGYyBTo1dPBAYwySK1ZXtGcCljwjhN3UY-snj1JrebA31lYIe4rSymx9fSDDKOX-6uSTb-yAnYhQz-WGGREVEVy_HwY3TyMpY03DeVLh5HFtP_4j5dDR3mSr9UyoW4TsdNPJbWGW4O19kf8kZA5oKc-kVz5Q1vw7vxC0oR7OJ72Ch9-9xOVsNWJU0BhdgtdgJHPwc7RAKCLsIcX_ZHeRebhC9MG44gXTkS8fqtF_41n8VSNfV7Z-U8se6BCjBQZM2iCujV-zRiR6QeIpMGP2-_6k",
+      "widthPx": 3660,
+      "heightPx": 2744,
+      "authorAttributions": [
+        {
+          "displayName": "Siu Ming Lau (Ming)",
+          "uri": "https://maps.google.com/maps/contrib/100715552440519505340",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_J3b7jl2MknUqbsAXLJZEbmteB06JETcjldnPxcqSop0d7wL8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICpqv3_aA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpqv3_aA!2e10!4m2!3m1!1s0x3404014d37736ce5:0x8586f0874d07f5ac"
+    },
+    "local_path": "photos/ChIJ5WxzN00BBDQRrPUHTYfwhoU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdipY9wb4lJ-7lXOToYXPy9xoawX2T3Z6eUgWz_8q4MMhhl8xlusIrH1EWNm-1DOzeyh8idVGvoKQRTvEgRx-OOzHrMhdO_43jTKcF1bW9p9z4qeqAIaHfV8xzI9289bOlWGb8N=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 152043
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

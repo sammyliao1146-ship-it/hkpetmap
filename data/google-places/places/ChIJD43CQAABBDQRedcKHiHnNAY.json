@@ -1,0 +1,70 @@
+{
+  "google_place_id": "ChIJD43CQAABBDQRedcKHiHnNAY",
+  "restaurant_ids": [
+    "restaurant:2211803861"
+  ],
+  "fetched_at": "2026-10-23T15:42:41.591788+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJD43CQAABBDQRedcKHiHnNAY",
+    "types": [
+      "spanish_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "9/F, Dorset House, Taikoo Place, Quarry Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.286972799999997,
+      "longitude": 114.21217039999999
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=447236392440485753&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+      "text": "Enoteca",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西班牙風味餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesDinner": true,
+    "primaryType": "spanish_restaurant",
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010040c28d0f:0x634e7211e0ad779!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=447236392440485753&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010040c28d0f:0x634e7211e0ad779!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010040c28d0f:0x634e7211e0ad779!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010040c28d0f:0x634e7211e0ad779!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": null,
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "spanish_restaurant",
+    "label": "西班牙風味餐廳",
+    "types": [
+      "spanish_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

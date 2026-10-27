@@ -1,0 +1,38 @@
+{
+  "id": "ChIJn_GJKAD5AzQRBQWtI2uyAnY",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界水盞田",
+  "location": {
+    "latitude": 22.427111399999998,
+    "longitude": 114.0811241
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8503555219658704133&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "柴駅SHIBARAKU 寵物寄宿",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJn_GJKAD5AzQRBQWtI2uyAnY/photos/Aa-ngMa4M8AhD5zodsU1DEZovbQ8Mq8_Rfjv_ZPWWxHpkzBP6gKQ9rgRcwsBmtn98LACXcSjUhqJIGab5Nzl3UJDCCm-xkhiNc1RgZItXfLm6dMIuSv-c4QWh7XQt4qVXYDhjZbiI1QKdik5B-tf9lRAggn760dXM0a0aO-9iQs5NdHEdctSVl6rMiyR56AZfdPNKMu8DWeKibZi343P-SgJnRGHnj5YeAo3EbJpWsERHbawAM18adCYTr2NwHvFisx03Zz4Q-q4xEumXsqoVoctMj-m6DcNSPxv6AWeI360KBBiAIfY_z73_D8u5Ik0wNDabaF-j89L3LcK3DiCX-ZTtJw6wnefG4dM6rMxrpplj27849SozuNxGkE4XokHupXcvtzyPLC2LkLrdFr4JIUOwt1cWvxS1znP-134V1_qLJxl",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "柴駅SHIBARAKU 寵物寄宿",
+          "uri": "https://maps.google.com/maps/contrib/110657214609950868610",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKEW12qUzNCh7Kc2TNCTPgp9Y0qCpH0YnlefNqb9D5KMjaPRA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCK2mXesitgwoCOXrjnXE_a&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCK2mXesitgwoCOXrjnXE_a!2e10!4m2!3m1!1s0x3403f9002889f19f:0x7602b26b23ad0505"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:13.089754+00:00"
+}

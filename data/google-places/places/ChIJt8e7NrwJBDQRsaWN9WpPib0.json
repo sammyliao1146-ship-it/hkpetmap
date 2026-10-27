@@ -1,0 +1,302 @@
+{
+  "google_place_id": "ChIJt8e7NrwJBDQRsaWN9WpPib0",
+  "restaurant_ids": [
+    "restaurant:2296803921"
+  ],
+  "fetched_at": "2026-10-23T15:49:06.453599+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJt8e7NrwJBDQRsaWN9WpPib0",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "1/F, 12 Science Park W Ave, Science Park, New Territories, 香港",
+    "location": {
+      "latitude": 22.4270578,
+      "longitude": 114.20940999999999
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=13657534665782568369&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 18:00",
+        "星期二: 08:00 – 18:00",
+        "星期三: 08:00 – 18:00",
+        "星期四: 08:00 – 18:00",
+        "星期五: 08:00 – 18:00",
+        "星期六: 休息",
+        "星期日: 11:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-25T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 44,
+    "displayName": {
+      "text": "SMACK",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJt8e7NrwJBDQRsaWN9WpPib0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGUE1uazJUMHhwTjJOWlZIVkVNSGwwYzFkYWQyYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "科學園高質Cafe! Salted Caramel Coffee & Latte 都係用Nutty Beans，超級香濃！另外叫左SMACK Beef Wrap ，啲慢煮牛肉勁嫩滑，加上生菜Balance翻，好食~ Spaghetti Slow-cooked Chicken 肉質超嫩滑的雞胸肉，蒜油底意粉，加上芝士都唔會太Heavy。Hawaiian Pizza 餅底超脆，都係用蒜油底做的，有少少似蒜蓉包，勁香~ 小店環境好舒服，泊車又方便，會再去！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "科學園高質Cafe! Salted Caramel Coffee & Latte 都係用Nutty Beans，超級香濃！另外叫左SMACK Beef Wrap ，啲慢煮牛肉勁嫩滑，加上生菜Balance翻，好食~ Spaghetti Slow-cooked Chicken 肉質超嫩滑的雞胸肉，蒜油底意粉，加上芝士都唔會太Heavy。Hawaiian Pizza 餅底超脆，都係用蒜油底做的，有少少似蒜蓉包，勁香~ 小店環境好舒服，泊車又方便，會再去！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Summer Hui",
+          "uri": "https://www.google.com/maps/contrib/108202861327892880604/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOA-qWlZmPDIFXJSbqzbHChtMQAHYfj-JygSmzJYiKgnJJOfW4=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-02T08:10:54.156649554Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGUE1uazJUMHhwTjJOWlZIVkVNSGwwYzFkYWQyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGUE1uazJUMHhwTjJOWlZIVkVNSGwwYzFkYWQyYxAB!2m1!1s0x340409bc36bbc7b7:0xbd894f6af58da5b1"
+      },
+      {
+        "name": "places/ChIJt8e7NrwJBDQRsaWN9WpPib0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1bmI2bFp3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "裝修和室外環境不錯，食物比咖啡做得好，使用即棄餐具感覺有點浪費，價錢一般，員工頗為生手，一試無妨。\n\n查看本人的自我簡介有著數，祝生意興隆！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "裝修和室外環境不錯，食物比咖啡做得好，使用即棄餐具感覺有點浪費，價錢一般，員工頗為生手，一試無妨。\n\n查看本人的自我簡介有著數，祝生意興隆！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charles Lau",
+          "uri": "https://www.google.com/maps/contrib/108483198069233357760/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUABnZ_whVGTT3Dp5pFeJ9CA6ynKFUx4FcM0JrhxHSJQyI5lsung=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-01-15T07:17:33.485725Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1bmI2bFp3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1bmI2bFp3EAE!2m1!1s0x340409bc36bbc7b7:0xbd894f6af58da5b1"
+      },
+      {
+        "name": "places/ChIJt8e7NrwJBDQRsaWN9WpPib0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sWVYxVXpNMlZIZWxKd2NtTk1PVkpUVEV4MVowRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 1,
+        "text": {
+          "text": "卡邦尼意粉非常難食, 沒有醬汁 只有麵條,\n真的是一點味道也沒有\n服務也很一般, 比較不推薦呢!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "卡邦尼意粉非常難食, 沒有醬汁 只有麵條,\n真的是一點味道也沒有\n服務也很一般, 比較不推薦呢!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kimberley Szeto",
+          "uri": "https://www.google.com/maps/contrib/115176684084815798080/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWO_C8ypC2wEgu9ETRJNO115UmwEAjq3Zdqg1S4He8uh6opTCdU=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-24T12:23:13.905588611Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sWVYxVXpNMlZIZWxKd2NtTk1PVkpUVEV4MVowRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sWVYxVXpNMlZIZWxKd2NtTk1PVkpUVEV4MVowRRAB!2m1!1s0x340409bc36bbc7b7:0xbd894f6af58da5b1"
+      },
+      {
+        "name": "places/ChIJt8e7NrwJBDQRsaWN9WpPib0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1MUxhcllnEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "店舖位置有點隱蔽，對科學園不熟悉的，相信找到Smack的機會不大\n食物水準實在不俗，尤其喜歡三文治，味道相當驚喜，丈夫說咖啡也很具水準\n礙於位置跟店面偏小，實在浪費此優質小店",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店舖位置有點隱蔽，對科學園不熟悉的，相信找到Smack的機會不大\n食物水準實在不俗，尤其喜歡三文治，味道相當驚喜，丈夫說咖啡也很具水準\n礙於位置跟店面偏小，實在浪費此優質小店",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "奴才狗",
+          "uri": "https://www.google.com/maps/contrib/102571435990200792221/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHD-NA3a-JW1nxZIVRNslcLVCPxUrTdR12UQs_G-1TrpEm2U4SoA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-08-14T13:25:23.087942Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1MUxhcllnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1MUxhcllnEAE!2m1!1s0x340409bc36bbc7b7:0xbd894f6af58da5b1"
+      },
+      {
+        "name": "places/ChIJt8e7NrwJBDQRsaWN9WpPib0/reviews/ChdDSUhNMG9nS0VJQ0FnSURoMWFfQm1RRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "2023\n炎炎夏日應該又到啦～熱辣辣既時候最岩飲番一杯凍LATTE～\n呼....心情也變得輕鬆舒適，粗略看看午餐價錢也不貴，有空再試一試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2023\n炎炎夏日應該又到啦～熱辣辣既時候最岩飲番一杯凍LATTE～\n呼....心情也變得輕鬆舒適，粗略看看午餐價錢也不貴，有空再試一試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kc Kan (MRC)",
+          "uri": "https://www.google.com/maps/contrib/116255835636624521694/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5BAdDzpGe_ErYMznVDxXQria_hXSi--9wzwgqj0Pg2d96fb75=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-03-14T07:39:53.155973Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoMWFfQm1RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoMWFfQm1RRRAB!2m1!1s0x340409bc36bbc7b7:0xbd894f6af58da5b1"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340409bc36bbc7b7:0xbd894f6af58da5b1!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13657534665782568369&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409bc36bbc7b7:0xbd894f6af58da5b1!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340409bc36bbc7b7:0xbd894f6af58da5b1!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409bc36bbc7b7:0xbd894f6af58da5b1!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJt8e7NrwJBDQRsaWN9WpPib0/photos/Aa-ngMao0o1knIidpl-8ZLaUiGPDmWl9BMy6W2JGPnCnsCVeARfpN4NaCm21CzUEVoLhvo6ERREQBv6cdhyELTmnyrwwykVDTSbc7ItGHCqpA4-Fvljulm1t4HU3taq-f2aY20WXPWBG1ogIeTBmrRcNRwvXlV2ePNq4_8PM78eTIzQCRM8y1vCfOq10V4D26VcJKHwhM6BpdXFGeb3kLVF79pop5A1Q76sJ8zWAs56ZFBq7ASirbHcykXffUQbXsc_TmF-7ij9NyMG3OFaqrKeZRhaA7b_dPDplZ0xkxy9FRvQu24BFSsePaXfQfaT7a9zn1GvomwsYSnxKgCSETc5jrLwzFj97pEUEloNPGhuRUE9keVkAGjSUv8Itl5vImBPXs2ayMTn1r89CVc1KALecIYi1Yg",
+      "widthPx": 3489,
+      "heightPx": 2617,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhie6SDQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhie6SDQ!2e10!4m2!3m1!1s0x340409bc36bbc7b7:0xbd894f6af58da5b1"
+    },
+    "local_path": "photos/ChIJt8e7NrwJBDQRsaWN9WpPib0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJX2_LzSCX1FirMWGLykkTkdhVk_ny7FUAifMUhasBb6QmuoyEJBMvAdncif_gpRS--Fh4xWx3OK0gCNeA8IZmz_fvx1p1xqc58D9HFtQ4yQ_hBg6aV-Iu6qVYSiHZtqGA5HQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 152782
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

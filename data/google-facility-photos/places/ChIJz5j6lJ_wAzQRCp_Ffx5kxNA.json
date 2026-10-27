@@ -1,0 +1,42 @@
+{
+  "id": "ChIJz5j6lJ_wAzQRCp_Ffx5kxNA",
+  "types": [
+    "pharmacy",
+    "veterinary_care",
+    "pet_care",
+    "store",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界元朗民合徑8號幸福樓二期Shop 11, G/F",
+  "location": {
+    "latitude": 22.445152099999998,
+    "longitude": 114.0235567
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15043258737479753482&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "維多利寵物醫院",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJz5j6lJ_wAzQRCp_Ffx5kxNA/photos/Aa-ngMbPEufQip7KfoJ2KBJlgfHwpoA6h9Kd34CHNnNAjm7AVhQOK2lXs2rwDsHHJ_S0Wr71VY0UlvT6bvDse7CSFwmc3eVE2xMAjjZUjDDBKRnZWH8qlOw344WpINpdmIoFbyCyDvaJwBZeBS3aQ4c2C2EoVozPsiGWVzrgQOQpouSayNXpA1DtPDuB4ZLj1KZvVMrpWRGSshZwsqZnp4xt49UZCpX87Dk-J0GZFhxR0mKmksYc-ndVpYBm2QHU1AUl0P3vvlPZTW4MNci8xgP0eV56UKnAtWiqsemhkJS-jlISmUrWOcO8x7eXwfQemkS7_XebSnm99achhGdyyE1fUTZpyge190OMczi4ztMzw8AxqwZPRiiLR1okCmj9xZ8ampTwie7Rpayt4sREwQkMIO-CGifqlw5zKry4m7htR5ml",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "Victoria 24-Hr Veterinary Hospital 維多利24小時寵物醫院",
+          "uri": "https://maps.google.com/maps/contrib/102128439979973609626",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvPnA4y08KOzSwhcyfTRt7N3AcLA38gtenU8PVOJCSF7hXPw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAOithApOYygOYXRnpNHq7h&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAOithApOYygOYXRnpNHq7h!2e10!4m2!3m1!1s0x3403f09f94fa98cf:0xd0c4641e7fc59f0a"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:48.544776+00:00"
+}

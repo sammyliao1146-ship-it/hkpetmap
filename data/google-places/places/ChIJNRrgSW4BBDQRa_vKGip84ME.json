@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJNRrgSW4BBDQRa_vKGip84ME",
+  "restaurant_ids": [
+    "restaurant:2211810252"
+  ],
+  "fetched_at": "2026-10-23T15:44:22.692603+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJNRrgSW4BBDQRa_vKGip84ME",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2576 8989",
+    "internationalPhoneNumber": "+852 2576 8989",
+    "formattedAddress": "香港香港島北角渣華道123號北角匯二期地下G09號舖",
+    "location": {
+      "latitude": 22.2929525,
+      "longitude": 114.20087459999999
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=13970302564383259499&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/KayaDining",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 22:00",
+        "星期二: 11:00 – 22:00",
+        "星期三: 11:00 – 22:00",
+        "星期四: 11:00 – 22:00",
+        "星期五: 11:00 – 22:00",
+        "星期六: 11:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 278,
+    "displayName": {
+      "text": "咖吔 (北角店)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJNRrgSW4BBDQRa_vKGip84ME/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWR1RVNUlhVTU1VEhZdFZVUTJZV054UkZOdFNrRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳位於港島北角渣華道123號北角匯二期地下,餐廳裝修以木糸為主調,有東南亞色彩設計,窗外可欣賞海景,座位寬敞用新舒適,餐廳主打星加坡菜,服務員招呼主動有禮。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳位於港島北角渣華道123號北角匯二期地下,餐廳裝修以木糸為主調,有東南亞色彩設計,窗外可欣賞海景,座位寬敞用新舒適,餐廳主打星加坡菜,服務員招呼主動有禮。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Patrick DD",
+          "uri": "https://www.google.com/maps/contrib/109778822153680751266/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrHYuRaks-69x6c-1xdZZkHjUryQEl2DgVjE_xwtHvhll6Xg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-09-01T11:29:00.062840142Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWR1RVNUlhVTU1VEhZdFZVUTJZV054UkZOdFNrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWR1RVNUlhVTU1VEhZdFZVUTJZV054UkZOdFNrRRAB!2m1!1s0x3404016e49e01a35:0xc1e07c2a1acafb6b"
+      },
+      {
+        "name": "places/ChIJNRrgSW4BBDQRa_vKGip84ME/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KTU1qWlplVFpuUjAxVlVHbGthVWt4WXpkWVdGRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "今日到了咖哋(北角滙店)食中午、換了多款新菜單、白胡椒肉骨茶配油飯(好有胡椒味、仲有豬肚)好味、老街手工卷粉(好Q彈、够特別)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日到了咖哋(北角滙店)食中午、換了多款新菜單、白胡椒肉骨茶配油飯(好有胡椒味、仲有豬肚)好味、老街手工卷粉(好Q彈、够特別)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "FaiWong Choi",
+          "uri": "https://www.google.com/maps/contrib/110067252333780654968/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXS1BtF-ykAP3jNmChCT9lt2GrhDvFBUNaOzvUuJ49mFlgHcC10bw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-13T15:48:47.589726626Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KTU1qWlplVFpuUjAxVlVHbGthVWt4WXpkWVdGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KTU1qWlplVFpuUjAxVlVHbGthVWt4WXpkWVdGRRAB!2m1!1s0x3404016e49e01a35:0xc1e07c2a1acafb6b"
+      },
+      {
+        "name": "places/ChIJNRrgSW4BBDQRa_vKGip84ME/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkTVlVWjZhRUY1YlZkdVlVSlVka0paZW5kM2FHYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "📍咖吔 Kaya Singapore Casual Dining @kayadining\n\nseaview and promenade raise  standards for these Singapore flavours. can’t miss out the herbs and spices.\n\n北角匯二期地舖嘅獅城風味，裝修明亮，以綠同木系做主調🪵 外面有開揚海景 🌊\n\n🍜 Penang Stir Fried Silver Needle Noodle with Pork 檳城地道老鼠粉 $88\n“wok hei” showstopper! the silver needle noodles are evenly coated in rich, dark soy sauce. the staff even reminded us to be careful how sizzling it was.\n\n「鑊氣」代表作！銀針粉炒得乾身, 每條都沾滿濃濃嘅黑醬油 ⚫️ 有大牌檔嘅風味\n\n🍚 Stir Fried Galangal Pork Neck with Rice in Chicken Oil 南香汁炒豬頸肉配油香飯 $86\nThe pork neck was quite chewy to bite through. it was mildly sweet and spicy. the rice lacked fragrance and fell a little flat in texture.\n\n豬頸肉比較韌, 有啲難咬開 。帶少少甜同微辣，非常開胃。油香飯反而唔特別香, 口感有啲遜色\n\n￼📍咖吔 Kaya Singapore Casual Dining\n\n北角｜北角渣華道123號北角匯二期地下G09號舖\nShop G09, G/F, Harbour North Phase 2, 123 Java Road, North Point",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "📍咖吔 Kaya Singapore Casual Dining @kayadining\n\nseaview and promenade raise  standards for these Singapore flavours. can’t miss out the herbs and spices.\n\n北角匯二期地舖嘅獅城風味，裝修明亮，以綠同木系做主調🪵 外面有開揚海景 🌊\n\n🍜 Penang Stir Fried Silver Needle Noodle with Pork 檳城地道老鼠粉 $88\n“wok hei” showstopper! the silver needle noodles are evenly coated in rich, dark soy sauce. the staff even reminded us to be careful how sizzling it was.\n\n「鑊氣」代表作！銀針粉炒得乾身, 每條都沾滿濃濃嘅黑醬油 ⚫️ 有大牌檔嘅風味\n\n🍚 Stir Fried Galangal Pork Neck with Rice in Chicken Oil 南香汁炒豬頸肉配油香飯 $86\nThe pork neck was quite chewy to bite through. it was mildly sweet and spicy. the rice lacked fragrance and fell a little flat in texture.\n\n豬頸肉比較韌, 有啲難咬開 。帶少少甜同微辣，非常開胃。油香飯反而唔特別香, 口感有啲遜色\n\n￼📍咖吔 Kaya Singapore Casual Dining\n\n北角｜北角渣華道123號北角匯二期地下G09號舖\nShop G09, G/F, Harbour North Phase 2, 123 Java Road, North Point",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "HY",
+          "uri": "https://www.google.com/maps/contrib/113543377037415185005/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVAZzd1J3BeIefySYJAIMEpqPU2QlUkjGoY2dKKgEmudhed2EDBg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-12-21T10:19:14.741623318Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkTVlVWjZhRUY1YlZkdVlVSlVka0paZW5kM2FHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkTVlVWjZhRUY1YlZkdVlVSlVka0paZW5kM2FHYxAB!2m1!1s0x3404016e49e01a35:0xc1e07c2a1acafb6b"
+      },
+      {
+        "name": "places/ChIJNRrgSW4BBDQRa_vKGip84ME/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GTk1rUXdURGhrWVdWemRtdFFlRVV3WVZaR2EwRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "新加坡喇沙海南雞\n食物飲品特色出式\n出餐快捷又有溫度\n職員有禮地方淨潔\n限時優惠客似雲來",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "新加坡喇沙海南雞\n食物飲品特色出式\n出餐快捷又有溫度\n職員有禮地方淨潔\n限時優惠客似雲來",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "cora Lo",
+          "uri": "https://www.google.com/maps/contrib/108537741820414641010/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWO4P0b8IZvHodR6-pvVJIVNQ155Ol4oOXFYgW2EegTXcEU6ih_=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-05-13T08:05:48.188542655Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GTk1rUXdURGhrWVdWemRtdFFlRVV3WVZaR2EwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GTk1rUXdURGhrWVdWemRtdFFlRVV3WVZaR2EwRRAB!2m1!1s0x3404016e49e01a35:0xc1e07c2a1acafb6b"
+      },
+      {
+        "name": "places/ChIJNRrgSW4BBDQRa_vKGip84ME/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCVExYQkZlazB0ZFZWYVVrNHljM3BCWlU5RVFVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "咖吔主打新加坡、馬來西亞特色菜，菜單豐富多元，除了招牌海南雞飯外，還有喇沙、咖央多士、串燒拼盤等經典選擇。海南雞飯雞肉滑嫩，去骨比例高，油飯粒粒分明且油香突出，味道偏重但不膩喇沙湯底香料濃郁，層次豐富，粉面份量大，適合重口味食客。班蘭咖央多士外脆內軟，甜度適中，是亮點甜品。環境乾淨舒適，裝潢有南洋風格，座位安排合理，適合家庭及朋友聚餐。部分評論指部分菜式油份略多，老火湯偏咸，價格中等偏高但性價比仍然不錯。咖吔既保留傳統南洋風味，也融入現代特色，適合愛嘗新口味者",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "咖吔主打新加坡、馬來西亞特色菜，菜單豐富多元，除了招牌海南雞飯外，還有喇沙、咖央多士、串燒拼盤等經典選擇。海南雞飯雞肉滑嫩，去骨比例高，油飯粒粒分明且油香突出，味道偏重但不膩喇沙湯底香料濃郁，層次豐富，粉面份量大，適合重口味食客。班蘭咖央多士外脆內軟，甜度適中，是亮點甜品。環境乾淨舒適，裝潢有南洋風格，座位安排合理，適合家庭及朋友聚餐。部分評論指部分菜式油份略多，老火湯偏咸，價格中等偏高但性價比仍然不錯。咖吔既保留傳統南洋風味，也融入現代特色，適合愛嘗新口味者",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CO C",
+          "uri": "https://www.google.com/maps/contrib/105706575706669666203/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc0hqMFThis_ov8aUJvlmJoBOc5KHu9nTbESAJt8KRfR6zQdR4Mg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-09-18T11:22:59.939545243Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCVExYQkZlazB0ZFZWYVVrNHljM3BCWlU5RVFVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCVExYQkZlazB0ZFZWYVVrNHljM3BCWlU5RVFVRRAB!2m1!1s0x3404016e49e01a35:0xc1e07c2a1acafb6b"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidGarageParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404016e49e01a35:0xc1e07c2a1acafb6b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13970302564383259499&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404016e49e01a35:0xc1e07c2a1acafb6b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404016e49e01a35:0xc1e07c2a1acafb6b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404016e49e01a35:0xc1e07c2a1acafb6b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJNRrgSW4BBDQRa_vKGip84ME/photos/Aa-ngMbbqgqTTKfokhVnSphy3vcxDl_XKYWMf6ILn2LRNUKgh1Dvr4U8wrQcOY2ex9V9NggYe6_p1f7Ohl1PabRNmiDYG9HLofyqX9-64bgfEznxjEJxb3cGSwIj-_-sGLjK2zQwDJKkxLGknJVyKvS70Stl8ZoQDYoKIq1JYjDEs-aGM07ML9RCVxVjXRccHSFZV6j7TeMvmKDWfdOAvX_g2WBHczS4sb8MQMZ_qD-KPVhj7JEKzNm1jeY2465aPSjfMFkVrUhz2JiIGXt51soluYz33bvWVPGWEKOFjYQkxeWgMU4t8dSZPOFyLYHB6yj_XepAa2uTOBVWLxtjOdKdG_vHoPO7cb0fSnxVOWBwq1D-muuQNMTrhRUkfFB-I7Y2Fit2yWHgbogTTEjbGyDp-VrMXWfs",
+      "widthPx": 4624,
+      "heightPx": 3468,
+      "authorAttributions": [
+        {
+          "displayName": "tony kw lam",
+          "uri": "https://maps.google.com/maps/contrib/110906168903870983445",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUVHq0R1ddvi9kcJ1FEcti5xY-iI18-TxD_HS563vsInR3heC3eg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICegfe_7AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICegfe_7AE!2e10!4m2!3m1!1s0x3404016e49e01a35:0xc1e07c2a1acafb6b"
+    },
+    "local_path": "photos/ChIJNRrgSW4BBDQRa_vKGip84ME.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNX4ZoMnFIk6GJXyhCatyvpZ3dnz1WyDvEiUAvXnn3SYzqD8FP_Pyupo3RKBhhBcYfAI540mIaLYQSedwPNx1JSYbOCZOVOQrz6qIfFdNvijnsNadLhX_lyIrQxk7XGmr1pRrx=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 212807
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,327 @@
+{
+  "google_place_id": "ChIJA6jPagABBDQROri_9vpE1F4",
+  "restaurant_ids": [
+    "restaurant:2263809354"
+  ],
+  "fetched_at": "2026-10-23T15:45:58.217540+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJA6jPagABBDQROri_9vpE1F4",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2347 5298",
+    "internationalPhoneNumber": "+852 2347 5298",
+    "formattedAddress": "Shop 105, 1/F, SOHO West, 10 Lai Ying St, Cheung Sha Wan, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3268728,
+      "longitude": 114.14922329999999
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=6833162379300157498&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/brand/milk-cafe",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 21:00",
+        "星期二: 07:00 – 21:00",
+        "星期三: 07:00 – 21:00",
+        "星期四: 07:00 – 21:00",
+        "星期五: 07:00 – 21:00",
+        "星期六: 07:00 – 21:00",
+        "星期日: 07:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 35,
+    "displayName": {
+      "text": "牛奶冰室 (南昌)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJA6jPagABBDQROri_9vpE1F4/reviews/ChZDSUhNMG9nS0VJQ0FnSURiamNhWEF3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "位於本舍酒店小商場一樓。\n早餐人流多，\n中午過後，\n人流漸少。\n呢條荔盈街欠缺食肆，\n只要係不過不失，\n便是合理了。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於本舍酒店小商場一樓。\n早餐人流多，\n中午過後，\n人流漸少。\n呢條荔盈街欠缺食肆，\n只要係不過不失，\n便是合理了。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Flora MuSick",
+          "uri": "https://www.google.com/maps/contrib/117081011352242480349/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLzKnT4UUfl22u4URkxTLFUGQ2TP2TGsKNVjiTY-IdIsB-LqA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-08-20T17:19:49.788821Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURiamNhWEF3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiamNhWEF3EAE!2m1!1s0x340401006acfa803:0x5ed444faf6bfb83a"
+      },
+      {
+        "name": "places/ChIJA6jPagABBDQROri_9vpE1F4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tveldIRk9iVGhzV1VsUFpFUmFZVE5CUXpGRGJtYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "趕收工咁嘅款，仲有4，5檯客係度食緊飯，就熄曬d冷氣，熱到我邊食邊滴汗；最過分係拎埋漂白水出黎拖地，邊食飯邊聞到勁大陣漂白水，真係趕客，有危健康。其實想準時收工，你大可以提早15分鐘前截單，唔比人入，就不至於客人要有咁差嘅體驗。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "趕收工咁嘅款，仲有4，5檯客係度食緊飯，就熄曬d冷氣，熱到我邊食邊滴汗；最過分係拎埋漂白水出黎拖地，邊食飯邊聞到勁大陣漂白水，真係趕客，有危健康。其實想準時收工，你大可以提早15分鐘前截單，唔比人入，就不至於客人要有咁差嘅體驗。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cony Tse",
+          "uri": "https://www.google.com/maps/contrib/106863365802743145018/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7Gyj4qQJjsaHK_oih3dCsrch8QSD8bLGEAwBdYMo8dPxLiw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-22T13:27:04.803432662Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tveldIRk9iVGhzV1VsUFpFUmFZVE5CUXpGRGJtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tveldIRk9iVGhzV1VsUFpFUmFZVE5CUXpGRGJtYxAB!2m1!1s0x340401006acfa803:0x5ed444faf6bfb83a"
+      },
+      {
+        "name": "places/ChIJA6jPagABBDQROri_9vpE1F4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFeFIwWklYMW96UjFjMVYzZEhXbW81UjBzMFpWRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "午餐選擇多，揀左魚肉春卷魚湯米粉，魚肉春卷軟滑，但標榜嘅魚湯就無魚味。座位舒適，掃QR CODE 點餐，上菜都算快",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午餐選擇多，揀左魚肉春卷魚湯米粉，魚肉春卷軟滑，但標榜嘅魚湯就無魚味。座位舒適，掃QR CODE 點餐，上菜都算快",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cherie Cho",
+          "uri": "https://www.google.com/maps/contrib/113181853831768825245/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImLX92DBZMbzFeNuWrn4Y1OAd8wKDSjSmlutFdebGa5Swwzg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-06-26T11:58:51.215396950Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFeFIwWklYMW96UjFjMVYzZEhXbW81UjBzMFpWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFeFIwWklYMW96UjFjMVYzZEhXbW81UjBzMFpWRRAB!2m1!1s0x340401006acfa803:0x5ed444faf6bfb83a"
+      },
+      {
+        "name": "places/ChIJA6jPagABBDQROri_9vpE1F4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmdnBmaERREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "牛奶冰室是一間非常受歡迎的餐廳，他們的叉燒飯真的是一絕。每一片叉燒都烤得恰到好處，外皮香脆，內裡鮮嫩多汁，再配上濃郁的特製醬汁，讓人一試難忘。這道菜的確是牛奶冰室的招牌美食，都會特意來這裡品嚐。\n\n然而，相比之下，他們的焗飯表現相比上面個叉燒飯嚟講呢就顯得一般般唔太有驚喜了。焗飯的味道中規中矩，雖然份量足夠，但缺少了讓人驚喜的口感和味道。即使如此，這並不會影響這間餐廳的整體吸引力。 不過都係好食嘅只係唔surprise\n\n另外，牛奶冰室的咖啡也值得一試。咖啡香氣濃郁，口感順滑，既適合用餐後解腻，也適合午後小憩時享用。整體而言，牛奶冰室的環境舒適，是一個適合與家人朋友一起用餐的好地方。雖然焗飯稍顯平凡，但其他美食如叉燒飯和咖啡都能讓人滿足而歸。希望你有機會親自去try try一下！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "牛奶冰室是一間非常受歡迎的餐廳，他們的叉燒飯真的是一絕。每一片叉燒都烤得恰到好處，外皮香脆，內裡鮮嫩多汁，再配上濃郁的特製醬汁，讓人一試難忘。這道菜的確是牛奶冰室的招牌美食，都會特意來這裡品嚐。\n\n然而，相比之下，他們的焗飯表現相比上面個叉燒飯嚟講呢就顯得一般般唔太有驚喜了。焗飯的味道中規中矩，雖然份量足夠，但缺少了讓人驚喜的口感和味道。即使如此，這並不會影響這間餐廳的整體吸引力。 不過都係好食嘅只係唔surprise\n\n另外，牛奶冰室的咖啡也值得一試。咖啡香氣濃郁，口感順滑，既適合用餐後解腻，也適合午後小憩時享用。整體而言，牛奶冰室的環境舒適，是一個適合與家人朋友一起用餐的好地方。雖然焗飯稍顯平凡，但其他美食如叉燒飯和咖啡都能讓人滿足而歸。希望你有機會親自去try try一下！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CeSaRe CHEUNG",
+          "uri": "https://www.google.com/maps/contrib/111706467226945042668/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW64MhrwUCbGHRravH7eTfKps12itrieileR6XkeerwAGIydZN9=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-12-29T13:46:12.398562Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmdnBmaERREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmdnBmaERREAE!2m1!1s0x340401006acfa803:0x5ed444faf6bfb83a"
+      },
+      {
+        "name": "places/ChIJA6jPagABBDQROri_9vpE1F4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiM0xXcnRnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "位置於本舍旁邊，如果住在本舍，出門口1分鐘到達。\n\n本日晚上人流不算太多，容易找到位置食飯，侍應比旺區的有耐性。餐點味道不過不失，價格合理。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位置於本舍旁邊，如果住在本舍，出門口1分鐘到達。\n\n本日晚上人流不算太多，容易找到位置食飯，侍應比旺區的有耐性。餐點味道不過不失，價格合理。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dolores Leong",
+          "uri": "https://www.google.com/maps/contrib/112767308143682617356/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8LhLzc_FdI3Ls0Q6YqRIs-TU0pi9MKfg5xBkFm8IzdqkHj80G=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-07-24T14:39:56.069453Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiM0xXcnRnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiM0xXcnRnRRAB!2m1!1s0x340401006acfa803:0x5ed444faf6bfb83a"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401006acfa803:0x5ed444faf6bfb83a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6833162379300157498&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401006acfa803:0x5ed444faf6bfb83a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401006acfa803:0x5ed444faf6bfb83a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401006acfa803:0x5ed444faf6bfb83a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJA6jPagABBDQROri_9vpE1F4/photos/Aa-ngMYWzeeq-4r572fA4weZrNe3XTEq3yW-EyhgfkJA4G_0uU3m2ltB2hn2ZvZxsaBeMB38biSeF5008JORkrYDTxAl_O5PF5g8yMs9QZf2tmaQbACmeaeFXjroerbB3muEMUwJ1kjtcoWsXhiNe3nq59rIcg51JmgIQQ4sCCP9WqH_yEV6q4USnph-Tp1G6z5dLwLVY3CPfgLYRAcBT19AqTYbg3vXOQPB9-AEXDZTT4kGDUzMPU-wPS8Gl3rAjRBQ545qXBMgTkxyimJuqCrYNjmsBfVjg8y0QIX0Z7ADY0Q7QPWZoFbsMvdG5FzwOTV8hY4P-VtaWw-ZKYWSZ_RD8JQXluR1kv3M7yW1BfXEzKoIJS23PLDcZt-k0wpqsV74f6B8Znt8d6eHmFjBVuIkxAvxwwNBy2U",
+      "widthPx": 4000,
+      "heightPx": 1868,
+      "authorAttributions": [
+        {
+          "displayName": "AL",
+          "uri": "https://maps.google.com/maps/contrib/115805085789118187114",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5WHPQvNprqJM2ut3IWIy3KPYsEL-C8bkEpUD2BDq64fuzHA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDz552kyQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz552kyQE!2e10!4m2!3m1!1s0x340401006acfa803:0x5ed444faf6bfb83a"
+    },
+    "local_path": "photos/ChIJA6jPagABBDQROri_9vpE1F4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHp67Ev3VTmpxhXTMmJ0EjEpEMDzCKP5JsoTvcyYlxAaU1VkSsPcSlyfShr3-ERTzrNSAyuZEE6qbm1KuWHkU8HumNSv5l9oP6eenq5oIYOtTjBbH-1-eibmjrK8VqaOtJAoY1sw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 127769
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

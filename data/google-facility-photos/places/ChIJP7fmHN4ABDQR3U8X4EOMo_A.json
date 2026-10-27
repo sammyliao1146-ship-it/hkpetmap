@@ -1,0 +1,44 @@
+{
+  "id": "ChIJP7fmHN4ABDQR3U8X4EOMo_A",
+  "types": [
+    "amusement_park",
+    "swimming_pool",
+    "pet_boarding_service",
+    "pet_care",
+    "spa",
+    "sports_activity_location",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界元朗八鄉粉錦公路 打石湖 60 號",
+  "location": {
+    "latitude": 22.4616907,
+    "longitude": 114.10492649999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17339857213456863197&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "寵物新天地 香港狗公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJP7fmHN4ABDQR3U8X4EOMo_A/photos/Aa-ngMap4YaZRrIGeGdOuQzUHqmWqSXX4v8k2jhwvMr0MFqI2qSpCOPGCw5RIvxUI2-9KiJs9BNI9BWWA59Nfce5eZHLkfs6IYddCkJiWDpntndR7uEutm7K2iK-pUcK6lVHC333detkiQ6Dkuf_amJs81YnhQIhZeXRA0hSgQaAuhGqDG_M7GS5gzhNI9uCWml99JqpuXCsLfPNBTIghPtX6C0KyT8_uYugPPMeXeU9DFZ6uZ0H3v6xSlQjIIExmuGNhxZEMwnkLjsgU9MUXdi3q4d25ym-mQQ0TXm0PVlmRcNeYGmAeOm08ZPqP-DR-I1staBgX2M8GxCRY3SvL2Mn3mTLD41cRcBcFyMm8hwdPRQKS_5YIwo67FbhYLvGqUnB8r5FjpCksu2cUDDptYoEBuRdzqWXGzxDiwt7osrwHD-jPg",
+      "widthPx": 1536,
+      "heightPx": 2048,
+      "authorAttributions": [
+        {
+          "displayName": "Jayla F",
+          "uri": "https://maps.google.com/maps/contrib/113018874978892032114",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGSWlokaoWwRwCijKGUJ7knb1OQc0xD8a0daffFSxhYKzw-qSg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCNMOJT9tlHf2o-syQo5G1C&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCNMOJT9tlHf2o-syQo5G1C!2e10!4m2!3m1!1s0x340400de1ce6b73f:0xf0a38c43e0174fdd"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:07.276308+00:00"
+}

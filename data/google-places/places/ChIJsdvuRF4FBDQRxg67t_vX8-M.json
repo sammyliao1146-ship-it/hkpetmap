@@ -1,0 +1,331 @@
+{
+  "google_place_id": "ChIJsdvuRF4FBDQRxg67t_vX8-M",
+  "restaurant_ids": [
+    "restaurant:2298804627"
+  ],
+  "fetched_at": "2026-10-23T15:45:01.378652+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJsdvuRF4FBDQRxg67t_vX8-M",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9801 3537",
+    "internationalPhoneNumber": "+852 9801 3537",
+    "formattedAddress": "G/F, 20 Wan King Path, Sai Kung, New Territories, 香港",
+    "location": {
+      "latitude": 22.3810136,
+      "longitude": 114.27182160000001
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=16425709742069583558&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 1
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 1
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 1
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 1
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 1
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 1
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 1
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:30 – 23:01",
+        "星期二: 10:30 – 23:01",
+        "星期三: 10:30 – 23:01",
+        "星期四: 10:30 – 23:01",
+        "星期五: 10:30 – 23:01",
+        "星期六: 10:00 – 23:01",
+        "星期日: 10:00 – 23:01"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 164,
+    "displayName": {
+      "text": "La Verde",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJsdvuRF4FBDQRxg67t_vX8-M/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBNXZ2WV9RRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "服務員的態度優雅親切，令人印象深刻；餐點食材新鮮，味道出色。我們品嚐了一杯的cappuccino，口感濃郁，令人回味。更令人驚喜的是，他們慷慨地送上一份甜點，使用餐體驗更加完美。\n這裡絕對是與朋友聚會聊天的最佳去處，必會再次光臨。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務員的態度優雅親切，令人印象深刻；餐點食材新鮮，味道出色。我們品嚐了一杯的cappuccino，口感濃郁，令人回味。更令人驚喜的是，他們慷慨地送上一份甜點，使用餐體驗更加完美。\n這裡絕對是與朋友聚會聊天的最佳去處，必會再次光臨。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cara Ma",
+          "uri": "https://www.google.com/maps/contrib/113862056192512932700/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK1LLXhAZCzUuy3SnDYi9rUUCpX4J3I_1q5sZbbDDS54FaBHA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-01-31T13:51:44.467444Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBNXZ2WV9RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBNXZ2WV9RRRAB!2m1!1s0x3404055e44eedbb1:0xe3f3d7fbb7bb0ec6"
+      },
+      {
+        "name": "places/ChIJsdvuRF4FBDQRxg67t_vX8-M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYcmFxSmhnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "見google map 這間評分不錯，於是入去叫了個set lunch，性價比都算高和份量足夠，下次會再去幫襯試其他~而且餐廳有畫筆畫紙可給小朋友畫畫,都算體貼細心~",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "見google map 這間評分不錯，於是入去叫了個set lunch，性價比都算高和份量足夠，下次會再去幫襯試其他~而且餐廳有畫筆畫紙可給小朋友畫畫,都算體貼細心~",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chris Chan",
+          "uri": "https://www.google.com/maps/contrib/105093553155214832470/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0YPOvmbkPUkD3dlr6scQ4ei5Opqfwdfq6of9iUEiB9qX0rw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-10-19T10:57:15.890106Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYcmFxSmhnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYcmFxSmhnRRAB!2m1!1s0x3404055e44eedbb1:0xe3f3d7fbb7bb0ec6"
+      },
+      {
+        "name": "places/ChIJsdvuRF4FBDQRxg67t_vX8-M/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0cHJDbHN3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "價錢相宜嘅午餐，仲要有四個選擇，試咗兩個，味道相當唔錯！可以一試再試",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "價錢相宜嘅午餐，仲要有四個選擇，試咗兩個，味道相當唔錯！可以一試再試",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Holland On",
+          "uri": "https://www.google.com/maps/contrib/118115784041910614527/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_Hdg7lEYtgvLeJzlGWCuAFmSvducCamRSfLIpNo-zf-ogS92wAQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-01-30T05:41:16.872758Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN0cHJDbHN3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN0cHJDbHN3RRAB!2m1!1s0x3404055e44eedbb1:0xe3f3d7fbb7bb0ec6"
+      },
+      {
+        "name": "places/ChIJsdvuRF4FBDQRxg67t_vX8-M/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvcXJxSU5nEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "環境好好既西餐廳\n\n晨早起床清新開朗😊星期日既早上就同朋友們去左西貢行山😙今日天氣好好😌有太陽之餘，仲有風又乾爽😀所以心情都好啲🤣咁行完山咁肚餓當然要去搵下食啦😊呢個位置有一行既西餐，最後點解揀左呢間係因為有個店員好主動招呼我地又介紹野食比我地😚\n\n😋Crab Bisque\n好濃郁既蟹味🦀湯入面仲有蟹肉添喎🤭湯入面個底係番茄🍅但係蕃茄同蟹味係一半一半😉冇搶左大家既風頭😊\n\n😋chicken wings\n呢個小食有驚喜呀😚單骨雞翼但有成8隻咁多😙啖啖肉點埋個泰式辣醬 正🤞🏻\n\n😋Ribeye Steak\n要讚下個薯蓉係好滑既🥔\n\n😋banana chocolate cake\n個蛋糕🍰好鬆軟有淡淡既香蕉🍌同朱古力🍫味😊唔太甜\n\n呢個套餐算抵食😊有咁多野食，其實除左牛排仲有pizza同pasta可以揀架🥰\n\n舔舔脷指數👉🏻5😋/10😋滿分 可以一試😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境好好既西餐廳\n\n晨早起床清新開朗😊星期日既早上就同朋友們去左西貢行山😙今日天氣好好😌有太陽之餘，仲有風又乾爽😀所以心情都好啲🤣咁行完山咁肚餓當然要去搵下食啦😊呢個位置有一行既西餐，最後點解揀左呢間係因為有個店員好主動招呼我地又介紹野食比我地😚\n\n😋Crab Bisque\n好濃郁既蟹味🦀湯入面仲有蟹肉添喎🤭湯入面個底係番茄🍅但係蕃茄同蟹味係一半一半😉冇搶左大家既風頭😊\n\n😋chicken wings\n呢個小食有驚喜呀😚單骨雞翼但有成8隻咁多😙啖啖肉點埋個泰式辣醬 正🤞🏻\n\n😋Ribeye Steak\n要讚下個薯蓉係好滑既🥔\n\n😋banana chocolate cake\n個蛋糕🍰好鬆軟有淡淡既香蕉🍌同朱古力🍫味😊唔太甜\n\n呢個套餐算抵食😊有咁多野食，其實除左牛排仲有pizza同pasta可以揀架🥰\n\n舔舔脷指數👉🏻5😋/10😋滿分 可以一試😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "odelectableo",
+          "uri": "https://www.google.com/maps/contrib/113300085220380613918/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVniY2fxyuw5t2blkhygbmBI4gmPlRg3pr9j3mNDzzLFZCY7U=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-04-16T09:10:03.006061Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvcXJxSU5nEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvcXJxSU5nEAE!2m1!1s0x3404055e44eedbb1:0xe3f3d7fbb7bb0ec6"
+      },
+      {
+        "name": "places/ChIJsdvuRF4FBDQRxg67t_vX8-M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xocFMwaEdibmRWWTJaaVRGTjRaR3RUWVZGa1RHYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐點🥘很到地，非常好吃😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐點🥘很到地，非常好吃😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "鍾宇明",
+          "uri": "https://www.google.com/maps/contrib/112339612352151595974/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYV-1LxDKq62JDxcFlHq3izdJCUifgG-2w2qhZlH_wt7vlY8KWIQ=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-10-30T04:07:11.441981069Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xocFMwaEdibmRWWTJaaVRGTjRaR3RUWVZGa1RHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xocFMwaEdibmRWWTJaaVRGTjRaR3RUWVZGa1RHYxAB!2m1!1s0x3404055e44eedbb1:0xe3f3d7fbb7bb0ec6"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404055e44eedbb1:0xe3f3d7fbb7bb0ec6!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16425709742069583558&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404055e44eedbb1:0xe3f3d7fbb7bb0ec6!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404055e44eedbb1:0xe3f3d7fbb7bb0ec6!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404055e44eedbb1:0xe3f3d7fbb7bb0ec6!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "450"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJsdvuRF4FBDQRxg67t_vX8-M/photos/Aa-ngMb_To2jYpX2oozUkuZoRVaSZIhGy1PUWe5WLK3D9hU9gqvJdrnV5xnn8AWUUsmdnJbm8hp9wJymy0HnzVNwbSer89eZBu5rCdKDoCk0XZVjEpNrlWwo-OOzpe7YhfsS4Ws5C87UjbEfbPvijcdLzODkjNJcL0WzFV-6MxlWVMsJhLyzIOSK5nZjOgRS1NzOdK-U-sNMM0i23wQdnvjGPsnfkR0VN6QNRRvz7OONRqB6jxHxgqZho7mZiaGGfZ_6fEZOF7UvSHVXgDFYuJ9-y0HRdjHJf0JqLxBupVDxNREJlBXMVMhwZNV1rLs0Iq9JYsuXRDE5NFTy8pRypoEqgpTpg96yBwhSW77er44H4CV_nF6AxorCFtZXYSaXraeTJe0-BDCWpXzFem1zARY_rjMkic-lkjK-zNuSk5jzktew",
+      "widthPx": 1414,
+      "heightPx": 2000,
+      "authorAttributions": [
+        {
+          "displayName": "La Verde",
+          "uri": "https://maps.google.com/maps/contrib/114397906917785666567",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIzU2CwDVaaPe50Fp7U63C-vR72NrKl1cxIcpiGZI0SLqGHkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBqhEV2NgMspcJ_mFxL0VuY&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBqhEV2NgMspcJ_mFxL0VuY!2e10!4m2!3m1!1s0x3404055e44eedbb1:0xe3f3d7fbb7bb0ec6"
+    },
+    "local_path": "photos/ChIJsdvuRF4FBDQRxg67t_vX8-M.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLftNdcqeZHvNpKBhR-VvUEC1jaZG1n53OIPb6yg5z0BJxXFcairVeMrD3PL9D2e9r1RYxdsExcbZ7EhElejQMcyLbAARPJXVrl94vY_wYvYTeLNd_qllVC4p_-xq7-OJx2asPOBE1NNQbs=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 181447
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

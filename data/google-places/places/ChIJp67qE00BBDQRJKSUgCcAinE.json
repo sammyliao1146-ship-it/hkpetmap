@@ -1,0 +1,332 @@
+{
+  "google_place_id": "ChIJp67qE00BBDQRJKSUgCcAinE",
+  "restaurant_ids": [
+    "restaurant:2261821428"
+  ],
+  "fetched_at": "2026-10-23T15:41:25.720851+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJp67qE00BBDQRJKSUgCcAinE",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9072 0015",
+    "internationalPhoneNumber": "+852 9072 0015",
+    "formattedAddress": "香港九龍尖沙咀梳士巴利道18號K11 MUSEA4樓406號鋪",
+    "location": {
+      "latitude": 22.293965,
+      "longitude": 114.17271079999999
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=8181351842732876836&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://gaiagroup.com.hk/restaurant/aoi-by-kaiyo-%EF%BC%88coming-soon/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 23:00",
+        "星期二: 11:00 – 23:00",
+        "星期三: 11:00 – 23:00",
+        "星期四: 11:00 – 23:00",
+        "星期五: 11:00 – 23:00",
+        "星期六: 11:00 – 23:00",
+        "星期日: 11:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 66,
+    "displayName": {
+      "text": "AOI by KAIYŌ",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": false,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJp67qE00BBDQRJKSUgCcAinE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKbU9VOHRVRlJqUTNwSVJXZHZSbVY2TFdkWU5FRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "經常在K11搵食、開始唔知食咩好、見到呢間新開入去試試、都唔錯、好好味、食材新鮮、食日本嘢最重要食材、招呼又好、",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "經常在K11搵食、開始唔知食咩好、見到呢間新開入去試試、都唔錯、好好味、食材新鮮、食日本嘢最重要食材、招呼又好、",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ben Smith",
+          "uri": "https://www.google.com/maps/contrib/116905451920943742526/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLcc-hSM64Z0Ox9AyHd8qmEmq_aWG2vrBajJwrod98ZzHUDhg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-08-28T04:07:51.779082912Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKbU9VOHRVRlJqUTNwSVJXZHZSbVY2TFdkWU5FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKbU9VOHRVRlJqUTNwSVJXZHZSbVY2TFdkWU5FRRAB!2m1!1s0x3404014d13eaaea7:0x718a00278094a424"
+      },
+      {
+        "name": "places/ChIJp67qE00BBDQRJKSUgCcAinE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kMFVuVTNUbXN6VW0xdE1EbFpUelZmVGpkSGMyYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "朋友介紹，昨天去試食。鵝肝，刺身水準之作😍\n還有三款焗美味生蠔😙",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友介紹，昨天去試食。鵝肝，刺身水準之作😍\n還有三款焗美味生蠔😙",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lee vanessa",
+          "uri": "https://www.google.com/maps/contrib/111435380530719136837/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ4HPAOg3pQKJ8sRH8bfcp0Kr4KE2NvDYK_-AtAHFoid6sevQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-26T06:29:53.738969553Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kMFVuVTNUbXN6VW0xdE1EbFpUelZmVGpkSGMyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kMFVuVTNUbXN6VW0xdE1EbFpUelZmVGpkSGMyYxAB!2m1!1s0x3404014d13eaaea7:0x718a00278094a424"
+      },
+      {
+        "name": "places/ChIJp67qE00BBDQRJKSUgCcAinE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvd1dFaDZhSEl3TlhnMFYwcHZjV2hZWjJkNFprRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "昨晚和一班朋友到AOI by Kaiyo食晚飯，點了壽喜燒，生蠔，魚生，斧飯，壽司。最喜歡三重奏壽司，尤其鵝肝壽司，鵝肝沾上脆香焦糖，散發鵝肝回味甘香，還有鰻魚鵝肝紫菜卷，對於喜愛鵝肝的我，這晚真的大滿足。極力推薦。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "昨晚和一班朋友到AOI by Kaiyo食晚飯，點了壽喜燒，生蠔，魚生，斧飯，壽司。最喜歡三重奏壽司，尤其鵝肝壽司，鵝肝沾上脆香焦糖，散發鵝肝回味甘香，還有鰻魚鵝肝紫菜卷，對於喜愛鵝肝的我，這晚真的大滿足。極力推薦。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Purple",
+          "uri": "https://www.google.com/maps/contrib/113530040204311340121/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLOsJxz0MuanoWexIhiGGgmqy7p2AXEyJcRGl7AkB0u4K7YsA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-26T06:37:02.132620177Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvd1dFaDZhSEl3TlhnMFYwcHZjV2hZWjJkNFprRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvd1dFaDZhSEl3TlhnMFYwcHZjV2hZWjJkNFprRRAB!2m1!1s0x3404014d13eaaea7:0x718a00278094a424"
+      },
+      {
+        "name": "places/ChIJp67qE00BBDQRJKSUgCcAinE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGM1VtZENTSEZvU25aaFRIZG9ZVTFKTjNSMVFWRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "依間鋪頭有好多唔同款式既日本野食可以簡。我地今次主要試左佢地個魚子醬同埋丼飯。啲食物真係整得幾精緻，個 魚子醬連埋啲木盒擺得好靚，另外個豚肉丼加埋隻生蛋黃都好吸引，朋友個吉列豬扒飯都好足料。\n不過可能因為真係岩岩新開，上菜都真係等左一陣先齊，始終新鋪頭。\n總括黎講，野食質素係好OK既, 同班朋友應該會再泥食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "依間鋪頭有好多唔同款式既日本野食可以簡。我地今次主要試左佢地個魚子醬同埋丼飯。啲食物真係整得幾精緻，個 魚子醬連埋啲木盒擺得好靚，另外個豚肉丼加埋隻生蛋黃都好吸引，朋友個吉列豬扒飯都好足料。\n不過可能因為真係岩岩新開，上菜都真係等左一陣先齊，始終新鋪頭。\n總括黎講，野食質素係好OK既, 同班朋友應該會再泥食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "man chan",
+          "uri": "https://www.google.com/maps/contrib/116666404781863643497/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKf4sfnJXZPxHKEJvTPdP4EE0XRayP4bG6q0x2HJgONLMVquA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-26T02:31:51.210425450Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGM1VtZENTSEZvU25aaFRIZG9ZVTFKTjNSMVFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGM1VtZENTSEZvU25aaFRIZG9ZVTFKTjNSMVFWRRAB!2m1!1s0x3404014d13eaaea7:0x718a00278094a424"
+      },
+      {
+        "name": "places/ChIJp67qE00BBDQRJKSUgCcAinE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KWU9WSlVTV3RKYVZjeFVHaEdXbWhmZVROblVHYxAB",
+        "relativePublishTimeDescription": "本週",
+        "rating": 5,
+        "text": {
+          "text": "✨選料上乘  尖沙咀全新現代年青居酒屋🆕\n\n位於尖沙咀嘅🌟AOI by KAIYŌ🌟，係一家🆕剛開業不久嘅日式料理店🇯🇵！餐廳選料上乘，設計富年青嘅現代感✨！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "✨選料上乘  尖沙咀全新現代年青居酒屋🆕\n\n位於尖沙咀嘅🌟AOI by KAIYŌ🌟，係一家🆕剛開業不久嘅日式料理店🇯🇵！餐廳選料上乘，設計富年青嘅現代感✨！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodie Yvonne",
+          "uri": "https://www.google.com/maps/contrib/114136393125813052470/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICxHVxrY_PIDixQDVhm8jZKZRYxazMnm7C6Sg1SBguxkjuww=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-10-23T13:20:04.773069996Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KWU9WSlVTV3RKYVZjeFVHaEdXbWhmZVROblVHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KWU9WSlVTV3RKYVZjeFVHaEdXbWhmZVROblVHYxAB!2m1!1s0x3404014d13eaaea7:0x718a00278094a424"
+      }
+    ],
+    "servesDessert": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404014d13eaaea7:0x718a00278094a424!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8181351842732876836&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014d13eaaea7:0x718a00278094a424!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404014d13eaaea7:0x718a00278094a424!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014d13eaaea7:0x718a00278094a424!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJp67qE00BBDQRJKSUgCcAinE/photos/Aa-ngMar2pAjAZikI2oX4cLlfob9Ud3BgLMRITRtjV4V2p495ZH84IvYbpxXfk61m479Zjv-T09bamYC_zJwPFIC-dpqYRAVJmVBEapCgM5lqgo3xmlUCFJSfuqPK8c-osSsErha6fLHcQmNmfkEm0CJOGv9g6l9LX6k4kcgVE-U0jTb_he8yDviJGqy7plVKRtVYr0TaWCmdccTCwo0iuCVmJUb2NKw13xoQrSNohT_Hn98bC2x_GXpNwb7BruOBjXWHy_A04gAFzpLJNKgIOuZCrRnuXPmw3wmAg72YC9i-_1mcApGCXMw6IloDAaTyETVvsDNOLmtQ-o-_dBSgCUBhqNCiPSw_Vpoiruh36NxHe05mIAxmznT_gnX1txn2OvstuODvec6YyS-ToHNr-4HrnXN65QZiGvKmqybTW36PkdBUg",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "AOI by KAIYŌ",
+          "uri": "https://maps.google.com/maps/contrib/113760771764633612592",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtI_Tm7WNNU5K9pdFfHnQv5RuK_rC8z9kGA-PzIdRztmtCD_c=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAU-7qmzqv4CwN_6IMOfFPV&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAU-7qmzqv4CwN_6IMOfFPV!2e10!4m2!3m1!1s0x3404014d13eaaea7:0x718a00278094a424"
+    },
+    "local_path": "photos/ChIJp67qE00BBDQRJKSUgCcAinE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLerLMiY4Hh_8MNMPgOYcprcf4mez-hzOrOvM-szzy_1Dt-Ih2-kADYvG_AauwDUm0B_um7H7Z3s7JYc7gNjtdFWlAr9KsXTqPQwTHnxu6jjLANcUaSMXHriMCtc93nH0zVbmT1EVblLFfYN=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 137788
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://inline.app/groups/gaiagroup?utm=website",
+        "label": "Reservation",
+        "source_url": "https://gaiagroup.com.hk/restaurant/aoi-by-kaiyo/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://inline.app/booking/-OznXEc5ghw67A0audyW:inline-live-4/-OznXGNtmZvbRuBQiYo9",
+        "label": "Reserve now",
+        "source_url": "https://gaiagroup.com.hk/restaurant/aoi-by-kaiyo/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2026/08/AOI_260013_wine-menu_v2-copy.pdf",
+        "label": "Wine Menu",
+        "source_url": "https://gaiagroup.com.hk/restaurant/aoi-by-kaiyo/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://inline.app/groups/gaiagroup?utm=website",
+  "menu_url": "https://gaiagroup.com.hk/wp-content/uploads/2026/08/AOI_260013_wine-menu_v2-copy.pdf"
+}

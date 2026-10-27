@@ -1,0 +1,312 @@
+{
+  "google_place_id": "ChIJiYTPrjqrBjQRpHQ3VvUvZww",
+  "restaurant_ids": [
+    "restaurant:2215801915"
+  ],
+  "fetched_at": "2026-10-23T15:52:31.403444+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJiYTPrjqrBjQRpHQ3VvUvZww",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港香港島赤柱赤柱大街90B號",
+    "location": {
+      "latitude": 22.218795399999998,
+      "longitude": 114.21105089999999
+    },
+    "rating": 2.6,
+    "googleMapsUri": "https://maps.google.com/?cid=893735781816300708&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:30 – 19:00",
+        "星期二: 10:30 – 19:00",
+        "星期三: 10:30 – 19:00",
+        "星期四: 10:30 – 19:00",
+        "星期五: 10:30 – 19:00",
+        "星期六: 10:30 – 19:30",
+        "星期日: 10:30 – 19:30"
+      ],
+      "nextOpenTime": "2026-10-24T02:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 104,
+    "displayName": {
+      "text": "Zola Beach Bar",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesVegetarianFood": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJiYTPrjqrBjQRpHQ3VvUvZww/reviews/Ci9DQUlRQUNvZENodHljRjlvT214NWNGcDJiM2h6ZFZveFFsQjJSVkprYkdsWGNuYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 2,
+        "text": {
+          "text": "和牛漢堡的牛是凍的， 粟米片不脆了，生蠔亦不肥美，基本的食物也處理不好，亦配不上收費的價錢。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "和牛漢堡的牛是凍的， 粟米片不脆了，生蠔亦不肥美，基本的食物也處理不好，亦配不上收費的價錢。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Long Tsang",
+          "uri": "https://www.google.com/maps/contrib/102600733437748810126/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLmt3sNKbjHQitwcVdjJAgMQcj7E-rVgmHV8KrKavy3XtMdXg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-25T11:51:44.498160512Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214NWNGcDJiM2h6ZFZveFFsQjJSVkprYkdsWGNuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214NWNGcDJiM2h6ZFZveFFsQjJSVkprYkdsWGNuYxAB!2m1!1s0x3406ab3aaecf8489:0xc672ff5563774a4"
+      },
+      {
+        "name": "places/ChIJiYTPrjqrBjQRpHQ3VvUvZww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSNldsQmpUVlZYVUVGMFkzazVXREJ1VEY5cFltYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 4,
+        "text": {
+          "text": "今日去了赤柱(半日遊)到了ZolaBeachBar 食中午點了牛油果蝦煙肉三文魚沙律、牛油果安格斯漢堡、2個餐都好食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日去了赤柱(半日遊)到了ZolaBeachBar 食中午點了牛油果蝦煙肉三文魚沙律、牛油果安格斯漢堡、2個餐都好食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "FaiWong Choi",
+          "uri": "https://www.google.com/maps/contrib/110067252333780654968/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXS1BtF-ykAP3jNmChCT9lt2GrhDvFBUNaOzvUuJ49mFlgHcC10bw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-11-18T14:53:42.866254414Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSNldsQmpUVlZYVUVGMFkzazVXREJ1VEY5cFltYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSNldsQmpUVlZYVUVGMFkzazVXREJ1VEY5cFltYxAB!2m1!1s0x3406ab3aaecf8489:0xc672ff5563774a4"
+      },
+      {
+        "name": "places/ChIJiYTPrjqrBjQRpHQ3VvUvZww/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kWmVDMVVOMU5EV0dKUk5YaDJVa2swUWtkeFJrRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 1,
+        "text": {
+          "text": "叫咗份Chicken Parmesan (menu寫係雞胸肉$198）啲雞柴到老過我啊婆 冇汁冇味 個青草醬零味 聖誕節走入呢間餐廳係我2025年最大錯誤 被$98/6隻生蠔吸引入去 結果食曬全部野份蠔都未到…\n另外仲叫咗份黑松露軟殼蟹意粉 啲意粉碎到好似炒米粉咁碎 又係冇味嘅\n六隻雞翼$108，佢聲稱有三隻味，除咗水牛城，其他真係分唔出乜味，啲油多到可以攞嚟沖涼！\n拍拖想分手就入去啦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "叫咗份Chicken Parmesan (menu寫係雞胸肉$198）啲雞柴到老過我啊婆 冇汁冇味 個青草醬零味 聖誕節走入呢間餐廳係我2025年最大錯誤 被$98/6隻生蠔吸引入去 結果食曬全部野份蠔都未到…\n另外仲叫咗份黑松露軟殼蟹意粉 啲意粉碎到好似炒米粉咁碎 又係冇味嘅\n六隻雞翼$108，佢聲稱有三隻味，除咗水牛城，其他真係分唔出乜味，啲油多到可以攞嚟沖涼！\n拍拖想分手就入去啦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hiu Lam Mung",
+          "uri": "https://www.google.com/maps/contrib/102824888055327924692/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIT-FzcYCcrQtdc8sreqae1Jv0STvJl0he6FsoMiyebVUeXuw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-12-25T16:28:56.439450069Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kWmVDMVVOMU5EV0dKUk5YaDJVa2swUWtkeFJrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kWmVDMVVOMU5EV0dKUk5YaDJVa2swUWtkeFJrRRAB!2m1!1s0x3406ab3aaecf8489:0xc672ff5563774a4"
+      },
+      {
+        "name": "places/ChIJiYTPrjqrBjQRpHQ3VvUvZww/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxaXQtYzVnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "以為是cali-mex, 看信用卡帳單才知是新店叫Zola。聖誕節去食，人唔算多，但服務態度已經好差，加單一次已經嫌我地煩，食物質素仲差，98蚊個肉醬薯條，超細份不突止，肉醬好似冇咁，炸魷魚圈硬到乜咁（無影相），意粉都係非常業餘既水準，完全唔值2百蚊。食完2天後得了腸胃炎，感覺都係呢到中招，呢間野唔會再有下次。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "以為是cali-mex, 看信用卡帳單才知是新店叫Zola。聖誕節去食，人唔算多，但服務態度已經好差，加單一次已經嫌我地煩，食物質素仲差，98蚊個肉醬薯條，超細份不突止，肉醬好似冇咁，炸魷魚圈硬到乜咁（無影相），意粉都係非常業餘既水準，完全唔值2百蚊。食完2天後得了腸胃炎，感覺都係呢到中招，呢間野唔會再有下次。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ka Keung Kwok",
+          "uri": "https://www.google.com/maps/contrib/100259989679361150498/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKBcczYbra4nXYC34lO5Ovbmmov93Fxp1VmrQKkuBaJ66MlHQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-12-27T11:24:11.479687Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxaXQtYzVnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxaXQtYzVnRRAB!2m1!1s0x3406ab3aaecf8489:0xc672ff5563774a4"
+      },
+      {
+        "name": "places/ChIJiYTPrjqrBjQRpHQ3VvUvZww/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KWVJEZEpjVE5IZGpKSlV6VlZaSGhSWlRCTFFtYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 1,
+        "text": {
+          "text": "惡劣 唔好見佢方便同好似有啲人就黎\n\n千祈唔好入黎\n中大伏\n硬難食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "惡劣 唔好見佢方便同好似有啲人就黎\n\n千祈唔好入黎\n中大伏\n硬難食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "22kk",
+          "uri": "https://www.google.com/maps/contrib/110924971940830255556/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK27iYvIFMIfChwTt_qzeSl5pjIC04blJhknAcVUT_TqrFrog=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-12-25T12:45:52.700307325Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KWVJEZEpjVE5IZGpKSlV6VlZaSGhSWlRCTFFtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KWVJEZEpjVE5IZGpKSlV6VlZaSGhSWlRCTFFtYxAB!2m1!1s0x3406ab3aaecf8489:0xc672ff5563774a4"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3406ab3aaecf8489:0xc672ff5563774a4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=893735781816300708&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3406ab3aaecf8489:0xc672ff5563774a4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3406ab3aaecf8489:0xc672ff5563774a4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3406ab3aaecf8489:0xc672ff5563774a4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "450"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJiYTPrjqrBjQRpHQ3VvUvZww/photos/Aa-ngMYRQhcwnrTYCJHes3KB3oUfG1j31RLlSodULxATsnna-SDQGFSA5sIk8oIEhejtGCUMjEyUHCFvqNyKIKaGfkbvv1vCm0fuFNxPfF2E0kLBYyUKBYC9EYerdpj4_JHyI0_9w-RHboIAJourypnYtDnu_XtfL-SgYgPSU-M6LIKuILL9-90y6w4HWGea2-y3jJX9tvGfTD3LUyAemFTIiTZAVHsFpEMz9qPyjggwgGmg4TLNCILPXK_7Fy-7iDN8TJmVE6j9xQmPazbDbt4iAk9C0rR3UdJ7p_ai-lojkdn-2G8UvBsncMYL-E42RHMVWAPLKWRhqmc8v6IxpAlkF2303-rkjwUquJKTAEOCXLFkbnxiIV-3tf8SIKW8ERrhwFxgDMB19E5nRNx8xpKnZXiFZTGFMwRu4TDRM9P8l4DJ",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "authorAttributions": [
+        {
+          "displayName": "Minions",
+          "uri": "https://maps.google.com/maps/contrib/116969443396329016366",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtJKoF7WwDrXC9Js5bMOtoVWYpUpu-a9sRFECo48oFDlaBxcY=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCp2YAKk5FLOJebLfFD87uG&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCp2YAKk5FLOJebLfFD87uG!2e10!4m2!3m1!1s0x3406ab3aaecf8489:0xc672ff5563774a4"
+    },
+    "local_path": "photos/ChIJiYTPrjqrBjQRpHQ3VvUvZww.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWCvihBReXMYO-37G5tdlTKpELNIasNoSfOMT2OVYA74iWTrX7tSCj0YtjgmYWYgYCTs470LaAVQX-hvw8wSALtg1EL9kWbtHKyB8iU_cGwazceDmIW4GT2tuH1ujgkfo1m6auXdVpEZ4=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 145150
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

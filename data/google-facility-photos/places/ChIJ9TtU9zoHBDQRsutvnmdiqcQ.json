@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ9TtU9zoHBDQRsutvnmdiqcQ",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界下徑口",
+  "location": {
+    "latitude": 22.3653481,
+    "longitude": 114.17538320000001
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14170965899677264818&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "家家貓全貓酒店 KaKa Cat Hotel",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJ9TtU9zoHBDQRsutvnmdiqcQ/photos/Aa-ngMYStp-HaSoW03Pa6cIqz_MATktokGWxerCr8dRFbIS19gM4juGxTjwZMa5KB17AnPZ0paDwBaixDdXbeT5qqNz0n4TSX3INHi8Rkb2KdztVsqQF7V6gTCWv3yNIqIP3r1OWkyca17iJIxXFgjXWSFlGXbxxN8lgWwFpE-O9Xt9_Y-a7FV6GaInu4JQrDxoozxBxMnSgNDr3O9XdS5itU6WSal3myUxOrSEtnc0FcyMTvdTA8Afb6TWGJWxvCLVYRmxQOY3ImXcqk4UTb8J8gkNfhXRBT-Vn6MzR074Q6DPLDi2v6oI719RWbvx6gcUsk8q14jwa3x3kbTB-mOK1lv7j8a1O2LubbVFR-tMhEDEsSLoOnhgYDtOsxmk0XaqsZaykd_c78hi-SUJEu2WZxxWGdJCWQEIpm1vMaS8wv6F1Uw",
+      "widthPx": 4800,
+      "heightPx": 2598,
+      "authorAttributions": [
+        {
+          "displayName": "家家貓全貓酒店 KaKa Cat Hotel",
+          "uri": "https://maps.google.com/maps/contrib/106079620861766352152",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyGG9pcTP2IbFEob0-fsQ3XvK3eDNuBCV2W8iOE5zWQWuXI-w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBFxKDJfaxKZ8bj_tdO_eIS&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBFxKDJfaxKZ8bj_tdO_eIS!2e10!4m2!3m1!1s0x3404073af7543bf5:0xc4a962679e6febb2"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:09.145220+00:00"
+}

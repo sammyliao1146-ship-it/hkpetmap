@@ -1,0 +1,324 @@
+{
+  "google_place_id": "ChIJJf5CT9wJBDQRiTOUqIL2Ec4",
+  "restaurant_ids": [
+    "restaurant:2295000561",
+    "restaurant:2295802967"
+  ],
+  "fetched_at": "2026-10-23T15:37:39.217151+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJJf5CT9wJBDQRiTOUqIL2Ec4",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3561 9842",
+    "internationalPhoneNumber": "+852 3561 9842",
+    "formattedAddress": "香港新界大埔錦石新村105號",
+    "location": {
+      "latitude": 22.449254800000002,
+      "longitude": 114.15900640000001
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=14848920487451702153&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 18:00",
+        "星期二: 07:00 – 18:00",
+        "星期三: 07:00 – 18:00",
+        "星期四: 07:00 – 18:00",
+        "星期五: 07:00 – 18:00",
+        "星期六: 07:00 – 18:00",
+        "星期日: 07:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 275,
+    "displayName": {
+      "text": "105冰室",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJJf5CT9wJBDQRiTOUqIL2Ec4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SYVRsRXlUVk5EZWtWdlVVUjNTRGsyVnpGdlZIYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "很有人情味的村屋小店，老板叫得出大部份食客既稱呼。食物價廉物美。有室內戶外坐位。車不到門口，要行少少路。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很有人情味的村屋小店，老板叫得出大部份食客既稱呼。食物價廉物美。有室內戶外坐位。車不到門口，要行少少路。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charles Chan",
+          "uri": "https://www.google.com/maps/contrib/100804306921056674004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKUXplotsVwoVzg15j0VoBjkaocZA4BeedgYaMDICtrCScOPQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-01-03T01:46:22.396149275Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SYVRsRXlUVk5EZWtWdlVVUjNTRGsyVnpGdlZIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SYVRsRXlUVk5EZWtWdlVVUjNTRGsyVnpGdlZIYxAB!2m1!1s0x340409dc4f42fe25:0xce11f682a8943389"
+      },
+      {
+        "name": "places/ChIJJf5CT9wJBDQRiTOUqIL2Ec4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ObFFYRlhWR0pVWVZaZk5FbDBTRkpuY0RKUlZFRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "食咗個乾炒牛河同蒸魚飯，乾炒牛河係上上之選，條倉魚就好新鮮。\n唯一扣分就係度門開住咗飛咗d蚊入嚟，雖然服務員幫我換位，但係已經俾蚊咬左😑",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食咗個乾炒牛河同蒸魚飯，乾炒牛河係上上之選，條倉魚就好新鮮。\n唯一扣分就係度門開住咗飛咗d蚊入嚟，雖然服務員幫我換位，但係已經俾蚊咬左😑",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "2仔",
+          "uri": "https://www.google.com/maps/contrib/111413484258724574586/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX62LKrcQQpsJjZ9Ao2R8lTN4AidVhNaY70L8-2DNJ6vgu6H-Nsig=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-06T06:06:22.940888029Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ObFFYRlhWR0pVWVZaZk5FbDBTRkpuY0RKUlZFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ObFFYRlhWR0pVWVZaZk5FbDBTRkpuY0RKUlZFRRAB!2m1!1s0x340409dc4f42fe25:0xce11f682a8943389"
+      },
+      {
+        "name": "places/ChIJJf5CT9wJBDQRiTOUqIL2Ec4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpMWFTVHl3RRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "太和火車站步行約5分鍾，卻已遠離鬧市，環境舒適。在錦石新村內。早餐都很多客人幫襯。如果有埋米線選擇會更佳。\n*最近換了硬膠質餐牌，因為早餐加價了。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "太和火車站步行約5分鍾，卻已遠離鬧市，環境舒適。在錦石新村內。早餐都很多客人幫襯。如果有埋米線選擇會更佳。\n*最近換了硬膠質餐牌，因為早餐加價了。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fwa SmAsH",
+          "uri": "https://www.google.com/maps/contrib/103382255503163642729/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWh32Retml5KN8ZHyBSotkIQIZ78JvhjPHT2q-Ey9J8Ags_oj0=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2022-06-25T12:27:08.264814Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNpMWFTVHl3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpMWFTVHl3RRAB!2m1!1s0x340409dc4f42fe25:0xce11f682a8943389"
+      },
+      {
+        "name": "places/ChIJJf5CT9wJBDQRiTOUqIL2Ec4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEb01EeVd3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "食物中規中矩 ，無大驚喜， 價錢亦算合理。 夥記招呼幾好。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物中規中矩 ，無大驚喜， 價錢亦算合理。 夥記招呼幾好。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sam Kwok",
+          "uri": "https://www.google.com/maps/contrib/106866406013323896448/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKA4OpWsXcVFV9dmjmH-Ae-mo77BWWbRZXMVFmrBrUIJGnMzw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-03-23T06:22:47.739987Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEb01EeVd3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEb01EeVd3EAE!2m1!1s0x340409dc4f42fe25:0xce11f682a8943389"
+      },
+      {
+        "name": "places/ChIJJf5CT9wJBDQRiTOUqIL2Ec4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSMWJPVVJBEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "最喜歡吃 105 的豬扒包 + 奶茶！店裡大家人都好好，每次去都覺得很溫馨🥰 之後有去香港一定會再去吃！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最喜歡吃 105 的豬扒包 + 奶茶！店裡大家人都好好，每次去都覺得很溫馨🥰 之後有去香港一定會再去吃！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Em",
+          "uri": "https://www.google.com/maps/contrib/111357678922071868631/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOAQylaa_uuLGB0ZkTzG0PwVogV2pwyNrWAC2-JJJ96o2RpXiz=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-04-07T07:42:43.181072Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSMWJPVVJBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSMWJPVVJBEAE!2m1!1s0x340409dc4f42fe25:0xce11f682a8943389"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340409dc4f42fe25:0xce11f682a8943389!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14848920487451702153&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409dc4f42fe25:0xce11f682a8943389!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340409dc4f42fe25:0xce11f682a8943389!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409dc4f42fe25:0xce11f682a8943389!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJJf5CT9wJBDQRiTOUqIL2Ec4/photos/Aa-ngMZl0kyHx-hhe7oNV7SD4BTnSpCH3_Nro8k8JLabYOjCpyauVGiB0OqFLGFXAaYPEqSHBcaN64SE7x7NB1yTD4kYCaCkHZSnxqC8ykQBQQR8dLAkE4S36DYPPZeZrVvdNpXdeyh7Es-YiRms-FMKGOCuD9MGqwtszzYaD4TXBbEXHxhf6c4gutUKBBBZsmZhmKjiDCRHNyl619DkH2hPHiC9SrC5D7hOb5yxVfjEw0He4W3oor2oGV0oC8_Ay2tvQ9Qv7XhCdobMUCjhwvvd2KyqAGx9RadHwhNuPfxbApIIDc7KfVDicfzvx3F3AIVGcyIUdTsjuCjv_kTnJiGisRg0GhjIQyucFF_n1-E0nSCC0NcV8I1jcIDjkIrmmCZdnfkQTtZYMk5LidIp2NUinnVa62dWLPU",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "105冰室",
+          "uri": "https://maps.google.com/maps/contrib/111692489770656316462",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrGnCkE9NgW8NUfR3aahaC__kZBaUdsSk32savFHUZ-Ffvg-s=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8x86gnwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8x86gnwE!2e10!4m2!3m1!1s0x340409dc4f42fe25:0xce11f682a8943389"
+    },
+    "local_path": "photos/ChIJJf5CT9wJBDQRiTOUqIL2Ec4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO77tjEnwD24PFI9Fy-Nd5GB8HEkSvr5I9Ib8wtGFvGQ3XXwttR6D_AQ5NtdNDixyu88M4LOto-wkmIJOOMIGtJrIcMOqhx2LGuyQiWPjHr-zvWFEsp3H4xNh2R5ojXYnsyeScvA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 122096
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

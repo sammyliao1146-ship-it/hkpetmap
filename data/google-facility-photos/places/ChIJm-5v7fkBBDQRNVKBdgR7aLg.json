@@ -1,0 +1,38 @@
+{
+  "id": "ChIJm-5v7fkBBDQRNVKBdgR7aLg",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島銅鑼灣永興街10-13號3樓A室",
+  "location": {
+    "latitude": 22.2851325,
+    "longitude": 114.19244719999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13288005959654920757&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "兔公館",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJm-5v7fkBBDQRNVKBdgR7aLg/photos/Aa-ngMZ2TUlt9sz6rRik2AZplNK9ES7E3imhjoCkAb73AohBvDldq4A42gYap-KpGH8droSi4pMn_3RyGmu0RCJ5W1yMa556KMLvJIJqUasAUGj1ctasRd8Q-iJUdb4tQVpAacApZKPQtXBOVLetivQnvftZHnm5xRp6uKwkPX5WPGFRFguvjMnpjeWKGSpu_xp7atm5mor95rx7TsBHxwJzj-n0kUAzNnxMUwd-ynK5a9nQbDwxR4WanlLJa8jgnNP6TDPRfyIiPDB70LaR1EgnjFjEfYs6tVcPXKqUf1wAXYnkW9IrBZxXOqqB8N3E_QwugQRhmsbQxWKAvP5R7tUAMQ3IHHFyt2zBw_yr7-2NnKPz8DeBJjf0MEtx5HP1-TViolYA0cWXNGjskpVNwtsHKFZsYQ",
+      "widthPx": 1500,
+      "heightPx": 1000,
+      "authorAttributions": [
+        {
+          "displayName": "兔公館",
+          "uri": "https://maps.google.com/maps/contrib/103513543378645971113",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGuG3GStLx0BbTYbSkNE2B-ZXkqSu9v4rf9WKxU15HDL0F6SE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8tL7POA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8tL7POA!2e10!4m2!3m1!1s0x340401f9ed6fee9b:0xb8687b0476815235"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:15.835459+00:00"
+}

@@ -1,0 +1,354 @@
+{
+  "google_place_id": "ChIJL-tGn6EBBDQRI0pQu9lSdqo",
+  "restaurant_ids": [
+    "restaurant:2261821437"
+  ],
+  "fetched_at": "2026-10-23T15:42:05.003019+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJL-tGn6EBBDQRI0pQu9lSdqo",
+    "types": [
+      "family_restaurant",
+      "french_restaurant",
+      "dessert_restaurant",
+      "european_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "bakery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5125 9296",
+    "internationalPhoneNumber": "+852 5125 9296",
+    "formattedAddress": "Museum Cafe 3, LG/F, Hong Kong Palace Museum West Kowloon, Yau Ma Tei, Kowloon, 香港",
+    "location": {
+      "latitude": 22.301405,
+      "longitude": 114.1547184
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=12283096128803588643&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.crepesbakes.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:00 – 21:00",
+        "星期二: 09:00 – 21:00",
+        "星期三: 09:00 – 21:00",
+        "星期四: 09:00 – 21:00",
+        "星期五: 09:00 – 21:00",
+        "星期六: 09:00 – 21:00",
+        "星期日: 09:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 320,
+    "displayName": {
+      "text": "Crepes & Bakes",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "甜點專賣店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "dessert_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJL-tGn6EBBDQRI0pQu9lSdqo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5WVVqSmphSEF5UjJKSlVWcFlZWGxmVkRGWlRVRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "年輕的女服務人員，態度親切友好，餐食點多了，還特別提醒不夠再點就好！\n點的兩份鹹味可麗餅，的確份量十足，可口味美！\n至於用餐環境，傍晚時分可以遠眺美麗海灣，欣賞夕陽餘暉，好不快意！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "年輕的女服務人員，態度親切友好，餐食點多了，還特別提醒不夠再點就好！\n點的兩份鹹味可麗餅，的確份量十足，可口味美！\n至於用餐環境，傍晚時分可以遠眺美麗海灣，欣賞夕陽餘暉，好不快意！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "258 wallace",
+          "uri": "https://www.google.com/maps/contrib/104351279491982596313/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVr6aEnp2nwOr1RGHpo2jfCR1Z35tVNZwrh_AyTAEEiY9Y3RyQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-11T16:27:51.456692796Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5WVVqSmphSEF5UjJKSlVWcFlZWGxmVkRGWlRVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5WVVqSmphSEF5UjJKSlVWcFlZWGxmVkRGWlRVRRAB!2m1!1s0x340401a19f46eb2f:0xaa7652d9bb504a23"
+      },
+      {
+        "name": "places/ChIJL-tGn6EBBDQRI0pQu9lSdqo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ObU1HZzJSRWd5WWxwalUydHZiRlJUV1hWQlRWRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "點了一份鹹味薄餅捲，內有芝士和火腿，外層是薄薄的班戟皮，包裹著芝士內餡，味道不錯且頗具特色。另外點了一份海鮮意粉，蝦和魷魚都很新鮮，品質達標。每份的分量適合一人享用，價格雖然略高，但在這個區域內仍屬合理水平。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "點了一份鹹味薄餅捲，內有芝士和火腿，外層是薄薄的班戟皮，包裹著芝士內餡，味道不錯且頗具特色。另外點了一份海鮮意粉，蝦和魷魚都很新鮮，品質達標。每份的分量適合一人享用，價格雖然略高，但在這個區域內仍屬合理水平。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sam Kwok",
+          "uri": "https://www.google.com/maps/contrib/106866406013323896448/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKA4OpWsXcVFV9dmjmH-Ae-mo77BWWbRZXMVFmrBrUIJGnMzw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-25T04:25:37.255852301Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ObU1HZzJSRWd5WWxwalUydHZiRlJUV1hWQlRWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ObU1HZzJSRWd5WWxwalUydHZiRlJUV1hWQlRWRRAB!2m1!1s0x340401a19f46eb2f:0xaa7652d9bb504a23"
+      },
+      {
+        "name": "places/ChIJL-tGn6EBBDQRI0pQu9lSdqo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aaVQwdExUV3B5TTFCU1l6WkdPVEZyU2pOWlZFRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "可麗餅很好吃，香味濃郁，調味得當。拉格啤酒帶著一絲果香，很驚喜。\n週末夜晚比較忙，服務人員不太responsive——你需要等待一個他們稍微不太忙的空隙，然後想辦法引起他們的注意力。\nbtw，只有一個小時的用餐時間。\n\nThe crêpe was quite delicious — rich in aroma and nicely balanced in flavour. The lager had a hint of fruitiness, which was a pleasant surprise.\nIt was pretty busy on a weekend night, so the staff weren’t very responsive — you basically have to wait for a moment when they’re slightly less occupied, then find a way to catch their attention.\nbtw, you only have 1 hour dinner time.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "可麗餅很好吃，香味濃郁，調味得當。拉格啤酒帶著一絲果香，很驚喜。\n週末夜晚比較忙，服務人員不太responsive——你需要等待一個他們稍微不太忙的空隙，然後想辦法引起他們的注意力。\nbtw，只有一個小時的用餐時間。\n\nThe crêpe was quite delicious — rich in aroma and nicely balanced in flavour. The lager had a hint of fruitiness, which was a pleasant surprise.\nIt was pretty busy on a weekend night, so the staff weren’t very responsive — you basically have to wait for a moment when they’re slightly less occupied, then find a way to catch their attention.\nbtw, you only have 1 hour dinner time.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yulai W",
+          "uri": "https://www.google.com/maps/contrib/116618144102432486346/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1lSAzkspQuSlAg9FtjOC1k3kBZu1Jag7Id5KYT2-hkaLtpcw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-11T15:22:26.068306027Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aaVQwdExUV3B5TTFCU1l6WkdPVEZyU2pOWlZFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aaVQwdExUV3B5TTFCU1l6WkdPVEZyU2pOWlZFRRAB!2m1!1s0x340401a19f46eb2f:0xaa7652d9bb504a23"
+      },
+      {
+        "name": "places/ChIJL-tGn6EBBDQRI0pQu9lSdqo/reviews/ChZDSUhNMG9nS0VJQ0FnSURadFA3Z0lREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "位於西九龍文化區-香港故宮文化博物館地下低層的小店\n前往參觀前來吃個下午茶\n環境舒適，有室內外座位\n食品質素都不錯\n“挪威“薄餅，外皮好薄脆，夾住煙三文魚，紫洋蔥，菠菜，口味清新，配合酸忌廉好開胃👍\n炸雞翼外脆肉滑\n服務員好有禮貌，服務好好\n本來點了一支啤酒和菠蘿汁，點菜後不久，服務員提醒我啤酒有買一送一優惠，於是取消了菠蘿汁\n本來預咗來西九文化區都係會消費高又未必高質素，不過呢度真係有驚喜",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於西九龍文化區-香港故宮文化博物館地下低層的小店\n前往參觀前來吃個下午茶\n環境舒適，有室內外座位\n食品質素都不錯\n“挪威“薄餅，外皮好薄脆，夾住煙三文魚，紫洋蔥，菠菜，口味清新，配合酸忌廉好開胃👍\n炸雞翼外脆肉滑\n服務員好有禮貌，服務好好\n本來點了一支啤酒和菠蘿汁，點菜後不久，服務員提醒我啤酒有買一送一優惠，於是取消了菠蘿汁\n本來預咗來西九文化區都係會消費高又未必高質素，不過呢度真係有驚喜",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cherie Cho",
+          "uri": "https://www.google.com/maps/contrib/113181853831768825245/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImLX92DBZMbzFeNuWrn4Y1OAd8wKDSjSmlutFdebGa5Swwzg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-09-25T14:05:03.525456Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURadFA3Z0lREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURadFA3Z0lREAE!2m1!1s0x340401a19f46eb2f:0xaa7652d9bb504a23"
+      },
+      {
+        "name": "places/ChIJL-tGn6EBBDQRI0pQu9lSdqo/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1dEs2cXZnRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "一家可以面對海景的餐廳。餐廳內設計開陽，每個位置都可以看到海景，雖然裝飾簡單，但具有風味。\n餐牌內的餐點是全日供應的，隨時來也可以享受到美味的食品。食品質素不錯，員工服務也很到位親切。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一家可以面對海景的餐廳。餐廳內設計開陽，每個位置都可以看到海景，雖然裝飾簡單，但具有風味。\n餐牌內的餐點是全日供應的，隨時來也可以享受到美味的食品。食品質素不錯，員工服務也很到位親切。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wong Sammy",
+          "uri": "https://www.google.com/maps/contrib/106402192118727642283/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0xcUrU4K1Nr3bn1XtHH7kCHejlM1BGPtwVr0Fia2_AIUw4A=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2023-10-11T05:42:39.334888Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM1dEs2cXZnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM1dEs2cXZnRRAB!2m1!1s0x340401a19f46eb2f:0xaa7652d9bb504a23"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401a19f46eb2f:0xaa7652d9bb504a23!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12283096128803588643&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401a19f46eb2f:0xaa7652d9bb504a23!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401a19f46eb2f:0xaa7652d9bb504a23!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401a19f46eb2f:0xaa7652d9bb504a23!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJL-tGn6EBBDQRI0pQu9lSdqo/photos/Aa-ngMYCKr6LdF2TBa5XZOrljIbjPqZ2Kk9kOlo8a-QvCoJd6Myv1Bu4Q05IiTzeYqkMBqG9nrPk-kTBeBcCShzFItxw4OHLdnmWKKdBBe_ZlOBEw1p5KjXD8UDyxVEYORptZlhXR5Pv8keds6og4a7SiZoYidSLUtD8wbh8BOgCJf7hyBIdCWxUMiZuG_S6jq4fOKhu_O8LHr_iwaUy9Nbmom71w8Un-7wLdjzrVZL-3X-puRTviOWTCoNBogQ1Ey6hqZ_EirngfGM1c16jrUxYidf3zO5ECfTtrTjMCDQUsorcpc1vlefmpVsWf7GZL2pcFtACZ2oJS4Phd1zchN_qzlFalcNOjClSGZZo4_TdVPczvXajIpHN4JOx6daSeZU_3XcOmBaj5FKc11jfL9aYah0P8-w_HaI",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "A T",
+          "uri": "https://maps.google.com/maps/contrib/105515011503571183298",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVO12NYH8OQHJS6wFiab_qar5Dx_DkFnPeUGqTLhg7r0rndedk_=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICBqbGingE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBqbGingE!2e10!4m2!3m1!1s0x340401a19f46eb2f:0xaa7652d9bb504a23"
+    },
+    "local_path": "photos/ChIJL-tGn6EBBDQRI0pQu9lSdqo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLek-5-sLrMAPoeFDgLAV4Hl9lu0S26cNz1fH4RungXbH5vh9ckHN9tC1pL8YRl6-pFsqAxzRqYFdYXdqkeeGOw4ksToHGmEk9_ff_yud6Cu0DLJqGc4aSezcOjfmKp-qga0OPcFLw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 150991
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.crepesbakes.com/_files/ugd/ec959d_18b49f44d7554de5a73ef84bcc41151e.pdf",
+        "label": "Food Menu",
+        "source_url": "https://www.crepesbakes.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.crepesbakes.com/_files/ugd/ec959d_3365446de9eb40bfaa7df41d739a3029.pdf",
+        "label": "Drinks Menu",
+        "source_url": "https://www.crepesbakes.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.crepesbakes.com/_files/ugd/ec959d_e1d00f5eec2f4305b58d9da6b875b88a.pdf",
+        "label": "Set Lunch Menu",
+        "source_url": "https://www.crepesbakes.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "dessert_shop",
+    "label": "甜點專賣店",
+    "types": [
+      "family_restaurant",
+      "french_restaurant",
+      "dessert_restaurant",
+      "european_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "bakery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.crepesbakes.com/_files/ugd/ec959d_18b49f44d7554de5a73ef84bcc41151e.pdf"
+}

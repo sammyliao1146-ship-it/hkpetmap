@@ -1,0 +1,345 @@
+{
+  "google_place_id": "ChIJ_a9m1fEABDQRIY5neDgL_gs",
+  "restaurant_ids": [
+    "restaurant:2261807804"
+  ],
+  "fetched_at": "2026-10-23T15:42:19.544637+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ_a9m1fEABDQRIY5neDgL_gs",
+    "types": [
+      "western_restaurant",
+      "pub",
+      "australian_restaurant",
+      "live_music_venue",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2732 2860",
+    "internationalPhoneNumber": "+852 2732 2860",
+    "formattedAddress": "Shop 7 - 13, Wing On Plaza, 62 Mody Rd, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.2965367,
+      "longitude": 114.1766767
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=864140515667840545&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://thedoghousekowloon.com/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:00 – 02:00",
+        "星期二: 16:00 – 02:00",
+        "星期三: 16:00 – 02:00",
+        "星期四: 16:00 – 02:00",
+        "星期五: 16:00 – 02:00",
+        "星期六: 16:00 – 02:00",
+        "星期日: 16:00 – 02:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 421,
+    "displayName": {
+      "text": "The Dog House Kowloon",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ_a9m1fEABDQRIY5neDgL_gs/reviews/ChZDSUhNMG9nS0VJQ0FnSURoZ3ZMTFJnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "飲酒消磨時間好地方，有live band助興，食物出品有水準。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "飲酒消磨時間好地方，有live band助興，食物出品有水準。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Daniel Yeung",
+          "uri": "https://www.google.com/maps/contrib/101405041546726103555/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJbcNBe0rAdjoJvHsF6LJLsf_a8Z-zjsYDy22zPqQNVbDf7w=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-03-04T13:15:13.155435Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoZ3ZMTFJnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoZ3ZMTFJnEAE!2m1!1s0x340400f1d566affd:0xbfe0b3878678e21"
+      },
+      {
+        "name": "places/ChIJ_a9m1fEABDQRIY5neDgL_gs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvNXZqT2p3RRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 5,
+        "text": {
+          "text": "有live band 有飲野 有野食 黎hea下 一流",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有live band 有飲野 有野食 黎hea下 一流",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Harris Wong",
+          "uri": "https://www.google.com/maps/contrib/110443534714084178650/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULakV-g1pOx0uOWv8QQXDk26JbuQxM_E6j6gnGUNtoZ_m7fu8=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2019-02-13T16:40:17.303896Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNvNXZqT2p3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNvNXZqT2p3RRAB!2m1!1s0x340400f1d566affd:0xbfe0b3878678e21"
+      },
+      {
+        "name": "places/ChIJ_a9m1fEABDQRIY5neDgL_gs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtaHREd0dBEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 1,
+        "text": {
+          "text": "一般口味、徒負虛名。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一般口味、徒負虛名。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yip fu",
+          "uri": "https://www.google.com/maps/contrib/115015501645201378830/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyaJQs1A9xn4Hcnqga98ElTHTiliKuZuU4-U2Y3IkwkpAopC9F6w=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2021-12-26T15:11:14.789538Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNtaHREd0dBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNtaHREd0dBEAE!2m1!1s0x340400f1d566affd:0xbfe0b3878678e21"
+      },
+      {
+        "name": "places/ChIJ_a9m1fEABDQRIY5neDgL_gs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzeDdfNmd3RRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 3,
+        "text": {
+          "text": "環境有氣氛， 但是如果和朋友想傾下計， 建議坐比較外面一點的位置，因為那裡會有人唱歌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境有氣氛， 但是如果和朋友想傾下計， 建議坐比較外面一點的位置，因為那裡會有人唱歌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anthony Tse",
+          "uri": "https://www.google.com/maps/contrib/102839451090488299332/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnt31WXpvvB3JpmPsYdHxaWwVbVWuo2Kz4LXnMugtPLKo0fXjSYQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2020-02-16T13:31:46.671662Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNzeDdfNmd3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzeDdfNmd3RRAB!2m1!1s0x340400f1d566affd:0xbfe0b3878678e21"
+      },
+      {
+        "name": "places/ChIJ_a9m1fEABDQRIY5neDgL_gs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLcmZqY1NnEAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 2,
+        "text": {
+          "text": "食物沒有太多選擇。。價錢昂，我兩個人去食一個意粉，一個漢堡，兩杯無酒精飲品，要$500，不值！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物沒有太多選擇。。價錢昂，我兩個人去食一個意粉，一個漢堡，兩杯無酒精飲品，要$500，不值！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Andy Lau",
+          "uri": "https://www.google.com/maps/contrib/114923323579357850402/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK3bpJnDqtx0-38xtjMXzR8UxlVtGHUepHsFQpIcWZp4nmMQA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2021-04-14T15:54:40.650808Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNLcmZqY1NnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNLcmZqY1NnEAE!2m1!1s0x340400f1d566affd:0xbfe0b3878678e21"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400f1d566affd:0xbfe0b3878678e21!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=864140515667840545&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400f1d566affd:0xbfe0b3878678e21!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400f1d566affd:0xbfe0b3878678e21!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400f1d566affd:0xbfe0b3878678e21!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ_a9m1fEABDQRIY5neDgL_gs/photos/Aa-ngMZS8ztq1yoPkN4VqohOLikw1vlzrHaNbUe6vBol9S6hS-E7uD4Y-D8nbRYwFhjYF2Gby10r-ZTT8UTCLXbMoRELaCO64KzdUS12okjjvUezC6U3Sfb9omwxg_lWGwVCkQoOlJ4MTQlbSaqQUTnRGaLHhCkdYEDr9vWyDNe3wJ5BWHu577L9FStUQLPvAm_j_tgrGAjhUyuO29WBTd262Y6kLDiptkiClvbuGHAoXt1UglfxrC4k5JZ-NvCr2u8QNTE-kwseZtonBif_6ArdgouAGp9GrpNfydc3X5w49_-WEVLg9Xy0N-9V3cxlFJTX7YAZja_oPyfRe5ULOFbp_gEMqOD4hLHZIUhvHFkIGoAx0NVM_PzU2IL6bX28JzwlGwxJOg-J412i1Nx_JwCTywnr8q0",
+      "widthPx": 3600,
+      "heightPx": 2403,
+      "authorAttributions": [
+        {
+          "displayName": "The Dog House Kowloon",
+          "uri": "https://maps.google.com/maps/contrib/114682834656672678506",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtImlYUSUvDy5PjpqFknNZ_liSde6fJ7fKkoxPqzUcBwCGhio=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICa25y9HA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa25y9HA!2e10!4m2!3m1!1s0x340400f1d566affd:0xbfe0b3878678e21"
+    },
+    "local_path": "photos/ChIJ_a9m1fEABDQRIY5neDgL_gs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmuZCTYTdQSEBBzgBVYmxSIbgJD1TwTTJhVr65POOM1M_C5ReYCouaJhiW3q8Yi0yJBVOrB9scNP-A1mRuSKiGepWRZi2yybrwabwkztZ5SRsBnkicE1NxI1ES56RhykDP8IHL=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 143972
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "http://thedoghousekowloon.com/#menu",
+        "label": "Menu",
+        "source_url": "http://thedoghousekowloon.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "pub",
+      "australian_restaurant",
+      "live_music_venue",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "http://thedoghousekowloon.com/#menu"
+}

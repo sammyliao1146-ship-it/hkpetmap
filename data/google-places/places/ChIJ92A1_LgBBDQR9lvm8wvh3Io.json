@@ -1,0 +1,404 @@
+{
+  "google_place_id": "ChIJ92A1_LgBBDQR9lvm8wvh3Io",
+  "restaurant_ids": [
+    "restaurant:2262815967"
+  ],
+  "fetched_at": "2026-10-23T15:44:32.916716+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ92A1_LgBBDQR9lvm8wvh3Io",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3462 2005",
+    "internationalPhoneNumber": "+852 3462 2005",
+    "formattedAddress": "香港九龍大角咀大全街48號",
+    "location": {
+      "latitude": 22.3220666,
+      "longitude": 114.1606563
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=10006119913563249654&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 17:30 – 22:00",
+        "星期二: 12:00 – 15:00, 17:30 – 22:00",
+        "星期三: 12:00 – 15:00, 17:30 – 22:00",
+        "星期四: 12:00 – 15:00, 17:30 – 22:00",
+        "星期五: 12:00 – 15:00, 17:30 – 22:00",
+        "星期六: 12:00 – 15:00, 17:30 – 22:00",
+        "星期日: 12:00 – 15:00, 17:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 75,
+    "displayName": {
+      "text": "吉勝吉列串揚專門店",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ92A1_LgBBDQR9lvm8wvh3Io/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnM1FYUXpORzkzT1dkS1luUjNielowUzJOVWNHYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "估唔到$10就可以喺香港嘆正宗大阪炸串，呢間位於大角咀嘅人氣串燒居酒屋，鍾意佢呢度價錢抵食食材新鮮，佢哋嘅魚生全部都係由日本直送，串燒即叫即炸脆卜卜勁惹味！人氣菜式嘅就係大阪炸串omakase，串燒炸到金黃香脆，再點一點秘製醬汁勁好食，咁大盆十串只需要$99！牛舌心同雞翼串都係必點！仲有佢哋嘅招牌三文魚子海膽丼，海膽勁鮮甜勁正！另一款呢期爆紅既火焰左口魚邊鐵鍋炒飯，左口魚入口即溶，肥嫩嘅口感超好食！小食方面特別推介滑溜溜嘅海膽豆腐、送酒一流嘅七味燒魷魚筒，同埋鮮甜爽彈嘅磯燒鮑魚，佢哋而家仲有啤酒買一送一，生日訂枱，仲會送超大杯特飲，趁着嚟緊五一假期，約埋班friend一齊嚟啤啤佢啦！\n\n推介人氣菜式：\n蟹膏海膽豆腐\n磯燒鮑魚\n特上刺身拼盤\n七味燒魷魚筒\n火焰左口魚邊鐵鍋炒飯\n廚師發辦炸串\n燒牛舌芯、雞肉軟骨棒\n迷你丼（三文魚子海膽丼/帶子三文魚子丼/蒲燒鰻魚丼）",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "估唔到$10就可以喺香港嘆正宗大阪炸串，呢間位於大角咀嘅人氣串燒居酒屋，鍾意佢呢度價錢抵食食材新鮮，佢哋嘅魚生全部都係由日本直送，串燒即叫即炸脆卜卜勁惹味！人氣菜式嘅就係大阪炸串omakase，串燒炸到金黃香脆，再點一點秘製醬汁勁好食，咁大盆十串只需要$99！牛舌心同雞翼串都係必點！仲有佢哋嘅招牌三文魚子海膽丼，海膽勁鮮甜勁正！另一款呢期爆紅既火焰左口魚邊鐵鍋炒飯，左口魚入口即溶，肥嫩嘅口感超好食！小食方面特別推介滑溜溜嘅海膽豆腐、送酒一流嘅七味燒魷魚筒，同埋鮮甜爽彈嘅磯燒鮑魚，佢哋而家仲有啤酒買一送一，生日訂枱，仲會送超大杯特飲，趁着嚟緊五一假期，約埋班friend一齊嚟啤啤佢啦！\n\n推介人氣菜式：\n蟹膏海膽豆腐\n磯燒鮑魚\n特上刺身拼盤\n七味燒魷魚筒\n火焰左口魚邊鐵鍋炒飯\n廚師發辦炸串\n燒牛舌芯、雞肉軟骨棒\n迷你丼（三文魚子海膽丼/帶子三文魚子丼/蒲燒鰻魚丼）",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nana._foodie",
+          "uri": "https://www.google.com/maps/contrib/106161879327002548862/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNuDK7ib2W0nlzpT-UniyD9ny7l_Ic257DNjNdgiBmdZvdKD93=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-27T14:14:10.925111038Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnM1FYUXpORzkzT1dkS1luUjNielowUzJOVWNHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnM1FYUXpORzkzT1dkS1luUjNielowUzJOVWNHYxAB!2m1!1s0x340401b8fc3560f7:0x8adce10bf3e65bf6"
+      },
+      {
+        "name": "places/ChIJ92A1_LgBBDQR9lvm8wvh3Io/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NemFrWnFaVTVvTmtJeGFVZE5ZMmxSY1VoMWRuYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "前排同屋企人想搵間居酒屋慢慢歎，朋友介紹大角咀有間專做串揚嘅小店 🍣 呢間店雖然隱世咗啲，但食物質素同選擇真係抵讚，感覺好似去咗間老字號居酒屋，專心食海鮮同串揚就最正\n\n日本空運海鮮刺身係亮點 😍本鮪斷面刺身，呢個真係全晚焦點！霜降油花細緻到一個點，入口即溶，魚脂香氣喺口腔入面慢慢散開 。肉質柔嫩細滑，鮮甜味濃郁，完全係高級壽司店先食到嘅質素，呢度竟然用親民價錢供應，真係驚喜。\n\n主打當然係🏅$99/10串串揚‼️性價比高到爆，炸得外脆內嫩，唔會太厚粉，每串都新鮮現炸，上枱熱辣辣。十串入面有齊海鮮、肉類同蔬菜～ 每串都保持到食材原味\n\n🏅迷你丼都必推👍🏻 我哋叫咗 A3三文魚籽海膽丼鮮味爆燈、B1帶子三文魚籽丼清甜香郁、C1火炙左口魚邊丼油脂豐富。每款雖然係迷你size，樣樣都試到就最好\n\n最重要係做緊啤酒買一送一，呢個優惠真係無得輸 ！同屋企人飲住啤酒食住串揚，成晚氣氛好好，食到捧住個肚走。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "前排同屋企人想搵間居酒屋慢慢歎，朋友介紹大角咀有間專做串揚嘅小店 🍣 呢間店雖然隱世咗啲，但食物質素同選擇真係抵讚，感覺好似去咗間老字號居酒屋，專心食海鮮同串揚就最正\n\n日本空運海鮮刺身係亮點 😍本鮪斷面刺身，呢個真係全晚焦點！霜降油花細緻到一個點，入口即溶，魚脂香氣喺口腔入面慢慢散開 。肉質柔嫩細滑，鮮甜味濃郁，完全係高級壽司店先食到嘅質素，呢度竟然用親民價錢供應，真係驚喜。\n\n主打當然係🏅$99/10串串揚‼️性價比高到爆，炸得外脆內嫩，唔會太厚粉，每串都新鮮現炸，上枱熱辣辣。十串入面有齊海鮮、肉類同蔬菜～ 每串都保持到食材原味\n\n🏅迷你丼都必推👍🏻 我哋叫咗 A3三文魚籽海膽丼鮮味爆燈、B1帶子三文魚籽丼清甜香郁、C1火炙左口魚邊丼油脂豐富。每款雖然係迷你size，樣樣都試到就最好\n\n最重要係做緊啤酒買一送一，呢個優惠真係無得輸 ！同屋企人飲住啤酒食住串揚，成晚氣氛好好，食到捧住個肚走。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ken ken",
+          "uri": "https://www.google.com/maps/contrib/112706828314630755270/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocISOesiOFoDv8Z1OzyuvUEhnr1RoQrFCKYGaHe8w80L52Gj0A=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-26T05:00:02.380531292Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25NemFrWnFaVTVvTmtJeGFVZE5ZMmxSY1VoMWRuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NemFrWnFaVTVvTmtJeGFVZE5ZMmxSY1VoMWRuYxAB!2m1!1s0x340401b8fc3560f7:0x8adce10bf3e65bf6"
+      },
+      {
+        "name": "places/ChIJ92A1_LgBBDQR9lvm8wvh3Io/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaamJUWnpNQzFoVFVsdGFWVkRNbTkwV1ZWdVVXYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "上次同事食完話好好食、所以特登去試下、果然是不錯、特別是火炙左口魚邊鐵鍋炒飯必叫。\n🍽️🍽️🍽️🥠🍤🥠🍽️🍽️🍽️\n🥄👅 火炙左口魚邊鐵鍋炒飯 💲128👅🥢\n鐵鍋炒飯鑊氣十足，粒粒分明。火炙左口魚邊經高溫逼出豐富魚油，甘香滲入飯粒，魚脂香氣與飯焦香完美融合。\n🥄👅 迷你丼 💲158👅🥢\n🥢究極親蟹丼\n蟹膏、蟹肉、蟹籽三重奏，鮮味濃縮在迷你碗中。蟹膏甘潤，拌飯一流，滿口海洋精華\n🥢三文魚蟹子丼\n肥美三文魚粒配上脆卜卜蟹子，口感雙重。魚油與鹹鮮交織，性價比高。\n🥢火炙三文魚腩丼\n火炙後魚油滲進米飯，腩位甘香豐腴。微微焦香提升層次，迷你份量剛好\n🥄👅 鐵板燒牛舌 💲98👅🥢\n鐵板燒牛舌厚切多汁，外層微焦脆口，內裡軟嫩彈牙。簡單以黑椒和鹽提味，牛舌獨特的油香與鐵板焦香交織\n🥄👅 本鮪斷面刺身 💲388👅🥢\n本鮪斷面刺身厚切華麗，魚生紋理清晰。赤身清爽微酸，拖羅油潤甘香\n🥄👅 冲綢海鹽梅子酢橘梳打 💲38👅🥢\n沖繩海鹽的鹹味襯托梅子與酢橘的酸甜，清爽碳酸氣泡提升層次。鹹甜交織，解膩醒胃\n🥄👅 巨峰乳酸梳打  💲32👅🥢\n巨峰提子香甜濃郁，乳酸微酸平衡甜度，加上梳打氣泡的爽快感，入口清新解膩。冰涼酸甜。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "上次同事食完話好好食、所以特登去試下、果然是不錯、特別是火炙左口魚邊鐵鍋炒飯必叫。\n🍽️🍽️🍽️🥠🍤🥠🍽️🍽️🍽️\n🥄👅 火炙左口魚邊鐵鍋炒飯 💲128👅🥢\n鐵鍋炒飯鑊氣十足，粒粒分明。火炙左口魚邊經高溫逼出豐富魚油，甘香滲入飯粒，魚脂香氣與飯焦香完美融合。\n🥄👅 迷你丼 💲158👅🥢\n🥢究極親蟹丼\n蟹膏、蟹肉、蟹籽三重奏，鮮味濃縮在迷你碗中。蟹膏甘潤，拌飯一流，滿口海洋精華\n🥢三文魚蟹子丼\n肥美三文魚粒配上脆卜卜蟹子，口感雙重。魚油與鹹鮮交織，性價比高。\n🥢火炙三文魚腩丼\n火炙後魚油滲進米飯，腩位甘香豐腴。微微焦香提升層次，迷你份量剛好\n🥄👅 鐵板燒牛舌 💲98👅🥢\n鐵板燒牛舌厚切多汁，外層微焦脆口，內裡軟嫩彈牙。簡單以黑椒和鹽提味，牛舌獨特的油香與鐵板焦香交織\n🥄👅 本鮪斷面刺身 💲388👅🥢\n本鮪斷面刺身厚切華麗，魚生紋理清晰。赤身清爽微酸，拖羅油潤甘香\n🥄👅 冲綢海鹽梅子酢橘梳打 💲38👅🥢\n沖繩海鹽的鹹味襯托梅子與酢橘的酸甜，清爽碳酸氣泡提升層次。鹹甜交織，解膩醒胃\n🥄👅 巨峰乳酸梳打  💲32👅🥢\n巨峰提子香甜濃郁，乳酸微酸平衡甜度，加上梳打氣泡的爽快感，入口清新解膩。冰涼酸甜。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "foodie_cartoom",
+          "uri": "https://www.google.com/maps/contrib/113092392808066746366/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSAKNRYIfyEgksKmxqV-qSHH05pFdYDx0nOId5NXaGT9WpJ4V6=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-14T05:30:30.382763271Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaamJUWnpNQzFoVFVsdGFWVkRNbTkwV1ZWdVVXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaamJUWnpNQzFoVFVsdGFWVkRNbTkwV1ZWdVVXYxAB!2m1!1s0x340401b8fc3560f7:0x8adce10bf3e65bf6"
+      },
+      {
+        "name": "places/ChIJ92A1_LgBBDQR9lvm8wvh3Io/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWmVFSnJlV2M1UTB0b2MzcHdWMHB0VW1JMk1IYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "大阪風味日式串揚🏮\n\n今次嚟到 吉勝吉列串揚專門店，真心覺得幾難得😆 大角咀可以搵到一間專做日式炸串嘅小店，本身已經好加分，加上價錢親民、走性價比路線，但味道同出品完全唔hea。除咗炸串，仲有鐵板、丼飯同日本空運刺身，選擇比想像中豐富得多\n\n🍢 廚師隨機發板串揚 10串$99\n有選擇困難症既我直接交畀廚師就啱晒😆 出嚟嘅炸串款款都好乾爽，完全唔油膩，食材味道好突出\n其中 煙肉蠔卷 特別亮眼，鹹香煙肉包住蠔嘅鮮甜，真係正🔥 大蝦 蝦味好濃，肉質彈；紫蘇雞肉嫩滑、芥末牛柳唔嚡口；多春魚好飽滿；秋葵、冬菇炸完都保持到蔬菜嘅水份👍🏻\n\n🍚 火炙左口魚邊鐵鍋炒飯 $128\n左口魚邊嘅魚油滲晒落飯度，加埋啲飯焦，香氣逼人🤤 味道唔重但好平衡，撈勻嚟食特別香\n\n🍱 迷你丼（三款自選）$158\n• 三文魚籽海膽丼：三文魚籽鋪滿，啖啖爆汁，加埋 creamy 海膽，鮮味十足\n• 帶子三文魚籽丼：帶子好鮮甜\n• 火炙左口魚邊丼：輕輕火炙後魚油更香，魚味好濃\n\n🐟 深海池魚薄切 $168\n師傅刀工好細緻，切得薄但依然有口感。魚肉肥美又爽滑，魚味濃郁，屬於高質素刺身\n\n🥩 鐵板燒牛舌 $79\n牛油一落鐵板即刻超級香，🔥 可以自行控制焦香程度，我就將牛舌外層煎到好香脆，而入面依然軟嫩，牛味好突出\n\n🥤 沖繩海鹽薑檸蜂蜜梳打 $38\n酸酸甜甜少少鹽味，好清新，解膩一流\n\n🍺 Sapporo 生啤 340ML $48\n炸串配生啤真係最佳配搭\n\n本身以為佢只係專做炸串，點知其他菜式同樣出色，完全唔係配角😆 無論串揚、鐵板、丼飯定刺身都好有水準。如果平時未試過日式炸串，或者想搵一間唔怕中伏、食得舒服又抵食嘅日式小店，吉勝真係值得一試🍢",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大阪風味日式串揚🏮\n\n今次嚟到 吉勝吉列串揚專門店，真心覺得幾難得😆 大角咀可以搵到一間專做日式炸串嘅小店，本身已經好加分，加上價錢親民、走性價比路線，但味道同出品完全唔hea。除咗炸串，仲有鐵板、丼飯同日本空運刺身，選擇比想像中豐富得多\n\n🍢 廚師隨機發板串揚 10串$99\n有選擇困難症既我直接交畀廚師就啱晒😆 出嚟嘅炸串款款都好乾爽，完全唔油膩，食材味道好突出\n其中 煙肉蠔卷 特別亮眼，鹹香煙肉包住蠔嘅鮮甜，真係正🔥 大蝦 蝦味好濃，肉質彈；紫蘇雞肉嫩滑、芥末牛柳唔嚡口；多春魚好飽滿；秋葵、冬菇炸完都保持到蔬菜嘅水份👍🏻\n\n🍚 火炙左口魚邊鐵鍋炒飯 $128\n左口魚邊嘅魚油滲晒落飯度，加埋啲飯焦，香氣逼人🤤 味道唔重但好平衡，撈勻嚟食特別香\n\n🍱 迷你丼（三款自選）$158\n• 三文魚籽海膽丼：三文魚籽鋪滿，啖啖爆汁，加埋 creamy 海膽，鮮味十足\n• 帶子三文魚籽丼：帶子好鮮甜\n• 火炙左口魚邊丼：輕輕火炙後魚油更香，魚味好濃\n\n🐟 深海池魚薄切 $168\n師傅刀工好細緻，切得薄但依然有口感。魚肉肥美又爽滑，魚味濃郁，屬於高質素刺身\n\n🥩 鐵板燒牛舌 $79\n牛油一落鐵板即刻超級香，🔥 可以自行控制焦香程度，我就將牛舌外層煎到好香脆，而入面依然軟嫩，牛味好突出\n\n🥤 沖繩海鹽薑檸蜂蜜梳打 $38\n酸酸甜甜少少鹽味，好清新，解膩一流\n\n🍺 Sapporo 生啤 340ML $48\n炸串配生啤真係最佳配搭\n\n本身以為佢只係專做炸串，點知其他菜式同樣出色，完全唔係配角😆 無論串揚、鐵板、丼飯定刺身都好有水準。如果平時未試過日式炸串，或者想搵一間唔怕中伏、食得舒服又抵食嘅日式小店，吉勝真係值得一試🍢",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "A Bite A Day",
+          "uri": "https://www.google.com/maps/contrib/116986937178246645416/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQ8kf3l563AhThrD-TS9EJfpS9xYIztM2JsjYN4Ns64CeV-A=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-02T13:31:54.157529184Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CWmVFSnJlV2M1UTB0b2MzcHdWMHB0VW1JMk1IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWmVFSnJlV2M1UTB0b2MzcHdWMHB0VW1JMk1IYxAB!2m1!1s0x340401b8fc3560f7:0x8adce10bf3e65bf6"
+      },
+      {
+        "name": "places/ChIJ92A1_LgBBDQR9lvm8wvh3Io/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOSlpHNXFTVlY2YVhsTE5WUTNOVFZCYWs4NGIwRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🔥🔥大角咀性價比超高既串揚專門店🔥🔥\n\n必食‼️✨廚師發辦隨機十串串揚✨$99\n\n大廚今日發辦咗鰻魚、大蝦、秋葵、多春魚、冬菇、韭菜卷、子薑、紫蘇雞同鵪鶉蛋比我地，蔬菜肉類同海鮮咩都有d，相當豐富‼️\n\n即叫即炸夠晒抵讚👍🏻👍🏻上枱串串都新鮮熱辣，金黃酥脆，炸漿夠薄又唔油，高質唔貴好抵食👍🏻👍🏻\n\n✨迷你丼✨ $158\n\n可以喺A、B、C項各揀一樣，最岩同朋友仔開心share😉\n\n面頭海鮮刺身仲要全部都係日本空運過嚟，部份仲需要預訂，質素有保證🥰\n\n我哋最後揀咗三文魚籽海膽丼、三文魚蟹子丼同火炙左口魚邊丼；海膽鮮甜Creamy、三文魚籽飽滿大粒、左口魚邊油潤細嫩、蟹子份量多到跌出嚟咁濟，入口個下絕對系瞳孔地震，一啖入魂😍\n\n✨蟹膏豆腐✨$48\n\n鹹鮮交織，完美平衡🤘🏻\n\n✨蟹子沙律✨$45\n\n清爽開胃，口感豐富💗\n\n✨燒花魚一夜乾✨$78\n\n咸香適中，油香十足、肉質仲要好札實🫶\n\n✨串燒雞腎2串✨$32\n\n✨串燒翠玉瓜2串✨$28\n\n清甜多汁，唔錯💕\n\n✨甲羅燒✨$88\n\n鮮味超濃郁，朋友超鍾意🥰\n\n✨霜降和牛粒溫泉蛋炒飯✨$92\n\n嫩滑和牛粒份量好多，好足料❗️加埋溫泉蛋汁同炒飯底，呢個組合夾到癲🤩\n\n✨沖繩海鹽梅子酢橘梳打✨$38\n\n酸甜度啱啱好，中晒我嘅審美🤩\n\n✨巨峰乳酸梳打✨$32\n\n味道好夠濃，唔會飲到尾冇晒味🫶\n\n🧡 呢期啤酒仲做緊買一送一優惠，生日訂枱仲送特大杯果味燒灼梳打，邊食邊飲更加爽，鍾意食日本嘢嘅你記得唔好錯過丫💗\n\n🛑吉勝吉列串揚專門店\n\n📍香港大角咀大全街48號大同新邨大榮樓地舖\n\n#吉勝吉列串揚專門店 #日本菜 #串揚 #串揚專門店 #啤酒買一送一 #高質 #性價比高 #大角咀 #大角咀美食 #香港美食 #香港串揚 #日式串燒 #串燒 #抵食 #魚生 #赤身 #打卡",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🔥🔥大角咀性價比超高既串揚專門店🔥🔥\n\n必食‼️✨廚師發辦隨機十串串揚✨$99\n\n大廚今日發辦咗鰻魚、大蝦、秋葵、多春魚、冬菇、韭菜卷、子薑、紫蘇雞同鵪鶉蛋比我地，蔬菜肉類同海鮮咩都有d，相當豐富‼️\n\n即叫即炸夠晒抵讚👍🏻👍🏻上枱串串都新鮮熱辣，金黃酥脆，炸漿夠薄又唔油，高質唔貴好抵食👍🏻👍🏻\n\n✨迷你丼✨ $158\n\n可以喺A、B、C項各揀一樣，最岩同朋友仔開心share😉\n\n面頭海鮮刺身仲要全部都係日本空運過嚟，部份仲需要預訂，質素有保證🥰\n\n我哋最後揀咗三文魚籽海膽丼、三文魚蟹子丼同火炙左口魚邊丼；海膽鮮甜Creamy、三文魚籽飽滿大粒、左口魚邊油潤細嫩、蟹子份量多到跌出嚟咁濟，入口個下絕對系瞳孔地震，一啖入魂😍\n\n✨蟹膏豆腐✨$48\n\n鹹鮮交織，完美平衡🤘🏻\n\n✨蟹子沙律✨$45\n\n清爽開胃，口感豐富💗\n\n✨燒花魚一夜乾✨$78\n\n咸香適中，油香十足、肉質仲要好札實🫶\n\n✨串燒雞腎2串✨$32\n\n✨串燒翠玉瓜2串✨$28\n\n清甜多汁，唔錯💕\n\n✨甲羅燒✨$88\n\n鮮味超濃郁，朋友超鍾意🥰\n\n✨霜降和牛粒溫泉蛋炒飯✨$92\n\n嫩滑和牛粒份量好多，好足料❗️加埋溫泉蛋汁同炒飯底，呢個組合夾到癲🤩\n\n✨沖繩海鹽梅子酢橘梳打✨$38\n\n酸甜度啱啱好，中晒我嘅審美🤩\n\n✨巨峰乳酸梳打✨$32\n\n味道好夠濃，唔會飲到尾冇晒味🫶\n\n🧡 呢期啤酒仲做緊買一送一優惠，生日訂枱仲送特大杯果味燒灼梳打，邊食邊飲更加爽，鍾意食日本嘢嘅你記得唔好錯過丫💗\n\n🛑吉勝吉列串揚專門店\n\n📍香港大角咀大全街48號大同新邨大榮樓地舖\n\n#吉勝吉列串揚專門店 #日本菜 #串揚 #串揚專門店 #啤酒買一送一 #高質 #性價比高 #大角咀 #大角咀美食 #香港美食 #香港串揚 #日式串燒 #串燒 #抵食 #魚生 #赤身 #打卡",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "felix Wong",
+          "uri": "https://www.google.com/maps/contrib/115142281193217679866/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6hBd4vRSlzv2yYNNQ1HFfRVl9RMN1OptqYGG6pyTmJpncIKJ-=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-06T08:16:55.464322459Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOSlpHNXFTVlY2YVhsTE5WUTNOVFZCYWs4NGIwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOSlpHNXFTVlY2YVhsTE5WUTNOVFZCYWs4NGIwRRAB!2m1!1s0x340401b8fc3560f7:0x8adce10bf3e65bf6"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401b8fc3560f7:0x8adce10bf3e65bf6!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10006119913563249654&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401b8fc3560f7:0x8adce10bf3e65bf6!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401b8fc3560f7:0x8adce10bf3e65bf6!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401b8fc3560f7:0x8adce10bf3e65bf6!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ92A1_LgBBDQR9lvm8wvh3Io/photos/Aa-ngMZEkXpwhZ9jkkM0RIK77ya8o5_32tChFwyyU0-wgJ-RCWM169QBY8IgkdiOiZ8TVr7ORD6f1NP6j3dOowvWUUQei16NQRpBty92MSzN5TmgrBDSCYTz73bHVMiVBCtMNTTm6ZWUtAMR2UWaQwkry2E95vGd-VHe0AiOI36m7fMGEA_gry9m0EUIspySZxpynsqS52C30t-9rr965DHf5QVJVE-8Q4jOLIDTFI5fsJcBVt6_kSs0rT3rrl5rOTYSyLxXFPH3oiUo6j8IT94PNZJKPz8XePfsWPMXR3DAs4ywNdzXd_4Lba1Pw2wwLYNcDDuaQ5UPKoZWanajE2mPqjZ4f1BMloUiOpL_LX1D1Em_AMrCReUHE_vkoWZ_JZvSJykhXBmeomz3_uvTUe6c8JzqW4k",
+      "widthPx": 2965,
+      "heightPx": 2964,
+      "authorAttributions": [
+        {
+          "displayName": "Kitsushou",
+          "uri": "https://maps.google.com/maps/contrib/108095804744448647053",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWafBqOfmKsJm_lXqzRVZGAZE9kIEfi7V3V_VeHDZvCcbH8ph5l=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDas-X1JA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDas-X1JA!2e10!4m2!3m1!1s0x340401b8fc3560f7:0x8adce10bf3e65bf6"
+    },
+    "local_path": "photos/ChIJ92A1_LgBBDQR9lvm8wvh3Io.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKP2yBdbslHwv0Bjvuf0Cfpi-vqozwjAthBKkQf3nc3_AchWSRho826cU1QGn2OhX3SpRD-Y2vGnKIwotY-ta_9Q19uWR925onIaXFog9gDuF0J5d7xmmUl8tCMLa_zwwFles0=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 1079238
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,330 @@
+{
+  "google_place_id": "ChIJQXJJEiEBBDQRl8Cg3M62-Jo",
+  "restaurant_ids": [
+    "restaurant:3112810549"
+  ],
+  "fetched_at": "2026-10-23T15:42:58.866058+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJQXJJEiEBBDQRl8Cg3M62-Jo",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6173 6543",
+    "internationalPhoneNumber": "+852 6173 6543",
+    "formattedAddress": "香港香港島跑馬地源遠街3號",
+    "location": {
+      "latitude": 22.269177600000003,
+      "longitude": 114.1859843
+    },
+    "rating": 4.9,
+    "googleMapsUri": "https://maps.google.com/?cid=11166876275646185623&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://fnroastery.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:30 – 17:30",
+        "星期二: 08:30 – 17:30",
+        "星期三: 08:30 – 19:30",
+        "星期四: 08:30 – 19:30",
+        "星期五: 08:30 – 19:30",
+        "星期六: 08:30 – 19:30",
+        "星期日: 08:30 – 19:30"
+      ],
+      "nextOpenTime": "2026-10-24T00:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 44,
+    "displayName": {
+      "text": "Full Nature Roastery",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJQXJJEiEBBDQRl8Cg3M62-Jo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVMGVYQklaR05yTFZwUGFscHRNa3BpWm5GR09YYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境和氣氛都好舒服，喜歡菜式的細緻度，十分推介Ocean Duo salad ，虎蝦的焦香、牛油果的綿滑；薄切青瓜口感好好，小小車厘茄也有處理過，還有奪目的食用花，爽脆的溫室菜（溫室就在眼前）…. 焙茶蛋糕和pasta也好好味～\n即炒咖啡豆後篇～酒香、果香、harmony 😌在家來一杯好啡～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境和氣氛都好舒服，喜歡菜式的細緻度，十分推介Ocean Duo salad ，虎蝦的焦香、牛油果的綿滑；薄切青瓜口感好好，小小車厘茄也有處理過，還有奪目的食用花，爽脆的溫室菜（溫室就在眼前）…. 焙茶蛋糕和pasta也好好味～\n即炒咖啡豆後篇～酒香、果香、harmony 😌在家來一杯好啡～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wai Yan Li",
+          "uri": "https://www.google.com/maps/contrib/113583615901464865670/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNnPCHjZAUGTLCpILsYu_ANI6EYngVu1nnLEjTBYm3MPCTIQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-15T23:32:21.024312488Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVMGVYQklaR05yTFZwUGFscHRNa3BpWm5GR09YYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVMGVYQklaR05yTFZwUGFscHRNa3BpWm5GR09YYxAB!2m1!1s0x3404012112497241:0x9af8b6cedca0c097"
+      },
+      {
+        "name": "places/ChIJQXJJEiEBBDQRl8Cg3M62-Jo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tobWNXd3djVXd3YVhGbFZISXdhMXAxWlhkNWVGRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "在繁華的跑馬地鬧市中，Full Nature Roastery 就像是一片隱世的綠洲。\n​這裡的環境舒適寧靜，空間設計簡約而溫馨，伴隨著耳邊流淌的柔和音樂，空氣中瀰漫著慵懶而放鬆的氣氛，讓人不由自主地把生活節奏慢了下來。\n​作為咖啡愛好者，這裡的咖啡絕對是一大亮點。今天點了一杯主打 nutty 風味的咖啡，濃郁的堅果與可可香氣，實屬極品。\n​這裡的早餐選擇更是多樣化，不論想吃輕食還是豐富的早午餐都能滿足。店員的服務貼心。今天特別品嚐了他們的 lemon pound cake，糕體紮實而濕潤，檸檬的清新不太酸，感覺啱啱好，真的非常好吃！\n​這次在 Full Nature Roastery 的體驗簡直無可挑剔。下次來到跑馬地，我一定會再回來！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "在繁華的跑馬地鬧市中，Full Nature Roastery 就像是一片隱世的綠洲。\n​這裡的環境舒適寧靜，空間設計簡約而溫馨，伴隨著耳邊流淌的柔和音樂，空氣中瀰漫著慵懶而放鬆的氣氛，讓人不由自主地把生活節奏慢了下來。\n​作為咖啡愛好者，這裡的咖啡絕對是一大亮點。今天點了一杯主打 nutty 風味的咖啡，濃郁的堅果與可可香氣，實屬極品。\n​這裡的早餐選擇更是多樣化，不論想吃輕食還是豐富的早午餐都能滿足。店員的服務貼心。今天特別品嚐了他們的 lemon pound cake，糕體紮實而濕潤，檸檬的清新不太酸，感覺啱啱好，真的非常好吃！\n​這次在 Full Nature Roastery 的體驗簡直無可挑剔。下次來到跑馬地，我一定會再回來！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Winthony Li",
+          "uri": "https://www.google.com/maps/contrib/105250144288922537940/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1R6fFa03CXtRGwWe0V5cvGKuEhIGOsP-aNBkA4MCIwS2z3g=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-20T08:34:22.248231480Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tobWNXd3djVXd3YVhGbFZISXdhMXAxWlhkNWVGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tobWNXd3djVXd3YVhGbFZISXdhMXAxWlhkNWVGRRAB!2m1!1s0x3404012112497241:0x9af8b6cedca0c097"
+      },
+      {
+        "name": "places/ChIJQXJJEiEBBDQRl8Cg3M62-Jo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOMmRsaEdhRGhNZFhGRkxYVk1RbnBJUlV3M1IzYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "值得再次到訪的cafe，可見他們對食物和飲品的執着，有別於現在一些打卡cafe。性價比極高，吃得出他們用心製作，環境舒服和寧靜，適合朋友聚會。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "值得再次到訪的cafe，可見他們對食物和飲品的執着，有別於現在一些打卡cafe。性價比極高，吃得出他們用心製作，環境舒服和寧靜，適合朋友聚會。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "shins",
+          "uri": "https://www.google.com/maps/contrib/113263864938006743149/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4R0YBSOhVlfaWFZtUhD_QAMSoz1PvuXVRzFLTH44fQzvKCw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-28T11:49:00.833401901Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOMmRsaEdhRGhNZFhGRkxYVk1RbnBJUlV3M1IzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOMmRsaEdhRGhNZFhGRkxYVk1RbnBJUlV3M1IzYxAB!2m1!1s0x3404012112497241:0x9af8b6cedca0c097"
+      },
+      {
+        "name": "places/ChIJQXJJEiEBBDQRl8Cg3M62-Jo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aV2FFOUxSVXBxVG5od1NVOW9Xa0p0U2pSV2VHYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 3,
+        "text": {
+          "text": "跑馬地咖啡店幾乎都聚集在100M内，這家不太顯眼的咖啡店在小橫街內。 走在大街上时，你可能不會察覺到它。 店的名字也簡單直接。 門口只有一個小牌子，上面有“FN”，這也是香港咖啡店的特色。不會有張燈結綵的大招牌門頭。\n門外有两個街景吸🚬🚬座位。 這條小街上須沒有太吸引的景觀但那些喜歡吸烟的人這是only choose，小店內一眼看通但座位亦不少，和大多數香港咖啡店一樣，也有早餐輕食之類提供，手沖的奶咖没有很多選擇，但咖啡豆是她們自家的出品，合上味就夠了🤗。 整體都是一間切實的咖啡店，來到跑馬地又可多一個考慮了。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "跑馬地咖啡店幾乎都聚集在100M内，這家不太顯眼的咖啡店在小橫街內。 走在大街上时，你可能不會察覺到它。 店的名字也簡單直接。 門口只有一個小牌子，上面有“FN”，這也是香港咖啡店的特色。不會有張燈結綵的大招牌門頭。\n門外有两個街景吸🚬🚬座位。 這條小街上須沒有太吸引的景觀但那些喜歡吸烟的人這是only choose，小店內一眼看通但座位亦不少，和大多數香港咖啡店一樣，也有早餐輕食之類提供，手沖的奶咖没有很多選擇，但咖啡豆是她們自家的出品，合上味就夠了🤗。 整體都是一間切實的咖啡店，來到跑馬地又可多一個考慮了。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cashbaba",
+          "uri": "https://www.google.com/maps/contrib/110654294594383241440/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl_PxMfQi9Wg5bOS5_eSz7UHm7dc35sCgJo387PnmoJntzRK4=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-26T01:17:26.988431095Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aV2FFOUxSVXBxVG5od1NVOW9Xa0p0U2pSV2VHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aV2FFOUxSVXBxVG5od1NVOW9Xa0p0U2pSV2VHYxAB!2m1!1s0x3404012112497241:0x9af8b6cedca0c097"
+      },
+      {
+        "name": "places/ChIJQXJJEiEBBDQRl8Cg3M62-Jo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4eVVEVmhXUzFRTlRWMVFsaERjbm96U1hoR1FWRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "第2次黎，因為太好食所以又要特登過黎跑馬地食，如果要黎食最好book位，坐位唔多，摸門釘就慘啦！\n\nRuga Bolohnese Casarecce $150\n\n牛味好香，個粉好特別，唔知係咪hand made，勁有口感，份量都好足！\n\nSiuhuan Pepper Fries $65\n\n花椒味薯條，炸得香脆，勁正，花椒味好香，唔算辣，食落去有d麻；如果怕辣可以撈d茄汁中和返，但就會無佐個花椒香味！\n\n朋友試佐個Nature's berries sourdough\n\n擺盤勁靚，藍莓竟然切成兩半，好有心機！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第2次黎，因為太好食所以又要特登過黎跑馬地食，如果要黎食最好book位，坐位唔多，摸門釘就慘啦！\n\nRuga Bolohnese Casarecce $150\n\n牛味好香，個粉好特別，唔知係咪hand made，勁有口感，份量都好足！\n\nSiuhuan Pepper Fries $65\n\n花椒味薯條，炸得香脆，勁正，花椒味好香，唔算辣，食落去有d麻；如果怕辣可以撈d茄汁中和返，但就會無佐個花椒香味！\n\n朋友試佐個Nature's berries sourdough\n\n擺盤勁靚，藍莓竟然切成兩半，好有心機！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Angus Sak Sir",
+          "uri": "https://www.google.com/maps/contrib/101636712391049134799/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKrV4fr8P0kx7vdY_WV1ibEbXcyKQ_shSbBquwb2isR_ibVnQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-01-23T11:09:42.215235626Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4eVVEVmhXUzFRTlRWMVFsaERjbm96U1hoR1FWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4eVVEVmhXUzFRTlRWMVFsaERjbm96U1hoR1FWRRAB!2m1!1s0x3404012112497241:0x9af8b6cedca0c097"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404012112497241:0x9af8b6cedca0c097!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11166876275646185623&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012112497241:0x9af8b6cedca0c097!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404012112497241:0x9af8b6cedca0c097!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012112497241:0x9af8b6cedca0c097!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJQXJJEiEBBDQRl8Cg3M62-Jo/photos/Aa-ngMbtPwuaoHpr0lAVtq08GVaJ3uCeacBZE_HUPgrf8VwQbY0bbyRp7bpVzFqV6mi_XeKy8TJCEknRdwdWezswR_rIFqc9-bU7nLUxT1bOdsaKGzBwPlIzsagjVTOWi4_kYDdJWOhPXc7QxWe9__OgencF9FPbMkksLODqLCbmS1zuG4nIpUBAWpjNIVk9ZBpUZXJsrDR--jDclJoEem8ySpY4YVzC7uVVia6HYjMLvzQY8hBaPdKcVm1qX1wiUgFmt3L-IQzC3SYw7Tug0h2epsmUXRWAyp91kzu0FunkdRRuuqIBfqBEAbcewCQZtJyVjwXSOSZnP_BsvQ9UYyOFy2MAjwDKlIhh2ib2abPWQNywFdrLhQtMjxu1k24igpFMPVHE9FX1cpG5dp24qDfqpgckqPCK09eOMR0ECmsxG1XtHg",
+      "widthPx": 1469,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "andy wong",
+          "uri": "https://maps.google.com/maps/contrib/113642035585037405258",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeRjsMpJJWk6MMwcA_Yd8IPbS-zxmC8I_ebBuprBuD-5No4nqJ2Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBKzf7-oNnWG-OggaewiOCr&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBKzf7-oNnWG-OggaewiOCr!2e10!4m2!3m1!1s0x3404012112497241:0x9af8b6cedca0c097"
+    },
+    "local_path": "photos/ChIJQXJJEiEBBDQRl8Cg3M62-Jo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvHHi7BRR_GizcNEtEDpD_B--IRZPNoIgTnAatJoOCZxSwAhg8WtFyZkwhVJWf8aqun6kFjab1tdcDq0opslK5t_7UEFpuPDQhqfdPrQY3DRczYDmOrPYjLCpjiVF5AV-tPFMUOAcxwIkb=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 171865
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://fnroastery.com/menu/",
+        "label": "Menu",
+        "source_url": "https://fnroastery.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://fnroastery.com/menu/"
+}

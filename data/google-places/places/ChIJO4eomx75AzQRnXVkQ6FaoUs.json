@@ -1,0 +1,327 @@
+{
+  "google_place_id": "ChIJO4eomx75AzQRnXVkQ6FaoUs",
+  "restaurant_ids": [
+    "restaurant:2291805658"
+  ],
+  "fetched_at": "2026-10-23T15:51:09.807135+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJO4eomx75AzQRnXVkQ6FaoUs",
+    "types": [
+      "tonkatsu_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5508 7029",
+    "internationalPhoneNumber": "+852 5508 7029",
+    "formattedAddress": "香港新界青衣青敬路33號青衣城1期2樓212A號舖",
+    "location": {
+      "latitude": 22.3589897,
+      "longitude": 114.1080011
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=5449736672761902493&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://tonkichi.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 28,
+    "displayName": {
+      "text": "Tonkichi とん吉– 日式吉列豬扒專門店 (青衣)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式炸豬排餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "tonkatsu_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJO4eomx75AzQRnXVkQ6FaoUs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SeVRFaFBVMUZVV0VGaWNqVmtaa3hPZERWR1pYYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食咗個$518兩人餐，埋單連加一及茶錢(每人$9)約$590。唔算平但味道唔錯，豬扒豬柳都炸到鬆化，又主動加飯加椰菜。坐得唔逼，服務更意外地出色，除咗主動幫我哋影合照，席間有個細路女扭計，喊得好大聲及好耐，佢父母無法子，已經開始影響到其他客人時，有一位女店長（穿西裝、染淺金髮bob hair的）埋去氹小朋友，小朋友即刻唔喊，好厲害！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食咗個$518兩人餐，埋單連加一及茶錢(每人$9)約$590。唔算平但味道唔錯，豬扒豬柳都炸到鬆化，又主動加飯加椰菜。坐得唔逼，服務更意外地出色，除咗主動幫我哋影合照，席間有個細路女扭計，喊得好大聲及好耐，佢父母無法子，已經開始影響到其他客人時，有一位女店長（穿西裝、染淺金髮bob hair的）埋去氹小朋友，小朋友即刻唔喊，好厲害！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "meling lam",
+          "uri": "https://www.google.com/maps/contrib/115813568181383675747/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXW4C0CTF9n1Hdfs_iQM0Zld7g0u0Odv_AsaD9drZdcFHMRlyAP2g=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-20T14:12:10.617944322Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SeVRFaFBVMUZVV0VGaWNqVmtaa3hPZERWR1pYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SeVRFaFBVMUZVV0VGaWNqVmtaa3hPZERWR1pYYxAB!2m1!1s0x3403f91e9ba8873b:0x4ba15aa14364759d"
+      },
+      {
+        "name": "places/ChIJO4eomx75AzQRnXVkQ6FaoUs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKNVIzTnlTM0pmVG0xak5HOXdiSEZXWlVGMGRYYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "我舉起那碗香噴噴的湯，眼前的畫面充滿了溫暖與期待，湯裡飄浮著肉片與蔬菜，仿佛在邀請我品嚐這份心意。每一舉一動間，湯的熱氣驅散了周圍的寒意，讓每一口都如同擁抱般溫暖，讓我忍不住感慨，這不只是一碗湯，更是親情與關懷的象徵！\n\n我掌心中的筷子夾起一塊炸物，那份期待如同春天的花朵般綻放。每一次的咀嚼，都是我對生活的讚美，當那滿足的滋味在口中蔓延，整個心都跟著舞動起來。看著這份美食，我總想要分享這份喜悅，與朋友共品這美妙的一刻，彷彿時間都因這一頓而靜止，留下無盡的美好回憶。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我舉起那碗香噴噴的湯，眼前的畫面充滿了溫暖與期待，湯裡飄浮著肉片與蔬菜，仿佛在邀請我品嚐這份心意。每一舉一動間，湯的熱氣驅散了周圍的寒意，讓每一口都如同擁抱般溫暖，讓我忍不住感慨，這不只是一碗湯，更是親情與關懷的象徵！\n\n我掌心中的筷子夾起一塊炸物，那份期待如同春天的花朵般綻放。每一次的咀嚼，都是我對生活的讚美，當那滿足的滋味在口中蔓延，整個心都跟著舞動起來。看著這份美食，我總想要分享這份喜悅，與朋友共品這美妙的一刻，彷彿時間都因這一頓而靜止，留下無盡的美好回憶。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Luke Wong",
+          "uri": "https://www.google.com/maps/contrib/108526512940963513041/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAYN6p6L-FuMTWaPAgWlM_wZkKIQkgHd3I-0P5gsG-YZx6dsUv=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-15T04:25:19.831970516Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKNVIzTnlTM0pmVG0xak5HOXdiSEZXWlVGMGRYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKNVIzTnlTM0pmVG0xak5HOXdiSEZXWlVGMGRYYxAB!2m1!1s0x3403f91e9ba8873b:0x4ba15aa14364759d"
+      },
+      {
+        "name": "places/ChIJO4eomx75AzQRnXVkQ6FaoUs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GNldGQkxkWEpvTUdadmNYZGFXbXRPWVZSVlNtYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "眼前的盛宴宛如藝術品般誘人，金黃酥脆的炸物隱藏著滿滿的海味，每一口都猶如在海浪中翻滾，帶來濃郁的幸福感。搭配清爽的生菜與蕎麥麵，彷彿在輕聲呼喚我：「一起來品味這份快樂吧！」那碗冒著熱氣的湯更是為這份美食，增添了一絲溫暖的擁抱，讓我深陷其中。\n\n近距離的特寫讓我感受到那剛出鍋的炸魚與蝦彷彿在向我招手。油亮的外皮散發出令人心動的香氣，仿佛每一口都是一個小小的慶祝，讓我的心情瞬間起舞。咬下去的那一刻，酥脆的口感和鮮美的內裡交織，彷彿在訴說著食物的故事，讓我無法抗拒。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "眼前的盛宴宛如藝術品般誘人，金黃酥脆的炸物隱藏著滿滿的海味，每一口都猶如在海浪中翻滾，帶來濃郁的幸福感。搭配清爽的生菜與蕎麥麵，彷彿在輕聲呼喚我：「一起來品味這份快樂吧！」那碗冒著熱氣的湯更是為這份美食，增添了一絲溫暖的擁抱，讓我深陷其中。\n\n近距離的特寫讓我感受到那剛出鍋的炸魚與蝦彷彿在向我招手。油亮的外皮散發出令人心動的香氣，仿佛每一口都是一個小小的慶祝，讓我的心情瞬間起舞。咬下去的那一刻，酥脆的口感和鮮美的內裡交織，彷彿在訴說著食物的故事，讓我無法抗拒。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Superman Wong",
+          "uri": "https://www.google.com/maps/contrib/115500224273737977789/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMbJrk0X3wwg66oc1fX9s1tuh5Qwl4OSMDkBzNnhLUjssVnWbLuQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-01-15T04:21:35.147307112Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GNldGQkxkWEpvTUdadmNYZGFXbXRPWVZSVlNtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GNldGQkxkWEpvTUdadmNYZGFXbXRPWVZSVlNtYxAB!2m1!1s0x3403f91e9ba8873b:0x4ba15aa14364759d"
+      },
+      {
+        "name": "places/ChIJO4eomx75AzQRnXVkQ6FaoUs/reviews/ChdDSUhNMG9nS0VJQ0FnTURJLW9YZTBRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "打從看到新餐廳廣告圍板裝修 就與好友相約要來吃！但第一次看到有餐廳在商場裝潢至少1年的🫣不過我們堅持等待，它現在終於開幕啦～ 我們也成功吃到啦～*（有先訂位，被安排坐在靚卡位）\n店員皆親切有禮，新開幕部份飲料買一送一，白飯、椰菜 可無限添加！用餐完畢，會送上水果（西瓜粒杯）+玄米茶～\n點了：小食（八爪魚芥辣秋葵）\n➊號餐×²： 吉列上級豬排、深海大蝦、廣島生蠔拌刺身定食\n➌號餐： 吉列深海大蝦、廣島生蠔、雞排、冷稻庭烏冬拌刺身定食\n白桃梳打🥤🥤\n結論：炸物都好好吃😋😋😋(個人覺得雞排比豬排還🤤)，椰菜絲 也很優(其中一位朋友連追加4次)，可搭配桌上的紫菜汁👍🏻 還有冷烏冬也好Q🤌🏻\n整體我們3人用餐開心🤙🏻，CP高，會再來🤗",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "打從看到新餐廳廣告圍板裝修 就與好友相約要來吃！但第一次看到有餐廳在商場裝潢至少1年的🫣不過我們堅持等待，它現在終於開幕啦～ 我們也成功吃到啦～*（有先訂位，被安排坐在靚卡位）\n店員皆親切有禮，新開幕部份飲料買一送一，白飯、椰菜 可無限添加！用餐完畢，會送上水果（西瓜粒杯）+玄米茶～\n點了：小食（八爪魚芥辣秋葵）\n➊號餐×²： 吉列上級豬排、深海大蝦、廣島生蠔拌刺身定食\n➌號餐： 吉列深海大蝦、廣島生蠔、雞排、冷稻庭烏冬拌刺身定食\n白桃梳打🥤🥤\n結論：炸物都好好吃😋😋😋(個人覺得雞排比豬排還🤤)，椰菜絲 也很優(其中一位朋友連追加4次)，可搭配桌上的紫菜汁👍🏻 還有冷烏冬也好Q🤌🏻\n整體我們3人用餐開心🤙🏻，CP高，會再來🤗",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CAROL TSENG",
+          "uri": "https://www.google.com/maps/contrib/100629893703329983932/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxUB2g7KFXxgzbQdqCViX_gGSosR2TSXmSUl52PJqenMYdnJuwfQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-04-09T05:59:34.685485Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJLW9YZTBRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJLW9YZTBRRRAB!2m1!1s0x3403f91e9ba8873b:0x4ba15aa14364759d"
+      },
+      {
+        "name": "places/ChIJO4eomx75AzQRnXVkQ6FaoUs/reviews/ChZDSUhNMG9nS0VKRzd5S0tNbHJqd1R3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "吃了一個精品豬扒迎新套餐。 有蝦，有蠔和有牛肉， 味道不錯。 職員 招呼很好。\n價錢方面如果你是買他們的現金券， 在某些時候可以結單詞回贈200元， 以1200的現金值 1400現金券，再加夜繽紛券， 相當於66 折，價錢公道了。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "吃了一個精品豬扒迎新套餐。 有蝦，有蠔和有牛肉， 味道不錯。 職員 招呼很好。\n價錢方面如果你是買他們的現金券， 在某些時候可以結單詞回贈200元， 以1200的現金值 1400現金券，再加夜繽紛券， 相當於66 折，價錢公道了。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sam Kwok",
+          "uri": "https://www.google.com/maps/contrib/106866406013323896448/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKA4OpWsXcVFV9dmjmH-Ae-mo77BWWbRZXMVFmrBrUIJGnMzw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-05-17T05:56:04.694261Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VKRzd5S0tNbHJqd1R3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VKRzd5S0tNbHJqd1R3EAE!2m1!1s0x3403f91e9ba8873b:0x4ba15aa14364759d"
+      }
+    ],
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f91e9ba8873b:0x4ba15aa14364759d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5449736672761902493&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f91e9ba8873b:0x4ba15aa14364759d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f91e9ba8873b:0x4ba15aa14364759d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f91e9ba8873b:0x4ba15aa14364759d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJO4eomx75AzQRnXVkQ6FaoUs/photos/Aa-ngMaSYv4RKBDaoduVC4ubbsPlMRQcwXlonmYLBhzHraklHAC8CN8cuglURNoUOrgJpbxhElWUDjw4A3znDhEMawKFcBw72oeMRL_YECAHiEDhxjAwPnEeLKXc-5Nik91kI0Bbsh-Abn9Rdx3L-tnf9qMDwL_Ic4xVkeurjyTKfTCoQ7lcwaAwBdXCuleBCzJ730H6_aV1K6MxBiZ8OuRawHCCXYHcqoN01iCUk5tfoO3Fkqk_k00nG5jmOgdVFnwA9Cqg8Sgx9qAvVrFOKx7paTlnQC2JQZkoXyplc93zix0Cd0BDgsuztfbisEgip4TnYDvh8YORlyl9CTzTPr1ltcKIZxtF7Vlcx0lZ-ZARqggDrmDuVIDgnKFJgciorG3CeRRU0pGS99hJA8_hw0ny8JB1BsSDkiRLaRlTZw-D0ifICw",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Tonkichi とん吉– 日式吉列豬扒專門店 (青衣)",
+          "uri": "https://maps.google.com/maps/contrib/118178719816054350396",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvoTlUbXQisLd0Dzzo3lxHHqYyNwcUkeJOA7KDYAKR3gEZ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDVX5jj0yGkG3TSl3ZI0RH5&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDVX5jj0yGkG3TSl3ZI0RH5!2e10!4m2!3m1!1s0x3403f91e9ba8873b:0x4ba15aa14364759d"
+    },
+    "local_path": "photos/ChIJO4eomx75AzQRnXVkQ6FaoUs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0taNgp1WGVFvtn3a00mo2srsDXi9J0I5rv1C62kK0DDGnEEe-OMRhufM3pN_W2AdBXeTUE6UxieQobvqaoaH3FE2zeIJ372nm0oM2qQmjqNLll4V6p-1wbZRBYHHhT4QdAMyYc_8WuRq2=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 128210
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://tonkichi.com.hk/Reservation.html",
+        "label": "網上訂座︱外賣自取 Reservation︱Takeaway",
+        "source_url": "https://tonkichi.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "tonkatsu_restaurant",
+    "label": "日式炸豬排餐廳",
+    "types": [
+      "tonkatsu_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://tonkichi.com.hk/Reservation.html",
+  "menu_url": null
+}

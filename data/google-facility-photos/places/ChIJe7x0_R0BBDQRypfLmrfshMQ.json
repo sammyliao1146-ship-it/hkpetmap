@@ -1,0 +1,38 @@
+{
+  "id": "ChIJe7x0_R0BBDQRypfLmrfshMQ",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島灣仔軒尼詩道417至421號5樓419室",
+  "location": {
+    "latitude": 22.279453,
+    "longitude": 114.1807668
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14160703401679886282&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "貓之旅舍",
+    "languageCode": "zh"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJe7x0_R0BBDQRypfLmrfshMQ/photos/Aa-ngMbKzQ3OkBb8H9qKLBI4HjvdRXkeADFcNFxvAUU1-Dt6Ku8KjJ8-tqQV4qJ71f5ToJ-D4-sA_q80Cv22cFTmhPFe1YkQPKKhP8T3cF_VS48LsWOJOdA3jeP7LqTA79KN7GgVKmnX74e2Bs-w2DoawYjcHmhyQuOHHhzlODjl_FLjwBkP89PShve5bb9Hgy1LRRQFzD-TY4NODfRfcJzCDDoKTqNCyAgYK-IEkg8zy_rfouXI_CEJsVWRG99o6L9vCnDl_loXATRqguJx7y88XvmdU05LaSGQ_32XqJ2ggxh0DMev-4su97DGwazA67EQjHjlmIpaH_VVp1A2_H7d09HL-siRSOr1rW00s5_2yZgxBQYSt_zcL2X3MVpevPMzw59lx2M8MBtXiN9xPwhYnwD3jg",
+      "widthPx": 768,
+      "heightPx": 1024,
+      "authorAttributions": [
+        {
+          "displayName": "貓之旅舍",
+          "uri": "https://maps.google.com/maps/contrib/118130585889730114885",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlVM3sOsTcHqfDlU1tP5t8-v4m48ZdJp1MapogeFYBknsJyw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIChvomNGg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChvomNGg!2e10!4m2!3m1!1s0x3404011dfd74bc7b:0xc484ecb79acb97ca"
+    }
+  ],
+  "photo_count": 6,
+  "fetched_at": "2026-10-24T00:38:11.314121+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ChIJRS3wfd35AzQRVXUyFEjsl-g",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界石湖塘錦上路村30號",
+  "location": {
+    "latitude": 22.4285659,
+    "longitude": 114.0706024
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16760124332603241813&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "HoneyPet HK",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJRS3wfd35AzQRVXUyFEjsl-g/photos/Aa-ngMaxP_e31SdrHAUWpuGvcMov6SwZ62WM23jAW3GSQ4KcwjBmT4P4QUX-V6e_2WuJ5z45rOD_f2npSjcPfEWW9sWHv1vCf60apDex7QOS5lYoYRnCk_oS83h3fYMECafeO4HH3MoDJYTKIeGAvCgfffmy9BuKx1LFEbZjVJZo-0VQv0nPEQbBHRx01mkYF2V1CEwTRjOhEAJTpE5ckGzz4ek3ZSINvHmalSghMLde68g3gjoQnwx0zY7haNJDYvMg_d10rAeLHeyM6P2I0AzcXAA-1FApq0bE7K25eKsNlKbWfALWmfHB2R28sxIrix3boC-wHgDlFygi3bF93b9dMuEzf3Y5QNi0spaJI4wIAslrhcN-_OjkY5-p_guYZ8jwrqQ9Me_pKZixS2AciFit6LkdJ9CJ",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "authorAttributions": [
+        {
+          "displayName": "Ricky Tam",
+          "uri": "https://maps.google.com/maps/contrib/103596591452072360990",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHrA4dwID7KJl4m5QKE83wdWhh1gX9i-NPt-bUkBstU4N-d51W2Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4-anz9AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4-anz9AE!2e10!4m2!3m1!1s0x3403f9dd7df02d45:0xe897ec4814327555"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:07.400321+00:00"
+}

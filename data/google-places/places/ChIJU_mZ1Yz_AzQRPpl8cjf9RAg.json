@@ -1,0 +1,346 @@
+{
+  "google_place_id": "ChIJU_mZ1Yz_AzQRPpl8cjf9RAg",
+  "restaurant_ids": [
+    "restaurant:2218819586"
+  ],
+  "fetched_at": "2026-10-23T15:44:39.282528+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJU_mZ1Yz_AzQRPpl8cjf9RAg",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2798 0700",
+    "internationalPhoneNumber": "+852 2798 0700",
+    "formattedAddress": "Shop 1, G/F, Hang Sing Mansion, 48-78 High St, Sai Ying Pun, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.285118699999998,
+      "longitude": 114.141795
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=595879465305545022&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://kuccinadellapasta.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 22:00",
+        "星期二: 11:00 – 22:00",
+        "星期三: 11:00 – 22:00",
+        "星期四: 11:00 – 22:00",
+        "星期五: 11:00 – 22:00",
+        "星期六: 11:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 79,
+    "displayName": {
+      "text": "Kuccina della Pasta",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "義大利餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "italian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJU_mZ1Yz_AzQRPpl8cjf9RAg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sTGF6bERWekpYWDBsRVFtbEJlWEZJUkVka1MzYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "晚餐喺foodpanda叫二人餐超抵，意粉薯條都好好食\n推薦卡邦尼同埋辣長通粉",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晚餐喺foodpanda叫二人餐超抵，意粉薯條都好好食\n推薦卡邦尼同埋辣長通粉",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Coco Chan",
+          "uri": "https://www.google.com/maps/contrib/105933898385704040459/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXn-e0ArmTJH0yCiPwov7n_5wPTlh-GOmmzvk5cWvMz6xj9l3I1=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-31T11:16:20.593794915Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sTGF6bERWekpYWDBsRVFtbEJlWEZJUkVka1MzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sTGF6bERWekpYWDBsRVFtbEJlWEZJUkVka1MzYxAB!2m1!1s0x3403ff8cd599f953:0x844fd37727c993e"
+      },
+      {
+        "name": "places/ChIJU_mZ1Yz_AzQRPpl8cjf9RAg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKZlFUSXhYMVpZVDI5R1QyVTRaemRyT1ZFMk5FRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "The foods are really good and delicious😋 意粉好好食, 好耐冇食過咁濃味同高質嘅pasta, 如果住附近一定會經常去, 太好吃了",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "The foods are really good and delicious😋 意粉好好食, 好耐冇食過咁濃味同高質嘅pasta, 如果住附近一定會經常去, 太好吃了",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "PANPY NGAI",
+          "uri": "https://www.google.com/maps/contrib/116652452161922999505/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLysoLFKvck5JVHYn464zxszLM3tStH0r4qj9l380cnhljyOQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-06-24T00:32:05.026535666Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKZlFUSXhYMVpZVDI5R1QyVTRaemRyT1ZFMk5FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKZlFUSXhYMVpZVDI5R1QyVTRaemRyT1ZFMk5FRRAB!2m1!1s0x3403ff8cd599f953:0x844fd37727c993e"
+      },
+      {
+        "name": "places/ChIJU_mZ1Yz_AzQRPpl8cjf9RAg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwMmR6QkZSM1ZyY214aWMwWjVWM2hEUkcxMlRIYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 1,
+        "text": {
+          "text": "食正常combo set $138居然同58元的學生餐一樣質量。重要我有10%service charge 學生完全唔使\n千層麵離譜到得一張闊麵，一層肉醬同一層芝士！\nPizza 完全係 circle K 果種pizza，明顯放入microwave 加熱。真心嬲。\n138元不是高級的價錢，但你俾D咁的嘢我，我真係冇言",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食正常combo set $138居然同58元的學生餐一樣質量。重要我有10%service charge 學生完全唔使\n千層麵離譜到得一張闊麵，一層肉醬同一層芝士！\nPizza 完全係 circle K 果種pizza，明顯放入microwave 加熱。真心嬲。\n138元不是高級的價錢，但你俾D咁的嘢我，我真係冇言",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "hanny chan",
+          "uri": "https://www.google.com/maps/contrib/113197646102431003394/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLxewucWnpny3Z1YCLwBY5XUiLrKS6OPHsolCZfZipJ5pTKFA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-30T09:44:46.276785875Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwMmR6QkZSM1ZyY214aWMwWjVWM2hEUkcxMlRIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwMmR6QkZSM1ZyY214aWMwWjVWM2hEUkcxMlRIYxAB!2m1!1s0x3403ff8cd599f953:0x844fd37727c993e"
+      },
+      {
+        "name": "places/ChIJU_mZ1Yz_AzQRPpl8cjf9RAg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tScWEySnZSVEZRVW5sVVRsUjJSVGxYWVZkRk1VRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "大學生餐牌比中學生餐牌貴一半，如此違背學生餐的初衷，令人不敢置信。我永遠不會來光顧。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大學生餐牌比中學生餐牌貴一半，如此違背學生餐的初衷，令人不敢置信。我永遠不會來光顧。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "楓葉",
+          "uri": "https://www.google.com/maps/contrib/109479368968009898942/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKdZZPGkZF5XCv2dZ2Vc0h-VPs_MCHb0eMH-JU0eRd4356Npg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-09-18T08:21:00.524592421Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tScWEySnZSVEZRVW5sVVRsUjJSVGxYWVZkRk1VRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tScWEySnZSVEZRVW5sVVRsUjJSVGxYWVZkRk1VRRAB!2m1!1s0x3403ff8cd599f953:0x844fd37727c993e"
+      },
+      {
+        "name": "places/ChIJU_mZ1Yz_AzQRPpl8cjf9RAg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GTlYyZFNSRTFyZFdwQlVHbE9aMmhXU0hSTVpVRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 1,
+        "text": {
+          "text": "我點了一份雞肉蒜蓉意麵和一杯健怡可樂，這明明很簡單，結果他們端上來的是這個。於是我問，我能給我看看雞肉嗎？他們立刻把意麵拿回廚房了。 10分鐘後，他們端上來一塊雞胸肉。我估計他們從開業以來就一直這樣服務顧客，而且他們似乎對這種不誠實的行為毫不在意。哦，對了，還要收10%的服務費…？就為了什麼？就為了倒杯水？這不是最基本的服務嗎？",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Ordered a chicken and garlic linguine and a diet coke, so easy to make and they served me this. So I asked, could you show me the chicken? They took it back to kitchen instantly. 10mins later they came back with a chicken breast on top. I would imagine this is how they serve people since they opened, and they have had no problem treating people with dishonesty. Oh and 10% service charge for…? Nothing? Bringing water to table? Isn’t that just the basics?",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Muye Wang",
+          "uri": "https://www.google.com/maps/contrib/104542975875736961116/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJs05nSZU5QjqPgHRg_jtcH_Lk9U6smxNu1a78QAf-_68D7JA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-05T04:19:33.536222120Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GTlYyZFNSRTFyZFdwQlVHbE9aMmhXU0hSTVpVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GTlYyZFNSRTFyZFdwQlVHbE9aMmhXU0hSTVpVRRAB!2m1!1s0x3403ff8cd599f953:0x844fd37727c993e"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": false,
+      "freeStreetParking": true,
+      "paidStreetParking": true,
+      "freeGarageParking": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff8cd599f953:0x844fd37727c993e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=595879465305545022&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff8cd599f953:0x844fd37727c993e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff8cd599f953:0x844fd37727c993e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff8cd599f953:0x844fd37727c993e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJU_mZ1Yz_AzQRPpl8cjf9RAg/photos/Aa-ngMb0_5Y6ZlGl4t_tPB5OttYmJsu5QOTs5Cx7fxL4sN71d7O46k6jLyNs_c8fJk1UDB2qReGcX2SHg8GPuprvA5vSY-p2FexfbsVESwLlVBqMNg5RoQlzB2OOcEqln8SXg28Qsj6m-lcduC8KoBDtqzbCpA3eCmxB_l6NF89BqS8x82OHHHXQpOqBgXlZAxUTgL_w8c3ZuZGHaPuZMREDt5zOP0DK9aspU-Gmfb-VMj9DJB2bxst-QQ_Im7ohCb4L8Zm7K_opRrkS2G5A27IqAJIgR4G_qX_IFO421d-8Ipyj1ptwk4RDdwGN3V3kkv6MeO5gFIh4YtEjOreGsuN76VHi8vuUQW0bEtCUh2ix_4Je1m8DVaUcFmZhfxNcwB4uUDIAph0VJTIdRcBqKC7t9LWtR4l3P2jZUOPfYSJvrAjOnw",
+      "widthPx": 2309,
+      "heightPx": 3464,
+      "authorAttributions": [
+        {
+          "displayName": "Kuccina della Pasta",
+          "uri": "https://maps.google.com/maps/contrib/113470758012575963059",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNDnVC1Ytk_rDnzB54jNnFh2l1UtC--qiSsnmc6u3xQmFRacE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD4tsFcs2jxpYZHYp40rAjr&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD4tsFcs2jxpYZHYp40rAjr!2e10!4m2!3m1!1s0x3403ff8cd599f953:0x844fd37727c993e"
+    },
+    "local_path": "photos/ChIJU_mZ1Yz_AzQRPpl8cjf9RAg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSh3uhwia16Pyk95qb5_bRDZVRJ5aZRJVZT2IfW7AFUp68nArtwzK0yQFsZE60w-l_wqTN_w9OyGDu-2eZS1py2HL4LGP-gKPBV6-DoeaE5SQa8RG17K85sb4o4d8Zj8jHwBUbndh-KgMD=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 244252
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.kuccinadellapasta.com/s/KdP-Menu-for-reference-only.pdf",
+        "label": "Menu",
+        "source_url": "https://www.kuccinadellapasta.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "italian_restaurant",
+    "label": "義大利餐廳",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.kuccinadellapasta.com/s/KdP-Menu-for-reference-only.pdf"
+}

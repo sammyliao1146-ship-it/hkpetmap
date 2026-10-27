@@ -1,0 +1,314 @@
+{
+  "google_place_id": "ChIJPxQDJAD_AzQRLb_2om497XI",
+  "restaurant_ids": [
+    "restaurant:3118811298"
+  ],
+  "fetched_at": "2026-10-23T15:41:17.646101+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJPxQDJAD_AzQRLb_2om497XI",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9847 9187",
+    "internationalPhoneNumber": "+852 9847 9187",
+    "formattedAddress": "香港香港島堅尼地城山市街1J號",
+    "location": {
+      "latitude": 22.2829144,
+      "longitude": 114.130331
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=8281342835193986861&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 11:30 – 21:30",
+        "星期三: 11:30 – 21:30",
+        "星期四: 11:30 – 21:30",
+        "星期五: 11:30 – 21:30",
+        "星期六: 10:00 – 21:30",
+        "星期日: 10:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 34,
+    "displayName": {
+      "text": "Cafe Polarize",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJPxQDJAD_AzQRLb_2om497XI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJMlFXeHpaQzE2UjBaR2VIaFdTbGRNZFhnNWJFRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "堅尼地城都算美食沙漠，但呢間Cafe Polarize, 之前試過咖啡同意粉但冇出過post, 有點遺憾。今次經過想試下Soft cookie 同埋cold brew coffee, chocolate soft cookie 外脆內軟，甜度啱啱好，cold brew confirmed 係我杯茶， 唔太識品評咖啡，但啱口味係好難得，仲有店主好靚女😆 佢話有cheesecake，下次一定要試😛",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "堅尼地城都算美食沙漠，但呢間Cafe Polarize, 之前試過咖啡同意粉但冇出過post, 有點遺憾。今次經過想試下Soft cookie 同埋cold brew coffee, chocolate soft cookie 外脆內軟，甜度啱啱好，cold brew confirmed 係我杯茶， 唔太識品評咖啡，但啱口味係好難得，仲有店主好靚女😆 佢話有cheesecake，下次一定要試😛",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mic Mic",
+          "uri": "https://www.google.com/maps/contrib/117654775435899184535/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpxbNXDZ7O__d0Uw6pg3JWt9skYAqZi_9iltHVoaltFbhamEIH=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-07T07:24:12.391917669Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJMlFXeHpaQzE2UjBaR2VIaFdTbGRNZFhnNWJFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJMlFXeHpaQzE2UjBaR2VIaFdTbGRNZFhnNWJFRRAB!2m1!1s0x3403ff002403143f:0x72ed3d6ea2f6bf2d"
+      },
+      {
+        "name": "places/ChIJPxQDJAD_AzQRLb_2om497XI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KRmMxRm5VREF3VVdFeWRXaHBRbXA1WmxRek0yYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "【西環轉角位高質cafe】\n📍堅尼地城\n自從轉咗工之後，就差唔多有4年無再嚟堅尼地城。早排要去數碼巷睇展覽，特登「舊地重遊」，發掘咗啲間cafe🤩!\n\n🇦🇷🦐阿根廷天使紅蝦及自家製鮮蝦濃湯飲管粉  Argentina Red Prawn Bucatini in Homemade Prawn Bisque：$128\n飲管粉傳嚟陣陣蝦湯鮮味😍，有驚喜🤩～如果可以有埋蝦湯飲，一定會令味蕾升華🤣‼️\n\n🍷🐮紅酒慢燉牛小排長通粉 Rigatoni with Wine-braised Short Ribs Ragu：$128\n牛肉非常淋😍，相信一定燉咗好耐～味道濃郁😋👍🏻！\n\n仲有午餐包一壺熱茶🫖\n伯爵紅茶 Earl Grey\n金龍茉莉花茶 Jasmine Gold Dragon\n\n總結：當日落雨濕濕，好好彩嚟到唔洗等位🤣，坐咗最後一張吉枱先有機會試到咁好食嘅pasta😍‼️兩碟pasta太好味🤤，勁快食曬🥹，份量多啲會更perfect😆！同埋好鐘意個menu設計，咖啡豆袋放曬所有menu，每張都唔同長度，分門別類，方便客人一見到就拎嚟睇，又靚又有特色👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "【西環轉角位高質cafe】\n📍堅尼地城\n自從轉咗工之後，就差唔多有4年無再嚟堅尼地城。早排要去數碼巷睇展覽，特登「舊地重遊」，發掘咗啲間cafe🤩!\n\n🇦🇷🦐阿根廷天使紅蝦及自家製鮮蝦濃湯飲管粉  Argentina Red Prawn Bucatini in Homemade Prawn Bisque：$128\n飲管粉傳嚟陣陣蝦湯鮮味😍，有驚喜🤩～如果可以有埋蝦湯飲，一定會令味蕾升華🤣‼️\n\n🍷🐮紅酒慢燉牛小排長通粉 Rigatoni with Wine-braised Short Ribs Ragu：$128\n牛肉非常淋😍，相信一定燉咗好耐～味道濃郁😋👍🏻！\n\n仲有午餐包一壺熱茶🫖\n伯爵紅茶 Earl Grey\n金龍茉莉花茶 Jasmine Gold Dragon\n\n總結：當日落雨濕濕，好好彩嚟到唔洗等位🤣，坐咗最後一張吉枱先有機會試到咁好食嘅pasta😍‼️兩碟pasta太好味🤤，勁快食曬🥹，份量多啲會更perfect😆！同埋好鐘意個menu設計，咖啡豆袋放曬所有menu，每張都唔同長度，分門別類，方便客人一見到就拎嚟睇，又靚又有特色👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "letsbefoodietgt2",
+          "uri": "https://www.google.com/maps/contrib/110474030393714276195/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKc8S9YQ7VLeGa_AWSgKYxf3XTK05duQMOMUzeh5W-MS2tvdA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-12T08:43:32.810390200Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KRmMxRm5VREF3VVdFeWRXaHBRbXA1WmxRek0yYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KRmMxRm5VREF3VVdFeWRXaHBRbXA1WmxRek0yYxAB!2m1!1s0x3403ff002403143f:0x72ed3d6ea2f6bf2d"
+      },
+      {
+        "name": "places/ChIJPxQDJAD_AzQRLb_2om497XI/reviews/ChZDSUhNMG9nS0VJQ0FnSURQcnVDMWFBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "堅尼地城嘅𝐜𝐚𝐟𝐞選擇多，但轉變很快，競爭激烈自然汰弱留強！這間在街道轉角的小店，裝修簡約骨緻，走低調的藍灰調，陽光打在招牌上，顯得份外寫意\n\n不論咖啡、主菜定甜品都很高質，值得支持！\n\n⠀⣀⣀⣤⣤⣤⣤⣄⣀⣀⠀⠀⢀⣀⣀⣠⣤⣤⣤⣴⣤⣀⠀\n\n❥開心果鮮奶\n採用自家製開心果醬做base，入口先係一口奶泡，也相當意外揮發出開心果味\n\n❥精品咖啡☕️\n選了Fruity，店員推介Columbia 嘅QUINDIO FINGA JARDNZS Del EDEN\n味道中會夾雜strawberry, wine & passionfruit\n\n佢哋教我品嚐嘅方式同次序\n用矮啲圓身嘅厚杯可以試得出果香🍓，而用薄身高杯可以嚐得出酸味🍾\n\n⠀⠀⠀⠀⠀⠈⠋⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀\n❥自家製虎蝦濃湯飲管粉\n麵條被濃湯包裹住，入口係海蝦嘅鹹鮮味🦐\n\n⠘⠟⠋⢉⣠⣤⣭⣭⠭⡍⠀⠀⠀⢩⠭⣭⣭⣤⣄⡈⠙⠻⠂\n\n❥手撕豬三文治\n加入用咖啡熬製嘅BBQ醬，煙熏味特別突出\n\n⠀⠀⠴⠯⢽⣿⡿⣹⣍⠟⠀⠀⠀⠻⠸⠏⠿⠿⠧⡽⠂⠀⠀\n\n❥法式焦糖吉士西多士配特濃咖啡馬斯卡彭芝\n士\n使用咖啡混合馬斯卡彭芝士，令成份甜品多一份層次，亦冇咁飽滯\ntoast嘅焦糖控制得剛好🥹，唔係硬焦味，係薄脆❕❕\n\nCafe Polarize (西環)\n西環堅尼地城山市街1J號地舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "堅尼地城嘅𝐜𝐚𝐟𝐞選擇多，但轉變很快，競爭激烈自然汰弱留強！這間在街道轉角的小店，裝修簡約骨緻，走低調的藍灰調，陽光打在招牌上，顯得份外寫意\n\n不論咖啡、主菜定甜品都很高質，值得支持！\n\n⠀⣀⣀⣤⣤⣤⣤⣄⣀⣀⠀⠀⢀⣀⣀⣠⣤⣤⣤⣴⣤⣀⠀\n\n❥開心果鮮奶\n採用自家製開心果醬做base，入口先係一口奶泡，也相當意外揮發出開心果味\n\n❥精品咖啡☕️\n選了Fruity，店員推介Columbia 嘅QUINDIO FINGA JARDNZS Del EDEN\n味道中會夾雜strawberry, wine & passionfruit\n\n佢哋教我品嚐嘅方式同次序\n用矮啲圓身嘅厚杯可以試得出果香🍓，而用薄身高杯可以嚐得出酸味🍾\n\n⠀⠀⠀⠀⠀⠈⠋⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀\n❥自家製虎蝦濃湯飲管粉\n麵條被濃湯包裹住，入口係海蝦嘅鹹鮮味🦐\n\n⠘⠟⠋⢉⣠⣤⣭⣭⠭⡍⠀⠀⠀⢩⠭⣭⣭⣤⣄⡈⠙⠻⠂\n\n❥手撕豬三文治\n加入用咖啡熬製嘅BBQ醬，煙熏味特別突出\n\n⠀⠀⠴⠯⢽⣿⡿⣹⣍⠟⠀⠀⠀⠻⠸⠏⠿⠿⠧⡽⠂⠀⠀\n\n❥法式焦糖吉士西多士配特濃咖啡馬斯卡彭芝\n士\n使用咖啡混合馬斯卡彭芝士，令成份甜品多一份層次，亦冇咁飽滯\ntoast嘅焦糖控制得剛好🥹，唔係硬焦味，係薄脆❕❕\n\nCafe Polarize (西環)\n西環堅尼地城山市街1J號地舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gamui",
+          "uri": "https://www.google.com/maps/contrib/106833510053223262614/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWC4rHridAldoZCggeMyL3lbpjhzgHNmwBexCIJfxvzmhj25Scy=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-12-02T10:32:53.206496Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQcnVDMWFBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQcnVDMWFBEAE!2m1!1s0x3403ff002403143f:0x72ed3d6ea2f6bf2d"
+      },
+      {
+        "name": "places/ChIJPxQDJAD_AzQRLb_2om497XI/reviews/ChZDSUhNMG9nS0VJQ0FnSURYajhEVE1BEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "今日朝早搵完朋友之後想搵間Coffee Shop 做下野\n佢話屋企附近開左間Cafe唔錯叫我去試下 行去途中發覺原來同地鐵站咁近\n頭先行去搵朋友個陣原來已經行過左佢\n間Cafe係個轉彎位到所以真係唔多覺眼😂\n係門口睇完menu見佢地做緊lunch set 叫左個Carbonana同latte\n因為我自己都好鐘意飲咖啡所以問店員用 緊咩咖啡豆話用緊Ethiopia Natural偏向堅果風味\n係我鐘意嘅味道☺️\nCarbonara幾好食Pancetta好厚日本蛋黃撈左係意粉入面好creamy\n啲汁掛哂係意粉上面食完唔會水汪汪簡單中見到誠意\n見佢地都有做手沖咖啡仲要有guest bean 同自己炒豆\n\n已經約左朋友下星期試下\n香港小店唔易做值得支持 加油💪🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日朝早搵完朋友之後想搵間Coffee Shop 做下野\n佢話屋企附近開左間Cafe唔錯叫我去試下 行去途中發覺原來同地鐵站咁近\n頭先行去搵朋友個陣原來已經行過左佢\n間Cafe係個轉彎位到所以真係唔多覺眼😂\n係門口睇完menu見佢地做緊lunch set 叫左個Carbonana同latte\n因為我自己都好鐘意飲咖啡所以問店員用 緊咩咖啡豆話用緊Ethiopia Natural偏向堅果風味\n係我鐘意嘅味道☺️\nCarbonara幾好食Pancetta好厚日本蛋黃撈左係意粉入面好creamy\n啲汁掛哂係意粉上面食完唔會水汪汪簡單中見到誠意\n見佢地都有做手沖咖啡仲要有guest bean 同自己炒豆\n\n已經約左朋友下星期試下\n香港小店唔易做值得支持 加油💪🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "wong cclya",
+          "uri": "https://www.google.com/maps/contrib/116564455294470173179/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKE985t_6jMM2WHsZz6QdoBlGz6Z2sV7WgQq7OSjtv9Jg5Fiw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-11-01T02:53:25.504139Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYajhEVE1BEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYajhEVE1BEAE!2m1!1s0x3403ff002403143f:0x72ed3d6ea2f6bf2d"
+      },
+      {
+        "name": "places/ChIJPxQDJAD_AzQRLb_2om497XI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CYVpHaHBhVXQxYTNKcVluRXpaaTA1UVdOT1pHYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物和咖啡很出色，很舒適的用餐地點，員工很友善。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物和咖啡很出色，很舒適的用餐地點，員工很友善。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chun Man Chan",
+          "uri": "https://www.google.com/maps/contrib/111000226397008956914/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1f_fX7AYn6CeoCMz-eVscmy78hLK3CcSLqH3VsNlO9Tgo-w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-09T15:26:42.770298386Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CYVpHaHBhVXQxYTNKcVluRXpaaTA1UVdOT1pHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CYVpHaHBhVXQxYTNKcVluRXpaaTA1UVdOT1pHYxAB!2m1!1s0x3403ff002403143f:0x72ed3d6ea2f6bf2d"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff002403143f:0x72ed3d6ea2f6bf2d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8281342835193986861&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff002403143f:0x72ed3d6ea2f6bf2d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff002403143f:0x72ed3d6ea2f6bf2d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff002403143f:0x72ed3d6ea2f6bf2d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJPxQDJAD_AzQRLb_2om497XI/photos/Aa-ngMYRsRpGPjAE0o0yyk7zuvW8MZgFkMtB0AfagYhkUIhcoD_951ci6S_iflmDOjn0HX12AnCSENtD5lrvzNX99TQfef5VhvUYoFqgsx5kNnb0lR93BBdUD7E9GIUpNjPdvAQQDKZ3bAcL_x5uaAd93AX2VUs-_yg1H2ZHuqOi4csWxpjdwxm9GWhTN9TVKVv8jfyEm2T1wYFPF3qO0FSA9aZsj_eTSGZThs_Zgru3e_hhHuDdP70FGqPFwd-0MNxHeK8J8DH7zVv_tT4xHfBLA1C6echSsNRgsr3R_oLtB4k6vKuv4kIO8HpPAo1maP0pmLifaf0WktiHNJODCNJboFCLWPi_Gozn3_PPnAV0LjbcIMpFU8Mf1R-Hfw94ZND2tU7U5ofINZFciW8lgdQoWYB3jxs",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Belly_Honest",
+          "uri": "https://maps.google.com/maps/contrib/112064559851918774298",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2Jgz_wzeSbEqzDuQbfHGYnyzUVLVXyPj5eiW1WDO1j9mXmLY=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDHuNbFBw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHuNbFBw!2e10!4m2!3m1!1s0x3403ff002403143f:0x72ed3d6ea2f6bf2d"
+    },
+    "local_path": "photos/ChIJPxQDJAD_AzQRLb_2om497XI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKjxXE7901LE1CTHLmLaoltvv75mqvUCOBhM82N2Rf8BlUVf2GqhzcYnpxiIo0C8MYaCBPYa5kfnPO-KGQKVQhYPaBqJge09tbuwa57OzhH6dDVczzurBOU8JUJuwjauvh1Qos=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 269309
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

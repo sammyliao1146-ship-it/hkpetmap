@@ -1,0 +1,406 @@
+{
+  "google_place_id": "ChIJ79VX2MgDBDQRggzHtqcGI_8",
+  "restaurant_ids": [
+    "restaurant:2298806997"
+  ],
+  "fetched_at": "2026-10-23T15:50:12.024769+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ79VX2MgDBDQRggzHtqcGI_8",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9849 1803",
+    "internationalPhoneNumber": "+852 9849 1803",
+    "formattedAddress": "香港新界將軍澳唐俊街12號天晉匯一期地下G06號舖",
+    "location": {
+      "latitude": 22.3062096,
+      "longitude": 114.26052790000001
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=18384545421252299906&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 16:00 – 21:30",
+        "星期二: 12:00 – 15:00, 16:00 – 21:30",
+        "星期三: 12:00 – 15:00, 16:00 – 21:30",
+        "星期四: 12:00 – 15:00, 16:00 – 21:30",
+        "星期五: 12:00 – 15:00, 16:00 – 21:30",
+        "星期六: 12:00 – 15:00, 16:00 – 21:30",
+        "星期日: 12:00 – 15:00, 16:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 169,
+    "displayName": {
+      "text": "泰Grill",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ79VX2MgDBDQRggzHtqcGI_8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKeVFrVlliVXBMYm1KUFYybGhUMWR4Y1RCWVQxRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "晏晝同同事食Lunch，發掘到將軍澳呢間隱世又高質嘅平民泰國菜「泰Chill」\n\n試咗佢哋個午餐，質素都相當OK，好大份性價比高，同同事一齊可以share分享👇：\n\n冬蔭功湯海鮮金邊粉: 湯底酸辣度啱啱好，海鮮份量都OK，金邊粉索晒啲酸辣湯汁，夏天熱辣辣無胃口食咗開胃醒神！\n\n極上牛肩胛船麵：牛肩胛肉質好腍滑鮮甜，仲要都大塊，配埋順滑嘅麵條，啖啖肉\n\n泰式金邊粉 (Pad Thai)：Pad Thai炒得都好入味，酸酸甜甜嘅，食之前記住撈勻旁邊嘅花生碎，有泰國街頭水準\n\n豬頸肉酸辣沙律：豬頸肉燒到外層微焦，好大塊，咬落軟腍！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晏晝同同事食Lunch，發掘到將軍澳呢間隱世又高質嘅平民泰國菜「泰Chill」\n\n試咗佢哋個午餐，質素都相當OK，好大份性價比高，同同事一齊可以share分享👇：\n\n冬蔭功湯海鮮金邊粉: 湯底酸辣度啱啱好，海鮮份量都OK，金邊粉索晒啲酸辣湯汁，夏天熱辣辣無胃口食咗開胃醒神！\n\n極上牛肩胛船麵：牛肩胛肉質好腍滑鮮甜，仲要都大塊，配埋順滑嘅麵條，啖啖肉\n\n泰式金邊粉 (Pad Thai)：Pad Thai炒得都好入味，酸酸甜甜嘅，食之前記住撈勻旁邊嘅花生碎，有泰國街頭水準\n\n豬頸肉酸辣沙律：豬頸肉燒到外層微焦，好大塊，咬落軟腍！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kaman Ip",
+          "uri": "https://www.google.com/maps/contrib/113036174919602736179/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKTp39yTf9K7BmzNSDlLr_J6uKMfzUOeNX_TXZlYZrfEn3pnWk=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-30T02:51:34.854813128Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKeVFrVlliVXBMYm1KUFYybGhUMWR4Y1RCWVQxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKeVFrVlliVXBMYm1KUFYybGhUMWR4Y1RCWVQxRRAB!2m1!1s0x340403c8d857d5ef:0xff2306a7b6c70c82"
+      },
+      {
+        "name": "places/ChIJ79VX2MgDBDQRggzHtqcGI_8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVVduQm1XRTVJU0ZCclUzbDFUbkl3UkU1V1JGRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 3,
+        "text": {
+          "text": "店內座位不算多，主打泰菜 。晚餐有肉碎生菜包、泰式生蝦刺身、燒安格斯牛肩肉眼扒、串燒(雞，牛，豬)、原條菠蘿海鮮炒飯、青木瓜沙律、泰式小食拼盤、椰汁糕、芒果糯米飯、泰式奶茶、菠蘿梳打、椰青和泰象生啤。每款菜式發揮中規中矩，味道比較合我心水的是燒安格斯牛肩肉眼扒，牛味濃肉汁多。整體食物質素正常，價錢亦不算貴。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店內座位不算多，主打泰菜 。晚餐有肉碎生菜包、泰式生蝦刺身、燒安格斯牛肩肉眼扒、串燒(雞，牛，豬)、原條菠蘿海鮮炒飯、青木瓜沙律、泰式小食拼盤、椰汁糕、芒果糯米飯、泰式奶茶、菠蘿梳打、椰青和泰象生啤。每款菜式發揮中規中矩，味道比較合我心水的是燒安格斯牛肩肉眼扒，牛味濃肉汁多。整體食物質素正常，價錢亦不算貴。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "victoriay_eatwithvic",
+          "uri": "https://www.google.com/maps/contrib/114697832177333673125/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpCfwr1RRxacz1FrR7TJp1I5R3RsFpX8f_LBeVJsn43VN_Ow=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-03-17T09:00:05.690069309Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSVVduQm1XRTVJU0ZCclUzbDFUbkl3UkU1V1JGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSVVduQm1XRTVJU0ZCclUzbDFUbkl3UkU1V1JGRRAB!2m1!1s0x340403c8d857d5ef:0xff2306a7b6c70c82"
+      },
+      {
+        "name": "places/ChIJ79VX2MgDBDQRggzHtqcGI_8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOMk0wcHZSalJDUjFkcGNXSkZkakpMWnpoWGMyYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這裏的船麵湯底算醇厚，微甜帶藥材味很好雞肉份量足夠，炸豬皮無油益味，還有菜伴碟，水準不輸尖沙咀一帶索價 $80起跳的名店。\n\n下午茶套餐僅需 $42 連飲品，加埋一性價比仍很高。單\n相信晚市的表現也相當值得期待。\n\n*店內播90s台灣偶像劇歌，與泰國無關係都要讚喇！！ 爽😂",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這裏的船麵湯底算醇厚，微甜帶藥材味很好雞肉份量足夠，炸豬皮無油益味，還有菜伴碟，水準不輸尖沙咀一帶索價 $80起跳的名店。\n\n下午茶套餐僅需 $42 連飲品，加埋一性價比仍很高。單\n相信晚市的表現也相當值得期待。\n\n*店內播90s台灣偶像劇歌，與泰國無關係都要讚喇！！ 爽😂",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "羊仁",
+          "uri": "https://www.google.com/maps/contrib/116684695957815480717/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3l3hoCVVj-FiZ03LIWiTp4zwcQ4X1MOOrwrqvUtAym2TNHQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-07T07:15:02.150406153Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOMk0wcHZSalJDUjFkcGNXSkZkakpMWnpoWGMyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOMk0wcHZSalJDUjFkcGNXSkZkakpMWnpoWGMyYxAB!2m1!1s0x340403c8d857d5ef:0xff2306a7b6c70c82"
+      },
+      {
+        "name": "places/ChIJ79VX2MgDBDQRggzHtqcGI_8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsTFRqaHFURTlrZUVOMlIxbFFhbmgxZDNCWlEwRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 3,
+        "text": {
+          "text": "2026年5月23日\nD野食都幾好食！\n蛇果飲品就唔太好飲！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2026年5月23日\nD野食都幾好食！\n蛇果飲品就唔太好飲！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Bella",
+          "uri": "https://www.google.com/maps/contrib/113613214211170822222/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbuPin-PbdvJc11bgv_Fxs2XOKFowrBawUajzHcajuT8ziCTTreg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-13T15:43:37.850740079Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsTFRqaHFURTlrZUVOMlIxbFFhbmgxZDNCWlEwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsTFRqaHFURTlrZUVOMlIxbFFhbmgxZDNCWlEwRRAB!2m1!1s0x340403c8d857d5ef:0xff2306a7b6c70c82"
+      },
+      {
+        "name": "places/ChIJ79VX2MgDBDQRggzHtqcGI_8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sSWMyVkZMVGhmUm05UU1VZFJjV0o2VEhoRFoxRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今天黎到將軍澳的泰grill 食泰菜，餐廳唔算好大，但裝修得幾有特色，距離地鐵站好近，交通方便。\n我order左：\n肉碎生菜包🥬\n肉碎味道岩岩好！唔會好辣，用新鮮嘅生菜，包住黎食，清爽甜美\n\n串燒 豬牛豬🍢\n可以每樣一串，非常貼心，燒得剛剛好，嫩滑惹味。醬汁尤其出色😋\n燒菠蘿亦非常不錯，菠蘿肉輕微焦香，內有肉汁，清甜可口😬\n\n海鮮冬陰功金邊粉🥘\n湯底酸辣味突出，有椰奶香，但唔算好辣，海鮮豐富足料，有蝦，魷魚，青口，菇類，配上煙韌的金邊粉，非常正👍\n\n芒果糯米飯🥭\n擺盤漂亮，由紫糯米和白糯米組成，椰汁甜甜地，芒果清新🫶🏻\n個人較喜歡紫糯米，口感更好\n\n泰式奶茶味濃郁，入口順滑，地道泰式口味😋\n今次的椰青🥥非常清甜，大個而且多汁水，值100分💯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今天黎到將軍澳的泰grill 食泰菜，餐廳唔算好大，但裝修得幾有特色，距離地鐵站好近，交通方便。\n我order左：\n肉碎生菜包🥬\n肉碎味道岩岩好！唔會好辣，用新鮮嘅生菜，包住黎食，清爽甜美\n\n串燒 豬牛豬🍢\n可以每樣一串，非常貼心，燒得剛剛好，嫩滑惹味。醬汁尤其出色😋\n燒菠蘿亦非常不錯，菠蘿肉輕微焦香，內有肉汁，清甜可口😬\n\n海鮮冬陰功金邊粉🥘\n湯底酸辣味突出，有椰奶香，但唔算好辣，海鮮豐富足料，有蝦，魷魚，青口，菇類，配上煙韌的金邊粉，非常正👍\n\n芒果糯米飯🥭\n擺盤漂亮，由紫糯米和白糯米組成，椰汁甜甜地，芒果清新🫶🏻\n個人較喜歡紫糯米，口感更好\n\n泰式奶茶味濃郁，入口順滑，地道泰式口味😋\n今次的椰青🥥非常清甜，大個而且多汁水，值100分💯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wong Bo354",
+          "uri": "https://www.google.com/maps/contrib/114623477263834177955/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnGUKRifoVXkW1i4rMRSYM4WN1ZBX-icsiDvshYasJsmQ501w=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-17T17:16:24.922155053Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sSWMyVkZMVGhmUm05UU1VZFJjV0o2VEhoRFoxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sSWMyVkZMVGhmUm05UU1VZFJjV0o2VEhoRFoxRRAB!2m1!1s0x340403c8d857d5ef:0xff2306a7b6c70c82"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340403c8d857d5ef:0xff2306a7b6c70c82!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=18384545421252299906&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403c8d857d5ef:0xff2306a7b6c70c82!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340403c8d857d5ef:0xff2306a7b6c70c82!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403c8d857d5ef:0xff2306a7b6c70c82!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ79VX2MgDBDQRggzHtqcGI_8/photos/Aa-ngMbif-PMCZDiPzSsxorzWDFnI5CqEBCblnwIJaryOhIphwDqIAEIp05wr54M9jDh7k8OyxcgrFNDS7FkCdJ54xjI5I8KQmYe1V_iY6DjXcHMjBCfD8xKh9LHpNTK_eCs0yO7_1mleRmKW5rsWDgtyqixdo3gI0SKr311lUTTcVFFua8nCwY1WXqmsAAp40oArLR9XP5FyWT-kwvR2xJursGB90u9bgdJaZQ7zjqo9-5LQBdijp6O3u2tF5KMtxb_ozFY91DxYvAi9IXeTwrXaM5C1HDFTWG7TtzYcDqQ0rIi-5y_eTdjEfBldb4WKxepo5Io8NiM8_66kN4s-AXB5tEm1fpLODS2VhjYbcNONK1tWPk3_07A1ra7n9TXMASSsIvEAC_LlpoKrlz5oT6RNh5vjBI",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Tracy Lam",
+          "uri": "https://maps.google.com/maps/contrib/117759119660085629370",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQgSBHyXcEzkl0OgMWi2f1hDwr7uwaqxDc5dMyPMShHXk-qQEu=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDR2tTxKg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR2tTxKg!2e10!4m2!3m1!1s0x340403c8d857d5ef:0xff2306a7b6c70c82"
+    },
+    "local_path": "photos/ChIJ79VX2MgDBDQRggzHtqcGI_8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3xfx9rV87GFSf3aNQ9B77ZREyOjU_3tqsShOLYvP6w9Ix742BvGSpSy0LI3Po3LhJ6k1VBW2mBCIYiNjXGxVb_VcHvyhbmPqba5UAO-MqbpNdyKNKGuzIVpKmUwNvue-iHaMl=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 334886
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

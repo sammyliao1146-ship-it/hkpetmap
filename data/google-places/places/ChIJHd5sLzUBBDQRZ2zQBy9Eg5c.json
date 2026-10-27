@@ -1,0 +1,268 @@
+{
+  "google_place_id": "ChIJHd5sLzUBBDQRZ2zQBy9Eg5c",
+  "restaurant_ids": [
+    "restaurant:3112808001"
+  ],
+  "fetched_at": "2026-10-23T15:49:00.771365+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJHd5sLzUBBDQRZ2zQBy9Eg5c",
+    "types": [
+      "educational_institution",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6926 5622",
+    "internationalPhoneNumber": "+852 6926 5622",
+    "formattedAddress": "8 Java Road Welborne Commercial Centre, 1008, North Point, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.291083999999998,
+      "longitude": 114.19559290000001
+    },
+    "rating": 5,
+    "googleMapsUri": "https://maps.google.com/?cid=10917644890461465703&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 14,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 13,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 15:00 – 20:00",
+        "星期二: 15:00 – 20:00",
+        "星期三: 15:00 – 20:00",
+        "星期四: 15:00 – 20:00",
+        "星期五: 15:00 – 20:00",
+        "星期六: 09:00 – 11:30, 13:00 – 20:30",
+        "星期日: 09:00 – 12:00, 14:00 – 17:30"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 3,
+    "displayName": {
+      "text": "音樂室",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "教育機構",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "educational_institution",
+    "reviews": [
+      {
+        "name": "places/ChIJHd5sLzUBBDQRZ2zQBy9Eg5c/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRMGRhcXNnRRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "text": {
+          "text": "老師親切友善，教學生動活潑。\n小朋友也很喜歡來上課。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "老師親切友善，教學生動活潑。\n小朋友也很喜歡來上課。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Julia Lam",
+          "uri": "https://www.google.com/maps/contrib/116272166559427589597/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlOwPPEcrKRe9PNG3wu1UyeFSfZQ13iGGNhJxHcGWVYpkUhA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2018-07-01T08:59:02.077Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRMGRhcXNnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRMGRhcXNnRRAB!2m1!1s0x340401352f6cde1d:0x9783442f07d06c67"
+      },
+      {
+        "name": "places/ChIJHd5sLzUBBDQRZ2zQBy9Eg5c/reviews/ChdDSUhNMG9nS0VJQ0FnSURRdjhIRXhBRRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "text": {
+          "text": "Shirley is such a pro. Very Interesting music class and I'm sure my kid is in good hand!",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Shirley is such a pro. Very Interesting music class and I'm sure my kid is in good hand!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "G. L.",
+          "uri": "https://www.google.com/maps/contrib/113990855524993729048/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIL2dIAfYw6NrOw9KiEecHLNZCZI-RcSm0L57ZvF1UhXw4fOA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2018-07-01T09:10:41.950Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURRdjhIRXhBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURRdjhIRXhBRRAB!2m1!1s0x340401352f6cde1d:0x9783442f07d06c67"
+      },
+      {
+        "name": "places/ChIJHd5sLzUBBDQRZ2zQBy9Eg5c/reviews/ChdDSUhNMG9nS0VJQ0FnSURBanRXYzV3RRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Steven Hui",
+          "uri": "https://www.google.com/maps/contrib/116492604315638130885/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIHs4_gVL99J2j6eo23eh9HXOMegBF3v6hEHTz5PmL5XdW1CA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2018-07-01T12:33:21.258Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBanRXYzV3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBanRXYzV3RRAB!2m1!1s0x340401352f6cde1d:0x9783442f07d06c67"
+      }
+    ],
+    "goodForChildren": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401352f6cde1d:0x9783442f07d06c67!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10917644890461465703&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401352f6cde1d:0x9783442f07d06c67!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401352f6cde1d:0x9783442f07d06c67!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401352f6cde1d:0x9783442f07d06c67!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJHd5sLzUBBDQRZ2zQBy9Eg5c/photos/Aa-ngMYecAz1PUNDPX8tS1zkM-_jDcvlK6yylAiH7It08IUNUyGKM9FUzhpVmLk3ZZol-FHfqrXG121ucsXE67ubHhsxKG3qcwOk8AmqehvXFj9W9Rc89bFTRVZ-6l2-Bnf3t9ka0ZbSO-CLG3332jDwH4qjS9oBUnAeXIknzeg72U5bnnl4-FCKPRQE4-jtuNx2v4O-a1nruFaW5xMquNkxy_bcYHpruiBrM6-wP1GjCGVtkQhZHezyiKjc2ewbiQVjO_O4lMCAkgufo4Lw9rJM4yVlKprJp8i7XmuO8rpmthtdCaVFeapzMA2lh6daJ-bQ377N6fZghjaeGkrLBLHbRo7BPGCD4r4JXzdfEbKsD3oNC9zR4rq3SmY1Ijlu1M4cjMcERENqn-YYHFTKT_w090VgD6hexRw",
+      "widthPx": 3024,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Musicissimo Music Studio",
+          "uri": "https://maps.google.com/maps/contrib/101684663601604058540",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcL-UnH7z5L50hjCbQPJ16KK-MgU03QuGiihNrwc8ReXsRmlQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICay9q1sQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICay9q1sQE!2e10!4m2!3m1!1s0x340401352f6cde1d:0x9783442f07d06c67"
+    },
+    "local_path": "photos/ChIJHd5sLzUBBDQRZ2zQBy9Eg5c.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRdjI9qsqj4th7foKbr0ChzVTK5_9os0gYtusZ33f_iZ-HyEmA4LEKb0-tzlQiYM3nyV2QqWeyLwu_GOW_qNsQtudHqRsnDUdQLRUKjhM1InOe3M_Ln1c0eY6k4--6kTUul2i_Jg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 149284
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "educational_institution",
+    "label": "教育機構",
+    "types": [
+      "educational_institution",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

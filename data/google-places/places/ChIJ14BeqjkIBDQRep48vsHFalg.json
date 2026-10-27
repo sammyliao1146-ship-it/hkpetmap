@@ -1,0 +1,325 @@
+{
+  "google_place_id": "ChIJ14BeqjkIBDQRep48vsHFalg",
+  "restaurant_ids": [
+    "restaurant:2295802596"
+  ],
+  "fetched_at": "2026-10-23T15:41:40.305420+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ14BeqjkIBDQRep48vsHFalg",
+    "types": [
+      "breakfast_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2676 7788",
+    "internationalPhoneNumber": "+852 2676 7788",
+    "formattedAddress": "香港新界大埔大埔太和路15號",
+    "location": {
+      "latitude": 22.4520332,
+      "longitude": 114.164476
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=6371122058779991674&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 18:00",
+        "星期二: 07:00 – 18:00",
+        "星期三: 07:00 – 18:00",
+        "星期四: 07:00 – 18:00",
+        "星期五: 07:00 – 18:00",
+        "星期六: 07:00 – 18:00",
+        "星期日: 07:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 312,
+    "displayName": {
+      "text": "華星冰室 (大埔店)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ14BeqjkIBDQRep48vsHFalg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oV2VXeHlkRmxuUm5oMWVGSlNSbDlqUVdZM2JrRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "大埔這間華星員工都好好唯一係一件瘀血 就係收錢小頭髮這位男士超冇禮貌十分冇禮貌 仲要喺公司坐這個收錢位置 拉低曬成間公司質素",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大埔這間華星員工都好好唯一係一件瘀血 就係收錢小頭髮這位男士超冇禮貌十分冇禮貌 仲要喺公司坐這個收錢位置 拉低曬成間公司質素",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ray ray",
+          "uri": "https://www.google.com/maps/contrib/116544767523099361823/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLjGvrxxuYXetvQtzKAvhmA_Rna62B-okmb2ncDCunzJr_H4Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-17T17:03:05.946663184Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oV2VXeHlkRmxuUm5oMWVGSlNSbDlqUVdZM2JrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oV2VXeHlkRmxuUm5oMWVGSlNSbDlqUVdZM2JrRRAB!2m1!1s0x34040839aa5e80d7:0x586ac5c1be3c9e7a"
+      },
+      {
+        "name": "places/ChIJ14BeqjkIBDQRep48vsHFalg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3eE51Wkt3EAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "連鎖冰室。試業了一個多月，餐牌選擇不多，都是一般冰室能吃到的東西。午餐有提供炒/燴意粉。配料自選，味道唔錯，炒得幾有鑊氣同幾入味。但個早餐出前一丁就du左少少，一上係滾水，要顧客自己放調味包。午餐時段都唔算好多人，容易搵位。可使用8達通付款。早餐供應至12時。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "連鎖冰室。試業了一個多月，餐牌選擇不多，都是一般冰室能吃到的東西。午餐有提供炒/燴意粉。配料自選，味道唔錯，炒得幾有鑊氣同幾入味。但個早餐出前一丁就du左少少，一上係滾水，要顧客自己放調味包。午餐時段都唔算好多人，容易搵位。可使用8達通付款。早餐供應至12時。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fwa SmAsH",
+          "uri": "https://www.google.com/maps/contrib/103382255503163642729/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWh32Retml5KN8ZHyBSotkIQIZ78JvhjPHT2q-Ey9J8Ags_oj0=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2022-05-18T12:25:58.947014Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN3eE51Wkt3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN3eE51Wkt3EAE!2m1!1s0x34040839aa5e80d7:0x586ac5c1be3c9e7a"
+      },
+      {
+        "name": "places/ChIJ14BeqjkIBDQRep48vsHFalg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKbVlhWTl3RRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "華星冰室，原來大埔都有，就去食個下午茶。\n店外有停車位，幾方便。店內裝修都有心思，吊架單車在牆壁上。\n有下午茶餐牌。\n我：兩餸丁面加飲品。\n家人：炒蛋菠蘿包加飲品，家人點紅豆冰，加十蚊。另加咖央多士。\n奶茶先上枱，滑有茶香，可以的。\n然後紅豆冰，甜度適中，夠淋，顆粒不大。\n炒蛋菠蘿包，炒蛋香滑，菠蘿包香香暖暖少少脆，可以的。\n炒蛋叉燒丁，最初睇，湯好淡，原來調味包麻油另上，原裝正版。炒蛋香滑，叉燒就非常普通啦。\n咖央多，可能習慣食煎多士，烘多士如果冇足夠牛油，會覺得好乾。\n買單差唔多$100，乾淨企理泊車方便出餐夠快，食物可以，去開附近食個快餐係可以嘅。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "華星冰室，原來大埔都有，就去食個下午茶。\n店外有停車位，幾方便。店內裝修都有心思，吊架單車在牆壁上。\n有下午茶餐牌。\n我：兩餸丁面加飲品。\n家人：炒蛋菠蘿包加飲品，家人點紅豆冰，加十蚊。另加咖央多士。\n奶茶先上枱，滑有茶香，可以的。\n然後紅豆冰，甜度適中，夠淋，顆粒不大。\n炒蛋菠蘿包，炒蛋香滑，菠蘿包香香暖暖少少脆，可以的。\n炒蛋叉燒丁，最初睇，湯好淡，原來調味包麻油另上，原裝正版。炒蛋香滑，叉燒就非常普通啦。\n咖央多，可能習慣食煎多士，烘多士如果冇足夠牛油，會覺得好乾。\n買單差唔多$100，乾淨企理泊車方便出餐夠快，食物可以，去開附近食個快餐係可以嘅。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Thalia Cheung",
+          "uri": "https://www.google.com/maps/contrib/104554366416090596686/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQ-hQ1Gns52l8dk6TtQ12FZx2cqhe22ViuejW8qAoqm3E-F2U=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-06-30T12:16:52.557547Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKbVlhWTl3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKbVlhWTl3RRAB!2m1!1s0x34040839aa5e80d7:0x586ac5c1be3c9e7a"
+      },
+      {
+        "name": "places/ChIJ14BeqjkIBDQRep48vsHFalg/reviews/ChdDSUhNMG9nS0VJQ0FnSURvNC15ZmlBRRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 1,
+        "text": {
+          "text": "我試左沙嗲牛肉出前一丁麵加凍奶茶同令叫奶油多,先講沙嗲牛肉麵,佢會連埋出前一丁麻油味O既粉比返你,我未食之前唔明點解會有味精粉,食左就明晒,個麵完全冇沙嗲味,應該話得牛肉有極少量沙嗲味,我只好落一半味精粉,所以成個麵得個鹹味,炒蛋不過不失,總結:沙嗲牛肉麵好難食,奶油多幾好食,凍奶茶幾好飲,兩粒星係比凍奶茶同奶油多,我覺得同區有好多比佢好食O既茶記太多,如果O甘O既價錢同水準,我絕對唔會再去,",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我試左沙嗲牛肉出前一丁麵加凍奶茶同令叫奶油多,先講沙嗲牛肉麵,佢會連埋出前一丁麻油味O既粉比返你,我未食之前唔明點解會有味精粉,食左就明晒,個麵完全冇沙嗲味,應該話得牛肉有極少量沙嗲味,我只好落一半味精粉,所以成個麵得個鹹味,炒蛋不過不失,總結:沙嗲牛肉麵好難食,奶油多幾好食,凍奶茶幾好飲,兩粒星係比凍奶茶同奶油多,我覺得同區有好多比佢好食O既茶記太多,如果O甘O既價錢同水準,我絕對唔會再去,",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "荷蘭西多士",
+          "uri": "https://www.google.com/maps/contrib/105803213907345620274/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBguA6--eQX-rI2HxW7temaQI2g1OBDpBDwObJj3ZZwKpGo3Nl=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2019-10-27T13:02:41.474961Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURvNC15ZmlBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURvNC15ZmlBRRAB!2m1!1s0x34040839aa5e80d7:0x586ac5c1be3c9e7a"
+      },
+      {
+        "name": "places/ChIJ14BeqjkIBDQRep48vsHFalg/reviews/ChdDSUhNMG9nS0VJQ0FnSURnNWZpS29RRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "馳名炒滑蛋名不虛傳，好味。炒意粉一般，冇跟飲品。在大埔中午餐價錢偏高",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "馳名炒滑蛋名不虛傳，好味。炒意粉一般，冇跟飲品。在大埔中午餐價錢偏高",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ed",
+          "uri": "https://www.google.com/maps/contrib/117979360199191751214/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqpWQ_Xhgie3t6HDMrn4kotUU8dCBuW2AVCc62CcvNF7Q65xhGfA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2021-11-14T06:08:34.211824Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURnNWZpS29RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURnNWZpS29RRRAB!2m1!1s0x34040839aa5e80d7:0x586ac5c1be3c9e7a"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040839aa5e80d7:0x586ac5c1be3c9e7a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6371122058779991674&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040839aa5e80d7:0x586ac5c1be3c9e7a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040839aa5e80d7:0x586ac5c1be3c9e7a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040839aa5e80d7:0x586ac5c1be3c9e7a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ14BeqjkIBDQRep48vsHFalg/photos/Aa-ngMZAqFy3gZSY9CSzuOMcbYUfTcDKLZv5NgSClQivForTwO1cAB7Te0b1CCgPU7jeYzbOI-b92bUmiC6xMv2OQxS-PlqvtxbJh85C2G9Cflj6qU8y5QUkHOwhkeKXC-eBz9XzTIdEY4UY8Fd-IO-PKWy9rvjHyVYlm7UUN8rfk3jvTUrdMQjzrNUafP-ES6IPqTbdVBtj5kvzhQvQTWEPIM8w8MGQsJz9dszK_iO7a146ilKB7nh0mxTy3DOTQREdIvtZZx3XXJgLr1hRtidQxXmapaxAW4_GuwHgvpvrEm97EeHSo-QupqQtXRjxhoFcGh-WORpVFZdgNBAKWvU38IQrvFg-zdxuoUhdPJaYQ3RBi2ysyWs5bUXzlArhnbmuB5nMTkii5TXSOgAYyjA5HDtA_4ftv-w",
+      "widthPx": 2048,
+      "heightPx": 1152,
+      "authorAttributions": [
+        {
+          "displayName": "麵豉湯",
+          "uri": "https://maps.google.com/maps/contrib/105973372482296900326",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4N9hZtC0jlcrRMn7WD_llkwqoBgyDC9yK3rfdjl9kO796jwQAmQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDc983v7AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDc983v7AE!2e10!4m2!3m1!1s0x34040839aa5e80d7:0x586ac5c1be3c9e7a"
+    },
+    "local_path": "photos/ChIJ14BeqjkIBDQRep48vsHFalg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtWLhwfen10wPpfTkqgB9Hdpkw9iLe01nuzts1-Jc96OWa1_uvuVd0j0lObdGH675q3aIx2qqqAzNRZW2vTb_shTEhGjbe6ElOz_ouj7FNgvyGWo7NUWCznqgzNvjM-6Hxy0c_5w=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 101721
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "breakfast_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

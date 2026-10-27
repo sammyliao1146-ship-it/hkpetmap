@@ -1,0 +1,223 @@
+{
+  "google_place_id": "ChIJNbL7eQABBDQR3Ln2oWm0hZs",
+  "restaurant_ids": [
+    "restaurant:2215802644"
+  ],
+  "fetched_at": "2026-10-23T15:39:40.609671+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJNbL7eQABBDQR3Ln2oWm0hZs",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3701 6030",
+    "internationalPhoneNumber": "+852 3701 6030",
+    "formattedAddress": "Roof Level, 43 Heung Yip Rd, Wong Chuk Hang, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2477532,
+      "longitude": 114.1627188
+    },
+    "rating": 1,
+    "googleMapsUri": "https://maps.google.com/?cid=11206561613563214300&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.thearca.com/restaurant/sky/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 19:00",
+        "星期二: 10:00 – 19:00",
+        "星期三: 10:00 – 19:00",
+        "星期四: 10:00 – 19:00",
+        "星期五: 10:00 – 19:00",
+        "星期六: 10:00 – 19:00",
+        "星期日: 10:00 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 1,
+    "displayName": {
+      "text": "Arca Sky",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJNbL7eQABBDQR3Ln2oWm0hZs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjeFUxTnVlWGR2TjE5aVJXUmxjRXBNYVY5bVVXYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 1,
+        "text": {
+          "text": "Arca Sky酒店沒有吧台。雖然有桌椅，但就是沒有吧台，而且吧台區晚上7點就關門了。你需要在36樓掃描二維碼點餐，飲品會從3樓送來。大約20分鐘後，你的飲品才會送到。所以…如果你晚上6點半點餐，飲料送到後，你會被立即要求離開，還得把沒動過的飲品送回3樓。剩下的吧台就是一個放著水的塑膠櫃檯。這簡直是對黃金地段的浪費，令人惋惜。這家旅館的主要賣點之一，在這裡完全蕩然無存。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "There is no bar at Arca Sky. There are chairs and tables but there is NO BAR and that area closes at 7pm. You order via QR code on the 36th floor and it is delivered from the 3rd floor. Your drinks arrive about 20 minutes later. So... if you order at 6.30pm, your drink gets delivered and you are immediately asked to leave, with your untouched drinks to return them to the 3rd floor. What is left of the bar is a plastic counter with some water on it. This is a sad and wasteful use of prime real estate. A major selling point of the hotel is very very non-existent.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Mark Huskisson",
+          "uri": "https://www.google.com/maps/contrib/104760530765729191538/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyTUT7gPSsohZLmRRRrxzLiQ42e74-czyJ84dEPUROMJUh_Vuq=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-10-30T14:28:59.383092491Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjeFUxTnVlWGR2TjE5aVJXUmxjRXBNYVY5bVVXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjeFUxTnVlWGR2TjE5aVJXUmxjRXBNYVY5bVVXYxAB!2m1!1s0x3404010079fbb235:0x9b85b469a1f6b9dc"
+      }
+    ],
+    "servesCocktails": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010079fbb235:0x9b85b469a1f6b9dc!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11206561613563214300&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010079fbb235:0x9b85b469a1f6b9dc!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010079fbb235:0x9b85b469a1f6b9dc!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010079fbb235:0x9b85b469a1f6b9dc!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJNbL7eQABBDQR3Ln2oWm0hZs/photos/Aa-ngMYQRiBgM8GgxruYsowdnEH-koqIsjuJQ74uHvod5QZ4BmpReP2Z0Z_ri7VE8Xy_aVNMwS7eia7nWwr-_G5AU5Gn_U1tBCKh9DQ-qDJLbg6vAVzRg-acsxox-jnGa26CrjmYv1gGKfM_p3KA8sE9_aSawK8UX3Qe5uFAB1ow6IgJ8t3T3INVSoEsmwLQSe0u1vQpfl681T01bvRNkchZCv28Cg_0SmfuszPqcVukekhfxff02kVcWGAFnTPR6wG8XeHn3pkGjSI4qCZhtq99T_0uMIXKtC2Vm96GpuX831WWB-XkOVjhrO7Nf3c0hXVCKBsa9G-aOMtyEAQa_ACh_2nj9kiPeuPJsFxPJxvCQo32jbGmNYhkEDSbDjxixz3D-PbzMG7DfltrAhW5pEtM-dHLXqbcf58",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Deacon Wan",
+          "uri": "https://maps.google.com/maps/contrib/106244077179658632995",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAB2TCtyGG9VgXIrEoE1P_g_wxlXZObe-3b71ya4rsoLvEjeH9og=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICf2pOUhQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf2pOUhQE!2e10!4m2!3m1!1s0x3404010079fbb235:0x9b85b469a1f6b9dc"
+    },
+    "local_path": "photos/ChIJNbL7eQABBDQR3Ln2oWm0hZs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcX6-z_S31rD65vMXjNX07Pd8u6DeWlW8Wsa7ovhK2kun-413sbrRgVKUiTRxVoJYowp85eBNEVi_rLiIXu45hzMxXRX8Kkmc4_Qgni_pS9QVRzi_vzEKuJkdhLJm7FDiHaxj4MxQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 287264
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ReadTimeout"
+  },
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

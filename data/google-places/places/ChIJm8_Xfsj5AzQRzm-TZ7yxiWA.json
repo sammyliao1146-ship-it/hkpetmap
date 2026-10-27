@@ -1,0 +1,327 @@
+{
+  "google_place_id": "ChIJm8_Xfsj5AzQRzm-TZ7yxiWA",
+  "restaurant_ids": [
+    "restaurant:2291805074"
+  ],
+  "fetched_at": "2026-10-23T15:51:29.315001+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJm8_Xfsj5AzQRzm-TZ7yxiWA",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3488 8352",
+    "internationalPhoneNumber": "+852 3488 8352",
+    "formattedAddress": "香港新界青衣青敬路青衣城三字樓",
+    "location": {
+      "latitude": 22.3584265,
+      "longitude": 114.10814189999999
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=6956286522200125390&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 22:00",
+        "星期二: 07:30 – 22:00",
+        "星期三: 07:30 – 22:00",
+        "星期四: 08:00 – 22:00",
+        "星期五: 08:00 – 22:00",
+        "星期六: 08:00 – 22:00",
+        "星期日: 07:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 901,
+    "displayName": {
+      "text": "泰作",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJm8_Xfsj5AzQRzm-TZ7yxiWA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCWFVuUjJWV2wzY21rNU0xOTVjelZWVlRoVU1WRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 2,
+        "text": {
+          "text": "普通過普通嘅食物質素，淡口嘅咖啡，屋村茶餐廳嘅水準，商場嘅價錢(QR code落單但要加一)\n9 唔搭8 嘅waitresses，食完口乾\n如果唔介意以上嘅情況，係可幫襯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "普通過普通嘅食物質素，淡口嘅咖啡，屋村茶餐廳嘅水準，商場嘅價錢(QR code落單但要加一)\n9 唔搭8 嘅waitresses，食完口乾\n如果唔介意以上嘅情況，係可幫襯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "haster wu",
+          "uri": "https://www.google.com/maps/contrib/110143975932846658634/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmFS1V6cJvUOTXEVppFCXR6-UpwkAf4y7qbfDUqlDINg7g74TH=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-20T08:14:24.330788471Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCWFVuUjJWV2wzY21rNU0xOTVjelZWVlRoVU1WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCWFVuUjJWV2wzY21rNU0xOTVjelZWVlRoVU1WRRAB!2m1!1s0x3403f9c87ed7cf9b:0x6089b1bc67936fce"
+      },
+      {
+        "name": "places/ChIJm8_Xfsj5AzQRzm-TZ7yxiWA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaVlluZ3lkek5uYW1vdFZVNWhjek4yVlRkWFZXYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "泰古法馬沙文咖喱雞扒飯（$62）\n·較少見馬沙文咖喱，薯仔夠稔，相比其他泰國咖喱無咁辣，有椰奶香同少量花生碎\n·雞扒煎得唔錯\n\n炭燒泰式墨魚頭串燒（加配$30）\n·泰式酸辣醬唔錯，墨魚爽口",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "泰古法馬沙文咖喱雞扒飯（$62）\n·較少見馬沙文咖喱，薯仔夠稔，相比其他泰國咖喱無咁辣，有椰奶香同少量花生碎\n·雞扒煎得唔錯\n\n炭燒泰式墨魚頭串燒（加配$30）\n·泰式酸辣醬唔錯，墨魚爽口",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kellyho",
+          "uri": "https://www.google.com/maps/contrib/104163946738052149581/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvD0kgSFVqEi7cRuGexNL-eT7lw9tbxbk8r3Ml_6PCWsgmQqI=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-29T15:43:24.109856283Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaVlluZ3lkek5uYW1vdFZVNWhjek4yVlRkWFZXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaVlluZ3lkek5uYW1vdFZVNWhjek4yVlRkWFZXYxAB!2m1!1s0x3403f9c87ed7cf9b:0x6089b1bc67936fce"
+      },
+      {
+        "name": "places/ChIJm8_Xfsj5AzQRzm-TZ7yxiWA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsVFdqTlpiRFIyVUV0SE5HRkJMVnAzUzFWQlpFRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "食品味道一般，性價比唔高\n圖係冬陰功炒烏冬，好濕同埋啲烏冬好”爛”\n朋友叫咗軟殼蟹咖喱烏冬，幾好食，而且汁另上好啲\n同埋重點係掃碼落單，冇咩service，但收加一服務費",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食品味道一般，性價比唔高\n圖係冬陰功炒烏冬，好濕同埋啲烏冬好”爛”\n朋友叫咗軟殼蟹咖喱烏冬，幾好食，而且汁另上好啲\n同埋重點係掃碼落單，冇咩service，但收加一服務費",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hogor Chan",
+          "uri": "https://www.google.com/maps/contrib/102829579018832645585/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf14UyCS-e9oY4aqKd8iSqMCKi4HeSW49_5aQNEzRSUH4ykoav=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-05T06:23:17.436532611Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsVFdqTlpiRFIyVUV0SE5HRkJMVnAzUzFWQlpFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsVFdqTlpiRFIyVUV0SE5HRkJMVnAzUzFWQlpFRRAB!2m1!1s0x3403f9c87ed7cf9b:0x6089b1bc67936fce"
+      },
+      {
+        "name": "places/ChIJm8_Xfsj5AzQRzm-TZ7yxiWA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NeU0wbGpObXBYZERGSWVYSnJTVk5MWW05c1NuYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 3,
+        "text": {
+          "text": "泰式料理餐廳，環境尚可，食物質素一般，並沒有明顯吸引之處。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "泰式料理餐廳，環境尚可，食物質素一般，並沒有明顯吸引之處。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Galen Fong",
+          "uri": "https://www.google.com/maps/contrib/110484057053863090069/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFLKkBc5mUeXq7ypFZzWTaIPKIaZWVNPyPxvzX7s6__eemD1frVQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-06-09T04:27:44.911899279Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21NeU0wbGpObXBYZERGSWVYSnJTVk5MWW05c1NuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NeU0wbGpObXBYZERGSWVYSnJTVk5MWW05c1NuYxAB!2m1!1s0x3403f9c87ed7cf9b:0x6089b1bc67936fce"
+      },
+      {
+        "name": "places/ChIJm8_Xfsj5AzQRzm-TZ7yxiWA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NMmFFcE9TbEZZWVZsT2RXVklZVTlYY2pob1lVRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "喺青衣站度第一次食呢一間嘢，本身諗住食泰國嘢，但係嚟到啲嘢好似茶餐廳質素，完全唔係泰國整嗰種味！仲要職員係講普通話…\n食食吓老公話嗌我睇後面，原來呢間嘢啲肉全部都係用緊淘寶假肉，大家千祈唔好再去食！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "喺青衣站度第一次食呢一間嘢，本身諗住食泰國嘢，但係嚟到啲嘢好似茶餐廳質素，完全唔係泰國整嗰種味！仲要職員係講普通話…\n食食吓老公話嗌我睇後面，原來呢間嘢啲肉全部都係用緊淘寶假肉，大家千祈唔好再去食！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ky0375",
+          "uri": "https://www.google.com/maps/contrib/114894019158085058098/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocISMDQ7tYxXleWyRaZTtuz3KrKtYpoAy3Mk3PjqNzOjn1-fyA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-11T05:05:49.973126295Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25NMmFFcE9TbEZZWVZsT2RXVklZVTlYY2pob1lVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NMmFFcE9TbEZZWVZsT2RXVklZVTlYY2pob1lVRRAB!2m1!1s0x3403f9c87ed7cf9b:0x6089b1bc67936fce"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f9c87ed7cf9b:0x6089b1bc67936fce!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6956286522200125390&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9c87ed7cf9b:0x6089b1bc67936fce!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f9c87ed7cf9b:0x6089b1bc67936fce!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9c87ed7cf9b:0x6089b1bc67936fce!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJm8_Xfsj5AzQRzm-TZ7yxiWA/photos/Aa-ngMZ-ycFCyN_Kr0MBfm_1fzJRya7j8ofyB01qaDZA51GMtbHau98-cyrvgNlUmQglYyCyfKyWT-357zDZfBxjfA8xdjT07tGT3b0-6RDl7f_H3FMDn2LvZ5XrcNPvVhp8X4szU4OW1OckuK-WvfA_a8dytohMaUYJayiBgNYcTU_yr-3PPTiyYojam69fCCG7B6tTLIsRfyu7oObb2u5ejcfnVjZbjSOhK5-X4Rbz_m4w2JUG7uUhRo6_2att6rU0ZpN4wgDmjn-naBEsXOZ3gXmOyDWsULurL_lWIBm8Sg2uvbIkaNKZC7RVSiM681XklW_o0RIllMVrkWy_Jx3m-SCEhWx-UpmjSkT-iyeyHfv82xpTUIATBb2IrY8xEWLxnHZzjcfx1g7MQZj-DiRPGWI2gM5dk6_PS6QLn8eTPM1hRw",
+      "widthPx": 1440,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "食客游子",
+          "uri": "https://maps.google.com/maps/contrib/108792769428887414037",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6JGJ6z5T4D1uClRe9JWu4UOFnyyqMnyzIcxn-onEptU8BbAhH=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAWp_b27zF55O22QAgsBrcq&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAWp_b27zF55O22QAgsBrcq!2e10!4m2!3m1!1s0x3403f9c87ed7cf9b:0x6089b1bc67936fce"
+    },
+    "local_path": "photos/ChIJm8_Xfsj5AzQRzm-TZ7yxiWA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnjxMPSnDkK-uGNL1b4GOAPWcyEfAznYhbLvFKrFqO6QxAqalpMvtqQPgWt5ilSosiqSj56fvXNz0c0DwfanHiXup1CJreyLs2AZ6snAsoKaYo0H4VHt3dBVM1aDh5oEiz8ZLnfBISeM3A=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 143429
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

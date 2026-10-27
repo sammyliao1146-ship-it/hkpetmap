@@ -1,0 +1,411 @@
+{
+  "google_place_id": "ChIJhwKJ6poBBDQRNO1DQ_6csRQ",
+  "restaurant_ids": [
+    "restaurant:2261824223"
+  ],
+  "fetched_at": "2026-10-23T15:43:49.323879+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJhwKJ6poBBDQRNO1DQ_6csRQ",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6648 0179",
+    "internationalPhoneNumber": "+852 6648 0179",
+    "formattedAddress": "G/F, 24 Man Yuen St, Jordan, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3075907,
+      "longitude": 114.1664744
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=1491145567500496180&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 17:00, 18:00 – 22:00",
+        "星期二: 12:00 – 17:00, 18:00 – 22:00",
+        "星期三: 12:00 – 17:00, 18:00 – 22:00",
+        "星期四: 12:00 – 17:00, 18:00 – 22:00",
+        "星期五: 12:00 – 17:00, 18:00 – 23:00",
+        "星期六: 12:00 – 17:00, 18:00 – 23:00",
+        "星期日: 12:00 – 17:00, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 380,
+    "displayName": {
+      "text": "泰排檔 (佐敦) Thai Pai Dong (Jordan)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJhwKJ6poBBDQRNO1DQ_6csRQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Ga09GVlBVbXhMVHpGbWJFdEpiM04zU0RVNFFuYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今日黎左間位於柯士甸站附近比較偏遠少少嘅泰國餐廳食嘢。入到去感覺裝修風格比較工業風再帶點大排檔嘅本土風味感覺、牆上都印滿密密麻麻嘅泰文、有度仲鋪滿應係泰國當地嘅懷舊海報、店內嘅服務生都係以泰文溝通應該都係當地人，令到整體用餐體驗更加有感覺。\n\n食物：蟹肉炒飯\n炒飯本身嘅調味唔多偏清淡、所以更加食得出蟹肉嘅鮮味同炒飯本身嘅鑊氣。\n\n香辣金不換炒和牛碎\n佢有豬肉碎同和牛碎揀、和牛碎真係第一次見，所以諗都唔諗到揀咗。\n一上黎就見到兩隻好靚嘅煎雙蛋\n和牛碎比起豬肉碎既口感的確好唔同，有好重嘅牛味\n\n燒豬頸肉\n肉質同味道都唔錯、個汁都係好典型嘅泰式酸辣汁。\n\n鹹蛋木瓜沙律\n木瓜好爽脆帶點泰式酸辣汁再加少少辣椒再加啲鹹蛋令到味蕾十分豐富。\n\n服務：店內唔算大、雖然服務員都係泰國當地人、但都關注到你嘅需要笑容亦都親切、更加有去到泰國當地嘅感覺。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日黎左間位於柯士甸站附近比較偏遠少少嘅泰國餐廳食嘢。入到去感覺裝修風格比較工業風再帶點大排檔嘅本土風味感覺、牆上都印滿密密麻麻嘅泰文、有度仲鋪滿應係泰國當地嘅懷舊海報、店內嘅服務生都係以泰文溝通應該都係當地人，令到整體用餐體驗更加有感覺。\n\n食物：蟹肉炒飯\n炒飯本身嘅調味唔多偏清淡、所以更加食得出蟹肉嘅鮮味同炒飯本身嘅鑊氣。\n\n香辣金不換炒和牛碎\n佢有豬肉碎同和牛碎揀、和牛碎真係第一次見，所以諗都唔諗到揀咗。\n一上黎就見到兩隻好靚嘅煎雙蛋\n和牛碎比起豬肉碎既口感的確好唔同，有好重嘅牛味\n\n燒豬頸肉\n肉質同味道都唔錯、個汁都係好典型嘅泰式酸辣汁。\n\n鹹蛋木瓜沙律\n木瓜好爽脆帶點泰式酸辣汁再加少少辣椒再加啲鹹蛋令到味蕾十分豐富。\n\n服務：店內唔算大、雖然服務員都係泰國當地人、但都關注到你嘅需要笑容亦都親切、更加有去到泰國當地嘅感覺。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Li Kin",
+          "uri": "https://www.google.com/maps/contrib/112132289438651123238/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgvgIdtgf2YuXUyOPJcKmCutpiMOIkDKzox2Wz744sRO_OWQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-22T17:06:53.236641148Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Ga09GVlBVbXhMVHpGbWJFdEpiM04zU0RVNFFuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ga09GVlBVbXhMVHpGbWJFdEpiM04zU0RVNFFuYxAB!2m1!1s0x3404019aea890287:0x14b19cfe4343ed34"
+      },
+      {
+        "name": "places/ChIJhwKJ6poBBDQRNO1DQ_6csRQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwaFJqUkZiekpPYzNSd2VWSk5TVW90VnpsYWRWRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 3,
+        "text": {
+          "text": "入座時無講歡迎語，沒有提及限時。推說餐牌有寫，但我個張係冇寫！我都冇特別同佢拗。只係話你哋入座時有責任要俾客人知道。\n食唔夠1小時，執碗趕客，但我地係未食完有D咬口既木瓜絲，已經食得唔舒服。\n及後，係有4至5張吉枱情況下，轉登讓其他客人搭我地枱。\n拿埋張單要求埋單，並指出已過時限，menu 有寫， 睇番 openrice 係有有寫時限既menu , 都有無寫 ，時限是 70 分鐘，未食夠一小時就趕客，由於我仲未叫甜品，而且佢咁嘅服務態度可能都未必去下一次。 所以就試埋個甜品，食完甜品就先至走，如果想坐得舒服，同人傾計就千祈唔好去呢間，環境比較迫又窄。趕客程度頻密。\n\n食物方面，食咗和牛船麵金邊粉，冇咩驚喜，係正常嘅味道。沙爹雞嘅醬汁十分普通，雞肉就有咬口，雖然比較瘦但軟嫩，口感唔錯。燒豬頸肉嘅醬汁比較出色，但豬頸肉係都唔夠香口惹味。木瓜絲沙律個汁就唔太接受到，同埋木瓜絲太有咬口，咬到好攰。\n泰式凍奶茶本身我朋友個杯係好滑，我才叫多杯自己飲，但係我嗰杯就冇咗嗰種絲滑感，十分失望。泰式斑斕雪糕味道唔錯，椰肉清甜有咬口。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "入座時無講歡迎語，沒有提及限時。推說餐牌有寫，但我個張係冇寫！我都冇特別同佢拗。只係話你哋入座時有責任要俾客人知道。\n食唔夠1小時，執碗趕客，但我地係未食完有D咬口既木瓜絲，已經食得唔舒服。\n及後，係有4至5張吉枱情況下，轉登讓其他客人搭我地枱。\n拿埋張單要求埋單，並指出已過時限，menu 有寫， 睇番 openrice 係有有寫時限既menu , 都有無寫 ，時限是 70 分鐘，未食夠一小時就趕客，由於我仲未叫甜品，而且佢咁嘅服務態度可能都未必去下一次。 所以就試埋個甜品，食完甜品就先至走，如果想坐得舒服，同人傾計就千祈唔好去呢間，環境比較迫又窄。趕客程度頻密。\n\n食物方面，食咗和牛船麵金邊粉，冇咩驚喜，係正常嘅味道。沙爹雞嘅醬汁十分普通，雞肉就有咬口，雖然比較瘦但軟嫩，口感唔錯。燒豬頸肉嘅醬汁比較出色，但豬頸肉係都唔夠香口惹味。木瓜絲沙律個汁就唔太接受到，同埋木瓜絲太有咬口，咬到好攰。\n泰式凍奶茶本身我朋友個杯係好滑，我才叫多杯自己飲，但係我嗰杯就冇咗嗰種絲滑感，十分失望。泰式斑斕雪糕味道唔錯，椰肉清甜有咬口。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "eva kwan",
+          "uri": "https://www.google.com/maps/contrib/118240173779060447805/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLs88M93eTf_XbUTA4YllO7xLUcVeXONlcWx1st5v0-4GZ0fQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-15T11:16:04.376160822Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwaFJqUkZiekpPYzNSd2VWSk5TVW90VnpsYWRWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwaFJqUkZiekpPYzNSd2VWSk5TVW90VnpsYWRWRRAB!2m1!1s0x3404019aea890287:0x14b19cfe4343ed34"
+      },
+      {
+        "name": "places/ChIJhwKJ6poBBDQRNO1DQ_6csRQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGaU1sRXhSelp6WWsxZlEzSk1PSE5WVms5RFlVRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "佐敦文苑街嘅「泰排檔」憑藉其極具地道特色嘅水準，深受食客歡迎，更獲得米芝蓮推薦。呢度晚市人氣極旺，下午5點幾已經開始現排隊人龍，至下午6點正式入座。\n特色飲品：\nSalted plum & jasmine soda（酸梅茉莉梳打）：面頭浮着兩粒酸梅，仲有清香嘅茉莉花作裝飾，飲落酸甜鹹香，消暑又解膩。\n惹味主食：\nPad Thai with shrimp（泰式炒金邊粉配蝦）：鑊氣十足嘅炒金邊粉，伴隨住爽口嘅芽菜、碎花生同青檸，蝦肉爽彈入味。\n蔬菜：\nStir-fried baby kale（蒜香炒椰菜仔）：炒得翠綠爽脆，面頭仲灑上咗金黃嘅蒜碎，口感豐富。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "佐敦文苑街嘅「泰排檔」憑藉其極具地道特色嘅水準，深受食客歡迎，更獲得米芝蓮推薦。呢度晚市人氣極旺，下午5點幾已經開始現排隊人龍，至下午6點正式入座。\n特色飲品：\nSalted plum & jasmine soda（酸梅茉莉梳打）：面頭浮着兩粒酸梅，仲有清香嘅茉莉花作裝飾，飲落酸甜鹹香，消暑又解膩。\n惹味主食：\nPad Thai with shrimp（泰式炒金邊粉配蝦）：鑊氣十足嘅炒金邊粉，伴隨住爽口嘅芽菜、碎花生同青檸，蝦肉爽彈入味。\n蔬菜：\nStir-fried baby kale（蒜香炒椰菜仔）：炒得翠綠爽脆，面頭仲灑上咗金黃嘅蒜碎，口感豐富。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Juliana",
+          "uri": "https://www.google.com/maps/contrib/107837551348922198293/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0fF-v_d3dbWEaOt3qTbWntUEi11kwXaTDPVW2qNM0EhF3gw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-27T11:16:34.958566453Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGaU1sRXhSelp6WWsxZlEzSk1PSE5WVms5RFlVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGaU1sRXhSelp6WWsxZlEzSk1PSE5WVms5RFlVRRAB!2m1!1s0x3404019aea890287:0x14b19cfe4343ed34"
+      },
+      {
+        "name": "places/ChIJhwKJ6poBBDQRNO1DQ_6csRQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWcmJFRmhWMUpaTjFrMk5UWjBiV3hOYTA5a2VHYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "【佐敦人氣排隊店🔥 泰國師傅坐鎮！必食和牛船麵 🍜」\n​\n​每次經過泰排檔長期排長龍，今次終於頂唔順去排埋一份！\n入到去發現店內係由泰籍師傅主理，成個 vibe 勁有去咗泰國夜市嘅 feel 🇹🇭\n\n​今次叫咗幾款招牌，全部無踩雷：\n🍜 和牛船麵：個湯底超濃郁，飲得出熬咗好耐！\n最正係塊和牛，入口即溶嘅效果，真係唔捨得食哂佢😅\n\n🐷 沙嗲串燒拼盤：燒得啱啱好，肉質唔乾。點埋個靈魂沙嗲醬，惹味到一串接一串。\n\n🌶️ 生菜包：最愛，簡單得黎，好香口，小小辣，包埋爽脆生菜食超惹味。\n\n🥥 椰奶沙冰：飲一啖沙冰即刻解暑又解辣，椰香超濃，必點！\n\n終於俾我食到，幾滿意☺️​\n\n​📍 泰排檔\n佐敦文苑街24號地舖\n​#泰排檔 #佐敦美食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "【佐敦人氣排隊店🔥 泰國師傅坐鎮！必食和牛船麵 🍜」\n​\n​每次經過泰排檔長期排長龍，今次終於頂唔順去排埋一份！\n入到去發現店內係由泰籍師傅主理，成個 vibe 勁有去咗泰國夜市嘅 feel 🇹🇭\n\n​今次叫咗幾款招牌，全部無踩雷：\n🍜 和牛船麵：個湯底超濃郁，飲得出熬咗好耐！\n最正係塊和牛，入口即溶嘅效果，真係唔捨得食哂佢😅\n\n🐷 沙嗲串燒拼盤：燒得啱啱好，肉質唔乾。點埋個靈魂沙嗲醬，惹味到一串接一串。\n\n🌶️ 生菜包：最愛，簡單得黎，好香口，小小辣，包埋爽脆生菜食超惹味。\n\n🥥 椰奶沙冰：飲一啖沙冰即刻解暑又解辣，椰香超濃，必點！\n\n終於俾我食到，幾滿意☺️​\n\n​📍 泰排檔\n佐敦文苑街24號地舖\n​#泰排檔 #佐敦美食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "snapture chill",
+          "uri": "https://www.google.com/maps/contrib/112270647236796945978/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKz31KjN8Dyu50kiBMt3LBnzVuc-A0SMyLVEGG6pWdH_WSvvQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-19T03:15:37.435745136Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWcmJFRmhWMUpaTjFrMk5UWjBiV3hOYTA5a2VHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWcmJFRmhWMUpaTjFrMk5UWjBiV3hOYTA5a2VHYxAB!2m1!1s0x3404019aea890287:0x14b19cfe4343ed34"
+      },
+      {
+        "name": "places/ChIJhwKJ6poBBDQRNO1DQ_6csRQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWZmJqRlFVR0oyVTJGemQxOW5kSEZLV1d4b1YzYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "［佐敦老區驚喜！2025米芝蓮級推薦］\n\n尋日同朋友去咗佐敦文苑街嘅「泰排檔」食晏，呢間舖細細但充滿泰國街頭熱鬧氣氛。佢哋2025年獲米芝蓮推薦，大廚係米芝蓮泰菜出身，大多數食材由泰國直送，果然名不虛傳！\n\n我哋兩個人點咗幾款，款款都驚喜出色：\n\n1）黑豚肉船麵（$78）\n一定要讚個船麵湯底！入口極之濃郁甘甜，香料層次分明，老實講**真係好食過喺泰國本地食到嘅**，飲得出落足功夫，豚肉好味，配埋炸豬皮及豬肉丸，九層塔及肥嘟嘟的牙菜，直情無得頂！\n\n2）蟹肉炒飯（$98）\n上枱就聞到好香蛋味，炒得非常有鑊氣、飯粒爽身。最正係**蟹肉的確好新鮮**，啖啖鮮甜，極具水準。\n\n3）炸粟米蝦餅（$58）外脆內煙靭，蝦肉彈牙爽口，粟米粒夠晒甜，最精髓係配嗰個大廚特製酸甜汁，唔係現成貨坊間嗰個泰式甜酸醬，惹味香濃超開胃！\n\n4）沙嗲雞串（$48）\n雞肉烤得啱啱好，唔會乾，沙嗲醬非常濃郁，重花生香，質感密實，點埋一齊食好惹味。\n\n5）泰式斑蘭雪糕（$48）\n賣相好特別，雪糕斑蘭味好清香，最驚喜係**加咗少少新鮮椰肉同花生碎喺度**，增添口感之餘，好有泰國本土風味。\n\n6）泰式奶茶及青檸梳打\n要讚吓個杯泰式奶茶真係好濃郁好香茶味，十分正宗💯\n\n雖然係平民化價錢（人均約 $220 ），但食物絕對有米芝蓮級數嘅誠意，物超所值，絕對會再回訪！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "［佐敦老區驚喜！2025米芝蓮級推薦］\n\n尋日同朋友去咗佐敦文苑街嘅「泰排檔」食晏，呢間舖細細但充滿泰國街頭熱鬧氣氛。佢哋2025年獲米芝蓮推薦，大廚係米芝蓮泰菜出身，大多數食材由泰國直送，果然名不虛傳！\n\n我哋兩個人點咗幾款，款款都驚喜出色：\n\n1）黑豚肉船麵（$78）\n一定要讚個船麵湯底！入口極之濃郁甘甜，香料層次分明，老實講**真係好食過喺泰國本地食到嘅**，飲得出落足功夫，豚肉好味，配埋炸豬皮及豬肉丸，九層塔及肥嘟嘟的牙菜，直情無得頂！\n\n2）蟹肉炒飯（$98）\n上枱就聞到好香蛋味，炒得非常有鑊氣、飯粒爽身。最正係**蟹肉的確好新鮮**，啖啖鮮甜，極具水準。\n\n3）炸粟米蝦餅（$58）外脆內煙靭，蝦肉彈牙爽口，粟米粒夠晒甜，最精髓係配嗰個大廚特製酸甜汁，唔係現成貨坊間嗰個泰式甜酸醬，惹味香濃超開胃！\n\n4）沙嗲雞串（$48）\n雞肉烤得啱啱好，唔會乾，沙嗲醬非常濃郁，重花生香，質感密實，點埋一齊食好惹味。\n\n5）泰式斑蘭雪糕（$48）\n賣相好特別，雪糕斑蘭味好清香，最驚喜係**加咗少少新鮮椰肉同花生碎喺度**，增添口感之餘，好有泰國本土風味。\n\n6）泰式奶茶及青檸梳打\n要讚吓個杯泰式奶茶真係好濃郁好香茶味，十分正宗💯\n\n雖然係平民化價錢（人均約 $220 ），但食物絕對有米芝蓮級數嘅誠意，物超所值，絕對會再回訪！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Celia Ng",
+          "uri": "https://www.google.com/maps/contrib/109355271328819283191/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0l_Wp6PupxI15LpJVbW6ZUP_zAkOHYfLOwR3BdooAAdompQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-23T10:13:33.916217281Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWZmJqRlFVR0oyVTJGemQxOW5kSEZLV1d4b1YzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWZmJqRlFVR0oyVTJGemQxOW5kSEZLV1d4b1YzYxAB!2m1!1s0x3404019aea890287:0x14b19cfe4343ed34"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404019aea890287:0x14b19cfe4343ed34!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1491145567500496180&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404019aea890287:0x14b19cfe4343ed34!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404019aea890287:0x14b19cfe4343ed34!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404019aea890287:0x14b19cfe4343ed34!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJhwKJ6poBBDQRNO1DQ_6csRQ/photos/Aa-ngMaRCFt7v4V7uTgGfY8O68RrqsEQAVrgxGS14uZrt7Kx_MYaYFZq9OGB03201Jd8_eXasugp_FoNQEkKXnADqhTQ3B0UQgxEXcQ4wrC-11F7V7I2kBiY8VDCBcu2pGz6-Gqz42wJsiDXWPgFhAUVO3__MlcE5hSGKkT48yOCUvFm6WzSTm0xxovhIbfU0t3ZBg4ZE8k9ram0zS3W7a_Dv_TLv0o8GN1KgiRk4HBemPtAAvsHAQuP0_PAQC_usjvaIKqQpWYRZzp84bCofv1lmVCuWl_zBkJQVzzCAC5DupwE_vi2LPSYKoxTzrji8rJivBCF2eHncHtLWVnHlXTTEsX8EK-gqHYP5BqHo_pMxvXvs7iGBnJVnJiF-Ksq6YG95pXbj-KqFl6AToD2tbXa37rAVprG2fBtNzryc_Yfp8NJuQ",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "XinYue Lin",
+          "uri": "https://maps.google.com/maps/contrib/105845346646332256366",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_NxbH-VYEuawuXUKLqfHmU0iLGIaFtfPl1rPsFffPjqdKYYA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDFCc1zFaKwxvj2P7sOsPft&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDFCc1zFaKwxvj2P7sOsPft!2e10!4m2!3m1!1s0x3404019aea890287:0x14b19cfe4343ed34"
+    },
+    "local_path": "photos/ChIJhwKJ6poBBDQRNO1DQ_6csRQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4iw5VVhD5OCoevd37Em2-Ph3YeitpWOAP6KLuIIr2ROP074ihtez_JmZ0kdBnnz_yLjb9qS0TuodJNEFmzGLhbvObvbAN4OcDl7A4QTu1Dl8Ka8QgBYLOOZpxWybWm4BZTWXMuDoYG4_G=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 180385
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

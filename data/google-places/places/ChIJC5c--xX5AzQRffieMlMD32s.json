@@ -1,0 +1,424 @@
+{
+  "google_place_id": "ChIJC5c--xX5AzQRffieMlMD32s",
+  "restaurant_ids": [
+    "restaurant:2292801352"
+  ],
+  "fetched_at": "2026-10-23T15:45:07.214991+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJC5c--xX5AzQRffieMlMD32s",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3716 2898",
+    "internationalPhoneNumber": "+852 3716 2898",
+    "formattedAddress": "香港新界汀九青山公路－汀九段353號帝景酒店二樓",
+    "location": {
+      "latitude": 22.3684504,
+      "longitude": 114.0780214
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=7772935137731213437&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.royalview.com.hk/hk/promotions/dining/cafe-lido/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 10,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 10,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 10,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 10,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 10,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 10,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 10,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 10:30, 11:00 – 15:00",
+        "星期二: 08:00 – 10:30, 11:00 – 15:00",
+        "星期三: 08:00 – 10:30, 11:00 – 15:00",
+        "星期四: 08:00 – 10:30, 11:00 – 15:00",
+        "星期五: 08:00 – 10:30, 11:00 – 15:00",
+        "星期六: 08:00 – 10:30, 11:00 – 15:00",
+        "星期日: 08:00 – 10:30, 11:00 – 15:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 101,
+    "displayName": {
+      "text": "麗都軒",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJC5c--xX5AzQRffieMlMD32s/reviews/ChdDSUhNMG9nS0VJQ0FnSURfcVlTbnVnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "星期六1:45黎食lunch，book定個海景位，其實侍應都老實，講明得兩張枱望海，個海景無呃你，本身係望海，只係啲樹遮咗大部份，留有少量海，嘢食係即整，食得出都用心嘅，薯條係爽脆，意粉彈牙，蝦都係，不過預咗係急凍蝦，帶子好食，賣相見相片，要彈就係把鋸齒刀唔利，賣單三百幾，服務一般，cp值唔高，但可以接受，近海灘嘅餐廳無乜，真係為咗去開沙灘先幫襯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期六1:45黎食lunch，book定個海景位，其實侍應都老實，講明得兩張枱望海，個海景無呃你，本身係望海，只係啲樹遮咗大部份，留有少量海，嘢食係即整，食得出都用心嘅，薯條係爽脆，意粉彈牙，蝦都係，不過預咗係急凍蝦，帶子好食，賣相見相片，要彈就係把鋸齒刀唔利，賣單三百幾，服務一般，cp值唔高，但可以接受，近海灘嘅餐廳無乜，真係為咗去開沙灘先幫襯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eric N.",
+          "uri": "https://www.google.com/maps/contrib/108628210036605689698/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSrq6WotEUkLDPSc9QghDdzNlCy1bSWG5NsIrYkk4isXtWn5m_=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-01-25T06:51:22.614414Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfcVlTbnVnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfcVlTbnVnRRAB!2m1!1s0x3403f915fb3e970b:0x6bdf0353329ef87d"
+      },
+      {
+        "name": "places/ChIJC5c--xX5AzQRffieMlMD32s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNrOHZqbXh3RRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 3,
+        "text": {
+          "text": "首先呢個地方係超隔涉，我喺荃灣地鐵站下面搭接駁巴士去，所謂嘅巴士都只係坐到十幾個人嘅van仔，多人嗰陣要等第二架車先上到，大熱天時咁等車法其實都幾折磨吓，我真係寧願畀多少少錢搭的士入去好過。\n去到發現個場其實唔係好大，最重要係食物嘅選擇真係少到冇朋友。\n嗱，裡面最多嘅就係熟食，其次係海鮮，包括蝦、蟹腳、青口同埋螺，唔好幻想佢會有蠔畀你食，頂多只係得蒜蓉蒸扇貝，不過粒扇貝真係好細粒。值得一讚嘅地方係佢啲海鮮係幾新鮮嘅，唔臭唔腥都幾鮮甜，不過食多幾隻都嫌悶啦。\n甜品款式就相對地多，不過好食嘅我覺得只有提子啫喱同埋藍莓芝士蛋糕，前者夠香甜；後者夠濃厚。佢個芒果布甸唔知點解好水汪汪，而朱古力蛋糕可能係雪得太耐所以好乾，口感又乾又鞋好似食緊洗碗布咁。\n飲品方面我就飲開凍檸水嘅，但係呢度冇冰，淨係得凍水，亦都冇糖漿，淨係得白糖，所以要等啲糖溶都幾煩吓。\n呢度有朱古力火鍋食，不過記憶中其實佢只係提供到3~4樣嘢畀你沾朱古力食，仲有就係呢度嘅雪糕係用Häagen Dazs，湯就淨係得2種，店員好多都係後生仔，服務態度好好，除此之外都冇乜嘢可以再講啦。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "首先呢個地方係超隔涉，我喺荃灣地鐵站下面搭接駁巴士去，所謂嘅巴士都只係坐到十幾個人嘅van仔，多人嗰陣要等第二架車先上到，大熱天時咁等車法其實都幾折磨吓，我真係寧願畀多少少錢搭的士入去好過。\n去到發現個場其實唔係好大，最重要係食物嘅選擇真係少到冇朋友。\n嗱，裡面最多嘅就係熟食，其次係海鮮，包括蝦、蟹腳、青口同埋螺，唔好幻想佢會有蠔畀你食，頂多只係得蒜蓉蒸扇貝，不過粒扇貝真係好細粒。值得一讚嘅地方係佢啲海鮮係幾新鮮嘅，唔臭唔腥都幾鮮甜，不過食多幾隻都嫌悶啦。\n甜品款式就相對地多，不過好食嘅我覺得只有提子啫喱同埋藍莓芝士蛋糕，前者夠香甜；後者夠濃厚。佢個芒果布甸唔知點解好水汪汪，而朱古力蛋糕可能係雪得太耐所以好乾，口感又乾又鞋好似食緊洗碗布咁。\n飲品方面我就飲開凍檸水嘅，但係呢度冇冰，淨係得凍水，亦都冇糖漿，淨係得白糖，所以要等啲糖溶都幾煩吓。\n呢度有朱古力火鍋食，不過記憶中其實佢只係提供到3~4樣嘢畀你沾朱古力食，仲有就係呢度嘅雪糕係用Häagen Dazs，湯就淨係得2種，店員好多都係後生仔，服務態度好好，除此之外都冇乜嘢可以再講啦。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "さやたん",
+          "uri": "https://www.google.com/maps/contrib/112522765081516310944/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkgcJBl2jn9uSaGhAbOnyO2wT3tY1xj_q0gTjR_N3pQNvmYDAqKw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2019-06-23T17:35:06.841741Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNrOHZqbXh3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNrOHZqbXh3RRAB!2m1!1s0x3403f915fb3e970b:0x6bdf0353329ef87d"
+      },
+      {
+        "name": "places/ChIJC5c--xX5AzQRffieMlMD32s/reviews/ChZDSUhNMG9nS0VJQ0FnSUNac2J2M0dnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "有中西式早餐揀，我揀咗西式嘅 再配牛奶咖啡☕️西式就係有玉米蛋、炸物、丹麥包、yogurt，勁豐富(>^ω^",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有中西式早餐揀，我揀咗西式嘅 再配牛奶咖啡☕️西式就係有玉米蛋、炸物、丹麥包、yogurt，勁豐富(>^ω^",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Love My F00ds",
+          "uri": "https://www.google.com/maps/contrib/108579016620133838318/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHIt--ZwlN9js-2sVy_KZD8XoEGu4dXZzppo6Lma-5c4POxlg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-09-12T17:24:53.921395Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNac2J2M0dnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNac2J2M0dnEAE!2m1!1s0x3403f915fb3e970b:0x6bdf0353329ef87d"
+      },
+      {
+        "name": "places/ChIJC5c--xX5AzQRffieMlMD32s/reviews/ChdDSUhNMG9nS0VJQ0FnSURVMEl5RzNnRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 5,
+        "text": {
+          "text": "女仔貪靚又貪吃點算好⁉️\n美女們有福了💕 由即日至8月31日，荃灣帝景酒店 同 ETUDE HOUSE 聯乘推出靚靚Tea set《瑰麗香吻下午茶》，啱哂同閏蜜嚟嘆返下👭 Tea set以珊瑚粉嫩色系為主調，令中女既我亦即時爆發少女心💓💋 價錢仲要超吸引，2人都只係260蚊，趁假期快啲嚟打個卡做個美麗pinkpink小公主啦👸🏻❤❤\n·\n成個Tea Set共有10款鹹甜點，當中5款甜點以化妝品爲靈感，造型非常神似，幾可亂真！\n·\n精緻繽紛甜點包括~\n♡ 夢幻粉色朱古力唇膏\n♡ 紅桑子紅唇慕絲蛋糕\n♡ 柚子軟芝士餅\n♡ 日本水蜜桃慕絲蛋糕\n♡ 新鮮草莓忌廉杯\n·\n當中我最喜歡 ☆夢幻粉色朱古力唇膏💄 唇膏幾乎同真嘅一樣，仲有埋唇膏套同蓋，唔講真係以為係真唇膏！唇膏其實係幼滑既mousse，粉色得嚟帶有微微朱古力味，十分特別😍🤩\n·\n而鹹點亦同樣出色，包括玫瑰煙三文魚配三文魚子法式小食、香辣雞翼鎚、脆皮糖醋魚手指、迷你黑毛豬柳漢堡及燒甜椒三文治。個人好欣賞迷你黑毛豬柳漢堡😋 漢堡外型小巧的的骰骰，啱哂怕肥既女士們細味品嚐😚 黑毛豬肉味濃郁有口感，不錯的👍\n·\n另外，Tea set仲包兩杯特飲，有可以揀草莓梳打或蜜桃梳打特飮，好喜歡草莓梳打酸酸甜甜，唔會有藥水味，啱哂夏天咁熱既天氣飲🤤 平時唔飲梳打有氣飲品既我都飲左大半杯☺😊\n·\n貪靚既我最開心就當然係，每個Tea set仲每人送ETUDE HOUSE護膚旅行套裝一份，包括護唇膜及植物纖維面膜💋 喺今個Summer就可以keep住靚靚啦💕\n·\n📍帝景軒\n荃灣汀九青山公路353號帝景酒店2樓\n供應日期：即日至8月31日\n下午3時15分至5時15分\n價錢：$260兩位用 另加一服務費",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "女仔貪靚又貪吃點算好⁉️\n美女們有福了💕 由即日至8月31日，荃灣帝景酒店 同 ETUDE HOUSE 聯乘推出靚靚Tea set《瑰麗香吻下午茶》，啱哂同閏蜜嚟嘆返下👭 Tea set以珊瑚粉嫩色系為主調，令中女既我亦即時爆發少女心💓💋 價錢仲要超吸引，2人都只係260蚊，趁假期快啲嚟打個卡做個美麗pinkpink小公主啦👸🏻❤❤\n·\n成個Tea Set共有10款鹹甜點，當中5款甜點以化妝品爲靈感，造型非常神似，幾可亂真！\n·\n精緻繽紛甜點包括~\n♡ 夢幻粉色朱古力唇膏\n♡ 紅桑子紅唇慕絲蛋糕\n♡ 柚子軟芝士餅\n♡ 日本水蜜桃慕絲蛋糕\n♡ 新鮮草莓忌廉杯\n·\n當中我最喜歡 ☆夢幻粉色朱古力唇膏💄 唇膏幾乎同真嘅一樣，仲有埋唇膏套同蓋，唔講真係以為係真唇膏！唇膏其實係幼滑既mousse，粉色得嚟帶有微微朱古力味，十分特別😍🤩\n·\n而鹹點亦同樣出色，包括玫瑰煙三文魚配三文魚子法式小食、香辣雞翼鎚、脆皮糖醋魚手指、迷你黑毛豬柳漢堡及燒甜椒三文治。個人好欣賞迷你黑毛豬柳漢堡😋 漢堡外型小巧的的骰骰，啱哂怕肥既女士們細味品嚐😚 黑毛豬肉味濃郁有口感，不錯的👍\n·\n另外，Tea set仲包兩杯特飲，有可以揀草莓梳打或蜜桃梳打特飮，好喜歡草莓梳打酸酸甜甜，唔會有藥水味，啱哂夏天咁熱既天氣飲🤤 平時唔飲梳打有氣飲品既我都飲左大半杯☺😊\n·\n貪靚既我最開心就當然係，每個Tea set仲每人送ETUDE HOUSE護膚旅行套裝一份，包括護唇膜及植物纖維面膜💋 喺今個Summer就可以keep住靚靚啦💕\n·\n📍帝景軒\n荃灣汀九青山公路353號帝景酒店2樓\n供應日期：即日至8月31日\n下午3時15分至5時15分\n價錢：$260兩位用 另加一服務費",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Annie C",
+          "uri": "https://www.google.com/maps/contrib/107070392992157075015/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKG0ntBiZWWjIX-zo-jzg6mKxddIIyPYf8tjv_QpOLjFAzOFg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2019-08-11T14:33:37.859745Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURVMEl5RzNnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURVMEl5RzNnRRAB!2m1!1s0x3403f915fb3e970b:0x6bdf0353329ef87d"
+      },
+      {
+        "name": "places/ChIJC5c--xX5AzQRffieMlMD32s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxTVRVWm5aVTlMVFc1RmEzVmtOV1pKV0hCVFJtYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 3,
+        "text": {
+          "text": "食物比較一般, 客人少, 較清靜, 服務OK 嘅！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物比較一般, 客人少, 較清靜, 服務OK 嘅！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "PAULINE CHENG",
+          "uri": "https://www.google.com/maps/contrib/106802361994135917217/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJI3isJ9dF4ISCtK0OIN0_8YhuaUB936Gecn-pJ3ywf8XRqjA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-01T06:55:25.652993714Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxTVRVWm5aVTlMVFc1RmEzVmtOV1pKV0hCVFJtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxTVRVWm5aVTlMVFc1RmEzVmtOV1pKV0hCVFJtYxAB!2m1!1s0x3403f915fb3e970b:0x6bdf0353329ef87d"
+      }
+    ],
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f915fb3e970b:0x6bdf0353329ef87d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7772935137731213437&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f915fb3e970b:0x6bdf0353329ef87d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f915fb3e970b:0x6bdf0353329ef87d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f915fb3e970b:0x6bdf0353329ef87d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJC5c--xX5AzQRffieMlMD32s/photos/Aa-ngMbtasGpz8tvyeH700Q5H3fgJoaK35ix4yqDI7tYvG_DrKFPifzMZZxVDFAjuA7gSsjLpcH1ARTz3jcB4W9o9_a7fiGenGjyAAzeQwh0SP4BcmHGQIVSdCT-GcX5SZoG56yD0On0uxhTzyxC8DinofFlS9feQ01HzcFYBN119GHF-1F8jvgVr5dGdPVNCCYQ_IJGrP0oPdLDiLymj0Gg8fzfkW6NUQWMVZorV0AxkNtZpswzZzhcJrhseR02QP8xAsvM30mj4hfq_sjzhtsEq0LjxsePpfZXG0-aQtNisqvSxYPxbamTv8piKm9f2Dy3FFuiBu5qDk6fif47W_cvCl2fA1DWuaHBgspN61QLCdKuQOqZQU_Ww8mzY_QLjsxMT2tk2yL0xm3O_EUzBE6axP8l3R8x1CY",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "James Lai",
+          "uri": "https://maps.google.com/maps/contrib/108996877355745181240",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXLWk_6d4Rfreoyz0ys6V7No9jFRWH58d2NfNi_7OCQaDwbHk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEza206wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEza206wE!2e10!4m2!3m1!1s0x3403f915fb3e970b:0x6bdf0353329ef87d"
+    },
+    "local_path": "photos/ChIJC5c--xX5AzQRffieMlMD32s.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBvjhQ-X1drSACSopb6lumEUcPBuuI4w9-54gheRxAYCxIvHGK5wNwGVBRR3UToxwnf0D3aiMIBgRLeEFlWaJl37dthW0hQqA4n7q8WrMcnbCzajw6cHXdPOVZQYlph8ZYv_zD_w=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 133782
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.royalview.com.hk/room-reservation/",
+        "label": "Book now",
+        "source_url": "https://www.royalview.com.hk",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.royalview.com.hk/monthly-packages/",
+        "label": "Book now!",
+        "source_url": "https://www.royalview.com.hk",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.royalview.com.hk/room-reservation/",
+  "menu_url": null
+}

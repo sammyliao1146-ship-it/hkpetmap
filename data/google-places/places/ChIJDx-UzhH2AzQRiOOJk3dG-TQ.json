@@ -1,0 +1,418 @@
+{
+  "google_place_id": "ChIJDx-UzhH2AzQRiOOJk3dG-TQ",
+  "restaurant_ids": [
+    "restaurant:2296803329"
+  ],
+  "fetched_at": "2026-10-23T15:45:50.420920+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJDx-UzhH2AzQRiOOJk3dG-TQ",
+    "types": [
+      "ramen_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6482 7340",
+    "internationalPhoneNumber": "+852 6482 7340",
+    "formattedAddress": "香港新界上水新成路88號",
+    "location": {
+      "latitude": 22.5046748,
+      "longitude": 114.1287811
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=3817159638563545992&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/menyamashita/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:30, 17:00 – 21:30",
+        "星期二: 12:00 – 15:30, 17:00 – 21:30",
+        "星期三: 12:00 – 15:30, 17:00 – 21:30",
+        "星期四: 12:00 – 15:30, 17:00 – 21:30",
+        "星期五: 12:00 – 15:30, 17:00 – 21:30",
+        "星期六: 12:00 – 15:30, 17:00 – 21:30",
+        "星期日: 12:00 – 15:30, 17:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 603,
+    "displayName": {
+      "text": "Menya Yamashita",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "拉麵店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": false,
+    "primaryType": "ramen_restaurant",
+    "editorialSummary": {
+      "text": "簡約隱密的餐廳，供應傳統拉麵、五花肉和其他熱門配料。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJDx-UzhH2AzQRiOOJk3dG-TQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WFZ6TXlNbk5XUlZCNFoxa3hhVzVPZWtVMmNWRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "點了黑蒜湯底，以及特盛拉麵估唔到有兩隻溏心蛋😋义燒入口即溶👍有日本食的味道！👏\n當日壞冷氣，老闆猛講唔好意；商場冷氣壞了～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "點了黑蒜湯底，以及特盛拉麵估唔到有兩隻溏心蛋😋义燒入口即溶👍有日本食的味道！👏\n當日壞冷氣，老闆猛講唔好意；商場冷氣壞了～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ceci Ch",
+          "uri": "https://www.google.com/maps/contrib/107320664013966211179/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQ9KF8ZM8JV6kFO9mXAcXa0ueJIv88r0q49O-H9hWR6iKSYA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-06-25T10:15:25.942849376Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205WFZ6TXlNbk5XUlZCNFoxa3hhVzVPZWtVMmNWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205WFZ6TXlNbk5XUlZCNFoxa3hhVzVPZWtVMmNWRRAB!2m1!1s0x3403f611ce941f0f:0x34f946779389e388"
+      },
+      {
+        "name": "places/ChIJDx-UzhH2AzQRiOOJk3dG-TQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOT1NHMU9Nbk55VDB0dVRVUTVPRlpqZDJWV1RVRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 3,
+        "text": {
+          "text": "第一枱客，可能師傅未熱身，麵有點硬，湯有點過鹹 （本身都食得偏鹹，但都覺得鹹）\nQR code 落單，只收現金，店員小兄弟友善\n貓店長好鬼高竇，請條條被嫌棄 🙃",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第一枱客，可能師傅未熱身，麵有點硬，湯有點過鹹 （本身都食得偏鹹，但都覺得鹹）\nQR code 落單，只收現金，店員小兄弟友善\n貓店長好鬼高竇，請條條被嫌棄 🙃",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Zs Attic",
+          "uri": "https://www.google.com/maps/contrib/109193564891854807074/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzxPSrROK0Ir21eJo5WynHylrThL3KiEiq3Za8wv3nl_wSBg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-06-24T14:36:50.611985720Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOT1NHMU9Nbk55VDB0dVRVUTVPRlpqZDJWV1RVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOT1NHMU9Nbk55VDB0dVRVUTVPRlpqZDJWV1RVRRAB!2m1!1s0x3403f611ce941f0f:0x34f946779389e388"
+      },
+      {
+        "name": "places/ChIJDx-UzhH2AzQRiOOJk3dG-TQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWRWVWcFhUbFp2UlRRNFN6WjNNVzVIZWxOSWNVRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 2,
+        "text": {
+          "text": "空間好細，坐得十圍唔到嘅客，排隊等好耐睇評價以為好出色好食，結果麻麻地，我嗌嘅系辛味特盛拉麵，湯底有油脂香但淡到無味亦都唔覺得辣，勝在115嘅價錢個份量真係唔錯，在拉麵界都算抵食，但個麵底麻麻，咁大份我食都有段時間，食到最後麵底都系好硬，叉燒都散埋，食淨湯底發現有肉碎渣，睇就唔似叉燒嘅纖維應該湯底隔渣都冇隔乾淨，總體黎講睇在份量方面只可以比2星",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "空間好細，坐得十圍唔到嘅客，排隊等好耐睇評價以為好出色好食，結果麻麻地，我嗌嘅系辛味特盛拉麵，湯底有油脂香但淡到無味亦都唔覺得辣，勝在115嘅價錢個份量真係唔錯，在拉麵界都算抵食，但個麵底麻麻，咁大份我食都有段時間，食到最後麵底都系好硬，叉燒都散埋，食淨湯底發現有肉碎渣，睇就唔似叉燒嘅纖維應該湯底隔渣都冇隔乾淨，總體黎講睇在份量方面只可以比2星",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kay lee",
+          "uri": "https://www.google.com/maps/contrib/110593244174198996247/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-ofODhLVODP5PRcg56zOLLcwuwrvTCHtHTFZtBlBdFvEMXW9ckg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-05-13T01:17:51.542528770Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWRWVWcFhUbFp2UlRRNFN6WjNNVzVIZWxOSWNVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWRWVWcFhUbFp2UlRRNFN6WjNNVzVIZWxOSWNVRRAB!2m1!1s0x3403f611ce941f0f:0x34f946779389e388"
+      },
+      {
+        "name": "places/ChIJDx-UzhH2AzQRiOOJk3dG-TQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSTmRVbGZWbVZrWTB0d2FXUjVTR0p6TlUxcVVsRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "山下豬骨湯拉麵非常正宗 湯味非常濃鬱 拉麵彈牙 日式叉燒切後再火灼更香口好食 推介",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "山下豬骨湯拉麵非常正宗 湯味非常濃鬱 拉麵彈牙 日式叉燒切後再火灼更香口好食 推介",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "SC Loh",
+          "uri": "https://www.google.com/maps/contrib/115596896053391833584/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYeefpuHLK-Q47QtmkfJil5zeM-nNKwObSNkQNokdpciNGVEBN=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-25T06:59:58.071730501Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSTmRVbGZWbVZrWTB0d2FXUjVTR0p6TlUxcVVsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSTmRVbGZWbVZrWTB0d2FXUjVTR0p6TlUxcVVsRRAB!2m1!1s0x3403f611ce941f0f:0x34f946779389e388"
+      },
+      {
+        "name": "places/ChIJDx-UzhH2AzQRiOOJk3dG-TQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzcnZpcE1BEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "2024/10\n有期望就有失望。\n朋友大力推介麵家山下，話麵湯鮮甜，麵高質，叉燒甘香軟腍，其他拉麵店冇得比。搬新舖後佢都未去過，所以無論如何都要帶我一齊去試吓。\n\n我點了DX拉麵（$88）黑蒜湯底。大大的一碗，用料很多。湯底肯定無添加，味道很淡，只有很淡嘅肉湯味。叉燒很腍，不過冇肉味。麵質不及其他嘅拉麵店，偏硬完全吸唔到麵湯嘅味，好辛苦先至捱完咗一碗完全冇味又硬嘅麵，自己打邊爐煮嘅拉麵都好味過佢。唯一好味嘅係溫泉蛋，冇得輸。\n\n朋友點了叉燒拉麵（$78）辛湯底。我試咗一啖湯，只有辣味，就好似一碗加咗辣粉嘅水，完全唔掂。朋友不停同我講以前好好味㗎， sorry囉，應該係以前囉。\n\n睇咗一下其他近期嘅食評，都唔係咁差，唔通嗰日我唔好彩？不過我唔會再嚟，朋友話佢都唔會。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2024/10\n有期望就有失望。\n朋友大力推介麵家山下，話麵湯鮮甜，麵高質，叉燒甘香軟腍，其他拉麵店冇得比。搬新舖後佢都未去過，所以無論如何都要帶我一齊去試吓。\n\n我點了DX拉麵（$88）黑蒜湯底。大大的一碗，用料很多。湯底肯定無添加，味道很淡，只有很淡嘅肉湯味。叉燒很腍，不過冇肉味。麵質不及其他嘅拉麵店，偏硬完全吸唔到麵湯嘅味，好辛苦先至捱完咗一碗完全冇味又硬嘅麵，自己打邊爐煮嘅拉麵都好味過佢。唯一好味嘅係溫泉蛋，冇得輸。\n\n朋友點了叉燒拉麵（$78）辛湯底。我試咗一啖湯，只有辣味，就好似一碗加咗辣粉嘅水，完全唔掂。朋友不停同我講以前好好味㗎， sorry囉，應該係以前囉。\n\n睇咗一下其他近期嘅食評，都唔係咁差，唔通嗰日我唔好彩？不過我唔會再嚟，朋友話佢都唔會。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ECC Chan",
+          "uri": "https://www.google.com/maps/contrib/101635329936089323259/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlR_HMI3wIBixWXjCcvD0ScCm6mu386SdjFqcgHNj2fCzO0YY2ig=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-11-15T07:13:35.573966Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzcnZpcE1BEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzcnZpcE1BEAE!2m1!1s0x3403f611ce941f0f:0x34f946779389e388"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": false,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": false,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleRestroom": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f611ce941f0f:0x34f946779389e388!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3817159638563545992&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f611ce941f0f:0x34f946779389e388!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f611ce941f0f:0x34f946779389e388!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f611ce941f0f:0x34f946779389e388!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJDx-UzhH2AzQRiOOJk3dG-TQ/photos/Aa-ngMa6eZnqipcfRohpARd-ywpcmxEQssAgCDAHSuThq-zmRncF1V5ViLRKVc8PxPLPn5Zq3MpfWhfhNtpuhpnEdNEJET5s2Edj9kIKRSgQ7xM3f5SmiJFwwDfVJOEzu8XJXwnW2jj0WVkPof8UwrvJLU4QBpssyipaOG1USZ09SnhHC36J3eDQmiFNm63YqEJcRfj6Od4dSt6dvey81-rwrHECAjT9MA95m_1mFwN8f9FgljhcghLhZGSSFLWDI02AwuSyPwmg2gUItdPT0rIu5fKiQTSlGQRZssCYIe8OA0ENiMUf75FBmzT888wQjZEzKfjIiF1ZNhVMEBnm2B2ybt6Ga4g2BtGV5C36z92rBqJenFZpp5e_r1fare4cid87Sj3Foe8hMIK3WbyQiM2GoIb4QQRzcOw",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "肥叔叔",
+          "uri": "https://maps.google.com/maps/contrib/118178523719822477946",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-ixhY345C_UT4ltJC7MDZfA6tuTxtuoIh8jjD1e2FmnC0tubQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICM_KH77gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM_KH77gE!2e10!4m2!3m1!1s0x3403f611ce941f0f:0x34f946779389e388"
+    },
+    "local_path": "photos/ChIJDx-UzhH2AzQRiOOJk3dG-TQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdof8JOpEBKAqnkMmJ77eHx0QIgJXw5n4ZinNxTOMs0cGN5AH-qNOdKQGU9QBzrYuWHd-KVoKWNsyXAFnMSrZwnidIygaDyj1WfQMBP2xRrTnNCPGmwI1dHaFcwX74hpjI5AG-UIg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 153535
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "ramen_restaurant",
+    "label": "拉麵店",
+    "types": [
+      "ramen_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

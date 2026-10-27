@@ -1,0 +1,37 @@
+{
+  "id": "ChIJTR0DTB0ABDQRddvbSO5vmI8",
+  "types": [
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島鴨脷洲洪聖街鴨脷洲大街",
+  "location": {
+    "latitude": 22.244947,
+    "longitude": 114.15552
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10347143213098982261&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "鴨脷洲海濱長廊",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "tourist_attraction",
+  "photos": [
+    {
+      "name": "places/ChIJTR0DTB0ABDQRddvbSO5vmI8/photos/Aa-ngMaKNMEX_60_moiGXE8zEngB_D3Evdn-RidXWNMesMNtupXgL1WEZdqp1BhZaUMn-Xf7oAFxuxg7jsLU5WI-AXyUroACPiDopZZh9jYALcZJQ7D6XzOJJA3jbE-ef0dlUn0sIPR0EWZzbUuBYRZTe2OqaYXNnaHYVOHV6JVP8-d2W60ALa68pX9TtnW7qzovS6Wdw4Q3mHiGwnlbCiAIp_qNC48HHWH3EeXPGKuaalwkt9vdXqbAG94I2TxdfMDHM7j-l0sowG4BeJHpKEXgWRPJxVCzZeYdIt7Ck5JmGJlYtmpEytiPVINl2hMJhWMwQXBLktBKjRTPkIHswDIdRm2KXXmj-UiJNKQuY2f9BdLjVIX94qtAS5W6fUborPPdL39njNMTv3x8SZlxZMsd9OkGCA",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "santiago merino",
+          "uri": "https://maps.google.com/maps/contrib/113080353112554564255",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5AKylwmA8JKW17jsgU4c5dbHKqsYmEXunxz4dNICLB9fZ0g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDMq4Obdw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMq4Obdw!2e10!4m2!3m1!1s0x3404001d4c031d4d:0x8f986fee48dbdb75"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:19.127262+00:00"
+}

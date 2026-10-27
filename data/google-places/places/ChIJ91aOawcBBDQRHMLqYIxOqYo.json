@@ -1,0 +1,460 @@
+{
+  "google_place_id": "ChIJ91aOawcBBDQRHMLqYIxOqYo",
+  "restaurant_ids": [
+    "restaurant:2212817010"
+  ],
+  "fetched_at": "2026-10-23T15:39:43.247029+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ91aOawcBBDQRHMLqYIxOqYo",
+    "types": [
+      "greek_restaurant",
+      "mediterranean_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2818 8681",
+    "internationalPhoneNumber": "+852 2818 8681",
+    "formattedAddress": "香港香港島灣仔月街9號",
+    "location": {
+      "latitude": 22.276369199999998,
+      "longitude": 114.1685461
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=9991603613126541852&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.artemisandapollo.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 22:00",
+        "星期二: 12:00 – 15:00, 18:00 – 22:00",
+        "星期三: 12:00 – 15:00, 18:00 – 22:00",
+        "星期四: 12:00 – 15:00, 18:00 – 22:00",
+        "星期五: 12:00 – 15:00, 18:00 – 23:00",
+        "星期六: 11:00 – 15:00, 18:00 – 23:00",
+        "星期日: 11:00 – 15:00, 18:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "userRatingCount": 713,
+    "displayName": {
+      "text": "Artemis & Apollo",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "希臘餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "greek_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ91aOawcBBDQRHMLqYIxOqYo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWU1JHZEplR1pyTURCTlVtZzRhVWxZYkdkS1NFRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Artemis & Apollo\n\nTZATZIKI THEODOROS 希臘青瓜乳酪 // $98\nWARM PITA 香暖皮塔餅 // $48\nHUMMUS KLEFTIKO 鷹嘴豆泥慢烤羊肉 // $248\n\n想喺香港食希臘餐已經好耐了，香港唔算多價錢相宜、環境又舒適嘅希臘餐，save咗3年有多，都冇朋友揀中，今日終於去試到了！😭💓 真係冇失望\n\n見到好多人推介青瓜greek yogurt，真係fresh & thick，點足3塊pita bread都唔膩唔厭。之後再追加咗去試鷹嘴豆泥。\nPita bread夠soft\n鷹嘴豆泥慢烤羊肉，有肉又可以一次過滿足想試埋鷹嘴豆泥嘅願望。黐線，鷹嘴豆泥、薯仔真係10分出色，鷹嘴豆泥夠thick & rich，啲薯仔係超脆身！羊肉都好入味，不過肉質會有少許嚡。另外配菜啲酸瓜、橄欖、洋蔥，中和返啲羊肉重調味料味，令到咁大碟食落都仲有啲新鮮感。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Artemis & Apollo\n\nTZATZIKI THEODOROS 希臘青瓜乳酪 // $98\nWARM PITA 香暖皮塔餅 // $48\nHUMMUS KLEFTIKO 鷹嘴豆泥慢烤羊肉 // $248\n\n想喺香港食希臘餐已經好耐了，香港唔算多價錢相宜、環境又舒適嘅希臘餐，save咗3年有多，都冇朋友揀中，今日終於去試到了！😭💓 真係冇失望\n\n見到好多人推介青瓜greek yogurt，真係fresh & thick，點足3塊pita bread都唔膩唔厭。之後再追加咗去試鷹嘴豆泥。\nPita bread夠soft\n鷹嘴豆泥慢烤羊肉，有肉又可以一次過滿足想試埋鷹嘴豆泥嘅願望。黐線，鷹嘴豆泥、薯仔真係10分出色，鷹嘴豆泥夠thick & rich，啲薯仔係超脆身！羊肉都好入味，不過肉質會有少許嚡。另外配菜啲酸瓜、橄欖、洋蔥，中和返啲羊肉重調味料味，令到咁大碟食落都仲有啲新鮮感。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Candy Yeung",
+          "uri": "https://www.google.com/maps/contrib/100394505126897297906/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTNuEGodyfjT9FDdxlXS1MFP9qrkucPOawDZD-WJ6nfz1zCX4o0Q=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-22T11:57:17.379208655Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWU1JHZEplR1pyTURCTlVtZzRhVWxZYkdkS1NFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWU1JHZEplR1pyTURCTlVtZzRhVWxZYkdkS1NFRRAB!2m1!1s0x340401076b8e56f7:0x8aa94e8c60eac21c"
+      },
+      {
+        "name": "places/ChIJ91aOawcBBDQRHMLqYIxOqYo/reviews/Ci9DQUlRQUNvZENodHljRjlvT201YVNHWmFSRzkzV0ZGd1EyNDVZVjg1VVRJMlVYYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢間地中海餐廳真係幾值得推薦，首先係環境已經好加分。成個空間設計得好有品味，燈光柔和、擺設有心思，連牆身同植物裝飾都配合得好自然，令人一坐低就有種放鬆又舒服嘅感覺。加上餐廳氣氛唔會太嘈，無論係朋友聚會、生日慶祝，定純粹想搵個靚地方慢慢食，都好適合。最重要係，地方夠闊落，坐幾個人到一大班朋友一齊嚟都唔會覺得迫，分享食物同傾偈都更加方便。\n食物方面亦都係一大亮點。每一道菜都睇得出有用心設計，唔係一般食地中海菜會見到嘅普通配搭，而係帶住少少驚喜，同時又保留到地中海菜應有嘅清新同香料層次。無論係前菜、主菜定配菜，味道都幾有特色，擺盤亦都靚，睇得出廚房對細節有要求。尤其係幾款熱菜同分享式菜式，份量同組合都好啱多人一齊叫，大家可以試多幾樣，唔會局限於淨係食一兩款招牌菜。\n我最欣賞嘅係呢間餐廳有一種「精緻但唔拘謹」嘅感覺。佢夠高級感，但又唔會令人覺得壓力好大，反而好適合一班朋友輕鬆聚餐。食物上枱之後，大家可以一路分享一路傾計，成個用餐體驗好完整。加上環境夠靚，影相都幾出效果，無論係想打卡定想認真食一餐都做得到。\n如果用一句去形容，就係一間兼顧到氣氛、味道同聚餐感嘅地中海餐廳。整體表現出色，菜式有誠意，環境亦夠優雅，絕對係適合一大班朋友一齊嚟嘅好地方。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間地中海餐廳真係幾值得推薦，首先係環境已經好加分。成個空間設計得好有品味，燈光柔和、擺設有心思，連牆身同植物裝飾都配合得好自然，令人一坐低就有種放鬆又舒服嘅感覺。加上餐廳氣氛唔會太嘈，無論係朋友聚會、生日慶祝，定純粹想搵個靚地方慢慢食，都好適合。最重要係，地方夠闊落，坐幾個人到一大班朋友一齊嚟都唔會覺得迫，分享食物同傾偈都更加方便。\n食物方面亦都係一大亮點。每一道菜都睇得出有用心設計，唔係一般食地中海菜會見到嘅普通配搭，而係帶住少少驚喜，同時又保留到地中海菜應有嘅清新同香料層次。無論係前菜、主菜定配菜，味道都幾有特色，擺盤亦都靚，睇得出廚房對細節有要求。尤其係幾款熱菜同分享式菜式，份量同組合都好啱多人一齊叫，大家可以試多幾樣，唔會局限於淨係食一兩款招牌菜。\n我最欣賞嘅係呢間餐廳有一種「精緻但唔拘謹」嘅感覺。佢夠高級感，但又唔會令人覺得壓力好大，反而好適合一班朋友輕鬆聚餐。食物上枱之後，大家可以一路分享一路傾計，成個用餐體驗好完整。加上環境夠靚，影相都幾出效果，無論係想打卡定想認真食一餐都做得到。\n如果用一句去形容，就係一間兼顧到氣氛、味道同聚餐感嘅地中海餐廳。整體表現出色，菜式有誠意，環境亦夠優雅，絕對係適合一大班朋友一齊嚟嘅好地方。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lamlam_monster",
+          "uri": "https://www.google.com/maps/contrib/117137404176459856133/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZw9u28k54CLQTIG7ZaaYxrf5ewNYqNN7TPtCggzaCSKVrK7TO=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-21T00:42:31.577655049Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201YVNHWmFSRzkzV0ZGd1EyNDVZVjg1VVRJMlVYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201YVNHWmFSRzkzV0ZGd1EyNDVZVjg1VVRJMlVYYxAB!2m1!1s0x340401076b8e56f7:0x8aa94e8c60eac21c"
+      },
+      {
+        "name": "places/ChIJ91aOawcBBDQRHMLqYIxOqYo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNabU5fWlF3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "滿心期待的希臘菜、結果還是踩雷了。\n只有頭盤的salad和麵包是好吃的之外、其他的都一言難盡。八爪魚平平無奇。羊排是燒焦的，完全沒有羊的味道。就這樣吃了人均500卻不知道吃了些什麼的感覺😂",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "滿心期待的希臘菜、結果還是踩雷了。\n只有頭盤的salad和麵包是好吃的之外、其他的都一言難盡。八爪魚平平無奇。羊排是燒焦的，完全沒有羊的味道。就這樣吃了人均500卻不知道吃了些什麼的感覺😂",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Katrina wong",
+          "uri": "https://www.google.com/maps/contrib/105006372736226221603/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWR_8B1GIw--78okPxfPsRpZoq58_SKaC3KTu62iSP-qk_qZSGc=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-09-03T17:06:36.548874Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNabU5fWlF3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNabU5fWlF3EAE!2m1!1s0x340401076b8e56f7:0x8aa94e8c60eac21c"
+      },
+      {
+        "name": "places/ChIJ91aOawcBBDQRHMLqYIxOqYo/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1d2N1Snh3RRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "我認識的希臘是藍天海岸與白色古典建築物，不過我未去過希臘，但我找到這間希臘餐廳。那天是藍天白雲，而這間希臘餐廳的店門面是白色木玻璃框，襯托大廈的奶黃色，好似自己去咗希臘咁呀。店內簡潔，白色牆身、蘋果綠梳化、木系枱、仲有好幾個Apollo神像。整體來說，食物大份量和味道很好，店員服務態度好又快，值得回訪。\n*\n我哋食咗以下美食：\n．Mezze 頭盤🥒🥕\n．Hummus 鷹嘴豆泥\n．Roasted Eggplant 香烤茄子\n．Cypriot Salad 塞普勒斯沙律🥗\n．Spit-Roasted Meats 串燒烤肉\n．Pork Souvlaki 烤豬肉\n．Chicken Souvlaki 烤雞肉\n．Rizogalo Brülée 焦糖米布甸",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我認識的希臘是藍天海岸與白色古典建築物，不過我未去過希臘，但我找到這間希臘餐廳。那天是藍天白雲，而這間希臘餐廳的店門面是白色木玻璃框，襯托大廈的奶黃色，好似自己去咗希臘咁呀。店內簡潔，白色牆身、蘋果綠梳化、木系枱、仲有好幾個Apollo神像。整體來說，食物大份量和味道很好，店員服務態度好又快，值得回訪。\n*\n我哋食咗以下美食：\n．Mezze 頭盤🥒🥕\n．Hummus 鷹嘴豆泥\n．Roasted Eggplant 香烤茄子\n．Cypriot Salad 塞普勒斯沙律🥗\n．Spit-Roasted Meats 串燒烤肉\n．Pork Souvlaki 烤豬肉\n．Chicken Souvlaki 烤雞肉\n．Rizogalo Brülée 焦糖米布甸",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Miss Cukiee",
+          "uri": "https://www.google.com/maps/contrib/100660877099972581021/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLG5L2q8Nolsm7GuIARMx3CeY6eDsnoHuZtHHCefcLyRAJ_kY=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-08-22T14:07:24.007800Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR1d2N1Snh3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1d2N1Snh3RRAB!2m1!1s0x340401076b8e56f7:0x8aa94e8c60eac21c"
+      },
+      {
+        "name": "places/ChIJ91aOawcBBDQRHMLqYIxOqYo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZMDZuaFlnEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "—\n只有walk-in 所以等咗成個鐘\n餐廳嘅音樂真心大聲\n但店員都好友善 細心解釋餐牌\n\nCypriot salad($88)\n塞普勒斯沙津 好有咬口\n\nHummus($48)\n鷹嘴豆泥\n\nTzatziki Theodoros($38)\n希臘青瓜乳酪\n\nWarm pita($28)\n\nSaganaki platanos($98)\n煎封芝士 甜甜哋\n\nZucchini fries($68)\n炸意大利青瓜條\n外層酥脆之後入面好腍\n\nPork souvlaki($88)\n香烤豬肉串配香蒜乳酪醬\n肉有d嚡\n\nLukaniko($98)\n香腸偏鹹 要蘸sauce食\n\nMythos beer($58)\nUWC Samos Highpeaks($88)\nUWC Samos Vin Doux($68)\n————————————————\nArtemis and Apollo\n灣仔月街9-11號地下",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "—\n只有walk-in 所以等咗成個鐘\n餐廳嘅音樂真心大聲\n但店員都好友善 細心解釋餐牌\n\nCypriot salad($88)\n塞普勒斯沙津 好有咬口\n\nHummus($48)\n鷹嘴豆泥\n\nTzatziki Theodoros($38)\n希臘青瓜乳酪\n\nWarm pita($28)\n\nSaganaki platanos($98)\n煎封芝士 甜甜哋\n\nZucchini fries($68)\n炸意大利青瓜條\n外層酥脆之後入面好腍\n\nPork souvlaki($88)\n香烤豬肉串配香蒜乳酪醬\n肉有d嚡\n\nLukaniko($98)\n香腸偏鹹 要蘸sauce食\n\nMythos beer($58)\nUWC Samos Highpeaks($88)\nUWC Samos Vin Doux($68)\n————————————————\nArtemis and Apollo\n灣仔月街9-11號地下",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "fog london",
+          "uri": "https://www.google.com/maps/contrib/115355598718112916054/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI_Ba5813IZ6ROoBk6vZM7UjsSc1pxINyAsSOi9Aowv6UAS4A=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2019-04-19T03:40:33.992789Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNZMDZuaFlnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNZMDZuaFlnEAE!2m1!1s0x340401076b8e56f7:0x8aa94e8c60eac21c"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401076b8e56f7:0x8aa94e8c60eac21c!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9991603613126541852&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401076b8e56f7:0x8aa94e8c60eac21c!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401076b8e56f7:0x8aa94e8c60eac21c!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401076b8e56f7:0x8aa94e8c60eac21c!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ91aOawcBBDQRHMLqYIxOqYo/photos/Aa-ngMalDefBvdsytwndA4lR1LKeK7b1bEHK0hgXu6Bt5SuknQ56oObFCIm9h6ela4xlsAHoSx3D6I9NGRBdU74dtzmhynK9dilBm_uKPS1Bvmi3HCv_frFo1F9poWiD1S3OpbCdUorR8pauQmgrw2CrYysYrSVCgmbk2WZsIdyXN87QOI35e0TUEvDlLgOQoiPyDVHpSUIU1oobZvVG13yyYm1xNAgE-t49oB9ajWxYUyGQbel5F3sodJNb42pV4SPKm7XsVg0H9H8V4-F7VKIfuAie-14fDuVXURgq_Th1DlrZIxYgBbXDcGSbr-_yPRNKZITxQN2-nI5aXpvWacLMgd6DYwnr16o-gvOJYFZu-EtYdp-SH3mTXk15OfL2-QwQ2qTxPD272wSt9rkypHrkh0G1FW_D7bg",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Artemis & Apollo",
+          "uri": "https://maps.google.com/maps/contrib/107050081854171536566",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRucg24ZYcR1Vtl5Z5YmpLV_7k2PapJzcDX6kduVBt5UcmuAM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID83JOLlAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID83JOLlAE!2e10!4m2!3m1!1s0x340401076b8e56f7:0x8aa94e8c60eac21c"
+    },
+    "local_path": "photos/ChIJ91aOawcBBDQRHMLqYIxOqYo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLei_Kd8IfE-CM_wgrqLPn-BuR9Inlx_x6yUUQIj_WN33G3YeUJbftDHnNya4CEDiNnf1Z1fiNSj6rK-APS4Nf7L6aMuA0haOVTseBJjVvZ52AspFDTRv9OqpJ2NUoTryMVbSC0dRA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 132309
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.sevenrooms.com/explore/artemisandapollo/reservations/create/search?tracking=booking-widget",
+        "label": "Book Now",
+        "source_url": "https://www.artemisandapollo.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.sevenrooms.com/explore/artemisandapollo/reservations/create/search?_gl=1%2A38hl7z%2A_gcl_au%2AMTgxNTc0NzA0NS4xNzI4OTcwMzA5%2A_ga%2AMzYzODgzMTQ0LjE3Mjg5NzAzMTA.%2A_ga_Z4R18K8X76%2AMTcyODk3MDMxMC4xLjEuMTcyODk3MDM0NC4yNi4wLjA.&lang=zh_HK&party_size=4&start_time=6pm&tracking=tc-web",
+        "label": "立即訂座",
+        "source_url": "https://www.artemisandapollo.com/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.artemisandapollo.com/#menu-section",
+        "label": "Menu",
+        "source_url": "https://www.artemisandapollo.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.artemisandapollo.com/zh-tr#menu-tc-section",
+        "label": "菜單",
+        "source_url": "https://www.artemisandapollo.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.artemisandapollo.com/s/AA_ALC_Menu_Jul2026.jpg",
+        "label": "FOOD MENU",
+        "source_url": "https://www.artemisandapollo.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.artemisandapollo.com/s/Artemis_Apollo_LunchMenu_May2026_Digital.pdf",
+        "label": "LUNCH MENU",
+        "source_url": "https://www.artemisandapollo.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "greek_restaurant",
+    "label": "希臘餐廳",
+    "types": [
+      "greek_restaurant",
+      "mediterranean_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.sevenrooms.com/explore/artemisandapollo/reservations/create/search?tracking=booking-widget",
+  "menu_url": "https://www.artemisandapollo.com/#menu-section"
+}

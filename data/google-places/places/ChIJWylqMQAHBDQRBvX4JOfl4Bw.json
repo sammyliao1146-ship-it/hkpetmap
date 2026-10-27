@@ -1,0 +1,326 @@
+{
+  "google_place_id": "ChIJWylqMQAHBDQRBvX4JOfl4Bw",
+  "restaurant_ids": [
+    "restaurant:2263804924"
+  ],
+  "fetched_at": "2026-10-23T15:46:03.608539+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJWylqMQAHBDQRBvX4JOfl4Bw",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2739 8568",
+    "internationalPhoneNumber": "+852 2739 8568",
+    "formattedAddress": "香港九龍長沙灣長沙灣道833號長沙灣廣場",
+    "location": {
+      "latitude": 22.3371332,
+      "longitude": 114.14819539999999
+    },
+    "rating": 3.3,
+    "googleMapsUri": "https://maps.google.com/?cid=2080915808765670662&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 20:30",
+        "星期二: 07:00 – 20:30",
+        "星期三: 07:00 – 20:30",
+        "星期四: 07:00 – 20:30",
+        "星期五: 07:00 – 20:30",
+        "星期六: 07:00 – 20:30",
+        "星期日: 07:00 – 20:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 112,
+    "displayName": {
+      "text": "牛奶冰室 (長沙灣廣場)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJWylqMQAHBDQRBvX4JOfl4Bw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVMVEzWlVaVE5HYlc1VGR6aGtZa1JwV1hCS2RXYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "呢個餐廳聽講即使係禮拜日，經常都每爆滿，果然下晝一點幾去到，真係坐到滿晒，衛生情況好，座位唔算太差，一般茶餐廳嘅情況，招呼一般，要自己用QR code落單，如果唔方便用QR code落單，侍應都會幫手人手落單。\n\n整體食物都算做得好味道，豬扒做得鬆軟，炸得啱啱好，唔會覺得太嚡。雞扒都係炸得好鬆軟，都仲有肉汁，不過就覺得有好輕微嘅雪味。嗰杯黑糖牛乳紅豆冰，黑糖味好香，牛奶味就略嫌不足，紅豆煮得啱啱好，唔會覺得太硬，紅豆份量都夠多。奶茶味道都唔錯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢個餐廳聽講即使係禮拜日，經常都每爆滿，果然下晝一點幾去到，真係坐到滿晒，衛生情況好，座位唔算太差，一般茶餐廳嘅情況，招呼一般，要自己用QR code落單，如果唔方便用QR code落單，侍應都會幫手人手落單。\n\n整體食物都算做得好味道，豬扒做得鬆軟，炸得啱啱好，唔會覺得太嚡。雞扒都係炸得好鬆軟，都仲有肉汁，不過就覺得有好輕微嘅雪味。嗰杯黑糖牛乳紅豆冰，黑糖味好香，牛奶味就略嫌不足，紅豆煮得啱啱好，唔會覺得太硬，紅豆份量都夠多。奶茶味道都唔錯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gordon Chan",
+          "uri": "https://www.google.com/maps/contrib/101969255690048769625/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVY0okQgqglCgDqdsmHr_EbgU8ap43nHoVVBgKOzzKPzFsTOuUqpg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-09-19T08:29:09.347948123Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVMVEzWlVaVE5HYlc1VGR6aGtZa1JwV1hCS2RXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVMVEzWlVaVE5HYlc1VGR6aGtZa1JwV1hCS2RXYxAB!2m1!1s0x34040700316a295b:0x1ce0e5e724f8f506"
+      },
+      {
+        "name": "places/ChIJWylqMQAHBDQRBvX4JOfl4Bw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCVGQxOWlSMlF3VUZwR2RVWjVOMUZYUTI1WE5sRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "鹹魚雞粒炒飯但無鹹魚味。只係聞到但食落係完全唔覺有。朋友食左都一樣感覺。真難得",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "鹹魚雞粒炒飯但無鹹魚味。只係聞到但食落係完全唔覺有。朋友食左都一樣感覺。真難得",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "hing san lam",
+          "uri": "https://www.google.com/maps/contrib/113220238446246841725/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJhJ1vUaV3oA6KRCQSPU8s3dRwQNXD5StD6sj4Ha3a7Me7SpQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-16T05:41:02.744408756Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCVGQxOWlSMlF3VUZwR2RVWjVOMUZYUTI1WE5sRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCVGQxOWlSMlF3VUZwR2RVWjVOMUZYUTI1WE5sRRAB!2m1!1s0x34040700316a295b:0x1ce0e5e724f8f506"
+      },
+      {
+        "name": "places/ChIJWylqMQAHBDQRBvX4JOfl4Bw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxUFVVMTVaRW94TjNKbWMyMUpVMWczUTIxT1JYYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "很喜歡佢哋嘅特濃朱古力，入面仲有朱古力粒。飲完好滿足。餐加$3，超值。\n午餐多款色選擇，唔錯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很喜歡佢哋嘅特濃朱古力，入面仲有朱古力粒。飲完好滿足。餐加$3，超值。\n午餐多款色選擇，唔錯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "A S",
+          "uri": "https://www.google.com/maps/contrib/112455028419839174037/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLmy6XeUtvywtG8nS0uyCkxeYw3QzNbB42w1yoVPot3hJAf9g=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-10-17T17:13:08.205052956Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxUFVVMTVaRW94TjNKbWMyMUpVMWczUTIxT1JYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxUFVVMTVaRW94TjNKbWMyMUpVMWczUTIxT1JYYxAB!2m1!1s0x34040700316a295b:0x1ce0e5e724f8f506"
+      },
+      {
+        "name": "places/ChIJWylqMQAHBDQRBvX4JOfl4Bw/reviews/ChdDSUhNMG9nS0VJQ0FnSURMMF9TZjNRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "食物好食 茶餐廳來講擺款又唔錯，麵包款式又靚又多真係好想幫襯，可惜食唔落 服務方面正正常常有好多評論話服務不好，但我覺得都ok啦最小冇黑面 同有對答先啦，但不知何解 意樂 韓樂都是同一集團但無論食物質素服務得都很垃圾 以荃新天地二期果間來講 早 午 晚三餐都唔掂，服務！啲阿姐真係 我第一次見咩野叫欺善怕惡 , 又罵啲老人家！ 不過可能唔同人管理啦 廢人管理 管出廢店來！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物好食 茶餐廳來講擺款又唔錯，麵包款式又靚又多真係好想幫襯，可惜食唔落 服務方面正正常常有好多評論話服務不好，但我覺得都ok啦最小冇黑面 同有對答先啦，但不知何解 意樂 韓樂都是同一集團但無論食物質素服務得都很垃圾 以荃新天地二期果間來講 早 午 晚三餐都唔掂，服務！啲阿姐真係 我第一次見咩野叫欺善怕惡 , 又罵啲老人家！ 不過可能唔同人管理啦 廢人管理 管出廢店來！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "WAH WAH",
+          "uri": "https://www.google.com/maps/contrib/103371971956482695701/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVd6W44bBZzeA46on5MrK4Yu1YpoVAaI__Ctm-k4LFZwq1dXqM=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-07-01T08:26:08.369357Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMMF9TZjNRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMMF9TZjNRRRAB!2m1!1s0x34040700316a295b:0x1ce0e5e724f8f506"
+      },
+      {
+        "name": "places/ChIJWylqMQAHBDQRBvX4JOfl4Bw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Sc1YzVnhPRmt4VUZZeFFWa3lZa2xmV1Rod1VYYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 1,
+        "text": {
+          "text": "晚餐點了一個69元的海南雞飯，餐湯極度細小，白飯的質數差劣，沒有溫度只是微暖；旁邊的酸蘿蔔是甜不是酸，花這個價錢吃到這質素的東西真令人失望。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晚餐點了一個69元的海南雞飯，餐湯極度細小，白飯的質數差劣，沒有溫度只是微暖；旁邊的酸蘿蔔是甜不是酸，花這個價錢吃到這質素的東西真令人失望。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lok lai",
+          "uri": "https://www.google.com/maps/contrib/106153653927569737410/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpSBOu_IZdAN7eJaL-XY3NPKZs5yi2wEWTeCjToPFCEx3F=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-26T10:50:55.343801262Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Sc1YzVnhPRmt4VUZZeFFWa3lZa2xmV1Rod1VYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sc1YzVnhPRmt4VUZZeFFWa3lZa2xmV1Rod1VYYxAB!2m1!1s0x34040700316a295b:0x1ce0e5e724f8f506"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040700316a295b:0x1ce0e5e724f8f506!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2080915808765670662&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040700316a295b:0x1ce0e5e724f8f506!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040700316a295b:0x1ce0e5e724f8f506!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040700316a295b:0x1ce0e5e724f8f506!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJWylqMQAHBDQRBvX4JOfl4Bw/photos/Aa-ngMYnMABmimFC25AKqeD8euAWnupIWGwpRrtTXGNHmxfUHBA8SxzThQOAFaGI_r5LtuenXJl1F6PMYgPoLPPL87Czt-PVOMPfRfdoYiYrNqt-Yd-7xnm4rjbpLTHU6i4Ek70B9M5CQMyFB7UyGaYYwNEZaxKRWRkXo4KRZYtH81IOicf8XB3dTMvkIwRWynkGCo_XyUjfNYVvmpNAeN-UJKI0ofV9kNUyyxJAIFoTS-XVYebuMfJ6mzOWp-TNZVl26ZtWjC0IkNhBc4POAPTADSsECGC3sMOGevPEoy0pTSP61-B-y77w3fWtpQsGaMi3UQ0mhLGECyCbW_Xyk5rXiQGGJiBjRTpN-OFIREe0hbwjmaifRfHyUjsNuYXKZPvQFCa1YCRtu6xsoKNr4Ki4nflfOeg30SgA03sXuPRtmyvtZQ",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBvaocIagzJ9zXymqU-6GWn&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBvaocIagzJ9zXymqU-6GWn!2e10!4m2!3m1!1s0x34040700316a295b:0x1ce0e5e724f8f506"
+    },
+    "local_path": "photos/ChIJWylqMQAHBDQRBvX4JOfl4Bw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmKL2VtFLPm4bzMWNz3PtvaAa95anqtuLPXqmbN113jNbDB1mdPZY3bh5Qp9yJ_huxzR0i2vgKoZxgVcRwu3s2yyhPvAeFQFWN9Ayw612CnPQV6Nh0sRxWfT57GC7_502t8Nl4XI76-04G=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 201511
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

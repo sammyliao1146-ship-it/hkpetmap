@@ -1,0 +1,330 @@
+{
+  "google_place_id": "ChIJ5T-MKRIBBDQRLDTIY5VlZ40",
+  "restaurant_ids": [
+    "restaurant:2218807428"
+  ],
+  "fetched_at": "2026-10-23T15:52:19.931483+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ5T-MKRIBBDQRLDTIY5VlZ40",
+    "types": [
+      "gastropub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5592 3557",
+    "internationalPhoneNumber": "+852 5592 3557",
+    "formattedAddress": "香港香港島中環卑利街62號",
+    "location": {
+      "latitude": 22.282072,
+      "longitude": 114.1520996
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=10189224374247633964&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.yardleybrothers.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 1,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 15:00 – 23:00",
+        "星期二: 15:00 – 23:00",
+        "星期三: 15:00 – 23:00",
+        "星期四: 15:00 – 23:00",
+        "星期五: 15:00 – 01:00",
+        "星期六: 12:00 – 01:00",
+        "星期日: 12:00 – 21:00"
+      ],
+      "nextCloseTime": "2026-10-23T17:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 126,
+    "displayName": {
+      "text": "YARDLEYS Cafe Bistro Bar",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "英式高級酒吧",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "gastropub",
+    "reviews": [
+      {
+        "name": "places/ChIJ5T-MKRIBBDQRLDTIY5VlZ40/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psaWFEVkZZM0JoU1VOU2JXWk1TVWRYVEU1SlMyYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "🥃",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🥃",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Os",
+          "uri": "https://www.google.com/maps/contrib/110479011562550332765/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmbDSQRUJFVtbSqJZ0SFT2JZr294OQ9m2FcsXIXRa6ui71pDU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-09-23T10:58:16.370790045Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psaWFEVkZZM0JoU1VOU2JXWk1TVWRYVEU1SlMyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psaWFEVkZZM0JoU1VOU2JXWk1TVWRYVEU1SlMyYxAB!2m1!1s0x34040112298c3fe5:0x8d67659563c8342c"
+      },
+      {
+        "name": "places/ChIJ5T-MKRIBBDQRLDTIY5VlZ40/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SaU5YSm1RWEoyYmxkR2JUSjBXRTlYV0hkVWJHYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "2026年7月19日\n\n生啤酒價格在80到100美元之間，味道相當不錯。有些是IPA，有些則比較清淡，苦味也不重。我點了一杯6%酒精度的Duck Walk IPA。店面不大，但不擁擠。啤酒上得很快。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "July 19, 2026\nDraft beer was $80-100 and quite tasty. Some were IPA but some were easy and not too bitter to drink. I got the Duck Walk IPA 6%. Small store but not unbearably cramped. Beer came out fast.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "An",
+          "uri": "https://www.google.com/maps/contrib/101615205910094288655/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjq6qc2VuSfqT8RwtsP_JfjpAY0DDw4u-y_fiTinv71A-Qb9M=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-25T06:30:32.328957352Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SaU5YSm1RWEoyYmxkR2JUSjBXRTlYV0hkVWJHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SaU5YSm1RWEoyYmxkR2JUSjBXRTlYV0hkVWJHYxAB!2m1!1s0x34040112298c3fe5:0x8d67659563c8342c"
+      },
+      {
+        "name": "places/ChIJ5T-MKRIBBDQRLDTIY5VlZ40/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GTlp6QkNNRmRYWDFsNFF6SkhMWEZwUTFVMVZuYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這是香港這邊喝啤酒的好去處之一。若您在舊城區附近遊覽，這裡是炎炎夏日消暑納涼的絕佳去處。\n\n他們提供多種啤酒，您可以從酒單上選擇。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "This is one of the good places for beer on the Hong Kong side. Have you travelling along the old city area, it is a very good place to chill you down during the hot day.\nThey have got several kinds of beer which you can select from the list.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Moss Chuenphan",
+          "uri": "https://www.google.com/maps/contrib/113475768765927488447/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrFlT4q3AKguROPU-YOcO8P8poRgGcaMLHnq5PL7WK32rKKiIucQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-23T15:21:54.254959231Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GTlp6QkNNRmRYWDFsNFF6SkhMWEZwUTFVMVZuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GTlp6QkNNRmRYWDFsNFF6SkhMWEZwUTFVMVZuYxAB!2m1!1s0x34040112298c3fe5:0x8d67659563c8342c"
+      },
+      {
+        "name": "places/ChIJ5T-MKRIBBDQRLDTIY5VlZ40/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paaGNYZFpWemxYYURsNmNrUTFla0ZKVGs1VVlYYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Sehr sehr coole Auswahl, sehr sehr feines Bier in allen möglichen Stilrichtungen. Natürlich nicht ganz billig, würde aber sicher wiederkommen. Zuvorkommendes, freundliches Personal, das über die Biere gut Bescheid weiss. Angenehmer Vibe im Lokal, da es auch ganz leicjt oberhalb von der ganzen Ausgangsmeile gelegen ist. Top!",
+          "languageCode": "de"
+        },
+        "originalText": {
+          "text": "Sehr sehr coole Auswahl, sehr sehr feines Bier in allen möglichen Stilrichtungen. Natürlich nicht ganz billig, würde aber sicher wiederkommen. Zuvorkommendes, freundliches Personal, das über die Biere gut Bescheid weiss. Angenehmer Vibe im Lokal, da es auch ganz leicjt oberhalb von der ganzen Ausgangsmeile gelegen ist. Top!",
+          "languageCode": "de"
+        },
+        "authorAttribution": {
+          "displayName": "The Beercurator",
+          "uri": "https://www.google.com/maps/contrib/107206200123330658141/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOkVfiJokOSq4DQaSNrsiqLliIn3WpuMk71Rz2nivQ2GEyBg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-08T04:44:32.351457082Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paaGNYZFpWemxYYURsNmNrUTFla0ZKVGs1VVlYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paaGNYZFpWemxYYURsNmNrUTFla0ZKVGs1VVlYYxAB!2m1!1s0x34040112298c3fe5:0x8d67659563c8342c"
+      },
+      {
+        "name": "places/ChIJ5T-MKRIBBDQRLDTIY5VlZ40/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xdldUVmpiazVVZEU1SVUwRmtWRzVVUzNoUFJWRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 1,
+        "text": {
+          "text": "我們原本很興奮地發現他們釀造無酒精精釀啤酒，但可惜這份興奮並沒有持續太久。\n\n一位友善的服務生為我們服務，我直接在吧台上方的酒單上點了酒。他確認半品脫58美元，一品脫88美元。但酒單上並沒有明確標示每杯啤酒都要加收10%的服務費，而且酒單上的價格比我們實際支付的價格低了10美元。真是有點混亂。\n\n最後我詢問了價格，服務員感謝我指出問題，但並沒有提出任何補救措施，也沒有按照先前報價和酒單上的價格收費。服務實在不敢恭維。這款無酒精啤酒味道一般，口感很濕潤。我以前喝過很多更好的無酒精啤酒。很遺憾，由於這次令人失望的體驗，我們不會再來了。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "We were really excited to find that they brewed a non-alcoholic craft beer but unfortunately that excitement didn't last long.\n\nWe were served by a friendly member of staff and I ordered at the bar straight from the tap list above the bar. He confirmed that it was 58 for a half and 88 for a pint. It isn't clear that there is a 10% service charge for each beer and the price on the tap list was 10 dollars lower than the price we were charged. A bit of a mess really.\n\nI queried the prices at the end and got a thank you for pointing it out but no offer to rectify anything or charge us the price we were quoted and was visible. Not the greatest service. The NA beer was average with a very wet mouth feel. I have had many better NA beers before. Unfortunately, we will not be returning as a result of this very disappointing experience.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Jake-Aman Shah",
+          "uri": "https://www.google.com/maps/contrib/107212797461438495487/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXH74y54HopNZ8HSYY3U9IYubUvsnd4V15whzS4il-JLxwb-89Now=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-09-07T12:13:26.927949627Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xdldUVmpiazVVZEU1SVUwRmtWRzVVUzNoUFJWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xdldUVmpiazVVZEU1SVUwRmtWRzVVUzNoUFJWRRAB!2m1!1s0x34040112298c3fe5:0x8d67659563c8342c"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCoffee": true,
+    "goodForChildren": false,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040112298c3fe5:0x8d67659563c8342c!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10189224374247633964&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040112298c3fe5:0x8d67659563c8342c!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040112298c3fe5:0x8d67659563c8342c!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040112298c3fe5:0x8d67659563c8342c!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ5T-MKRIBBDQRLDTIY5VlZ40/photos/Aa-ngMZBPyauHEgLaV0F5mHcvzM62sGUMAQBhkSfV41w9WglEopVTB77g2WMjgPnKrX3Y8v0eS4u13cLz7Ta0rwSnlAO50m1SE05zqHtiDOsJR4P4sUCJhYb3izWIHLK6gog1KxqJN766bmoM5XaR6sq9AV99t9wim9Gxf-Gv3RDpcHetEhaXD-ZRXyBRMbTM7G6QVuBBtM1i6EmSloj2-sUIq0dWJxhyvZwxpuYrfLp49O6lj1IXNpwqrlU4KVT2-EBgg7rBvkeclLF6CZkJ-VoDogPaUxf4DLg5Vm-rq8vbmw4KOV6eLul-7SUGWrXEGf29RLqXhyzurHyTNWcwO6mOpc-m3w6e5LaZjSn85LpUnv3ciymf-w_pN87gS4fKGGL7xwnuIFljyGNBjKwiAHC_PafvYY",
+      "widthPx": 4800,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Yardleys Taproom",
+          "uri": "https://maps.google.com/maps/contrib/115151560568602175560",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKrzOd4upCE59RvZ8_0NBNJtH9xnKF3x1NyXBnUoMIV4H1HVg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJ9KuxXA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ9KuxXA!2e10!4m2!3m1!1s0x34040112298c3fe5:0x8d67659563c8342c"
+    },
+    "local_path": "photos/ChIJ5T-MKRIBBDQRLDTIY5VlZ40.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLesT__RksAw8Dor5S1S4zLewcccqTF05yY-xpwt-_3XmbVh7AHG2HRd838OmJtjr29g62M4ZspfktDNzHljmHC5fj_ZAJEHL88LIxTyQwq7V44Y-HaubcJSWt-y8wcUhJqeE8Fa=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 159991
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "gastropub",
+    "label": "英式高級酒吧",
+    "types": [
+      "gastropub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ChIJ0Z3cKafwAzQRHYiLx6UQIUY",
+  "types": [
+    "shopping_mall",
+    "department_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界元朗水車館街28號",
+  "location": {
+    "latitude": 22.4451027,
+    "longitude": 114.0314207
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5053338561089865757&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "萬金中心",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "shopping_mall",
+  "photos": [
+    {
+      "name": "places/ChIJ0Z3cKafwAzQRHYiLx6UQIUY/photos/Aa-ngMYaDc-T1zuuVC03mmIUkhxHvIhMvFVjVFPTQoU1QhdGV0fX6KJbPCUyrzK4042XqqlTrthlAS_eCuk6mz3Ppryxr5xNUaF4r18vCQEhkZ19ROdUl7TZSfW9mu2bqG9gW8VuqtBiNBmnnYWFTJ74KPM1Rq69DoeA55kiLuzyXCMrQojNK47JOBrBVoolSDng9q0kYyLtlcNoU3371pIaH1J4njTF6_kyA9BWVXkmKTXaSStbrimFIHmb7VhCl80iVHcPCMVXiRpojSIyguNp3BE57a_oZIR_JODohStIhq8cRZpfJXIYILfR_J8z5MW64oMYWfwH9P0Shjwgoil2Oi3oxQkEKq5KhZDV8sbP6Xt6FYg3NXKIpi6oPyygFujHeeBfOwmLYUKsYpIsThnNs0j3X7RQ",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Henry Man",
+          "uri": "https://maps.google.com/maps/contrib/117977097737907180825",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_nOAsGXYhtkTGSrJdqyCc1PT0jNsKH3pRucX6nwV7GPl2oAEnQQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWzJ_HsQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWzJ_HsQE!2e10!4m2!3m1!1s0x3403f0a729dc9dd1:0x462110a5c78b881d"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:49.413794+00:00"
+}

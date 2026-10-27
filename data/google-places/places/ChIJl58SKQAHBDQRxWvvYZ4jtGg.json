@@ -1,0 +1,304 @@
+{
+  "google_place_id": "ChIJl58SKQAHBDQRxWvvYZ4jtGg",
+  "restaurant_ids": [
+    "restaurant:2251807874"
+  ],
+  "fetched_at": "2026-10-23T15:40:23.390433+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJl58SKQAHBDQRxWvvYZ4jtGg",
+    "types": [
+      "bakery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港九龍九龍灣德福廣場一期",
+    "location": {
+      "latitude": 22.3224104,
+      "longitude": 114.2128769
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=7544694438907308997&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 21:00",
+        "星期二: 08:00 – 21:00",
+        "星期三: 08:00 – 21:00",
+        "星期四: 08:00 – 21:00",
+        "星期五: 08:00 – 21:00",
+        "星期六: 08:00 – 21:00",
+        "星期日: 08:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 18,
+    "displayName": {
+      "text": "Beans Bakery (德福店)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "烘焙屋",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "primaryType": "bakery",
+    "reviews": [
+      {
+        "name": "places/ChIJl58SKQAHBDQRxWvvYZ4jtGg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCNE9VdHFUSEF4Ym0xZk9VNWlWRFV0VjBaRlZrRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "招呼一流，服務員態度非常好！😆💖💕🫰🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "招呼一流，服務員態度非常好！😆💖💕🫰🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Carrie Fung",
+          "uri": "https://www.google.com/maps/contrib/118208334728975766353/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVK3ELLenTvcurMlmOc4TmU84sX_uJ4ElL_sU8GPfyoLj7_0vKuWA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-01T01:19:32.684758117Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCNE9VdHFUSEF4Ym0xZk9VNWlWRFV0VjBaRlZrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCNE9VdHFUSEF4Ym0xZk9VNWlWRFV0VjBaRlZrRRAB!2m1!1s0x3404070029129f97:0x68b4239e61ef6bc5"
+      },
+      {
+        "name": "places/ChIJl58SKQAHBDQRxWvvYZ4jtGg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1T1pXdFNhRkJ0ZWtoSFNEbFlhVkZ6WTNkb1ZYYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "Sourdough 唔夠醋酸味\n太淋身!!\n原全不是那種味道!!\n失望而回\n\n意大利人麵包通常粗糙，所以食得健康\n\n因為生意而改變軟身\n唉!\n失真",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Sourdough 唔夠醋酸味\n太淋身!!\n原全不是那種味道!!\n失望而回\n\n意大利人麵包通常粗糙，所以食得健康\n\n因為生意而改變軟身\n唉!\n失真",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Carmen Yu",
+          "uri": "https://www.google.com/maps/contrib/116181751251964596745/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLgFyIvFxus3kinLT4_Xf9R9Aw1j1Jl6iw-KD6bIr-dgQA4zA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-23T08:27:09.106690376Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1T1pXdFNhRkJ0ZWtoSFNEbFlhVkZ6WTNkb1ZYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1T1pXdFNhRkJ0ZWtoSFNEbFlhVkZ6WTNkb1ZYYxAB!2m1!1s0x3404070029129f97:0x68b4239e61ef6bc5"
+      },
+      {
+        "name": "places/ChIJl58SKQAHBDQRxWvvYZ4jtGg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1R1pGSmphakZSV0dzeU5HaEhYMEU0TlRodlUzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "蝦籽香蔥車打芝士貝果\nSupreme shrimp roe green onion and cheddar cheese bagel",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "蝦籽香蔥車打芝士貝果\nSupreme shrimp roe green onion and cheddar cheese bagel",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "toiletpaperkiu",
+          "uri": "https://www.google.com/maps/contrib/111117149121981516408/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYwmkIV93Xs19OC2c7Mo_2asWVogIHB4KkiuQz9gvA5eVkKDU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-10-05T10:24:58.962549344Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1R1pGSmphakZSV0dzeU5HaEhYMEU0TlRodlUzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1R1pGSmphakZSV0dzeU5HaEhYMEU0TlRodlUzYxAB!2m1!1s0x3404070029129f97:0x68b4239e61ef6bc5"
+      },
+      {
+        "name": "places/ChIJl58SKQAHBDQRxWvvYZ4jtGg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OUFQzbGFaM2RRUXkwemJWOVNWV05KYlcxelNtYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "荳子烘焙Beans Bakery 係西餐廳荳子Beans旗下的烘焙店，十年前已經係荃灣食過荳子，當時已經覺得荳子係一間好高質素又唔算貴嘅餐廳，所以我對荳子烘焙嘅出品充滿信心。\n\n今次食左期間限定同十字牌牛奶聯乘的薑汁麻薯奶酥。提提大家放工時間比較難買到，因為我連續放工去咗三日先終於比我買到。\n………………………………………………\n薑汁燉4.5特濃本地純鮮牛乳麻糬酥 ⭐️⭐️⭐️⭐️\n外層酥脆，層次豐富，餡料有濃郁的薑味和十字牌純牛奶的奶味，口感好幼滑，薑味同甜味都好適中，唔會太甜太辣。 餡料仲搭配了煙韌的麻糬，口感豐富。\n………………………………………………\n荳子烘焙繼承左荳子Cafe 高性價比嘅靈魂，麵包冬甩蛋撻咩都有，價錢又合理，仲不時會有聯乘或者期間限定產品，好有創新精神。\n\n雖然荳子烘焙唔稱得上最好食的麵包店，但係都一定係中上品質，性價比之選。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "荳子烘焙Beans Bakery 係西餐廳荳子Beans旗下的烘焙店，十年前已經係荃灣食過荳子，當時已經覺得荳子係一間好高質素又唔算貴嘅餐廳，所以我對荳子烘焙嘅出品充滿信心。\n\n今次食左期間限定同十字牌牛奶聯乘的薑汁麻薯奶酥。提提大家放工時間比較難買到，因為我連續放工去咗三日先終於比我買到。\n………………………………………………\n薑汁燉4.5特濃本地純鮮牛乳麻糬酥 ⭐️⭐️⭐️⭐️\n外層酥脆，層次豐富，餡料有濃郁的薑味和十字牌純牛奶的奶味，口感好幼滑，薑味同甜味都好適中，唔會太甜太辣。 餡料仲搭配了煙韌的麻糬，口感豐富。\n………………………………………………\n荳子烘焙繼承左荳子Cafe 高性價比嘅靈魂，麵包冬甩蛋撻咩都有，價錢又合理，仲不時會有聯乘或者期間限定產品，好有創新精神。\n\n雖然荳子烘焙唔稱得上最好食的麵包店，但係都一定係中上品質，性價比之選。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "LaHaMo",
+          "uri": "https://www.google.com/maps/contrib/108770248051326051257/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf2wsz6Upc4mjloiKfCTmvrF-7XGpEpfGsVV9OPp-5to3XOew=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-01-21T15:33:14.525404617Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OUFQzbGFaM2RRUXkwemJWOVNWV05KYlcxelNtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OUFQzbGFaM2RRUXkwemJWOVNWV05KYlcxelNtYxAB!2m1!1s0x3404070029129f97:0x68b4239e61ef6bc5"
+      },
+      {
+        "name": "places/ChIJl58SKQAHBDQRxWvvYZ4jtGg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OTk16RjVXWEkwUXpaTVZtZE5NRFl6YTFkaFRuYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "麵包新鮮軟熟好味 賣相靚\n以呢個商場黎講價錢唔貴",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "麵包新鮮軟熟好味 賣相靚\n以呢個商場黎講價錢唔貴",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yuna Chiu",
+          "uri": "https://www.google.com/maps/contrib/110415246000956764628/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVbO7Y9ZnPmtZFjoMqTHzJdr5y4EfhvZHHMHSDiJEhwLgZHk5NvFw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-08-11T00:47:26.987749022Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OTk16RjVXWEkwUXpaTVZtZE5NRFl6YTFkaFRuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OTk16RjVXWEkwUXpaTVZtZE5NRFl6YTFkaFRuYxAB!2m1!1s0x3404070029129f97:0x68b4239e61ef6bc5"
+      }
+    ],
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404070029129f97:0x68b4239e61ef6bc5!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7544694438907308997&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404070029129f97:0x68b4239e61ef6bc5!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404070029129f97:0x68b4239e61ef6bc5!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404070029129f97:0x68b4239e61ef6bc5!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJl58SKQAHBDQRxWvvYZ4jtGg/photos/Aa-ngMbUTA9gk2UNE809PXptDXGZeblM0Fn24SVVuz-kwbOnHMXPKcHPs-2N18KtYWUAZkTi2qAvQFzx_XDXLWbNMNS7ixoChphnbbbFnCxuuLzeSxJgcl3XCrKy0sR1L5WNA8OW0TEkLcK17t5M-Vm-5fJ8FmYAMrNp0K1FQ-iNfpqN2S4Zgux4vYbsBf5RpE2v3NALOLB-28QEZvS5v2ccDWwf_y_U_StO5NY1tgeYxCM1zpKCl4qBiOVINZ1buHMmZ9Iy86l38atpRTZwGZ40aGTzTHhyhbhrfCsZeyafaWKfpxcK1JOBlAheLb0pmVL4_P1hb4Xu7IWyMhanUe1F5TCogBveZih8ngHe5t155z_gvnpCBHZ6OuHnR04qAmSJLM0nbYAD7FMip-pDYRcFIBwYLv1HMTTzlDHtCQWQIEn7DQ",
+      "widthPx": 1080,
+      "heightPx": 1440,
+      "authorAttributions": [
+        {
+          "displayName": "F L",
+          "uri": "https://maps.google.com/maps/contrib/111371499899554356672",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf3e2p1MOwP3wWJzIIQ7bXyxeG4Nqn4ts4kQ-QtGSuGRbjgiWlog=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCqu3o7aGtzkA2wL7PABlne&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCqu3o7aGtzkA2wL7PABlne!2e10!4m2!3m1!1s0x3404070029129f97:0x68b4239e61ef6bc5"
+    },
+    "local_path": "photos/ChIJl58SKQAHBDQRxWvvYZ4jtGg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcp5aDHCDutvxHQPxFy2zGhwoxu6dYoE_D7pq0C7QjEFsGjUyIIE-MgLRPpMwaqBCoF200z4LrcyZBu5vtqKS_zW78MLLpwFzlLuOYYGLTgThpCAyslPS2zltmSuMhHpReCO2-ehMuxdNhr=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 190266
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bakery",
+    "label": "烘焙屋",
+    "types": [
+      "bakery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

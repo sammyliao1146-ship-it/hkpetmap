@@ -1,0 +1,38 @@
+{
+  "id": "ChIJLfQIB5IIBDQR72CmLwlDCbw",
+  "types": [
+    "housing_complex",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界天賦海灣科進路9號",
+  "location": {
+    "latitude": 22.432487100000003,
+    "longitude": 114.2037874
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13549434660654047471&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "海鑽．天賦海灣",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "housing_complex",
+  "photos": [
+    {
+      "name": "places/ChIJLfQIB5IIBDQR72CmLwlDCbw/photos/Aa-ngMaByW2yiU-y5YRUPaq9w9ba7PLqpq7V29K02BmGH__obsibb34Qs4gTWlRqbc8bn-2Saz7uqVRN6ffYekifzyPbz-wEj2PYy5ApUH0gCVYnadg7-Nf3SRLNZlSzFzlnotXiwuVnxBAE58vFAsID_KMfJanqTGCnCNIP4UzdC3-y2gVH4oEPZvD52BUlxp8F7PRX58UzovpVwMF60SsTypMSOnc4By8snVXzb21Llh5I-km3oYRhABIT0F3Z6142lE8Ai17KjbLGmImazMIVriQpCY32q62pm3sI6Zkq6psEnwG6mmCfl_pyiV-fjbRwhIcu59Ha7d7aAOjIzdtDUOBQTN5CdgIo28oNgJZ76QStV6eYWc108B2OPMouUfvwUzP_5wgybG6A-3NT2do87SUyvyiNmqc",
+      "widthPx": 4800,
+      "heightPx": 2856,
+      "authorAttributions": [
+        {
+          "displayName": "Little Baby Tsang",
+          "uri": "https://maps.google.com/maps/contrib/114441308123288407020",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJDGK30p995U6LcUVQ_K2DhOLshbX6En9-X1r5XQY0H-vJdgA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC77Yn5uwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC77Yn5uwE!2e10!4m2!3m1!1s0x340408920708f42d:0xbc0943092fa660ef"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:55.213168+00:00"
+}

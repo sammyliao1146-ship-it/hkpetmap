@@ -1,0 +1,337 @@
+{
+  "google_place_id": "ChIJi1Y7FykBBDQRCPKdqzy7aVw",
+  "restaurant_ids": [
+    "restaurant:3112810257"
+  ],
+  "fetched_at": "2026-10-23T15:42:45.460193+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJi1Y7FykBBDQRCPKdqzy7aVw",
+    "types": [
+      "cafe",
+      "coffee_shop",
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9445 9800",
+    "internationalPhoneNumber": "+852 9445 9800",
+    "formattedAddress": "香港香港島跑馬地藍塘道4號",
+    "location": {
+      "latitude": 22.2700414,
+      "longitude": 114.18515239999999
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=6659059393295675912&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://fineprint.hk/pages/happy-valley",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:00 – 18:00",
+        "星期二: 06:00 – 18:00",
+        "星期三: 06:00 – 18:00",
+        "星期四: 06:00 – 18:00",
+        "星期五: 06:00 – 18:00",
+        "星期六: 06:00 – 18:00",
+        "星期日: 06:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-23T22:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 56,
+    "displayName": {
+      "text": "FINEPRINT (跑馬地)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJi1Y7FykBBDQRCPKdqzy7aVw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCMWMwTjBVa2RDYVdrek9ETk9aakpCVEVjeFJGRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "原來ricotta toast 材料好簡單，就係兩片酸種麵包+一pat ricotta+幾粒藍莓+少少蜜糖。環境舒適好chill 適合brunch，好多人都係帶部電腦，點一杯嘢飲，就坐一日",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "原來ricotta toast 材料好簡單，就係兩片酸種麵包+一pat ricotta+幾粒藍莓+少少蜜糖。環境舒適好chill 適合brunch，好多人都係帶部電腦，點一杯嘢飲，就坐一日",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chong Nana",
+          "uri": "https://www.google.com/maps/contrib/114611292157074929001/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNbNvMtlwtw4jcPDhoDXME5gpeOHpBvNlnta8btyyectFL-A=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-07-12T04:06:11.145179782Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCMWMwTjBVa2RDYVdrek9ETk9aakpCVEVjeFJGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCMWMwTjBVa2RDYVdrek9ETk9aakpCVEVjeFJGRRAB!2m1!1s0x34040129173b568b:0x5c69bb3cab9df208"
+      },
+      {
+        "name": "places/ChIJi1Y7FykBBDQRCPKdqzy7aVw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poR04yeEViVWhXTFZSUU5FNWxhM0JMUTJoTmRVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "👎",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "👎",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Day",
+          "uri": "https://www.google.com/maps/contrib/110108470198167556339/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaFNbIsCAzWAztbLAnEv91Ygc6yBleirorz_1Ek1IlwvcWwto8=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-10-14T16:40:53.019743379Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poR04yeEViVWhXTFZSUU5FNWxhM0JMUTJoTmRVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poR04yeEViVWhXTFZSUU5FNWxhM0JMUTJoTmRVRRAB!2m1!1s0x34040129173b568b:0x5c69bb3cab9df208"
+      },
+      {
+        "name": "places/ChIJi1Y7FykBBDQRCPKdqzy7aVw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sdk9ETlFSMHd4UTJWQ1lYQlFPV2xZZWxCd1FYYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "平日下午順道去了一趟，感覺環境很不錯——開闊明亮，是休息的好去處。咖啡品質整體來說都很棒，從冰黑咖啡到馥芮白都無可挑剔。摩卡咖啡也相當不錯。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Dropped by on a weekday afternoon and the space was really nice — open, airy, and a great spot for a break. The coffee was solid across the board, from the iced black to the flat white. The mocha stood",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Logan S. Y",
+          "uri": "https://www.google.com/maps/contrib/111442324861277330854/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWg8cnnjZDzpKQFUBpt9c5RptQeO9uWk0vCKG8QL8obz8e6yI=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-01T08:04:45.079847060Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sdk9ETlFSMHd4UTJWQ1lYQlFPV2xZZWxCd1FYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sdk9ETlFSMHd4UTJWQ1lYQlFPV2xZZWxCd1FYYxAB!2m1!1s0x34040129173b568b:0x5c69bb3cab9df208"
+      },
+      {
+        "name": "places/ChIJi1Y7FykBBDQRCPKdqzy7aVw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oc09VUnRieTFKVW5RNVlqTjZWakkyZUZWdlpIYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "全城最好的雙份濃縮咖啡就在這裡。食物也不錯，氣氛超棒。他們不會讓你擔心坐了多久，或是你點的東西夠不夠。非常放鬆，沒人會催你加點。\n\n這家店明白，有時候人們只想坐下來靜靜待著，這在如今這個時代可是個難得的品質。\n\n但大家都要懂事，請注意打烊時間，不要耽誤工作人員。他們也想回家，不想站在那裡看著你盡情享受生活。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Best double expresso in whole city can find here. Food also not bad, atmosphere is very very good. They not make you worry about how long you sit or did you order enough thing or not. Very relax, nobody chase you for more order.\n\nThis place understand that sometimes people just want sit and exist, which is rare talent nowadays.\n\nBut everyone should be smart person, please notice the closing time, don’t block the worker people. They also want go home, not stand there watch you enjoy life forever.​​​​​​​​​​​​​​​​",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "enikselom",
+          "uri": "https://www.google.com/maps/contrib/113920818845609715740/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjsZHO5-BYKhkE-4o6KQeI5qoxhOujXeVhIyJw1mZN5qKMOHA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-10-22T22:25:05.367757901Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oc09VUnRieTFKVW5RNVlqTjZWakkyZUZWdlpIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oc09VUnRieTFKVW5RNVlqTjZWakkyZUZWdlpIYxAB!2m1!1s0x34040129173b568b:0x5c69bb3cab9df208"
+      },
+      {
+        "name": "places/ChIJi1Y7FykBBDQRCPKdqzy7aVw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2el9lZGx3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "這家店是附近最新最潮的餐廳！室內空間寬敞舒適，後院的戶外區域也很溫馨。這裡允許帶狗狗來，可以和它們一起享受歡樂時光。\n\n夏日早餐碗裡的水果風味獨特，非常美味。\n\n烤牛肉吐司是經典。\n\n如果你不介意冷盤的話，Ultimo 的雞蛋也很不錯。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "The vibiest latest addition to the neighborhood!! Great indoor and cozy outdoor area towards the back too. Dog friendly spot makes for some fun companions.\n\nSummer breakfast bowl has a very unique flavor to it from the fruits, very delicious.\n\nRoast beef toasty is a classic.\n\nUltimo eggs are great if you don’t mind a cold dish.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Howard T",
+          "uri": "https://www.google.com/maps/contrib/110585369311134086915/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmkas7YcGqL5Vy782hD8MKEmi7btnyAoeHwuhk3gekMMtstO1B=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-12-25T09:19:16.447860Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2el9lZGx3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2el9lZGx3RRAB!2m1!1s0x34040129173b568b:0x5c69bb3cab9df208"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040129173b568b:0x5c69bb3cab9df208!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6659059393295675912&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040129173b568b:0x5c69bb3cab9df208!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040129173b568b:0x5c69bb3cab9df208!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040129173b568b:0x5c69bb3cab9df208!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJi1Y7FykBBDQRCPKdqzy7aVw/photos/Aa-ngMZyJ43WiWmGC7dNRzs9-n4OjFZez2Qz17XDyYkL5MMgTfv5BcpLorsdUEgVy6m2W8IlBrstQAqxLHunz7Is7xYgTKxCIMYgtanqysUaH_XeueeZeMCJxayhuRDkRq6whWs_LygJDYAwYtQdC3oR0POXwmXOXVTfQtky3JK9cJIz5OETeyOdOfHqVL-LZm1g4Zz1Po9HiZCNakAHGFwCuoZQqpr4tb6mWm1mndO0hwcyVfT6fm_eIJv0VMPFcWHt1wb1V1mIwj7jYOOwGB8RFdheF45iHdrjAHaL7R9veisFMzlkwN7mqzFsXIwwG-ZuN1xwZJx2RmSqsCAuQFknvWNVckx7N-l8YiBJ9rjBKL2YcNTjMybrIGjLDXJXOtPRTtAUoLFPG1-jKcIFzZdQ8gjEoxfOexM",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "FINEPRINT",
+          "uri": "https://maps.google.com/maps/contrib/107229649249264042827",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKLi1RYYo1UwcyrrRR41Yzwr1jjQJnTrAa5aVqIzBTc5RbItw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICv_M6XmgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv_M6XmgE!2e10!4m2!3m1!1s0x34040129173b568b:0x5c69bb3cab9df208"
+    },
+    "local_path": "photos/ChIJi1Y7FykBBDQRCPKdqzy7aVw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_Xl39eED1X8yFXn1ZTKixxm_C6RA1QK8up2_lswyQFi0IRsSrBf5hjVGKpB0FhmjectXvDPPDtNMWp1DV3oc-V4wZJ0OLjuPwNX7-JTHcg0OvYewvnThjkjByhDs-2tHzbf9iLw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 151835
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-happy-valley",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/pages/happy-valley",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "coffee_shop",
+      "bakery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://fineprint.hk/pages/fineprint-menu-happy-valley"
+}

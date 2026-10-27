@@ -1,0 +1,329 @@
+{
+  "google_place_id": "ChIJb2a4CYQBBDQRND9G3-nXTKM",
+  "restaurant_ids": [
+    "restaurant:3152803585"
+  ],
+  "fetched_at": "2026-10-23T15:42:23.430650+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJb2a4CYQBBDQRND9G3-nXTKM",
+    "types": [
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9817 7369",
+    "internationalPhoneNumber": "+852 9817 7369",
+    "formattedAddress": "香港九龍土瓜灣馬頭圍道63號啟岸Shop ,1/F",
+    "location": {
+      "latitude": 22.312054699999997,
+      "longitude": 114.188026
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=11767017325885538100&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.dozyhk.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:30 – 18:30",
+        "星期二: 09:30 – 18:30",
+        "星期三: 09:30 – 18:30",
+        "星期四: 09:30 – 18:30",
+        "星期五: 09:30 – 18:30",
+        "星期六: 09:30 – 18:30",
+        "星期日: 09:30 – 18:30"
+      ],
+      "nextOpenTime": "2026-10-24T01:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 94,
+    "displayName": {
+      "text": "DOZY",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesLunch": true,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJb2a4CYQBBDQRND9G3-nXTKM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aeGRXSjZYM2hrVnkwNGJqUndUbm80VjJoRk4zYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "雖然距離土瓜灣站唔近，但值得一試。坐得好舒服，野食都哈\n好有心機。好鍾意叉燒，比較少cafe會整，而且係好味，肉質軟身但又有少少爽彈嘅梅頭，好食👍🏻\n不過點餐之後30分鐘先有bagel，等得比較耐。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "雖然距離土瓜灣站唔近，但值得一試。坐得好舒服，野食都哈\n好有心機。好鍾意叉燒，比較少cafe會整，而且係好味，肉質軟身但又有少少爽彈嘅梅頭，好食👍🏻\n不過點餐之後30分鐘先有bagel，等得比較耐。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Boo C",
+          "uri": "https://www.google.com/maps/contrib/109764665399159267361/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAq3sgxEfjH9XliqnKFZb8xVbfCJ1-epX9JO1X-yQI3GnhAyvr=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-29T09:51:32.798882887Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aeGRXSjZYM2hrVnkwNGJqUndUbm80VjJoRk4zYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aeGRXSjZYM2hrVnkwNGJqUndUbm80VjJoRk4zYxAB!2m1!1s0x3404018409b8666f:0xa34cd7e9df463f34"
+      },
+      {
+        "name": "places/ChIJb2a4CYQBBDQRND9G3-nXTKM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwdlMzZE1aSEpIZUZweVdHZzBiR3B0VG1Sa2IyYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "絕對好評⭐️⭐️⭐️⭐️⭐️的本地Cafe！Dozy 係香港好似有幾間分店，之前試過，覺得野食幾好味。但土瓜環店真係比到我刞chill既體驗🩵\n\n重點係餐廳佈局，四周採用落地大玻璃，採光效果運用得好好，有一邊係開晒門窗。對住出面十分寫意。土瓜環條街都好繁忙，人來人往，更加突顯到dozy內部環境有幾 chill。\n(dozy 係pets friendly，weekend去可能會有客人狗狗 stay inside cafe 🐶❤️)\n\nWeekend brunch 簡單叫咗2 main 2 coffee\n\n明太子醬温泉蛋蟹肉意粉 $108\n好香濃好順滑，每一啖都係明太子醬，實再太正。有蟹肉既甜，明太子既creamy，夾埋意粉食落有層次👍🏻蟹肉份量完全唔手軟，好欣賞dozy 既心思🥰\n\n特製雞扒牛油果配香橙芥末汁沙律 $108\n雞扒外皮微微脆，香得過分誘惑🫣肉香濃；牛油果綿密軟熟，同新鮮沙律菜，番茄仔、紫甘藍，仲有石榴粒粒夾埋食，好爽❤️ 脆香橙芥末汁幾特別，平衡得好好\n\nDirty $40\n分層超美！第一啖飲到熱咖啡撞冰牛奶，呢杯沖得好好，甜得黎aftertaste 帶甘\n\nHot Mocca $45\n拉花好靚仔🥰 第一啖飲到表面濃烈焦香味，奶泡打得好細緻得似慕斯，飲落去亦好滑\n\nMenu手沖用咗人名代替😂 睇下當日有咩靚豆個barista 想整比你。然後有個菜式叫「同winson 傾計」，只要加 $35 😂 一問之下，店員話winson 真係個人黎，而且好識得安慰失戀既人 LOL",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "絕對好評⭐️⭐️⭐️⭐️⭐️的本地Cafe！Dozy 係香港好似有幾間分店，之前試過，覺得野食幾好味。但土瓜環店真係比到我刞chill既體驗🩵\n\n重點係餐廳佈局，四周採用落地大玻璃，採光效果運用得好好，有一邊係開晒門窗。對住出面十分寫意。土瓜環條街都好繁忙，人來人往，更加突顯到dozy內部環境有幾 chill。\n(dozy 係pets friendly，weekend去可能會有客人狗狗 stay inside cafe 🐶❤️)\n\nWeekend brunch 簡單叫咗2 main 2 coffee\n\n明太子醬温泉蛋蟹肉意粉 $108\n好香濃好順滑，每一啖都係明太子醬，實再太正。有蟹肉既甜，明太子既creamy，夾埋意粉食落有層次👍🏻蟹肉份量完全唔手軟，好欣賞dozy 既心思🥰\n\n特製雞扒牛油果配香橙芥末汁沙律 $108\n雞扒外皮微微脆，香得過分誘惑🫣肉香濃；牛油果綿密軟熟，同新鮮沙律菜，番茄仔、紫甘藍，仲有石榴粒粒夾埋食，好爽❤️ 脆香橙芥末汁幾特別，平衡得好好\n\nDirty $40\n分層超美！第一啖飲到熱咖啡撞冰牛奶，呢杯沖得好好，甜得黎aftertaste 帶甘\n\nHot Mocca $45\n拉花好靚仔🥰 第一啖飲到表面濃烈焦香味，奶泡打得好細緻得似慕斯，飲落去亦好滑\n\nMenu手沖用咗人名代替😂 睇下當日有咩靚豆個barista 想整比你。然後有個菜式叫「同winson 傾計」，只要加 $35 😂 一問之下，店員話winson 真係個人黎，而且好識得安慰失戀既人 LOL",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cheung Christy",
+          "uri": "https://www.google.com/maps/contrib/115994290989544873409/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpeWF7pJn_GdLHN0JL37g48aT9xbxjOhljp2gqE0NxpOry=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-08-20T10:38:56.400745374Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwdlMzZE1aSEpIZUZweVdHZzBiR3B0VG1Sa2IyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwdlMzZE1aSEpIZUZweVdHZzBiR3B0VG1Sa2IyYxAB!2m1!1s0x3404018409b8666f:0xa34cd7e9df463f34"
+      },
+      {
+        "name": "places/ChIJb2a4CYQBBDQRND9G3-nXTKM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taVVkwZ3lMVXRhTkcwNFZGRndTSFYyVkdJNU0wRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "今日經過發現土瓜灣都有好多美食～今日嚟咗啟岸地下依邊發掘咗一間高質Cafe — Dozy。Cafe設有室外同室外環境，而且係pet friendly，大家可以帶埋小寵物嚟聚餐！\n\nOrange Mustord Dressing with Dozy Signature Chicken Thigh & Avocado Salad $108\n雞扒煎得外表脆脆，裡面好嫩，咬一口就有肉汁流出。香橙芥末汁味道微辣，仲有果香味，食落去好清新。牛油果香滑，奶香味十足，搭配啲番石榴、生菜同蕃茄，整體味道好fresh好開胃。\n\nOnsen Egg and Crab Meat Pasta with Mentaiko Sauce $108\n明太子意粉好推介！明太子醬好香滑，鹹香味濃，帶少少辣味，超級好味。溫泉蛋一碰就流出嚟，整碗意粉更加滑腍同creamy。蟹肉鮮甜，搭配意粉啱啱好，食落去每一口都有海鮮嘅鮮味。\n\nMocha $45\nMocha咖啡香濃，咖啡味同朱古力味合得好好，飲落去唔會太苦。上面有一層奶泡，拉花好靚，飲起來好滑。\n\nDirty $40\nDirty 係咖啡同牛奶嘅混合，牛奶較多。咖啡嘅苦味配上牛奶嘅滑，飲落去有啲微微甜，啱啱好唔會太重，適合一啲鍾意咖啡但又想要柔和口感嘅朋友。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日經過發現土瓜灣都有好多美食～今日嚟咗啟岸地下依邊發掘咗一間高質Cafe — Dozy。Cafe設有室外同室外環境，而且係pet friendly，大家可以帶埋小寵物嚟聚餐！\n\nOrange Mustord Dressing with Dozy Signature Chicken Thigh & Avocado Salad $108\n雞扒煎得外表脆脆，裡面好嫩，咬一口就有肉汁流出。香橙芥末汁味道微辣，仲有果香味，食落去好清新。牛油果香滑，奶香味十足，搭配啲番石榴、生菜同蕃茄，整體味道好fresh好開胃。\n\nOnsen Egg and Crab Meat Pasta with Mentaiko Sauce $108\n明太子意粉好推介！明太子醬好香滑，鹹香味濃，帶少少辣味，超級好味。溫泉蛋一碰就流出嚟，整碗意粉更加滑腍同creamy。蟹肉鮮甜，搭配意粉啱啱好，食落去每一口都有海鮮嘅鮮味。\n\nMocha $45\nMocha咖啡香濃，咖啡味同朱古力味合得好好，飲落去唔會太苦。上面有一層奶泡，拉花好靚，飲起來好滑。\n\nDirty $40\nDirty 係咖啡同牛奶嘅混合，牛奶較多。咖啡嘅苦味配上牛奶嘅滑，飲落去有啲微微甜，啱啱好唔會太重，適合一啲鍾意咖啡但又想要柔和口感嘅朋友。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cat Turtle",
+          "uri": "https://www.google.com/maps/contrib/111078587946143957432/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKyjSH8ckhjnBNA0SMi_TXEH-4mD1x-BG_BFZeEMKFyyNhIYg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-09-14T09:21:51.255842585Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taVVkwZ3lMVXRhTkcwNFZGRndTSFYyVkdJNU0wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taVVkwZ3lMVXRhTkcwNFZGRndTSFYyVkdJNU0wRRAB!2m1!1s0x3404018409b8666f:0xa34cd7e9df463f34"
+      },
+      {
+        "name": "places/ChIJb2a4CYQBBDQRND9G3-nXTKM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnMFRXRkJRV2RaU0hKV1NsRkJWelZYVmtKYWFrRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "水泥工業風為設計主題，環境寬敞舒適，\n環境十分輕鬆，內部擺設了許多植物\n菜單融合了多國風味，\n為食客帶來豐富多樣的美食體驗。\n\n八爪魚魷魚意粉賣相吸引，爽口彈牙，\n加點辣椒及蒜蓉一同爆香，香味四溢，\n意大利麵夠幼細，口感Al dente.\n\n花生醬與韓式辣醬調製的意粉，\n非常有創意，味道出奇地夾，\n鹹香濃郁，非常惹味。\n松阪豬油脂豐富，口感滑嫩，\n肉質細緻，誠意推介。\n\n豆腐芝士蛋糕也是這𥚃的招牌，\n濃濃豆腐香味，口感非常順滑，\n帶點芝士奶香，好夠Creamy。\n\n焙茶芝士蛋糕茶味醇厚順口，\n焙茶香氣與芝士的醇厚結合，\n口感綿密，入口回甘。\n\n除了主食及甜品，\n這裡的咖啡也非常出色，\n黑芝麻Latte 好特別，\n濃郁的芝麻香氣，好濃郁堅果味，\n香氣獨特，營養豐富。\n\nDirty也是近期咖啡界的大熱，\n深受咖啡迷喜愛，\n一口嚐到Espresso的強烈風味，\n由濃到淡，再嚐到牛奶的柔滑口感，雙重滋味。\n#土瓜灣美食 #馬頭圍道\n#DozyCafe\n#蒜香柚子牛油魷魚八爪魚意粉\n#韓式辣醬混花生醬炒松阪豬意粉\n#豆腐芝士蛋糕\n#焙茶芝士蛋糕\n#黑芝麻Latte\n#Dirty髒髒咖啡",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "水泥工業風為設計主題，環境寬敞舒適，\n環境十分輕鬆，內部擺設了許多植物\n菜單融合了多國風味，\n為食客帶來豐富多樣的美食體驗。\n\n八爪魚魷魚意粉賣相吸引，爽口彈牙，\n加點辣椒及蒜蓉一同爆香，香味四溢，\n意大利麵夠幼細，口感Al dente.\n\n花生醬與韓式辣醬調製的意粉，\n非常有創意，味道出奇地夾，\n鹹香濃郁，非常惹味。\n松阪豬油脂豐富，口感滑嫩，\n肉質細緻，誠意推介。\n\n豆腐芝士蛋糕也是這𥚃的招牌，\n濃濃豆腐香味，口感非常順滑，\n帶點芝士奶香，好夠Creamy。\n\n焙茶芝士蛋糕茶味醇厚順口，\n焙茶香氣與芝士的醇厚結合，\n口感綿密，入口回甘。\n\n除了主食及甜品，\n這裡的咖啡也非常出色，\n黑芝麻Latte 好特別，\n濃郁的芝麻香氣，好濃郁堅果味，\n香氣獨特，營養豐富。\n\nDirty也是近期咖啡界的大熱，\n深受咖啡迷喜愛，\n一口嚐到Espresso的強烈風味，\n由濃到淡，再嚐到牛奶的柔滑口感，雙重滋味。\n#土瓜灣美食 #馬頭圍道\n#DozyCafe\n#蒜香柚子牛油魷魚八爪魚意粉\n#韓式辣醬混花生醬炒松阪豬意粉\n#豆腐芝士蛋糕\n#焙茶芝士蛋糕\n#黑芝麻Latte\n#Dirty髒髒咖啡",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jacky Ching",
+          "uri": "https://www.google.com/maps/contrib/105795781155884908792/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLcAvd6d45dVy6N3Iw4pXVlKHIRsJa8I2AZNQ9wiNMtFqQcIA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-07-25T15:54:32.137380735Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnMFRXRkJRV2RaU0hKV1NsRkJWelZYVmtKYWFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnMFRXRkJRV2RaU0hKV1NsRkJWelZYVmtKYWFrRRAB!2m1!1s0x3404018409b8666f:0xa34cd7e9df463f34"
+      },
+      {
+        "name": "places/ChIJb2a4CYQBBDQRND9G3-nXTKM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4Qk0xOUxhMDVGYW1KV1UwODFSWEJzVjBkSFNHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "最近我和朋友到土瓜環的新分店打卡，這間cafe以文青簡約風格著稱，還是寵物友好，非常適合放鬆一下。\n\nDozy Brunch ($108)\n香腸同面包都推薦！份量好大 最special 係個柚子牛油～\n\nSpaghetti with Onsen Egg and Crabmeat in Mentaiko ($108)\n意大利麵的口感滑順，搭配溫泉蛋的香濃與蟹肉的鮮甜，味道十分出色so creamy!!!\n\nEspresso Tonic Fruity ($63)\n酸酸甜甜！口感清新，咖啡與碳酸水的搭配意外地和諧 飲緊bubble water!\n\nLatte | Hot ($40)\n打卡拉花系列 正正常常",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最近我和朋友到土瓜環的新分店打卡，這間cafe以文青簡約風格著稱，還是寵物友好，非常適合放鬆一下。\n\nDozy Brunch ($108)\n香腸同面包都推薦！份量好大 最special 係個柚子牛油～\n\nSpaghetti with Onsen Egg and Crabmeat in Mentaiko ($108)\n意大利麵的口感滑順，搭配溫泉蛋的香濃與蟹肉的鮮甜，味道十分出色so creamy!!!\n\nEspresso Tonic Fruity ($63)\n酸酸甜甜！口感清新，咖啡與碳酸水的搭配意外地和諧 飲緊bubble water!\n\nLatte | Hot ($40)\n打卡拉花系列 正正常常",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ga YeeYee",
+          "uri": "https://www.google.com/maps/contrib/110516040459051903795/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbEatEkWP677tsUFP81DDZ5rkVNZi6YGuz-wwEgilXcwJOAck=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-09-19T04:22:35.239550647Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4Qk0xOUxhMDVGYW1KV1UwODFSWEJzVjBkSFNHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4Qk0xOUxhMDVGYW1KV1UwODFSWEJzVjBkSFNHYxAB!2m1!1s0x3404018409b8666f:0xa34cd7e9df463f34"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404018409b8666f:0xa34cd7e9df463f34!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11767017325885538100&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404018409b8666f:0xa34cd7e9df463f34!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404018409b8666f:0xa34cd7e9df463f34!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404018409b8666f:0xa34cd7e9df463f34!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJb2a4CYQBBDQRND9G3-nXTKM/photos/Aa-ngMa4GUHvQHwqFEBq91D0egLv2o7242NvwAQrCsWyABByflCn7-xQGa3sldUULcPOsT-A6XltMokz24G_9WnIuGJTNRFa4GSbF_tJfNsTLYI3amccsiDub-gBsLeUa8nUIl2iKe6-DkFon-e_u7DvnT05LMm2GqRiyttOm3xnN4Yl1jCtExQkS41q51ewhR4Hqy48y-4NWuWuzcBnX3nfVpXrO4Gsdrx0v31zunUFPmUilSjhl-rnudu1WOtFjx6jqtiRhqUE4IbYTLOsdj6hpN8cAQJDKoMHKKdxAhj8RB8dpzevNmBf0Xf-PPfDFRzsnXUeUvaYAG7jXotsLI3DJGqN1eNvPjOzoihccvzpxSBmErkjIjGbP0ya8WNLo4MKJSLDvNIWznpVKbsf0bd3SaJxqWbjSN4Vsj2LF2ZSiPnx1g",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "authorAttributions": [
+        {
+          "displayName": "DOZY",
+          "uri": "https://maps.google.com/maps/contrib/106251356376295738082",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3Hn0PcvomHEk-QgZK9xlFIrwiceAbF-F-1KW83I8l7ZoWpg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDcv5hIxN4nALTYCt4m_3a2&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDcv5hIxN4nALTYCt4m_3a2!2e10!4m2!3m1!1s0x3404018409b8666f:0xa34cd7e9df463f34"
+    },
+    "local_path": "photos/ChIJb2a4CYQBBDQRND9G3-nXTKM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXD_k0TgzDpkRBXqQ7ZciwaczZcV4ynWAA3-2Xvi6_9i6GAI2AYIGi-fa5dU6EPuguWy2ljtSjzu0OAS7VYUNSm2SzTjRD7HyW-1Jz5orUtiK-z4nh8FU5oDwY4WhpqR5lc3y4BQRYikVC=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 135858
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.dozyhk.com/menu",
+        "label": "Menu",
+        "source_url": "https://www.dozyhk.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.dozyhk.com/menu"
+}

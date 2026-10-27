@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJD-gvWgwBBDQRq1KjeolOBdg",
+  "restaurant_ids": [
+    "restaurant:2211803861"
+  ],
+  "fetched_at": "2026-10-23T15:42:40.774398+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJD-gvWgwBBDQRq1KjeolOBdg",
+    "types": [
+      "mediterranean_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2744 6000",
+    "internationalPhoneNumber": "+852 2744 6000",
+    "formattedAddress": "G/F., 35 - 41 Tong Chong Street. Tai Koo Fong, Quarry Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.287602,
+      "longitude": 114.211851
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=15565934039450997419&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 537,
+    "displayName": {
+      "text": "Enoteca Quarry Bay",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "地中海餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "mediterranean_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJD-gvWgwBBDQRq1KjeolOBdg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25od1FWOWlkVTFDVmtKa2F6a3lkek54V1ZaaWRIYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 3,
+        "text": {
+          "text": "午市不用等位，服務不錯，環境也算舒服。\n\nset lunch前菜煙鴨胸沙律不算新鮮，味道一般。主菜肉眼牛排熟度恰好，同樣肉質一般，魚排相對唔錯，外表香脆。\n\n甜品芝士外表有少少失敗，一個人連加一250至300左右。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午市不用等位，服務不錯，環境也算舒服。\n\nset lunch前菜煙鴨胸沙律不算新鮮，味道一般。主菜肉眼牛排熟度恰好，同樣肉質一般，魚排相對唔錯，外表香脆。\n\n甜品芝士外表有少少失敗，一個人連加一250至300左右。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lafa ca",
+          "uri": "https://www.google.com/maps/contrib/107431684497404582479/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEe14PqN2nfBWR8otoswDPUK5PY4aN0eyu4GQzdI5FfJbfY-xx=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-11-26T03:18:13.247733947Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25od1FWOWlkVTFDVmtKa2F6a3lkek54V1ZaaWRIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25od1FWOWlkVTFDVmtKa2F6a3lkek54V1ZaaWRIYxAB!2m1!1s0x3404010c5a2fe80f:0xd8054e897aa352ab"
+      },
+      {
+        "name": "places/ChIJD-gvWgwBBDQRq1KjeolOBdg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfN0k2Tnh3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "位於甲級寫字樓與民居之間的西餐廳。\n\n店員推介的雞翅味道很好，如果可以炸得更香脆些會更好食。配上的芹菜很新鮮，沒有草青味，沾醬料吃很解膩。\n\n推介Pizza，烤得外脆內軟，水牛芝士。味道清新，加上火箭菜一齊吃，更加了層次感。\n\n酒類選擇很多，店員會先給我們試一下味道，待我們覺得可以的話才確認點單，不管是點一瓶還是一杯，都有這個服務，加分！\n\n環境寧靜舒適，和朋友晚上喝酒聊天的好地方。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於甲級寫字樓與民居之間的西餐廳。\n\n店員推介的雞翅味道很好，如果可以炸得更香脆些會更好食。配上的芹菜很新鮮，沒有草青味，沾醬料吃很解膩。\n\n推介Pizza，烤得外脆內軟，水牛芝士。味道清新，加上火箭菜一齊吃，更加了層次感。\n\n酒類選擇很多，店員會先給我們試一下味道，待我們覺得可以的話才確認點單，不管是點一瓶還是一杯，都有這個服務，加分！\n\n環境寧靜舒適，和朋友晚上喝酒聊天的好地方。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Likaaa",
+          "uri": "https://www.google.com/maps/contrib/102094993772103494060/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHp1ZKiVUErway4X1OPaY1PWVu4QmxRahpooSLXnIgIDbywwU=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-01-13T19:07:03.104873Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfN0k2Tnh3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfN0k2Tnh3RRAB!2m1!1s0x3404010c5a2fe80f:0xd8054e897aa352ab"
+      },
+      {
+        "name": "places/ChIJD-gvWgwBBDQRq1KjeolOBdg/reviews/ChZDSUhNMG9nS0VJQ0FnSURMamZXQkZnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "星期六中午12:15，提前訂咗位，但餐廳本身都唔係太多人，被安排坐室內的窗口位，望住外面啲樹，幾舒服。周末有brunch set，係一個main course 加一杯嘢飲。\n\nBig Breakfast Pizza: 呢個pizza好得意，係將all day breakfast嘅材料放咗上pizza，啲蔬菜同肉嘅比例非常好，食落好夠味，但又唔會覺得太咸。Pizza餅底超級薄，好脆。呢個我會俾5粒星。\n\nAngus Beef Burger: 睇相同實物都好靚仔，但係正如其他人嘅評論所講，佢塊漢堡扒太瘦，又煎得太乾，啲煙肉又係好瘦，所以就算夾埋啲蕃茄、生菜、洋蔥一齊食，都仍然覺得個漢堡太乾。個漢堡本身俾3粒星。伴碟啲薯條好好食，俾4粒星。\n\n飲品的選擇都幾多，咖啡、茶同幾款soft drink都唔使特別加錢。叫咗兩杯凍飲，估唔到係勁大杯，超抵飲。\n\nLime soda: 個青檸好靚，有陣香味，仲一早整爆晒，所以好夠味，比其他餐廳好飲好多。\n\nIced coffee: 個咖啡豆有少少朱古力味，雖然好大杯，但成杯都好夠味。\n\n兩個人埋單$348，食物質素ok，環境又幾舒服，杯嘢飲又夠大杯，適合周末嚟hea一hea。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期六中午12:15，提前訂咗位，但餐廳本身都唔係太多人，被安排坐室內的窗口位，望住外面啲樹，幾舒服。周末有brunch set，係一個main course 加一杯嘢飲。\n\nBig Breakfast Pizza: 呢個pizza好得意，係將all day breakfast嘅材料放咗上pizza，啲蔬菜同肉嘅比例非常好，食落好夠味，但又唔會覺得太咸。Pizza餅底超級薄，好脆。呢個我會俾5粒星。\n\nAngus Beef Burger: 睇相同實物都好靚仔，但係正如其他人嘅評論所講，佢塊漢堡扒太瘦，又煎得太乾，啲煙肉又係好瘦，所以就算夾埋啲蕃茄、生菜、洋蔥一齊食，都仍然覺得個漢堡太乾。個漢堡本身俾3粒星。伴碟啲薯條好好食，俾4粒星。\n\n飲品的選擇都幾多，咖啡、茶同幾款soft drink都唔使特別加錢。叫咗兩杯凍飲，估唔到係勁大杯，超抵飲。\n\nLime soda: 個青檸好靚，有陣香味，仲一早整爆晒，所以好夠味，比其他餐廳好飲好多。\n\nIced coffee: 個咖啡豆有少少朱古力味，雖然好大杯，但成杯都好夠味。\n\n兩個人埋單$348，食物質素ok，環境又幾舒服，杯嘢飲又夠大杯，適合周末嚟hea一hea。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cheung Cass",
+          "uri": "https://www.google.com/maps/contrib/113914659053653875827/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-kZMMf2jMUf5bmVPkC3Y9X3WAdc_e_CPtBhtpNbhsifsOhGr3=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-07-16T04:11:20.231907Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMamZXQkZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMamZXQkZnEAE!2m1!1s0x3404010c5a2fe80f:0xd8054e897aa352ab"
+      },
+      {
+        "name": "places/ChIJD-gvWgwBBDQRq1KjeolOBdg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtc0xpcXBBRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "Enoteca | 鰂魚涌\n\n睇展覽前在OpenRice搵餐廳，見到呢間餐廳lunch set不錯，所以來一試\n\n午餐包括了前菜+主菜+甜品+ $15 飲品\n我覺得好抵食🥰\n\n前菜- Artichokes. Zucchinl & Feta Cake\n呢個幾樣材料加埋一齊食，很好吃❤️\n\n主菜- Grilled US Rib Eye Steak\n\n牛排好香牛味，同煎得剛剛好，不會過熟\n\n甜品-  Apple Strudel with vanilla sauce\n\n蘋果外層酥皮皮很香脆，再配蘋果食剛剛好，不會太肥膩🍎",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Enoteca | 鰂魚涌\n\n睇展覽前在OpenRice搵餐廳，見到呢間餐廳lunch set不錯，所以來一試\n\n午餐包括了前菜+主菜+甜品+ $15 飲品\n我覺得好抵食🥰\n\n前菜- Artichokes. Zucchinl & Feta Cake\n呢個幾樣材料加埋一齊食，很好吃❤️\n\n主菜- Grilled US Rib Eye Steak\n\n牛排好香牛味，同煎得剛剛好，不會過熟\n\n甜品-  Apple Strudel with vanilla sauce\n\n蘋果外層酥皮皮很香脆，再配蘋果食剛剛好，不會太肥膩🍎",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jess “H”",
+          "uri": "https://www.google.com/maps/contrib/101004350301970185067/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUN3yHY8yVn-0-w80eKpVIoGPqQIGD5VDilMgzXpQc0K9uFnPoF=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-11-19T07:38:22.758258Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtc0xpcXBBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtc0xpcXBBRRAB!2m1!1s0x3404010c5a2fe80f:0xd8054e897aa352ab"
+      },
+      {
+        "name": "places/ChIJD-gvWgwBBDQRq1KjeolOBdg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMakx5NUlBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "Enoteca (糖廠街) @enoteca_wine_hk\n📍：鰂魚涌糖廠街35-41號地舖\n🚗：鰂魚涌地鐵A出口 步行4分鐘\n📞：+852 2744-6000\n💲：~HKD300/head for dinner\n\nFood quality\n✔️：Smoked Beef Carpaccio, Asparagus , Artichoke & Brie Tart, Mediterranean Vegetable Pizza\n👌🏼：Carrot Cake, Aglio e Olio, Coco Fresh, Guava Ginger Screwdriver\n\n總結：\n😋鰂魚涌特色地中海菜 個人覺得偏意大利🇮🇹/西班牙菜多啲 食物酒類選擇多 睇到人眼花撩亂\n😋Smoked Beef Carpaccio係意式生牛肉片 牛薄片 上面落咗蛋黃 山柑同帕瑪森奶酪🧀 濃嘅牛味新鮮 開胃嘅前菜\n😋Asparagus , Artichoke & Bri 係撻皮上放上 茄子泥 火箭菜同羊奶乳酪 再洒上蘆葦同菜薊 素食嚟但有層次 唯一係真係太大碟 真到飽死\n😋Mediterranean Vegetable Pi就係一個素食薄餅 茄子泥莫薩里拉同菲達芝士 油橄欖🫒 烤翠肉瓜 蕃茄乾同紅椒 雖然全都是菜但食落唔寡 調味足同肉食pizza都一樣咁好食\n🤔意粉有6款麵類選擇 比意式餐廳更似意式餐廳 有長通粉 蝴蝶粉 螺絲粉 扁意粉 直條麵同無麩質直條麵 Aglio e Olio係最經典嘅橄欖油蒜香意粉🍝睇落簡單但實際冇咁容易整 呢碟就正常\n🤔carrot cake🧁係指將紅蘿蔔混入麵糊製成嘅蛋糕 正常味道 texture略硬亦唔會我偏愛\n🤔兩杯飲品就正常發揮\n🤔價錢偏貴 食物幾好食都算可接受\n😨餐廳環境幽暗 適合拍拖👫但對我呢啲打卡人士影相好唔friendly\n😨以呢個收費嚟計 服務真係唔合格 連基本舉手都要等好耐 理解繁忙時段嘅 不如請多個人🥲\n\n======評分======\n😋：🌕🌕🌕🌖🌑\n💲：🌕🌕🌗🌑🌑\n📸：🌕🌕🌕🌗🌑\n👩🏻‍🍳：🌕🌕🌑🌑🌑",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Enoteca (糖廠街) @enoteca_wine_hk\n📍：鰂魚涌糖廠街35-41號地舖\n🚗：鰂魚涌地鐵A出口 步行4分鐘\n📞：+852 2744-6000\n💲：~HKD300/head for dinner\n\nFood quality\n✔️：Smoked Beef Carpaccio, Asparagus , Artichoke & Brie Tart, Mediterranean Vegetable Pizza\n👌🏼：Carrot Cake, Aglio e Olio, Coco Fresh, Guava Ginger Screwdriver\n\n總結：\n😋鰂魚涌特色地中海菜 個人覺得偏意大利🇮🇹/西班牙菜多啲 食物酒類選擇多 睇到人眼花撩亂\n😋Smoked Beef Carpaccio係意式生牛肉片 牛薄片 上面落咗蛋黃 山柑同帕瑪森奶酪🧀 濃嘅牛味新鮮 開胃嘅前菜\n😋Asparagus , Artichoke & Bri 係撻皮上放上 茄子泥 火箭菜同羊奶乳酪 再洒上蘆葦同菜薊 素食嚟但有層次 唯一係真係太大碟 真到飽死\n😋Mediterranean Vegetable Pi就係一個素食薄餅 茄子泥莫薩里拉同菲達芝士 油橄欖🫒 烤翠肉瓜 蕃茄乾同紅椒 雖然全都是菜但食落唔寡 調味足同肉食pizza都一樣咁好食\n🤔意粉有6款麵類選擇 比意式餐廳更似意式餐廳 有長通粉 蝴蝶粉 螺絲粉 扁意粉 直條麵同無麩質直條麵 Aglio e Olio係最經典嘅橄欖油蒜香意粉🍝睇落簡單但實際冇咁容易整 呢碟就正常\n🤔carrot cake🧁係指將紅蘿蔔混入麵糊製成嘅蛋糕 正常味道 texture略硬亦唔會我偏愛\n🤔兩杯飲品就正常發揮\n🤔價錢偏貴 食物幾好食都算可接受\n😨餐廳環境幽暗 適合拍拖👫但對我呢啲打卡人士影相好唔friendly\n😨以呢個收費嚟計 服務真係唔合格 連基本舉手都要等好耐 理解繁忙時段嘅 不如請多個人🥲\n\n======評分======\n😋：🌕🌕🌕🌖🌑\n💲：🌕🌕🌗🌑🌑\n📸：🌕🌕🌕🌗🌑\n👩🏻‍🍳：🌕🌕🌑🌑🌑",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Photoddixted",
+          "uri": "https://www.google.com/maps/contrib/109187316511902591306/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkLROJWI9kxpVuu1dn2m8Goejee9njO3xuZhk_YJB2I1vlWiM=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-06-16T03:04:12.572791Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMakx5NUlBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMakx5NUlBEAE!2m1!1s0x3404010c5a2fe80f:0xd8054e897aa352ab"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010c5a2fe80f:0xd8054e897aa352ab!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15565934039450997419&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010c5a2fe80f:0xd8054e897aa352ab!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010c5a2fe80f:0xd8054e897aa352ab!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010c5a2fe80f:0xd8054e897aa352ab!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJD-gvWgwBBDQRq1KjeolOBdg/photos/Aa-ngMZNy4bnQrSSPVhJw92faMgXXkrQAA19MKGEErTHnSZbccEZti1mWPDCcLVXiZeyH8rbMVf6i_suqRmwquT9Y66_ACkC-k5KELAwEHV5J6Bqd7Xe5GH8p6usbmkQEpJELfG2VroTiugwdoeQpL5_I8HOD4hLZSkuCYptKnEbcTBs7MklPwVG7QRcf0kcVAeJ4kQEmUqa75_SpeL1nsjXqjJXxrOYpbnLNgiKgS2Xi6SWU2PFZkk-gqurDSuqOS4c0UoJNfpTb0pYRFxuWd1pzPovv6yKhTdrQXoCZHGbRRFm7rupnPrkkUqO2lxvLZtbCQtKOQ3HPaq-GM5pLpkxFLPvYGz2oPZ75FyxjiOjlLwDTbqLv7LCu33w1IqFAu-XBJgKczf6flK4EC88DN79-uHm_rvP7W6_KkM_KBPMVFdYAA",
+      "widthPx": 3735,
+      "heightPx": 2801,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAGbzaquDWLeWf6WH8AADkL&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaquDWLeWf6WH8AADkL!2e10!4m2!3m1!1s0x3404010c5a2fe80f:0xd8054e897aa352ab"
+    },
+    "local_path": "photos/ChIJD-gvWgwBBDQRq1KjeolOBdg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZkqgKygMLS9BzSlYA3x9ttXD1Hho4ScqBd9j_g4QDiPja30jyXJ3P2uqpp1oyheIWTOm0TGCdJ4BciwGEaeOv7_W6P2LKx2Sar4CxzSCxoMAr5zOmvfhHjZXTAGHkmWsOSqq9fYKjAios=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 157089
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "mediterranean_restaurant",
+    "label": "地中海餐廳",
+    "types": [
+      "mediterranean_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

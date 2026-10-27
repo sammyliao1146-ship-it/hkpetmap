@@ -1,0 +1,323 @@
+{
+  "google_place_id": "ChIJIdFYWQD5AzQREc2ETZclxEs",
+  "restaurant_ids": [
+    "restaurant:2291805533"
+  ],
+  "fetched_at": "2026-10-23T15:48:01.815394+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJIdFYWQD5AzQREc2ETZclxEs",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2321 9388",
+    "internationalPhoneNumber": "+852 2321 9388",
+    "formattedAddress": "香港新界葵涌葵芳興芳路223號新都會廣場第5層547-565號舖",
+    "location": {
+      "latitude": 22.3572156,
+      "longitude": 114.1260384
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=5459529980050722065&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tastegourmet.co/zh_HK/brand/14/QU%C3%89",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:30",
+        "星期六: 11:30 – 22:30",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 434,
+    "displayName": {
+      "text": "QUE (葵芳新都會廣場)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJIdFYWQD5AzQREc2ETZclxEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSTFl5MTViVjgzVFZwRU16WjRSRWRwYTE5T1MyYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "葵芳新都會廣場的日式西餐fusion\n- 日式三文魚taco, 壽司捲和鳥冬套餐食物種類豐富，味道出色，擺盤精美。\n- 店員很友善又健談，會主動介紹菜式。\n- 餐廳環境光猛，座位舒適，人多時也不會坐得不舒服",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "葵芳新都會廣場的日式西餐fusion\n- 日式三文魚taco, 壽司捲和鳥冬套餐食物種類豐富，味道出色，擺盤精美。\n- 店員很友善又健談，會主動介紹菜式。\n- 餐廳環境光猛，座位舒適，人多時也不會坐得不舒服",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "WonderingAround",
+          "uri": "https://www.google.com/maps/contrib/103972566841967688932/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWI0e-pn0OF8tJhbHKUVk4m1i8TYNJgmgAmaJgL8pfnXR9kNFg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-10T03:43:04.393982172Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSTFl5MTViVjgzVFZwRU16WjRSRWRwYTE5T1MyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSTFl5MTViVjgzVFZwRU16WjRSRWRwYTE5T1MyYxAB!2m1!1s0x3403f9005958d121:0x4bc425974d84cd11"
+      },
+      {
+        "name": "places/ChIJIdFYWQD5AzQREc2ETZclxEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toVU1IWkRUbTFxTUU1TFpUUm1VRzlWVFV4YWJXYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "已經食過幾次 環境舒服 員工服務好好 啲嘢食又靚又好味🙈",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "已經食過幾次 環境舒服 員工服務好好 啲嘢食又靚又好味🙈",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Patsy Sum",
+          "uri": "https://www.google.com/maps/contrib/109982514564514681807/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJV3SYu3Ysi7ATa-fJeeOKjiHz93bxunSuZD4HNwlcZ9Z4siA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-13T10:22:31.685388250Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toVU1IWkRUbTFxTUU1TFpUUm1VRzlWVFV4YWJXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toVU1IWkRUbTFxTUU1TFpUUm1VRzlWVFV4YWJXYxAB!2m1!1s0x3403f9005958d121:0x4bc425974d84cd11"
+      },
+      {
+        "name": "places/ChIJIdFYWQD5AzQREc2ETZclxEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Rd2RrMXROVFpQWVU1NWRtdGFRVE01U0ZKSGEyYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "座位舒服，環境舒適，服務很好，附送飲品非常好，食物很好味，還有漂亮的風景。我叫了其中一樣食物，是海鹽蝦意大利飯。👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "座位舒服，環境舒適，服務很好，附送飲品非常好，食物很好味，還有漂亮的風景。我叫了其中一樣食物，是海鹽蝦意大利飯。👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Joe Poon",
+          "uri": "https://www.google.com/maps/contrib/109777911884093341008/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDL5114e10f6XvOmrxSbk-gbvGWzIxkreQyuejO2wmvEDQBWYv=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-25T10:32:19.430105014Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Rd2RrMXROVFpQWVU1NWRtdGFRVE01U0ZKSGEyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Rd2RrMXROVFpQWVU1NWRtdGFRVE01U0ZKSGEyYxAB!2m1!1s0x3403f9005958d121:0x4bc425974d84cd11"
+      },
+      {
+        "name": "places/ChIJIdFYWQD5AzQREc2ETZclxEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRME4xcFVRemhKYWxkd1VIazFTRXMyYXpKZmJWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "環境舒適，食物有特色而且味道不錯👍🏻推介帶子壽司塔可🌮",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒適，食物有特色而且味道不錯👍🏻推介帶子壽司塔可🌮",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Vicki Lee",
+          "uri": "https://www.google.com/maps/contrib/108297190009323132577/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUZ_2s0tmL33Cw7gVyRPGCD2NyhLY48OkBVsVgFIM825QzSg0=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-24T11:35:26.787427243Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xRME4xcFVRemhKYWxkd1VIazFTRXMyYXpKZmJWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRME4xcFVRemhKYWxkd1VIazFTRXMyYXpKZmJWRRAB!2m1!1s0x3403f9005958d121:0x4bc425974d84cd11"
+      },
+      {
+        "name": "places/ChIJIdFYWQD5AzQREc2ETZclxEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsNWJHVk5hbEJCTFd4T1gyUjBZbDloVlhCQmNrRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境舒適, 菜品賣相很漂亮, 味道也很不錯 #QUE",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒適, 菜品賣相很漂亮, 味道也很不錯 #QUE",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "UM",
+          "uri": "https://www.google.com/maps/contrib/113674705811538776962/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJGg9r9iB9w1EPNY6Sf_BGyZApAFK30k4fUEq_8zyNpMjhGeg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-22T10:57:26.891815899Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsNWJHVk5hbEJCTFd4T1gyUjBZbDloVlhCQmNrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsNWJHVk5hbEJCTFd4T1gyUjBZbDloVlhCQmNrRRAB!2m1!1s0x3403f9005958d121:0x4bc425974d84cd11"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f9005958d121:0x4bc425974d84cd11!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5459529980050722065&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9005958d121:0x4bc425974d84cd11!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f9005958d121:0x4bc425974d84cd11!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9005958d121:0x4bc425974d84cd11!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJIdFYWQD5AzQREc2ETZclxEs/photos/Aa-ngMbooUr9Tkb0zAFwpWgDWMXhqrCASBOtyArsdPEia0EgrSPOBjKSSyqBlI9tBDbM5gzjdG88fWUsWSeIZmzMbCxVc34KUqP0mqLn7RPhuuOt8YYCby_2GbOalJ09v-SGBBVn-JAp0zhBIU732kOvID650VQVRGfXxmTcf8vPqd3lxNzlCp5-YjrsuqdHfOMk-wqAbi1LizgAyOANWf5lvbPOTDRzaeeOiC3-ECQmIUiemOEHTyMRZi1SaDvWl3x07BeyIGh6da76fUKm6wF7tnam6q8d6sqV3MCN8lLXZjsDK9fpAd-bpwQ608y6n5FwqOReDwlUwbUHMOPHEAf1QC0PpDCopvOG_EqGy8oDYotqgeKbKLoSs1TlupGKAJgDua0FZfwZnT9a5Q5MkMJGnTwy-aiTYZ7k9kIdY8J5ijnwyQ",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "QUE (葵芳新都會廣場)",
+          "uri": "https://maps.google.com/maps/contrib/117869787457904521322",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAdaXYeMjskU4V-Vq-aZsAkSnmEt9uz9tKRxc0Fq2j2i7vnE4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBur_JU064V6b-OtuKTamKl&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBur_JU064V6b-OtuKTamKl!2e10!4m2!3m1!1s0x3403f9005958d121:0x4bc425974d84cd11"
+    },
+    "local_path": "photos/ChIJIdFYWQD5AzQREc2ETZclxEs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6xgtGrSWOUk_pMO1a3xcWap35FlN4oyEHgeZ8MVITI1K7gjeiRG_wBbcyuojvNNykHHuFMEHT0DawVX2w8U_s1PdiUeYxz5Dccy-eePQD1q_BvZtutHBftY72D8Yx-vdzJbOUam5UrQgE=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 110086
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

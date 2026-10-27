@@ -1,0 +1,323 @@
+{
+  "google_place_id": "ChIJpTKwuSkBBDQRrHQMmYdqSCk",
+  "restaurant_ids": [
+    "restaurant:3118803530"
+  ],
+  "fetched_at": "2026-10-23T15:44:25.394128+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJpTKwuSkBBDQRrHQMmYdqSCk",
+    "types": [
+      "chinese_noodle_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2891 1838",
+    "internationalPhoneNumber": "+852 2891 1838",
+    "formattedAddress": "香港香港島中環機利文新街36號",
+    "location": {
+      "latitude": 22.2853253,
+      "longitude": 114.1544965
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=2974744684499072172&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 22:00",
+        "星期二: 10:00 – 22:00",
+        "星期三: 10:00 – 22:00",
+        "星期四: 10:00 – 22:00",
+        "星期五: 10:00 – 22:00",
+        "星期六: 10:00 – 22:00",
+        "星期日: 10:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 90,
+    "displayName": {
+      "text": "頂元魚蛋大王",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式麵館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_noodle_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJpTKwuSkBBDQRrHQMmYdqSCk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1UVVqVlVTa2M0U1dZNE5UbGtObHBwT1dWT1QxRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "座位安排混亂 環境小小污糟\n牛腩份量少 飯同肉都唔夠熱\n五香味淡 咁樣$63 不推薦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "座位安排混亂 環境小小污糟\n牛腩份量少 飯同肉都唔夠熱\n五香味淡 咁樣$63 不推薦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Diary Fat",
+          "uri": "https://www.google.com/maps/contrib/107233725106210043346/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-s4-ryKzER33Wfdu9lP0s_ROCTJ_GKeQZHtwQtGvLfPzvVA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-14T04:12:35.628970613Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1UVVqVlVTa2M0U1dZNE5UbGtObHBwT1dWT1QxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1UVVqVlVTa2M0U1dZNE5UbGtObHBwT1dWT1QxRRAB!2m1!1s0x34040129b9b032a5:0x29486a87990c74ac"
+      },
+      {
+        "name": "places/ChIJpTKwuSkBBDQRrHQMmYdqSCk/reviews/ChdDSUhNMG9nS0VJQ0FnTURRM2NlY3VRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "位於中環的「頂元魚蛋大王」是在地人「檸檬🍋王」老闆娘大力推薦的在地美食。麵一定要點「魚麵」這次點了牛腩麵，六寶魚麵、魚蛋魚麵，都超好吃的100分！👍👍👍💗💗💕值得你來試試喔。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於中環的「頂元魚蛋大王」是在地人「檸檬🍋王」老闆娘大力推薦的在地美食。麵一定要點「魚麵」這次點了牛腩麵，六寶魚麵、魚蛋魚麵，都超好吃的100分！👍👍👍💗💗💕值得你來試試喔。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "段易成",
+          "uri": "https://www.google.com/maps/contrib/116967379393948841811/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZTAFgch8gWDv9kOdsAZi7xugVJ4LZL_aWaK9EqIaFdwvn9HBa=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-04-01T11:14:51.359805Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRM2NlY3VRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRM2NlY3VRRRAB!2m1!1s0x34040129b9b032a5:0x29486a87990c74ac"
+      },
+      {
+        "name": "places/ChIJpTKwuSkBBDQRrHQMmYdqSCk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WQmRYSm5XVWRyYzFFeGFFVk9URWxZUms5bk9FRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 1,
+        "text": {
+          "text": "不衛生，不建議去吃。環境嘈雜，有機器轟鳴聲。裏面座位邊上是沉渣的倒入區，味道令人作嘔。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "不衛生，不建議去吃。環境嘈雜，有機器轟鳴聲。裏面座位邊上是沉渣的倒入區，味道令人作嘔。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "JK D",
+          "uri": "https://www.google.com/maps/contrib/100502799528627102051/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2P3OUNzLxW0zdUuMgp421TACk-FCeQZHNFVQiL8llG_yAYkVt=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-03T12:05:36.282651151Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WQmRYSm5XVWRyYzFFeGFFVk9URWxZUms5bk9FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WQmRYSm5XVWRyYzFFeGFFVk9URWxZUms5bk9FRRAB!2m1!1s0x34040129b9b032a5:0x29486a87990c74ac"
+      },
+      {
+        "name": "places/ChIJpTKwuSkBBDQRrHQMmYdqSCk/reviews/ChdDSUhNMG9nS0VJQ0FnSUROOGFqbXpnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "魚麵～喜歡吃過魚丸的我\n第一次吃到魚麵，就是麵條形狀的魚丸一樣\n味道很棒，今天剛好寒流來，熱熱一碗麵下肚，爽呀\n辣椒油是用蝦油熬製的，好吃",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "魚麵～喜歡吃過魚丸的我\n第一次吃到魚麵，就是麵條形狀的魚丸一樣\n味道很棒，今天剛好寒流來，熱熱一碗麵下肚，爽呀\n辣椒油是用蝦油熬製的，好吃",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "祺森-Ricky",
+          "uri": "https://www.google.com/maps/contrib/104490384484898957414/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX15fYDUdLjjeWf0FWTCdyWSaIjvRFajawqcrEjCC_347o94OcB=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-01-23T12:18:25.650294Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUROOGFqbXpnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUROOGFqbXpnRRAB!2m1!1s0x34040129b9b032a5:0x29486a87990c74ac"
+      },
+      {
+        "name": "places/ChIJpTKwuSkBBDQRrHQMmYdqSCk/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WlNtVkdRMmxFTXpGTWFrTjJXQzF6WVVkVFZtYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "大碗，腩汁唔會太鹹，牛雜處理得乾淨，\n牛腩肥而不膩，唔會乾柴。好味👍🏼。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大碗，腩汁唔會太鹹，牛雜處理得乾淨，\n牛腩肥而不膩，唔會乾柴。好味👍🏼。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Olivia Oliver",
+          "uri": "https://www.google.com/maps/contrib/106135430084155224094/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZoIfSRU4SZNs9njPTbmn6OYKeaFfsAiMy5TsBZxnaCS_IlwqE=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-07-16T06:13:55.487752549Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205WlNtVkdRMmxFTXpGTWFrTjJXQzF6WVVkVFZtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205WlNtVkdRMmxFTXpGTWFrTjJXQzF6WVVkVFZtYxAB!2m1!1s0x34040129b9b032a5:0x29486a87990c74ac"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040129b9b032a5:0x29486a87990c74ac!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2974744684499072172&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040129b9b032a5:0x29486a87990c74ac!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040129b9b032a5:0x29486a87990c74ac!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040129b9b032a5:0x29486a87990c74ac!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJpTKwuSkBBDQRrHQMmYdqSCk/photos/Aa-ngMYcKRqToDDbHWTnZ1CPDWbxqtmY8dbc_P8hWFaiK4J05MzMu1zDbyeeCzFVLzqhglLwZ89igRtAMU-cussjm8C2UPLRDFK0f3lIPChRs9SINrb32GF-u4yY_d09LJ45-3m6WPprqgqi1luDoXrQiLWDABSKPB1sR3u--Ed7VSGb6vi_800sPxlKP-xEFP12edFsMo9VGxHC0ihNBqt2GvOhIdceE_w7CubCHLKKceF7RjtqbBzI80sVeK2FlLvHjNrNeMCX949bSj4_dOv2nDvaeSxsKkwCEL3RrSVFq8Mi1jmDM3CXrb3g3LVKnKVtlDYUqg0Gpffd040wagN0c3hvyFmTVBXy4r6c_UnMUlCo_MKkLRPmAWdDhaVCwZDSnk4xqNS05JZvbmNQu_M2ddkwb5s",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Piyavat B",
+          "uri": "https://maps.google.com/maps/contrib/110943882666449815218",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvV67QGTos6z9n-QnqtmQOyN8_ySNok6f1EfjJiNYn5eT8dhYj=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEP3oi6LfyO_Haw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEP3oi6LfyO_Haw!2e10!4m2!3m1!1s0x34040129b9b032a5:0x29486a87990c74ac"
+    },
+    "local_path": "photos/ChIJpTKwuSkBBDQRrHQMmYdqSCk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfePglcPWh9Z6AMAhVOL66q3FsfXAXhdGc4vMMnfcFcauS4M0hCmopqo33drWnVSScHnXFaiyz5BOXjsZkyMEn4km9vT6_KV0i-AakcjB7GUVAkQ8xoCOm75jYw-05Qk3QC6pHJ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 169594
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_noodle_restaurant",
+    "label": "中式麵館",
+    "types": [
+      "chinese_noodle_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

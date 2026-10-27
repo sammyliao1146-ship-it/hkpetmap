@@ -1,0 +1,38 @@
+{
+  "id": "ChIJN47pNpwHBDQR6IrlWoa5LAs",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍荔枝角永康街79號創匯國際中心",
+  "location": {
+    "latitude": 22.339568399999997,
+    "longitude": 114.14955549999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=805222420094225128&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Furball Life Cat Hotel",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJN47pNpwHBDQR6IrlWoa5LAs/photos/Aa-ngMYAfUufiTOoZmNEcNALH2jNKoIlp8xQmMIMe6uF5-iNn3wTZdVZfFjd0PIi8R4tADZeyYnNAmJxshS7IfFVp8ow5JpIWU1xoo84FH9exSXY4p6VR-jGCilRxODsy2lo8fS4xkESGkhS_MzQB0WNbbW3zA5WpdaY8fA2wdSsJHqshUMR6SdLE6X8PuoGbMI3NsX452Dpe207fTJPBMvdzb83b9oKqh6Z1turdHQWE-DYpB5ZwpNrxAoC0L3dj6zAFwrvdMdacQDKo_jxwBUkMSL-fUAdR8Viq5cPKEjicmKx4RzynAnLxP--c4kZVLxlZ1nEwjRTHSBG1m_qucwQA0NUUgK38X9cwE_VtUdS948vK63pF6EdXADZBKl4dTNHFcXE0PFSZvFQnLPFTuTQ5CBe1WrjuLfH_1Mcrlrgu4qQqw",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Susie So",
+          "uri": "https://maps.google.com/maps/contrib/101423499749472526769",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHV7scOfm8n8xdjH3yzBWMeo30iQc8eCM1gj3ny0DHj7VmtVbn=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD7Ybm3VmmuVScSIrEslDhq&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD7Ybm3VmmuVScSIrEslDhq!2e10!4m2!3m1!1s0x3404079c36e98e37:0xb2cb9865ae58ae8"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:19.570531+00:00"
+}

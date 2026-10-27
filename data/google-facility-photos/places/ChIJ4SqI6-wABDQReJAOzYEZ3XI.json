@@ -1,0 +1,40 @@
+{
+  "id": "ChIJ4SqI6-wABDQReJAOzYEZ3XI",
+  "types": [
+    "sports_complex",
+    "stadium",
+    "event_venue",
+    "sports_activity_location",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍尖沙咀柯士甸道22號",
+  "location": {
+    "latitude": 22.3017243,
+    "longitude": 114.1695386
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8276799735458599032&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "九龍公園體育館",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "sports_complex",
+  "photos": [
+    {
+      "name": "places/ChIJ4SqI6-wABDQReJAOzYEZ3XI/photos/Aa-ngMavgz4Hma3UwMJ9ftz56TZI6fZXVn3I7DUfA1JITdI-kOx0muB9KwuRZayKuc6Y-ey0rYPfZtoP7Pbb_wHtwPu2AE8Q--YGyn3IXB2SJ5B7Mcuv7GQGJSJdajDlqOeH1SnyRAN48QNRxc8emBYwQ8lr4GOLD2ht1L11vnM_Nl6kSLseFq-blSz19zbiSuzUGeHvXY_4apVCTtSBV4_0fOuAqUO_8Wn7ll3zPNuJN94YHh8_1xrXF5jt2KMK0WbfGZf3ZmdsUmgvIxnl62iTdbcr_uNWruQUT9CyCal569V7K6pvfawDHbqlfPSeZ8P_5Td7rVg74S97MFueL5tANYAHXl58O4LX2RpAp3tIJ_JJzFoj2fhpwIeSFkRlYUj4LPE5up5c8ozYuAtndR85igVLbsuZyjk",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Pratik Sayare",
+          "uri": "https://maps.google.com/maps/contrib/106323346053899229237",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcX-BnT1QJYz5G188tcXuMG6cp4PNq3KaRArZMpWvRRKkuIYOr=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDK1dGHqgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK1dGHqgE!2e10!4m2!3m1!1s0x340400eceb882ae1:0x72dd1981cd0e9078"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:12.774030+00:00"
+}

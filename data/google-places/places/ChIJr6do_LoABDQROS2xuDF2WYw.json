@@ -1,0 +1,329 @@
+{
+  "google_place_id": "ChIJr6do_LoABDQROS2xuDF2WYw",
+  "restaurant_ids": [
+    "restaurant:3162801999"
+  ],
+  "fetched_at": "2026-10-23T15:46:40.386783+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJr6do_LoABDQROS2xuDF2WYw",
+    "types": [
+      "sandwich_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2272 4220",
+    "internationalPhoneNumber": "+852 2272 4220",
+    "formattedAddress": "香港九龍大角咀海輝道11號UG06",
+    "location": {
+      "latitude": 22.318328500000003,
+      "longitude": 114.15902290000001
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=10113244394161253689&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.olivers-supersandwiches.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 20:30",
+        "星期二: 07:30 – 20:30",
+        "星期三: 07:30 – 20:30",
+        "星期四: 07:30 – 20:30",
+        "星期五: 07:30 – 20:30",
+        "星期六: 07:30 – 20:30",
+        "星期日: 08:00 – 20:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 92,
+    "displayName": {
+      "text": "利華超級三文治",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "三明治專賣店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "sandwich_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJr6do_LoABDQROS2xuDF2WYw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WQlJIUXRZVE5TUW5Sc1RqUlhSVWs1VXpaUlRYYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "♡ 香蒜蜆肉意粉 $59：香蒜味濃郁，意粉好滑。\n\n♡ 檸檬姜黃燒雞低碳水米炒飯 $66：幾入味，食落幾香。\n\n🌟不過有啲似預製餐。算系有啲味道卡路里又低嘅餐食， 份量唔大，適合減脂或健身人士。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "♡ 香蒜蜆肉意粉 $59：香蒜味濃郁，意粉好滑。\n\n♡ 檸檬姜黃燒雞低碳水米炒飯 $66：幾入味，食落幾香。\n\n🌟不過有啲似預製餐。算系有啲味道卡路里又低嘅餐食， 份量唔大，適合減脂或健身人士。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "PuiPuiYe",
+          "uri": "https://www.google.com/maps/contrib/102337811446651338312/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGMrMMVQGX6ej_9teQAvMrZfS3u-fgMEtrd8nPutI7zMA__wTseQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-10-30T11:35:29.983737116Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WQlJIUXRZVE5TUW5Sc1RqUlhSVWs1VXpaUlRYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WQlJIUXRZVE5TUW5Sc1RqUlhSVWs1VXpaUlRYYxAB!2m1!1s0x340400bafc68a7af:0x8c597631b8b12d39"
+      },
+      {
+        "name": "places/ChIJr6do_LoABDQROS2xuDF2WYw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZZ3R6R0J3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "👩🏻‍🍳🥗【 Oliver's Super Sandwiches 】 🥗👩🏻‍🍳\n\n⋄ —————⧫♟⧫————— ⋄\n\n雖然賣相平平無奇，但食落就知配搭有花心思💕\n\n蒟蒻米Q彈，有咬口🤍 食落仲係熱的👏🏻 撈咗芝士汁，唔會冇味之餘仲好好味🧀 撈咗煙肉粒，鹹鹹香香，令層次更豐富🐷\n\n三粒帆立貝體積細細，正常發揮啦🐚 畫龍點睛係開心果醬及開心果碎‼️💚 令成個菜式生色不少，Hilda你真的太會了🥹\n\n網上有人話份量太少，客觀嚟講我理解，以~$100個main嚟講飯量的確偏少。但我跟餐配埋咖啡，對一個女人仔來講剛剛好😌\n\n⋄ ┄ ┄ ┄ ┄ ❖ ┄ ┄ ┄ ┄ ⋄\n\n🐚濃郁意大利開心果醬 • 帆立貝 • 芝士意大利蒟蒻飯💚 ($104/套餐)\n➤ 嚴選零糖無澱粉低碳蒟蒻米，絕對Guilt-free，無負擔\n\n配 ☕️黑咖啡\n➤ 選用100% Arabica 咖啡豆\n\n⋄ ┄ ┄ ┄ ┄ ❖ ┄ ┄ ┄ ┄ ⋄\n⋄\n📍地址：Oliver's Super Sandwiches(大角咀)\n大角咀海輝道11號奧海城一期UG樓UG06號舖\n⋄\n🔥更多同區美食👉🏻 #ccrreami大角咀 #ccrreami奧運\n⋄\n⋄\n⋄\n#hkig #hkfoodie #hongkongfood #hkfood #hongkongfoodie #foodblogger #hkfoodbloggers #hkfoodies #相機食先 #openrice #香港美食 #hkinfluencer #foodiehk #香港 #香港生活 #香港旅遊 #香港探店 #香港美食 #香港打卡 #香港必吃 #奧運美食 #大角咀美食 #OliversSuperSandwiches #OSS #saladlover #EatToFit #Lowcarbs @oliverssupersandwiches",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "👩🏻‍🍳🥗【 Oliver's Super Sandwiches 】 🥗👩🏻‍🍳\n\n⋄ —————⧫♟⧫————— ⋄\n\n雖然賣相平平無奇，但食落就知配搭有花心思💕\n\n蒟蒻米Q彈，有咬口🤍 食落仲係熱的👏🏻 撈咗芝士汁，唔會冇味之餘仲好好味🧀 撈咗煙肉粒，鹹鹹香香，令層次更豐富🐷\n\n三粒帆立貝體積細細，正常發揮啦🐚 畫龍點睛係開心果醬及開心果碎‼️💚 令成個菜式生色不少，Hilda你真的太會了🥹\n\n網上有人話份量太少，客觀嚟講我理解，以~$100個main嚟講飯量的確偏少。但我跟餐配埋咖啡，對一個女人仔來講剛剛好😌\n\n⋄ ┄ ┄ ┄ ┄ ❖ ┄ ┄ ┄ ┄ ⋄\n\n🐚濃郁意大利開心果醬 • 帆立貝 • 芝士意大利蒟蒻飯💚 ($104/套餐)\n➤ 嚴選零糖無澱粉低碳蒟蒻米，絕對Guilt-free，無負擔\n\n配 ☕️黑咖啡\n➤ 選用100% Arabica 咖啡豆\n\n⋄ ┄ ┄ ┄ ┄ ❖ ┄ ┄ ┄ ┄ ⋄\n⋄\n📍地址：Oliver's Super Sandwiches(大角咀)\n大角咀海輝道11號奧海城一期UG樓UG06號舖\n⋄\n🔥更多同區美食👉🏻 #ccrreami大角咀 #ccrreami奧運\n⋄\n⋄\n⋄\n#hkig #hkfoodie #hongkongfood #hkfood #hongkongfoodie #foodblogger #hkfoodbloggers #hkfoodies #相機食先 #openrice #香港美食 #hkinfluencer #foodiehk #香港 #香港生活 #香港旅遊 #香港探店 #香港美食 #香港打卡 #香港必吃 #奧運美食 #大角咀美食 #OliversSuperSandwiches #OSS #saladlover #EatToFit #Lowcarbs @oliverssupersandwiches",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Creami Tsui",
+          "uri": "https://www.google.com/maps/contrib/113860911516171781170/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXm1IaTVQm2zdPlKdLJlXYCvMf3FrGNOxq9_JygQcxJm2tkVUE4=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-05-02T16:27:58.228820Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZZ3R6R0J3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZZ3R6R0J3EAE!2m1!1s0x340400bafc68a7af:0x8c597631b8b12d39"
+      },
+      {
+        "name": "places/ChIJr6do_LoABDQROS2xuDF2WYw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvaG9UNU13EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "不過不失！\n見咁啱未過下午茶\n即刻點返兩個set當dinner\n值得欣賞嘅係居然有南瓜湯配酥皮 係鹹咗啲\n個意粉都煮得啱啱好唔會太水亦都唔會太乾\n留意返凍檸茶要加$7\n炸魚薯條都好有誠意有兩個醬點",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "不過不失！\n見咁啱未過下午茶\n即刻點返兩個set當dinner\n值得欣賞嘅係居然有南瓜湯配酥皮 係鹹咗啲\n個意粉都煮得啱啱好唔會太水亦都唔會太乾\n留意返凍檸茶要加$7\n炸魚薯條都好有誠意有兩個醬點",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hikari",
+          "uri": "https://www.google.com/maps/contrib/116739609986507825975/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTvYzVMHFa6l2lAGyI5z3Ob5UrG0Dryg8Iqc1d2UDNR_Ohih8=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-04-16T16:07:56.307257Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvaG9UNU13EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvaG9UNU13EAE!2m1!1s0x340400bafc68a7af:0x8c597631b8b12d39"
+      },
+      {
+        "name": "places/ChIJr6do_LoABDQROS2xuDF2WYw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5U1ZEZEJUMFpJUldRM2EzUkJURE40WmpabFJWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 1,
+        "text": {
+          "text": "88蚊可以得到難食嘅三文治以及難飲嘅咖啡",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "88蚊可以得到難食嘅三文治以及難飲嘅咖啡",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "郭沚寧",
+          "uri": "https://www.google.com/maps/contrib/100296209024389106606/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUzJY3OEhabYkW77vr56LI8VVOWvQTD4eimrCViWklD0EKymW17Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-27T04:40:49.671042451Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5U1ZEZEJUMFpJUldRM2EzUkJURE40WmpabFJWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5U1ZEZEJUMFpJUldRM2EzUkJURE40WmpabFJWRRAB!2m1!1s0x340400bafc68a7af:0x8c597631b8b12d39"
+      },
+      {
+        "name": "places/ChIJr6do_LoABDQROS2xuDF2WYw/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtdnBXMFB3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "今晚OT遲收工🥲，和同事兩個人打算食個快飯就各自返屋企😓，去到奧海城一期，啊😳？原來間大家樂裝修😨，唔怪得一期嘅其他食肆都咁多人啦🙈，咁啱super sandwiches 仲有2️⃣個位剩，就呢間啦，反正咁耐無食過，一於再試下先🏃‍♂️。\n\n挪威煙三文魚•蜆肉扁意粉配刁草忌廉汁 $66\n忌廉汁非常creamy🥰，三文魚份量非常之多😍，味道亦唔錯，相對蜆肉數量就唔係太多，不過味道還算可以😌。扁意粉軟硬度適中，非常掛汁，十分入味😋。\n\n費城牛肉•車打芝士醬焗薯  $68\n三大片費城牛肉🐂非常軟腍，有牛味😋，讚👍。薯仔亦焗到啱啱好，形成外脆內軟，可惜嘅係車打芝士醬比較少😶，食到一半已經無醬汁了🥲。\n至於配菜沙律🥗份量適中，沙律菜非常新鮮，沙律醬又係偏少😪。\n\n蘑菇湯  (跟套餐)\n非常好飲😍，蘑菇味好香好濃，口感濃郁，真係超級好味😋😋。\n\n芝士肉醬薯條  (+$15)\n份量一般，但就炸得非常香脆🥰，形成外表金黄，裏面鬆軟。肉醬份量好多🤗，但帶有强烈嘅香草味，唔鍾意香草嘅朋友要注意(例如我同事...😂)。\n\n總括而言，呢間分店水準保持得到，而且價格適中，再講蘑菇處理得湯非常出色。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今晚OT遲收工🥲，和同事兩個人打算食個快飯就各自返屋企😓，去到奧海城一期，啊😳？原來間大家樂裝修😨，唔怪得一期嘅其他食肆都咁多人啦🙈，咁啱super sandwiches 仲有2️⃣個位剩，就呢間啦，反正咁耐無食過，一於再試下先🏃‍♂️。\n\n挪威煙三文魚•蜆肉扁意粉配刁草忌廉汁 $66\n忌廉汁非常creamy🥰，三文魚份量非常之多😍，味道亦唔錯，相對蜆肉數量就唔係太多，不過味道還算可以😌。扁意粉軟硬度適中，非常掛汁，十分入味😋。\n\n費城牛肉•車打芝士醬焗薯  $68\n三大片費城牛肉🐂非常軟腍，有牛味😋，讚👍。薯仔亦焗到啱啱好，形成外脆內軟，可惜嘅係車打芝士醬比較少😶，食到一半已經無醬汁了🥲。\n至於配菜沙律🥗份量適中，沙律菜非常新鮮，沙律醬又係偏少😪。\n\n蘑菇湯  (跟套餐)\n非常好飲😍，蘑菇味好香好濃，口感濃郁，真係超級好味😋😋。\n\n芝士肉醬薯條  (+$15)\n份量一般，但就炸得非常香脆🥰，形成外表金黄，裏面鬆軟。肉醬份量好多🤗，但帶有强烈嘅香草味，唔鍾意香草嘅朋友要注意(例如我同事...😂)。\n\n總括而言，呢間分店水準保持得到，而且價格適中，再講蘑菇處理得湯非常出色。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sing yan cheung",
+          "uri": "https://www.google.com/maps/contrib/117158262781334319488/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3m_9AB8wcDtHTrHY1crOg-76pCU3EixHmyWlKxmNAonoXzA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-11-05T08:11:35.035416Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMtdnBXMFB3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMtdnBXMFB3EAE!2m1!1s0x340400bafc68a7af:0x8c597631b8b12d39"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400bafc68a7af:0x8c597631b8b12d39!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10113244394161253689&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400bafc68a7af:0x8c597631b8b12d39!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400bafc68a7af:0x8c597631b8b12d39!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400bafc68a7af:0x8c597631b8b12d39!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJr6do_LoABDQROS2xuDF2WYw/photos/Aa-ngMZwIA9ulz7-brJs_o3_im12zXzQF6wteE56k1H1JZXrQvMayTLi8O0_GN-R2a9RJ0Y3sLAShGBPDbnoPy6DZ9VCMas1vcMemBPwoKr1GcRWEK75MFQXBU56DT-F6Z1xK8NgB45X1QKZyROl6eWN1SysERkkngAu3OVH1nryWB6dyVdmMT7EEbhABXoVSCCZd_es8Tf0fTRFJUJPiOjfKcr16zzFb_yhIR4jUdnfC8dIlUa8csREV_ONNbo_mCc14Op9i-TKbpz8TPGpoIfcZOfhUDajk2LFD2S0KWa-P4XU__pU82uFK5yAHWKjoZzK2GRD6HhZFfihqzl6_v2G0sZCwLGorgCQOMj-gHIkfz6BJ-IkGmJvTGjlEBdB1TQQAZRRo6FwUQrOQiluAMkYeYZ7umGOr_o",
+      "widthPx": 1920,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "cowturtle",
+          "uri": "https://maps.google.com/maps/contrib/118301081530229248211",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVImqcMQsrMAfhwNdEuu3l7WjP4qFuhRX_Q9wOzOz5IqDsjbfSKhQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEx9HgxQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEx9HgxQE!2e10!4m2!3m1!1s0x340400bafc68a7af:0x8c597631b8b12d39"
+    },
+    "local_path": "photos/ChIJr6do_LoABDQROS2xuDF2WYw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3LpwZ3tHBwGLHXiog4ZOZJb9GgTGdHa9Lv3ID6hybBhQZbblXiOpEAbt-cUowVmOqH5l2WD4H2EZdWOcTDePUZfgdlz99K19b11UpX39Y2OkFOYbz3CRhvDLagQZ8AmXM_kvI3A=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 110308
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "sandwich_shop",
+    "label": "三明治專賣店",
+    "types": [
+      "sandwich_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

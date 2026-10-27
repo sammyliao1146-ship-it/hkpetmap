@@ -1,0 +1,354 @@
+{
+  "google_place_id": "ChIJtT6aRtJYATQRp_b7x0Ai0LI",
+  "restaurant_ids": [
+    "restaurant:2217803544"
+  ],
+  "fetched_at": "2026-10-23T15:46:12.849992+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJtT6aRtJYATQRp_b7x0Ai0LI",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2985 7313",
+    "internationalPhoneNumber": "+852 2985 7313",
+    "formattedAddress": "香港新界大澳吉慶街52號",
+    "location": {
+      "latitude": 22.254568799999998,
+      "longitude": 113.86269929999999
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=12884836195535419047&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 15:00, 17:00 – 20:30",
+        "星期二: 11:30 – 15:00, 17:00 – 20:30",
+        "星期三: 休息",
+        "星期四: 11:30 – 15:00, 17:00 – 20:30",
+        "星期五: 11:30 – 15:00, 17:00 – 20:30",
+        "星期六: 11:30 – 21:00",
+        "星期日: 11:30 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 86,
+    "displayName": {
+      "text": "滿記蓮香酒家",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "海鮮餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "seafood_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJtT6aRtJYATQRp_b7x0Ai0LI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOd2NYbE1NMjk1YUhOMWNrbzBZbmt6ZDA5dVlVRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "鹽焗走地雞，手打墨魚餅，豆豉蒸本地捕獲兩斤幾黃立䱽，苦瓜炆黃立䱽，大澳煎鹹魚，大澳銀魚仔蝦乾魷魚仔蒸飯，小炒王，👍🏻👍🏻👍🏻 大澳的隱世高手。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "鹽焗走地雞，手打墨魚餅，豆豉蒸本地捕獲兩斤幾黃立䱽，苦瓜炆黃立䱽，大澳煎鹹魚，大澳銀魚仔蝦乾魷魚仔蒸飯，小炒王，👍🏻👍🏻👍🏻 大澳的隱世高手。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Daisy Lai",
+          "uri": "https://www.google.com/maps/contrib/101408992864220657089/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVr_NT7415fFo6X2lqPpOyzhYP4ZGaAddzTPSsp1voFUZBBfFk4lg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-28T12:29:30.517953126Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOd2NYbE1NMjk1YUhOMWNrbzBZbmt6ZDA5dVlVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOd2NYbE1NMjk1YUhOMWNrbzBZbmt6ZDA5dVlVRRAB!2m1!1s0x340158d2469a3eb5:0xb2d02240c7fbf6a7"
+      },
+      {
+        "name": "places/ChIJtT6aRtJYATQRp_b7x0Ai0LI/reviews/ChZDSUhNMG9nS0VJQ0FnSURROEwydFRBEAE",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "text": {
+          "text": "2018年的第一次大澳遊，可能因為當日下雨天，遊客不太多，我地入去大把位，老闆娘非常好人，過嚟介紹有乜好食，雖然我都唔係第一次去，但係去到當然要試D招牌菜：\n墨魚餅拼炸雲吞，絶對不能不試，墨魚餅墨魚份量比重，所以食落非常彈牙，雲吞皮薄新鮮炸起非常好食；生炒糯米飯，糯米雞所有材料都是放在上面，不是一齊炒的，但是糯米飯炒得非常香，而且爉肉不會肥，\n據老闆娘說是自家製的，有爉肉時他們先會賣糥米飯，一年只有數個月有；海魚湯，因為大澳係漁村，海魚湯好鮮甜，湯入面冇魚骨，但是湯渣裏的魚仔有好多碎骨，但好鮮甜；生炒咕嚕肉，咕嚕肉不是新鮮炸起，但是都有少少脆，茄汁做得不錯；盬焗雞，與平常識開的鹽焗雞做法有啲不同，但是雞的味道比一般雪藏雞好；涼瓜炆魚，因為我本人唔食涼瓜，其他人話呢碟涼瓜唔苦，啲魚俾魚湯裏的細魚小骨，但是魚湯的細魚比較甜。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2018年的第一次大澳遊，可能因為當日下雨天，遊客不太多，我地入去大把位，老闆娘非常好人，過嚟介紹有乜好食，雖然我都唔係第一次去，但係去到當然要試D招牌菜：\n墨魚餅拼炸雲吞，絶對不能不試，墨魚餅墨魚份量比重，所以食落非常彈牙，雲吞皮薄新鮮炸起非常好食；生炒糯米飯，糯米雞所有材料都是放在上面，不是一齊炒的，但是糯米飯炒得非常香，而且爉肉不會肥，\n據老闆娘說是自家製的，有爉肉時他們先會賣糥米飯，一年只有數個月有；海魚湯，因為大澳係漁村，海魚湯好鮮甜，湯入面冇魚骨，但是湯渣裏的魚仔有好多碎骨，但好鮮甜；生炒咕嚕肉，咕嚕肉不是新鮮炸起，但是都有少少脆，茄汁做得不錯；盬焗雞，與平常識開的鹽焗雞做法有啲不同，但是雞的味道比一般雪藏雞好；涼瓜炆魚，因為我本人唔食涼瓜，其他人話呢碟涼瓜唔苦，啲魚俾魚湯裏的細魚小骨，但是魚湯的細魚比較甜。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Henry Lee",
+          "uri": "https://www.google.com/maps/contrib/112135326321374867979/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1-V5WIezfWqiHvEqILk-bhkAqDEgv3EeQct0c-e4VS28JbPHFrw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2018-01-14T03:11:04.542Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURROEwydFRBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURROEwydFRBEAE!2m1!1s0x340158d2469a3eb5:0xb2d02240c7fbf6a7"
+      },
+      {
+        "name": "places/ChIJtT6aRtJYATQRp_b7x0Ai0LI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNFNG9lbTZnRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 3,
+        "text": {
+          "text": "大澳嘅蓮香酒家 舊式茶居 仍然有舊嘅風味 來到大澳嘅時候可以嚟試值得值得",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大澳嘅蓮香酒家 舊式茶居 仍然有舊嘅風味 來到大澳嘅時候可以嚟試值得值得",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "i HOUSE DESIGN",
+          "uri": "https://www.google.com/maps/contrib/117967167421347906363/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUL4fqJ-Jpd5nB05r5HBE7nsqEhWHuRyLcG2-Tb_CCOWTO_fOU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2019-06-16T05:43:30.958330Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNFNG9lbTZnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNFNG9lbTZnRRAB!2m1!1s0x340158d2469a3eb5:0xb2d02240c7fbf6a7"
+      },
+      {
+        "name": "places/ChIJtT6aRtJYATQRp_b7x0Ai0LI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNScnQ3RU5REAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "蝦都新鮮，整體是可以，不過無咩特別",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "蝦都新鮮，整體是可以，不過無咩特別",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ka Ho Chan",
+          "uri": "https://www.google.com/maps/contrib/105389492368221587336/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYQfmENU1AOJdgrYmUnaatbGyUWVuaa4OkePGjzFGXbJQpdkPR=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-04-02T08:43:13.147345Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNScnQ3RU5REAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNScnQ3RU5REAE!2m1!1s0x340158d2469a3eb5:0xb2d02240c7fbf6a7"
+      },
+      {
+        "name": "places/ChIJtT6aRtJYATQRp_b7x0Ai0LI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZNmVqdVpnEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 1,
+        "text": {
+          "text": "貴，味道一般，主打海鮮但味道比酒樓還差！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "貴，味道一般，主打海鮮但味道比酒樓還差！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Johnny Ng",
+          "uri": "https://www.google.com/maps/contrib/113742420739888356424/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1fS5guuOgr56mCFipyXiMgMseisCwO952CRDGuJdNfvLk8RCx=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2019-04-15T04:37:13.669715Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNZNmVqdVpnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNZNmVqdVpnEAE!2m1!1s0x340158d2469a3eb5:0xb2d02240c7fbf6a7"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340158d2469a3eb5:0xb2d02240c7fbf6a7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12884836195535419047&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340158d2469a3eb5:0xb2d02240c7fbf6a7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340158d2469a3eb5:0xb2d02240c7fbf6a7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340158d2469a3eb5:0xb2d02240c7fbf6a7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJtT6aRtJYATQRp_b7x0Ai0LI/photos/Aa-ngMZ5xSDJBfG6CGkuccJ-6AFcdhUqB6a9644WB-cjbFVrGFk9xZ_SgdPpyOBvHV8KsehVNIP6PZo0vwLIbT7OMh7A4n2OS4mrbYeVdGMCmNctIm8Y6DrVdpOc2YFAzhVVL7AMbUqWevwresV8Op4w6mfIf0PQs3zRKG71of4_6x9EKdkBiFZPNvUREq2v6aOOekZBVVEBeVwoiPPU3iqknqYoC2dWtXyzv5nOb1EKYxigcLgEemkVG4IQzyr2B_cPidqsgH5PRRkErD39Va9W8DmaD-FY2Hk3gnkSKuL-6YDZ68k49rUbalSrQEqRExjEtgJhao88cw0oBNZu02t5yxj9ENTC_Awnw55AWRRF28mOf56mSYyVO63DEiPJnkLuyxmP__vTFQKQoIDSR9wKaIo6vjyoM_I",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "paulmon HO",
+          "uri": "https://maps.google.com/maps/contrib/108559513193011928298",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3biLkz3kLZqFOesHAuSVidfQDatwdEo0Vk-NVuqpSqsJKk7WBnA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICErJDWgwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICErJDWgwE!2e10!4m2!3m1!1s0x340158d2469a3eb5:0xb2d02240c7fbf6a7"
+    },
+    "local_path": "photos/ChIJtT6aRtJYATQRp_b7x0Ai0LI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5JFP09SatcqW5LSRNkkoFJARqbzV6v8yH6DzRlk17QixzalxD6eAsQQN0nDG0ndXqM8IwvCp7rU1zjF_Ywi3qw5isalfC5SanrEGNhsi8v880MFISjLslR9kjL8tpsVx6PAhzfg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 166379
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "seafood_restaurant",
+    "label": "海鮮餐廳",
+    "types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

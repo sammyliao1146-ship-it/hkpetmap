@@ -1,0 +1,329 @@
+{
+  "google_place_id": "ChIJPYkg_OoABDQRAdMxctWzgjs",
+  "restaurant_ids": [
+    "restaurant:2261151826"
+  ],
+  "fetched_at": "2026-10-23T15:38:15.221480+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJPYkg_OoABDQRAdMxctWzgjs",
+    "types": [
+      "pakistani_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2782 1635",
+    "internationalPhoneNumber": "+852 2782 1635",
+    "formattedAddress": "香港九龍佐敦吳松街93號A地下",
+    "location": {
+      "latitude": 22.306200699999998,
+      "longitude": 114.17024710000001
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=4288187524535407361&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/ahlungpakistanhalalfood/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 22:00",
+        "星期二: 11:00 – 22:00",
+        "星期三: 11:00 – 22:00",
+        "星期四: 11:00 – 22:00",
+        "星期五: 11:00 – 22:00",
+        "星期六: 11:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 1361,
+    "displayName": {
+      "text": "亞龍咖哩",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "巴基斯坦餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": false,
+    "servesVegetarianFood": true,
+    "primaryType": "pakistani_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJPYkg_OoABDQRAdMxctWzgjs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwRVFYUlVhbE5RVW1kTVQzTkljblZqYTFsUmFFRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "$125 咖哩牛筋腩飯 好味\n價錢感覺少少貴， 但係牛筋腩都係真材實料， 咖哩個味道好出色，冇乜味精，食完唔會口渴",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "$125 咖哩牛筋腩飯 好味\n價錢感覺少少貴， 但係牛筋腩都係真材實料， 咖哩個味道好出色，冇乜味精，食完唔會口渴",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chris Li",
+          "uri": "https://www.google.com/maps/contrib/101341653811233636667/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxbDR_CRfk1KN6Dk3fsU65GyH6pCbT79ww2Mvg2qmXjvybXsQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-12T16:20:06.484027015Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwRVFYUlVhbE5RVW1kTVQzTkljblZqYTFsUmFFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwRVFYUlVhbE5RVW1kTVQzTkljblZqYTFsUmFFRRAB!2m1!1s0x340400eafc20893d:0x3b82b3d57231d301"
+      },
+      {
+        "name": "places/ChIJPYkg_OoABDQRAdMxctWzgjs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1TE0wUXpWVTVTWVdGTk5IbHpPV2cxZGxReE0wRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 4,
+        "text": {
+          "text": "得閒就去食\n亞龍咖喱，巴基斯坦做法，又香又濃，最大分別係無椰奶。\n好多朋友問有二問，吾知邊問係原店？而家話你知，亞(亞洲個亞)龍就啱喇。地址係93A（見圖）。\n隔離個間係舊伙計學佢既，材料差D平D想搶生意……\n食左幾十年，而家係香港就隔一二個禮拜去食。後生仲起碼叫二款，一款淨餸，要撈飯啊😍😍😍，吾食飯可以叫薄餅。\n尤其係冬天，佢地既咖喱羊用新鮮羊腩做，超級好味啊😋😋😋😘😘😘🥰🥰🥰👍👍👍✌️✌️✌️🍺🍺🍺每年冬天一定起碼食二，三次……呢幾日涼涼地，經過去問，老闆娘話都要下個月啦😭😭😭\n平時去會叫魚，佢地用新鮮䱽魚。超正。👍👍👍😘😘😘\n蝦係大大隻既虎蝦。\n牛腩我鐘意食肥或有時叫腩皮部份👌👌👌\n服務吾知道點請，識老闆娘，梗好招呼D😂😂😂🤣🤣🤣其它見到都好既。\n不過有樣嘢要講，以前食個咖喱汁用好多洋蔥好多蕃茄做底，而家好似少左D噃🤪🤪🤪\n記住吾好加辣，正常就最原汁原味。\n邊間舖頭D餸有加辣千祈米叫，佢地都係求其加D辣油上去破壞哂原本既味道🤬🤬🤬",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "得閒就去食\n亞龍咖喱，巴基斯坦做法，又香又濃，最大分別係無椰奶。\n好多朋友問有二問，吾知邊問係原店？而家話你知，亞(亞洲個亞)龍就啱喇。地址係93A（見圖）。\n隔離個間係舊伙計學佢既，材料差D平D想搶生意……\n食左幾十年，而家係香港就隔一二個禮拜去食。後生仲起碼叫二款，一款淨餸，要撈飯啊😍😍😍，吾食飯可以叫薄餅。\n尤其係冬天，佢地既咖喱羊用新鮮羊腩做，超級好味啊😋😋😋😘😘😘🥰🥰🥰👍👍👍✌️✌️✌️🍺🍺🍺每年冬天一定起碼食二，三次……呢幾日涼涼地，經過去問，老闆娘話都要下個月啦😭😭😭\n平時去會叫魚，佢地用新鮮䱽魚。超正。👍👍👍😘😘😘\n蝦係大大隻既虎蝦。\n牛腩我鐘意食肥或有時叫腩皮部份👌👌👌\n服務吾知道點請，識老闆娘，梗好招呼D😂😂😂🤣🤣🤣其它見到都好既。\n不過有樣嘢要講，以前食個咖喱汁用好多洋蔥好多蕃茄做底，而家好似少左D噃🤪🤪🤪\n記住吾好加辣，正常就最原汁原味。\n邊間舖頭D餸有加辣千祈米叫，佢地都係求其加D辣油上去破壞哂原本既味道🤬🤬🤬",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Soda Chanh",
+          "uri": "https://www.google.com/maps/contrib/115400983851986239145/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK8ZlZf68xMogMTYIkeA_DO2rcAy4IJOCDQ-rKe_kXCoFy5Bg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-10-30T10:07:11.317993120Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1TE0wUXpWVTVTWVdGTk5IbHpPV2cxZGxReE0wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1TE0wUXpWVTVTWVdGTk5IbHpPV2cxZGxReE0wRRAB!2m1!1s0x340400eafc20893d:0x3b82b3d57231d301"
+      },
+      {
+        "name": "places/ChIJPYkg_OoABDQRAdMxctWzgjs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toQ2NXdFJUR1F0VG5VNVIyWlNhVFoyTUdaT1QzYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "亞龍咖哩係我食過最出位嘅咖哩！食左好多年！牛腩同雞！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "亞龍咖哩係我食過最出位嘅咖哩！食左好多年！牛腩同雞！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kate Kwan",
+          "uri": "https://www.google.com/maps/contrib/105207088351078781676/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKqAVAS2IXi424_wyhDBArrEk1uCsrX_ThT7dNxHMzSQc4F_1u=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-16T11:28:57.087413744Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toQ2NXdFJUR1F0VG5VNVIyWlNhVFoyTUdaT1QzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toQ2NXdFJUR1F0VG5VNVIyWlNhVFoyTUdaT1QzYxAB!2m1!1s0x340400eafc20893d:0x3b82b3d57231d301"
+      },
+      {
+        "name": "places/ChIJPYkg_OoABDQRAdMxctWzgjs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOa1ZVdFNPVWRPY2s1emQyeDNiM1pLV1d3elZHYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 1,
+        "text": {
+          "text": "睇完梁祖堯個YT過嚟試下，叫咗牛筋腩$125同埋推介到唔食唔得嘅咖哩魚(鷹鯧)餐牌寫$170實收$200。首先個盤牛筋腩係碎嘅，放入隻膠碗度好似隔夜餸，明明睇片d咖哩係滾住上，無見到，無感受到，好可惜。跟住個盤咖哩魚，片就大碗上，實收就小盤上，入面得個三舊仔，鷹鯧明明就好大條的。招呼就算啦，因為係無嘅，呼呼喝喝同條片入面一樣。味道係正常，我唔識食啦我又唔覺得有咩特別，環境衛生就同招呼一樣都係無嘅。希望唔洗再有人中伏啦，要試伏記得帶現金啊，唔係會俾人鬧㗎",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "睇完梁祖堯個YT過嚟試下，叫咗牛筋腩$125同埋推介到唔食唔得嘅咖哩魚(鷹鯧)餐牌寫$170實收$200。首先個盤牛筋腩係碎嘅，放入隻膠碗度好似隔夜餸，明明睇片d咖哩係滾住上，無見到，無感受到，好可惜。跟住個盤咖哩魚，片就大碗上，實收就小盤上，入面得個三舊仔，鷹鯧明明就好大條的。招呼就算啦，因為係無嘅，呼呼喝喝同條片入面一樣。味道係正常，我唔識食啦我又唔覺得有咩特別，環境衛生就同招呼一樣都係無嘅。希望唔洗再有人中伏啦，要試伏記得帶現金啊，唔係會俾人鬧㗎",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "TC",
+          "uri": "https://www.google.com/maps/contrib/101652619393240846885/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLj9xRC4K-KAgFm3YAE8eRvLwAgOJuht1EYpIcPQinFgTYEHIC=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-30T07:45:16.140677636Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOa1ZVdFNPVWRPY2s1emQyeDNiM1pLV1d3elZHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOa1ZVdFNPVWRPY2s1emQyeDNiM1pLV1d3elZHYxAB!2m1!1s0x340400eafc20893d:0x3b82b3d57231d301"
+      },
+      {
+        "name": "places/ChIJPYkg_OoABDQRAdMxctWzgjs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSVlJXcFphWGQ0WkU5alNtVlJUa2h5WkdNelJGRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "同平時食開既咖喱唔同，好似濕啲\n不過一樣夠味、夠辣\n洋蔥非常之多\n不過有少少貴",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "同平時食開既咖喱唔同，好似濕啲\n不過一樣夠味、夠辣\n洋蔥非常之多\n不過有少少貴",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "紅豆",
+          "uri": "https://www.google.com/maps/contrib/114413580364460710437/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwgqJ66tan3FggeD1-DPbEjUOLK9jAtayOM8fDx7IEOnJRTm0=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-29T06:00:52.987836663Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSVlJXcFphWGQ0WkU5alNtVlJUa2h5WkdNelJGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSVlJXcFphWGQ0WkU5alNtVlJUa2h5WkdNelJGRRAB!2m1!1s0x340400eafc20893d:0x3b82b3d57231d301"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": false,
+      "acceptsDebitCards": false,
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400eafc20893d:0x3b82b3d57231d301!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4288187524535407361&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400eafc20893d:0x3b82b3d57231d301!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400eafc20893d:0x3b82b3d57231d301!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400eafc20893d:0x3b82b3d57231d301!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJPYkg_OoABDQRAdMxctWzgjs/photos/Aa-ngMYemNKj31m1C5bIVRaH1zl3l4bX9n6HOJnOScfrnIGoZpizuxLTOK0kML1VU1UNzgKBYvtVNoly2Nz9yQt04fWJ8Jnnh0KxOdd3WLCGZXM34X3F19HDWF6ryGKLwC9u92AbWWAYY8hJQ5EQuPgGVwAsGg7aRkoY-9eUGfHKHCHcjkBAvdFTEzRvAObzr8aLCAQTw51FF7hUWwROzWoGeY_QS3rUu2yGJFU_YNPlayOovWy17YJkNiprYNr5Z5ZGLESy6CMIvR3PWR5VjZujvAImH8HSHwBJQGZbAT62SXpt_jNm_ILJwC-V84GulWBflw_GOUpmbk9ErphifITIUW065_Koa2G1PFHtOSvrVmmhjpHwZ0KhPOAFhaY-XlScx_azUl7ghzKoFG2naIBf-TFOZuKt8UwKh4B46UQrLPOv",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "alex yu",
+          "uri": "https://maps.google.com/maps/contrib/108225244505877174954",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWutGOlnfx6VmPngKfhbgK_rdHypA-q7MWS1_WibNpkFCAXj1mB=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDCqLY0yUy-loyF7WiHlsRq&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDCqLY0yUy-loyF7WiHlsRq!2e10!4m2!3m1!1s0x340400eafc20893d:0x3b82b3d57231d301"
+    },
+    "local_path": "photos/ChIJPYkg_OoABDQRAdMxctWzgjs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoT7TjVC3d_Nd2oV1yJDfK_PK583PdJNl1g66AK2ANukPAldwRXdL9CI_eJU2qj-eWkU5rkZwr2uvOrmFVVkr8B7eTiA-ouErWESdsL2A4lBXC2SEXhDdQ7dzD-qqztzt9WRiOFsSVT5s=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 166165
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "pakistani_restaurant",
+    "label": "巴基斯坦餐廳",
+    "types": [
+      "pakistani_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ChIJZRB6Uo4PBDQRUErg1vEVcTQ",
+  "types": [
+    "community_center",
+    "shopping_mall",
+    "sports_complex",
+    "event_venue",
+    "sports_activity_location",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界馬鞍山海映路9號",
+  "location": {
+    "latitude": 22.4267644,
+    "longitude": 114.2650812
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3778825690776881744&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "GO PARK Sai Sha",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "community_center",
+  "photos": [
+    {
+      "name": "places/ChIJZRB6Uo4PBDQRUErg1vEVcTQ/photos/Aa-ngMapQ5olfokMijxHtjocNYVX-2XqUntbQX-L4k7-DiTFu5OG6pAnFNpH6-ckEFlgLPWViLO3cpCqwJS6puggRdIsFlUUpiMFs6sQnE5ESthDAt2FZwq6txlLOsoYJ-RUWKUxF5CsRHbXG80R-038VLpJACl1r9hYgu40kulpZEMPNYGI2ufrUzH-lhPcAz1W0Z20BGf9DHl5UvcZ3SGhqb8F6Q10ra_wNgs0DLPIVQ0NNroq3k-MU6CRWNFHybFADskO-VDHV4tfXLG5Y9bA0w_uvQ7xKwr6qixnsLvqkP7ebA1j-AQSJFBD60BuADgxdsakRaJIMQc6qBA2q5gv1_fhlqDOgAwIggy4s3PV4rH7Zm2qEyRG98GIlU2e16zLEy4tZ1_vDbhT7pAl-KwlkkA9Yg",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "GO PARK Sai Sha",
+          "uri": "https://maps.google.com/maps/contrib/107794666443489405844",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0t_NLyIS19hO0rEKCKpd6rEuU01Jj46b6Mz2RRVOug0QTOYU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC7mtjrAw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7mtjrAw!2e10!4m2!3m1!1s0x34040f8e527a1065:0x347115f1d6e04a50"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:04.674856+00:00"
+}

@@ -1,0 +1,48 @@
+{
+  "google_place_id": "ChIJmUfb4FAABDQRn6ZD0ZnnC_c",
+  "restaurant_ids": [
+    "restaurant:3112187483"
+  ],
+  "fetched_at": "2026-10-23T15:48:41.250182+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJmUfb4FAABDQRn6ZD0ZnnC_c",
+    "types": [
+      "subpremise",
+      "street_address"
+    ],
+    "formattedAddress": "香港香港島鵝頸耀華街8號耀華街4號",
+    "location": {
+      "latitude": 22.2775562,
+      "longitude": 114.18227069999999
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=17801576599938901663&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "displayName": {
+      "text": "耀華街4號",
+      "languageCode": "zh-TW"
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040050e0db4799:0xf70be799d143a69f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17801576599938901663&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040050e0db4799:0xf70be799d143a69f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": null,
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": null,
+    "label": null,
+    "types": [
+      "subpremise",
+      "street_address"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

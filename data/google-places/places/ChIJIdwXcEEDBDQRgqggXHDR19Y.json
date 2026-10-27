@@ -1,0 +1,397 @@
+{
+  "google_place_id": "ChIJIdwXcEEDBDQRgqggXHDR19Y",
+  "restaurant_ids": [
+    "restaurant:2298803749"
+  ],
+  "fetched_at": "2026-10-23T15:45:46.717436+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJIdwXcEEDBDQRgqggXHDR19Y",
+    "types": [
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3107 1218",
+    "internationalPhoneNumber": "+852 3107 1218",
+    "formattedAddress": "香港新界將軍澳唐德街9號將軍澳中心Shop G43, G/F",
+    "location": {
+      "latitude": 22.3068681,
+      "longitude": 114.25667019999999
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=15481072524621555842&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.outback.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 644,
+    "displayName": {
+      "text": "Outback Steakhouse",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "牛排館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "steak_house",
+    "reviews": [
+      {
+        "name": "places/ChIJIdwXcEEDBDQRgqggXHDR19Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Oa04ycHRNREZ0VldaRGJrOVFZMDR4VVZGWWFtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "服務非常好，有足夠嘅員工，黑糖麵包任點五個人只係叫咗三條，每次叫麵包員工都有禮貌同樂意，建議大家提前登記會員，因為會員需要二十四小時之後先能開通可以儲分同埋每次全單九折",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務非常好，有足夠嘅員工，黑糖麵包任點五個人只係叫咗三條，每次叫麵包員工都有禮貌同樂意，建議大家提前登記會員，因為會員需要二十四小時之後先能開通可以儲分同埋每次全單九折",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "二花Eva Chan",
+          "uri": "https://www.google.com/maps/contrib/100393003957851663402/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpJx7wKSnzYFfc09GGZnF-EoVDrkja4BeH2gmwrf_hJr70tIw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-10T10:38:31.042609291Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Oa04ycHRNREZ0VldaRGJrOVFZMDR4VVZGWWFtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Oa04ycHRNREZ0VldaRGJrOVFZMDR4VVZGWWFtYxAB!2m1!1s0x340403417017dc21:0xd6d7d1705c20a882"
+      },
+      {
+        "name": "places/ChIJIdwXcEEDBDQRgqggXHDR19Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twU1FVRndNRWRpVlZaUlEyTk9XRU0xVUVKRVlXYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "新會員入會有$88現金券，可即晚使用。生日月份有免費蛋糕送。意粉和意大利飯都好吃，尤其是意大利飯很有咬口。燒雞和豬肋骨屬正常發揮，沙律幾好食。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "新會員入會有$88現金券，可即晚使用。生日月份有免費蛋糕送。意粉和意大利飯都好吃，尤其是意大利飯很有咬口。燒雞和豬肋骨屬正常發揮，沙律幾好食。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "patpat",
+          "uri": "https://www.google.com/maps/contrib/105461952569524172725/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKe_NKU7sBQ-TLMDuhDdec6i0pjh0ji85lrbkOxZnm0pl43WQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-05T12:58:12.349082056Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twU1FVRndNRWRpVlZaUlEyTk9XRU0xVUVKRVlXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twU1FVRndNRWRpVlZaUlEyTk9XRU0xVUVKRVlXYxAB!2m1!1s0x340403417017dc21:0xd6d7d1705c20a882"
+      },
+      {
+        "name": "places/ChIJIdwXcEEDBDQRgqggXHDR19Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT21odGRXWkdVVTlxUjI1cGEwdzBORVJEWWxaUmMxRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 4,
+        "text": {
+          "text": "見到做緊三送一優惠，就去試下，開頭每人整返兩條黑糖麵包先，發覺已經飽飽地😂\n\n第一次食豬係比人問我要幾多成熟，店員話佢地嘅豬係可以叫幾多成熟，開頭熬熬地，最後叫左7成，不過都係有少少鞋鞋地。\n\nP.S. 有個小插曲，就係埋單店員無做到三送一優惠，事後我地睇返張單先知，後黎落多次舖頭重新做一次，店員都好快處理好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "見到做緊三送一優惠，就去試下，開頭每人整返兩條黑糖麵包先，發覺已經飽飽地😂\n\n第一次食豬係比人問我要幾多成熟，店員話佢地嘅豬係可以叫幾多成熟，開頭熬熬地，最後叫左7成，不過都係有少少鞋鞋地。\n\nP.S. 有個小插曲，就係埋單店員無做到三送一優惠，事後我地睇返張單先知，後黎落多次舖頭重新做一次，店員都好快處理好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tang Henry",
+          "uri": "https://www.google.com/maps/contrib/106702129726377232022/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBs37C7W1e7ftYr6d3YjleN8P4zeuKAcosrULCE5iF1YbVpg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-11-08T02:14:25.331564607Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21odGRXWkdVVTlxUjI1cGEwdzBORVJEWWxaUmMxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21odGRXWkdVVTlxUjI1cGEwdzBORVJEWWxaUmMxRRAB!2m1!1s0x340403417017dc21:0xd6d7d1705c20a882"
+      },
+      {
+        "name": "places/ChIJIdwXcEEDBDQRgqggXHDR19Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjcTRuNTVRRRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 4,
+        "text": {
+          "text": "黑糖麵包(free)，個人覺得黑糖甜味好出，反而唔駛咁甜，第一舊上嘅比較乾身，之後encore嘅反而仲暖暖哋軟熟啲。\n\n招牌墨西哥牛肉粟米脆片($78)，份量好夠，啱啱上嘅時候熱辣辣好脆身，配埋啲芝士同cream好香，不過一定要趁熱食，凍咗容易變硬。\n\n美國頂級肉眼牛扒 (BLS Rib Eye $438)，叫咗7成熟，不過因為用鐵板慶住所以熟咗啲。牛扒幾大塊同埋juicy，不過好似落重手咗鹽，價錢方面我覺得偏貴。有跟餐嘅細沙律，有生菜同幾片芝士，味道正常。\n\n愛麗絲燒雞胸 ($152)，上面有好多芝士同兩塊脆煙肉，下面係兩舊雞胸。舊雞偏咸同乾，唔太推薦大家食佢。加$10有個忌廉餐湯，creamy但比較杰身，飲多咗會漏。\n\n整體嚟講，服務唔錯，嘢食份量好夠3個人食，墨西哥牛肉粟米脆片真心好食，但呢個價位我期望主菜味道亦會好啲。\n返回",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "黑糖麵包(free)，個人覺得黑糖甜味好出，反而唔駛咁甜，第一舊上嘅比較乾身，之後encore嘅反而仲暖暖哋軟熟啲。\n\n招牌墨西哥牛肉粟米脆片($78)，份量好夠，啱啱上嘅時候熱辣辣好脆身，配埋啲芝士同cream好香，不過一定要趁熱食，凍咗容易變硬。\n\n美國頂級肉眼牛扒 (BLS Rib Eye $438)，叫咗7成熟，不過因為用鐵板慶住所以熟咗啲。牛扒幾大塊同埋juicy，不過好似落重手咗鹽，價錢方面我覺得偏貴。有跟餐嘅細沙律，有生菜同幾片芝士，味道正常。\n\n愛麗絲燒雞胸 ($152)，上面有好多芝士同兩塊脆煙肉，下面係兩舊雞胸。舊雞偏咸同乾，唔太推薦大家食佢。加$10有個忌廉餐湯，creamy但比較杰身，飲多咗會漏。\n\n整體嚟講，服務唔錯，嘢食份量好夠3個人食，墨西哥牛肉粟米脆片真心好食，但呢個價位我期望主菜味道亦會好啲。\n返回",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sesame sze",
+          "uri": "https://www.google.com/maps/contrib/105993807995842715419/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIui812EPpSBDwKEXI1I9TH-NXTN_gXmBBGkcuKNal0GGAG4A=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2020-04-10T14:19:26.225561Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNjcTRuNTVRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNjcTRuNTVRRRAB!2m1!1s0x340403417017dc21:0xd6d7d1705c20a882"
+      },
+      {
+        "name": "places/ChIJIdwXcEEDBDQRgqggXHDR19Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4LVpqc3pRRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "由小朋友細嘅時候已經經常黎outback食野，好似變咗我哋屋企嘅飯堂咁😂今次會員積分儲到可以換甜品，今日lunch過嚟食先🤓我哋今日1:30左右黎到，因為想要BB凳嘅關係等咗大概5分鐘就可以入座👍\n\n·餐湯配黑糖麵包\n忌廉湯帶有微微香料味，湯入面有洋蔥同埋青瓜，飲落鹹鹹香香，唔會太濃稠，配埋黑糖麵包好夾😋\n黑糖麵包好香甜，配埋鹹鹹地嘅牛油，又甜又Creamy💕😋好正\n\n·燒雞肉芝士夾餅\n入面包住雞胸肉，仲有溶化嘅芝士，同埋少少蘑菇，餡餅熱辣辣，外皮少少脆而帶煙靭，雞肉同芝士都好足料，再點埋呢個酸酸甜甜既汁，有減膩既感覺😋\n\n·迷你烤豬肋骨(兒童餐）\n豬肋骨燒得好香，肉質唔會乾柴同韌，燒得岩岩好，好入味，BBQ醬香濃食落甜甜地，好味😋\n\n·美國肉丸蕃茄意粉\n意粉好香濃蕃茄味，微微偏甜，唔會太酸，亦都無蕃茄嘅腥味，意粉軟硬度適中，肉丸肉味濃郁，好有口感，好厚實唔鬆散，讚👍\n\n·雪糕朱古力軟餅\n朱古力軟餅有非常香濃嘅朱古力味，質感鬆軟，入面有合桃粒，配埋雲呢拿雪糕筒忌廉非常indulgence，非常濃郁，非常滿足😍😍😍\n\n餐廳坐得舒，有BB凳，小朋友每人可以有一套4支蠟筆同工作紙，大人小朋友都可以舒舒服服食餐飯😍👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "由小朋友細嘅時候已經經常黎outback食野，好似變咗我哋屋企嘅飯堂咁😂今次會員積分儲到可以換甜品，今日lunch過嚟食先🤓我哋今日1:30左右黎到，因為想要BB凳嘅關係等咗大概5分鐘就可以入座👍\n\n·餐湯配黑糖麵包\n忌廉湯帶有微微香料味，湯入面有洋蔥同埋青瓜，飲落鹹鹹香香，唔會太濃稠，配埋黑糖麵包好夾😋\n黑糖麵包好香甜，配埋鹹鹹地嘅牛油，又甜又Creamy💕😋好正\n\n·燒雞肉芝士夾餅\n入面包住雞胸肉，仲有溶化嘅芝士，同埋少少蘑菇，餡餅熱辣辣，外皮少少脆而帶煙靭，雞肉同芝士都好足料，再點埋呢個酸酸甜甜既汁，有減膩既感覺😋\n\n·迷你烤豬肋骨(兒童餐）\n豬肋骨燒得好香，肉質唔會乾柴同韌，燒得岩岩好，好入味，BBQ醬香濃食落甜甜地，好味😋\n\n·美國肉丸蕃茄意粉\n意粉好香濃蕃茄味，微微偏甜，唔會太酸，亦都無蕃茄嘅腥味，意粉軟硬度適中，肉丸肉味濃郁，好有口感，好厚實唔鬆散，讚👍\n\n·雪糕朱古力軟餅\n朱古力軟餅有非常香濃嘅朱古力味，質感鬆軟，入面有合桃粒，配埋雲呢拿雪糕筒忌廉非常indulgence，非常濃郁，非常滿足😍😍😍\n\n餐廳坐得舒，有BB凳，小朋友每人可以有一套4支蠟筆同工作紙，大人小朋友都可以舒舒服服食餐飯😍👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Carley Cheung",
+          "uri": "https://www.google.com/maps/contrib/106088880588346325450/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk73NmGi5BVYOLFoKPnWE8GTAKcCQvPMsl6J7gsncqDyDLx95V=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-06-11T18:07:12.371165Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4LVpqc3pRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4LVpqc3pRRRAB!2m1!1s0x340403417017dc21:0xd6d7d1705c20a882"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340403417017dc21:0xd6d7d1705c20a882!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15481072524621555842&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403417017dc21:0xd6d7d1705c20a882!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340403417017dc21:0xd6d7d1705c20a882!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403417017dc21:0xd6d7d1705c20a882!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJIdwXcEEDBDQRgqggXHDR19Y/photos/Aa-ngMaju-VXQG_bg0-vWx6_iDlGMId-Mpax4_zFc-PH5n4RLtl5b7g3cCcgXE50WH941RfEUF7ZrH9S9c9CRBDL57NxXNCseKHOKBH_xVYmluXSmrlUoaqZUeEvHbu4TsKMwVbfJYvVFYzMScK5_pxn9-9iJKK0TqMzkkMac2JlLmL9XtZ2L9wwZ6-afwYlGhk9z8KAlNc4528ecpcgD0wnsVua9swcVIkSIAt5X6P2Bh0Q_TT4J2h5ZrDZzbgIRTwVOepJn4Gn3OFqY0uNVIZ2di54EiRFKNqbvoTRL8KalSpJ1Lk_LNt5CxagI4IvZkcXAD8hNo4GTJdso8GLhEjJIcwoY_5OdVGYeGQuFBGZqYOxpsgSdt0AroW356zURHhu85T2pKiRbvAqrwbeJ_xp05aHQiE7u1YcL9ru9zCOrJvVWQ",
+      "widthPx": 4000,
+      "heightPx": 2250,
+      "authorAttributions": [
+        {
+          "displayName": "Chris Chow YM",
+          "uri": "https://maps.google.com/maps/contrib/103812508839372011141",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzKXPtg78kjUxG-1L7yOb4Gi3ZVVts3Y-E-tBaGky46j9aoeOZ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBWQH00V-iMVVOqDotD9N54&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBWQH00V-iMVVOqDotD9N54!2e10!4m2!3m1!1s0x340403417017dc21:0xd6d7d1705c20a882"
+    },
+    "local_path": "photos/ChIJIdwXcEEDBDQRgqggXHDR19Y.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLesH4fSP8x_1ByANeVHC3Gxlu7Xs6R-Awm9d7Mzb-VjkAOebnxXq9rkeESW1XfpkzBK4uUDDZI7xDSmdFy-P63nytmRL94mvHalHeNtq63QzLE5NZWT-e2Ft4Qz0GxnZ71WtFi9pS575kjP=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 92860
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.openrice.com/zh/hongkong/restaurants/menu/takeaway?seoCategory=menu&takeawayReferralCode=1&chainId=10000185",
+        "label": "Self pick-up",
+        "source_url": "https://www.outback.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://portaly.cc/outbacksteakhousehk",
+        "label": "Delivery (Set Menu for 2-4pax)",
+        "source_url": "https://www.outback.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.outback.com.hk/food-menu?lang=en",
+        "label": "Menu",
+        "source_url": "https://www.outback.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.outback.com.hk/food-menu/steaks?lang=en",
+        "label": "Steaks",
+        "source_url": "https://www.outback.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.outback.com.hk/food-menu/?cat=1&lang=en",
+        "label": "Beverage",
+        "source_url": "https://www.outback.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.outback.com.hk/food-menu/?cat=2&lang=en",
+        "label": "Daytime Specials",
+        "source_url": "https://www.outback.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.outback.com.hk/food-menu/?cat=3&lang=en",
+        "label": "Takeout Menu",
+        "source_url": "https://www.outback.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.outback.com.hk/food-menu/?cat=4&lang=en",
+        "label": "Joey Menu",
+        "source_url": "https://www.outback.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.outback.com.hk/food-menu/?cat=5&lang=en",
+        "label": "A La Carte",
+        "source_url": "https://www.outback.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.outback.com.hk/",
+        "label": "Menu",
+        "source_url": "https://www.outback.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "steak_house",
+    "label": "牛排館",
+    "types": [
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.openrice.com/zh/hongkong/restaurants/menu/takeaway?seoCategory=menu&takeawayReferralCode=1&chainId=10000185"
+}

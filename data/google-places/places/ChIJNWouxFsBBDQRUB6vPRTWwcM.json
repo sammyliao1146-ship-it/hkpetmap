@@ -1,0 +1,331 @@
+{
+  "google_place_id": "ChIJNWouxFsBBDQRUB6vPRTWwcM",
+  "restaurant_ids": [
+    "restaurant:3162805627"
+  ],
+  "fetched_at": "2026-10-23T15:37:49.022636+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJNWouxFsBBDQRUB6vPRTWwcM",
+    "types": [
+      "dessert_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2601 0661",
+    "internationalPhoneNumber": "+852 2601 0661",
+    "formattedAddress": "香港九龍旺角旺角花園街1號地面2號舖",
+    "location": {
+      "latitude": 22.3158524,
+      "longitude": 114.1716637
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=14105790890323680848&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://app.eats365pos.com/hk/tc/kaikai_mongkok",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 1,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 01:00",
+        "星期二: 12:00 – 01:00",
+        "星期三: 12:00 – 01:00",
+        "星期四: 12:00 – 01:00",
+        "星期五: 12:00 – 01:00",
+        "星期六: 12:00 – 01:00",
+        "星期日: 12:00 – 01:00"
+      ],
+      "nextCloseTime": "2026-10-23T17:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 272,
+    "displayName": {
+      "text": "佳佳甜品",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "甜品餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "dessert_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJNWouxFsBBDQRUB6vPRTWwcM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taMGNESlhTWEJ2Y1doYU1WbHZNVGxKUjNWQ1EwRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "佳佳甜品，香港知名的糖水店。乾淨清潔，全新裝修，服務態度好。吃了芝麻糊，香氣好，用料足。隔鄰座位點了芒果西米，樣子很好吃!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "佳佳甜品，香港知名的糖水店。乾淨清潔，全新裝修，服務態度好。吃了芝麻糊，香氣好，用料足。隔鄰座位點了芒果西米，樣子很好吃!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Moon Cloud",
+          "uri": "https://www.google.com/maps/contrib/112272176449637012202/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0cSDL0Udnf9RQqJD0PES3e9uJhZG_qluyL7ac_Nlz-LW9mOsgPA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-27T14:10:52.955333207Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taMGNESlhTWEJ2Y1doYU1WbHZNVGxKUjNWQ1EwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taMGNESlhTWEJ2Y1doYU1WbHZNVGxKUjNWQ1EwRRAB!2m1!1s0x3404015bc42e6a35:0xc3c1d6143daf1e50"
+      },
+      {
+        "name": "places/ChIJNWouxFsBBDQRUB6vPRTWwcM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGM2QyNUlWVXR6ZWxCeFUwcE5SRFpNU1Vkd1ZXYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "很喜歡的薑汁芝麻湯圓真的是獨一無二的好吃，每次訪問香港🇭🇰必吃的，大推，但就是生意好位置都是很擁擠的地方",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很喜歡的薑汁芝麻湯圓真的是獨一無二的好吃，每次訪問香港🇭🇰必吃的，大推，但就是生意好位置都是很擁擠的地方",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kelly chin",
+          "uri": "https://www.google.com/maps/contrib/108771271405971671571/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfNtAEaqgZkdoJ0OLzKq7zNi_7v2en68Tk2BPijLG3vTeJLP5D=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-25T15:50:00.864716191Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGM2QyNUlWVXR6ZWxCeFUwcE5SRFpNU1Vkd1ZXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGM2QyNUlWVXR6ZWxCeFUwcE5SRFpNU1Vkd1ZXYxAB!2m1!1s0x3404015bc42e6a35:0xc3c1d6143daf1e50"
+      },
+      {
+        "name": "places/ChIJNWouxFsBBDQRUB6vPRTWwcM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWVFpURlpiazVTT1RoWFVIWjFlVkJ6Y3pCc2RFRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "份量蠻小的，楊枝甘露濃郁，芒果的香氣很酸甜都很明顯！芝麻杏仁也濃郁，冰涼的甜品很適合夏天",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "份量蠻小的，楊枝甘露濃郁，芒果的香氣很酸甜都很明顯！芝麻杏仁也濃郁，冰涼的甜品很適合夏天",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pchen K",
+          "uri": "https://www.google.com/maps/contrib/114479388507814380989/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVfrbm05romQLoSubeBMQZ47ctoa7HroiYw7rZAvQlp5DzjiRchA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-21T14:33:12.005500745Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWVFpURlpiazVTT1RoWFVIWjFlVkJ6Y3pCc2RFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWVFpURlpiazVTT1RoWFVIWjFlVkJ6Y3pCc2RFRRAB!2m1!1s0x3404015bc42e6a35:0xc3c1d6143daf1e50"
+      },
+      {
+        "name": "places/ChIJNWouxFsBBDQRUB6vPRTWwcM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OalVHWm5jamt6YmpaUFlWOVlVR0pMYjBrNE1GRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 1,
+        "text": {
+          "text": "一直食佳佳（二姐）甜品，見到旺角有類似的店鋪，決定比較一下。價錢相若，但質素相差很遠，不建議大家試。最後食左幾啖，就走左，吾好浪費個胃的quota😮‍💨😮‍💨😮‍💨",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一直食佳佳（二姐）甜品，見到旺角有類似的店鋪，決定比較一下。價錢相若，但質素相差很遠，不建議大家試。最後食左幾啖，就走左，吾好浪費個胃的quota😮‍💨😮‍💨😮‍💨",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yat Ching Lau",
+          "uri": "https://www.google.com/maps/contrib/113078375393903174343/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUU_hzmMG5NomCblg6QAj0mUH7w0Heau-FXvXy1CIWUT3HT7o2a=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-01-18T06:33:10.930535504Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OalVHWm5jamt6YmpaUFlWOVlVR0pMYjBrNE1GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OalVHWm5jamt6YmpaUFlWOVlVR0pMYjBrNE1GRRAB!2m1!1s0x3404015bc42e6a35:0xc3c1d6143daf1e50"
+      },
+      {
+        "name": "places/ChIJNWouxFsBBDQRUB6vPRTWwcM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnNGVWOHRhRlowY2kweU9VaDROa056TFd4UVpFRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 1,
+        "text": {
+          "text": "很普，根本不需要特別吃，台灣一堆路邊打趴他家，店員態度也..痾…總之覺得想吃到一火氣就吃吧",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很普，根本不需要特別吃，台灣一堆路邊打趴他家，店員態度也..痾…總之覺得想吃到一火氣就吃吧",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wei",
+          "uri": "https://www.google.com/maps/contrib/103211225862541189415/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ4q_magdSTekj9Ksy726kbHbddLD4XwSYsvrD5_otGN0pyQQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-09-01T15:44:16.748685572Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tnNGVWOHRhRlowY2kweU9VaDROa056TFd4UVpFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnNGVWOHRhRlowY2kweU9VaDROa056TFd4UVpFRRAB!2m1!1s0x3404015bc42e6a35:0xc3c1d6143daf1e50"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404015bc42e6a35:0xc3c1d6143daf1e50!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14105790890323680848&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404015bc42e6a35:0xc3c1d6143daf1e50!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404015bc42e6a35:0xc3c1d6143daf1e50!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404015bc42e6a35:0xc3c1d6143daf1e50!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJNWouxFsBBDQRUB6vPRTWwcM/photos/Aa-ngMYulXMQfnKX_X-F9_6wOk4gMKYm-_FkDeoWF1u5UGcdJhJIBOrHHrISTzPyhmsIkHVejQINoflNMkbtDnFfY194bf2NbdDCCkbWLXceVnrdMwmDO8gLbqJxDPRWMg-NLrg_qLHlNIlatUfDrdGUvb7NzlyUYmMWtpX_TwUK3i109qnEC2frtdW31GWYXKcBGO3qSjJixZYnOlsGa_iqIlBLe9gXYim0pXhaKgRXUVPGIPpu1EeI1C-AQap2mIVsfDLvogWw_2IRYtOmYJgLPXsURu4R1nzIe79AyflwD3mwKmGMW7Dft6tFf3E2pOhtpocJWb9cq2NnypCHWzXQhdS1JlyT2R-A7GenDF4efL__IZK-W5ztgjNXMyB99C4V_L40CdLQxKTn_-Pv-Zfw5QZoCNenKURmctY6BdEFYPituw",
+      "widthPx": 3785,
+      "heightPx": 2839,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAGIyC-aqQwfpgtBwdL5JFE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGIyC-aqQwfpgtBwdL5JFE!2e10!4m2!3m1!1s0x3404015bc42e6a35:0xc3c1d6143daf1e50"
+    },
+    "local_path": "photos/ChIJNWouxFsBBDQRUB6vPRTWwcM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4bWukmnAvD9eubV1CPyo6LXNzB7qoEwaKxgM8kjkx6Hz1ZAmc0lucc8fj1NvaS4IIOf9oBH_CmjgVDFCcDVhtxB6P-c9Aju5zEPtg03xrkysyQLadYEnoG8AjQW52tFrpi0YfQC3eruFd=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 169242
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "dessert_restaurant",
+    "label": "甜品餐廳",
+    "types": [
+      "dessert_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

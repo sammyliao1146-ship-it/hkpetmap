@@ -1,0 +1,313 @@
+{
+  "google_place_id": "ChIJQQJZCekHBDQRS-K0XFupCzY",
+  "restaurant_ids": [
+    "restaurant:2253804329"
+  ],
+  "fetched_at": "2026-10-23T15:37:51.257818+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJQQJZCekHBDQRS-K0XFupCzY",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2328 0380",
+    "internationalPhoneNumber": "+852 2328 0380",
+    "formattedAddress": "地 舖, 14號 Wan Fung St, Chuk Un, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3437242,
+      "longitude": 114.1980248
+    },
+    "rating": 2.3,
+    "googleMapsUri": "https://maps.google.com/?cid=3894392512654402123&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:30 – 20:30",
+        "星期二: 10:30 – 20:30",
+        "星期三: 10:30 – 20:30",
+        "星期四: 10:30 – 20:30",
+        "星期五: 10:30 – 20:30",
+        "星期六: 10:30 – 20:30",
+        "星期日: 10:30 – 20:30"
+      ],
+      "nextOpenTime": "2026-10-24T02:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 9,
+    "displayName": {
+      "text": "八福小廚",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJQQJZCekHBDQRS-K0XFupCzY/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2bXBiRDhRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "一餸飯33，二餸36 三餸44。跟例水，飲品加5蚊。\n有堂食 有電子付費方式。\n冷氣算夠。\n但價錢唔算平。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一餸飯33，二餸36 三餸44。跟例水，飲品加5蚊。\n有堂食 有電子付費方式。\n冷氣算夠。\n但價錢唔算平。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dennis LEUNG",
+          "uri": "https://www.google.com/maps/contrib/117458415567111193004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8-GittqC6kGrVpLscpRQ4HFrw2ysiojztqXuNhoRFmADHZkpg=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-12-10T05:13:05.258166Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2bXBiRDhRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2bXBiRDhRRRAB!2m1!1s0x340407e909590241:0x360ba95b5cb4e24b"
+      },
+      {
+        "name": "places/ChIJQQJZCekHBDQRS-K0XFupCzY/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3My1mbEdREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "見佢隔籬開咗間超人2餸飯加燒味店,估計有競爭會有進步唉！點知我今次係買淨2餸其一係西蘭花炒蝦仁算正常另一係卤水鹅店員話鹅要加錢我理解鵝係貴D,不知回家打開一看得五件鹅其中二件淨骨帶皮無肉咁我買淨二餸都咁如果二餸飯係咪比1件另加骨😤所以呢間二餸飯減價睇下捱得幾耐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "見佢隔籬開咗間超人2餸飯加燒味店,估計有競爭會有進步唉！點知我今次係買淨2餸其一係西蘭花炒蝦仁算正常另一係卤水鹅店員話鹅要加錢我理解鵝係貴D,不知回家打開一看得五件鹅其中二件淨骨帶皮無肉咁我買淨二餸都咁如果二餸飯係咪比1件另加骨😤所以呢間二餸飯減價睇下捱得幾耐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yukwong chan",
+          "uri": "https://www.google.com/maps/contrib/102830301098683189691/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIDM_HTTZEk7TceZGRzla_Z_xD5djZyUJ1MnXPVl4EhLwppdA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-03-22T09:26:50.171682Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3My1mbEdREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3My1mbEdREAE!2m1!1s0x340407e909590241:0x360ba95b5cb4e24b"
+      },
+      {
+        "name": "places/ChIJQQJZCekHBDQRS-K0XFupCzY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJeGJmTXFBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "好難食，真係好難食\n\n我未試過食淨咁多\n\n唔係苦，就係有怪味",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好難食，真係好難食\n\n我未試過食淨咁多\n\n唔係苦，就係有怪味",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rocky Ng",
+          "uri": "https://www.google.com/maps/contrib/107344190856025919147/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqQySj442RTmXlfqllaBVzR9fYoeaDFhlZejurUrEQwxQeAw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-04-03T13:00:22.860522Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJeGJmTXFBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJeGJmTXFBRRAB!2m1!1s0x340407e909590241:0x360ba95b5cb4e24b"
+      },
+      {
+        "name": "places/ChIJQQJZCekHBDQRS-K0XFupCzY/reviews/ChdDSUhNMG9nS0VJQ0FnSUREakphaTJRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "呢間野好唔惦,  我見佢賣兩餸飯 $35, 今日我試一試叫外賣食佢地, 我叫左雞脾同魚仔, 負責筆餸既人從來冇講雞脾要加5蚊, 後來收銀個女人話收$40, 我問點解會係40蚊, 後來入晒盒先至話雞脾要加錢, 我頂佢啦, 又唔一早講, 到佢地叫左先話呢個餸要加錢, 真係搵笨七, 又冇野飲送, 後來打開盒連斤都冇, 淨係得快子, 魚子只係得一條, 食過D肉又孩, 似係整左好耐, 佢地做生意係咪咁差呀, 根本都唔老實",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間野好唔惦,  我見佢賣兩餸飯 $35, 今日我試一試叫外賣食佢地, 我叫左雞脾同魚仔, 負責筆餸既人從來冇講雞脾要加5蚊, 後來收銀個女人話收$40, 我問點解會係40蚊, 後來入晒盒先至話雞脾要加錢, 我頂佢啦, 又唔一早講, 到佢地叫左先話呢個餸要加錢, 真係搵笨七, 又冇野飲送, 後來打開盒連斤都冇, 淨係得快子, 魚子只係得一條, 食過D肉又孩, 似係整左好耐, 佢地做生意係咪咁差呀, 根本都唔老實",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "chuen chan",
+          "uri": "https://www.google.com/maps/contrib/113223598543000508174/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIO37WVlcSFEtuyBVTdwXXWqZyY1T8Akw-mfzqjn6-ABWBX8w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-04-06T10:20:37.890329Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREakphaTJRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREakphaTJRRRAB!2m1!1s0x340407e909590241:0x360ba95b5cb4e24b"
+      },
+      {
+        "name": "places/ChIJQQJZCekHBDQRS-K0XFupCzY/reviews/ChdDSUhNMG9nS0VJQ0FnSURYdHVUMzh3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "服務態度很好，學生去好抵食，有兩餸飯有湯有飲品先38蚊，外賣暫時唔洗加錢，去過好耐好多次，店員好溫馨好有愛心，當時冇朋友就佢哋都算陪我食飯，冬季時去入面感覺暖過返屋企☺️😚店員仲好過屋企人\n外賣堂食都試過",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務態度很好，學生去好抵食，有兩餸飯有湯有飲品先38蚊，外賣暫時唔洗加錢，去過好耐好多次，店員好溫馨好有愛心，當時冇朋友就佢哋都算陪我食飯，冬季時去入面感覺暖過返屋企☺️😚店員仲好過屋企人\n外賣堂食都試過",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "藍雪花",
+          "uri": "https://www.google.com/maps/contrib/116208450191700382331/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIq161xMHR7GfCxyVtk1bnjh4c4gkUiSZ-xT7kS5Yvj-TvFtg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-10-27T04:05:35.410747Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYdHVUMzh3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYdHVUMzh3RRAB!2m1!1s0x340407e909590241:0x360ba95b5cb4e24b"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCoffee": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340407e909590241:0x360ba95b5cb4e24b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3894392512654402123&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407e909590241:0x360ba95b5cb4e24b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340407e909590241:0x360ba95b5cb4e24b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407e909590241:0x360ba95b5cb4e24b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJQQJZCekHBDQRS-K0XFupCzY/photos/Aa-ngMYfouF1DRqJq-sNelR8hSe616T9r4neQw7WDEkcApLVugDTNDWZ9b4Zj2gTYgqE4GUBX4Hxg1JgRbHwKyd3o4L2UdLTlkMDwKcO4LgzG-CTKNM6V-aL4Kb5r_qYcczpdocGSUUhHzwJm0rCXwAO7KiFgwU1zkjtndhm12dDDZmAI0DH8f0atBrxohj3mBwYY_TKYssRrdFw9hBV6G0AwX79Y0CbjCHlj4wQO9iK2ZTN2WnremNgXp-pd_A28E0gBa2ftxjk0C8_p0XIWuoYwgbWwUsJdmzPz-8ponrYtIjB9ZyS96Zn63p7oi1iRLmifICb9ymbg0maEcIBUu7_OevAcD_8Rz4bNnay6TQhs9jcNJTEo5iVpARFt_cElqJH7AW2WuDR9ShWnjE9SiXcIR8s3tw",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "Dennis LEUNG",
+          "uri": "https://maps.google.com/maps/contrib/117458415567111193004",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8-GittqC6kGrVpLscpRQ4HFrw2ysiojztqXuNhoRFmADHZkpg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICvmpGxMw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvmpGxMw!2e10!4m2!3m1!1s0x340407e909590241:0x360ba95b5cb4e24b"
+    },
+    "local_path": "photos/ChIJQQJZCekHBDQRS-K0XFupCzY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7TsF1HBR-c-N3DrdufSdlFNDfKHxQ3FoUdkpaCJLFZvhbJkY6hQ6oNWbToqEYjP2ntfoOic2DGrVNOQ_0JmCh2zmoVPsjyjBr_HLHoZ_SNP1N-cs4dXEbIQ5AYVFO9CMrd3pr=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 159693
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

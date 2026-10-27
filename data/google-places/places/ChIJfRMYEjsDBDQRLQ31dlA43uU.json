@@ -1,0 +1,355 @@
+{
+  "google_place_id": "ChIJfRMYEjsDBDQRLQ31dlA43uU",
+  "restaurant_ids": [
+    "restaurant:3198801893"
+  ],
+  "fetched_at": "2026-10-23T15:43:53.115126+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJfRMYEjsDBDQRLQ31dlA43uU",
+    "types": [
+      "western_restaurant",
+      "scandinavian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5172 9104",
+    "internationalPhoneNumber": "+852 5172 9104",
+    "formattedAddress": "香港新界將軍澳唐俊街28號Ocean Popwalk地鋪33號",
+    "location": {
+      "latitude": 22.3040004,
+      "longitude": 114.26040379999999
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=16563738397759573293&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 22:00",
+        "星期二: 10:00 – 22:00",
+        "星期三: 10:00 – 22:00",
+        "星期四: 10:00 – 22:00",
+        "星期五: 10:00 – 22:00",
+        "星期六: 10:00 – 16:00, 17:30 – 22:00",
+        "星期日: 10:00 – 16:00, 17:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 181,
+    "displayName": {
+      "text": "Hygge",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJfRMYEjsDBDQRLQ31dlA43uU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RelYzZFpUM0p6YkV0MlNHVXRSR0ZMTW1SUlpVRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "星期日5：30 入座，很慶幸提早晚飯，上菜快，食物很有驚喜，特別是pizza 🍕\n\n2 大1 小， 兩個主菜，2 個小食，$550 。離座時已經全場坐滿full house\n\n下次再試試甜品😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期日5：30 入座，很慶幸提早晚飯，上菜快，食物很有驚喜，特別是pizza 🍕\n\n2 大1 小， 兩個主菜，2 個小食，$550 。離座時已經全場坐滿full house\n\n下次再試試甜品😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Virgo Wong",
+          "uri": "https://www.google.com/maps/contrib/114784070554126862029/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOTIosEWoiSXOZWM343pDg9tz7a9vjHodODPNOOWf_c_l1-syG=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-10T01:20:55.793806605Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RelYzZFpUM0p6YkV0MlNHVXRSR0ZMTW1SUlpVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RelYzZFpUM0p6YkV0MlNHVXRSR0ZMTW1SUlpVRRAB!2m1!1s0x3404033b1218137d:0xe5de385076f50d2d"
+      },
+      {
+        "name": "places/ChIJfRMYEjsDBDQRLQ31dlA43uU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OMWRESnhWVXBaU21SUFdrcDZhMWxCY1VkUFUzYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 1,
+        "text": {
+          "text": "食物質素係唔錯，食過幾次都好食。不過係今次waiter服務態度奇奇怪怪。\n前菜mussels + main course叫左pizza同兩碟意粉。野飲就應該人手唔夠要續杯續杯上，4杯野飲main course最後一跌意粉都上埋先黎齊到最後一杯drink。\n之後食完野女waitress都好好主動幫我地收碟話上埋甜品。甜品就一早叫左，係我同朋友坐左好耐都味上到。差唔多9:36pm我望到水吧位有個甜品，水吧同事先叫男waiter上埋甜品。9:38pm 男waiter黎到準備倒個火焰落個crepe，朋友話想攞電話出黎影，個男waiter就唔太耐煩話：快少少呀真係趕收工\n？？？全部fd都呆曬？？？其實啊男waiter你趕收工真係唔需要同啲客講，你地野飲續杯上，甜品坐20分鐘先到，甜品食都味食你咁趕收工咁唔好上甜品呀嘛😂Google就寫住10點close，都味到搭9已經吹人話趕收工，態度真係👍🏻不過咁趕收工情況下甜品部都好好有幫我地寫字，所以應該得男waiter好趕收工，建議餐廳老闆早啲比佢放工番屋企休息🙏🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物質素係唔錯，食過幾次都好食。不過係今次waiter服務態度奇奇怪怪。\n前菜mussels + main course叫左pizza同兩碟意粉。野飲就應該人手唔夠要續杯續杯上，4杯野飲main course最後一跌意粉都上埋先黎齊到最後一杯drink。\n之後食完野女waitress都好好主動幫我地收碟話上埋甜品。甜品就一早叫左，係我同朋友坐左好耐都味上到。差唔多9:36pm我望到水吧位有個甜品，水吧同事先叫男waiter上埋甜品。9:38pm 男waiter黎到準備倒個火焰落個crepe，朋友話想攞電話出黎影，個男waiter就唔太耐煩話：快少少呀真係趕收工\n？？？全部fd都呆曬？？？其實啊男waiter你趕收工真係唔需要同啲客講，你地野飲續杯上，甜品坐20分鐘先到，甜品食都味食你咁趕收工咁唔好上甜品呀嘛😂Google就寫住10點close，都味到搭9已經吹人話趕收工，態度真係👍🏻不過咁趕收工情況下甜品部都好好有幫我地寫字，所以應該得男waiter好趕收工，建議餐廳老闆早啲比佢放工番屋企休息🙏🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tiffany Lau",
+          "uri": "https://www.google.com/maps/contrib/104530880840717055801/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJIglpk7ptyP-SlqRNOLDQx_HTKaMv8bkw-aanCOc7bmg8KJg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-04-26T17:25:22.967984241Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OMWRESnhWVXBaU21SUFdrcDZhMWxCY1VkUFUzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OMWRESnhWVXBaU21SUFdrcDZhMWxCY1VkUFUzYxAB!2m1!1s0x3404033b1218137d:0xe5de385076f50d2d"
+      },
+      {
+        "name": "places/ChIJfRMYEjsDBDQRLQ31dlA43uU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVMlZYSlNObU56TUhsdlFVRkdYMHhXZWpGM2VXYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 1,
+        "text": {
+          "text": "食物的味道是可以的，但店舖一位年輕女服務員的服務態度就不可恭維了。\n\n我們3人訂了11點的位置，知道pizza 12點才供應，我們11點多的時候，下單了兩款食物，順便問可否在12時下單pizza，她冷冰冰地說我們的用餐時間是12:30，我們不會夠時間食，拒絕了我們，並催促我們下單第三款食物，已達致他們的最低消費。\n\n雖然聽見廚房如火如荼的煮食聲，如果真的不能提供Pizza我們也理解，但我們在12點時，看見他們serve後面的外國客人pizza。實在不能理解他們的差別待遇。\n\n然後在12:30時，我們還未食完，同一位年輕女侍應便一再催促我們要交還座位，即使我們隔離有很多空位。\n\n如果沒有心做生意，就不要做了。\n很久沒有遇到如此離譜的服務態度。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物的味道是可以的，但店舖一位年輕女服務員的服務態度就不可恭維了。\n\n我們3人訂了11點的位置，知道pizza 12點才供應，我們11點多的時候，下單了兩款食物，順便問可否在12時下單pizza，她冷冰冰地說我們的用餐時間是12:30，我們不會夠時間食，拒絕了我們，並催促我們下單第三款食物，已達致他們的最低消費。\n\n雖然聽見廚房如火如荼的煮食聲，如果真的不能提供Pizza我們也理解，但我們在12點時，看見他們serve後面的外國客人pizza。實在不能理解他們的差別待遇。\n\n然後在12:30時，我們還未食完，同一位年輕女侍應便一再催促我們要交還座位，即使我們隔離有很多空位。\n\n如果沒有心做生意，就不要做了。\n很久沒有遇到如此離譜的服務態度。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cream",
+          "uri": "https://www.google.com/maps/contrib/101518081718633083906/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaKhblxAPdpDr7D-L_DNVKBdrSE1dBtJBYaj0LfiZqf7t1sOQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-22T11:52:19.880471681Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tVMlZYSlNObU56TUhsdlFVRkdYMHhXZWpGM2VXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVMlZYSlNObU56TUhsdlFVRkdYMHhXZWpGM2VXYxAB!2m1!1s0x3404033b1218137d:0xe5de385076f50d2d"
+      },
+      {
+        "name": "places/ChIJfRMYEjsDBDQRLQ31dlA43uU/reviews/ChdDSUhNMG9nS0VPQ0F1b2JPdUtqOWhnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "將軍澳必食西餐廳 🍝  海天晉滙北歐風\n\n✨️今次推薦一間位於將軍澳海天晉滙的北歐風格的西式餐廳。雖然他們餐廳的位置不算太多，建議先預約留位避免冇位。\n\n✨️我要推薦大家必食的意粉就是蟹肉三文魚籽藏紅花意粉$228, 我食了兩次，兩次都係煮得好好食，個醬同三文魚籽好夾到😆海鮮水管麵也不錯，海鮮料又足😍水管麵大大舊幾特別。\n\n✨️他們的薄餅是即叫即製作，熱辣辣送上枱，今次我地食意式風乾豬臉頰薄餅，非常鬆軟，又卜卜脆，少少焦但可以接受範圍內，上面有火箭菜，健康又好益，好香芝士味，一個簿餅有六件，二或三人也夠食啦。\n\n✨️甜品方面非常建議大家吃朱古力可麗餅。他們的製作方法是把一粒一粒的朱古力碎和朱古力醬，再配合埋即叫即做的可麗餅，非常熱辣辣，好食。\n\n✨️最後餐廳用餐時間設定了90分鐘，但是超時也不會趕人走😆有時邊食邊傾計，唔覺唔覺又夠鐘",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "將軍澳必食西餐廳 🍝  海天晉滙北歐風\n\n✨️今次推薦一間位於將軍澳海天晉滙的北歐風格的西式餐廳。雖然他們餐廳的位置不算太多，建議先預約留位避免冇位。\n\n✨️我要推薦大家必食的意粉就是蟹肉三文魚籽藏紅花意粉$228, 我食了兩次，兩次都係煮得好好食，個醬同三文魚籽好夾到😆海鮮水管麵也不錯，海鮮料又足😍水管麵大大舊幾特別。\n\n✨️他們的薄餅是即叫即製作，熱辣辣送上枱，今次我地食意式風乾豬臉頰薄餅，非常鬆軟，又卜卜脆，少少焦但可以接受範圍內，上面有火箭菜，健康又好益，好香芝士味，一個簿餅有六件，二或三人也夠食啦。\n\n✨️甜品方面非常建議大家吃朱古力可麗餅。他們的製作方法是把一粒一粒的朱古力碎和朱古力醬，再配合埋即叫即做的可麗餅，非常熱辣辣，好食。\n\n✨️最後餐廳用餐時間設定了90分鐘，但是超時也不會趕人走😆有時邊食邊傾計，唔覺唔覺又夠鐘",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cheuk Hei Lo (積仔記吃喝玩樂旅遊達人)",
+          "uri": "https://www.google.com/maps/contrib/111404325020172136924/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKWw8l608Vv2SDz4SQhzyL5VuXrzfv9cQb72oK3mw9A3xHbOW0=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-06-12T02:31:16.579449Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VPQ0F1b2JPdUtqOWhnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPQ0F1b2JPdUtqOWhnRRAB!2m1!1s0x3404033b1218137d:0xe5de385076f50d2d"
+      },
+      {
+        "name": "places/ChIJfRMYEjsDBDQRLQ31dlA43uU/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cjdlekFREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "這次來到 Hygge 用餐是一個非常愉快的體驗，從踏入餐廳的第一刻起就讓人感受到滿滿的溫暖與用心。店內裝潢走北歐風格，木質元素搭配柔和燈光，整體氛圍非常舒適，令人放鬆，真的很符合「Hygge」這個名字所代表的那份寧靜與愜意。\n\n食物方面，菜式選擇豐富，每一道都展現出廚師對食材的用心與創意。無論是前菜、主菜還是甜點，賣相精緻、味道出色。尤其是我們點的[可填寫你喜歡的菜名]，味道層次分明，令人回味無窮，完全感受到高水準的廚藝。食材新鮮、火候控制得宜，而且份量剛好，不會過多也不會過少，非常平衡。\n\n服務方面也值得一讚，店員態度親切、反應快速，能夠耐心地解答我們的問題並提供餐點建議，讓人感受到賓至如歸的體貼。整個用餐過程中，服務人員會不時留意客人需要但又不會打擾，這種細緻而不打擾的服務方式，令整體體驗大大加分。\n\n氣氛更是這裡的加分位，在輕音樂與舒適燈光的陪襯下，無論是與朋友聚會、情侶約會或一人獨自放空，都非常適合。餐廳空間不會太擁擠，每張桌子之間保持良好的距離，給予足夠的私隱空間。\n\n整體來說，Hygge 是一間值得再訪的高質餐廳，從環境、食物到服務，每一方面都做到恰到好處。誠意推薦給每一位追求質感生活與美食享受的朋友！\n\n#Hygge #五星餐廳 #將軍澳美食 #北歐風餐廳 #放鬆好地方 #高質晚餐 #美食推薦 #餐廳好評 #好氣氛 #值得再訪",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這次來到 Hygge 用餐是一個非常愉快的體驗，從踏入餐廳的第一刻起就讓人感受到滿滿的溫暖與用心。店內裝潢走北歐風格，木質元素搭配柔和燈光，整體氛圍非常舒適，令人放鬆，真的很符合「Hygge」這個名字所代表的那份寧靜與愜意。\n\n食物方面，菜式選擇豐富，每一道都展現出廚師對食材的用心與創意。無論是前菜、主菜還是甜點，賣相精緻、味道出色。尤其是我們點的[可填寫你喜歡的菜名]，味道層次分明，令人回味無窮，完全感受到高水準的廚藝。食材新鮮、火候控制得宜，而且份量剛好，不會過多也不會過少，非常平衡。\n\n服務方面也值得一讚，店員態度親切、反應快速，能夠耐心地解答我們的問題並提供餐點建議，讓人感受到賓至如歸的體貼。整個用餐過程中，服務人員會不時留意客人需要但又不會打擾，這種細緻而不打擾的服務方式，令整體體驗大大加分。\n\n氣氛更是這裡的加分位，在輕音樂與舒適燈光的陪襯下，無論是與朋友聚會、情侶約會或一人獨自放空，都非常適合。餐廳空間不會太擁擠，每張桌子之間保持良好的距離，給予足夠的私隱空間。\n\n整體來說，Hygge 是一間值得再訪的高質餐廳，從環境、食物到服務，每一方面都做到恰到好處。誠意推薦給每一位追求質感生活與美食享受的朋友！\n\n#Hygge #五星餐廳 #將軍澳美食 #北歐風餐廳 #放鬆好地方 #高質晚餐 #美食推薦 #餐廳好評 #好氣氛 #值得再訪",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "孤獨的美食家",
+          "uri": "https://www.google.com/maps/contrib/109325995288272821291/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJfQMbcvfDWVyD2ajK7E7AEJrUhD_UMZzpwP41WkCXufGbJu3_Vw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-03-22T05:16:10.323299Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3cjdlekFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3cjdlekFREAE!2m1!1s0x3404033b1218137d:0xe5de385076f50d2d"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "paidGarageParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404033b1218137d:0xe5de385076f50d2d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16563738397759573293&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404033b1218137d:0xe5de385076f50d2d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404033b1218137d:0xe5de385076f50d2d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404033b1218137d:0xe5de385076f50d2d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJfRMYEjsDBDQRLQ31dlA43uU/photos/Aa-ngMZ4j2JmKuN04P7nflUbDbNFxQ9D3131oRM3INpuh3vUlq1DJN4kI3yun6zXUt5v5zE1GhfBaOUv4_TvjhANdXhLwz2CPRNQcsrBGDGaEHHJw2ZqPBj0wSXNTS6ui3S0oCU3ateOzIaEZlMHGy4g0-MjqLk5jnPDn552WpHp26w2ivG0uS0lGWQDkmHh6rb-4Z_84IMvvtwQ2RAZBuyc8sgQ_nReTpYxDHN0SfA-e4g6EyELw9oavouNaviM4T3Wl61PUph3vkL02j_YuPOEpoz1KINFXFKroFRiysFcmQEbyVDEzNVqgX-vI3Acl3uZHcnfvYV2Z3IHNP7v5LEnUVH3AN7oMHqzWSI_UASPCY2d25icnnAiJwjFpW65NkPQyzHoiILwlI3jWNZMVXJyXEUPjA",
+      "widthPx": 820,
+      "heightPx": 1022,
+      "authorAttributions": [
+        {
+          "displayName": "Hygge",
+          "uri": "https://maps.google.com/maps/contrib/106841234032323848230",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKLlj3vBuE0kKyGzxYw9m3JsyKTDMnwZSoqVIxJiROFOEjGiQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICmx_DBRQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmx_DBRQ!2e10!4m2!3m1!1s0x3404033b1218137d:0xe5de385076f50d2d"
+    },
+    "local_path": "photos/ChIJfRMYEjsDBDQRLQ31dlA43uU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO_mWQg4rdhC4LOZW4W7BRTJ5MDOBbSTjVlm_JftcLDlBkq5v5crXWQPkt6eoA2TQQ8tssLaYQrHeoO1-RQ_O1XtankTmvRIsZOlQGX2dALp5pfMGN_hcoA0RqDe2WRpnb3tc=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 163211
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "scandinavian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

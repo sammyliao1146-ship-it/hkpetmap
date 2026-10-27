@@ -1,0 +1,336 @@
+{
+  "google_place_id": "ChIJ8eRtEEsBBDQRQgCf7tqPAUs",
+  "restaurant_ids": [
+    "restaurant:3118811827"
+  ],
+  "fetched_at": "2026-10-23T15:37:39.215964+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ8eRtEEsBBDQRQgCf7tqPAUs",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5208 1299",
+    "internationalPhoneNumber": "+852 5208 1299",
+    "formattedAddress": "香港香港島山頂山頂道128號凌霄閣G17號舖",
+    "location": {
+      "latitude": 22.271263599999997,
+      "longitude": 114.1496628
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=5404759198290346050&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://arabica.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 19:00",
+        "星期二: 08:00 – 19:00",
+        "星期三: 08:00 – 19:00",
+        "星期四: 08:00 – 19:00",
+        "星期五: 08:00 – 21:00",
+        "星期六: 08:00 – 21:00",
+        "星期日: 08:00 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 109,
+    "displayName": {
+      "text": "% Arabica (山頂)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJ8eRtEEsBBDQRQgCf7tqPAUs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poTVduUldaR3RNWldFM1FWTkNNbEU0T1ZOV1MwRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "搭山頂纜車到太平山頂才發現有%Arabica, 最後決定想喝, 不是因為口渴,也不是因為這家咖啡特別好喝, 而是跟同行夥伴一起喝過日本、泰國、台灣的分店，突然看到香港也有,就來蒐集的概念, 變成旅行的小小儀式感",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "搭山頂纜車到太平山頂才發現有%Arabica, 最後決定想喝, 不是因為口渴,也不是因為這家咖啡特別好喝, 而是跟同行夥伴一起喝過日本、泰國、台灣的分店，突然看到香港也有,就來蒐集的概念, 變成旅行的小小儀式感",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Leo",
+          "uri": "https://www.google.com/maps/contrib/108428834698250198146/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDVYUfUkpPpFsrweIMk8R5uJxStglG14PkF7-V9X1NAF8ya-rZ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-01-30T08:14:18.258896960Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poTVduUldaR3RNWldFM1FWTkNNbEU0T1ZOV1MwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poTVduUldaR3RNWldFM1FWTkNNbEU0T1ZOV1MwRRAB!2m1!1s0x3404014b106de4f1:0x4b018fdaee9f0042"
+      },
+      {
+        "name": "places/ChIJ8eRtEEsBBDQRQgCf7tqPAUs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GaFNFZzJSVWxPWlZob2FGOVBlSFpaYVc4d1ZYYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 1,
+        "text": {
+          "text": "$52 for this iced latte . I think it’s unfair price for me . 杯子好小，這根本不值得$52 .主要是店員給我的時候，完全沒有說過話，還只是揮手叫我過來，全憑個人感覺。第二，這本Iced latte 還不是滿的，我以為店員是找到一個完美的比例才故意弄成八分滿吧，但是我一喝下去，咖啡好苦😅，這跟我對% Arabica 咖啡的印象差遠了⋯⋯不好喝但沒有什麼特別。還不如去Starbucks / 7-11 買好了。其三，店置於山頂這麼有特色的地方，大家都是去玩的，我真心希望店員有多點熱情跟對客人有應該的基本服務態度，客人花錢了感覺給自己找了個仇人似的，真掃興。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "$52 for this iced latte . I think it’s unfair price for me . 杯子好小，這根本不值得$52 .主要是店員給我的時候，完全沒有說過話，還只是揮手叫我過來，全憑個人感覺。第二，這本Iced latte 還不是滿的，我以為店員是找到一個完美的比例才故意弄成八分滿吧，但是我一喝下去，咖啡好苦😅，這跟我對% Arabica 咖啡的印象差遠了⋯⋯不好喝但沒有什麼特別。還不如去Starbucks / 7-11 買好了。其三，店置於山頂這麼有特色的地方，大家都是去玩的，我真心希望店員有多點熱情跟對客人有應該的基本服務態度，客人花錢了感覺給自己找了個仇人似的，真掃興。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nigiri Oyo",
+          "uri": "https://www.google.com/maps/contrib/111753370112937944318/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwKW_exGo0bXwThJQ1prBp0deWFtHALl1MtMd-Nh8Fo-turQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-03T15:53:08.861916559Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GaFNFZzJSVWxPWlZob2FGOVBlSFpaYVc4d1ZYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GaFNFZzJSVWxPWlZob2FGOVBlSFpaYVc4d1ZYYxAB!2m1!1s0x3404014b106de4f1:0x4b018fdaee9f0042"
+      },
+      {
+        "name": "places/ChIJ8eRtEEsBBDQRQgCf7tqPAUs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRa1pDNXRBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "Kyoto Latte最好喝 淡淡的甜味 奶香跟咖啡味也很夠",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Kyoto Latte最好喝 淡淡的甜味 奶香跟咖啡味也很夠",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "施克唯",
+          "uri": "https://www.google.com/maps/contrib/106566318166321168607/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxi2kixVeSxBsvt_1cyVz_l33g0J9Xm3iGzT9QA7wd6J2Xmz_rWA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-03-05T02:07:26.190440Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRa1pDNXRBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRa1pDNXRBRRAB!2m1!1s0x3404014b106de4f1:0x4b018fdaee9f0042"
+      },
+      {
+        "name": "places/ChIJ8eRtEEsBBDQRQgCf7tqPAUs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBZzhQR3F3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "裝潢簡單，部份靠窗的位置景色較佳。咖啡沒有太多花巧的選擇，但勝在水準穩定，適合休憩的地方。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "裝潢簡單，部份靠窗的位置景色較佳。咖啡沒有太多花巧的選擇，但勝在水準穩定，適合休憩的地方。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charles C",
+          "uri": "https://www.google.com/maps/contrib/113126072366468720904/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAvFwGPFJRm67AhGjIVVXx-301rR3C9KOFirnwBGOhA80iPA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-02-03T16:53:01.381309Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBZzhQR3F3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBZzhQR3F3RRAB!2m1!1s0x3404014b106de4f1:0x4b018fdaee9f0042"
+      },
+      {
+        "name": "places/ChIJ8eRtEEsBBDQRQgCf7tqPAUs/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3NHIzdEtBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "3/17下午過去.因為只喝過%這品牌一次.忘記當初咖啡品名，詢問咖啡問題.店員回答的很酸言酸語.請我去星巴客買…當下沒其他客人.不知為何要如此.態度跟口氣很糟糕.另人有不好經驗.當下也不想消費了！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "3/17下午過去.因為只喝過%這品牌一次.忘記當初咖啡品名，詢問咖啡問題.店員回答的很酸言酸語.請我去星巴客買…當下沒其他客人.不知為何要如此.態度跟口氣很糟糕.另人有不好經驗.當下也不想消費了！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Q.u",
+          "uri": "https://www.google.com/maps/contrib/102984722936716172136/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJDldJEKUbpAf9mLAd9lP2ELp_7i62fkfWV_sfeNXcuZ2YidQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-03-17T16:13:20.593626Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3NHIzdEtBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3NHIzdEtBEAE!2m1!1s0x3404014b106de4f1:0x4b018fdaee9f0042"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": false,
+      "paidParkingLot": true,
+      "freeStreetParking": false,
+      "paidStreetParking": false,
+      "freeGarageParking": false,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleRestroom": false,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404014b106de4f1:0x4b018fdaee9f0042!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5404759198290346050&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014b106de4f1:0x4b018fdaee9f0042!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404014b106de4f1:0x4b018fdaee9f0042!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014b106de4f1:0x4b018fdaee9f0042!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ8eRtEEsBBDQRQgCf7tqPAUs/photos/Aa-ngMbZ7tbZwUrgrmoOhsuMfzo5abwvyV3IuapWfKq4xWU6HQuolLGnwPZh7tPEpVXWAsmzgGsj0TpnSsQ-h2kJQ6Ge9JnrJ8Lz1LbWBirSmgEdi9dtlCT8a_0hHB_ppMrGHecAWiAEBzziPZE07vFEvduJDtQ5E9drhsS8dxpbP08w_gWdb5CcbiqoaqnKB65kGDniGnYsa2tLPpJRvjrJWfd5za2btk9K0fSCj3-ZILqPEr6Liv29suu4z-pvMbzDjP6U0QAyNiANHsnaHrFsbM5K2MBRIQkyTUBYLtFS8ZpmnNUvra5H_5p_s0ycZ08gM5bhTGQemBfDgRKdlSWWuA4X640-bhKNCSTRDeaY-ayiA5U6qtWmCqc2ALhbGTqOeoXexKxPhTmeUHKOdsplX7VHNw31wLA",
+      "widthPx": 1600,
+      "heightPx": 900,
+      "authorAttributions": [
+        {
+          "displayName": "% Arabica (山頂)",
+          "uri": "https://maps.google.com/maps/contrib/103509281515990130709",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLJyKoXAjkQoUYD6I_cmXhf_i_7DA5_tJn5lOzRy1Gle8cjSw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDr0ZWsygE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr0ZWsygE!2e10!4m2!3m1!1s0x3404014b106de4f1:0x4b018fdaee9f0042"
+    },
+    "local_path": "photos/ChIJ8eRtEEsBBDQRQgCf7tqPAUs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZCeupnjkp8rtk8sCsd1w-S8Yj9DTdn3EQG_YW1PmTKRVLGM2uCEiLt17rguKThPGyk-ttjv6zO0kUVkQNCbl_H_wV4zVf3llF581y6cXqqrXqt1mfVabTgapMThk5yljmSnyopw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 87074
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ConnectError"
+  },
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

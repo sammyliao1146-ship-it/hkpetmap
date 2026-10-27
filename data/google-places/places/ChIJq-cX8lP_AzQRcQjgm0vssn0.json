@@ -1,0 +1,312 @@
+{
+  "google_place_id": "ChIJq-cX8lP_AzQRcQjgm0vssn0",
+  "restaurant_ids": [
+    "restaurant:3118808678"
+  ],
+  "fetched_at": "2026-10-23T15:43:33.061873+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJq-cX8lP_AzQRcQjgm0vssn0",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2896 6683",
+    "internationalPhoneNumber": "+852 2896 6683",
+    "formattedAddress": "香港香港島西營盤高街99號瑞華閣B 地下對面",
+    "location": {
+      "latitude": 22.2852803,
+      "longitude": 114.1404032
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=9057561610077341809&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/hashtagcoffeehk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 16:00",
+        "星期二: 休息",
+        "星期三: 08:00 – 16:00",
+        "星期四: 08:00 – 16:00",
+        "星期五: 08:00 – 16:00",
+        "星期六: 09:00 – 17:00",
+        "星期日: 09:00 – 17:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 249,
+    "displayName": {
+      "text": "Hashtag Coffee",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJq-cX8lP_AzQRcQjgm0vssn0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGUFVYWlVlWEF5VlVsTE1VaHFla0ZWVGtaS1owRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "最美的拉花而且好好味～\n每次去都有新的拉花～ 就像是藝術品～\n食物亦很美味～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最美的拉花而且好好味～\n每次去都有新的拉花～ 就像是藝術品～\n食物亦很美味～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "MeiMei Au",
+          "uri": "https://www.google.com/maps/contrib/102485218219248373660/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDj6lo4i-BeAdtvYLDZDoVmlu9OFUIAGEbAo-5mjLZ4fT2lg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-30T15:54:04.976402760Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGUFVYWlVlWEF5VlVsTE1VaHFla0ZWVGtaS1owRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGUFVYWlVlWEF5VlVsTE1VaHFla0ZWVGtaS1owRRAB!2m1!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871"
+      },
+      {
+        "name": "places/ChIJq-cX8lP_AzQRcQjgm0vssn0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkUlIwNWthRFY1ZUVwNU5tdG5kbmd6YkdGcFZYYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "拉花真的一模一樣了很厲害！滿滿的情緒價值了！也好喝~蛋糕也好吃😋這次拉的星星人好喜歡😍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "拉花真的一模一樣了很厲害！滿滿的情緒價值了！也好喝~蛋糕也好吃😋這次拉的星星人好喜歡😍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "so wai sze",
+          "uri": "https://www.google.com/maps/contrib/110964106918219846013/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoqg7V9ew_pf4BgFfSRCad0fOnwGIK6FdULjVxE1_Zao_5UQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-04T13:23:14.353086966Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkUlIwNWthRFY1ZUVwNU5tdG5kbmd6YkdGcFZYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkUlIwNWthRFY1ZUVwNU5tdG5kbmd6YkdGcFZYYxAB!2m1!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871"
+      },
+      {
+        "name": "places/ChIJq-cX8lP_AzQRcQjgm0vssn0/reviews/ChdDSUhNMG9nS0VJQ0FnSURlaVpuRjBnRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "位於高街的一間啊cafe，店面不大，但裝修和裝飾都很花心思，最顯眼是店裡的咖啡師在近年的latte拉花比賽奪冠的佳績，讓人不其然要點杯咖啡來chill一下\n\n午餐時段雖然沒有主食如pasta，但有bakery，我點了Hashtag sesame salmon wrap，包得好美，餡料十足，啖啖煙三文魚，又有醬汁，原來都好飽，朋友點的avocado bagel也是漂漂亮亮的，圓圓的bagel好可愛！飲品點了Caramel macchiato和Matcha latte，分別有超美麗的小鳥和少女的拉花！太美了，幾乎捨不得飲，很驚喜的午餐。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於高街的一間啊cafe，店面不大，但裝修和裝飾都很花心思，最顯眼是店裡的咖啡師在近年的latte拉花比賽奪冠的佳績，讓人不其然要點杯咖啡來chill一下\n\n午餐時段雖然沒有主食如pasta，但有bakery，我點了Hashtag sesame salmon wrap，包得好美，餡料十足，啖啖煙三文魚，又有醬汁，原來都好飽，朋友點的avocado bagel也是漂漂亮亮的，圓圓的bagel好可愛！飲品點了Caramel macchiato和Matcha latte，分別有超美麗的小鳥和少女的拉花！太美了，幾乎捨不得飲，很驚喜的午餐。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kelly Chan",
+          "uri": "https://www.google.com/maps/contrib/110957800684420910728/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8ls8q5W12ZjknPFkzccjIkUNedKpPCny3XLHrh0Zt33MgdhFVrA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-10-13T09:31:22.017470Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURlaVpuRjBnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURlaVpuRjBnRRAB!2m1!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871"
+      },
+      {
+        "name": "places/ChIJq-cX8lP_AzQRcQjgm0vssn0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoamJVWlNZVGhhVDNwcVNHWnlZM2gzYnpoRGVFRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "優質咖啡店 老闆1腳踢 咖啡好飲 有心拉花 次次都有驚喜",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "優質咖啡店 老闆1腳踢 咖啡好飲 有心拉花 次次都有驚喜",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eddie Chan",
+          "uri": "https://www.google.com/maps/contrib/107380619191391819465/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJfhFLB9T-LfgS23G_ALom0qM7kRW0IEesVDcCSFE_CTi0pXQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-04T01:30:35.447655938Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoamJVWlNZVGhhVDNwcVNHWnlZM2gzYnpoRGVFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoamJVWlNZVGhhVDNwcVNHWnlZM2gzYnpoRGVFRRAB!2m1!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871"
+      },
+      {
+        "name": "places/ChIJq-cX8lP_AzQRcQjgm0vssn0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNROFBIOXJBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "推介-THAI YEUNG 泰式鴛鴦-！（私心真喜歡茶啡組合，仲要係有加煉奶嘅鴦走😽）\n\n覺得為一睹那厲害拉花去一趟也值得～\n\nUpdate:\n回去了！拉花依舊出色，今次係雀🦚",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "推介-THAI YEUNG 泰式鴛鴦-！（私心真喜歡茶啡組合，仲要係有加煉奶嘅鴦走😽）\n\n覺得為一睹那厲害拉花去一趟也值得～\n\nUpdate:\n回去了！拉花依舊出色，今次係雀🦚",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "toiletpaperkiu",
+          "uri": "https://www.google.com/maps/contrib/111117149121981516408/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYwmkIV93Xs19OC2c7Mo_2asWVogIHB4KkiuQz9gvA5eVkKDU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-05-22T11:07:44.517544Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNROFBIOXJBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNROFBIOXJBRRAB!2m1!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": false,
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9057561610077341809&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJq-cX8lP_AzQRcQjgm0vssn0/photos/Aa-ngMauL8dCbzydLCoMtch0PUeOIYA72VpYsoBkTFZLyutu9dX4ddk3oCvBYe2mtmnjdZqPsc69a12_A-UmBxfWweGzXxuR_7qyS1DJLPQ7U_rGs17jhiDuFvKUAtRiKM4gZtRDTScx8mp2Jx9Z02O3MYVZsYueov0bA0QRsaJeO6lAPTNLUNUnaG8HW7RiDCTuGfn0IgyaAy1Qaz5nrg4GIOhSCGXPw5al-IitLz4PfPCuUatm-a4dt1NUJ11_zuA4TnjIbx4Bg8C0xYM3V_5wyV11ollz0OV4O0P7Raglj7--jTB1IXKopfgIju071LgB4IZCjI1SkFGNIL6wqzF9_63oqq9Y1vfifVzY7dJDx0a1yffRx_BO3Sq7iFdClYGPkQiikjblJtf43yCu-oeZ9s5lVkvV",
+      "widthPx": 2373,
+      "heightPx": 3581,
+      "authorAttributions": [
+        {
+          "displayName": "Hashtag Coffee",
+          "uri": "https://maps.google.com/maps/contrib/115037475435898563494",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYSXD7tPGQfdCuok3TBIOb6Yd5lCbYnhkqMiBSdDq3dhoeZAFD=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6l6iAmQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6l6iAmQE!2e10!4m2!3m1!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871"
+    },
+    "local_path": "photos/ChIJq-cX8lP_AzQRcQjgm0vssn0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEorYtrLuaU-EvV7_Tv5LUxEIHsk3IKcf-5T5D_sgpWrVmlpbuF3Vu81tu0Ztvsu300TA5IUekbAj8r6_4JgrN_l28MvsOk0fzOovXx6Sjw_hFLzpF-y_Q8_dIYCj1UknpDnPM=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 276564
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

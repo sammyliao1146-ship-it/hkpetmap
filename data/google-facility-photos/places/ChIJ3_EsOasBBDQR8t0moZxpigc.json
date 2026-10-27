@@ -1,0 +1,40 @@
+{
+  "id": "ChIJ3_EsOasBBDQR8t0moZxpigc",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島大坑浣紗街1-5號浣紗閣",
+  "location": {
+    "latitude": 22.2792752,
+    "longitude": 114.1925516
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=543362826491059698&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "大坑動物診所",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJ3_EsOasBBDQR8t0moZxpigc/photos/Aa-ngMYviVsqwY3EC7x3HaVMuJng4S-xXxpIvQSPtYI33TrZeLeUhBnqBdhHrAUIPnNVFRawrOhw5U06syralZfuVD56HZVcn3_G85zdKtk4JNgJ3gB4Zss2TGEtum4GVvTMxsYI4p9Ec9e6S_cTWtZQ9Emj5aNXUoRRnTHrJkdZa9UsDqM3WElkPFIMy6O2vDgivigs_gXee3t32BFDCpStvsTjlVo0cTexOZ2-KlxG4uBlWsup9AehYD3olH2Ui5BFnAex1gMZqwFy7d3Ic9U36UblXEBOXnUu7a5RY5OBISE-lwV08SvtuUDiqiIUHvY-7rN4D7VuMp_H-JdbWq7SavAojAqFY779wQoI7gW_q1suQgjW9I8Q2L6ogn9jTN1YH9k4V1UmdQmz6fRv_tiyeqPVtWw7efw",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Sally Wong",
+          "uri": "https://maps.google.com/maps/contrib/107787256475953442443",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIStrQ81jnoTywdcdBvTsnU3qkIrTtXeRczHwJdwFnOJohjeA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID43MWx6gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID43MWx6gE!2e10!4m2!3m1!1s0x340401ab392cf1df:0x78a699ca126ddf2"
+    }
+  ],
+  "photo_count": 5,
+  "fetched_at": "2026-10-24T00:38:31.355889+00:00"
+}

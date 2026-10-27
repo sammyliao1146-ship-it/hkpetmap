@@ -1,0 +1,336 @@
+{
+  "google_place_id": "ChIJORQBWkcBBDQReS6U_BOp0Vw",
+  "restaurant_ids": [
+    "restaurant:3112808861"
+  ],
+  "fetched_at": "2026-10-23T15:40:56.632974+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJORQBWkcBBDQReS6U_BOp0Vw",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6016 2765",
+    "internationalPhoneNumber": "+852 6016 2765",
+    "formattedAddress": "香港香港島灣仔聖佛蘭士街15號",
+    "location": {
+      "latitude": 22.2760081,
+      "longitude": 114.1691362
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=6688312824928939641&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://instagram.com/bluebottlecoffeehongkong",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 19:00",
+        "星期二: 08:00 – 19:00",
+        "星期三: 08:00 – 19:00",
+        "星期四: 08:00 – 19:00",
+        "星期五: 08:00 – 19:00",
+        "星期六: 09:00 – 19:00",
+        "星期日: 09:00 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 399,
+    "displayName": {
+      "text": "藍瓶咖啡 (灣仔)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "editorialSummary": {
+      "text": "時尚連鎖咖啡廳，供應高級咖啡與高點，另販售咖啡豆與沖泡設備。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJORQBWkcBBDQReS6U_BOp0Vw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pneFZWVnJUR2x2YTNoTVJHUkpiMlJaWTBkdWNXYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "自從在東京的清澄白河與藍瓶闊別多年後，終於在香江又重逢⋯\n\n能夠在不同的城市體驗到不變的回憶，真的很令人感動😌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "自從在東京的清澄白河與藍瓶闊別多年後，終於在香江又重逢⋯\n\n能夠在不同的城市體驗到不變的回憶，真的很令人感動😌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YI TA WU",
+          "uri": "https://www.google.com/maps/contrib/109336491662094834209/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWD_tAGyJs5WR6Nbtr_qKOubrqZNNhX2hino1shYXxWWNJZ5LQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-15T06:33:54.380591465Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pneFZWVnJUR2x2YTNoTVJHUkpiMlJaWTBkdWNXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pneFZWVnJUR2x2YTNoTVJHUkpiMlJaWTBkdWNXYxAB!2m1!1s0x340401475a011439:0x5cd1a913fc942e79"
+      },
+      {
+        "name": "places/ChIJORQBWkcBBDQReS6U_BOp0Vw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2podlNrSjRhWFpXWW1oWExYUlpTRzkxY25JeFdsRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "星期一下午三點半到達Blue Bottle Coffee灣仔店，店內二樓和三樓有很多空位，我直接選了一個靠窗的位置坐下。點了一杯cappuccino，邊喝咖啡邊悠閒地處理工作。環境不錯，咖啡的味道也很棒，但整體體驗有幾點值得分享：\n\n1. 自取咖啡不便：點單必須親自在一樓完成，然後需要自己將咖啡帶上二樓或三樓。他們不提供送咖啡服務，而樓梯比較陡峭，端著咖啡上下樓梯並不方便。\n\n2. 沒有Wi-Fi服務：店內不提供Wi-Fi，相比其他咖啡店，這一點顯得有些落後，對需要用電腦辦公的人來說不太友好。\n\n3. 洗手間細節不足：洗手間裡的洗手液，無論是掛牆的還是放在洗手盆旁的，竟然都是空的，給人一種細節不到位的感覺。\n\n雖然咖啡和環境都不錯，但種種細節上的不足，讓我覺得這家店並不值得特意去朝聖。適合附近的上班族或住戶隨意來坐坐，但如果你期待從服務到設施都很完善的體驗，可能會有點失望。\n\n總評：\n咖啡好飲，環境不錯，但細節欠佳，不必專程前往。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期一下午三點半到達Blue Bottle Coffee灣仔店，店內二樓和三樓有很多空位，我直接選了一個靠窗的位置坐下。點了一杯cappuccino，邊喝咖啡邊悠閒地處理工作。環境不錯，咖啡的味道也很棒，但整體體驗有幾點值得分享：\n\n1. 自取咖啡不便：點單必須親自在一樓完成，然後需要自己將咖啡帶上二樓或三樓。他們不提供送咖啡服務，而樓梯比較陡峭，端著咖啡上下樓梯並不方便。\n\n2. 沒有Wi-Fi服務：店內不提供Wi-Fi，相比其他咖啡店，這一點顯得有些落後，對需要用電腦辦公的人來說不太友好。\n\n3. 洗手間細節不足：洗手間裡的洗手液，無論是掛牆的還是放在洗手盆旁的，竟然都是空的，給人一種細節不到位的感覺。\n\n雖然咖啡和環境都不錯，但種種細節上的不足，讓我覺得這家店並不值得特意去朝聖。適合附近的上班族或住戶隨意來坐坐，但如果你期待從服務到設施都很完善的體驗，可能會有點失望。\n\n總評：\n咖啡好飲，環境不錯，但細節欠佳，不必專程前往。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YS Ho",
+          "uri": "https://www.google.com/maps/contrib/103752270346706169565/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEXtmXxqp6r6eIrSXQaGPAECfQV3tLOqHX5_XnKztXQp-CY0YlnQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-06-30T09:07:08.336642919Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2podlNrSjRhWFpXWW1oWExYUlpTRzkxY25JeFdsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2podlNrSjRhWFpXWW1oWExYUlpTRzkxY25JeFdsRRAB!2m1!1s0x340401475a011439:0x5cd1a913fc942e79"
+      },
+      {
+        "name": "places/ChIJORQBWkcBBDQReS6U_BOp0Vw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaMGVIbFhlSHBRWTJwRGRHcGtOVlYxVTNSRVdWRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "3.8⭐️\nG/F有戶外平台可以坐，入內是點餐區。室內內用區在樓上兩層樓，但空間有限，不會想要久待，有洗手間可以使用。\n個人覺得鹹食餐點不錯，比飲品更加令人深刻。😅",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "3.8⭐️\nG/F有戶外平台可以坐，入內是點餐區。室內內用區在樓上兩層樓，但空間有限，不會想要久待，有洗手間可以使用。\n個人覺得鹹食餐點不錯，比飲品更加令人深刻。😅",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fanny",
+          "uri": "https://www.google.com/maps/contrib/117590783559434697588/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5ZMYGE3nJfwInk4D-EgUAGbWWA_EW-iRuoubqcAzR4cdMynE=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-03-15T06:11:13.615817163Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaMGVIbFhlSHBRWTJwRGRHcGtOVlYxVTNSRVdWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaMGVIbFhlSHBRWTJwRGRHcGtOVlYxVTNSRVdWRRAB!2m1!1s0x340401475a011439:0x5cd1a913fc942e79"
+      },
+      {
+        "name": "places/ChIJORQBWkcBBDQReS6U_BOp0Vw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toNlEwZzVTVk42ZDNSUVYwTmpkMWRNV1hOTFFtYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "我覺得這間分店位置相對鬧中取靜\n而且有三層大空間很少見採光也特別優秀\n是個很舒服的空間！\n我這次去反而點烏龍茶喝\n茶韻茶香都很夠🙌🏻\n順手買了2025的假期杯子\n還看到已經不常見的電子秤！\n（感謝店員剛好是庫存的最後一個）\n心滿意足的離開😻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我覺得這間分店位置相對鬧中取靜\n而且有三層大空間很少見採光也特別優秀\n是個很舒服的空間！\n我這次去反而點烏龍茶喝\n茶韻茶香都很夠🙌🏻\n順手買了2025的假期杯子\n還看到已經不常見的電子秤！\n（感謝店員剛好是庫存的最後一個）\n心滿意足的離開😻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Isaac Lin",
+          "uri": "https://www.google.com/maps/contrib/114655175137574370818/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmLXXTRvK-lKJntSKdTVbTWcj9bgHKwfeSSXlaoTV-KBibWVRb=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-30T03:21:45.023757579Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toNlEwZzVTVk42ZDNSUVYwTmpkMWRNV1hOTFFtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toNlEwZzVTVk42ZDNSUVYwTmpkMWRNV1hOTFFtYxAB!2m1!1s0x340401475a011439:0x5cd1a913fc942e79"
+      },
+      {
+        "name": "places/ChIJORQBWkcBBDQReS6U_BOp0Vw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGcVQxRnJjelZUUXpjeE5XZExNMTlrTjBGdlVGRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "第一次來藍瓶咖啡\n這家是一整棟獨立的\n坐落在安靜的小斜坡上\n非常漂亮寧靜的感覺\n\n點了ice coffee nola float\n是漂浮冰拿鐵\n咖啡豆是偏酸的口味\n\n一切都很完美\n還有販售一些小甜點跟周邊\n超可愛的一家店\n\n還會想再來光顧～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第一次來藍瓶咖啡\n這家是一整棟獨立的\n坐落在安靜的小斜坡上\n非常漂亮寧靜的感覺\n\n點了ice coffee nola float\n是漂浮冰拿鐵\n咖啡豆是偏酸的口味\n\n一切都很完美\n還有販售一些小甜點跟周邊\n超可愛的一家店\n\n還會想再來光顧～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "anna shen",
+          "uri": "https://www.google.com/maps/contrib/112293998435724636968/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVb4YJXpo5UOapiEcbiaW7ohncwZTWCEIHyvJePRDy4DWJrTeHk=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-12-31T11:40:18.029743970Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGcVQxRnJjelZUUXpjeE5XZExNMTlrTjBGdlVGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGcVQxRnJjelZUUXpjeE5XZExNMTlrTjBGdlVGRRAB!2m1!1s0x340401475a011439:0x5cd1a913fc942e79"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401475a011439:0x5cd1a913fc942e79!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6688312824928939641&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401475a011439:0x5cd1a913fc942e79!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401475a011439:0x5cd1a913fc942e79!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401475a011439:0x5cd1a913fc942e79!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJORQBWkcBBDQReS6U_BOp0Vw/photos/Aa-ngMZ3w_KmVi1SPNR-_GIytdyNo164BzwVqW6wSo6IB9qG7_o3ZY5-jPl7_RCPS-8BGYdiAbI3B1Y8daXHiha_9nU7TyGuio8VVA2DKhcq0fRnz2cyENad0KW7snUwAhUZGThQHvpDhYPQsXL37f2NVUN46eDUmJOt7wm7K5Uhs5JxtH2Y2BhzxvGO6qWUl150eDdIkxcVlL2tFDG0U2TY6HR2-3VCjP8wdyTRxeMs8GP2YFHRL138p2Vp6NtNi8oPFldAKUcHz38NrEQiBwv3o6ETCq9-ZgoCAKqb3YjCWSRwV4vrgYZCBGd5p4k8GD5TUJAId0UQoT6yBF27DIPyRsUoLxP-QDtjGZNdJIXtatj85mJrnYaJ0ViFKV31WOdRaR50Ds9Ql7g_m_Np8w3LS5irRy0",
+      "widthPx": 3144,
+      "heightPx": 1770,
+      "authorAttributions": [
+        {
+          "displayName": "Blue Bottle Coffee Wan Chai",
+          "uri": "https://maps.google.com/maps/contrib/117506597624538126019",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFYpuIoNQvtSfHcDRADudWu2H9-dwXWPFjh77iQbLehsBiZR0=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICm44O-Fw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm44O-Fw!2e10!4m2!3m1!1s0x340401475a011439:0x5cd1a913fc942e79"
+    },
+    "local_path": "photos/ChIJORQBWkcBBDQReS6U_BOp0Vw.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWGsiEY2QG1xR7b_V_0SQy5otx695owegO63v5ImL2OoaMcLBnl1QUQFtfTL0807288xv_2pA-vNYuI3smqjYewyjNU1euyFQz6iMddCkXR6kk59y0s1NVFEX_RAZfcSZ0uXkH=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 674931
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

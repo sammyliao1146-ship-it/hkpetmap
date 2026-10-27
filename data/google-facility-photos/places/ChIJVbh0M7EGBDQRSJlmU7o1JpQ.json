@@ -1,0 +1,38 @@
+{
+  "id": "ChIJVbh0M7EGBDQRSJlmU7o1JpQ",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍茶寮坳新清水灣道71號",
+  "location": {
+    "latitude": 22.329314399999998,
+    "longitude": 114.2204443
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10675279041107761480&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "佐敦谷公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJVbh0M7EGBDQRSJlmU7o1JpQ/photos/Aa-ngMayIuP3y5VuWzL1LmzwllxomXs7LD4dt-PpAW7dbSelvaoQ_MvkKUzurFnkyhCzRQRIzmtc_IFCo7WE66ozAQq8ZoRCnTyhsowDcqyvlnNn1thm_DpgudkJZFKxHbgmEb8Jq1nw72VD_ywGyP71qrzV-ZcyKafjNu0xvDCkaBrOqCSBPvB4VGM22185tWDSw1alWvvH2Vguw1h4ayO-wETA_i5mjgYEduc-i9gAwDI48QoytOENm9ur4P49GtOOPXB8L9LLcYoeJI3vgNa4-VWd8nWli6cjQg7FMm25Yf4VYEOTgIy0pTmi1rDCVC2PJMULCTgcGM7A3C9gC-G54jnW6tpeZOctFZTBw136iPrxkuNyNj4OL9XTo0yoijRXY1pL3Gn3QXoyL0j_gFA2IawNw6U",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "BradinHK",
+          "uri": "https://maps.google.com/maps/contrib/117832408789555351833",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9lI4bCd7FSlVL5eQUmHr1XKaKCj0KGf3lET8qxJPWVfFy6f8D6g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDV_fioZw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDV_fioZw!2e10!4m2!3m1!1s0x340406b13374b855:0x942635ba53669948"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:11.633265+00:00"
+}

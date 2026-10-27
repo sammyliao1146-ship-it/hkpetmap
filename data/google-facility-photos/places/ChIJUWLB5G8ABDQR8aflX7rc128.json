@@ -1,0 +1,38 @@
+{
+  "id": "ChIJUWLB5G8ABDQR8aflX7rc128",
+  "types": [
+    "park",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島中環雅賓利道",
+  "location": {
+    "latitude": 22.2767651,
+    "longitude": 114.156037
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8059152751233705969&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "香港動植物公園溫室",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "food",
+  "photos": [
+    {
+      "name": "places/ChIJUWLB5G8ABDQR8aflX7rc128/photos/Aa-ngMawy1jqoS2Q1-SGUuBIDnTm0YKlRGmMZ3L2jgeJn63s0AZmNtv_Pjr89kiZYlkNKfnP0mW5IHK-ZhqTcwUVP8R4aIpvz8iBaaCY7G5P_NB_-6jmImsmkxUnlqI_4FmRhqp6QjoXodI50QSGcnwbtIjR7oqRfJczNi9FzOsunXVCUceX8-RdqatiBYx9LIScuu52bkKgBIUI1q0vbAfSAELtX5x7F9K_w8Wp6PjVb-aUzmHUBdWJQW7OmArHv-q5g9p6950JbYbd4ZfbiWNTmwdkHW7dGkci5dddtQHLN8yY7ATmG-XXrgVLXTEBdMa_JEMlWYA0UUx3Qgr7jm55M-HQ55gjSgupzU0fQB5GWzYM6xZwSp-KVm3FwZtuMLa-0i8EFxRQ0xK1Fl0QCGjLUH6BuC8PAp0",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Marcos Marinho",
+          "uri": "https://maps.google.com/maps/contrib/116210448805619221403",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOEWJ4x-0LCFpg9u2hE4AdQ76XOrwZ7x16msJdtMsOHdOr1w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcqv_k1gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcqv_k1gE!2e10!4m2!3m1!1s0x3404006fe4c16251:0x6fd7dcba5fe5a7f1"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:29.469363+00:00"
+}

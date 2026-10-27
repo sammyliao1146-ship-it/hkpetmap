@@ -1,0 +1,332 @@
+{
+  "google_place_id": "ChIJk_R1bEwGBDQRTUH9rADOzGw",
+  "restaurant_ids": [
+    "restaurant:2297800071"
+  ],
+  "fetched_at": "2026-10-23T15:42:28.962970+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJk_R1bEwGBDQRTUH9rADOzGw",
+    "types": [
+      "chinese_restaurant",
+      "cantonese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2338 1228",
+    "internationalPhoneNumber": "+852 2338 1228",
+    "formattedAddress": "禾輋商場3樓331號舖, Wo Che Estate, New Territories, 香港",
+    "location": {
+      "latitude": 22.3883527,
+      "longitude": 114.194839
+    },
+    "rating": 3.2,
+    "googleMapsUri": "https://maps.google.com/?cid=7839867553642791245&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://delighted.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:30 – 23:00",
+        "星期二: 06:30 – 23:00",
+        "星期三: 06:30 – 23:00",
+        "星期四: 06:30 – 23:00",
+        "星期五: 06:30 – 23:00",
+        "星期六: 06:30 – 23:00",
+        "星期日: 06:30 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-23T22:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 464,
+    "displayName": {
+      "text": "Dragon Delight",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJk_R1bEwGBDQRTUH9rADOzGw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPNzh2UE1nEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 3,
+        "text": {
+          "text": "服務麻麻，啲位基本上都算好坐，容易漏單。\n\n點心即叫即蒸，味道普通調味唔會太濃味，冇乜驚喜，小食炒得唔錯，炸豆腐外皮香脆，味道唔會太咸。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務麻麻，啲位基本上都算好坐，容易漏單。\n\n點心即叫即蒸，味道普通調味唔會太濃味，冇乜驚喜，小食炒得唔錯，炸豆腐外皮香脆，味道唔會太咸。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lafa ca",
+          "uri": "https://www.google.com/maps/contrib/107431684497404582479/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEe14PqN2nfBWR8otoswDPUK5PY4aN0eyu4GQzdI5FfJbfY-xx=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2022-06-23T12:49:38.341677Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNPNzh2UE1nEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNPNzh2UE1nEAE!2m1!1s0x3404064c6c75f493:0x6cccce00acfd414d"
+      },
+      {
+        "name": "places/ChIJk_R1bEwGBDQRTUH9rADOzGw/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3NGFuY3ZnRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 1,
+        "text": {
+          "text": "星期天下午菜茶時段！伙記可能冇糧出全程無人招呼十問十不應坐咗廿分鐘想走時终于有部長行過開茶！之後開水壼擺去第張枱？食物價格一般、不過貭素跟不上價格、全場間一半地方有营業一半熄灯客量可想而知！魚云制作粗糙洗得不淨魚腥很重 、小籠飽皮稍厚可以接受、雞扎之魚肚懷疑被哥士的漂完清洗不够！可能不是宗教關係！ 哈利路亞 真主偉大 媽祖保佑 阿門 阿彌陀佛 排名不分先效",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期天下午菜茶時段！伙記可能冇糧出全程無人招呼十問十不應坐咗廿分鐘想走時终于有部長行過開茶！之後開水壼擺去第張枱？食物價格一般、不過貭素跟不上價格、全場間一半地方有营業一半熄灯客量可想而知！魚云制作粗糙洗得不淨魚腥很重 、小籠飽皮稍厚可以接受、雞扎之魚肚懷疑被哥士的漂完清洗不够！可能不是宗教關係！ 哈利路亞 真主偉大 媽祖保佑 阿門 阿彌陀佛 排名不分先效",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "5354 lam",
+          "uri": "https://www.google.com/maps/contrib/114672009824305841229/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkp4gWQq02deRChfWC0VnTPjvvikac1gf5Qp5Clx0Mh7BN1A=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2020-11-22T18:18:10.794718Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN3NGFuY3ZnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3NGFuY3ZnRRAB!2m1!1s0x3404064c6c75f493:0x6cccce00acfd414d"
+      },
+      {
+        "name": "places/ChIJk_R1bEwGBDQRTUH9rADOzGw/reviews/ChdDSUhNMG9nS0VJQ0FnSURUejVqX3dBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "服務員少..等10分鐘先有服務員..落單後  鳳爪上枱…未食 ..籠入面已有上一手食剩既鳳爪「骨頭」…然後 排骨 食點心20年的我 沒遇過 一整串的排骨… 是廚房師傅在祈禱發夢..還是？",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務員少..等10分鐘先有服務員..落單後  鳳爪上枱…未食 ..籠入面已有上一手食剩既鳳爪「骨頭」…然後 排骨 食點心20年的我 沒遇過 一整串的排骨… 是廚房師傅在祈禱發夢..還是？",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "小諾愛生活",
+          "uri": "https://www.google.com/maps/contrib/117734472556018662848/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZ_Q3__BxG6rd7wLX-RdfZgYGNVzt3Gym56047344KbQXgYb4N=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-05-29T07:53:44.681933Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUejVqX3dBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUejVqX3dBRRAB!2m1!1s0x3404064c6c75f493:0x6cccce00acfd414d"
+      },
+      {
+        "name": "places/ChIJk_R1bEwGBDQRTUH9rADOzGw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNdlkzeWd3RRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 1,
+        "text": {
+          "text": "完全垃圾，芝士海蝦伊麵，全部都係油，完全無味，得一陣油味，一生不會再去👎👎👎👎👎",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "完全垃圾，芝士海蝦伊麵，全部都係油，完全無味，得一陣油味，一生不會再去👎👎👎👎👎",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "L P",
+          "uri": "https://www.google.com/maps/contrib/107340010821408408615/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfLn0ebxO3gJO1WOB6vIoKUKyfJfk_ruyaB3Y6-3z5bg_dmbs=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2019-12-02T04:25:18.556452Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNNdlkzeWd3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNNdlkzeWd3RRAB!2m1!1s0x3404064c6c75f493:0x6cccce00acfd414d"
+      },
+      {
+        "name": "places/ChIJk_R1bEwGBDQRTUH9rADOzGw/reviews/ChdDSUhNMG9nS0VJQ0FnSURCbTZ1MXhBRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 1,
+        "text": {
+          "text": "春節服務太離譜\n坐低品茗才發覺水壼內全都為暖水\n多次囑咐服務員換滾水扮忙  聽不到\n最終利是奉上才更換\n服務差\n無標明節日假期價錢  亂收費\n\n3个大點点心   1个中點点心  加2位茶\n埋單競要    $196。\n嚇怕大多年青人無興趣上此些自我摧毀搶錢食肆酒樓\n靠節日假期搶錢  必定自毀客原",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "春節服務太離譜\n坐低品茗才發覺水壼內全都為暖水\n多次囑咐服務員換滾水扮忙  聽不到\n最終利是奉上才更換\n服務差\n無標明節日假期價錢  亂收費\n\n3个大點点心   1个中點点心  加2位茶\n埋單競要    $196。\n嚇怕大多年青人無興趣上此些自我摧毀搶錢食肆酒樓\n靠節日假期搶錢  必定自毀客原",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sam Ho",
+          "uri": "https://www.google.com/maps/contrib/105332103095466988037/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJMDePCWK6zFC0QXZHbVEODoLZt8Xy9a-T-MDn6Dsud5xBHIg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-01-29T13:57:45.278584Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCbTZ1MXhBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCbTZ1MXhBRRAB!2m1!1s0x3404064c6c75f493:0x6cccce00acfd414d"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404064c6c75f493:0x6cccce00acfd414d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7839867553642791245&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404064c6c75f493:0x6cccce00acfd414d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404064c6c75f493:0x6cccce00acfd414d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404064c6c75f493:0x6cccce00acfd414d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJk_R1bEwGBDQRTUH9rADOzGw/photos/Aa-ngMaqHJKgeDLDCYyOHfROrJaqjuLOr5QI_Z0vRB2cVVHJPkOc2Dl7q0ocmjkIHJTp5FQ6gAP18WsnC0s2rjlMw1TEaq4ScfrHHG2qWw9-Q4S3XkwC2LaFzu5b95AloACnawxZt21qI5bLpiRTzp_sqw-5R0Sql3e2EFtqfRanfDpwFpWNwo8FbxaAfr6-HMO6-0E4y5R_01xlLX79B_VwbWR1LUAj5x4mKYJSkUKJ1ZdgHRZRC-uk94sReaq6ySGpcLNtlESKAVo4N4liyMB2r2K0qvFWlWxdkORbwZYb60O-q2b39WHFV4lXVb171s51coWj2iFijxslG0vIWXKbtWrIe2F0nzvf3JwWFlNIusqjTSOmMvRQ65ynl3TA7q5Doi0MbDD-2YmVeFs_Wt0ba8rD8Q",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "Bobby Wong",
+          "uri": "https://maps.google.com/maps/contrib/111643058900582579305",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQhnBjzF6-qwIcNbJWDYPfgMS1zP9CcnfIY1gL1dFfGnc65m6u=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICC6bvuPA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICC6bvuPA!2e10!4m2!3m1!1s0x3404064c6c75f493:0x6cccce00acfd414d"
+    },
+    "local_path": "photos/ChIJk_R1bEwGBDQRTUH9rADOzGw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2zg1dI3W7XjGxMFK8tUzJgdaGEl7G9zg2paPnYK0hJ-jEV4hrTuRzUnOsY5LpV8psoU0ebEe_rrn7uhxTu6I6ZgXDUrrUtiP-DcYFXH05gbDpGjR1R-cRvgDBNBLVxdsXW7A=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 95890
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "cantonese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

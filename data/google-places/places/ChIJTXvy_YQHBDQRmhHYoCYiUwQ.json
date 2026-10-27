@@ -1,0 +1,403 @@
+{
+  "google_place_id": "ChIJTXvy_YQHBDQRmhHYoCYiUwQ",
+  "restaurant_ids": [
+    "restaurant:2263058804",
+    "restaurant:2263080113"
+  ],
+  "fetched_at": "2026-10-23T15:39:10.169332+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJTXvy_YQHBDQRmhHYoCYiUwQ",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2336 6233",
+    "internationalPhoneNumber": "+852 2336 6233",
+    "formattedAddress": "香港九龍長沙灣福榮街544號地 下 4 至 5",
+    "location": {
+      "latitude": 22.339568999999997,
+      "longitude": 114.1531227
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=311630348521312666&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/invites/contact/?i=odex87ce12g8&utm_content=qs815t9",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 23:00",
+        "星期二: 12:00 – 15:00, 18:00 – 23:00",
+        "星期三: 12:00 – 15:00, 18:00 – 23:00",
+        "星期四: 12:00 – 15:00, 18:00 – 23:00",
+        "星期五: 12:00 – 15:00, 18:00 – 23:00",
+        "星期六: 12:00 – 15:00, 18:00 – 23:00",
+        "星期日: 12:00 – 15:00, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 86,
+    "displayName": {
+      "text": "潮興正宗潮州菜館",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJTXvy_YQHBDQRmhHYoCYiUwQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5TlMyWjNhVzVaYlZsNVptRnZhbXQ0YjNCRGVVRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "以前喜歡去陵發的，由於停業後轉投去只處。地方不大，只有十多張枱，經常滿座，最好先訂位。食物質數，味道算好。不過潮州菜通病是膳後會口渴，有味精敏感就要食前考慮吓。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "以前喜歡去陵發的，由於停業後轉投去只處。地方不大，只有十多張枱，經常滿座，最好先訂位。食物質數，味道算好。不過潮州菜通病是膳後會口渴，有味精敏感就要食前考慮吓。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "booboo sasa",
+          "uri": "https://www.google.com/maps/contrib/106855651876399148245/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuy7ffzekWm02NvNDP7aoMrGyjarrdw_aSmeqjXj4LHkHl8A=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-22T15:34:49.213166289Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5TlMyWjNhVzVaYlZsNVptRnZhbXQ0YjNCRGVVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5TlMyWjNhVzVaYlZsNVptRnZhbXQ0YjNCRGVVRRAB!2m1!1s0x34040784fdf27b4d:0x4532226a0d8119a"
+      },
+      {
+        "name": "places/ChIJTXvy_YQHBDQRmhHYoCYiUwQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VeGIwSmFXWEJKWDJWRmRYcExhRXRZTnpsVmVsRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "細個成日同屋企人食潮州菜\n首先！佢地超好禮貌\n嘢食都好食 特別推介凍烏頭\n起咗骨啖啖肉好正",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "細個成日同屋企人食潮州菜\n首先！佢地超好禮貌\n嘢食都好食 特別推介凍烏頭\n起咗骨啖啖肉好正",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jenny Lee",
+          "uri": "https://www.google.com/maps/contrib/114957590911852593488/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLmdGqRPOYP6wZ6wohYWbABTCbgm4W2X_vgJS0xfaHQ0AdLSA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-27T09:07:49.941460021Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21VeGIwSmFXWEJKWDJWRmRYcExhRXRZTnpsVmVsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VeGIwSmFXWEJKWDJWRmRYcExhRXRZTnpsVmVsRRAB!2m1!1s0x34040784fdf27b4d:0x4532226a0d8119a"
+      },
+      {
+        "name": "places/ChIJTXvy_YQHBDQRmhHYoCYiUwQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwNFRFWjFOVkZzWkZacFVFSm9NMDh0VmtGVkxVRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳有多款潮州小炒同滷味選擇，口味正宗\n\n滷水鵝肉拼盤\n鵝肉軟嫩入味，有齊唔同部位，份量十足，底層配豆腐、紅腸等，索滿香濃滷汁，點上醋汁，剛好中和滷水既鹹香\n\n潮興小炒王\n鑊氣十足，有齊腰果、蝦乾等配料，韭菜爆炒得好香口，食落鹹香惹味\n\n紹菜牛丸煲\n牛丸爽彈有嚼勁，紹菜炆到軟爛，索滿清甜湯頭\n\n清心丸綠豆爽\n清心丸煙韌Q彈，配搭綠豆仁，清甜爽滑\n\n潮州福果芋泥\n面頭放咗幾粒白果,芋泥口感綿密順滑、香甜濃郁",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳有多款潮州小炒同滷味選擇，口味正宗\n\n滷水鵝肉拼盤\n鵝肉軟嫩入味，有齊唔同部位，份量十足，底層配豆腐、紅腸等，索滿香濃滷汁，點上醋汁，剛好中和滷水既鹹香\n\n潮興小炒王\n鑊氣十足，有齊腰果、蝦乾等配料，韭菜爆炒得好香口，食落鹹香惹味\n\n紹菜牛丸煲\n牛丸爽彈有嚼勁，紹菜炆到軟爛，索滿清甜湯頭\n\n清心丸綠豆爽\n清心丸煙韌Q彈，配搭綠豆仁，清甜爽滑\n\n潮州福果芋泥\n面頭放咗幾粒白果,芋泥口感綿密順滑、香甜濃郁",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Joey Leung",
+          "uri": "https://www.google.com/maps/contrib/112626700663081566092/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_TiADpOI5bbITGAo7YnQZY_9WSzMglJWPjYKMvy8RkThSJg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-22T10:50:49.908439676Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwNFRFWjFOVkZzWkZacFVFSm9NMDh0VmtGVkxVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwNFRFWjFOVkZzWkZacFVFSm9NMDh0VmtGVkxVRRAB!2m1!1s0x34040784fdf27b4d:0x4532226a0d8119a"
+      },
+      {
+        "name": "places/ChIJTXvy_YQHBDQRmhHYoCYiUwQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25seGRXZzRNazFEWkRWb00wdExOMjVETmt0bmNIYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢度嘅午市椒鹽排骨飯（$50）真係好驚喜！排骨炸得啱啱好，調味適中唔會過鹹，啲蒜粒同辣椒切得好細緻，攞嚟撈飯簡直一流。如果排骨可以轉做豬扒，食落一定更爽快，但以呢個價錢嚟講絕對無得投訴。餐廳環境乾淨、座位坐得舒服。職員服務好有禮貌，仲主動同我講可以添飯，超貼心！加多 $3 仲有埋凍飲，性價比極高，下次一定會再嚟食！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢度嘅午市椒鹽排骨飯（$50）真係好驚喜！排骨炸得啱啱好，調味適中唔會過鹹，啲蒜粒同辣椒切得好細緻，攞嚟撈飯簡直一流。如果排骨可以轉做豬扒，食落一定更爽快，但以呢個價錢嚟講絕對無得投訴。餐廳環境乾淨、座位坐得舒服。職員服務好有禮貌，仲主動同我講可以添飯，超貼心！加多 $3 仲有埋凍飲，性價比極高，下次一定會再嚟食！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pigho Au",
+          "uri": "https://www.google.com/maps/contrib/114054472200017997001/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAn9TsEQZvLaIf6aj6htXQJz9GUDb6nJh2diL6ecRCc1JkLsw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-29T06:44:37.171238662Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25seGRXZzRNazFEWkRWb00wdExOMjVETmt0bmNIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25seGRXZzRNazFEWkRWb00wdExOMjVETmt0bmNIYxAB!2m1!1s0x34040784fdf27b4d:0x4532226a0d8119a"
+      },
+      {
+        "name": "places/ChIJTXvy_YQHBDQRmhHYoCYiUwQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4NFVTMTZSRmhvUzBvd1RHWm1lVUp4TVZSdVNuYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "潮興正宗打冷小廚\n\n今天晚上，我們去到 長沙灣東京街31號恆邦商業大廈地舖，潮興正宗打冷小廚，晚飯。\n\n#韭菜豬紅(大) $80\n我们點了韭菜豬紅（大），豬紅Q彈，混合韭菜的香氣，入口溫暖。\n\n#花蛤蠔仔粥(窩) $138\n接著是花蛤蠔仔粥（窩），粥底綿滑，花蛤與蠔仔鮮甜交織，湯匙舀起一口，鮮味充滿口腔。\n\n#雙拼(大) 拼墨魚、紅腸 $158\n最後來了一份雙拼（大），拼墨魚與紅腸。墨魚彈牙、紅腸微辣，兩者互相襯托，層次豐富。\n\n店內坐滿客人，十分熱鬧。這頓樸實的晚餐，不僅暖了胃，也讓我们在平凡的日常中，感受到幸福與滿足。\n\n#潮興正宗打冷小廚\n#長沙灣東京街31號恆邦商業大廈地舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "潮興正宗打冷小廚\n\n今天晚上，我們去到 長沙灣東京街31號恆邦商業大廈地舖，潮興正宗打冷小廚，晚飯。\n\n#韭菜豬紅(大) $80\n我们點了韭菜豬紅（大），豬紅Q彈，混合韭菜的香氣，入口溫暖。\n\n#花蛤蠔仔粥(窩) $138\n接著是花蛤蠔仔粥（窩），粥底綿滑，花蛤與蠔仔鮮甜交織，湯匙舀起一口，鮮味充滿口腔。\n\n#雙拼(大) 拼墨魚、紅腸 $158\n最後來了一份雙拼（大），拼墨魚與紅腸。墨魚彈牙、紅腸微辣，兩者互相襯托，層次豐富。\n\n店內坐滿客人，十分熱鬧。這頓樸實的晚餐，不僅暖了胃，也讓我们在平凡的日常中，感受到幸福與滿足。\n\n#潮興正宗打冷小廚\n#長沙灣東京街31號恆邦商業大廈地舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ho Peak",
+          "uri": "https://www.google.com/maps/contrib/102132984647755724270/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMA3IA7hv4ggVzDoe0kI7d27_tYEaap2A-Js9AWuolauIU0g=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-24T13:10:06.318163013Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w4NFVTMTZSRmhvUzBvd1RHWm1lVUp4TVZSdVNuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4NFVTMTZSRmhvUzBvd1RHWm1lVUp4TVZSdVNuYxAB!2m1!1s0x34040784fdf27b4d:0x4532226a0d8119a"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040784fdf27b4d:0x4532226a0d8119a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=311630348521312666&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040784fdf27b4d:0x4532226a0d8119a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040784fdf27b4d:0x4532226a0d8119a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040784fdf27b4d:0x4532226a0d8119a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJTXvy_YQHBDQRmhHYoCYiUwQ/photos/Aa-ngMZwyRcMTgkPuUTH5iVZCt15Qyd0MAifdGWm6xS6b4FNc1y-9xqtk4jGxZ8-D4KhyDozRhPzqjBLNZ6ZhbS35ZJSTBnAqMcNVTuKQ6-7LADIL-aSKimf-rc4hbfHTuJOYBz4kv0u9nPD2fzrXA4zPh7v97RoKFWKSbxIaDCB30Kj1dX2N5E8iZReIKkUT2Cj0NUIA_GeOQQWYedgzL44to_Bi4DykXxPEeC-pL_KPvhrXlwtUz3uHWXVD9lxoUS1i_eGQqhPTRcrsnZKDbiW9x7y9GKSMkdHviC5UZqxsadWbkWyO0ntRoah2UqK7r6KBt6FC2hH4s23VHVe39hGbWSNyT4dxfUrF1RPZgWCGexWMLN54UW6hrxFDksmMINS94jeNIfMJGOVgwm9FT2MgI8AREdJKn0",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "CW LAM",
+          "uri": "https://maps.google.com/maps/contrib/112652818720123866441",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWMR_GGibO5RCmwgmNu55SPCgLdQgyrIFKWJiSkLJ2lxKAHptmow=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICfi6iJxwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfi6iJxwE!2e10!4m2!3m1!1s0x34040784fdf27b4d:0x4532226a0d8119a"
+    },
+    "local_path": "photos/ChIJTXvy_YQHBDQRmhHYoCYiUwQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdryD0lgQEBBYS79wjcX7geLJAszdF6U2j1ORV9xbR86mR9tnWF924mMhIFZwAvWOlLIbOHnsgRSMwcOwOfPqXSpTA0Uoy9amPCMHO_isjdPv_-IwORFWfleA-IYoTmXzLealRKcg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 181184
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,345 @@
+{
+  "google_place_id": "ChIJMyXNjioBBDQRMgCMok5NnCM",
+  "restaurant_ids": [
+    "restaurant:2218819753"
+  ],
+  "fetched_at": "2026-10-23T15:44:58.319263+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJMyXNjioBBDQRMgCMok5NnCM",
+    "types": [
+      "restaurant",
+      "steak_house",
+      "french_restaurant",
+      "european_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2154 6121",
+    "internationalPhoneNumber": "+852 2154 6121",
+    "formattedAddress": "Restaurant 2, Level 1, The Peak Tower, The Peak, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.271147400000004,
+      "longitude": 114.1502115
+    },
+    "rating": 4.8,
+    "googleMapsUri": "https://maps.google.com/?cid=2566010887824212018&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.lavache.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 21:00",
+        "星期二: 12:00 – 21:00",
+        "星期三: 12:00 – 21:00",
+        "星期四: 12:00 – 21:00",
+        "星期五: 12:00 – 21:00",
+        "星期六: 12:00 – 21:00",
+        "星期日: 12:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 207,
+    "displayName": {
+      "text": "La Vache! 山頂店",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJMyXNjioBBDQRMgCMok5NnCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSblVFNXpSM0ZHTWpjMVVWbHlXazlKWWtaRFlsRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這是一家風景優美、環境優雅，非常好吃的牛排店，服務人員專業有禮，從餐前的飲用水、開胃酒介紹、核桃沙拉、牛排、薯條，甚至還有熱盤，所有的一切都非常完美。我們點了3瓶氣泡水、2杯氣泡酒、1杯Richard pastis，還加點了一份沙拉，如果可以加點牛排，我們很樂意多點一些🩵",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這是一家風景優美、環境優雅，非常好吃的牛排店，服務人員專業有禮，從餐前的飲用水、開胃酒介紹、核桃沙拉、牛排、薯條，甚至還有熱盤，所有的一切都非常完美。我們點了3瓶氣泡水、2杯氣泡酒、1杯Richard pastis，還加點了一份沙拉，如果可以加點牛排，我們很樂意多點一些🩵",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YiChun Chou",
+          "uri": "https://www.google.com/maps/contrib/104049215998324276956/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYhfLMmMM56j7GVGlXOKwz_ymlN8u2fef6t7qgkl-FfKGXcD97=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-17T07:22:34.525754366Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSblVFNXpSM0ZHTWpjMVVWbHlXazlKWWtaRFlsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSblVFNXpSM0ZHTWpjMVVWbHlXazlKWWtaRFlsRRAB!2m1!1s0x3404012a8ecd2533:0x239c4d4ea28c0032"
+      },
+      {
+        "name": "places/ChIJMyXNjioBBDQRMgCMok5NnCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsZlZHaGtUVWxIZFVNeWRFTlZOMWxtTkRkblNXYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "可否重視政府條例，監管好食客唔好比狗隻爬上檯面，咁樣好影響餐廳衛生同埋影響下一位客人",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "可否重視政府條例，監管好食客唔好比狗隻爬上檯面，咁樣好影響餐廳衛生同埋影響下一位客人",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "PAN TANG",
+          "uri": "https://www.google.com/maps/contrib/105983002417556368048/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVjnVOM5JC6IzRp4uVXdXjecxol3MYFviOfES9bScfWbNKpY7V=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-15T05:24:17.921135293Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsZlZHaGtUVWxIZFVNeWRFTlZOMWxtTkRkblNXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsZlZHaGtUVWxIZFVNeWRFTlZOMWxtTkRkblNXYxAB!2m1!1s0x3404012a8ecd2533:0x239c4d4ea28c0032"
+      },
+      {
+        "name": "places/ChIJMyXNjioBBDQRMgCMok5NnCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SaVkyYzBaMkl3UWxVMlpHOVlWemQwYWpsRFJVRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Steak Set with Fries - 薯條比牛扒出色\n\nSundae Ice Cream - 車厘子是藥水味 新地也沒特",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Steak Set with Fries - 薯條比牛扒出色\n\nSundae Ice Cream - 車厘子是藥水味 新地也沒特",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Laura Lee",
+          "uri": "https://www.google.com/maps/contrib/106384045373084381049/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKCIY7IeH0i96TE8m8TUuogPZJkOCCIXD1cRsKR-Y6-qVDXg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-05T10:15:54.066309669Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SaVkyYzBaMkl3UWxVMlpHOVlWemQwYWpsRFJVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SaVkyYzBaMkl3UWxVMlpHOVlWemQwYWpsRFJVRRAB!2m1!1s0x3404012a8ecd2533:0x239c4d4ea28c0032"
+      },
+      {
+        "name": "places/ChIJMyXNjioBBDQRMgCMok5NnCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGU1ZWTnNkSEIzUVZwelR5MW5ia05SVTJSVlZGRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境非常好，望到維多利亞兩岸，又有山頂纜車上上落落。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境非常好，望到維多利亞兩岸，又有山頂纜車上上落落。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Michelle Chan",
+          "uri": "https://www.google.com/maps/contrib/117433772338262587052/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLD3_JD7yh6_h8q3Mcb0KvZ1ae4ooFtdb9O6RrPB9ydVlUS=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-08T09:45:38.465863040Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGU1ZWTnNkSEIzUVZwelR5MW5ia05SVTJSVlZGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGU1ZWTnNkSEIzUVZwelR5MW5ia05SVTJSVlZGRRAB!2m1!1s0x3404012a8ecd2533:0x239c4d4ea28c0032"
+      },
+      {
+        "name": "places/ChIJMyXNjioBBDQRMgCMok5NnCM/reviews/ChdDSUhNMG9nS0VLLVQ1N2VNNWRXSW1RRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "近年Black sheep積極於山頂插旗，開張不久的La Vache! 已是第六個進駐品牌，連同Falcone、Rajasthan Rifles、Messina、Butter及Peak Pizza已然形成一個緊密的生態圈。餐廳天花一隻隻牛組成的花紋浮雕是饒有生趣的小彩蛋。凌霄閣La Vache坐擁超高樓底落地玻璃，繁華景色一覽無遺，窗邊二人座低消$1500性價比已勝過部分尖沙咀海景餐廳。\n—————————————————————\n品牌獨沽一味只做USDA Prime 10安士肉眼配無限任添薯條的經典套餐，精簡的菜單練就火候精準的牛扒，慶祝新店開張更推出6月限定的$298 Summer Preview✨\n\n✨麵包籃✨是簡單的法棍但重點在份外柔滑的法國淡鹽牛油，既然是來飽餐一頓就不要太計較熱量只管塗上厚厚一抹牛油感受濃郁奶香。\n\n✨核桃油醋沙律✨爽脆水嫩的沙律菜喚醒味蕾。\n\n✨USDA Prime肉眼扒✨油脂分佈平均，肉質軟嫩，除了本身來貨質素穩定，另外要歸功準繩的烹調時間和改刀，五成熟口感更柔軟，七成熟則焦香風味會更突出。特製的Béarnaise如絲絨般滑順，混合了醋、胡椒粗粒及香草，帶芥末香的輕微辛辣感和適度的酸味除平衡了牛肉的油膩感同時多了甘香🤌🏻\n\nLa Vache! 另一高光便是無限量供應的金黃薯條，即炸的✨Julienne Fries✨外脆内鬆軟明知上火都會忍不住Refill，侍者亦樂此不疲地捧著整盆剛出爐薯條滿場飛為食客滿上\n\n如果還有空間，不妨在琳琅滿目的甜品車中選一款甜點去為整餐劃上完美句號🍨\n—————————————————————\nLa Vache!作爲Black Sheep的長青品牌，一直保持穩定水準，其熱情的服務和歡樂的用處氣氛代表了集團的核心價值，可以相對相宜的價格享受到山頂居高臨下的景色，慶祝重要場合可以擔保是Money well-spent的難忘體驗。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "近年Black sheep積極於山頂插旗，開張不久的La Vache! 已是第六個進駐品牌，連同Falcone、Rajasthan Rifles、Messina、Butter及Peak Pizza已然形成一個緊密的生態圈。餐廳天花一隻隻牛組成的花紋浮雕是饒有生趣的小彩蛋。凌霄閣La Vache坐擁超高樓底落地玻璃，繁華景色一覽無遺，窗邊二人座低消$1500性價比已勝過部分尖沙咀海景餐廳。\n—————————————————————\n品牌獨沽一味只做USDA Prime 10安士肉眼配無限任添薯條的經典套餐，精簡的菜單練就火候精準的牛扒，慶祝新店開張更推出6月限定的$298 Summer Preview✨\n\n✨麵包籃✨是簡單的法棍但重點在份外柔滑的法國淡鹽牛油，既然是來飽餐一頓就不要太計較熱量只管塗上厚厚一抹牛油感受濃郁奶香。\n\n✨核桃油醋沙律✨爽脆水嫩的沙律菜喚醒味蕾。\n\n✨USDA Prime肉眼扒✨油脂分佈平均，肉質軟嫩，除了本身來貨質素穩定，另外要歸功準繩的烹調時間和改刀，五成熟口感更柔軟，七成熟則焦香風味會更突出。特製的Béarnaise如絲絨般滑順，混合了醋、胡椒粗粒及香草，帶芥末香的輕微辛辣感和適度的酸味除平衡了牛肉的油膩感同時多了甘香🤌🏻\n\nLa Vache! 另一高光便是無限量供應的金黃薯條，即炸的✨Julienne Fries✨外脆内鬆軟明知上火都會忍不住Refill，侍者亦樂此不疲地捧著整盆剛出爐薯條滿場飛為食客滿上\n\n如果還有空間，不妨在琳琅滿目的甜品車中選一款甜點去為整餐劃上完美句號🍨\n—————————————————————\nLa Vache!作爲Black Sheep的長青品牌，一直保持穩定水準，其熱情的服務和歡樂的用處氣氛代表了集團的核心價值，可以相對相宜的價格享受到山頂居高臨下的景色，慶祝重要場合可以擔保是Money well-spent的難忘體驗。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Susori",
+          "uri": "https://www.google.com/maps/contrib/100340241837340612908/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5OFAJGYVjoAOOUk3deH3A5qQKQCpzFxEALF7pp5MNuMqnDYM=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-06-03T15:29:24.251521Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VLLVQ1N2VNNWRXSW1RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VLLVQ1N2VNNWRXSW1RRRAB!2m1!1s0x3404012a8ecd2533:0x239c4d4ea28c0032"
+      }
+    ],
+    "servesDessert": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404012a8ecd2533:0x239c4d4ea28c0032!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2566010887824212018&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012a8ecd2533:0x239c4d4ea28c0032!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404012a8ecd2533:0x239c4d4ea28c0032!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012a8ecd2533:0x239c4d4ea28c0032!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJMyXNjioBBDQRMgCMok5NnCM/photos/Aa-ngMYxHMtJ_8idtUeThfT5YPhe02yRvE8rPdo97c1V7CUkDok99RGLs940YrtNc_aHr3-PZuhrGA6YxkZJ5n3gRlxcrUiHtZMrsvYXsZEqLqwbSn7XJ-OrEPxujDx2ZCMuEoSfMgvUO88ZY4XuwRydVH1c5aXsksiSyWqAG6CJAC9uA8Alr7M4tqyUZQmO1MPAYQIkaIoCRWZxWQI9-8HVb806R2ytZakrNSOqcTR0cCW7gtZSRztjzAYNSCAKai9RfDT2282iW6Tmxa-syjaYlyy4-V2FvuWY0KEkJFMg2ck9s7JhTV402aqAwq82AbaejbpDcpgzaDhmR0kemOUPIr3QlbIxDz8JHuEs85gmUHNSzFhuxmyhRTWR8UHQdTFrb3PycEhL2_e5ZvS99PZlwoYNC77MR49TorKegxJjlqulmA",
+      "widthPx": 3200,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "La Vache! The Peak",
+          "uri": "https://maps.google.com/maps/contrib/104687111325144736916",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrHP1msRdyoQZ-wz0uHumeuOPGPGlmtdBvU7cPVD_jQcQxbDM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCkaWU_1YukXXhCNFnDENGL&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCkaWU_1YukXXhCNFnDENGL!2e10!4m2!3m1!1s0x3404012a8ecd2533:0x239c4d4ea28c0032"
+    },
+    "local_path": "photos/ChIJMyXNjioBBDQRMgCMok5NnCM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXDOk_PCNHkjoFiW8XU2eE7zTacMHi2IbavHMlaVmY1zreTq21xCI-6sUQQXFjcjPVG6vv4CkNewaZVdXWHlrCgiFFruK452MxC4AxPW-nosbyF3JreeX998ZvuOjdmx_NEC8aqgjkldDH=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 202832
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.lavache.com.hk/book-now-sc",
+        "label": "分店地址",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.lavache.com.hk/menu-tc",
+        "label": "菜單",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.lavache.com.hk/menu-sc",
+        "label": "菜单",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.lavache.com.hk/menu",
+        "label": "MENU",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "steak_house",
+      "french_restaurant",
+      "european_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.lavache.com.hk/book-now-sc",
+  "menu_url": "https://www.lavache.com.hk/menu-tc"
+}

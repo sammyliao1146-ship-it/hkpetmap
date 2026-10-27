@@ -1,0 +1,312 @@
+{
+  "google_place_id": "ChIJp7mV2ZcFBDQRbvPm70W4XIE",
+  "restaurant_ids": [
+    "restaurant:3198802285",
+    "restaurant:3198801158"
+  ],
+  "fetched_at": "2026-10-23T15:48:41.888035+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJp7mV2ZcFBDQRbvPm70W4XIE",
+    "types": [
+      "vietnamese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2788 2028",
+    "internationalPhoneNumber": "+852 2788 2028",
+    "formattedAddress": "Sai Kung Mansion Block B, 42-56 Fuk Man Rd, Sai Kung, New Territories, 香港",
+    "location": {
+      "latitude": 22.382160799999998,
+      "longitude": 114.27256899999999
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=9321527939267228526&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/canadapho/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 21:00",
+        "星期二: 11:00 – 21:00",
+        "星期三: 休息",
+        "星期四: 11:00 – 21:00",
+        "星期五: 11:00 – 21:00",
+        "星期六: 11:00 – 21:00",
+        "星期日: 11:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 436,
+    "displayName": {
+      "text": "西貢越南真味",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "越南餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "vietnamese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJp7mV2ZcFBDQRbvPm70W4XIE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VdGNraEVkMXBGWlU5U1VIUnNkMkowZVdvd1YzYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 3,
+        "text": {
+          "text": "份量大、價錢平、唯獨味道就很一般！\n原因，湯底糖分太多！無左越式湯粉嘅味道！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "份量大、價錢平、唯獨味道就很一般！\n原因，湯底糖分太多！無左越式湯粉嘅味道！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "fan ng",
+          "uri": "https://www.google.com/maps/contrib/110140564882605645315/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLayLV6-jK6w3uzUfJsTeScfAf-j_DUwjZY9KqmjmRcztS_Mw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-25T10:25:08.993901321Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VdGNraEVkMXBGWlU5U1VIUnNkMkowZVdvd1YzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VdGNraEVkMXBGWlU5U1VIUnNkMkowZVdvd1YzYxAB!2m1!1s0x34040597d995b9a7:0x815cb845efe6f36e"
+      },
+      {
+        "name": "places/ChIJp7mV2ZcFBDQRbvPm70W4XIE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOeU9VSkdhMlJIUmt0d1ZIbFBhM010Ykd0MGFXYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "招牌火車頭好大碗。 兩個人都食唔晒。平日6點前跟餐飲仲有得平啲。好抵食。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "招牌火車頭好大碗。 兩個人都食唔晒。平日6點前跟餐飲仲有得平啲。好抵食。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ken chic",
+          "uri": "https://www.google.com/maps/contrib/106433008287607011300/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocInIMZ3SzMLeMUAZiGsLdK7y-aQFrCNEzARoS3oWssUYtdC4g=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-30T07:59:44.226702570Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOeU9VSkdhMlJIUmt0d1ZIbFBhM010Ykd0MGFXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOeU9VSkdhMlJIUmt0d1ZIbFBhM010Ykd0MGFXYxAB!2m1!1s0x34040597d995b9a7:0x815cb845efe6f36e"
+      },
+      {
+        "name": "places/ChIJp7mV2ZcFBDQRbvPm70W4XIE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJM1NGTndSVGRYTUhobk1ERjNZWGQxZVZwVVgzYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 3,
+        "text": {
+          "text": "週末的西貢，人山人海。如果不是光顧沿海的大型海鲜酒家，其實內街也有不少小店，奈何店小，座位必定有限，而且擠迫。路過福民路，就試一試這間越南餐小店。小食蝦海巻用料新鮮，感覺清新美味。香茅豬扒飯及雞絲湯粉亦正常發揮。忘記擠迫，享受美食罷。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "週末的西貢，人山人海。如果不是光顧沿海的大型海鲜酒家，其實內街也有不少小店，奈何店小，座位必定有限，而且擠迫。路過福民路，就試一試這間越南餐小店。小食蝦海巻用料新鮮，感覺清新美味。香茅豬扒飯及雞絲湯粉亦正常發揮。忘記擠迫，享受美食罷。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Carly Ip",
+          "uri": "https://www.google.com/maps/contrib/100663763491891418897/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWuBYa8wOuzKKmLeA45dWCUNxAUw1SFiXvJMG2FO1y5bPLIA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-11-30T07:50:05.864447154Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJM1NGTndSVGRYTUhobk1ERjNZWGQxZVZwVVgzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJM1NGTndSVGRYTUhobk1ERjNZWGQxZVZwVVgzYxAB!2m1!1s0x34040597d995b9a7:0x815cb845efe6f36e"
+      },
+      {
+        "name": "places/ChIJp7mV2ZcFBDQRbvPm70W4XIE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4MGVYRTRkMGxGVFdSNmMweERlbmg1TVZacGFuYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "生日WM酒店Dogcation,食咗幾餐自助餐生日餐，唔想再食好嘢，咁搵了這間。\n火車頭Pho好大碗，我哋細食兩個人食都食唔晒，小食拼盤即叫即做，春卷脆口、雞翼好味、粉卷有驚喜、蝦餅大大件。椰青好嫩肉薄，非常易片出嚟食。\n埋單唔使300，西貢留講算合理。不過，回酒店成晚口乾，似乎食物落咗唔少味精😅\n我哋有寵物，要坐店外，路人經過都讚湯河大碗，狗狗可愛，成為生招牌😊",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "生日WM酒店Dogcation,食咗幾餐自助餐生日餐，唔想再食好嘢，咁搵了這間。\n火車頭Pho好大碗，我哋細食兩個人食都食唔晒，小食拼盤即叫即做，春卷脆口、雞翼好味、粉卷有驚喜、蝦餅大大件。椰青好嫩肉薄，非常易片出嚟食。\n埋單唔使300，西貢留講算合理。不過，回酒店成晚口乾，似乎食物落咗唔少味精😅\n我哋有寵物，要坐店外，路人經過都讚湯河大碗，狗狗可愛，成為生招牌😊",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "betty chu",
+          "uri": "https://www.google.com/maps/contrib/103397915426718273889/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjHU1PX4oeAOV6OxZ6NKlnzK3Sva-UOkQOA2BoZVRzh-oBN3k=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-12-09T15:18:40.755212481Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4MGVYRTRkMGxGVFdSNmMweERlbmg1TVZacGFuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4MGVYRTRkMGxGVFdSNmMweERlbmg1TVZacGFuYxAB!2m1!1s0x34040597d995b9a7:0x815cb845efe6f36e"
+      },
+      {
+        "name": "places/ChIJp7mV2ZcFBDQRbvPm70W4XIE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkVVRtWkZjSEJxZEhkRlZFRkNkWGh1VUc1VlExRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "一間唔錯嘅越南餐廳，我哋坐嘅係卡位老實講覺得非常狹窄、枱面好細，侍應招呼有禮貌，衛生情況都OK, QR code落單\n\n要特別提一提佢哋嘅QR code落單，睇嚟做得幾好，佢有分單獨落單，同埋group落單，好多時候同枱人一齊落單，有啲各自落單之後，要quit咗出去，再入返先睇到其他人點咗啲乜嘢，有啲即使quit咗出去，再入返都係睇唔到，咁睇嚟佢哋有考慮呢一點，因為係點完餐之後先發覺呢一點，所以就冇特登試吓，佢呢個group落單實際係點\n\n蕃茄牛腩飯算係唔錯，味道不過不失，牛腩就唔係想像中嘅牛腩；香茅豬扒撈檬味道好好，豬扒醃得好香夠乾身，但又唔會太乾太硬，撈檬口感夠爽，配料足味道撈得好；鯖魚炸得外脆內軟唔會太熟，有肉汁有油香；香芒椰子奶味道OK, 啤酒夠凍👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一間唔錯嘅越南餐廳，我哋坐嘅係卡位老實講覺得非常狹窄、枱面好細，侍應招呼有禮貌，衛生情況都OK, QR code落單\n\n要特別提一提佢哋嘅QR code落單，睇嚟做得幾好，佢有分單獨落單，同埋group落單，好多時候同枱人一齊落單，有啲各自落單之後，要quit咗出去，再入返先睇到其他人點咗啲乜嘢，有啲即使quit咗出去，再入返都係睇唔到，咁睇嚟佢哋有考慮呢一點，因為係點完餐之後先發覺呢一點，所以就冇特登試吓，佢呢個group落單實際係點\n\n蕃茄牛腩飯算係唔錯，味道不過不失，牛腩就唔係想像中嘅牛腩；香茅豬扒撈檬味道好好，豬扒醃得好香夠乾身，但又唔會太乾太硬，撈檬口感夠爽，配料足味道撈得好；鯖魚炸得外脆內軟唔會太熟，有肉汁有油香；香芒椰子奶味道OK, 啤酒夠凍👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gordon Chan",
+          "uri": "https://www.google.com/maps/contrib/101969255690048769625/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVY0okQgqglCgDqdsmHr_EbgU8ap43nHoVVBgKOzzKPzFsTOuUqpg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-15T07:37:02.786273848Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkVVRtWkZjSEJxZEhkRlZFRkNkWGh1VUc1VlExRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkVVRtWkZjSEJxZEhkRlZFRkNkWGh1VUc1VlExRRAB!2m1!1s0x34040597d995b9a7:0x815cb845efe6f36e"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleRestroom": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040597d995b9a7:0x815cb845efe6f36e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9321527939267228526&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040597d995b9a7:0x815cb845efe6f36e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040597d995b9a7:0x815cb845efe6f36e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040597d995b9a7:0x815cb845efe6f36e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJp7mV2ZcFBDQRbvPm70W4XIE/photos/Aa-ngMY341a2Oj0McOux_u3w5UqWWajB--IU1eQhY0CxZdqTQwX_emynrUShQQM_E8xeW4KOEKoAZjUtPp0v1U8Looke0zphwPK-X92yVRK_p-pM-uEFmtmvxndL6kKkQhLUlZXARavGgHOqIllNu698YZz64kzHxWMsfEre_V2E2dbWC0W4bHRDUZc8xcz-WesncWD8N0noI4exZVeIJLmMAw83DdaEs-Ruk6wRVKOlVnnLUv2lHZrJO21X1B0_PoLV2JpukI8IGNkX5YKdTPSDENI7n45cceHloAyEun4Qebjxs60J_NmBUNWOlbGKt9JC0dw3B3UVWlpBGx0kOIBj9S4sGp4Xgqo0fBPoZwr2op_4GGJj9oJKnEaTrHZWM8rFrY4w4roMXQw8ZFDXhKOM3HrojskP",
+      "widthPx": 1536,
+      "heightPx": 2048,
+      "authorAttributions": [
+        {
+          "displayName": "Saigon Pho",
+          "uri": "https://maps.google.com/maps/contrib/110133020247165060993",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-iEMscac4E9lq4uo0PaJSGThJBgmgbZjqpJ7uzXBXwWc9PZo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC63Znd8QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC63Znd8QE!2e10!4m2!3m1!1s0x34040597d995b9a7:0x815cb845efe6f36e"
+    },
+    "local_path": "photos/ChIJp7mV2ZcFBDQRbvPm70W4XIE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGNUf0Or8jHkHbu2rdTB0FAp2pq7Db4F4DXQWzKTqJhy0FfqZl02KpDXEYXXGAKdbE3Ia-YtDR2ZnCyoEGiFxlpzIAlgzlRA9KHsRkxDrCbdOxWWBgUI4EiVdSo8JPvvpxUO_U=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 136549
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "vietnamese_restaurant",
+    "label": "越南餐廳",
+    "types": [
+      "vietnamese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

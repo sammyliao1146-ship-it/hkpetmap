@@ -1,0 +1,318 @@
+{
+  "google_place_id": "ChIJpUsQIu_6AzQRpWVGkSwOvfU",
+  "restaurant_ids": [
+    "restaurant:3193801506"
+  ],
+  "fetched_at": "2026-10-23T15:51:01.609666+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJpUsQIu_6AzQRpWVGkSwOvfU",
+    "types": [
+      "fusion_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5545 5009",
+    "internationalPhoneNumber": "+852 5545 5009",
+    "formattedAddress": "香港新界藍地藍地大街35 號",
+    "location": {
+      "latitude": 22.419071499999998,
+      "longitude": 113.9838746
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=17707324894469318053&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 12:00 – 22:00",
+        "星期三: 12:00 – 22:00",
+        "星期四: 12:00 – 22:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 11:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 296,
+    "displayName": {
+      "text": "THRE3 Concept",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "各國料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "fusion_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJpUsQIu_6AzQRpWVGkSwOvfU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wUGNYTk1UVEZKUW5KQ1RFNVhiVTV1UjFwRlNGRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物好出色！仲叫左雞翼，pizza，全部都好好味！推介👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物好出色！仲叫左雞翼，pizza，全部都好好味！推介👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Christy Cheung",
+          "uri": "https://www.google.com/maps/contrib/113072017491833279628/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeFKYIag7L61-_KKjteU9QQl1T5U-BDEJsgq3lQk4LxnOT5A=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-29T07:07:48.664758507Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wUGNYTk1UVEZKUW5KQ1RFNVhiVTV1UjFwRlNGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wUGNYTk1UVEZKUW5KQ1RFNVhiVTV1UjFwRlNGRRAB!2m1!1s0x3403faef22104ba5:0xf5bd0e2c914665a5"
+      },
+      {
+        "name": "places/ChIJpUsQIu_6AzQRpWVGkSwOvfU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkWFJWRjRPRE5GWlVzd05YQXlRMHR5VjNKelkyYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "Pizza餅底勁脆，好好味\n明太子忌廉長通粉好creamy😋\n冰椰美，咁好飲得唔得㗎？\n門外好小鎮feel，慢活一流",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Pizza餅底勁脆，好好味\n明太子忌廉長通粉好creamy😋\n冰椰美，咁好飲得唔得㗎？\n門外好小鎮feel，慢活一流",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CC Net",
+          "uri": "https://www.google.com/maps/contrib/112275046424133004583/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnaTwbFIm9_KurLWy-ro6pP08ZVekikBlEf9RFDTfwszyb-mKObg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-10-19T07:58:27.280760377Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkWFJWRjRPRE5GWlVzd05YQXlRMHR5VjNKelkyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkWFJWRjRPRE5GWlVzd05YQXlRMHR5VjNKelkyYxAB!2m1!1s0x3403faef22104ba5:0xf5bd0e2c914665a5"
+      },
+      {
+        "name": "places/ChIJpUsQIu_6AzQRpWVGkSwOvfU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYazhqcmRnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "食左超過十次，冇得頂，好好食！\n每次去都好鍾意食嗰個三味雞翼\n柚子味同埋玫瑰味都好清新\n意粉差唔多食晒咁多款，泡菜嗰個辣辣地\n墨魚汁好過癮\n薄餅個個都好食！皮薄餡多！連媽咪嗰啲老人家好少食煎炸嘢，都好鍾意食個薄餅！！\n兩個burger juicy到爆，鍾意食burger嘅一定要試！平時出街都好少會食雞burger，但係呢個真係有驚喜！無論係個醬定係嗰塊雞！\n咖啡就唔使講啦，杯杯都咁好，小朋友可以叫嗰個棉花糖狗狗，都飲得好開心！\n餐廳環境氣氛10分良好，小店人情味👍🏿\n\nIf you are looking for a nice restaurant to dine in, this is definitely the one!\nnice pizza, pasta! i do love all dishes😆 it is need to pick only one, that would be the chicken wings!\nhighly recommend this restaurant!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食左超過十次，冇得頂，好好食！\n每次去都好鍾意食嗰個三味雞翼\n柚子味同埋玫瑰味都好清新\n意粉差唔多食晒咁多款，泡菜嗰個辣辣地\n墨魚汁好過癮\n薄餅個個都好食！皮薄餡多！連媽咪嗰啲老人家好少食煎炸嘢，都好鍾意食個薄餅！！\n兩個burger juicy到爆，鍾意食burger嘅一定要試！平時出街都好少會食雞burger，但係呢個真係有驚喜！無論係個醬定係嗰塊雞！\n咖啡就唔使講啦，杯杯都咁好，小朋友可以叫嗰個棉花糖狗狗，都飲得好開心！\n餐廳環境氣氛10分良好，小店人情味👍🏿\n\nIf you are looking for a nice restaurant to dine in, this is definitely the one!\nnice pizza, pasta! i do love all dishes😆 it is need to pick only one, that would be the chicken wings!\nhighly recommend this restaurant!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Stretch Lama",
+          "uri": "https://www.google.com/maps/contrib/101568721557417094710/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJnNM4z7VuMr8yq5lYln8FyAf5_PcmwC5YnrW66T2WEeh4Xziw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-10-20T04:49:01.423923Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYazhqcmRnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYazhqcmRnEAE!2m1!1s0x3403faef22104ba5:0xf5bd0e2c914665a5"
+      },
+      {
+        "name": "places/ChIJpUsQIu_6AzQRpWVGkSwOvfU/reviews/ChdDSUhNMG9nS0VJQ0FnSUROcjhUTXN3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "如果你鍾意試唔同嘅隱世餐廳，你哋一定會鍾意呢度!\n\n一個住喺附近嘅朋友星期六話要帶我搵隱世餐廳。呢個朋友平時食嘢都好麻煩，如果同佢食食咗間唔好食嘅餐廳，都會有說話俾我聽。所以佢主動搵嘅，又係我鍾意嘅「隱世」主題，我一定唔會阻止。🤣\n\n我哋喺西鐵兆康站轉輕鐵，藍地站落車，望住Google Maps定位過嚟。第一次喺呢個輕鐵站落，經過咗一條馬路，沿着藍地大街行過去。原來呢度都幾熱鬧，有好多餐廳同埋買嘢嘅地方，幾有特色。\n\n行咗入去一陣，已經睇到餐廳喺我哋嘅左手面。係一間細細間嘅coffee shop。我哋見到仲有一張空枱，就坐咗入去啦。雖然係用QR code落單，店員都好用心地介紹佢哋嘅餐點。我哋冇完全聽店員嘅推介，自己選擇咗一個魚蝦蟹千島Pizza同一個拿破崙長通粉。\n\n食物等咗一陣就嚟到。pizza餅底屬於好薄嘅款式，好脆。加上佢哋芝士非常多，每一啖都好濃味，適合我呢個重口味人。拿破崙長通粉充滿蕃茄嘅感覺，裡面嘅甜味係鮮蕃茄煮出嚟嘅甜味，都係濃郁嘅感覺。店員話佢哋嘅明太子天使麵好受歡迎，下次可以試下。飲品方面叫咗杯latte正常發揮。對飲食要求好高嘅呢個朋友都話呢度食物飲品都好好。\n\n整體嚟講，食物份量多，味道唔錯，氣氛好，係一間真隱世餐廳，所以完全明白點解佢會有咁多五星好評。最後走嘅時候，有一位肥妹店員仲同我哋講：「希望你哋下次再嚟，我會掛住你哋㗎。」 雖然我明白佢同每一個客人都會講同一番說話，但係嗰一刻個心都真係溶化咗!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "如果你鍾意試唔同嘅隱世餐廳，你哋一定會鍾意呢度!\n\n一個住喺附近嘅朋友星期六話要帶我搵隱世餐廳。呢個朋友平時食嘢都好麻煩，如果同佢食食咗間唔好食嘅餐廳，都會有說話俾我聽。所以佢主動搵嘅，又係我鍾意嘅「隱世」主題，我一定唔會阻止。🤣\n\n我哋喺西鐵兆康站轉輕鐵，藍地站落車，望住Google Maps定位過嚟。第一次喺呢個輕鐵站落，經過咗一條馬路，沿着藍地大街行過去。原來呢度都幾熱鬧，有好多餐廳同埋買嘢嘅地方，幾有特色。\n\n行咗入去一陣，已經睇到餐廳喺我哋嘅左手面。係一間細細間嘅coffee shop。我哋見到仲有一張空枱，就坐咗入去啦。雖然係用QR code落單，店員都好用心地介紹佢哋嘅餐點。我哋冇完全聽店員嘅推介，自己選擇咗一個魚蝦蟹千島Pizza同一個拿破崙長通粉。\n\n食物等咗一陣就嚟到。pizza餅底屬於好薄嘅款式，好脆。加上佢哋芝士非常多，每一啖都好濃味，適合我呢個重口味人。拿破崙長通粉充滿蕃茄嘅感覺，裡面嘅甜味係鮮蕃茄煮出嚟嘅甜味，都係濃郁嘅感覺。店員話佢哋嘅明太子天使麵好受歡迎，下次可以試下。飲品方面叫咗杯latte正常發揮。對飲食要求好高嘅呢個朋友都話呢度食物飲品都好好。\n\n整體嚟講，食物份量多，味道唔錯，氣氛好，係一間真隱世餐廳，所以完全明白點解佢會有咁多五星好評。最後走嘅時候，有一位肥妹店員仲同我哋講：「希望你哋下次再嚟，我會掛住你哋㗎。」 雖然我明白佢同每一個客人都會講同一番說話，但係嗰一刻個心都真係溶化咗!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "TV Lam",
+          "uri": "https://www.google.com/maps/contrib/102985226772401139227/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI02fAGRqkXqRKxT93L7EQLwIA92WpEwv1GrQg_WtYW0yx_yA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-01-27T09:58:21.451622Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUROcjhUTXN3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUROcjhUTXN3RRAB!2m1!1s0x3403faef22104ba5:0xf5bd0e2c914665a5"
+      },
+      {
+        "name": "places/ChIJpUsQIu_6AzQRpWVGkSwOvfU/reviews/ChdDSUhNMG9nS0VJQ0FnSURmaXB2SWdRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "Thre3 Concept(新墟舊店）\nGoogle評分：4.3\n\n最愛吃阿豬媽炒意粉\n不過自從新墟店結業後，藍地店對我來說較遠，我就沒有再光顧了\n\n價錢:****\n味道:*****\n環境:*****\n服務:****\n總評分:****\n\n#我要與你吃盡可愛的天下 #我要與你遊盡可愛的天下 #我要與你遊盡可愛的香港 #我要與你吃盡可愛的香港 #我要與你吃盡可愛的屯門 #hkblogger #blogger #hkfoodie #foodie #hkfoodpic #香港美食 #香港美食推介 #屯門美食 #Thre3Concept",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Thre3 Concept(新墟舊店）\nGoogle評分：4.3\n\n最愛吃阿豬媽炒意粉\n不過自從新墟店結業後，藍地店對我來說較遠，我就沒有再光顧了\n\n價錢:****\n味道:*****\n環境:*****\n服務:****\n總評分:****\n\n#我要與你吃盡可愛的天下 #我要與你遊盡可愛的天下 #我要與你遊盡可愛的香港 #我要與你吃盡可愛的香港 #我要與你吃盡可愛的屯門 #hkblogger #blogger #hkfoodie #foodie #hkfoodpic #香港美食 #香港美食推介 #屯門美食 #Thre3Concept",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "我要與你遊盡可愛的天下",
+          "uri": "https://www.google.com/maps/contrib/112375885941863729907/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVnD8gHRv5EAmLJZgF0Aj10jkPZoqnapKZ8-CIZM62Mn7Z8zeK=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-01-05T10:48:04.317485Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmaXB2SWdRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmaXB2SWdRRRAB!2m1!1s0x3403faef22104ba5:0xf5bd0e2c914665a5"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleRestroom": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403faef22104ba5:0xf5bd0e2c914665a5!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17707324894469318053&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403faef22104ba5:0xf5bd0e2c914665a5!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403faef22104ba5:0xf5bd0e2c914665a5!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403faef22104ba5:0xf5bd0e2c914665a5!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJpUsQIu_6AzQRpWVGkSwOvfU/photos/Aa-ngMYLoTPuMtL36jJr0MQT_rXNrTrrlfzaxGHdqpx7xvfq_aPNfXhKvlyVLpLFDDL85r3VnstqOvzTNUSIgEumJAN8F06FB6JmwKvffWnTPW-iRgqfomdybqYFkEYW3S7-NYy13UDbwqEhzbRQngAoQrROhnq2VGimk_53jAVC967KdmjwwpULPS6eDmytapVJ9cKQef4fNOGPVqtCR1BXuixvcMEY6Lej3W1qLvG5sG0w48aGlYYi0WXxbQjhqmfNiKPWbrDPYavL7dgJ4nhyG_EHeX6tNNB9McalI5LUgaBEJmirZ7xT_lq2cefOLsNMmnXrt7GcbXEy2BtnJTImXcRMmNZuQhFXot1PGhexUgXu4ErnBARgL7bx9UoJNokf3WPCnGujfio5zDbmrZuk1-ld8Dgrphs",
+      "widthPx": 3503,
+      "heightPx": 2627,
+      "authorAttributions": [
+        {
+          "displayName": "Edward Lam",
+          "uri": "https://maps.google.com/maps/contrib/113377029551436765775",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVK1airct0LN59-qFKj21mqmK25_rPwJYDnu1e7v3x7RYR7MGlK6w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICRv6TlrQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRv6TlrQE!2e10!4m2!3m1!1s0x3403faef22104ba5:0xf5bd0e2c914665a5"
+    },
+    "local_path": "photos/ChIJpUsQIu_6AzQRpWVGkSwOvfU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCMe_5DZnQpPs3mCbGityQ6OPn-yCDNuv6AaAhXegUKyJbaM8e5ZXz68PXcJaGlGD7IK9Y3XwpIXnz_UP4OGxZDd2iHmH0-gIY66QoIVoTwWbpa7bkFbUUUptll_XfwAITssCPNA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 161121
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "fusion_restaurant",
+    "label": "各國料理餐廳",
+    "types": [
+      "fusion_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

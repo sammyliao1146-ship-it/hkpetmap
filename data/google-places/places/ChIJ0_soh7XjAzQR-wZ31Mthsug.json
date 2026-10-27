@@ -1,0 +1,433 @@
+{
+  "google_place_id": "ChIJ0_soh7XjAzQR-wZ31Mthsug",
+  "restaurant_ids": [
+    "restaurant:2217802949"
+  ],
+  "fetched_at": "2026-10-23T15:52:29.256890+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ0_soh7XjAzQR-wZ31Mthsug",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2535 0028",
+    "internationalPhoneNumber": "+852 2535 0028",
+    "formattedAddress": "香港新界東涌怡東路9號2／F",
+    "location": {
+      "latitude": 22.295475000000003,
+      "longitude": 113.9459686
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=16767571890724603643&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.yue-sheratontungchung.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 14:30, 18:00 – 22:00",
+        "星期二: 12:00 – 14:30, 18:00 – 22:00",
+        "星期三: 12:00 – 14:30, 18:00 – 22:00",
+        "星期四: 12:00 – 14:30, 18:00 – 22:00",
+        "星期五: 12:00 – 14:30, 18:00 – 22:00",
+        "星期六: 11:00 – 14:30, 18:00 – 22:00",
+        "星期日: 11:00 – 14:30, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 141,
+    "displayName": {
+      "text": "采悦軒",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "廣東菜餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesVegetarianFood": true,
+    "primaryType": "cantonese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ0_soh7XjAzQR-wZ31Mthsug/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KM1luQkhVREUxUkdWVVltaDZaRkpXWVZoRGFGRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🌊【東涌世茂喜來登采悅軒｜海景中菜】推薦！環境闊落、望住海食飯好舒服😍\n今次「人生五味宴」好有驚喜：辣的九肚魚外脆內嫩；鹹的四色胡椒烤雞火候到位、肉汁好足🐟🐔\n招牌燻鱈魚、鴿、叉燒同蜂蜜奶茶凍都值得再order！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🌊【東涌世茂喜來登采悅軒｜海景中菜】推薦！環境闊落、望住海食飯好舒服😍\n今次「人生五味宴」好有驚喜：辣的九肚魚外脆內嫩；鹹的四色胡椒烤雞火候到位、肉汁好足🐟🐔\n招牌燻鱈魚、鴿、叉燒同蜂蜜奶茶凍都值得再order！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "wong Jojo",
+          "uri": "https://www.google.com/maps/contrib/108067028801696517587/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIskYRjjXZJVs6PLFKgiAJmVKIExkpI_TKBDxzhS69TD15RIw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-22T09:19:13.972468492Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KM1luQkhVREUxUkdWVVltaDZaRkpXWVZoRGFGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KM1luQkhVREUxUkdWVVltaDZaRkpXWVZoRGFGRRAB!2m1!1s0x3403e3b58728fbd3:0xe8b261cbd47706fb"
+      },
+      {
+        "name": "places/ChIJ0_soh7XjAzQR-wZ31Mthsug/reviews/Ci9DQUlRQUNvZENodHljRjlvT205M1JXaEVhbGwyWVZSdmNVdHJVelowUkVjeVEwRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🇭🇰東涌酒店高質中菜😍\n\n𖧧 ˒˒ 紅燒乳鴿 $128\n外皮炸得極其香脆金黃\n肉質仍然保持鮮嫩多汁\nRoasted to a perfect golden crisp, the skin crackles with every bite while the 𝐦𝐚𝐫𝐢𝐧𝐚𝐭𝐞𝐝 𝐩𝐢𝐠𝐞𝐨𝐧 remains incredibly tender and succulent🦆🔥\n\n𖧧 ˒˒ 乾清棗皇糕 $88\n紅棗味道清甜而不甜膩\n口感軟糯紮實且帶嚼勁\n𝐒𝐭𝐞𝐚𝐦𝐞𝐝 𝐫𝐞𝐝 𝐝𝐚𝐭𝐞 𝐚𝐧𝐝 𝐜𝐨𝐜𝐨𝐧𝐮𝐭 𝐦𝐢𝐥𝐤 𝐩𝐮𝐝𝐝𝐢𝐧𝐠𝐬 that strikes the perfect balance of sweetness🤩 The texture is delightfully chewy and bouncy, showing off beautiful, distinct layers🤤\n\n𖧧 ˒˒ 生磨杏仁茶 $98\n入口質地非常絲滑細膩\n滿滿天然杏仁香很濃郁\nVelvety 𝐬𝐰𝐞𝐞𝐭 𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐚𝐥𝐦𝐨𝐧𝐝 𝐬𝐨𝐮𝐩🤍 The natural aroma of freshly almonds is incredibly intense, and it’s a true classic done right😍\n\n𖧧 ˒˒ 酸辣花膠羹 $168\n花膠羹酸爽開胃口感棒\n每一口是滿滿膠原蛋白\nA velvety broth with a perfectly balanced tangy kick✨ The generous pieces of 𝐟𝐢𝐬𝐡 𝐦𝐚𝐰 are soft and gelatinous — pure comfort in a bowl😚\n\n𖧧 ˒˒ 當紅脆皮雞 $328\n外皮薄脆雞肉保持嫩滑\n不愧為采悅軒的招牌菜\n𝐂𝐫𝐢𝐬𝐩𝐲 𝐫𝐨𝐚𝐬𝐭𝐞𝐝 𝐜𝐡𝐢𝐜𝐤𝐞𝐧 here is a true masterpiece🍗 The skin is rendered to perfection— incredibly crunchy, releasing a burst of savoury aroma with every bite😽 Underneath, the meat remains remarkably tender and succulent, locking in all its natural juices🫶🏻\n\n𖧧 ˒˒ 大澳蜂蜜奶茶凍 $88\n大澳蜂蜜自帶獨特清香\n奶茶凍香濃滑溜甜度佳\nA creative twist featuring fragrant 𝐓𝐚𝐢 𝐎 𝐇𝐨𝐧𝐞𝐲 🍯 The 𝐦𝐢𝐥𝐤 𝐭𝐞𝐚 𝐩𝐮𝐝𝐝𝐢𝐧𝐠 is incredibly silky with a deep, robust tea flavour that isn’t overly sweet🥰\n\n𖧧 ˒˒ 欖菜薑米蛋白炒飯 $248\n炒飯鑊氣十足粒粒分明\n富欖菜鹹香和薑米辛香\n蛋白則提升整體輕盈感\nThe savoury 𝐩𝐫𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐨𝐥𝐢𝐯𝐞 𝐥𝐞𝐚𝐯𝐞𝐬 and zingy 𝐠𝐢𝐧𝐠𝐞𝐫 bits create a fragrant harmony, while the 𝐞𝐠𝐠 𝐰𝐡𝐢𝐭𝐞𝐬 add a delicate lightness😋\n\n𖧧 ˒˒ 蜜餞西班牙黑毛豬叉燒 $308\n選用優質西班牙黑毛豬\n肥瘦均勻入口軟腍帶嫩\n蜜糖掛汁讓鹹甜感交織\n𝐁𝐚𝐫𝐛𝐞𝐜𝐮𝐞𝐝 𝐢𝐛𝐞𝐫𝐢𝐜𝐨 𝐩𝐨𝐫𝐤 with a beautiful fat-to-meat ratio🐷 The 𝐡𝐨𝐧𝐞𝐲 𝐠𝐥𝐚𝐳𝐞𝐝 provides a glossy, caramelised finish that melts effortlessly in your mouth — absolute char siu perfection🍯\n\np.s. 𝐞-𝐬𝐡𝐨𝐩可享有現金劵優惠 或 其他餐牌優惠💰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🇭🇰東涌酒店高質中菜😍\n\n𖧧 ˒˒ 紅燒乳鴿 $128\n外皮炸得極其香脆金黃\n肉質仍然保持鮮嫩多汁\nRoasted to a perfect golden crisp, the skin crackles with every bite while the 𝐦𝐚𝐫𝐢𝐧𝐚𝐭𝐞𝐝 𝐩𝐢𝐠𝐞𝐨𝐧 remains incredibly tender and succulent🦆🔥\n\n𖧧 ˒˒ 乾清棗皇糕 $88\n紅棗味道清甜而不甜膩\n口感軟糯紮實且帶嚼勁\n𝐒𝐭𝐞𝐚𝐦𝐞𝐝 𝐫𝐞𝐝 𝐝𝐚𝐭𝐞 𝐚𝐧𝐝 𝐜𝐨𝐜𝐨𝐧𝐮𝐭 𝐦𝐢𝐥𝐤 𝐩𝐮𝐝𝐝𝐢𝐧𝐠𝐬 that strikes the perfect balance of sweetness🤩 The texture is delightfully chewy and bouncy, showing off beautiful, distinct layers🤤\n\n𖧧 ˒˒ 生磨杏仁茶 $98\n入口質地非常絲滑細膩\n滿滿天然杏仁香很濃郁\nVelvety 𝐬𝐰𝐞𝐞𝐭 𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐚𝐥𝐦𝐨𝐧𝐝 𝐬𝐨𝐮𝐩🤍 The natural aroma of freshly almonds is incredibly intense, and it’s a true classic done right😍\n\n𖧧 ˒˒ 酸辣花膠羹 $168\n花膠羹酸爽開胃口感棒\n每一口是滿滿膠原蛋白\nA velvety broth with a perfectly balanced tangy kick✨ The generous pieces of 𝐟𝐢𝐬𝐡 𝐦𝐚𝐰 are soft and gelatinous — pure comfort in a bowl😚\n\n𖧧 ˒˒ 當紅脆皮雞 $328\n外皮薄脆雞肉保持嫩滑\n不愧為采悅軒的招牌菜\n𝐂𝐫𝐢𝐬𝐩𝐲 𝐫𝐨𝐚𝐬𝐭𝐞𝐝 𝐜𝐡𝐢𝐜𝐤𝐞𝐧 here is a true masterpiece🍗 The skin is rendered to perfection— incredibly crunchy, releasing a burst of savoury aroma with every bite😽 Underneath, the meat remains remarkably tender and succulent, locking in all its natural juices🫶🏻\n\n𖧧 ˒˒ 大澳蜂蜜奶茶凍 $88\n大澳蜂蜜自帶獨特清香\n奶茶凍香濃滑溜甜度佳\nA creative twist featuring fragrant 𝐓𝐚𝐢 𝐎 𝐇𝐨𝐧𝐞𝐲 🍯 The 𝐦𝐢𝐥𝐤 𝐭𝐞𝐚 𝐩𝐮𝐝𝐝𝐢𝐧𝐠 is incredibly silky with a deep, robust tea flavour that isn’t overly sweet🥰\n\n𖧧 ˒˒ 欖菜薑米蛋白炒飯 $248\n炒飯鑊氣十足粒粒分明\n富欖菜鹹香和薑米辛香\n蛋白則提升整體輕盈感\nThe savoury 𝐩𝐫𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐨𝐥𝐢𝐯𝐞 𝐥𝐞𝐚𝐯𝐞𝐬 and zingy 𝐠𝐢𝐧𝐠𝐞𝐫 bits create a fragrant harmony, while the 𝐞𝐠𝐠 𝐰𝐡𝐢𝐭𝐞𝐬 add a delicate lightness😋\n\n𖧧 ˒˒ 蜜餞西班牙黑毛豬叉燒 $308\n選用優質西班牙黑毛豬\n肥瘦均勻入口軟腍帶嫩\n蜜糖掛汁讓鹹甜感交織\n𝐁𝐚𝐫𝐛𝐞𝐜𝐮𝐞𝐝 𝐢𝐛𝐞𝐫𝐢𝐜𝐨 𝐩𝐨𝐫𝐤 with a beautiful fat-to-meat ratio🐷 The 𝐡𝐨𝐧𝐞𝐲 𝐠𝐥𝐚𝐳𝐞𝐝 provides a glossy, caramelised finish that melts effortlessly in your mouth — absolute char siu perfection🍯\n\np.s. 𝐞-𝐬𝐡𝐨𝐩可享有現金劵優惠 或 其他餐牌優惠💰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "nabitiff",
+          "uri": "https://www.google.com/maps/contrib/118269326255455741770/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXV8tJw1cf1XqPJlqN46Bmprbkk7xERGYYReKSm-MWx8A2bJH8u=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-01T02:46:42.808458934Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205M1JXaEVhbGwyWVZSdmNVdHJVelowUkVjeVEwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205M1JXaEVhbGwyWVZSdmNVdHJVelowUkVjeVEwRRAB!2m1!1s0x3403e3b58728fbd3:0xe8b261cbd47706fb"
+      },
+      {
+        "name": "places/ChIJ0_soh7XjAzQR-wZ31Mthsug/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKWmJYSlRaRUZzUVdaeGIyZFFURjg0UlZWRGJXYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "必食推介點心大合集＋定期新餐牌等你試！🥟🍤\n\n每次食呢間嘅點心！真係名不虛傳～每道菜都好有水準，服務亦都超級好，成個體驗 sooo good！\n\n我自己必食嘅有：\n- 黑蒜鹹水角：鹹香十足，超驚喜！\n- 蜜汁叉燒：甜甜地又有咬口，好滿足\n- 羊肚菌豆腐：健康又滑嫩\n- 雪茄春卷：外脆內香，口感一流\n- 清炒菜心：清新爽口，好fresh！\n\n仲有超多特色小菜，次次去都有新驚喜！最棒嘅係酒店餐廳定期會轉新嘅餐牌，成日都有推廣優惠，點心選擇真係多到眼花繚亂～\n\n如果你都鐘意食點心，一定要bookmark呢間！推介俾大家必試：\n柚子蝦餃皇、黑蒜鹹水角、羊肚菌豆腐、雪茄春卷！👍\n\n有興趣千祈唔好錯過！快啲搵朋友一齊去試啦～\n\n#酒店餐廳 #黑蒜鹹水角 #點心推薦 #中菜餐廳 #UCreator #打卡美食 #美食推介 #香港美食 #旅行美食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "必食推介點心大合集＋定期新餐牌等你試！🥟🍤\n\n每次食呢間嘅點心！真係名不虛傳～每道菜都好有水準，服務亦都超級好，成個體驗 sooo good！\n\n我自己必食嘅有：\n- 黑蒜鹹水角：鹹香十足，超驚喜！\n- 蜜汁叉燒：甜甜地又有咬口，好滿足\n- 羊肚菌豆腐：健康又滑嫩\n- 雪茄春卷：外脆內香，口感一流\n- 清炒菜心：清新爽口，好fresh！\n\n仲有超多特色小菜，次次去都有新驚喜！最棒嘅係酒店餐廳定期會轉新嘅餐牌，成日都有推廣優惠，點心選擇真係多到眼花繚亂～\n\n如果你都鐘意食點心，一定要bookmark呢間！推介俾大家必試：\n柚子蝦餃皇、黑蒜鹹水角、羊肚菌豆腐、雪茄春卷！👍\n\n有興趣千祈唔好錯過！快啲搵朋友一齊去試啦～\n\n#酒店餐廳 #黑蒜鹹水角 #點心推薦 #中菜餐廳 #UCreator #打卡美食 #美食推介 #香港美食 #旅行美食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Penny Sun",
+          "uri": "https://www.google.com/maps/contrib/112142299962186103527/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV53vhowH8Lf2huCDf2UQzjEIHk1H-Kb46kBbtY2AImvTBCvp8mNA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-10-18T14:41:19.131271978Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKWmJYSlRaRUZzUVdaeGIyZFFURjg0UlZWRGJXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKWmJYSlRaRUZzUVdaeGIyZFFURjg0UlZWRGJXYxAB!2m1!1s0x3403e3b58728fbd3:0xe8b261cbd47706fb"
+      },
+      {
+        "name": "places/ChIJ0_soh7XjAzQR-wZ31Mthsug/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5alZYbHljVlozUkU0d0xUTmtZMVpVWldSZmMwRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "采悅軒中菜\n\n🔅川辣海參🔅\n川辣海參辣勁一般易入口，搭配香芹和海參Q彈入味\n\n🔅大澳艾草茶粿🔅\n艾草有天然草本香氣，茶果內裏鹹香蝦米餡和Q彈的甜甜外皮相互輝映😎\n\n🔅話梅豬手🔅\n話梅豬手滷得入味，帶有淡淡酸甜的話梅香氣，口感層次分明，酸甜滋味與豬手的油潤完美平衡，係一道令人難忘的開胃佳餚。\n\n🔅蜜餞西班牙黑毛豬叉燒🔅\n叉燒甜中帶鹹，香軟多汁，係肉食控嘅最愛\n\n🔅鳳梨陳皮咕嚕肉🔅\n酸甜開胃，肉質嫩滑，每塊都裹滿酸甜醬汁，大大提升口感，不會油膩\n\n🔅采悅軒招牌炒飯🔅\n炒飯粒粒分明，鹹香恰到好處，有功力😋\n\n🔅甜品大師總廚特製芒果拿破崙🔅\n層次豐富，芒果香甜清新，新鮮製作香味十足，完美為晚餐畫上句號🤩🤩\n\n環境闊落清幽，整餐歡樂滿足，係聚餐的開心選擇\n\n💡OpenRice 訂座有7折優惠\n💡滙豐信用卡有85折優惠\n\n📍采悅軒 (東涌)\n東涌怡東路9號香港東涌世茂喜來登酒店2樓\n\n#采悅軒Yue #中菜Delight #川辣SeaCucumber #Spanish叉燒 #鳳梨SweetAndSour #炒飯FriedRice #芒果Napoleon #艾草TeaCake #話梅豬手PlumPorkKnuckle #HongKongFoodie #美食探險Foodie #中菜推介",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "采悅軒中菜\n\n🔅川辣海參🔅\n川辣海參辣勁一般易入口，搭配香芹和海參Q彈入味\n\n🔅大澳艾草茶粿🔅\n艾草有天然草本香氣，茶果內裏鹹香蝦米餡和Q彈的甜甜外皮相互輝映😎\n\n🔅話梅豬手🔅\n話梅豬手滷得入味，帶有淡淡酸甜的話梅香氣，口感層次分明，酸甜滋味與豬手的油潤完美平衡，係一道令人難忘的開胃佳餚。\n\n🔅蜜餞西班牙黑毛豬叉燒🔅\n叉燒甜中帶鹹，香軟多汁，係肉食控嘅最愛\n\n🔅鳳梨陳皮咕嚕肉🔅\n酸甜開胃，肉質嫩滑，每塊都裹滿酸甜醬汁，大大提升口感，不會油膩\n\n🔅采悅軒招牌炒飯🔅\n炒飯粒粒分明，鹹香恰到好處，有功力😋\n\n🔅甜品大師總廚特製芒果拿破崙🔅\n層次豐富，芒果香甜清新，新鮮製作香味十足，完美為晚餐畫上句號🤩🤩\n\n環境闊落清幽，整餐歡樂滿足，係聚餐的開心選擇\n\n💡OpenRice 訂座有7折優惠\n💡滙豐信用卡有85折優惠\n\n📍采悅軒 (東涌)\n東涌怡東路9號香港東涌世茂喜來登酒店2樓\n\n#采悅軒Yue #中菜Delight #川辣SeaCucumber #Spanish叉燒 #鳳梨SweetAndSour #炒飯FriedRice #芒果Napoleon #艾草TeaCake #話梅豬手PlumPorkKnuckle #HongKongFoodie #美食探險Foodie #中菜推介",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Oh Hello Me",
+          "uri": "https://www.google.com/maps/contrib/101241497987703377839/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVP6uCGbAdsAdC_45rw4lN4QeeMuq5C7bLUh5M5g-31mvqebXY=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-09-27T14:33:32.378493827Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5alZYbHljVlozUkU0d0xUTmtZMVpVWldSZmMwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5alZYbHljVlozUkU0d0xUTmtZMVpVWldSZmMwRRAB!2m1!1s0x3403e3b58728fbd3:0xe8b261cbd47706fb"
+      },
+      {
+        "name": "places/ChIJ0_soh7XjAzQR-wZ31Mthsug/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poeFVFbE5OM1EwV0d0U01FeFRhMjVYY3psMU9FRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "位於東涌世茂喜來登酒店中菜廳「采悅軒 YUE」由擁有30多年中菜經驗的行政總廚「鍾志強」師傅掌舵，經驗老到的廚藝配合時令食材，無論係點心、燉湯、鑊氣小炒、創意菜式，傳統的美味絕對能驚艷你的味蕾，中菜廳裝潢古色古香，更可遠眺海景景色，服務更是無微不至，在這裏用餐非常好的體驗！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於東涌世茂喜來登酒店中菜廳「采悅軒 YUE」由擁有30多年中菜經驗的行政總廚「鍾志強」師傅掌舵，經驗老到的廚藝配合時令食材，無論係點心、燉湯、鑊氣小炒、創意菜式，傳統的美味絕對能驚艷你的味蕾，中菜廳裝潢古色古香，更可遠眺海景景色，服務更是無微不至，在這裏用餐非常好的體驗！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rosa Chan",
+          "uri": "https://www.google.com/maps/contrib/104345775171840056066/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZe1ZR3N24B28QOcdNkN17Ald9hMqe646lcd6MNUXqvX8rAoU=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2025-11-21T21:00:25.362369552Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poeFVFbE5OM1EwV0d0U01FeFRhMjVYY3psMU9FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poeFVFbE5OM1EwV0d0U01FeFRhMjVYY3psMU9FRRAB!2m1!1s0x3403e3b58728fbd3:0xe8b261cbd47706fb"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403e3b58728fbd3:0xe8b261cbd47706fb!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16767571890724603643&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e3b58728fbd3:0xe8b261cbd47706fb!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403e3b58728fbd3:0xe8b261cbd47706fb!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e3b58728fbd3:0xe8b261cbd47706fb!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ0_soh7XjAzQR-wZ31Mthsug/photos/Aa-ngMazUIUS4yAub5uHWa0ryYjDj6pb-1BPJONf_gzv1c9j_2mpnsBDgQfWhXXjKuplJgka6VxifStTBlcjlY2pKRjXrwOYsqkGBUl99cTpRr0J_EUSAItYko7HRQCZnm97ItZCqnN3Mad6TQAOZoRgdtkeHd_0EafnPhr7NkhY4lAyMpP49oipdnr85PUxIB8AnNCSNrLOI6N5U6BlEZ3wtxGs5LT1dkRW1JjrSFUedlLhlz5rF-sIC8ZNOq2Se1D1sxDs-o8vgCFq0U68ScxvzzL9nqb8w0LpMJ-_shfus1PDmFwtYqSqSdKeMu_m3r_Z2xTibht7Q-1Eya7Q_6Yonq5oi2tVtWk27CvyYqSIH0ECgDvk_1M0HIk5KSOSCXM9pRSgu0iR-13qotWWFhCsrMz-nqA",
+      "widthPx": 3500,
+      "heightPx": 1969,
+      "authorAttributions": [
+        {
+          "displayName": "Yue",
+          "uri": "https://maps.google.com/maps/contrib/103000169363730899347",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpi4fM25t3pZUfQetQ2f1HJTncXo8Wf2wKyQliQUVVywLdzyI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDi-dqoZQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDi-dqoZQ!2e10!4m2!3m1!1s0x3403e3b58728fbd3:0xe8b261cbd47706fb"
+    },
+    "local_path": "photos/ChIJ0_soh7XjAzQR-wZ31Mthsug.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdh7dh8U_qipjEfLY6oWyryfLzHEXsBnRF91sver7Q_llus9UMvaxMisRLpo1aYuuDBxaIrrF4Z0uQbW_TKlykcO5SGNkF5QoxXZZ8SXVhAba6cc2rAQcNsg18roTVCzBryjciw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 142311
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.sevenrooms.com/reservations/yuehkgsc/offers-dir",
+        "label": "Reserve",
+        "source_url": "https://www.yue-sheratontungchung.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.yue-sheratontungchung.hk/our-menus",
+        "label": "Full Menu Our Menu",
+        "source_url": "https://www.yue-sheratontungchung.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cantonese_restaurant",
+    "label": "廣東菜餐廳",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.sevenrooms.com/reservations/yuehkgsc/offers-dir",
+  "menu_url": "https://www.yue-sheratontungchung.hk/our-menus"
+}

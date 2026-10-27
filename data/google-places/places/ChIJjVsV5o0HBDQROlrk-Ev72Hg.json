@@ -1,0 +1,408 @@
+{
+  "google_place_id": "ChIJjVsV5o0HBDQROlrk-Ev72Hg",
+  "restaurant_ids": [
+    "restaurant:2297805270"
+  ],
+  "fetched_at": "2026-10-23T15:37:58.035414+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJjVsV5o0HBDQROlrk-Ev72Hg",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港新界大圍積富街33號地下E-G舖",
+    "location": {
+      "latitude": 22.375353699999998,
+      "longitude": 114.178073
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=8707986183237687866&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:30, 17:30 – 22:00",
+        "星期二: 12:00 – 15:30, 17:30 – 22:00",
+        "星期三: 12:00 – 15:30, 17:30 – 22:00",
+        "星期四: 12:00 – 15:30, 17:30 – 22:00",
+        "星期五: 12:00 – 15:30, 17:30 – 22:00",
+        "星期六: 12:00 – 15:30, 17:30 – 22:00",
+        "星期日: 12:00 – 15:30, 17:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 204,
+    "displayName": {
+      "text": "木子居酒屋",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJjVsV5o0HBDQROlrk-Ev72Hg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twSmEzQmphazlJY0d4Q1RGaGZORVoyUVhBM2IwRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🧡 有時想搵個地方同朋友或者屋企人坐低食吓嘢飲下酒，大圍呢間木子居酒屋都係一個好選擇👍🏼\n🧡 呢度樓底高，空間感都足夠。\n🧡 牛油果松葉蟹肉脆殼卷 $158\n松葉蟹肉鮮味十足，配埋入口即溶嘅牛油果，口感滑溜 Creamy。最正係中間嗰啲炸脆殼，增加咗酥脆口感，十分滋味😁\n🧡 三色丼 $168\n超鍾意食魚生丼飯😍 海膽鮮甜綿密，完全冇腥味；側邊鋪滿粒粒飽滿嘅三文魚籽，一咬落去喺口中爆汁，鹹鮮味十足！\n除咗有碎吞拿魚腩蓉，仲有兩片肉質彈牙嘅赤身😋 飯底係赤醋飯，微酸嘅米香完美提升咗魚油同海膽嘅甘甜，非常滿足😌\n🧡 和牛壽喜燒 $198\n牛肉控大滿足！呢度嘅和牛真係好有驚喜，和牛質素高，油花分佈好靚，淥到啱啱好熟嘅時候入口極之嫩滑👍\n🧡 另外可以留意下 “星期日至三小酌祭”: 特定食品價錢全部統一$88！睇點中邊款記得嗌😁\n🧡 鍾意飲酒嘅人士更加唔可以錯過\n酒精及無酒精飲品放題🙌🏼\n$168/2小時，其後每個鐘$88\n♡ 包括三款清酒🍶 啤酒🍻 燒酎, 梅酒, highball, 自家製檸檬綠茶, 唔同嘅梳打飲料~\n🧡 清酒我就揀左來自島根縣嘅“月山 芳醇辛口純米”。佢最大特色係採用左極致嘅超軟水釀造，令酒質展現出獨特嘅清透感。\n🧡 另外兩款清酒都好高質，如果係飲得人士，就可以試晒全部款式了😝\n🐾 2026年7月9日起木子正式成為寵物友善餐廳🥰 毛孩可進入木子居酒屋啦~",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🧡 有時想搵個地方同朋友或者屋企人坐低食吓嘢飲下酒，大圍呢間木子居酒屋都係一個好選擇👍🏼\n🧡 呢度樓底高，空間感都足夠。\n🧡 牛油果松葉蟹肉脆殼卷 $158\n松葉蟹肉鮮味十足，配埋入口即溶嘅牛油果，口感滑溜 Creamy。最正係中間嗰啲炸脆殼，增加咗酥脆口感，十分滋味😁\n🧡 三色丼 $168\n超鍾意食魚生丼飯😍 海膽鮮甜綿密，完全冇腥味；側邊鋪滿粒粒飽滿嘅三文魚籽，一咬落去喺口中爆汁，鹹鮮味十足！\n除咗有碎吞拿魚腩蓉，仲有兩片肉質彈牙嘅赤身😋 飯底係赤醋飯，微酸嘅米香完美提升咗魚油同海膽嘅甘甜，非常滿足😌\n🧡 和牛壽喜燒 $198\n牛肉控大滿足！呢度嘅和牛真係好有驚喜，和牛質素高，油花分佈好靚，淥到啱啱好熟嘅時候入口極之嫩滑👍\n🧡 另外可以留意下 “星期日至三小酌祭”: 特定食品價錢全部統一$88！睇點中邊款記得嗌😁\n🧡 鍾意飲酒嘅人士更加唔可以錯過\n酒精及無酒精飲品放題🙌🏼\n$168/2小時，其後每個鐘$88\n♡ 包括三款清酒🍶 啤酒🍻 燒酎, 梅酒, highball, 自家製檸檬綠茶, 唔同嘅梳打飲料~\n🧡 清酒我就揀左來自島根縣嘅“月山 芳醇辛口純米”。佢最大特色係採用左極致嘅超軟水釀造，令酒質展現出獨特嘅清透感。\n🧡 另外兩款清酒都好高質，如果係飲得人士，就可以試晒全部款式了😝\n🐾 2026年7月9日起木子正式成為寵物友善餐廳🥰 毛孩可進入木子居酒屋啦~",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Little Tummy",
+          "uri": "https://www.google.com/maps/contrib/105880877375121197551/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKruZNT81klMKlVQ_J8mFru3azORAWX7f5aoBkhxUDsIpZrLw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-19T12:44:41.089411581Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twSmEzQmphazlJY0d4Q1RGaGZORVoyUVhBM2IwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twSmEzQmphazlJY0d4Q1RGaGZORVoyUVhBM2IwRRAB!2m1!1s0x3404078de6155b8d:0x78d8fb4bf8e45a3a"
+      },
+      {
+        "name": "places/ChIJjVsV5o0HBDQROlrk-Ev72Hg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnNWJuWTRUak5sVlRkZlRqUnVkaTFIUlROWE5XYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好開心可以同主子一齊去居酒屋\n位置方便，都幾近大圍站！\n\n日式小店氛圍，環境氣氛不錯\n店內亦有設備俾毛孩，絕對寵物友善\n\n食物方面有好多款式\n\n✨厚燒牛舌心\n超厚切，厚切牛舌心呈粉嫩色\n表面帶微微焦香，內裡粉嫩多汁有油香\n\n✨明太子醬燒豆腐\n豆腐外層微焦，內裡嫩滑\n明太子醬咸香帶微辣\n\n✨沖繩苦瓜炒豚肉\n苦瓜爽脆，豚肉片薄嫩入味\n食落去清爽唔膩\n\n✨免治雞肉棒\n咬落去有雞軟骨同雞腎嘅豐富口感\n\n✨汁燒雞腎\n處理乾淨唔腥，口感爽脆彈牙\n汁燒醬甜鹹適中\n\n✨福岡凍蕎麥麵\n麵條冰涼爽滑，帶有淡淡蕎麥香，沾上清爽醬油汁，好醒胃\n\n最返仲做緊酒精/無酒精飲品放題\n鍾意飲嘢真係不能錯過\n\nHK$168/兩小時，其後每個鐘HK$88\n包括三款清酒、啤酒、燒酎、梅酒、highball、自家製檸檬綠茶、巨峰梳打、柚子檸檬梳打、荔枝梳打",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好開心可以同主子一齊去居酒屋\n位置方便，都幾近大圍站！\n\n日式小店氛圍，環境氣氛不錯\n店內亦有設備俾毛孩，絕對寵物友善\n\n食物方面有好多款式\n\n✨厚燒牛舌心\n超厚切，厚切牛舌心呈粉嫩色\n表面帶微微焦香，內裡粉嫩多汁有油香\n\n✨明太子醬燒豆腐\n豆腐外層微焦，內裡嫩滑\n明太子醬咸香帶微辣\n\n✨沖繩苦瓜炒豚肉\n苦瓜爽脆，豚肉片薄嫩入味\n食落去清爽唔膩\n\n✨免治雞肉棒\n咬落去有雞軟骨同雞腎嘅豐富口感\n\n✨汁燒雞腎\n處理乾淨唔腥，口感爽脆彈牙\n汁燒醬甜鹹適中\n\n✨福岡凍蕎麥麵\n麵條冰涼爽滑，帶有淡淡蕎麥香，沾上清爽醬油汁，好醒胃\n\n最返仲做緊酒精/無酒精飲品放題\n鍾意飲嘢真係不能錯過\n\nHK$168/兩小時，其後每個鐘HK$88\n包括三款清酒、啤酒、燒酎、梅酒、highball、自家製檸檬綠茶、巨峰梳打、柚子檸檬梳打、荔枝梳打",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dulldull Liu",
+          "uri": "https://www.google.com/maps/contrib/115342773476525186518/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLM29jPRRwNZaRSEyyhHkwcPQlYiyuE2KI_1ftFn33fPmAjNzc=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-30T04:51:24.017044998Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tnNWJuWTRUak5sVlRkZlRqUnVkaTFIUlROWE5XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnNWJuWTRUak5sVlRkZlRqUnVkaTFIUlROWE5XYxAB!2m1!1s0x3404078de6155b8d:0x78d8fb4bf8e45a3a"
+      },
+      {
+        "name": "places/ChIJjVsV5o0HBDQROlrk-Ev72Hg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsbmFUQk9hRkJ5ZVdoQk9XUkpNMDlWV210NU5sRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "大圍站附近有間日式居酒屋，朋友喜歡呢度濃濃嘅日式懷舊氛圍感，昏黃燈光，牆上貼滿復古海報，下班後或放假來這兒飲兩杯，輕談淺酌好放鬆。\n\n居酒屋主打刺身、串燒與各式清酒，最近仲推出$168/2小時飲品放題 ，包括較高質嘅清酒（仲有榮光富士）、啤酒、燒酎、梅酒、highball、柚子檸檬梳打等，酒鬼朋友都可以盡情暢飲！\n\n除咗飲品放題，星期日至三仲係小酌祭，4款人氣居酒屋小食全部都係$88。我哋試咗其中一款。\n\n［刺身］\n\n三色吞拿刺身 $88\n\n刺身勁厚切，味道鮮甜\n\n［壽司］\n精選火炙壽司拼盤6件\n\n壽司用日式小木盤奉上，師傅選取最時令食材，每日都有所不同，而且即叫即火炙 ，帶點焦香，滿滿魚油香氣。喜歡壽司嘅朋友不要錯過。\n\n［串燒］\n荔枝豚肉卷\n豚肉韭菜卷\n免治雞肉棒\n一口甜蕃薯\n\n免治雞肉棒燒到金黃微焦 ，蘸點月見汁，雞肉更加軟滑濃郁。\n\n豚肉韭菜卷用薄切既豚肉片包住韭菜，豚肉既油脂滲入韭菜之中有一種特別嘅香氣。\n\n個人最愛荔枝豚肉卷，略帶焦香㗇豚肉包住清甜荔枝，感覺好清爽，減低油膩感。\n\n［甜品］\n日本水蜜桃雪葩\n食完串燒，來一客冰涼雪葩，滿滿水蜜桃香氣，解渴又消暑!\n\n［飲品］\n\n海鹽鮮青桔梳打\n自家製梅酒",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大圍站附近有間日式居酒屋，朋友喜歡呢度濃濃嘅日式懷舊氛圍感，昏黃燈光，牆上貼滿復古海報，下班後或放假來這兒飲兩杯，輕談淺酌好放鬆。\n\n居酒屋主打刺身、串燒與各式清酒，最近仲推出$168/2小時飲品放題 ，包括較高質嘅清酒（仲有榮光富士）、啤酒、燒酎、梅酒、highball、柚子檸檬梳打等，酒鬼朋友都可以盡情暢飲！\n\n除咗飲品放題，星期日至三仲係小酌祭，4款人氣居酒屋小食全部都係$88。我哋試咗其中一款。\n\n［刺身］\n\n三色吞拿刺身 $88\n\n刺身勁厚切，味道鮮甜\n\n［壽司］\n精選火炙壽司拼盤6件\n\n壽司用日式小木盤奉上，師傅選取最時令食材，每日都有所不同，而且即叫即火炙 ，帶點焦香，滿滿魚油香氣。喜歡壽司嘅朋友不要錯過。\n\n［串燒］\n荔枝豚肉卷\n豚肉韭菜卷\n免治雞肉棒\n一口甜蕃薯\n\n免治雞肉棒燒到金黃微焦 ，蘸點月見汁，雞肉更加軟滑濃郁。\n\n豚肉韭菜卷用薄切既豚肉片包住韭菜，豚肉既油脂滲入韭菜之中有一種特別嘅香氣。\n\n個人最愛荔枝豚肉卷，略帶焦香㗇豚肉包住清甜荔枝，感覺好清爽，減低油膩感。\n\n［甜品］\n日本水蜜桃雪葩\n食完串燒，來一客冰涼雪葩，滿滿水蜜桃香氣，解渴又消暑!\n\n［飲品］\n\n海鹽鮮青桔梳打\n自家製梅酒",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Charmaine Ho",
+          "uri": "https://www.google.com/maps/contrib/101514907837134016863/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJFd928LP384OfIRov1-bGXJZmfNRx6TiDfszQ24CcBXpl1nQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-29T03:26:20.013551741Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsbmFUQk9hRkJ5ZVdoQk9XUkpNMDlWV210NU5sRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsbmFUQk9hRkJ5ZVdoQk9XUkpNMDlWV210NU5sRRAB!2m1!1s0x3404078de6155b8d:0x78d8fb4bf8e45a3a"
+      },
+      {
+        "name": "places/ChIJjVsV5o0HBDQROlrk-Ev72Hg/reviews/Ci9DQUlRQUNvZENodHljRjlvT205VFMycEJVWE5CT1RSeE5FUkNRM1UwVWtGVGFrRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "本身諗住黎食左口魚丼，點知餐牌上面唔見有。\n\n叫左個至愛牛舌，都係鰂魚涌個間完勝，反而個海膽丼最抵食，勁大pat海膽，食極仲有，比較特別嘅係山芋同苦瓜天婦羅，外層炸衣香脆唔油膩，可以品嚐到沖繩苦瓜獨特嘅甘香同微苦風味。\n\n✨海膽丼\n✨厚切牛舌心\n✨花魚一夜干\n✨汁燒雞腎\n✨炸牛蒡\n✨荔枝豚肉卷\n✨青森山芋\n✨ 沖繩苦瓜天婦羅\n\n好少過黎大圍發掘野食。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "本身諗住黎食左口魚丼，點知餐牌上面唔見有。\n\n叫左個至愛牛舌，都係鰂魚涌個間完勝，反而個海膽丼最抵食，勁大pat海膽，食極仲有，比較特別嘅係山芋同苦瓜天婦羅，外層炸衣香脆唔油膩，可以品嚐到沖繩苦瓜獨特嘅甘香同微苦風味。\n\n✨海膽丼\n✨厚切牛舌心\n✨花魚一夜干\n✨汁燒雞腎\n✨炸牛蒡\n✨荔枝豚肉卷\n✨青森山芋\n✨ 沖繩苦瓜天婦羅\n\n好少過黎大圍發掘野食。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tang Henry",
+          "uri": "https://www.google.com/maps/contrib/106936313886268971386/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViJD3F2Q0EglVRHROhwD7UmmnejkAwYh_8-pGYvPKC29MLMtHS0w=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-09-05T15:24:54.796443730Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205VFMycEJVWE5CT1RSeE5FUkNRM1UwVWtGVGFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205VFMycEJVWE5CT1RSeE5FUkNRM1UwVWtGVGFrRRAB!2m1!1s0x3404078de6155b8d:0x78d8fb4bf8e45a3a"
+      },
+      {
+        "name": "places/ChIJjVsV5o0HBDQROlrk-Ev72Hg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oSVF6TnNTVjlyYUROUlZGRklWVkpLVkc5NE9HYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "相約三五朋友晚飯相聚，最好找個唔使限時限刻還枱，可以慢慢食，能夠邊傾邊飲的地方。\n\n居酒屋大概是不錯的選擇，腦海忽然浮起MM曾介紹過，在大圍的親民居酒屋，Kiko Izakaya。\n\n特高的樓底，木系作主調，柔和之燈光，是典型的居酒屋格局，肯定合我們要求了。\n\n來這類地方，當然先要飲嘢，啤酒或者Sake當然是最正路之選擇，不愛酒精的朋友，亦可揀檸檬綠茶、青桔梳打等等，總有岩飲的東西。\n\n一輪佐酒小吃，鮟鱇魚肝勝在細滑豐腴的口感，漬牛蒡爽脆咸香，螢光魷魚鮮甜清脆又爆羔，梅漬番茄醒胃又消暑，在炎炎天氣品嚐，最為合時。\n\n清酒煮蜆是非常驚喜的一道，蜆肉隻隻飽滿，鮮甜到不得了，亦完全無沙。\n\n這裡的刺身也很新鮮，個人最愛深海池魚，肉質細致爽脆。另外的磯煮鮑魚，上桌時已切成一片片，更入味及方便食用。\n\n土佐豆腐，經炸過的豆腐口感有層次，帶醬油香氣，夾著一堆的紫菜絲同吃，不錯吃。\n\n再來是幾款的串燒，全部是即叫即燒，成品香氣四溢，阿波尾雞皮這邪惡的東西，無可能會唔好食。荔枝豚肉卷亦有夠清新，免治雞肉棒一定要沾生蛋兼同吃，才更滑更好味。\n\n本人從來是明太子的忠粉，所以這明太子芝士蛋卷，軟滑又滿帶咸香，這款必須要趁熱食，保持最細嫩的口感與味道。\n\n有我在，也必定會有日式餃子。體型偏細，但個冰花底做得好靚，加上微微焦香的餃子底部，沒有投訴了。\n\n大家慢慢傾，慢慢飲，慢慢食，開心有時真係可以好簡單。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "相約三五朋友晚飯相聚，最好找個唔使限時限刻還枱，可以慢慢食，能夠邊傾邊飲的地方。\n\n居酒屋大概是不錯的選擇，腦海忽然浮起MM曾介紹過，在大圍的親民居酒屋，Kiko Izakaya。\n\n特高的樓底，木系作主調，柔和之燈光，是典型的居酒屋格局，肯定合我們要求了。\n\n來這類地方，當然先要飲嘢，啤酒或者Sake當然是最正路之選擇，不愛酒精的朋友，亦可揀檸檬綠茶、青桔梳打等等，總有岩飲的東西。\n\n一輪佐酒小吃，鮟鱇魚肝勝在細滑豐腴的口感，漬牛蒡爽脆咸香，螢光魷魚鮮甜清脆又爆羔，梅漬番茄醒胃又消暑，在炎炎天氣品嚐，最為合時。\n\n清酒煮蜆是非常驚喜的一道，蜆肉隻隻飽滿，鮮甜到不得了，亦完全無沙。\n\n這裡的刺身也很新鮮，個人最愛深海池魚，肉質細致爽脆。另外的磯煮鮑魚，上桌時已切成一片片，更入味及方便食用。\n\n土佐豆腐，經炸過的豆腐口感有層次，帶醬油香氣，夾著一堆的紫菜絲同吃，不錯吃。\n\n再來是幾款的串燒，全部是即叫即燒，成品香氣四溢，阿波尾雞皮這邪惡的東西，無可能會唔好食。荔枝豚肉卷亦有夠清新，免治雞肉棒一定要沾生蛋兼同吃，才更滑更好味。\n\n本人從來是明太子的忠粉，所以這明太子芝士蛋卷，軟滑又滿帶咸香，這款必須要趁熱食，保持最細嫩的口感與味道。\n\n有我在，也必定會有日式餃子。體型偏細，但個冰花底做得好靚，加上微微焦香的餃子底部，沒有投訴了。\n\n大家慢慢傾，慢慢飲，慢慢食，開心有時真係可以好簡單。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fabrice Lau",
+          "uri": "https://www.google.com/maps/contrib/107596577132634374287/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ1EOlnl1Aqub6mVD9w8Mp-fxpw6AiKpHlLiYqa2eyeeVp1Sw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-03T08:14:12.241798351Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oSVF6TnNTVjlyYUROUlZGRklWVkpLVkc5NE9HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oSVF6TnNTVjlyYUROUlZGRklWVkpLVkc5NE9HYxAB!2m1!1s0x3404078de6155b8d:0x78d8fb4bf8e45a3a"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404078de6155b8d:0x78d8fb4bf8e45a3a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8707986183237687866&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404078de6155b8d:0x78d8fb4bf8e45a3a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404078de6155b8d:0x78d8fb4bf8e45a3a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404078de6155b8d:0x78d8fb4bf8e45a3a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJjVsV5o0HBDQROlrk-Ev72Hg/photos/Aa-ngMaehE8FpbKgpAbcuQE0L81uwSaqMbcD60z7nH74BQL4nP80KoOLbSf4KITTZ22V0jx8iWNfpP-yTcy49RivdnYHM9Sz_t2BhZbNIHmoYE1BF0rZX5ZoHdLB-LU16a2oYF-ZOr2NuPrS62-kca4djprwjqbmbeuXUuFFffodrUgjun1qdUzDo4s5Whdir3FCCQm5ClN8BjEiAySgMaz_8CJGGHtkpEHOU4TX_Avl5n_OpjDsxiYGHjbrH4RoXZD1lMMr_WMIkBUvXKmCQ99CLwA_Km2saaWhu4O9lGsy060Yij6ffhzCS5dpZBCnVfy45qjlJmt7x19Cs8PpROz930hPnlWrGnyhwokalbf0dqGKaZza5K5zmeGglPMOzAahBMKIIgFOWT7a0LbLl0ztyoykm27rZ8SzqTEpU0FXA5vF",
+      "widthPx": 3024,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Chiu Law",
+          "uri": "https://maps.google.com/maps/contrib/114178112633204475988",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBY2jsEmgKWFOu6dQRoM1YGGGc5ixJR4UrkA-jI309vZ_7I1aB4Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBOvmkRp_F1FwiXFE-EE-he&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBOvmkRp_F1FwiXFE-EE-he!2e10!4m2!3m1!1s0x3404078de6155b8d:0x78d8fb4bf8e45a3a"
+    },
+    "local_path": "photos/ChIJjVsV5o0HBDQROlrk-Ev72Hg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQQkb_fJYNkEgBsS9e4dFn5ArskYwJwNaWPxhiX74CRt8kCtZMQojyDDyv3rCb2xxAOlxXjQaiF6CrxjIn-hz7Id1wEBitTsyQ_QF6tb4zsaCePIVSE2fdRXvA6q3fMUll6u1beuR5Yyo=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 239875
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

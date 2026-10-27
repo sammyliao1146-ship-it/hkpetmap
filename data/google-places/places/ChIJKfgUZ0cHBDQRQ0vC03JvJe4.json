@@ -1,0 +1,323 @@
+{
+  "google_place_id": "ChIJKfgUZ0cHBDQRQ0vC03JvJe4",
+  "restaurant_ids": [
+    "restaurant:3152802786"
+  ],
+  "fetched_at": "2026-10-23T15:45:51.814196+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJKfgUZ0cHBDQRQ0vC03JvJe4",
+    "types": [
+      "breakfast_restaurant",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "4627 4637",
+    "internationalPhoneNumber": "+852 4627 4637",
+    "formattedAddress": "香港九龍九龍城聯合道78號聯合道78號城",
+    "location": {
+      "latitude": 22.3300856,
+      "longitude": 114.1871942
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=17160244494134823747&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:30 – 18:00",
+        "星期二: 08:30 – 18:00",
+        "星期三: 08:30 – 18:00",
+        "星期四: 08:30 – 18:00",
+        "星期五: 08:30 – 18:00",
+        "星期六: 09:30 – 18:00",
+        "星期日: 09:30 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 70,
+    "displayName": {
+      "text": "MILD",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "食品專賣店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": false,
+    "servesBrunch": true,
+    "primaryType": "food_store",
+    "reviews": [
+      {
+        "name": "places/ChIJKfgUZ0cHBDQRQ0vC03JvJe4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwSGEwRTFNV3RFTVhWR1NESm1XSGhUWm5GTlQxRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "世貿 MILD 的戶外大草皮對著無敵海景，空間寬敞且寵物友善，帶主子來放電超 Chill！推薦必點炭燒豬芝士焗飯，焦香味濃厚，配上一杯香醇咖啡，在鬧市中看海放空，是與毛孩共享午間時光的最高享受。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "世貿 MILD 的戶外大草皮對著無敵海景，空間寬敞且寵物友善，帶主子來放電超 Chill！推薦必點炭燒豬芝士焗飯，焦香味濃厚，配上一杯香醇咖啡，在鬧市中看海放空，是與毛孩共享午間時光的最高享受。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kate Tse",
+          "uri": "https://www.google.com/maps/contrib/102721347318704322115/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpvASgiSG0LYyHg6gZ-J2fOlcqxybAe5Dlheh0ipteXUJpTg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-13T15:19:58.803005950Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwSGEwRTFNV3RFTVhWR1NESm1XSGhUWm5GTlQxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwSGEwRTFNV3RFTVhWR1NESm1XSGhUWm5GTlQxRRAB!2m1!1s0x340407476714f829:0xee256f72d3c24b43"
+      },
+      {
+        "name": "places/ChIJKfgUZ0cHBDQRQ0vC03JvJe4/reviews/ChZDSUhNMG9nS0VOYjV2NFBJeGRtSVd3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "昨午來吃午餐，點了鷄肉沙律配熱咖啡，當然要加件即日蛋糕（抹茶紅荳芝士餅）,心情頓時輕鬆，滿滿的幸福感湧出來。我可安靜地在此店嘆咖啡，埋單$146。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "昨午來吃午餐，點了鷄肉沙律配熱咖啡，當然要加件即日蛋糕（抹茶紅荳芝士餅）,心情頓時輕鬆，滿滿的幸福感湧出來。我可安靜地在此店嘆咖啡，埋單$146。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Celia CHU",
+          "uri": "https://www.google.com/maps/contrib/109397366548494572441/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWM9G5aE1cYJkjxUHU8xSaKMy4OGvg19d7ioeFFQkhThQ8uvJaVXw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-06-13T04:00:29.218200Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VOYjV2NFBJeGRtSVd3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VOYjV2NFBJeGRtSVd3EAE!2m1!1s0x340407476714f829:0xee256f72d3c24b43"
+      },
+      {
+        "name": "places/ChIJKfgUZ0cHBDQRQ0vC03JvJe4/reviews/ChZDSUhNMG9nS0VJQ0FnSURqc0szQWJREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "｜𝐌𝐢𝐥𝐝 の 九 龍 城 🧚🏻｜\n九龍城𝐌𝐢𝐥𝐝走工業水泥紅磚風🧱\n座位都幾多 假期嚟食野幾乎都唔洗點排隊🤍！\n𝐌𝐞𝐧𝐮上有輕食/主食/甜品/咖啡\n選擇都幾多 坐得都幾舒服 離地鐵站約10分鐘倒～\n意粉/酸種麵包賣相唔錯🥰而且份量合理！\n咖啡漸層都好好影😳係九龍城𝐂𝐚𝐟𝐞嚟講都幾推介٩( ‘ω’ )و\n#aiiifoodie_九龍城 #aiiifoodie_kowlooncity\n\n① 明太子煙三文魚忌廉扁意粉 ($98)\n② 煙三文魚牛油果太陽蛋酸種麵包 ($108)\n③ 𝐌𝐚𝐭𝐜𝐡𝐚 𝐖𝐢𝐭𝐡 𝐄𝐬𝐩𝐫𝐞𝐬𝐬𝐨 (H$45 C$50)\n④ 𝐄𝐬𝐩𝐫𝐞𝐬𝐬𝐨 𝐓𝐨𝐧𝐢𝐜 ($45)\n.\n✨Mild (九龍城)\n九龍城聯合道78號地舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "｜𝐌𝐢𝐥𝐝 の 九 龍 城 🧚🏻｜\n九龍城𝐌𝐢𝐥𝐝走工業水泥紅磚風🧱\n座位都幾多 假期嚟食野幾乎都唔洗點排隊🤍！\n𝐌𝐞𝐧𝐮上有輕食/主食/甜品/咖啡\n選擇都幾多 坐得都幾舒服 離地鐵站約10分鐘倒～\n意粉/酸種麵包賣相唔錯🥰而且份量合理！\n咖啡漸層都好好影😳係九龍城𝐂𝐚𝐟𝐞嚟講都幾推介٩( ‘ω’ )و\n#aiiifoodie_九龍城 #aiiifoodie_kowlooncity\n\n① 明太子煙三文魚忌廉扁意粉 ($98)\n② 煙三文魚牛油果太陽蛋酸種麵包 ($108)\n③ 𝐌𝐚𝐭𝐜𝐡𝐚 𝐖𝐢𝐭𝐡 𝐄𝐬𝐩𝐫𝐞𝐬𝐬𝐨 (H$45 C$50)\n④ 𝐄𝐬𝐩𝐫𝐞𝐬𝐬𝐨 𝐓𝐨𝐧𝐢𝐜 ($45)\n.\n✨Mild (九龍城)\n九龍城聯合道78號地舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "aiii ayo",
+          "uri": "https://www.google.com/maps/contrib/106477770407227692039/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKj7sLGClzLcfTdzyJW0Ckmy82b8c9MFm8i0eFUqrApltTrMPu=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-04-28T11:53:50.114960Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqc0szQWJREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqc0szQWJREAE!2m1!1s0x340407476714f829:0xee256f72d3c24b43"
+      },
+      {
+        "name": "places/ChIJKfgUZ0cHBDQRQ0vC03JvJe4/reviews/ChZDSUhNMG9nS0VJQ0FnSURXbVBfZGZ3EAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "九龍城工業風格cafe☕️主打咖啡同輕食，進店後空間感超大！一整個下午可以喺度放鬆～見到半紅磚牆同半水泥牆，加上頭頂嘅燈泡💡輕復古感覺，店裡仲有吧枱位置～\n\n🥯牛油果煙三文魚貝果 $98\n貝果塗上滿滿厚厚實牛油果醬🥑加上兩大塊煙三文魚，貝果口感較脆身，呢個貝果都幾健康☺️\n\n🍝白松露海鮮野菌扁意粉 $95\n白松露味道好足！2個女仔食剛剛好～海鮮份量多啲就更加好～\n\n🍵Matcha Espresso $42\n估唔到呢度有Matcha+Espresso😍唔喺間間cafe都有㗎！有靚靚心心拉花～味道都喺Matcha味道較多～\n\n☕Cappuccino $38\n可愛泡泡味道，咖啡味道濃郁～\n\nIg: Mylittlegourmand\nFb: Mylittlegourmandcc",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "九龍城工業風格cafe☕️主打咖啡同輕食，進店後空間感超大！一整個下午可以喺度放鬆～見到半紅磚牆同半水泥牆，加上頭頂嘅燈泡💡輕復古感覺，店裡仲有吧枱位置～\n\n🥯牛油果煙三文魚貝果 $98\n貝果塗上滿滿厚厚實牛油果醬🥑加上兩大塊煙三文魚，貝果口感較脆身，呢個貝果都幾健康☺️\n\n🍝白松露海鮮野菌扁意粉 $95\n白松露味道好足！2個女仔食剛剛好～海鮮份量多啲就更加好～\n\n🍵Matcha Espresso $42\n估唔到呢度有Matcha+Espresso😍唔喺間間cafe都有㗎！有靚靚心心拉花～味道都喺Matcha味道較多～\n\n☕Cappuccino $38\n可愛泡泡味道，咖啡味道濃郁～\n\nIg: Mylittlegourmand\nFb: Mylittlegourmandcc",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CC mylittle",
+          "uri": "https://www.google.com/maps/contrib/117048176239284069670/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6XiXs-Q3ffPLgCRhLip_GbRoSCggfoc2M-1x5-yxHJW2XFw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-03-14T16:06:20.390969Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXbVBfZGZ3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXbVBfZGZ3EAE!2m1!1s0x340407476714f829:0xee256f72d3c24b43"
+      },
+      {
+        "name": "places/ChIJKfgUZ0cHBDQRQ0vC03JvJe4/reviews/ChdDSUhNMG9nS0VJQ0FnSURSeTRpRjlnRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "這間cafe離地鐵站有點遠，不過我還是很喜歡來，長方形的設計前區和後區是兩個風格，裝潢用上的色調和裝飾品都很有鮮明個性，還是寵物友善餐廳呢。\n\n🔹煙肉班尼迪蛋 $88\n本來說覺得Benedict這個價錢有點小貴，不過吃完後覺得物有所值😂 蛋漿流心程度剛剛好，濃濃的蛋香混在荷蘭醬中，跟脆脆的煙肉片和很有咬口的麵包一起吃，味道口感都很均勻。\n\n🔹煙燻雞肉凱撒沙律 $78\n這盤沙律份量不少，而且製作不馬虎，雞肉煙燻過後香氣更明顯，口感也是紮實中帶點嚼勁，沒有加了很多沙律醋，能吃到沙律菜的清新爽口。\n\n🔹Espresso Tonic $45\n咖啡豆nutty味很突出，espresso和tonic的比例剛剛好，中間有點檸檬的味道，微微的甜味讓飲品更解渴，推薦。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間cafe離地鐵站有點遠，不過我還是很喜歡來，長方形的設計前區和後區是兩個風格，裝潢用上的色調和裝飾品都很有鮮明個性，還是寵物友善餐廳呢。\n\n🔹煙肉班尼迪蛋 $88\n本來說覺得Benedict這個價錢有點小貴，不過吃完後覺得物有所值😂 蛋漿流心程度剛剛好，濃濃的蛋香混在荷蘭醬中，跟脆脆的煙肉片和很有咬口的麵包一起吃，味道口感都很均勻。\n\n🔹煙燻雞肉凱撒沙律 $78\n這盤沙律份量不少，而且製作不馬虎，雞肉煙燻過後香氣更明顯，口感也是紮實中帶點嚼勁，沒有加了很多沙律醋，能吃到沙律菜的清新爽口。\n\n🔹Espresso Tonic $45\n咖啡豆nutty味很突出，espresso和tonic的比例剛剛好，中間有點檸檬的味道，微微的甜味讓飲品更解渴，推薦。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "852 FoodVoyage",
+          "uri": "https://www.google.com/maps/contrib/107986755230753831938/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX86ggCNMta0vME12ubu4aYMGb2TIefdCZBe2_aIdb8doteS4T9sA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-05-03T18:25:00.296865Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSeTRpRjlnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSeTRpRjlnRRAB!2m1!1s0x340407476714f829:0xee256f72d3c24b43"
+      }
+    ],
+    "servesDessert": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340407476714f829:0xee256f72d3c24b43!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17160244494134823747&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407476714f829:0xee256f72d3c24b43!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340407476714f829:0xee256f72d3c24b43!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407476714f829:0xee256f72d3c24b43!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJKfgUZ0cHBDQRQ0vC03JvJe4/photos/Aa-ngMZUY5fKDvFV0KQ22WQCh__7wdvhTUcyonuteXve4Nij-dQ0-sl4Y8Ak96oDBgtTtTfrrw-Ems77AVe00EXC1v7K194NEOV40cOyhUIOAlnHexiWKlUQIznEi8pyUuiqf80umrJrcC4ueEbEq6Cz_oUsPUr3i14_-DlF2TTAXiF17QtyI4vsn5fvHtLrWAIjRJ8IIFr5L3qIE6LU53wIogOXr8j0HzyuqJQAOPLkJQvVYmurlXne-BSRU2dfkOZKjmcBixPtSIZHHnbSbZMwpJQpVBhLve6O1Nn-k8i-U8MsJfN-2_PSv6eXZeJ1FOwY6vFfKzcDK2qSHKCdDcAvRHeRZxG9cg7zDv0AMINpK3fezJlToWFoaJmzucIJWuQZe7Uam2kJtxu-jBcH49gnr78d4KA",
+      "widthPx": 2969,
+      "heightPx": 3330,
+      "authorAttributions": [
+        {
+          "displayName": "meling lam",
+          "uri": "https://maps.google.com/maps/contrib/115813568181383675747",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXW4C0CTF9n1Hdfs_iQM0Zld7g0u0Odv_AsaD9drZdcFHMRlyAP2g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID2iJ7oNA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2iJ7oNA!2e10!4m2!3m1!1s0x340407476714f829:0xee256f72d3c24b43"
+    },
+    "local_path": "photos/ChIJKfgUZ0cHBDQRQ0vC03JvJe4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0ee4ww7HKIGG2jdvqsCgcT36mSuBDg9a3EYk_OyIiaDBfYjIlbHyY6nbqI3fnvhT9dkP78quygD9LTRlDgenTCaojmt8bw9UPMJwppuawk1psbdil55M5hO14aL8mAcLdY5Kz=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 147378
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "food_store",
+    "label": "食品專賣店",
+    "types": [
+      "breakfast_restaurant",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

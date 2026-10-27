@@ -1,0 +1,412 @@
+{
+  "google_place_id": "ChIJ4zfmQlMBBDQRPaGz0HGdo4s",
+  "restaurant_ids": [
+    "restaurant:2215801191"
+  ],
+  "fetched_at": "2026-10-23T15:41:44.330012+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ4zfmQlMBBDQRPaGz0HGdo4s",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "8300 8043",
+    "internationalPhoneNumber": "+852 8300 8043",
+    "formattedAddress": "2/F, CNT Tower, 338 Hennessy Rd, Wan Chai, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2782575,
+      "longitude": 114.1786715
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=10062059104634118461&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 16:00, 18:00 – 23:00",
+        "星期二: 11:30 – 16:00, 18:00 – 23:00",
+        "星期三: 11:30 – 16:00, 18:00 – 23:00",
+        "星期四: 11:30 – 16:00, 18:00 – 23:00",
+        "星期五: 11:30 – 16:00, 18:00 – 23:00",
+        "星期六: 10:00 – 16:00, 18:00 – 23:00",
+        "星期日: 10:00 – 16:00, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 75,
+    "displayName": {
+      "text": "鍾菜館",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ4zfmQlMBBDQRPaGz0HGdo4s/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kVFUxTlVibWhUWlRsYU1VNUNORTk0UkRaWFRsRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "搭入2026年🎋 又快要到農曆新年了，諗好去邊吃團年飯/開年飯了嗎？今次趁係灣仔✨就介紹一間格調典雅的中菜廳🥢。餐廳裝潢融入中國傳統建築特色✨，氛圍高雅舒適，適合一家人🏠 來吃飯聚餐之選喔。\n\n最近中菜廳更推出震撼優惠！\n平實足料～超級抵食😍 別錯過喔‼️\n\n【🦞龍蝦宴 Lobster Feast】 $1,388 6位/ $2,688 12位\n\n🔸前菜 江南五小碟\n(手拍青瓜、宮廷蘿蔔、陳醋雲耳、雞絲粉皮、陳醋海蜇頭） 開胃又好吃的精緻小盤。\n\n🔸金湯澳洲龍蝦（伊麵底）：共3隻🦞，肉質爽甜又彈牙。\n🔸花膠海皇翅：濃稠足料，全程烘著吃很暖身。 🔸鍾家醬爆炒黑毛豬冰山蚌：夠鑊氣，爽口又惹味！\n🔸油鹽水蒸蝴蝶斑：🐟火喉剛好，啖啖肉 實中帶滑。\n🔸鮮茄菌皇浸菜苗：小白菜清甜，加上鮮茄開胃。\n🔸鹽香雞：🐥肉質嫩滑又有雞味。\n🔸飄香荷葉飯：飯粒濕潤又滋味，帶有荷葉香。 🔸窩心紅棗糕：煙韌有棗香，完美！\n🔸陳皮紅豆沙：超級起沙又有陳皮香🖤 大滿足🥳\n\n▪️推薦做家庭聚餐/ 商務慶祝；記得提早訂位。\n▪️服務方面：上菜節奏快，態度👍🏻👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "搭入2026年🎋 又快要到農曆新年了，諗好去邊吃團年飯/開年飯了嗎？今次趁係灣仔✨就介紹一間格調典雅的中菜廳🥢。餐廳裝潢融入中國傳統建築特色✨，氛圍高雅舒適，適合一家人🏠 來吃飯聚餐之選喔。\n\n最近中菜廳更推出震撼優惠！\n平實足料～超級抵食😍 別錯過喔‼️\n\n【🦞龍蝦宴 Lobster Feast】 $1,388 6位/ $2,688 12位\n\n🔸前菜 江南五小碟\n(手拍青瓜、宮廷蘿蔔、陳醋雲耳、雞絲粉皮、陳醋海蜇頭） 開胃又好吃的精緻小盤。\n\n🔸金湯澳洲龍蝦（伊麵底）：共3隻🦞，肉質爽甜又彈牙。\n🔸花膠海皇翅：濃稠足料，全程烘著吃很暖身。 🔸鍾家醬爆炒黑毛豬冰山蚌：夠鑊氣，爽口又惹味！\n🔸油鹽水蒸蝴蝶斑：🐟火喉剛好，啖啖肉 實中帶滑。\n🔸鮮茄菌皇浸菜苗：小白菜清甜，加上鮮茄開胃。\n🔸鹽香雞：🐥肉質嫩滑又有雞味。\n🔸飄香荷葉飯：飯粒濕潤又滋味，帶有荷葉香。 🔸窩心紅棗糕：煙韌有棗香，完美！\n🔸陳皮紅豆沙：超級起沙又有陳皮香🖤 大滿足🥳\n\n▪️推薦做家庭聚餐/ 商務慶祝；記得提早訂位。\n▪️服務方面：上菜節奏快，態度👍🏻👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wincyholic Chou",
+          "uri": "https://www.google.com/maps/contrib/105661210355975255945/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnAXQ_vBN6SvflhKyv7CSVECvylwksAssHMMyjPKkMRPNsgnr6=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-01-08T08:55:19.350517505Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kVFUxTlVibWhUWlRsYU1VNUNORTk0UkRaWFRsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kVFUxTlVibWhUWlRsYU1VNUNORTk0UkRaWFRsRRAB!2m1!1s0x3404015342e637e3:0x8ba39d71d0b3a13d"
+      },
+      {
+        "name": "places/ChIJ4zfmQlMBBDQRPaGz0HGdo4s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWWGNubHNkR2cxVkdFd2JXWlBhbVEyZFRONE1GRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "飲茶好抵！鮑魚燒賣都只係$9！好多款抵食點心$7-$9。三大兩小飲咗$280！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "飲茶好抵！鮑魚燒賣都只係$9！好多款抵食點心$7-$9。三大兩小飲咗$280！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mary Wright",
+          "uri": "https://www.google.com/maps/contrib/114187530478935697908/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSv5kLFgMpc_woAax6QDsYmpBfJQMRM5Yk7GCm0cMXiMZtEvY=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-29T13:49:30.888878454Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWWGNubHNkR2cxVkdFd2JXWlBhbVEyZFRONE1GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWWGNubHNkR2cxVkdFd2JXWlBhbVEyZFRONE1GRRAB!2m1!1s0x3404015342e637e3:0x8ba39d71d0b3a13d"
+      },
+      {
+        "name": "places/ChIJ4zfmQlMBBDQRPaGz0HGdo4s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkYVpVWnRlSEYyUkZoT1IwZGZWa1JrZWxaNU1IYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "開心龍蝦宴\n今晚師兄約好一群打太極學員作 2026 年初聚餐, 到人氣之地 灣仔 的 鍾菜館 吃 龍蝦宴.\n\n食堂在一樓,   門面好靚,  中式設計, 裝修古香古色,  相當優越.  面積大, 樓底高,  堂座有圓檯,  梳化卡位,  設有多個貴賓房.   每間房設計獨特,   燈光和詣.  裝修雅致.   我們一圍 12人, 座位非常舒適.\n\n師兄訂了  龍蝦宴  12 位   $2, 688-,  隊友未到齊, 侍應招呼先飲杯熱茶.\n\n人齊上菜,  前菜:  江南五小碟,  齊齊送上, 有  陳醋雲耳, 皇廷蘿蔔, 拍蒜青瓜,  雞絲粉皮, 藤椒魚皮絲.  各式涼菜,  好開胃.\n\n接著主角出場,  金湯澳洲龍蝦 (伊麵底),   金湯澳洲龍蝦, 龍蝦紅卜卜,  長長的龍蝦鬚伸展起來, 造型很美, 主角色香味俱全.龍蝦新鮮, 厚肉香甜, 份量足,  肉質飽滿緊實,  味道鮮美,  伴上用上湯泡制金黃色伊面, 好好味.   不油膩.\n\n鍾家醬爆炒黑毛豬冰山蚌,   黑毛豬肉質軟稔, 冰山蚌夠爽口. 鍾家醬汁調味適中,  配西花蘭, 入口爽, 味道正.\n\n花膠海皇翅,  侍應姐姐用卡車送上 12 盅花膠海皇翅, 連同獨立保溫 燭臺 .  材料足,  魚翅, 花膠,  雞絲, 調味和黏稠度也不錯. 魚翅爽口彈牙, 燉得夠火侯, 湯汁濃稠順滑.  滋味可口.\n\n油鹽水晶蝴蝶斑, 肉滑新鮮. 蝴蝶斑鮮味十足,\n配上蒸魚豉油及薑蔥, 的確是絕配, 滿意!\n\n鹽香雞, 食落有雞味, 少骨.  調味正,  加上蔥絲, 香口好味.\n\n鮮茄菌皇浸菜苗,   小白菜苗嫩綠鮮甜, 鮮茄微酸, 加上蒜子薑片和米湯浸制,  吃得健康.\n\n飄香荷葉飯   用荷葉包著蒸, 富荷香,  配上冬菇粒, 蝦肉, 瑤柱, 蔥粒, 米飯囗感極豐富.\n\n窩心紅棗糕, 花型制作,  美觀吸引, 紅棗糕軟糯微甜, 好完美的 開年餐.\n紅豆沙,  有質感, 富豆香, 不太甜.\n\n服務好價錢抵食, 我們自駕,  有泊車服務,  會再來.\n\n#foodie #food #foodpic #foodphoto #yum #yummy #delicious #tasty #相機食先 #手機食先 #hkfood #香港美食 #美食 #hkig #ighk #hkgoodlover #hongkong #foodblogger #hkfood #hkfoodie\n#香港 #美食分享#美食推介#香港必吃#香港吃#香港吃吃吃#香港吃貨＃香港吃喝玩樂#吃在香港#鍾菜館",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "開心龍蝦宴\n今晚師兄約好一群打太極學員作 2026 年初聚餐, 到人氣之地 灣仔 的 鍾菜館 吃 龍蝦宴.\n\n食堂在一樓,   門面好靚,  中式設計, 裝修古香古色,  相當優越.  面積大, 樓底高,  堂座有圓檯,  梳化卡位,  設有多個貴賓房.   每間房設計獨特,   燈光和詣.  裝修雅致.   我們一圍 12人, 座位非常舒適.\n\n師兄訂了  龍蝦宴  12 位   $2, 688-,  隊友未到齊, 侍應招呼先飲杯熱茶.\n\n人齊上菜,  前菜:  江南五小碟,  齊齊送上, 有  陳醋雲耳, 皇廷蘿蔔, 拍蒜青瓜,  雞絲粉皮, 藤椒魚皮絲.  各式涼菜,  好開胃.\n\n接著主角出場,  金湯澳洲龍蝦 (伊麵底),   金湯澳洲龍蝦, 龍蝦紅卜卜,  長長的龍蝦鬚伸展起來, 造型很美, 主角色香味俱全.龍蝦新鮮, 厚肉香甜, 份量足,  肉質飽滿緊實,  味道鮮美,  伴上用上湯泡制金黃色伊面, 好好味.   不油膩.\n\n鍾家醬爆炒黑毛豬冰山蚌,   黑毛豬肉質軟稔, 冰山蚌夠爽口. 鍾家醬汁調味適中,  配西花蘭, 入口爽, 味道正.\n\n花膠海皇翅,  侍應姐姐用卡車送上 12 盅花膠海皇翅, 連同獨立保溫 燭臺 .  材料足,  魚翅, 花膠,  雞絲, 調味和黏稠度也不錯. 魚翅爽口彈牙, 燉得夠火侯, 湯汁濃稠順滑.  滋味可口.\n\n油鹽水晶蝴蝶斑, 肉滑新鮮. 蝴蝶斑鮮味十足,\n配上蒸魚豉油及薑蔥, 的確是絕配, 滿意!\n\n鹽香雞, 食落有雞味, 少骨.  調味正,  加上蔥絲, 香口好味.\n\n鮮茄菌皇浸菜苗,   小白菜苗嫩綠鮮甜, 鮮茄微酸, 加上蒜子薑片和米湯浸制,  吃得健康.\n\n飄香荷葉飯   用荷葉包著蒸, 富荷香,  配上冬菇粒, 蝦肉, 瑤柱, 蔥粒, 米飯囗感極豐富.\n\n窩心紅棗糕, 花型制作,  美觀吸引, 紅棗糕軟糯微甜, 好完美的 開年餐.\n紅豆沙,  有質感, 富豆香, 不太甜.\n\n服務好價錢抵食, 我們自駕,  有泊車服務,  會再來.\n\n#foodie #food #foodpic #foodphoto #yum #yummy #delicious #tasty #相機食先 #手機食先 #hkfood #香港美食 #美食 #hkig #ighk #hkgoodlover #hongkong #foodblogger #hkfood #hkfoodie\n#香港 #美食分享#美食推介#香港必吃#香港吃#香港吃吃吃#香港吃貨＃香港吃喝玩樂#吃在香港#鍾菜館",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "花生 MaMa",
+          "uri": "https://www.google.com/maps/contrib/100450139491588929732/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwQO7XCCE7MITE2yYVCyMgKBapXVtQ7FI3pcvsFe8ZUqmVzwED=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-08T07:02:15.097222865Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkYVpVWnRlSEYyUkZoT1IwZGZWa1JrZWxaNU1IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkYVpVWnRlSEYyUkZoT1IwZGZWa1JrZWxaNU1IYxAB!2m1!1s0x3404015342e637e3:0x8ba39d71d0b3a13d"
+      },
+      {
+        "name": "places/ChIJ4zfmQlMBBDQRPaGz0HGdo4s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paRVZtWkliVU42YTA5bWVGOWpRVmx6WDJoaVUxRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 3,
+        "text": {
+          "text": "裝修精緻，味道一般，味精重手，試過就算",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "裝修精緻，味道一般，味精重手，試過就算",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Raymond C.s",
+          "uri": "https://www.google.com/maps/contrib/115993445207987674730/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUy1_Z9U3FsTUsD3taZjyIzNEbRrRipYl6RIAdx4c_FUBY16jiTUw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-05-05T08:06:55.236621631Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paRVZtWkliVU42YTA5bWVGOWpRVmx6WDJoaVUxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paRVZtWkliVU42YTA5bWVGOWpRVmx6WDJoaVUxRRAB!2m1!1s0x3404015342e637e3:0x8ba39d71d0b3a13d"
+      },
+      {
+        "name": "places/ChIJ4zfmQlMBBDQRPaGz0HGdo4s/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aNVozZ3ljRXQzWkRGYWFVSTVSR1JJWm1sa1NHYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 1,
+        "text": {
+          "text": "正價貴，特價點心還可以。味道不佳，茶葉屬低下廉價品。唯是裝潢有風味，只作打卡用。且服務員態度不好，去過一次便不會再去。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "正價貴，特價點心還可以。味道不佳，茶葉屬低下廉價品。唯是裝潢有風味，只作打卡用。且服務員態度不好，去過一次便不會再去。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Akon Chan",
+          "uri": "https://www.google.com/maps/contrib/108493493516767305757/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK57AAeBGsbH6lV919Oe7LmFmqG69IM0Dj_zgXxYeBvSO6EQQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-10-29T06:49:09.370839453Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aNVozZ3ljRXQzWkRGYWFVSTVSR1JJWm1sa1NHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aNVozZ3ljRXQzWkRGYWFVSTVSR1JJWm1sa1NHYxAB!2m1!1s0x3404015342e637e3:0x8ba39d71d0b3a13d"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404015342e637e3:0x8ba39d71d0b3a13d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10062059104634118461&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404015342e637e3:0x8ba39d71d0b3a13d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404015342e637e3:0x8ba39d71d0b3a13d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404015342e637e3:0x8ba39d71d0b3a13d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ4zfmQlMBBDQRPaGz0HGdo4s/photos/Aa-ngMbIpuXvVnrjvQjJ4rwKnfRrULP6EFBt0JavvCdKy8oxofT9DavzKIyG9ayBy26xLGMU_2R717bhcWP4puRHBbzHXZ0s_3oiWiogyOYe69RQPx0mmdI3dn124jLA0X818Z5rdoFLoynUzBO46jLs-wbGYn9xDZm0znPni54DcIFEPJxRo9MrDju8EU2Qm4-sLtk1vMtDvSIKoev-lXP214CEv0kp-paT1fXcBA6gPlYO3UTTurM-Vkhbsp42U2wWg5IBZdaQ3ff86o9iffIrjo40vgo_AaX99guE6Hz9XThkU3U2e-C_2ejwt1YQ3KvmglSQKKg5fBSp1r9d01hnuVwRwIKylM4dyv5Wb23Rh0BmzhXab9PoTQj5ei3R3MZDEonXhzXNst9wkwsgWxecumOrKWWbfD5F6gE0kAzET_nN",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Daniel Lee",
+          "uri": "https://maps.google.com/maps/contrib/102996415172556495134",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJPPwe1UGPzBjSlskyCna5pxZbncE7o_-4QmMFJvgKz1-O9w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC03WSUQ-UMxFrQ0w8IAygq&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC03WSUQ-UMxFrQ0w8IAygq!2e10!4m2!3m1!1s0x3404015342e637e3:0x8ba39d71d0b3a13d"
+    },
+    "local_path": "photos/ChIJ4zfmQlMBBDQRPaGz0HGdo4s.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLevnfVa7_RfQhO2P5XWAnL57FlPTi94GIgE4mc2BT6cwVTeCEU4V-nHq8UF0n7IgRI_t5Sry7b9EeyOQikNzdbp8k1Y9HWjDL_3cF59p7HGWC-avIJtZQgN6GxuWszd6VWFKL8FXY8iMkw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 193758
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

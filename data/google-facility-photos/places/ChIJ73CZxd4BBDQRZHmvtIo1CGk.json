@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ73CZxd4BBDQRZHmvtIo1CGk",
+  "types": [
+    "pet_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Rm 03, 3/F, MG 162, 162 Wai Yip St, Kwun Tong, Kowloon, 香港",
+  "location": {
+    "latitude": 22.310948399999997,
+    "longitude": 114.2202547
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7568358043649276260&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Jolly Pets",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJ73CZxd4BBDQRZHmvtIo1CGk/photos/Aa-ngMZl_pXvfv1mRjVexg7VNwX3prQF1AvNv0NpRWrVFbDsPcmRMFHgBWLNpRXnX-iKNGORtKvhwk_NL1wOumoE9tb1sNhVZSYmOfYoNMm-yC_ypBybAG2KXqQBPwAmYdsreXbsoTmz1Lg3ZjJo12Nn866FmOB18gzXTP6yWFpeYs2iP_HXfXSQIuu9HhmCH7HpwdSmGMGmztkivzAwYJonnQqNsAz6XBtpuFac_arZRPnGEkyN0RIlANpARwwqHcY80hrjT09-nn-LIN2ZfgkOrOZ9wzZHc3cHmZMm0nbT0Ef_v7kaQIsO08i3LnP8kntlg2DxLwmbBBC78SbV_EuliBApRg4diPw7ggs0OO1-mD5cu6FsBYvoea2D8rJW1UqsB003b44wqI7GG_aYdnnrlNcKUu89UF9vOzDE9JK0DzUtBg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Jolly Pets",
+          "uri": "https://maps.google.com/maps/contrib/106775653965737684854",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMh2P0_Lef_ypj5Z0eJtRX7stAFVTM9ayxa8MY62m1kb9Xr9k=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADNLxalX79CRjQ8cXmvnBp&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADNLxalX79CRjQ8cXmvnBp!2e10!4m2!3m1!1s0x340401dec59970ef:0x6908358ab4af7964"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:22.399047+00:00"
+}

@@ -1,0 +1,330 @@
+{
+  "google_place_id": "ChIJZct3wSoHBDQRujSnZnM7qo4",
+  "restaurant_ids": [
+    "restaurant:2253800965"
+  ],
+  "fetched_at": "2026-10-23T15:38:54.945024+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJZct3wSoHBDQRujSnZnM7qo4",
+    "types": [
+      "dim_sum_restaurant",
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2383 9388",
+    "internationalPhoneNumber": "+852 2383 9388",
+    "formattedAddress": "香港九龍九龍城侯王道侯王道11號",
+    "location": {
+      "latitude": 22.3280228,
+      "longitude": 114.1884764
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=10280094466256090298&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 1,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:00 – 01:00",
+        "星期二: 06:00 – 01:00",
+        "星期三: 06:00 – 01:00",
+        "星期四: 06:00 – 01:00",
+        "星期五: 06:00 – 01:00",
+        "星期六: 06:00 – 01:00",
+        "星期日: 06:00 – 01:00"
+      ],
+      "nextCloseTime": "2026-10-23T17:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 373,
+    "displayName": {
+      "text": "嘉豐點心專門店",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "茶餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "dim_sum_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJZct3wSoHBDQRujSnZnM7qo4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsdFZtdzVNbGRYWVZWT2RHbE9Za3B4YUhWM1pYYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "點心即叫即蒸，新鮮熱辣\n\n釀茄子好味，水晶餃煙韌，鮮蝦腸足料、很有誠意。燒賣偏鹹，鹹水角外皮是糯軟黏糊的口感。\n\n客人爆滿，枱會較迫，但老少夾雜，氣氛不錯🫖\n\n2026.2.28",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "點心即叫即蒸，新鮮熱辣\n\n釀茄子好味，水晶餃煙韌，鮮蝦腸足料、很有誠意。燒賣偏鹹，鹹水角外皮是糯軟黏糊的口感。\n\n客人爆滿，枱會較迫，但老少夾雜，氣氛不錯🫖\n\n2026.2.28",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CHÜI",
+          "uri": "https://www.google.com/maps/contrib/104044450519781323070/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW318b8j6j9QxBYO9lnfct4FN103lt0x2GdCg35k2LpQOGNB3K8rw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-29T03:17:18.091086606Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsdFZtdzVNbGRYWVZWT2RHbE9Za3B4YUhWM1pYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsdFZtdzVNbGRYWVZWT2RHbE9Za3B4YUhWM1pYYxAB!2m1!1s0x3404072ac177cb65:0x8eaa3b7366a734ba"
+      },
+      {
+        "name": "places/ChIJZct3wSoHBDQRujSnZnM7qo4/reviews/Ci9DQUlRQUNvZENodHljRjlvT201MVYxZFZhMVpwV0ZGM1JEazFPRk5YUVhWRFYxRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 3,
+        "text": {
+          "text": "喺啟德做嘢嗰排，有次夜咗少少先食嘢，體藝館嗰邊就即刻搞唔掂，要過返九龍城食嘢。唔想食啲太 heavy 嘅嘢，飲啖茶食啲點心都可以，所以經過呢間「嘉豐點心專門店」就毫不遲疑咁入咗去。入到去都係要放低「茶位費」，呢度係 $7 位。\n\n照樣飲「壽眉」，正正常常。跟住就到 $35 嘅「至尊蝦餃皇」，佢哋嘅蝦餃都幾肥吓，夠晒滑，蝦味唔算出，不過勝在易入口。之後係 $31 嘅「蟲草花棉花雞」上菜，個面頭真係鋪咗啲蟲草花，幾得意，味道就正常，啲雞肉都算整得滑溜嘅。\n\n及後上菜嘅係 $28 嘅「鵪鶉蛋燒賣」，而家愈嚟愈少地方食到，味道都可以，隻鵪鶉蛋係正。跟住食 $23 嘅「家鄉鹹水角」，食吓佢哋啲炸嘢，好普通，唔算好好食，仲唔係話好熱，唔知咩事。不過咁樣食法，埋單 $124，我又覺得唔差㗎喎。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "喺啟德做嘢嗰排，有次夜咗少少先食嘢，體藝館嗰邊就即刻搞唔掂，要過返九龍城食嘢。唔想食啲太 heavy 嘅嘢，飲啖茶食啲點心都可以，所以經過呢間「嘉豐點心專門店」就毫不遲疑咁入咗去。入到去都係要放低「茶位費」，呢度係 $7 位。\n\n照樣飲「壽眉」，正正常常。跟住就到 $35 嘅「至尊蝦餃皇」，佢哋嘅蝦餃都幾肥吓，夠晒滑，蝦味唔算出，不過勝在易入口。之後係 $31 嘅「蟲草花棉花雞」上菜，個面頭真係鋪咗啲蟲草花，幾得意，味道就正常，啲雞肉都算整得滑溜嘅。\n\n及後上菜嘅係 $28 嘅「鵪鶉蛋燒賣」，而家愈嚟愈少地方食到，味道都可以，隻鵪鶉蛋係正。跟住食 $23 嘅「家鄉鹹水角」，食吓佢哋啲炸嘢，好普通，唔算好好食，仲唔係話好熱，唔知咩事。不過咁樣食法，埋單 $124，我又覺得唔差㗎喎。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Trendy Lam",
+          "uri": "https://www.google.com/maps/contrib/114120148439116093004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjFd6EcvKEN4WkedQyP6u2l4s_UWvXRq_HTHo3skXY8iHZIJo=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-04-13T14:57:11.122408561Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201MVYxZFZhMVpwV0ZGM1JEazFPRk5YUVhWRFYxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201MVYxZFZhMVpwV0ZGM1JEazFPRk5YUVhWRFYxRRAB!2m1!1s0x3404072ac177cb65:0x8eaa3b7366a734ba"
+      },
+      {
+        "name": "places/ChIJZct3wSoHBDQRujSnZnM7qo4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWS05XWnBSRGxoWTI5Uk5IcDZWbTQzU0dkTk1FRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 3,
+        "text": {
+          "text": "原來是佐敦新明記開的點心店。蝦餃大粒，摺位的皮過厚，整體不差，蝦爽彈。我比較喜歡細粒，最重要有筍和少量汁。蒸飯，攪亂了才記得拍攝，飯身偏淋，不啱我口味，但材料與飯的份量都多，排骨和鳳瓜質素都很好，",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "原來是佐敦新明記開的點心店。蝦餃大粒，摺位的皮過厚，整體不差，蝦爽彈。我比較喜歡細粒，最重要有筍和少量汁。蒸飯，攪亂了才記得拍攝，飯身偏淋，不啱我口味，但材料與飯的份量都多，排骨和鳳瓜質素都很好，",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "OC JEFF",
+          "uri": "https://www.google.com/maps/contrib/115986643174501718111/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAxKXzfNIuMoF1tw_84RBnszC_dyZhgC4qGvBWSV89haNGqPWBIQ=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-02-07T08:56:27.174782566Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWS05XWnBSRGxoWTI5Uk5IcDZWbTQzU0dkTk1FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWS05XWnBSRGxoWTI5Uk5IcDZWbTQzU0dkTk1FRRAB!2m1!1s0x3404072ac177cb65:0x8eaa3b7366a734ba"
+      },
+      {
+        "name": "places/ChIJZct3wSoHBDQRujSnZnM7qo4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkV0xYb3lOWGMxZURscVprMVRkVzlDVURaaVVGRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "我們品嘗了：\n燒賣皇：個子很大很多豬肉，結結實實的，入口滿足。\n蝦餃皇：個頭也是大，蝦也是大、新鮮爽口。\n糯米雞：即是荷葉包著的像粽子，也是很大一份，四人吃也沒問題。內有蝦米、豬肉碎、雞肉、臘腸、菇等，料足味也足。\n豉汁蒸鳳爪：常見的港式點心。\n叉燒腸：叉燒甜甜的，肉質也不錯，典型的港式腸粉味道。\n鳳爪排骨飯：米飯是絲苗米，味道不錯，淋上調制過的醬油，很香。\n脆皮韭菜飯餃：個頭大、韭菜多、餡料有蝦、肉粒等，皮薄餡足、外皮酥脆，推薦👍\n\n品嘗結論：＂大件夾扺食＂，即是：性價比高，份量比一般茶樓、酒樓的點心大份，價格又便宜一點。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我們品嘗了：\n燒賣皇：個子很大很多豬肉，結結實實的，入口滿足。\n蝦餃皇：個頭也是大，蝦也是大、新鮮爽口。\n糯米雞：即是荷葉包著的像粽子，也是很大一份，四人吃也沒問題。內有蝦米、豬肉碎、雞肉、臘腸、菇等，料足味也足。\n豉汁蒸鳳爪：常見的港式點心。\n叉燒腸：叉燒甜甜的，肉質也不錯，典型的港式腸粉味道。\n鳳爪排骨飯：米飯是絲苗米，味道不錯，淋上調制過的醬油，很香。\n脆皮韭菜飯餃：個頭大、韭菜多、餡料有蝦、肉粒等，皮薄餡足、外皮酥脆，推薦👍\n\n品嘗結論：＂大件夾扺食＂，即是：性價比高，份量比一般茶樓、酒樓的點心大份，價格又便宜一點。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "尋找他鄉的貓貓",
+          "uri": "https://www.google.com/maps/contrib/108215362729508185632/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1mFUyjTthcOWwm4qQbtY7G-k0gvBTgwf0emaProUf3W0oCbLHSA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-09-01T10:45:05.132768941Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkV0xYb3lOWGMxZURscVprMVRkVzlDVURaaVVGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkV0xYb3lOWGMxZURscVprMVRkVzlDVURaaVVGRRAB!2m1!1s0x3404072ac177cb65:0x8eaa3b7366a734ba"
+      },
+      {
+        "name": "places/ChIJZct3wSoHBDQRujSnZnM7qo4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCYVQyZHlXRkZpUVV4RVdtNUpVVmxSY0hrNFVIYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "舊鋪嗰時經過經常滿座 搬新鋪大咗容易搵位 點心點味不錯 足料👍 水晶餃爆餡 牛肉燒賣好味 茄子👍🏼👍🏼",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "舊鋪嗰時經過經常滿座 搬新鋪大咗容易搵位 點心點味不錯 足料👍 水晶餃爆餡 牛肉燒賣好味 茄子👍🏼👍🏼",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eres Fat",
+          "uri": "https://www.google.com/maps/contrib/110956272993789845879/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlt9YX0xeXeg2iYxIpbEIilnFP_eLxUQG5JEALka6CmW0Ei_oZ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-08-17T03:11:27.342451882Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCYVQyZHlXRkZpUVV4RVdtNUpVVmxSY0hrNFVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCYVQyZHlXRkZpUVV4RVdtNUpVVmxSY0hrNFVIYxAB!2m1!1s0x3404072ac177cb65:0x8eaa3b7366a734ba"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404072ac177cb65:0x8eaa3b7366a734ba!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10280094466256090298&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404072ac177cb65:0x8eaa3b7366a734ba!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404072ac177cb65:0x8eaa3b7366a734ba!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404072ac177cb65:0x8eaa3b7366a734ba!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJZct3wSoHBDQRujSnZnM7qo4/photos/Aa-ngMaWac-8TlesfUNgdewkkOq7hCcnXLC4Os5zOjK0Hc06cv9wiYRJC9eGbQI_4mvEMU3Dc-kS0vBJ7EQ3kb4xf-MdkaSPwlMKHLAKFbKADkyTmH8MPnXmiNexcIXjLPVB4xMpw4n6__pHYbpQ5J9mjE0Tg6DgOydqmb4h9TEWkTqhtxywGOWe3jjT0kmADN2epEh-jsjjbr1EMOv1gcar_T3CPCNYc_-Faek7r5jrE7OrRQzhsPsNgUPOkwb-haT9Znk6ONkSjd452Utpe5nb3O3YiPMtTQzpnjqjUVy1D8uvL3E1948nj86T8zJ7oxrw0vTgBbaY3cl0VCG5VvNGsBN4a2bEjTbqAqdtqJH1ZiiR749P2HIpEghahtIPyBZX-lO8etDjGjfIsdFCLWk_MNOQEJJeZuTPejxO2hXgt78s6Q",
+      "widthPx": 4096,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "嘉豐點心專門店",
+          "uri": "https://maps.google.com/maps/contrib/102602985368131863069",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLuWvBLi_J48T-e01xL_9p5657zcrssu6hBRe6SLVVnk8XDOg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBAGRFUkEigNAdtLEwVh82f&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBAGRFUkEigNAdtLEwVh82f!2e10!4m2!3m1!1s0x3404072ac177cb65:0x8eaa3b7366a734ba"
+    },
+    "local_path": "photos/ChIJZct3wSoHBDQRujSnZnM7qo4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYsl4tjMKY3P0HdSxEHTOnb8Qr0UbKL3LbAAT9zWbqBiF_nsRvd7subU2UVFd4BUaFRjY8yvLA9tw85rPemAoXLe623qUsPSgo-BMZhefxBTEuyqQ12ZlQgLZtHahaemA0W74a_kqMSHcL=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 190090
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "dim_sum_restaurant",
+    "label": "茶餐廳",
+    "types": [
+      "dim_sum_restaurant",
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,73 @@
+{
+  "google_place_id": "ChIJCzVqAsoABDQR-C6GfNI_IjI",
+  "restaurant_ids": [
+    "restaurant:3162216016"
+  ],
+  "fetched_at": "2026-10-23T15:39:45.361394+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJCzVqAsoABDQR-C6GfNI_IjI",
+    "types": [
+      "school",
+      "educational_institution",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2537 2083",
+    "internationalPhoneNumber": "+852 2537 2083",
+    "formattedAddress": "Shop B G/F, 250 Fa Yuen St, Mong Kok, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3260295,
+      "longitude": 114.1699596
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=3612520024369409784&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.iholistic.org/",
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+      "text": "Institute of Holistic Healthcare",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "教育機構",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "educational_institution",
+    "paymentOptions": {
+      "acceptsCashOnly": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400ca026a350b:0x32223fd27c862ef8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3612520024369409784&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ca026a350b:0x32223fd27c862ef8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400ca026a350b:0x32223fd27c862ef8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ca026a350b:0x32223fd27c862ef8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": null,
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "educational_institution",
+    "label": "教育機構",
+    "types": [
+      "school",
+      "educational_institution",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

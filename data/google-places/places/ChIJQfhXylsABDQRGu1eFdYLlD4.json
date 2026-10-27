@@ -1,0 +1,326 @@
+{
+  "google_place_id": "ChIJQfhXylsABDQRGu1eFdYLlD4",
+  "restaurant_ids": [
+    "restaurant:2212817764"
+  ],
+  "fetched_at": "2026-10-23T15:43:42.962821+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJQfhXylsABDQRGu1eFdYLlD4",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2827 9339",
+    "internationalPhoneNumber": "+852 2827 9339",
+    "formattedAddress": "香港香港島灣仔軒尼詩道288號英皇集團中心1樓",
+    "location": {
+      "latitude": 22.277538900000003,
+      "longitude": 114.17686549999999
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=4509242141014158618&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 23:00",
+        "星期二: 11:00 – 23:00",
+        "星期三: 11:00 – 23:00",
+        "星期四: 11:00 – 23:00",
+        "星期五: 11:00 – 23:00",
+        "星期六: 11:00 – 23:00",
+        "星期日: 11:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 376,
+    "displayName": {
+      "text": "香港老上海飯店有限公司",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJQfhXylsABDQRGu1eFdYLlD4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21waFNGRmhPVzVLTXpoRFQzaGZWV3RXTjNSRFgxRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 3,
+        "text": {
+          "text": "環境，服務都唔錯嘅。\n食物就一般 沒有驚喜。\n年尾人流比較旺，但求能夠訂位 便可。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境，服務都唔錯嘅。\n食物就一般 沒有驚喜。\n年尾人流比較旺，但求能夠訂位 便可。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "SOPHIA SO",
+          "uri": "https://www.google.com/maps/contrib/113490641297110465806/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIVd6ZzrXHPzhEhT7QnOkyXinBVrGlV5B_4NQv-FCyErSQ4qQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-08T14:36:49.714266998Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21waFNGRmhPVzVLTXpoRFQzaGZWV3RXTjNSRFgxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21waFNGRmhPVzVLTXpoRFQzaGZWV3RXTjNSRFgxRRAB!2m1!1s0x3404005bca57f841:0x3e940bd6155eed1a"
+      },
+      {
+        "name": "places/ChIJQfhXylsABDQRGu1eFdYLlD4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4cGFtRmFaV0U0Y1ZjMFZFWlFSRXh2WlRsS1EwRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "傳統上海菜，質素高，招呼週到， 不收開瓶費， 最好先book位",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "傳統上海菜，質素高，招呼週到， 不收開瓶費， 最好先book位",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CK Chan",
+          "uri": "https://www.google.com/maps/contrib/108942577220505833289/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNYoChiUUhKlK_mOJ3HhEreWSci6EygeXKcBJru2t51H3H1DQZMA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-17T02:57:11.511130501Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4cGFtRmFaV0U0Y1ZjMFZFWlFSRXh2WlRsS1EwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4cGFtRmFaV0U0Y1ZjMFZFWlFSRXh2WlRsS1EwRRAB!2m1!1s0x3404005bca57f841:0x3e940bd6155eed1a"
+      },
+      {
+        "name": "places/ChIJQfhXylsABDQRGu1eFdYLlD4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwVVl6QlZOWEp4YjFwaU5rVjZWVFp6YjJwS01WRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "態度好親切，好有舊時去熟嘅酒樓食飯咁嘅感覺，見我啲豆瓣醬用曬問我係咪好好味即刻攞多碟畀我，好似返到八九十年代，好味又窩心，絕對值得去🥰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "態度好親切，好有舊時去熟嘅酒樓食飯咁嘅感覺，見我啲豆瓣醬用曬問我係咪好好味即刻攞多碟畀我，好似返到八九十年代，好味又窩心，絕對值得去🥰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "MOMOKO FONG",
+          "uri": "https://www.google.com/maps/contrib/105283085717235252715/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2-_qiGJL7AOTu-nZYOVSlYh79JOxVlV2GH8pYIZoy2SpPW59w=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-01-08T06:32:09.260703305Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwVVl6QlZOWEp4YjFwaU5rVjZWVFp6YjJwS01WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwVVl6QlZOWEp4YjFwaU5rVjZWVFp6YjJwS01WRRAB!2m1!1s0x3404005bca57f841:0x3e940bd6155eed1a"
+      },
+      {
+        "name": "places/ChIJQfhXylsABDQRGu1eFdYLlD4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OTk5VOTJZVzVxUW1WS1ZFOVVWVkJDVWt4bVVVRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "扎實、傳統。人均二百多，抵食。會再光顧。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "扎實、傳統。人均二百多，抵食。會再光顧。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "whiskey",
+          "uri": "https://www.google.com/maps/contrib/113476918229683760730/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUagT12iKEroSXbaG-URKpwbnv7bkfjMtBD9OOs_1Yk4IU-AVA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-26T13:57:02.830111760Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OTk5VOTJZVzVxUW1WS1ZFOVVWVkJDVWt4bVVVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OTk5VOTJZVzVxUW1WS1ZFOVVWVkJDVWt4bVVVRRAB!2m1!1s0x3404005bca57f841:0x3e940bd6155eed1a"
+      },
+      {
+        "name": "places/ChIJQfhXylsABDQRGu1eFdYLlD4/reviews/ChZDSUhNMG9nS0VJQ0FnSUMta2Rxd1dBEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "一年一度蟹粉飯聚，鮮拆蟹粉貴少少但食過真係返唔到轉頭！其他菜式水準亦高尤其拆骨魚頭，用料新鮮完全無腥味👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一年一度蟹粉飯聚，鮮拆蟹粉貴少少但食過真係返唔到轉頭！其他菜式水準亦高尤其拆骨魚頭，用料新鮮完全無腥味👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pandamen",
+          "uri": "https://www.google.com/maps/contrib/113786663542061323486/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiVmOSOjPydHS6ebgwAzkewQDMYME5I1EiNFSGaF6QqRbiozDTHw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-11-06T10:43:55.089340Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMta2Rxd1dBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMta2Rxd1dBEAE!2m1!1s0x3404005bca57f841:0x3e940bd6155eed1a"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404005bca57f841:0x3e940bd6155eed1a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=4509242141014158618&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005bca57f841:0x3e940bd6155eed1a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404005bca57f841:0x3e940bd6155eed1a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005bca57f841:0x3e940bd6155eed1a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJQfhXylsABDQRGu1eFdYLlD4/photos/Aa-ngMazAo3BByxSMzuNXCUXlE7JQK0z-XTzAHR5bZZ1ZWw7iQFWJ-YyWu07YW47v9Ov9TLaRWkJhyTdewjzSlHfJposWObMSYZgmhBpSnd8NTAB6IC4jrX3DwXXEOmLTDfv0kjx4wN22-jf9H4Xh0fKjgd8aybQjadNOEAvW6x_Y2a-3UW-2QSsNBXsUko5PzgLbM5rUjN9pLrM8tz9KjNspezbzPhNIHUoaa_kMijQh1UJ5UT1v0sw8KiJa4We1TmS9SsccXDFvKgoTQ8E9qvMhaJBdP-UUvpwgacl6i5y2UKuGebG9r8BuHG9y_TBEiT5EvDKU5xMPGRLgmtv7bPEorToL3zifocan3IwGWpIOuBDuEHw2L-jf60VbmuodILCsdHvW5B_T8RvUBniZUpAKyn1Xgkq",
+      "widthPx": 2691,
+      "heightPx": 2018,
+      "authorAttributions": [
+        {
+          "displayName": "Shiba dinlo A",
+          "uri": "https://maps.google.com/maps/contrib/104500927225703234547",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqNEaQAp5Dyo6VsbrXjd1Fsd6WFesGV07qCG3u2YE6CuE9Tovc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICX4P7VzAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICX4P7VzAE!2e10!4m2!3m1!1s0x3404005bca57f841:0x3e940bd6155eed1a"
+    },
+    "local_path": "photos/ChIJQfhXylsABDQRGu1eFdYLlD4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjVI68xszZOuO3vIqS0a0_gyg116AWmSmMqZklFytIYUb-vt7xuORUT5F1OPbMQSCpi9BkJ3HfUK6WzkGImc4kt-9-reqKieewMlTJXARF4tqUVMq5tEIjimhunNVRqNnxI8Du=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 192759
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

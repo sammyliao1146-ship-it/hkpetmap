@@ -1,0 +1,332 @@
+{
+  "google_place_id": "ChIJr-GaPt0GBDQRa4Z85cd__JU",
+  "restaurant_ids": [
+    "restaurant:2253800965"
+  ],
+  "fetched_at": "2026-10-23T15:38:54.709081+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJr-GaPt0GBDQRa4Z85cd__JU",
+    "types": [
+      "fast_food_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6892 3312",
+    "internationalPhoneNumber": "+852 6892 3312",
+    "formattedAddress": "香港九龍慈雲山毓華里53號",
+    "location": {
+      "latitude": 22.3469138,
+      "longitude": 114.20229409999999
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=10807653702307710571&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:00 – 17:00",
+        "星期二: 06:00 – 17:00",
+        "星期三: 06:00 – 17:00",
+        "星期四: 06:00 – 17:00",
+        "星期五: 06:00 – 17:00",
+        "星期六: 06:00 – 17:00",
+        "星期日: 06:00 – 17:00"
+      ],
+      "nextOpenTime": "2026-10-23T22:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 228,
+    "displayName": {
+      "text": "嘉豐茶餐廳",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJr-GaPt0GBDQRa4Z85cd__JU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oNFRtNXlaMWg2Wm14aFZIaHJMWEJFU0Uxc2NrRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "職員友善，帶狗人士可以黎呢間餐廳🫶🏻👍🏻價錢十分平民。\n咖喱豬扒飯$52 😛😛😛😛(4/5)\n西多士$36 😛😛😛（3/5)\n附近亦都有兩個小時車位",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "職員友善，帶狗人士可以黎呢間餐廳🫶🏻👍🏻價錢十分平民。\n咖喱豬扒飯$52 😛😛😛😛(4/5)\n西多士$36 😛😛😛（3/5)\n附近亦都有兩個小時車位",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kim Lau",
+          "uri": "https://www.google.com/maps/contrib/115139846227702474127/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkVdBG6EBfSWe0t-YEDbqvn5NQPRSIA5xqA-FCiBmOfGaeZADK=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-30T06:11:46.581261486Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oNFRtNXlaMWg2Wm14aFZIaHJMWEJFU0Uxc2NrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oNFRtNXlaMWg2Wm14aFZIaHJMWEJFU0Uxc2NrRRAB!2m1!1s0x340406dd3e9ae1af:0x95fc7fc7e57c866b"
+      },
+      {
+        "name": "places/ChIJr-GaPt0GBDQRa4Z85cd__JU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RdGJWQm1kelZRU1ZCTldGYzBibEI1T0V4MlVsRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 3,
+        "text": {
+          "text": "細個係慈雲山讀書已經知道毓華街有間茶餐廳叫嘉豐茶餐廳，不過從來都無幫襯過。 見YouTube 有 Vlogger 專訪，就試吓啦。我地外賣左咖喱豬扒飯、雪菜肉絲豬扒上海麵、凍奶茶。\n………………………………………………\n馳名豬扒飯 (咖哩汁) ⭐️⭐️⭐️\n豬扒唔錯，幾林幾入味，咖喱汁就普通啦。\n\n豬扒上海麵配雪菜肉絲 ⭐️⭐️⭐️\n上海麵好粗，湯就比較清淡，亦都唔掛麵，雪菜味道都一般，可能切得比較大粒，唔係太出味。而豬扒其實就幾林，幾入味。\n\n凍奶茶 （少冰少甜） ⭐️⭐️⭐️\n普通水平。\n………………………………………………\n\n餐廳可能主力做學校午市生意，營業時間每日都係去到黃昏6點，如果想試下要留意營業時間喔。不過餐廳嘅食物我覺得只係達到OK啦嘅水平。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "細個係慈雲山讀書已經知道毓華街有間茶餐廳叫嘉豐茶餐廳，不過從來都無幫襯過。 見YouTube 有 Vlogger 專訪，就試吓啦。我地外賣左咖喱豬扒飯、雪菜肉絲豬扒上海麵、凍奶茶。\n………………………………………………\n馳名豬扒飯 (咖哩汁) ⭐️⭐️⭐️\n豬扒唔錯，幾林幾入味，咖喱汁就普通啦。\n\n豬扒上海麵配雪菜肉絲 ⭐️⭐️⭐️\n上海麵好粗，湯就比較清淡，亦都唔掛麵，雪菜味道都一般，可能切得比較大粒，唔係太出味。而豬扒其實就幾林，幾入味。\n\n凍奶茶 （少冰少甜） ⭐️⭐️⭐️\n普通水平。\n………………………………………………\n\n餐廳可能主力做學校午市生意，營業時間每日都係去到黃昏6點，如果想試下要留意營業時間喔。不過餐廳嘅食物我覺得只係達到OK啦嘅水平。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "LaHaMo",
+          "uri": "https://www.google.com/maps/contrib/108770248051326051257/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf2wsz6Upc4mjloiKfCTmvrF-7XGpEpfGsVV9OPp-5to3XOew=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-01-18T16:30:56.393283139Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RdGJWQm1kelZRU1ZCTldGYzBibEI1T0V4MlVsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RdGJWQm1kelZRU1ZCTldGYzBibEI1T0V4MlVsRRAB!2m1!1s0x340406dd3e9ae1af:0x95fc7fc7e57c866b"
+      },
+      {
+        "name": "places/ChIJr-GaPt0GBDQRa4Z85cd__JU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWV1MzVkxXVTU2VDFwZmFISnhOR0UzVkhaTmNXYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "每一次特登揸車過去，佢啲豬扒真係冇得頂，夠入味，好嫩滑。帶你相信我，椒鹽豬扒係首選，無得頂，咖喱豬扒咖喱汁比較淡，唔夠香濃。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "每一次特登揸車過去，佢啲豬扒真係冇得頂，夠入味，好嫩滑。帶你相信我，椒鹽豬扒係首選，無得頂，咖喱豬扒咖喱汁比較淡，唔夠香濃。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "HoiC咀叼叼",
+          "uri": "https://www.google.com/maps/contrib/112394868844129502243/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4O7q5yd5-GsbnKTk5zisp3FZYN1Ao7XKdIgby62TxdJu367E=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-07-03T23:57:36.837670280Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWV1MzVkxXVTU2VDFwZmFISnhOR0UzVkhaTmNXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWV1MzVkxXVTU2VDFwZmFISnhOR0UzVkhaTmNXYxAB!2m1!1s0x340406dd3e9ae1af:0x95fc7fc7e57c866b"
+      },
+      {
+        "name": "places/ChIJr-GaPt0GBDQRa4Z85cd__JU/reviews/ChZDSUhNMG9nS0VJQ0FnSURmbFBMSEV3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "鮮油奶多，做得有誠意，17蚊單點抵食，烘底香脆\n\n豬扒丁麵連熱飲，45蚊，招牌豬扒一如既往保持水準，轉左丁，明顯味粉沒有全部落，可能廚師想配合返豬扒既濃味，稍作調整，但個人轉丁就係想濃一點\n\n特別一提，嘉豐裝修左之後，整體衛生環境改善咗，但可惜員工衛生意識並沒有因此提高，熱飲杯上有其他飲品嘅痕跡，感覺不太好受，加上店員飛象過河般執枱，在我的食物上空經過，好像告訴我茶餐廳就該如此運作，其實店員何不多走幾步，讓客人安心進餐呢？",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "鮮油奶多，做得有誠意，17蚊單點抵食，烘底香脆\n\n豬扒丁麵連熱飲，45蚊，招牌豬扒一如既往保持水準，轉左丁，明顯味粉沒有全部落，可能廚師想配合返豬扒既濃味，稍作調整，但個人轉丁就係想濃一點\n\n特別一提，嘉豐裝修左之後，整體衛生環境改善咗，但可惜員工衛生意識並沒有因此提高，熱飲杯上有其他飲品嘅痕跡，感覺不太好受，加上店員飛象過河般執枱，在我的食物上空經過，好像告訴我茶餐廳就該如此運作，其實店員何不多走幾步，讓客人安心進餐呢？",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Florence Ngai",
+          "uri": "https://www.google.com/maps/contrib/112262043196410065095/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRMpJUzIVh-7RYgUmR_jr4XntMqlbFfQedzoi9XQZ-ubV9tA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-01-04T03:48:11.534309Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmbFBMSEV3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmbFBMSEV3EAE!2m1!1s0x340406dd3e9ae1af:0x95fc7fc7e57c866b"
+      },
+      {
+        "name": "places/ChIJr-GaPt0GBDQRa4Z85cd__JU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsSWFITkxjamRuV2tRdFdESk1TMXBGUTFsaWFHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "份椒鹽豬扒飯份量比平時少咗勁多，起碼三份一\n問佢佢話之前俾多咗😅比多左幾年？\n正正常常加價啦好嘛？",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "份椒鹽豬扒飯份量比平時少咗勁多，起碼三份一\n問佢佢話之前俾多咗😅比多左幾年？\n正正常常加價啦好嘛？",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wood Water",
+          "uri": "https://www.google.com/maps/contrib/100985147072639336451/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoVp3IHNKknUkFvOAdTsOSvePWX-U3P3otto4YPdxZj6u8Ubc=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-08-25T04:05:48.246838842Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsSWFITkxjamRuV2tRdFdESk1TMXBGUTFsaWFHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsSWFITkxjamRuV2tRdFdESk1TMXBGUTFsaWFHYxAB!2m1!1s0x340406dd3e9ae1af:0x95fc7fc7e57c866b"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": false,
+    "paymentOptions": {
+      "acceptsCreditCards": false,
+      "acceptsDebitCards": false,
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340406dd3e9ae1af:0x95fc7fc7e57c866b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10807653702307710571&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340406dd3e9ae1af:0x95fc7fc7e57c866b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340406dd3e9ae1af:0x95fc7fc7e57c866b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340406dd3e9ae1af:0x95fc7fc7e57c866b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJr-GaPt0GBDQRa4Z85cd__JU/photos/Aa-ngMZ4jE-Kl4Cg50OL2qJCfpfvS1CKaNJEUUKjPaiiYyEZoWP8BJu1ezak2HBh3qqb3mK2JFezKyZr-6XwVsGHBilqNI-BsbP69NYzeL8jaMrTV2cWJNU1EoLseM-XMAZbfj-Dve9WMazTQ5tkt4YnMUpbQ3Pii_lKIlkfOBF0JtbyOCC5aO4_U4Jw4bXQTxupQ2E6kEQAZhksop1uFTyO8omdn0sxDvxkJrUNAhIJiviDl3NKTGTMWVrWv8YXufShqwJreQdSEZQuUdqHQ-FpLBXENMAT4N1VKuIK-UD8Ap_bBcKOd_Db468ENOPIL8qyPuSLCU_SIjdIY0EnqL_E98zeocOZBhS3mcZ8mha0ulh2xgY2fYgxhC1whpajXILGxSLIAUPNPRtoZZ4i8P08VKB_MQrbOZrpYRCsN5mHeY1uRA",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "alex yu",
+          "uri": "https://maps.google.com/maps/contrib/108225244505877174954",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWutGOlnfx6VmPngKfhbgK_rdHypA-q7MWS1_WibNpkFCAXj1mB=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDCjJy7xwUbMDrgGJRh67oG&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDCjJy7xwUbMDrgGJRh67oG!2e10!4m2!3m1!1s0x340406dd3e9ae1af:0x95fc7fc7e57c866b"
+    },
+    "local_path": "photos/ChIJr-GaPt0GBDQRa4Z85cd__JU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqAaEq_N5aVbWw9neGh0-oZ0cn-B-K9jVJRDhcvgoKo23UZhm0CKWBE2utV_NXeN2slJzAzcIn_R_NEC2qSX3AQtTCBDcp-yQo7MKkwkEwLn5QjgYZhbmcJH6LwZPbrqf7wr4ox3IWLJF3=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 144628
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "fast_food_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

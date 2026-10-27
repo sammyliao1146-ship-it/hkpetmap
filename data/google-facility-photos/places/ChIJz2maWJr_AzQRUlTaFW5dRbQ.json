@@ -1,0 +1,37 @@
+{
+  "id": "ChIJz2maWJr_AzQRUlTaFW5dRbQ",
+  "types": [
+    "veterinary_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島西環北街13號昌裕大廈地下",
+  "location": {
+    "latitude": 22.283754800000004,
+    "longitude": 114.12901149999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12989891427614479442&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "維力寵物診所",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJz2maWJr_AzQRUlTaFW5dRbQ/photos/Aa-ngMaZhgWhbNPIhMDF-zfQp-DfGOItWaUT5iD14Xuz92johwDB-9XD_jOQXlqgDlDFfFdlh9-QWOiPG6f9H4pnJiFdvhPLsGdNk_Y0zwXpcm6JQ0vx5cdg3QQGg6t-LhoQOV5Xa0xks7_a04_5qazucemPj4srUjvPEKy6WL3gBaTsZtZQ9rSRbZF5VOyne6b3d75L021eEavDeMNcEW1UM5y_WC4ZibDhhzpvl_PxwdsLpRO_2It9an14aLFGETq3t50u_h5bBTwS-oRWLhN-mEnE7hYtjALbycKj9TgwZjZXkq4DJUwppEIt0VRX7vkHpSP3JpZvjmPC8IKnqkprTfUPxuTvi9UWv8nbchEEL94iiJ1h22ilBH3wbIJuL2IHFSIO-rNGYrEnnzQe-izw_fStuowuu8gBMzl13Zg5-2N4bg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "藍島圖 Blue Island Map by B・I",
+          "uri": "https://maps.google.com/maps/contrib/104505485758781695306",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWY5OxLUM6-R9jtVWU7YtcnY-dX4imi7bVLt_zEOzcFV30TWEBg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBgc-Fny27FyGEJ6BJ-Slmn&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBgc-Fny27FyGEJ6BJ-Slmn!2e10!4m2!3m1!1s0x3403ff9a589a69cf:0xb4455d6e15da5452"
+    }
+  ],
+  "photo_count": 4,
+  "fetched_at": "2026-10-24T00:38:35.874644+00:00"
+}

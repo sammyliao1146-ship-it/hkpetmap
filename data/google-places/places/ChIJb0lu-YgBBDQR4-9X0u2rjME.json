@@ -1,0 +1,302 @@
+{
+  "google_place_id": "ChIJb0lu-YgBBDQR4-9X0u2rjME",
+  "restaurant_ids": [
+    "restaurant:2211806718"
+  ],
+  "fetched_at": "2026-10-23T15:45:32.907132+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJb0lu-YgBBDQR4-9X0u2rjME",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2897 7086",
+    "internationalPhoneNumber": "+852 2897 7086",
+    "formattedAddress": "香港香港島柴灣環翠道11號",
+    "location": {
+      "latitude": 22.262487999999998,
+      "longitude": 114.23561199999999
+    },
+    "rating": 3.4,
+    "googleMapsUri": "https://maps.google.com/?cid=13946711183984160739&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.linkhk.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 23:00",
+        "星期二: 07:00 – 23:00",
+        "星期三: 07:00 – 23:00",
+        "星期四: 07:00 – 23:00",
+        "星期五: 07:00 – 23:00",
+        "星期六: 07:00 – 23:00",
+        "星期日: 07:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 1277,
+    "displayName": {
+      "text": "興華廣場",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "大型購物中心",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "shopping_mall",
+    "editorialSummary": {
+      "text": "簡樸的購物中心，設有各式商店、服務設施和速食餐飲選項。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJb0lu-YgBBDQR4-9X0u2rjME/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwaU1MLVZREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "係一個唔太大嘅商場，但街坊日常生活所需嘅貨品都有提供，雖有超市，但缺少街市，而食肆選擇多。廁所狹窄，雖未算污糟邋遢，但已追唔上當下社會文化嘅標準，水喉唔係自動來水，又冇扶手紙供應，有唔衛生而且落後感。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "係一個唔太大嘅商場，但街坊日常生活所需嘅貨品都有提供，雖有超市，但缺少街市，而食肆選擇多。廁所狹窄，雖未算污糟邋遢，但已追唔上當下社會文化嘅標準，水喉唔係自動來水，又冇扶手紙供應，有唔衛生而且落後感。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "非貓",
+          "uri": "https://www.google.com/maps/contrib/103016729342418437134/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrUxfnQVXC9vXz--NJ_z9NQb0MeSVUmqreVkP5seFwQ4VQgw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-07-27T13:15:22.766918Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwaU1MLVZREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwaU1MLVZREAE!2m1!1s0x34040188f96e496f:0xc18cabedd257efe3"
+      },
+      {
+        "name": "places/ChIJb0lu-YgBBDQR4-9X0u2rjME/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkWWFYTklUVkJNUW1oU2NGbEhjR3RUVVdFd1lWRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 3,
+        "text": {
+          "text": "商戶多 交通便利",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "商戶多 交通便利",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dennis LEUNG",
+          "uri": "https://www.google.com/maps/contrib/117458415567111193004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8-GittqC6kGrVpLscpRQ4HFrw2ysiojztqXuNhoRFmADHZkpg=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-04-22T05:49:57.071701394Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkWWFYTklUVkJNUW1oU2NGbEhjR3RUVVdFd1lWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkWWFYTklUVkJNUW1oU2NGbEhjR3RUVVdFd1lWRRAB!2m1!1s0x34040188f96e496f:0xc18cabedd257efe3"
+      },
+      {
+        "name": "places/ChIJb0lu-YgBBDQR4-9X0u2rjME/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLdW9TdThRRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 3,
+        "text": {
+          "text": "商場比較舊，有好多位置都好似在維修。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "商場比較舊，有好多位置都好似在維修。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anita Ng",
+          "uri": "https://www.google.com/maps/contrib/115849091720492670981/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQiHow4ATVfZaNdKN3JavuJVVWeQG5GACT-zPN5AD6xDoZUzTQ5g=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2021-04-02T15:27:05.081997Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNLdW9TdThRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNLdW9TdThRRRAB!2m1!1s0x34040188f96e496f:0xc18cabedd257efe3"
+      },
+      {
+        "name": "places/ChIJb0lu-YgBBDQR4-9X0u2rjME/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSMlpGaDRXV2g0TlhwWFVFNTBNR2h4V2toS1JuYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "平民商場，文具店，茶餐廳，超市，酒樓，麥當勞都有，唯獨洗手間清潔環境需改善。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平民商場，文具店，茶餐廳，超市，酒樓，麥當勞都有，唯獨洗手間清潔環境需改善。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "J. Leung",
+          "uri": "https://www.google.com/maps/contrib/109627713456112820314/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlAV2kryjSu8zpmu0uPa4sKWxBsoSzM2ZjdrC2GPYvJ8ROsw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-08-09T11:00:54.960221260Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSMlpGaDRXV2g0TlhwWFVFNTBNR2h4V2toS1JuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSMlpGaDRXV2g0TlhwWFVFNTBNR2h4V2toS1JuYxAB!2m1!1s0x34040188f96e496f:0xc18cabedd257efe3"
+      },
+      {
+        "name": "places/ChIJb0lu-YgBBDQR4-9X0u2rjME/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxQ1JWODJjaTF6WkdrMVZWOVRNbXQ1U0RkQ2NVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "一般飲食選擇較多，包括東南亞風味。商場有翻新，感覺不壓抑。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一般飲食選擇較多，包括東南亞風味。商場有翻新，感覺不壓抑。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "To Wong",
+          "uri": "https://www.google.com/maps/contrib/102082833808500504129/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXY4YXRzU_fGKdIcsAfkVYkRcAHsJLbtvRuRSQqO5-NrDB-xs=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-08-16T09:27:22.041949299Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxQ1JWODJjaTF6WkdrMVZWOVRNbXQ1U0RkQ2NVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxQ1JWODJjaTF6WkdrMVZWOVRNbXQ1U0RkQ2NVRRAB!2m1!1s0x34040188f96e496f:0xc18cabedd257efe3"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040188f96e496f:0xc18cabedd257efe3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13946711183984160739&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040188f96e496f:0xc18cabedd257efe3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040188f96e496f:0xc18cabedd257efe3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040188f96e496f:0xc18cabedd257efe3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJb0lu-YgBBDQR4-9X0u2rjME/photos/Aa-ngMYZOhOUn5zUa32-DFR25o2dmdbl3h3bBu_ouCAfTBO8MprXZ-5Ol3uNTcP9wMTeQNw85SvUHTmp9C5d4xbbJpl19-9XxRcWila0434Ibj85shiXMbE8ew0UcCl-oO30hfLLONayiGANw-nJBrueFj40TvpSTPyUA2cqofVlJmWgaVow_umEtTtw1rpywoUXge4uZVkqlFYriwdcO1OgDifBsAdtSixd1klLCfnxyh5VBVKT7c3DOUGXyT7iHZQ-eghb-nU4pvW6ou_4XrcXvjWD5XrBs8en6Pp4PM8uAzzrI0tRn66hIzPD0LgUt7I0RpG9sIt0Kq1t_ikwOSfRuOVzpSj1BzFn3kpibdFehx7Ar76jKcZq9WAsiGC1KgnRjIKPtQGBerfZzNuBooJ6hYWcXQLvR-o",
+      "widthPx": 3840,
+      "heightPx": 2592,
+      "authorAttributions": [
+        {
+          "displayName": "Kong Wallace",
+          "uri": "https://maps.google.com/maps/contrib/100535271148787857187",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTVrkV4XvYN_Q4em742KHRHj8Wzi36SVSIhv4GoASwwmtjMwaomQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICGoNOfgwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGoNOfgwE!2e10!4m2!3m1!1s0x34040188f96e496f:0xc18cabedd257efe3"
+    },
+    "local_path": "photos/ChIJb0lu-YgBBDQR4-9X0u2rjME.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcznUxO1ypXwM5uBTqppCA_D9MuqaFYzoGXXzun5BcYRHRiOhozpLgNorEkzGCu8NpZXYOl5Jo_YXNxRPSxycDiMfkaCgJpTmmFMKmzp8XgNjddl0u4Tn7W4NkXTy_u7I6N1aqcrQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 114845
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "shopping_mall",
+    "label": "大型購物中心",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

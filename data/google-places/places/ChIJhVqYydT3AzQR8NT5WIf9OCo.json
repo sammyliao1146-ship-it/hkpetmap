@@ -1,0 +1,224 @@
+{
+  "google_place_id": "ChIJhVqYydT3AzQR8NT5WIf9OCo",
+  "restaurant_ids": [
+    "restaurant:3197800176"
+  ],
+  "fetched_at": "2026-10-23T15:40:09.222667+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJhVqYydT3AzQR8NT5WIf9OCo",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2356 1126",
+    "internationalPhoneNumber": "+852 2356 1126",
+    "formattedAddress": "香港新界上水馬會道166-170號馬會道166-170號閣樓地下及4號舖",
+    "location": {
+      "latitude": 22.5043501,
+      "longitude": 114.13011739999999
+    },
+    "rating": 5,
+    "googleMapsUri": "https://maps.google.com/?cid=3042460306043950320&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.barpacific.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 4,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:30 – 04:00",
+        "星期二: 16:30 – 04:00",
+        "星期三: 16:30 – 04:00",
+        "星期四: 16:30 – 04:00",
+        "星期五: 16:30 – 04:00",
+        "星期六: 16:30 – 04:00",
+        "星期日: 16:30 – 04:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 2,
+    "displayName": {
+      "text": "Bar Pacific 88",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": true,
+    "dineIn": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "pub",
+    "reviews": [
+      {
+        "name": "places/ChIJhVqYydT3AzQR8NT5WIf9OCo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNveXBmREhnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Ken Leung",
+          "uri": "https://www.google.com/maps/contrib/108668203715636038099/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJgFAaOP--_LNVJXHC9XcJH-EAAJZkIfUcGWjBOIiq0u5X0dVM=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-04-16T08:25:28.947847Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNveXBmREhnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNveXBmREhnEAE!2m1!1s0x3403f7d4c9985a85:0x2a38fd8758f9d4f0"
+      },
+      {
+        "name": "places/ChIJhVqYydT3AzQR8NT5WIf9OCo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKTU5VSXpUM0Y1VTFkak9YVmlkbmhtYW5vNFFuYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "bebe Lam",
+          "uri": "https://www.google.com/maps/contrib/103508063324314876120/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKott5SadjJf8GCvCETlX3_brKlFPzuqFtW2x22Oa9DIXL35hk=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-08-12T17:27:05.313715595Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKTU5VSXpUM0Y1VTFkak9YVmlkbmhtYW5vNFFuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKTU5VSXpUM0Y1VTFkak9YVmlkbmhtYW5vNFFuYxAB!2m1!1s0x3403f7d4c9985a85:0x2a38fd8758f9d4f0"
+      }
+    ],
+    "servesCocktails": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f7d4c9985a85:0x2a38fd8758f9d4f0!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3042460306043950320&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f7d4c9985a85:0x2a38fd8758f9d4f0!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f7d4c9985a85:0x2a38fd8758f9d4f0!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f7d4c9985a85:0x2a38fd8758f9d4f0!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJhVqYydT3AzQR8NT5WIf9OCo/photos/Aa-ngMaW0FB0zamiCLFtN_FKAdaqqIBRB99-FP9HVuVEyuREHr121bC0pf7vtKIFkHoAqrRWkc_bB1hNELZjywoOVt09LQUMplJHXuPPK3iazT5NpS9TERucQ9n0x6QyYdN0XMZdkYq0O3_9YzN8hTm-qOOYab3QOmPEw_dNeU_zGW3hUiXTcLEymiLLf6-QSlRuMFIC_Xa8T8TRqbej2gvaHViVgqQJXHAcsMN_PQZgMBloPJhyNUdD-7yjW3SyzIXhfSBYnsDkl6FNzJQavsg1yLw1Sfuwd2z-msk4JJnkbyGUPtOgrQyJP15-xcTdHc6xuXA38hUHXTat_Lgs99HemJCza8wyQrpcFRJPGfJk90TyBHLoTwuJLsSzePAn4WiRUF027-bk3Jnpfmea2tfkVTa8zAQe982LUoNpT8KneNwobw",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "bebe Lam",
+          "uri": "https://maps.google.com/maps/contrib/103508063324314876120",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKott5SadjJf8GCvCETlX3_brKlFPzuqFtW2x22Oa9DIXL35hk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB_it72tV6OosDtPqe8ljWF&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB_it72tV6OosDtPqe8ljWF!2e10!4m2!3m1!1s0x3403f7d4c9985a85:0x2a38fd8758f9d4f0"
+    },
+    "local_path": "photos/ChIJhVqYydT3AzQR8NT5WIf9OCo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2aRW-fbJ_06flHuJkl1zztX-yum-Hi6hutONPSX2YOOk2RkG6Xd_aBioCLjwnthSeqvhK9c5qBgchMrnjpOXF8HbtmWZvwvUv2qjGWnSzYO69Z9de8AfXkaqHPR4DYwyWH4GpjmYJ0T0x=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 158072
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "pub",
+    "label": "酒吧",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

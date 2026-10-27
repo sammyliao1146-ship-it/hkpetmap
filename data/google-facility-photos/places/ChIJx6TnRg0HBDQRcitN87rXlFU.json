@@ -1,0 +1,40 @@
+{
+  "id": "ChIJx6TnRg0HBDQRcitN87rXlFU",
+  "types": [
+    "video_arcade",
+    "tourist_attraction",
+    "store",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍荔枝角長義街9號D2 Place ONE 1樓 125-127號鋪",
+  "location": {
+    "latitude": 22.336219399999997,
+    "longitude": 114.1490321
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6166790987722861426&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "AI.XR - VR Experiences Center",
+    "languageCode": "en"
+  },
+  "primaryType": "service",
+  "photos": [
+    {
+      "name": "places/ChIJx6TnRg0HBDQRcitN87rXlFU/photos/Aa-ngMb0y11vbm2f9EQbZHyix1ivYppG17DEKUJpbtXJZABSqMsp_tqZh_Vk9-qK03jM_D_CQURRbQ3f8HvJJxF865C7oU0t7iE_KCSt8MtIkR0_FohFmKCLyikecxTgAbVsW2UvCAoEUZde_hcxgtEqyIAAgN6WUn-UzQbNblUPv65_131-fWMk2fIQhfbzbAhqLYpPcpYsYb8KSuNVhPgM51aa7rYeXDZuDMekosiKMuj_jXWUjG-Yy2UKt8jVUaKov0HkgZZdImVrBe5gosoqhZJOViMxAm0NkadR6n-Ecp0MXsYthRW-R3mcPJupbqQxKUdRUkMut0P1C4n8zJYCVzt708RZhW4g8vfG7k9FC6SXaOsymNhxwFt4eMuFkEsFA4lqPNezw6MyxLielAHMGUIeZsM",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Kubi 0911",
+          "uri": "https://maps.google.com/maps/contrib/117908719594593830463",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlAJA0z89RzTFmQOyeWW_x0W-49hYy3rErtArk1W7Gjil4g4wb=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDMnsWhGg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMnsWhGg!2e10!4m2!3m1!1s0x3404070d46e7a4c7:0x5594d7baf34d2b72"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:00.798248+00:00"
+}

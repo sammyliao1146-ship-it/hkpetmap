@@ -1,0 +1,305 @@
+{
+  "google_place_id": "ChIJP23BHdP7AzQRhqozxtpwk1M",
+  "restaurant_ids": [
+    "restaurant:3194802180"
+  ],
+  "fetched_at": "2026-10-23T15:52:19.003377+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJP23BHdP7AzQRhqozxtpwk1M",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9083 4341",
+    "internationalPhoneNumber": "+852 9083 4341",
+    "formattedAddress": "香港新界元朗鳳攸南街3號好順景大廈2座20號舖",
+    "location": {
+      "latitude": 22.441999499999998,
+      "longitude": 114.0340322
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=6022281211654941318&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 23:30",
+        "星期二: 11:30 – 23:30",
+        "星期三: 11:30 – 23:30",
+        "星期四: 11:30 – 23:30",
+        "星期五: 11:30 – 23:30",
+        "星期六: 11:30 – 23:30",
+        "星期日: 11:30 – 23:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 7,
+    "displayName": {
+      "text": "Wow 食堂",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJP23BHdP7AzQRhqozxtpwk1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WNmJpMTJNUzFhVEhSRVdGVkVla05NU0hkamMxRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "星期六午餐，酸菜魚米線，味道不錯，可以一試，份量十足，價錢$52 ，凍飲加$3 ， 凍檸茶，茶記口味👍\n\n酸辣湯花甲魷魚蝦米粉$58， 花甲好夠份量，有10幾隻，好有住家味道😋😋\n\n兩個人去，有得坐4人枱，店面環境乾淨整潔，仲有玄米茶免費飲",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期六午餐，酸菜魚米線，味道不錯，可以一試，份量十足，價錢$52 ，凍飲加$3 ， 凍檸茶，茶記口味👍\n\n酸辣湯花甲魷魚蝦米粉$58， 花甲好夠份量，有10幾隻，好有住家味道😋😋\n\n兩個人去，有得坐4人枱，店面環境乾淨整潔，仲有玄米茶免費飲",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Denise IP",
+          "uri": "https://www.google.com/maps/contrib/105557127466281091153/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7bhgHTbVne-26wICAEmB7TxEMq_79Jq5S8o5R0Ef8BOHE3hiqgQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-08T07:11:30.649452275Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WNmJpMTJNUzFhVEhSRVdGVkVla05NU0hkamMxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WNmJpMTJNUzFhVEhSRVdGVkVla05NU0hkamMxRRAB!2m1!1s0x3403fbd31dc16d3f:0x539370dac633aa86"
+      },
+      {
+        "name": "places/ChIJP23BHdP7AzQRhqozxtpwk1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KallrY3hjbGQyTjNGTWEwdDVhM1JqWjI1NmJFRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "朋友介紹話佢屋企附近有間新開嘅餐廳個雞湯好正，入開元朗特登過嚟試吓，真心正😍好鮮甜！！仲要唔使加錢就有成隻雞髀！！超抵食！老闆非常有禮貌好nice！同佢傾開偈，佢話好開心抽到准許狗隻進入食肆嘅牌❤️👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友介紹話佢屋企附近有間新開嘅餐廳個雞湯好正，入開元朗特登過嚟試吓，真心正😍好鮮甜！！仲要唔使加錢就有成隻雞髀！！超抵食！老闆非常有禮貌好nice！同佢傾開偈，佢話好開心抽到准許狗隻進入食肆嘅牌❤️👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Janny Wu",
+          "uri": "https://www.google.com/maps/contrib/116996967130675377425/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUIfdt0uF28PjmW9Pl3nLQlXRj-H1rufmaEeJxFWCXG1G-O4X_=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-11T08:16:20.699291926Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KallrY3hjbGQyTjNGTWEwdDVhM1JqWjI1NmJFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KallrY3hjbGQyTjNGTWEwdDVhM1JqWjI1NmJFRRAB!2m1!1s0x3403fbd31dc16d3f:0x539370dac633aa86"
+      },
+      {
+        "name": "places/ChIJP23BHdP7AzQRhqozxtpwk1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wSFJ6bGFabWhVV2xsRFNpMUhYM1ZHUWpsU1RVRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "抵食，質素唔錯，店員好nice，會再嚟～👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "抵食，質素唔錯，店員好nice，會再嚟～👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eunice Chiu",
+          "uri": "https://www.google.com/maps/contrib/108647454875406382349/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLCcm42L4B1elAy5iLgIylsktXZFAmTHVkytpvrw0wrf4KxvA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-12T12:24:40.597906638Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wSFJ6bGFabWhVV2xsRFNpMUhYM1ZHUWpsU1RVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wSFJ6bGFabWhVV2xsRFNpMUhYM1ZHUWpsU1RVRRAB!2m1!1s0x3403fbd31dc16d3f:0x539370dac633aa86"
+      },
+      {
+        "name": "places/ChIJP23BHdP7AzQRhqozxtpwk1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFelZYVnlaRzQyUzFWQ1ZUbHJTbEpCU0VoUk4wRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "平價之選，住家飯嘅味道",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平價之選，住家飯嘅味道",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Zoe So",
+          "uri": "https://www.google.com/maps/contrib/117404538977684306917/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvhIwqAECxROzn63xox1umNcAHiM7lDDH13mpcivy46y5IMYZweg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-19T12:15:33.371462040Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xFelZYVnlaRzQyUzFWQ1ZUbHJTbEpCU0VoUk4wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFelZYVnlaRzQyUzFWQ1ZUbHJTbEpCU0VoUk4wRRAB!2m1!1s0x3403fbd31dc16d3f:0x539370dac633aa86"
+      },
+      {
+        "name": "places/ChIJP23BHdP7AzQRhqozxtpwk1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKNlpUSkVNMjF5UldoaVVWUmxXRXBaZW1kU1luYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "元朗的Wow Canteen餐廳整體用餐體驗不錯，令人驚訝的是，它允許狗狗直接進入舒適的用餐區！\n\n餐廳位於元朗繁華地段，搭乘大眾運輸工具前往非常方便，但附近停車比較困難。餐廳維持良好的衛生標準，員工服務周到可靠。\n\n招牌蟲草花雞湯味道濃鬱醇厚，略微偏鹹，但整體而言物有所值。需要注意的是，餐廳僅接受現金和八達通卡付款，即使在晚餐高峰時段也無需等待。\n\n餐廳整體佈局寬敞舒適，不會顯得擁擠，非常適合獨自一人或帶著毛茸茸的伙伴一起享受輕鬆的用餐體驗。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Wow Canteen in Yuen Long offers a good overall dining experience, with the pleasant surprise of finding out that dogs are allowed directly inside the comfortable dining space!\nSituated in a vibrant part of Yuen Long, reaching the eatery via local public transit is very convenient, though finding parking nearby remains quite challenging. The restaurant maintains excellent hygiene standards, and the staff delivers normal, reliable service.\nOrdering the signature cordyceps flower chicken soup delivers a wonderfully rich and deep flavor, though it leans slightly on the salty side, while the overall food quality provides solid value for the pricing. Guests should note that payments are strictly limited to cash and Octopus card, and there was no waiting time even during the busy dinner hours.\nFeaturing a general layout that feels comfortably open rather than packed, this welcoming spot is well suited for enjoying a relaxed meal alone or alongside a furry companion.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Brett Kwong",
+          "uri": "https://www.google.com/maps/contrib/115742200769259092474/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuwq3EPgxHb86aEkW2uICtoLXa9e16cMWHxZY7GZdNlkww85QTkA=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-07-23T14:27:42.393203751Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKNlpUSkVNMjF5UldoaVVWUmxXRXBaZW1kU1luYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKNlpUSkVNMjF5UldoaVVWUmxXRXBaZW1kU1luYxAB!2m1!1s0x3403fbd31dc16d3f:0x539370dac633aa86"
+      }
+    ],
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fbd31dc16d3f:0x539370dac633aa86!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6022281211654941318&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fbd31dc16d3f:0x539370dac633aa86!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fbd31dc16d3f:0x539370dac633aa86!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fbd31dc16d3f:0x539370dac633aa86!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJP23BHdP7AzQRhqozxtpwk1M/photos/Aa-ngMbXFmFIT_wZlJTUPVFik9X1RXGnmYkkjNAV0-s_ByYSPqlizc4JWKn_1Yx1HW-NQxQ9b-Z4pa7596zfDNzA69mNh7S_u8ewQGRnPZdnTzwPa9pqIKqXHAVUdDjjZWf1KdrAAuLdGIEYKWVGZHrtw-YHf-lE34rGaQqNMsS8xHXCZKONOqYbBvoTNFsafxADHCmjVWWdL08kbpeTpcB482rT8D5S5ENDAT-5u1hePvFry5SRMW7YS8hMUUg75PYYyfdkj80NsLlFgyor3X-6FeFkUw8dwDzQUOFVRPwl2L3-QHlDoOrWHUC8xTL04pkbBjXMDC-Z7_jikEClmMp6BBcT57ruGnqxLEBDlV-l2zVZwgk52nqN2_K51TIlPkw26yy-gUCjwXIQfP_a2dVA1ep__u9TIeecPRG0NrqrNdYxlw",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Wow 食堂",
+          "uri": "https://maps.google.com/maps/contrib/109476870529334618877",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI07VcWzh-gd23YCjHcRyxWj2L01qnB0-HRwsgHBMufIRrRnQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCvzYhcKvGT5ynSFRBYbfJy&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCvzYhcKvGT5ynSFRBYbfJy!2e10!4m2!3m1!1s0x3403fbd31dc16d3f:0x539370dac633aa86"
+    },
+    "local_path": "photos/ChIJP23BHdP7AzQRhqozxtpwk1M.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_rBTPetT_DcnkBkLnyGacHZ6F_bO0M4o0r1QJA1oNBNWdqK-ntnkHOo7N6vQRUZuo45ehJ5FCN95I0SqTEcVd2IaIENK7ZX_YQH2hbTQEwl5TbnhDarWD7MdbaR5FE0gR3GX4utOfcM2T=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 216070
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

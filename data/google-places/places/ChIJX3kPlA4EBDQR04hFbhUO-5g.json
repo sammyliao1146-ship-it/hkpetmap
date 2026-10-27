@@ -1,0 +1,327 @@
+{
+  "google_place_id": "ChIJX3kPlA4EBDQR04hFbhUO-5g",
+  "restaurant_ids": [
+    "restaurant:2298805639"
+  ],
+  "fetched_at": "2026-10-23T15:41:10.670067+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJX3kPlA4EBDQR04hFbhUO-5g",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2576 3100",
+    "internationalPhoneNumber": "+852 2576 3100",
+    "formattedAddress": "香港新界將軍澳寶琳北路寶林邨6座寶勤樓",
+    "location": {
+      "latitude": 22.324844799999997,
+      "longitude": 114.2559991
+    },
+    "rating": 3.4,
+    "googleMapsUri": "https://maps.google.com/?cid=11023419998126573779&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 21:00",
+        "星期二: 07:00 – 21:00",
+        "星期三: 07:00 – 21:00",
+        "星期四: 07:00 – 21:00",
+        "星期五: 07:00 – 21:00",
+        "星期六: 07:00 – 21:00",
+        "星期日: 07:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 301,
+    "displayName": {
+      "text": "百份百餐廳 (寶林邨)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJX3kPlA4EBDQR04hFbhUO-5g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoU2RGRk1XbFptU0Vod01ISTJiR1JQTTJGM1RXYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "原本我是不會吃寶林邨的餐廳！但是上堂無選擇之下，我吃了這間百分百，比我想像中好！職員友善且聰明！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "原本我是不會吃寶林邨的餐廳！但是上堂無選擇之下，我吃了這間百分百，比我想像中好！職員友善且聰明！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "小叮子",
+          "uri": "https://www.google.com/maps/contrib/108165714482788416935/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMtYGVwLE3gp2h6r9AE9pZZmQLUOALxqgPO027VhtckurhXQ3k=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-28T04:32:04.074518572Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoU2RGRk1XbFptU0Vod01ISTJiR1JQTTJGM1RXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoU2RGRk1XbFptU0Vod01ISTJiR1JQTTJGM1RXYxAB!2m1!1s0x3404040e940f795f:0x98fb0e156e4588d3"
+      },
+      {
+        "name": "places/ChIJX3kPlA4EBDQR04hFbhUO-5g/reviews/ChZDSUhNMG9nS0VJQ0FnSURTajRIaWFREAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "午餐豐富、招牌咖哩坑腩有水準、乾炒牛河有鑊氣！價錢適中。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午餐豐富、招牌咖哩坑腩有水準、乾炒牛河有鑊氣！價錢適中。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "劍山白",
+          "uri": "https://www.google.com/maps/contrib/116306066636744518790/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgFsRhhqly6F0SSclyAXtjKyE-qvhVSSyKRbJWkWcWEadYwmzCxg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2021-01-13T09:13:36.877648Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURTajRIaWFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURTajRIaWFREAE!2m1!1s0x3404040e940f795f:0x98fb0e156e4588d3"
+      },
+      {
+        "name": "places/ChIJX3kPlA4EBDQR04hFbhUO-5g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNydFBPVDNnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "不知為何還是很少人，可能快打烊了。上餐速度比疫情時快了很多。抵讚。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "不知為何還是很少人，可能快打烊了。上餐速度比疫情時快了很多。抵讚。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Babycaseny Gavernment",
+          "uri": "https://www.google.com/maps/contrib/105906502423760406227/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7TEitOfAWWip3KqLuFwDnYe8igmZU4LNjkwIK0IoqBUabiQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-07-04T12:36:59.795966Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNydFBPVDNnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNydFBPVDNnRRAB!2m1!1s0x3404040e940f795f:0x98fb0e156e4588d3"
+      },
+      {
+        "name": "places/ChIJX3kPlA4EBDQR04hFbhUO-5g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xodmVXZGtUMDFzTTJ0bWNpMTNkSFpGZVZOQlZuYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 3,
+        "text": {
+          "text": "價錢偏貴\n食物w可以",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "價錢偏貴\n食物w可以",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dennis LEUNG",
+          "uri": "https://www.google.com/maps/contrib/117458415567111193004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8-GittqC6kGrVpLscpRQ4HFrw2ysiojztqXuNhoRFmADHZkpg=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-01-14T04:42:22.211262071Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xodmVXZGtUMDFzTTJ0bWNpMTNkSFpGZVZOQlZuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xodmVXZGtUMDFzTTJ0bWNpMTNkSFpGZVZOQlZuYxAB!2m1!1s0x3404040e940f795f:0x98fb0e156e4588d3"
+      },
+      {
+        "name": "places/ChIJX3kPlA4EBDQR04hFbhUO-5g/reviews/Ci9DQUlRQUNvZENodHljRjlvT214R2JXY3hRMUpST0ZGck5YZEVTRVl0ZG1GTllYYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 1,
+        "text": {
+          "text": "現場落一個飯要等半個鐘，平台00分落06分搞掂\n現場又吾系多人，真系要煮甘耐？\n同佢講等左半個鐘佢仲叫我等陣",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "現場落一個飯要等半個鐘，平台00分落06分搞掂\n現場又吾系多人，真系要煮甘耐？\n同佢講等左半個鐘佢仲叫我等陣",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Una",
+          "uri": "https://www.google.com/maps/contrib/116067161421622960172/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLC0ogeFPH1rA8VcpZ6THISaA4ZElojWLMYOru30joKWI5yfA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-23T06:22:33.633715567Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214R2JXY3hRMUpST0ZGck5YZEVTRVl0ZG1GTllYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214R2JXY3hRMUpST0ZGck5YZEVTRVl0ZG1GTllYYxAB!2m1!1s0x3404040e940f795f:0x98fb0e156e4588d3"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404040e940f795f:0x98fb0e156e4588d3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11023419998126573779&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404040e940f795f:0x98fb0e156e4588d3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404040e940f795f:0x98fb0e156e4588d3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404040e940f795f:0x98fb0e156e4588d3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJX3kPlA4EBDQR04hFbhUO-5g/photos/Aa-ngMafwNdXSx5NX2CBkXMzdsS_nagDkLVLtPwNC2IWrFaTgVIzIv1EHjwW077HV962uPmv-7z1o30o5YgoyFzh0lHPGEvqr6nGE2w-xmyQdjcyh0W79lDL27zZbw0C1nCpPxtpRT_bjN8-TFSOKGgqRJnkryQqF06rTEa3fC1b1eD1N0RTMByQ4d_ze6sDnfioB095ic0pzqEfeqYYe6P0H_b1YCx1_D55kCttIwUa2LmWQ5fY6wvd7n7OikvudUGeqvPdiQtzWYo2iPuGVUNIWRDf8jaPiaprz04cn8E-oWWhsX9pi_ohARuXdB1vLSgF1-dE7XpfUb1Lbj2HbF00bdiN6bIw7auGnOhIGej_RpGMf1xRETzlRN8rNAeea1XQZuZ2QE8lk3A9Jy03KUAt42MqIMFPKgAooJFyGceUYXTpng",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Gigi同你去 -",
+          "uri": "https://maps.google.com/maps/contrib/105196239437003916450",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUO3JYpxViKu3IK5tCVgbZFz7ST2A4PaFoJjJl1F1E3nVzSv49iQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDTlaGqIKwnJS_ntL4Na61O&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDTlaGqIKwnJS_ntL4Na61O!2e10!4m2!3m1!1s0x3404040e940f795f:0x98fb0e156e4588d3"
+    },
+    "local_path": "photos/ChIJX3kPlA4EBDQR04hFbhUO-5g.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBP2YBK2tu5W3cXC6lCIbIUedoDE6JPJ0HYNSeowcifHliuHYupjcgrzg5780sf-GAlotTQdN7u3A8kshc2l4tt50BIvjlUSoTZNFHMSI-kzTOfPsL2C-6oPTMUPMpjbjQjetRncZg20Mh=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 127534
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,346 @@
+{
+  "google_place_id": "ChIJyaDRTLr9AzQRPsPU9rLBQJM",
+  "restaurant_ids": [
+    "restaurant:2217802019"
+  ],
+  "fetched_at": "2026-10-23T15:47:41.547985+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJyaDRTLr9AzQRPsPU9rLBQJM",
+    "types": [
+      "pizza_restaurant",
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3164 1340",
+    "internationalPhoneNumber": "+852 3164 1340",
+    "formattedAddress": "Shop G01B, 92-96 Discovery Bay Rd, Discovery Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2966867,
+      "longitude": 114.01700459999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=10610693696474366782&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.pizzaexpress.com.hk/party-venues/discovery-bay-plaza",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 10:00 – 22:00",
+        "星期日: 10:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 100,
+    "displayName": {
+      "text": "PizzaExpress (Discovery Bay)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "披薩餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "pizza_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJyaDRTLr9AzQRPsPU9rLBQJM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4ek5HRnRTek5xTmtKUWNraEdjbWxUY1U5bVUyYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "*Visited 03/08/2026 7pm\nOrdered the Giardiniera Pizza (意式蔬菜薄餅). Best Vegetarian pizza I've ever had 👏🏻  Ate half of it myself :P",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "*Visited 03/08/2026 7pm\nOrdered the Giardiniera Pizza (意式蔬菜薄餅). Best Vegetarian pizza I've ever had 👏🏻  Ate half of it myself :P",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yan Kwong",
+          "uri": "https://www.google.com/maps/contrib/105009449056783679069/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3vISZlUiq6R1eHVlvU8WQw048ftS1PS-ltAIsTwzFEOf-MRw3=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-06T07:24:09.752005595Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w4ek5HRnRTek5xTmtKUWNraEdjbWxUY1U5bVUyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4ek5HRnRTek5xTmtKUWNraEdjbWxUY1U5bVUyYxAB!2m1!1s0x3403fdba4cd1a0c9:0x9340c1b2f6d4c33e"
+      },
+      {
+        "name": "places/ChIJyaDRTLr9AzQRPsPU9rLBQJM/reviews/ChZDSUhNMG9nS0VJQ0FnSURYenFyWk9REAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "食物質素不太好！\n西蘭花不熱，但碟就焗得好熱！\n明顯是食物放涼了再入焗爐翻熱...\nPizza真的一般，好似食麵糰一樣....\n只有意大利粉比較好一點！\n好難再光顧.....",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物質素不太好！\n西蘭花不熱，但碟就焗得好熱！\n明顯是食物放涼了再入焗爐翻熱...\nPizza真的一般，好似食麵糰一樣....\n只有意大利粉比較好一點！\n好難再光顧.....",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "AL",
+          "uri": "https://www.google.com/maps/contrib/115805085789118187114/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5WHPQvNprqJM2ut3IWIy3KPYsEL-C8bkEpUD2BDq64fuzHA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-10-27T10:25:24.186023Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYenFyWk9REAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYenFyWk9REAE!2m1!1s0x3403fdba4cd1a0c9:0x9340c1b2f6d4c33e"
+      },
+      {
+        "name": "places/ChIJyaDRTLr9AzQRPsPU9rLBQJM/reviews/ChdDSUhNMG9nS0VJQ0FnSURxaUl6YjR3RRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "孖寶爸平時咁辛苦陪玩，爸爸節梗係要帶佢去食佢最鍾意食嘅Pizza🍕等佢開心吓！\n\n呢間係愉景廣場的《Pizza Express》唔單止食物好食，環境仲好Chill🥰。孖寶爸即刻叫咗1664啤酒$58 嘆下，我就叫左 #Lemonade 檸檬特飲$43 ，夏天真係飲番杯凍飲先夠爽💕。\n\n焗麵包球 $50\n呢個 #PizzaExpress 招牌菜，係我哋 #必食之選✌🏻。除咗配以蒜蓉牛油醬，仲有羅勒香草醬多一個選擇添，兩種味道都好正啊😋！\n\n#是日餐湯（蕃茄湯）$58\n香濃番茄味道，細佬佬好鍾意飲呀，配上法包非常match👍🏻!\n\n健康輕盈沙律🥗$138\n好鍾意呢一個沙律，全部都係Superfood，而且醬汁整得好好味，有我至愛牛油果🥰，紅菜頭甜甜的，即使咁大碟，我一個人都可以食得晒架❤️\n\n夏威夷薄餅🍕$158\n來到Pizza Express，點可以唔叫Pizza呀！我哋鍾情呢度嘅羅馬簿餅，因為似足意大利薄餅更大更薄，選用帕爾馬火腿配以香甜菠蘿粒醬好鬼正，大家都食得好滋味😋。\n\n肉醬寬條麵🍝$138\n孖寶呢期鍾意食肉醬意大利麵，濃郁番茄牛肉醬，呢個寬條麵啱晒佢哋😏。\n\n意大利雪糕🍨$38\n哥哥最鍾意食雪糕，呢個意大利雪糕配以牛油脆筒和士多啤梨果粒，真係啱晒小朋友食啊🥳！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "孖寶爸平時咁辛苦陪玩，爸爸節梗係要帶佢去食佢最鍾意食嘅Pizza🍕等佢開心吓！\n\n呢間係愉景廣場的《Pizza Express》唔單止食物好食，環境仲好Chill🥰。孖寶爸即刻叫咗1664啤酒$58 嘆下，我就叫左 #Lemonade 檸檬特飲$43 ，夏天真係飲番杯凍飲先夠爽💕。\n\n焗麵包球 $50\n呢個 #PizzaExpress 招牌菜，係我哋 #必食之選✌🏻。除咗配以蒜蓉牛油醬，仲有羅勒香草醬多一個選擇添，兩種味道都好正啊😋！\n\n#是日餐湯（蕃茄湯）$58\n香濃番茄味道，細佬佬好鍾意飲呀，配上法包非常match👍🏻!\n\n健康輕盈沙律🥗$138\n好鍾意呢一個沙律，全部都係Superfood，而且醬汁整得好好味，有我至愛牛油果🥰，紅菜頭甜甜的，即使咁大碟，我一個人都可以食得晒架❤️\n\n夏威夷薄餅🍕$158\n來到Pizza Express，點可以唔叫Pizza呀！我哋鍾情呢度嘅羅馬簿餅，因為似足意大利薄餅更大更薄，選用帕爾馬火腿配以香甜菠蘿粒醬好鬼正，大家都食得好滋味😋。\n\n肉醬寬條麵🍝$138\n孖寶呢期鍾意食肉醬意大利麵，濃郁番茄牛肉醬，呢個寬條麵啱晒佢哋😏。\n\n意大利雪糕🍨$38\n哥哥最鍾意食雪糕，呢個意大利雪糕配以牛油脆筒和士多啤梨果粒，真係啱晒小朋友食啊🥳！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chloe Yuen",
+          "uri": "https://www.google.com/maps/contrib/107543282397012554078/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJA3SqVKow3CXuPGrvqWnk-G7498Nz9aPt_w3PElLLH4EKywTR2=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2021-06-26T15:54:50.988334Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURxaUl6YjR3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURxaUl6YjR3RRAB!2m1!1s0x3403fdba4cd1a0c9:0x9340c1b2f6d4c33e"
+      },
+      {
+        "name": "places/ChIJyaDRTLr9AzQRPsPU9rLBQJM/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5clB2WG53RRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "Pizza餅底很脆但餅面食材有點太乾，\n工作人員很好很細心。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Pizza餅底很脆但餅面食材有點太乾，\n工作人員很好很細心。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tracy Mun",
+          "uri": "https://www.google.com/maps/contrib/103450308270493192339/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5E-KXF0eqQv5YrwG8yzcMjS05l1M5MSEumyR0YYybgsYTtDQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2021-01-22T15:25:43.249746Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5clB2WG53RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5clB2WG53RRAB!2m1!1s0x3403fdba4cd1a0c9:0x9340c1b2f6d4c33e"
+      },
+      {
+        "name": "places/ChIJyaDRTLr9AzQRPsPU9rLBQJM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDNEsyQUFREAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 4,
+        "text": {
+          "text": "Set lunch 好味！👍🏼特別一提要飲乾薑茶👍🏼",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Set lunch 好味！👍🏼特別一提要飲乾薑茶👍🏼",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Teddy Lee",
+          "uri": "https://www.google.com/maps/contrib/109110343107797882429/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVdQZMFr-Qzv9Y7x826gz8CXJks5Hj-3MATuDhc-cNVObTURQtFA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2020-08-07T11:05:54.564998Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNDNEsyQUFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNDNEsyQUFREAE!2m1!1s0x3403fdba4cd1a0c9:0x9340c1b2f6d4c33e"
+      }
+    ],
+    "menuForChildren": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fdba4cd1a0c9:0x9340c1b2f6d4c33e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10610693696474366782&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fdba4cd1a0c9:0x9340c1b2f6d4c33e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fdba4cd1a0c9:0x9340c1b2f6d4c33e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fdba4cd1a0c9:0x9340c1b2f6d4c33e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJyaDRTLr9AzQRPsPU9rLBQJM/photos/Aa-ngMZGO5xD78a2IKB_i4LmYfN3ZnvuTrJLYVMDcII17sKYRHniBlwIX5eJgEyJT9gzU3OmM5j-FUjvoRp16dUhRvDazrlonaU-WN3ZuLqE2qs8ZmrjyKwrHaLr5uLKcwTLk_v9MHWBgkWTCKRqArSXZFMVLFSDlwkogHlND2b9xfT7saPaPdf5miX45YvGjg13_a9tMxL1OWlcZGN5XVn3vMVaOcDPlJ-c5xsdFEEkdlbNeOjYQ6JbeUVWasu81GF7kOJjpcxVwI4KIVBHWIvtYNBQ-QRWK54rXOC-EXCrIjtjkqJmozwUvimVSN2sm0SaBz94QLffqUwIZ_WtWqQn0KYvOke_tZn6eSROVCXgWBOlf7D8p4ansxxesTSVTo1PYLhdAK4pFR_sZ1AhjWFwj2MzVc4z_8E",
+      "widthPx": 2048,
+      "heightPx": 1365,
+      "authorAttributions": [
+        {
+          "displayName": "PizzaExpress (Discovery Bay)",
+          "uri": "https://maps.google.com/maps/contrib/115711728985460685292",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSwBWHoZEJqIPNnRecrKhM8SP-egwMx95csAZFHHGFlK-x8p8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC63faS0QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC63faS0QE!2e10!4m2!3m1!1s0x3403fdba4cd1a0c9:0x9340c1b2f6d4c33e"
+    },
+    "local_path": "photos/ChIJyaDRTLr9AzQRPsPU9rLBQJM.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLclKdM8OAb-TYf6uKtpRk0F_8oXb48q5KJJt9U9yYBj9F8hZwXwLRccLQZZjtQW1kO6HizwYzYtd0Y9rQCBEra-4CeguVHG2aSFFUJ6R4KMq_Tbzv0-PBJx1uwgPM-efXx0GuuutA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 164770
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.pizzaexpress.com.hk/menu-overview",
+        "label": "Menu",
+        "source_url": "https://www.pizzaexpress.com.hk/party-venues/discovery-bay-plaza",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.pizzaexpress.com.hk/main-menu-pizza",
+        "label": "Menu",
+        "source_url": "https://www.pizzaexpress.com.hk/party-venues/discovery-bay-plaza",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "pizza_restaurant",
+    "label": "披薩餐廳",
+    "types": [
+      "pizza_restaurant",
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.pizzaexpress.com.hk/menu-overview"
+}

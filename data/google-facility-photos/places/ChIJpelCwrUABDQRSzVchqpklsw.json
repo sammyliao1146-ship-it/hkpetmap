@@ -1,0 +1,38 @@
+{
+  "id": "ChIJpelCwrUABDQRSzVchqpklsw",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "G/f, Tai Nan St, Sham Shui Po, Kowloon, 香港",
+  "location": {
+    "latitude": 22.327503999999998,
+    "longitude": 114.16262979999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14742081113805305163&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "PV上門獸醫 Pulsevet Veterinary Centre",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJpelCwrUABDQRSzVchqpklsw/photos/Aa-ngMZsn16mfh3-2bnx-5UOCC27OntVuu9HFG-r5hSi60PwdZRC8QItlYOz6uwreWoIwVcunxOQkyQThHKoW4AeeWcPuZ9KXbPe8G4VCrMuuy3yL1xP-WpTZdfPYrZ_AmIQZAI_XW_ixVZobMe7l0qsadqfRHK3CvnwQGOcUkCie_S2PcFxnKgF-Ep7JnlpVnjR4rpilgpNvDz1WhCx94zDNkwyMn9_82jhEm9ED2TNXtrKR_NuFRrKjzSsAhhegVlWhvMUrSj9-Ap3-kVGeAkIiOwyslRcPLLQUj6PPLVpNIOm-ao3XJ-k6NvU7wRQWLVoQvoGzthvgQLi_gJcvpZsxq0nnWOtiUKILKOIlMSPtzEftBX1faHExDBopK2oXHasMMnhOMqdNWSf00f0MSWYIE2HCR25S9rDVjqqzF0Tja0M1Q",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Wai Ki Wong",
+          "uri": "https://maps.google.com/maps/contrib/102680249213328416583",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAeoFaa3PsAmE769XbayzRbQ-jB2XybtqzkTehx_Jea3Ymrw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD8hOA6X-y8R6rXT5RbMfhK&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD8hOA6X-y8R6rXT5RbMfhK!2e10!4m2!3m1!1s0x340400b5c242e9a5:0xcc9664aa865c354b"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:40.621490+00:00"
+}

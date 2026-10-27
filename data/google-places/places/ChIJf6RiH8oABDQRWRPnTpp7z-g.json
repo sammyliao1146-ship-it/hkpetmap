@@ -1,0 +1,314 @@
+{
+  "google_place_id": "ChIJf6RiH8oABDQRWRPnTpp7z-g",
+  "restaurant_ids": [
+    "restaurant:3162216016"
+  ],
+  "fetched_at": "2026-10-23T15:39:45.121370+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJf6RiH8oABDQRWRPnTpp7z-g",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港九龍太子通菜街248號",
+    "location": {
+      "latitude": 22.3259205,
+      "longitude": 114.1692976
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=16775763039657333593&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.seewide.com/%E5%AE%A4%E5%85%A7-%E6%B7%BA%E8%8D%89-%E5%A4%AA%E5%AD%90-12585",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 5,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 5,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 15:00 – 04:00",
+        "星期二: 15:00 – 04:00",
+        "星期三: 15:00 – 04:00",
+        "星期四: 15:00 – 04:00",
+        "星期五: 15:00 – 05:00",
+        "星期六: 15:00 – 05:00",
+        "星期日: 15:00 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T21:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 38,
+    "displayName": {
+      "text": "淺草廊",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "servesBeer": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJf6RiH8oABDQRWRPnTpp7z-g/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwc0tmR0VREAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 5,
+        "text": {
+          "text": "舒服的感覺",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "舒服的感覺",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ricky Cheng",
+          "uri": "https://www.google.com/maps/contrib/113734722474555234058/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLGzClyr6FjmDB_akZUanuTRiGTaJhfHQAdYBXOgvQXhK34ag=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2019-10-19T15:22:56.241926Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQwc0tmR0VREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQwc0tmR0VREAE!2m1!1s0x340400ca1f62a47f:0xe8cf7b9a4ee71359"
+      },
+      {
+        "name": "places/ChIJf6RiH8oABDQRWRPnTpp7z-g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNicTd5djN3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "我有30分鐘空閒時間，這裡是個放鬆的好地方…",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "had a spare 30 minutes and this is a good place to chill...",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Joe Sun",
+          "uri": "https://www.google.com/maps/contrib/115205916924561761998/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7hlXLYviB4HDbYIiaBUO9aWOOIqiKd4_eBNO4qUUcrtnoT33Z=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-07-30T01:16:57.413463Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNicTd5djN3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNicTd5djN3RRAB!2m1!1s0x340400ca1f62a47f:0xe8cf7b9a4ee71359"
+      },
+      {
+        "name": "places/ChIJf6RiH8oABDQRWRPnTpp7z-g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuel9DY3l3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "啤酒還行。\n\n到處都是煙味。\n\n陌生人不停地向你兜售香菸。\n\n我看過最髒的廁所。\n\n電視卡頓得厲害。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Beers were okay.\nFull of smoking.\nRandom people kept asking you to buy cigarettes.\nDirtiest toilet I’ve ever seen.\nTVs were super laggy.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Ckip",
+          "uri": "https://www.google.com/maps/contrib/107846605384193207429/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkCFKxu59JYSCw6ccClmwD3nBGnemgiQRfqQLPraWDflwlke40Uw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-10-01T08:19:12.486996Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuel9DY3l3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuel9DY3l3RRAB!2m1!1s0x340400ca1f62a47f:0xe8cf7b9a4ee71359"
+      },
+      {
+        "name": "places/ChIJf6RiH8oABDQRWRPnTpp7z-g/reviews/ChdDSUhNMG9nS0VJQ0FnSURrNl9xVzhBRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "歡樂時光啤酒特價，1664、Hoogarden、Corona 等只要 58 美元！平日安靜舒適。食物一般。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Happy hour great price for beer. 1664, hooagarden, corona etc only $58 ! Quiet and relaxing during weekday. Food wasn't impressive.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "JJP",
+          "uri": "https://www.google.com/maps/contrib/117552302523516567250/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXI9VhdteKRXdQEcu5cPfBqcgVNaixqSs0s5yWk3bzOpt8juYJ0=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2019-07-08T13:48:26.328093Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURrNl9xVzhBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURrNl9xVzhBRRAB!2m1!1s0x340400ca1f62a47f:0xe8cf7b9a4ee71359"
+      },
+      {
+        "name": "places/ChIJf6RiH8oABDQRWRPnTpp7z-g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBMzRlZEdnEAE",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "text": {
+          "text": "服務一流，食物美味，還有飛鏢遊戲。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Great service, good food, i-darts games",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Aggie Leung",
+          "uri": "https://www.google.com/maps/contrib/106387374928493578626/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW47p3G6_v8dqi5aoY0dOgaofRH19BwwmlWwNciqKdYND0nDUE=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2018-08-26T01:17:07.900563Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBMzRlZEdnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBMzRlZEdnEAE!2m1!1s0x340400ca1f62a47f:0xe8cf7b9a4ee71359"
+      }
+    ],
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400ca1f62a47f:0xe8cf7b9a4ee71359!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16775763039657333593&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ca1f62a47f:0xe8cf7b9a4ee71359!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400ca1f62a47f:0xe8cf7b9a4ee71359!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ca1f62a47f:0xe8cf7b9a4ee71359!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJf6RiH8oABDQRWRPnTpp7z-g/photos/Aa-ngMbxUGGGtoJkkK4GkX50mth3emWc-f7pwIEpqe9SKMG7-JdVCUqVqFDRTRVNENB5gz3KvG8HLNHMK8D52ukuhL6Pl7KoGwG0eukJuPG3CGE8o_OeQ0EVwffCyc8Q1gKgkKi9ldDjjj76NChs5S2fS_uQ_lymQ51fNt4TaT5FNxBZ3LMsrqenthDeUDZTDR0HdCRNKlfCrPiBZlnabQuYSTwCEClLEFr-HrFy7XKEsHl2sp5sAPhsWIuboULyUhX92tkf7VKigHAki_SxcmA1ldwMfFZ64ENrOoEtMXGBFjZikisT_eB2kx_Ykbt3K2uXJHBUXuy17OiDjq38KIWyN0gH1fBdBIdx-nluX2tiB4nxq5K3Ndd20B6t_rs-qDcSGMn1B0JRHdGuvr3_iEuXZOzB_4AWq_vVdFsScKmRggZA",
+      "widthPx": 3626,
+      "heightPx": 2719,
+      "authorAttributions": [
+        {
+          "displayName": "JJJ Dexter",
+          "uri": "https://maps.google.com/maps/contrib/109682598854319599212",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJK9l0O7A7LxmGtMN7PPJvoRJU204AlT3HZi3CXoWoMnLLMuE8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCUmino6tYDLGnDPQCyUGOK&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCUmino6tYDLGnDPQCyUGOK!2e10!4m2!3m1!1s0x340400ca1f62a47f:0xe8cf7b9a4ee71359"
+    },
+    "local_path": "photos/ChIJf6RiH8oABDQRWRPnTpp7z-g.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlqMve_htvGUX64kUOTUG0AZC9FkeE8swYchsPoi2mdFrJrYeb8ewIZS4KYHBhRYjqe8UlpdH6wOZTOWymhxiyZmuDORj8nPlu8tHoQxXTjYOpB0C4Kl9Ngz7MhBlWZ8WIapgLhzEZ0YE=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 144756
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

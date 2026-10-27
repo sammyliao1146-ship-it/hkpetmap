@@ -1,0 +1,39 @@
+{
+  "id": "ChIJQSTo5l75AzQRfxYkt7wzOwU",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界錦田大江埔238號",
+  "location": {
+    "latitude": 22.444679,
+    "longitude": 114.07150399999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=376951879435032191&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "聚萌",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "service",
+  "photos": [
+    {
+      "name": "places/ChIJQSTo5l75AzQRfxYkt7wzOwU/photos/Aa-ngMa4mO4nKuNutH4npsyPabgHCAF5foi13rXbYHuqgkz1yv3DCSBfy_DVwcaoKh90XmWvk591aRINZO0rIqAJmw3bV7DNV7P7BQDfe8Czyl4vCUwvjdo0NSZHvrUHhOBQn6EPydNU_bqmBE1fWn7ksdKiyLU-3P5CCHa3-3r_SUrGtsUgcOxI9fSR01F5SnNz_IBDYOCwMhgNBAuAbv2TlHVFbMNSNA3pCUBKWG6BWPVo2iH6CNcCLRXFYtfG29QIu7B4B8iTtzxTtXKU_IdeuaUXginDwlZPyuDE56iq2H145ezqsW6Xxe7hdZXc952Zuhv0LoSktVGPY_9KgFKrqxOPx5n4AneyUNhv1O4DL3Ir11TlO7nSqY7LiP-F0G4cYjHOY1D6z7K5eqDFidjScDCA9g",
+      "widthPx": 2160,
+      "heightPx": 3840,
+      "authorAttributions": [
+        {
+          "displayName": "TAT HANG CHUNG",
+          "uri": "https://maps.google.com/maps/contrib/116792476077956537221",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ9IzDwsCd9NvZDTv3EJxuUU1kYrEzTZ9vDbY4QWkAbNeZ_Vw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICLv--6Ww&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLv--6Ww!2e10!4m2!3m1!1s0x3403f95ee6e82441:0x53b33bcb724167f"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:10.452215+00:00"
+}

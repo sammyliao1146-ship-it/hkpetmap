@@ -1,0 +1,324 @@
+{
+  "google_place_id": "ChIJzxI_XQD5AzQRpCQb8tl-Uxw",
+  "restaurant_ids": [
+    "restaurant:3192802131"
+  ],
+  "fetched_at": "2026-10-23T15:48:19.948727+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJzxI_XQD5AzQRpCQb8tl-Uxw",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6309 6362",
+    "internationalPhoneNumber": "+852 6309 6362",
+    "formattedAddress": "香港新界荃灣沙咀道362號Shop G1, G/F",
+    "location": {
+      "latitude": 22.3682937,
+      "longitude": 114.11910239999999
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=2041114530663834788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://return-coffee.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 18:00",
+        "星期二: 08:00 – 18:00",
+        "星期三: 08:00 – 18:00",
+        "星期四: 08:00 – 18:00",
+        "星期五: 08:00 – 18:00",
+        "星期六: 08:00 – 18:00",
+        "星期日: 09:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 287,
+    "displayName": {
+      "text": "Return Coffee 362",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJzxI_XQD5AzQRpCQb8tl-Uxw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aRmVsQXpVMko1TTJkNWJrMVZlWFZUVTFsbVEwRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "環境舒服，輕食熱食都有水準。🥪 All day breakfast、toast、burger全部即叫即整，食落新鮮。值得試嘅係佢杯咖啡，香濃順滑，層次分明👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒服，輕食熱食都有水準。🥪 All day breakfast、toast、burger全部即叫即整，食落新鮮。值得試嘅係佢杯咖啡，香濃順滑，層次分明👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Andy Sha",
+          "uri": "https://www.google.com/maps/contrib/104292980885593052908/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBktpm3HneS9i90n5ozPewol0omzVahjEcLT-KB_42rWU9=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-16T16:15:08.419093591Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aRmVsQXpVMko1TTJkNWJrMVZlWFZUVTFsbVEwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aRmVsQXpVMko1TTJkNWJrMVZlWFZUVTFsbVEwRRAB!2m1!1s0x3403f9005d3f12cf:0x1c537ed9f21b24a4"
+      },
+      {
+        "name": "places/ChIJzxI_XQD5AzQRpCQb8tl-Uxw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SNE1FWm1TbUkwUkc0NGFGZ3ROREp1YjNZNFVYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 3,
+        "text": {
+          "text": "路過，飲咗Ginger latte。小柸、低温，沒咖啡味。隔離兩枱，傾計，好嘈吵。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "路過，飲咗Ginger latte。小柸、低温，沒咖啡味。隔離兩枱，傾計，好嘈吵。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tom Chan",
+          "uri": "https://www.google.com/maps/contrib/109641517079447731098/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIy1ZMbOQzaLp1vTOozG1ksUcI5SgHGwvwzBIFYVLrmR7ZndQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-29T10:12:16.463778704Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SNE1FWm1TbUkwUkc0NGFGZ3ROREp1YjNZNFVYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SNE1FWm1TbUkwUkc0NGFGZ3ROREp1YjNZNFVYYxAB!2m1!1s0x3403f9005d3f12cf:0x1c537ed9f21b24a4"
+      },
+      {
+        "name": "places/ChIJzxI_XQD5AzQRpCQb8tl-Uxw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaaE1qUlFTV2g1U1VKalIycG1iRVp6YzFCTldsRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 2,
+        "text": {
+          "text": "煙燻三文魚沙律：整體而言還不錯吃，生菜和番茄以及小黃瓜都滿爽脆清甜，口感和味道都正常，喜歡清爽的感覺，夏天推推🥰\n\n手沖咖啡：我點了巴拿馬厭氧日曬，身為咖啡師的我最近幾年才開始看到巴拿馬的豆子做厭氧，覺得一定要試看看。先從外表説起，用紅酒的靜酒瓶裝咖啡令人覺得高級感上升，杯子的部分也用了品測杯讓人覺得愉悅。但是重點來了，這次巴拿馬厭氧日曬的沖煮可以説在我心中是糟糕的，首先，入口時黑巧克力和熱帶水果的風味過度萃取，會讓客人覺得刮舌和帶點澀的味道，會有點難以下咽。其次，參數和手法的缺陷，豆子的風味本身沒有多大問題只是我必須説不是每支咖啡豆的沖煮手法都能一樣，要經過每次的調整去完成的。最後，豆子帶點酒香，這個是值得加分，在沖煮後的咖啡液中，發揮得不錯。\n\n整體來說還行，但有很大的進步空間",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "煙燻三文魚沙律：整體而言還不錯吃，生菜和番茄以及小黃瓜都滿爽脆清甜，口感和味道都正常，喜歡清爽的感覺，夏天推推🥰\n\n手沖咖啡：我點了巴拿馬厭氧日曬，身為咖啡師的我最近幾年才開始看到巴拿馬的豆子做厭氧，覺得一定要試看看。先從外表説起，用紅酒的靜酒瓶裝咖啡令人覺得高級感上升，杯子的部分也用了品測杯讓人覺得愉悅。但是重點來了，這次巴拿馬厭氧日曬的沖煮可以説在我心中是糟糕的，首先，入口時黑巧克力和熱帶水果的風味過度萃取，會讓客人覺得刮舌和帶點澀的味道，會有點難以下咽。其次，參數和手法的缺陷，豆子的風味本身沒有多大問題只是我必須説不是每支咖啡豆的沖煮手法都能一樣，要經過每次的調整去完成的。最後，豆子帶點酒香，這個是值得加分，在沖煮後的咖啡液中，發揮得不錯。\n\n整體來說還行，但有很大的進步空間",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "以諾 Enoch HK",
+          "uri": "https://www.google.com/maps/contrib/107034656389030300585/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUBtGKCzFEvDt7FqcW7i6MfAmCfYj7PdqDsPLvCHk_41p-kRoR=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-09-07T08:28:37.952808963Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaaE1qUlFTV2g1U1VKalIycG1iRVp6YzFCTldsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaaE1qUlFTV2g1U1VKalIycG1iRVp6YzFCTldsRRAB!2m1!1s0x3403f9005d3f12cf:0x1c537ed9f21b24a4"
+      },
+      {
+        "name": "places/ChIJzxI_XQD5AzQRpCQb8tl-Uxw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5VmRHeFlZa1ZrWTFOdFZIUldaMlpYUVRSSVZYYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "這間咖啡店的Americano令人驚喜，雖然只是普通一杯，卻香氣撲鼻，帶有淡淡果香，層次分明，喝得出用心。\n早餐選擇算多，也見到每一道都有誠意，烘得剛好牛角包士，還是滑嫩的炒蛋，都讓人感受到店家的細心。店員態度親切殷勤。唯一美中不足的是地點稍偏，對着馬路噪音較大，塵埃較多，但若你願意多走幾步，這裡絕對值得一試。整體而言，都算一間值得回訪的小店，適合慢慢享受一個悠閒的早晨。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間咖啡店的Americano令人驚喜，雖然只是普通一杯，卻香氣撲鼻，帶有淡淡果香，層次分明，喝得出用心。\n早餐選擇算多，也見到每一道都有誠意，烘得剛好牛角包士，還是滑嫩的炒蛋，都讓人感受到店家的細心。店員態度親切殷勤。唯一美中不足的是地點稍偏，對着馬路噪音較大，塵埃較多，但若你願意多走幾步，這裡絕對值得一試。整體而言，都算一間值得回訪的小店，適合慢慢享受一個悠閒的早晨。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "LM",
+          "uri": "https://www.google.com/maps/contrib/101589109351183689570/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVW90L3zmN3_tnHTdwmnpQDGajoIGqWD6ylu4hUdoUd6BUvSg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-12-13T07:35:12.817431166Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5VmRHeFlZa1ZrWTFOdFZIUldaMlpYUVRSSVZYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5VmRHeFlZa1ZrWTFOdFZIUldaMlpYUVRSSVZYYxAB!2m1!1s0x3403f9005d3f12cf:0x1c537ed9f21b24a4"
+      },
+      {
+        "name": "places/ChIJzxI_XQD5AzQRpCQb8tl-Uxw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZeVlQOFJnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "竹炭和牛漢堡比想像中巨大，包又香又脆，和牛也很juicy，薯角配搭香料很好吃；雖然等待時間較長但CP值高\n當然，咖啡也很好喝，flat white很順滑👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "竹炭和牛漢堡比想像中巨大，包又香又脆，和牛也很juicy，薯角配搭香料很好吃；雖然等待時間較長但CP值高\n當然，咖啡也很好喝，flat white很順滑👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cat Lau",
+          "uri": "https://www.google.com/maps/contrib/105643331524155843966/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7YI8r62nD-q7bh0LS0aZnuXZXhySoUlF2yu1JVX5Na2HiMw8=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-05-05T07:48:55.320861Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZeVlQOFJnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZeVlQOFJnEAE!2m1!1s0x3403f9005d3f12cf:0x1c537ed9f21b24a4"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f9005d3f12cf:0x1c537ed9f21b24a4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2041114530663834788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9005d3f12cf:0x1c537ed9f21b24a4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f9005d3f12cf:0x1c537ed9f21b24a4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f9005d3f12cf:0x1c537ed9f21b24a4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJzxI_XQD5AzQRpCQb8tl-Uxw/photos/Aa-ngMaTQhMA6FZS-Xkr3FM5Bfe5aA_pA3LUQtJIAylzY4nEk54jKuK8hnXtiLFaAlq4YVXmT-ICR61mvZYabxg1xOFJeA48U39qZ-5pFy7EWJHmcrlSK14F4sfku-04sKuoyNdi36eDgOgfpcqftqyrau94k5kFkqjj_LJM2IYg19LS4NeHvCP_vJhMMG4r83glqcrwuOweIS0M0yWi0VrXETUzLEMp6bUTHSlc86iIu8QD3nR2fwHprLLeY9IWBqIccL9fqURvaHSYVN-UiR2xNdeopBy1pHBt5U4zcfdVwvIOCEXJzOiGMghdPoALD8xZtFd5eaqVtTfPfm_s6k4qjn4NByyuxkq6-KwVOwPJFS9_miekNz5yVQf3rl5s2pT-1cQQczmTO3Y3-vR3FLdcU_IJ4Dg6",
+      "widthPx": 1079,
+      "heightPx": 607,
+      "authorAttributions": [
+        {
+          "displayName": "Return Coffee 362",
+          "uri": "https://maps.google.com/maps/contrib/102515372600626620428",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjeyaL5PlIodTkZCSZE8fljUyb1B6QDOeGNQq04wCYyZ2Rkg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6nMCk-QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6nMCk-QE!2e10!4m2!3m1!1s0x3403f9005d3f12cf:0x1c537ed9f21b24a4"
+    },
+    "local_path": "photos/ChIJzxI_XQD5AzQRpCQb8tl-Uxw.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYeUwlZTaf7OSz_kr75etquordG48Ol9SUAOkDG74ubpdLwkqYmwp3yYTBDxEzMcF9K4zKubOoO7VE6cIh0f6yQy0hJqQ4NVd3dNQSlAGEYGI03YOuZ_m6W3uj7NsZYBx1DVhN=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 623432
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

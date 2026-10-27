@@ -1,0 +1,402 @@
+{
+  "google_place_id": "ChIJI5pG9S7_AzQRST-vk7WGcwg",
+  "restaurant_ids": [
+    "restaurant:2218815441"
+  ],
+  "fetched_at": "2026-10-23T15:42:49.155021+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJI5pG9S7_AzQRST-vk7WGcwg",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6463 1109",
+    "internationalPhoneNumber": "+852 6463 1109",
+    "formattedAddress": "70 High Street G/F, Hang Sing Mansion, Sai Ying Pun, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.285082799999998,
+      "longitude": 114.1413647
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=608978489050087241&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://bistro-concept.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 16:00, 17:30 – 22:00",
+        "星期二: 12:00 – 16:00, 17:30 – 22:00",
+        "星期三: 12:00 – 16:00, 17:30 – 22:00",
+        "星期四: 12:00 – 22:00",
+        "星期五: 12:00 – 16:00, 17:30 – 22:00",
+        "星期六: 12:00 – 16:00, 17:30 – 22:00",
+        "星期日: 12:00 – 16:00, 17:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 331,
+    "displayName": {
+      "text": "勝本",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJI5pG9S7_AzQRST-vk7WGcwg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GVVRURlVVbEprTUZKWVVrTmhlVlF4VURWUlUxRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🐔✨ 西營盤雞主題餐廳\n\n呢間flying cocks以烤雞為主題，餐廳既雞都係波蘭無激素新鮮雞，每隻都重達1.5kg，而且午市套餐都只係$88勁抵食！餐廳入邊全部都係可愛的雞主題裝飾，超可愛，好適合一家大細或者同朋友嚟食！🐔🔥\n\n🤍Set lunch- 1個starter同1個Main\n\n🍲 Soup of the day-蘑菇湯: 湯濃郁香滑，蘑菇的鮮味十足。\n\n🍅 Tomato Bruschetta 番茄烤麵包:\n非常適合做前菜，麵包烤得金黃酥脆，配上新鮮的番茄清新開胃！\n\n🐓 1/2 Rotisserie Chicken - 必叫招牌波蘭烤雞! 用咗波蘭傳統烤雞手法，外皮烤得酥脆金黃，內部卻保持多汁嫩滑，搭配特製的香料醃料，香味四溢，雞肉食落完全唔會乾同鞋，超好食！\n\n🍝 Meatball Marinara Pasta - 雞肉丸意粉: 雞肉丸外層Q彈有嚼勁，內裡由新鮮雞肉製作香嫩多汁，搭配濃郁的番茄醬汁，撒上帕瑪森芝士，麵條吸收了醬汁的精華，味道濃郁。\n\n餐廳嘅食物好食又性價比高，裝潢也充滿趣味，有許多可愛的小雞擺設，氛圍輕鬆，而且服務熱情友善，不論是家庭聚餐還是朋友小聚都很適合！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🐔✨ 西營盤雞主題餐廳\n\n呢間flying cocks以烤雞為主題，餐廳既雞都係波蘭無激素新鮮雞，每隻都重達1.5kg，而且午市套餐都只係$88勁抵食！餐廳入邊全部都係可愛的雞主題裝飾，超可愛，好適合一家大細或者同朋友嚟食！🐔🔥\n\n🤍Set lunch- 1個starter同1個Main\n\n🍲 Soup of the day-蘑菇湯: 湯濃郁香滑，蘑菇的鮮味十足。\n\n🍅 Tomato Bruschetta 番茄烤麵包:\n非常適合做前菜，麵包烤得金黃酥脆，配上新鮮的番茄清新開胃！\n\n🐓 1/2 Rotisserie Chicken - 必叫招牌波蘭烤雞! 用咗波蘭傳統烤雞手法，外皮烤得酥脆金黃，內部卻保持多汁嫩滑，搭配特製的香料醃料，香味四溢，雞肉食落完全唔會乾同鞋，超好食！\n\n🍝 Meatball Marinara Pasta - 雞肉丸意粉: 雞肉丸外層Q彈有嚼勁，內裡由新鮮雞肉製作香嫩多汁，搭配濃郁的番茄醬汁，撒上帕瑪森芝士，麵條吸收了醬汁的精華，味道濃郁。\n\n餐廳嘅食物好食又性價比高，裝潢也充滿趣味，有許多可愛的小雞擺設，氛圍輕鬆，而且服務熱情友善，不論是家庭聚餐還是朋友小聚都很適合！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sa Sa",
+          "uri": "https://www.google.com/maps/contrib/110024721157140187207/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNNhVd8ojVFS3sZ2qynNzjOPj7sb-S5kr_61BTnn_MZHc3aw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-07T16:31:58.587877972Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GVVRURlVVbEprTUZKWVVrTmhlVlF4VURWUlUxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GVVRURlVVbEprTUZKWVVrTmhlVlF4VURWUlUxRRAB!2m1!1s0x3403ff2ef5469a23:0x87386b593af3f49"
+      },
+      {
+        "name": "places/ChIJI5pG9S7_AzQRST-vk7WGcwg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNMFpIUlhTVWxNY0RsbGVsUlJaMFo0TVhwWU1FRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "隱藏喺西環街角嘅Flying Cock，以波蘭傳統烤雞工藝為賣點，嚴選無GMO、無激素嘅1.5kg自然生長雞，喺開放式廚房即場旋轉烤製。環境輕鬆舒適，牆上可愛嘅卡通雞圖案同埋仲可以用玩具雞叫服務員，增添咗幾分趣味性，適合同朋友邊食邊傾偈。\n今次試咗佢哋嘅Set Dinner ，性價比高。開胃有Polish Chicken Rosol湯，清澈雞湯配紅蘿蔔、馬鈴薯同少少通粉。主菜係半隻Rotisserie Chicken，皮脆汁多，肉質滑嫩，淋上thyme、garlic、oregano同olive oil嘅香草醬汁，層次分明，唔會過膩。另外推介Sweet Potato Chips同Chicken Fajitas ，後者充滿墨西哥風味，點上特有醬汁，配平餅自己包。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "隱藏喺西環街角嘅Flying Cock，以波蘭傳統烤雞工藝為賣點，嚴選無GMO、無激素嘅1.5kg自然生長雞，喺開放式廚房即場旋轉烤製。環境輕鬆舒適，牆上可愛嘅卡通雞圖案同埋仲可以用玩具雞叫服務員，增添咗幾分趣味性，適合同朋友邊食邊傾偈。\n今次試咗佢哋嘅Set Dinner ，性價比高。開胃有Polish Chicken Rosol湯，清澈雞湯配紅蘿蔔、馬鈴薯同少少通粉。主菜係半隻Rotisserie Chicken，皮脆汁多，肉質滑嫩，淋上thyme、garlic、oregano同olive oil嘅香草醬汁，層次分明，唔會過膩。另外推介Sweet Potato Chips同Chicken Fajitas ，後者充滿墨西哥風味，點上特有醬汁，配平餅自己包。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Natalie Law",
+          "uri": "https://www.google.com/maps/contrib/102193887817273140745/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkDZHcL4kWaS36roZ3n9gFpeHEFwcsirFQTywWFS-pzXFwIac=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-12-17T13:47:30.702532022Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNMFpIUlhTVWxNY0RsbGVsUlJaMFo0TVhwWU1FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNMFpIUlhTVWxNY0RsbGVsUlJaMFo0TVhwWU1FRRAB!2m1!1s0x3403ff2ef5469a23:0x87386b593af3f49"
+      },
+      {
+        "name": "places/ChIJI5pG9S7_AzQRST-vk7WGcwg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSMU4xTTFhVUozT1VGQ1QyeFBjRmxRWDI1VWNrRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "🍗 慢烤原味雞（半隻）$168\n配番薯條\n💬 餐廳以波蘭傳統烤雞工藝為核心，嚴選每隻重達1.5公斤嘅自然生長雞，喺開放式廚房即場烤製🔥 雞肉真係超嫩滑，皮脆肉香，仲係非基因改造，食得安心～番薯條甜甜哋，好夾！\n\n🍗 韓式炸雞翼（細）$88 (6件)\n💬 雙重炸製超脆口，甜甜辣辣嘅韓式辣醬好開胃，芝麻香加分！\n\n🍲 波蘭雞湯 $68\n💬 傳統波蘭風味，湯底清甜，用雞肉同蔬菜慢火熬出嚟，飲完成身暖笠笠～\n\n🍋 檸檬撻 $68\n💬 牛油撻底鬆化，檸檬餡酸甜清爽，面頭灑�層糖霜，完美收尾！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🍗 慢烤原味雞（半隻）$168\n配番薯條\n💬 餐廳以波蘭傳統烤雞工藝為核心，嚴選每隻重達1.5公斤嘅自然生長雞，喺開放式廚房即場烤製🔥 雞肉真係超嫩滑，皮脆肉香，仲係非基因改造，食得安心～番薯條甜甜哋，好夾！\n\n🍗 韓式炸雞翼（細）$88 (6件)\n💬 雙重炸製超脆口，甜甜辣辣嘅韓式辣醬好開胃，芝麻香加分！\n\n🍲 波蘭雞湯 $68\n💬 傳統波蘭風味，湯底清甜，用雞肉同蔬菜慢火熬出嚟，飲完成身暖笠笠～\n\n🍋 檸檬撻 $68\n💬 牛油撻底鬆化，檸檬餡酸甜清爽，面頭灑�層糖霜，完美收尾！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Giselle Liu",
+          "uri": "https://www.google.com/maps/contrib/114798673981269931066/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZTTkSzTKiCMaCMTGkx5y2-rhyMZO5GgzX9VYZK3x4N3BGLN7XAA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-09-27T14:42:13.120910313Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSMU4xTTFhVUozT1VGQ1QyeFBjRmxRWDI1VWNrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSMU4xTTFhVUozT1VGQ1QyeFBjRmxRWDI1VWNrRRAB!2m1!1s0x3403ff2ef5469a23:0x87386b593af3f49"
+      },
+      {
+        "name": "places/ChIJI5pG9S7_AzQRST-vk7WGcwg/reviews/Ci9DQUlRQUNvZENodHljRjlvT213NE1USkZVbXBSTTBGRlQwWnFNRGs1Tm5CUGVrRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "每枱都有隻尖叫雞波蘭傳統烤雞!\nSet Dinner幾抵,有main有甜品有小食/湯都係168起\n招牌波蘭傳統烤雞配薯條（半隻）\n全店選用無激素的波蘭雞(No GMO)\n每隻約重1.5KG\n開放式廚房即場烤製\n皮脆肉嫩\n入面幾juicy",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "每枱都有隻尖叫雞波蘭傳統烤雞!\nSet Dinner幾抵,有main有甜品有小食/湯都係168起\n招牌波蘭傳統烤雞配薯條（半隻）\n全店選用無激素的波蘭雞(No GMO)\n每隻約重1.5KG\n開放式廚房即場烤製\n皮脆肉嫩\n入面幾juicy",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hkfoodphoto HK",
+          "uri": "https://www.google.com/maps/contrib/115033116167219223722/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfP0XbB_eCi-fnKEbWzYZUisr__T77V81OEd1ZWq_rkIriiRk=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-10-31T15:47:09.732213834Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213NE1USkZVbXBSTTBGRlQwWnFNRGs1Tm5CUGVrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213NE1USkZVbXBSTTBGRlQwWnFNRGs1Tm5CUGVrRRAB!2m1!1s0x3403ff2ef5469a23:0x87386b593af3f49"
+      },
+      {
+        "name": "places/ChIJI5pG9S7_AzQRST-vk7WGcwg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GM1pubHliREpPWkcxVmRYWjNVVWhzUlVKcFEzYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Protein蓋地(๑˃̵ᴗ˂̵)و ! 使用無激素雞傳統波蘭烤雞\nFlying Cock位於雲集勁多好嘢食嘅西營盤高街一帶\n主打香港少見嘅波蘭菜 以及一系列以雞為主角嘅菜式 that’s why叫flying cock lol\n\n◦ Whole Roast Chicken Set (Polish chicken broth & house salad)\n最招牌就係烤雞啦 一入鋪就見到open kitchen個烤雞爐 確保新鮮即烤～\n用咗波蘭傳統烤雞工藝 嚴選每隻重達1.5公斤嘅自然生長雞\n所以食落隻雞係有雞味啲 同雖然唔係超級肥美 但皮係脆脆哋 無咩皮下脂肪 肉質軟熟唔乾柴\n另外佢醃料食落主要係香草類 無咩負擔 亦出乎意料好入味 配埋個自家chicken broth煉成嘅雞汁更好食\n整體覺得應該都十分適合飲控朋友/gym L ദ്ദി ῀ᢦ῀ ）\n另外個波蘭雞湯飲落清清哋 舒服嘅 入面有啲蔬菜同通心粉\n\n◦ Chicken Momos\n呢個係意外驚喜 蒸完餃子皮薄得嚟仲煙煙韌韌 餡料用咗雞肉更輕盈 staff有強調係自家製的 個重點係個chutney醬料 微辣帶啲香料味 幾惹味(⌯'ᢦ'⌯)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Protein蓋地(๑˃̵ᴗ˂̵)و ! 使用無激素雞傳統波蘭烤雞\nFlying Cock位於雲集勁多好嘢食嘅西營盤高街一帶\n主打香港少見嘅波蘭菜 以及一系列以雞為主角嘅菜式 that’s why叫flying cock lol\n\n◦ Whole Roast Chicken Set (Polish chicken broth & house salad)\n最招牌就係烤雞啦 一入鋪就見到open kitchen個烤雞爐 確保新鮮即烤～\n用咗波蘭傳統烤雞工藝 嚴選每隻重達1.5公斤嘅自然生長雞\n所以食落隻雞係有雞味啲 同雖然唔係超級肥美 但皮係脆脆哋 無咩皮下脂肪 肉質軟熟唔乾柴\n另外佢醃料食落主要係香草類 無咩負擔 亦出乎意料好入味 配埋個自家chicken broth煉成嘅雞汁更好食\n整體覺得應該都十分適合飲控朋友/gym L ദ്ദി ῀ᢦ῀ ）\n另外個波蘭雞湯飲落清清哋 舒服嘅 入面有啲蔬菜同通心粉\n\n◦ Chicken Momos\n呢個係意外驚喜 蒸完餃子皮薄得嚟仲煙煙韌韌 餡料用咗雞肉更輕盈 staff有強調係自家製的 個重點係個chutney醬料 微辣帶啲香料味 幾惹味(⌯'ᢦ'⌯)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rochelle Law",
+          "uri": "https://www.google.com/maps/contrib/114463004186413409370/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbxwoeUNgDNIjfYycKdsvD-TE5egTwn1ujJq2o-aJ-wCW5jrYP=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-11-11T12:55:55.375236820Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GM1pubHliREpPWkcxVmRYWjNVVWhzUlVKcFEzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GM1pubHliREpPWkcxVmRYWjNVVWhzUlVKcFEzYxAB!2m1!1s0x3403ff2ef5469a23:0x87386b593af3f49"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff2ef5469a23:0x87386b593af3f49!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=608978489050087241&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff2ef5469a23:0x87386b593af3f49!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff2ef5469a23:0x87386b593af3f49!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff2ef5469a23:0x87386b593af3f49!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJI5pG9S7_AzQRST-vk7WGcwg/photos/Aa-ngMYC1EajNIlX9Q7zej4nBPoeo5wY3VScsxSAsEJDzgJAUBQo3ApNzbAb_hbf3ADs3xUk36n8g8LPU655Z2vX2t7rGHwmZhcaLMBQIImWfPQ_ycgCBEcEl5qa9V3qt4y4cGgGeenhosIwzI-nZ_Q92YrlfuxWPfyE9DrUrtgsXtUY3m2v4zxt7tZdEwETARprMOf7buDoBw_Tn4V3446Flkae44RgnUD2gIv6HwlWWvpZlEtU4ABdGqU65YL-VNN4gVjPyLfy1Si_xOqT6QbBtl5x6YhT_lni2uaJQGCuuRMv-fmH4fRnhPAqfYhJNsTjn4rnMXXOWRMonW3SzF-kgtF1jPn3gggnrcBJ-T4be0csnFwczfpb_jWUGbkBpPevC201F9Yq9mLKVrbnHlnUyJqe-BAMMzqr1tQNPtwLxVRYWw",
+      "widthPx": 4000,
+      "heightPx": 2512,
+      "authorAttributions": [
+        {
+          "displayName": "Flying Cock - Rotisserie & More",
+          "uri": "https://maps.google.com/maps/contrib/102183678973950146750",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIJWqBaZeqf_0sz6iJ7YtgOkzgIrSKuI5XgNQtJJj4-rj82Mk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDbX8Gw6wtJjhcBAbYMyD-7&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDbX8Gw6wtJjhcBAbYMyD-7!2e10!4m2!3m1!1s0x3403ff2ef5469a23:0x87386b593af3f49"
+    },
+    "local_path": "photos/ChIJI5pG9S7_AzQRST-vk7WGcwg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl0C4sSjN6-zIQwIe1aGJaGBtziQaAgeoFUi_g2TDzvMsXCCDmzLeco8qROWBYUfgBobVMPwfz8cN1wwvpSGyVtJkWonoWZqFo3qJqW1HCLrwxpVBg7D27mtMPTA6jLIqZ2KJdlc8yVdwt=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 171269
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

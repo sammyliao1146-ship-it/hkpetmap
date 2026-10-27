@@ -1,0 +1,67 @@
+{
+  "google_place_id": "ChIJ02QqfucBBDQRcEUbzkn40ug",
+  "restaurant_ids": [
+    "restaurant:2212823417"
+  ],
+  "fetched_at": "2026-10-23T15:45:42.215900+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ02QqfucBBDQRcEUbzkn40ug",
+    "types": [
+      "taiwanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2363 9988",
+    "internationalPhoneNumber": "+852 2363 9988",
+    "formattedAddress": "香港香港島銅鑼灣軒尼詩道500號3樓302室",
+    "location": {
+      "latitude": 22.2795933,
+      "longitude": 114.1839629
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=16776744557782713712&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tastegourmet.co/zh_HK/restaurant/18/Match2",
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+      "text": "麻吉灶咖 (銅鑼灣希慎廣場)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "台式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "taiwanese_restaurant",
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401e77e2a64d3:0xe8d2f849ce1b4570!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16776744557782713712&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401e77e2a64d3:0xe8d2f849ce1b4570!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401e77e2a64d3:0xe8d2f849ce1b4570!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401e77e2a64d3:0xe8d2f849ce1b4570!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": null,
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ReadTimeout"
+  },
+  "cuisine": {
+    "primary_type": "taiwanese_restaurant",
+    "label": "台式餐廳",
+    "types": [
+      "taiwanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

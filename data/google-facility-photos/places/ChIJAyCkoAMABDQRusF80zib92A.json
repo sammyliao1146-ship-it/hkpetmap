@@ -1,0 +1,38 @@
+{
+  "id": "ChIJAyCkoAMABDQRusF80zib92A",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島香港仔香港仔大道利群商業大廈",
+  "location": {
+    "latitude": 22.2484379,
+    "longitude": 114.1525532
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6987224015257256378&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "南區動物診所",
+    "languageCode": "ja"
+  },
+  "primaryType": "doctor",
+  "photos": [
+    {
+      "name": "places/ChIJAyCkoAMABDQRusF80zib92A/photos/Aa-ngMbEIFgOQvTB4prewTnkzobwbGWtzTJBAkSLjR2SHx6gZvgfCAXA4GVxPkFMRaKOvjD-UKPW5Y27JoSYPhQ3UjW3_FZ67NqxT5ALvgfteGTFgnFX139X8qi8gBQd_EK2B48uqkHTaFDPNNEZq3sJL3E0ZUVPiOWGR4ukSEb9PGgn6q6K5Gru_-Ca3wKHKD7j-x-yYg5agllrjyA5_1Wh8BSvb_coidbafjG9rLp994oVdTT0-oeGgv-vsVHEbD7TbtLUUKr8XbExzfrl5imJJ3zLg69dC7rUIKJHaGuZv5ADJcdP63keE1gPlyiAc10dsvj3YnWPdG1Bkr7J628piWRQhfUQeSHWjFM8eS3vD7mNOa1MXdMPEndljNLexd85NU5KpS_oHyZ3Fk2kjo4clDqN6Q",
+      "widthPx": 4000,
+      "heightPx": 2992,
+      "authorAttributions": [
+        {
+          "displayName": "Ken Cheng",
+          "uri": "https://maps.google.com/maps/contrib/116287435690119334517",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQD0ZQXjD_pEoreIXc6Cc_tM2OaTXHyY2PiQDoyN6tY6LY3i1l4g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4zIqBeg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4zIqBeg!2e10!4m2!3m1!1s0x34040003a0a42003:0x60f79b38d37cc1ba"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:34.464058+00:00"
+}

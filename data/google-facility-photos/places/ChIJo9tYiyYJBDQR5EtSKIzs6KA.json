@@ -1,0 +1,38 @@
+{
+  "id": "ChIJo9tYiyYJBDQR5EtSKIzs6KA",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界大埔翠和里5號地下E",
+  "location": {
+    "latitude": 22.4524393,
+    "longitude": 114.16495239999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11594777327381400548&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Jack's Veterinary Hospital",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJo9tYiyYJBDQR5EtSKIzs6KA/photos/Aa-ngMY2NjideRtE_HqU0sJvFGbO51_3EjcjFreIw3GtBvr8cDST985e0w_vFI5dhIHUTNEDHcqJ1mVI_0MPMMSIdId4ZQvVbvJcupC-9AOdjRZ_bHe98-ELVPLo9lP8LdBjkTSKnSVb711HUCNCBprpPK56Vw6_GR_s87o9tVZqDtYKG9ldQWgDmqIz_HEjlW8ysHUlKi8IMmKYud69N7mhQnmDpv-Xv99gneYMWgyZmqcO0HvbAmAHy-53lKX89x6EP-0nQdronxr0zefLQOVoL8WQY0K2R_8HzKAD2Rqv3rPVOqWmLYSlbmR1VZlgIgencskEVhYF7xbj5XkRtv3rhlOPd0k1DnCAljz6mZxHNPuIK6Z1IDmHKYflwgVBwf4wbj5CTGQlNEl6BgNnTQHDnu1AUe5aqiD2l7334nYDU-4ncQ",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Cheuk Hung Cheung",
+          "uri": "https://maps.google.com/maps/contrib/106745615195621663522",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyo3BrKz1EoF972VS3M-AzkzYMyVg8rwl9qk0rf6Ft7jMFUIEJ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDHYa3JxsTYS9TkkpV-iWvl&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDHYa3JxsTYS9TkkpV-iWvl!2e10!4m2!3m1!1s0x340409268b58dba3:0xa0e8ec8c28524be4"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:55.565875+00:00"
+}

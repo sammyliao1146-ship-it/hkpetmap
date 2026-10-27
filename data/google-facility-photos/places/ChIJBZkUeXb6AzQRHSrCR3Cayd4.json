@@ -1,0 +1,38 @@
+{
+  "id": "ChIJBZkUeXb6AzQRHSrCR3Cayd4",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界元朗公園北路1號",
+  "location": {
+    "latitude": 22.4417892,
+    "longitude": 114.01878430000001
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16053532153769765405&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "元朗公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJBZkUeXb6AzQRHSrCR3Cayd4/photos/Aa-ngMYHaUltIc0u8tumrk6mOjDB8O68jK3yHtpfJRfSmkNZr0hOiUTztKFsa27GRbMxF7Vvqt82XVUlERP_Whse2c7RvDrbHtNss4F7M1-QCROB56Ax4o0u_zWUF52rHwd8nynLUFlfiMFp_Kq9jdjSBEBpJR5lzgazK--WT6kSgLTuz4edVerXgj3YGhxGUiMn1GRSbbpQn9ye9koOgC4mYwv3-7YfJW33clyIEEm9yiOF_CKYyaYw-RiRvD8-JcJUsI8slLlQmFXl0nqgyXHM7I8az75TmJ7qdVXTy2VQqjemw1cdySV2coUnxgn3LdLi6wA_xkbBiRz1Z4n5TpwKihvevVur-B7vX3Tm-wVx7wGaZQyMCFKNroExGWQxu5-MF78EgkYbPpScTfrm5lZ2KJ5BDLU",
+      "widthPx": 2992,
+      "heightPx": 2992,
+      "authorAttributions": [
+        {
+          "displayName": "Story of my Life",
+          "uri": "https://maps.google.com/maps/contrib/113895643283025982047",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAbqaN22kBjwkeFgaXJuuI-VHdFNUsjF92GxulBoZ0nYPkujcz=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID6vKzySA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6vKzySA!2e10!4m2!3m1!1s0x3403fa7679149905:0xdec99a7047c22a1d"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:12.581401+00:00"
+}

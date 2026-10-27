@@ -1,0 +1,40 @@
+{
+  "id": "ChIJT3azQwoBBDQR9WOHChrfkNk",
+  "types": [
+    "pet_boarding_service",
+    "veterinary_care",
+    "pet_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍觀塘鴻圖道32號德華中心803",
+  "location": {
+    "latitude": 22.3123124,
+    "longitude": 114.22005639999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15677275605815485429&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Caturday Hotel 喵の寮 (貓酒店/Cat Hotel)",
+    "languageCode": "zh"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJT3azQwoBBDQR9WOHChrfkNk/photos/Aa-ngMbaJ0F0pgxXgzuKn_Prf6voOS-LMi49W8W8SKRy40DWyIv4KUiktUrePUgHS3J_yFXn2HHuxG84X4FpBratjWFsDCbXyJhEAV7xRqNg5A7rdbDVgGKLykqUqegF3_Ss_Yav-AJuIIId860jh1-kz4jFrbusYjFj-cdZU1IgkcqbpfUB46pjBgp6wGLExzwqugg88CTuYULW5ApvSn-08OgmrPz4v-L8A9qTCFs57dTo53xuOgspSMWUqO11TkDgQ2M6y4uz0smI7-6Adwj7LYUbac_54788hwlc4zDmJnD0ch5obGGI-gSb91hWxKGslr6oUF5jhkbdPPdO7n8q1Pev_yueDUYExN-Ol9Iy1THzpG-ME37f2VYk7pYellbraK2hZ-Myg23J1nqBs6bXccI7J-zqR9RoZnI8qJYohVNLFQ",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Mandy Lai",
+          "uri": "https://maps.google.com/maps/contrib/116282521781990934667",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVqUD0uGJ_LYupA5eD0NgmkegtPL9wpQ0jQSzkxpYk7A6YbnNpp=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCQunItrPmQ-gjUNiyXx0uj&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCQunItrPmQ-gjUNiyXx0uj!2e10!4m2!3m1!1s0x3404010a43b3764f:0xd990df1a0a8763f5"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:11.369940+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ChIJDfSM4kX7AzQRsubiDB4NqFs",
+  "types": [
+    "playground",
+    "tourist_attraction",
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界屯門湖山路",
+  "location": {
+    "latitude": 22.379967399999998,
+    "longitude": 113.9659013
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6604543276255209138&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "湖山遊樂場",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "playground",
+  "photos": [
+    {
+      "name": "places/ChIJDfSM4kX7AzQRsubiDB4NqFs/photos/Aa-ngMZQXAecYVyaHEaS6bJqE5UZmwviJzbMICbotsS33HGAxOGMJBP-N2Q9QyZD80k7-Q1RCPL6s_R_Is-egtn8fcduRNoMu1OwBmGREiXuXF17mGekZM0QV9Fjxo-WAtcVkzelX_HffhlhDtag7e63zHRLIU9ZMNajDvXVHUx4RROldG4vP_ivT8v-U_d84kavPxZcPBUxzt-N5f-0Y5kf_-6e8mecxJI9Z-UnE7SmQ9-zUaZmAhdvCHiUj-bJ9Lf7XWw8F7PFxosB1C5TZEtcIa94iuBE-zyrVJX8QhfYLxxObQvgr2MPbqOO-wk3E5Q4KgaMqK6GUYEx-P1LQ9c5XN5HbtHwJO3rU9ODx14-Yf5_tF6hs6dKGDn9wyrOMz9ffYmIJuVZnIgqqX4-TcvtFXOl2J5cblU",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "authorAttributions": [
+        {
+          "displayName": "KWAN TAM",
+          "uri": "https://maps.google.com/maps/contrib/109520512563611340152",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtFE57oPcPV_QfE2hXaFW6XcwW4IANplcfoC75oFvBj0c1Bxpjyw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEt6yujAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEt6yujAE!2e10!4m2!3m1!1s0x3403fb45e28cf40d:0x5ba80d1e0ce2e6b2"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:08.459815+00:00"
+}

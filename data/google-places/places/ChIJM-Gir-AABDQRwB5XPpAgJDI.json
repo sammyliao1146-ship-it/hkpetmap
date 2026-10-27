@@ -1,0 +1,73 @@
+{
+  "google_place_id": "ChIJM-Gir-AABDQRwB5XPpAgJDI",
+  "restaurant_ids": [
+    "restaurant:2252807109"
+  ],
+  "fetched_at": "2026-10-23T15:39:21.572722+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJM-Gir-AABDQRwB5XPpAgJDI",
+    "types": [
+      "premise",
+      "street_address"
+    ],
+    "formattedAddress": "香港九龍紅磡湖光街1號聯盛大廈龍圖閣",
+    "location": {
+      "latitude": 22.3063009,
+      "longitude": 114.1863501
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=3613048604951256768&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "displayName": {
+      "text": "聯盛大廈龍圖閣",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "建築物",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "premise",
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400e0afa2e133:0x322420903e571ec0!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3613048604951256768&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400e0afa2e133:0x322420903e571ec0!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJM-Gir-AABDQRwB5XPpAgJDI/photos/Aa-ngMZ9kd8Xnn4UO6yuiKgUvUI8Um8AUcAEdcMpTO25haTJkynFcF1K1o72sJinqEcihUVM83KNrujgAHsWyyWS9z6Nha149FJrpolDSUyPnpDhBBxKK1bEk1FHJ_70D9Ag-R4_EepY_JhOwbCEwT21i91iDEDUFpFWBssnI1GKVQgVhSnqLQEqztm_nyklnrq6ber4flEfCEKPkb1zjRf7JFBUdXmibV_D0256QEWG7pz3mEb_4jWPt5LAyfKJSWWai530DJUeyOu_XvfPF90Uf45Tb9ZNOHCMvRQCk3Z93f8IVEhsJhYaYBkmU1o-AEoJ4rF75bpaPvJchbJ0jx3VTBn4Rz40gI8cWVdLnDzF64Cz1FyMjs5O2EVXIR2XuLXjhf6anPmVHOwHE-YLcV2tmw",
+      "widthPx": 2922,
+      "heightPx": 3956,
+      "authorAttributions": [
+        {
+          "displayName": "JBB168 H",
+          "uri": "https://maps.google.com/maps/contrib/101516839630302403812",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXP3NJFdRKPLD7JmwMuvHF-slrYZLC7s9thxXfzJiMjkTF7gqaTGA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDR3rBp&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR3rBp!2e10!4m2!3m1!1s0x340400e0afa2e133:0x322420903e571ec0"
+    },
+    "local_path": "photos/ChIJM-Gir-AABDQRwB5XPpAgJDI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcV3N14R64BAcclF4nErJvMKMTaRhFpnRc5OO0EXeawjBrXY35WuGnJMv1LCDUqzGVf-kW478Hq6rcoVw8u7LB8LxCs8alwNkddgIu70oEaHXHXJmLh0ERFZeKf_nJa6bwQ9w=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 355826
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "premise",
+    "label": "建築物",
+    "types": [
+      "premise",
+      "street_address"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

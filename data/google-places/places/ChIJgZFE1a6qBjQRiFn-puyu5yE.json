@@ -1,0 +1,341 @@
+{
+  "google_place_id": "ChIJgZFE1a6qBjQRiFn-puyu5yE",
+  "restaurant_ids": [
+    "restaurant:3115800859"
+  ],
+  "fetched_at": "2026-10-23T15:51:23.259600+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJgZFE1a6qBjQRiFn-puyu5yE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2870 1586",
+    "internationalPhoneNumber": "+852 2870 1586",
+    "formattedAddress": "28/fl., Elevators L11-12, Horizon Plaza, 2 Lee Wing Street, Ap Lei Chau, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.239009,
+      "longitude": 114.152686
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=2443113654308985224&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://tree.com.hk/about/tree-cafe",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:30 – 18:30",
+        "星期二: 10:30 – 18:30",
+        "星期三: 10:30 – 18:30",
+        "星期四: 10:30 – 18:30",
+        "星期五: 10:30 – 18:30",
+        "星期六: 10:30 – 18:30",
+        "星期日: 10:30 – 18:30"
+      ],
+      "nextOpenTime": "2026-10-24T02:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 185,
+    "displayName": {
+      "text": "TREE café",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJgZFE1a6qBjQRiFn-puyu5yE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKdFZHSlJhMTlqTlhKb2QyaG5RM05WWVRSWVFXYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "以獨家樓上咖啡店來說，這裏可以食的食品也很多。例如，三文治，沙律，甚至乎有意分食呢👏🏻👏🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "以獨家樓上咖啡店來說，這裏可以食的食品也很多。例如，三文治，沙律，甚至乎有意分食呢👏🏻👏🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "A Lam",
+          "uri": "https://www.google.com/maps/contrib/116127782854054836594/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZTH3LcvAmVtABQc2GcLd2vmBOdWUZveoAoPh-PM6wN5R7qcA__g=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-01-18T16:13:26.987253462Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKdFZHSlJhMTlqTlhKb2QyaG5RM05WWVRSWVFXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKdFZHSlJhMTlqTlhKb2QyaG5RM05WWVRSWVFXYxAB!2m1!1s0x3406aaaed5449181:0x21e7aeeca6fe5988"
+      },
+      {
+        "name": "places/ChIJgZFE1a6qBjQRiFn-puyu5yE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNycVplZFhnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "TREE Cafe位於鴨脷洲利榮街2號新海怡廣場28樓，今日同朋友去咗想去好耐嘅outlet，順便喺呢間cafe食個lunch，環境超級舒服，佢係位於家具鋪內嘅小cafe，可以一邊食嘢一邊觀賞無敵大海景，窗邊嘅海景簡直一流，視覺同味覺都係一種享受。\n店內嘅木質傢俬，枱櫈，都坐得好舒服。餐廳都係輕食為主，有蛋糕，沙律，咖啡，意粉，提供。\n朋友叫咗一個雞肉意粉，一個菠菜蘑菇餡餅，意粉上面嘅芝士都幾濃，菠菜蘑菇餡餅，細細個但係食落去都幾飽肚。\n今日呢餐望住個景，視覺嘅享受大於味覺嘅享受，正啊！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "TREE Cafe位於鴨脷洲利榮街2號新海怡廣場28樓，今日同朋友去咗想去好耐嘅outlet，順便喺呢間cafe食個lunch，環境超級舒服，佢係位於家具鋪內嘅小cafe，可以一邊食嘢一邊觀賞無敵大海景，窗邊嘅海景簡直一流，視覺同味覺都係一種享受。\n店內嘅木質傢俬，枱櫈，都坐得好舒服。餐廳都係輕食為主，有蛋糕，沙律，咖啡，意粉，提供。\n朋友叫咗一個雞肉意粉，一個菠菜蘑菇餡餅，意粉上面嘅芝士都幾濃，菠菜蘑菇餡餅，細細個但係食落去都幾飽肚。\n今日呢餐望住個景，視覺嘅享受大於味覺嘅享受，正啊！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kwong Tinakwong09",
+          "uri": "https://www.google.com/maps/contrib/100191914226285278754/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6iswKiTOWJXw63_tFmpZQVJxW9t31WW2083ouZLVsRIGPwE7a=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-07-08T20:20:59.832253Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNycVplZFhnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNycVplZFhnEAE!2m1!1s0x3406aaaed5449181:0x21e7aeeca6fe5988"
+      },
+      {
+        "name": "places/ChIJgZFE1a6qBjQRiFn-puyu5yE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKX2JTVGVnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "位於鴨利州南面的工業大廈，地點比較不方便，在一家樓上木傢俱店裡面，環境不錯，向海的座位面向東博寮海峽和南丫島，景色宜人。食物質數很好，價錢也有點貴，性價成正比。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於鴨利州南面的工業大廈，地點比較不方便，在一家樓上木傢俱店裡面，環境不錯，向海的座位面向東博寮海峽和南丫島，景色宜人。食物質數很好，價錢也有點貴，性價成正比。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "TP CHAN",
+          "uri": "https://www.google.com/maps/contrib/105539417225480118618/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKp4D9lAyrPV_Dr_dS8MpKHLnxTFRhqGRLLtRfskhGdzAY3Cw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-07-03T13:35:11.785388Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKX2JTVGVnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKX2JTVGVnEAE!2m1!1s0x3406aaaed5449181:0x21e7aeeca6fe5988"
+      },
+      {
+        "name": "places/ChIJgZFE1a6qBjQRiFn-puyu5yE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEc2V1RWtRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "-烤火腿芝士配自家製蕃茄醬意式軟包\n意式軟包烤得好脆口 不過佢嘅自家製蕃茄醬偏酸 唔係好適合我口味\n-牛肉千層麵\n焗得啱啱好唔會太乾身 個面鋪咗會拉絲嘅芝士 中間嘅肉醬有香濃牛肉味 蕃茄嘅醬亦都啱啱好唔會過酸過甜",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "-烤火腿芝士配自家製蕃茄醬意式軟包\n意式軟包烤得好脆口 不過佢嘅自家製蕃茄醬偏酸 唔係好適合我口味\n-牛肉千層麵\n焗得啱啱好唔會太乾身 個面鋪咗會拉絲嘅芝士 中間嘅肉醬有香濃牛肉味 蕃茄嘅醬亦都啱啱好唔會過酸過甜",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mandy Mandy",
+          "uri": "https://www.google.com/maps/contrib/112537747240519089360/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLgg-zNu3WPhGXbsuLlyd0IQmlFbBUr3fVLCXw_43rMe-s9Yw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-03-29T15:30:44.423386Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEc2V1RWtRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEc2V1RWtRRRAB!2m1!1s0x3406aaaed5449181:0x21e7aeeca6fe5988"
+      },
+      {
+        "name": "places/ChIJgZFE1a6qBjQRiFn-puyu5yE/reviews/ChdDSUhNMG9nS0VJQ0FnSURoNEphZHFBRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "香港最大名牌和傢俬outlet 中的型格Tree cafe\n\n藏在「 新海怡半島廣場」的諾大的「Tree」傢俬店裡的Tree 咖啡店。既可欣賞原木傢俬，又可看著大海嘆咖啡。逛名牌先丟在腦後了。🤪連廁所也帶著藝術感而且有母嬰室： 女士only .\n\n交通： 地鐵站：由海怡半岛站C出口步行约15分钟到达\n泊車： 任何消費憑單免費三小時， 車位充足易泊。$15/hr\n人均： $35\n推薦： Cappuccino",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "香港最大名牌和傢俬outlet 中的型格Tree cafe\n\n藏在「 新海怡半島廣場」的諾大的「Tree」傢俬店裡的Tree 咖啡店。既可欣賞原木傢俬，又可看著大海嘆咖啡。逛名牌先丟在腦後了。🤪連廁所也帶著藝術感而且有母嬰室： 女士only .\n\n交通： 地鐵站：由海怡半岛站C出口步行约15分钟到达\n泊車： 任何消費憑單免費三小時， 車位充足易泊。$15/hr\n人均： $35\n推薦： Cappuccino",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Diana",
+          "uri": "https://www.google.com/maps/contrib/103382880607761015603/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3MAz5q7cFjUfXbbBwboOwAqnhwYzwwJ5Y-51srezZs7gSFfCF=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-07-27T13:57:01.565237Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoNEphZHFBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoNEphZHFBRRAB!2m1!1s0x3406aaaed5449181:0x21e7aeeca6fe5988"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": true,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3406aaaed5449181:0x21e7aeeca6fe5988!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2443113654308985224&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3406aaaed5449181:0x21e7aeeca6fe5988!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3406aaaed5449181:0x21e7aeeca6fe5988!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3406aaaed5449181:0x21e7aeeca6fe5988!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJgZFE1a6qBjQRiFn-puyu5yE/photos/Aa-ngMYTIKyTqdUFAll2KQuMvJUFY46wb_JG7Lvh8N9iXNrGRIkO4vkvjpeP8hOJHjq10gCL6PzEzHIpLyr5hU5gX1_Em1GhfGxfySHnWW-WuWXBL4F0BOqSsXzTOzX3wGXz-Nrszlhb0GJLAZCyqd-7z_G8C7KxUF72NF-8N10qkvEX6locczfzCHafLDXiFvGzRu4RfELN1h3ZzYPEKxjoY4zjOBDhDC3d_UndE_QW7Z7FZKPQ90T2IZKIIExZIM8tnSkgBCPZfAo_3bNhUDQ0HwNk0AIW-q34iEuIn3pl31W8BdCL2at6qNwudPkJW8UCxH-IBLWh2uCgELZNB8LDg2u828Jpr5iqai_TLmmleUk3n1GyzPW1SxMKsWtaXI5NDwnJNEeZTvaEsvf5NGOL77Chidjn",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "TREE café",
+          "uri": "https://maps.google.com/maps/contrib/106990260327797125884",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9jPyLiRQXCBmPvfNn3JYCoyNTH2GyYHNLehjYieufewvWh0hC=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICaxoPHzQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICaxoPHzQE!2e10!4m2!3m1!1s0x3406aaaed5449181:0x21e7aeeca6fe5988"
+    },
+    "local_path": "photos/ChIJgZFE1a6qBjQRiFn-puyu5yE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO1EiPo5-x2Qmw4pX3R6Wmlk9glNgUNijJabejrmPdMo4zr4zbemMlx59NoVzA29yr_Ki954fZOcWcTwS4QfIj7hhORAAFF3UqOYgLMbl6PCkHuFBX-vYIoRAavvwK5d59SkTr=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 109051
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://d1hrq4pixj53pk.cloudfront.net/demo/assets/cafe-webmenu-v11.pdf",
+        "label": "see menu",
+        "source_url": "https://tree.com.hk/about/tree-cafe",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://d1hrq4pixj53pk.cloudfront.net/demo/assets/cafe-webmenu-v11.pdf"
+}

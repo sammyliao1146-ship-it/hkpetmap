@@ -1,0 +1,305 @@
+{
+  "google_place_id": "ChIJUwd9JZj4AzQRrsZXapTZY6o",
+  "restaurant_ids": [
+    "restaurant:3191801247"
+  ],
+  "fetched_at": "2026-10-23T15:46:42.237937+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJUwd9JZj4AzQRrsZXapTZY6o",
+    "types": [
+      "shopping_mall",
+      "corporate_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "Kwai Hing MTR exit, 51 Kwai Cheong Rd, Kwai Chung, New Territories, 香港",
+    "location": {
+      "latitude": 22.3618156,
+      "longitude": 114.13269229999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=12277896240604628654&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.lifekcc.com/en/home/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:00 – 20:00",
+        "星期二: 09:00 – 20:00",
+        "星期三: 09:00 – 20:00",
+        "星期四: 09:00 – 20:00",
+        "星期五: 09:00 – 20:00",
+        "星期六: 09:00 – 20:00",
+        "星期日: 10:30 – 17:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 822,
+    "displayName": {
+      "text": "九龍貿易中心",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "大型購物中心",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "primaryType": "shopping_mall",
+    "reviews": [
+      {
+        "name": "places/ChIJUwd9JZj4AzQRrsZXapTZY6o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaQ2R5MHdjRWd0VjBJMVJESTVkbk5xUldFM2JtYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "商場好靚，地方乾淨，近期經過新開一間沙律店啲美食好乾淨、好鮮美、健康。👍👍👍👍👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "商場好靚，地方乾淨，近期經過新開一間沙律店啲美食好乾淨、好鮮美、健康。👍👍👍👍👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ka Hing",
+          "uri": "https://www.google.com/maps/contrib/108261246706484100964/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocITJrP_Njn_52qzw9_ZrHdTlm8BTQVlBZdvB70YGuEdwv4bIQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-27T04:52:07.557288258Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaQ2R5MHdjRWd0VjBJMVJESTVkbk5xUldFM2JtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaQ2R5MHdjRWd0VjBJMVJESTVkbk5xUldFM2JtYxAB!2m1!1s0x3403f898257d0753:0xaa63d9946a57c6ae"
+      },
+      {
+        "name": "places/ChIJUwd9JZj4AzQRrsZXapTZY6o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWNXY2TUpBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "這是優化後的商業商場。\n商場空間非常巨大，購物商舖主打為飲食商店，適合大家放工後此商場吹水，聊天。\n商場天橋可以貫通至葵興地鐵站，非常方便有人及職員往來，交通非常方便。\n此商場的匯豐銀行更提供多樣銀行服務，可以在櫃員機內提取四款不同外幣（人民幣、日圓、美元及歐羅），真方便商業公司人員的運作。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這是優化後的商業商場。\n商場空間非常巨大，購物商舖主打為飲食商店，適合大家放工後此商場吹水，聊天。\n商場天橋可以貫通至葵興地鐵站，非常方便有人及職員往來，交通非常方便。\n此商場的匯豐銀行更提供多樣銀行服務，可以在櫃員機內提取四款不同外幣（人民幣、日圓、美元及歐羅），真方便商業公司人員的運作。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Traveler, William Tong",
+          "uri": "https://www.google.com/maps/contrib/111168247802139929767/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNpb6c-N-8vtXZ4q5-38RGb3fGyvGeSXKfK8MxKRFr6tnzDw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2023-12-28T10:23:22.805724Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWNXY2TUpBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWNXY2TUpBEAE!2m1!1s0x3403f898257d0753:0xaa63d9946a57c6ae"
+      },
+      {
+        "name": "places/ChIJUwd9JZj4AzQRrsZXapTZY6o/reviews/ChdDSUhNMG9nS0VJQ0FnSURHellpa2dBRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "葵興區較為新嘅商業大廈商場， 行人天橋連接地鐵站👍 有大家樂 又有酒樓 有匯豐銀行",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "葵興區較為新嘅商業大廈商場， 行人天橋連接地鐵站👍 有大家樂 又有酒樓 有匯豐銀行",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Stanley Ip",
+          "uri": "https://www.google.com/maps/contrib/113449041144981384005/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4eEA0LiHdpXu_JhpwrvhD_xqsJjhP1lcf_oi_zkhflCFWyblbWA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-10-11T14:53:51.804522Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHellpa2dBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHellpa2dBRRAB!2m1!1s0x3403f898257d0753:0xaa63d9946a57c6ae"
+      },
+      {
+        "name": "places/ChIJUwd9JZj4AzQRrsZXapTZY6o/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlOWVpTHVRRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "都會大學葵涌分校，葵興站E出口，經天橋到九龍貿易中心2座8-11樓，11樓是校務處。如果搭巴士，在葵興站近B出口，有自動扶手電梯上天橋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "都會大學葵涌分校，葵興站E出口，經天橋到九龍貿易中心2座8-11樓，11樓是校務處。如果搭巴士，在葵興站近B出口，有自動扶手電梯上天橋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kat Ha",
+          "uri": "https://www.google.com/maps/contrib/106113762410891084292/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULb_fT_Q2Pe-H-HzDT56jf3vBJ96R3GmYE6rIdlM_WS49Q-I60Fg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-09-20T08:06:15.678158Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlOWVpTHVRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlOWVpTHVRRRAB!2m1!1s0x3403f898257d0753:0xaa63d9946a57c6ae"
+      },
+      {
+        "name": "places/ChIJUwd9JZj4AzQRrsZXapTZY6o/reviews/ChdDSUhNMG9nS0VJQ0FnTURBdjVUYjB3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "前身為九龍巴士葵涌車廠，現在已改建為甲級商廈及商場，商場部份分別命名為\"活@KCC\"及\"悅@KCC\"，食肆都幾多，Skechers Outlet及Cottex Outlet都幾值得幫襯，另外平日到來會比較好，假日很多店舖都會休息。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "前身為九龍巴士葵涌車廠，現在已改建為甲級商廈及商場，商場部份分別命名為\"活@KCC\"及\"悅@KCC\"，食肆都幾多，Skechers Outlet及Cottex Outlet都幾值得幫襯，另外平日到來會比較好，假日很多店舖都會休息。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sammy Tsang",
+          "uri": "https://www.google.com/maps/contrib/101673128109161930226/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHceojpX8Dc27kbw3JSAU7s9hnqKNrAX_zWgSG9-Td0u_7orBv=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-02-13T01:18:05.220510Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBdjVUYjB3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBdjVUYjB3RRAB!2m1!1s0x3403f898257d0753:0xaa63d9946a57c6ae"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": true,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f898257d0753:0xaa63d9946a57c6ae!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12277896240604628654&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f898257d0753:0xaa63d9946a57c6ae!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f898257d0753:0xaa63d9946a57c6ae!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f898257d0753:0xaa63d9946a57c6ae!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJUwd9JZj4AzQRrsZXapTZY6o/photos/Aa-ngMZCQH8Ky38Z3na2PNkDdcgup1E0DseLC7tIgWFpmdOO_wHSdsIsP-SBMkpFardlRXQQMpvS9O_Yu0C6wIopwkd8Dq9_S7eZM4Q-sq1GZccUFbv_H-gXeHLxLH4Gzf-p1CdET8nGqwSF76odrh-bSllL61wBwdvdW8RaCoDa2zv7NDJASBWY6UwYlcbyvR3HSZbGyzvOjwsDasTl7kRJ5LdBMc1awB4iQYfpuJWDGyrywD_Fltt5nYmP5M_iiGqr3dyj2N_gVPMT0bBD4sUi7P0yQHX8U_wGesS37yu0g0MBQqnBJlFUoA0oJ5ZBgRif_ebe65tAgtMOZldRFiINVbufS0lgiCyNAK3M2lI8fz59IC9jBNRi823aIeyvu6Uv61NVzFLG4WprYL_Prm7bhCTXjoJwWNA",
+      "widthPx": 4800,
+      "heightPx": 2751,
+      "authorAttributions": [
+        {
+          "displayName": "Bryan Ma",
+          "uri": "https://maps.google.com/maps/contrib/101784148195439994867",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLwf3WbBf9tqwbnNAvg1-XFhak7OniFTLpFuV9OJ3E5Pu-WVg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICupNGV2AE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICupNGV2AE!2e10!4m2!3m1!1s0x3403f898257d0753:0xaa63d9946a57c6ae"
+    },
+    "local_path": "photos/ChIJUwd9JZj4AzQRrsZXapTZY6o.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeH7UDXgN7fe26DtKqY_AaoxoysA42x5UeRJ8rKYRD2yWBD3pxUWzLK6_NtZK5GHwiHWEQ9CoKBWIu9CFccyR0RUc0QWScE9SUAkM3MAreQg82BPMYWBGXqduU5r0cZakkf1vvoGA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 111362
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ConnectTimeout"
+  },
+  "cuisine": {
+    "primary_type": "shopping_mall",
+    "label": "大型購物中心",
+    "types": [
+      "shopping_mall",
+      "corporate_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,371 @@
+{
+  "google_place_id": "ChIJu2YNEMEBBDQRWa772rrEytU",
+  "restaurant_ids": [
+    "restaurant:2215802644"
+  ],
+  "fetched_at": "2026-10-23T15:39:40.420699+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJu2YNEMEBBDQRWa772rrEytU",
+    "types": [
+      "western_restaurant",
+      "asian_fusion_restaurant",
+      "asian_restaurant",
+      "fusion_restaurant",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3701 6030",
+    "internationalPhoneNumber": "+852 3701 6030",
+    "formattedAddress": "3/F, 43 Heung Yip Rd, Wong Chuk Hang, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2477745,
+      "longitude": 114.1627109
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=15405341782191091289&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.arcasociety.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 21:30",
+        "星期二: 07:30 – 21:30",
+        "星期三: 07:30 – 21:30",
+        "星期四: 07:30 – 21:30",
+        "星期五: 07:30 – 22:00",
+        "星期六: 07:30 – 22:00",
+        "星期日: 07:30 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 96,
+    "displayName": {
+      "text": "Arca Society",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJu2YNEMEBBDQRWa772rrEytU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WNWQxRXlZMHBFVWxaek1tTnFMV3hJVWtaVVdVRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "除咗澱粉質嘅份量比較少外，食物份量同味道都好足夠",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "除咗澱粉質嘅份量比較少外，食物份量同味道都好足夠",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tony Chun",
+          "uri": "https://www.google.com/maps/contrib/106435673645963198285/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9jn0D3Sle96AaKPkNRxEszji8S51StmvWJGlKVbOiatkYavrh=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-21T07:47:07.620036262Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WNWQxRXlZMHBFVWxaek1tTnFMV3hJVWtaVVdVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WNWQxRXlZMHBFVWxaek1tTnFMV3hJVWtaVVdVRRAB!2m1!1s0x340401c1100d66bb:0xd5cac4badafbae59"
+      },
+      {
+        "name": "places/ChIJu2YNEMEBBDQRWa772rrEytU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoVmNqbGhYMVkwYUhkeVRVZE5NV3gxWWxwdFMyYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐點、服務、環境都很好。CP值也很高。\n適合朋友聚會、約會、慶祝生日😌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐點、服務、環境都很好。CP值也很高。\n適合朋友聚會、約會、慶祝生日😌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "queena148",
+          "uri": "https://www.google.com/maps/contrib/115081652450178420928/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiQqT8QybvBD3_LdmPZRESXi21Ghxp-BinIqxjyu58n2Xm56XQXQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-27T11:35:31.952951095Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoVmNqbGhYMVkwYUhkeVRVZE5NV3gxWWxwdFMyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoVmNqbGhYMVkwYUhkeVRVZE5NV3gxWWxwdFMyYxAB!2m1!1s0x340401c1100d66bb:0xd5cac4badafbae59"
+      },
+      {
+        "name": "places/ChIJu2YNEMEBBDQRWa772rrEytU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGaVNraHRkekI0VWtsNFFtZFFiRFZTYlRoNU4xRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "Arca Society 位於於黃竹坑 the Arca 雅格酒店，打造出城市綠洲般的餐飲體驗。餐廳設有寬敞明亮的室內空間，以及舒適寫意的戶外用餐區，即使非酒店住客亦可於此享受度假時光。作為一間寵物友善酒店，Arca Society 亦歡迎毛孩一同前來，共度悠閒時光。\n\n全日餐單融合亞洲與西方風味，菜式設計別具心思。當中 炭烤安格斯特級牛扒 烤得恰到好處，嫩滑多汁。配上自家製香草牛油，以香草及檸檬為主調，清新醒胃，為肉類添上一抹平衡。黑椒煙燻牛肉漢堡 選用煙燻牛肉，肉香濃郁富層次，配料包括太陽蛋、大啡菇、炸洋蔥圈、車打芝士及紅蔥松露蛋黃醬，味道濃厚而不膩。配上香脆薯條，份量十足。\n\n無論是 staycation 的延伸體驗，或與摯友寵物共享寫意週末，Arca Society 都是不容錯過的美食之選。\n\nArca Society in the Arca Hotel offers a lush, urban oasis perfect for a relaxing dining experience. With its bright indoor space and breezy outdoor terrace, it’s open to both hotel guests and visitors — and is pet-friendly too! Highlights of their all-day menu include the Grilled US Angus Prime Striploin, tender and juicy, paired with house-made herb butter infused with lemon; and the Beef Pastrami Burger, rich and layered with a sunny-side up egg, portobello mushroom and red onion-truffle mayo. A perfect spot for a weekend treat or staycation meal.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Arca Society 位於於黃竹坑 the Arca 雅格酒店，打造出城市綠洲般的餐飲體驗。餐廳設有寬敞明亮的室內空間，以及舒適寫意的戶外用餐區，即使非酒店住客亦可於此享受度假時光。作為一間寵物友善酒店，Arca Society 亦歡迎毛孩一同前來，共度悠閒時光。\n\n全日餐單融合亞洲與西方風味，菜式設計別具心思。當中 炭烤安格斯特級牛扒 烤得恰到好處，嫩滑多汁。配上自家製香草牛油，以香草及檸檬為主調，清新醒胃，為肉類添上一抹平衡。黑椒煙燻牛肉漢堡 選用煙燻牛肉，肉香濃郁富層次，配料包括太陽蛋、大啡菇、炸洋蔥圈、車打芝士及紅蔥松露蛋黃醬，味道濃厚而不膩。配上香脆薯條，份量十足。\n\n無論是 staycation 的延伸體驗，或與摯友寵物共享寫意週末，Arca Society 都是不容錯過的美食之選。\n\nArca Society in the Arca Hotel offers a lush, urban oasis perfect for a relaxing dining experience. With its bright indoor space and breezy outdoor terrace, it’s open to both hotel guests and visitors — and is pet-friendly too! Highlights of their all-day menu include the Grilled US Angus Prime Striploin, tender and juicy, paired with house-made herb butter infused with lemon; and the Beef Pastrami Burger, rich and layered with a sunny-side up egg, portobello mushroom and red onion-truffle mayo. A perfect spot for a weekend treat or staycation meal.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mic Ng",
+          "uri": "https://www.google.com/maps/contrib/107672339847735888177/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUVvfPMaZsZJ8HhwKUVPslnWJZEZZA_pZgpqQufaitCIlurO2w=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-06-11T04:30:30.324814122Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGaVNraHRkekI0VWtsNFFtZFFiRFZTYlRoNU4xRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGaVNraHRkekI0VWtsNFFtZFFiRFZTYlRoNU4xRRAB!2m1!1s0x340401c1100d66bb:0xd5cac4badafbae59"
+      },
+      {
+        "name": "places/ChIJu2YNEMEBBDQRWa772rrEytU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3MWVIaDZUM2RxVVVsYU1XcFVSQzA0TFZOUlRHYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "黃竹坑美食沙漠中的清泉！喜歡他的日光餐廳，百幾蚊一個酒店set lunch，超值👍🏼\n\nAn oasis in the food desert of Wong Chuk Hang! Love their sunlit restaurant. A hotel set lunch for just over a hundred dollars is such great value.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "黃竹坑美食沙漠中的清泉！喜歡他的日光餐廳，百幾蚊一個酒店set lunch，超值👍🏼\n\nAn oasis in the food desert of Wong Chuk Hang! Love their sunlit restaurant. A hotel set lunch for just over a hundred dollars is such great value.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Colette 9099",
+          "uri": "https://www.google.com/maps/contrib/115893713577936816800/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzgwfCphXXi-zPpwB9c89so85tBNSDxUTXJ5OHnjVVI-_uJEfTDw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-10-29T02:22:45.221065215Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3MWVIaDZUM2RxVVVsYU1XcFVSQzA0TFZOUlRHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3MWVIaDZUM2RxVVVsYU1XcFVSQzA0TFZOUlRHYxAB!2m1!1s0x340401c1100d66bb:0xd5cac4badafbae59"
+      },
+      {
+        "name": "places/ChIJu2YNEMEBBDQRWa772rrEytU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHcVlUNFdBEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 3,
+        "text": {
+          "text": "新開酒店自然也有新開的餐廳，\n最近就去了今年才落成位於黃竹坑的雅格酒店\n那裡有一間酒吧餐廳 - Arca Society ~\n晚上時間近乎沒客，有的也只是在飲酒閒聊而已\n但其實這間餐廳有提供晚餐的喔～\n不過聽訂枱的朋友就好似午餐才有Set .. 晚上沒有呢\n另外店內分了室內和室外座位，\n個人不建議坐外面~如果您本身很惹蚊的話 (笑)\n\n有麵包，上桌時還有點微暖~都幾軟熟\n我點了 - Arca Lobster Bisque，這龍蝦湯超濃~但亦偏鹹了些\n配了一串小粒的扇貝和口感彈牙的大蝦。\nPumpkin Salad - 是用日本南瓜的啊~很甜，加香醋吃更突出\n另外配了藜麥、沙律菜，所以還幾飽肚的。\n\n因為擔心可能不夠飽就點了小食 - Frito Mixto & Arancini\n前者的炸雞和魚都不錯，而且很喜歡薯條中有甜薯款\n後者的外層超香口，內餡則是芝士 + 菌類～調味都是很重的\n\n主菜方面，我的是 - Coffee Drunken Lamb Rack\n有兩件羊架～可能咖啡味濃的關係，\n沒怎吃到有羊羶味，當然也可以沾少許鹽來吃\n肉質亦很滑嫩，但略嫌有點肥膩～因為有一半都是脂肪\n相對好像 - Mid-Night Short Ribs 更吸引?\n慢燒的牛肉吃起來都是很嫩口的，配上甜甜的焦糖鵝肝十分邪惡呢！\n\n如果兩款扒類也沒興趣，\n都會有別的可以選擇喔~ Tiger Prawn And Seafood\n和之前喝的龍蝦湯是同一個味道，而且這看起來像飯的其實是意大利面來\n若是素食，則可以選 - Gnocchi Alla Primavera\n\n甜品我選的是 - Raspberry Tart  配雲尼拿雪糕，底下的是爆炸糖\n因為莓都幾酸的關係？所以對比下雪糕頗甜的\n整體來說，感覺這裡食物的調味都下得幾重手？\n如果稍微減點鹹味其實幾美味的吧\n\n順帶一說，這餐廳的洗手間其中一面牆是麻雀來的耶~很特別！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "新開酒店自然也有新開的餐廳，\n最近就去了今年才落成位於黃竹坑的雅格酒店\n那裡有一間酒吧餐廳 - Arca Society ~\n晚上時間近乎沒客，有的也只是在飲酒閒聊而已\n但其實這間餐廳有提供晚餐的喔～\n不過聽訂枱的朋友就好似午餐才有Set .. 晚上沒有呢\n另外店內分了室內和室外座位，\n個人不建議坐外面~如果您本身很惹蚊的話 (笑)\n\n有麵包，上桌時還有點微暖~都幾軟熟\n我點了 - Arca Lobster Bisque，這龍蝦湯超濃~但亦偏鹹了些\n配了一串小粒的扇貝和口感彈牙的大蝦。\nPumpkin Salad - 是用日本南瓜的啊~很甜，加香醋吃更突出\n另外配了藜麥、沙律菜，所以還幾飽肚的。\n\n因為擔心可能不夠飽就點了小食 - Frito Mixto & Arancini\n前者的炸雞和魚都不錯，而且很喜歡薯條中有甜薯款\n後者的外層超香口，內餡則是芝士 + 菌類～調味都是很重的\n\n主菜方面，我的是 - Coffee Drunken Lamb Rack\n有兩件羊架～可能咖啡味濃的關係，\n沒怎吃到有羊羶味，當然也可以沾少許鹽來吃\n肉質亦很滑嫩，但略嫌有點肥膩～因為有一半都是脂肪\n相對好像 - Mid-Night Short Ribs 更吸引?\n慢燒的牛肉吃起來都是很嫩口的，配上甜甜的焦糖鵝肝十分邪惡呢！\n\n如果兩款扒類也沒興趣，\n都會有別的可以選擇喔~ Tiger Prawn And Seafood\n和之前喝的龍蝦湯是同一個味道，而且這看起來像飯的其實是意大利面來\n若是素食，則可以選 - Gnocchi Alla Primavera\n\n甜品我選的是 - Raspberry Tart  配雲尼拿雪糕，底下的是爆炸糖\n因為莓都幾酸的關係？所以對比下雪糕頗甜的\n整體來說，感覺這裡食物的調味都下得幾重手？\n如果稍微減點鹹味其實幾美味的吧\n\n順帶一說，這餐廳的洗手間其中一面牆是麻雀來的耶~很特別！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dolly Chan",
+          "uri": "https://www.google.com/maps/contrib/108294886827109875493/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGqpPSdFKKsI1LN-5PRtUIUZHnCKdPr8Q8c_it-m4LqdFla7KE-A=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2021-11-02T12:30:49.975924Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNHcVlUNFdBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNHcVlUNFdBEAE!2m1!1s0x340401c1100d66bb:0xd5cac4badafbae59"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": false,
+      "paidParkingLot": true,
+      "freeStreetParking": false,
+      "paidStreetParking": true,
+      "valetParking": true,
+      "freeGarageParking": false,
+      "paidGarageParking": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401c1100d66bb:0xd5cac4badafbae59!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15405341782191091289&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401c1100d66bb:0xd5cac4badafbae59!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401c1100d66bb:0xd5cac4badafbae59!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401c1100d66bb:0xd5cac4badafbae59!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJu2YNEMEBBDQRWa772rrEytU/photos/Aa-ngMa0owyJAl8eoslpkTD5XMvm3DOElz60HKZPGESOsGbDlMjO5leM0KGKQrFqQyu0KTIGy1-kNH_1iZcvUccMJTQ6L5nrn7ONnQL3BvHgNXJPJoJ54WhmWaSPDr7sDfu9EyA20TNbW3StGgM0ZIRMvoswQNczJgZwalt0bmzF4Mp00FcNCUBvay-rgfY5xT4zFZ-Cg7ph1NHn6hZwVOFDNFSh8fOwq-Qla10zQi6NWV22qjhssTu16JmjC4VH93xpFrHxlk7GPSMY3tHqVHrzgtGRN2cIGpMKxeBiKZtST3RA0vLAJXjbelMB0_Uf_zqVzFk262jujW-Xa2gAkRO6jtiXgZnkUnC8gdg0-vitIQ4ttf8iBfRp7-Ong8acLQovq6_EihAz8HIoRasTAjQg82Nv9RM",
+      "widthPx": 2448,
+      "heightPx": 1633,
+      "authorAttributions": [
+        {
+          "displayName": "Arca Society",
+          "uri": "https://maps.google.com/maps/contrib/101100767603043166186",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVshzfT_9TMiJ0Ehm-LkVjKs-5uwUKDEo2PCv1WzYx5WGGszA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqiYKcDw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqiYKcDw!2e10!4m2!3m1!1s0x340401c1100d66bb:0xd5cac4badafbae59"
+    },
+    "local_path": "photos/ChIJu2YNEMEBBDQRWa772rrEytU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1XJ4yZJjBxvS604NO59fIDAj7AgOq5Fxj9x5FHZxC72z4V2nsJa-qGoklL0DswngTHOy3tV3qdXTYeMleICX_ifOSwJrK7WFyIcEt4U6ltmltO9Dv0wJxNyLoBpvfAaekochY=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 150818
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://inline.app/booking/thearca/arcahk",
+        "label": "BOOK YOUR TABLE",
+        "source_url": "https://www.arcasociety.com/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.arcasociety.com/menus/a-la-carte",
+        "label": "A LA CARTE",
+        "source_url": "https://www.arcasociety.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.arcasociety.com/menus/beverage-menu",
+        "label": "BEVERAGE MENU",
+        "source_url": "https://www.arcasociety.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "asian_fusion_restaurant",
+      "asian_restaurant",
+      "fusion_restaurant",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://inline.app/booking/thearca/arcahk",
+  "menu_url": "https://www.arcasociety.com/menus/a-la-carte"
+}

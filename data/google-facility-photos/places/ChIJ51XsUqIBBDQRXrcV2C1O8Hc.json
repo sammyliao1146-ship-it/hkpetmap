@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ51XsUqIBBDQRXrcV2C1O8Hc",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍大角咀大全街50號",
+  "location": {
+    "latitude": 22.3220687,
+    "longitude": 114.1606561
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8642493643729778526&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "藍澳動物醫院",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJ51XsUqIBBDQRXrcV2C1O8Hc/photos/Aa-ngMZeQJBQUTpe6EY7eRhKd58SFYuCNYs6IOzzuFLAYmfuL3xY_0CLH9bB8XRBAj9xni5G_dQPbGCuZCaUPgoP9OrZPqnV0DCpFiDVhpDv0mD_atN6bPOvY5u3Fq8dWKyl8ubCMubpIYQb8iim1DBMHGckLJ1sWIlrDegio4DE3N_YEo0wajUELt2v_k76rhN-Ct61qbm7sNpc-7nEZ8o6ZnfSv7Jbw-BjSxMbZy3k62_r4gZgyzZBAfJ1mA6FX0fANczcjA8Wakn04lIwQ7ayVVnBVEyfjBlBsDcZkjcBlQZznDP8CPx3VZR8h-DwM7BEpnqGLS5pYZnwy2QiQ8tQsD_A7YjCsIbSstDwSBJ5TNwhKC_3cHAjhxxESUcgvHsoUF9602x4QrfIQcueeGwg9i12jCjvnwsxodzlkbmEQzKk1A",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Gaga Bichon",
+          "uri": "https://maps.google.com/maps/contrib/108222753306648686467",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUGgMx7JT7AUQ0Zo-cu6SD1yoJyhj-WFQ6Gt6M7yBP_OfCfZc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC3s6BKn3WxfGDf4m_BvopU&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC3s6BKn3WxfGDf4m_BvopU!2e10!4m2!3m1!1s0x340401a252ec55e7:0x77f04e2dd815b75e"
+    }
+  ],
+  "photo_count": 7,
+  "fetched_at": "2026-10-24T00:38:26.601227+00:00"
+}

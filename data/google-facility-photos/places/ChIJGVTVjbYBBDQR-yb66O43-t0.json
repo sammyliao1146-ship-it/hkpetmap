@@ -1,0 +1,38 @@
+{
+  "id": "ChIJGVTVjbYBBDQR-yb66O43-t0",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍觀塘鴻圖道32號德華中心",
+  "location": {
+    "latitude": 22.3124149,
+    "longitude": 114.22018109999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15995158525810190075&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "好運貓酒店 Lucky Cat Hotel",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJGVTVjbYBBDQR-yb66O43-t0/photos/Aa-ngMYnjw2EEkiXbv63ez_ExIXIrq50xVQ0O5FqqkbzqBCMv_igy7qgf9KdRcP61ySgGQiVZDnwcgX5g3egn7pvA_qsykknrPg8mkr6csyhnnJPAS8m-UwZ7mUTky1tYoyr9hOhAv4ryA643RK-zC3YeNDz8cxloOjP1nHkc7oW_ljO0Jziyo81WGdo2LM6JNagwokn1UgNyZE7njd7A-GXZDW5R7h3MZR7LgFAS0Ej2sAqn-RJ9QIBIrJ8j7F_zw-Q2ZAZEE7qpPXlGI7TEl5tbG6_5hq_kKda-sSYXD4V-aftaSWPJoezYPGBO12Y-MMbQD8xOd-ur26A8HXIAysld9uviiHCqMqTy6GFLKXrsKgkpiHtV6g8vDOVAVPz7b01k-LyOMh6EE01WlysEYPvgo72B7_QksRAWiVDVwb-Tvj_xA",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "KAMAN CHAN",
+          "uri": "https://maps.google.com/maps/contrib/117060879586418490199",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlKiDPTkks8PJ-mGt1p4mSIxcmP7Q8sjfACchJwNrnsMLLDg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA-A_VW_QWSVI4aNAsVFWwB&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA-A_VW_QWSVI4aNAsVFWwB!2e10!4m2!3m1!1s0x340401b68dd55419:0xddfa37eee8fa26fb"
+    }
+  ],
+  "photo_count": 8,
+  "fetched_at": "2026-10-24T00:38:11.694573+00:00"
+}

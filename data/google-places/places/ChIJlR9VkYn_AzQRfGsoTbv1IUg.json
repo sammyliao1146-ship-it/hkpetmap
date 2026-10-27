@@ -1,0 +1,414 @@
+{
+  "google_place_id": "ChIJlR9VkYn_AzQRfGsoTbv1IUg",
+  "restaurant_ids": [
+    "restaurant:2218818404"
+  ],
+  "fetched_at": "2026-10-23T15:41:46.003815+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJlR9VkYn_AzQRfGsoTbv1IUg",
+    "types": [
+      "bistro",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6045 8229",
+    "internationalPhoneNumber": "+852 6045 8229",
+    "formattedAddress": "香港香港島堅尼地城堅彌地城新海旁1B-1C號",
+    "location": {
+      "latitude": 22.284025999999997,
+      "longitude": 114.1289602
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=5197705629764447100&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://instagram.com/classybistrohk",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 17:00, 18:00 – 22:00",
+        "星期二: 12:00 – 17:00, 18:00 – 22:00",
+        "星期三: 12:00 – 17:00, 18:00 – 22:00",
+        "星期四: 12:00 – 17:00, 18:00 – 22:00",
+        "星期五: 12:00 – 17:00, 18:00 – 22:00",
+        "星期六: 12:00 – 17:00, 18:00 – 22:00",
+        "星期日: 12:00 – 17:00, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 245,
+    "displayName": {
+      "text": "Classy Le Carré",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐酒館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "bistro",
+    "reviews": [
+      {
+        "name": "places/ChIJlR9VkYn_AzQRfGsoTbv1IUg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oeVFsSnhWMUZKVG5GWE9VWlVhMUJVZUdScVNFRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境溫馨服務好。368套餐抵食，白松露野菌湯濃郁，M3和牛西冷扒嫩滑。巴斯克芝士蛋糕同楓糖牛角包窩夫超好食，大推！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境溫馨服務好。368套餐抵食，白松露野菌湯濃郁，M3和牛西冷扒嫩滑。巴斯克芝士蛋糕同楓糖牛角包窩夫超好食，大推！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pinky Pinky (雅雅)",
+          "uri": "https://www.google.com/maps/contrib/108323775713986312543/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBLLW6M1qppkY0rDbS8jRSwskHOotHfQfjfA8tlG_gucbhsFBQzw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-09-08T05:39:31.027885493Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oeVFsSnhWMUZKVG5GWE9VWlVhMUJVZUdScVNFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oeVFsSnhWMUZKVG5GWE9VWlVhMUJVZUdScVNFRRAB!2m1!1s0x3403ff8991551f95:0x4821f5bb4d286b7c"
+      },
+      {
+        "name": "places/ChIJlR9VkYn_AzQRfGsoTbv1IUg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CV2MybzJkbkJpVlZjemVsVm5MVWRVTTFCTmEyYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "窩夫想試Classy Le Carré很久了，日前終於跟閨蜜去吃晚飯。\n\n餐廳充滿法式風情，米白色牆身掛滿古典木框畫作及藝術照片。窩夫與閨蜜被安排坐卡位，坐得舒舒服服的，可以慢慢食慢慢傾。\n\n點了set dinner，每位358元起。\n\n精選麵包有兩款，水準都不錯，配手工法式焦香牛油，誠意十足。\n\n法式香草焗田螺伴薯蓉(6隻)(加58元)的田螺大大隻，香草味香濃，薯蓉吸收了香草汁，十分滋味。\n\n迷你芝士火腿拼盤的份量叫人差點忘了這是一人前的頭盤，伊比利亞火腿和哈密瓜粒是最佳拍檔，芝士有金文畢芝士曼切戈芝士，可以蘸蜜糖來吃。\n\n蟶子肉花椰菜濃湯伴白松露油充滿白松露香，但蟶子肉的存在感太低了。\n\n烤三黃雞一定要相機食先，三黃雞烤得皮脆肉嫩，出色之作。\n\n鮮蟹肉蟹膏意大利飯伴烤蟹腳同樣出色，意大利飯軟硬適中，蟹膏濃而不鹹，加入菇粒令口感更豐富。\n\n烤蘋果批的顏色比較深，蘋果甜甜的，批底脆脆的。\n\n原味巴斯克芝士蛋糕配精選意大利雪糕(加38元)，巴斯克芝士蛋糕口感綿密，不會太膩，雪糕選了粟米味，味道香濃，值得一試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "窩夫想試Classy Le Carré很久了，日前終於跟閨蜜去吃晚飯。\n\n餐廳充滿法式風情，米白色牆身掛滿古典木框畫作及藝術照片。窩夫與閨蜜被安排坐卡位，坐得舒舒服服的，可以慢慢食慢慢傾。\n\n點了set dinner，每位358元起。\n\n精選麵包有兩款，水準都不錯，配手工法式焦香牛油，誠意十足。\n\n法式香草焗田螺伴薯蓉(6隻)(加58元)的田螺大大隻，香草味香濃，薯蓉吸收了香草汁，十分滋味。\n\n迷你芝士火腿拼盤的份量叫人差點忘了這是一人前的頭盤，伊比利亞火腿和哈密瓜粒是最佳拍檔，芝士有金文畢芝士曼切戈芝士，可以蘸蜜糖來吃。\n\n蟶子肉花椰菜濃湯伴白松露油充滿白松露香，但蟶子肉的存在感太低了。\n\n烤三黃雞一定要相機食先，三黃雞烤得皮脆肉嫩，出色之作。\n\n鮮蟹肉蟹膏意大利飯伴烤蟹腳同樣出色，意大利飯軟硬適中，蟹膏濃而不鹹，加入菇粒令口感更豐富。\n\n烤蘋果批的顏色比較深，蘋果甜甜的，批底脆脆的。\n\n原味巴斯克芝士蛋糕配精選意大利雪糕(加38元)，巴斯克芝士蛋糕口感綿密，不會太膩，雪糕選了粟米味，味道香濃，值得一試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "窩夫與蝦子餅",
+          "uri": "https://www.google.com/maps/contrib/103808744281400100251/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVlVdSeiRe9ItH3i5hX2z94o65SJUJWYMVAmn0CmO-B4qelcTw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-12T00:51:53.337064358Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CV2MybzJkbkJpVlZjemVsVm5MVWRVTTFCTmEyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CV2MybzJkbkJpVlZjemVsVm5MVWRVTTFCTmEyYxAB!2m1!1s0x3403ff8991551f95:0x4821f5bb4d286b7c"
+      },
+      {
+        "name": "places/ChIJlR9VkYn_AzQRfGsoTbv1IUg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KV1luRlpVRnBLUWtoVWVWUTVkbXhUYUhoMGRGRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "昨晚同一班朋友食晚餐，朋友介紹呢間，因為是特別日子想安排 tailored made menus，餐廳的莱式配搭酒，驚為天人。沒有十分華麗的擺盤，但有十分實力的味道。菜式簡單直接但味道充滿驚喜，加上有心思又高質的酒配搭，完美的晚餐。\n\n餐廳本身唔係好大，但坐得都舒服，裝修是法式溫馨的氣氛唔會好侷促。服務非常親切，與朋友度過一個愉快的晚上。價格方面，CP值高，如果係其他地方，只係飲酒都唔只呢個價錢。\n\n我地食8道菜，以下呢幾個好impressive:\n1. 原個發酵鄉村酸種包 | 自家製焦香牛油\n2. 美國太平洋珍生蠔N.1 兩隻 | 香茅檸檬葉魚露酸汁 | 法蔥芥末蛋黃醬\n3. 油甘魚薄切 | 魚子醬 | 魚凍湯 | 青蘋果莎莎\n4. 白酒忌廉牛油汁煮貝鮮鍋 (大蝦、青口、鮮蜆) 伴蒜蓉包\n5. 自家製蘋果反批 | 意大利雪糕\n\n走既時候望左佢門口 menus,  都可以散叫 or 有dinner set. 職員講，通常啲人午餐去打卡多。但我覺得晚餐非常有水準，少有的高質，強烈推薦。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "昨晚同一班朋友食晚餐，朋友介紹呢間，因為是特別日子想安排 tailored made menus，餐廳的莱式配搭酒，驚為天人。沒有十分華麗的擺盤，但有十分實力的味道。菜式簡單直接但味道充滿驚喜，加上有心思又高質的酒配搭，完美的晚餐。\n\n餐廳本身唔係好大，但坐得都舒服，裝修是法式溫馨的氣氛唔會好侷促。服務非常親切，與朋友度過一個愉快的晚上。價格方面，CP值高，如果係其他地方，只係飲酒都唔只呢個價錢。\n\n我地食8道菜，以下呢幾個好impressive:\n1. 原個發酵鄉村酸種包 | 自家製焦香牛油\n2. 美國太平洋珍生蠔N.1 兩隻 | 香茅檸檬葉魚露酸汁 | 法蔥芥末蛋黃醬\n3. 油甘魚薄切 | 魚子醬 | 魚凍湯 | 青蘋果莎莎\n4. 白酒忌廉牛油汁煮貝鮮鍋 (大蝦、青口、鮮蜆) 伴蒜蓉包\n5. 自家製蘋果反批 | 意大利雪糕\n\n走既時候望左佢門口 menus,  都可以散叫 or 有dinner set. 職員講，通常啲人午餐去打卡多。但我覺得晚餐非常有水準，少有的高質，強烈推薦。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jenny Tsang",
+          "uri": "https://www.google.com/maps/contrib/118135612672470716656/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4mUc7P0WPUSahsCGhwt_uyqg8SlO68I1aV6jG4_uXQuTpRXkn=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-24T06:21:50.193061266Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KV1luRlpVRnBLUWtoVWVWUTVkbXhUYUhoMGRGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KV1luRlpVRnBLUWtoVWVWUTVkbXhUYUhoMGRGRRAB!2m1!1s0x3403ff8991551f95:0x4821f5bb4d286b7c"
+      },
+      {
+        "name": "places/ChIJlR9VkYn_AzQRfGsoTbv1IUg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGWlRVWmZkVWc1ZERBMFpEWm1ZekJSTTJGVldWRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "慶祝生日非常之好嘅一個地方！食物好好食，生日畫碟好靚🫶🏻氣氛一流！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "慶祝生日非常之好嘅一個地方！食物好好食，生日畫碟好靚🫶🏻氣氛一流！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "wong maggie",
+          "uri": "https://www.google.com/maps/contrib/117362918794157222246/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0--6lTDR20FhLTUVAwa2tVLeThxrvtBeNu4UC4W9VxQelIVY=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-29T15:52:30.822861112Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGWlRVWmZkVWc1ZERBMFpEWm1ZekJSTTJGVldWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGWlRVWmZkVWc1ZERBMFpEWm1ZekJSTTJGVldWRRAB!2m1!1s0x3403ff8991551f95:0x4821f5bb4d286b7c"
+      },
+      {
+        "name": "places/ChIJlR9VkYn_AzQRfGsoTbv1IUg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twRVkyaHlNR2wzWlcweFRWa3lTVmMwUkU4dFdsRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "星期六黎依間舖頭\n門外好似一推門就去歐洲咁😆\n人流唔多 好舒服\n食物大讚！好大份又好好食 ！甜品好好食\n服務態度好好\n朱古力系列好正 每一款都好精緻❤️❤️🤣好認真",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期六黎依間舖頭\n門外好似一推門就去歐洲咁😆\n人流唔多 好舒服\n食物大讚！好大份又好好食 ！甜品好好食\n服務態度好好\n朱古力系列好正 每一款都好精緻❤️❤️🤣好認真",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lemon Lam",
+          "uri": "https://www.google.com/maps/contrib/104211912307029979751/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrnSbT7H-zH8vurdPnlAXRC_2IMBKRSFT4Rd8WBa2fs_apE4GG=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-25T06:56:28.789501481Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twRVkyaHlNR2wzWlcweFRWa3lTVmMwUkU4dFdsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twRVkyaHlNR2wzWlcweFRWa3lTVmMwUkU4dFdsRRAB!2m1!1s0x3403ff8991551f95:0x4821f5bb4d286b7c"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ff8991551f95:0x4821f5bb4d286b7c!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5197705629764447100&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff8991551f95:0x4821f5bb4d286b7c!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ff8991551f95:0x4821f5bb4d286b7c!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ff8991551f95:0x4821f5bb4d286b7c!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJlR9VkYn_AzQRfGsoTbv1IUg/photos/Aa-ngMbt53-THtRGUrT1udxIvUcsf0PVXpo86te4RfFlD4R5nv9cdCYEWdDXCAha7qEn-RuVRQqsfZtTgEQyClfCCrB4Pn9cb6moaKOCqjiTVRCvcTFZh5jgwJ_XQujyOlrbIDZkkqlJlFRy6SOYL3hIc0m-ltvFS4EN9knUSSA3Isk3BjPj6vm4mzVEmUSEeZMSoTBGkkz60mcRvEgeJNaxBu6t-JQwmcGCzHgGjbqmGeUxnQTX6h0OJiTX3k8NZmI8CbR0S1YNDKA5R0inZ7DRc6CppKv5SX2fl4I1mxs1eSrUqLvpTgPWjj1iZCAWE2TSBp6A399EyFGD1DIf4wuOCsQmrQ3GnD15FWlClnzedNahgJwaC7xlPoEEsob7CHmGTTvk1__uDYY6kmKdNxf-xw7BM1o",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "authorAttributions": [
+        {
+          "displayName": "Classy Le Carré",
+          "uri": "https://maps.google.com/maps/contrib/116081276120748280022",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMzj68xlXeQdRTBXdp4rnVEH4seqCh5-udhmeFLvBfvYDf5w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDV_b_Ecg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDV_b_Ecg!2e10!4m2!3m1!1s0x3403ff8991551f95:0x4821f5bb4d286b7c"
+    },
+    "local_path": "photos/ChIJlR9VkYn_AzQRfGsoTbv1IUg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLddK1nNhjbjdAVTzP5PxMKbs0e8svzmI0-38Pl6M9O3q5PtW4wB-c0HLR8_JqP6I6h4u2YaETJgFj57o0RZplxuvaMFNx2aB2Dvnyu7iPnlePyEKOoYWOkNmsvqqheSspw-dmR-=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 109350
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bistro",
+    "label": "餐酒館",
+    "types": [
+      "bistro",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

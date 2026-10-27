@@ -1,0 +1,40 @@
+{
+  "id": "ChIJZ2mfSvP_AzQRfgW8be_z0Lc",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "Sen Hay Lou, 32-36 Third St, Sai Ying Pun, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.285531199999998,
+    "longitude": 114.14284389999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13245354713760400766&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Pet Villa SYP",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJZ2mfSvP_AzQRfgW8be_z0Lc/photos/Aa-ngMZX8XiA5Y51PL6dK_IkQsCDVtPNlJwEE5VmKvIS1nzK-kY2peT97hkdVdNiaHpjPfrn6sSiHome4bywfDB1S_omIy4VDh5SGdJUdx0ZLD4oaTE2pmQTCigaBsUmT5gvSsT3vvDFMIx1eR2vl2BII3okV3ETaMGXXmurA_veJXfTcjaU_RKhb5XQzU3HPawsp6BWXIheWohElCPL9Mtbgh1dmSKniTBx9ZQsP9lvLGgDBesq_u-nu8atEsHdjd75Q9avFrEcLSqUO4Hwo6IziG4DeKRxXJM7j4uAROytgH85CgYpv11WjmgMmfIuUkfwpmLdTf9tQh5028RlswNFJpBFKsWy-fOpa_J-p784D_EMaupvI4InIPKLq1Ek1NRzpbBJ_Z5JjmNaGh3RyexRHX8o8A",
+      "widthPx": 1470,
+      "heightPx": 2048,
+      "authorAttributions": [
+        {
+          "displayName": "Pet Villa SYP",
+          "uri": "https://maps.google.com/maps/contrib/113832478695460753766",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0b4etJ_VcaEBYG0azRtc0YQoTOL2OaDYi6a_XrRYSyBfhfA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDXoeKtAw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXoeKtAw!2e10!4m2!3m1!1s0x3403fff34a9f6967:0xb7d0f3ef6dbc057e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:23.653899+00:00"
+}

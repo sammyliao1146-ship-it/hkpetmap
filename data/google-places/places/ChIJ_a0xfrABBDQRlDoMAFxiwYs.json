@@ -1,0 +1,401 @@
+{
+  "google_place_id": "ChIJ_a0xfrABBDQRlDoMAFxiwYs",
+  "restaurant_ids": [
+    "restaurant:2261813557"
+  ],
+  "fetched_at": "2026-10-23T15:46:19.576080+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ_a0xfrABBDQRlDoMAFxiwYs",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9833 0788",
+    "internationalPhoneNumber": "+852 9833 0788",
+    "formattedAddress": "Shop 302, Level 3, Mira Place One, 132 Nathan Rd, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.301104,
+      "longitude": 114.1723734
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=10070438389054454420&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://muemue.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:30, 17:30 – 00:00",
+        "星期二: 12:00 – 15:30, 17:30 – 00:00",
+        "星期三: 12:00 – 15:30, 17:30 – 00:00",
+        "星期四: 12:00 – 15:30, 17:30 – 00:00",
+        "星期五: 12:00 – 15:30, 17:30 – 00:00",
+        "星期六: 12:00 – 15:30, 17:30 – 00:00",
+        "星期日: 12:00 – 15:30, 17:30 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 300,
+    "displayName": {
+      "text": "Mue Mue HK",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ_a0xfrABBDQRlDoMAFxiwYs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkRFFtRldjRTExVTBGcWIxTnVZWEJvVm1oWVFrRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "想喺尖沙咀附近搵一間坐得舒服、環境靚又夠安靜，同朋友慢慢食飯傾偈，Mue Mue 絕對唔會令你失望。\n\n餐廳裝潢時尚雅致，環境舒適，無論聚餐定約會都好適合。菜式擺盤精緻，味道不錯，雖然未至於驚艷，但整體水準穩定。\n\n價錢屬中上，不過考慮到餐廳環境、氣氛同服務，我覺得算合理。每道菜份量都好正常，唔會過少亦唔會過多，啱啱好。\n\n服務方面值得一讚，職員有禮貌又細心，整體用餐體驗十分舒服。想搵一間可以慢慢坐、慢慢傾、享受環境嘅餐廳，Mue Mue 係一個唔錯嘅選擇。\n\nIf you’re looking for a stylish, quiet, and comfortable restaurant near Tsim Sha Tsui to catch up with friends, Mue Mue is a great choice.\n\nThe restaurant has a modern and elegant interior, creating a relaxing atmosphere that’s perfect for a leisurely meal or a get-together. The dishes are beautifully presented and taste good. While the food may not be extraordinary, the overall quality is consistently satisfying.\n\nPrices are in the mid-to-upper range, but they’re reasonable when you consider the lovely ambience, comfortable setting, and attentive service. Portion sizes are also just right.\n\nThe service was excellent, with friendly and attentive staff throughout our visit. Overall, it’s a place I’d happily return to when I want good food in a pleasant environment.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "想喺尖沙咀附近搵一間坐得舒服、環境靚又夠安靜，同朋友慢慢食飯傾偈，Mue Mue 絕對唔會令你失望。\n\n餐廳裝潢時尚雅致，環境舒適，無論聚餐定約會都好適合。菜式擺盤精緻，味道不錯，雖然未至於驚艷，但整體水準穩定。\n\n價錢屬中上，不過考慮到餐廳環境、氣氛同服務，我覺得算合理。每道菜份量都好正常，唔會過少亦唔會過多，啱啱好。\n\n服務方面值得一讚，職員有禮貌又細心，整體用餐體驗十分舒服。想搵一間可以慢慢坐、慢慢傾、享受環境嘅餐廳，Mue Mue 係一個唔錯嘅選擇。\n\nIf you’re looking for a stylish, quiet, and comfortable restaurant near Tsim Sha Tsui to catch up with friends, Mue Mue is a great choice.\n\nThe restaurant has a modern and elegant interior, creating a relaxing atmosphere that’s perfect for a leisurely meal or a get-together. The dishes are beautifully presented and taste good. While the food may not be extraordinary, the overall quality is consistently satisfying.\n\nPrices are in the mid-to-upper range, but they’re reasonable when you consider the lovely ambience, comfortable setting, and attentive service. Portion sizes are also just right.\n\nThe service was excellent, with friendly and attentive staff throughout our visit. Overall, it’s a place I’d happily return to when I want good food in a pleasant environment.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "vivian yip",
+          "uri": "https://www.google.com/maps/contrib/104845344638408278121/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQ4y0VvC9r-CNbQ9DnxdSakr5My4O5vVNNNLqXjAt4KUH4QA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-25T22:51:57.184799619Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkRFFtRldjRTExVTBGcWIxTnVZWEJvVm1oWVFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkRFFtRldjRTExVTBGcWIxTnVZWEJvVm1oWVFrRRAB!2m1!1s0x340401b07e31adfd:0x8bc1625c000c3a94"
+      },
+      {
+        "name": "places/ChIJ_a0xfrABBDQRlDoMAFxiwYs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWUFduRklia3hWV1hZeU1sQXhiVGQ0YzFVM1IxRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢間係美麗華嘅泰菜食物質素唔錯，價錢合理，環境坐得舒服。如果想約朋友食吓泰國菜傾吓偈，呢度都係個好選擇，最鍾意以下三款：\n\n🟧泰式小食拼盤\n- 蝦多士炸得金黃香脆，蝦膠彈牙\n- 紅磚豆腐外皮微脆，入面好滑\n- 炭燒豬頸肉肥瘦適中，配酸辣汁好開胃\n- 酸辣鳳爪爽口入味，辣度啱啱好\n\n🟫沙嗲牛肉串\n牛肉燒得香嫩，沙嗲醬花生味濃，仲有少少炭香！\n\n⬜️椰香雞湯\n湯底香滑，椰奶味濃但唔會膩，雞肉幾嫩，飲完成個身暖笠笠。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間係美麗華嘅泰菜食物質素唔錯，價錢合理，環境坐得舒服。如果想約朋友食吓泰國菜傾吓偈，呢度都係個好選擇，最鍾意以下三款：\n\n🟧泰式小食拼盤\n- 蝦多士炸得金黃香脆，蝦膠彈牙\n- 紅磚豆腐外皮微脆，入面好滑\n- 炭燒豬頸肉肥瘦適中，配酸辣汁好開胃\n- 酸辣鳳爪爽口入味，辣度啱啱好\n\n🟫沙嗲牛肉串\n牛肉燒得香嫩，沙嗲醬花生味濃，仲有少少炭香！\n\n⬜️椰香雞湯\n湯底香滑，椰奶味濃但唔會膩，雞肉幾嫩，飲完成個身暖笠笠。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eddie Lau",
+          "uri": "https://www.google.com/maps/contrib/114721082416001231403/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK8jXIlcabcoWXseJSXu4v86o-j02S9negDV8EKnVAmYPBVxA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-01-10T07:25:23.349920266Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWUFduRklia3hWV1hZeU1sQXhiVGQ0YzFVM1IxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWUFduRklia3hWV1hZeU1sQXhiVGQ0YzFVM1IxRRAB!2m1!1s0x340401b07e31adfd:0x8bc1625c000c3a94"
+      },
+      {
+        "name": "places/ChIJ_a0xfrABBDQRlDoMAFxiwYs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVNVdXSktWV014TjNWWlN6Wm1kbm8xZDI5bFRWRRAB",
+        "relativePublishTimeDescription": "12 個月前",
+        "rating": 5,
+        "text": {
+          "text": "尖沙咀高質戶外泰式餐廳🔥🔥\n\n今日同老公去咗尖沙咀美麗華商場一間高檔泰國菜，一入去就覺得環境裝修好靚，有分室內同室外。我哋被安排坐室外，因為出面天氣開始涼涼哋，好舒服，感覺好似去咗泰國嘅高級Cafe一樣，氣氛一流！\n\n既然嚟到，我哋就想食得豐富啲，所以嗌咗好幾道菜。首先係生蝦前菜，生蝦十分新鮮，配埋佢嘅醬汁同調料，十分之清新好味，真係好開胃！跟住係冬陰功湯，湯底較辣，但裏面嘅海鮮令我哋有驚喜——蝦、青口、蜆都十分新鮮，隻蝦剝咗殼，好大隻，爽口得嚟又彈牙，正！\n\n另外，我哋試咗青咖喱和牛面頰，呢個搭配真係一流！和牛同牛筋煮得好嫩滑，配埋青咖喱嘅香料，出奇地夾。仲有啲蔬菜，包括茄子喺青咖喱裏面，增加咗口感，味道十分好。\n\n跟住上嚟嘅係煙燻炸子雞，即使嗌咗半份，份量都好足。雞肉嫩滑，脆皮炸得啱啱好，外脆內軟，食落好滿足！最後仲有個牛肉船麵，份量真係好大，我同老公都食唔晒。牛肉嘅份量好多，配上佢嘅調料，味道好出色，如果肚餓啲一定清碟！\n\n嘢飲方面，我哋嗌咗一杯招牌椰子雪糕紅豆冰，裏面有好多配料，紅豆好新鮮，椰子雪糕配落椰子汁度，十分唔錯！另一杯芒果椰子沙冰亦都做得幾出色，清新又解膩。\n\n最後，甜品係椰子焦糖燉蛋配花生醬雪糕，呢個搭配真係冇得頂！即使我哋食到好飽，都覺得十分好味。椰子脆糖配上花生醬雪糕，成個配搭好出色，為今餐畫上完美句號。\n\n總括來講，呢間泰國菜無論環境、服務同食物質素都好好，一定會再嚟幫襯！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "尖沙咀高質戶外泰式餐廳🔥🔥\n\n今日同老公去咗尖沙咀美麗華商場一間高檔泰國菜，一入去就覺得環境裝修好靚，有分室內同室外。我哋被安排坐室外，因為出面天氣開始涼涼哋，好舒服，感覺好似去咗泰國嘅高級Cafe一樣，氣氛一流！\n\n既然嚟到，我哋就想食得豐富啲，所以嗌咗好幾道菜。首先係生蝦前菜，生蝦十分新鮮，配埋佢嘅醬汁同調料，十分之清新好味，真係好開胃！跟住係冬陰功湯，湯底較辣，但裏面嘅海鮮令我哋有驚喜——蝦、青口、蜆都十分新鮮，隻蝦剝咗殼，好大隻，爽口得嚟又彈牙，正！\n\n另外，我哋試咗青咖喱和牛面頰，呢個搭配真係一流！和牛同牛筋煮得好嫩滑，配埋青咖喱嘅香料，出奇地夾。仲有啲蔬菜，包括茄子喺青咖喱裏面，增加咗口感，味道十分好。\n\n跟住上嚟嘅係煙燻炸子雞，即使嗌咗半份，份量都好足。雞肉嫩滑，脆皮炸得啱啱好，外脆內軟，食落好滿足！最後仲有個牛肉船麵，份量真係好大，我同老公都食唔晒。牛肉嘅份量好多，配上佢嘅調料，味道好出色，如果肚餓啲一定清碟！\n\n嘢飲方面，我哋嗌咗一杯招牌椰子雪糕紅豆冰，裏面有好多配料，紅豆好新鮮，椰子雪糕配落椰子汁度，十分唔錯！另一杯芒果椰子沙冰亦都做得幾出色，清新又解膩。\n\n最後，甜品係椰子焦糖燉蛋配花生醬雪糕，呢個搭配真係冇得頂！即使我哋食到好飽，都覺得十分好味。椰子脆糖配上花生醬雪糕，成個配搭好出色，為今餐畫上完美句號。\n\n總括來講，呢間泰國菜無論環境、服務同食物質素都好好，一定會再嚟幫襯！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Janice Ngan",
+          "uri": "https://www.google.com/maps/contrib/113374023289508320698/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQU0eRtPID2lVlLBG5xTJUwQ4ntKfuZmtE5AjuNrkCqM4jYA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-10-26T13:04:37.296762730Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVNVdXSktWV014TjNWWlN6Wm1kbm8xZDI5bFRWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVNVdXSktWV014TjNWWlN6Wm1kbm8xZDI5bFRWRRAB!2m1!1s0x340401b07e31adfd:0x8bc1625c000c3a94"
+      },
+      {
+        "name": "places/ChIJ_a0xfrABBDQRlDoMAFxiwYs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vNWFGbFFhR2x4Y1RKamQycGpWelZRYkhSSlpWRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "好幾次經過美麗華商場都留意到呢一間裝修幾靚嘅泰國餐廳，今次終於約咗朋友一試。菜式除咗賣相精緻之外，味道亦有質素，菜式都熱辣辣地上枱，我同朋友都好滿意。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好幾次經過美麗華商場都留意到呢一間裝修幾靚嘅泰國餐廳，今次終於約咗朋友一試。菜式除咗賣相精緻之外，味道亦有質素，菜式都熱辣辣地上枱，我同朋友都好滿意。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "C Chan",
+          "uri": "https://www.google.com/maps/contrib/104733333063250591129/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKxTwtbjR1MRyxWty4fTp9d3pwm3wNTZ2Q2QKXUwJWWGVGxw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-09-17T14:29:06.060181538Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21vNWFGbFFhR2x4Y1RKamQycGpWelZRYkhSSlpWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vNWFGbFFhR2x4Y1RKamQycGpWelZRYkhSSlpWRRAB!2m1!1s0x340401b07e31adfd:0x8bc1625c000c3a94"
+      },
+      {
+        "name": "places/ChIJ_a0xfrABBDQRlDoMAFxiwYs/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wMVZGRjVlVEZxU25sSWNVWnVaVXRpU2xSQlFYYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "最近同老公響尖沙咀美麗華商場試咗一間泰式餐廳，環境氣氛優雅舒適，食物有特色又好味，非常不錯的用餐體驗，好適合朋友聚會或情侶約會🥰❣️\n\n▪️泰式青醬生蝦🦐🦐\n生蝦每隻都新鮮彈牙，配搭泰式青醬酸辣滋味\n非常開胃的前菜😝\n\n▪️泰皇海鮮冬蔭功🥘🥘\n酸辣鮮味嘅冬陰功湯好好味，海鮮材料份量十足，有青口、蜆，大隻蝦肉肉質鮮嫩❗️加上香茅同檸檬令酸辣味更豐富，兩個人都好快飲完一大煲😍👍👍\n\n▪️青咖喱和牛面頰🐮🥩🥩\n厚身既和牛面頰煮得軟腍有咬口，牛筋有咬口又唔會太韌，青咖喱椰香味十分濃郁，辣度溫和，配搭嘅香料令味道層次更豐富，配飯食一流❣️❣️\n\n▪️煙燻香茅脆皮燒雞🐔🐔\n脆皮燒雞好有驚喜‼️一上枱已經聞到淡淡嘅煙熏香氣，用櫻桃木烤煮嘅燒雞，雞皮非常香脆可口，肉質仲保持鮮嫩多汁，香茅嘅香氣滲入雞肉中，食起嚟清香而不油膩😋👍💕推薦❣️\n\n▪️泰北生牛肉船河🐮🐮🍜\n香濃嘅牛骨湯底好好味，生牛肉片牛味香濃，口感柔嫩，河粉彈牙，加上幾種配料、豆芽和青檸汁一齊食，風味更地道🤤\n\n▪️椰子焦糖燉蛋配花生醬雪糕🥥🥥🍨\n呢度嘅泰式甜品都好好味🤩表層的焦糖脆殼與帶有椰子清香既燉蛋結合，口感滑嫩。上面嘅花生醬雪糕味道濃厚🥰🥰\n作為晚餐嘅happy ending❣️\n\n▪️Strawberry Milk🍓\n▪️Painting🍹\n我哋叫咗兩杯飲品味道都唔錯，Painting mocktail好飲又打卡able， 雜莓沙冰甜而不膩，清新又解渴❣️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最近同老公響尖沙咀美麗華商場試咗一間泰式餐廳，環境氣氛優雅舒適，食物有特色又好味，非常不錯的用餐體驗，好適合朋友聚會或情侶約會🥰❣️\n\n▪️泰式青醬生蝦🦐🦐\n生蝦每隻都新鮮彈牙，配搭泰式青醬酸辣滋味\n非常開胃的前菜😝\n\n▪️泰皇海鮮冬蔭功🥘🥘\n酸辣鮮味嘅冬陰功湯好好味，海鮮材料份量十足，有青口、蜆，大隻蝦肉肉質鮮嫩❗️加上香茅同檸檬令酸辣味更豐富，兩個人都好快飲完一大煲😍👍👍\n\n▪️青咖喱和牛面頰🐮🥩🥩\n厚身既和牛面頰煮得軟腍有咬口，牛筋有咬口又唔會太韌，青咖喱椰香味十分濃郁，辣度溫和，配搭嘅香料令味道層次更豐富，配飯食一流❣️❣️\n\n▪️煙燻香茅脆皮燒雞🐔🐔\n脆皮燒雞好有驚喜‼️一上枱已經聞到淡淡嘅煙熏香氣，用櫻桃木烤煮嘅燒雞，雞皮非常香脆可口，肉質仲保持鮮嫩多汁，香茅嘅香氣滲入雞肉中，食起嚟清香而不油膩😋👍💕推薦❣️\n\n▪️泰北生牛肉船河🐮🐮🍜\n香濃嘅牛骨湯底好好味，生牛肉片牛味香濃，口感柔嫩，河粉彈牙，加上幾種配料、豆芽和青檸汁一齊食，風味更地道🤤\n\n▪️椰子焦糖燉蛋配花生醬雪糕🥥🥥🍨\n呢度嘅泰式甜品都好好味🤩表層的焦糖脆殼與帶有椰子清香既燉蛋結合，口感滑嫩。上面嘅花生醬雪糕味道濃厚🥰🥰\n作為晚餐嘅happy ending❣️\n\n▪️Strawberry Milk🍓\n▪️Painting🍹\n我哋叫咗兩杯飲品味道都唔錯，Painting mocktail好飲又打卡able， 雜莓沙冰甜而不膩，清新又解渴❣️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yeahbrain",
+          "uri": "https://www.google.com/maps/contrib/111415973672875213984/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJapjITO1AJdvAaMtXkLsZ6l5IPZZKu0Ngx-h7CA4CbID9YUw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-10-16T11:25:40.710334130Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wMVZGRjVlVEZxU25sSWNVWnVaVXRpU2xSQlFYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMVZGRjVlVEZxU25sSWNVWnVaVXRpU2xSQlFYYxAB!2m1!1s0x340401b07e31adfd:0x8bc1625c000c3a94"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401b07e31adfd:0x8bc1625c000c3a94!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10070438389054454420&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401b07e31adfd:0x8bc1625c000c3a94!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401b07e31adfd:0x8bc1625c000c3a94!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401b07e31adfd:0x8bc1625c000c3a94!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ_a0xfrABBDQRlDoMAFxiwYs/photos/Aa-ngMaYmSClX3etyebUDegmPvvUp-hKp8ukqGk0RSYPSJZiN3ycx0zy7J0NAgwVBf_iVEsvBx0d21PfzXNQ4mDK3qqPQ-MauKquxO6MfjMRrQQeNg7-br1KGFNoKjvP76fA8StpmiPoOTqyxAfUp0Ag3pDjUHcdGWu03PClvR58zfbJu8MuqjgQsInFdpFknnZ3BLDxsxlq-_aPBG5WtoS1hF2TwHUKdD_O_3zfHLxhtn8MFGCHugoRNWuWs1DDWayEWpr9zMAtECjs4yqnLQQR97JwDxlpGoRAKrtsTEeQxe7MN8kK9dyJUpLtEGAgWECt5nXlfUc-GwSDx6pJLJ1E7VnkuKYZEXHFi4YBS23Wz3za8I7gl8_r4CtKEzil7nlS3FYzSP6smxpJnckNzmilkHgJhUkG93s",
+      "widthPx": 1600,
+      "heightPx": 1066,
+      "authorAttributions": [
+        {
+          "displayName": "Mue Mue HK",
+          "uri": "https://maps.google.com/maps/contrib/106828789004317644402",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXacSn_N9xq0Qxi79zO1r1zar5GeJaT9IQ5L1jw4ZZTR9ikEg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC15qbEwQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC15qbEwQE!2e10!4m2!3m1!1s0x340401b07e31adfd:0x8bc1625c000c3a94"
+    },
+    "local_path": "photos/ChIJ_a0xfrABBDQRlDoMAFxiwYs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_gQv7kP2mKhpPFPP8fu6KVIvFL14DwLFxqbzqs5XN9p9JhwHVrs5daxdEvmbuCaejHLZ4X4I234sfHfaLmEGlp5TyC26Kh0Bgff3HGxSmj8pGNCR_QPjY2Q6VRL7oBltrfXl5PQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 115248
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ConnectError"
+  },
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

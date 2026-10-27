@@ -1,0 +1,38 @@
+{
+  "id": "ChIJCVdQOLAABDQR_kD3s9XyhjI",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "20號 Sham Mong Rd, Sham Shui Po, Kowloon, 香港",
+  "location": {
+    "latitude": 22.3241378,
+    "longitude": 114.1574811
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3640864348436906238&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "南昌公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJCVdQOLAABDQR_kD3s9XyhjI/photos/Aa-ngMa65PusRZ4Bsb8FLCJyKqRp76TzY6kfNx_LLqEUbPC4HEWnUOoQnvDSN0wxZVDIr80pURBwc7AzRrqiqV7yTzbZBp4m-1M0L--zSJLgqsANwc5EDREUgbfjeK8K495mBrFsQSlmGF93l26pIZP0Jrw9L0yZCwm9qaGrDFby8gYP_TYBNMlEnzQrGtXmIUwm5Io33xuDvz7lMFvDo7v55NY9mUDZczoagYdrEDMZKZpaDdXLrZYfMxqnquajVp4u2X1r9cOGKGxwpaxz7TmEjK05iiK4XXQ4PgiJiRQQFRfIqMeZQRAsqMyokiXqBWbzrPL3eElLdqyMjzow2q40CWn3zv34KCkwxyO6MZhGNGHBgLTrXnZ98MUB2f25ZSa1LKFyxsmMydiMuYp14OVwjqT_EN3E1eQ",
+      "widthPx": 800,
+      "heightPx": 531,
+      "authorAttributions": [
+        {
+          "displayName": "Eugenie Wong",
+          "uri": "https://maps.google.com/maps/contrib/112693024028624674672",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI8YDr4gJ5SL-F2lENRQ9XndqD183xX419W6VkIFqOXvIsNig=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDcv7ivhAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcv7ivhAE!2e10!4m2!3m1!1s0x340400b038505709:0x3286f2d5b3f740fe"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:14.904285+00:00"
+}

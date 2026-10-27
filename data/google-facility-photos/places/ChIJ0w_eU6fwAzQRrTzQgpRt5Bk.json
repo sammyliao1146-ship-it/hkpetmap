@@ -1,0 +1,39 @@
+{
+  "id": "ChIJ0w_eU6fwAzQRrTzQgpRt5Bk",
+  "types": [
+    "pet_store",
+    "pet_care",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界元朗又新街37號富祐閣",
+  "location": {
+    "latitude": 22.4428543,
+    "longitude": 114.031312
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1865736630255500461&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Lego Pet 樂高寵物 (又新街 Yau San Street)",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_store",
+  "photos": [
+    {
+      "name": "places/ChIJ0w_eU6fwAzQRrTzQgpRt5Bk/photos/Aa-ngMZigcnBeQ4K0ak597_gm8U28Lo974492SjQkzFzQf7U6c-ufwbS8MBvnxM6TqL7owSXI6AJ3vcWG2Cml5Wone5RNb5gqNS8b_5DaJowAqsJcZe7Gk4jLUKhdL6pStHntMEn9VvoFMTxLiSzJJy3GTpSUMngI4hluhTcPDODcDVE2nT5b8o4Fi-EDaxJzKGNaN6UpVseDKZmGsLhtd0zAULgmXSb7McKNNABJszCDix4TDp4KmVdTSuxbpR_7rXxCW1YmR0dH5UsWutYle3vOQ5sSNRPQXCk7cXxy4EghpF4nMkoA9HfpKxyC3aZVGZuARR_cLq70eu65AtuILP-mFhhuto35hCxTT4fyV5gb6xY_TNvY7fzhLkR8jzbGNiayfxpxwanWprJqaQoOC_23HbJC5U",
+      "widthPx": 2048,
+      "heightPx": 1365,
+      "authorAttributions": [
+        {
+          "displayName": "Lego Pet 樂高寵物 (又新街 Yau San Street)",
+          "uri": "https://maps.google.com/maps/contrib/100353472893664335052",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNCVsA_cbzzLSZGgXHr4KFq84E69rXT4Pqi7KysmoGEWtlHhc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6jtyXbw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6jtyXbw!2e10!4m2!3m1!1s0x3403f0a753de0fd3:0x19e46d9482d03cad"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:15.686641+00:00"
+}

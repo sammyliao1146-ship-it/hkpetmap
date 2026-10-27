@@ -1,0 +1,38 @@
+{
+  "id": "ChIJRWHAveIHBDQRdHRnE7XYsYM",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "Unit A, 110 Choi Hung Rd, San Po Kong, Kowloon, 香港",
+  "location": {
+    "latitude": 22.3363251,
+    "longitude": 114.19497829999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9489604162072573044&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "黃大仙區動物醫院 - Pet Space Group",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJRWHAveIHBDQRdHRnE7XYsYM/photos/Aa-ngMY_mUFQekYQsk7y1ygQcNhN8isn9cBKXJfVonxrw2tftacO8eOOXwCXJx_jm5WzMYvxhWVmmnBFX6ohoXOGHCXjmdpkBIZqk-qfpPPKtYVSyoQhaDf65ksLHDrtHhDkTDrVsuenJX2G9nB2aVwSVO6t_ukOjie-uDlKMXzqUjNaYZ2oNOpTLX5Br3kzw9JgqtkgqrjahM_JTFKwXfYxD2SH4x0rvhv_AwLzB1Ni8KhmhAosWx5RjS7F6p7e0LoRY9HqSun_WjPWzGVzz0ZTNW5C_5u2ytfnZVj6ktPedzcge1A3SOz6WbJBb7VOzSgpLDN9yWuuayFJkcFas5faM5l1-fT-uW2csZN1qQ-wpYfleJGkCz8mWvHRV0GMqbHPtFG7ApnVk3_p303E9N9k1F-d_lFwmtYCDAU-GIF_K38z_A",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "黃大仙區動物醫院 Wong Tai Sin District Animal Hospital - Pet Space Group",
+          "uri": "https://maps.google.com/maps/contrib/113100853919452481684",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcNvhC30tJO9GMnarf1sFMeVrmJBo7SbE50uVC3AJsX2rtMnk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCb7mdQc0p6nxxasI0LfwV3&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCb7mdQc0p6nxxasI0LfwV3!2e10!4m2!3m1!1s0x340407e2bdc06145:0x83b1d8b513677474"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:41.811973+00:00"
+}

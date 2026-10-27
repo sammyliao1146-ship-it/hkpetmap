@@ -1,0 +1,333 @@
+{
+  "google_place_id": "ChIJfTuvzN8BBDQRmGm3zZT0TOo",
+  "restaurant_ids": [
+    "restaurant:2218812707"
+  ],
+  "fetched_at": "2026-10-23T15:52:30.929799+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJfTuvzN8BBDQRmGm3zZT0TOo",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "8494 2803",
+    "internationalPhoneNumber": "+852 8494 2803",
+    "formattedAddress": "G/F, 28 Peel St, Central, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.282946,
+      "longitude": 114.1529925
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=16883138023048833432&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/profile.php?id=61581235835970",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 1,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 22:30",
+        "星期二: 08:00 – 22:30",
+        "星期三: 08:00 – 22:30",
+        "星期四: 08:00 – 22:30",
+        "星期五: 08:00 – 01:00",
+        "星期六: 08:00 – 01:00",
+        "星期日: 08:00 – 22:30"
+      ],
+      "nextCloseTime": "2026-10-23T17:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 63,
+    "displayName": {
+      "text": "Ziggys",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJfTuvzN8BBDQRmGm3zZT0TOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKRVdWVTBkV2hrYlVOc2RWSnljRTV0TURoSk4wRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這家店絕對值得五星級好評！\n\n員工友善，環境舒適，食物更是美味無比！\n\n為了品嚐更多菜餚，我連續去了兩天！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "The place fully deserves 5 stars.\nThe staff is nice, the place is cosy and the food is absolutely delicious !\nWent there 2 days in a row to try more food !",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Jean-Baptiste DUCOS",
+          "uri": "https://www.google.com/maps/contrib/113670427449022643078/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXw2FoY6uumR4RWyLb67c4tn3odjd5pdOdF0eHUK4bHypgLR30=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-02-19T03:11:25.303277398Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKRVdWVTBkV2hrYlVOc2RWSnljRTV0TURoSk4wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKRVdWVTBkV2hrYlVOc2RWSnljRTV0TURoSk4wRRAB!2m1!1s0x340401dfccaf3b7d:0xea4cf494cdb76998"
+      },
+      {
+        "name": "places/ChIJfTuvzN8BBDQRmGm3zZT0TOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OTE4wSTNVSGRDT1dwS2RqSnNiVEpsTFVsa1NtYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 3,
+        "text": {
+          "text": "Okay food - large choice of menu revolving around the same themes: eggs sandwiches tomatoes\nThe staff is okay the place small but cute\nTrying tks we’ve healthy food or so it claims\nMy burrito was full of liquid water coming from the eggs and tomatoes and very soggy - when I told the waitress she could not care less\nSmoothies are good but very icy\nGood place for quick brunch but overall average  food - the avocado toast with salmon ( u add the base and plus plus) was good",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Okay food - large choice of menu revolving around the same themes: eggs sandwiches tomatoes\nThe staff is okay the place small but cute\nTrying tks we’ve healthy food or so it claims\nMy burrito was full of liquid water coming from the eggs and tomatoes and very soggy - when I told the waitress she could not care less\nSmoothies are good but very icy\nGood place for quick brunch but overall average  food - the avocado toast with salmon ( u add the base and plus plus) was good",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Martine_R",
+          "uri": "https://www.google.com/maps/contrib/115155830776203884607/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjZm_52HhvBzaE6-BqkdEOgiz6NcYqXzX8eyNGD7mHtJPjzqo=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-16T08:33:45.938548117Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OTE4wSTNVSGRDT1dwS2RqSnNiVEpsTFVsa1NtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OTE4wSTNVSGRDT1dwS2RqSnNiVEpsTFVsa1NtYxAB!2m1!1s0x340401dfccaf3b7d:0xea4cf494cdb76998"
+      },
+      {
+        "name": "places/ChIJfTuvzN8BBDQRmGm3zZT0TOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rM1ZscE1NVnBoTUhnMFltd3hkV3BNUVhRdFYxRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這裡是享用早餐和品嚐美味咖啡的絕佳去處，還能欣賞到美麗的街景。我來過幾次，人不多，服務很友善。要注意的是，這裡只接受刷卡付款（不接受現金）。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Very good place for breakfast and awesome coffee. Including the nice view on the street. Been here few times, not crowded and friendly. Pay attention only accept card payments (no cash).",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Crafty Fever",
+          "uri": "https://www.google.com/maps/contrib/110604922710263727012/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU67oIPHT8y4EBZPRdQfYDc9NEYk49j83koLQXv1uWz0vU61k0=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-22T02:45:33.569751713Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rM1ZscE1NVnBoTUhnMFltd3hkV3BNUVhRdFYxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rM1ZscE1NVnBoTUhnMFltd3hkV3BNUVhRdFYxRRAB!2m1!1s0x340401dfccaf3b7d:0xea4cf494cdb76998"
+      },
+      {
+        "name": "places/ChIJfTuvzN8BBDQRmGm3zZT0TOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ac2N6SjVSVUpKTm5rdFdYTkpUVWRNYlVGZmIyYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳環境優美，服務一流，食物更是美味無比。飲品口感也很好，與餐廳的裝潢相得益彰，堪稱完美。巴西莓碗真的太好吃了，我一直在香港找一家好吃的巴西莓碗店，感謝上帝讓我偶然發現了這家天堂般的餐廳。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Lovely restaurant, great service, food is AmaZing. Drink tastes good and it matches the prettiness so its perfect. Acai bowl is sooo good i've been trying to find an acai place in hk and thank god i stumbled into this heaven.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "joanna c. mckuchie",
+          "uri": "https://www.google.com/maps/contrib/111542638361583223594/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqh_Q38AuNLNIOAocsAJ8HQ71VS4JQ1KMwJDnOLgxP8qiRGg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-16T09:04:56.263078276Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ac2N6SjVSVUpKTm5rdFdYTkpUVWRNYlVGZmIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ac2N6SjVSVUpKTm5rdFdYTkpUVWRNYlVGZmIyYxAB!2m1!1s0x340401dfccaf3b7d:0xea4cf494cdb76998"
+      },
+      {
+        "name": "places/ChIJfTuvzN8BBDQRmGm3zZT0TOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKMU1tbEhOMXBaVDB0c1lWa3hha2MxVlhBM09GRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這裡的食物絕對美味，價格也很實惠。雞腿、咖哩花椰菜和煎西蘭花都非常棒，而且分量也很足。辣味瑪格麗特雞尾酒也非常好喝。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "The food here was absolutely delicious and a good price too. Chicken thigh, curried cauliflower and seared broccoli were amazing and the portion size is really generous. The spicy marg was also really nice.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Jimmy Finlay",
+          "uri": "https://www.google.com/maps/contrib/102941019004035823042/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJiShykDlZrKGO02gXVKncmGcku_ILezDryFMt60V2pbD80P9A9A=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-04T03:22:27.993230584Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKMU1tbEhOMXBaVDB0c1lWa3hha2MxVlhBM09GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKMU1tbEhOMXBaVDB0c1lWa3hha2MxVlhBM09GRRAB!2m1!1s0x340401dfccaf3b7d:0xea4cf494cdb76998"
+      }
+    ],
+    "menuForChildren": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": false,
+      "paidParkingLot": false,
+      "freeStreetParking": false,
+      "valetParking": false,
+      "freeGarageParking": false,
+      "paidGarageParking": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401dfccaf3b7d:0xea4cf494cdb76998!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16883138023048833432&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401dfccaf3b7d:0xea4cf494cdb76998!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401dfccaf3b7d:0xea4cf494cdb76998!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401dfccaf3b7d:0xea4cf494cdb76998!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJfTuvzN8BBDQRmGm3zZT0TOo/photos/Aa-ngMZIrUtno0ff7VLzGBRXxCXNWJjj0locXLoM9VjQylIVvq7MYRkAopMMqkuVxkMbyo2obom4iPBYGjhO1vSKjS0B0uckg6puVaAo9vmPKGPJLtiT-vJqwA2k731dpTrj9pGFjHz-SO0AAtdYJhl2c_gH6a1GXxJ828et6pcU1q7TAda6N43HGAle3IHDXWOOF48xUs_myter2tTzTt4ddd9gUx8B4Yb6tH1L9Se5fv-iBbu7ePm_DY9g-y8QJZ8id9h2slVNApEq2eeelkKxSIxg5jzO5eKdIFTGDMLNt7140d7ipH8Iip_zcGE7BPXdD2HfOam8NdmksaQzoS7zFavhzGrKaXLv4zbBzAYJQ1qpjxONnuOG60B0r4wodIFTZyCrH639XRYAgJLdYMYdQDdv7F-yoUJGin9XVkEBX3n4ug",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "Ziggys",
+          "uri": "https://maps.google.com/maps/contrib/109296876692184184191",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoiHXCA4Aaq-keEzxqwqXo1QtvcLK4kWZO-FnS4ord96Z2b40=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCBb2WeafzzhPu0_Nphy06N&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCBb2WeafzzhPu0_Nphy06N!2e10!4m2!3m1!1s0x340401dfccaf3b7d:0xea4cf494cdb76998"
+    },
+    "local_path": "photos/ChIJfTuvzN8BBDQRmGm3zZT0TOo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf37H2_XfSNjqJ5RwIk8u_ortUoWbP7n0xnmomGTxSNOMCG1Xlw8Voj2JPVmC84Mrdl_u0-1-xzlwKJkbMCC5RFEylI1HLEwhrVqrfLYDG0H-ZhQThHw86CaU2hJ8Nd_oBcJzea3haKFTiQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 157482
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

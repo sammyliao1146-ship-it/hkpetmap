@@ -1,0 +1,404 @@
+{
+  "google_place_id": "ChIJ23jIExMBBDQR2br-ceprmYc",
+  "restaurant_ids": [
+    "restaurant:2212818004"
+  ],
+  "fetched_at": "2026-10-23T15:46:24.056677+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ23jIExMBBDQR2br-ceprmYc",
+    "types": [
+      "yakitori_restaurant",
+      "japanese_izakaya_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2811 8266",
+    "internationalPhoneNumber": "+852 2811 8266",
+    "formattedAddress": "G/F, 30 Swatow St, Wan Chai, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2759741,
+      "longitude": 114.1718518
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=9770959521236040409&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/kobakowanchai?stkn=enkwaWQzdnlzbnFp&utm_source=qr",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 23:00",
+        "星期二: 12:00 – 15:00, 18:00 – 02:00",
+        "星期三: 12:00 – 15:00, 18:00 – 02:00",
+        "星期四: 12:00 – 15:00, 18:00 – 02:00",
+        "星期五: 12:00 – 15:00, 18:00 – 02:00",
+        "星期六: 12:00 – 15:00, 18:00 – 02:00",
+        "星期日: 12:00 – 15:00, 18:00 – 23:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 181,
+    "displayName": {
+      "text": "Yakitori Kobako",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式串燒餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "yakitori_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ23jIExMBBDQR2br-ceprmYc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOS2MxaFlhRUprZDFwck1uWkRNbEI2TjNsRmJVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "以前去過佢哋嘅姊妹店「大眾酒場」食野，今次就嚟呢間隔離舖位主打日式雞肉串燒嘅 Yakitori Kobako！兩個人點咗滿滿一枱，由沙律、刁鑽雞部位串燒、到主食燒飯糰都有，完全無令人失望：\n\n🥗 芝麻醬豬肉沙律 ($98) 份量好足，豬肉片帶點油香，配埋爽脆嘅沙律菜同濃郁嘅胡麻醬，作為開胃菜非常稱職，正好平衡一陣間串燒嘅油膩感。\n\n🔥串燒系列：\n手打免治雞肉棒 ($53)：居酒屋嘅靈魂！雞肉棒燒到外層微脆，咬落去軟腍彈牙而且好juicy，裏面仲帶點軟骨碎，口感層次好豐富，沾埋靈魂燒汁真係超高質！\n\n酥脆烤雞皮 ($48)：火候控制得極好，雞皮燒到好似薯片咁卜卜脆，逼晒啲雞油出嚟，邪惡感爆燈，送酒一流！\n\n香烤雞尾 ($43)：即係俗稱嘅七里香，好考師傅功夫。外皮焦香，入口帶有濃郁嘅油脂甘香，完全冇雜味，油潤感十足。\n\n鹽燒厚切牛舌 ($138)：牛舌切得有厚度，燒到啱啱好，入口軟腍帶微脆，牛味極之濃郁，簡單調味已經好出色。\n\n🐟 鮮味燒物推介：\n烤魷魚一夜干（半份）($88)：魷魚越嚼越香，肉質帶點煙韌，鹹鮮味被炭火完全激發出嚟。\n蒲燒鰻魚 ($108)：鰻魚皮燒到微脆，肉質肥美，配埋偏甜嘅蒲燒汁，火候拿捏得啱啱好。\n\n🍙 飽肚必叫燒飯糰：\n我同朋友各點一款。三文魚籽烤飯糰 ($38) 同 明太子烤飯糰 ($38) 嘅飯糰外層都烤到好似鍋巴咁香脆！一邊咬住帶焦香嘅飯糰，一邊配埋鹹香嘅明太子或者爆汁嘅三文魚籽，好滿足。\n\n叫咗杯 雪碧 ($38) 同經典嘅 綠茶 Chu-hi ($58)，Chu-hi 微醺得嚟好清爽，打卡、解膩都係一流配搭。\n\n承襲咗大眾酒場嘅高水準，Kobako 喺串燒方面做得更加專精、更有火喉。每道串燒都食得出師傅嘅心思，炭香味十足。兩個人食到飽一飽人均都係四百幾，以灣仔高質居酒屋嚟講性價比非常合理。下次想飲杯嘢食串燒，絕對會再嚟！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "以前去過佢哋嘅姊妹店「大眾酒場」食野，今次就嚟呢間隔離舖位主打日式雞肉串燒嘅 Yakitori Kobako！兩個人點咗滿滿一枱，由沙律、刁鑽雞部位串燒、到主食燒飯糰都有，完全無令人失望：\n\n🥗 芝麻醬豬肉沙律 ($98) 份量好足，豬肉片帶點油香，配埋爽脆嘅沙律菜同濃郁嘅胡麻醬，作為開胃菜非常稱職，正好平衡一陣間串燒嘅油膩感。\n\n🔥串燒系列：\n手打免治雞肉棒 ($53)：居酒屋嘅靈魂！雞肉棒燒到外層微脆，咬落去軟腍彈牙而且好juicy，裏面仲帶點軟骨碎，口感層次好豐富，沾埋靈魂燒汁真係超高質！\n\n酥脆烤雞皮 ($48)：火候控制得極好，雞皮燒到好似薯片咁卜卜脆，逼晒啲雞油出嚟，邪惡感爆燈，送酒一流！\n\n香烤雞尾 ($43)：即係俗稱嘅七里香，好考師傅功夫。外皮焦香，入口帶有濃郁嘅油脂甘香，完全冇雜味，油潤感十足。\n\n鹽燒厚切牛舌 ($138)：牛舌切得有厚度，燒到啱啱好，入口軟腍帶微脆，牛味極之濃郁，簡單調味已經好出色。\n\n🐟 鮮味燒物推介：\n烤魷魚一夜干（半份）($88)：魷魚越嚼越香，肉質帶點煙韌，鹹鮮味被炭火完全激發出嚟。\n蒲燒鰻魚 ($108)：鰻魚皮燒到微脆，肉質肥美，配埋偏甜嘅蒲燒汁，火候拿捏得啱啱好。\n\n🍙 飽肚必叫燒飯糰：\n我同朋友各點一款。三文魚籽烤飯糰 ($38) 同 明太子烤飯糰 ($38) 嘅飯糰外層都烤到好似鍋巴咁香脆！一邊咬住帶焦香嘅飯糰，一邊配埋鹹香嘅明太子或者爆汁嘅三文魚籽，好滿足。\n\n叫咗杯 雪碧 ($38) 同經典嘅 綠茶 Chu-hi ($58)，Chu-hi 微醺得嚟好清爽，打卡、解膩都係一流配搭。\n\n承襲咗大眾酒場嘅高水準，Kobako 喺串燒方面做得更加專精、更有火喉。每道串燒都食得出師傅嘅心思，炭香味十足。兩個人食到飽一飽人均都係四百幾，以灣仔高質居酒屋嚟講性價比非常合理。下次想飲杯嘢食串燒，絕對會再嚟！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Umi유미",
+          "uri": "https://www.google.com/maps/contrib/102438648813084810626/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUL5kuQzglJdhhf9h8hry-FWBB4QBwJy7Pv4d09uidfDbRQRDSt=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-05T18:09:25.443113101Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOS2MxaFlhRUprZDFwck1uWkRNbEI2TjNsRmJVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOS2MxaFlhRUprZDFwck1uWkRNbEI2TjNsRmJVRRAB!2m1!1s0x3404011313c878db:0x87996bea71febad9"
+      },
+      {
+        "name": "places/ChIJ23jIExMBBDQR2br-ceprmYc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NM2FVSTFhbXRLVlZCeU5YTkRlbloyVFdSbGIwRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "灣仔串燒隱藏日式燒鳥🍢\n啱啱係日本返黎 又可以瞬間返去日本🩵\n作為東京過江龍日本人主理真係超有氣氛✨\n\n⛱️ 沖繩青檸（Chu-hi & 果汁） 超清新一秒帶你去旅行\n仲有沖繩苦瓜天婦羅 真係一試愛上😍\n沖繩必食家鄉菜苦瓜清甜炸得鬆脆✨\n\n當然唔小得燒物🔥\n✨🦐鹽燒大蝦：新鮮肥美，鹽燒鎖住鮮甜，份量超足，口感彈牙！必食🙌🏻🙌🏻🙌🏻\n雞屁股（鹽燒）：皮脆肉嫩，超香，肥而不膩\n雞皮（鹽燒）：脆口多汁，一啖一個滿足😋\n雞肉棒：肉汁豐富，口感豐富有咬口\n雞柳：配wasabi超特別\n✨燒白鰻魚：鰻魚軟嫩，皮燒香脆\n燒軟骨魷魚（半份） – 軟嫩入味，魷魚香氣十足\n\n🔷後記🔶\n整體味道偏向正宗日式清爽風 調味不會太重 突出食材本身鮮味✨\n性價比高 尤其串燒同海鮮類表現突出！🤩\n小tips 💡 推介坐吧檯位，可以近距離睇師傅比餐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "灣仔串燒隱藏日式燒鳥🍢\n啱啱係日本返黎 又可以瞬間返去日本🩵\n作為東京過江龍日本人主理真係超有氣氛✨\n\n⛱️ 沖繩青檸（Chu-hi & 果汁） 超清新一秒帶你去旅行\n仲有沖繩苦瓜天婦羅 真係一試愛上😍\n沖繩必食家鄉菜苦瓜清甜炸得鬆脆✨\n\n當然唔小得燒物🔥\n✨🦐鹽燒大蝦：新鮮肥美，鹽燒鎖住鮮甜，份量超足，口感彈牙！必食🙌🏻🙌🏻🙌🏻\n雞屁股（鹽燒）：皮脆肉嫩，超香，肥而不膩\n雞皮（鹽燒）：脆口多汁，一啖一個滿足😋\n雞肉棒：肉汁豐富，口感豐富有咬口\n雞柳：配wasabi超特別\n✨燒白鰻魚：鰻魚軟嫩，皮燒香脆\n燒軟骨魷魚（半份） – 軟嫩入味，魷魚香氣十足\n\n🔷後記🔶\n整體味道偏向正宗日式清爽風 調味不會太重 突出食材本身鮮味✨\n性價比高 尤其串燒同海鮮類表現突出！🤩\n小tips 💡 推介坐吧檯位，可以近距離睇師傅比餐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "peonyiuu",
+          "uri": "https://www.google.com/maps/contrib/102107902086057988939/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAbAd3iAxRx6pme-3qhIdLSOumO1Lvk7Hgs2jmBbWfbb4j8A=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-07T10:52:49.950746157Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25NM2FVSTFhbXRLVlZCeU5YTkRlbloyVFdSbGIwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NM2FVSTFhbXRLVlZCeU5YTkRlbloyVFdSbGIwRRAB!2m1!1s0x3404011313c878db:0x87996bea71febad9"
+      },
+      {
+        "name": "places/ChIJ23jIExMBBDQR2br-ceprmYc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Gc04zaERabXhZYnpCS1IzVTFibmgyUW5oek9WRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "花生豆腐\n$43\n明太子薯仔沙律\n$78\n蕃茄沙律\n$58\n雞頸肉\n$48\n雞肉棒\n$53\n沖繩苦瓜釀免治雞肉\n$58\n鵪鶉蛋豬肉卷\n$46\n鐵板燒餃子\n$73\n吉列芝士火腿三文治\n$58\n鰻魚炒飯\n$108\n沖繩青檸汁\n$43\n好味指數：😋😋😋😋😋\n抵食指數：💲💲💲💲💲\n環境舒適：😌😌😌😌\n環境衛生：🧹🧹🧹🧹\n服務質素：💁🏼‍♀️ 💁🏼‍♀️ 💁🏼‍♀️ 💁🏼‍♀️\n不知不覺在新公司工作已有3個星期，老闆為表關心，相約我吃晚飯，了解一下我是否適應在新公司工作💼。他帶我去了灣仔這間由日本人主理，東京過江龍居酒屋。居酒屋🏮坐落在灣仔街角，推開門，就讓人如置身東京般。居酒屋食物選擇不少，我們點了2款沙律、數串串燒、主食、飲品。\n明太子薯仔🥔沙律綿密軟滑，薯仔的香甜溫醇與明太子的鹹香微辣完美融合。\n帶有和風醬油的蕃茄沙律🥗多汁，酸甜開胃，解膩一流。\n花生豆腐口感綿密，類似布甸，入口即化，帶有花生🥜香味。\n雞頸肉肉質極致細嫩，緊實且富有嚼勁，肉汁豐盈，具濃郁鮮甜味。\n雞肉棒外層燒至微焦香脆，絞肉口感軟綿。鹹甜的燒汁配上蛋黃，變得更滑順。\n沖繩苦瓜釀免治雞肉不過於軟爛，帶點甘苦味。免治雞肉鮮嫩多汁，吸收了苦瓜的清香。\n鵪鶉蛋豬肉卷口感層次豐富，外層豬肉焦香軟嫩，鵪鶉蛋有點彈牙。\n鐵板燒餃子🥟外皮酥脆、內餡多汁。\n吉列芝士火腿三文治🥪外層的吉列炸皮鬆脆金黃，咬下後內部是軟嫩的火腿與香濃的流心芝士🧀，芝士的鹹香與火腿的鹹甘味相互融合，口感極為豐富。\n鰻魚炒飯粒粒分明，蛋香濃郁。蒲燒鰻魚油脂豐厚，口感軟糯，沒有腥味。蔥粒提升整體香氣。\n沖繩青檸🍋‍🟩汁味道清爽酸香，帶有柑橘的天然酸味與清新甘甜。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "花生豆腐\n$43\n明太子薯仔沙律\n$78\n蕃茄沙律\n$58\n雞頸肉\n$48\n雞肉棒\n$53\n沖繩苦瓜釀免治雞肉\n$58\n鵪鶉蛋豬肉卷\n$46\n鐵板燒餃子\n$73\n吉列芝士火腿三文治\n$58\n鰻魚炒飯\n$108\n沖繩青檸汁\n$43\n好味指數：😋😋😋😋😋\n抵食指數：💲💲💲💲💲\n環境舒適：😌😌😌😌\n環境衛生：🧹🧹🧹🧹\n服務質素：💁🏼‍♀️ 💁🏼‍♀️ 💁🏼‍♀️ 💁🏼‍♀️\n不知不覺在新公司工作已有3個星期，老闆為表關心，相約我吃晚飯，了解一下我是否適應在新公司工作💼。他帶我去了灣仔這間由日本人主理，東京過江龍居酒屋。居酒屋🏮坐落在灣仔街角，推開門，就讓人如置身東京般。居酒屋食物選擇不少，我們點了2款沙律、數串串燒、主食、飲品。\n明太子薯仔🥔沙律綿密軟滑，薯仔的香甜溫醇與明太子的鹹香微辣完美融合。\n帶有和風醬油的蕃茄沙律🥗多汁，酸甜開胃，解膩一流。\n花生豆腐口感綿密，類似布甸，入口即化，帶有花生🥜香味。\n雞頸肉肉質極致細嫩，緊實且富有嚼勁，肉汁豐盈，具濃郁鮮甜味。\n雞肉棒外層燒至微焦香脆，絞肉口感軟綿。鹹甜的燒汁配上蛋黃，變得更滑順。\n沖繩苦瓜釀免治雞肉不過於軟爛，帶點甘苦味。免治雞肉鮮嫩多汁，吸收了苦瓜的清香。\n鵪鶉蛋豬肉卷口感層次豐富，外層豬肉焦香軟嫩，鵪鶉蛋有點彈牙。\n鐵板燒餃子🥟外皮酥脆、內餡多汁。\n吉列芝士火腿三文治🥪外層的吉列炸皮鬆脆金黃，咬下後內部是軟嫩的火腿與香濃的流心芝士🧀，芝士的鹹香與火腿的鹹甘味相互融合，口感極為豐富。\n鰻魚炒飯粒粒分明，蛋香濃郁。蒲燒鰻魚油脂豐厚，口感軟糯，沒有腥味。蔥粒提升整體香氣。\n沖繩青檸🍋‍🟩汁味道清爽酸香，帶有柑橘的天然酸味與清新甘甜。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yuki Lee",
+          "uri": "https://www.google.com/maps/contrib/116214556210937985209/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIsEqG0JNgW2tajm6OW5kwvA5B_O-mrzpHUifwM5rcTn4ARJg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-22T07:17:39.043702301Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Gc04zaERabXhZYnpCS1IzVTFibmgyUW5oek9WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Gc04zaERabXhZYnpCS1IzVTFibmgyUW5oek9WRRAB!2m1!1s0x3404011313c878db:0x87996bea71febad9"
+      },
+      {
+        "name": "places/ChIJ23jIExMBBDQR2br-ceprmYc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGbGVrazVTMWd5VldKMVJHUnFSRmxvU2xFeFJrRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "大眾酒場小箱是一間日式居酒屋，裝潢以木系為主調，門外掛滿燈籠，充滿日本居酒屋格調，食物由日籍主廚主理，主打多款日式料理，近日飲品仲有半價優惠。\n\n五點刺身盛：三文魚味道鮮甜柔滑，帶有豐富油脂感、油甘魚口感清爽且充滿魚油香氣、吞拿魚肉質緊實，魚鮮味濃郁、帆立貝鮮甜滑嫩、八爪魚新鮮爽嫩。\n\n燒雞翼皮脆肉嫩。\n\n雞肉棒味道鮮嫩多汁，帶有焦香外皮，搭配生蛋黃，增添滑順濃郁口感。\n\n雞肉餃子炸至外脆內軟，口感滑嫩不油膩。\n\n炸八爪魚味道香脆鮮嫩。\n\n鯖魚釜飯（梅醬紫蘇）：鯖魚肉質肥美，燜煮時魚油滲入米飯，令每粒飯都充滿濃郁鮮味，入口油潤而不膩，加上梅醬帶來微酸甜味，紫蘇葉增添清新草本香氣，三者平衡開胃，尤其適合熱天氣食用。\n\n沖繩豬軟骨湯麵：豬軟骨燉煮至入口即化，湯頭清爽鮮甜，麵條Q彈有嚼勁。\n\n沖繩奧利恩啤酒半價：啤酒，入口輕盈爽快，苦味不明顯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大眾酒場小箱是一間日式居酒屋，裝潢以木系為主調，門外掛滿燈籠，充滿日本居酒屋格調，食物由日籍主廚主理，主打多款日式料理，近日飲品仲有半價優惠。\n\n五點刺身盛：三文魚味道鮮甜柔滑，帶有豐富油脂感、油甘魚口感清爽且充滿魚油香氣、吞拿魚肉質緊實，魚鮮味濃郁、帆立貝鮮甜滑嫩、八爪魚新鮮爽嫩。\n\n燒雞翼皮脆肉嫩。\n\n雞肉棒味道鮮嫩多汁，帶有焦香外皮，搭配生蛋黃，增添滑順濃郁口感。\n\n雞肉餃子炸至外脆內軟，口感滑嫩不油膩。\n\n炸八爪魚味道香脆鮮嫩。\n\n鯖魚釜飯（梅醬紫蘇）：鯖魚肉質肥美，燜煮時魚油滲入米飯，令每粒飯都充滿濃郁鮮味，入口油潤而不膩，加上梅醬帶來微酸甜味，紫蘇葉增添清新草本香氣，三者平衡開胃，尤其適合熱天氣食用。\n\n沖繩豬軟骨湯麵：豬軟骨燉煮至入口即化，湯頭清爽鮮甜，麵條Q彈有嚼勁。\n\n沖繩奧利恩啤酒半價：啤酒，入口輕盈爽快，苦味不明顯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "waikuen16",
+          "uri": "https://www.google.com/maps/contrib/115347408921479617578/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKoOczAlwbbnd7lLTKln_pS-uKd61x8EF8iO0C5dsai_la6=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-15T00:13:35.308905912Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGbGVrazVTMWd5VldKMVJHUnFSRmxvU2xFeFJrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGbGVrazVTMWd5VldKMVJHUnFSRmxvU2xFeFJrRRAB!2m1!1s0x3404011313c878db:0x87996bea71febad9"
+      },
+      {
+        "name": "places/ChIJ23jIExMBBDQR2br-ceprmYc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTmJrOUxkVkIyZVhwcFQxaEpibGhTWlcxTk5WRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "小店座位不多，平日晚上7:30開始人多，播放住日本流行音樂，裝修有特色，很多彩色的海報和燈籠🏮猶如置身日本一樣",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "小店座位不多，平日晚上7:30開始人多，播放住日本流行音樂，裝修有特色，很多彩色的海報和燈籠🏮猶如置身日本一樣",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "黑貓教主†kuronekovo",
+          "uri": "https://www.google.com/maps/contrib/101289846901672296452/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_pi0FEMlSrL6rtspYuBNcpAKvDQFz3T-s4m4BHsK3zHKbGFaz=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-02-25T18:51:49.211573572Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOTmJrOUxkVkIyZVhwcFQxaEpibGhTWlcxTk5WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOTmJrOUxkVkIyZVhwcFQxaEpibGhTWlcxTk5WRRAB!2m1!1s0x3404011313c878db:0x87996bea71febad9"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404011313c878db:0x87996bea71febad9!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9770959521236040409&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404011313c878db:0x87996bea71febad9!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404011313c878db:0x87996bea71febad9!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404011313c878db:0x87996bea71febad9!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ23jIExMBBDQR2br-ceprmYc/photos/Aa-ngMZrjFkmlmIUzsCvNomec_PLfs1kl8fK6eDc-DJsNMZLU65TEFUGCrx92CW8IVG1NfZt7KdEDU4tQaF-VfZPKnlCmPGHnB5MleZv1hjt4Ak08u7Dyl_pbuovkPp0Y_x84txqAG0qzt6fhBkI59EYdfxtq25AZeGFtA3spAWvaAGiodCoceDTK60DaQ0V_Lo3fCfz6MGT_Ksj4Qr-q2iPslXxlhAP2Q7h3M07qgKa6WTqMK1v7hMElWQZUwqeCqTMXaVdHTF0MdsUorWq5ZyjPcvIZxs8nOFxFl-b3X88G_ToYMVb2SjgOUa2ITMZ0A8N5UGu9KYvpZ865fuatzK7niKnaOpZ2Z6HOhYM4065ePUTxi8S1tHZGoqbIZZcRdk8Q1w-e0jfiqJxrj3XPe5XQ_n9YO4",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "Yakitori Kobako",
+          "uri": "https://maps.google.com/maps/contrib/103099499230295741502",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWGpLq449cq2iEk-MfrRy6NXIXjw3NHpxjUrajJg-NCWD4xXo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDAnY7Xag&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAnY7Xag!2e10!4m2!3m1!1s0x3404011313c878db:0x87996bea71febad9"
+    },
+    "local_path": "photos/ChIJ23jIExMBBDQR2br-ceprmYc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLerN2F4ivKJmkEJ3NCxKtB8tyhmohBBkedt5YAw6vL8CD-uQ6_2tzxWNEePKdT0Aw0alcvQlVhoNB8-gTysI4U_iKXoo1GCt-DrM7Cv7d-R7AmhJBNADyH6muTJ1BYGDuTB69_Y=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 111438
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "yakitori_restaurant",
+    "label": "日式串燒餐廳",
+    "types": [
+      "yakitori_restaurant",
+      "japanese_izakaya_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

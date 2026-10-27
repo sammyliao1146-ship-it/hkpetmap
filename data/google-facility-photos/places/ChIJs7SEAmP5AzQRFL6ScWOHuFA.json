@@ -1,0 +1,41 @@
+{
+  "id": "ChIJs7SEAmP5AzQRFL6ScWOHuFA",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界葵涌葵豐街大鴻輝(葵涌)中心第二期地下1號鋪",
+  "location": {
+    "latitude": 22.3555118,
+    "longitude": 114.1253095
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5816547779925949972&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Harvest Veterinary Oncology Centre 豐盈動物腫瘤中心",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJs7SEAmP5AzQRFL6ScWOHuFA/photos/Aa-ngMZ1z_Wu2wggQWUUI6cuqG2UCtpGb-np3bLJkoIWqAonKFuflIAGETVwEHVWDHF8xX11GPOfDblepadOItuC94fHpGOHq82rAMHZ8CV5A88RmRfJzAw35qnfrhbTBeR-FlWG4F1fnjHjBagb5aGYQTG9pYcWlmCLIpvGSSP5hz_Wqy0oBTH7onI9e9Be2IdbjtaCtQIL-GEXauDeSBIyGmcWxsaSrBxDfncg_yq2lVKAL9rVCB936Jyjrx4qua9vEc-Hdkg-4MGTI8NuxRFa7rwreqZIGeY4hOX7jswo3PHAva7wsq24MSrhKBke-1K4rmn-XrP2F7pKmEgjjqYVR8OFweeeCfYDc7cSdH_qx7ga5juqb_OPaXsRB6WX_2SuNh2tGtTcbPlX4N_uteRMNNqs8d_g",
+      "widthPx": 1024,
+      "heightPx": 970,
+      "authorAttributions": [
+        {
+          "displayName": "Harvest Veterinary Oncology Centre 豐盈動物腫瘤中心",
+          "uri": "https://maps.google.com/maps/contrib/114879521805611847601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLiVK9IgTPtrDVD9rVTWSuXXmkFpentZnxz6l6VID1BFTK4ng=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICxodrmkAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxodrmkAE!2e10!4m2!3m1!1s0x3403f9630284b4b3:0x50b887637192be14"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:33.176532+00:00"
+}

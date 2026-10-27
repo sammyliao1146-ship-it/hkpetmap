@@ -1,0 +1,40 @@
+{
+  "id": "ChIJvyJLKysHBDQRL_5huC8vhSg",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "service",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍九龍城城南道32號",
+  "location": {
+    "latitude": 22.3293446,
+    "longitude": 114.19107179999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2919791815423032879&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "柏域獸醫診所",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJvyJLKysHBDQRL_5huC8vhSg/photos/Aa-ngMY4SFhj5B7t7wLlHvWEbLDK5E9uXXhKblAVXTZJt8f-weHVdUKwxRZSVFTqvqDZTtytGKiXlBNaAMy36NCNE9pRbHgljSOmxSxF0xbeQOOaem-HmEeLORqpIKPKU_uc32J17ZPF-_2Dppfdd0RKQD5tYIfJUHdKQoVMw1DUaqeb4VaiKn0A_DMrlYQlajyMIp5j8ldZO81uyDsp1zpto537B3KzxTMebb-uX1827ziiftrwb8w_C1npz48M5iAosmpS_lbKt-Q6SnvdEjEdut8Y_DrrDS2Ux0-J8M0A7LUtIDUJAw2RJfS5eOpYevYjSyTacH212eWkUDJHQRxY-97oTmapzsKaX-eJvG9FgZ3w54bIwXUVoixwlc9xgNRecZOu87ptvZxfeN_1mlVmcGeZljE",
+      "widthPx": 3838,
+      "heightPx": 2874,
+      "authorAttributions": [
+        {
+          "displayName": "Kani Kiwi",
+          "uri": "https://maps.google.com/maps/contrib/110653957806488220212",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVgJ13RLXIhW3OTw8iWTMOVJF1J4q2TwOwn-B5Gz1cAQxr-2ry=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICMwIG6FA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMwIG6FA!2e10!4m2!3m1!1s0x3404072b2b4b22bf:0x28852f2fb861fe2f"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:36.542551+00:00"
+}

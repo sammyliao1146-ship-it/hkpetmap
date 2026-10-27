@@ -1,0 +1,370 @@
+{
+  "google_place_id": "ChIJkafAl2sBBDQR-MPvPelVbw0",
+  "restaurant_ids": [
+    "restaurant:2218819522"
+  ],
+  "fetched_at": "2026-10-23T15:42:00.806538+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJkafAl2sBBDQR-MPvPelVbw0",
+    "types": [
+      "asian_fusion_restaurant",
+      "cocktail_bar",
+      "brunch_restaurant",
+      "fusion_restaurant",
+      "asian_restaurant",
+      "bar",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2796 8666",
+    "internationalPhoneNumber": "+852 2796 8666",
+    "formattedAddress": "G/F, 92 Wellington St, Central, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2828131,
+      "longitude": 114.1545762
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=968086905162810360&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://cooshti.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 00:00",
+        "星期二: 08:00 – 00:00",
+        "星期三: 08:00 – 00:00",
+        "星期四: 08:00 – 00:00",
+        "星期五: 08:00 – 00:00",
+        "星期六: 08:00 – 00:00",
+        "星期日: 08:00 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 152,
+    "displayName": {
+      "text": "Cooshti Central",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "亞洲各國料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "asian_fusion_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJkafAl2sBBDQR-MPvPelVbw0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCVFowcEZMWFYxTkVGM1dXd3dlbVF4TlZWQ1JsRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 3,
+        "text": {
+          "text": "環境舒服 食物普通",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒服 食物普通",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CK M",
+          "uri": "https://www.google.com/maps/contrib/118154130828479509072/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8sgOHIWYYPniza_joU_x1hxJhnss3pwV0hv7gdYjiVBhl9_kj=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-12-13T12:38:57.625776567Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCVFowcEZMWFYxTkVGM1dXd3dlbVF4TlZWQ1JsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCVFowcEZMWFYxTkVGM1dXd3dlbVF4TlZWQ1JsRRAB!2m1!1s0x3404016b97c0a791:0xd6f55e93defc3f8"
+      },
+      {
+        "name": "places/ChIJkafAl2sBBDQR-MPvPelVbw0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWRVJFcDFRbkZhTlVKT09HMTFaR2c0T1VWS1UyYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "生菜天婦羅蝦塔可和龍捲壽司太棒了！ ！他們還送了我們免費甜點，真是太貼心了。特別感謝Sushant，他真的非常友善熱情。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "lettuce tempura prawn taco & dragon sushi roll was amazing!! they also gave us free dessert which was super sweet. Shout out to sushant for being really nice and friendly to us",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Alesha Wong",
+          "uri": "https://www.google.com/maps/contrib/106192729874620373373/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1llVFRI85Az28HR2OIpZOYvs6hq9QcO3D6iPOVjBpUAGYePjS=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-05T16:08:58.567106035Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWRVJFcDFRbkZhTlVKT09HMTFaR2c0T1VWS1UyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWRVJFcDFRbkZhTlVKT09HMTFaR2c0T1VWS1UyYxAB!2m1!1s0x3404016b97c0a791:0xd6f55e93defc3f8"
+      },
+      {
+        "name": "places/ChIJkafAl2sBBDQR-MPvPelVbw0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WeldXcHJSRTFwYUU5MGVHaDFhVU50UVV0VVgwRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "這裡非常熱鬧，外國人和本地人都經常光顧。氣氛輕鬆愜意，音樂歡快，氣氛極佳。服務員非常周到，食物也非常好吃。我非常喜歡這裡，下次來香港還會再來。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "A very busy place, frequented by foreigners and locals alike. A charming and relaxing atmosphere,  with upbeat music and really good vibe. The staff are very attentive and the food was extremely good. Really enjoyed it and will return on my next visit to HK",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "SA 71",
+          "uri": "https://www.google.com/maps/contrib/110468369600027203226/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFzKFA7yVEwn8t0QBgHhz5-c1WHsYc_OX3BAA7muwHQk0bf6YIOA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-19T15:19:41.002362510Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WeldXcHJSRTFwYUU5MGVHaDFhVU50UVV0VVgwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WeldXcHJSRTFwYUU5MGVHaDFhVU50UVV0VVgwRRAB!2m1!1s0x3404016b97c0a791:0xd6f55e93defc3f8"
+      },
+      {
+        "name": "places/ChIJkafAl2sBBDQR-MPvPelVbw0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rMlNHMTVjbEkwU0Voa2RsRTRkVmgyZW10Q1VXYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這裡是聚會的好地方。氣氛好，食物好吃，服務也好。他們非常熱情周到，員工也很友善。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Great place for a get together.  Good vibes good food good service.  They are also very accommodating and the staff are very friendly.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Lavina Daswani",
+          "uri": "https://www.google.com/maps/contrib/113953717331328292556/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUDwpIXKPGqoavmKtAXDhQRQu9MeBVwTJiHFJWpndZgXAJULA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-07-20T00:17:38.684994835Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rMlNHMTVjbEkwU0Voa2RsRTRkVmgyZW10Q1VXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rMlNHMTVjbEkwU0Voa2RsRTRkVmgyZW10Q1VXYxAB!2m1!1s0x3404016b97c0a791:0xd6f55e93defc3f8"
+      },
+      {
+        "name": "places/ChIJkafAl2sBBDQR-MPvPelVbw0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSNlFscFllbmRzWjFoYVJVVlJRM0ZXTjFGck1IYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "We were in for a much awaited catch up and was graciously hosted by our friend Marj. She suggested Cooshti as this has been their regular ‘go to’ after zumba.\n\nWow, we were blown away…..Best value delicious and healthy set lunch in Central, HK. That is what we found out. We had the prawn red curry with rice and roti, beef cheeks with mashed potato and creamy chicken mushroom pasta, preceded with beet root salad and salmon fish cake.\n\nPrawns were plump and fresh, pasta is al dente and the beef cheeks so tender.\n\nThe salad had the perfect balance of a light vinaigrette dressing with pomegranate and feta cheese. So healthy and tasty ….we cannot believe how we finished the big portion!\n\nTo top it off, our sweet hostess Janice (apologies if I got her name wrong) she has the most unforgettable enthusiasm and charisma to the customers that even if all else fails, we would come back to this ever so popular spot in Central. Thank you Cooshti!!!! And thank you Marj!",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "We were in for a much awaited catch up and was graciously hosted by our friend Marj. She suggested Cooshti as this has been their regular ‘go to’ after zumba.\n\nWow, we were blown away…..Best value delicious and healthy set lunch in Central, HK. That is what we found out. We had the prawn red curry with rice and roti, beef cheeks with mashed potato and creamy chicken mushroom pasta, preceded with beet root salad and salmon fish cake.\n\nPrawns were plump and fresh, pasta is al dente and the beef cheeks so tender.\n\nThe salad had the perfect balance of a light vinaigrette dressing with pomegranate and feta cheese. So healthy and tasty ….we cannot believe how we finished the big portion!\n\nTo top it off, our sweet hostess Janice (apologies if I got her name wrong) she has the most unforgettable enthusiasm and charisma to the customers that even if all else fails, we would come back to this ever so popular spot in Central. Thank you Cooshti!!!! And thank you Marj!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Rowena Berroya",
+          "uri": "https://www.google.com/maps/contrib/117608263365304187259/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGEKMwHUaJlhAp2POkcm9kzdOkYsVJJht1pb6JSJfTOqUR2XQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-06T18:03:36.894027359Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSNlFscFllbmRzWjFoYVJVVlJRM0ZXTjFGck1IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSNlFscFllbmRzWjFoYVJVVlJRM0ZXTjFGck1IYxAB!2m1!1s0x3404016b97c0a791:0xd6f55e93defc3f8"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": false,
+      "paidParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": true,
+      "freeGarageParking": false,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404016b97c0a791:0xd6f55e93defc3f8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=968086905162810360&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404016b97c0a791:0xd6f55e93defc3f8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404016b97c0a791:0xd6f55e93defc3f8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404016b97c0a791:0xd6f55e93defc3f8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJkafAl2sBBDQR-MPvPelVbw0/photos/Aa-ngMbUwjaJVrKBi2ZVxFlDaboi_So8dc56GKxeeY_3F807T1jop1GlxoG0AHpd8Cq7JUPgE9-N33QJ7EJ_GY1Otm4UXXNhPYJqm6OEFVDDI-QYKA2o1UbmfWW3Yl7BNg1yT8KSlMzHgvuuvoVay8aUxmnVGSQrGWmzyAUf6Es2Pc7BrEqQaJEPzmOoizyMBGJRd_tI8EJBrOyzs0QgMGHDCmAF809j0eHObPpQE47K9BCea9Umi61URUEHv2kr5b7MwvbfXuXbCofNsh8RUplOVsaIYG7XGJ8pKTbRku46KOm-Tx9vf9c3RRvoTrN7jCLNamSNxc8v-s_64Yduie30Py_E6lGs7iSuvM4RklzYZZ2HnLu5IT5uUZYdfPf0HeoTPLpctnK4Nl9fQ7l55Am6Rx_V-ix-l94",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Cooshti Central",
+          "uri": "https://maps.google.com/maps/contrib/105037781698550901173",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_eQUodZ1ckul5qkt8GKfHNk0xtNq7TnV3ajyM9klkKSbS2y8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_jIWNzAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_jIWNzAE!2e10!4m2!3m1!1s0x3404016b97c0a791:0xd6f55e93defc3f8"
+    },
+    "local_path": "photos/ChIJkafAl2sBBDQR-MPvPelVbw0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoJj-xJGYZV-JhN7hJLfGviAaz9WXtWKuACK2ddiU4BJEI0c2LQ0V4YAgzdH_3teiY3m_J8Ww9W8JmHridxBVoRsmlRJDaZfhdRJDosyQltTU8SzQEYB8omHW4U38jiKAGb2nn7Q=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 179049
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.cooshti.hk/booking-locations",
+        "label": "BOOK NOW",
+        "source_url": "https://www.cooshti.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.cooshti.hk/a-la-carte",
+        "label": "A LA CARTE",
+        "source_url": "https://www.cooshti.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "asian_fusion_restaurant",
+    "label": "亞洲各國料理餐廳",
+    "types": [
+      "asian_fusion_restaurant",
+      "cocktail_bar",
+      "brunch_restaurant",
+      "fusion_restaurant",
+      "asian_restaurant",
+      "bar",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.cooshti.hk/booking-locations",
+  "menu_url": "https://www.cooshti.hk/a-la-carte"
+}

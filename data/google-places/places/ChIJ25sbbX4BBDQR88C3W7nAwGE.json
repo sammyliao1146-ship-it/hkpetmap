@@ -1,0 +1,368 @@
+{
+  "google_place_id": "ChIJ25sbbX4BBDQR88C3W7nAwGE",
+  "restaurant_ids": [
+    "restaurant:2211809957",
+    "restaurant:2211811741"
+  ],
+  "fetched_at": "2026-10-23T15:45:10.562643+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ25sbbX4BBDQR88C3W7nAwGE",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3896 9896",
+    "internationalPhoneNumber": "+852 3896 9896",
+    "formattedAddress": "2/F, 香港維港凱悅尚萃酒店 West Tower, 1 North Point Estate Ln, North Point, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.292847599999998,
+      "longitude": 114.1989105
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=7043841719547707635&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.hyatt.com/hyatt-centric/en-US/hkgct-hyatt-centric-victoria-harbour-hong-kong/dining/one-duck-lane",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 12:00 – 15:00, 18:00 – 22:00",
+        "星期三: 12:00 – 15:00, 18:00 – 22:00",
+        "星期四: 12:00 – 15:00, 18:00 – 22:00",
+        "星期五: 12:00 – 15:00, 18:00 – 22:00",
+        "星期六: 12:00 – 15:00, 18:00 – 22:00",
+        "星期日: 12:00 – 15:00, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 126,
+    "displayName": {
+      "text": "尚萃軒",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ25sbbX4BBDQR88C3W7nAwGE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGU1RHcEVjVXBWT0cxVWFGbE1VV2xJVEVGcVJGRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "愜意黃昏@尚萃軒\n\n近來車爸爸收早所以多了不少時間去拍拖吃晚餐！上星期我倆更相若夕陽下撐檯腳品嚐中菜。\n\n地點選在位於北角香港維港凱悅尚萃酒店內的尚萃軒！坐擁維港海景的靚景中餐廳，內裏裝潢富現代氛圍感覺優雅舒適。\n\n甫踏進餐廳脹卜卜的招牌京式明爐烤鴨已經向我們揮手！這天亦是衝著牠們而來所以非常期待。\n\n特意預訂黃昏時間入座可以好好欣賞Magic Hour，倘大的落地玻璃窗應記一功。\n\n茉莉花氣泡茶$75！見到有我喜歡的氣泡茶當然要點來品嚐，選了清香撲鼻的茉莉花氣泡茶，甜度恰好帶幽幽花香味道非常醉人。\n\n鹹檸檬青檸梳打$70！車爸爸選的鹹檸檬青檸梳打鹹度有勁非常下火呢。\n\n餐廳由本地星級總廚陳偉傑師傅領銜主理，可惜這天未見到Chef Jack本尊有緣無份啊！這夜選上招牌晚市套餐$888/位來品嚐！打頭陣前菜拼盤有魚子醬花雕冰鎮鮮鮑魚、蜜汁叉燒皇及話梅漬番茄。\n\n話梅漬番茄超入味吃下酸酸甜甜非常開胃。\n\n魚子醬花雕冰鎮鮮鮑魚！充滿酒香的花雕鮑魚口感煙靭，綴以魚子醬及金箔徒添矜貴賣相。\n\n蜜汁叉燒皇！叉燒口感軟腍蜜味香濃不錯吃的。\n\n吃過前菜之後我心心念念的京式明爐烤鴨$448/半隻亦已來到我們面前！由經驗豐富的師傅即時為我們表演片鴨。\n\n不消一會師傅片出了鴨胸皮、胸肉及腿肉，連同青瓜、京蔥、蒜蓉醬、甜麵醬及一籠熱辣辣的嬤嬤皮全套上檯。\n\n我們更額外加$48配上黑松露鴨肝醬，期待吃出不一樣的京式烤鴨。\n\n嬤嬤皮韌到十足入口好煙靭！鴨胸皮超級肥美油潤，配搭片皮鴨醬吃帶出甜美滋味。\n\n如果比較偏向喜歡鹹口味道就非常建議大家配襯黑松露鴨肝醬來品嚐，鹹香惹味令片皮鴨吃下份外甘香誘人。\n\n這一刻太陽亦已日落西山華燈初起，北角海旁的氣氛亦相當熱鬧有跑步的、跳舞的亦有遛狗的，大家也盡情享受舒適的黃昏超愜意耶。\n\n此刻我們繼續投入套餐的懷抱！珊瑚嫩蛋乳龍蝦用上蛋香突顯海鮮的鮮甜味道。\n\n滑溜勝雪的蒸水蛋口感細嫩，脆口清甜的乳龍蝦為菜式帶來鮮味，還有橙紅色甘香蝦膏口感非常豐腴超迷人。\n\n花膠椰皇雪蓮子燉鮮螺頭！湯頭勁鮮甜絕對是螺頭及椰皇的功勞，內裏還有煙靭的雪蓮子及軟滑養顏花膠，這口燉湯材料十足味道香濃如何可以不愛它。\n\n薑蔥蓉煎焗銀鱈魚！銀鱈魚煎得非常香口肉質是當然的嫩滑，配搭薑蔥蓉令香氣更加昇華，墊底的料頭亦是功不可沒之物。\n\n黑虎掌菌慢煮牛肋肉！牛肋肉口感香軟迷人，濃郁的黑虎掌菌香味十足，為牛肋肉帶來獨特的香氣。\n\n濃湯竹笙蝦乾娃娃菜！這口濃湯真的超級香甜好喝，索滿濃湯的竹笙及娃娃菜味道迷人至極，好吃得我倆也一滴不留非常精彩。\n\n鴨湯泡飯$268！內裏包括有鴨肉粒、本菇、海參及竹笙非常豐富，吃前加入炸得香口的脆米，這口泡飯充滿鴨肉香味口感跟味道也至高無上。\n\n甜品薈萃包括有生磨開心果露、酥皮鴨蛋撻及手工芝麻卷，三款也非常有水準味道相當出色。\n\n生磨開心果露！擁有濃郁的果仁香氣吃罷齒頰留香，加上滑溜的質感每口也是幸福的甜蜜味道。\n\n酥皮鴨蛋撻！這麼大個女還是第一次吃鴨蛋撻，鴨蛋的香氣比雞蛋更加明顯好吸引，加上酥皮撻底做得相當香口這個鴨蛋撻真的驚艷到我。\n\n手工芝麻卷！口感超級爽滑充滿濃郁的芝麻香氣，絕對是一件不可多得的甜點是必定要吃的。\n\n即日起至8月31日於酒店官方網站訂座，即可享逢星期一至四限時單點食品85折優惠抵食好多喔。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "愜意黃昏@尚萃軒\n\n近來車爸爸收早所以多了不少時間去拍拖吃晚餐！上星期我倆更相若夕陽下撐檯腳品嚐中菜。\n\n地點選在位於北角香港維港凱悅尚萃酒店內的尚萃軒！坐擁維港海景的靚景中餐廳，內裏裝潢富現代氛圍感覺優雅舒適。\n\n甫踏進餐廳脹卜卜的招牌京式明爐烤鴨已經向我們揮手！這天亦是衝著牠們而來所以非常期待。\n\n特意預訂黃昏時間入座可以好好欣賞Magic Hour，倘大的落地玻璃窗應記一功。\n\n茉莉花氣泡茶$75！見到有我喜歡的氣泡茶當然要點來品嚐，選了清香撲鼻的茉莉花氣泡茶，甜度恰好帶幽幽花香味道非常醉人。\n\n鹹檸檬青檸梳打$70！車爸爸選的鹹檸檬青檸梳打鹹度有勁非常下火呢。\n\n餐廳由本地星級總廚陳偉傑師傅領銜主理，可惜這天未見到Chef Jack本尊有緣無份啊！這夜選上招牌晚市套餐$888/位來品嚐！打頭陣前菜拼盤有魚子醬花雕冰鎮鮮鮑魚、蜜汁叉燒皇及話梅漬番茄。\n\n話梅漬番茄超入味吃下酸酸甜甜非常開胃。\n\n魚子醬花雕冰鎮鮮鮑魚！充滿酒香的花雕鮑魚口感煙靭，綴以魚子醬及金箔徒添矜貴賣相。\n\n蜜汁叉燒皇！叉燒口感軟腍蜜味香濃不錯吃的。\n\n吃過前菜之後我心心念念的京式明爐烤鴨$448/半隻亦已來到我們面前！由經驗豐富的師傅即時為我們表演片鴨。\n\n不消一會師傅片出了鴨胸皮、胸肉及腿肉，連同青瓜、京蔥、蒜蓉醬、甜麵醬及一籠熱辣辣的嬤嬤皮全套上檯。\n\n我們更額外加$48配上黑松露鴨肝醬，期待吃出不一樣的京式烤鴨。\n\n嬤嬤皮韌到十足入口好煙靭！鴨胸皮超級肥美油潤，配搭片皮鴨醬吃帶出甜美滋味。\n\n如果比較偏向喜歡鹹口味道就非常建議大家配襯黑松露鴨肝醬來品嚐，鹹香惹味令片皮鴨吃下份外甘香誘人。\n\n這一刻太陽亦已日落西山華燈初起，北角海旁的氣氛亦相當熱鬧有跑步的、跳舞的亦有遛狗的，大家也盡情享受舒適的黃昏超愜意耶。\n\n此刻我們繼續投入套餐的懷抱！珊瑚嫩蛋乳龍蝦用上蛋香突顯海鮮的鮮甜味道。\n\n滑溜勝雪的蒸水蛋口感細嫩，脆口清甜的乳龍蝦為菜式帶來鮮味，還有橙紅色甘香蝦膏口感非常豐腴超迷人。\n\n花膠椰皇雪蓮子燉鮮螺頭！湯頭勁鮮甜絕對是螺頭及椰皇的功勞，內裏還有煙靭的雪蓮子及軟滑養顏花膠，這口燉湯材料十足味道香濃如何可以不愛它。\n\n薑蔥蓉煎焗銀鱈魚！銀鱈魚煎得非常香口肉質是當然的嫩滑，配搭薑蔥蓉令香氣更加昇華，墊底的料頭亦是功不可沒之物。\n\n黑虎掌菌慢煮牛肋肉！牛肋肉口感香軟迷人，濃郁的黑虎掌菌香味十足，為牛肋肉帶來獨特的香氣。\n\n濃湯竹笙蝦乾娃娃菜！這口濃湯真的超級香甜好喝，索滿濃湯的竹笙及娃娃菜味道迷人至極，好吃得我倆也一滴不留非常精彩。\n\n鴨湯泡飯$268！內裏包括有鴨肉粒、本菇、海參及竹笙非常豐富，吃前加入炸得香口的脆米，這口泡飯充滿鴨肉香味口感跟味道也至高無上。\n\n甜品薈萃包括有生磨開心果露、酥皮鴨蛋撻及手工芝麻卷，三款也非常有水準味道相當出色。\n\n生磨開心果露！擁有濃郁的果仁香氣吃罷齒頰留香，加上滑溜的質感每口也是幸福的甜蜜味道。\n\n酥皮鴨蛋撻！這麼大個女還是第一次吃鴨蛋撻，鴨蛋的香氣比雞蛋更加明顯好吸引，加上酥皮撻底做得相當香口這個鴨蛋撻真的驚艷到我。\n\n手工芝麻卷！口感超級爽滑充滿濃郁的芝麻香氣，絕對是一件不可多得的甜點是必定要吃的。\n\n即日起至8月31日於酒店官方網站訂座，即可享逢星期一至四限時單點食品85折優惠抵食好多喔。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "車媽媽",
+          "uri": "https://www.google.com/maps/contrib/116410476274153352491/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTI50EAcmMeDP8gxv6hWHbIxHzJgu0QqGFgg5gQbq52fucrPc=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-08-02T16:15:27.792289923Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGU1RHcEVjVXBWT0cxVWFGbE1VV2xJVEVGcVJGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGU1RHcEVjVXBWT0cxVWFGbE1VV2xJVEVGcVJGRRAB!2m1!1s0x3404017e6d1b9bdb:0x61c0c0b95bb7c0f3"
+      },
+      {
+        "name": "places/ChIJ25sbbX4BBDQR88C3W7nAwGE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFNFRqWTRjaTFwTFZCUVYzcGtiakJtWkhCM1ExRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "🥢 北角維港海景高級中菜👍🏻全新開幕「尚萃軒」精緻午市饗宴 🇭🇰✨\n\n📍北角 Hyatt Centric 2樓全新登場嘅 尚萃軒 絕對係打卡聚餐首選✴️由星級總廚陳偉傑師傅主理 👨🏻‍🍳全景落地玻璃窗飽覽超迷人維港海景 🌊環境優雅閒適。\n\n今次去試咗 雙人午市套餐連招牌京式明爐烤鴨，道道菜都極具水準✨\n\n🦆 宮廷級經典：京式明爐烤鴨（半隻）\n傳承數百年皇家工藝！師傅即切香脆鴨胸皮、嫩滑胸肉同腿肉 ✂️配埋薄餅、青瓜、京蔥、蒜蓉醬同甜麵醬 🫓一口咬下脂香四溢！加多 $48 仲有超奢華嘅 黑松露鴨肝醬 抹餅，滋味層次瞬間爆發 🤤\n\n🍱 精緻午市套餐\n🥢 前菜拼盤\n一次過試齊蜜香濃郁嘅「蜜汁叉燒皇」、皮脆肉嫩嘅「冰燒三層肉」同爽口開胃嘅「陳醋脆海蜇」\n\n🥣 老火靚湯\n真材實料滋補燉湯，湯底鮮甜濃郁，暖胃又潤燥\n\n🦐 貴妃生汁芝麻蝦\n大蝦爽口彈牙，裹滿酸甜生汁同香口芝麻，超惹味\n\n🐟 蔥燒銀鱈魚\n銀鱈魚肉質極致嫩滑，煎至外香內軟，蔥香四溢\n\n🦀 桂花金瑤柱蟹肉炒米粉\n米粉炒得乾身夠鍋氣，滿滿鮮甜蟹肉同香口瑤柱，乾爽不油膩\n\n🥭 香芒楊枝甘露\n芒香濃郁、酸甜清爽，每一口都咬到滿滿果肉\n\n🖤 手工芝麻卷\n懷舊黑芝麻卷軟糯香濃，芝麻香喺口中久久不散\n\n💡 限定優惠\n現經官方網站訂座，逢星期一至四即可享 限時單點食品 85 折！無論係家庭聚會定商務約會都非常適合🥂✨\n\n快啲 Tag 身邊嘅中菜控，一齊去尚萃軒品嚐皇家級烤鴨🎈🎈\n\n尚萃軒✨\n📍北角北角邨里1號香港維港凱悅尚萃酒店西座2樓\n\n#尚萃軒 #香港維港凱悅尚萃酒店 #北角美食 #維港海景 #京式明爐烤鴨",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🥢 北角維港海景高級中菜👍🏻全新開幕「尚萃軒」精緻午市饗宴 🇭🇰✨\n\n📍北角 Hyatt Centric 2樓全新登場嘅 尚萃軒 絕對係打卡聚餐首選✴️由星級總廚陳偉傑師傅主理 👨🏻‍🍳全景落地玻璃窗飽覽超迷人維港海景 🌊環境優雅閒適。\n\n今次去試咗 雙人午市套餐連招牌京式明爐烤鴨，道道菜都極具水準✨\n\n🦆 宮廷級經典：京式明爐烤鴨（半隻）\n傳承數百年皇家工藝！師傅即切香脆鴨胸皮、嫩滑胸肉同腿肉 ✂️配埋薄餅、青瓜、京蔥、蒜蓉醬同甜麵醬 🫓一口咬下脂香四溢！加多 $48 仲有超奢華嘅 黑松露鴨肝醬 抹餅，滋味層次瞬間爆發 🤤\n\n🍱 精緻午市套餐\n🥢 前菜拼盤\n一次過試齊蜜香濃郁嘅「蜜汁叉燒皇」、皮脆肉嫩嘅「冰燒三層肉」同爽口開胃嘅「陳醋脆海蜇」\n\n🥣 老火靚湯\n真材實料滋補燉湯，湯底鮮甜濃郁，暖胃又潤燥\n\n🦐 貴妃生汁芝麻蝦\n大蝦爽口彈牙，裹滿酸甜生汁同香口芝麻，超惹味\n\n🐟 蔥燒銀鱈魚\n銀鱈魚肉質極致嫩滑，煎至外香內軟，蔥香四溢\n\n🦀 桂花金瑤柱蟹肉炒米粉\n米粉炒得乾身夠鍋氣，滿滿鮮甜蟹肉同香口瑤柱，乾爽不油膩\n\n🥭 香芒楊枝甘露\n芒香濃郁、酸甜清爽，每一口都咬到滿滿果肉\n\n🖤 手工芝麻卷\n懷舊黑芝麻卷軟糯香濃，芝麻香喺口中久久不散\n\n💡 限定優惠\n現經官方網站訂座，逢星期一至四即可享 限時單點食品 85 折！無論係家庭聚會定商務約會都非常適合🥂✨\n\n快啲 Tag 身邊嘅中菜控，一齊去尚萃軒品嚐皇家級烤鴨🎈🎈\n\n尚萃軒✨\n📍北角北角邨里1號香港維港凱悅尚萃酒店西座2樓\n\n#尚萃軒 #香港維港凱悅尚萃酒店 #北角美食 #維港海景 #京式明爐烤鴨",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Heimen",
+          "uri": "https://www.google.com/maps/contrib/114222779931583863767/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUa95XAz5FrjZPRsb8JyhS-mTvDHVQ3OnWPWzNeUQWqbQEfKcA8kQ=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-08-13T01:50:56.552935152Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xFNFRqWTRjaTFwTFZCUVYzcGtiakJtWkhCM1ExRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFNFRqWTRjaTFwTFZCUVYzcGtiakJtWkhCM1ExRRAB!2m1!1s0x3404017e6d1b9bdb:0x61c0c0b95bb7c0f3"
+      },
+      {
+        "name": "places/ChIJ25sbbX4BBDQR88C3W7nAwGE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4NFNYZFFSbTlJU0d4cE1WOXBibGszU0VGcldFRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "維港景致精緻中菜 尚萃軒\n在尚萃軒，吃一頓有風景的京式烤鴨\n\n有時候，一頓飯之所以難忘，不只是味道，而是那一刻的光線、空氣，還有心情。\n\n餐廳設計是我喜歡的那種現代中式：有線條感，但不張揚。復古格柵天花、帶紋理的雲石桌面，配上低調的藍調座椅，再加上桌上一盞暖暖的小燈，氣氛剛剛好，不需要刻意營造，也自然有種從容。\n\n這天傍晚來到北角海傍的維港凱悅尚萃酒店，走進尚萃軒還未坐下，已經被眼前那片維港景色吸引住，落地大玻璃把海面和天色拉進室內，剛好遇上日落，整個空間都被一層柔和的金色包圍。\n\n坐下後，先來一壺石斛麥冬茶。\n\n茶壺放在小火爐上慢慢保著溫度。倒進雙層玻璃杯，顏色很淡，帶一點點金。入口清潤，不苦不澀，尾韻有輕輕的回甘。這種茶很適合在正式開餐前喝一點，好像替味蕾做了一個溫柔的準備。\n\n前菜是幾款小食，簡單卻不馬虎。\n琥珀核桃和黑椒腰果做得很乾淨，糖衣薄薄一層，不黏牙，香脆而帶點芝麻/黑椒香氣和淡淡甜味。\n\n香炸銀魚則完全是另一種節奏——酥、鹹、輕盈，很容易一口接一口。旁邊配了幾款醬料，分別是自家製辣椒醬、豆瓣醬、XO醬，為之後的菜式預留了更多變化。\n\n京式明爐烤鴨套餐(兩位)\nPEKING DUCK SET MENU FOR TWO PERSONS\nHK$1488\n京式明爐烤鴨(半隻)\nSignature Roasted Peking Duck (Half)\n(需時75分鐘 preparation time: 75 minutes)\n花膠帶子酸辣羹\nHot and Sour Soup, Shredded Fish Maw, Scallop\n羅勒金蒜炒蝦球\nWok Fried Prawn, Glass Noodle, Garlic, Basil\n醬爆銀鱈魚\nDeep Fried Silver Cod Fillet, Hot and Sour Sauce\n京蔥炒蒙古羊仔柳\nWok Fried Mongolian Lamb Fillet, Scallion\n濃湯竹笙大根萵筍\nPoached Bamboo Pith, Daikon Radish, Celtuce, Superior Broth\n甜品薈萃\n楊枝甘露，酥皮鴨蛋撻，手工芝麻卷\nDessert Platter -\nChilled Mango Cream, Pomelo, Sago\nFreshly Baked Flaky Crust Duck Egg Tart\nHousemade Sesame Roll, Toasted Sesame Seed\n\n首先上桌的花膠帶子酸辣羹，是一種比較「暖」的存在。\n\n湯身濃而不重，酸和辣都收得很好，不會搶味。花膠有質感，帶子則很甜。既醒胃又暖身，在品嚐烤鴨前來一碗這樣的湯，開始這一場豐盛的味覺之旅。\n\n喝完湯沒多久，主角京式明爐烤鴨就來了。\n\n先來的是鴨腿皮，脆厚的鴨腿皮蘸上砂糖，入口即溶，鬆化而不油膩。\n\n較特別的是這個特製的黑松露鴨肝醬，黑松露香氣配上肝醬油潤口感，非常滋味。用來配搭餅皮替代甜麵醬，放上鴨肉、青瓜絲及大蔥絲食用，別有一番風味。\n\n鴨背皮、鴨腿肉\n上桌時那層金黃色的鴨背皮已經很吸引，夾起來仍然帶著微微的光澤。入口時那一下清脆，是很直接的滿足；油脂在口中慢慢化開，但不會覺得膩。鴨腿肉保留了水分，柔軟中帶一點點結實。\n\n配上甜麵醬、京蔥和青瓜，用薄餅包好，一口咬下去，是層次很完整的味道——鹹、甜、脆、香，全部剛好。\n\n蝦球配金蒜和羅勒，是比較有驚喜的一道。蒜香很濃，但羅勒帶來一點清新的轉折，底下的粉絲吸滿醬汁，反而成了最讓人記住的部分。\n\n銀鱈魚是那種外脆內嫩的做法。\n外層酥香，裡面還是柔軟的魚肉，加上一點酸甜醬汁，味道比較明確，但不會過重，屬於容易讓人接受的一道。\n\n另一道京蔥炒蒙古羊仔柳則偏向經典路線，羊肉軟嫩，羶香十足，配上炒到帶甜的京蔥，吃來很舒服。\n\n後段來了一道濃湯竹笙大根萵筍。\n在一連串較濃味的菜之後，這道菜顯得特別溫和。竹笙吸滿湯汁，大根清甜，萵筍帶點爽脆。整體很輕，但不單薄，像是一個讓人慢慢放鬆下來的過渡。\n\n最後是甜品拼盤。\n楊枝甘露很清爽，芒果味自然，不會過甜；鴨蛋撻反而是小驚喜，蛋香比平常更濃，配上鬆化的酥皮，剛出爐時特別好吃；芝麻卷則是熟悉的味道，柔軟、香濃，作為結尾很剛好。\n\n整頓飯吃下來，其實最深刻的不只是某一道菜，而是那種節奏——由清淡到濃郁，再慢慢回到溫和與甜。\n\n再加上窗外的海、慢慢變暗的天色，和桌上那盞一直亮著的小燈。\n\n有些晚餐，是用來填飽肚子的；有些，是用來記住一個晚上。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "維港景致精緻中菜 尚萃軒\n在尚萃軒，吃一頓有風景的京式烤鴨\n\n有時候，一頓飯之所以難忘，不只是味道，而是那一刻的光線、空氣，還有心情。\n\n餐廳設計是我喜歡的那種現代中式：有線條感，但不張揚。復古格柵天花、帶紋理的雲石桌面，配上低調的藍調座椅，再加上桌上一盞暖暖的小燈，氣氛剛剛好，不需要刻意營造，也自然有種從容。\n\n這天傍晚來到北角海傍的維港凱悅尚萃酒店，走進尚萃軒還未坐下，已經被眼前那片維港景色吸引住，落地大玻璃把海面和天色拉進室內，剛好遇上日落，整個空間都被一層柔和的金色包圍。\n\n坐下後，先來一壺石斛麥冬茶。\n\n茶壺放在小火爐上慢慢保著溫度。倒進雙層玻璃杯，顏色很淡，帶一點點金。入口清潤，不苦不澀，尾韻有輕輕的回甘。這種茶很適合在正式開餐前喝一點，好像替味蕾做了一個溫柔的準備。\n\n前菜是幾款小食，簡單卻不馬虎。\n琥珀核桃和黑椒腰果做得很乾淨，糖衣薄薄一層，不黏牙，香脆而帶點芝麻/黑椒香氣和淡淡甜味。\n\n香炸銀魚則完全是另一種節奏——酥、鹹、輕盈，很容易一口接一口。旁邊配了幾款醬料，分別是自家製辣椒醬、豆瓣醬、XO醬，為之後的菜式預留了更多變化。\n\n京式明爐烤鴨套餐(兩位)\nPEKING DUCK SET MENU FOR TWO PERSONS\nHK$1488\n京式明爐烤鴨(半隻)\nSignature Roasted Peking Duck (Half)\n(需時75分鐘 preparation time: 75 minutes)\n花膠帶子酸辣羹\nHot and Sour Soup, Shredded Fish Maw, Scallop\n羅勒金蒜炒蝦球\nWok Fried Prawn, Glass Noodle, Garlic, Basil\n醬爆銀鱈魚\nDeep Fried Silver Cod Fillet, Hot and Sour Sauce\n京蔥炒蒙古羊仔柳\nWok Fried Mongolian Lamb Fillet, Scallion\n濃湯竹笙大根萵筍\nPoached Bamboo Pith, Daikon Radish, Celtuce, Superior Broth\n甜品薈萃\n楊枝甘露，酥皮鴨蛋撻，手工芝麻卷\nDessert Platter -\nChilled Mango Cream, Pomelo, Sago\nFreshly Baked Flaky Crust Duck Egg Tart\nHousemade Sesame Roll, Toasted Sesame Seed\n\n首先上桌的花膠帶子酸辣羹，是一種比較「暖」的存在。\n\n湯身濃而不重，酸和辣都收得很好，不會搶味。花膠有質感，帶子則很甜。既醒胃又暖身，在品嚐烤鴨前來一碗這樣的湯，開始這一場豐盛的味覺之旅。\n\n喝完湯沒多久，主角京式明爐烤鴨就來了。\n\n先來的是鴨腿皮，脆厚的鴨腿皮蘸上砂糖，入口即溶，鬆化而不油膩。\n\n較特別的是這個特製的黑松露鴨肝醬，黑松露香氣配上肝醬油潤口感，非常滋味。用來配搭餅皮替代甜麵醬，放上鴨肉、青瓜絲及大蔥絲食用，別有一番風味。\n\n鴨背皮、鴨腿肉\n上桌時那層金黃色的鴨背皮已經很吸引，夾起來仍然帶著微微的光澤。入口時那一下清脆，是很直接的滿足；油脂在口中慢慢化開，但不會覺得膩。鴨腿肉保留了水分，柔軟中帶一點點結實。\n\n配上甜麵醬、京蔥和青瓜，用薄餅包好，一口咬下去，是層次很完整的味道——鹹、甜、脆、香，全部剛好。\n\n蝦球配金蒜和羅勒，是比較有驚喜的一道。蒜香很濃，但羅勒帶來一點清新的轉折，底下的粉絲吸滿醬汁，反而成了最讓人記住的部分。\n\n銀鱈魚是那種外脆內嫩的做法。\n外層酥香，裡面還是柔軟的魚肉，加上一點酸甜醬汁，味道比較明確，但不會過重，屬於容易讓人接受的一道。\n\n另一道京蔥炒蒙古羊仔柳則偏向經典路線，羊肉軟嫩，羶香十足，配上炒到帶甜的京蔥，吃來很舒服。\n\n後段來了一道濃湯竹笙大根萵筍。\n在一連串較濃味的菜之後，這道菜顯得特別溫和。竹笙吸滿湯汁，大根清甜，萵筍帶點爽脆。整體很輕，但不單薄，像是一個讓人慢慢放鬆下來的過渡。\n\n最後是甜品拼盤。\n楊枝甘露很清爽，芒果味自然，不會過甜；鴨蛋撻反而是小驚喜，蛋香比平常更濃，配上鬆化的酥皮，剛出爐時特別好吃；芝麻卷則是熟悉的味道，柔軟、香濃，作為結尾很剛好。\n\n整頓飯吃下來，其實最深刻的不只是某一道菜，而是那種節奏——由清淡到濃郁，再慢慢回到溫和與甜。\n\n再加上窗外的海、慢慢變暗的天色，和桌上那盞一直亮著的小燈。\n\n有些晚餐，是用來填飽肚子的；有些，是用來記住一個晚上。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "K Kerry (K'sSL)",
+          "uri": "https://www.google.com/maps/contrib/107900404934231904579/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoiZcppPA06bBSUyuQHoNppGm7XjC-20kQpaVjbRpH49qE9V-WlA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-06T14:30:33.497446379Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4NFNYZFFSbTlJU0d4cE1WOXBibGszU0VGcldFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4NFNYZFFSbTlJU0d4cE1WOXBibGszU0VGcldFRRAB!2m1!1s0x3404017e6d1b9bdb:0x61c0c0b95bb7c0f3"
+      },
+      {
+        "name": "places/ChIJ25sbbX4BBDQR88C3W7nAwGE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJek5WZERkME5VU1RkdVREUktkRTlCV1VWMFYzYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今次嚟到北角 Hyatt Centric Victoria Harbour Hong Kong 入面嘅 One Duck Lane，本身以為只係一餐普通酒店中菜，點知食完真係差啲要喺枱邊喊出嚟——唔係傷心，係滿足到個胃同個靈魂一齊鼓掌嗰種喊。🥹🦆\n\n餐廳環境好舒服，唔係嗰種坐低即刻覺得自己要細聲講嘢嘅壓力型高級餐廳，而係有質感、夠靚、又唔會令人拘謹。地方寬敞，裝修有現代中菜館感覺，約會、家庭飯、朋友聚餐，甚至請屋企人食餐好少少都好適合。最重要係坐得舒服，食飯唔使同隔離枱上演「大家都聽到大家人生故事」系列。\n\n講到食物，整體真係有驚喜。菜式擺盤精緻，但唔係得個樣，味道係有料到。烤鴨絕對係重點之一，皮香脆、肉質嫩滑，油香夠但唔會膩，食落有種「我可以再食多幾件，但我又要扮矜持」嘅掙扎。點埋醬同配料一齊食，層次即刻升級，個口感豐富到好似開咗個小型美食派對。\n\n其他中菜都做得好穩陣，味道唔會一味靠重鹹重油取勝，而係食到食材本身同廚房功力。每一道都感覺係有心機處理，唔係酒店餐廳求其交功課。由前菜到主菜，節奏好舒服，食到最後都唔會覺得太滯，反而係會諗：「咦？下次可以帶邊個嚟呢？」呢個念頭一出現，就代表餐廳成功咗。\n\n服務方面都值得一讚，員工有禮貌、反應快，介紹菜式清楚，成個用餐過程好順。唔會過份打擾，但需要幫手時又會出現，呢種服務距離感拎捏得幾好。加上餐廳喺酒店入面，整體感覺乾淨企理，氣氛亦幾有格調。\n\n價錢方面當然唔係茶記級別，但以酒店中菜、環境、服務同食物質素嚟講，我覺得係值得嘅。尤其如果想搵一間食得舒服、影得靚、又唔會食完覺得「得個貴字」嘅地方，One Duck Lane 真係可以放入口袋名單。\n\n總結：\n環境舒服、服務到位、食物高質，烤鴨更加係食到想同佢握手道謝。\n今次真係食到喊——喊住問自己點解唔早啲嚟。😭🍴\n\n會再訪，仲要帶埋屋企人嚟一齊喊。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次嚟到北角 Hyatt Centric Victoria Harbour Hong Kong 入面嘅 One Duck Lane，本身以為只係一餐普通酒店中菜，點知食完真係差啲要喺枱邊喊出嚟——唔係傷心，係滿足到個胃同個靈魂一齊鼓掌嗰種喊。🥹🦆\n\n餐廳環境好舒服，唔係嗰種坐低即刻覺得自己要細聲講嘢嘅壓力型高級餐廳，而係有質感、夠靚、又唔會令人拘謹。地方寬敞，裝修有現代中菜館感覺，約會、家庭飯、朋友聚餐，甚至請屋企人食餐好少少都好適合。最重要係坐得舒服，食飯唔使同隔離枱上演「大家都聽到大家人生故事」系列。\n\n講到食物，整體真係有驚喜。菜式擺盤精緻，但唔係得個樣，味道係有料到。烤鴨絕對係重點之一，皮香脆、肉質嫩滑，油香夠但唔會膩，食落有種「我可以再食多幾件，但我又要扮矜持」嘅掙扎。點埋醬同配料一齊食，層次即刻升級，個口感豐富到好似開咗個小型美食派對。\n\n其他中菜都做得好穩陣，味道唔會一味靠重鹹重油取勝，而係食到食材本身同廚房功力。每一道都感覺係有心機處理，唔係酒店餐廳求其交功課。由前菜到主菜，節奏好舒服，食到最後都唔會覺得太滯，反而係會諗：「咦？下次可以帶邊個嚟呢？」呢個念頭一出現，就代表餐廳成功咗。\n\n服務方面都值得一讚，員工有禮貌、反應快，介紹菜式清楚，成個用餐過程好順。唔會過份打擾，但需要幫手時又會出現，呢種服務距離感拎捏得幾好。加上餐廳喺酒店入面，整體感覺乾淨企理，氣氛亦幾有格調。\n\n價錢方面當然唔係茶記級別，但以酒店中菜、環境、服務同食物質素嚟講，我覺得係值得嘅。尤其如果想搵一間食得舒服、影得靚、又唔會食完覺得「得個貴字」嘅地方，One Duck Lane 真係可以放入口袋名單。\n\n總結：\n環境舒服、服務到位、食物高質，烤鴨更加係食到想同佢握手道謝。\n今次真係食到喊——喊住問自己點解唔早啲嚟。😭🍴\n\n會再訪，仲要帶埋屋企人嚟一齊喊。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eat Till You Cry",
+          "uri": "https://www.google.com/maps/contrib/102950405617065155511/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpkuUZ4_0MeAW4j74FoL6PlQPeWffahHNzizkxunzo8xCoLMc=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-12T11:27:03.752479770Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pJek5WZERkME5VU1RkdVREUktkRTlCV1VWMFYzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJek5WZERkME5VU1RkdVREUktkRTlCV1VWMFYzYxAB!2m1!1s0x3404017e6d1b9bdb:0x61c0c0b95bb7c0f3"
+      },
+      {
+        "name": "places/ChIJ25sbbX4BBDQR88C3W7nAwGE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxamNrdEhabXBNWTA1Q2FXNVlRMWRSVG5aRVJYYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "試咗京式明爐烤鴨套餐。成晚坐得舒服，環境雅緻，望到海景。最重要係嘢食水準高。\n\n師傅會即席片皮，片出嚟嘅鴨皮金黃油亮，好脆口。招牌花膠帶子酸辣羹，好多花膠，個湯底酸辣度適中，好開胃\n\n羅勒金蒜炒蝦球，蝦球夠大隻又爽口。醬爆銀鱈魚，魚肉嫩滑，外層炸得脆口，京蔥炒蒙古羊仔柳，羊肉味濃，但唔會羶，炒得好嫩。\n\n蔬菜方面，濃湯竹笙大根萬筍，竹笙同萬筍都好索湯，蘿蔔清甜，個湯底係幾濃郁嘅上湯。\n\n最後嘅甜品拼盤都好精緻：楊枝甘露真材實料；鴨蛋撻皮脆蛋香；芝麻卷好香滑。\n\n想一提呢度有好多港式特飲，我哋叫咗珍珠奶茶同手打檸檬茶，好正！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "試咗京式明爐烤鴨套餐。成晚坐得舒服，環境雅緻，望到海景。最重要係嘢食水準高。\n\n師傅會即席片皮，片出嚟嘅鴨皮金黃油亮，好脆口。招牌花膠帶子酸辣羹，好多花膠，個湯底酸辣度適中，好開胃\n\n羅勒金蒜炒蝦球，蝦球夠大隻又爽口。醬爆銀鱈魚，魚肉嫩滑，外層炸得脆口，京蔥炒蒙古羊仔柳，羊肉味濃，但唔會羶，炒得好嫩。\n\n蔬菜方面，濃湯竹笙大根萬筍，竹笙同萬筍都好索湯，蘿蔔清甜，個湯底係幾濃郁嘅上湯。\n\n最後嘅甜品拼盤都好精緻：楊枝甘露真材實料；鴨蛋撻皮脆蛋香；芝麻卷好香滑。\n\n想一提呢度有好多港式特飲，我哋叫咗珍珠奶茶同手打檸檬茶，好正！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CarCar",
+          "uri": "https://www.google.com/maps/contrib/116056765409997397294/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvCwxP2MV3Ytf-CfYCusiztJdRj8VaFzMo_s1T9CyJjgwj3w=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-05-06T09:02:31.772533476Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxamNrdEhabXBNWTA1Q2FXNVlRMWRSVG5aRVJYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxamNrdEhabXBNWTA1Q2FXNVlRMWRSVG5aRVJYYxAB!2m1!1s0x3404017e6d1b9bdb:0x61c0c0b95bb7c0f3"
+      }
+    ],
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404017e6d1b9bdb:0x61c0c0b95bb7c0f3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7043841719547707635&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017e6d1b9bdb:0x61c0c0b95bb7c0f3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404017e6d1b9bdb:0x61c0c0b95bb7c0f3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017e6d1b9bdb:0x61c0c0b95bb7c0f3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ25sbbX4BBDQR88C3W7nAwGE/photos/Aa-ngMZft7ugI_ylQNlocVRkRMOw_gDE1c-MR73Efny_4vrWOCt5bh6-fQ3od-UGYUnNvXHhl3k9YdOgaE7wFUuN_P0WafE4G04x4Jq9ta3I9CiFIgYjPXIsAdwj-hecwzBZL9uOd1csNrBAob9Y-Gggk0Mo-QbQTAZWQF1nwJWhIaJUTu-8AZ8VWNbxh6xBNIiV6uJp7kEyehAfQT7_u2I7FFtYpwK6AUAW42tFlb0bK4cLn-sMasKvgfnVczSQlLKc9UqukVTav_-5-xFzdSiwluXk34TGks0cIZ4uQAdqiEZ1ImWONIrKe8srlktSS-n0KAB3H3nONev0Tbp0bpLUzaNoGwDeuT0fQnbFSpOD7c4NZ6cjUSsBpdT5OzWMeLA441wDe0t0M1os8XWOmRBVeBL3d1xvfRSU-VZtrUtKI5bBSA",
+      "widthPx": 1800,
+      "heightPx": 1350,
+      "authorAttributions": [
+        {
+          "displayName": "One Duck Lane",
+          "uri": "https://maps.google.com/maps/contrib/112094776075683386477",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJMU3yo_pC4ERea1TNHzT7IlZ4B7USQasd14xEBvcg5AHBJlw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCVX43ZD35Jm4MbYU4j394p&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCVX43ZD35Jm4MbYU4j394p!2e10!4m2!3m1!1s0x3404017e6d1b9bdb:0x61c0c0b95bb7c0f3"
+    },
+    "local_path": "photos/ChIJ25sbbX4BBDQR88C3W7nAwGE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHUeM1ztLQ2szHWVGqH5dImuyd_cqkTedYULZ6ltpF-IUGfC0DPaGp2wC-eOyq10tCLZxNy5ojSc4r8jv-juD13v_qG-jBBl6v3hCCJXgBFgbvx0Vd4JaNwsfMnPan62aZGQLEbXrQSru8=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 122874
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 429"
+  },
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

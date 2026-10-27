@@ -1,0 +1,354 @@
+{
+  "google_place_id": "ChIJIQPU1on9AzQRttGnqfv3dnY",
+  "restaurant_ids": [
+    "restaurant:2217803809"
+  ],
+  "fetched_at": "2026-10-23T15:47:31.868741+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJIQPU1on9AzQRttGnqfv3dnY",
+    "types": [
+      "vietnamese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3619 0932",
+    "internationalPhoneNumber": "+852 3619 0932",
+    "formattedAddress": "Shop G08B DB Plaza, 1 Discovery Bay Road, Discovery Bay, Discovery Bay, Lantau Island, New Territories, 香港",
+    "location": {
+      "latitude": 22.2965499,
+      "longitude": 114.01633659999999
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=8536282803982553526&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://phobay.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 23:00",
+        "星期二: 11:30 – 23:00",
+        "星期三: 11:30 – 23:00",
+        "星期四: 11:30 – 23:00",
+        "星期五: 11:30 – 23:00",
+        "星期六: 11:30 – 23:00",
+        "星期日: 11:30 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 102,
+    "displayName": {
+      "text": "Pho Bay Vietnamese Restaurant & Bar",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "越南餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "vietnamese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJIQPU1on9AzQRttGnqfv3dnY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSWVFNXVWMjFTYm5KSVdWTkZXbGx6Ym0xMllrRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "食物質素高。服務態度良好親切。氣氛良好。但有出現走單情況，食物等了一個小時。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物質素高。服務態度良好親切。氣氛良好。但有出現走單情況，食物等了一個小時。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Daniel Ko",
+          "uri": "https://www.google.com/maps/contrib/102592715105321440866/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoBRHfGVWC0ImUiOgUIjPmkRb1LO3vrJ_4gNH0EfqQnil0Ghl2=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-11-30T11:17:07.327115334Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoSWVFNXVWMjFTYm5KSVdWTkZXbGx6Ym0xMllrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoSWVFNXVWMjFTYm5KSVdWTkZXbGx6Ym0xMllrRRAB!2m1!1s0x3403fd89d6d40321:0x7676f7fba9a7d1b6"
+      },
+      {
+        "name": "places/ChIJIQPU1on9AzQRttGnqfv3dnY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmOUpXMm1nRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "環境風景一流\n食物很好吃\n但工作人員太忙",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境風景一流\n食物很好吃\n但工作人員太忙",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eddie",
+          "uri": "https://www.google.com/maps/contrib/115197514727339400252/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRDQdFH9YvvcaLZNcoq5QLEfU8U8jnvg-58SUX4TuMZm4wdaCE=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-12-26T15:02:19.558980Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmOUpXMm1nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmOUpXMm1nRRAB!2m1!1s0x3403fd89d6d40321:0x7676f7fba9a7d1b6"
+      },
+      {
+        "name": "places/ChIJIQPU1on9AzQRttGnqfv3dnY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSNlUydExVRVJSYld4WFNXbFdlREZ2ZUdkQlQwRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "食品算唔錯，環境OK",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食品算唔錯，環境OK",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dennis LEUNG",
+          "uri": "https://www.google.com/maps/contrib/117458415567111193004/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8-GittqC6kGrVpLscpRQ4HFrw2ysiojztqXuNhoRFmADHZkpg=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-10-12T05:53:29.897924553Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSNlUydExVRVJSYld4WFNXbFdlREZ2ZUdkQlQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSNlUydExVRVJSYld4WFNXbFdlREZ2ZUdkQlQwRRAB!2m1!1s0x3403fd89d6d40321:0x7676f7fba9a7d1b6"
+      },
+      {
+        "name": "places/ChIJIQPU1on9AzQRttGnqfv3dnY/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xdGMwNTVWa1Y0U0UwM2EwaHhkazl3TFhOUVYxRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物好食，價錢全愉景灣最優惠，建議炭燒牛柳，海南雞，越南湯粉，也非常出色",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物好食，價錢全愉景灣最優惠，建議炭燒牛柳，海南雞，越南湯粉，也非常出色",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jeff Chan",
+          "uri": "https://www.google.com/maps/contrib/104713258074306177352/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJxZQ6yv_7vDBFESLy-BV86y0GdytrQ7D3DaD1HtOoOYVW9qA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-12-21T12:23:58.460795660Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xdGMwNTVWa1Y0U0UwM2EwaHhkazl3TFhOUVYxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xdGMwNTVWa1Y0U0UwM2EwaHhkazl3TFhOUVYxRRAB!2m1!1s0x3403fd89d6d40321:0x7676f7fba9a7d1b6"
+      },
+      {
+        "name": "places/ChIJIQPU1on9AzQRttGnqfv3dnY/reviews/ChdDSUhNMG9nS0VJQ0FnSURYaE9QYjV3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "食物是不錯，但員工好像都看不到客人，舉手示意跟說話都沒人理，那經理也好像只會站收銀按電腦，看來只有叫外賣比較好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物是不錯，但員工好像都看不到客人，舉手示意跟說話都沒人理，那經理也好像只會站收銀按電腦，看來只有叫外賣比較好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Archer Yau",
+          "uri": "https://www.google.com/maps/contrib/113183954892145008509/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVs1o8IlWrU1ljM3QZ_WFOQmv9FIjRHuO1V0NB1wQm_ZKzAVGE=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-10-24T06:22:16.795488Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYaE9QYjV3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYaE9QYjV3RRAB!2m1!1s0x3403fd89d6d40321:0x7676f7fba9a7d1b6"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fd89d6d40321:0x7676f7fba9a7d1b6!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8536282803982553526&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fd89d6d40321:0x7676f7fba9a7d1b6!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fd89d6d40321:0x7676f7fba9a7d1b6!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fd89d6d40321:0x7676f7fba9a7d1b6!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJIQPU1on9AzQRttGnqfv3dnY/photos/Aa-ngMbUklZv4I5SHBxwqzeEqfuZ2gxIHX-qt0DIQ1NnWMk6mhQ2rERutt02hFlKTcAJrpK46rDoMlwtxFp5xQY2xkX37rdyqOGtTVm6c1RJYM4-AHMW1-yA8z9xGeYr9a485gO52m7nRPpfVJTgYzZZgHufbGXqC4kQ_hRGOy8LrCrqCVA-PH8j-GdRnvqR8Bz09ub9okhVMjGlE2-MRbxhEZb_NeG6KZ-qSrEYuzz7MUZOoHDkwETcUliN6QvKFNJj4mXltr9L-S5UXDz7aUYGi90s4MSu24T3sSernfkegaHM2b2eUPdXkHsbiuYsSmaqZdqCU2tXPg3iqLN_7jmVfr7sxZL8BLfmw02fWTjcr_dy0fZPZ2L4y35Cd6r7CFpkNFegf-v7UyW66TzzaWLsSShYsnHD",
+      "widthPx": 2500,
+      "heightPx": 1667,
+      "authorAttributions": [
+        {
+          "displayName": "Pho Bay Vietnamese Restaurant & Bar",
+          "uri": "https://maps.google.com/maps/contrib/107739534743927348116",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFLsAluUD373Nuba3_sQenRIR9SoJPevqrOrjUNJY6G7hUi0Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDj7qLRvgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj7qLRvgE!2e10!4m2!3m1!1s0x3403fd89d6d40321:0x7676f7fba9a7d1b6"
+    },
+    "local_path": "photos/ChIJIQPU1on9AzQRttGnqfv3dnY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWT10HQu5idX9sfDF30K7cwSDQYfgTU4BIsIyxJqhNnL6yFJWk1xz6qOX5-75nHJyG3c8eQQXxqCvy5uV_V4TmiqNBF9NttLFLjlsmv8Wh8TZADQEUVOwMUe7JGAh6Hn4LI3o1=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 169793
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://book.bistrochat.com/pho-bay",
+        "label": "Make a Reservation",
+        "source_url": "https://www.phobay.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.phobay.hk/#sidewidgetarea",
+        "label": "Menu",
+        "source_url": "https://www.phobay.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.phobay.hk/menu/",
+        "label": "Menus",
+        "source_url": "https://www.phobay.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://phobay.hk/menu/",
+        "label": "View Our Menus",
+        "source_url": "https://www.phobay.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.phobay.hk/",
+        "label": "Close Menu",
+        "source_url": "https://www.phobay.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "vietnamese_restaurant",
+    "label": "越南餐廳",
+    "types": [
+      "vietnamese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://book.bistrochat.com/pho-bay",
+  "menu_url": "https://www.phobay.hk/#sidewidgetarea"
+}

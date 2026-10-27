@@ -1,0 +1,339 @@
+{
+  "google_place_id": "ChIJZVYHi3D7AzQRA23xiQpWuBY",
+  "restaurant_ids": [
+    "restaurant:2293001126"
+  ],
+  "fetched_at": "2026-10-23T15:45:44.788079+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJZVYHi3D7AzQRA23xiQpWuBY",
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2441 6822",
+    "internationalPhoneNumber": "+852 2441 6822",
+    "formattedAddress": "Shop R6 and F9, Castle Peak Rd - So Kwun Wat, Tuen Mun, New Territories, 香港",
+    "location": {
+      "latitude": 22.3715224,
+      "longitude": 113.99251140000001
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=1637153067813137667&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.mcdonalds.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 23:00",
+        "星期二: 07:00 – 23:00",
+        "星期三: 07:00 – 23:00",
+        "星期四: 07:00 – 23:00",
+        "星期五: 07:00 – 23:00",
+        "星期六: 07:00 – 23:00",
+        "星期日: 07:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 921,
+    "displayName": {
+      "text": "麥當勞 (黃金海岸)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "速食餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "fast_food_restaurant",
+    "editorialSummary": {
+      "text": "老字號的經典連鎖速食店，以漢堡和薯條聞名。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJZVYHi3D7AzQRA23xiQpWuBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKZlprTlBNV3A0VURCTVpXMHhORVZUUzBSQlZuYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 2,
+        "text": {
+          "text": "這分店 勁難食，奶茶勁怪，朱古力色🧐安格斯包肉勁乾，連我最愛的豬柳蛋漢堡都好怪，棄餐😰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這分店 勁難食，奶茶勁怪，朱古力色🧐安格斯包肉勁乾，連我最愛的豬柳蛋漢堡都好怪，棄餐😰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ella Cheung",
+          "uri": "https://www.google.com/maps/contrib/108647931418282470148/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQUtjaOKXWVxE_FJLvifAWIy7cOxO7n-CrsyB4j7YZR5O4QO8E=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-12-12T12:57:08.424675887Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKZlprTlBNV3A0VURCTVpXMHhORVZUUzBSQlZuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKZlprTlBNV3A0VURCTVpXMHhORVZUUzBSQlZuYxAB!2m1!1s0x3403fb708b075665:0x16b8560a89f16d03"
+      },
+      {
+        "name": "places/ChIJZVYHi3D7AzQRA23xiQpWuBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSR1FtY3RURVo2Wld0dGFuVjVhbGRGYjFONWRuYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "今日7/1係等餐嘅45分鐘𥚃見識了一個超好EQ的女經理（頭髮長度到膊頭）如何面對排山倒海的客戶仍保持笑容同冇脾氣，專業及敬業的態度令人難忘！麥記嘅training session 可加入觀察學習這位女經理服務態度嘅環節😁",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日7/1係等餐嘅45分鐘𥚃見識了一個超好EQ的女經理（頭髮長度到膊頭）如何面對排山倒海的客戶仍保持笑容同冇脾氣，專業及敬業的態度令人難忘！麥記嘅training session 可加入觀察學習這位女經理服務態度嘅環節😁",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "PY",
+          "uri": "https://www.google.com/maps/contrib/103254622276594751810/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLX2bq0GDmyFi7wa_U1AMiXEj5qrkXq1IccHxxsroJDnbitRQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-01T21:29:12.283062542Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSR1FtY3RURVo2Wld0dGFuVjVhbGRGYjFONWRuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSR1FtY3RURVo2Wld0dGFuVjVhbGRGYjFONWRuYxAB!2m1!1s0x3403fb708b075665:0x16b8560a89f16d03"
+      },
+      {
+        "name": "places/ChIJZVYHi3D7AzQRA23xiQpWuBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkdU9HWnpSM0JDY2xSVlQwWnlURVp4YTBkd2NtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 1,
+        "text": {
+          "text": "冇乜客都可以執錯曬啲單，垃圾",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "冇乜客都可以執錯曬啲單，垃圾",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nathan Cheng",
+          "uri": "https://www.google.com/maps/contrib/108551761761392349930/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIqN7fVMNqk-tGO4MAS7iBCdu4bnd9XwBoZeNs-FoZ63Km24Q=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-30T06:32:08.104935098Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkdU9HWnpSM0JDY2xSVlQwWnlURVp4YTBkd2NtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkdU9HWnpSM0JDY2xSVlQwWnlURVp4YTBkd2NtYxAB!2m1!1s0x3403fb708b075665:0x16b8560a89f16d03"
+      },
+      {
+        "name": "places/ChIJZVYHi3D7AzQRA23xiQpWuBY/reviews/ChdDSUhNMG9nS0VJQ0FnTURRbDlhbmlRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "叫了一個開心家庭餐\n但最後只是送來飲品、粟米，乳酪跟兩塊熱香餅和薯餅\n前一個電話打去話叫Deliveroo安排車手補送\n下一個電話打去話已經出晒食物\n前後口供不一致 是否有人說謊掩飾自己錯誤？",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "叫了一個開心家庭餐\n但最後只是送來飲品、粟米，乳酪跟兩塊熱香餅和薯餅\n前一個電話打去話叫Deliveroo安排車手補送\n下一個電話打去話已經出晒食物\n前後口供不一致 是否有人說謊掩飾自己錯誤？",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Isaac",
+          "uri": "https://www.google.com/maps/contrib/105073553152421196816/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_r6xRO_g7VMGY_MHJNuTzd6IEs_yWFaQBXzV5ApL6v3_mTHIy=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-03-15T03:14:32.117437Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRbDlhbmlRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRbDlhbmlRRRAB!2m1!1s0x3403fb708b075665:0x16b8560a89f16d03"
+      },
+      {
+        "name": "places/ChIJZVYHi3D7AzQRA23xiQpWuBY/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5ME8tdW1nRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 2,
+        "text": {
+          "text": "這家服務差！係一向都差，外賣到取或麥麥送經常欠東西丶錯內容。我極少食麥記早餐，對它的產品不熟，個收銀阿姐對此表現不耐煩，我問她有什麼飲品選擇完全不回應。其實她幫我電子錢包增值時都搞好耐，這叫寬己嚴人。最後是連早餐的贈品也漏了... 這很可疑，因那贈品是有價值的，單就出了東西卻不給予顧客。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這家服務差！係一向都差，外賣到取或麥麥送經常欠東西丶錯內容。我極少食麥記早餐，對它的產品不熟，個收銀阿姐對此表現不耐煩，我問她有什麼飲品選擇完全不回應。其實她幫我電子錢包增值時都搞好耐，這叫寬己嚴人。最後是連早餐的贈品也漏了... 這很可疑，因那贈品是有價值的，單就出了東西卻不給予顧客。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "S",
+          "uri": "https://www.google.com/maps/contrib/114344099417324105523/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvqj-mLCTJhBEvMxe90ceh5I2QwBVTXFnQ2Lvh1pHxZJobRw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2021-02-21T08:43:39.063652Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR5ME8tdW1nRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR5ME8tdW1nRRAB!2m1!1s0x3403fb708b075665:0x16b8560a89f16d03"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fb708b075665:0x16b8560a89f16d03!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1637153067813137667&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb708b075665:0x16b8560a89f16d03!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fb708b075665:0x16b8560a89f16d03!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb708b075665:0x16b8560a89f16d03!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJZVYHi3D7AzQRA23xiQpWuBY/photos/Aa-ngMb0Y9hX1fl8LFQrhaHyf4Xdxc6IrRsDR5x7-ouT2jvB0ouR5l2c_atWrf0Lua5iDFfI7nDsYxMR3rbgaV6SP7xUlu1sTLJzkwJ2T2HV2GiMQ8CZf3f42B4DFiatXVoVTMgfpCaZfzCsLkwezWsK5pfKQieugJZ0GuGtRfAa_LGJx3Le2xcFmngbtSE33Grn92h8U6YQ3u1XkZLvlc6h6Bqb0bOkvo9OOMO5w5XcAVF--DBBD0WQvmKnK5k1qwq8dTNPRLfw8W_2Xxsx-gr4KmPPIG3MgemsTHzQ7FyOqKBLPy8VMLkAjgoyMvzo-sG7G3xf0Gz2CZHNXQDKmHjiXq60d6MHIQNlp7jhMUaMdnkqnhAHrdOlA0MngxgTxBTlh2GuLdkSLo2duyevjrbX_w",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Sara Wong",
+          "uri": "https://maps.google.com/maps/contrib/110939142679249644089",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcbtFCRCv37yu86G2240G8cQ8E_5XlGlspIHwEg9wRfGzR5KaW=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE-Zcw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE-Zcw!2e10!4m2!3m1!1s0x3403fb708b075665:0x16b8560a89f16d03"
+    },
+    "local_path": "photos/ChIJZVYHi3D7AzQRA23xiQpWuBY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmJImIZ6kmQeHxaBi7PseeyXcZW2I8tqwGXY2GIYTz7hoeeNV8K3GT2l8dA0y1WRNKQ4ZdcP8iiE-ALCgESI3Q3QpxiFW9UfmsnR1Kpf2-rJlGTtCSsMbpgJwvi8-iMYFKFw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 119303
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.mcdonalds.com.hk/menu/mccafe/",
+        "label": "了解更多",
+        "source_url": "https://www.mcdonalds.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "fast_food_restaurant",
+    "label": "速食餐廳",
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.mcdonalds.com.hk/menu/mccafe/"
+}

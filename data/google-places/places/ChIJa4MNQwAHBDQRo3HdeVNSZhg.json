@@ -1,0 +1,308 @@
+{
+  "google_place_id": "ChIJa4MNQwAHBDQRo3HdeVNSZhg",
+  "restaurant_ids": [
+    "restaurant:2252810640"
+  ],
+  "fetched_at": "2026-10-23T15:39:46.537953+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJa4MNQwAHBDQRo3HdeVNSZhg",
+    "types": [
+      "asian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2698 6268",
+    "internationalPhoneNumber": "+852 2698 6268",
+    "formattedAddress": "香港九龍啟德沐翠街12號雙子匯2期14樓",
+    "location": {
+      "latitude": 22.3318566,
+      "longitude": 114.20157189999999
+    },
+    "rating": 3.3,
+    "googleMapsUri": "https://maps.google.com/?cid=1758183223015076259&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 21:30",
+        "星期二: 11:30 – 21:30",
+        "星期三: 11:30 – 21:30",
+        "星期四: 11:30 – 21:30",
+        "星期五: 11:30 – 21:30",
+        "星期六: 11:30 – 21:30",
+        "星期日: 11:30 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 42,
+    "displayName": {
+      "text": "Asian Lab",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "亞洲風味餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "asian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJa4MNQwAHBDQRo3HdeVNSZhg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGT1l6SlZYMVUxUkRjNE5qQkhWV2x6TnpFM1VWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "本身見3分到都好驚 但帶狗另一間無開就試下 見d人話態度問題 我覺得已改善 野食就正正常常 某幾樣幾好食 生牛肉 鳳爪  米紙卷都推 對比啟德區一大堆好一般餐廳 呢間可以再黎既",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "本身見3分到都好驚 但帶狗另一間無開就試下 見d人話態度問題 我覺得已改善 野食就正正常常 某幾樣幾好食 生牛肉 鳳爪  米紙卷都推 對比啟德區一大堆好一般餐廳 呢間可以再黎既",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "au john",
+          "uri": "https://www.google.com/maps/contrib/103978774304819340629/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtefQnJo2QTVArEIYja6811sT_MxKwaEZRqQCVvOIaYhuYyg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-17T04:25:47.008630030Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGT1l6SlZYMVUxUkRjNE5qQkhWV2x6TnpFM1VWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGT1l6SlZYMVUxUkRjNE5qQkhWV2x6TnpFM1VWRRAB!2m1!1s0x34040700430d836b:0x1866525379dd71a3"
+      },
+      {
+        "name": "places/ChIJa4MNQwAHBDQRo3HdeVNSZhg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kMVkzQmtNelZGY0RNNVNGZG1hbUZuVDAxdVNGRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 2,
+        "text": {
+          "text": "員工內部溝通混亂\n叫2個餐\n10分鐘到黎左一個面，等左4個字追佢話等等\n46分落單，個咖哩13分先到\n問佢個包仲有幾耐，有個阿姨態度好差咁答仲要等等，個包係第二個部門\n已經肚餓，望住個咖哩又未有包食條氣chok 住\n食之無味，終寫下此評論\n望各餐廳借鑑，員工態度比食物更重要",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "員工內部溝通混亂\n叫2個餐\n10分鐘到黎左一個面，等左4個字追佢話等等\n46分落單，個咖哩13分先到\n問佢個包仲有幾耐，有個阿姨態度好差咁答仲要等等，個包係第二個部門\n已經肚餓，望住個咖哩又未有包食條氣chok 住\n食之無味，終寫下此評論\n望各餐廳借鑑，員工態度比食物更重要",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jack Lo",
+          "uri": "https://www.google.com/maps/contrib/113219343489492443710/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIDVpysUmhY1bS2c-wFKh45hbgp-Xb6MCqK4AKAflRko0fEkQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-05T05:34:53.027662417Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kMVkzQmtNelZGY0RNNVNGZG1hbUZuVDAxdVNGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kMVkzQmtNelZGY0RNNVNGZG1hbUZuVDAxdVNGRRAB!2m1!1s0x34040700430d836b:0x1866525379dd71a3"
+      },
+      {
+        "name": "places/ChIJa4MNQwAHBDQRo3HdeVNSZhg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KcFZXVjFXRE51TWxZMU9GaG1kRTVJYW1kcGQyYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 2,
+        "text": {
+          "text": "Food is really good, but the tables were too packed.  Servers were knocking things over when passing.  身型大少少嘅侍應拎住滾燙熱食穿插，經常唔夠位過好危險。啲枱攞到幾乎唔合消防安全。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Food is really good, but the tables were too packed.  Servers were knocking things over when passing.  身型大少少嘅侍應拎住滾燙熱食穿插，經常唔夠位過好危險。啲枱攞到幾乎唔合消防安全。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Biru-san",
+          "uri": "https://www.google.com/maps/contrib/102580582493362045741/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0KiiiRn1UoVgBd07UKuCuKiW6xsHAuUVd0o0fiUbALMQU=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-15T14:11:58.712825544Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KcFZXVjFXRE51TWxZMU9GaG1kRTVJYW1kcGQyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KcFZXVjFXRE51TWxZMU9GaG1kRTVJYW1kcGQyYxAB!2m1!1s0x34040700430d836b:0x1866525379dd71a3"
+      },
+      {
+        "name": "places/ChIJa4MNQwAHBDQRo3HdeVNSZhg/reviews/Ci9DQUlRQUNvZENodHljRjlvT205MFYzaEhWa3BpYlhrNE56TnVSVGhGV0VwamNXYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 3,
+        "text": {
+          "text": "Asian Lab(5⭐️為滿分）\n食物質素：⭐️⭐️\n食物價錢：⭐️⭐️⭐️\n餐廳環境：⭐️⭐️⭐️\n餐廳服務：￼￼￼￼⭐️⭐️⭐️\n￼\n有eatigo￼優惠可以用，都有lunch set可以食！不過食物就普普通通咁啦～￼￼\n\n✅ 越南牛肉清湯粉 - $72\n✅ 椰漿飯 ￼- $78\n✅ 河内 Bun Cha烤肉檬粉 -$82\n✅ 大蝦青木瓜沙律 ￼-$68\n\n另收+1服務費￼！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Asian Lab(5⭐️為滿分）\n食物質素：⭐️⭐️\n食物價錢：⭐️⭐️⭐️\n餐廳環境：⭐️⭐️⭐️\n餐廳服務：￼￼￼￼⭐️⭐️⭐️\n￼\n有eatigo￼優惠可以用，都有lunch set可以食！不過食物就普普通通咁啦～￼￼\n\n✅ 越南牛肉清湯粉 - $72\n✅ 椰漿飯 ￼- $78\n✅ 河内 Bun Cha烤肉檬粉 -$82\n✅ 大蝦青木瓜沙律 ￼-$68\n\n另收+1服務費￼！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "eatateeaten hk",
+          "uri": "https://www.google.com/maps/contrib/100330776614575994835/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcNJat19SXoLoolQGO2CHiTF2AA7V5uCuwGKfJEU4R4A8qJsM=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-04-10T05:18:28.803214591Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205MFYzaEhWa3BpYlhrNE56TnVSVGhGV0VwamNXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205MFYzaEhWa3BpYlhrNE56TnVSVGhGV0VwamNXYxAB!2m1!1s0x34040700430d836b:0x1866525379dd71a3"
+      },
+      {
+        "name": "places/ChIJa4MNQwAHBDQRo3HdeVNSZhg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoeGNXdFZVRVpTTFRBdE56TlZUbkpWYzNKa1NrRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 3,
+        "text": {
+          "text": "越式餐廳，有户外座位，景觀不錯。惟室内座位比較擠迫。食物質素尚可，價格仍可接受。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "越式餐廳，有户外座位，景觀不錯。惟室内座位比較擠迫。食物質素尚可，價格仍可接受。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Galen Fong",
+          "uri": "https://www.google.com/maps/contrib/110484057053863090069/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFLKkBc5mUeXq7ypFZzWTaIPKIaZWVNPyPxvzX7s6__eemD1frVQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-01-18T14:57:07.686383858Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoeGNXdFZVRVpTTFRBdE56TlZUbkpWYzNKa1NrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoeGNXdFZVRVpTTFRBdE56TlZUbkpWYzNKa1NrRRAB!2m1!1s0x34040700430d836b:0x1866525379dd71a3"
+      }
+    ],
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040700430d836b:0x1866525379dd71a3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1758183223015076259&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040700430d836b:0x1866525379dd71a3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040700430d836b:0x1866525379dd71a3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040700430d836b:0x1866525379dd71a3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJa4MNQwAHBDQRo3HdeVNSZhg/photos/Aa-ngMYueg9ZTnX2koDPU4DmFd2R6luMCO9alyJmvQ5sN36C9UBMpeUsm3nIC74hVTZtQvU0mON2kaDJDXp6154EFKUppYATdBkp4BWMQte_eC0stmFCaXLyeB7jm2fDp-5AgHHGksSmW0pGoP_0BU4fNzMpAs4SGh7idE8s5acpyTN27pynErjznGFTEz6VSFux6Yp0I5hCeBtP4rVYb9Jp_vpxNXdlY3oAUV5yRERp2PMvla2A5N3oTHfEU_03HSewuo5nxMVDjvZeKy6DwKbPs5I2w1jwUEGYenzSmhStFMhQuMjAn_0ejN4IOevXt6epDMnAJKzAEl39zeOe0nUIrjjiolimobcDBaAm5s5d_HyQKX6fQKKoepz4rLdyXV2juFFLnbd4NbzQCIyPqeLX0d5Ya8XBHfCZvNVeFu2FqAkHww",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "Alex Shiu",
+          "uri": "https://maps.google.com/maps/contrib/100619938423080377681",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDlmaWFj6snzLDlSUnEG-S1ySIwV3pIZUCQArupVjLDAAQPPH27Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBZFFYZjZYDF8ZNPtABQN4I&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBZFFYZjZYDF8ZNPtABQN4I!2e10!4m2!3m1!1s0x34040700430d836b:0x1866525379dd71a3"
+    },
+    "local_path": "photos/ChIJa4MNQwAHBDQRo3HdeVNSZhg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7UJ0B5IyjBl6__NmJqbRl57KDLtPj6TbfD_dkEJy61dE2B1qJwH_7acshFz5Z5A0lXZxrjAt_9DD9X1-A0Je1Smc5NX7yMc-a5apWRUNQMNo3JatsI4_lpvCiazfrL6kDXMqeV2GIlNHV=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 180715
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "asian_restaurant",
+    "label": "亞洲風味餐廳",
+    "types": [
+      "asian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

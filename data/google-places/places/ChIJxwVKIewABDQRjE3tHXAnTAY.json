@@ -1,0 +1,339 @@
+{
+  "google_place_id": "ChIJxwVKIewABDQRjE3tHXAnTAY",
+  "restaurant_ids": [
+    "restaurant:2261814675",
+    "restaurant:3162802512"
+  ],
+  "fetched_at": "2026-10-23T15:44:14.596231+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJxwVKIewABDQRjE3tHXAnTAY",
+    "types": [
+      "deli",
+      "bar",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3188 1010",
+    "internationalPhoneNumber": "+852 3188 1010",
+    "formattedAddress": "11-12/F, 1 Knutsford Terrace, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3012127,
+      "longitude": 114.1731267
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=453781024949489036&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.joesbilliards.com/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 5,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 5,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 5,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 5,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 5,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 5,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 5,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 05:00",
+        "星期二: 12:00 – 05:00",
+        "星期三: 12:00 – 05:00",
+        "星期四: 12:00 – 05:00",
+        "星期五: 12:00 – 05:00",
+        "星期六: 12:00 – 05:00",
+        "星期日: 12:00 – 05:00"
+      ],
+      "nextCloseTime": "2026-10-23T21:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 213,
+    "displayName": {
+      "text": "Joe's Billiards & Bar",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "editorialSummary": {
+      "text": "Spacious, easygoing hangout with pool tables & many dart boards, plus a full bar with pub fare.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJxwVKIewABDQRjE3tHXAnTAY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmeGFiWWRnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "Please note that the pull is charged by half-hour, not by the hour. They even charged me per minute, which is ridiculous. They sneakily write the half-hour charge in very tiny text, and the service is terrible. They even asked me to pour my own water at the bar because they were busy.\n\n請注意，收費是按半小時計算，而不是按小時計算。他們甚至按分鐘來收費，實在太荒謬了。他們將半小時收費用非常細小的字寫出來，實在太狡猾了。而且服務非常差，他們竟然因為忙叫我自己去吧台倒水。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Please note that the pull is charged by half-hour, not by the hour. They even charged me per minute, which is ridiculous. They sneakily write the half-hour charge in very tiny text, and the service is terrible. They even asked me to pour my own water at the bar because they were busy.\n\n請注意，收費是按半小時計算，而不是按小時計算。他們甚至按分鐘來收費，實在太荒謬了。他們將半小時收費用非常細小的字寫出來，實在太狡猾了。而且服務非常差，他們竟然因為忙叫我自己去吧台倒水。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "christina w",
+          "uri": "https://www.google.com/maps/contrib/113466396345297632824/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKW8B9LkJ7poa3ouHnqPekZekNhzvQkAZOEnBqtIhioGY-C-6o=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-12-30T23:44:19.705889Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmeGFiWWRnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmeGFiWWRnEAE!2m1!1s0x340400ec214a05c7:0x64c27701ded4d8c"
+      },
+      {
+        "name": "places/ChIJxwVKIewABDQRjE3tHXAnTAY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBOWY3dVlBEAE",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 4,
+        "text": {
+          "text": "地方舒適，顧客比較斯文，外國人也多。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地方舒適，顧客比較斯文，外國人也多。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Desmond Kwok",
+          "uri": "https://www.google.com/maps/contrib/107705266510369724167/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdBR_igdMAH939peRnYyDrGoFTuUt4NNgig-DasPfIiG0y8g=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2018-07-11T06:30:01.284Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBOWY3dVlBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBOWY3dVlBEAE!2m1!1s0x340400ec214a05c7:0x64c27701ded4d8c"
+      },
+      {
+        "name": "places/ChIJxwVKIewABDQRjE3tHXAnTAY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJN3QtNWJREAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "環境同服務都不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境同服務都不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tingting Man",
+          "uri": "https://www.google.com/maps/contrib/102686751002025353945/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0ouXSkGiDkiKPcfYlH6jetauhlus5tQbd2tTIZVlw-E8FPfDq0w=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2018-12-23T00:32:11.299895273Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNJN3QtNWJREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNJN3QtNWJREAE!2m1!1s0x340400ec214a05c7:0x64c27701ded4d8c"
+      },
+      {
+        "name": "places/ChIJxwVKIewABDQRjE3tHXAnTAY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnaHZLaUdREAE",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 3,
+        "text": {
+          "text": "場地大，但有人吸煙",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "場地大，但有人吸煙",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Markus Hung",
+          "uri": "https://www.google.com/maps/contrib/100022545785068641830/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJeskI1Ytv4NNTqfB1teT4fuvTA71MdIsNPQuR97iQXD0asiw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2018-08-09T11:12:57.819Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNnaHZLaUdREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNnaHZLaUdREAE!2m1!1s0x340400ec214a05c7:0x64c27701ded4d8c"
+      },
+      {
+        "name": "places/ChIJxwVKIewABDQRjE3tHXAnTAY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJZ2JURmFREAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 3,
+        "text": {
+          "text": "價錢在同區中偏貴",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "價錢在同區中偏貴",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dicky Chan",
+          "uri": "https://www.google.com/maps/contrib/110518053406046714576/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSMaBwI9OoeMUCAa2FELlfqiK4sEcRLnfdnZ0YwOquPs616A=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2018-11-18T16:36:00.437913771Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNJZ2JURmFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNJZ2JURmFREAE!2m1!1s0x340400ec214a05c7:0x64c27701ded4d8c"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400ec214a05c7:0x64c27701ded4d8c!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=453781024949489036&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ec214a05c7:0x64c27701ded4d8c!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400ec214a05c7:0x64c27701ded4d8c!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ec214a05c7:0x64c27701ded4d8c!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJxwVKIewABDQRjE3tHXAnTAY/photos/Aa-ngMb5sAw_cqbDTGd6f-BuQWZt5Yi7lNP7ffAz1gH7svT2HLo0VdH1Uji37JrcQLODVlGhY8lhOVRnma9vGV-7sbLsmepBhcAjd2HAl3b_CUx_gJ0qLDyw6gDrWGen7qLUPTdfphAA6dtTFk1qa9ozKA8UrE60IZxGbTWaOUq5fZLrVQpFB9l-JVeaCsMbbhC_Xz7B-inG3RQ9pvhOr74u4zOFgllJs97kTqDTV7wen8iDnKkyc1pYaqV3QY2kyupty4Xd3cLvumnPG3_V7b7teetFnwIKG6bE0k2qeKEyqXiE342P6MdLNcPBRkUqed4xOHg2z5ZwocJh37YKOIQEtlt7noWchIWeS1MI886HtUYJl9hgoHuvkWI75FBEJOhyDjSm4Pi4fsE_yUbFrRdQDxvV33L33dFA7p75zQn--CGa",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Chris mccrory",
+          "uri": "https://maps.google.com/maps/contrib/109367531396041848159",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkEpt2Nbhyh5Z7Y-dtOtIy44SxV-96MQY_fAD4EXOCsZX_va6w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCk9i2EOAErPGqHWyVOWtp_&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCk9i2EOAErPGqHWyVOWtp_!2e10!4m2!3m1!1s0x340400ec214a05c7:0x64c27701ded4d8c"
+    },
+    "local_path": "photos/ChIJxwVKIewABDQRjE3tHXAnTAY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLedoBl-P9IbhjY3RBl31jYZkTEr3rfXGqCwWkeKQLmoE6lMRZjdCjOCvvVu5HaWXN582co1Z0I946S661tADC7-GP8l-4KexlF1FoCTnNRgXT0MtQxWyD8FNWTBvx7RkJ-NAFIw1NJBIs8=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 136257
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "http://www.joesbilliards.com/index-4.html",
+        "label": "Menu",
+        "source_url": "http://www.joesbilliards.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "deli",
+      "bar",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "http://www.joesbilliards.com/index-4.html"
+}

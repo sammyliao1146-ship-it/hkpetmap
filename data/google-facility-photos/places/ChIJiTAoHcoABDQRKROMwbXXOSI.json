@@ -1,0 +1,39 @@
+{
+  "id": "ChIJiTAoHcoABDQRKROMwbXXOSI",
+  "types": [
+    "hospital",
+    "health",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍旺角西洋菜北街177號",
+  "location": {
+    "latitude": 22.326063,
+    "longitude": 114.16845509999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2466239446598292265&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "MongKok Great Love Non-profit Animal Clinic",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "hospital",
+  "photos": [
+    {
+      "name": "places/ChIJiTAoHcoABDQRKROMwbXXOSI/photos/Aa-ngMYAqnRbsrkt4tSbZ7Ahb0QcDiEL5-9oi58EgNz-uPFzASl-Ome-9SlfLnn6RmLP89gzSVhimjTKzVXXxcjVQ9MQkX8IbNZ_gYW2660pCRYPJapXp9C63Hgipkw-LxcX86Qox1Trz9OlePkYXBIH8E5BLufE3kiNg12AC-60Lq7jmIT90kDyhBqwV40B9bVRF5r6QI34gomIXIfiGj1VMd3xFSBHUGWqzZOq_xgFQbxSpToiQhVVkrtVDyu2O6riCpJpPF8UL5IGJGWcfXle3CRtWDq8_2G9fs_7K5nKS4Le-WU5VCqdDLFPXqgZTcqfleArotO3EMmpaFY1XkJRIE8LTb_Pc67rUT3PBmdB6XS6D9kEheAGl2uSv5YJmcVPvOH7INUI2uwgKI91iHhCzFPa99Ap8iP2MfCPuieRw6uwIA",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Gaga Bichon",
+          "uri": "https://maps.google.com/maps/contrib/108222753306648686467",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUGgMx7JT7AUQ0Zo-cu6SD1yoJyhj-WFQ6Gt6M7yBP_OfCfZc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCiD0QLy76OYlqXRT2LTtaD&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCiD0QLy76OYlqXRT2LTtaD!2e10!4m2!3m1!1s0x340400ca1d283089:0x2239d7b5c18c1329"
+    }
+  ],
+  "photo_count": 4,
+  "fetched_at": "2026-10-24T00:38:27.419411+00:00"
+}

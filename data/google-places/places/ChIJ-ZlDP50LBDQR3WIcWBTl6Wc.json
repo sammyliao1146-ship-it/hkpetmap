@@ -1,0 +1,302 @@
+{
+  "google_place_id": "ChIJ-ZlDP50LBDQR3WIcWBTl6Wc",
+  "restaurant_ids": [
+    "restaurant:2296802672"
+  ],
+  "fetched_at": "2026-10-23T15:42:43.663045+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ-ZlDP50LBDQR3WIcWBTl6Wc",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2655 9315",
+    "internationalPhoneNumber": "+852 2655 9315",
+    "formattedAddress": "香港新界沙頭角順興街23號",
+    "location": {
+      "latitude": 22.544751299999998,
+      "longitude": 114.2232195
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=7487767731020522205&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 17:30",
+        "星期二: 07:00 – 17:30",
+        "星期三: 休息",
+        "星期四: 07:00 – 17:30",
+        "星期五: 07:00 – 17:30",
+        "星期六: 07:00 – 17:30",
+        "星期日: 07:00 – 17:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 72,
+    "displayName": {
+      "text": "農莊餐廳",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ-ZlDP50LBDQR3WIcWBTl6Wc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSRlkwbENhMHh5WDNaalNsOXZjaTExT1U5TmFYYxAB",
+        "relativePublishTimeDescription": "4 週前",
+        "rating": 3,
+        "text": {
+          "text": "以沙頭角荼記來講，得佢同街角正常D，隔離間大興就G G。\n呢到D炒嘢都ok ，但個蒸雞就窄窄地….",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "以沙頭角荼記來講，得佢同街角正常D，隔離間大興就G G。\n呢到D炒嘢都ok ，但個蒸雞就窄窄地….",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Li Wing Fai",
+          "uri": "https://www.google.com/maps/contrib/116399457729841823885/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0WEFq_Bzz56OB7Sn48GSd-KJn8yS0P5cF1bplP68YIHmIi1TBfQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-09-24T23:29:45.402437242Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSRlkwbENhMHh5WDNaalNsOXZjaTExT1U5TmFYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSRlkwbENhMHh5WDNaalNsOXZjaTExT1U5TmFYYxAB!2m1!1s0x34040b9d3f4399f9:0x67e9e514581c62dd"
+      },
+      {
+        "name": "places/ChIJ-ZlDP50LBDQR3WIcWBTl6Wc/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5bklHaG93RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "食物質素一般. 價錢絕對可以, 和市區差不多. 應該是老闆娘, 態度很好, 食物方面出咗少少問題, 佢願意馬上更換👍\n\n如果要入嚟 睇嘢要留意，星期一好多舖頭都唔開，見到有一間餐廳寫住逢星期一二休息。 海味街完全好似冇開(定還是我搵唔到呢? 好多舖頭都係落閘, 唔知平時係咪咁樣",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物質素一般. 價錢絕對可以, 和市區差不多. 應該是老闆娘, 態度很好, 食物方面出咗少少問題, 佢願意馬上更換👍\n\n如果要入嚟 睇嘢要留意，星期一好多舖頭都唔開，見到有一間餐廳寫住逢星期一二休息。 海味街完全好似冇開(定還是我搵唔到呢? 好多舖頭都係落閘, 唔知平時係咪咁樣",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "tam wellwell",
+          "uri": "https://www.google.com/maps/contrib/113517112791045428117/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiibnuhxZMj_gi5IvHNEs-yiKuZG4rJPwPx8UalxeFJXJ1NIem=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-03-04T05:54:59.483578Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5bklHaG93RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5bklHaG93RRAB!2m1!1s0x34040b9d3f4399f9:0x67e9e514581c62dd"
+      },
+      {
+        "name": "places/ChIJ-ZlDP50LBDQR3WIcWBTl6Wc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNucnRlNlJBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "港幣4x的午餐已經很少見\n畢竟是沙頭角禁區內，相信主要服務對象是居民\n價錢親民，質量過關。\n如果能夠到沙頭角禁區內，是值得一試的餐廳。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "港幣4x的午餐已經很少見\n畢竟是沙頭角禁區內，相信主要服務對象是居民\n價錢親民，質量過關。\n如果能夠到沙頭角禁區內，是值得一試的餐廳。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jimmy Ki",
+          "uri": "https://www.google.com/maps/contrib/110148915423634737540/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhuFcmHV5rdIkv1OKzv7mQXcjGzaDAoISiJS-08HEVoTDoL_0=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-09-26T06:21:35.894800Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNucnRlNlJBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNucnRlNlJBEAE!2m1!1s0x34040b9d3f4399f9:0x67e9e514581c62dd"
+      },
+      {
+        "name": "places/ChIJ-ZlDP50LBDQR3WIcWBTl6Wc/reviews/ChdDSUhNMG9nS0VNUC16TGlTbk5fMV93RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "我覺得這個飯菜很好👌吃😋！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我覺得這個飯菜很好👌吃😋！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "李瑜珅",
+          "uri": "https://www.google.com/maps/contrib/101294368982111396244/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrMJsX6vAiSI-Pep8dEqzO5GcFDC9pFXKiNgIrZENZrMBvW7Ph=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-06-14T04:18:34.395580Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VNUC16TGlTbk5fMV93RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VNUC16TGlTbk5fMV93RRAB!2m1!1s0x34040b9d3f4399f9:0x67e9e514581c62dd"
+      },
+      {
+        "name": "places/ChIJ-ZlDP50LBDQR3WIcWBTl6Wc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjcy03THFRRRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "風景怡人、民情樸素\n蜜糖雞翼非常香脆香脆",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "風景怡人、民情樸素\n蜜糖雞翼非常香脆香脆",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cheuk Ying Liu",
+          "uri": "https://www.google.com/maps/contrib/116235721904260015243/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVv7TownVTtE__ybuRS9nxHHmVuO9fs2hXkfmZUIL7E1Vrsw6s=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2020-04-04T12:37:51.155587Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNjcy03THFRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNjcy03THFRRRAB!2m1!1s0x34040b9d3f4399f9:0x67e9e514581c62dd"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040b9d3f4399f9:0x67e9e514581c62dd!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7487767731020522205&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040b9d3f4399f9:0x67e9e514581c62dd!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040b9d3f4399f9:0x67e9e514581c62dd!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040b9d3f4399f9:0x67e9e514581c62dd!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ-ZlDP50LBDQR3WIcWBTl6Wc/photos/Aa-ngMbdAYIzmPebCD7lLMIg44JV0j14LDFiKN58oQPzb218FCLrXkYuA1XsjBVl1DSccXxsTrgaCGwN_EMO7EcaoNuOi9gBxrjR0e7U2GWZUlF8r9R0tdQkL7S1NdxnT79wX2AFaFRMMib63ARsdZsvTox9e1Ok7xBG9jORebbBn2dsONsP3vPEVjTZRxzPeVPVaFCvVKyGzfgXhDWJGPTXLV4bkptIAwUooDjPSBf43NaPmooOp0kwldwqEbFHw-6--p3ky5LufPvf88YPS5kRJCZjpllUSw51d1NcmldH0JuWhx9CHb28DVXP1Eh-ovI_5GsYWvxlcKuTjvJ3YIAri7UJJ9SLMJXyT_V52csSTDUYu9D-g3kl7nEF3jnFdlFJqfUyUCeDk5oVWcIk4Tr84HiVzD4ZsEw",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "Hokhim Chan",
+          "uri": "https://maps.google.com/maps/contrib/106998912607259918751",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpmwhU0FFpXTwdCw8sxKmHYOLNBt8cGne2Yeug73iCU6LU7LY=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi_d76zwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi_d76zwE!2e10!4m2!3m1!1s0x34040b9d3f4399f9:0x67e9e514581c62dd"
+    },
+    "local_path": "photos/ChIJ-ZlDP50LBDQR3WIcWBTl6Wc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbWW70kUNgQT7tFv4bAmsZ_QWxRg_EFZwVpnTsBcBDrOe-zatFoVW-av0x5gIKNZ1mCqOacnfhHUaqczGdg0DZv5NDGo5FDft6ePkCJNfCAitrOp2xid3Z5hDVVE2IhOz7O7F2Bg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 219372
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

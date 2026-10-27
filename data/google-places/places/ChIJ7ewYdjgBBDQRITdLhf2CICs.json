@@ -1,0 +1,341 @@
+{
+  "google_place_id": "ChIJ7ewYdjgBBDQRITdLhf2CICs",
+  "restaurant_ids": [
+    "restaurant:3118800629"
+  ],
+  "fetched_at": "2026-10-23T15:42:45.644575+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ7ewYdjgBBDQRITdLhf2CICs",
+    "types": [
+      "cafe",
+      "coffee_shop",
+      "bakery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5508 3503",
+    "internationalPhoneNumber": "+852 5508 3503",
+    "formattedAddress": "1/F, Three Exchange Square, 8 Connaught Pl, Central, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.284487499999997,
+      "longitude": 114.1573595
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=3107627768260278049&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://fineprint.hk/pages/exchange-square",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:00 – 18:00",
+        "星期二: 06:00 – 18:00",
+        "星期三: 06:00 – 18:00",
+        "星期四: 06:00 – 18:00",
+        "星期五: 06:00 – 18:00",
+        "星期六: 06:00 – 18:00",
+        "星期日: 06:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-23T22:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 142,
+    "displayName": {
+      "text": "FINEPRINT",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJ7ewYdjgBBDQRITdLhf2CICs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KQ01YcGhkRFZJUjJGek1FZFhNblJMZGs1TVVWRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "我真係好鍾意佢哋嘅 Toast，用自家製酸種麵包，香氣十足，口感一流！😍\n如果我喺中環返工，應該會成日食，完全食唔厭 😂\n中環分店座位唔算多，所以好快就坐滿～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我真係好鍾意佢哋嘅 Toast，用自家製酸種麵包，香氣十足，口感一流！😍\n如果我喺中環返工，應該會成日食，完全食唔厭 😂\n中環分店座位唔算多，所以好快就坐滿～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "hkfoodday",
+          "uri": "https://www.google.com/maps/contrib/100611461692136420265/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVn66lNLAM6AQhIJixby8eKtPaZIhK-jRwZk8fMv8zIqPLEmuI=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-06T15:26:57.753952136Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KQ01YcGhkRFZJUjJGek1FZFhNblJMZGs1TVVWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KQ01YcGhkRFZJUjJGek1FZFhNblJMZGs1TVVWRRAB!2m1!1s0x340401387618eced:0x2b2082fd854b3721"
+      },
+      {
+        "name": "places/ChIJ7ewYdjgBBDQRITdLhf2CICs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1Qk9URlZiMkpLYW1KeWJubFhOMFp3ZVZaNk5GRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "TUNA MELT HKD 80\n酸種麵包表層與邊緣烤到金黃酥脆, 內裡柔軟濕潤, 切達起司牽絲延展, 鮪魚的鮮味與微微鹹味中和起司奶香味, 紅洋蔥 芹菜 酸黃瓜帶出輕辛與清新口感, 並融入蛋黃醬, 整體味道層次分明, 每口都有麵包與餡料, 不會太乾也不會太濕重。\n\nBLACK COFFEE HKD 30\n杯中深褐色澤均勻, 無浮渣, 味道是咖啡豆本身風味, 微果酸堅果風, 純粹回甘, 不會太稀薄有一定溫潤感。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "TUNA MELT HKD 80\n酸種麵包表層與邊緣烤到金黃酥脆, 內裡柔軟濕潤, 切達起司牽絲延展, 鮪魚的鮮味與微微鹹味中和起司奶香味, 紅洋蔥 芹菜 酸黃瓜帶出輕辛與清新口感, 並融入蛋黃醬, 整體味道層次分明, 每口都有麵包與餡料, 不會太乾也不會太濕重。\n\nBLACK COFFEE HKD 30\n杯中深褐色澤均勻, 無浮渣, 味道是咖啡豆本身風味, 微果酸堅果風, 純粹回甘, 不會太稀薄有一定溫潤感。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "洪家雯",
+          "uri": "https://www.google.com/maps/contrib/108956087264196776924/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfiZ8xxwXySnHusXIt5JghFrH2X8BmMWcC58blGTeLtdGrD6p1=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-09-22T02:36:10.105064335Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1Qk9URlZiMkpLYW1KeWJubFhOMFp3ZVZaNk5GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1Qk9URlZiMkpLYW1KeWJubFhOMFp3ZVZaNk5GRRAB!2m1!1s0x340401387618eced:0x2b2082fd854b3721"
+      },
+      {
+        "name": "places/ChIJ7ewYdjgBBDQRITdLhf2CICs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GWmVscEpOVkJ1ZDFOWldqRm9jbkpKZEdWMWQyYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "非常普，甚至ricotta toast對我來說有點太甜了，奶味是很重沒錯，但也就那樣，鹹口味還可以，不過也只是比ricotta那個好一點，喔而且酸種烤的太硬了啦，這輩子吃過最硬的酸種，拍照是很漂亮沒錯，但也只適合拍照",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常普，甚至ricotta toast對我來說有點太甜了，奶味是很重沒錯，但也就那樣，鹹口味還可以，不過也只是比ricotta那個好一點，喔而且酸種烤的太硬了啦，這輩子吃過最硬的酸種，拍照是很漂亮沒錯，但也只適合拍照",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "J. Y. L.",
+          "uri": "https://www.google.com/maps/contrib/113414016947198723277/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUW997mJhnFRn4PDEf4h5TW7HpBrGNAK3bsCxMZev9z8s7gV6REJw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-12-11T01:17:26.792145089Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GWmVscEpOVkJ1ZDFOWldqRm9jbkpKZEdWMWQyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GWmVscEpOVkJ1ZDFOWldqRm9jbkpKZEdWMWQyYxAB!2m1!1s0x340401387618eced:0x2b2082fd854b3721"
+      },
+      {
+        "name": "places/ChIJ7ewYdjgBBDQRITdLhf2CICs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Sb2N6UnZSREpUV0VKd2MzWXhiRVZmZDBweVkzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "搭飛機前享受在香港的最後一個早餐\n\n不過鹹的燻鮭魚\n搭配不小心就會膩的酪梨\n加上脆口的堅果\n真的絕配欸！\n我吃的很滿足\n只是地點不太好找",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "搭飛機前享受在香港的最後一個早餐\n\n不過鹹的燻鮭魚\n搭配不小心就會膩的酪梨\n加上脆口的堅果\n真的絕配欸！\n我吃的很滿足\n只是地點不太好找",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mavis Huang",
+          "uri": "https://www.google.com/maps/contrib/102209424227268093304/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZrwqQ5Y5TfeegwiqDdxpAstn_TIyHKyusjcK7jGoTDy4corU4=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-08-03T14:22:07.319661903Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Sb2N6UnZSREpUV0VKd2MzWXhiRVZmZDBweVkzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Sb2N6UnZSREpUV0VKd2MzWXhiRVZmZDBweVkzYxAB!2m1!1s0x340401387618eced:0x2b2082fd854b3721"
+      },
+      {
+        "name": "places/ChIJ7ewYdjgBBDQRITdLhf2CICs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pONFdVWjVYMll6Y1hkNGRIaFdOMmh1ZGpoSVIwRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "食物非常優質，咖啡好味，亦比其他連鎖咖啡店平，會繼續支持",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物非常優質，咖啡好味，亦比其他連鎖咖啡店平，會繼續支持",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "beth C",
+          "uri": "https://www.google.com/maps/contrib/103742889619852108016/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKu66N1i1QD7YCop1S5a1HUni9Sxm_PvyYN_8UpNxAjacerqA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-07T09:35:52.848343712Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pONFdVWjVYMll6Y1hkNGRIaFdOMmh1ZGpoSVIwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pONFdVWjVYMll6Y1hkNGRIaFdOMmh1ZGpoSVIwRRAB!2m1!1s0x340401387618eced:0x2b2082fd854b3721"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401387618eced:0x2b2082fd854b3721!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3107627768260278049&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401387618eced:0x2b2082fd854b3721!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401387618eced:0x2b2082fd854b3721!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401387618eced:0x2b2082fd854b3721!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ7ewYdjgBBDQRITdLhf2CICs/photos/Aa-ngMYy2HQqc4bJ26-4FeG5jhWPx9BMnV287lLWpOhqdzNhvgje3eUnjJnAbXn-_kkWx3Nnadbv6U22EWGHESFHDTXnIsOZYiACP8LjjuQgnfb5qXEYfN36PPFgWOYydUwQdTJbTjlcV1HubzQbKVHdbXQa9x2vpNSSLzBSH5EleWB6dRYTKyeBEn5Bx8Y_vlrtVO7M2YyotrEbG3X86Rqarpup47Zdyw3-5xsJARbuijXdo1fQzemoH21xPeri9A_t7a9lEHchNLfKAGjD6JM2aptJ-5NTCUB2Nkb0ytxvT77eOiVoVdvcbO-1R9xZ3pyhoXziqfMPWPsb5W-Y0QaM0lfeWP4jLKcHrR2GDxTUvvav9uHLVuCZ6N3tGwCF0X525BUG4RpiT334yd9xKRsOIIs1Xul-X3I",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Booz Bhumirat",
+          "uri": "https://maps.google.com/maps/contrib/109134961410542948176",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkMioefWpLauoGV-_zFG1NYJeyip8qingffZOcacECwO42c6E=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC9w9aNvQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9w9aNvQE!2e10!4m2!3m1!1s0x340401387618eced:0x2b2082fd854b3721"
+    },
+    "local_path": "photos/ChIJ7ewYdjgBBDQRITdLhf2CICs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdO0FkSZHOqLJ9B2Lna3w_zcfQUSrxtqzKFk7yD4H-TeDNVbHzGYJpCAZARvCG9WTNuidlLHM0ZR12vLVfa1j4vnm2xt3Ach-qx3goTreSKyrPyiDjmPdBrO-RO0qCTBK3acR10sA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 216469
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://fineprint.hk/pages/fineprint-menu-exchange-square",
+        "label": "Menu",
+        "source_url": "https://fineprint.hk/pages/exchange-square",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "coffee_shop",
+      "bakery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://fineprint.hk/pages/fineprint-menu-exchange-square"
+}

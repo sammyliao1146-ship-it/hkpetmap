@@ -1,0 +1,327 @@
+{
+  "google_place_id": "ChIJq6oerE0HBDQRW2HlcxPP2P8",
+  "restaurant_ids": [
+    "restaurant:2263080113"
+  ],
+  "fetched_at": "2026-10-23T15:41:38.933435+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJq6oerE0HBDQRW2HlcxPP2P8",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2958 0333",
+    "internationalPhoneNumber": "+852 2958 0333",
+    "formattedAddress": "香港九龍長沙灣東京街31號",
+    "location": {
+      "latitude": 22.336261699999998,
+      "longitude": 114.1585672
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=18435712757096866139&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 23:00",
+        "星期二: 11:30 – 23:00",
+        "星期三: 11:30 – 23:00",
+        "星期四: 11:30 – 23:00",
+        "星期五: 11:30 – 23:00",
+        "星期六: 11:30 – 23:00",
+        "星期日: 12:00 – 23:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 441,
+    "displayName": {
+      "text": "潮興正宗打冷小廚",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "廣東菜餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "primaryType": "cantonese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJq6oerE0HBDQRW2HlcxPP2P8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJMVdGTkxWRTlIY1VWTGExVnFaMWRUWjFKaFVYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "潮州食品出色，手打黃金牛丸+鹵水拼盤+炸蠔餅用來伴啤酒一流👍🏻👍🏻\n可惜鵝片及鵝肝較為遜色😢😢😢",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "潮州食品出色，手打黃金牛丸+鹵水拼盤+炸蠔餅用來伴啤酒一流👍🏻👍🏻\n可惜鵝片及鵝肝較為遜色😢😢😢",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Raymond Cheung",
+          "uri": "https://www.google.com/maps/contrib/101061283642345735790/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwo0cFlzFTqfbiPvdIX-zYt9feDcrcWVppZ-deM7H1zu38WM8v=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-07-31T00:29:30.329628335Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJMVdGTkxWRTlIY1VWTGExVnFaMWRUWjFKaFVYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJMVdGTkxWRTlIY1VWTGExVnFaMWRUWjFKaFVYYxAB!2m1!1s0x3404074dac1eaaab:0xffd8cf1373e5615b"
+      },
+      {
+        "name": "places/ChIJq6oerE0HBDQRW2HlcxPP2P8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WU05IbDBSRzgwTTBzM1VIVnphakJXUW5sNmVFRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "潮興正宗打冷小廚｜香港街坊至愛 地道潮式打冷夠晒風味🍻\n想食返最原汁原味嘅潮州打冷，嚟潮興正宗打冷小廚就啱晒！十足道地潮汕手藝，唔多花巧，全靠真材實料留住一班老街客，無論晚飯定宵夜撳酒，都超對味😋\n必試鎮店潮式滷水拼盤絕對零踩雷！滷鵝片切得薄身均勻，浸足自家秘製老滷，鹹香入晒肌理，鵝肉嫩滑唔韌，一啖落口完全冇腥膩味；仲有滷鵝肝、腩仔肉、豬頭肉搭配，滷香濃郁又唔搶味，配白粥或者啤酒都一流。\n鐘意海鮮就一定要試炸蠔餅！用新鮮蠔仔加蛋漿、香蔥香煎，外層金香脆口，內裏蠔肉飽滿多汁，咬落滿口鮮甜，香到停唔到手。仲有經典魚飯，魚肉冰爽嫩滑，蘸少少普寧豆醬，鮮味即刻昇華，簡單卻最考功夫。\n店内仲有超多地道潮式小炒，爆炒鵝腸爽脆彈牙，芥蘭牛肉鑊氣十足，沙茶醬濃香掛汁，撈飯可以食多兩碗。雜鹹小菜款式齊全，鹹香解膩，完美還原潮州日常風味。\n環境就係親民街坊大排档格局，樸實乾淨，上菜速度快，唔使耐等。價錢貼地份量足，唔使大出血都可以食到夠晒地道嘅打冷風味，不論三五知己聚舊",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "潮興正宗打冷小廚｜香港街坊至愛 地道潮式打冷夠晒風味🍻\n想食返最原汁原味嘅潮州打冷，嚟潮興正宗打冷小廚就啱晒！十足道地潮汕手藝，唔多花巧，全靠真材實料留住一班老街客，無論晚飯定宵夜撳酒，都超對味😋\n必試鎮店潮式滷水拼盤絕對零踩雷！滷鵝片切得薄身均勻，浸足自家秘製老滷，鹹香入晒肌理，鵝肉嫩滑唔韌，一啖落口完全冇腥膩味；仲有滷鵝肝、腩仔肉、豬頭肉搭配，滷香濃郁又唔搶味，配白粥或者啤酒都一流。\n鐘意海鮮就一定要試炸蠔餅！用新鮮蠔仔加蛋漿、香蔥香煎，外層金香脆口，內裏蠔肉飽滿多汁，咬落滿口鮮甜，香到停唔到手。仲有經典魚飯，魚肉冰爽嫩滑，蘸少少普寧豆醬，鮮味即刻昇華，簡單卻最考功夫。\n店内仲有超多地道潮式小炒，爆炒鵝腸爽脆彈牙，芥蘭牛肉鑊氣十足，沙茶醬濃香掛汁，撈飯可以食多兩碗。雜鹹小菜款式齊全，鹹香解膩，完美還原潮州日常風味。\n環境就係親民街坊大排档格局，樸實乾淨，上菜速度快，唔使耐等。價錢貼地份量足，唔使大出血都可以食到夠晒地道嘅打冷風味，不論三五知己聚舊",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kam lam",
+          "uri": "https://www.google.com/maps/contrib/118086426969297168766/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLOURMgnupz4tE8XNh8FbCZOTBfjjJttJyvwfYRO2BukrO2Ww=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-01T16:42:09.992713895Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WU05IbDBSRzgwTTBzM1VIVnphakJXUW5sNmVFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WU05IbDBSRzgwTTBzM1VIVnphakJXUW5sNmVFRRAB!2m1!1s0x3404074dac1eaaab:0xffd8cf1373e5615b"
+      },
+      {
+        "name": "places/ChIJq6oerE0HBDQRW2HlcxPP2P8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkdmNGZHhNa0l6TkhKNGNHcHNVVkF0V0hKcFdXYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳有多款滷水同潮州家鄉菜，碟碟份量超大\n\n普寧炸豆腐\n外皮炸得金黃色，咬落脆而不硬，蘸上特製韭菜鹽水，剛好解膩，仲帶啖啖豆香\n\n油鹽水浸蜆\n蜆肉粒粒飽滿，浸泡油鹽水中，鮮味十足，底層既粉絲索滿湯汁，味道清香\n\n潮州黃金牛丸\n牛丸口感彈牙爽脆，咬落有豐富的牛肉汁，牛味濃郁，面頭裹滿鹹蛋黃，鹹香惹味\n\n瑤柱扒頭苗\n瑤柱芡汁濃稠掛係豆苗上，豆苗保持翠綠清脆，整體味道甘甜鮮美，口感清爽",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳有多款滷水同潮州家鄉菜，碟碟份量超大\n\n普寧炸豆腐\n外皮炸得金黃色，咬落脆而不硬，蘸上特製韭菜鹽水，剛好解膩，仲帶啖啖豆香\n\n油鹽水浸蜆\n蜆肉粒粒飽滿，浸泡油鹽水中，鮮味十足，底層既粉絲索滿湯汁，味道清香\n\n潮州黃金牛丸\n牛丸口感彈牙爽脆，咬落有豐富的牛肉汁，牛味濃郁，面頭裹滿鹹蛋黃，鹹香惹味\n\n瑤柱扒頭苗\n瑤柱芡汁濃稠掛係豆苗上，豆苗保持翠綠清脆，整體味道甘甜鮮美，口感清爽",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Joey Leung",
+          "uri": "https://www.google.com/maps/contrib/112626700663081566092/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_TiADpOI5bbITGAo7YnQZY_9WSzMglJWPjYKMvy8RkThSJg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-27T08:55:52.015834763Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkdmNGZHhNa0l6TkhKNGNHcHNVVkF0V0hKcFdXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkdmNGZHhNa0l6TkhKNGNHcHNVVkF0V0hKcFdXYxAB!2m1!1s0x3404074dac1eaaab:0xffd8cf1373e5615b"
+      },
+      {
+        "name": "places/ChIJq6oerE0HBDQRW2HlcxPP2P8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsb01UZzJaM2w1Ykc5dVJraDJiMEV5VEVWRFpsRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "長沙灣的「潮興正宗打冷 」，風味正宗，可嚐到家的味道。\n鵝片$158\n鹵水鵝片送埋鵝肝，調味恰到好處。鵝肝滑溜，鵝片啖啖肉，好正。\n鹹菜炆鱔魚$88\n鱔，一般煮法，都比人感覺比較肥膩，潮式的鹹菜煮鱔是我其中一個最喜愛的食法，亦可以提鮮，亦可以減低那種肥膩的感覺，鹹菜不會太鹹，非常好的配搭。\n瑤柱扒雙蔬$108\n瑤柱扒雙蔬不過不失，不過我比較喜歡食菜，不用太多油，感覺也不錯。\n豬肚粥$80\n煮粥用新鮮的食材好重要，直接影響成碗粥的味道，而潮州粥的重點就係米不能煲得太腍，上湯要夠鮮才好味，豬肚也煮得夠腍夠味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "長沙灣的「潮興正宗打冷 」，風味正宗，可嚐到家的味道。\n鵝片$158\n鹵水鵝片送埋鵝肝，調味恰到好處。鵝肝滑溜，鵝片啖啖肉，好正。\n鹹菜炆鱔魚$88\n鱔，一般煮法，都比人感覺比較肥膩，潮式的鹹菜煮鱔是我其中一個最喜愛的食法，亦可以提鮮，亦可以減低那種肥膩的感覺，鹹菜不會太鹹，非常好的配搭。\n瑤柱扒雙蔬$108\n瑤柱扒雙蔬不過不失，不過我比較喜歡食菜，不用太多油，感覺也不錯。\n豬肚粥$80\n煮粥用新鮮的食材好重要，直接影響成碗粥的味道，而潮州粥的重點就係米不能煲得太腍，上湯要夠鮮才好味，豬肚也煮得夠腍夠味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CE Wing",
+          "uri": "https://www.google.com/maps/contrib/102990569747202656646/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViXclTJzk6TepK5ruriaMV6ueRveBq4hTxOiIXLF_27jCgtHGW6Q=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-01T03:46:06.510496612Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsb01UZzJaM2w1Ykc5dVJraDJiMEV5VEVWRFpsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsb01UZzJaM2w1Ykc5dVJraDJiMEV5VEVWRFpsRRAB!2m1!1s0x3404074dac1eaaab:0xffd8cf1373e5615b"
+      },
+      {
+        "name": "places/ChIJq6oerE0HBDQRW2HlcxPP2P8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twdFpFUk9TalZhWVUxZlZVczJRakpCWVhVMmNtYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 3,
+        "text": {
+          "text": "蠔餅，比一般還一般\n韭菜豬紅，正常\n蠔仔粥，唔錯、幾好食\n滷水拼盤，唔錯\n\n服務就真係一般。雖然多人，但係仲有個餸遲遲都未黎。追下阿姐，第一次冇反應，第二次冇反應，第三次叫我地等一陣，第四次終於肯去睇下，然後話......賣曬喇",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "蠔餅，比一般還一般\n韭菜豬紅，正常\n蠔仔粥，唔錯、幾好食\n滷水拼盤，唔錯\n\n服務就真係一般。雖然多人，但係仲有個餸遲遲都未黎。追下阿姐，第一次冇反應，第二次冇反應，第三次叫我地等一陣，第四次終於肯去睇下，然後話......賣曬喇",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "3Y coolsummer",
+          "uri": "https://www.google.com/maps/contrib/117664584619476611877/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlItCBkB2_DI6wen7TLSaaaHiR5F78nfTZEMI3kDj7q1BtaUk=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-02-08T10:35:48.843604072Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twdFpFUk9TalZhWVUxZlZVczJRakpCWVhVMmNtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twdFpFUk9TalZhWVUxZlZVczJRakpCWVhVMmNtYxAB!2m1!1s0x3404074dac1eaaab:0xffd8cf1373e5615b"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404074dac1eaaab:0xffd8cf1373e5615b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=18435712757096866139&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404074dac1eaaab:0xffd8cf1373e5615b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404074dac1eaaab:0xffd8cf1373e5615b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404074dac1eaaab:0xffd8cf1373e5615b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJq6oerE0HBDQRW2HlcxPP2P8/photos/Aa-ngMbIgPDuR5XK3Cgi0wTML-inILXfE0Ibc8GbYNbmldbvxtmrlhgGD4pUBKFpLtGaNAXkv99Aawrq_eCUeIhoobUPrQnBvYEhkMz_v0Fp4HXiNnfDocIVJk9HTN2AVeHljqQiiSNTsnuVfl-hu4MS_aL9fkA1quPEXpgWpZBdk3haY0ry4qPWCNYexfQm5uDeak-CaRdNJbKc2WOSw__nnH6njOTNJi42xoYjxAoY19dYkMMmtlVzu_baIuY6_wRyBzEopULv3eAkq4R2sTslzNQ7oBq-7f2P9SEIPwV0unjnZUZ7hnnkJnWIr8UR_X8mxgsgcS6BxK7COQUdLvZTe0pAX-CxVxoboHIIFkKPumolzgF8tTztI0FdqPNrRp_ZPV5ZUnIh3Q7QnpMAVnzDpo0EoaFrutHTff5QxcSXNoDryA",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Shawn Ng",
+          "uri": "https://maps.google.com/maps/contrib/106414572845292254196",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHLMx0SMxKu5E_X4F8EeSrQjBy_FwGBmwvY6hoILG1NlFmI7Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCtPP5LCf5GbdpW41_SX1Rj&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCtPP5LCf5GbdpW41_SX1Rj!2e10!4m2!3m1!1s0x3404074dac1eaaab:0xffd8cf1373e5615b"
+    },
+    "local_path": "photos/ChIJq6oerE0HBDQRW2HlcxPP2P8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBdS3rOLnRmTclNrujOud6GLdGCivx37zOKOhJuQ0WR9de_tHyRrStGsDd9VGyt50J1dxe_bNc1sBlM_r0IY3BmLLs2WvvsXF9bl-ul_s_gD_mXGNn62kw2X9CLd_-qyCmzcGJIQ4zT69E=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 249893
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cantonese_restaurant",
+    "label": "廣東菜餐廳",
+    "types": [
+      "cantonese_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

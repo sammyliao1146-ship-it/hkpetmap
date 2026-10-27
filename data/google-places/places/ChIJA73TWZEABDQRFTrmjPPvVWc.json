@@ -1,0 +1,394 @@
+{
+  "google_place_id": "ChIJA73TWZEABDQRFTrmjPPvVWc",
+  "restaurant_ids": [
+    "restaurant:2261803626"
+  ],
+  "fetched_at": "2026-10-23T15:44:18.058503+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJA73TWZEABDQRFTrmjPPvVWc",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2382 2323",
+    "internationalPhoneNumber": "+852 2382 2323",
+    "formattedAddress": "Shop R010, Level 3, 圓方1 Austin Rd W, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3043983,
+      "longitude": 114.1608789
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=7446121388246972949&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://gaiagroup.com.hk/restaurant/joia/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 23:00",
+        "星期二: 11:00 – 23:00",
+        "星期三: 11:00 – 23:00",
+        "星期四: 11:00 – 23:00",
+        "星期五: 11:00 – 23:00",
+        "星期六: 11:00 – 23:00",
+        "星期日: 11:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "userRatingCount": 364,
+    "displayName": {
+      "text": "Joia Ristorante Italiano",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "義大利餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "italian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJA73TWZEABDQRFTrmjPPvVWc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOM2VqRmpZM000VnpSMWVsazFka0l6Ukdsa1IyYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "餐廳環境氣氛很好，食物都好好味！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳環境氣氛很好，食物都好好味！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cecilia Kong",
+          "uri": "https://www.google.com/maps/contrib/100614524492169225897/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKfBgXEwOALK2AZ4q-F0ecoS0ki7rpaxaNINOnRV1GzDK1OQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-31T11:53:51.433782473Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOM2VqRmpZM000VnpSMWVsazFka0l6Ukdsa1IyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOM2VqRmpZM000VnpSMWVsazFka0l6Ukdsa1IyYxAB!2m1!1s0x3404009159d3bd03:0x6755eff38ce63a15"
+      },
+      {
+        "name": "places/ChIJA73TWZEABDQRFTrmjPPvVWc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xab1gyOWxXVGsyYzJORldHbGFUVTVHZUZGTmFrRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "*在舒適嘅環境裏💕，加上令人回味嘅美食.🥂.👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "*在舒適嘅環境裏💕，加上令人回味嘅美食.🥂.👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "eva leung",
+          "uri": "https://www.google.com/maps/contrib/107652948842148368667/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqIZm8PW19eHbLHrCqRiy6pWukmpcVX-YGhsOdP_RdnX6u_Q=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-30T14:08:08.174104421Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xab1gyOWxXVGsyYzJORldHbGFUVTVHZUZGTmFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xab1gyOWxXVGsyYzJORldHbGFUVTVHZUZGTmFrRRAB!2m1!1s0x3404009159d3bd03:0x6755eff38ce63a15"
+      },
+      {
+        "name": "places/ChIJA73TWZEABDQRFTrmjPPvVWc/reviews/Ci9DQUlRQUNvZENodHljRjlvT210eWJ6UkdWbGRqVDNvd2EzTnFNMHBJZG1WdmRXYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好耐無食過唔「鞋口」、爽嘅燒雞，大推👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好耐無食過唔「鞋口」、爽嘅燒雞，大推👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kelvin",
+          "uri": "https://www.google.com/maps/contrib/107687373114650464293/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLyBx7xzHToqpP41brX9O-41UkwiyUB97isJlEbhVB8OXATJQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-29T16:21:44.547115155Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210eWJ6UkdWbGRqVDNvd2EzTnFNMHBJZG1WdmRXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210eWJ6UkdWbGRqVDNvd2EzTnFNMHBJZG1WdmRXYxAB!2m1!1s0x3404009159d3bd03:0x6755eff38ce63a15"
+      },
+      {
+        "name": "places/ChIJA73TWZEABDQRFTrmjPPvVWc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiOGVXYjB3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "喺ELEMENTS嚟講價格高嘅意大利餐廳其實唔係一個問題，不過都期望食物同埋服務有咁上下水準，但係今次就有啲失望啦。\n\n食物水準平平無奇，如果你問我有無特別出色嘅，我會講個牛扒OK嘅。紅蝦刺身整得唔好食有啲腥。其他都係一般啦。個薯仔粉團整得一啲都唔煙靭，好粉🙂‍↕️\n\n不過我真係要講吓佢哋嘅服務。所有Staff都冇乜禮貌，好似個個都唔係好想做咁。仲有我哋book咗8pm , 有個朋友9:30先嚟到，但係9:30之前佢哋就成日行過嚟問你朋友幾點嚟，嚟咗之後我朋友只係食咗半個鐘，佢哋就係咁執我哋啲嘢，收晒我哋啲碟，好似吹我哋走咁。但係明明寫住11點先close。怪唔之得你哋冇生意啦，星期六都係得四五枱客。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "喺ELEMENTS嚟講價格高嘅意大利餐廳其實唔係一個問題，不過都期望食物同埋服務有咁上下水準，但係今次就有啲失望啦。\n\n食物水準平平無奇，如果你問我有無特別出色嘅，我會講個牛扒OK嘅。紅蝦刺身整得唔好食有啲腥。其他都係一般啦。個薯仔粉團整得一啲都唔煙靭，好粉🙂‍↕️\n\n不過我真係要講吓佢哋嘅服務。所有Staff都冇乜禮貌，好似個個都唔係好想做咁。仲有我哋book咗8pm , 有個朋友9:30先嚟到，但係9:30之前佢哋就成日行過嚟問你朋友幾點嚟，嚟咗之後我朋友只係食咗半個鐘，佢哋就係咁執我哋啲嘢，收晒我哋啲碟，好似吹我哋走咁。但係明明寫住11點先close。怪唔之得你哋冇生意啦，星期六都係得四五枱客。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "HoiC咀叼叼",
+          "uri": "https://www.google.com/maps/contrib/112394868844129502243/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4O7q5yd5-GsbnKTk5zisp3FZYN1Ao7XKdIgby62TxdJu367E=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-07-28T12:32:22.515270Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiOGVXYjB3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiOGVXYjB3RRAB!2m1!1s0x3404009159d3bd03:0x6755eff38ce63a15"
+      },
+      {
+        "name": "places/ChIJA73TWZEABDQRFTrmjPPvVWc/reviews/ChZDSUhNMG9nS0VJQ0FnSURjdEpTWUdREAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "九龍站Elements頂樓自成一角，最近有唔少露天餐廳進駐，周圍是花花草草，感覺片刻寧靜。\n\n很適合放工／週末來嘆下世界。\n\n今日來JOIA試試它的Semi Buffet Brunch，餐廳是主打意大利菜式的！\n\n店內環境高貴優雅， 環境舒適。 加上光線柔和，頗有西式情調，一坐低店員就主動問我地要sparkling/ still water，感覺幾高級。\n\n首先來了意式麵包，三款配上黑醋都挺開胃～～麵包口感外脆內軟，正！\n特別推介意式蕃茄包，酸酸地好開胃。\n\nbuffet前菜絕對加分，可選擇自己愛吃的！！\n\n我和朋友分別點了一位buffet和一位松露蘑菇湯。\n\nSelection of appetizers Italian cheese & desserts from our daily buffet\n自助沙律吧地方都幾大，加上補足得快～可以任意配撘自製沙律。\n最後要特別一提的是這個任食buffet有海鮮的選擇！海蝦和青口質素能說得上新鮮又清甜。 前菜蕃茄伴芝士都好正，食落清新得來又唔會話好滯，仲可以留肚食之後嘅嘢！紅菜頭清甜，選擇有別於其他餐廳的buffet。\n\n朋友揀左Soup of the week: Mixed Mushroom soup with truffle oil\n松露蘑菇湯味道超香濃，飲落好鮮甜重菇味，能夠做出比其他餐廳更突出的濃郁，而且有淡淡松露味，好值得飲！\n\nMAIN COURSE -Meat- : Slow cooked wagyu beef with crispy potato and onion puree, greens and gravy\n和牛厚身，牛肉味濃，食落唔會有筋或渣，油脂跟肉的比例相當出色\n油脂不算多，口感軟身，微微帶入口即溶嘅感覺，絕對係一試難忘嘅美味！\n\nPizza: Parma ham pizza with soft cheese and fresh tomato\n這個薄餅來得很快！面頭鋪滿左風乾帕爾馬火腿，賣相好好。\n是薄底的，不會太多麵粉，食既時候有陣陣的炭味，幾有口感，溫度夠熱。帕爾馬火腿已經非常好食，加埋芝士的鹹香令味道更香更濃更好味！肯定滿足到所有喜歡薄餅的人。\n\n甜品味道也不錯，特別是藍莓芝士蛋糕，食到好滿足～\n\n店員服務親切，用餐環境高貴優雅，最重要係廚師廚藝精湛～\n價錢係$ 288 Buffet + Main，到依家仲好回味！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "九龍站Elements頂樓自成一角，最近有唔少露天餐廳進駐，周圍是花花草草，感覺片刻寧靜。\n\n很適合放工／週末來嘆下世界。\n\n今日來JOIA試試它的Semi Buffet Brunch，餐廳是主打意大利菜式的！\n\n店內環境高貴優雅， 環境舒適。 加上光線柔和，頗有西式情調，一坐低店員就主動問我地要sparkling/ still water，感覺幾高級。\n\n首先來了意式麵包，三款配上黑醋都挺開胃～～麵包口感外脆內軟，正！\n特別推介意式蕃茄包，酸酸地好開胃。\n\nbuffet前菜絕對加分，可選擇自己愛吃的！！\n\n我和朋友分別點了一位buffet和一位松露蘑菇湯。\n\nSelection of appetizers Italian cheese & desserts from our daily buffet\n自助沙律吧地方都幾大，加上補足得快～可以任意配撘自製沙律。\n最後要特別一提的是這個任食buffet有海鮮的選擇！海蝦和青口質素能說得上新鮮又清甜。 前菜蕃茄伴芝士都好正，食落清新得來又唔會話好滯，仲可以留肚食之後嘅嘢！紅菜頭清甜，選擇有別於其他餐廳的buffet。\n\n朋友揀左Soup of the week: Mixed Mushroom soup with truffle oil\n松露蘑菇湯味道超香濃，飲落好鮮甜重菇味，能夠做出比其他餐廳更突出的濃郁，而且有淡淡松露味，好值得飲！\n\nMAIN COURSE -Meat- : Slow cooked wagyu beef with crispy potato and onion puree, greens and gravy\n和牛厚身，牛肉味濃，食落唔會有筋或渣，油脂跟肉的比例相當出色\n油脂不算多，口感軟身，微微帶入口即溶嘅感覺，絕對係一試難忘嘅美味！\n\nPizza: Parma ham pizza with soft cheese and fresh tomato\n這個薄餅來得很快！面頭鋪滿左風乾帕爾馬火腿，賣相好好。\n是薄底的，不會太多麵粉，食既時候有陣陣的炭味，幾有口感，溫度夠熱。帕爾馬火腿已經非常好食，加埋芝士的鹹香令味道更香更濃更好味！肯定滿足到所有喜歡薄餅的人。\n\n甜品味道也不錯，特別是藍莓芝士蛋糕，食到好滿足～\n\n店員服務親切，用餐環境高貴優雅，最重要係廚師廚藝精湛～\n價錢係$ 288 Buffet + Main，到依家仲好回味！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mario Mario",
+          "uri": "https://www.google.com/maps/contrib/110370483073960382014/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkrZp_WnJqFRWqAa2Se0ALFoa49SDXiFJ2m5F7kifxqNVTzA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2020-05-26T05:55:17.229335Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURjdEpTWUdREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURjdEpTWUdREAE!2m1!1s0x3404009159d3bd03:0x6755eff38ce63a15"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404009159d3bd03:0x6755eff38ce63a15!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7446121388246972949&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404009159d3bd03:0x6755eff38ce63a15!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404009159d3bd03:0x6755eff38ce63a15!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404009159d3bd03:0x6755eff38ce63a15!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "450"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJA73TWZEABDQRFTrmjPPvVWc/photos/Aa-ngMY_-brPoOFDcaaVlwpgaoEu3lJs3l2TTuSAc5jmipuzKW-wX8hsiZWq5_2FHpKz570EblS57YJoY6Ty4VjVDAomiefeooVHgUkF_twSGYffavefU93W63NIVw5O22mW0kND9kfkwH5Iei0C5Rf8leL05ebwXPibG8T-oNzS0fR4qb-vnWWVQ2i1olFO5MV-CZ_bB_cPAxt5DgtY42Ev0i3d4YNprCJkH-wIcbIUZurBiXTi0Jyt_OCHqiGH5qhk6iyrnX4bPtTszg8gH-Ac81AB7hGhdp13aOCaLmh3QMj7RsOCNU_GuD4nilAsch27xZsKw7kOSgZF7hhAWq29Ub6YD0qLRbzdsZx1jQ3lKtgfZaDtSkQCZs3DE6arPRQ4fbclmODkBmDVE574R8m2qdOKXp07VwgJplZl0wBHsUwxpw",
+      "widthPx": 4800,
+      "heightPx": 3281,
+      "authorAttributions": [
+        {
+          "displayName": "Joia Ristorante Italiano",
+          "uri": "https://maps.google.com/maps/contrib/101723329574365785414",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX84l0vc0v32VMoeik5QGqagXLqnMYd5AQZzvSO-lCHUJ8zXy-y=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDZaRe0-VRO9nYBZG5wmRH3&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDZaRe0-VRO9nYBZG5wmRH3!2e10!4m2!3m1!1s0x3404009159d3bd03:0x6755eff38ce63a15"
+    },
+    "local_path": "photos/ChIJA73TWZEABDQRFTrmjPPvVWc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYaX38Q8olxapgyRRh-OJdZfI8HuKfxoHwCE7bqBpIpZPMyndn4mZCEfpR0-2h4Gkd4MvDj8GOvKoYHRTJrE2JoHv3ufWKok0v5Q1duVZASeaA8BlxunoboceDoRg84FYMQk-_-sjo3BpV=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 141462
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://inline.app/groups/gaiagroup?utm=website",
+        "label": "Reservation",
+        "source_url": "https://gaiagroup.com.hk/restaurant/joia/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://inline.app/booking/joia/elements",
+        "label": "Reserve now",
+        "source_url": "https://gaiagroup.com.hk/restaurant/joia/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/Joia-HH-A1-menu-lunch-set-2026_V8-1_compressed.pdf",
+        "label": "J Bar Lunch Set",
+        "source_url": "https://gaiagroup.com.hk/restaurant/joia/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/Joia-HH-A1-menu-small-snack-2026_V5.pdf",
+        "label": "J Bar Snacks",
+        "source_url": "https://gaiagroup.com.hk/restaurant/joia/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/JOIA_240007_ALC-Menu_V63-297mm-x-310mm_V16s.pdf",
+        "label": "ALC Menu",
+        "source_url": "https://gaiagroup.com.hk/restaurant/joia/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/Joia-Tea-Set-2026.pdf",
+        "label": "Tea Set Menu",
+        "source_url": "https://gaiagroup.com.hk/restaurant/joia/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/JOIA-A5-Happy-Hour-menu.pdf",
+        "label": "Happy Hour Menu",
+        "source_url": "https://gaiagroup.com.hk/restaurant/joia/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/JOIA-Dessert-2025V3-1.pdf",
+        "label": "Dessert Menu",
+        "source_url": "https://gaiagroup.com.hk/restaurant/joia/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/JOIA_260005_Bar-Menu-V2-copy.pdf",
+        "label": "Drink List",
+        "source_url": "https://gaiagroup.com.hk/restaurant/joia/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "italian_restaurant",
+    "label": "義大利餐廳",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://inline.app/groups/gaiagroup?utm=website",
+  "menu_url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/Joia-HH-A1-menu-lunch-set-2026_V8-1_compressed.pdf"
+}

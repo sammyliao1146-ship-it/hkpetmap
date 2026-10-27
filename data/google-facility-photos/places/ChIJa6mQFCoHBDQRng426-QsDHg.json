@@ -1,0 +1,40 @@
+{
+  "id": "ChIJa6mQFCoHBDQRng426-QsDHg",
+  "types": [
+    "city_park",
+    "tourist_attraction",
+    "cultural_landmark",
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍九龍城",
+  "location": {
+    "latitude": 22.3321296,
+    "longitude": 114.19032849999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8650338345982234270&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "九龍寨城公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "city_park",
+  "photos": [
+    {
+      "name": "places/ChIJa6mQFCoHBDQRng426-QsDHg/photos/Aa-ngMao2muXEcuXvK-G8gDXEl1XiR_s5sEBKplGbdf161nmTFi9cRqecuuCrXnnrBa3ON0Q7A2WF3svThur1DFhM9kI_qNYhvQyvQ4pkm3cVt0mpcOQk_TJi40VS6Q7Ik2lwqnkXowEZGc1sdE0h2NrYESK1CmsI-UsmE0a5Kekgre5eChFX9HiRp4uD-lzaAEz-oueyZUlGtYA0hjfnEuq0jyUcwtmlWC9m3J0dxL-MQVVMP8dO8wiFSi8WE8kfs8HsZmQf4KYgtixAZHSii4F8L-uvWoyHnKLIntG2Q9AmJfVpE9-zyYBwemBhJdRmMvBnUCXoetpTPlQHOladhIwkd_FGiMfMtJAXuTU8UAeyuqwdbuWGEIX_qUEu_2r-DSwJFRB-MsyHsSa0Qu9QNiv1uf3DfY",
+      "widthPx": 1800,
+      "heightPx": 1350,
+      "authorAttributions": [
+        {
+          "displayName": "Enric Martin",
+          "uri": "https://maps.google.com/maps/contrib/102897455504217420588",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVU2oLmZVr09jvN2cV5CJ7JitvrORsKZ_e2tSEGbBabT8lXiSKygw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDJn6jGTA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJn6jGTA!2e10!4m2!3m1!1s0x3404072a1490a96b:0x780c2ce4eb360e9e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:29.541616+00:00"
+}

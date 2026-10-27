@@ -1,0 +1,38 @@
+{
+  "id": "ChIJaY_nlGr7AzQRr0mSgpHX9dU",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界屯門",
+  "location": {
+    "latitude": 22.382018,
+    "longitude": 113.97882899999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15417465919333616047&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "麒麟崗公眾公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJaY_nlGr7AzQRr0mSgpHX9dU/photos/Aa-ngMbKQaTZ3DDOKlAhG9EB1l6O9509Bp-xWmF8UlPxFKm8KsN3_jR4cdFatKJqfCNh8TLzkSWNEYMI-shIRdgB-gYig7rLgCIiTr7IEJv5FvPEX8J-mId8IwFQ1TTK-18aMqT_DXceUaMXFut5HTpdmzYor0UO1QfTb_QdehQcDzFOBcW47LYSX8hRKygrn6IVn0bFyZVhUO_3xR9eohiEqes5yNyWrHFkoiZQ-zeWOvSgibJcIbyYuH7Yl6MjlPUidDJV85xrtvwSIUGrAa6VAi3LO6zWYFQRZwCkrpN8prRjxFSy1iwW85VEnZwmTItrGedIHd8sEO0Ogg6QMFnkU4VsW-rpQFcEAwADK35RH7qvIiXtLHMk4Y1sm9IorHnYLWs3KEWNq82TwofcPiy0CE8UGdM",
+      "widthPx": 4096,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "Tung Cheung",
+          "uri": "https://maps.google.com/maps/contrib/112391884281700017058",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7xqQdSH0d7MkkDTxbkryr2w29fF_PVXQIxHGywLJ3R594Esg8yA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC11OymEA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC11OymEA!2e10!4m2!3m1!1s0x3403fb6a94e78f69:0xd5f5d791829249af"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:25.526604+00:00"
+}

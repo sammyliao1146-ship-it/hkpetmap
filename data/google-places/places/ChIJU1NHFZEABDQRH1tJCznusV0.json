@@ -1,0 +1,331 @@
+{
+  "google_place_id": "ChIJU1NHFZEABDQRH1tJCznusV0",
+  "restaurant_ids": [
+    "restaurant:2261809271"
+  ],
+  "fetched_at": "2026-10-23T15:42:08.941880+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJU1NHFZEABDQRH1tJCznusV0",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2196 8699",
+    "internationalPhoneNumber": "+852 2196 8699",
+    "formattedAddress": "香港九龍尖沙咀 Austin Rd W, 1號圓方商場1047號鋪",
+    "location": {
+      "latitude": 22.305352600000003,
+      "longitude": 114.1611911
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=6751439245174987551&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tastegourmet.co/zh_HK/brand/8/Dab-Pa",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 474,
+    "displayName": {
+      "text": "稻成亞丁",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJU1NHFZEABDQRH1tJCznusV0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VMFFWZDFNMHQ1WkZOZk1EaEtkVkJoTkZGSU1WRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "訂了這間餐廳與家人食生日飯，職員服務優質，亦非常友善。\n食物質素不俗，片皮鴨及雲吞雞都好好食。\n原本生日贈送的甜品只有4客，職員主動加送2位，令人感到賓至如歸。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "訂了這間餐廳與家人食生日飯，職員服務優質，亦非常友善。\n食物質素不俗，片皮鴨及雲吞雞都好好食。\n原本生日贈送的甜品只有4客，職員主動加送2位，令人感到賓至如歸。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cheng Chi Kan",
+          "uri": "https://www.google.com/maps/contrib/104127830108663423151/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3M0H41-H6ZefwjFvFBYj5A3lqkyS771y_MjK0ff3x7ecexw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-15T10:33:15.318004984Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VMFFWZDFNMHQ1WkZOZk1EaEtkVkJoTkZGSU1WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VMFFWZDFNMHQ1WkZOZk1EaEtkVkJoTkZGSU1WRRAB!2m1!1s0x3404009115475353:0x5db1ee390b495b1f"
+      },
+      {
+        "name": "places/ChIJU1NHFZEABDQRH1tJCznusV0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1ck1ETlhUMVZ2UkROSlozRkROa3hyYVZkYVRVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "非常高質素嘅中菜廳。\n\n本來冇諗住試呢間嘅，行過見到服務員禮貌推介，於是坐低試吓佢。\n\n最推薦係呢個鮑魚黑毛豬腩肉，鮑魚大大件，一啲都唔孤寒，而且做得好淋，豬腩件更加不得了，肥瘦各半，入口即溶，調味恰當\n\n另外呢個花膠砂鍋雲吞雞更加不得了，花膠爽滑，雞湯煲咗咁耐，肉質仲係好滑\n\n另外呢個松茸燉湯，非常清甜，完全冇味精\n\n醉雞更加係做得好滑，入口舒服，值得再試",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常高質素嘅中菜廳。\n\n本來冇諗住試呢間嘅，行過見到服務員禮貌推介，於是坐低試吓佢。\n\n最推薦係呢個鮑魚黑毛豬腩肉，鮑魚大大件，一啲都唔孤寒，而且做得好淋，豬腩件更加不得了，肥瘦各半，入口即溶，調味恰當\n\n另外呢個花膠砂鍋雲吞雞更加不得了，花膠爽滑，雞湯煲咗咁耐，肉質仲係好滑\n\n另外呢個松茸燉湯，非常清甜，完全冇味精\n\n醉雞更加係做得好滑，入口舒服，值得再試",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cephas Kwok",
+          "uri": "https://www.google.com/maps/contrib/112903982804011391829/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWd9Lim895kx03wO919UxTq44iGJ-bNspQ-I2UUm9r56aEdTcRV=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-08-09T04:42:39.119292774Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1ck1ETlhUMVZ2UkROSlozRkROa3hyYVZkYVRVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1ck1ETlhUMVZ2UkROSlozRkROa3hyYVZkYVRVRRAB!2m1!1s0x3404009115475353:0x5db1ee390b495b1f"
+      },
+      {
+        "name": "places/ChIJU1NHFZEABDQRH1tJCznusV0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOSU1rRnBTVVpRYWpKQmJHTXRaR0l6U0VORGNIYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "這間「稻成亞丁 dab-pa」的餐廳真的讓人驚喜！店內的烤鴨非常好吃，皮脆肉嫩、香氣十足，入口滿是油脂的鮮甜。除了烤鴨，店裡的其他川菜小炒也相當到位，像是麻婆豆腐、宮保雞丁、乾扁四季豆、酸辣土豆絲等，辣味香氣平衡，特別適合愛吃重口味的人。菜單選擇豐富，價位大多落在 $98–$158 之間，而且外賣自取還有全日 85 折的優惠，真的相當划算。不論是單點一兩道小菜，還是多人聚餐搭配套餐，都能吃得滿足。整體來說，這裡不僅餐點美味，環境乾淨舒適，服務也親切。如果你跟我一樣愛吃烤鴨或川菜，這家餐廳絕對值得推薦，會讓人一試成主顧！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間「稻成亞丁 dab-pa」的餐廳真的讓人驚喜！店內的烤鴨非常好吃，皮脆肉嫩、香氣十足，入口滿是油脂的鮮甜。除了烤鴨，店裡的其他川菜小炒也相當到位，像是麻婆豆腐、宮保雞丁、乾扁四季豆、酸辣土豆絲等，辣味香氣平衡，特別適合愛吃重口味的人。菜單選擇豐富，價位大多落在 $98–$158 之間，而且外賣自取還有全日 85 折的優惠，真的相當划算。不論是單點一兩道小菜，還是多人聚餐搭配套餐，都能吃得滿足。整體來說，這裡不僅餐點美味，環境乾淨舒適，服務也親切。如果你跟我一樣愛吃烤鴨或川菜，這家餐廳絕對值得推薦，會讓人一試成主顧！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "陳以翔",
+          "uri": "https://www.google.com/maps/contrib/109718619221521407344/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKYGpEOpoZwj6ExjdQnAZ0NzUjN8mXCBQ_XSxZuYaOjV-c4lA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-08-17T07:29:39.109834948Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOSU1rRnBTVVpRYWpKQmJHTXRaR0l6U0VORGNIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOSU1rRnBTVVpRYWpKQmJHTXRaR0l6U0VORGNIYxAB!2m1!1s0x3404009115475353:0x5db1ee390b495b1f"
+      },
+      {
+        "name": "places/ChIJU1NHFZEABDQRH1tJCznusV0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2preVJuYzNTWEZ2UldrME4yOXNWRGs0Y1VWbU1HYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "服務態度很好，環境舒適，食物美味多選擇，推介麻婆豆腐及螞蟻上樹\n咕嚕魚塊外脆內軟，酸菜魚也很讚！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務態度很好，環境舒適，食物美味多選擇，推介麻婆豆腐及螞蟻上樹\n咕嚕魚塊外脆內軟，酸菜魚也很讚！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kerry Lui",
+          "uri": "https://www.google.com/maps/contrib/115234734400188036816/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXVDBH5_gZKQTgjAcXrZKw0FXux6RDYBJ6SZgaKcu79--BMw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-31T06:40:07.698557353Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2preVJuYzNTWEZ2UldrME4yOXNWRGs0Y1VWbU1HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2preVJuYzNTWEZ2UldrME4yOXNWRGs0Y1VWbU1HYxAB!2m1!1s0x3404009115475353:0x5db1ee390b495b1f"
+      },
+      {
+        "name": "places/ChIJU1NHFZEABDQRH1tJCznusV0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5R1UySkpRVGRXV1VWcWJsSTJXbXd5VmpkcE9XYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "味道不錯 款式很多\n特別喜歡糖醋魚塊和麻婆豆腐☺️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道不錯 款式很多\n特別喜歡糖醋魚塊和麻婆豆腐☺️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "janice ko",
+          "uri": "https://www.google.com/maps/contrib/110525794786611223922/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJisU0xYWXcSuhznJLqfD4T43uiglfH3v7SUwwlNYlfVMrJwQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-07T05:31:14.531270025Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5R1UySkpRVGRXV1VWcWJsSTJXbXd5VmpkcE9XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5R1UySkpRVGRXV1VWcWJsSTJXbXd5VmpkcE9XYxAB!2m1!1s0x3404009115475353:0x5db1ee390b495b1f"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404009115475353:0x5db1ee390b495b1f!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6751439245174987551&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404009115475353:0x5db1ee390b495b1f!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404009115475353:0x5db1ee390b495b1f!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404009115475353:0x5db1ee390b495b1f!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJU1NHFZEABDQRH1tJCznusV0/photos/Aa-ngManH9KGNs8RIKcje9Wf52sOOzdmFULYv0SjhqAsvQgns-4uID2dSpQezdmyPG2NF9leJTF74pJdzUws4LnF0bjgx5iTF7-_FosXAmWY_0sSiJlNUrnZMF_1H4cNGhTr4AmNmPlmeCrcrMSEaZ71uX4v19ryNRz1vnJLrXWvISq-Q_s3IV8WTbIWSFVOu9Yh726oIl4VXKYUKa1ynbyA9FmuMZ1cB6vfqbqHCNgRf-cJ7nrFahEkwxuautUI4eieFzYv2KT34bQpWP2wAA4ZVtVdq_LTtQE7lrD0gra0Ey48Ng8lJakP5Pt9ozRubuVHWOOvQWmLss9MxW26vTKWYP0LQxPaYbquNCTY8MR16WaIVP3fP7FZwHP5E7AFk3ajqZGJouV0STUxwrUCY4VQE3hMc32lJ3zZbNwzEpuPt-Rt",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "稻成亞丁 (尖沙咀圓方)",
+          "uri": "https://maps.google.com/maps/contrib/102436861829938539649",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWR86M-TT8H1SKKL_B2TXkvnTcMKna1uqF-cUNS0J1dUjNQMEM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB3f4m3-pk9ueUP-F_vhMoj&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB3f4m3-pk9ueUP-F_vhMoj!2e10!4m2!3m1!1s0x3404009115475353:0x5db1ee390b495b1f"
+    },
+    "local_path": "photos/ChIJU1NHFZEABDQRH1tJCznusV0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdILil5FDocELG7g_qQ1gbQ1peWUaGGsOTRFSVx9oC_h9KBciiNbMnf57lGcZVudK-qL--jowSmyhcOIcB6miauBiGoARuBx0IY_1iBdbRCMTsdYpqTLj4WRCz-pERES5Uq-REiXKNYLY8=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 200064
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

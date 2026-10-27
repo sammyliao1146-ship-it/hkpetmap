@@ -1,0 +1,307 @@
+{
+  "google_place_id": "ChIJhQYJQu4ABDQRrkT3PaPhCO4",
+  "restaurant_ids": [
+    "restaurant:2262811354"
+  ],
+  "fetched_at": "2026-10-23T15:42:33.394956+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJhQYJQu4ABDQRrkT3PaPhCO4",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "1 Austin Rd W, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.304647199999998,
+      "longitude": 114.16110850000001
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=17152207272076068014&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.elementshk.com/tch/elements/main",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 22:00",
+        "星期二: 08:00 – 22:00",
+        "星期三: 08:00 – 22:00",
+        "星期四: 08:00 – 22:00",
+        "星期五: 08:00 – 22:00",
+        "星期六: 08:00 – 22:00",
+        "星期日: 08:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 14741,
+    "displayName": {
+      "text": "圓方",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "大型購物中心",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "shopping_mall",
+    "editorialSummary": {
+      "text": "現代化的高級零售中心，擁有 100 多家商店、餐廳、電影院和溜冰場。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJhQYJQu4ABDQRrkT3PaPhCO4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRMlEwOHhjV2xaTlRWdU5HcHNZVTVFZWpWRlpGRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "原來往圓方就是搭機場快線的地方，也有地鐵轉車站。\n這裡叫遠方，看他的建築物都知道，一個圓的一個方的。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "原來往圓方就是搭機場快線的地方，也有地鐵轉車站。\n這裡叫遠方，看他的建築物都知道，一個圓的一個方的。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "C X",
+          "uri": "https://www.google.com/maps/contrib/103881876431512509965/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUd5wMN6DOXT18UoNFLSERCMCoaJf-sheEBNoRiLuFtJ7MFN9hcag=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-09-05T00:49:39.313878005Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pRMlEwOHhjV2xaTlRWdU5HcHNZVTVFZWpWRlpGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRMlEwOHhjV2xaTlRWdU5HcHNZVTVFZWpWRlpGRRAB!2m1!1s0x340400ee42090685:0xee08e1a33df744ae"
+      },
+      {
+        "name": "places/ChIJhQYJQu4ABDQRrkT3PaPhCO4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWck9YVTBRbXRTVTFGbE9VWnRUMmgwWDBWM2IzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "非常好的體驗，泊車位很多，搭車方便，有溜冰場，超市，有很多不同的餐廳，平民化至高級餐廳都有得選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常好的體驗，泊車位很多，搭車方便，有溜冰場，超市，有很多不同的餐廳，平民化至高級餐廳都有得選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Virgo Wong",
+          "uri": "https://www.google.com/maps/contrib/114784070554126862029/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOTIosEWoiSXOZWM343pDg9tz7a9vjHodODPNOOWf_c_l1-syG=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-07-21T03:31:16.929015049Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWck9YVTBRbXRTVTFGbE9VWnRUMmgwWDBWM2IzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWck9YVTBRbXRTVTFGbE9VWnRUMmgwWDBWM2IzYxAB!2m1!1s0x340400ee42090685:0xee08e1a33df744ae"
+      },
+      {
+        "name": "places/ChIJhQYJQu4ABDQRrkT3PaPhCO4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsNk1HZ3diM1ZsVVRZMlozZE9ORWRLT0ZGVFoxRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "​⭐️⭐️⭐️⭐️⭐️ 極致奢華與開揚空間的完美結合！配套無懈可擊的高質感頂級商場\n​位於九龍站上蓋的圓方（Elements），無論在建築美學、空間感還是整體的商業機能上，都展現出國際大都市的頂尖水準，是個人放鬆和高品質生活的絕佳去處。\n​1. 宏偉開揚的空間美學，告別擁擠局促\n圓方以「金、木、水、火、土」五行作為主題區域規劃，整個商場的天花板極高，通道無比寬敞。這裡成功營造出一種寧靜、優雅且富有秩序的氛圍。比起市中心其他熱門商場的喧鬧與局促，圓方即使在繁忙時間依然能保持流暢與開揚，行起來非常放鬆，非常適合想安安靜靜享受 Personal time 的人士。\n​2. 頂級的自駕配套與天衣無縫的交通機能\n對於自駕人士來說，這裡的時租停車場規劃得井井有條，車位充足、動線清晰，卸貨和上客區的限高與指示也非常明確安全。加上商場直接上蓋港鐵九龍站與高鐵香港西九龍站，無論是本地出行還是跨境往返都極其高效率，動線流暢得無可挑剔。\n​3. 熟成精緻的餐飲與生活機能\n商場內進駐了大量高品質的環球食肆、精緻 Cafe 和旗艦名店。不論是想高效率地打包外賣，還是想與朋友坐低慢慢享受一頓高質素的晚餐，這裡的餐飲配套和專業服務都能完美滿足。\n​整體而言，圓方不單止是一個購物中心，更是一個將「精緻生活質感」與「極致便利性」完美融合的現代化生活圈。五星滿分推介！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "​⭐️⭐️⭐️⭐️⭐️ 極致奢華與開揚空間的完美結合！配套無懈可擊的高質感頂級商場\n​位於九龍站上蓋的圓方（Elements），無論在建築美學、空間感還是整體的商業機能上，都展現出國際大都市的頂尖水準，是個人放鬆和高品質生活的絕佳去處。\n​1. 宏偉開揚的空間美學，告別擁擠局促\n圓方以「金、木、水、火、土」五行作為主題區域規劃，整個商場的天花板極高，通道無比寬敞。這裡成功營造出一種寧靜、優雅且富有秩序的氛圍。比起市中心其他熱門商場的喧鬧與局促，圓方即使在繁忙時間依然能保持流暢與開揚，行起來非常放鬆，非常適合想安安靜靜享受 Personal time 的人士。\n​2. 頂級的自駕配套與天衣無縫的交通機能\n對於自駕人士來說，這裡的時租停車場規劃得井井有條，車位充足、動線清晰，卸貨和上客區的限高與指示也非常明確安全。加上商場直接上蓋港鐵九龍站與高鐵香港西九龍站，無論是本地出行還是跨境往返都極其高效率，動線流暢得無可挑剔。\n​3. 熟成精緻的餐飲與生活機能\n商場內進駐了大量高品質的環球食肆、精緻 Cafe 和旗艦名店。不論是想高效率地打包外賣，還是想與朋友坐低慢慢享受一頓高質素的晚餐，這裡的餐飲配套和專業服務都能完美滿足。\n​整體而言，圓方不單止是一個購物中心，更是一個將「精緻生活質感」與「極致便利性」完美融合的現代化生活圈。五星滿分推介！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ming Him",
+          "uri": "https://www.google.com/maps/contrib/113058015105083916628/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIwoHIpdWZ4xSMxL7TkNnHVlKUdSfMRyK7lCXRxiglRpo3ZDQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-17T18:41:44.621844960Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsNk1HZ3diM1ZsVVRZMlozZE9ORWRLT0ZGVFoxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsNk1HZ3diM1ZsVVRZMlozZE9ORWRLT0ZGVFoxRRAB!2m1!1s0x340400ee42090685:0xee08e1a33df744ae"
+      },
+      {
+        "name": "places/ChIJhQYJQu4ABDQRrkT3PaPhCO4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFNFRsbHNUMVJJU1hsMmMyeEZXVkozY2podWIxRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "海邊建設得很好，坐在咖啡店喝個啤酒+吃個披薩，也很適合全家人或和親朋好友，來賞夕陽和野餐。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "海邊建設得很好，坐在咖啡店喝個啤酒+吃個披薩，也很適合全家人或和親朋好友，來賞夕陽和野餐。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "淑娟",
+          "uri": "https://www.google.com/maps/contrib/116316186009668372057/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOAe4-MuTO2rolIX5f6vGV8RKZ4LDfmSblNzp8vRDJHG1GnfKD=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-05T09:15:59.350473294Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFNFRsbHNUMVJJU1hsMmMyeEZXVkozY2podWIxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFNFRsbHNUMVJJU1hsMmMyeEZXVkozY2podWIxRRAB!2m1!1s0x340400ee42090685:0xee08e1a33df744ae"
+      },
+      {
+        "name": "places/ChIJhQYJQu4ABDQRrkT3PaPhCO4/reviews/Ci9DQUlRQUNvZENodHljRjlvT201Q05WZEJWazFRTTJOblNURndOVmMyVDIxYVYxRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "中型的購物中心,名牌林立,除了商場内的食肆大家不要忘了 civic square裡面各有特名的餐廳,可以在餐廳外面用餐, happy hour 的時段很多人都喜歡飲酒和吃小食氣氛非常好。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "中型的購物中心,名牌林立,除了商場内的食肆大家不要忘了 civic square裡面各有特名的餐廳,可以在餐廳外面用餐, happy hour 的時段很多人都喜歡飲酒和吃小食氣氛非常好。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gabriel Lai",
+          "uri": "https://www.google.com/maps/contrib/110731748573900606467/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWln90JTymtCWcPu1FiZd9zhMearoMOUqi-8RvgPyNzpbqxe2zpiw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-12T04:29:21.856358065Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201Q05WZEJWazFRTTJOblNURndOVmMyVDIxYVYxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201Q05WZEJWazFRTTJOblNURndOVmMyVDIxYVYxRRAB!2m1!1s0x340400ee42090685:0xee08e1a33df744ae"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400ee42090685:0xee08e1a33df744ae!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17152207272076068014&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ee42090685:0xee08e1a33df744ae!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400ee42090685:0xee08e1a33df744ae!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ee42090685:0xee08e1a33df744ae!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJhQYJQu4ABDQRrkT3PaPhCO4/photos/Aa-ngMZKdqqDXvmlapoxAWC1Rwevk_GjhgLvmpFVtGD4LW4aL4idBUMObk_syGzoC4l3VIi8meUZlCwYPf0XVaKpyCOGOk9t0fOSAbQNPYMXJmT6ZS955gwwSY4nlny34f853uTEhnSnQ09GiRl33CpRtDKP9D2M4ajgo2mDA6N9BvXPXD4XDlnEI9c4SnIpO-8dP-e4xvd8jsrdF1VeTdUwfRqyoS2Dz5yiXcfV2M7tcjP9eT0Ac5HVgqJDN7tuL-AV-RMDMU3u9FvURQ5wl3teQiItZD90p1hSFfXpUkV4vuWzBvw5r2x53j8tGeJGg7w9ODm-cHwKUOwqnxL-PbEXqZBgdtASvgEH4SiuNYF433bdikJRCXphetLGWifxn0ALYUp9SB_gokS90ovxV14Vv0uJZBf2vrk",
+      "widthPx": 1600,
+      "heightPx": 922,
+      "authorAttributions": [
+        {
+          "displayName": "Ronald WU",
+          "uri": "https://maps.google.com/maps/contrib/104480335925830901434",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIj9HfMWeLWUqWI6qv75_O7Vi9S_zRGGdNIPZpbCh6Qrhn8UzCX=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICG97jXkAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICG97jXkAE!2e10!4m2!3m1!1s0x340400ee42090685:0xee08e1a33df744ae"
+    },
+    "local_path": "photos/ChIJhQYJQu4ABDQRrkT3PaPhCO4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1JPfAtOqMoXE4J-YFhc1YRZNS7ZuHandCk0Xtk-lgusH5G5wCTk_wDyiHJb-0Uggu8UFGK9CgEgeRrK3RRbWBMNiTN4y1uikXaN2uxeaP51huvENYLoSd3l6G2ycRY9juExbIBg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 119159
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "shopping_mall",
+    "label": "大型購物中心",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,358 @@
+{
+  "google_place_id": "ChIJg09LAfkBBDQRJZAdFjFgIGo",
+  "restaurant_ids": [
+    "restaurant:2252806498"
+  ],
+  "fetched_at": "2026-10-23T15:40:54.186629+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJg09LAfkBBDQRJZAdFjFgIGo",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2365 0669",
+    "internationalPhoneNumber": "+852 2365 0669",
+    "formattedAddress": "Shop No, G16, G/F, Suite, 4 Whampoa St, Hung Hom, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3037618,
+      "longitude": 114.1887836
+    },
+    "rating": 3.2,
+    "googleMapsUri": "https://maps.google.com/?cid=7647217931215802405&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://gaiagroup.com.hk/restaurant/bloom-by-wjs-%E7%8E%8B%E5%AE%B6%E6%B2%99%E8%8A%B1%E6%A8%A3%E5%B9%B4%E8%8F%AF/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 45
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 14:45, 17:30 – 23:00",
+        "星期二: 11:00 – 23:00",
+        "星期三: 11:00 – 23:00",
+        "星期四: 11:00 – 23:00",
+        "星期五: 11:00 – 23:00",
+        "星期六: 11:00 – 23:00",
+        "星期日: 11:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 102,
+    "displayName": {
+      "text": "王家沙．花樣年華",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJg09LAfkBBDQRJZAdFjFgIGo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WRE9UZEtibEI1TTNCalEzaEJkMjVGU2twUlFWRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "鰻魚好韌，蝦仁好鹹，抄手又唔好食\n一定唔會再嚟！😨",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "鰻魚好韌，蝦仁好鹹，抄手又唔好食\n一定唔會再嚟！😨",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Karin",
+          "uri": "https://www.google.com/maps/contrib/100462808210453608474/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSgho7Ko_ECfkzhsDwdben4p6M80-zx3ZjF7eeVwzUlZyLxt0_=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-12T11:08:37.394571730Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WRE9UZEtibEI1TTNCalEzaEJkMjVGU2twUlFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WRE9UZEtibEI1TTNCalEzaEJkMjVGU2twUlFWRRAB!2m1!1s0x340401f9014b4f83:0x6a206031161d9025"
+      },
+      {
+        "name": "places/ChIJg09LAfkBBDQRJZAdFjFgIGo/reviews/ChdDSUhNMG9nS0VJQ0FnSURqOTdqWnN3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "朋友話今日想食炒鱔糊，仲一定要銀芽炒，就搵左王家沙，好多年前都食過王家沙，幾唔錯。\n今次去黃埔呢間，入到去裝修好雅緻，2個人坐張4人枱，好舒服，咁大張枱俾我，當然要叫多D餸食啦…先黎左個\n三絲粉皮～有微量的雞絲，幼身火腿，青瓜絲，成碗最出色係個醬，調控得好好食，係食個汁醬。\n招牌蟹粉小籠包～5粒～ 個皮厚左少少，咬左啖見到有黃色蟹粉，但唔夠蟹味同爆汁，都係點返個醋有返個味道出黎。\n炸黑毛豬扒擔擔麵～湯同豬扒是分開上的，睇個名同餐牌張相，好似好好食咁，點知，一食個麵同個湯底係無味用清水煮，應該鹽都無落，可以較個雞粉湯底會有些味道較好，個炸豬扒話就話炸黑毛豬，面嗰層個炸粉，餐牌張相係麵包糠做炸粉，但出品，祗係輕輕有麵粉喺面囉…食落仲要無豬味，同無味。叫左4個餸最期待係黑毛豬，點知咁失望。\n黑松露清炒蝦仁～ 炒蝦仁係最好食，炒得好好, 晶瑩通透，又有黑松露味道，唔會太咸或無味，個芡汁炒落個蝦仁唔會黐埋一齊，係粒粒分明，呢個好食。\n韮王炒鱔糊～雖然無銀芽炒，但呢個炒鱔糊都好食，個醬汁都較得好 好，望落個鱔糊都夠色香，但食落唔會太咸，好食。因為叫左個麵，所以，無叫到個飯黎撈飯食，兩個人，食唔到咁多。\n總括都唔錯，係個黑毛豬失準，其他都好好。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友話今日想食炒鱔糊，仲一定要銀芽炒，就搵左王家沙，好多年前都食過王家沙，幾唔錯。\n今次去黃埔呢間，入到去裝修好雅緻，2個人坐張4人枱，好舒服，咁大張枱俾我，當然要叫多D餸食啦…先黎左個\n三絲粉皮～有微量的雞絲，幼身火腿，青瓜絲，成碗最出色係個醬，調控得好好食，係食個汁醬。\n招牌蟹粉小籠包～5粒～ 個皮厚左少少，咬左啖見到有黃色蟹粉，但唔夠蟹味同爆汁，都係點返個醋有返個味道出黎。\n炸黑毛豬扒擔擔麵～湯同豬扒是分開上的，睇個名同餐牌張相，好似好好食咁，點知，一食個麵同個湯底係無味用清水煮，應該鹽都無落，可以較個雞粉湯底會有些味道較好，個炸豬扒話就話炸黑毛豬，面嗰層個炸粉，餐牌張相係麵包糠做炸粉，但出品，祗係輕輕有麵粉喺面囉…食落仲要無豬味，同無味。叫左4個餸最期待係黑毛豬，點知咁失望。\n黑松露清炒蝦仁～ 炒蝦仁係最好食，炒得好好, 晶瑩通透，又有黑松露味道，唔會太咸或無味，個芡汁炒落個蝦仁唔會黐埋一齊，係粒粒分明，呢個好食。\n韮王炒鱔糊～雖然無銀芽炒，但呢個炒鱔糊都好食，個醬汁都較得好 好，望落個鱔糊都夠色香，但食落唔會太咸，好食。因為叫左個麵，所以，無叫到個飯黎撈飯食，兩個人，食唔到咁多。\n總括都唔錯，係個黑毛豬失準，其他都好好。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "jessis jessis",
+          "uri": "https://www.google.com/maps/contrib/117016181541923526257/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUwsxNZB4W8y0eoOcYU1i1Sges1U1HqKixckxcTVwZuym3j-k=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-05-08T17:54:55.334534Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqOTdqWnN3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqOTdqWnN3RRAB!2m1!1s0x340401f9014b4f83:0x6a206031161d9025"
+      },
+      {
+        "name": "places/ChIJg09LAfkBBDQRJZAdFjFgIGo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2LVBDbTJ3RRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "以前成日去開九龍塘個間食，今日行經黃埔見到堂食有八五折，一於同阿媽入去食。\n\n明爐原條桂魚絲\n呢道菜式好考功夫，要用猛火快炒，將桂魚絲混入蔬菜絲，顏色非常奪目。然後魚頭，魚尾則炸至金黃鬆脆，係明爐上興一興。魚肉夠厚，只係略嫌唔夠魚味，食落都幾滋味。\n\n薑蔥爆羊肉\n薑蔥爆得有鑊氣，羊肉微氈但入口軟淋，更配有四大塊薄餅，薄餅薄得來好煙韌，可以夾住食，並減少油滋滋嘅口感。\n\n上海擔擔麵\n必食！麵條幼身，軟淋帶有嚼口感。湯底好濃，花生好香，能夠完美做到掛湯。肉碎有預先醃製過，食落滋味。\n\n招牌蟹粉小籠包\n一籠五隻，每粒均有蟹黃喺小籠包上點綴，包皮略嫌厚身 ，但餡料飽滿多汁。\n\n三絲粉皮\n比預期中多份量，粉皮涼浸浸有咬口，青瓜絲、火腿絲都切得夠切，麻醬份量適中，只係略嫌雞絲嘅份量有啲少。\n\n芝麻豆沙餅\n芝麻好香，痴得好實，豆沙好綿好清甜。煎得香口，不算油膩，作為飯後甜品，加杯茶真係完美。\n\n💡茶芥$12一位",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "以前成日去開九龍塘個間食，今日行經黃埔見到堂食有八五折，一於同阿媽入去食。\n\n明爐原條桂魚絲\n呢道菜式好考功夫，要用猛火快炒，將桂魚絲混入蔬菜絲，顏色非常奪目。然後魚頭，魚尾則炸至金黃鬆脆，係明爐上興一興。魚肉夠厚，只係略嫌唔夠魚味，食落都幾滋味。\n\n薑蔥爆羊肉\n薑蔥爆得有鑊氣，羊肉微氈但入口軟淋，更配有四大塊薄餅，薄餅薄得來好煙韌，可以夾住食，並減少油滋滋嘅口感。\n\n上海擔擔麵\n必食！麵條幼身，軟淋帶有嚼口感。湯底好濃，花生好香，能夠完美做到掛湯。肉碎有預先醃製過，食落滋味。\n\n招牌蟹粉小籠包\n一籠五隻，每粒均有蟹黃喺小籠包上點綴，包皮略嫌厚身 ，但餡料飽滿多汁。\n\n三絲粉皮\n比預期中多份量，粉皮涼浸浸有咬口，青瓜絲、火腿絲都切得夠切，麻醬份量適中，只係略嫌雞絲嘅份量有啲少。\n\n芝麻豆沙餅\n芝麻好香，痴得好實，豆沙好綿好清甜。煎得香口，不算油膩，作為飯後甜品，加杯茶真係完美。\n\n💡茶芥$12一位",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "wing may tse",
+          "uri": "https://www.google.com/maps/contrib/102014406159047803869/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV98v7FgCH4xlsUCNL3TcpiXpoQ3IwDZxHHChTf_Z6bM4BtzvBo=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2021-09-20T13:35:10.327350Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ2LVBDbTJ3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2LVBDbTJ3RRAB!2m1!1s0x340401f9014b4f83:0x6a206031161d9025"
+      },
+      {
+        "name": "places/ChIJg09LAfkBBDQRJZAdFjFgIGo/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2d2NMTzl3RRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "黃埔食飯，好耐冇食過上海菜啦，搵左間餐修環境都好舒服既上海餐廳，餐廳名仲好特別，叫花樣年華，好好聽！\n2個人，叫左6樣野食，加一個甜品！\n\n醉嘉美雞，食得出係同普通雞有唔同，肉質好好，醉雞酒味香濃，賣相出色！\n蒜泥白肉，重口味既一樣餸，蒜味好濃又不至於好油👍🏻\n四季豆，新鮮即炒，一上菜仲有煙出，好有鑊氣，份量又多，食完冷盤再食樣熱菜，一流！\n\n紅油抄手，食落去又唔會覺得油膩，加埋醋味，非常醒胃！\n蟹粉小龍包，熱辣辣，一咬入口，湯汁滿滿，加上蟹皇油香，真係好好味！\n\n麻辣牛肉麵，因為唔太食得辣，所以叫小辣，呢個面份量十足，牛肉亦都有好多塊，仲要係大大塊，而唔係好似其他鋪既碎牛咁！味道亦都唔錯，麵質爽口！\n\n最後嚟多個我最愛既甜品-高力豆沙！為豐富嘅一餐上海菜添上完美嘅句號。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "黃埔食飯，好耐冇食過上海菜啦，搵左間餐修環境都好舒服既上海餐廳，餐廳名仲好特別，叫花樣年華，好好聽！\n2個人，叫左6樣野食，加一個甜品！\n\n醉嘉美雞，食得出係同普通雞有唔同，肉質好好，醉雞酒味香濃，賣相出色！\n蒜泥白肉，重口味既一樣餸，蒜味好濃又不至於好油👍🏻\n四季豆，新鮮即炒，一上菜仲有煙出，好有鑊氣，份量又多，食完冷盤再食樣熱菜，一流！\n\n紅油抄手，食落去又唔會覺得油膩，加埋醋味，非常醒胃！\n蟹粉小龍包，熱辣辣，一咬入口，湯汁滿滿，加上蟹皇油香，真係好好味！\n\n麻辣牛肉麵，因為唔太食得辣，所以叫小辣，呢個面份量十足，牛肉亦都有好多塊，仲要係大大塊，而唔係好似其他鋪既碎牛咁！味道亦都唔錯，麵質爽口！\n\n最後嚟多個我最愛既甜品-高力豆沙！為豐富嘅一餐上海菜添上完美嘅句號。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "hiu nam leung",
+          "uri": "https://www.google.com/maps/contrib/108888022931976229115/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKK7i5WGUyY4yvzIWgU6cIUDFQrwfUd2y1JSZLCxWgYqVBU6A=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2021-09-06T09:00:50.084812Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM2d2NMTzl3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM2d2NMTzl3RRAB!2m1!1s0x340401f9014b4f83:0x6a206031161d9025"
+      },
+      {
+        "name": "places/ChIJg09LAfkBBDQRJZAdFjFgIGo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHNzktajBBRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "諗起食上海菜腦海中總想著與舊式上海飯店扯上關係，想不到黃埔天地享膳坊的這間「王家沙。花樣年華」佈置得如此優雅。\n\n食物種類十分多， 尤其午市套餐甚為抵食。 老火湯、撚手小菜加白飯只是88元，如果選擇118元豪華套餐還可以有點心拼盤。兩款套餐都可以加多十元選擇鮮豆漿、菊花蜜或柑桔蜜作為餐飲。\n\n雞腳花生眉豆老火湯， 看色澤應該淆製了兩個小時以上，湯味微甜香濃。 京蔥羊肉爆得十分有鑊氣，羊肉處理到位，淡淡的羊騷味， 相信不愛吃羊的朋友也會十分接受 。雖然是跟套餐，但份量也不少。 豪華套餐的上海話梅骨分量更多，排骨味道酸甜可口，十分適合送飯。 跟餐拼盤有炸春卷兩件、上海小籠包和煎肉餃各一。春卷脆口不油膩，小籠包和鮮肉餃的皮很薄， 味道可口。 柑橘蜜應該是來自四季桔醃製，很有home feeling。\n\n蟹粉小籠包每件都肉汁飽滿，蟹粉份量也多。朋友最喜愛的是醉嘉美雞，除了雞件外皮與肉之間帶有啫喱，皮脆肉滑，甚至連浸雞的杞子都很甘甜。黃金海中蝦都大隻和薄薄地掛上鹹蛋，脆得連皮都可一起吃下，廚師功力可見一斑。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "諗起食上海菜腦海中總想著與舊式上海飯店扯上關係，想不到黃埔天地享膳坊的這間「王家沙。花樣年華」佈置得如此優雅。\n\n食物種類十分多， 尤其午市套餐甚為抵食。 老火湯、撚手小菜加白飯只是88元，如果選擇118元豪華套餐還可以有點心拼盤。兩款套餐都可以加多十元選擇鮮豆漿、菊花蜜或柑桔蜜作為餐飲。\n\n雞腳花生眉豆老火湯， 看色澤應該淆製了兩個小時以上，湯味微甜香濃。 京蔥羊肉爆得十分有鑊氣，羊肉處理到位，淡淡的羊騷味， 相信不愛吃羊的朋友也會十分接受 。雖然是跟套餐，但份量也不少。 豪華套餐的上海話梅骨分量更多，排骨味道酸甜可口，十分適合送飯。 跟餐拼盤有炸春卷兩件、上海小籠包和煎肉餃各一。春卷脆口不油膩，小籠包和鮮肉餃的皮很薄， 味道可口。 柑橘蜜應該是來自四季桔醃製，很有home feeling。\n\n蟹粉小籠包每件都肉汁飽滿，蟹粉份量也多。朋友最喜愛的是醉嘉美雞，除了雞件外皮與肉之間帶有啫喱，皮脆肉滑，甚至連浸雞的杞子都很甘甜。黃金海中蝦都大隻和薄薄地掛上鹹蛋，脆得連皮都可一起吃下，廚師功力可見一斑。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Deb Deb",
+          "uri": "https://www.google.com/maps/contrib/118402229672056985625/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLgeZvMajkcfF9wnGmpApU6ejjq4_Vlzeu2IaXJArArfJeenA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2021-11-13T16:22:15.276172Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNHNzktajBBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNHNzktajBBRRAB!2m1!1s0x340401f9014b4f83:0x6a206031161d9025"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401f9014b4f83:0x6a206031161d9025!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7647217931215802405&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f9014b4f83:0x6a206031161d9025!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401f9014b4f83:0x6a206031161d9025!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f9014b4f83:0x6a206031161d9025!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJg09LAfkBBDQRJZAdFjFgIGo/photos/Aa-ngMapIBD0shsMo6F9qejiutO2q7N-1jBBiC1-Ec6w4rtp7UDMCx1UanDdihQVkOCV4dpXzKayibTXE9Xt4FvV75aocgpNj4I8oIvKgWhhJGf10OFvPE8WprWwQKfPdhomssPIOqpmh_uvHD1k-F0nQ5233DtV9DuGAjyLhegmvhDD3or5zvOJD-r9D5Pr0xtXD4Aed3GtPuFZCvJfeSqzr4BOwe8Z7Sa1MOaY_5wZpUhG_ffyGd9LYFA_vevdN0dKY6fsfItfMahI32JSPuw58R3vN6XxxRj_wB82LJzgYZFaKUf94GMdOZLWdSAYk2meDCp6l4XN6QwCJTYPf1F5gMaxA4_O7zOWIGMDZGLxu6JuGPPSmALyIonbCDLeYTcHx_40RffQYfdkbRgkyQRxCozPXl-z4AA",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-9dq5gwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-9dq5gwE!2e10!4m2!3m1!1s0x340401f9014b4f83:0x6a206031161d9025"
+    },
+    "local_path": "photos/ChIJg09LAfkBBDQRJZAdFjFgIGo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfi9pgULs9e2y6ybISW4p_gWSvHBgQFbjW19qOwPSMMMgjlJkvfzkCLqjIcBVXV1zM7_uFTbLS3LDCiOcqXAF_h6uZoaFr2gzKR9_YQ9dGWO_UWBKW6cmVWSDoCWhowji45WtEPjQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 139318
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://inline.app/groups/gaiagroup?utm=website",
+        "label": "Reservation",
+        "source_url": "https://gaiagroup.com.hk/restaurant/bloombywjs%e7%8e%8b%e5%ae%b6%e6%b2%99%e8%8a%b1%e6%a8%a3%e5%b9%b4%e8%8f%af/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://inline.app/booking/wjs?language=zh-hk?utm=website",
+        "label": "Reserve now",
+        "source_url": "https://gaiagroup.com.hk/restaurant/bloombywjs%e7%8e%8b%e5%ae%b6%e6%b2%99%e8%8a%b1%e6%a8%a3%e5%b9%b4%e8%8f%af/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/WJS_240001_DimsumPaper_WP_TKS_黃埔、太古城-copy_compressed.pdf",
+        "label": "ALC Menu",
+        "source_url": "https://gaiagroup.com.hk/restaurant/bloombywjs%e7%8e%8b%e5%ae%b6%e6%b2%99%e8%8a%b1%e6%a8%a3%e5%b9%b4%e8%8f%af/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/WJS_花樣年華Crab-Menu_2026-10-05_compressed.pdf",
+        "label": "Crab Roe Menu",
+        "source_url": "https://gaiagroup.com.hk/restaurant/bloombywjs%e7%8e%8b%e5%ae%b6%e6%b2%99%e8%8a%b1%e6%a8%a3%e5%b9%b4%e8%8f%af/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://inline.app/groups/gaiagroup?utm=website",
+  "menu_url": "https://gaiagroup.com.hk/wp-content/uploads/2018/06/WJS_240001_DimsumPaper_WP_TKS_黃埔、太古城-copy_compressed.pdf"
+}

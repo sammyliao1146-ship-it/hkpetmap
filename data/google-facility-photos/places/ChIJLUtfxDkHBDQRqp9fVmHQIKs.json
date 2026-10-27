@@ -1,0 +1,42 @@
+{
+  "id": "ChIJLUtfxDkHBDQRqp9fVmHQIKs",
+  "types": [
+    "scenic_spot",
+    "tourist_attraction",
+    "parking_lot",
+    "parking",
+    "transportation_service",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍畢架山龍翔道300號",
+  "location": {
+    "latitude": 22.342950599999998,
+    "longitude": 114.1713497
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12331084896219930538&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "龍翔道眺望處",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "scenic_spot",
+  "photos": [
+    {
+      "name": "places/ChIJLUtfxDkHBDQRqp9fVmHQIKs/photos/Aa-ngMboUBdntDWHIzazr8b3Y79uVwT_UODAqZWX-2FszI7h4Db1_17YfznLmLxft9xh-AF5CixtoCdHCtqal7FchSsxz1Qx_US3phXc06b-oQB8H-mXeeMcVlcMFC_fkXCtYwvNkZHUONAVulFNFeqZpyC1YpkDcvyP2TGgCdKGvolZModM3XKiSsuW4CMI-GWP3Eb13ZKIAZVNGkSdulooYMKAGILxWVq0iQ8fkKZieeCi6uwS9cEzjFFm2uYlx2QVRVFIsR35k8GxOc_DQlGPpyeIWXkX0SMQ1aw1_BMW7V9jN5UFZc0tycvyBWthyg1KnVr3F6Ke5yg7bcYyDxa3RJPx26p0FGaXE4GLNxd-eDOKVpQaJbTB7bDUORXNz51iupKutuRRMaU3Ojpp-QCjr5zStyKs8dusWHzIOXEGfG1wCA",
+      "widthPx": 4096,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "Wilson Ko",
+          "uri": "https://maps.google.com/maps/contrib/111212672014910587893",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2QkcC4o4ocwpS6wn7RyTVonpXshW2JuTDZdv0DFng5z183Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCgboxOSp8DVa1HG7JVtq9S&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCgboxOSp8DVa1HG7JVtq9S!2e10!4m2!3m1!1s0x34040739c45f4b2d:0xab20d061565f9faa"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:23.916477+00:00"
+}

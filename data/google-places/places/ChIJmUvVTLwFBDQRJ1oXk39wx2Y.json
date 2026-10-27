@@ -1,0 +1,327 @@
+{
+  "google_place_id": "ChIJmUvVTLwFBDQRJ1oXk39wx2Y",
+  "restaurant_ids": [
+    "restaurant:2298001909"
+  ],
+  "fetched_at": "2026-10-23T15:38:31.423550+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJmUvVTLwFBDQRJ1oXk39wx2Y",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2792 7066",
+    "internationalPhoneNumber": "+852 2792 7066",
+    "formattedAddress": "香港新界西貢",
+    "location": {
+      "latitude": 22.3794364,
+      "longitude": 114.2707366
+    },
+    "rating": 3.4,
+    "googleMapsUri": "https://maps.google.com/?cid=7406011805465008679&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 18:00",
+        "星期二: 07:00 – 18:00",
+        "星期三: 07:00 – 18:00",
+        "星期四: 07:00 – 18:00",
+        "星期五: 07:00 – 18:00",
+        "星期六: 07:00 – 18:00",
+        "星期日: 07:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 238,
+    "displayName": {
+      "text": "高記餐廳",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJmUvVTLwFBDQRJ1oXk39wx2Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sa2RXRmZTa3BzVlVvdGNtTmZhSE5HZEdSeVNXYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "西貢抵食老牌茶記，廚房有水準，茶飲ok.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "西貢抵食老牌茶記，廚房有水準，茶飲ok.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Y M Sam Sun",
+          "uri": "https://www.google.com/maps/contrib/116746725124209161261/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRWtXgXmVCogvFC0PP_xBEOmcvZjTfEbpBqcjGLXBxwDYi1g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-21T04:40:05.883307581Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sa2RXRmZTa3BzVlVvdGNtTmZhSE5HZEdSeVNXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sa2RXRmZTa3BzVlVvdGNtTmZhSE5HZEdSeVNXYxAB!2m1!1s0x340405bc4cd54b99:0x66c7707f93175a27"
+      },
+      {
+        "name": "places/ChIJmUvVTLwFBDQRJ1oXk39wx2Y/reviews/ChdDSUhNMG9nS0VJQ0FnTURBXzlDenlnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "睇咗某YouTuber介紹呢間茶餐廳嘅星洲炒米，稱之為神級。所以去西貢特意一試。\n下午茶時段到達，上枱星洲米賣相可以，材料有一般既蝦仁、叉燒絲、火腿絲及蛋花可算足料。是大火炒那一鍾、略嫌陽光式炒法少咗一點韻味、味道偏鹹。可讚食完碟底極少油。亦叫咗熱奶茶、味道茶色算中規中矩。本人食過比這哩更好嘅星洲炒米。下午茶套餐價$55俾一般市區民生區茶記高咗d、可因西貢亦算遊客區。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "睇咗某YouTuber介紹呢間茶餐廳嘅星洲炒米，稱之為神級。所以去西貢特意一試。\n下午茶時段到達，上枱星洲米賣相可以，材料有一般既蝦仁、叉燒絲、火腿絲及蛋花可算足料。是大火炒那一鍾、略嫌陽光式炒法少咗一點韻味、味道偏鹹。可讚食完碟底極少油。亦叫咗熱奶茶、味道茶色算中規中矩。本人食過比這哩更好嘅星洲炒米。下午茶套餐價$55俾一般市區民生區茶記高咗d、可因西貢亦算遊客區。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "A Tang",
+          "uri": "https://www.google.com/maps/contrib/110671680318019183148/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK4ic1Vr_riKYdzLvRuloLyD6TO98mjLz9n0pMHVHU36pmR=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-02-13T05:17:25.324030Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBXzlDenlnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBXzlDenlnRRAB!2m1!1s0x340405bc4cd54b99:0x66c7707f93175a27"
+      },
+      {
+        "name": "places/ChIJmUvVTLwFBDQRJ1oXk39wx2Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURKNklDRGZnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "高記有很多街坊熟客，是一間有人情味的小店。\n星期日同毛孩到西貢美容， 然後拍低架車搵地方食午餐🥢， 經過高記餐廳，店員們很熱情地招代我們，又怕毛孩太熱， 讓我們坐風口位置。午餐 ～ 沙薑雞飯、生牛肉炒飯、 咸牛肉蛋治、凍檸茶、凍奶茶和凍檸樂。 沙薑雞飯 ～ 雞肉香嫩多汁， 沙薑味重。 生牛肉炒飯 ～ 炒得金黃乾身， 味道不錯。 咸牛肉蛋治 ～ 咸牛肉充滿鹹香，幾好味。 凍檸茶、凍奶茶和凍檸樂 ～ 飲品正常發揮。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "高記有很多街坊熟客，是一間有人情味的小店。\n星期日同毛孩到西貢美容， 然後拍低架車搵地方食午餐🥢， 經過高記餐廳，店員們很熱情地招代我們，又怕毛孩太熱， 讓我們坐風口位置。午餐 ～ 沙薑雞飯、生牛肉炒飯、 咸牛肉蛋治、凍檸茶、凍奶茶和凍檸樂。 沙薑雞飯 ～ 雞肉香嫩多汁， 沙薑味重。 生牛肉炒飯 ～ 炒得金黃乾身， 味道不錯。 咸牛肉蛋治 ～ 咸牛肉充滿鹹香，幾好味。 凍檸茶、凍奶茶和凍檸樂 ～ 飲品正常發揮。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "victoriay_eatwithvic",
+          "uri": "https://www.google.com/maps/contrib/114697832177333673125/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpCfwr1RRxacz1FrR7TJp1I5R3RsFpX8f_LBeVJsn43VN_Ow=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2023-07-10T04:25:24.468941Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKNklDRGZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKNklDRGZnEAE!2m1!1s0x340405bc4cd54b99:0x66c7707f93175a27"
+      },
+      {
+        "name": "places/ChIJmUvVTLwFBDQRJ1oXk39wx2Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURqaF9DTjhRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "滑蛋牛肉飯炒底， 滑蛋厚薄啱啱好， 牛肉冇嚴重嘅醃粉味， 炒底有蛋花有蛋味， 啲飯唔會過林亦都唔會過硬",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "滑蛋牛肉飯炒底， 滑蛋厚薄啱啱好， 牛肉冇嚴重嘅醃粉味， 炒底有蛋花有蛋味， 啲飯唔會過林亦都唔會過硬",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Franky Ng",
+          "uri": "https://www.google.com/maps/contrib/105190726529461860523/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8oIv8e2QCh8et4gag8-a4_NrW6poSxV8rIHkBUlDVbl5DzWEliw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-05-08T04:16:45.023132Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqaF9DTjhRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqaF9DTjhRRRAB!2m1!1s0x340405bc4cd54b99:0x66c7707f93175a27"
+      },
+      {
+        "name": "places/ChIJmUvVTLwFBDQRJ1oXk39wx2Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIMzlpODRnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 2,
+        "text": {
+          "text": "8-Sep-2024（12.00pm）\n一人工作午餐\n咖喱牛肉飯+凍咖啡（假日無例湯）\n$66\n做生意（最緊要有運）\n出品唔好（都大把生意）\n咖喱牛肉湯飯（生粉獻都費時埋）\n果然有運",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "8-Sep-2024（12.00pm）\n一人工作午餐\n咖喱牛肉飯+凍咖啡（假日無例湯）\n$66\n做生意（最緊要有運）\n出品唔好（都大把生意）\n咖喱牛肉湯飯（生粉獻都費時埋）\n果然有運",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "東哥哥",
+          "uri": "https://www.google.com/maps/contrib/103649843762513144317/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzCG8r9Ddr5ZvZUeVFBWKG9KNQNZYo07iW9zYiFDtRiFxDscU=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-09-10T16:43:59.708212Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIMzlpODRnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIMzlpODRnRRAB!2m1!1s0x340405bc4cd54b99:0x66c7707f93175a27"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": false,
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340405bc4cd54b99:0x66c7707f93175a27!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7406011805465008679&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405bc4cd54b99:0x66c7707f93175a27!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340405bc4cd54b99:0x66c7707f93175a27!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340405bc4cd54b99:0x66c7707f93175a27!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJmUvVTLwFBDQRJ1oXk39wx2Y/photos/Aa-ngMbVBBd08RBfomdrN38kIQ9KmZxaHGaJR8KtBGZhbhAz3kVJRyS7Al18LAz_xaDtVT_lrnP0n2tbKyQpzzf1VA_xGz2rNQJTyPxprevLP8mEIRibXaIBneePu7UXBofzJmwq2YL4iw_9bWBe0FyShCOTZrMJJLSE2abNiCOemzbUTsXY83bmrUlacAZ7GoiBkCA_BmPFyJ3xQ3B7OEooxp6HPw01ajHD8K1_ATyoMVGNF7_TeY4EFVXmBjYtJjcWDV9HP7XFhDD8mCkyQ_BaHWNIXX1DDDvdd2eSbuls79gHNi9GbMoNm6c5231U16P9EsCR1llq-q9y0SLxfLlOYqiFIhR4IOAALgr1UVZHa9_B_ifAX-eqm8oLJXFAYH9Oo5VhfDdbNPx7qKwly2PgSS4GFAc",
+      "widthPx": 1600,
+      "heightPx": 717,
+      "authorAttributions": [
+        {
+          "displayName": "WK Ma",
+          "uri": "https://maps.google.com/maps/contrib/114033584513885598238",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXahFFmaP_NFXoNDHDf8rFgnyweeYzd0wcXhLIPN1mYZBP5144qkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICeiLrBVA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICeiLrBVA!2e10!4m2!3m1!1s0x340405bc4cd54b99:0x66c7707f93175a27"
+    },
+    "local_path": "photos/ChIJmUvVTLwFBDQRJ1oXk39wx2Y.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvhNftK1gnREGKgT4wlwlhLrJtGSD9vrz_puI1vMDrZYCucc5pKgSHYpF7cpVIaXCnILPxiVXM4M3jeSnNdWq5RfXFx-ha2nqNFkesb_4BTx-y3kGIDCfHUuXhW1kwP6kGZ--d=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 110514
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

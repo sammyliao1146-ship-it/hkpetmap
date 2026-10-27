@@ -1,0 +1,37 @@
+{
+  "id": "ChIJd8rg21wBBDQR7AunDXFnpQ8",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍尖沙咀柯士甸道22號",
+  "location": {
+    "latitude": 22.300392799999997,
+    "longitude": 114.1707929
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1127421016984194028&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "九龍公園",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJd8rg21wBBDQR7AunDXFnpQ8/photos/Aa-ngMYFGXJXfqkN5F7vfG_cssY7SZKfcxF947Gqs41j1cBOq39UXgiyFScndd-X4tB09yfdwUBnoM_l-OtQmfesXDB3MMTruowP_YHC9VgKzUSZpMEkItCPvApetX-7ROtlXimMq2BACI2jXYRuHKtJN6tYeVyLzST5-98Iu8XFoz8OLYSVwMmzRvueX53_hl6_ahP5cVxbpeePOs3D6dzrpOFRpLmkfKkKu9b_005r2D21YTOumOVPaDE1kXWfZBJs71-fKvXmGvRBykrKgUksOZAd9COOtx458OoLEjtXBd4Kva8HMCSazwWI_FBEqJyuNJ2ODL1SkVN_E8M-Att9YPiseTooB4q8Aak21UXo8YMzyGsD1W7MewUGS-f3mEyy4HVLMMb7cHwW8_M8FNjSzyb5MCLPCnT2A0sdRUD1dm2dwQ",
+      "widthPx": 4000,
+      "heightPx": 2252,
+      "authorAttributions": [
+        {
+          "displayName": "Jeonghoon Park",
+          "uri": "https://maps.google.com/maps/contrib/108460512400809882438",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGFD07bWi-owUnj0geJQhGgO55Lf0Z58sSSzCP15Nku_mo5YrggA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhATE3nXK49RwoirpADZoTuu&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhATE3nXK49RwoirpADZoTuu!2e10!4m2!3m1!1s0x3404015cdbe0ca77:0xfa567710da70bec"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:12.454581+00:00"
+}

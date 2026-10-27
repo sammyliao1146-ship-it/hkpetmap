@@ -1,0 +1,329 @@
+{
+  "google_place_id": "ChIJ65TC260BBDQRTYCo9qNsmxc",
+  "restaurant_ids": [
+    "restaurant:2262809074"
+  ],
+  "fetched_at": "2026-10-23T15:37:49.187779+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ65TC260BBDQRTYCo9qNsmxc",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2341 0288",
+    "internationalPhoneNumber": "+852 2341 0288",
+    "formattedAddress": "香港九龍旺角山東街50號1樓及2樓全層",
+    "location": {
+      "latitude": 22.3176724,
+      "longitude": 114.171387
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=1701072735736201293&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/90slazyhk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 22:00",
+        "星期二: 12:00 – 22:00",
+        "星期三: 12:00 – 22:00",
+        "星期四: 12:00 – 22:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 12:00 – 22:00",
+        "星期日: 12:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 397,
+    "displayName": {
+      "text": "90sLazy",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ65TC260BBDQRTYCo9qNsmxc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKb1FreDNPSEpLVnpZNWNTMDJTVFJHZVY5M2NWRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "忌廉安格斯牛排長通粉 $148\n份量足夠，牛排多汁、5成熟剛剛好不會太韌。通粉硬度適中，易入口。\n\n懶人小食拼盤 $88\n香口而不膩，炸粉夠薄身，夠熱但少少硬，份量適合2人享用\n\n位於旺角樓上的餐廳，位置方便，環境舒適。\n下午陽光充足，適合享受咖啡下午茶\n晚餐比較多人略嫌嘈雜，但食物出色搭救，值得再次前往。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "忌廉安格斯牛排長通粉 $148\n份量足夠，牛排多汁、5成熟剛剛好不會太韌。通粉硬度適中，易入口。\n\n懶人小食拼盤 $88\n香口而不膩，炸粉夠薄身，夠熱但少少硬，份量適合2人享用\n\n位於旺角樓上的餐廳，位置方便，環境舒適。\n下午陽光充足，適合享受咖啡下午茶\n晚餐比較多人略嫌嘈雜，但食物出色搭救，值得再次前往。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Noku",
+          "uri": "https://www.google.com/maps/contrib/104786956676269832400/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTvhOv5kGDnhZkwLkzunb89RbP8RqICeKQoIMtKVYsZW34k4ykxA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-22T12:06:51.419184516Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKb1FreDNPSEpLVnpZNWNTMDJTVFJHZVY5M2NWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKb1FreDNPSEpLVnpZNWNTMDJTVFJHZVY5M2NWRRAB!2m1!1s0x340401addbc294eb:0x179b6ca3f6a8804d"
+      },
+      {
+        "name": "places/ChIJ65TC260BBDQRTYCo9qNsmxc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WcWFtcGFSVU0zVEZaYVJVNXZaVjlDWVRObExVRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "每次同friend都會嚟食💙唔限時間又坐得舒服\n每次啲嘢食都好好食，最愛心太軟😭😭😭\n香港人最高評價唔太甜！！！真係食過好多次㗎🫶🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "每次同friend都會嚟食💙唔限時間又坐得舒服\n每次啲嘢食都好好食，最愛心太軟😭😭😭\n香港人最高評價唔太甜！！！真係食過好多次㗎🫶🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Candy Chan",
+          "uri": "https://www.google.com/maps/contrib/108465383126213512366/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3Su2JV4KYHa_KmZ2Vf_-WtrktIslIklti_4mvmeOJ_Vz81n4=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-29T11:30:45.089806509Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WcWFtcGFSVU0zVEZaYVJVNXZaVjlDWVRObExVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WcWFtcGFSVU0zVEZaYVJVNXZaVjlDWVRObExVRRAB!2m1!1s0x340401addbc294eb:0x179b6ca3f6a8804d"
+      },
+      {
+        "name": "places/ChIJ65TC260BBDQRTYCo9qNsmxc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CR2NXWnRabFZGY1VFMmExRXhSbEZ1ZG1aUFIwRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "係旺角搵間好坐又好食嘅Cafe 真係幾難，但係呢間真心好適合同fd 慢慢吹水慢慢食。\n\n對於I 人黎講極致友好，我非常care同人坐得好近，會社恐發作，但呢度坐得勁舒服，同個fd 吹左勁耐水XDDDD 仲一直加水比我地，太好服務了😆\n\n野食選擇好多，同埋係高質！！叫左雞扒risotto同三文魚pizza ，兩樣都清晒，好好食！\n\n如果下次行開旺角需要搵間Cafe坐同fd吹水，我一定會返返嚟呢度😆😆😆",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "係旺角搵間好坐又好食嘅Cafe 真係幾難，但係呢間真心好適合同fd 慢慢吹水慢慢食。\n\n對於I 人黎講極致友好，我非常care同人坐得好近，會社恐發作，但呢度坐得勁舒服，同個fd 吹左勁耐水XDDDD 仲一直加水比我地，太好服務了😆\n\n野食選擇好多，同埋係高質！！叫左雞扒risotto同三文魚pizza ，兩樣都清晒，好好食！\n\n如果下次行開旺角需要搵間Cafe坐同fd吹水，我一定會返返嚟呢度😆😆😆",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "h h.",
+          "uri": "https://www.google.com/maps/contrib/114795762843284860122/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJode5B4VPRKnHo_Jx_QPLzx3v36OBBs_ufRV_9UFyJ8g7UFg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-02-27T10:45:44.933623898Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CR2NXWnRabFZGY1VFMmExRXhSbEZ1ZG1aUFIwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CR2NXWnRabFZGY1VFMmExRXhSbEZ1ZG1aUFIwRRAB!2m1!1s0x340401addbc294eb:0x179b6ca3f6a8804d"
+      },
+      {
+        "name": "places/ChIJ65TC260BBDQRTYCo9qNsmxc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5RVdYQklVamRHTjNWVFR6TXhia0pDTTNCQ1ZHYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好多時諗唔到去邊間cafe都會同frd嚟呢度 :) 嘢食好味環境唔錯 overall quite dope",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好多時諗唔到去邊間cafe都會同frd嚟呢度 :) 嘢食好味環境唔錯 overall quite dope",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hilary Lee",
+          "uri": "https://www.google.com/maps/contrib/111816074999264912135/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVch-Hu19kD-SFcW660HJU9s2xxLT4L_mKzvSXKqs6vJS5MTcV4=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-19T05:47:56.148893164Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5RVdYQklVamRHTjNWVFR6TXhia0pDTTNCQ1ZHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5RVdYQklVamRHTjNWVFR6TXhia0pDTTNCQ1ZHYxAB!2m1!1s0x340401addbc294eb:0x179b6ca3f6a8804d"
+      },
+      {
+        "name": "places/ChIJ65TC260BBDQRTYCo9qNsmxc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKRVRXWTVSazlLYkRWd1pUUnNjVEV5VEU5WVpWRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境舒適， 難得可以喺鬧市中有一個適合傾偈嘅地方，餐點好食，價格合理，甜品出色，位置容易搵，下次傾偈飯局一定再嚟👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境舒適， 難得可以喺鬧市中有一個適合傾偈嘅地方，餐點好食，價格合理，甜品出色，位置容易搵，下次傾偈飯局一定再嚟👍🏻👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "CHAN ELAINE",
+          "uri": "https://www.google.com/maps/contrib/107120615986698659431/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuB6OCiYmq0G_1B8vyhixvaWmo2REVGjMrsFfnXCt461E7Ucva=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-02T12:50:30.368477651Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKRVRXWTVSazlLYkRWd1pUUnNjVEV5VEU5WVpWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKRVRXWTVSazlLYkRWd1pUUnNjVEV5VEU5WVpWRRAB!2m1!1s0x340401addbc294eb:0x179b6ca3f6a8804d"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401addbc294eb:0x179b6ca3f6a8804d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1701072735736201293&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401addbc294eb:0x179b6ca3f6a8804d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401addbc294eb:0x179b6ca3f6a8804d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401addbc294eb:0x179b6ca3f6a8804d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ65TC260BBDQRTYCo9qNsmxc/photos/Aa-ngMYlnHxERm5u5Cec_VqhCT75foUME_VGFfd2AaA9fOpPeFjlDAROxL1j_FyaKydw1XURjtljG6oBZ-vhOhfak6ExNl3fCSR1-C8ZPfqR0RSuZA0T1_3_pWshpSTDba13cn5p6pzzSZpTrbtrpYgIjkX-kemOOER4tBE9IQ226_eOtMjgFlZ9PXyUxnHABCZ_ax90ydkveUt48G-nCZSuN44oztwh3NvguTXyCvYPQ5-7tQwXBboPxAuSSyhgvb-VF6CrQvgLI9ALUCqchzxdfisRsYMT-0q8g_EVWid1zZzZjEK-Wtoc36PeBnJ3vOsKo9bYiaBNjGnaI006bC_Q5tI4fxOo6y79oX7J3DifRnZWGSMK_KWdVjbU-xTNxf7p4nTi524BlT_CEM49_KNfXE_LGPQvfbssQ83ggC40VIKTJQ",
+      "widthPx": 1122,
+      "heightPx": 1402,
+      "authorAttributions": [
+        {
+          "displayName": "90sLazy (旺角店)",
+          "uri": "https://maps.google.com/maps/contrib/100662344103577607156",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCZw3dx1AYZP6j1Apz8uoCd4p_sbF7kOkCMUVGDeYgWuh_gPH_=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBX1JtxzqYjKPpIVlvWP64c&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBX1JtxzqYjKPpIVlvWP64c!2e10!4m2!3m1!1s0x340401addbc294eb:0x179b6ca3f6a8804d"
+    },
+    "local_path": "photos/ChIJ65TC260BBDQRTYCo9qNsmxc.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvurr3D1vESccKfZ6BhfaSpU1pBpn2NssKKWyrvHIxWlmZOlTuViF6ZKA1uvtHVCFjnugcMKt8E3dhO8RwBkOsgWTqzDiHmr5SW9amLhCeI8jCCnF_ZEQwi4HxEMkPQe78xL8NrGyLR0ZP=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 1120367
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

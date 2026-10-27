@@ -1,0 +1,325 @@
+{
+  "google_place_id": "ChIJ5ZPQQ4FXATQROtDXMt6Xs60",
+  "restaurant_ids": [
+    "restaurant:2217801308"
+  ],
+  "fetched_at": "2026-10-23T15:44:48.110795+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ5ZPQQ4FXATQROtDXMt6Xs60",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5245 5961",
+    "internationalPhoneNumber": "+852 5245 5961",
+    "formattedAddress": "香港新界長洲建新里3號",
+    "location": {
+      "latitude": 22.206011500000002,
+      "longitude": 114.0280478
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=12516514769984278586&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://m.facebook.com/LAEATCHEUNGCHAU",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 21:00",
+        "星期二: 12:00 – 21:00",
+        "星期三: 12:00 – 21:00",
+        "星期四: 12:00 – 21:00",
+        "星期五: 12:00 – 21:00",
+        "星期六: 12:00 – 21:00",
+        "星期日: 12:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 159,
+    "displayName": {
+      "text": "LA EAT 嚟食",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesVegetarianFood": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ5ZPQQ4FXATQROtDXMt6Xs60/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsbGExbHNXR3RPZFZSVmJWSnZheTFNVVVOalQwRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "用心做,食物質素高, Nasi Lemak 的雞肉香料味足且帶少少辣,雞肉算嫩有些少肉汁,特製辣醬加咗魚仔,配雞好味；巴東牛肉夾餅好好味, Gado Gado沙律口味較到比較適合香港人。用餐體驗良好, 價錢合理,推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "用心做,食物質素高, Nasi Lemak 的雞肉香料味足且帶少少辣,雞肉算嫩有些少肉汁,特製辣醬加咗魚仔,配雞好味；巴東牛肉夾餅好好味, Gado Gado沙律口味較到比較適合香港人。用餐體驗良好, 價錢合理,推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Calvin",
+          "uri": "https://www.google.com/maps/contrib/103481757426795148188/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUR0z_rDI8vlK4gKrDrLJpzK5QisiEqbAJSivoNotePuwHcFD8=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-04T05:00:14.826494424Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsbGExbHNXR3RPZFZSVmJWSnZheTFNVVVOalQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsbGExbHNXR3RPZFZSVmJWSnZheTFNVVVOalQwRRAB!2m1!1s0x3401578143d093e5:0xadb397de32d7d03a"
+      },
+      {
+        "name": "places/ChIJ5ZPQQ4FXATQROtDXMt6Xs60/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsS09HZEtNV2wwV21oS1oxaFRlR2xaVWpOYWExRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "提供家庭式新派新加波、印尼食物。老板娘有善，食物質素好。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "提供家庭式新派新加波、印尼食物。老板娘有善，食物質素好。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "King Man Lee",
+          "uri": "https://www.google.com/maps/contrib/107257142804170083691/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCa8VG8RE1Tpn1ePL27zFUvGLyFw6MNdKJbGD5LPv6zEpcoTs=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-01-28T10:12:50.219137821Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsS09HZEtNV2wwV21oS1oxaFRlR2xaVWpOYWExRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsS09HZEtNV2wwV21oS1oxaFRlR2xaVWpOYWExRRAB!2m1!1s0x3401578143d093e5:0xadb397de32d7d03a"
+      },
+      {
+        "name": "places/ChIJ5ZPQQ4FXATQROtDXMt6Xs60/reviews/ChdDSUhNMG9nS0VNekVpTXZubHBtX253RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "【島民都推薦的新加坡菜】\n\n之前去長洲都是吃港式美食、甜品，今次再來吃了連島民都推薦的新加坡菜。嚟食的餐牌本身都有素食，主打新加坡家常風味料理。\n下午 12:00 至 17:00 會有午餐供應，另外在太平清醮期間更推出了素食限定菜單。這家店的位置其實不算顯眼，但走進去就會發現裝潢雖然簡約，但很溫馨自在。\n\n午餐可選清新的田園沙律或是娘惹生菜包 + 主食。\n娘惹生菜包吃起來都是既清新又有開胃效果，而且口感層次很豐富。加 HKD 18 可多點 Creamy turmeric cauliflower soup。\n薑黃的味道頗為突出，但入口溫潤順滑，椰菜花打得很細緻。\n\n新加坡素叻沙 (HKD 128) 一上桌就聞到很誘人的香味。\n湯喝起來辛香又不過辣，椰香濃郁卻不膩口，會讓人不自覺地想多喝幾口。米粉亦很爽滑﹐還可以加自家製的參巴醬來增加辣度，吃落會更惹味。配料還有彈牙的素魚蛋、紫菜腐皮卷等，是很有誠意的一碗。\n\n參巴番茄意式素肉丸配法包 (HKD 128)\n素肉丸口感紮實得來有彈性，不會像某些乾柴的素肉丸。\n再加上酸香微辣的番茄參巴醬和香脆的法包一起享用，十分滿足。\n\n烤雞髀菇 x 炒黃面 (HKD 98) & 雞髀菇椰漿飯 (HKD 88)\n前者擠了金桔汁後吃起來帶點果酸，讓黃面除了醬香外多了點層次感。煎成網紋的雞髀菇外層微微焦香，咬落會有汁。\n後者的椰漿飯再加上蛋黃更添濃郁滑香。\n\nTotal：HKD 460 (不設加一服務費)\n今次試了幾款素食菜式，無論那款都頗有驚喜，怪不得島民們都推薦。這店還有預定菜式、咖喱類菜式都很吸引，有機會會想再來品嘗。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "【島民都推薦的新加坡菜】\n\n之前去長洲都是吃港式美食、甜品，今次再來吃了連島民都推薦的新加坡菜。嚟食的餐牌本身都有素食，主打新加坡家常風味料理。\n下午 12:00 至 17:00 會有午餐供應，另外在太平清醮期間更推出了素食限定菜單。這家店的位置其實不算顯眼，但走進去就會發現裝潢雖然簡約，但很溫馨自在。\n\n午餐可選清新的田園沙律或是娘惹生菜包 + 主食。\n娘惹生菜包吃起來都是既清新又有開胃效果，而且口感層次很豐富。加 HKD 18 可多點 Creamy turmeric cauliflower soup。\n薑黃的味道頗為突出，但入口溫潤順滑，椰菜花打得很細緻。\n\n新加坡素叻沙 (HKD 128) 一上桌就聞到很誘人的香味。\n湯喝起來辛香又不過辣，椰香濃郁卻不膩口，會讓人不自覺地想多喝幾口。米粉亦很爽滑﹐還可以加自家製的參巴醬來增加辣度，吃落會更惹味。配料還有彈牙的素魚蛋、紫菜腐皮卷等，是很有誠意的一碗。\n\n參巴番茄意式素肉丸配法包 (HKD 128)\n素肉丸口感紮實得來有彈性，不會像某些乾柴的素肉丸。\n再加上酸香微辣的番茄參巴醬和香脆的法包一起享用，十分滿足。\n\n烤雞髀菇 x 炒黃面 (HKD 98) & 雞髀菇椰漿飯 (HKD 88)\n前者擠了金桔汁後吃起來帶點果酸，讓黃面除了醬香外多了點層次感。煎成網紋的雞髀菇外層微微焦香，咬落會有汁。\n後者的椰漿飯再加上蛋黃更添濃郁滑香。\n\nTotal：HKD 460 (不設加一服務費)\n今次試了幾款素食菜式，無論那款都頗有驚喜，怪不得島民們都推薦。這店還有預定菜式、咖喱類菜式都很吸引，有機會會想再來品嘗。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dolly Chan",
+          "uri": "https://www.google.com/maps/contrib/108294886827109875493/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGqpPSdFKKsI1LN-5PRtUIUZHnCKdPr8Q8c_it-m4LqdFla7KE-A=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-05-07T18:29:26.319307Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VNekVpTXZubHBtX253RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VNekVpTXZubHBtX253RRAB!2m1!1s0x3401578143d093e5:0xadb397de32d7d03a"
+      },
+      {
+        "name": "places/ChIJ5ZPQQ4FXATQROtDXMt6Xs60/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBeGNEbFFSR05yU0VkVllsRnVaRTlET0RSWWJVRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "海南雞好食到不得了\n牛肉酥餅，超級好食\n串燒冇得頂\n沺雞勁好食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "海南雞好食到不得了\n牛肉酥餅，超級好食\n串燒冇得頂\n沺雞勁好食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "wing lau",
+          "uri": "https://www.google.com/maps/contrib/104463754744250912309/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJexlGfE-5Z-gYYpL1OV2MCKnq7_sBD65rq4Bemc3Q8CjN4Dg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-08T12:11:17.288588033Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBeGNEbFFSR05yU0VkVllsRnVaRTlET0RSWWJVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBeGNEbFFSR05yU0VkVllsRnVaRTlET0RSWWJVRRAB!2m1!1s0x3401578143d093e5:0xadb397de32d7d03a"
+      },
+      {
+        "name": "places/ChIJ5ZPQQ4FXATQROtDXMt6Xs60/reviews/ChZDSUhNMG9nS0VJQ0FnSURWN18yU1dREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "嚟食係位於長洲嘅葷素餐廳，menu有標示素食嘅菜式。餐廳有提供自家製素參巴醬，純素不含五辛。以下兩款菜式都包含煎蛋，可選太陽蛋或熟蛋。\n\n炸雞髀菇椰漿飯 ($88)\n椰漿飯外觀似普通白飯，但原來已用椰漿調味，食落有淡淡嘅椰汁味，飯口感乾身。素參巴醬食落偏辣，撈飯黎食味道剛好。\n\nMiGoreng印尼炒麵 配素菜串燒 ($88)\n串燒有2件翠玉瓜、秋葵同茄子，表面嘅沙嗲醬為五辛素，因為用蔥蒜去爆鑊。圖片上嘅素菜串燒係走沙嗲醬嘅版本，店員會改用鹽去調味。\n\n話梅薄荷桔仔梳打 ($40)\n\n芒果熱情果梳打 ($40)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "嚟食係位於長洲嘅葷素餐廳，menu有標示素食嘅菜式。餐廳有提供自家製素參巴醬，純素不含五辛。以下兩款菜式都包含煎蛋，可選太陽蛋或熟蛋。\n\n炸雞髀菇椰漿飯 ($88)\n椰漿飯外觀似普通白飯，但原來已用椰漿調味，食落有淡淡嘅椰汁味，飯口感乾身。素參巴醬食落偏辣，撈飯黎食味道剛好。\n\nMiGoreng印尼炒麵 配素菜串燒 ($88)\n串燒有2件翠玉瓜、秋葵同茄子，表面嘅沙嗲醬為五辛素，因為用蔥蒜去爆鑊。圖片上嘅素菜串燒係走沙嗲醬嘅版本，店員會改用鹽去調味。\n\n話梅薄荷桔仔梳打 ($40)\n\n芒果熱情果梳打 ($40)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Polly Chan",
+          "uri": "https://www.google.com/maps/contrib/115987282737059109606/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQtCOutw3-K3EQcKUacpbpiKdbnt50Y1Yeh5IJ_nKQwjy8=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-12-19T07:25:26.251241Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWN18yU1dREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWN18yU1dREAE!2m1!1s0x3401578143d093e5:0xadb397de32d7d03a"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": false,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3401578143d093e5:0xadb397de32d7d03a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12516514769984278586&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3401578143d093e5:0xadb397de32d7d03a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3401578143d093e5:0xadb397de32d7d03a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3401578143d093e5:0xadb397de32d7d03a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ5ZPQQ4FXATQROtDXMt6Xs60/photos/Aa-ngMYO0X-P8CSzMixQXwUxoCYxwMlSIrqXAn7l-Ll3YklIvVfU7SQePCpeawRwAR6q3ABDinDSA0V3liyyDGP57136_iq6X7-6kI-vwbg_DzZa04Mf_XM7Uj03vf5hw5J-MW9WiYLNe376hokQXeOSelmC8ykK-cTPkCMf3lHCRS7PPig21YyJ2b_wDzSVrAv_E3rQaXdeNNT8j4R5b-mo5VStD711w1v5bANh-B7KXa09i255M3Zp4m46hTasJsnuCpHCcmMJMuLYJOyVK_bO_wKCTQ5G4psTR6A8Fo1Wyyetv_mWbEEyaDfXqKNnc95mE58R53kMtiX-6FuH9ZIGTldSs71RK6LxF9NAcLlvyGmvdAsm0SkkNwuOrB1aOwN27OMQ4XJlsA_lXZsppFpRFkXeCbs",
+      "widthPx": 3024,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "LA EAT 嚟食",
+          "uri": "https://maps.google.com/maps/contrib/112395141899453169360",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNCQzNUA0gSvTGJo61Bz5XnCo8sILvYVBYayPHGSqtq6zzejwM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDRpr6dBw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRpr6dBw!2e10!4m2!3m1!1s0x3401578143d093e5:0xadb397de32d7d03a"
+    },
+    "local_path": "photos/ChIJ5ZPQQ4FXATQROtDXMt6Xs60.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKXTr-2pHyHFMJwYlETTwFolSMHMur6ReAqczCxNCg8vgtj5lal62J4NGMN3kJmzw1Fot80fW09SJp0MKBYF5Q3zgRj1OEq6vXalC8wJqFkdLKAB6ZrbrEK_nc7EHDlKWMB3ei=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 181214
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

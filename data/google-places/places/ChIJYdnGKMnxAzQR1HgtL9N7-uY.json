@@ -1,0 +1,306 @@
+{
+  "google_place_id": "ChIJYdnGKMnxAzQR1HgtL9N7-uY",
+  "restaurant_ids": [
+    "restaurant:3194802153"
+  ],
+  "fetched_at": "2026-10-23T15:46:31.564176+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJYdnGKMnxAzQR1HgtL9N7-uY",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6112 3829",
+    "internationalPhoneNumber": "+852 6112 3829",
+    "formattedAddress": "香港新界元朗媽橫路7號, Fu Loy Garden Block A, 10號鋪",
+    "location": {
+      "latitude": 22.4473999,
+      "longitude": 114.02360069999999
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=16643751519860914388&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 12:00 – 21:00",
+        "星期三: 12:00 – 21:00",
+        "星期四: 12:00 – 21:00",
+        "星期五: 12:00 – 21:00",
+        "星期六: 12:00 – 21:00",
+        "星期日: 12:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 56,
+    "displayName": {
+      "text": "Next Station",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJYdnGKMnxAzQR1HgtL9N7-uY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VdFVFWnlRMFl6V0ZsM05uSlFjV1ZhWkZkS1FuYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "小小咖啡店，但裝修funny，睇得出兩位老細的心思！女友喜歡大枱，他們都安排較闊落的位置，服務幾好！食物真係超讚，連一向對食有講夠的女友都讚好！泰國人讚香港的Tom yum意粉，香濃過在泰國食，真係勁！我就喜歡杯士多啤梨的飲品，個杯仔好得意！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "小小咖啡店，但裝修funny，睇得出兩位老細的心思！女友喜歡大枱，他們都安排較闊落的位置，服務幾好！食物真係超讚，連一向對食有講夠的女友都讚好！泰國人讚香港的Tom yum意粉，香濃過在泰國食，真係勁！我就喜歡杯士多啤梨的飲品，個杯仔好得意！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "阿魚",
+          "uri": "https://www.google.com/maps/contrib/114824100036742658637/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrHgLn9kFexUzLxx-Ae1mgngKEopbK0Y-n4exNOmt9xi22j1Vh=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-25T00:55:44.382304764Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21VdFVFWnlRMFl6V0ZsM05uSlFjV1ZhWkZkS1FuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VdFVFWnlRMFl6V0ZsM05uSlFjV1ZhWkZkS1FuYxAB!2m1!1s0x3403f1c928c6d961:0xe6fa7bd32f2d78d4"
+      },
+      {
+        "name": "places/ChIJYdnGKMnxAzQR1HgtL9N7-uY/reviews/ChZDSUhNMG9nS0VJamhnTURYdy1yX0h3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "第一次試！6點半到達小店仍沒有客，但已經有2張枱reserved.  以為唔多客，點知到7點已經滿座，又多外賣！只得一個厨司和美少女樓面！店內有好多特或擺設，小\n店很有心思！本來一般祈待，但見到店主用環保不銹鋼飲管便很滿意！所以首先叫了passion fruit soda and Pineapple soda, 賣相很吸引亦可能天氣太熱，十分可口暢快醒神！又order蟹肉旦bagel超好味👍，雞皮鶢翼是水準之作🥰，帶子芥末意粉好味，但芥末好嗆鼻，可以略減少少芥末！每度莱式有擺盆！會再幫藽襯！P.S. 提議加大抽油烟机！😅",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第一次試！6點半到達小店仍沒有客，但已經有2張枱reserved.  以為唔多客，點知到7點已經滿座，又多外賣！只得一個厨司和美少女樓面！店內有好多特或擺設，小\n店很有心思！本來一般祈待，但見到店主用環保不銹鋼飲管便很滿意！所以首先叫了passion fruit soda and Pineapple soda, 賣相很吸引亦可能天氣太熱，十分可口暢快醒神！又order蟹肉旦bagel超好味👍，雞皮鶢翼是水準之作🥰，帶子芥末意粉好味，但芥末好嗆鼻，可以略減少少芥末！每度莱式有擺盆！會再幫藽襯！P.S. 提議加大抽油烟机！😅",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "douc chan",
+          "uri": "https://www.google.com/maps/contrib/115235218549333423850/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAgHAzWUw-HRpCUFCsNAW7dq2OeBSEgDvum6Us4B2Hh1KtFImU6w=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-05-31T14:11:21.650179Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJamhnTURYdy1yX0h3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJamhnTURYdy1yX0h3EAE!2m1!1s0x3403f1c928c6d961:0xe6fa7bd32f2d78d4"
+      },
+      {
+        "name": "places/ChIJYdnGKMnxAzQR1HgtL9N7-uY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vdFRsVjZVbWhqUW1rMk9USk5OME5DTVRZMmExRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "嗌左黑松露炒蛋bagel同牛油果蛋toast，啲蛋好香好滑，勁勁勁多料，good vibe ，會推介所有入元朗國嘅朋友黎食",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "嗌左黑松露炒蛋bagel同牛油果蛋toast，啲蛋好香好滑，勁勁勁多料，good vibe ，會推介所有入元朗國嘅朋友黎食",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Flora Wong",
+          "uri": "https://www.google.com/maps/contrib/106877260210854953733/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI6Xu2ZjSpUNoyYoyeqL7LnVgWGRHuQSvEsRwuLCQDvItjSOu8E=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-02-01T03:16:04.896697877Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21vdFRsVjZVbWhqUW1rMk9USk5OME5DTVRZMmExRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vdFRsVjZVbWhqUW1rMk9USk5OME5DTVRZMmExRRAB!2m1!1s0x3403f1c928c6d961:0xe6fa7bd32f2d78d4"
+      },
+      {
+        "name": "places/ChIJYdnGKMnxAzQR1HgtL9N7-uY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KSFpEZzVkak4xYVVRMFVWVTVVSEJWYVRSd2NWRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "炸雞皮餃子炸得好香脆；冬陰公牛面意粉好惹味；Wasabi 帶子意粉一路食一路攻鼻但好爽",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "炸雞皮餃子炸得好香脆；冬陰公牛面意粉好惹味；Wasabi 帶子意粉一路食一路攻鼻但好爽",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fiona Fong",
+          "uri": "https://www.google.com/maps/contrib/106743638083535592973/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5oqE9_oY9DMm295ak1ek8hSngCAlpAUwLXJPKWQsqhyd2tw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-12-27T08:49:21.375506810Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KSFpEZzVkak4xYVVRMFVWVTVVSEJWYVRSd2NWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KSFpEZzVkak4xYVVRMFVWVTVVSEJWYVRSd2NWRRAB!2m1!1s0x3403f1c928c6d961:0xe6fa7bd32f2d78d4"
+      },
+      {
+        "name": "places/ChIJYdnGKMnxAzQR1HgtL9N7-uY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtalp1ZUJBEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "同朋友入左元朗諗住睇紅葉😜但係去之前緊係要食d野，最後我地就簡左呢間啦，原因係比佢個menu吸引左，menu實在太FUN了😂😂😂但係要留意返因為得一個廚師，所以等野食時間會長d~\n☀鹽酥雞\n一碗既鹽酥雞係岩岩炸出黎，勁熱勁脆口。有種台灣嘅感覺🤣\n🌙黑松露野菌意粉\n一上枱就見到意粉上面有一大Pat既黑松露！🤣🤣🤣真係真材實料😝成個意少勁creamy 😆\n🌟pineapple soda\n估唔到有咁大杯，但係反而野飲無分開上有意外，不過我地都會等埋一齊先會開始食，所以都無咩問題😜",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "同朋友入左元朗諗住睇紅葉😜但係去之前緊係要食d野，最後我地就簡左呢間啦，原因係比佢個menu吸引左，menu實在太FUN了😂😂😂但係要留意返因為得一個廚師，所以等野食時間會長d~\n☀鹽酥雞\n一碗既鹽酥雞係岩岩炸出黎，勁熱勁脆口。有種台灣嘅感覺🤣\n🌙黑松露野菌意粉\n一上枱就見到意粉上面有一大Pat既黑松露！🤣🤣🤣真係真材實料😝成個意少勁creamy 😆\n🌟pineapple soda\n估唔到有咁大杯，但係反而野飲無分開上有意外，不過我地都會等埋一齊先會開始食，所以都無咩問題😜",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "dora ng",
+          "uri": "https://www.google.com/maps/contrib/117769236737084869339/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPryHDs0gUvRRlIy6S6mUOG6FBbEVDVMBj3hk4ohvJJ0J7kSoS=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-01-05T14:44:35.621233Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNtalp1ZUJBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNtalp1ZUJBEAE!2m1!1s0x3403f1c928c6d961:0xe6fa7bd32f2d78d4"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f1c928c6d961:0xe6fa7bd32f2d78d4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16643751519860914388&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f1c928c6d961:0xe6fa7bd32f2d78d4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f1c928c6d961:0xe6fa7bd32f2d78d4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f1c928c6d961:0xe6fa7bd32f2d78d4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJYdnGKMnxAzQR1HgtL9N7-uY/photos/Aa-ngMaRAtBUtSJVbqghIRdWvSLC4l0-i38z0U94uRbH3Ph7SokYAwcQXFhO6ec35sb9hve8vrUItNUETsNKeEnTGOecLWxhFo-ZoMFrEYSdJ_FCt5C0AuAgF97LQNB8_MKnTgazNqSjvgJgvaOQfvGVAYv5hupc1jZATQGBqaKnoB-RJRO7vmohXzcgN4SLv7FGXTThzb9nN_16NunoemCJOBplbI4hXDN9fi4Tu3uC1NP64esH9onEo0IcapEsGrDkbOusCsW8yVZ9hY3zMOenQqZIgiKPLxcvvAKW-pMlflasMzN_96lLRvNeAlhLyxijOdek6RdDeS4-EZp0ltpcHB0lOFl-N1wso4rmCm7mck5QHTW--KdqIMJGT9e2s0KpSZted27Lft2wuau6Utqw331ZifqNr0EOodhPoZsJtvxv",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Jack Leung",
+          "uri": "https://maps.google.com/maps/contrib/112955520114464802455",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVToM_SMKcg98daEH9SQJDx2Kq7sq1ovnCW640lql9bQQ5hX6PA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC57uuEfqnsKiRIzqJ2wyqg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC57uuEfqnsKiRIzqJ2wyqg!2e10!4m2!3m1!1s0x3403f1c928c6d961:0xe6fa7bd32f2d78d4"
+    },
+    "local_path": "photos/ChIJYdnGKMnxAzQR1HgtL9N7-uY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBvlE0rmB79Q5XMwHQz1UF4UEuqLHdngLNuqADXa1ZGHrtl0v44exa27l8cXlxWpnIe_qfMqipYNTFqs-ochy65S37BeWfg7qfkN9ap1OYKXT1Y6dTl-kfdqm9437t4n98dpSgJyjYAf8=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 201547
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

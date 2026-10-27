@@ -1,0 +1,404 @@
+{
+  "google_place_id": "ChIJG0iBYx_7AzQRKdUzTJDCL-g",
+  "restaurant_ids": [
+    "restaurant:3193802332"
+  ],
+  "fetched_at": "2026-10-23T15:39:14.241870+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJG0iBYx_7AzQRKdUzTJDCL-g",
+    "types": [
+      "chinese_noodle_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3689 6865",
+    "internationalPhoneNumber": "+852 3689 6865",
+    "formattedAddress": "香港新界屯門井財街金銘大廈地下 D鋪",
+    "location": {
+      "latitude": 22.4024277,
+      "longitude": 113.9777604
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=16730805065714226473&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/tanlotandessert/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 15:00, 17:00 – 00:00",
+        "星期二: 11:30 – 15:00, 17:00 – 00:00",
+        "星期三: 11:30 – 15:00, 17:00 – 00:00",
+        "星期四: 11:30 – 15:00, 17:00 – 00:00",
+        "星期五: 11:30 – 15:00, 17:00 – 00:00",
+        "星期六: 11:30 – 15:00, 17:00 – 00:00",
+        "星期日: 11:30 – 15:00, 17:00 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 87,
+    "displayName": {
+      "text": "嘆撈",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式麵館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "chinese_noodle_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJG0iBYx_7AzQRKdUzTJDCL-g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taamVIaDVaVmh4Wm1semR6QmFjV1kzUVZwcVNYYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "10分有驚喜，呢間小店真係要大推！\n$48涼拌手撕雞+麻辣雞軟骨爆蒜紅薯皮。呢個價錢午餐包嘢飲，飲品唔係普通咖啡奶茶，而係自己做嘅！老闆羅先生好貼心，應我要求，比多青瓜絲同芫荽，減少澱粉。讚讚讚🥰🥰\n講返味道，調得真係啱啱好，鹹味、香味、麻味好balanced。\n\n重點係食完唔口乾。😅👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "10分有驚喜，呢間小店真係要大推！\n$48涼拌手撕雞+麻辣雞軟骨爆蒜紅薯皮。呢個價錢午餐包嘢飲，飲品唔係普通咖啡奶茶，而係自己做嘅！老闆羅先生好貼心，應我要求，比多青瓜絲同芫荽，減少澱粉。讚讚讚🥰🥰\n講返味道，調得真係啱啱好，鹹味、香味、麻味好balanced。\n\n重點係食完唔口乾。😅👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jww C",
+          "uri": "https://www.google.com/maps/contrib/100564682250951843137/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXq0ycwEPF8frzid-tDdoHPepJ75aKxck-MiDKOMaMzZTZoU-g=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-04-08T08:29:59.243254644Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taamVIaDVaVmh4Wm1semR6QmFjV1kzUVZwcVNYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taamVIaDVaVmh4Wm1semR6QmFjV1kzUVZwcVNYYxAB!2m1!1s0x3403fb1f6381481b:0xe82fc2904c33d529"
+      },
+      {
+        "name": "places/ChIJG0iBYx_7AzQRKdUzTJDCL-g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4clkyMXRNR1ZuY0V0WmNYQlRRMnRqWkV3NVZuYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "媽咪食金錢肚+手撕鷄（唔辣紅薯粉），紅薯粉夠煙韌，配菜有炸花生炸黃豆青瓜絲芫荽，媽咪勁讚，話啱晒佢口味。\n而我食軟殼蟹+蟹柳（涼麵）炸粉漿夠薄加上即時炸嘅熱辣辣夠脆口，麵方面不會太淋（我好怕淋pet pet果啲）醬汁調味剛剛好不會太咸，再加上我最喜歡嘅芫荽，簡直完美配搭。\n後加甜品楊枝甘露，西米軟硬適中有口感，但因為我本身飲嘢係走甜嘅，所以覺得略甜咗少少！\n飲品凍桃茶，夠清香～\n食物整體上唔錯架，係座位上不多，媽咪話要再幫襯～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "媽咪食金錢肚+手撕鷄（唔辣紅薯粉），紅薯粉夠煙韌，配菜有炸花生炸黃豆青瓜絲芫荽，媽咪勁讚，話啱晒佢口味。\n而我食軟殼蟹+蟹柳（涼麵）炸粉漿夠薄加上即時炸嘅熱辣辣夠脆口，麵方面不會太淋（我好怕淋pet pet果啲）醬汁調味剛剛好不會太咸，再加上我最喜歡嘅芫荽，簡直完美配搭。\n後加甜品楊枝甘露，西米軟硬適中有口感，但因為我本身飲嘢係走甜嘅，所以覺得略甜咗少少！\n飲品凍桃茶，夠清香～\n食物整體上唔錯架，係座位上不多，媽咪話要再幫襯～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rainbow Lee",
+          "uri": "https://www.google.com/maps/contrib/117204772841607068059/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXL7Q1tp_Dt151oUL7KpYLeYQ9WNi2BsoeNHeW3gsvXKzZNA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-09-11T07:12:02.988090652Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4clkyMXRNR1ZuY0V0WmNYQlRRMnRqWkV3NVZuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4clkyMXRNR1ZuY0V0WmNYQlRRMnRqWkV3NVZuYxAB!2m1!1s0x3403fb1f6381481b:0xe82fc2904c33d529"
+      },
+      {
+        "name": "places/ChIJG0iBYx_7AzQRKdUzTJDCL-g/reviews/ChZDSUhNMG9nS0VJQ0FnSURfeUlHT0hREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "我本身麻麻地撈嘢食，由細個見到撈麵都冇咩感覺～\n\n相反，老公就好鐘意，所以星期六夜晚就同佢一齊黎試！然後我改觀，係幾好味\n\n店舖細細，堂食位置唔算好多，相反外賣單超級多，我地係餐廳都見到/聽到好多單～\n\nMenu其實簡單，但有唔同配搭俾你自我調教自己鍾意嘅口味，包括麵類、熱定凍撈、配料等\n\n⭐️牛柏葉嘆撈（薯粉/熱撈/小辣）\n牛柏葉相對少，\n鹿茸菇就非常多，\n麵都多！夠飽！\n配料一定唔好走黃豆，\n好好味，炸過來！\n味道惹味！\n\n⭐️雞嘆撈（$48）（涼麵/熱撈/Bb辣）\n手撕雞加雞軟骨\n好多雞軟骨，\n原來唔係炸咁樣撈都幾好食！\n\n⭐️鮮炸墨魚卷（$28）\n感覺係用氣炸的，冇咩特別\n\n⭐️龍眼水（$12）\n一啲都唔甜，好解渴，\n好多龍眼肉！\n\n以價錢同味道來說，\n可以再encore！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我本身麻麻地撈嘢食，由細個見到撈麵都冇咩感覺～\n\n相反，老公就好鐘意，所以星期六夜晚就同佢一齊黎試！然後我改觀，係幾好味\n\n店舖細細，堂食位置唔算好多，相反外賣單超級多，我地係餐廳都見到/聽到好多單～\n\nMenu其實簡單，但有唔同配搭俾你自我調教自己鍾意嘅口味，包括麵類、熱定凍撈、配料等\n\n⭐️牛柏葉嘆撈（薯粉/熱撈/小辣）\n牛柏葉相對少，\n鹿茸菇就非常多，\n麵都多！夠飽！\n配料一定唔好走黃豆，\n好好味，炸過來！\n味道惹味！\n\n⭐️雞嘆撈（$48）（涼麵/熱撈/Bb辣）\n手撕雞加雞軟骨\n好多雞軟骨，\n原來唔係炸咁樣撈都幾好食！\n\n⭐️鮮炸墨魚卷（$28）\n感覺係用氣炸的，冇咩特別\n\n⭐️龍眼水（$12）\n一啲都唔甜，好解渴，\n好多龍眼肉！\n\n以價錢同味道來說，\n可以再encore！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "MengBu uu",
+          "uri": "https://www.google.com/maps/contrib/112751797390851480820/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXDMe5FUOKHSqdEEhjp18BXAq3tSEp3QU58eMKFF29oB6TbJ64=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-01-21T04:24:30.761961Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfeUlHT0hREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfeUlHT0hREAE!2m1!1s0x3403fb1f6381481b:0xe82fc2904c33d529"
+      },
+      {
+        "name": "places/ChIJG0iBYx_7AzQRKdUzTJDCL-g/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3OFBUSF93RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "星期五放工同男朋友去到屯門紅橋食晚餐，見到有間抵食撈麵小店，menu選擇多樣，配料組合新穎，十分吸引眼球，忍唔住入去試下～\n\n麵底就有涼麵、涼皮、紅薯粉同酸辣粉可選，之後揀撈法，有「嘆撈」（川式風味）同「爆蒜撈」（日式風味）兩種，最後再選擇辣度😋\n\n🍜雞嘆撈（$48）\n軟滑手撕雞配上大大粒充滿嚼勁的雞軟骨，青瓜絲同芫茜帶來清脆與清香，炸黃豆及花生粒增添酥脆感，灑上芝麻香氣四溢。麻辣撈麵汁掛滿麵身，與多款食材交織出豐富味道\n\n🍜叉嘆撈（$58）\n大大塊日式叉燒肉與豬頸肉的組合，配搭日式風味的紫菜絲同櫻花蝦，濃郁辛辣的蒜粒與清脆的青瓜絲、芫茜相得益彰，係蒜香愛好者嘅不二之選～🧄\n\n🥢燒賣（$11）\n六粒只需$11，超抵食！配搭自家製椒麻豉油，更加令人回味\n\n🥢鮮炸雲吞（$28）\n外層金黃酥脆，內餡竟然有鮮蝦😍配以泰式甜辣醬，特別香口\n\n🍑白桃烏龍茶（跟餐$12）\n清新爽口，帶有淡淡的白桃香氣，茶味回甘綿長，消暑解渴\n\n🍒荔枝紅茶（跟餐$12）\n誘人的荔枝香氣，滋味甘甜醇厚，回甘悠長，清新怡人\n\n🍋檸檬愛玉（跟餐$14）\n綿密Q彈的愛玉清爽酸甜，係夏日絕佳解渴甜品",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期五放工同男朋友去到屯門紅橋食晚餐，見到有間抵食撈麵小店，menu選擇多樣，配料組合新穎，十分吸引眼球，忍唔住入去試下～\n\n麵底就有涼麵、涼皮、紅薯粉同酸辣粉可選，之後揀撈法，有「嘆撈」（川式風味）同「爆蒜撈」（日式風味）兩種，最後再選擇辣度😋\n\n🍜雞嘆撈（$48）\n軟滑手撕雞配上大大粒充滿嚼勁的雞軟骨，青瓜絲同芫茜帶來清脆與清香，炸黃豆及花生粒增添酥脆感，灑上芝麻香氣四溢。麻辣撈麵汁掛滿麵身，與多款食材交織出豐富味道\n\n🍜叉嘆撈（$58）\n大大塊日式叉燒肉與豬頸肉的組合，配搭日式風味的紫菜絲同櫻花蝦，濃郁辛辣的蒜粒與清脆的青瓜絲、芫茜相得益彰，係蒜香愛好者嘅不二之選～🧄\n\n🥢燒賣（$11）\n六粒只需$11，超抵食！配搭自家製椒麻豉油，更加令人回味\n\n🥢鮮炸雲吞（$28）\n外層金黃酥脆，內餡竟然有鮮蝦😍配以泰式甜辣醬，特別香口\n\n🍑白桃烏龍茶（跟餐$12）\n清新爽口，帶有淡淡的白桃香氣，茶味回甘綿長，消暑解渴\n\n🍒荔枝紅茶（跟餐$12）\n誘人的荔枝香氣，滋味甘甜醇厚，回甘悠長，清新怡人\n\n🍋檸檬愛玉（跟餐$14）\n綿密Q彈的愛玉清爽酸甜，係夏日絕佳解渴甜品",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sally T",
+          "uri": "https://www.google.com/maps/contrib/115194241053891647001/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlrb4gIPsZaQo8uZUNwq6MmyqLEqOPEL8KK-9Dq1cpuNQz3w=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-08-20T12:35:17.205282Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3OFBUSF93RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3OFBUSF93RRAB!2m1!1s0x3403fb1f6381481b:0xe82fc2904c33d529"
+      },
+      {
+        "name": "places/ChIJG0iBYx_7AzQRKdUzTJDCL-g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuZ1pXMWV3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "紅橋出名多好嘢食，其中呢一間嘅撈麵，我一直都好鍾意，價錢又親民又好食🥰🥰\n\n海嘆撈\n有齊帆立貝🐚、炸海蟹柳🦀、炸鳳尾蝦🍤，炸物全部都熱辣辣，有海鮮鮮味！麵底內有脆卜卜花生及青瓜絲，美味得嚟，唔會熱氣，大人小朋友都鍾意❤️\n\n蟹嘆撈🦀\n呢一個撈麵就有炸軟殼蟹🦀、炸蟹柳，意外地軟殼蟹竟有蟹糕，熱辣辣並帶啖啖蟹香🫶🏻🫶🏻好食！\n\n以上的麵底可選涼麵、涼皮、紅薯粉🍜，仲可選「嘆撈」或「爆蒜撈」，仲可以自選辣度，全部由你話晒事🙌🏻🙌🏻\n\n涼拌手拍青瓜🥒\n清甜爽脆又健康，啱晒而家啲天氣食呀～\n\n口水手撕雞🐔\n口水手撕雞嘅份量好多，而且味道非常惹味，推介！👍🏻👍🏻\n\n午餐時段仲送飲品添，自家製白桃烏龍茶，無糖冰涼解渴，啱晒我口味☺️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "紅橋出名多好嘢食，其中呢一間嘅撈麵，我一直都好鍾意，價錢又親民又好食🥰🥰\n\n海嘆撈\n有齊帆立貝🐚、炸海蟹柳🦀、炸鳳尾蝦🍤，炸物全部都熱辣辣，有海鮮鮮味！麵底內有脆卜卜花生及青瓜絲，美味得嚟，唔會熱氣，大人小朋友都鍾意❤️\n\n蟹嘆撈🦀\n呢一個撈麵就有炸軟殼蟹🦀、炸蟹柳，意外地軟殼蟹竟有蟹糕，熱辣辣並帶啖啖蟹香🫶🏻🫶🏻好食！\n\n以上的麵底可選涼麵、涼皮、紅薯粉🍜，仲可選「嘆撈」或「爆蒜撈」，仲可以自選辣度，全部由你話晒事🙌🏻🙌🏻\n\n涼拌手拍青瓜🥒\n清甜爽脆又健康，啱晒而家啲天氣食呀～\n\n口水手撕雞🐔\n口水手撕雞嘅份量好多，而且味道非常惹味，推介！👍🏻👍🏻\n\n午餐時段仲送飲品添，自家製白桃烏龍茶，無糖冰涼解渴，啱晒我口味☺️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lyanna foodie",
+          "uri": "https://www.google.com/maps/contrib/107784568656958828406/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUw1nMz_y9BvPEtYow0T2Z-nhhL5ORhoynBZxojkG7hx3ZAC2Y=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-09-26T15:59:46.490011Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuZ1pXMWV3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuZ1pXMWV3EAE!2m1!1s0x3403fb1f6381481b:0xe82fc2904c33d529"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fb1f6381481b:0xe82fc2904c33d529!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16730805065714226473&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb1f6381481b:0xe82fc2904c33d529!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fb1f6381481b:0xe82fc2904c33d529!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb1f6381481b:0xe82fc2904c33d529!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJG0iBYx_7AzQRKdUzTJDCL-g/photos/Aa-ngMYBOJ4QOMOU6OWinAlR4A5rfFsIRrp6vuT5bJGRpqjBi_3s5gwAN6c6sW4IfxJoyLsuaP-syirqCvvU_DuLPV3xpY1oxMKmRFQvFAbq5ZXeOmyX9MYpS-YWdfuZMkmnIurbJo2z_ZvN5md6zSN7_4rC52E0hGKxlkcGR5ASsHTw6HJYjp-3wfrO0rokkEcRVM9FKWRPwigrDSeb5CtkopXdcBS-tuD3izwTpkA1ugdkie8-llrzEBxsPPSY_GjRkVrfmhKaXogUKq1uN0j1wNWXAJX5ihDtcA7FJY1ogqFg4ZDPSMOUQDl_9EeYgWc3wN1VsHor6q3N4_qv9hHZVH354k6sSV8xeYCgc-2TFelzl00f1nFKnBPvl0xKL6qUUbguQHqBnvJK7mq-Wl96GS6SMg",
+      "widthPx": 779,
+      "heightPx": 706,
+      "authorAttributions": [
+        {
+          "displayName": "Tanlo",
+          "uri": "https://maps.google.com/maps/contrib/117241321731684717412",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLb9I5DIUIaVMFXnKLMkBtb-W76CqyYnlRg8FYAkLhqvqM-sg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID2w4qpAQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2w4qpAQ!2e10!4m2!3m1!1s0x3403fb1f6381481b:0xe82fc2904c33d529"
+    },
+    "local_path": "photos/ChIJG0iBYx_7AzQRKdUzTJDCL-g.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpQ1tHNaGGd-97R5f5WSRlfcnxEx2xiY0yr0VmFDKnDHomVaP3j8HW5gfyIwBiX2BDbLy_L1_K-WLI0CkepYevpEsAenn5zKmJpebb4YAFXuXk--sao-mws_BfXTcwSg2Go8A=s4800-w779",
+    "content_type": "image/jpeg",
+    "bytes": 154373
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_noodle_restaurant",
+    "label": "中式麵館",
+    "types": [
+      "chinese_noodle_restaurant",
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ChIJpwkSb-gBBDQR79CEJUF16aw",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍土瓜灣美善同道8號城軒地下2號鋪",
+  "location": {
+    "latitude": 22.319141,
+    "longitude": 114.18683379999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12459618766759973103&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Fluffyland | Pet Grooming | Pet Day Care | Pet Hotel |",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJpwkSb-gBBDQR79CEJUF16aw/photos/Aa-ngMbo3kWlhBdQGU9rkyjzFIn6i0dT5cw2yUvp_MB9QXFH_YI7TJXnX5GSpGKJwNAHYgCkjcRBzhfwRoB_fWoGnKI51RD6EAWAesWOaRQqAgZ90r9rCdawN4SYASw_HpOZZqGugIckD-8uAcBWRKKGBnMx-Qs9-pPKnA698tRebUWK7APvUE3n9Jg607piYHvZA2aMktSlXUOdvVBufgFYwUOGYXHJcBRgJDcD7Jzt-0nPMuJLHX4akEBfpW5AbO4hRVbog7xUCWZ-huWGxy2boOELsyg4Ght1Dyd-W8qeNFA13HNU91SEZHHfN5svEY55AGb6tQ_IPBg8PAQHjj733F-lCYyGp-o6AqxKe0ylcziN8t2s46qBHnFj3cBapilWbOBOBJeFr7Yw88IJVcKtb1WlDe1My8SfisIftiS6VGiqmQ",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Fluffyland",
+          "uri": "https://maps.google.com/maps/contrib/115597885318423204548",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK1u7ktgGC7dnjjycL5TCafykEp19pC1qT6Ss0rYoUcgFE3=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB-lPb3h8BJw7q8o7C7khlM&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB-lPb3h8BJw7q8o7C7khlM!2e10!4m2!3m1!1s0x340401e86f1209a7:0xace975412584d0ef"
+    }
+  ],
+  "photo_count": 3,
+  "fetched_at": "2026-10-24T00:38:17.571734+00:00"
+}

@@ -1,0 +1,349 @@
+{
+  "google_place_id": "ChIJYYWbW10ABDQRdFrbDi2pDdE",
+  "restaurant_ids": [
+    "restaurant:2212814631"
+  ],
+  "fetched_at": "2026-10-23T15:46:15.934805+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJYYWbW10ABDQRdFrbDi2pDdE",
+    "types": [
+      "sandwich_shop",
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3665 0890",
+    "internationalPhoneNumber": "+852 3665 0890",
+    "formattedAddress": "香港香港島灣仔永豐街8號",
+    "location": {
+      "latitude": 22.276721,
+      "longitude": 114.16820039999999
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=15063882339612056180&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://mortys.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 21:00",
+        "星期二: 11:00 – 21:00",
+        "星期三: 11:00 – 21:00",
+        "星期四: 11:00 – 21:00",
+        "星期五: 11:00 – 21:00",
+        "星期六: 11:00 – 21:00",
+        "星期日: 11:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 452,
+    "displayName": {
+      "text": "Morty's (Wan Chai)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "三明治專賣店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesVegetarianFood": true,
+    "primaryType": "sandwich_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJYYWbW10ABDQRdFrbDi2pDdE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOb2FHSXpUbHB4U2toVWVIcERRbk0wV0ZObU1rRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "吃過了幾次，每次都最多肉的那個三明治。大口大口滿足感巨大。服務員全部都是菲律賓人，菜單也是全英文版，所以必須要講英文這一點扣了一顆星。食物方面食材算是高端的，醃製鹹淡度也比較適合我，青菜沙拉醋也放得很夠，但並不會有什麼驚喜，除了拍照好看之外。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "吃過了幾次，每次都最多肉的那個三明治。大口大口滿足感巨大。服務員全部都是菲律賓人，菜單也是全英文版，所以必須要講英文這一點扣了一顆星。食物方面食材算是高端的，醃製鹹淡度也比較適合我，青菜沙拉醋也放得很夠，但並不會有什麼驚喜，除了拍照好看之外。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "食魚老僧",
+          "uri": "https://www.google.com/maps/contrib/117862948866113561162/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLY2wxqBX2kQOhyTPYeP8C78Pi4iuH1Avne0smZ7t-h7AsmIc=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-28T03:39:00.326615848Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOb2FHSXpUbHB4U2toVWVIcERRbk0wV0ZObU1rRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOb2FHSXpUbHB4U2toVWVIcERRbk0wV0ZObU1rRRAB!2m1!1s0x3404005d5b9b8561:0xd10da92d0edb5a74"
+      },
+      {
+        "name": "places/ChIJYYWbW10ABDQRdFrbDi2pDdE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swMFJYZERMVmhQT0hOdWNHUnpaRVZmWTJGcFNtYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "美式三文治🥪Pastrami Classic ，多層煙燻牛肉，望落半肥瘦有肥肉，滴哂油！咬落去麵包薄脆，牛肉帶煙燻味好軟嫩Juicy！美式黃芥末醬冇咁膩，頭幾啖唔錯，但越食越膩！食到第二件D油已經濕透哂，太油膩！+$15轉sweet potato fries份量巨多，幼長身薄脆、熱辣辣，冇挑剔。\n\nPastrami Original Rebound 大同少異，不過多左芝士，醬汁轉左千島醬！芝士唔太食得出唔夠多。明顯比Classic更膩，始終黃芥末偏酸，而呢個就濃味啲！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "美式三文治🥪Pastrami Classic ，多層煙燻牛肉，望落半肥瘦有肥肉，滴哂油！咬落去麵包薄脆，牛肉帶煙燻味好軟嫩Juicy！美式黃芥末醬冇咁膩，頭幾啖唔錯，但越食越膩！食到第二件D油已經濕透哂，太油膩！+$15轉sweet potato fries份量巨多，幼長身薄脆、熱辣辣，冇挑剔。\n\nPastrami Original Rebound 大同少異，不過多左芝士，醬汁轉左千島醬！芝士唔太食得出唔夠多。明顯比Classic更膩，始終黃芥末偏酸，而呢個就濃味啲！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YY MK",
+          "uri": "https://www.google.com/maps/contrib/107373192411532880471/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIS-ZDNwgdAqTS51B5kQI_rsH1dI3e8-Ucm2rDBZpoWQCUs_A=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-09-05T09:17:17.744552188Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2swMFJYZERMVmhQT0hOdWNHUnpaRVZmWTJGcFNtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swMFJYZERMVmhQT0hOdWNHUnpaRVZmWTJGcFNtYxAB!2m1!1s0x3404005d5b9b8561:0xd10da92d0edb5a74"
+      },
+      {
+        "name": "places/ChIJYYWbW10ABDQRdFrbDi2pDdE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxaFVYY3dkbVJ4Y3pBdFYzQnpPR0p6U3padE1XYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "美式三文治，入面裝修好美式，飯點時間都好多外國人幫襯！\n\n🥪PastramiClassic好多層煙燻牛肉，望落半肥瘦有肥肉，滴哂油！咬落去麵包薄脆，牛肉帶煙燻味好軟嫩Juicy！美式黃芥末醬有介膩，所以頭幾啖都唔錯，但之後越黎越膩！食到第二件麵包D油已經濕透哂塊包\n\n🥪Pastrami Original Rebound 大同少異，不過多左芝士，醬汁轉左做千島醬！明顯比Classic更膩。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "美式三文治，入面裝修好美式，飯點時間都好多外國人幫襯！\n\n🥪PastramiClassic好多層煙燻牛肉，望落半肥瘦有肥肉，滴哂油！咬落去麵包薄脆，牛肉帶煙燻味好軟嫩Juicy！美式黃芥末醬有介膩，所以頭幾啖都唔錯，但之後越黎越膩！食到第二件麵包D油已經濕透哂塊包\n\n🥪Pastrami Original Rebound 大同少異，不過多左芝士，醬汁轉左做千島醬！明顯比Classic更膩。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yy Mak",
+          "uri": "https://www.google.com/maps/contrib/103379725979805144303/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJgVQ59v0g95ry8yFXUgI9F_W0orn7k3-UV22U6xNOVNdwE=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-09-26T11:28:26.727672768Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxaFVYY3dkbVJ4Y3pBdFYzQnpPR0p6U3padE1XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxaFVYY3dkbVJ4Y3pBdFYzQnpPR0p6U3padE1XYxAB!2m1!1s0x3404005d5b9b8561:0xd10da92d0edb5a74"
+      },
+      {
+        "name": "places/ChIJYYWbW10ABDQRdFrbDi2pDdE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kbFpqRnhXbVU1ZGpOS1oyZzNkbE13WkhjMlRuYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 4,
+        "text": {
+          "text": "幾年前幫襯過, 今次突然想食走過來, 原來有買一送一, 指定麵包同啤酒.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "幾年前幫襯過, 今次突然想食走過來, 原來有買一送一, 指定麵包同啤酒.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "為食鬼",
+          "uri": "https://www.google.com/maps/contrib/114074491757846171551/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCDPdbzc0b37Vhn9cRB4IPgUgVEoLy0iUCIgp-eSm1QQ1aITxAlg=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-11-20T16:06:53.690132281Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kbFpqRnhXbVU1ZGpOS1oyZzNkbE13WkhjMlRuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kbFpqRnhXbVU1ZGpOS1oyZzNkbE13WkhjMlRuYxAB!2m1!1s0x3404005d5b9b8561:0xd10da92d0edb5a74"
+      },
+      {
+        "name": "places/ChIJYYWbW10ABDQRdFrbDi2pDdE/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2eGVmeEJ3EAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "紐約街頭精品美食文化Deli\n主打傳統紐約風的煙燻肉三文治\n燻肉以慢煮及低溫煙燻炮製歷時45日\n食材由煙熏肉以至麵包和醬汁～\n都是自家製作絕對用心！\n今次就試試最出名既燻牛肉三文治🥪\n\nReuben $130\n🎖🎖🎖\n三文治主角係叠到成吋厚既燻牛肉\n配以瑞士芝士，千島醬和黑麥包～\n一咬落去食到濃濃既燻肉香～\n肉質軟嫩juicy 肥瘦適中👍🏻\n再加翻小小芥辣風味更佳！\n三文治🥪會配埋薯條🍟&酸黃瓜🥒\n薯條係粗身薯條炸得幾香口😍\n酸酸既黃瓜又可以去除油膩感～\n呢三樣都好有紐約風味丫🥪🍟🥒\n\n其實唔好睇佢係件三文治\n入面包含左紐約deli文化～\n而燻肉其實係猶太人流傳過去🧐\n呢個價就食到熟成燻牛肉絕對超值！\n\n最後仲有佢個外賣盒～\n如果揸車食都好方便\n絕對乾手淨腳😂\n得閒經過記得試下啦！\n\nPS題外話大家有無睇Rick & Morty😂😂",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "紐約街頭精品美食文化Deli\n主打傳統紐約風的煙燻肉三文治\n燻肉以慢煮及低溫煙燻炮製歷時45日\n食材由煙熏肉以至麵包和醬汁～\n都是自家製作絕對用心！\n今次就試試最出名既燻牛肉三文治🥪\n\nReuben $130\n🎖🎖🎖\n三文治主角係叠到成吋厚既燻牛肉\n配以瑞士芝士，千島醬和黑麥包～\n一咬落去食到濃濃既燻肉香～\n肉質軟嫩juicy 肥瘦適中👍🏻\n再加翻小小芥辣風味更佳！\n三文治🥪會配埋薯條🍟&酸黃瓜🥒\n薯條係粗身薯條炸得幾香口😍\n酸酸既黃瓜又可以去除油膩感～\n呢三樣都好有紐約風味丫🥪🍟🥒\n\n其實唔好睇佢係件三文治\n入面包含左紐約deli文化～\n而燻肉其實係猶太人流傳過去🧐\n呢個價就食到熟成燻牛肉絕對超值！\n\n最後仲有佢個外賣盒～\n如果揸車食都好方便\n絕對乾手淨腳😂\n得閒經過記得試下啦！\n\nPS題外話大家有無睇Rick & Morty😂😂",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "B T (BT)",
+          "uri": "https://www.google.com/maps/contrib/114848938741893850326/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIwARv41GiCL1nD7CHEo9Bqgz7tBDG50kjahFltLykzDMQ8eQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2021-10-05T17:02:02.939607Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ2eGVmeEJ3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ2eGVmeEJ3EAE!2m1!1s0x3404005d5b9b8561:0xd10da92d0edb5a74"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404005d5b9b8561:0xd10da92d0edb5a74!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15063882339612056180&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005d5b9b8561:0xd10da92d0edb5a74!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404005d5b9b8561:0xd10da92d0edb5a74!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005d5b9b8561:0xd10da92d0edb5a74!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJYYWbW10ABDQRdFrbDi2pDdE/photos/Aa-ngMYja_8cPsi85wD9LVACSK_fe9HMTjHsgB3wU2olCY488Lw6o475T2sJ_o9r6ty6SrzjuO7ct9aC9ViF_dTZdZQkk1mn4eObKtc9tn7UI-ImcoXDvmQDW_QgAgSv7l8BN6i2GutpK0zExS-it73XS_XL0kY4wJCfoA-9AU2H1kfHTThyz96fWj4L59pVKWKUjQ3qa429j10VPMZ5cD32yCBP38oco_gYi8devMt31euTLsPfAlgJNvwVCGsZxAYTAhFNs7TEE4sJvBuSGo13_PACWMbkXnm1SrGyfHb8Q_7iXzhFGs4JWfeA05vwwhBNZnctt8h36TNKOjt46qHH8Guxa2YUkkRQRuSPqa-LkJ2lzGlXilvpUhDTrm4BS0Cv7SOQ8gZwdRjABiID1xsUtK9wnkPKhcusVSCDDXWsvZz5nA",
+      "widthPx": 4800,
+      "heightPx": 3191,
+      "authorAttributions": [
+        {
+          "displayName": "Morty's",
+          "uri": "https://maps.google.com/maps/contrib/102028377993198756916",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMiqgouGSD9eR0Fxa-r3maxgly-4ypPJNHTC09zkC1_aEbeIo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBc-ceF7BvwXGWdhE9qoHDM&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBc-ceF7BvwXGWdhE9qoHDM!2e10!4m2!3m1!1s0x3404005d5b9b8561:0xd10da92d0edb5a74"
+    },
+    "local_path": "photos/ChIJYYWbW10ABDQRdFrbDi2pDdE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjsiZX1rk69ZUv7WTDtGzP1GwaU-BSEQRPDzM3x7J1DZD-uwbtjHvcedFs3N6Ezbp7ThrjbQ3PvaQ7FcY86C8p8AxGfanFjbadNfhLKha01-otEAVpZYfymfd7vsj6WBr73f7tqxObmdE2=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 131926
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://leadingnation.com",
+        "label": "Part of the Leading Nation Hospitality family. ©2024 Leading Nation Hospitality. all right reserved.",
+        "source_url": "https://mortys.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://mortys.hk/menu.html",
+        "label": "MENU",
+        "source_url": "https://mortys.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "sandwich_shop",
+    "label": "三明治專賣店",
+    "types": [
+      "sandwich_shop",
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://leadingnation.com",
+  "menu_url": "https://mortys.hk/menu.html"
+}

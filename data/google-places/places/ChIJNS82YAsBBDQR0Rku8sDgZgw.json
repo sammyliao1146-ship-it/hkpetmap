@@ -1,0 +1,403 @@
+{
+  "google_place_id": "ChIJNS82YAsBBDQR0Rku8sDgZgw",
+  "restaurant_ids": [
+    "restaurant:2212820658"
+  ],
+  "fetched_at": "2026-10-23T15:43:41.011000+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJNS82YAsBBDQR0Rku8sDgZgw",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2882 2552",
+    "internationalPhoneNumber": "+852 2882 2552",
+    "formattedAddress": "香港香港島銅鑼灣邊寧頓街13號, Biz Aura, 3/F",
+    "location": {
+      "latitude": 22.2787637,
+      "longitude": 114.1860067
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=893648695381072337&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 23:00",
+        "星期二: 12:00 – 15:00, 18:00 – 23:00",
+        "星期三: 12:00 – 15:00, 18:00 – 23:00",
+        "星期四: 12:00 – 15:00, 18:00 – 23:00",
+        "星期五: 12:00 – 15:00, 18:00 – 23:00",
+        "星期六: 12:00 – 15:00, 18:00 – 23:00",
+        "星期日: 12:00 – 15:00, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 37,
+    "displayName": {
+      "text": "舍",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJNS82YAsBBDQR0Rku8sDgZgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SRFZGOXBNbGgzYWkxWE5pMUNVazVMV2xkZmFIYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "Homakase 壽司 – 銅鑼灣高性價比 omakase 之選\n\n多次到訪這家位於銅鑼灣的壽司店，店內人流不多卻正能體現其價值所在。\n\n食材品質中規中矩，雖未達驚艷程度，但新鮮度仍有一定水準；味道調配得宜，整體表現平衡。以這個價位而言，確實是物有所值的選擇。\n\n不過，餐廳在部分菜式中融入了過多融合元素，若能更專注於傳統日式料理的本質，相信會更符合顧客期待。\n\n**總結**：適合追求性價比、不苛求頂級食材的食客，在銅鑼灣區是不錯的入門級 omakase 選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Homakase 壽司 – 銅鑼灣高性價比 omakase 之選\n\n多次到訪這家位於銅鑼灣的壽司店，店內人流不多卻正能體現其價值所在。\n\n食材品質中規中矩，雖未達驚艷程度，但新鮮度仍有一定水準；味道調配得宜，整體表現平衡。以這個價位而言，確實是物有所值的選擇。\n\n不過，餐廳在部分菜式中融入了過多融合元素，若能更專注於傳統日式料理的本質，相信會更符合顧客期待。\n\n**總結**：適合追求性價比、不苛求頂級食材的食客，在銅鑼灣區是不錯的入門級 omakase 選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Calvin Wong",
+          "uri": "https://www.google.com/maps/contrib/108865821246854652779/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW53rnOVyC7H-FOugEWVGc4bfLKYbJS9AJCFMajExyU1_2ZTS5=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-10-13T16:16:41.759757642Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SRFZGOXBNbGgzYWkxWE5pMUNVazVMV2xkZmFIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SRFZGOXBNbGgzYWkxWE5pMUNVazVMV2xkZmFIYxAB!2m1!1s0x3404010b60362f35:0xc66e0c0f22e19d1"
+      },
+      {
+        "name": "places/ChIJNS82YAsBBDQR0Rku8sDgZgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWS1dXc3hSa2x2U1ZOd1owZHRkRzFNT1RaMllXYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "同個名一樣好有家的感覺！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "同個名一樣好有家的感覺！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lok Lee",
+          "uri": "https://www.google.com/maps/contrib/113682547640206327191/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKTtLct_nGcugr4mJNBnet8ww-lz9ASvL3NMwynrKRpooNUKg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-05T07:22:43.939256936Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWS1dXc3hSa2x2U1ZOd1owZHRkRzFNT1RaMllXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWS1dXc3hSa2x2U1ZOd1owZHRkRzFNT1RaMllXYxAB!2m1!1s0x3404010b60362f35:0xc66e0c0f22e19d1"
+      },
+      {
+        "name": "places/ChIJNS82YAsBBDQR0Rku8sDgZgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoUWVsSlpaMFkyVVdKclZIWlRaMFJzU3pacVExRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "地點相當方便，銅鑼灣商業中心利園附近，一邊欣賞廚師表演，一邊慢慢品嘗美食，omakase 菜式豐富，味道不錯，價錢相符，值得再試",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地點相當方便，銅鑼灣商業中心利園附近，一邊欣賞廚師表演，一邊慢慢品嘗美食，omakase 菜式豐富，味道不錯，價錢相符，值得再試",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Joey Wong",
+          "uri": "https://www.google.com/maps/contrib/110590576414155735548/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBV0Ry6NRBiKXIs82c8am0LtjNXCIyIRgfMWjbS9wlDWBLJLNI=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-03-08T12:07:47.524332794Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoUWVsSlpaMFkyVVdKclZIWlRaMFJzU3pacVExRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoUWVsSlpaMFkyVVdKclZIWlRaMFJzU3pacVExRRAB!2m1!1s0x3404010b60362f35:0xc66e0c0f22e19d1"
+      },
+      {
+        "name": "places/ChIJNS82YAsBBDQR0Rku8sDgZgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sTFEwUmxjbEpxTjBKbFdHZzFZVTlpU0dWMU5tYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好味道， 意想不到，安靜 環境裝潢一流",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好味道， 意想不到，安靜 環境裝潢一流",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "VBC",
+          "uri": "https://www.google.com/maps/contrib/107643090321769224666/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVD8WNHGm5mMzMBBD80Qq0gOfsJmaYwCoXorVhMfmcksVX8kE=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-22T22:00:20.731272018Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sTFEwUmxjbEpxTjBKbFdHZzFZVTlpU0dWMU5tYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sTFEwUmxjbEpxTjBKbFdHZzFZVTlpU0dWMU5tYxAB!2m1!1s0x3404010b60362f35:0xc66e0c0f22e19d1"
+      },
+      {
+        "name": "places/ChIJNS82YAsBBDQR0Rku8sDgZgw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlLXZTTTR3RRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "睇得出老闆娘花左好多心機喺鋪頭上面，裝修、食器、甚至洗手間裡面既陳設都一絲不苟.\n今日同媽咪食晏，媽咪叫咗期間限定既$330 sushi set，我叫左$250既tempura set，sushi set冇影相，但媽咪話魚料新鮮，調味都有心思～ tempura有三條蝦四件野菜，仲配左個好濃郁既櫻花蝦汁，炸漿夠薄，唔會油淋淋，我連蝦尾都食晒. 最後以雪糕作結，媽咪要左薑味，我要左杏仁咖啡味，兩個雪糕都有水準～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "睇得出老闆娘花左好多心機喺鋪頭上面，裝修、食器、甚至洗手間裡面既陳設都一絲不苟.\n今日同媽咪食晏，媽咪叫咗期間限定既$330 sushi set，我叫左$250既tempura set，sushi set冇影相，但媽咪話魚料新鮮，調味都有心思～ tempura有三條蝦四件野菜，仲配左個好濃郁既櫻花蝦汁，炸漿夠薄，唔會油淋淋，我連蝦尾都食晒. 最後以雪糕作結，媽咪要左薑味，我要左杏仁咖啡味，兩個雪糕都有水準～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Carissa Lam",
+          "uri": "https://www.google.com/maps/contrib/111197184327349083403/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSwuZOqkb0gQPPkwmsF4_KtOsynchQl5wwZCFlu-kOCZgwBK9I=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-09-12T07:45:49.263674Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlLXZTTTR3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlLXZTTTR3RRAB!2m1!1s0x3404010b60362f35:0xc66e0c0f22e19d1"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010b60362f35:0xc66e0c0f22e19d1!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=893648695381072337&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010b60362f35:0xc66e0c0f22e19d1!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010b60362f35:0xc66e0c0f22e19d1!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010b60362f35:0xc66e0c0f22e19d1!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJNS82YAsBBDQR0Rku8sDgZgw/photos/Aa-ngMbzJrEzBBGCtCYPlTNxu0ubuUK5wvwBXWNwsX4mNRiJGQ9Vac-oUnoK4mtSyI4LRVpuzsazYZqRH1Gvqtv4WEZL88C27NpzU_bATvnv5FCszIuRDg5U9ji1rRwNzMao9ACL3VJjMilFigkRY-OQkfb4pPGf97hFee9T8IY__lB5N3CN2bs3qS6Hw2uS2PCuIq-hI_FqVsHouN8Lbfcq_1aJDeQn38ol8SkkaxqQm3f2xWDLHL0dHgWirByaBAwJNuxJU2seao9Ninlr01xFXct3BX8GMuydiLzWsQMkaWCRYGoXz5860B76s3MP2PW92WctdoU3PpT0mAWgvDwHfal863K241P5F0gtMY0lCNA8o_lWRchh3xFBhZpQLvue3uOXv5oBacIcMXhekG2G_lqQ01CW-Gc",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Sberry",
+          "uri": "https://maps.google.com/maps/contrib/113101990167435903429",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbF4iaMncj-aeePCRCPAs0BBVVjvMRQVCd-4EoEu57_cxMzBsM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJhZfa_gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJhZfa_gE!2e10!4m2!3m1!1s0x3404010b60362f35:0xc66e0c0f22e19d1"
+    },
+    "local_path": "photos/ChIJNS82YAsBBDQR0Rku8sDgZgw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvBsaJ7eyPEe2dQR1qta-eHlVNTWxDYj2h-mLm4DnKj460KyUexpfjnnjc1d-rS9siSEa-lHC1gFSp1a8EomcoHzyJqPxphE1tiZ9M_qSLZfKdw6aRg4NdMkWzJNRhWl6tn1wEag=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 121996
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

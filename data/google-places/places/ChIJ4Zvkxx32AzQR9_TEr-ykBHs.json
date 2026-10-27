@@ -1,0 +1,319 @@
+{
+  "google_place_id": "ChIJ4Zvkxx32AzQR9_TEr-ykBHs",
+  "restaurant_ids": [
+    "restaurant:3196800346"
+  ],
+  "fetched_at": "2026-10-23T15:40:15.060618+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ4Zvkxx32AzQR9_TEr-ykBHs",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2676 6683",
+    "internationalPhoneNumber": "+852 2676 6683",
+    "formattedAddress": "香港新界粉嶺聯興街33號地下",
+    "location": {
+      "latitude": 22.4988465,
+      "longitude": 114.1416702
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=8864391303040136439&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.barpacific.com.hk/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 4,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 4,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:30 – 04:00",
+        "星期二: 16:30 – 04:00",
+        "星期三: 16:30 – 04:00",
+        "星期四: 16:30 – 04:00",
+        "星期五: 16:30 – 04:00",
+        "星期六: 16:30 – 04:00",
+        "星期日: 16:30 – 04:00"
+      ],
+      "nextCloseTime": "2026-10-23T20:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 31,
+    "displayName": {
+      "text": "Bar Pacific 38",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJ4Zvkxx32AzQR9_TEr-ykBHs/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2M2ZxRC1RRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "當天下午六点十分到場，叫了六支啤酒和兩個小食，分別係脆皮腸同炸雞中翼，食物冇大驚喜，侍應招呼不錯，同時間沒有客人到直到一小時後離開。香港晚市真的那麽差！唉！！！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "當天下午六点十分到場，叫了六支啤酒和兩個小食，分別係脆皮腸同炸雞中翼，食物冇大驚喜，侍應招呼不錯，同時間沒有客人到直到一小時後離開。香港晚市真的那麽差！唉！！！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chung Siu Ming",
+          "uri": "https://www.google.com/maps/contrib/110193252396467946876/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJXxm9GODEPlQER_L56i_YO6NuGESME2yXOiCs307v69jRzw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-12-23T06:01:30.107510Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2M2ZxRC1RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2M2ZxRC1RRRAB!2m1!1s0x3403f61dc7e49be1:0x7b04a4ecafc4f4f7"
+      },
+      {
+        "name": "places/ChIJ4Zvkxx32AzQR9_TEr-ykBHs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xodGJtbGlXVXA1Tmxwb1ZuTlVaVWxqT0dobE1VRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 3,
+        "text": {
+          "text": "新界區求其喇",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "新界區求其喇",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kwok Leung Wong",
+          "uri": "https://www.google.com/maps/contrib/109019134718451512954/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSP1Pm_9XRA8erS1jlgdReEmiIyPWvSYq4ACVCQCgybhy30yA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-01-24T16:53:05.133206764Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xodGJtbGlXVXA1Tmxwb1ZuTlVaVWxqT0dobE1VRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xodGJtbGlXVXA1Tmxwb1ZuTlVaVWxqT0dobE1VRRAB!2m1!1s0x3403f61dc7e49be1:0x7b04a4ecafc4f4f7"
+      },
+      {
+        "name": "places/ChIJ4Zvkxx32AzQR9_TEr-ykBHs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpaWFETC1BRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 3,
+        "text": {
+          "text": "環境一般，價錢適中。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境一般，價錢適中。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sunny 77",
+          "uri": "https://www.google.com/maps/contrib/106653482331677934883/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXT7XHAcgk_UfmruT28qcr4PPSWoGA7wyX9mRcrTMtXA4sY18j0=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2020-11-06T16:19:48.453737Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNpaWFETC1BRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpaWFETC1BRRAB!2m1!1s0x3403f61dc7e49be1:0x7b04a4ecafc4f4f7"
+      },
+      {
+        "name": "places/ChIJ4Zvkxx32AzQR9_TEr-ykBHs/reviews/ChZDSUhNMG9nS0VJQ0FnSURjMnQ3cUFREAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "場地舒服，氣氛好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "場地舒服，氣氛好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tse Tony",
+          "uri": "https://www.google.com/maps/contrib/106206389054908146499/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMFGH65qqPl2pcu2JVyz5N-4sT_zK0teAaN3IKceigl_9vQHDb=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2020-06-07T02:56:33.935262Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURjMnQ3cUFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURjMnQ3cUFREAE!2m1!1s0x3403f61dc7e49be1:0x7b04a4ecafc4f4f7"
+      },
+      {
+        "name": "places/ChIJ4Zvkxx32AzQR9_TEr-ykBHs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJMGVTWEN3EAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "收費合理,環境不錯,交通方便",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "收費合理,環境不錯,交通方便",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "shark Yu",
+          "uri": "https://www.google.com/maps/contrib/109160899717883127585/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKF9JqiCYr3X7FotGiv37jKl9U6yibuDVvLwnmetaMzy3azCw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2018-11-21T02:39:46.139470280Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNJMGVTWEN3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNJMGVTWEN3EAE!2m1!1s0x3403f61dc7e49be1:0x7b04a4ecafc4f4f7"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f61dc7e49be1:0x7b04a4ecafc4f4f7!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8864391303040136439&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f61dc7e49be1:0x7b04a4ecafc4f4f7!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f61dc7e49be1:0x7b04a4ecafc4f4f7!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f61dc7e49be1:0x7b04a4ecafc4f4f7!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "350"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ4Zvkxx32AzQR9_TEr-ykBHs/photos/Aa-ngMZKQGiP-CQ7uV-akMuLIu8u4N4GOkZTzieHV0uk4q-89D131L1J8XwmgSjCCC00C6o3mhaAlXcIcPxRuR5iv568jpkK31gDj4bbWAGODm3HbVVdpQuvdotRl28ov9X0XHfQTJUOLhD6age0G3pQYS6LLRGieiR0eu3VoL9qBB6wIanVty_GZA4IWlKsjcg2MPoKoMuLC8GeU1gYLJYxKHGmaFJSZvrxjIItD0AZtZnto1PUQwGUmCyZqu5VADycBAb4a6MWVX474S_DOViAfBpL1j39T5c9eAqoFxVVEBP2rSa0G2aPLbH3OmmIbDBlofscBT7gB9Kg_AOD8t504S-_HpTmuZmDl3XxHNbrju0ff0rKG0PUyYjEAVXyin4H1p8PvRfKWvPKN04iz6tFDxq2yHs",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "k Ying Lee",
+          "uri": "https://maps.google.com/maps/contrib/104298081142488370860",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKf6BkYypJKn9S6KmJnK8QTMFHjP2fdSCAOhh-oAHReKBwVOQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4tbn8Pg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4tbn8Pg!2e10!4m2!3m1!1s0x3403f61dc7e49be1:0x7b04a4ecafc4f4f7"
+    },
+    "local_path": "photos/ChIJ4Zvkxx32AzQR9_TEr-ykBHs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsKpzRaKcfhxZhRyFppkf5ZEOP4yVL4SVH6qNAiDgjmY61yzLZMLqnNKdALxrJhsriHSTAz_7HoeTuuHaCo-i1CaLVaB-LpyZywVMVhLALfvivuLJc-OQuJJ-sB6nWq92dQmHB=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 174569
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

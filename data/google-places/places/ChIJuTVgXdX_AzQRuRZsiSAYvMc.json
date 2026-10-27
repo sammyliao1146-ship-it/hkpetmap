@@ -1,0 +1,310 @@
+{
+  "google_place_id": "ChIJuTVgXdX_AzQRuRZsiSAYvMc",
+  "restaurant_ids": [
+    "restaurant:2218805769"
+  ],
+  "fetched_at": "2026-10-23T15:42:49.962476+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJuTVgXdX_AzQRuRZsiSAYvMc",
+    "types": [
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6113 3410",
+    "internationalPhoneNumber": "+852 6113 3410",
+    "formattedAddress": "G/F, 66 High St, Sai Ying Pun, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2851006,
+      "longitude": 114.14143639999999
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=14392405037192844985&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.flyingbutcher.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 22:00",
+        "星期二: 10:00 – 22:00",
+        "星期三: 10:00 – 22:00",
+        "星期四: 10:00 – 22:00",
+        "星期五: 10:00 – 22:00",
+        "星期六: 08:00 – 22:00",
+        "星期日: 10:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 28,
+    "displayName": {
+      "text": "Flying Butcher Hong Kong",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "食品專賣店",
+      "languageCode": "zh-TW"
+    },
+    "delivery": true,
+    "primaryType": "food_store",
+    "reviews": [
+      {
+        "name": "places/ChIJuTVgXdX_AzQRuRZsiSAYvMc/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2eE1xYzB3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "這家店的漢堡和三明治品質真的很好！他們的雞肉漢堡可以打9分（滿分10分），雞肉酥脆可口，涼拌高麗菜也很棒。 「屠夫碎肉漢堡」（Butchers Smash）可以打8分（滿分10分），不過不是那種經典的碎肉漢堡。這兩款漢堡最棒的地方在於麵包，香港很多漢堡店都忽略了麵包，導致麵包很乾，影響口感。這家店的漢堡麵包絕對可以打10分（滿分10分）。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Really good quality burgers and sandwiches! Their chicken burger was a 9/10, great crispy chicken and coleslaw. Butchers Smash was an 8/10, not a classic smash charing. The best thing about both was the bun, so many burger joints in Hong Kong sleep on the bread and it really dries out the experience. 10/10 on the burger bun front.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Lewis Askew",
+          "uri": "https://www.google.com/maps/contrib/108828914933439542378/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOUl5H370xRxrzhyoAIbeNUcSbuurqeDSqouRyK9jOgRMn_dzY=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-12-08T03:57:31.421913Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2eE1xYzB3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2eE1xYzB3RRAB!2m1!1s0x3403ffd55d6035b9:0xc7bc1820896c16b9"
+      },
+      {
+        "name": "places/ChIJuTVgXdX_AzQRuRZsiSAYvMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT201WFkzVk1ZVVZPYUVSSVVGVklMVjlpWTBzemNtYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "我點了他們家的招牌漢堡外帶，真的很好吃。我家離這裡很近，所以我們以後可能也會來這裡買牛排和肉末。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Ordered their signature Smash burger for takeout and it was really delicious. I live close by so we’ll probably come here to get steaks and minced meats too.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Karen Leung",
+          "uri": "https://www.google.com/maps/contrib/103873448423292994767/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtBgB7RnZUoMEVtDmlqgHElZJ0sOyO7Ry5VOmTGUyGaWO0L5E=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-12T08:19:24.950154104Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201WFkzVk1ZVVZPYUVSSVVGVklMVjlpWTBzemNtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201WFkzVk1ZVVZPYUVSSVVGVklMVjlpWTBzemNtYxAB!2m1!1s0x3403ffd55d6035b9:0xc7bc1820896c16b9"
+      },
+      {
+        "name": "places/ChIJuTVgXdX_AzQRuRZsiSAYvMc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEcmFxVzBRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "朋友推薦我去，說那裡的三明治很棒。\n\n確實如此。\n\n肉質鮮嫩多汁，起司也很美味。\n\n你還能找到各種波蘭和義大利產品。\n\n絕對值得一去。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "A friend advise to go as sandwiches were great.\n\nAnd we can say thats true.\nMeet is nice and juicy + tasty cheese.\n\nYou also can find different polish and Italian product.\n\nDefinitely good address",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Damien Druon",
+          "uri": "https://www.google.com/maps/contrib/100635932131429521066/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2_7QRrVPGp9yFhN_UTrsdib_Zu3GnfSIkyOmy6aORhy61PcSuPA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-03-31T09:04:16.154966Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEcmFxVzBRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEcmFxVzBRRRAB!2m1!1s0x3403ffd55d6035b9:0xc7bc1820896c16b9"
+      },
+      {
+        "name": "places/ChIJuTVgXdX_AzQRuRZsiSAYvMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swd1gyWllibFF6TFd4YWNHNVlXVlp1VURWeGFVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "我最喜歡去這家店給我那嗜肉如命的青少年兒子買牛排。他們家的牛排品質始終如一，物超所值，價格也很合理。強烈推薦！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "One of my favourite places to buy steaks for my meat-devouring teenage son. Their steaks are reliably of high quality and of reasonable prices for the value you get. Highly recommended.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Fei Wu",
+          "uri": "https://www.google.com/maps/contrib/114683623385791063667/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLvX_3IOQco4-1iuqBkbHxyaMIznEez-EeAIXHvueY-veJlug=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-11T07:21:50.460093850Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2swd1gyWllibFF6TFd4YWNHNVlXVlp1VURWeGFVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swd1gyWllibFF6TFd4YWNHNVlXVlp1VURWeGFVRRAB!2m1!1s0x3403ffd55d6035b9:0xc7bc1820896c16b9"
+      },
+      {
+        "name": "places/ChIJuTVgXdX_AzQRuRZsiSAYvMc/reviews/ChdDSUhNMG9nS0VJQ0FnSUREaElpLXdBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "雞肉牛肉漢堡簡直太棒了——是我在三大洲吃過的最好吃的漢堡！老闆人特別好，我的手機快沒電了，還幫我充了電。店裡音樂很勁爆，氣氛特別好。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Incredible chicken and beef burger - best I’ve had on 3 continents so far! The owners are very friendly and let me charge my phone as it was about to die. They pump the music and there’s a really nice, friendly vibe.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Emma Fookwe",
+          "uri": "https://www.google.com/maps/contrib/104974296046375831882/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIi7XztKz4ibhOeOEYN3F8dOK_N2kXs7RgvvCG7Ou2gQpNcOXMC=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-04-06T06:09:02.592158Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREaElpLXdBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREaElpLXdBRRAB!2m1!1s0x3403ffd55d6035b9:0xc7bc1820896c16b9"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403ffd55d6035b9:0xc7bc1820896c16b9!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14392405037192844985&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ffd55d6035b9:0xc7bc1820896c16b9!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403ffd55d6035b9:0xc7bc1820896c16b9!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403ffd55d6035b9:0xc7bc1820896c16b9!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJuTVgXdX_AzQRuRZsiSAYvMc/photos/Aa-ngMby47OKJYkIOdoS9j1zTV6SYXOfpv3In139TNN0WJ3Fm1AXyNc38X2IOk9WAW7n7iHFrTGpHf-rLjtKfwBHNtTZl5zQjFzbq2yWnlWC9u4p8vfv5CBpr5Fez_p8UHUwUGNQckE3G8Da3a1OgcAX4P1Lujr1MW09pb5XKK8-V4qHaYoJpJelK4BlLzuUQ8-EkUvP8eo43WEisAEg1fbqeT0XxM1i0jU2fzju8RmbJZyfCys21U2qYVCLkNk5QYCeIMEhkiRYG8nL666bjJrRDLgVC7KbBgZabzJ6BDmX5dOo97IAZKl2foYveiQ5yMTokbr8aHnU_ezN_w73yuo4G9xhp1utw9n5fig-KWe1b6RnuCwfdXCBUOP8Om_cMrFdHXreZi9ZLMLOkkLH6uSCk779QlI-lJE",
+      "widthPx": 1286,
+      "heightPx": 1078,
+      "authorAttributions": [
+        {
+          "displayName": "Flying Butcher Hong Kong",
+          "uri": "https://maps.google.com/maps/contrib/100660928763299624851",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLG2wQ7ikm2XSsLGe-x09RJuWTU54RKUqJVEhLeEmDBvcXjtw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDVt57hygE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDVt57hygE!2e10!4m2!3m1!1s0x3403ffd55d6035b9:0xc7bc1820896c16b9"
+    },
+    "local_path": "photos/ChIJuTVgXdX_AzQRuRZsiSAYvMc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdP4uf0QvvV6BzH_6qaVceb9hgdoc4xdkN0kOYdbrB7GBcSDkN2tHFv0x81u80Au4jPqOvDAaFJeoDdhd8bNssJ5gXCCKnyB1DCzaOYWEjNq0Kx1FIQiSwTGX6l6n6FHiowjAEsjQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 180772
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://flyingbutcher.com/products/chopin-family-reserve-with-gift-box",
+        "label": "",
+        "source_url": "https://flyingbutcher.com/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "food_store",
+    "label": "食品專賣店",
+    "types": [
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://flyingbutcher.com/products/chopin-family-reserve-with-gift-box",
+  "menu_url": null
+}

@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJ9WNIkdUBBDQRztf2WTVJfvU",
+  "restaurant_ids": [
+    "restaurant:2215078018"
+  ],
+  "fetched_at": "2026-10-23T15:49:20.445208+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ9WNIkdUBBDQRztf2WTVJfvU",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2292 2821",
+    "internationalPhoneNumber": "+852 2292 2821",
+    "formattedAddress": "G/F, The, 109 Repulse Bay Rd, Repulse Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2386987,
+      "longitude": 114.19576930000001
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=17689656879849330638&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.therepulsebay.com/en/dining/spices/?utm_term=all-branding-fnb&utm_source=googlelisting&utm_medium=organic-search&utm_content=textlink&utm_campaign=spicesAO",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 21:30",
+        "星期二: 12:00 – 21:30",
+        "星期三: 12:00 – 21:30",
+        "星期四: 12:00 – 21:30",
+        "星期五: 12:00 – 22:30",
+        "星期六: 11:30 – 22:30",
+        "星期日: 11:30 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 360,
+    "displayName": {
+      "text": "香辣軒",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ9WNIkdUBBDQRztf2WTVJfvU/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2NGFxblJnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "21122024六\n中午有時間可以約到朋友\n來香辣軒 享受下陽光嘅中午\n夏天就頂唔順😅\n呢間來過好多次 水準唔錯👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "21122024六\n中午有時間可以約到朋友\n來香辣軒 享受下陽光嘅中午\n夏天就頂唔順😅\n呢間來過好多次 水準唔錯👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "fai c",
+          "uri": "https://www.google.com/maps/contrib/113723734511334199299/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFlJvHh1gpeJ2cZONfKIKN8wtC_LxZCgUZU9XRijZ48GpI2Cc=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-12-21T07:11:50.071627Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2NGFxblJnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2NGFxblJnEAE!2m1!1s0x340401d5914863f5:0xf57e493559f6d7ce"
+      },
+      {
+        "name": "places/ChIJ9WNIkdUBBDQRztf2WTVJfvU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2djZtOHp3RRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "豐富了吃的體驗：印度炒飯有蕃红花和用印度米炒成， 軟殼蟹有蟹羔和濃厚蟹騷味。串燒牛肉夠淋滑和沙爹的花生脆香。泰國木瓜沙律有點過酸。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "豐富了吃的體驗：印度炒飯有蕃红花和用印度米炒成， 軟殼蟹有蟹羔和濃厚蟹騷味。串燒牛肉夠淋滑和沙爹的花生脆香。泰國木瓜沙律有點過酸。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chan Mars",
+          "uri": "https://www.google.com/maps/contrib/110893620308797181951/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUA-msF-AmMXPUZk22P3-1Xpc_UacP-xhWSWjXaIABK2zhZ8OhfJg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2021-10-18T00:37:47.590282Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ2djZtOHp3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2djZtOHp3RRAB!2m1!1s0x340401d5914863f5:0xf57e493559f6d7ce"
+      },
+      {
+        "name": "places/ChIJ9WNIkdUBBDQRztf2WTVJfvU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOMzZPSERnEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "假日同左家人去左淺水灣食飯，去左呢間充滿渡假風情嘅餐廳的食東南亞菜，餐廳有室內和室外坐，我就選擇咗在出面比較寧靜舒適，點左幾樣野食😋😋😋\n\nCrab Meat and Pomelo Salad\nWagyu Beef Satays\nDeep-fried Prawn Cakes\n\nSoup\nTom Yum Kung Spicy prawn soup\n\nMain Courses\nMakhani Murgh\nButter chicken in rich creamy tomato sauce\n\nSalmon Tikka\nStir fries Moming Glory with Chili Shrimp Paste\n\nGarlic Naan\n\nSpices Dessert Platter\nSago pearls in pandan leaf, fresh mango with glutinous rice, rice flour layered cake, pandan coconut ice cream",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "假日同左家人去左淺水灣食飯，去左呢間充滿渡假風情嘅餐廳的食東南亞菜，餐廳有室內和室外坐，我就選擇咗在出面比較寧靜舒適，點左幾樣野食😋😋😋\n\nCrab Meat and Pomelo Salad\nWagyu Beef Satays\nDeep-fried Prawn Cakes\n\nSoup\nTom Yum Kung Spicy prawn soup\n\nMain Courses\nMakhani Murgh\nButter chicken in rich creamy tomato sauce\n\nSalmon Tikka\nStir fries Moming Glory with Chili Shrimp Paste\n\nGarlic Naan\n\nSpices Dessert Platter\nSago pearls in pandan leaf, fresh mango with glutinous rice, rice flour layered cake, pandan coconut ice cream",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chloe Miss",
+          "uri": "https://www.google.com/maps/contrib/116409203528494942970/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocItFqXbZNWNHbXbgksVAjUBNw9qhbRgfk-n1jn8g_j0VuGZ__w=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-01-19T10:59:11.961879Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNOMzZPSERnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNOMzZPSERnEAE!2m1!1s0x340401d5914863f5:0xf57e493559f6d7ce"
+      },
+      {
+        "name": "places/ChIJ9WNIkdUBBDQRztf2WTVJfvU/reviews/ChdDSUhNMG9nS0VJQ0FnSURweGY3cGxnRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "出乎意料的好吃\n新加坡做法滿滿蝦膏的龍蝦\n高品質的雞尾酒\n大滿足",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "出乎意料的好吃\n新加坡做法滿滿蝦膏的龍蝦\n高品質的雞尾酒\n大滿足",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jeanne Xie",
+          "uri": "https://www.google.com/maps/contrib/108549373393111831541/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7DEBI0V6n_wlfA4B3WrQlp0FiFecBTt5tMwYLJDARz-QKazm6=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-08-25T15:13:49.821238Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURweGY3cGxnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURweGY3cGxnRRAB!2m1!1s0x340401d5914863f5:0xf57e493559f6d7ce"
+      },
+      {
+        "name": "places/ChIJ9WNIkdUBBDQRztf2WTVJfvU/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwZ3NDMjJRRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "蝦餅香脆可口。咖喱香料多，非常之香好味，牛柳非常，嫩口。沙爹汁就弱咗少少，唔夠香口。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "蝦餅香脆可口。咖喱香料多，非常之香好味，牛柳非常，嫩口。沙爹汁就弱咗少少，唔夠香口。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Vickor Dingor",
+          "uri": "https://www.google.com/maps/contrib/117809726153110345914/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZovzRkO-Vh2bpHDaxmkob49cIxNNZ6pCYdxvboWzIDNlf_NgWAg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2019-09-19T08:42:48.866640Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwZ3NDMjJRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwZ3NDMjJRRRAB!2m1!1s0x340401d5914863f5:0xf57e493559f6d7ce"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "valetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401d5914863f5:0xf57e493559f6d7ce!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17689656879849330638&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401d5914863f5:0xf57e493559f6d7ce!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401d5914863f5:0xf57e493559f6d7ce!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401d5914863f5:0xf57e493559f6d7ce!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ9WNIkdUBBDQRztf2WTVJfvU/photos/Aa-ngMaLe_n6P30s-9626ShTt1cNhDviPUzurNO0pcQDtyTbLOhKBKxvCuMzDEQYPhYO73wm4L2q86IJU8sXx2wvqZiSQG2EtavDlyQ1CtdB3wyK5x8ckQJY5GAlftZk9EtjY1n2dmkNFzaz8Jq9TS3tKgfMWFASwx95meWKrFeu_K8f4xEVVQHAOf8DWpmItah2-E-JIfqs8SK4rd0mHsB3sFQgS-Mdb9soR07o-P0ZPcLwVpamWHNhdctTLwNFJ7I1iEJrLlmNi4efJtBslq8EI5u0_W90AA2_yuJvb9-6bvieMuM5KI3-DmHd4Z320g2xhjHCRpli4fVFr3U_MlmPcDJaYE_MXkNRwSMrCrnOuHypQs31t6lTomF3tBW4jk-NJeopYX7ReV3Ce1pmmGqhLMpTVqI",
+      "widthPx": 1529,
+      "heightPx": 2100,
+      "authorAttributions": [
+        {
+          "displayName": "Spices Restaurant",
+          "uri": "https://maps.google.com/maps/contrib/116596782380765448437",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_Xjx4LXaIbqnoxQsYAL8yYayaGxi0n3ZRqhHd3mJYrPO2FuA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8ns22Eg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8ns22Eg!2e10!4m2!3m1!1s0x340401d5914863f5:0xf57e493559f6d7ce"
+    },
+    "local_path": "photos/ChIJ9WNIkdUBBDQRztf2WTVJfvU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqda9zeWPSFEPcUMXdcpCLiy-IRhzb5Bt1CMTizQTgHeGNJ69UKM7Ey913HN_y_VRy2BYeGxIwipXi9Zx22I_fOTHDRM4VNFHJj5j7oeS1gfm8S57pUbkLXvJFW1WEw8rMd3fa=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 234062
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJc_RBIIj7AzQReqkYpeFW5bQ",
+  "restaurant_ids": [
+    "restaurant:2293806071"
+  ],
+  "fetched_at": "2026-10-23T15:48:36.888061+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJc_RBIIj7AzQReqkYpeFW5bQ",
+    "types": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3598 3098",
+    "internationalPhoneNumber": "+852 3598 3098",
+    "formattedAddress": "香港新界屯門屯隆街40號屯門時代廣場北翼Level 1,39",
+    "location": {
+      "latitude": 22.3931103,
+      "longitude": 113.97567130000002
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=13034920223631255930&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 23:00",
+        "星期六: 11:30 – 23:00",
+        "星期日: 11:30 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 111,
+    "displayName": {
+      "text": "Ruby Tuesday (Tuen Mun)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "美式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBrunch": true,
+    "primaryType": "american_restaurant",
+    "editorialSummary": {
+      "text": "供應美式料理的休閒連鎖餐廳，有漢堡、沙拉吧與調酒，店內充滿歡樂氣氛。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJc_RBIIj7AzQReqkYpeFW5bQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sWU0zcFRkVzE1Y0hkalRXSTRXa3RXUlRWNlpIYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 1,
+        "text": {
+          "text": "難食，完全唔值得呢個價錢 食物質素只係普通西餐都做到\n侍應連上菜基本次序都唔識所有嘢食，即刻車埋上嚟 完全冇跟前菜主菜咁樣上\n好彩上網訂位已經有七折，如果原價比真係谷鳩氣\n嗌咗三個食物兩杯嘢飲，埋單千$2兩個人",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "難食，完全唔值得呢個價錢 食物質素只係普通西餐都做到\n侍應連上菜基本次序都唔識所有嘢食，即刻車埋上嚟 完全冇跟前菜主菜咁樣上\n好彩上網訂位已經有七折，如果原價比真係谷鳩氣\n嗌咗三個食物兩杯嘢飲，埋單千$2兩個人",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kathy",
+          "uri": "https://www.google.com/maps/contrib/109864600793312151647/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI7almFGsor5ZKT8Xw0jfNJMiJPs2U8kkXEtcHpFAlN9cwgVQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-12T14:02:57.666428422Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sWU0zcFRkVzE1Y0hkalRXSTRXa3RXUlRWNlpIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sWU0zcFRkVzE1Y0hkalRXSTRXa3RXUlRWNlpIYxAB!2m1!1s0x3403fb882041f473:0xb4e556e1a518a97a"
+      },
+      {
+        "name": "places/ChIJc_RBIIj7AzQReqkYpeFW5bQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyeUpyYlB3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "真係太耐冇嚟，出咗好多新菜式😍😍\n\n🦀珍寶蟹肉餅 (會員價$154)\n蟹餅果然係珍寶size，比平時更大更厚😆煎香外表，切開入面大啖大啖蟹肉😋\n\n🥩特級肉眼扒 (會員價$299)\n12oz嘅肉眼扒勁大塊😍肉質軟熟冇筋，肉味濃濃😋唔洗醬汁都好好食😆配菜係炸蕃薯條🍠🍟炸得非常酥脆，仲好夠甜😋另外仲有唔同種類嘅蔬菜，平衡返炸物嘅熱氣😛\n\n🍝意粉松露忌廉醬意大利幼麵 ($會員價$134)\n青口份量都唔少，不過煮得偏熟😝意粉口感好好，軟硬適中👍🏻醬汁勁creamy 勁香黑松露味🤤好邪惡但好好食😋\n\n🍹Ruby Refresher (會員價$49)\n🍮意大利芝士蛋糕奶昔 16oz (會員價$59)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "真係太耐冇嚟，出咗好多新菜式😍😍\n\n🦀珍寶蟹肉餅 (會員價$154)\n蟹餅果然係珍寶size，比平時更大更厚😆煎香外表，切開入面大啖大啖蟹肉😋\n\n🥩特級肉眼扒 (會員價$299)\n12oz嘅肉眼扒勁大塊😍肉質軟熟冇筋，肉味濃濃😋唔洗醬汁都好好食😆配菜係炸蕃薯條🍠🍟炸得非常酥脆，仲好夠甜😋另外仲有唔同種類嘅蔬菜，平衡返炸物嘅熱氣😛\n\n🍝意粉松露忌廉醬意大利幼麵 ($會員價$134)\n青口份量都唔少，不過煮得偏熟😝意粉口感好好，軟硬適中👍🏻醬汁勁creamy 勁香黑松露味🤤好邪惡但好好食😋\n\n🍹Ruby Refresher (會員價$49)\n🍮意大利芝士蛋糕奶昔 16oz (會員價$59)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "2hungrybesties",
+          "uri": "https://www.google.com/maps/contrib/107313782506191991591/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRJg8repupqd-d6XZFT40TSu2g8M-9pfHXTsulO1fzAN-TuVhA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-07-03T15:18:47.253808Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNyeUpyYlB3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyeUpyYlB3EAE!2m1!1s0x3403fb882041f473:0xb4e556e1a518a97a"
+      },
+      {
+        "name": "places/ChIJc_RBIIj7AzQReqkYpeFW5bQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURSa29XNnJ3RRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "取消口罩令後 不小餐廳都熱鬧起來 多谢孩子為我準備生日晚餐 因為會員制方比較實惠  所以今日可靜静哋與他們吃一餐🥰",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "取消口罩令後 不小餐廳都熱鬧起來 多谢孩子為我準備生日晚餐 因為會員制方比較實惠  所以今日可靜静哋與他們吃一餐🥰",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lee Pui Lin Heidi",
+          "uri": "https://www.google.com/maps/contrib/109025078082939991782/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKe5Uhy4T0lkzEWvYEBGEPNOY0pFlFttAO_2GNvWYHuZneQ2Q=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-04-21T15:25:19.430398Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSa29XNnJ3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSa29XNnJ3RRAB!2m1!1s0x3403fb882041f473:0xb4e556e1a518a97a"
+      },
+      {
+        "name": "places/ChIJc_RBIIj7AzQReqkYpeFW5bQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNacFlESjN3RRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "擁有多年歷史的西餐廳，午市套餐都幾抵食，朋友有會員優惠，以前係可以半價食午市套餐，而家做會員呢只可以減40元。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "擁有多年歷史的西餐廳，午市套餐都幾抵食，朋友有會員優惠，以前係可以半價食午市套餐，而家做會員呢只可以減40元。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "April Lau",
+          "uri": "https://www.google.com/maps/contrib/114815041737168284112/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVc3QYiGzUCXvi8_dQFJmK7lrQw0hOA6LFXTlIT5M5STlrkrkZ2LQ=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2023-09-14T11:34:54.048311Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNacFlESjN3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNacFlESjN3RRAB!2m1!1s0x3403fb882041f473:0xb4e556e1a518a97a"
+      },
+      {
+        "name": "places/ChIJc_RBIIj7AzQReqkYpeFW5bQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2OTY3MDJnRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 2,
+        "text": {
+          "text": "入面啲位幾寛，一個毒住食侍應幾好服務咁帶去一個冇咁尷尬既兩人位。\n\n磨菇忌廉湯同餐包，用既係帶甜味滲入芝麻既麥包，磨菇忌廉湯味道偏咸，湯料同磨菇既味道唔出。\n\n滑蛋卡邦尼意粉味道比磨菇湯淡，意粉用偏意粉冇咩口感，喺底既忌廉汁成半流體狀，上面放住幾塊咸過老虎既火腿，啲咸既配料同個意粉好唔融洽，食落怪怪地。\n\n小食既炸雞條微微炸過龍，不過都唔會太實肉，隔左油個皮食落都脆。一個餐午市加小食140。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "入面啲位幾寛，一個毒住食侍應幾好服務咁帶去一個冇咁尷尬既兩人位。\n\n磨菇忌廉湯同餐包，用既係帶甜味滲入芝麻既麥包，磨菇忌廉湯味道偏咸，湯料同磨菇既味道唔出。\n\n滑蛋卡邦尼意粉味道比磨菇湯淡，意粉用偏意粉冇咩口感，喺底既忌廉汁成半流體狀，上面放住幾塊咸過老虎既火腿，啲咸既配料同個意粉好唔融洽，食落怪怪地。\n\n小食既炸雞條微微炸過龍，不過都唔會太實肉，隔左油個皮食落都脆。一個餐午市加小食140。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lafa ca",
+          "uri": "https://www.google.com/maps/contrib/107431684497404582479/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEe14PqN2nfBWR8otoswDPUK5PY4aN0eyu4GQzdI5FfJbfY-xx=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2021-10-14T15:07:38.388874Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ2OTY3MDJnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2OTY3MDJnRRAB!2m1!1s0x3403fb882041f473:0xb4e556e1a518a97a"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fb882041f473:0xb4e556e1a518a97a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13034920223631255930&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb882041f473:0xb4e556e1a518a97a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fb882041f473:0xb4e556e1a518a97a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb882041f473:0xb4e556e1a518a97a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJc_RBIIj7AzQReqkYpeFW5bQ/photos/Aa-ngMare-CwIg2HCvecu4k1RKEZ-bopl_-sWIjsT8yQUNZh2eVhxL-2QWAVqpZmPPMkYWFJCB3RpsnFRMvQUIqQAvTcsUWHGe_5uFAEuLwOM6l4lImp8T2PTWp7GXqIY1MCWkjzWcSNF5LrG7i6XVud8WX_gjRjW6jXqUS2cgzzN0JRDRnNpdy2OFxQWjzI42IgZNIR-YoZk9nhd69SeMEZsSwFfSIVpE4EygpvaP_skdU1YthO39qmIMy_EivZUy-1hbJSuUXlCP1UZ1PvPmKSd-WOiGKutOB17bQcfigUT1GFfE40e_LxSO4RCaw6OZB3geuh06lpWUqK5UKCkiO9k7qhbfBxnPjyUZX1vPouMyVkFsVX7gjEx53XRQuGEhT6thTu2kFTFPM073p-9FTn1hC5Qps",
+      "widthPx": 3756,
+      "heightPx": 2372,
+      "authorAttributions": [
+        {
+          "displayName": "Andy Mok",
+          "uri": "https://maps.google.com/maps/contrib/111846166957826855295",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5nJfMHaKbbnzi6cic3kgbCtvfau6LU95VpWtLefPH9tC62xbiIA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC-s_z-cw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-s_z-cw!2e10!4m2!3m1!1s0x3403fb882041f473:0xb4e556e1a518a97a"
+    },
+    "local_path": "photos/ChIJc_RBIIj7AzQReqkYpeFW5bQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKIAS3yHRCUEvk5Wp7b6-2EdL4WXoPr9cyiaUhDYXLpNvOG77w9R8UYQLOnzo13Y_vwLZww7wHUkw8dIHaMCE_z0Nmq8sTFYWvVdolmqoRBIPoa2uKDCdrvVwtH-5mYoKiqj2R=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 149975
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "american_restaurant",
+    "label": "美式餐廳",
+    "types": [
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

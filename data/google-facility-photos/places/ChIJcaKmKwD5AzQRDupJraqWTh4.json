@@ -1,0 +1,38 @@
+{
+  "id": "ChIJcaKmKwD5AzQRDupJraqWTh4",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界石崗金水南路",
+  "location": {
+    "latitude": 22.4285648,
+    "longitude": 114.07843439999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2183848529117178382&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Doggie Zone",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJcaKmKwD5AzQRDupJraqWTh4/photos/Aa-ngMYiIRf5ynWx9R2BwD7WEEs6t3nbB2FmIYz6b4zJC7T4F-OTRKNhqIcDuMfAuQeZg6gYgfInfXkBXgWFRtKiQTnGNeCykJn_PEgsO6cKIlYi2ZEeRhAZpPuGV9WYB1fkNtvAYwep5e_seC7asYldJmbetUJFiz8khQXYBy2ueNQyNRFIzNEMNrn0arcJaXxwHn8rNRunqXY5zLgWRBH6eZsTvWiQkKlxOE2FAkKRUxPizMsN31V5i0rohPEtFH5qRDmVZT-7xPSWvLSG6-Xgh_GM443CsSWqGwr98XgFX8lJ6q2gHZ3gUvHeMfoH8_kZJ1wg9kZXZOj0gvY9tpzqlbXYxnY9jVyXrSYBrerJXt_obPP0pFMVuevN0Bvt1gv6g1MC8ZrEJU6inz1MMGLOX_yNN2IdPaFgNlgXWj_9rgJHdw",
+      "widthPx": 4160,
+      "heightPx": 3120,
+      "authorAttributions": [
+        {
+          "displayName": "Doggie zone",
+          "uri": "https://maps.google.com/maps/contrib/104884043086578384585",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJhpke3a06H7hs1n_afiwRM5x_Ma9NF6v5zr92-7ZCVl_-hew=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBB08WKkCICoyUUn-Y4RNTH&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBB08WKkCICoyUUn-Y4RNTH!2e10!4m2!3m1!1s0x3403f9002ba6a271:0x1e4e96aaad49ea0e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:11.287101+00:00"
+}

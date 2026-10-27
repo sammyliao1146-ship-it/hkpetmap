@@ -1,0 +1,41 @@
+{
+  "id": "ChIJNbZeJkgBBDQRToSQVt6AJf4",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "pet_store",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "G/F, 10 Prince's Terrace, Mid-Levels, Hong Kong Island, 香港",
+  "location": {
+    "latitude": 22.2809103,
+    "longitude": 114.15167179999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18313185152195396686&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "PET HK - Hotel Edition",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJNbZeJkgBBDQRToSQVt6AJf4/photos/Aa-ngMYRQ0_OgJ5zuPe3E3lqZxPxFYdgjwwnSj680McX06NsZh7rvppkfhIGZM5RivdQ0VDRwf0DQeC88Pdzi0u6ywPCWPwsrJOv-QjniaZrITKEfVCVU88u2nlWuAF1BYU7TftHbq_eUvc-oDGO3LhxhvT5QreN_fHG8uVPPHk2NEHxrDX8m-DIoXkHt0ytK53pfYa1u1PWiGotbqegXqiJCNn6XOGFtPDCnKoQGSBdq5AnFySNX-LAUmtDPBjeto2TAJDNkHesKnQ7Vg82NAsx0xDQTMp0FNavt64JbC8HcoWqwQf6xG5Nei8jxFjnnktxk7UeQCj84djy5r7Tt1VmIjhQaEY3-y3h8Z8YLQcfjDloD324Br63CotSqWT_b4Z-qY3BhzJn7vt_IDGrXj2W_mE_yRnlMnwbxEQK-7eFpcPW4Q",
+      "widthPx": 818,
+      "heightPx": 450,
+      "authorAttributions": [
+        {
+          "displayName": "PET HK - Hotel Edition",
+          "uri": "https://maps.google.com/maps/contrib/103609529152082569999",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrqljWaURdWmxUGnQJirW5a1vEzFas57sN9V0C6BWbt9idEMg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBfwZrB93Wwk97ICbfX7e-u&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBfwZrB93Wwk97ICbfX7e-u!2e10!4m2!3m1!1s0x34040148265eb635:0xfe2580de5690844e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:24.013236+00:00"
+}

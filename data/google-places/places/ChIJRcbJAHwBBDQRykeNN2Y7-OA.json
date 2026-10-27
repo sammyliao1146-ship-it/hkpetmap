@@ -1,0 +1,319 @@
+{
+  "google_place_id": "ChIJRcbJAHwBBDQRykeNN2Y7-OA",
+  "restaurant_ids": [
+    "restaurant:2262812755"
+  ],
+  "fetched_at": "2026-10-23T15:44:30.044659+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJRcbJAHwBBDQRykeNN2Y7-OA",
+    "types": [
+      "dumpling_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6823 3808",
+    "internationalPhoneNumber": "+852 6823 3808",
+    "formattedAddress": "香港九龍太子荔枝角道136號",
+    "location": {
+      "latitude": 22.325260600000004,
+      "longitude": 114.1650191
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=16210772168924809162&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 21:30",
+        "星期二: 12:00 – 21:30",
+        "星期三: 12:00 – 21:30",
+        "星期四: 12:00 – 21:30",
+        "星期五: 12:00 – 21:30",
+        "星期六: 12:00 – 21:30",
+        "星期日: 12:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 48,
+    "displayName": {
+      "text": "金滿多餃子店",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "水餃店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "dumpling_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJRcbJAHwBBDQRykeNN2Y7-OA/reviews/Ci9DQUlRQUNvZENodHljRjlvT205TFdsOXFhSFp5WjNVd2FFdExRbVV4V1VwWVRHYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 1,
+        "text": {
+          "text": "員工態度十分差，對客人呼呼喝喝。食物質素都好普通， 煎餃OK，湯餃豬肉食落就都唔係特別新鮮。想食餃子真係唔使嚟呢度， 呢個價位附近大把選擇，行前兩步都已經有豐順餃子，好過呢間十倍。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "員工態度十分差，對客人呼呼喝喝。食物質素都好普通， 煎餃OK，湯餃豬肉食落就都唔係特別新鮮。想食餃子真係唔使嚟呢度， 呢個價位附近大把選擇，行前兩步都已經有豐順餃子，好過呢間十倍。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gray Raven Punishing",
+          "uri": "https://www.google.com/maps/contrib/103283142438162090904/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLvbjwgIaD5dZ5KCfUT99g3joQQD8fh8k5XtMb4SaZ4Qqj0MA=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-02-21T13:17:49.788758515Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205TFdsOXFhSFp5WjNVd2FFdExRbVV4V1VwWVRHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205TFdsOXFhSFp5WjNVd2FFdExRbVV4V1VwWVRHYxAB!2m1!1s0x3404017c00c9c645:0xe0f83b66378d47ca"
+      },
+      {
+        "name": "places/ChIJRcbJAHwBBDQRykeNN2Y7-OA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KVFVuTlpOSEppVTA1b2RYZENOazR0TFVWc1prRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 1,
+        "text": {
+          "text": "去到間餐廳，叫杯野飲，凍檸茶走甜走冰\n「li 度唔係珍珠奶茶店，無得走冰」\n咁豆漿\n「豆漿都係凍，我地得熱/凍」\n咁唔飲啦\n「係呀，唔係迫你一定要飲野」\n\n嘢食比較淡，但都可以。\n態度極度惡劣，貼錢買難受。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "去到間餐廳，叫杯野飲，凍檸茶走甜走冰\n「li 度唔係珍珠奶茶店，無得走冰」\n咁豆漿\n「豆漿都係凍，我地得熱/凍」\n咁唔飲啦\n「係呀，唔係迫你一定要飲野」\n\n嘢食比較淡，但都可以。\n態度極度惡劣，貼錢買難受。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Giselle Chan",
+          "uri": "https://www.google.com/maps/contrib/104868286959216902934/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0lhXvpyv6MiqzszmO12NNXgtTyhuLEjF6W0SJ2lbtrP1dQg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-24T07:43:16.749917963Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KVFVuTlpOSEppVTA1b2RYZENOazR0TFVWc1prRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KVFVuTlpOSEppVTA1b2RYZENOazR0TFVWc1prRRAB!2m1!1s0x3404017c00c9c645:0xe0f83b66378d47ca"
+      },
+      {
+        "name": "places/ChIJRcbJAHwBBDQRykeNN2Y7-OA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twbGJtVm5VR3g2UlVoSlltVjJNMjVLTnpoNVJHYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "晚餐69蚊：香濃芝士炸雞米線 加 菜心（豬肉）餃2隻 再加 （椰菜）牛肉餃。\n\n芝士係 芝士粉。\n睇落一般，但吃落就覺得好好吃！\n\n米線冇特別。好似清水咁清既湯。\n但落左佢既 秘製香辣菜脯，就變得好好食！\n\n菜心餃吃落好健康，旁邊有醋可以調味。\n店員好細心，睇到我落醋，就俾左個碟仔我。讚！\n\n牛肉餃好香，唔洗醋都好好味！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晚餐69蚊：香濃芝士炸雞米線 加 菜心（豬肉）餃2隻 再加 （椰菜）牛肉餃。\n\n芝士係 芝士粉。\n睇落一般，但吃落就覺得好好吃！\n\n米線冇特別。好似清水咁清既湯。\n但落左佢既 秘製香辣菜脯，就變得好好食！\n\n菜心餃吃落好健康，旁邊有醋可以調味。\n店員好細心，睇到我落醋，就俾左個碟仔我。讚！\n\n牛肉餃好香，唔洗醋都好好味！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Steven Choi",
+          "uri": "https://www.google.com/maps/contrib/116273496848614591962/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbLg6x2jVfvF8zBGuJDXhQZIfOrWKhqsDB31vkSA0jhZ6mUg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-11-22T12:38:38.025127296Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twbGJtVm5VR3g2UlVoSlltVjJNMjVLTnpoNVJHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twbGJtVm5VR3g2UlVoSlltVjJNMjVLTnpoNVJHYxAB!2m1!1s0x3404017c00c9c645:0xe0f83b66378d47ca"
+      },
+      {
+        "name": "places/ChIJRcbJAHwBBDQRykeNN2Y7-OA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xacWNVMVNTMng0V2tjM05XSjJWMUpGZGxsbGJVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 1,
+        "text": {
+          "text": "三年前第一次幫襯，當時覺得大家講起太子嘅餃子店點解無佢份，因為餃子質素同個湯都ok，好多人一直都話佢服務態度唔好，我亦都見過有員工嗌交，氣氛好差，但餃子質素仍然幾好。\n\n隔咗一段時間，近排再幫襯，餃子質素差唔多，但個湯已經無之前咁濃，但店員態度係極差，明明有空位又叫我哋坐去第二張枱同人搭枱（當時唔多人，只有我哋一枱等緊佢執枱）\n執完枱抹完枱店員將本menu放喺凳上，我哋坐低就打開睇，店員話：枱面仲濕，唔好放上枱。\n第一，你本menu有過膠。第二，你張枱抹到咁濕會唔會關我事？咁我點睇？特登遷就你凌空拎起睇？全程態度好差，救得一個得一個，奉勸大家唔好貼錢買難受。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "三年前第一次幫襯，當時覺得大家講起太子嘅餃子店點解無佢份，因為餃子質素同個湯都ok，好多人一直都話佢服務態度唔好，我亦都見過有員工嗌交，氣氛好差，但餃子質素仍然幾好。\n\n隔咗一段時間，近排再幫襯，餃子質素差唔多，但個湯已經無之前咁濃，但店員態度係極差，明明有空位又叫我哋坐去第二張枱同人搭枱（當時唔多人，只有我哋一枱等緊佢執枱）\n執完枱抹完枱店員將本menu放喺凳上，我哋坐低就打開睇，店員話：枱面仲濕，唔好放上枱。\n第一，你本menu有過膠。第二，你張枱抹到咁濕會唔會關我事？咁我點睇？特登遷就你凌空拎起睇？全程態度好差，救得一個得一個，奉勸大家唔好貼錢買難受。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "SLK L",
+          "uri": "https://www.google.com/maps/contrib/110092551256276247997/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIqA1_JuJ-y14NJgs65JY9S1-KL041-hQQyYmGERAOt1O6zay8=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-30T08:06:20.369652299Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xacWNVMVNTMng0V2tjM05XSjJWMUpGZGxsbGJVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xacWNVMVNTMng0V2tjM05XSjJWMUpGZGxsbGJVRRAB!2m1!1s0x3404017c00c9c645:0xe0f83b66378d47ca"
+      },
+      {
+        "name": "places/ChIJRcbJAHwBBDQRykeNN2Y7-OA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkR1VsaEdTa3BWU1RCYU4yc3hMVXR3UzJWeFVsRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 1,
+        "text": {
+          "text": "態度極其惡劣，沒有禮貌，問他們要調味料也沒禮貌的回應，不推薦\n醋無曬\n問店員問咗三次，結果攞兩個調味碟俾我\n唔知係佢定我文盲聽唔明醋係乜嘢？\n三催四請先攞咗碟醋過嚟\n態度世一\n邊個想貼錢買難受就去啦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "態度極其惡劣，沒有禮貌，問他們要調味料也沒禮貌的回應，不推薦\n醋無曬\n問店員問咗三次，結果攞兩個調味碟俾我\n唔知係佢定我文盲聽唔明醋係乜嘢？\n三催四請先攞咗碟醋過嚟\n態度世一\n邊個想貼錢買難受就去啦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jessie Lee",
+          "uri": "https://www.google.com/maps/contrib/102327555234335476739/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5bh-p9lx7EUwiyChwk2IgD0MEMyKSqqoK1AzQgqaRNHUrsgcw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-14T16:25:03.267866599Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkR1VsaEdTa3BWU1RCYU4yc3hMVXR3UzJWeFVsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkR1VsaEdTa3BWU1RCYU4yc3hMVXR3UzJWeFVsRRAB!2m1!1s0x3404017c00c9c645:0xe0f83b66378d47ca"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "allowsDogs": false,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404017c00c9c645:0xe0f83b66378d47ca!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16210772168924809162&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017c00c9c645:0xe0f83b66378d47ca!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404017c00c9c645:0xe0f83b66378d47ca!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404017c00c9c645:0xe0f83b66378d47ca!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJRcbJAHwBBDQRykeNN2Y7-OA/photos/Aa-ngMYfTEwk0ylZz8XWyeGEUySHRM9DIM6L_4LeubHHWythtb_54hYNI34tfMMIrbce3brS5Pv0vVeVs1BNw9s1zJ9evwjlmqhLTyE_YeuHytbSI9OozweagH2cF3kiko-LRGLPPaXeiOVUwVnfCvu9j8Hz7gqpwoc8OfxwrhqmAO8PtekPElY37xKaqjpfyuPZ64cUIk5cu7tU0c-z4khj5p8CxBVsfAcGkSP7l7zKYDdv2q5w_k24x-wK5hrG2b3jo6_fzaVS-mffLumvb568yCJYAP7FtsmHPeQ1Okr275mOT6D7y-reTgqf9yAb4QogWpBXABAOnY_Oky2txh0VdXLXEfX1ThF_3q0MternQOrLEQo2uW4hrmnK3yL5HbQN-xhOe0iUGy2RsUeeQyehoYHWLOM",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "authorAttributions": [
+        {
+          "displayName": "金滿多餃子店",
+          "uri": "https://maps.google.com/maps/contrib/110334634351500295824",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL35kjJryiEQKFXUQPYSIPtdASzRH17btXDVw14TtWztg1AIw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIChqqHxeQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChqqHxeQ!2e10!4m2!3m1!1s0x3404017c00c9c645:0xe0f83b66378d47ca"
+    },
+    "local_path": "photos/ChIJRcbJAHwBBDQRykeNN2Y7-OA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWfx2uaWed4wuIHPO2yIneUKgLKVUzOQ_JM5VWpkPuSi6hQbNRfNrTu2ep22pbaxWMYME68n4SBVGY0ppPzSWS-0EszqgkoI6hO9zKImAkF0zmTSGPS5QvAFUW5FO9IoVJUBwl=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 174098
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "dumpling_restaurant",
+    "label": "水餃店",
+    "types": [
+      "dumpling_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

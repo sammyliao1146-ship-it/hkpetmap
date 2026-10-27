@@ -1,0 +1,359 @@
+{
+  "google_place_id": "ChIJjTPcNAADBDQRVdwfzo08oq0",
+  "restaurant_ids": [
+    "restaurant:2298807316"
+  ],
+  "fetched_at": "2026-10-23T15:51:32.450937+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJjTPcNAADBDQRVdwfzo08oq0",
+    "types": [
+      "indian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6521 2090",
+    "internationalPhoneNumber": "+852 6521 2090",
+    "formattedAddress": "Shop 6A, 1/F, O'South Coast, Monterey Place, 23 Tong Chun St, Tseung Kwan O, New Territories, 香港",
+    "location": {
+      "latitude": 22.3019072,
+      "longitude": 114.2619146
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=12511629294534909013&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.tulsi.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 22:00",
+        "星期二: 11:30 – 22:00",
+        "星期三: 11:30 – 22:00",
+        "星期四: 11:30 – 22:00",
+        "星期五: 11:30 – 22:00",
+        "星期六: 11:30 – 22:00",
+        "星期日: 11:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 580,
+    "displayName": {
+      "text": "羅勒印度餐廳 (將軍澳)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "印度餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesVegetarianFood": true,
+    "primaryType": "indian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJjTPcNAADBDQRVdwfzo08oq0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kNE5WVjBUMmhaTFVWR01rOURWak5KWkVGVGFuYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "好味，有驚喜，麵包好軟熟，咖喱汁好好味，咖啡都OK，環境都舒適，整體感覺好好，推介\n\n第二次食，個個都話好食😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好味，有驚喜，麵包好軟熟，咖喱汁好好味，咖啡都OK，環境都舒適，整體感覺好好，推介\n\n第二次食，個個都話好食😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yu Yan",
+          "uri": "https://www.google.com/maps/contrib/104175647716119355616/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvRbBlb-vTGj-l2WOcT17ADkO6vhXijebgr5WQXWt0vxx_gw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-24T04:49:44.933125822Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kNE5WVjBUMmhaTFVWR01rOURWak5KWkVGVGFuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kNE5WVjBUMmhaTFVWR01rOURWak5KWkVGVGFuYxAB!2m1!1s0x3404030034dc338d:0xada23c8dce1fdc55"
+      },
+      {
+        "name": "places/ChIJjTPcNAADBDQRVdwfzo08oq0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SWFREQnRkVE5HUkVaRVVVTllZVkJIYURKVWFsRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "將軍澳嘅羅勒印度餐廳 好食！\n而家做緊平日單點半價 講真好抵食\n份量都好合理 推薦推薦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "將軍澳嘅羅勒印度餐廳 好食！\n而家做緊平日單點半價 講真好抵食\n份量都好合理 推薦推薦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "tin tin tin",
+          "uri": "https://www.google.com/maps/contrib/109198633372190606638/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZt7oREgV0wcVwja9EHrJCLQyZMi0dKo8yZEO6HEPmphZ8pslo=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-14T12:38:14.348702641Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SWFREQnRkVE5HUkVaRVVVTllZVkJIYURKVWFsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SWFREQnRkVE5HUkVaRVVVTllZVkJIYURKVWFsRRAB!2m1!1s0x3404030034dc338d:0xada23c8dce1fdc55"
+      },
+      {
+        "name": "places/ChIJjTPcNAADBDQRVdwfzo08oq0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xobVRIQTVXRFUxWVZSSGR6bHdUSGRwUTJ3eFgwRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好食 正宗印度餐廳👍👍 餐廳所有員工都好友善 ～\n推介咖喱角,butter chicken👍想再黎試下其他菜式😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好食 正宗印度餐廳👍👍 餐廳所有員工都好友善 ～\n推介咖喱角,butter chicken👍想再黎試下其他菜式😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yan leung",
+          "uri": "https://www.google.com/maps/contrib/110199146671679971922/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIc8VFevgkgKYwpId7oCLmKZEhAvJ6_bVP4bO280Z6g6-kZjCs=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-07T12:47:03.755615457Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xobVRIQTVXRFUxWVZSSGR6bHdUSGRwUTJ3eFgwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xobVRIQTVXRFUxWVZSSGR6bHdUSGRwUTJ3eFgwRRAB!2m1!1s0x3404030034dc338d:0xada23c8dce1fdc55"
+      },
+      {
+        "name": "places/ChIJjTPcNAADBDQRVdwfzo08oq0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWMFdHbDVSelJwV1hVMWMzaHZXSGhYT0hjNGNuYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "服務好 環境優美 食物高質👌☺️👏",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務好 環境優美 食物高質👌☺️👏",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "รพีพรรณ เกษคันทร",
+          "uri": "https://www.google.com/maps/contrib/110658582409857228686/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7U_LgekPdnfHjgEjV79S4yELI54sZJq08k2CGi2OIK3QlyNM=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-20T08:50:47.637819824Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWMFdHbDVSelJwV1hVMWMzaHZXSGhYT0hjNGNuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWMFdHbDVSelJwV1hVMWMzaHZXSGhYT0hjNGNuYxAB!2m1!1s0x3404030034dc338d:0xada23c8dce1fdc55"
+      },
+      {
+        "name": "places/ChIJjTPcNAADBDQRVdwfzo08oq0/reviews/ChZDSUhNMG9nS0VJQ0FnSURfOUtUS1ZREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "服務唔錯，環境都算舒服好坐。\n\n燒雞雞肉滑嫩，調味幾豐富，口感唔錯。炒飯配料充足，飯粒同肉類既口感豐厚，調味相對唔夠突出。\n\n咖哩味道唔錯，全部加埋550左右。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務唔錯，環境都算舒服好坐。\n\n燒雞雞肉滑嫩，調味幾豐富，口感唔錯。炒飯配料充足，飯粒同肉類既口感豐厚，調味相對唔夠突出。\n\n咖哩味道唔錯，全部加埋550左右。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "lafa ca",
+          "uri": "https://www.google.com/maps/contrib/107431684497404582479/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEe14PqN2nfBWR8otoswDPUK5PY4aN0eyu4GQzdI5FfJbfY-xx=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-01-22T01:40:59.280841Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfOUtUS1ZREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfOUtUS1ZREAE!2m1!1s0x3404030034dc338d:0xada23c8dce1fdc55"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404030034dc338d:0xada23c8dce1fdc55!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12511629294534909013&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404030034dc338d:0xada23c8dce1fdc55!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404030034dc338d:0xada23c8dce1fdc55!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404030034dc338d:0xada23c8dce1fdc55!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJjTPcNAADBDQRVdwfzo08oq0/photos/Aa-ngMaE_EJZG_I-FYc3J4JZ9flns1KV1ZDxP7YBswvrC-WbQUntLtcKAFKxmAoDsdht3lbrAEfuvprJ_v6zr2CA86WXjgUylqWFL16i5t0A60pKXvLITvyBidsLUCEY3JIZG_5Tol0jkKQMAkKzCoYvtEkczgLIbcn0iS0PS8k_naujtEUY7qPOqT3Sc-yw8Dyuen6NxcoYrQqau5zGrU5JjWEValm1ejwYWoJt0AoERk0iwejHIyGSwnPTq8Hr7hft_xqqBJoOENxxPoxUWlTWVLzaxfwQcmDju0y4I0h5PQi0rgONYr7jXje8UfSJL1dm4I2Gq0EoC1metP2tjogy6VHmVRoL-L0vBhqIVPQmQNGbq6-7JMyGVwSX3f_5xi3XeLqdCA2BnPfx-diURFhDLrn5TX7oMK4hpLhDUpiVpVmZ",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Tulsi Indian Restaurant",
+          "uri": "https://maps.google.com/maps/contrib/100215547895551667613",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI9N_EhEzWx9D4CY-NleDIUfPBJhC-gzptROx-gv2TqQ44wjA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAOIMuSIJUET8hIVWM7rAgk&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAOIMuSIJUET8hIVWM7rAgk!2e10!4m2!3m1!1s0x3404030034dc338d:0xada23c8dce1fdc55"
+    },
+    "local_path": "photos/ChIJjTPcNAADBDQRVdwfzo08oq0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLebJGKM2vgf8Vqo4vAjaHl7wQAyeqCPrLm70mFs6KGDVxqmLA46PcVmoxSwF826NBh5hnBTLWFXAXfjCJ4iV-mk9B2V2HKM8_xcWZMcaXopGg1kRONNqYOQtUEQscJtEijbPzufKvW-MhM=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 161078
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "http://www.tulsi.com.hk/reserve",
+        "label": "Reserve a table",
+        "source_url": "http://www.tulsi.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "http://www.tulsi.com.hk/menu",
+        "label": "Menu",
+        "source_url": "http://www.tulsi.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "http://www.tulsi.com.hk/lunch",
+        "label": "Lunch Menu",
+        "source_url": "http://www.tulsi.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "http://www.tulsi.com.hk/menu#dinner-sets",
+        "label": "Dinner Sets Complete dinners for one to six, from $158 →",
+        "source_url": "http://www.tulsi.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "http://www.tulsi.com.hk/menu#chaat",
+        "label": "Chaat & Starters Samosa, pani puri, pakoras - street plates to open →",
+        "source_url": "http://www.tulsi.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "indian_restaurant",
+    "label": "印度餐廳",
+    "types": [
+      "indian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "http://www.tulsi.com.hk/reserve",
+  "menu_url": "http://www.tulsi.com.hk/menu"
+}

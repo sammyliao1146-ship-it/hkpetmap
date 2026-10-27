@@ -1,0 +1,321 @@
+{
+  "google_place_id": "ChIJDTIaSgABBDQRMrG1pp4IfrI",
+  "restaurant_ids": [
+    "restaurant:2261821871"
+  ],
+  "fetched_at": "2026-10-23T15:44:33.724943+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJDTIaSgABBDQRMrG1pp4IfrI",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2896 0377",
+    "internationalPhoneNumber": "+852 2896 0377",
+    "formattedAddress": "香港九龍尖沙咀Elements1089c, 1/F",
+    "location": {
+      "latitude": 22.3042302,
+      "longitude": 114.1633032
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=12861727063311495474&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.elementshk.com/tch/elements/dining/kometaki",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 21:30",
+        "星期二: 11:30 – 21:30",
+        "星期三: 11:30 – 21:30",
+        "星期四: 11:30 – 21:30",
+        "星期五: 11:30 – 21:30",
+        "星期六: 11:30 – 21:30",
+        "星期日: 11:30 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 150,
+    "displayName": {
+      "text": "米炊 (圓方)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJDTIaSgABBDQRMrG1pp4IfrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aWlJWTnVNM0F3ZURoVWJTMVpkM2RXYkU4MU4yYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "剛好要趕機場快線中途路過的店，上餐的速度感覺有點慢，如果有趕時間的話要考慮看看。\n東西稍貴了一點，不過蠻好吃的。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "剛好要趕機場快線中途路過的店，上餐的速度感覺有點慢，如果有趕時間的話要考慮看看。\n東西稍貴了一點，不過蠻好吃的。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "劉騰云",
+          "uri": "https://www.google.com/maps/contrib/116635194893098839253/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKL8pY1N3FwW99GQ16DIRnrykfILvpMOrdsaAg734C-aNQg8s=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-10T07:43:45.685751096Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aWlJWTnVNM0F3ZURoVWJTMVpkM2RXYkU4MU4yYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aWlJWTnVNM0F3ZURoVWJTMVpkM2RXYkU4MU4yYxAB!2m1!1s0x340401004a1a320d:0xb27e089ea6b5b132"
+      },
+      {
+        "name": "places/ChIJDTIaSgABBDQRMrG1pp4IfrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wMGMxQjJaMUYzVUZoR1h6ZE9aMmMyWTFaR00wRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "一如既往嘅好味。原條牛脷分量好足。又夠厚。一定回頭翻兜",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一如既往嘅好味。原條牛脷分量好足。又夠厚。一定回頭翻兜",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Phillip Lai",
+          "uri": "https://www.google.com/maps/contrib/108500968201274449086/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ06JlMAlscjTK70rzQ6Khe2t7LKMc-LnpfUjGuGMp0-txSPA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-08T11:50:30.781365784Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wMGMxQjJaMUYzVUZoR1h6ZE9aMmMyWTFaR00wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wMGMxQjJaMUYzVUZoR1h6ZE9aMmMyWTFaR00wRRAB!2m1!1s0x340401004a1a320d:0xb27e089ea6b5b132"
+      },
+      {
+        "name": "places/ChIJDTIaSgABBDQRMrG1pp4IfrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSa2FtOVdlRVF6ZDI1NVVsbHFRVE15V1hGb1NuYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "服務同食物都好好，上餐又快！\n\n推介🌟🌟🌟",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務同食物都好好，上餐又快！\n\n推介🌟🌟🌟",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nadia",
+          "uri": "https://www.google.com/maps/contrib/101602832693224397114/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlKt0sVwVn-4bF5EYFk6L2bYc4Kq-t9h95yEu0CrkDrsugCA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-29T10:51:02.136933911Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSa2FtOVdlRVF6ZDI1NVVsbHFRVE15V1hGb1NuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSa2FtOVdlRVF6ZDI1NVVsbHFRVE15V1hGb1NuYxAB!2m1!1s0x340401004a1a320d:0xb27e089ea6b5b132"
+      },
+      {
+        "name": "places/ChIJDTIaSgABBDQRMrG1pp4IfrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OQmRsWk1lV3BmZGxJMVFYSnliRVZKWTFaVmQwRRAB",
+        "relativePublishTimeDescription": "3 週前",
+        "rating": 3,
+        "text": {
+          "text": "晚餐時間點了蛋包飯，\n環境不錯，上菜速度快\n蛋很滑，牛肉一般，可以一試～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晚餐時間點了蛋包飯，\n環境不錯，上菜速度快\n蛋很滑，牛肉一般，可以一試～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tingつばき",
+          "uri": "https://www.google.com/maps/contrib/105558228353488612001/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWF2xx-kht2Hwqozsr2aDpMtCxEKoBhxbVtCggbnIF82p-OBRWI=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-09-29T17:32:31.056579161Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OQmRsWk1lV3BmZGxJMVFYSnliRVZKWTFaVmQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OQmRsWk1lV3BmZGxJMVFYSnliRVZKWTFaVmQwRRAB!2m1!1s0x340401004a1a320d:0xb27e089ea6b5b132"
+      },
+      {
+        "name": "places/ChIJDTIaSgABBDQRMrG1pp4IfrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKdVptbDNNVTlEVVV0ME5taDNWVXh5ZUVOUmIwRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "店裡環境很不錯～蛋包飯很不錯👌😌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店裡環境很不錯～蛋包飯很不錯👌😌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Feiyang Zhang",
+          "uri": "https://www.google.com/maps/contrib/118119584996911585466/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3Ax2y49X51BwPwGYZSjp6lYR9KB6_zYvKxGTiyFrnFNpQCqk=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-27T12:01:03.111960444Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKdVptbDNNVTlEVVV0ME5taDNWVXh5ZUVOUmIwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKdVptbDNNVTlEVVV0ME5taDNWVXh5ZUVOUmIwRRAB!2m1!1s0x340401004a1a320d:0xb27e089ea6b5b132"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401004a1a320d:0xb27e089ea6b5b132!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12861727063311495474&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401004a1a320d:0xb27e089ea6b5b132!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401004a1a320d:0xb27e089ea6b5b132!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401004a1a320d:0xb27e089ea6b5b132!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJDTIaSgABBDQRMrG1pp4IfrI/photos/Aa-ngMbuzw7evpStynZMf99UdBmXImnZY78O4JoZpyQALhvfi2P3U9nyqIQXubx4oTsYmMi1BNgY14HU4dqW3CFQ4S7BEibsMd9QSrEok6SGdiFAWdFFT1gzI3zTjr8b_BnmtQ6kN0zw2zb9Ch3RZ0i4q9XBzz1ocdBN0azE1zxRp4FiPbozM80M2JqUQuH8oRygBJ8baoutblII_hfXLI9ikFR7rZ4QBAkEoFbOoplTogUJAkqbOj0DJaS4cgvJpGe84Nf2J4mKIhhB7yoGzekogtdb-agGUuN8QrRJO8U-rEQWni4G-61bMXW2CK8m2HmnO69MWpw-nmJsuIBKywZ83K7nIffMgrTb9RgFGcOllitKILE610uDFaZAPZEA70cVhoIUz3FSqMrLVGoG94j74MgfQ0kFujFwJTwnlbUx0FkP",
+      "widthPx": 3312,
+      "heightPx": 2484,
+      "authorAttributions": [
+        {
+          "displayName": "Shiba dinlo A",
+          "uri": "https://maps.google.com/maps/contrib/104500927225703234547",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqNEaQAp5Dyo6VsbrXjd1Fsd6WFesGV07qCG3u2YE6CuE9Tovc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC624bVT1mLRq-Oq0HoC76M&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC624bVT1mLRq-Oq0HoC76M!2e10!4m2!3m1!1s0x340401004a1a320d:0xb27e089ea6b5b132"
+    },
+    "local_path": "photos/ChIJDTIaSgABBDQRMrG1pp4IfrI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdT9UQl6i1AeO45KIvyYyJM3ngFk3fIhMg1FjJDnH5Zqo73wlONWtB241G_WNu59Bf1n6H2t4c1qZIiG5gcItZb5cL8AL0ZCDSQxsvmuJ8EGA4KaEDJlqnrtiA64zFfgeC-zdSuyoV3x1I=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 177872
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,86 @@
+{
+  "google_place_id": "ChIJOQPpyQQBBDQRS9-XoiweAw0",
+  "restaurant_ids": [
+    "restaurant:2211808680"
+  ],
+  "fetched_at": "2026-10-23T15:49:02.802032+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJOQPpyQQBBDQRS9-XoiweAw0",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2297 3338",
+    "internationalPhoneNumber": "+852 2297 3338",
+    "formattedAddress": "香港香港島北角北角邨里1號北角匯3樓301號舖",
+    "location": {
+      "latitude": 22.292768000000002,
+      "longitude": 114.198985
+    },
+    "rating": 1,
+    "googleMapsUri": "https://maps.google.com/?cid=937626324478451531&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 1,
+    "displayName": {
+      "text": "天藍",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "興趣點",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "point_of_interest",
+    "reviews": [
+      {
+        "name": "places/ChIJOQPpyQQBBDQRS9-XoiweAw0/reviews/ChdDSUhNMG9nS0VJQ0FnSURCOFlyRTBnRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 1,
+        "text": {
+          "text": "等個壽包等左1個鐘",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "等個壽包等左1個鐘",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "EVA初號機",
+          "uri": "https://www.google.com/maps/contrib/103656531795383269502/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxxLa7l0SjLCEtcBY3FlTClLi-nV1Kug3ad-z2vBepnisD87s=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-01-22T12:26:15.255750Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCOFlyRTBnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCOFlyRTBnRRAB!2m1!1s0x34040104c9e90339:0xd031e2ca297df4b"
+      }
+    ],
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040104c9e90339:0xd031e2ca297df4b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=937626324478451531&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040104c9e90339:0xd031e2ca297df4b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040104c9e90339:0xd031e2ca297df4b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040104c9e90339:0xd031e2ca297df4b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": null,
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "point_of_interest",
+    "label": "興趣點",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

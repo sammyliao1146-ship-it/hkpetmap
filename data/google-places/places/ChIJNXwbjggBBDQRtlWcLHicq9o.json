@@ -1,0 +1,270 @@
+{
+  "google_place_id": "ChIJNXwbjggBBDQRtlWcLHicq9o",
+  "restaurant_ids": [
+    "restaurant:2263808591"
+  ],
+  "fetched_at": "2026-10-23T15:44:18.051849+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJNXwbjggBBDQRtlWcLHicq9o",
+    "types": [
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9638 1635",
+    "internationalPhoneNumber": "+852 9638 1635",
+    "formattedAddress": "香港九龍塘尾鴨寮街88號",
+    "location": {
+      "latitude": 22.3283839,
+      "longitude": 114.1646102
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=15756859761244263862&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://theedibleprojects.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 18:00",
+        "星期二: 休息",
+        "星期三: 12:00 – 14:00",
+        "星期四: 休息",
+        "星期五: 11:00 – 18:00",
+        "星期六: 11:00 – 18:00",
+        "星期日: 11:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 23,
+    "displayName": {
+      "text": "秀樺廚房",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "食品",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "food",
+    "reviews": [
+      {
+        "name": "places/ChIJNXwbjggBBDQRtlWcLHicq9o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poVU5ubG1lVEkwV2tKQk9HcEZjMDVvY1ZWUlQzYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今日有幸蒞臨午餐,各種食物色香味俱全,環境優雅,原來背後還有一個更深層次使命,幫助了不少基層人士,真是難得,還有紀念物品及真空湯包小食包可選購,真係太方便我們這些打工仔🤗",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日有幸蒞臨午餐,各種食物色香味俱全,環境優雅,原來背後還有一個更深層次使命,幫助了不少基層人士,真是難得,還有紀念物品及真空湯包小食包可選購,真係太方便我們這些打工仔🤗",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Denon",
+          "uri": "https://www.google.com/maps/contrib/110464975589149993970/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBN8hOJdIFon6eJiWgEkjVgXuI6Ojw9_4m_WxNYAdOLLefgt9omA=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-06-17T09:40:35.835486159Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poVU5ubG1lVEkwV2tKQk9HcEZjMDVvY1ZWUlQzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poVU5ubG1lVEkwV2tKQk9HcEZjMDVvY1ZWUlQzYxAB!2m1!1s0x340401088e1b7c35:0xdaab9c782c9c55b6"
+      },
+      {
+        "name": "places/ChIJNXwbjggBBDQRtlWcLHicq9o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paUmNqSTROamR1ZEhWS1l6Tkpaa2RYUjNjd09GRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "老闆超棒的，有愛心有熱誠，幫助弱勢群體，能有一技之長，貢獻社會。\n昨日的私人聚餐，圓滿的招待了由內陸來的特殊孩子家庭，相信那祝福會一直延續下去。\n一個有愛的餐廳，大家一定要支持喔！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "老闆超棒的，有愛心有熱誠，幫助弱勢群體，能有一技之長，貢獻社會。\n昨日的私人聚餐，圓滿的招待了由內陸來的特殊孩子家庭，相信那祝福會一直延續下去。\n一個有愛的餐廳，大家一定要支持喔！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "jong wang",
+          "uri": "https://www.google.com/maps/contrib/114679581940008204870/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhuBy9ovOUDqpNbF0I0N5R-Vo4R_8sKTkEIL-6mK-AVughzw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-08-12T04:46:53.117968068Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paUmNqSTROamR1ZEhWS1l6Tkpaa2RYUjNjd09GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paUmNqSTROamR1ZEhWS1l6Tkpaa2RYUjNjd09GRRAB!2m1!1s0x340401088e1b7c35:0xdaab9c782c9c55b6"
+      },
+      {
+        "name": "places/ChIJNXwbjggBBDQRtlWcLHicq9o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taV1Vta3pjakp1TXpaeE5USjNRa000TldwWWVrRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "蛋糕很好吃，抹茶latte的拉花也很花心思！\n店員很認真努力工作，簡直令人有點感動🥰\n生命有很多東西不是理所當然的，一餐甜品、一杯抹茶鮮奶、一個笑容，真的也很值得感恩🪷",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "蛋糕很好吃，抹茶latte的拉花也很花心思！\n店員很認真努力工作，簡直令人有點感動🥰\n生命有很多東西不是理所當然的，一餐甜品、一杯抹茶鮮奶、一個笑容，真的也很值得感恩🪷",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ophelie",
+          "uri": "https://www.google.com/maps/contrib/115483451128778405303/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-BdBEFdEb-dsbZCCsIj1ZSx7W7apoUp2sUMhxo3IzLnJB7-x3=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-06-23T16:41:05.946170176Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taV1Vta3pjakp1TXpaeE5USjNRa000TldwWWVrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taV1Vta3pjakp1TXpaeE5USjNRa000TldwWWVrRRAB!2m1!1s0x340401088e1b7c35:0xdaab9c782c9c55b6"
+      },
+      {
+        "name": "places/ChIJNXwbjggBBDQRtlWcLHicq9o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkUE9GbFJOMHRWYURkcVRGbFdXWFE1V25adWVIYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "職員好有禮貌\n嘢食都唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "職員好有禮貌\n嘢食都唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "A C",
+          "uri": "https://www.google.com/maps/contrib/101076247144974977219/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLzWSELmapbqbFkEmd5s1c8OkvO85pzYm07JFoBYOrozC_2Lg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-08T06:47:04.085012602Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkUE9GbFJOMHRWYURkcVRGbFdXWFE1V25adWVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkUE9GbFJOMHRWYURkcVRGbFdXWFE1V25adWVIYxAB!2m1!1s0x340401088e1b7c35:0xdaab9c782c9c55b6"
+      },
+      {
+        "name": "places/ChIJNXwbjggBBDQRtlWcLHicq9o/reviews/ChZDSUhNMG9nS0VJQ0FnSURMMGJlTEVBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "給自己一個機會，嘗試親切的服務，有水準的食物，舒適的用餐環境 🩷👍🏻 元貝和甜品，是我的心水推介 😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "給自己一個機會，嘗試親切的服務，有水準的食物，舒適的用餐環境 🩷👍🏻 元貝和甜品，是我的心水推介 😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "hei mei leung",
+          "uri": "https://www.google.com/maps/contrib/112216936677809954461/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLLkyaqdH7z_dohxdTa7uD1bt4ElihCj3g4nLwt61BPuZEVHg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-06-28T13:16:27.254958Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMMGJlTEVBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMMGJlTEVBEAE!2m1!1s0x340401088e1b7c35:0xdaab9c782c9c55b6"
+      }
+    ],
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401088e1b7c35:0xdaab9c782c9c55b6!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15756859761244263862&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401088e1b7c35:0xdaab9c782c9c55b6!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401088e1b7c35:0xdaab9c782c9c55b6!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401088e1b7c35:0xdaab9c782c9c55b6!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJNXwbjggBBDQRtlWcLHicq9o/photos/Aa-ngMbP_wjmQ112i1AMV1F3q3d67eeIdK3j9CpYGLo6zoR8Uh8DqJW00z5TRbpO36qNx8GwoR9DOZF8ZrR4aJqvSPEwqPgGJ9xCLr2yIehcXldCml-lC4RFastpNFjMdTZAEO68IaDtUsbuY99CPxMzEW7joOjFnBtkCHPlb_4w-osmTui1gHoUYsHsHj5UhUD46C938WAmDopLIr82gBysWgO7LZEuk1Z13J4buuU2BZ_66VMcOinnbHMj4BRIivphq8Jd_BGA0c3Klb8LJs8Vs6DsiivYmWGbLVMVLooplR3BvIBOFpKgw3xA5U_8UMANkmwbBRBdlOdSGh1THpd5R1CHSKb37lOkFfJnRpSiFUaYPWevmqncmlPFB9PC87xMkk9s7lVZOyKzUbHnx6ILo-2BnrESIuz7UpT0G5Q4mP-Zww",
+      "widthPx": 3557,
+      "heightPx": 2668,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBy3aFsZCOakuLjtWy5msqF&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBy3aFsZCOakuLjtWy5msqF!2e10!4m2!3m1!1s0x340401088e1b7c35:0xdaab9c782c9c55b6"
+    },
+    "local_path": "photos/ChIJNXwbjggBBDQRtlWcLHicq9o.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfum0cYjVw870aBEpxIDcsDzJNe7WxRklLBPDxhLIhsf1MDRbf5jTgt8kzgJM-O88nps4yA0byUMUD5rBLwvh2bQruGTJTZqr0dymliEXNcDus9yQunke4FRM1EyKUvydkexhQaHPR1MkNd=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 143218
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "food",
+    "label": "食品",
+    "types": [
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJ13oT2I8BBDQRPZw2PYyTklc",
+  "restaurant_ids": [
+    "restaurant:2261821871"
+  ],
+  "fetched_at": "2026-10-23T15:44:34.925912+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ13oT2I8BBDQRPZw2PYyTklc",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3619 1281",
+    "internationalPhoneNumber": "+852 3619 1281",
+    "formattedAddress": "香港九龍尖沙咀河內道18號K11 購物藝術館Shop 221, 2/F",
+    "location": {
+      "latitude": 22.297429899999997,
+      "longitude": 114.17375369999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=6310268258431179837&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/tastekometaki/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 22:00",
+        "星期二: 12:00 – 22:00",
+        "星期三: 12:00 – 22:00",
+        "星期四: 12:00 – 22:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 12:00 – 22:00",
+        "星期日: 12:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 136,
+    "displayName": {
+      "text": "米炊 (K11 購物藝術館)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ13oT2I8BBDQRPZw2PYyTklc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5NFdVMTBaV04yYzFGamNsZFNSVGhoWDJGc2JuYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "座落於IFC商場，地點很方便，食物味道也很不錯！小朋友食得好開心",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "座落於IFC商場，地點很方便，食物味道也很不錯！小朋友食得好開心",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "S. YIP",
+          "uri": "https://www.google.com/maps/contrib/111294374232344108472/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIU9K-3bbAVeccz1hhAoGsmTkyd3OyUDP_HGBkw8G-50MJJLA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-01T04:17:49.271349729Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5NFdVMTBaV04yYzFGamNsZFNSVGhoWDJGc2JuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5NFdVMTBaV04yYzFGamNsZFNSVGhoWDJGc2JuYxAB!2m1!1s0x3404018fd8137ad7:0x5792938c3d369c3d"
+      },
+      {
+        "name": "places/ChIJ13oT2I8BBDQRPZw2PYyTklc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Cck5tcExObEJNV0d0WVJHcHBUMWxFU2tsTFFtYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "搬鋪之後水準keep到，環境更舒適，更大，安靜\n味道都同之前一樣，keep到，服務態度好，有問有答\n會再返來食的，推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "搬鋪之後水準keep到，環境更舒適，更大，安靜\n味道都同之前一樣，keep到，服務態度好，有問有答\n會再返來食的，推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Fungsley",
+          "uri": "https://www.google.com/maps/contrib/117537834910945808917/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI9Ic6e8wLCvU3bOq3u6PMDVmNW2_jRZ0lROh1NYeLcJc2OVw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-07T04:22:43.537868583Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Cck5tcExObEJNV0d0WVJHcHBUMWxFU2tsTFFtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Cck5tcExObEJNV0d0WVJHcHBUMWxFU2tsTFFtYxAB!2m1!1s0x3404018fd8137ad7:0x5792938c3d369c3d"
+      },
+      {
+        "name": "places/ChIJ13oT2I8BBDQRPZw2PYyTklc/reviews/ChZDSUhNMG9nS0VPeks2dUxveDZEWkhREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "食過太古城的米炊,兩間店的食物一貫有水準！\n咖喱蛋包飯好味！成碟食晒🤣清咗！\n吃了同伴們的！也不錯！\n店員給了一個比較熱的位置！我認為近窗邊位置會好啲！唯一最唔好就係K11呢度九點開始收枱！\n九點三已經全場都冇人！如果想坐耐啲唔好揀呢度食飯！太早收！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食過太古城的米炊,兩間店的食物一貫有水準！\n咖喱蛋包飯好味！成碟食晒🤣清咗！\n吃了同伴們的！也不錯！\n店員給了一個比較熱的位置！我認為近窗邊位置會好啲！唯一最唔好就係K11呢度九點開始收枱！\n九點三已經全場都冇人！如果想坐耐啲唔好揀呢度食飯！太早收！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yuenling ho",
+          "uri": "https://www.google.com/maps/contrib/112277494558893812903/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUP3OxVnzdmHIMhTfFJruaDgIrCdPCsUINcdcVMlFpzkZLCI9Y=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2025-05-29T14:26:10.770978Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VPeks2dUxveDZEWkhREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VPeks2dUxveDZEWkhREAE!2m1!1s0x3404018fd8137ad7:0x5792938c3d369c3d"
+      },
+      {
+        "name": "places/ChIJ13oT2I8BBDQRPZw2PYyTklc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsNDlmd0VREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "諗住在K11 Art Mall溜完再去食個車仔麵，在1樓行深入去，才發現到有這家店。起初是給門口promotion 吸引，最後和老婆一起叫咗個牛魔王，牛扒🥩和牛柳算是不錯有牛咩，牛脷爽口。咖喱店味道算不錯，只是蛋味唔夠濃。餐牌裏還有可以許多選擇，下次可再試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "諗住在K11 Art Mall溜完再去食個車仔麵，在1樓行深入去，才發現到有這家店。起初是給門口promotion 吸引，最後和老婆一起叫咗個牛魔王，牛扒🥩和牛柳算是不錯有牛咩，牛脷爽口。咖喱店味道算不錯，只是蛋味唔夠濃。餐牌裏還有可以許多選擇，下次可再試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ko Pui Fung",
+          "uri": "https://www.google.com/maps/contrib/100309879671360092057/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKVZzU6XZxZDPi84t2tCCfATaSJT3MFjRnb3a861KJkwtwxtA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-11-26T05:16:17.915051Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsNDlmd0VREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsNDlmd0VREAE!2m1!1s0x3404018fd8137ad7:0x5792938c3d369c3d"
+      },
+      {
+        "name": "places/ChIJ13oT2I8BBDQRPZw2PYyTklc/reviews/ChZDSUhNMG9nS0VJQ0FnSURIa3Byd05REAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "藏於K11內的隱世蛋包飯 厚切牛舌非常好吃\n\nDinner @ 29 AUG 2024 (Thursday)\n\n位於K11的米炊非常隱世，位於一樓的K11 Secret內，從外面看進去根本不會發現巷子盡頭有餐廳。可能因為這個原因，人流也相對較少，Walk-in也相信不用等位。\n\n蛋6 - 烤特上M4和牛腰柳。特上一吋牛脷 $168\n\n米飯可選北海道七星夢美人白飯或日本十六穀飯，還有一個隱藏選項，可以改選烚野菜，變成蛋包菜，感覺有趣可惜旋風蛋裡面只有兩大塊西蘭花，不太滿足。旋風蛋剛剛熟，還有蛋漿，蛋味十足，非常好吃。和牛腰柳是較瘦的部位，大約五成熟，有咬口也有牛味。最令人驚喜的是特上一吋牛脷，相當厚身，口感十足，配上微酸的蘋果燒汁，非常好吃。\n\n餐廳的服務非常周到，不時主動為客人添水和收拾桌面。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "藏於K11內的隱世蛋包飯 厚切牛舌非常好吃\n\nDinner @ 29 AUG 2024 (Thursday)\n\n位於K11的米炊非常隱世，位於一樓的K11 Secret內，從外面看進去根本不會發現巷子盡頭有餐廳。可能因為這個原因，人流也相對較少，Walk-in也相信不用等位。\n\n蛋6 - 烤特上M4和牛腰柳。特上一吋牛脷 $168\n\n米飯可選北海道七星夢美人白飯或日本十六穀飯，還有一個隱藏選項，可以改選烚野菜，變成蛋包菜，感覺有趣可惜旋風蛋裡面只有兩大塊西蘭花，不太滿足。旋風蛋剛剛熟，還有蛋漿，蛋味十足，非常好吃。和牛腰柳是較瘦的部位，大約五成熟，有咬口也有牛味。最令人驚喜的是特上一吋牛脷，相當厚身，口感十足，配上微酸的蘋果燒汁，非常好吃。\n\n餐廳的服務非常周到，不時主動為客人添水和收拾桌面。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Daisy Chan",
+          "uri": "https://www.google.com/maps/contrib/106108649531629787324/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUckfq7oECPYSnyZBpkJmFAm1U_sRgxDn_Q3vh7iQvuLkc3_riK=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-09-14T05:40:37.915831Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIa3Byd05REAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIa3Byd05REAE!2m1!1s0x3404018fd8137ad7:0x5792938c3d369c3d"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404018fd8137ad7:0x5792938c3d369c3d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=6310268258431179837&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404018fd8137ad7:0x5792938c3d369c3d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404018fd8137ad7:0x5792938c3d369c3d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404018fd8137ad7:0x5792938c3d369c3d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ13oT2I8BBDQRPZw2PYyTklc/photos/Aa-ngMZ5DyHc5emJnHwbztSVAe-ZjGH59UEe0ogYmnjloQCwm5B9bF7CrlEGgD9yXp1TpGP6mWAwiGNVWdkx4PBQioWGXSbdaBgUH0ooyIjCydI3hyzcwLrL8QzTNDxeq2FQfQMFG8uxklNcoUMOJEB3o6iEJgegOpy204VmUMUh4EKyNeAWvK0_Tjlplow5Xan_VISEsL0REDDGhYkoFaVdTMk0i8aupzyycoD4JqcGOt9qac0YXNxmeFgvGFJOl8hLgXY7Ckb_AZHbjzt30ykPN6dWbj0Yunu3jb9tfSMkWYYsVtO5Q4HpVjdpFzAt5ih56j5sm1iveJVIeRLLav9rs1VZfuTWObieq9YtOtkdSYH5F3WWHUcsjni1lhDnETH0ahfesCdh_ejZkekHbrZ8Lmh1Bzqx",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "HN Mak",
+          "uri": "https://maps.google.com/maps/contrib/113755905351863443644",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJa5OVPMKr362uLz8pNlH0QKdQ5blqyTS8yAO65835auwhbCmlR=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICZ9pfSyQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ9pfSyQE!2e10!4m2!3m1!1s0x3404018fd8137ad7:0x5792938c3d369c3d"
+    },
+    "local_path": "photos/ChIJ13oT2I8BBDQRPZw2PYyTklc.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBWzmpZjZ5OJg_sVJtihNQj5sCJ7rhEUQT9Q8d6YWMOBsagMQddOKKxfu-BkBKtB8twF1MGAbfuPVe1f5z9JgLAM3pS4YT1wsEwkGm5ASd9TayIF1ecH1tXAZ2cLS4QuAyGsJE=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 99327
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

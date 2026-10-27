@@ -1,0 +1,339 @@
+{
+  "google_place_id": "ChIJHbJzQgUBBDQRfW-ykB1YYrU",
+  "restaurant_ids": [
+    "restaurant:3111803771"
+  ],
+  "fetched_at": "2026-10-23T15:49:26.520064+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJHbJzQgUBBDQRfW-ykB1YYrU",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2512 2398",
+    "internationalPhoneNumber": "+852 2512 2398",
+    "formattedAddress": "香港香港島北角",
+    "location": {
+      "latitude": 22.2913428,
+      "longitude": 114.2021832
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=13070105952587509629&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.starbucks.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 22:00",
+        "星期二: 07:00 – 22:00",
+        "星期三: 07:00 – 22:00",
+        "星期四: 07:00 – 22:00",
+        "星期五: 07:00 – 22:00",
+        "星期六: 08:00 – 22:00",
+        "星期日: 08:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 325,
+    "displayName": {
+      "text": "星巴克 (成坤廣場)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": false,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "editorialSummary": {
+      "text": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJHbJzQgUBBDQRfW-ykB1YYrU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEenRtcDFBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "外賣兩款蛋糕🍰好味",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "外賣兩款蛋糕🍰好味",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eatravelgood",
+          "uri": "https://www.google.com/maps/contrib/116431579987918716810/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3SBga_GgpEhGdyIhqudSUO3f2vJfLZ6G1C1ruEyOqKgs12hM=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-03-28T10:12:02.283069Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEenRtcDFBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEenRtcDFBRRAB!2m1!1s0x340401054273b21d:0xb562581d90b26f7d"
+      },
+      {
+        "name": "places/ChIJHbJzQgUBBDQRfW-ykB1YYrU/reviews/Ci9DQUlRQUNvZENodHljRjlvT214WVNFVjFZMmhxYkZkSWFpMVhPRzFGU3pBNFptYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "交通方便 環境幽靜 座位舒適 服務幾好 價錢同其他分店一樣 適合約朋友飲咖啡 大家交談聚會嘅地方 一個人亦可以靜靜飲咖啡食甜品 玩手機電腦或者觀賞英皇道人來人往嘅狀況",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "交通方便 環境幽靜 座位舒適 服務幾好 價錢同其他分店一樣 適合約朋友飲咖啡 大家交談聚會嘅地方 一個人亦可以靜靜飲咖啡食甜品 玩手機電腦或者觀賞英皇道人來人往嘅狀況",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Victor Chan",
+          "uri": "https://www.google.com/maps/contrib/103885089317816571601/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtu1ej8i4E0l1hvLQzQy83-K83kEWzjwSQ2FM4DDYg0ervM2WEvQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-09-04T02:34:28.266110610Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214WVNFVjFZMmhxYkZkSWFpMVhPRzFGU3pBNFptYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214WVNFVjFZMmhxYkZkSWFpMVhPRzFGU3pBNFptYxAB!2m1!1s0x340401054273b21d:0xb562581d90b26f7d"
+      },
+      {
+        "name": "places/ChIJHbJzQgUBBDQRfW-ykB1YYrU/reviews/ChdDSUhNMG9nS0VJQ0FnSURDdGVQYzJnRRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "碼頭旁邊，休閒坐着飲杯咖啡，看看海",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "碼頭旁邊，休閒坐着飲杯咖啡，看看海",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ck",
+          "uri": "https://www.google.com/maps/contrib/110046349667273025996/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImhNaUEwLDKRwj-HUGfPL9WwMzKO60xSlMwUp6gMut27LTjw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2020-10-06T02:42:54.298749Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURDdGVQYzJnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURDdGVQYzJnRRAB!2m1!1s0x340401054273b21d:0xb562581d90b26f7d"
+      },
+      {
+        "name": "places/ChIJHbJzQgUBBDQRfW-ykB1YYrU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCbmZ5VWV3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "食物飲料質素穩定不錯，環境適合打發時間或者做正事或聊天等，但服務質素是根據分店還有時期而定。感覺欠缺員工培訓，有些員工欠缺基本禮貌，有下單問題，并不知道規則。\n\n官方客服以及新聞表示沒買飲料食物也能坐下來，但有些分店會趕客，最經典試過只趕我的那一臺，其他沒買飲料食物的人沒趕走，但我們就坐著沒大聲聊天什麼的。雖然不是每一家分店都這樣，對於我這些幾乎一天買一杯的人感覺不太好。於Yoho,勝利道等試過只趕一臺。然後其他分店基本上不定期按員工喜好決定趕不趕\n\n見過有些分店笑客人讀錯字，當著客人臉跟其他員工說。於K11分店\n\n見過員工A在我面前叫員工B去做蘑菇包，然後B做好後，A就告訴B早已經做好了讓B拿回去櫃子去。（櫃子裡的食物可能丁完在丁幾次）於太古分店\n\n多次説走cream照加cream，要去冰沒去冰。有買飲料的情況下請求一杯大水，然後比最小型號那種杯子（大杯這個詞語連tall size都不值得嗎？）於大部分分店基本都試過，記不住。包括親身經歷以及朋友分享",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物飲料質素穩定不錯，環境適合打發時間或者做正事或聊天等，但服務質素是根據分店還有時期而定。感覺欠缺員工培訓，有些員工欠缺基本禮貌，有下單問題，并不知道規則。\n\n官方客服以及新聞表示沒買飲料食物也能坐下來，但有些分店會趕客，最經典試過只趕我的那一臺，其他沒買飲料食物的人沒趕走，但我們就坐著沒大聲聊天什麼的。雖然不是每一家分店都這樣，對於我這些幾乎一天買一杯的人感覺不太好。於Yoho,勝利道等試過只趕一臺。然後其他分店基本上不定期按員工喜好決定趕不趕\n\n見過有些分店笑客人讀錯字，當著客人臉跟其他員工說。於K11分店\n\n見過員工A在我面前叫員工B去做蘑菇包，然後B做好後，A就告訴B早已經做好了讓B拿回去櫃子去。（櫃子裡的食物可能丁完在丁幾次）於太古分店\n\n多次説走cream照加cream，要去冰沒去冰。有買飲料的情況下請求一杯大水，然後比最小型號那種杯子（大杯這個詞語連tall size都不值得嗎？）於大部分分店基本都試過，記不住。包括親身經歷以及朋友分享",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Beebx Beebx",
+          "uri": "https://www.google.com/maps/contrib/108739700668561804329/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOLDp9oxC226uw1b46Vxa6zamXTOE6w7iX7pyw4ZTcCAudiw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-01-02T02:16:57.782072Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCbmZ5VWV3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCbmZ5VWV3EAE!2m1!1s0x340401054273b21d:0xb562581d90b26f7d"
+      },
+      {
+        "name": "places/ChIJHbJzQgUBBDQRfW-ykB1YYrU/reviews/ChZDSUhNMG9nS0VJQ0FnSURpdXVLMUhBEAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "平日19：15不定時大特價，兩個沙律加濶條麵，只售$43(節省了$135）。\n其他還有漢堡包及酥餅，任揀三件都係$43。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平日19：15不定時大特價，兩個沙律加濶條麵，只售$43(節省了$135）。\n其他還有漢堡包及酥餅，任揀三件都係$43。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "chui ming",
+          "uri": "https://www.google.com/maps/contrib/110415264317781661895/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKe-MD-6MMQ7rveJGLzNRDVLLrJEPsUlnAMUpjHXuEmF4Sg_Q=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2020-12-02T11:50:33.444080Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURpdXVLMUhBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURpdXVLMUhBEAE!2m1!1s0x340401054273b21d:0xb562581d90b26f7d"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401054273b21d:0xb562581d90b26f7d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13070105952587509629&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401054273b21d:0xb562581d90b26f7d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401054273b21d:0xb562581d90b26f7d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401054273b21d:0xb562581d90b26f7d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJHbJzQgUBBDQRfW-ykB1YYrU/photos/Aa-ngMZjy2xZ1Fo_HBfG3F7tLb-kJRJBPO8LieOCkKNW0BH8LqaTjw9c4wvsMnRJWGHzTFWqc_v05IIYlHfvRQaaDT7bnondlnD8fwAXjk3l_olPtLWkELvWYSt2HDcWnarDPN7WOW0AT6bceZzeTI_eqkDuUm0xQZ688RHlOEVH8DQTmV_fIbK9jnWpm-f8dMiuS7hoc0FcgrdXnWvrZQpsWIztWYRUGqGgMQiAV0ZwJCpw9EhOqfcp98L-lyoI9D5UZmLAfFymFzqUHXCmF6lRfvSDsAUyzBGnyKCzsdkWz9iByJCYS9yHSOrsa_0ErqupcioEj4yyg5v7l2EzfYMzBLbxwkljnb5LA0j86_pToUnFYn3y8B02MQueUebYSBpxoDYztsR9-yMKY-_ZwAvbwyEx74w",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "F L",
+          "uri": "https://maps.google.com/maps/contrib/111371499899554356672",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf3e2p1MOwP3wWJzIIQ7bXyxeG4Nqn4ts4kQ-QtGSuGRbjgiWlog=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDIydfKfQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIydfKfQ!2e10!4m2!3m1!1s0x340401054273b21d:0xb562581d90b26f7d"
+    },
+    "local_path": "photos/ChIJHbJzQgUBBDQRfW-ykB1YYrU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjvwl3n1_ErgW3XeZO_zJuqVxd2ZJvyiWLbKSGWP4eJ8WRg5iztmgRohlqLEyPMMV4fcTWazkbLgT3xcDNtwAl1P8lUcqIub5eKBcwFAs8eVuKrDvoeVvJB1hu_4VK3snGuXmQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 150638
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

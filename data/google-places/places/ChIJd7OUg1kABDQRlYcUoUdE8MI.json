@@ -1,0 +1,303 @@
+{
+  "google_place_id": "ChIJd7OUg1kABDQRlYcUoUdE8MI",
+  "restaurant_ids": [
+    "restaurant:2212813948"
+  ],
+  "fetched_at": "2026-10-23T15:46:37.996025+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJd7OUg1kABDQRlYcUoUdE8MI",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2827 9633",
+    "internationalPhoneNumber": "+852 2827 9633",
+    "formattedAddress": "香港香港島灣仔港灣道30號",
+    "location": {
+      "latitude": 22.280391599999998,
+      "longitude": 114.1769259
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=14046802312204421013&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.shkp.com/zh-HK",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 21:30",
+        "星期二: 07:00 – 21:30",
+        "星期三: 07:00 – 21:30",
+        "星期四: 07:00 – 21:30",
+        "星期五: 07:00 – 21:30",
+        "星期六: 07:00 – 21:30",
+        "星期日: 07:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 1126,
+    "displayName": {
+      "text": "新鴻基中心商場",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "大型購物中心",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "shopping_mall",
+    "editorialSummary": {
+      "text": "位於辦公大樓低樓層的零售商場，設有商店和餐廳。",
+      "languageCode": "zh-TW"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJd7OUg1kABDQRlYcUoUdE8MI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxNGVYTk1la3d6T0VWbGJsZ3RkMmd5WVdKZlRuYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這個商場目前沒什麼人流, 應該京東Mall開張後情況會很不同",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這個商場目前沒什麼人流, 應該京東Mall開張後情況會很不同",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "顏麗華",
+          "uri": "https://www.google.com/maps/contrib/106645471826207108444/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVutF84PVb45BsUv9If7didLfdBjZ5B-6OH8lth1BdyQMI4exI=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-30T06:57:17.647893593Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxNGVYTk1la3d6T0VWbGJsZ3RkMmd5WVdKZlRuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxNGVYTk1la3d6T0VWbGJsZ3RkMmd5WVdKZlRuYxAB!2m1!1s0x340400598394b377:0xc2f04447a1148795"
+      },
+      {
+        "name": "places/ChIJd7OUg1kABDQRlYcUoUdE8MI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiek9iWndBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "有多間食肆以及chill下酒吧,地點方便近地鐵站及中西區海濱長廊",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有多間食肆以及chill下酒吧,地點方便近地鐵站及中西區海濱長廊",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Philip",
+          "uri": "https://www.google.com/maps/contrib/111010599846285762683/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTjHbtluOQiF_Y00uf71ra2s8Ipxmb8ZUJcPuzd-a3Kj4kpKjInQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-07-24T05:23:04.385262Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiek9iWndBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiek9iWndBRRAB!2m1!1s0x340400598394b377:0xc2f04447a1148795"
+      },
+      {
+        "name": "places/ChIJd7OUg1kABDQRlYcUoUdE8MI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOV2QzbEtkRWMxWlUxdVQzZG1RMEp4WjBseFZVRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "管理非常好的一個商場\n這裏時刻保持清潔\n無論是公眾地方，或是洗手間地方都是一絲不苟\n這是一貫新鴻基物業的特色",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "管理非常好的一個商場\n這裏時刻保持清潔\n無論是公眾地方，或是洗手間地方都是一絲不苟\n這是一貫新鴻基物業的特色",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mong Tung",
+          "uri": "https://www.google.com/maps/contrib/110771854490228721711/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvT4fmNNmDm-kMGOD4BwCDcxSd2qW9bC2h4YQcPrB14ehuuvs=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-07T03:01:44.065216812Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOV2QzbEtkRWMxWlUxdVQzZG1RMEp4WjBseFZVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOV2QzbEtkRWMxWlUxdVQzZG1RMEp4WjBseFZVRRAB!2m1!1s0x340400598394b377:0xc2f04447a1148795"
+      },
+      {
+        "name": "places/ChIJd7OUg1kABDQRlYcUoUdE8MI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZdTlpdm9RRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 5,
+        "text": {
+          "text": "新鴻基中心（英文：Sun Hung Kai Centre，別稱新鴻基大廈）是香港一間摩天大樓，位於灣仔港灣道30號。\n\n新鴻基中心於1981年分3期落成，由新鴻基工程有限公司設計，大樓高214.5米，初時樓高48層，後來加至53層，總面積53,400平方呎，為灣仔北最早期發展的甲級商廈之一，亦為新鴻基地產集團和附屬公司的總部和瑞士蓮（大昌華嘉集團）之所在地。大樓早年由政府租用了約十萬平方呎樓面，租金每月130萬。[1]\n\n大樓鄰近多個主要的政府部門、香港貿易發展局、緬甸駐港總領事館、俄羅斯駐港總領事館、巴西駐港總領事館等公營機構。新鴻基中心落成時原本樓高48層，1991年加建5層至53層，樓高215米。\n新鴻基中心的地下至2樓還設有購物商場。商場曾設影藝戲院，於1988年7月8日開業，是當時香港第一間採用多間戲院銀幕設計的戲院，放映非主流電影為主。戲院到了2006年11月因租約期滿結業。商場現有的租戶包括萬寧、滙豐銀行、歌帝梵巧克力專門店、7-11便利店及快圖美。食肆包括蘇浙滙、Oliver's Super Sandwiches、Starbucks、味千拉麵、大快活、板長壽司、麥當勞、Ramas Oyster Bar & Grill及海都海鮮酒家等。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "新鴻基中心（英文：Sun Hung Kai Centre，別稱新鴻基大廈）是香港一間摩天大樓，位於灣仔港灣道30號。\n\n新鴻基中心於1981年分3期落成，由新鴻基工程有限公司設計，大樓高214.5米，初時樓高48層，後來加至53層，總面積53,400平方呎，為灣仔北最早期發展的甲級商廈之一，亦為新鴻基地產集團和附屬公司的總部和瑞士蓮（大昌華嘉集團）之所在地。大樓早年由政府租用了約十萬平方呎樓面，租金每月130萬。[1]\n\n大樓鄰近多個主要的政府部門、香港貿易發展局、緬甸駐港總領事館、俄羅斯駐港總領事館、巴西駐港總領事館等公營機構。新鴻基中心落成時原本樓高48層，1991年加建5層至53層，樓高215米。\n新鴻基中心的地下至2樓還設有購物商場。商場曾設影藝戲院，於1988年7月8日開業，是當時香港第一間採用多間戲院銀幕設計的戲院，放映非主流電影為主。戲院到了2006年11月因租約期滿結業。商場現有的租戶包括萬寧、滙豐銀行、歌帝梵巧克力專門店、7-11便利店及快圖美。食肆包括蘇浙滙、Oliver's Super Sandwiches、Starbucks、味千拉麵、大快活、板長壽司、麥當勞、Ramas Oyster Bar & Grill及海都海鮮酒家等。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kevin Hsiung",
+          "uri": "https://www.google.com/maps/contrib/113621026559378065870/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjIGdOmFqyGUXok1CS_Wjx0EhXWmPs-qJ70K9oFjUBFLZp5HVqbQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2019-04-21T13:17:08.961849Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNZdTlpdm9RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNZdTlpdm9RRRAB!2m1!1s0x340400598394b377:0xc2f04447a1148795"
+      },
+      {
+        "name": "places/ChIJd7OUg1kABDQRlYcUoUdE8MI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUdnFTb3FnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "從遠處看到這棟的造型就被迷住了\n趕緊來到附近拍照 真的漂亮！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "從遠處看到這棟的造型就被迷住了\n趕緊來到附近拍照 真的漂亮！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Booker.L",
+          "uri": "https://www.google.com/maps/contrib/103526129210399997642/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0OC0kTqg-WRmdgMtBslbEAO0WjlzekQpzKxYgnnxH_qYQ0yE=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-05-15T08:30:12.551486Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUdnFTb3FnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUdnFTb3FnRRAB!2m1!1s0x340400598394b377:0xc2f04447a1148795"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400598394b377:0xc2f04447a1148795!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14046802312204421013&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400598394b377:0xc2f04447a1148795!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400598394b377:0xc2f04447a1148795!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400598394b377:0xc2f04447a1148795!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJd7OUg1kABDQRlYcUoUdE8MI/photos/Aa-ngMb-wclY60vfRg-22Lr9V2Evr9V2Vq5IeFj40g29Yu-B7SccU4hOkMETXc89mL41NiPhAclh1lUnMN37zgkWhVln5J7NAc_RzFSRNUb7rtu2aZKLm11aLRZxQT95KxB1Pal1wkOjHFd22MttET0qmlyRO5cOMNSyOaepYr1dYWSu80p18o-bv6jTVumJ0rj6CN8oxmtYvUVl7OI44jED9sOYYb-r4bATUlyjgGNM551cIOPrBaAvlSjclbjDMCRZn16der6O5AcpeYebIkFUrwrpykFsihmE0Gy55sgzO4QepvmRTRh4HIbupzPuoT1M2FXFA-dV4b-ParBxvCbTZCcU4Dn-j15rMo_lUchwnf3vHVphgc0qiKtW5_1yCbp-YSXyvTZdleZTkTd6cGsqk_H5thU",
+      "widthPx": 4624,
+      "heightPx": 3472,
+      "authorAttributions": [
+        {
+          "displayName": "Lai Jimmy",
+          "uri": "https://maps.google.com/maps/contrib/115972848281311666751",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBjX3-LVGMN6hb-SXnyKeU2CHps1hvde6Ium-PVr74yiGtKjV69g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICWhP2nKg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWhP2nKg!2e10!4m2!3m1!1s0x340400598394b377:0xc2f04447a1148795"
+    },
+    "local_path": "photos/ChIJd7OUg1kABDQRlYcUoUdE8MI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLelFkOESlJCOsnlxq38cuhzJd2g-5nq4lChPye8IWEuzsmYqOIjN727_lF_23-LTN_gcK8lWsx2NQGSWXfXxbyYCVyyrj9Gqwc7HuyhulZvbzTqgx9csJZoavYAgYQXj9eyFUnA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 156075
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "shopping_mall",
+    "label": "大型購物中心",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ08t9nqoBBDQRgjiKCDR99VI",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍觀塘偉業街93號93WYS, 23/F",
+  "location": {
+    "latitude": 22.3164034,
+    "longitude": 114.21477519999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5977821742839249026&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "貓季酒店",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJ08t9nqoBBDQRgjiKCDR99VI/photos/Aa-ngMbzFnHt3jFx_f2cikfSksvgHnVyc4YvzbkEjl8q9hAl-j3-WZVCq__VMjK0K0CLNtdap_cuq6z8v6L3o7h-g_u72HWAhGxJhvkT8hVldJ-FskxonLYcWGy2osL3-aDHuP2Szedw1U8J9aDztP513eTGKqk07AjehE3CO6Gp1PCwD9E04MvMLPdSQ5wDc6BVxRV-P3xh5PcYwJgdRCn94STAUXEjHtM37LhndulxOUVCX82FsTDVSlPJ7IvovBn9ohX4XlwkHJV1i3BOQo8tndLopfcIzntZShR2U44o0IzKqmdJcod9eKKTyDN3qEJBTVIUuHDggmrvgpFluxwsinr8bLiI_v7sj-el9-ocTuu0SCQH1G5Lz2NvIRnzlEtjKcFSvPN88NU26LXONIJ1qmjeAQ",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "貓季酒店",
+          "uri": "https://maps.google.com/maps/contrib/105711248319250064353",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBGhSPPYThypzl3ke9EcLDeySBZYDh6p_yXTxnl6GzJLBPDKg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC61J3tQw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC61J3tQw!2e10!4m2!3m1!1s0x340401aa9e7dcbd3:0x52f57d34088a3882"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:09.665383+00:00"
+}

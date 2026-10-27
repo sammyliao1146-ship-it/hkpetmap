@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ83BJ5NsGBDQRayUGXI9yi3c",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍竹園鳳德道42號",
+  "location": {
+    "latitude": 22.342613,
+    "longitude": 114.19801
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8614104672326002027&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "鳳德公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJ83BJ5NsGBDQRayUGXI9yi3c/photos/Aa-ngMYUiyadkWDGWFKybE8ktwijg0_z1ywSQFBLJWTWkoRIKoJq9i8fDxUEpF1RVw2amOBUS39NIl6_1iwMl1FxgkiMopyrGnA2PlShuRwF3QxOVs2nQpypozZVMOPwPg8wRIDv869_bwgKpxEIbNVeAS3HUZ6x9OsNxmLSi45sH6GDRkFnMVY9cAphk6caPK7hCd6xtPSAY6FexUMxiSM5nDCM_NQUu-zn3woSeGorzABDBP71Km1-wChAtbfi6PG4x_84pYvSrTDVcochZobHkd5UwKB1YNe3fpghY2CkorvWHH7QuiGjdjZKJmey35-moRGSQe62-lbN40fAcimhiN7gl_E08mi2kIPXkBkZyOUdNusMiMYMTHW8cAVd6JM0LMP5KhWAeQ2zIa93CpLM7inRRg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "林啟聰",
+          "uri": "https://maps.google.com/maps/contrib/103614582581211545254",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVzKeTIK60-AEC8ntJpHsOnaWyP2lr60jY2LdtG5hpzD98INM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICUoIrZRg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUoIrZRg!2e10!4m2!3m1!1s0x340406dbe44970f3:0x778b728f5c06256b"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:28.416970+00:00"
+}

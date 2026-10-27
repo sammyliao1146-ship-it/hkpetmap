@@ -1,0 +1,39 @@
+{
+  "id": "ChIJ0YTPExYBBDQRPIatGwGxGf8",
+  "types": [
+    "pet_boarding_service",
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍旺角太子西洋菜北街159號恒安樓6樓",
+  "location": {
+    "latitude": 22.325506999999998,
+    "longitude": 114.168521
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18381917972406830652&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "貓悅酒店 Catstar Cat Hotel",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJ0YTPExYBBDQRPIatGwGxGf8/photos/Aa-ngMYqI-hp2IPo63dY9imsJDrPyXPoAMyjRIPrOHT3M9evw1cTuoeahTtnAp6bhOHn49jy3hWuaiRr3WP45aSCLPf4SJwHv-TN-kvoO0QaDBQAz8jGHMF8xGqn7iWInN7WMkhtI16zHRXrsKPMz6jzLrXOcfUtPeOz5JeBIXDTWG0NsnTMFoBygJT_X0vtrFLo5cJtB9YmXS2oxwb_tV6MAMTFzt2fxR8MztRMzLJZigIQ2mo-a6Nx-kgzfm6IbSDwrK2jbiArOWoPsbbnOCXgqzYsrqv36R2zWAIS55jd1Ydpj5lhL9mMHnPCUgqjzXE-AE8E9FkHpYmh8rTFRcFuiZ5KEuAboTTvIompqQ2l8IT5ILaO-sNXyjA_j4-bh3sEtE6kNBuNmSDC3gItWcnpPvfs6bXvTuU",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "貓悅酒店 Catstar Hotel",
+          "uri": "https://maps.google.com/maps/contrib/112080360730657386832",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBVArFNPd1hPngap5ey3n6yCxBSGL9QyPk0gwxwIQIPB7tCJ4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJ56Si-gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ56Si-gE!2e10!4m2!3m1!1s0x3404011613cf84d1:0xff19b1011bad863c"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:10.328881+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ChIJCYmot1wABDQRCrBnS3KbUho",
+  "types": [
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島灣仔皇后大道東",
+  "location": {
+    "latitude": 22.2751839,
+    "longitude": 114.1722327
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1896749308270063626&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "利東街",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "tourist_attraction",
+  "photos": [
+    {
+      "name": "places/ChIJCYmot1wABDQRCrBnS3KbUho/photos/Aa-ngMbFOeS2vne68BW0DoQA9To42TZH1afgdF2pdQV7fIaoUjX4QHTv_It4k4S94CKzqY5PGywe8x-60A59iz-Lj2oq-iVvYLUF1j5StLYv9oD0Za9KsngERxe4eZ12nb2L_Yf1Hn9I4f11QMpUrEm-i6iAd8ajouQTIDdZxXl-irxR9D9-xsIE4ZlfZz65VZqMQQP_hoxrs_euKo0k686fqXB1oxNG222aP0NWsEiTJEosTEETQVJDYk1YaI2Ay65FkdSNf32n9hyjTtRiFCH1cAJ-XEo9z39FPys0SuZ1Lv7o5nNeNROVoARleq1zqdE6hWXUle9mKiqBvd-ATp-exOGnsa5ALKKvsTNoH_JTFIsgw-tECHlu9lr9WpnRnO7uVcPwmG5NDHuA7CusDeuBbnoMl29Y_8CB47thHu3okt2X",
+      "widthPx": 3056,
+      "heightPx": 3056,
+      "authorAttributions": [
+        {
+          "displayName": "Alvis Chiu",
+          "uri": "https://maps.google.com/maps/contrib/111291629386227375034",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWh5XxkD7QPf9XuG0LrMMoqxZ2lkk2Dul4feNFcU_DCDi6KihkeTA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCCVzBxpJnXiOurTaSv9lNU&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCCVzBxpJnXiOurTaSv9lNU!2e10!4m2!3m1!1s0x3404005cb7a88909:0x1a529b724b67b00a"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:57.348850+00:00"
+}

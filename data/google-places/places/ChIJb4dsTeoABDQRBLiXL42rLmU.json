@@ -1,0 +1,412 @@
+{
+  "google_place_id": "ChIJb4dsTeoABDQRBLiXL42rLmU",
+  "restaurant_ids": [
+    "restaurant:2261802289"
+  ],
+  "fetched_at": "2026-10-23T15:48:55.821844+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJb4dsTeoABDQRBLiXL42rLmU",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2388 2302",
+    "internationalPhoneNumber": "+852 2388 2302",
+    "formattedAddress": "香港九龍佐敦彌敦道311-313號號康橋大廈1樓",
+    "location": {
+      "latitude": 22.306006099999998,
+      "longitude": 114.17123409999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=7290953469636622340&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 15:30, 17:30 – 22:00",
+        "星期二: 11:00 – 15:30, 17:30 – 22:00",
+        "星期三: 11:00 – 15:30, 17:30 – 22:00",
+        "星期四: 11:00 – 15:30, 17:30 – 22:00",
+        "星期五: 11:00 – 15:30, 17:30 – 22:00",
+        "星期六: 11:00 – 15:30, 17:30 – 22:00",
+        "星期日: 11:00 – 15:30, 17:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 509,
+    "displayName": {
+      "text": "七福神和食亭",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJb4dsTeoABDQRBLiXL42rLmU/reviews/Ci9DQUlRQUNvZENodHljRjlvT210TFMybHhVbE54TjJOeU1VaG5MVm96VldOVVVIYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "佐敦七福神，有20年歷史。\n食品水平高、服務態度中上、店內裝潢燈光配色座位配置等都不俗、有香港高級西餐廳的氣氛。\n雖是日本料理店，但所謂日式感覺不算高，應該是20年來為迎合香港人而調理出來的，其實很值得讚。\n營業時間至晚上10點30分，但是次光顧的經驗是9點半last order。\n\n食品選擇算多、所點的食物口味正常之上，論性價比不是滿分但員工水平優。不過今次光顧時客人不算太多因此員工理應沒有失誤的可能性，甚至有空與他人閒聊。\n\n有自家特製的雞尾酒七款，分別以七福神的神命名，有機會會試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "佐敦七福神，有20年歷史。\n食品水平高、服務態度中上、店內裝潢燈光配色座位配置等都不俗、有香港高級西餐廳的氣氛。\n雖是日本料理店，但所謂日式感覺不算高，應該是20年來為迎合香港人而調理出來的，其實很值得讚。\n營業時間至晚上10點30分，但是次光顧的經驗是9點半last order。\n\n食品選擇算多、所點的食物口味正常之上，論性價比不是滿分但員工水平優。不過今次光顧時客人不算太多因此員工理應沒有失誤的可能性，甚至有空與他人閒聊。\n\n有自家特製的雞尾酒七款，分別以七福神的神命名，有機會會試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jonny",
+          "uri": "https://www.google.com/maps/contrib/108646215700032384475/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ2rqsK0vUP_bz250l3xIjT_w7CxYUH6X8ym1ZuYw8QpQg1Xw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-25T06:42:48.381413098Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210TFMybHhVbE54TjJOeU1VaG5MVm96VldOVVVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210TFMybHhVbE54TjJOeU1VaG5MVm96VldOVVVIYxAB!2m1!1s0x340400ea4d6c876f:0x652eab8d2f97b804"
+      },
+      {
+        "name": "places/ChIJb4dsTeoABDQRBLiXL42rLmU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxVWRHUmtSM0pwVnpoWlJ6RldURTVyV1dsWU1HYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "之前係IG碌到有人介紹呢間日本餐廳就book mark咗，今日約左朋友食飯傾野大家都唔知食乜好就係個book mark list到搵返呢間去食😂\n.\n蟹籽沙律 (大)\n呢個「大」字真係無吹水。一上枱，個碗成個盤咁，青瓜絲多到好似座山咁，蟹籽都算鋪得滿，視覺效果係震撼嘅。建議如果兩三個人食，真係叫細沙律好喇，唔好夾硬挑戰\n.\n蟹味噌甲羅燒配魚雪干（4塊）\n個蟹膏煮得好香好濃，入面加咗蟹肉同蟹籽，口感幾有層次，魚雪干乾烘到脆一脆，帶少少甜甜地嘅魚鮮味，不一羹熱辣辣嘅蟹膏放上去食，鹹香交織，四塊真係唔夠食\n.\n蟹肉薯餅\n不過不失，炸得夠乾身、唔油膩，咬開入面個薯蓉好熱好滑，係食得到絲絲蟹肉嘅\n.\n滑蛋豬扒飯\n個碗大到好似拉麵碗咁，飯量好驚人。滑蛋做得算滑，甜甜地幾好撈飯。件豬扒切得幾厚，肉質有咬口、唔會乾\n.\n（大）特盛火炙A5和牛壽司\n叫得特盛，件和牛真係大塊到好似條被咁。食落口 A5 和牛嘅油脂感真係好勁，油香四溢，舊飯亦都握得啱啱好、唔會散",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "之前係IG碌到有人介紹呢間日本餐廳就book mark咗，今日約左朋友食飯傾野大家都唔知食乜好就係個book mark list到搵返呢間去食😂\n.\n蟹籽沙律 (大)\n呢個「大」字真係無吹水。一上枱，個碗成個盤咁，青瓜絲多到好似座山咁，蟹籽都算鋪得滿，視覺效果係震撼嘅。建議如果兩三個人食，真係叫細沙律好喇，唔好夾硬挑戰\n.\n蟹味噌甲羅燒配魚雪干（4塊）\n個蟹膏煮得好香好濃，入面加咗蟹肉同蟹籽，口感幾有層次，魚雪干乾烘到脆一脆，帶少少甜甜地嘅魚鮮味，不一羹熱辣辣嘅蟹膏放上去食，鹹香交織，四塊真係唔夠食\n.\n蟹肉薯餅\n不過不失，炸得夠乾身、唔油膩，咬開入面個薯蓉好熱好滑，係食得到絲絲蟹肉嘅\n.\n滑蛋豬扒飯\n個碗大到好似拉麵碗咁，飯量好驚人。滑蛋做得算滑，甜甜地幾好撈飯。件豬扒切得幾厚，肉質有咬口、唔會乾\n.\n（大）特盛火炙A5和牛壽司\n叫得特盛，件和牛真係大塊到好似條被咁。食落口 A5 和牛嘅油脂感真係好勁，油香四溢，舊飯亦都握得啱啱好、唔會散",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lam Szsuki",
+          "uri": "https://www.google.com/maps/contrib/101730983483185538934/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOnVk8kogWiTtA05QsEEsoEiSU3l-EVmWixLQ_OaKZDZuRJ4k=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-10T14:19:04.950223883Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxVWRHUmtSM0pwVnpoWlJ6RldURTVyV1dsWU1HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxVWRHUmtSM0pwVnpoWlJ6RldURTVyV1dsWU1HYxAB!2m1!1s0x340400ea4d6c876f:0x652eab8d2f97b804"
+      },
+      {
+        "name": "places/ChIJb4dsTeoABDQRBLiXL42rLmU/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xU1JIQkZURmhmYjA5c1kwazFMVzV5TUdsc01IYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "喺佐敦行街行下，又比我見到呢間「七福神和食亭」👀～主打日式刺身同燒物，門口望落已經好有日本feel，即刻入去試吓先😊。\n\n清酒煮大蜆一上枱就好香，蜆肉鮮甜又彈牙，加埋淡淡酒香，好開胃🍴。蟹味噌甲羅燒配魚雪干，蟹味濃得嚟又香，魚干脆卜卜，夠惹味😋\n\n帶子刺身厚切又喺好新鮮，每片都甜甜哋～好滿足！海膽蟹肉茶碗蒸滑到不得了，仲有海膽提鮮，入口超正🍲\n\n雞翼串、雞軟骨串燒得夠香，外脆內嫩、香氣好濃🍗。網燒牛扒肉質軟熟多汁，啖啖牛香；法式燒羊扒羊味香濃無膻味，燒得啱啱好😍。鹽燒油甘魚肉滑香潤，鹽香簡單又夠鮮🐟。\n\n壽喜燒牛內鍋燒鳥冬湯底濃郁暖胃，牛肉又嫩又入味🍲。蕎麥冷麵爽口彈牙，食完清清哋好爽🍜。\n\n飲品我揀咗富士山乳酸梳打，酸酸甜甜好醒神🍹；再配杯Sapporo生啤，冰凍又夠氣～同燒物真係絕配🍺。\n\n甜品都好正，桃雪糕果香清新唔膩，柚子生忌廉吉士芭菲酸甜平衡、奶味香滑🍨，性價比極高又滿足嘅一餐！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "喺佐敦行街行下，又比我見到呢間「七福神和食亭」👀～主打日式刺身同燒物，門口望落已經好有日本feel，即刻入去試吓先😊。\n\n清酒煮大蜆一上枱就好香，蜆肉鮮甜又彈牙，加埋淡淡酒香，好開胃🍴。蟹味噌甲羅燒配魚雪干，蟹味濃得嚟又香，魚干脆卜卜，夠惹味😋\n\n帶子刺身厚切又喺好新鮮，每片都甜甜哋～好滿足！海膽蟹肉茶碗蒸滑到不得了，仲有海膽提鮮，入口超正🍲\n\n雞翼串、雞軟骨串燒得夠香，外脆內嫩、香氣好濃🍗。網燒牛扒肉質軟熟多汁，啖啖牛香；法式燒羊扒羊味香濃無膻味，燒得啱啱好😍。鹽燒油甘魚肉滑香潤，鹽香簡單又夠鮮🐟。\n\n壽喜燒牛內鍋燒鳥冬湯底濃郁暖胃，牛肉又嫩又入味🍲。蕎麥冷麵爽口彈牙，食完清清哋好爽🍜。\n\n飲品我揀咗富士山乳酸梳打，酸酸甜甜好醒神🍹；再配杯Sapporo生啤，冰凍又夠氣～同燒物真係絕配🍺。\n\n甜品都好正，桃雪糕果香清新唔膩，柚子生忌廉吉士芭菲酸甜平衡、奶味香滑🍨，性價比極高又滿足嘅一餐！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "VN Yip",
+          "uri": "https://www.google.com/maps/contrib/113082825426317297701/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBd5By3ihNAC5yPYe3lPFs0Hi6xMYtIKDknjtg1PfikGUmLBmQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-05T16:54:14.848840567Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xU1JIQkZURmhmYjA5c1kwazFMVzV5TUdsc01IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xU1JIQkZURmhmYjA5c1kwazFMVzV5TUdsc01IYxAB!2m1!1s0x340400ea4d6c876f:0x652eab8d2f97b804"
+      },
+      {
+        "name": "places/ChIJb4dsTeoABDQRBLiXL42rLmU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5cFRYUTRabEZFZG5wUlZrbHlVMFJSWVhkcE1YYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今日路過佐敦南京街，想起食居酒屋，諗起好多年前曾經到訪，今晚8點入座，靜靜地幾舒服！魚生新鮮彈牙！ 甲羅燒好香好好味😋 羊架不錯，燒烤🍗味好香，蟹子沙律好彩叫細份，2個人食真係算大份、下次再約多幾位朋友可以叫多啲品種食物👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日路過佐敦南京街，想起食居酒屋，諗起好多年前曾經到訪，今晚8點入座，靜靜地幾舒服！魚生新鮮彈牙！ 甲羅燒好香好好味😋 羊架不錯，燒烤🍗味好香，蟹子沙律好彩叫細份，2個人食真係算大份、下次再約多幾位朋友可以叫多啲品種食物👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "fc FC",
+          "uri": "https://www.google.com/maps/contrib/108409129479839688533/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXHqpZF9ZZ2YTU4Dslu4X3gpSNNQsKvXOPSVig4Za_hVAWKQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-11T15:20:35.893992232Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5cFRYUTRabEZFZG5wUlZrbHlVMFJSWVhkcE1YYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5cFRYUTRabEZFZG5wUlZrbHlVMFJSWVhkcE1YYxAB!2m1!1s0x340400ea4d6c876f:0x652eab8d2f97b804"
+      },
+      {
+        "name": "places/ChIJb4dsTeoABDQRBLiXL42rLmU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWVU5GbEJTbDlHYm14a2NYUmZhMDAwUjNoUFYxRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "估唔到佐敦搵有間咁高質日式居酒屋！木系裝修幾有日本風情，重點係食物好高質！\n\n麻辣風温泉豆豆腐\n豆腐超級滑溜，豆味香濃。麻辣醬汁帶啲香麻，同溫泉蛋撈勻之後，口感更加豐富，係一個幾有驚喜嘅開胃菜。\n\n慢煮雞胸沙律\n雞胸一啲都唔「鞋」口，保持到肉汁，沙律菜新鮮，胡麻醬汁開胃。\n\n海膽刺身 (1板)\n海膽份量足，口感creamy，濃郁嘅甘甜味充滿成個口腔，新鮮度無可挑剔，海膽迷真係會感動！\n\n甘蝦刺身 (5本)\n蝦肉晶瑩剔透，口感黏滑，蝦味鮮甜。蝦膏非常濃郁。\n\n活赤貝刺身 (1本)\n赤貝顏色好靚，食落口真係非常爽脆，鮮度十足，完全冇腥味。\n\n帶子刺身 (6切)\n帶子厚切，口感肥美飽滿，味道清甜。\n\n北寄貝刺身 (6本)\n北寄貝口感更柔軟腍滑一啲，同樣鮮味十足\n\n清酒煮大蜆\n蜆肉份量足，鮮甜冇沙。個湯係精華，清酒香氣溫和，完全唔苦澀，飲到蜆嘅鮮甜。\n\n海膽蟹肉茶碗蒸\n蒸蛋好嫩滑，面頭鋪咗一嚐海膽同蟹肉絲。海膽嘅鮮味滲透落蒸蛋度，口感同味道層次都好豐富。\n\n豆腐風野菜湯\n味道清淡，豆味香，食完一大堆刺身之後飲返碗，個胃覺得好舒服，幾適合用來收尾。\n\n呢間居酒屋嘅刺身質素確實有驚喜，尤其係海膽同活赤貝，鮮度滿分。其他料理都做得有心思。環境幾有氣氛，適合朋友聚餐。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "估唔到佐敦搵有間咁高質日式居酒屋！木系裝修幾有日本風情，重點係食物好高質！\n\n麻辣風温泉豆豆腐\n豆腐超級滑溜，豆味香濃。麻辣醬汁帶啲香麻，同溫泉蛋撈勻之後，口感更加豐富，係一個幾有驚喜嘅開胃菜。\n\n慢煮雞胸沙律\n雞胸一啲都唔「鞋」口，保持到肉汁，沙律菜新鮮，胡麻醬汁開胃。\n\n海膽刺身 (1板)\n海膽份量足，口感creamy，濃郁嘅甘甜味充滿成個口腔，新鮮度無可挑剔，海膽迷真係會感動！\n\n甘蝦刺身 (5本)\n蝦肉晶瑩剔透，口感黏滑，蝦味鮮甜。蝦膏非常濃郁。\n\n活赤貝刺身 (1本)\n赤貝顏色好靚，食落口真係非常爽脆，鮮度十足，完全冇腥味。\n\n帶子刺身 (6切)\n帶子厚切，口感肥美飽滿，味道清甜。\n\n北寄貝刺身 (6本)\n北寄貝口感更柔軟腍滑一啲，同樣鮮味十足\n\n清酒煮大蜆\n蜆肉份量足，鮮甜冇沙。個湯係精華，清酒香氣溫和，完全唔苦澀，飲到蜆嘅鮮甜。\n\n海膽蟹肉茶碗蒸\n蒸蛋好嫩滑，面頭鋪咗一嚐海膽同蟹肉絲。海膽嘅鮮味滲透落蒸蛋度，口感同味道層次都好豐富。\n\n豆腐風野菜湯\n味道清淡，豆味香，食完一大堆刺身之後飲返碗，個胃覺得好舒服，幾適合用來收尾。\n\n呢間居酒屋嘅刺身質素確實有驚喜，尤其係海膽同活赤貝，鮮度滿分。其他料理都做得有心思。環境幾有氣氛，適合朋友聚餐。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "vivian yik",
+          "uri": "https://www.google.com/maps/contrib/105967924559287788366/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIoYaoP-uGdDFKhj9_jL0nFCus_idG8HxLs0nEz_TN4ccgk_Hw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-11-01T07:38:56.068957733Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWVU5GbEJTbDlHYm14a2NYUmZhMDAwUjNoUFYxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWVU5GbEJTbDlHYm14a2NYUmZhMDAwUjNoUFYxRRAB!2m1!1s0x340400ea4d6c876f:0x652eab8d2f97b804"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400ea4d6c876f:0x652eab8d2f97b804!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7290953469636622340&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ea4d6c876f:0x652eab8d2f97b804!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400ea4d6c876f:0x652eab8d2f97b804!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400ea4d6c876f:0x652eab8d2f97b804!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJb4dsTeoABDQRBLiXL42rLmU/photos/Aa-ngMZ-A8GZZ4R_E8Nr3k7zjYr1zdB7ST_yyqUKarY1RkSCyuS0XUX2oAwmlGKu_rbABID7rOMVhvyPowzZy8f63elVjF8MeWSwR_kdrvtma6k5DmO7F3P-PmuorKF506L6R6s8GT450tRA_Kt3Dcd68DOg1cuwrTU4kRhptTiac9TjTDmdi4p5AhpL2yAEAKjIsbUxfIHdPN5aSh4iD4oLeOzTTONxnFnGebxDDiDSr57SSBVQtlT-SKkTorT7xs25ix7kANosfjz35A02wPCSxjYUlu6b0uWXEor-tQl7HJt7iEcDkDIFAe1ITrQ8pgSg3C6ARGHatLkJVkQzLULNapz8LFxNicT67pFFnbvHMewQ8sk1pOn9am-Lvcv2hsP5tAzGHg2cSyANq1aW3pQz7WAO-RaGPCc",
+      "widthPx": 3648,
+      "heightPx": 2736,
+      "authorAttributions": [
+        {
+          "displayName": "Mr Dilly",
+          "uri": "https://maps.google.com/maps/contrib/100079805158774609691",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVkhDG-Q6tjoVtnfiAuMZ94AyYMR-Q_el-yO4_W5wSdOBlgob1HA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4v_y-nQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4v_y-nQE!2e10!4m2!3m1!1s0x340400ea4d6c876f:0x652eab8d2f97b804"
+    },
+    "local_path": "photos/ChIJb4dsTeoABDQRBLiXL42rLmU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGLpYNsFKFJBhUkrPamnoAnpgfHSQNBPOhS0BQiwLVdGNBbFzuuCbw2VEHN7GIF51FNBWU6Wi6PoZkTllKvZInJCYDAVzYZMNqNKU4Qu7B6ZzLeVF5_CVTtcd4wARs7xJcpiHPMw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 197788
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

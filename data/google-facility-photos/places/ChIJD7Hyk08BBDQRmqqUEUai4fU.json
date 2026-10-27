@@ -1,0 +1,42 @@
+{
+  "id": "ChIJD7Hyk08BBDQRmqqUEUai4fU",
+  "types": [
+    "shopping_mall",
+    "department_store",
+    "gift_shop",
+    "clothing_store",
+    "electronics_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍觀塘觀塘道418號",
+  "location": {
+    "latitude": 22.312400999999998,
+    "longitude": 114.22522199999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17717620830878608026&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "APM",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "shopping_mall",
+  "photos": [
+    {
+      "name": "places/ChIJD7Hyk08BBDQRmqqUEUai4fU/photos/Aa-ngMaxIidnTCVf96G5OMMab8S_ezBMNmhtRvvV8npLTB5AhthhfB-uxqHIeb3dKoOcxXp7dmnNWwDof4ve1-YeGBhpTz4df6Bpq0KwhTF56uzLcUEme8fB40S_04Xe46BHudbTXteVerRz9s6W_nbC5w-5JXjxNOY-XhcrNFouM3Mw5abhgT2u8J7KsJz-8xrmxyMozRXc-1XJku7mLXXyvAC2bxHMyabBJJocEoHbcWXyYWlecoKNysG5vrI17vzQ9S2o3mcmKXkyu7J6UINtra8iE5huBE37DaOWVJRgpRFYsFV_tUCnfhIRpWjwQaE_GVEUqx4rbYaRUg1mtmwoMD4Rddk7mUOlAhjELte1ekMNCAVPKs2hm0U9ZrZvwFDl91UbE-Pn-DQoFKiWnwuKewftirg-8L0",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "F L",
+          "uri": "https://maps.google.com/maps/contrib/111371499899554356672",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf3e2p1MOwP3wWJzIIQ7bXyxeG4Nqn4ts4kQ-QtGSuGRbjgiWlog=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICB1cHm6wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB1cHm6wE!2e10!4m2!3m1!1s0x3404014f93f2b10f:0xf5e1a2461194aa9a"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:01.681636+00:00"
+}

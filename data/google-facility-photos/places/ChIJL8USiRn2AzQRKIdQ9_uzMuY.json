@@ -1,0 +1,38 @@
+{
+  "id": "ChIJL8USiRn2AzQRKIdQ9_uzMuY",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界上水馬會道",
+  "location": {
+    "latitude": 22.498552699999998,
+    "longitude": 114.1336668
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16587518272326371112&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "北區公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJL8USiRn2AzQRKIdQ9_uzMuY/photos/Aa-ngMZma6sxZ41oCsjBYKFGfJU90EAPO1aztsfIpL8eMtXhlUb8Ujd6EOZkqp_JS54rBd67Be-5scBaw20kO0QzwKM6Nl-gMWGcxvq-s9dJ-VPNoA1kCA736vxTbHGUI-w0upH0jRflwI9a8tSk6hXgfLn1cQtGOT5AARtzSZ8ZYwaNFgCIdDyjcZ-WwLmYM_JMm6kWx7q9zNCkoByFDcxsHoUA8iZK-YWEgBEeXl-mE2WvWASEslohK1aTbMd3svHxQ-WomYAbPXnY7ir9tpv5EqqL0Wi97X0dn1wcBtrbGfr2CB6x2KbsqP6Zxyp7jaNqFojaKp3OdAjQAGrYjy6n593Q9pI0HE1lTNkEONj8Iglv97WPd8o6r3Rk9EWT9j7ND2OCghQP60gfvI9Qa7xTyHxTw1KKXsE",
+      "widthPx": 4128,
+      "heightPx": 3096,
+      "authorAttributions": [
+        {
+          "displayName": "Yu Mr日和月",
+          "uri": "https://maps.google.com/maps/contrib/113834905633779897354",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ9ZiZhOb09hVqC53wS8SyvHXVnPF2SPPoMrKUFG_qgiWao9g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICu8oiGzwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu8oiGzwE!2e10!4m2!3m1!1s0x3403f6198912c52f:0xe632b3fbf7508728"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:10.653521+00:00"
+}

@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJ525mEQABBDQRSf8zgvxsusE",
+  "restaurant_ids": [
+    "restaurant:3192802414"
+  ],
+  "fetched_at": "2026-10-23T15:52:22.286779+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ525mEQABBDQRSf8zgvxsusE",
+    "types": [
+      "diner",
+      "vegetarian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9881 1019",
+    "internationalPhoneNumber": "+852 9881 1019",
+    "formattedAddress": "香港九龍尖沙咀HK 九龍 尖沙咀 SLK 03 WestK Quay, Art Park, WestK",
+    "location": {
+      "latitude": 22.299495399999998,
+      "longitude": 114.15848240000001
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=13959589826760277833&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://yauveggie.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 21:00",
+        "星期二: 12:00 – 21:00",
+        "星期三: 12:00 – 21:00",
+        "星期四: 12:00 – 21:00",
+        "星期五: 11:00 – 22:00",
+        "星期六: 11:00 – 22:00",
+        "星期日: 11:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 14,
+    "displayName": {
+      "text": "Yau Veggie Truck",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "美式餐車店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesVegetarianFood": true,
+    "primaryType": "diner",
+    "reviews": [
+      {
+        "name": "places/ChIJ525mEQABBDQRSf8zgvxsusE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5QlRXbHFlWGRNTjIxWGFEQjVlVVU1WTJOa1dWRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "氣氛很好 望著維港美景用餐\n點了招牌的素漢堡 竟然真的有濃郁的牛味\n推薦推薦 不論肉食愛好者或素食者都很值得一試！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "氣氛很好 望著維港美景用餐\n點了招牌的素漢堡 竟然真的有濃郁的牛味\n推薦推薦 不論肉食愛好者或素食者都很值得一試！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "himchi",
+          "uri": "https://www.google.com/maps/contrib/107545846368727974688/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdbS1sJFXGQ5QdT6v07aoeTxMPg5cO0jxCOw_E2MtaMvgcBA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-15T14:15:11.101364242Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5QlRXbHFlWGRNTjIxWGFEQjVlVVU1WTJOa1dWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5QlRXbHFlWGRNTjIxWGFEQjVlVVU1WTJOa1dWRRAB!2m1!1s0x3404010011666ee7:0xc1ba6cfc8233ff49"
+      },
+      {
+        "name": "places/ChIJ525mEQABBDQRSf8zgvxsusE/reviews/Ci9DQUlRQUNvZENodHljRjlvT210WVVGUnVXVXhJYzNsaWJVUkZRMnhaT1ZCdGJXYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "我之前去過Yau Veggie Truck在荃灣的餐廳，所以我一直很想來嚐嚐！很高興看到WestK有了這家餐車，素食選擇又多了。我已經來過幾次了，特別喜歡他們家的經典起司漢堡。我通常會點套餐，裡面的炸薯餅熱氣騰騰，超級好吃。餐車就在M+附近，從Elements > M+ > WestK碼頭走過就能找到！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "I was very keen on trying Yau Veggie Truck as I’ve been to their resto in Tseun Wan! And very happy to see that WestK has more veggie options with this food truck here. I have been here a few times now, and I really like their classic cheese burger. I usually go with a set, and the tater tots are served piping hot and yummy. It’s located close to M+ so you can just walk from Elements > M+ > WestK pier and you’ll find the place!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Dree Chua",
+          "uri": "https://www.google.com/maps/contrib/117323851486329014318/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPqBDZMYttVhHHneLzOr-pD5AmsOBbg6hzMZWxz918DrdwmD3k=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-10T14:55:15.433238572Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210WVVGUnVXVXhJYzNsaWJVUkZRMnhaT1ZCdGJXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210WVVGUnVXVXhJYzNsaWJVUkZRMnhaT1ZCdGJXYxAB!2m1!1s0x3404010011666ee7:0xc1ba6cfc8233ff49"
+      },
+      {
+        "name": "places/ChIJ525mEQABBDQRSf8zgvxsusE/reviews/Ci9DQUlRQUNvZENodHljRjlvT201Vk9HcHhha2hJTW5kUFNtYzNZbkUyWjBvMExVRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這是我吃過最好吃的素食漢堡之一。傍晚時分的香港海港景色美不勝收，是個非常美好的體驗。謝謝。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "One of the best Veggie Bürgers I ate so  far. The surrondings at Hong Kong harbour is magic in the early evening, so a very nice experience. Thanks.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Ulrich Kamp",
+          "uri": "https://www.google.com/maps/contrib/111050689988188859084/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJx2Xuuhq_6OfbZVHkTHU8lV18eGOJzDQ_sTHTBOerX82Aoww=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-11T10:32:17.015743709Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201Vk9HcHhha2hJTW5kUFNtYzNZbkUyWjBvMExVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201Vk9HcHhha2hJTW5kUFNtYzNZbkUyWjBvMExVRRAB!2m1!1s0x3404010011666ee7:0xc1ba6cfc8233ff49"
+      },
+      {
+        "name": "places/ChIJ525mEQABBDQRSf8zgvxsusE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSa2IycFBZMVZVZEZoMVIweFJXakZVUmtzelRsRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐車，就在碼頭旁。漢堡超讚！炸薯餅也超好吃！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Food truck. Next to the pier. Great burger. Love their tater tots!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Charlie Chan",
+          "uri": "https://www.google.com/maps/contrib/101069289371693764652/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6LOJV29mUwERzydnI-_kWfwzy44fvoJM8ANfzIQBRHL-lYas=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-06T06:00:58.460775237Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSa2IycFBZMVZVZEZoMVIweFJXakZVUmtzelRsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSa2IycFBZMVZVZEZoMVIweFJXakZVUmtzelRsRRAB!2m1!1s0x3404010011666ee7:0xc1ba6cfc8233ff49"
+      },
+      {
+        "name": "places/ChIJ525mEQABBDQRSf8zgvxsusE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OV05qZDJibUZOVFc5UE5XOXFNbVkxT1dGa1JsRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這個起司漢堡真好吃，而我甚至不是素食主義者。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Очень вкусный чизбургер, а я даже не веган",
+          "languageCode": "ru"
+        },
+        "authorAttribution": {
+          "displayName": "Timofey Savilov",
+          "uri": "https://www.google.com/maps/contrib/109516410812455780471/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0iFvgeBltSKAnqy1aOHhLNbptoGxzsO5fjCY6pywkc21h2882Iw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-08T07:01:21.306926183Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OV05qZDJibUZOVFc5UE5XOXFNbVkxT1dGa1JsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OV05qZDJibUZOVFc5UE5XOXFNbVkxT1dGa1JsRRAB!2m1!1s0x3404010011666ee7:0xc1ba6cfc8233ff49"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidGarageParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010011666ee7:0xc1ba6cfc8233ff49!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13959589826760277833&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010011666ee7:0xc1ba6cfc8233ff49!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010011666ee7:0xc1ba6cfc8233ff49!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010011666ee7:0xc1ba6cfc8233ff49!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ525mEQABBDQRSf8zgvxsusE/photos/Aa-ngMYer4qvjAAmHgrvD_xWTNBJTIL0KqnWOYUn1REjmSRdohbJonlWuJ5lgujsNHaNYr1GthatUVn2zVnNRzOctHFJCJ6Cn8rQpO-TkuYrzEayOQ8mnwp3KSOFOx7INLx6To9hGmQzaDJ534IKoI3kTYNuk1LjYiqBSza1_v-jgpC3TDUb5maAehsp6Iwd7PjSvmMrVkv584Xx-PS_HBckhM2Kg8xc8yBGBApJV903QH7oVxkqWnvWbwCPGmIoQADlZIudjqqbSDJygnyRrDsxoFQ8c0AvNZ50tQl56EUusGqXw-2EmNIXxIP3MldFvY7tZvrX72fQg9rWVm-s2c_euBEpMi_wTsyPkaLPhYpvsvHvqFClc5tXOEToKOZj61KW60ovSgOugv-acBJVID4kKDgoYUtCvbyg2JmmNb373_Fn0Q",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "3E",
+          "uri": "https://maps.google.com/maps/contrib/106837113386590695320",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQMkeqT8SHyIxX4r-VBlTv9OzzZ5VHlzZx6Qv9McbmregerA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDKNPFrbTUia0PfwqXBkwvF&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDKNPFrbTUia0PfwqXBkwvF!2e10!4m2!3m1!1s0x3404010011666ee7:0xc1ba6cfc8233ff49"
+    },
+    "local_path": "photos/ChIJ525mEQABBDQRSf8zgvxsusE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBg6yomGfdmrr7-otf3s_vpPFHpL2Wo7531uhnzBMV4P-0OO1KZZSV1LVuUUG4pGkC-SJ826eIFVCvnkMeKfNcCfGOQnL3XmXEodLyHZu265OxLLwjOTElhCiMwyPYbeTMmUX7k19Bef1L=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 192841
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ConnectError"
+  },
+  "cuisine": {
+    "primary_type": "diner",
+    "label": "美式餐車店",
+    "types": [
+      "diner",
+      "vegetarian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

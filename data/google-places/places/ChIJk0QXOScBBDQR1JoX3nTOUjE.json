@@ -1,0 +1,324 @@
+{
+  "google_place_id": "ChIJk0QXOScBBDQR1JoX3nTOUjE",
+  "restaurant_ids": [
+    "restaurant:2212819618"
+  ],
+  "fetched_at": "2026-10-23T15:50:55.025982+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJk0QXOScBBDQR1JoX3nTOUjE",
+    "types": [
+      "asian_fusion_restaurant",
+      "asian_restaurant",
+      "fusion_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3702 0728",
+    "internationalPhoneNumber": "+852 3702 0728",
+    "formattedAddress": "香港香港島銅鑼灣興發街100號",
+    "location": {
+      "latitude": 22.285787,
+      "longitude": 114.1905546
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=3554130057286359764&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.instagram.com/thesecondphase_hk",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 11:30 – 21:30",
+        "星期三: 11:30 – 21:30",
+        "星期四: 11:30 – 21:30",
+        "星期五: 11:30 – 21:30",
+        "星期六: 11:30 – 21:30",
+        "星期日: 11:30 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 134,
+    "displayName": {
+      "text": "第二人生",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "亞洲各國料理餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "asian_fusion_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJk0QXOScBBDQR1JoX3nTOUjE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twalpYVldSSGxOWm0xQlRsZGZTWFJPYjNJNVJsRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 3,
+        "text": {
+          "text": "咖啡幾好幾特別，拉麵就冇乜特別，生冷嘢都好食但比預期中辣好多。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "咖啡幾好幾特別，拉麵就冇乜特別，生冷嘢都好食但比預期中辣好多。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Minnie Lam",
+          "uri": "https://www.google.com/maps/contrib/112542261431172500047/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjkQT0nNo0t7frC0O3U9uzAK9thY0fPebqx1h8zDUfKlMNZog=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-23T08:17:43.750103735Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twalpYVldSSGxOWm0xQlRsZGZTWFJPYjNJNVJsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twalpYVldSSGxOWm0xQlRsZGZTWFJPYjNJNVJsRRAB!2m1!1s0x3404012739174493:0x3152ce74de179ad4"
+      },
+      {
+        "name": "places/ChIJk0QXOScBBDQR1JoX3nTOUjE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWeVV6WkthVVF5T0d0aU56Rm9kMDVQVGtoaVozYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "一閒 fusion cafe。第一次來点了拉麵，沾麵同玉桂coffee。好味，氣氛好，店鋪不算大但放枱不多，空間感唔錯，音樂不太大聲，客人斯文。價錢可以。就是地方位置比較少衆！。剛發現，狗是可以入內的！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一閒 fusion cafe。第一次來点了拉麵，沾麵同玉桂coffee。好味，氣氛好，店鋪不算大但放枱不多，空間感唔錯，音樂不太大聲，客人斯文。價錢可以。就是地方位置比較少衆！。剛發現，狗是可以入內的！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ksc18811881",
+          "uri": "https://www.google.com/maps/contrib/112283011174078309725/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7ZZflxZo5Hm1MVGq7Eng3on5WpCfBUGf2pwBxqaGdjKMGmw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-01-03T06:11:00.501865257Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWeVV6WkthVVF5T0d0aU56Rm9kMDVQVGtoaVozYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWeVV6WkthVVF5T0d0aU56Rm9kMDVQVGtoaVozYxAB!2m1!1s0x3404012739174493:0x3152ce74de179ad4"
+      },
+      {
+        "name": "places/ChIJk0QXOScBBDQR1JoX3nTOUjE/reviews/ChZDSUhNMG9nS0VJQ0FnTURJcHVXQ1ZnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "山椒檸檬拉麵湯底清甜檸檬味出，喜歡酸的可以自己再以檸檬片加酸。不辣的山椒麻勁在後頭，越吃越能感到唇舌麻麻哋哈哈哈。味玉味筍質素幾好，紫菜在這清清的一碗裏有起到畫龍點睛的作用！\n\n日式卡邦尼意太麵，麵質似沾麵偏軟但有些咬口，盤底多汁但未能好好掛在麵上，調味不錯也特別，整體偏膩。\n\n共同問題是肉質有點過老了，已經是五花腩、豬頸肉等位置，理應更加容易做得感覺軟嫩，然而兩碟咬下去也偏乾及韌身。\n\n整體而言，喜歡高樓底和這個窗邊高枱位置。創意加分！但執行上面仍須努力，值得一試～\n\n-山椒檸檬拉麵 Ramen 檸-\nhomemade pork belly chashu, pork neck, ajitsuke tamago, menma, nori, leeks, bean sprouts 豚五花叉燒，豚面肉，味玉，味筍，紫菜，大蔥，芽菜。\n\n-Japanese Carbonara 日式卡邦尼意太麵-\n自家照燒汁，燒豚角五花，西班牙香腸，洋蔥，忌廉，芝士，蛋黃 Homemade Teriyaki Sauce, Chopped Pork Belly, Chorizo, Onlon, Cream, Cheese, Egg Yolk",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "山椒檸檬拉麵湯底清甜檸檬味出，喜歡酸的可以自己再以檸檬片加酸。不辣的山椒麻勁在後頭，越吃越能感到唇舌麻麻哋哈哈哈。味玉味筍質素幾好，紫菜在這清清的一碗裏有起到畫龍點睛的作用！\n\n日式卡邦尼意太麵，麵質似沾麵偏軟但有些咬口，盤底多汁但未能好好掛在麵上，調味不錯也特別，整體偏膩。\n\n共同問題是肉質有點過老了，已經是五花腩、豬頸肉等位置，理應更加容易做得感覺軟嫩，然而兩碟咬下去也偏乾及韌身。\n\n整體而言，喜歡高樓底和這個窗邊高枱位置。創意加分！但執行上面仍須努力，值得一試～\n\n-山椒檸檬拉麵 Ramen 檸-\nhomemade pork belly chashu, pork neck, ajitsuke tamago, menma, nori, leeks, bean sprouts 豚五花叉燒，豚面肉，味玉，味筍，紫菜，大蔥，芽菜。\n\n-Japanese Carbonara 日式卡邦尼意太麵-\n自家照燒汁，燒豚角五花，西班牙香腸，洋蔥，忌廉，芝士，蛋黃 Homemade Teriyaki Sauce, Chopped Pork Belly, Chorizo, Onlon, Cream, Cheese, Egg Yolk",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "toiletpaperkiu",
+          "uri": "https://www.google.com/maps/contrib/111117149121981516408/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYwmkIV93Xs19OC2c7Mo_2asWVogIHB4KkiuQz9gvA5eVkKDU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-04-09T10:00:44.360809Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJcHVXQ1ZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJcHVXQ1ZnEAE!2m1!1s0x3404012739174493:0x3152ce74de179ad4"
+      },
+      {
+        "name": "places/ChIJk0QXOScBBDQR1JoX3nTOUjE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlX3I3dkNnEAE",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "2022.09.15\n\nt2p (The Second Phase)\n📍 天后興發街100號\n\n話說今日放假，去咗搵朋友食個happy lunch，呢度都算近朋友工作嘅地點，於是乎就嚟咗呢邊。\n\n我哋兩個人就order左:\n1. 和風牛肉丼 💲88\n*跟餐玄米茶\n2. 鰹 - 燒五花泡飯 💲98\n*跟餐水果茶\n3. 香芫美國牛板腱腸粉 💲108\n\n首先我自己食和風牛肉丼，佢另外仲有一粒糖心蛋，兩件炸雞，同埋一個一式三款嘅醃物；個份量方面對女仔來講好足夠，基本上食晒已經好飽，加上牛肉丼嘅味道相當濃郁，略嫌佢嘅牛肉只有兩三片，性價比比較低。\n\n朋友嗰個燒五花鰹魚湯泡飯，望落去都幾吸引，佢上面有紫菜，蔥花，木魚碎，加上幾快燒咗嘅五花肉，飯粒粒分明，感覺上真係幾高質。\n\n而佢嘅牛板腱腸粉，原來係用牛包住芫荽，上面仲有芥末汁，成件事冇諗過幾match，大家可以一試！\n\n而飲品方面就正正常常，冇特別。\n\n如果喺附近經開想食飯，都推介可以來一戰ʕ •ᴥ•ʔ",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2022.09.15\n\nt2p (The Second Phase)\n📍 天后興發街100號\n\n話說今日放假，去咗搵朋友食個happy lunch，呢度都算近朋友工作嘅地點，於是乎就嚟咗呢邊。\n\n我哋兩個人就order左:\n1. 和風牛肉丼 💲88\n*跟餐玄米茶\n2. 鰹 - 燒五花泡飯 💲98\n*跟餐水果茶\n3. 香芫美國牛板腱腸粉 💲108\n\n首先我自己食和風牛肉丼，佢另外仲有一粒糖心蛋，兩件炸雞，同埋一個一式三款嘅醃物；個份量方面對女仔來講好足夠，基本上食晒已經好飽，加上牛肉丼嘅味道相當濃郁，略嫌佢嘅牛肉只有兩三片，性價比比較低。\n\n朋友嗰個燒五花鰹魚湯泡飯，望落去都幾吸引，佢上面有紫菜，蔥花，木魚碎，加上幾快燒咗嘅五花肉，飯粒粒分明，感覺上真係幾高質。\n\n而佢嘅牛板腱腸粉，原來係用牛包住芫荽，上面仲有芥末汁，成件事冇諗過幾match，大家可以一試！\n\n而飲品方面就正正常常，冇特別。\n\n如果喺附近經開想食飯，都推介可以來一戰ʕ •ᴥ•ʔ",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ju Lam",
+          "uri": "https://www.google.com/maps/contrib/118012132721960122231/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW430__dDYwNzq7RLPIOMAtDi5pLlew09Vx3Yvv1ZJ0YdkZ9-0=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-09-15T10:41:33.219460Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlX3I3dkNnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlX3I3dkNnEAE!2m1!1s0x3404012739174493:0x3152ce74de179ad4"
+      },
+      {
+        "name": "places/ChIJk0QXOScBBDQR1JoX3nTOUjE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIajk3Q1R3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "非常之完美嘅一間餐廳，食物同飲品都係絕世高質，隱世高手。\n\n首先排隊方面，無論幾熟都好一樣要等其他客人慢慢享用完埋單走先比入，好注重堂食客人體驗，唔會催客走。\n\n至於環境好清幽又有啲水泥風，有格調得來又座得舒服，冷氣好夠。\n\n麵係呢間鋪嘅靈魂，真係用極緻來形容，中華冷麵幼身又爽彈，配埋足料又爽口嘅魚皮，撈埋山椒真嘅一級棒啊👍🏼！\n\n湯飯就充滿儀式感，打卡一流。咖啡方面又係一絕，有機豆加上比例岩岩好嘅奶完全唔蓋過咖啡嘅香味，唔會變淡，成件事從來未有過咁好體驗，真係好似去左第二個人生咁😎超癲！\n\n好好味啊～～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常之完美嘅一間餐廳，食物同飲品都係絕世高質，隱世高手。\n\n首先排隊方面，無論幾熟都好一樣要等其他客人慢慢享用完埋單走先比入，好注重堂食客人體驗，唔會催客走。\n\n至於環境好清幽又有啲水泥風，有格調得來又座得舒服，冷氣好夠。\n\n麵係呢間鋪嘅靈魂，真係用極緻來形容，中華冷麵幼身又爽彈，配埋足料又爽口嘅魚皮，撈埋山椒真嘅一級棒啊👍🏼！\n\n湯飯就充滿儀式感，打卡一流。咖啡方面又係一絕，有機豆加上比例岩岩好嘅奶完全唔蓋過咖啡嘅香味，唔會變淡，成件事從來未有過咁好體驗，真係好似去左第二個人生咁😎超癲！\n\n好好味啊～～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Master life style Food and beverage lover",
+          "uri": "https://www.google.com/maps/contrib/115340041278495606743/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNcfi--wDBNX_VGfQqCLjIVQY1RxFi4wi0NFkEpTdWcQOzIsU=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-09-10T06:50:56.771118Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIajk3Q1R3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIajk3Q1R3EAE!2m1!1s0x3404012739174493:0x3152ce74de179ad4"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404012739174493:0x3152ce74de179ad4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3554130057286359764&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012739174493:0x3152ce74de179ad4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404012739174493:0x3152ce74de179ad4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404012739174493:0x3152ce74de179ad4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJk0QXOScBBDQR1JoX3nTOUjE/photos/Aa-ngMbra4cWXS8GDk7CXE-_pr-pz-drB7d-0iAQa2mOB8ridj2wc4j88MT71Yud7yZAMj8g61-c1FCK-KseyPnJsqGTQ7U91VnGs_7R7pkJDnAcN8BR1IayKpY68z0i0RfsGcbLz7k1TtxRuFgqbRv86SbHFRroaqOo_RdidyCf7AR47BnLEw4wU8Dbfs9DBlZYs_Q3xVAg9tKQh7DfuE8lSdDfjW0yzjrw7gPT_DEbT-oowp2jffZsLNWnNjh0HoBEfJHqByVwxk90Ly_D6W1qJVt8KV1cDklfvRl9_Z0YMFNYIFiiHVSHax4eYoFCMq_07OK9qs_zO9lOwUiBvvhcZi4MHCbqnQyW9xiYFZN52LWik5lyBrucf7uoBOYjf7leVWsSQItc1Q2A9FComnwMW24J-tP0MTE",
+      "widthPx": 1536,
+      "heightPx": 2048,
+      "authorAttributions": [
+        {
+          "displayName": "第二人生",
+          "uri": "https://maps.google.com/maps/contrib/114542991086794745644",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUm52VEX0wsvnYRc5vGFrBq6dxghQydUy74JMT3bCn9GZLzm-w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID65LK8oQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID65LK8oQE!2e10!4m2!3m1!1s0x3404012739174493:0x3152ce74de179ad4"
+    },
+    "local_path": "photos/ChIJk0QXOScBBDQR1JoX3nTOUjE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWds4B49KUf7Nc77Q18aCiesnu9lbnsf_ftiDtwKIOLlMjJyni_M77Zkk9MW9hz-Yy71SnFR1P-n73JZPuw2tcYMNg7ui7E4H88SBkgPI7YfkvDiNoifkctzsVWcu3MmxGtEYzYw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 263732
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "asian_fusion_restaurant",
+    "label": "亞洲各國料理餐廳",
+    "types": [
+      "asian_fusion_restaurant",
+      "asian_restaurant",
+      "fusion_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

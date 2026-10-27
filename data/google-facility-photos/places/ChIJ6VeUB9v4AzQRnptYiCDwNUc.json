@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ6VeUB9v4AzQRnptYiCDwNUc",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界青衣青敬路60號",
+  "location": {
+    "latitude": 22.3558983,
+    "longitude": 114.1056299
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5131271372975676318&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "青衣公園",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJ6VeUB9v4AzQRnptYiCDwNUc/photos/Aa-ngMbkeI2bWnqG4z8H7C77tZ6AGXkGsnsI1klRlDcpWBzBBj3YUhRespSazbkdca4grD1ukjfxO0aB8MkpkhOQVF3kUEtEQBgARaWagznY4-NE1CLDE4hhiYPgWYhkxycq65-gna_YuDZGeP8RUgdZCJrBekyrFvFIOmsBsm3deqRPCb7bjtiXedHEBqYNZ1oyJr0YY2KjCT3Yj49MSRxA-f6XaHM6UDL2aS1cFPDoJTwBOW4TeUgzfP1K77s7MyZjmge6UNYYQeLUiko_IQi_isPTrtW7bKK_WtL_dir5iMvaHephGWNV8v0bR77l021flvgHFZXT1FJbK3kJNDV4GDMTjHMCu_R0WQ7ewopwNxek3aMj38cjkCrqSS38DVxyoiY_do1ucqzc6hAiQLht7fJqQQ",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Jim Lee Wing",
+          "uri": "https://maps.google.com/maps/contrib/102571243249000735643",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAY6ipTRvHo88tSWx-7roGqUK33gM51HSRSQpgpPlXoEKZAg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy55qTTg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy55qTTg!2e10!4m2!3m1!1s0x3403f8db079457e9:0x4735f02088589b9e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:11.294480+00:00"
+}

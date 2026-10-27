@@ -1,0 +1,38 @@
+{
+  "id": "ChIJEfgt4mAABDQRbiJiRG-JJJE",
+  "types": [
+    "tourist_attraction",
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島中環龍和道",
+  "location": {
+    "latitude": 22.2830932,
+    "longitude": 114.16617219999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10458635345642791534&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "中西區海濱長廊 - 中環段",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJEfgt4mAABDQRbiJiRG-JJJE/photos/Aa-ngMZRopVooX92zoCaGDPYWg0DJgmDe7OiEZoiL9kUFft9neiA47KkBurLZu3BEWZpFnuV83q40FGCvpuTi94LOBOw6ecda3TncX6RcVVd_tox-pbfsPmpH1oNRU8gupQsCnsIOjPlchDrCKQm0Bnl6Nwn8rXB-pUW59gtCtbVrflVyGwqEE5iDPeNGnXVZiCKrfybbQzvq2sPH9yUrD1MT_WyjELJY29cY4hNXonER8IcRyv6ohum5-icoDflocf6X9-MMfsxGm5IBckSIhYh-ku1j7gZKxalZRpn4THXFpJL9zT5KXI20Lh2RCnHy_2Voaa5Fjwxo4-23O8geaUMVTbrkDpYI6agWJL1bVsXNXNvMQmIZZqnd0jh7qCPRfWt2soOJjkoGJ8goHqcIkT9B0phQm4",
+      "widthPx": 3648,
+      "heightPx": 2736,
+      "authorAttributions": [
+        {
+          "displayName": "Shi-Ting Chu",
+          "uri": "https://maps.google.com/maps/contrib/117148199602544876966",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPYevRmZ9IbfWgvysXFqiZNd5VZjBdFYrduIbdy4hZ-tJqMHuyNQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICk5tbpLg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk5tbpLg!2e10!4m2!3m1!1s0x34040060e22df811:0x9124896f4462226e"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:07.314961+00:00"
+}

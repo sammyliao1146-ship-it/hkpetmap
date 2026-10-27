@@ -1,0 +1,305 @@
+{
+  "google_place_id": "ChIJd04KSwAJBDQRQexTJ6LgfZY",
+  "restaurant_ids": [
+    "restaurant:3195801777"
+  ],
+  "fetched_at": "2026-10-23T15:38:53.863886+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJd04KSwAJBDQRQexTJ6LgfZY",
+    "types": [
+      "supermarket",
+      "grocery_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3761 1316",
+    "internationalPhoneNumber": "+852 3761 1316",
+    "formattedAddress": "香港新界大埔優景里63號地下20 21號舖SILICONLANE",
+    "location": {
+      "latitude": 22.4272623,
+      "longitude": 114.2018167
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=10844070464827157569&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.yata.hk/tch/store/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 10:00 – 23:00",
+        "星期二: 10:00 – 23:00",
+        "星期三: 10:00 – 23:00",
+        "星期四: 10:00 – 23:00",
+        "星期五: 10:00 – 23:00",
+        "星期六: 10:00 – 23:00",
+        "星期日: 10:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 16,
+    "displayName": {
+      "text": "每日一田YATADAY SILICON LANE店",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "超級市場",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "supermarket",
+    "reviews": [
+      {
+        "name": "places/ChIJd04KSwAJBDQRQexTJ6LgfZY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRaTQ2MHVnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "新落成、十分方便的超市，沒有迂迴曲折的內部，一眼望透；原本附近沒有任何雜貨購買店鋪，購物較困難需遠走出市區，現為附近人士帶來便利。新淨，以超市來說貨物種類齊全，有自助購物機。就在對面街有停車場，大量泊車位，亦可方便不遠居民購物。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "新落成、十分方便的超市，沒有迂迴曲折的內部，一眼望透；原本附近沒有任何雜貨購買店鋪，購物較困難需遠走出市區，現為附近人士帶來便利。新淨，以超市來說貨物種類齊全，有自助購物機。就在對面街有停車場，大量泊車位，亦可方便不遠居民購物。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mono Shiki",
+          "uri": "https://www.google.com/maps/contrib/101114764627457334685/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsAbE4_3BbLroPMiwX8VcNpMogGeSgMXfn3wleKEJ_R8RwaA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-03-07T03:43:53.038542Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRaTQ2MHVnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRaTQ2MHVnRRAB!2m1!1s0x340409004b0a4e77:0x967de0a22753ec41"
+      },
+      {
+        "name": "places/ChIJd04KSwAJBDQRQexTJ6LgfZY/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3aXMyNzdnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "不太大，沒有刺身賣",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "不太大，沒有刺身賣",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Choi PY",
+          "uri": "https://www.google.com/maps/contrib/110138432760865267282/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4ckbYwzPvbXl1X3s48k69HxvH-XgQR2Q265V2AAF-ZL10fDfz=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-03-25T07:08:37.803440Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3aXMyNzdnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3aXMyNzdnRRAB!2m1!1s0x340409004b0a4e77:0x967de0a22753ec41"
+      },
+      {
+        "name": "places/ChIJd04KSwAJBDQRQexTJ6LgfZY/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xcVZtbEJRazlYY0V0VVRrbDBVbkY2TjJaeWFtYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 2,
+        "text": {
+          "text": "店員很友善，奶昔機也很酷。但是庫存太不穩定，我需要的東西總是缺貨。我覺得可能是其他Yata分店的剩餘商品都運到這裡來了。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "The staff are nice and the smoothie machine is cool. The inventory is too inconsistent and things are always out of stock when I need them. I think the leftover items from other Yata branches end up here.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Michael",
+          "uri": "https://www.google.com/maps/contrib/106188594487830490511/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ_caSCyIQrLLPQDGeWBwpfItJ0Se-0yk2Nc-1km8_umfnvig=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-15T12:53:13.043464679Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xcVZtbEJRazlYY0V0VVRrbDBVbkY2TjJaeWFtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xcVZtbEJRazlYY0V0VVRrbDBVbkY2TjJaeWFtYxAB!2m1!1s0x340409004b0a4e77:0x967de0a22753ec41"
+      },
+      {
+        "name": "places/ChIJd04KSwAJBDQRQexTJ6LgfZY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sbE9UQmFSWGRPWjJSSVVqSlVWMXByZW1weU9WRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "能找到一家不設停車場也不擁擠的商店真是太好了。這裡有各種各樣的日本食品和零食，種類繁多，非常豐富，而且店面整潔舒適，購物體驗很棒，我很喜歡。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "It’s just so nice you have something that is not parking shop or welcome. There is a distance selection of Japanese food and snacks and so for real pretty interesting and the story is tidy pretty comfortable to shop at love it",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Dee Han",
+          "uri": "https://www.google.com/maps/contrib/108849554291816781217/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdILDlzNaK3Vx9RhIdhVrazOIpCS2OnirMy5QydhHP5fa9wg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-26T12:33:44.346984733Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sbE9UQmFSWGRPWjJSSVVqSlVWMXByZW1weU9WRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sbE9UQmFSWGRPWjJSSVVqSlVWMXByZW1weU9WRRAB!2m1!1s0x340409004b0a4e77:0x967de0a22753ec41"
+      },
+      {
+        "name": "places/ChIJd04KSwAJBDQRQexTJ6LgfZY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kd09GQk9MV3BXV1RSc1VqaExSRXRxUmt0UlVXYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "方便\n\n氣氛好\n\n乾淨\n\n我更喜歡這裡，而不是梅菲爾巷的市集。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Convenient\n\nGood vibe\nClean\n\nI like it more than marketplace In Mayfair lane",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Kay Cee",
+          "uri": "https://www.google.com/maps/contrib/111427608201444506452/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKMnrTpipd4x0kO7j6plbmVnRA60zBsZRbzHp6srvGUWK-CMA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-07T12:38:10.182971848Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kd09GQk9MV3BXV1RSc1VqaExSRXRxUmt0UlVXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kd09GQk9MV3BXV1RSc1VqaExSRXRxUmt0UlVXYxAB!2m1!1s0x340409004b0a4e77:0x967de0a22753ec41"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340409004b0a4e77:0x967de0a22753ec41!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10844070464827157569&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409004b0a4e77:0x967de0a22753ec41!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340409004b0a4e77:0x967de0a22753ec41!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409004b0a4e77:0x967de0a22753ec41!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJd04KSwAJBDQRQexTJ6LgfZY/photos/Aa-ngMaw01SpQDvydGreJiTzcdZ6AX1brQPaTCq5EDeImF1nT9JulBdDiE1Dx1hVL-7sIdPvrb5PbfpfVClIS36ik_3hgCD9N6y1dvkXeLYRbfc0og_eFotovMVz-C-n8G4M5PlHPkgpclgDCmyS--0zfW4bcuuNomaw_RST3r0HnMb8nwcReyRnSGclQOnk4hbSCYkJVhU1CHA_Z-NOaL9-3EYg1Aec58GZq9VrJr1pVE5JW9X6KP6HptPvSKEe4fCHs64AnxJdSX81YGQgxzDJkQJr4Q_m4Ly0840n6oag0BMsUrGRgo2_cpeUOZ0eYjJo0DAAa0IEx42sPNfv9r-o-XybVWysPHCP-lEpHOO9n4iY9g0dwxxtPngUmtyCWGWT_nJvFFJ36SS_77Zaicg2FFN_jaqs",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Mono Shiki",
+          "uri": "https://maps.google.com/maps/contrib/101114764627457334685",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsAbE4_3BbLroPMiwX8VcNpMogGeSgMXfn3wleKEJ_R8RwaA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCQi460hgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQi460hgE!2e10!4m2!3m1!1s0x340409004b0a4e77:0x967de0a22753ec41"
+    },
+    "local_path": "photos/ChIJd04KSwAJBDQRQexTJ6LgfZY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoqvg4X4lfQQZMWta7Zf-HLwbqnGhFcdem1JUXnF0VowJyNWoYqiYrmu8Oxqg4YvLFzp99m6cY0H-2s_BASxEstjiNEKG08wzhmQv71ePv3HlejOC5RjVLbnwI2fZASnLPZaot=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 140881
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "ReadTimeout"
+  },
+  "cuisine": {
+    "primary_type": "supermarket",
+    "label": "超級市場",
+    "types": [
+      "supermarket",
+      "grocery_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

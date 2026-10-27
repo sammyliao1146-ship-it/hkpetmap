@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ4_dkVfb5AzQRQ5Z4lIiAiMA",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "鴨寮街9-9A號 地鋪, Sham Shui Po, Kowloon, 香港",
+  "location": {
+    "latitude": 22.326965599999998,
+    "longitude": 114.1660359
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13873479976209651267&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Piggy Style HK",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJ4_dkVfb5AzQRQ5Z4lIiAiMA/photos/Aa-ngMZM-Q8Mhg9Q8UWJPHO7dp3nnR14w5LL6Ybkm67GkKc5MrSgnzb992LGan8V_OIZovfQx8p8-yIQ4j8lWVuOxs8JAfKh3wDdIh_kMMzvJxQWzu5n-fnAG4-2PfQyawPQivYnviCzR-7qiW7Y451Vg2S-_A9n7BhAZ7qwguAa2fknV_TsI-cz97roHMJ15s7wz7b1q1G1gUxvny8n83Ymxzg2qjxTRqeT8G1nTTMVYio8alHn43iI53IHtHKhsioFi0CjeWkbq06YEkBOjfQygkI_THHPVwnwGl0sf1e2FIHixSnkrR9gfzPPPH7aAEePlUYSmMxbFL3vF8yi3eGcA9iWlsXYc1cD_7PR7NIEnLtaVlUBE1z1NASnFEL1QpWfYPGP2KQLuqgXp2C3D7MG89opgQ",
+      "widthPx": 4104,
+      "heightPx": 2736,
+      "authorAttributions": [
+        {
+          "displayName": "Piggy Style HK",
+          "uri": "https://maps.google.com/maps/contrib/111656671095237266143",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4aq6Oj9ZomPAJ6gRhQPz6ZqHMb_UTrzlBWjZlNB7IZb8WakQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICvkuLkEg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvkuLkEg!2e10!4m2!3m1!1s0x3403f9f65564f7e3:0xc088808894789643"
+    }
+  ],
+  "photo_count": 2,
+  "fetched_at": "2026-10-24T00:38:12.592009+00:00"
+}

@@ -1,0 +1,306 @@
+{
+  "google_place_id": "ChIJg1qgdqEBBDQReu1GZlKVnKE",
+  "restaurant_ids": [
+    "restaurant:3112803130"
+  ],
+  "fetched_at": "2026-10-23T15:50:06.605243+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJg1qgdqEBBDQReu1GZlKVnKE",
+    "types": [
+      "brunch_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9339 4029",
+    "internationalPhoneNumber": "+852 9339 4029",
+    "formattedAddress": "香港香港島灣仔盧押道11號",
+    "location": {
+      "latitude": 22.2772068,
+      "longitude": 114.17148309999999
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=11645346917609041274&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 21:00",
+        "星期二: 07:30 – 21:00",
+        "星期三: 07:30 – 21:00",
+        "星期四: 07:30 – 21:00",
+        "星期五: 07:30 – 21:00",
+        "星期六: 07:30 – 21:00",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-23T23:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 28,
+    "displayName": {
+      "text": "茶雪手作",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "早午餐餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "brunch_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJg1qgdqEBBDQReu1GZlKVnKE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GS2NURlZaMk5zUVRaQ2JreE5jVlJhVW5WVFduYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "係灣仔依間做港式茶餐廳嘅小店，佢地性價比真係極高👍🏻，人均幾十蚊，仲要份量好大😲，吾只主食種類豐富，而且佢地嘅梳孚厘都好出色🤤，口味都好多選擇\n\n🥩香煎牛肩胛併煎蛋飯🍳餐廳用左特製嘅調味料去醃牛肩胛，所以味道好入味，牛肩胛油脂肥瘦均勻，煎到個肉質嫩度啱啱好，加埋流心嘅煎蛋同飯一齊食好鮮美\n\n伯爵疏乎厘🥞伯爵茶味濃郁，疏乎厘口感軟綿綿，好有空氣感，依個真係必食\n\n芒芒雪奶🥭奶香味好足，芒果汁酸甜順滑，底下仲有啲晶球，口感豐富",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "係灣仔依間做港式茶餐廳嘅小店，佢地性價比真係極高👍🏻，人均幾十蚊，仲要份量好大😲，吾只主食種類豐富，而且佢地嘅梳孚厘都好出色🤤，口味都好多選擇\n\n🥩香煎牛肩胛併煎蛋飯🍳餐廳用左特製嘅調味料去醃牛肩胛，所以味道好入味，牛肩胛油脂肥瘦均勻，煎到個肉質嫩度啱啱好，加埋流心嘅煎蛋同飯一齊食好鮮美\n\n伯爵疏乎厘🥞伯爵茶味濃郁，疏乎厘口感軟綿綿，好有空氣感，依個真係必食\n\n芒芒雪奶🥭奶香味好足，芒果汁酸甜順滑，底下仲有啲晶球，口感豐富",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ksdaily",
+          "uri": "https://www.google.com/maps/contrib/111114701807168219215/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIF-vMQXq0r-isIvFzJsguLp5dOWhkeQ9e6yk8c7lTW-IgS9w=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-09-09T06:49:02.062271005Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GS2NURlZaMk5zUVRaQ2JreE5jVlJhVW5WVFduYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GS2NURlZaMk5zUVRaQ2JreE5jVlJhVW5WVFduYxAB!2m1!1s0x340401a176a05a83:0xa19c95526646ed7a"
+      },
+      {
+        "name": "places/ChIJg1qgdqEBBDQReu1GZlKVnKE/reviews/Ci9DQUlRQUNvZENodHljRjlvT210Tk1qTXhjak5oWVdaSVZuSkRXRzVtTVdFMVYyYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "估唔到呢間小店有咁多種類，糖水，湯水，中飯，西飯，下午茶，乜鬼都有！\n我見呢個菠蘿包嘅漢堡包好得意，所以入去試吓，又真係幾好食！個漢堡包肉好Juicy!\n\nThis is interesting, pineapple bun burger! The burger taste good!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "估唔到呢間小店有咁多種類，糖水，湯水，中飯，西飯，下午茶，乜鬼都有！\n我見呢個菠蘿包嘅漢堡包好得意，所以入去試吓，又真係幾好食！個漢堡包肉好Juicy!\n\nThis is interesting, pineapple bun burger! The burger taste good!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Andy C",
+          "uri": "https://www.google.com/maps/contrib/116898337278423949574/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdS04YN4cTE1UrFYJcVck4VkiSjMOfFTYU37v7NRA5lY13mnA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-09-13T01:34:10.680577543Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210Tk1qTXhjak5oWVdaSVZuSkRXRzVtTVdFMVYyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210Tk1qTXhjak5oWVdaSVZuSkRXRzVtTVdFMVYyYxAB!2m1!1s0x340401a176a05a83:0xa19c95526646ed7a"
+      },
+      {
+        "name": "places/ChIJg1qgdqEBBDQReu1GZlKVnKE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKblkza3diVzVMWm0xVE1Gb3dWVzFoYzJGTFVGRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "灣仔返工應該好多人都食呢間餐廳，餐廳咩都有得食，連疏乎厘都有得食，雖然今次冇事，但係午餐menu好豐富，味道好食，炸蝦有酒樓嘅風味人情味濃嘅餐廳！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "灣仔返工應該好多人都食呢間餐廳，餐廳咩都有得食，連疏乎厘都有得食，雖然今次冇事，但係午餐menu好豐富，味道好食，炸蝦有酒樓嘅風味人情味濃嘅餐廳！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "chan Cindy",
+          "uri": "https://www.google.com/maps/contrib/109320274246978087497/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtqPG1neaHFJVRRbcM051R9-TOzxUUrKAcrA-WwGo9HEF5CZEQ1Q=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-09-06T04:49:14.073005698Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKblkza3diVzVMWm0xVE1Gb3dWVzFoYzJGTFVGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKblkza3diVzVMWm0xVE1Gb3dWVzFoYzJGTFVGRRAB!2m1!1s0x340401a176a05a83:0xa19c95526646ed7a"
+      },
+      {
+        "name": "places/ChIJg1qgdqEBBDQReu1GZlKVnKE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSa1pFTTNMVzlxUVdGYU1YZGlXV3BtVjJSbWRrRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "一直想搵間食疏乎厘嘅舖頭，上網介紹過嗰啲試過都係麻麻哋，誤打誤撞搵到間喺灣仔。\n咁啱係下午茶時間，揀咗牛肩胛食，個湯清清地，食到鮮味，牛肉唔會揦到一pat pat，雖然下午茶但都夠晒份量，原來做緊promotion，可以特價試埋迷你版疏乎厘，口感好細滑，勁好味，唔夠喉，之後同老 best 再order多個海鹽疏乎厘，好滿足。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一直想搵間食疏乎厘嘅舖頭，上網介紹過嗰啲試過都係麻麻哋，誤打誤撞搵到間喺灣仔。\n咁啱係下午茶時間，揀咗牛肩胛食，個湯清清地，食到鮮味，牛肉唔會揦到一pat pat，雖然下午茶但都夠晒份量，原來做緊promotion，可以特價試埋迷你版疏乎厘，口感好細滑，勁好味，唔夠喉，之後同老 best 再order多個海鹽疏乎厘，好滿足。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "PrettyIDA",
+          "uri": "https://www.google.com/maps/contrib/107799699481986527051/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrZ07Kcj4Yf3PSf0beud7k0t0DaT08BTRC644iTnFFr3M0G4_O=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-08-09T10:10:54.326175089Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSa1pFTTNMVzlxUVdGYU1YZGlXV3BtVjJSbWRrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSa1pFTTNMVzlxUVdGYU1YZGlXV3BtVjJSbWRrRRAB!2m1!1s0x340401a176a05a83:0xa19c95526646ed7a"
+      },
+      {
+        "name": "places/ChIJg1qgdqEBBDQReu1GZlKVnKE/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzbTZyS0tREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "無寫車仔麵價錢，淨係寫左下午茶價錢，咁就睇錯左\n可能我揀擇，無咩餸揀，牛腩好韌好鞋，但蘿蔔算幾好味。\n得清湯，酸辣麻辣另加$5。腩汁都無得加\n同埋碗麵有條頭髮，好彩伙計即刻換\n但早知行多兩步去明明車仔麵",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "無寫車仔麵價錢，淨係寫左下午茶價錢，咁就睇錯左\n可能我揀擇，無咩餸揀，牛腩好韌好鞋，但蘿蔔算幾好味。\n得清湯，酸辣麻辣另加$5。腩汁都無得加\n同埋碗麵有條頭髮，好彩伙計即刻換\n但早知行多兩步去明明車仔麵",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "H J",
+          "uri": "https://www.google.com/maps/contrib/117160417883788390430/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtD1E2E8MU6kNgpqD6o2vmeYci3-kHzTjTNpq27B0LilyvZ98ScQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-11-19T05:53:06.455826Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzbTZyS0tREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzbTZyS0tREAE!2m1!1s0x340401a176a05a83:0xa19c95526646ed7a"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401a176a05a83:0xa19c95526646ed7a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11645346917609041274&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401a176a05a83:0xa19c95526646ed7a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401a176a05a83:0xa19c95526646ed7a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401a176a05a83:0xa19c95526646ed7a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJg1qgdqEBBDQReu1GZlKVnKE/photos/Aa-ngMZUt-u8XoR2Zt40F7PVu4DnQVGpGkGnPpjL6Si-Gz7Z5Y-HR6KNJjEm0RmoJhy36yZhE29GCSbRzLMGspp3pk4mDBeO3Uw2qA6rqf7kN9RV5qe6o8gTZSJANjehOMrQsZWDeSJYGIdnrXzSPEpJiDjwZFYdz-wiGBWvY8L9ARIB7om2FZ95tKRdRJMwjY1ZTv2AwAfOw6YZwkaHKVhi_nG3_yO_fgY5JdHVsV73NBEuujlnNGsb3ENRFQbs3F3DdzmpPkz6FHlrJmsevCsb8OJ-3agdX4A-V5zjx9amsMT044zWH2Wlh2heczrOAqsWNArhr6YHDsYQO-pNB_cDaNef8ReceCcuUDF6FdiBF8V6aOdl56RojWDq5GfzJJIhjk8jiMzIn__B94wbcXbLjMvIccUdncpDPtsB7f9xdMWM7g",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Ksdaily",
+          "uri": "https://maps.google.com/maps/contrib/111114701807168219215",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIF-vMQXq0r-isIvFzJsguLp5dOWhkeQ9e6yk8c7lTW-IgS9w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBfkTg3okurnX1GXfmNTebk&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBfkTg3okurnX1GXfmNTebk!2e10!4m2!3m1!1s0x340401a176a05a83:0xa19c95526646ed7a"
+    },
+    "local_path": "photos/ChIJg1qgdqEBBDQReu1GZlKVnKE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkD3pLD-bvvdbPnkWi0Q11WeEjFG50uJ6_Xs-OA3voDAAsmd6aoIoPvkHhIoacvgS41hWNw8o21gjfaMctDT6iML-600CRsfz2RMwXFrLeXlacZVNUHtLbxDQwG5USfp0mUFP3jC6vkcHZ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 279912
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "brunch_restaurant",
+    "label": "早午餐餐廳",
+    "types": [
+      "brunch_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

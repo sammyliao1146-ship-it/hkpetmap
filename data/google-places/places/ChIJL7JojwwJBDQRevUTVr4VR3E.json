@@ -1,0 +1,397 @@
+{
+  "google_place_id": "ChIJL7JojwwJBDQRevUTVr4VR3E",
+  "restaurant_ids": [
+    "restaurant:2295801502"
+  ],
+  "fetched_at": "2026-10-23T15:38:03.241411+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJL7JojwwJBDQRevUTVr4VR3E",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3956 4714",
+    "internationalPhoneNumber": "+852 3956 4714",
+    "formattedAddress": "香港新界太和大埔17a地鋪",
+    "location": {
+      "latitude": 22.4529046,
+      "longitude": 114.1627422
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=8162516756864431482&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 14:30, 18:00 – 22:30",
+        "星期二: 12:00 – 14:30, 18:00 – 22:30",
+        "星期三: 12:00 – 14:30, 18:00 – 22:30",
+        "星期四: 12:00 – 14:30, 18:00 – 22:30",
+        "星期五: 12:00 – 14:30, 18:00 – 22:30",
+        "星期六: 12:00 – 14:30, 18:00 – 22:30",
+        "星期日: 12:00 – 14:30, 18:00 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 64,
+    "displayName": {
+      "text": "芽生",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJL7JojwwJBDQRevUTVr4VR3E/reviews/Ci9DQUlRQUNvZENodHljRjlvT214MFZuYzVkRlF6ZG1SamVUSnZjMnBRWkhWVldIYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "日本餐 廚師限定的食品非常美味！ ❤️🥳👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "日本餐 廚師限定的食品非常美味！ ❤️🥳👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sze Hoo Roger Yuen",
+          "uri": "https://www.google.com/maps/contrib/101183053549308427559/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqiflD5UCVv9uAPvY002tmGLL-pGzAcnOsiLKJ9ep4s8AYn_c=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-27T13:45:50.800185521Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214MFZuYzVkRlF6ZG1SamVUSnZjMnBRWkhWVldIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214MFZuYzVkRlF6ZG1SamVUSnZjMnBRWkhWVldIYxAB!2m1!1s0x3404090c8f68b22f:0x714715be5613f57a"
+      },
+      {
+        "name": "places/ChIJL7JojwwJBDQRevUTVr4VR3E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkSmRWSTJUV2hXT0hKc1ZUWkROelJJTW1oNmNXYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "大埔隱世Omakase，師父善用當造食材創造出精美嘅味道，食物環境同氣氛都一流",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大埔隱世Omakase，師父善用當造食材創造出精美嘅味道，食物環境同氣氛都一流",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Heyman Tsang",
+          "uri": "https://www.google.com/maps/contrib/115007762982212813980/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGHIxdqtlz48DwSLLhzSqMXiEIH2ibGdEloTNa7ggOjQTz8RtbYw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-19T14:05:09.829657127Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkSmRWSTJUV2hXT0hKc1ZUWkROelJJTW1oNmNXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkSmRWSTJUV2hXT0hKc1ZUWkROelJJTW1oNmNXYxAB!2m1!1s0x3404090c8f68b22f:0x714715be5613f57a"
+      },
+      {
+        "name": "places/ChIJL7JojwwJBDQRevUTVr4VR3E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNacXJUWld3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "大埔隱世omakase小店，整個體驗好好，師傅細心介紹每道菜，食材新鮮，最特別係備長炭燒拖羅",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大埔隱世omakase小店，整個體驗好好，師傅細心介紹每道菜，食材新鮮，最特別係備長炭燒拖羅",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "K L",
+          "uri": "https://www.google.com/maps/contrib/112936621409203045024/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUmFq0pGTyUrw94aIhqEw5Rwz5VnuCwX7ozGorn-Xagjjwr6XM4Lw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-09-08T09:57:34.344830Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNacXJUWld3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNacXJUWld3EAE!2m1!1s0x3404090c8f68b22f:0x714715be5613f57a"
+      },
+      {
+        "name": "places/ChIJL7JojwwJBDQRevUTVr4VR3E/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtNV9TZGZREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "食物 ，食材 ，技術\n師傅\n接待\n\n整個團隊 都係十分出色\n\n次次都 又滿足 又 開開心心 的過一晚",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物 ，食材 ，技術\n師傅\n接待\n\n整個團隊 都係十分出色\n\n次次都 又滿足 又 開開心心 的過一晚",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ka fai Fung",
+          "uri": "https://www.google.com/maps/contrib/115760426480885284787/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSIGv2ZTYg1H6mnWgCfSZJ6C3-MBC17FNEu0g3QTXFGWGDYJwx=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-12-11T14:34:07.520919Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtNV9TZGZREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtNV9TZGZREAE!2m1!1s0x3404090c8f68b22f:0x714715be5613f57a"
+      },
+      {
+        "name": "places/ChIJL7JojwwJBDQRevUTVr4VR3E/reviews/ChdDSUhNMG9nS0VJQ0FnSURldFBlODJ3RRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 5,
+        "text": {
+          "text": "身為大埔人\n間鋪開咗3年先去 十分慚愧\n食材絕對新鮮seasonal\n值得一去再去嘅omakase",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "身為大埔人\n間鋪開咗3年先去 十分慚愧\n食材絕對新鮮seasonal\n值得一去再去嘅omakase",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ka hei charles Chung",
+          "uri": "https://www.google.com/maps/contrib/114044778983472845734/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnqmovKwONez-hX-CgKcB9Jwv9ykvUBQ8fNF1YK3wYf8wo5Pg=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2022-10-05T11:58:16.912101Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURldFBlODJ3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURldFBlODJ3RRAB!2m1!1s0x3404090c8f68b22f:0x714715be5613f57a"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404090c8f68b22f:0x714715be5613f57a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8162516756864431482&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404090c8f68b22f:0x714715be5613f57a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404090c8f68b22f:0x714715be5613f57a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404090c8f68b22f:0x714715be5613f57a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJL7JojwwJBDQRevUTVr4VR3E/photos/Aa-ngMY4ZPbHEKYoFBEHca9O9ODO1Qv2pltAgjLWVt_9dOGfwFO39G2p0Ys9Zb_adqDmz_87IeVFMTECuGWhqUYq_pZj6DuVPz2jHMwM5777pvWpOz3TyogG5xocTzGoDpiTletQ4ZubfUWLN284vY5ohXhKOBBuEbo-GURy-h0zNoxqk6jh4EPGR025BqfYaL4z5l-Pi1lGovYnwepU83P101a6MQZsgbuYZ4ocbBe8q-_k6GCKSe-DrAIuLm-rgq5CETFXskveSvwi-zyyfQWay44DPOuQLLbtpSK8IR9Eizw78nglf6Ir3uYenBYGUiscpiNgXRbYObZO_OHCumEg-IT7jFKF02SMZQCr7PIrKOuwT99-17zKuRRulg6c1w0i5fk68WYYnWMQjgxVBLEpecKGZo7f",
+      "widthPx": 4352,
+      "heightPx": 3264,
+      "authorAttributions": [
+        {
+          "displayName": "Benjamin Lai",
+          "uri": "https://maps.google.com/maps/contrib/100534240514524848034",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZp5GGthn6jgcjrlzH8WKd7jUeqbs799FtHMzFzMfbBVO-lisdug=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICM9r357gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM9r357gE!2e10!4m2!3m1!1s0x3404090c8f68b22f:0x714715be5613f57a"
+    },
+    "local_path": "photos/ChIJL7JojwwJBDQRevUTVr4VR3E.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnxCSD4jollp3ATFEGPSgUozKdMYASZeTkCru_Ez7Khfdig1AOII-TgPdjHopxI0VEMbbabhcZmsbCV2LG_39ssP1vtdL8TjblnJADQlCkJ7dPhswuAN1sKTUacr1Iffgyqw7s=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 82744
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

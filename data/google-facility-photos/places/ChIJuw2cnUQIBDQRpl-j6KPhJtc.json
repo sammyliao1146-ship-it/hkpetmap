@@ -1,0 +1,38 @@
+{
+  "id": "ChIJuw2cnUQIBDQRpl-j6KPhJtc",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界大埔大埔公路元洲仔段",
+  "location": {
+    "latitude": 22.4469444,
+    "longitude": 114.1775
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15503326861368450982&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "元洲仔公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJuw2cnUQIBDQRpl-j6KPhJtc/photos/Aa-ngMZoNQOzK4i-RkQLt-49L1cqSULWpthKx57WBaP65LlVkfGMG75J7tXxQlx0Fq19Mdj9nvOllfgTR08GlVFYagjHWPRWGOecayIG58xsEvIjx3guf-eBU9ZAtg48hjRZaUYixl0pQGrXoBr1e8_SISNB2HLWUL0zFBe3KZV1nA1VFNvlITmr3vaM-XSMHHUcJCcFfr-OYKg4HHpYC3dsdIfSPUlxD-Rv0ERrBlIbKCans8Go6IJYxKN7FVBh5vZx5k9lS-yp0ZvqVENxPd01yHPBD_NBrJ9xhf6tPqLhHIc62u2HrgreCgUzoIidP_1eew23mqiO_w_Lv3QcW0EzU8dlOKl43s9WlLoHKNMMXZb_IuHhIUukR59kJF-2YzXLHSnxF_EkyDA_VflS-EXavUUYRNIvPU8",
+      "widthPx": 4000,
+      "heightPx": 2250,
+      "authorAttributions": [
+        {
+          "displayName": "Tin Sung Wong",
+          "uri": "https://maps.google.com/maps/contrib/112705001273958115873",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLen131mCGTp2E65eBbfaFr4CJpTzgtIOr-ZO8bLhgwqLyKmg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICKs7L9qAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKs7L9qAE!2e10!4m2!3m1!1s0x340408449d9c0dbb:0xd726e1a3e8a35fa6"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:20.384091+00:00"
+}

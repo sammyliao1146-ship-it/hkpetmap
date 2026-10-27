@@ -1,0 +1,40 @@
+{
+  "id": "ChIJB3amj1sBBDQRfGzmvwpXLwM",
+  "types": [
+    "pet_boarding_service",
+    "store",
+    "pet_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍觀塘駿業街58號9樓",
+  "location": {
+    "latitude": 22.311236299999997,
+    "longitude": 114.22308269999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=229497809700023420&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Dog Inn",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJB3amj1sBBDQRfGzmvwpXLwM/photos/Aa-ngMb7OKWHWKVV_e3ecBXgsOzWNLps6giqOf-IEbbzMlhs4F0jEamxeG6HKzrJZrAOCsH4OqDxKxq9Wuxb_joUIc-I-TQ6HzbUI18suDcWbI-QiptUvttb1FomEcGJrcgVMz44b1OXoECuFx2Rup2ayZlB61_oyo8g-COnzUO0t36bKeHNto4OI43Ar7IMMtftzEfi39dTpyKIpHe23OeyrjY3y68iqIkIoGvKjfEf2Pi3kmX6UdIRbvhVyMAbDIv56Tkc2f4YQC_94_u6r8fSlaO3FefKZCaCBcWoOnztBoi3gljZCaGHjGltjLxzIMOS1ZPAIkvueYB18XhdNzuXxncBQeOVhEOML1vXxYRBCLALuGO2w0plpkegedhUPGEWLqKJWJXMI-yZndKLjrYdoySf-Qg7DXFzvDQlgLT2kcV1hw",
+      "widthPx": 1500,
+      "heightPx": 1000,
+      "authorAttributions": [
+        {
+          "displayName": "Dog Inn",
+          "uri": "https://maps.google.com/maps/contrib/115364885478219210061",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2lJAheEwdWNJ2-ROTTGF0tYbQB9MdgKWFpvvVDE4HntGL02I=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAGbyfQvhT4IGfdF_YAA2iR&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQvhT4IGfdF_YAA2iR!2e10!4m2!3m1!1s0x3404015b8fa67607:0x32f570abfe66c7c"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:16.102341+00:00"
+}

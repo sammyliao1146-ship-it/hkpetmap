@@ -1,0 +1,436 @@
+{
+  "google_place_id": "ChIJCzSgAOgBBDQRizx3iEqp7Rs",
+  "restaurant_ids": [
+    "restaurant:2261819388"
+  ],
+  "fetched_at": "2026-10-23T15:48:57.337329+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJCzSgAOgBBDQRizx3iEqp7Rs",
+    "types": [
+      "yakitori_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3611 3014",
+    "internationalPhoneNumber": "+852 3611 3014",
+    "formattedAddress": "Shop OTE 402, Level 4, Ocean Terminal, Harbour City, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.2944471,
+      "longitude": 114.16521949999999
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=2012450746086669451&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.thefoodstoryhk.com/shiawase/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 22:00",
+        "星期二: 12:00 – 15:00, 18:00 – 22:00",
+        "星期三: 12:00 – 15:00, 18:00 – 22:00",
+        "星期四: 12:00 – 15:00, 18:00 – 22:00",
+        "星期五: 12:00 – 15:00, 18:00 – 22:00",
+        "星期六: 11:30 – 15:00, 18:00 – 22:00",
+        "星期日: 11:30 – 15:00, 18:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 148,
+    "displayName": {
+      "text": "幸匠燒",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式串燒餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "yakitori_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJCzSgAOgBBDQRizx3iEqp7Rs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OWlVEQkZlSHBGVEZkUFJGcDBPV2czVFMxalZVRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "尖沙咀海港城幸匠燒，以日本神社鳥居為設計靈感，坐擁維多利亞港海景🌅將高級日式料理與香港標誌性景致結合，揉合神社祭典的熱鬧與高尚居酒屋的精緻感，環境優雅寧靜又浪漫，生日、紀念日或情侶約會都超適合🎊🥂\n\n「幸の晚宴 - 二人前」套餐，前菜廚師沙律新鮮開胃；刺身三品盛有油甘魚緊緻肥美、甜蝦鮮甜飽滿、北海道帶子厚切柔嫩；海老雜錦天婦羅外脆內鮮；串燒五品盛香氣十足，雞翼外脆內嫩、雞軟骨爽脆、月見雞肉棒濃郁、雞腎有嚼勁、秋葵清爽解膩；主菜炭火燒A5和牛扒(+$168)油花細密入口即化，奢華牛香；日式炒野菜清爽帶蒜香；迷你蒲燒鰻魚丼(+$88)外焦內嫩；最後柚子雪芭酸甜冰涼清新收尾。\n\n嚴選頂級食材、海鮮及和食料理，體現正宗和風，追求高品質、高格調的餐飲享受，尖沙咀想食高質日本串燒同海鮮，幸匠燒絕對係隱藏版好選擇！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "尖沙咀海港城幸匠燒，以日本神社鳥居為設計靈感，坐擁維多利亞港海景🌅將高級日式料理與香港標誌性景致結合，揉合神社祭典的熱鬧與高尚居酒屋的精緻感，環境優雅寧靜又浪漫，生日、紀念日或情侶約會都超適合🎊🥂\n\n「幸の晚宴 - 二人前」套餐，前菜廚師沙律新鮮開胃；刺身三品盛有油甘魚緊緻肥美、甜蝦鮮甜飽滿、北海道帶子厚切柔嫩；海老雜錦天婦羅外脆內鮮；串燒五品盛香氣十足，雞翼外脆內嫩、雞軟骨爽脆、月見雞肉棒濃郁、雞腎有嚼勁、秋葵清爽解膩；主菜炭火燒A5和牛扒(+$168)油花細密入口即化，奢華牛香；日式炒野菜清爽帶蒜香；迷你蒲燒鰻魚丼(+$88)外焦內嫩；最後柚子雪芭酸甜冰涼清新收尾。\n\n嚴選頂級食材、海鮮及和食料理，體現正宗和風，追求高品質、高格調的餐飲享受，尖沙咀想食高質日本串燒同海鮮，幸匠燒絕對係隱藏版好選擇！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "HKFoodiary852",
+          "uri": "https://www.google.com/maps/contrib/115443806560430302405/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBMJ9OTXHG4fCfJRTJXGjOn1WtSt40rRGM6cMB8IKO-DqaTA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-27T09:29:25.430904225Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OWlVEQkZlSHBGVEZkUFJGcDBPV2czVFMxalZVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OWlVEQkZlSHBGVEZkUFJGcDBPV2czVFMxalZVRRAB!2m1!1s0x340401e800a0340b:0x1beda94a88773c8b"
+      },
+      {
+        "name": "places/ChIJCzSgAOgBBDQRizx3iEqp7Rs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxYVNFVlhhV1ZVWjI5Q2RYUnFObXBaUkVNelkyYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "維港海景｜日式料理\n\n🌆 餐廳環境最top嘅賣點一定係呢個大玻璃窗！呢度將頂級嘅日式料理同香港最標誌性嘅維多利亞港海景完美結合。露台位配埋變色月亮裝置，一邊望住靚景一邊食飯，成個氛圍浪漫到暈。真係好啱情侶紀念日或者生日慶祝。\n室內設計好有心思，揉合神社祭典與高尚居酒屋嘅裝潢，成個空間既有日本神社祭典嗰種熱鬧、有活力嘅氣氛，同時又不失高尚居酒屋嘅精緻與奢華感。\n\n呢度🍱嚴選頂級食材，由新鮮海鮮到各款精緻和食都應有盡有，完美體現正宗和風料理。\n\n🔹時令前菜清爽又開胃有少少辣\n\n🔹蟹肉飛魚子沙律🥗賣相吸引，一絲絲嘅鮮甜蟹肉上面鋪滿橙色飛魚子，配埋鮮紅蕃茄片同紫椰菜，配埋個汁酸甜開胃。\n\n🔹刺身三品盛（油甘魚•甜蝦•北海道帶子）\n油甘魚油脂豐富，帶子仲夾住鮮檸檬，鮮味十足。\n\n🔹天婦羅炸到酥脆，炸粉唔好厚。\n\n🔹串燒火喉控制得好好，特別係雞翼同雞軟骨都好夠香脆，而我最鍾意嘅係月見雞肉棒，食落甜甜地口感又有啲雞軟骨既爽口。\n\n🔹炭火燒 A5和牛扒🥩\n呢個係我食過本年度最好食嘅和牛扒！和牛表面煎到帶點微燶以鎖住肉汁，中間保持粉嫩，即使係白成熟，口感外面嗰層好酥脆入面係好軟腍，呢種口感真係好特別，再淋上特製燒肉汁，配埋青椒仔、大蔥段，仲可以沾Wasabi或者特製醬提鮮。\n\n🔹仲有蒲燒鰻魚丼同炒野菜，最後用精緻嘅藍白花瓣瓷碗裝住兩球柚子雪糕，配埋金色嘅扁平匙羹，連甜品都一絲不苟。無論係擺盤、食材質素定係服務，成餐飯都追求緊高品質、高格調嘅尊貴餐飲享受，超濃柚子味嘅雪糕🍧，令人食完清爽又解渴。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "維港海景｜日式料理\n\n🌆 餐廳環境最top嘅賣點一定係呢個大玻璃窗！呢度將頂級嘅日式料理同香港最標誌性嘅維多利亞港海景完美結合。露台位配埋變色月亮裝置，一邊望住靚景一邊食飯，成個氛圍浪漫到暈。真係好啱情侶紀念日或者生日慶祝。\n室內設計好有心思，揉合神社祭典與高尚居酒屋嘅裝潢，成個空間既有日本神社祭典嗰種熱鬧、有活力嘅氣氛，同時又不失高尚居酒屋嘅精緻與奢華感。\n\n呢度🍱嚴選頂級食材，由新鮮海鮮到各款精緻和食都應有盡有，完美體現正宗和風料理。\n\n🔹時令前菜清爽又開胃有少少辣\n\n🔹蟹肉飛魚子沙律🥗賣相吸引，一絲絲嘅鮮甜蟹肉上面鋪滿橙色飛魚子，配埋鮮紅蕃茄片同紫椰菜，配埋個汁酸甜開胃。\n\n🔹刺身三品盛（油甘魚•甜蝦•北海道帶子）\n油甘魚油脂豐富，帶子仲夾住鮮檸檬，鮮味十足。\n\n🔹天婦羅炸到酥脆，炸粉唔好厚。\n\n🔹串燒火喉控制得好好，特別係雞翼同雞軟骨都好夠香脆，而我最鍾意嘅係月見雞肉棒，食落甜甜地口感又有啲雞軟骨既爽口。\n\n🔹炭火燒 A5和牛扒🥩\n呢個係我食過本年度最好食嘅和牛扒！和牛表面煎到帶點微燶以鎖住肉汁，中間保持粉嫩，即使係白成熟，口感外面嗰層好酥脆入面係好軟腍，呢種口感真係好特別，再淋上特製燒肉汁，配埋青椒仔、大蔥段，仲可以沾Wasabi或者特製醬提鮮。\n\n🔹仲有蒲燒鰻魚丼同炒野菜，最後用精緻嘅藍白花瓣瓷碗裝住兩球柚子雪糕，配埋金色嘅扁平匙羹，連甜品都一絲不苟。無論係擺盤、食材質素定係服務，成餐飯都追求緊高品質、高格調嘅尊貴餐飲享受，超濃柚子味嘅雪糕🍧，令人食完清爽又解渴。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sasa Wong",
+          "uri": "https://www.google.com/maps/contrib/106724722484330658284/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGNBh1Utd5sECqC7WK3yw4F01iduclG6EB7Cub7sxYzxzY-w=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-30T09:51:55.642046610Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxYVNFVlhhV1ZVWjI5Q2RYUnFObXBaUkVNelkyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxYVNFVlhhV1ZVWjI5Q2RYUnFObXBaUkVNelkyYxAB!2m1!1s0x340401e800a0340b:0x1beda94a88773c8b"
+      },
+      {
+        "name": "places/ChIJCzSgAOgBBDQRizx3iEqp7Rs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25veFIwcHhVVnBOWDNKQlJ6aG1ZMWhOYVZob1ZVRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "如果對餐廳品質有追求嘅，哩間精緻居酒屋一定啱曬你。\n餐廳坐擁無敵維港夜景，可以一邊睇住會展中銀等著名建築，一邊食到高質正宗嘅日式料理，係視覺與味覺嘅雙重享受。餐廳入口係鳥居隧道，好似入到日本神宮咁可以feel到神社祭典啲熱鬧氣氛。\n今日揀咗幸の晩宴-二人前，可以一次過試咗多品高級日式料理，性价比好高。餐廳嚴選頂級食材，和牛同海鮮全部都好高質。嘢食味道好日式，會根據食材選擇最合適嘅調味同烹飪方法。必試炭火A5和肉扒，入口油脂甘香即溶，牛味濃鬱。侍應服務得好好，倒茶收嘢好快手。哩間適合追求高品質，高格調餐飲享受啲FD，紀念日，慶生必去！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "如果對餐廳品質有追求嘅，哩間精緻居酒屋一定啱曬你。\n餐廳坐擁無敵維港夜景，可以一邊睇住會展中銀等著名建築，一邊食到高質正宗嘅日式料理，係視覺與味覺嘅雙重享受。餐廳入口係鳥居隧道，好似入到日本神宮咁可以feel到神社祭典啲熱鬧氣氛。\n今日揀咗幸の晩宴-二人前，可以一次過試咗多品高級日式料理，性价比好高。餐廳嚴選頂級食材，和牛同海鮮全部都好高質。嘢食味道好日式，會根據食材選擇最合適嘅調味同烹飪方法。必試炭火A5和肉扒，入口油脂甘香即溶，牛味濃鬱。侍應服務得好好，倒茶收嘢好快手。哩間適合追求高品質，高格調餐飲享受啲FD，紀念日，慶生必去！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "arjunayuki sun",
+          "uri": "https://www.google.com/maps/contrib/117723526385955096759/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLg3actOBt5VtL3iDy8TOH1vZwo25jPKcw157eU-h5zZzPB-w=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-24T02:28:37.919264246Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25veFIwcHhVVnBOWDNKQlJ6aG1ZMWhOYVZob1ZVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25veFIwcHhVVnBOWDNKQlJ6aG1ZMWhOYVZob1ZVRRAB!2m1!1s0x340401e800a0340b:0x1beda94a88773c8b"
+      },
+      {
+        "name": "places/ChIJCzSgAOgBBDQRizx3iEqp7Rs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jNWVDMUJObGxTVlcxV2RYQkZXRXhoV2tGTFFrRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "和風配以無敵維港海景🌊\n\n門口有神社鳥居造型的裝潢，\n好像置身日本神社一樣啊！\n走過這條鳥居隧道後，可以看到寬敞的維港海景，\n晚上配上燈飾的維港，浪漫又有情調呢！\n餐廳還可以走出去戶外位置無阻擋的欣賞海景，\n吹吹海風，一覽維港的景色。\n可以滿足視覺和味覺兩大需求，絕對適合慶祝生日或紀念日！\n\n服務方面，職員有禮貌又主動，\n不時幫我們添茶和換碗碟。\n而茶是麥茶，帶淡淡的麥香味道。\n\n食物方面，我們吃的是這個二人餐\n✨幸の晩宴-二人前\n\n🥗時令前菜有汁煮雞肉、紅蘿蔔和蒟蒻。\n沙律是蟹肉沙律，顏色鮮艷吸引，蟹肉份量不少，蟹味濃郁，\n有蟹肉、沙律菜、蟹籽和蕃茄。\n\n🍣刺身有油甘魚、甜蝦、北海道帶子，\n三樣都充滿鮮味，\n我最喜歡北海道帶子，大大隻口感一流啊！\n\n🍤海老雜錦天婦羅\n有海老即是蝦、日本番薯、冬菇，\n三款炸得很香脆，而且脆皮輕身，不會有厚粉的感覺。\n\n🍢串燒五品盛\n雞翼、雞軟骨、月見雞肉棒、雞腎、秋葵，\n每款各一串。\n餐廳很貼心，為了方便客人進食，\n雞翼骨經過廚師的刀工處理，\n很容易就可以吃到雞翼的肉。\n我最喜歡月見雞肉棒，內裏有點軟骨，所以吃下去很有口感，\n加上雞蛋漿滑溜香口，好吃！\n\n🥩炭火燒A5和牛扒+$168\n用上頂級的A5和牛，這個A5和牛牛油脂味極豐富，\n肉質軟腍，\n輕輕一咬已經整個口腔充滿香濃的的牛肉味。\n配上法國芥辣醬，味道更加有層次感。\n\n🥬日本炒野菜\n表面灑有木魚碎，頓時增添日式味道。\n\n🍱迷你蒲燒鰻魚丼+$88\n蒲燒醬汁很濃郁，\n除了鰻魚之外，還有雞蛋絲和紫菜。\n\n🍨最後到甜品環節是雲呢拿雪糕，\n這個雪糕有香濃的雲呢拿味道。\n近看還可以看到一點點黑色的雲呢拿籽，\n絕對是真材實料呢！\n\n晚市茶芥前菜每位$18\n✔️餐廳設加一服務費",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "和風配以無敵維港海景🌊\n\n門口有神社鳥居造型的裝潢，\n好像置身日本神社一樣啊！\n走過這條鳥居隧道後，可以看到寬敞的維港海景，\n晚上配上燈飾的維港，浪漫又有情調呢！\n餐廳還可以走出去戶外位置無阻擋的欣賞海景，\n吹吹海風，一覽維港的景色。\n可以滿足視覺和味覺兩大需求，絕對適合慶祝生日或紀念日！\n\n服務方面，職員有禮貌又主動，\n不時幫我們添茶和換碗碟。\n而茶是麥茶，帶淡淡的麥香味道。\n\n食物方面，我們吃的是這個二人餐\n✨幸の晩宴-二人前\n\n🥗時令前菜有汁煮雞肉、紅蘿蔔和蒟蒻。\n沙律是蟹肉沙律，顏色鮮艷吸引，蟹肉份量不少，蟹味濃郁，\n有蟹肉、沙律菜、蟹籽和蕃茄。\n\n🍣刺身有油甘魚、甜蝦、北海道帶子，\n三樣都充滿鮮味，\n我最喜歡北海道帶子，大大隻口感一流啊！\n\n🍤海老雜錦天婦羅\n有海老即是蝦、日本番薯、冬菇，\n三款炸得很香脆，而且脆皮輕身，不會有厚粉的感覺。\n\n🍢串燒五品盛\n雞翼、雞軟骨、月見雞肉棒、雞腎、秋葵，\n每款各一串。\n餐廳很貼心，為了方便客人進食，\n雞翼骨經過廚師的刀工處理，\n很容易就可以吃到雞翼的肉。\n我最喜歡月見雞肉棒，內裏有點軟骨，所以吃下去很有口感，\n加上雞蛋漿滑溜香口，好吃！\n\n🥩炭火燒A5和牛扒+$168\n用上頂級的A5和牛，這個A5和牛牛油脂味極豐富，\n肉質軟腍，\n輕輕一咬已經整個口腔充滿香濃的的牛肉味。\n配上法國芥辣醬，味道更加有層次感。\n\n🥬日本炒野菜\n表面灑有木魚碎，頓時增添日式味道。\n\n🍱迷你蒲燒鰻魚丼+$88\n蒲燒醬汁很濃郁，\n除了鰻魚之外，還有雞蛋絲和紫菜。\n\n🍨最後到甜品環節是雲呢拿雪糕，\n這個雪糕有香濃的雲呢拿味道。\n近看還可以看到一點點黑色的雲呢拿籽，\n絕對是真材實料呢！\n\n晚市茶芥前菜每位$18\n✔️餐廳設加一服務費",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "hkteagirl",
+          "uri": "https://www.google.com/maps/contrib/104655406963980141962/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ9Y1nEpQJt7HqQjMeernfhTmJjQtRrgcBr5O2290Q9CddAXg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-19T04:15:43.659113381Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jNWVDMUJObGxTVlcxV2RYQkZXRXhoV2tGTFFrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jNWVDMUJObGxTVlcxV2RYQkZXRXhoV2tGTFFrRRAB!2m1!1s0x340401e800a0340b:0x1beda94a88773c8b"
+      },
+      {
+        "name": "places/ChIJCzSgAOgBBDQRizx3iEqp7Rs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRek5XMUZiVkExVmtObk56QnZjMUJvVDFCRmIzYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "鳥居靚景極致浪漫\n\n浪漫的環境，往往需要和對的人一起前來，才能將那份氛圍發揮得淋漓盡致。一走到餐廳門口，亮白色的千本鳥居步道設計讓人彷彿瞬間置身日本神宮，非常有儀式感。穿越鳥居隧道後，室內的裝潢更是充滿心思，天花板採用了水波紋鏡面設計，營造出夢幻流動的視覺效果。最令人驚喜的是大型落地玻璃窗，窗外毫無遮擋的180度璀璨維港夜景。坐在窗邊一邊看著閃閃燈海一邊享受這場視覺與味覺的盛宴，浪漫到不行，絕對是約會或慶祝的首選！\n\n今次品嚐了 「幸之晚宴·二人餐」（原價 $1428）。\n免費加入 The Food story apps 會員可以享有折扣，只需 $1000，以海港城這個地段加上無敵海景來說，性價比極高。\n\n套餐食材新鮮且份量十足：\n\n時令前菜\n芽菜爽口，調味酸辣開胃，為這頓晚宴揭開序幕。\n\n幸·廚師沙律\n沙律菜新鮮爽脆，底汁柚子醋酸甜開胃，蕃茄片、蟹柳絲、蟹肉和蟹籽豐富口感。\n\n刺身三品盛\n刺身極新鮮！油甘魚厚切肥美、魚油甘香濃郁；甜蝦軟綿鮮甜；北海道帶子軟嫩清甜，品質極高。\n\n海老雜錦天婦羅盛合\n外層薄薄炸漿炸得極酥脆不油膩。海老彈牙很有蝦味；日本蕃薯香甜軟綿；冬菇厚肉多汁。\n\n串燒五品盛\n炭火燒焦香味濃郁，火候十足。雞翼皮脆肉嫩；雞軟骨爽脆；雞腎爽口。月見雞肉棒沾上蛋黃醬汁口感細緻肉香四溢，美味！\n\n日式炒野菜\n炒椰菜保持清甜爽脆，配以淋淋洋蔥絲、紅蘿蔔、冬菇和蒟蒻，口感豐富。簡單醬油味醂入味。\n\n炭火燒 A5 和牛扒 +$168\n炭火燒至七成熟，外帶著微微焦香鎖住肉汁，入口即溶油脂甘香濃郁，非常高質！\n\n迷你蒲燒鰻魚丼 +$88\n鰻魚肥美無骨醬汁鹹甜濃郁，配粒粒分明富彈性珍珠米飯，大滿足。\n\n甜品：海鹽雪糕 + 蕨餅\n海鹽雪糕質感軟滑奶香鹹甜交織；蕨餅軟糯Ｑ彈，完美句號。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "鳥居靚景極致浪漫\n\n浪漫的環境，往往需要和對的人一起前來，才能將那份氛圍發揮得淋漓盡致。一走到餐廳門口，亮白色的千本鳥居步道設計讓人彷彿瞬間置身日本神宮，非常有儀式感。穿越鳥居隧道後，室內的裝潢更是充滿心思，天花板採用了水波紋鏡面設計，營造出夢幻流動的視覺效果。最令人驚喜的是大型落地玻璃窗，窗外毫無遮擋的180度璀璨維港夜景。坐在窗邊一邊看著閃閃燈海一邊享受這場視覺與味覺的盛宴，浪漫到不行，絕對是約會或慶祝的首選！\n\n今次品嚐了 「幸之晚宴·二人餐」（原價 $1428）。\n免費加入 The Food story apps 會員可以享有折扣，只需 $1000，以海港城這個地段加上無敵海景來說，性價比極高。\n\n套餐食材新鮮且份量十足：\n\n時令前菜\n芽菜爽口，調味酸辣開胃，為這頓晚宴揭開序幕。\n\n幸·廚師沙律\n沙律菜新鮮爽脆，底汁柚子醋酸甜開胃，蕃茄片、蟹柳絲、蟹肉和蟹籽豐富口感。\n\n刺身三品盛\n刺身極新鮮！油甘魚厚切肥美、魚油甘香濃郁；甜蝦軟綿鮮甜；北海道帶子軟嫩清甜，品質極高。\n\n海老雜錦天婦羅盛合\n外層薄薄炸漿炸得極酥脆不油膩。海老彈牙很有蝦味；日本蕃薯香甜軟綿；冬菇厚肉多汁。\n\n串燒五品盛\n炭火燒焦香味濃郁，火候十足。雞翼皮脆肉嫩；雞軟骨爽脆；雞腎爽口。月見雞肉棒沾上蛋黃醬汁口感細緻肉香四溢，美味！\n\n日式炒野菜\n炒椰菜保持清甜爽脆，配以淋淋洋蔥絲、紅蘿蔔、冬菇和蒟蒻，口感豐富。簡單醬油味醂入味。\n\n炭火燒 A5 和牛扒 +$168\n炭火燒至七成熟，外帶著微微焦香鎖住肉汁，入口即溶油脂甘香濃郁，非常高質！\n\n迷你蒲燒鰻魚丼 +$88\n鰻魚肥美無骨醬汁鹹甜濃郁，配粒粒分明富彈性珍珠米飯，大滿足。\n\n甜品：海鹽雪糕 + 蕨餅\n海鹽雪糕質感軟滑奶香鹹甜交織；蕨餅軟糯Ｑ彈，完美句號。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cargo Lam",
+          "uri": "https://www.google.com/maps/contrib/116360982683267774958/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcU-vWSGAtLdGL9-SvQoxniuy4mC-GGOqVU5vWuwrWLOVWZwI7=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-21T17:49:53.002447133Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pRek5XMUZiVkExVmtObk56QnZjMUJvVDFCRmIzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRek5XMUZiVkExVmtObk56QnZjMUJvVDFCRmIzYxAB!2m1!1s0x340401e800a0340b:0x1beda94a88773c8b"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401e800a0340b:0x1beda94a88773c8b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=2012450746086669451&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401e800a0340b:0x1beda94a88773c8b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401e800a0340b:0x1beda94a88773c8b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401e800a0340b:0x1beda94a88773c8b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJCzSgAOgBBDQRizx3iEqp7Rs/photos/Aa-ngMYtOjAu4qEBbc5RXAioba4mDYmeHladZMgZkch8769wLjOqpk_v8ScE3FBXHR2NXph3QFTRT45G1cAgH1rIFo4qZsCPcPTr-06ROkM8b32tKMPlWYxSHcPcYp00GBp5JQCGPqLCUvY4sqsTBC0TbqTKtGWdfDGU235eEtTOH_3b3arsv11WPrdsbg-BK6EVahhsYvnpfcxKQ1rPoU3ftP7edgZs2HjZR10yco6tqPHDVst_XKI_yBmwd_DOwEnrgWP0odY4BBUn-lSVM3lRn-qNgzdnMuP2JCIYjguZzlVlqQOmtMsLZBvkBpOmW5-qaDxM9fFmVW9RVHCcQHvERWn2w3rAxj7ZV0tOYXPx87LMgqKhmmmpqEpMFwRRJOENnYdtk-rswsDN8cua6SllQph5GS8",
+      "widthPx": 4096,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "Raymond TO",
+          "uri": "https://maps.google.com/maps/contrib/107479461668534451068",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKL-mDGGP3PxeRWGTPJyJ_t8_tvhsFha9ML8bppYnwDbFlypg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDej5Ondg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDej5Ondg!2e10!4m2!3m1!1s0x340401e800a0340b:0x1beda94a88773c8b"
+    },
+    "local_path": "photos/ChIJCzSgAOgBBDQRizx3iEqp7Rs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdepOpiiTBti0yDQNRXKiEOzV6H-vyiAEnHi9moaLH8GzxnJFTf6jl5EaZxSS_HYJpFmy9es9wwFCBrDo2v038cuPs840Sadvdmj9OprZ7UBodxg-_d_DsnQ0G6tpK_Zh3MBw5O=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 160583
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://inline.app/booking/-MNh6g_aNbb3Okbbq1b8:inline-live-2/-MNh6gjIQrfuojzSlPPO?language=zh-hk",
+        "label": "即 時 訂 座",
+        "source_url": "https://www.thefoodstoryhk.com/shiawase",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_521ce77387144d6caaf4703fa537fdc9.pdf",
+        "label": "À LA CARTE MENU",
+        "source_url": "https://www.thefoodstoryhk.com/shiawase",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_6a4e6f562fdf4e7e96acaf2b1788ba12.pdf",
+        "label": "LUNCH MENU",
+        "source_url": "https://www.thefoodstoryhk.com/shiawase",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_5326cd307276487f85953f61514fa594.pdf",
+        "label": "DINNER MENU",
+        "source_url": "https://www.thefoodstoryhk.com/shiawase",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_84d530a26c7540d0a3933bd7d2a0f171.pdf",
+        "label": "DRINKS MENU",
+        "source_url": "https://www.thefoodstoryhk.com/shiawase",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "yakitori_restaurant",
+    "label": "日式串燒餐廳",
+    "types": [
+      "yakitori_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://inline.app/booking/-MNh6g_aNbb3Okbbq1b8:inline-live-2/-MNh6gjIQrfuojzSlPPO?language=zh-hk",
+  "menu_url": "https://www.thefoodstoryhk.com/_files/ugd/4d4695_521ce77387144d6caaf4703fa537fdc9.pdf"
+}

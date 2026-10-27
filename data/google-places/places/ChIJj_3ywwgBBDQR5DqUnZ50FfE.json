@@ -1,0 +1,410 @@
+{
+  "google_place_id": "ChIJj_3ywwgBBDQR5DqUnZ50FfE",
+  "restaurant_ids": [
+    "restaurant:2211811705"
+  ],
+  "fetched_at": "2026-10-23T15:50:12.695614+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJj_3ywwgBBDQR5DqUnZ50FfE",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9548 6088",
+    "internationalPhoneNumber": "+852 9548 6088",
+    "formattedAddress": "香港香港島筲箕灣東大街59-99號東威大廈1座11號舖",
+    "location": {
+      "latitude": 22.2797332,
+      "longitude": 114.23026589999999
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=17371919362248948452&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://linktr.ee/thaigrill",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 16:00 – 21:30",
+        "星期二: 12:00 – 15:00, 16:00 – 21:30",
+        "星期三: 12:00 – 15:00, 16:00 – 21:30",
+        "星期四: 12:00 – 15:00, 16:00 – 21:30",
+        "星期五: 12:00 – 15:00, 16:00 – 21:30",
+        "星期六: 12:00 – 15:00, 16:00 – 21:30",
+        "星期日: 12:00 – 15:00, 16:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 116,
+    "displayName": {
+      "text": "泰Grill (東大街)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "泰國餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "thai_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJj_3ywwgBBDQR5DqUnZ50FfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xaE0xRnJibkZvY21WUk0yMXdibDl6TVVKQlNrRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "星期曰相約朋友去港島區行山郊遊，我哋決定早少少lunch，食飽飽先至出發，響筲箕灣東大街見到泰國餐廳泰Gill有個weekend Lunch Set好抵食喎🤩入去試吓先\n💟每個套餐可選一款主食，一個青木瓜沙律或冬陰功湯，包一杯飲品，而且份量都幾多👍\n\n🌀牛魔王船麵$85\n呢度個船麵都幾大碗，又超足料，極欣賞個湯底熬得超級濃郁極香😋有牛肉、牛丸份量都多，麵底彈牙，白蘿蔔炆得好腍吸收哂湯汁嘅味道，面頭嘅炸豬皮脆卜卜好好食🥰\n\n🌀原條菠蘿海鮮炒飯 $108\n炒飯炒得乾身唔會太濕，大蝦彈牙、魷魚、蝦仁，青口好新鮮，烤過嘅原條菠蘿好清甜又多汁😋加上肉鬆同炸腰果同吃惹味出色！\n\n🌀蝦餅 +$38\n以$38嚟講真係幾抵食，一客有4件，大大件炸蝦餅蝦味香濃，又大又厚身且口感彈牙，炸得金黃酥脆\n\n🌀串燒（3串，牛雞豬各一）$ 48\n即烤串燒烤得啱啱好，一啲都唔會乾，有碳香味，肉質柔軟Juicy調味適中👍\n\n🌀木瓜沙律/冬陰功湯 （跟餐）\n青木瓜沙律，木瓜絲爽口，酸酸辣辣非常之醒胃\n冬陰功湯，味道濃郁唔算太辣，又係開胃之選\n\n🌀芒果糯米飯+38\n呢個每次去食泰國嘢必點嘅甜品🥰心心造型好靚靚，食到兩種糯米好Perfect，煙韌軟糯，芒果香甜，配埋椰汁一齊食絕配😋\n\n🌀檸檬冰綠茶+$15\n🌀泰茉莉奶茶+15\n\n🏠：筲箕灣筲箕灣東大街59-99號東威大廈地下11號鋪",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期曰相約朋友去港島區行山郊遊，我哋決定早少少lunch，食飽飽先至出發，響筲箕灣東大街見到泰國餐廳泰Gill有個weekend Lunch Set好抵食喎🤩入去試吓先\n💟每個套餐可選一款主食，一個青木瓜沙律或冬陰功湯，包一杯飲品，而且份量都幾多👍\n\n🌀牛魔王船麵$85\n呢度個船麵都幾大碗，又超足料，極欣賞個湯底熬得超級濃郁極香😋有牛肉、牛丸份量都多，麵底彈牙，白蘿蔔炆得好腍吸收哂湯汁嘅味道，面頭嘅炸豬皮脆卜卜好好食🥰\n\n🌀原條菠蘿海鮮炒飯 $108\n炒飯炒得乾身唔會太濕，大蝦彈牙、魷魚、蝦仁，青口好新鮮，烤過嘅原條菠蘿好清甜又多汁😋加上肉鬆同炸腰果同吃惹味出色！\n\n🌀蝦餅 +$38\n以$38嚟講真係幾抵食，一客有4件，大大件炸蝦餅蝦味香濃，又大又厚身且口感彈牙，炸得金黃酥脆\n\n🌀串燒（3串，牛雞豬各一）$ 48\n即烤串燒烤得啱啱好，一啲都唔會乾，有碳香味，肉質柔軟Juicy調味適中👍\n\n🌀木瓜沙律/冬陰功湯 （跟餐）\n青木瓜沙律，木瓜絲爽口，酸酸辣辣非常之醒胃\n冬陰功湯，味道濃郁唔算太辣，又係開胃之選\n\n🌀芒果糯米飯+38\n呢個每次去食泰國嘢必點嘅甜品🥰心心造型好靚靚，食到兩種糯米好Perfect，煙韌軟糯，芒果香甜，配埋椰汁一齊食絕配😋\n\n🌀檸檬冰綠茶+$15\n🌀泰茉莉奶茶+15\n\n🏠：筲箕灣筲箕灣東大街59-99號東威大廈地下11號鋪",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Luna Meow daily",
+          "uri": "https://www.google.com/maps/contrib/101398134910154534294/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqby3xpo1vuijaMAHybvyiQXnqlWh8oNmBI6s62HHfLGu5yu6M=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-01-08T04:00:30.790926096Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xaE0xRnJibkZvY21WUk0yMXdibDl6TVVKQlNrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xaE0xRnJibkZvY21WUk0yMXdibDl6TVVKQlNrRRAB!2m1!1s0x34040108c3f2fd8f:0xf115749e9d943ae4"
+      },
+      {
+        "name": "places/ChIJj_3ywwgBBDQR5DqUnZ50FfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kb1FuWkdNVzkzYkZndFQzcGhZVGszVG5oUVEzYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 3,
+        "text": {
+          "text": "筲箕灣最近新開左一間泰國野，望落 menu 好吸引🤪 就入左去試下，出到嚟賣相 OK，味道不過不失，整體都算OK 👌🏻地方唔算好大，但環境唔逼，裝修帶點泰式街頭風，有色彩繽紛嘅裝飾同木枱😎 入去時冇乜人，點知食食吓開始陸續多人。雖然人多但唔逼，空間感 OK。服務員態度好好👍🏻\n\n豬頸肉 ($78)\n豬頸肉一上枱，幾大份，望落幾 juicy，令人好想試🥰 豬頸肉外微焦內軟嫩，咬落去肉質算嫩，配上酸辣嘅泰式魚露汁，味道幾惹味😍 不過肉味略為普通，無想像中濃郁，食落不過不失👌🏻 兩個人分啱啱好\n\n飛天通菜 ($72)\n飛天通菜賣相幾靚，上面有啲蒜蓉同辣椒🥳 食落通菜爽脆，蒜香同辣味都有，有少少辣，略為重口味，少少鹹，但無乜特別嘅泰式風味，食落有啲似普通炒菜😬 價錢同質素比起來略為貴咗啲\n\n香葉肉碎煎蛋飯 ($75)\n香葉肉碎煎蛋飯一上枱，賣相好正，煎蛋金黃蓋住飯，肉碎同香葉係側邊，望落好想即刻試😍 煎蛋煎得香，拮開蛋黃撈飯好香，肉碎帶點羅勒葉嘅香氣，略為辣同鹹，味道幾惹味😋 飯粒粒分明，撈埋蛋黃同肉碎，口感豐富。食落算唔錯，份量夠飽🫨\n\n泰Grill菜式味道不過不失，賣相吸引，但無乜大驚喜，性價比都OK🫨 環境唔逼，服務正常，筲箕灣搵到泰式菜算唔錯！鍾意泰國菜嘅朋友可以試吓😋 下次去可能試吓其他菜式，睇吓有無驚喜！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "筲箕灣最近新開左一間泰國野，望落 menu 好吸引🤪 就入左去試下，出到嚟賣相 OK，味道不過不失，整體都算OK 👌🏻地方唔算好大，但環境唔逼，裝修帶點泰式街頭風，有色彩繽紛嘅裝飾同木枱😎 入去時冇乜人，點知食食吓開始陸續多人。雖然人多但唔逼，空間感 OK。服務員態度好好👍🏻\n\n豬頸肉 ($78)\n豬頸肉一上枱，幾大份，望落幾 juicy，令人好想試🥰 豬頸肉外微焦內軟嫩，咬落去肉質算嫩，配上酸辣嘅泰式魚露汁，味道幾惹味😍 不過肉味略為普通，無想像中濃郁，食落不過不失👌🏻 兩個人分啱啱好\n\n飛天通菜 ($72)\n飛天通菜賣相幾靚，上面有啲蒜蓉同辣椒🥳 食落通菜爽脆，蒜香同辣味都有，有少少辣，略為重口味，少少鹹，但無乜特別嘅泰式風味，食落有啲似普通炒菜😬 價錢同質素比起來略為貴咗啲\n\n香葉肉碎煎蛋飯 ($75)\n香葉肉碎煎蛋飯一上枱，賣相好正，煎蛋金黃蓋住飯，肉碎同香葉係側邊，望落好想即刻試😍 煎蛋煎得香，拮開蛋黃撈飯好香，肉碎帶點羅勒葉嘅香氣，略為辣同鹹，味道幾惹味😋 飯粒粒分明，撈埋蛋黃同肉碎，口感豐富。食落算唔錯，份量夠飽🫨\n\n泰Grill菜式味道不過不失，賣相吸引，但無乜大驚喜，性價比都OK🫨 環境唔逼，服務正常，筲箕灣搵到泰式菜算唔錯！鍾意泰國菜嘅朋友可以試吓😋 下次去可能試吓其他菜式，睇吓有無驚喜！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodie AnJournal",
+          "uri": "https://www.google.com/maps/contrib/104541895470973255306/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvOSj_AwHbtwCwRSxE5G9JdhavGX_xf3E2K9QwIj-NQcDFcHs=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-10-07T08:10:48.841691098Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kb1FuWkdNVzkzYkZndFQzcGhZVGszVG5oUVEzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kb1FuWkdNVzkzYkZndFQzcGhZVGszVG5oUVEzYxAB!2m1!1s0x34040108c3f2fd8f:0xf115749e9d943ae4"
+      },
+      {
+        "name": "places/ChIJj_3ywwgBBDQR5DqUnZ50FfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KUGMwSkVablpCT1RaNkxWQjVibTR5VWtkbVFWRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 4,
+        "text": {
+          "text": "難得夜晚同男朋友一齊食，特登去左筲箕灣東大街，行過見到有間泰國菜就入咗去試啦。\n\n🔷肉碎生菜包 少辣 $82\n呢個生菜包好合格，佢嘅肉碎唔會太肥，而且肉碎炒得好香，夾埋生菜一齊食係一流🤤\n\n🔷豬頸肉 $78\n呢個豬頸肉簡直係全場嘅MVP，佢都好大塊，一啲都唔孤寒。佢個炭燒味好出，會忍唔住一嚿接住一嚿咁食😋\n\n🔷香葉肉碎煎蛋飯 少辣 $75\n呢個香葉肉碎煎蛋飯好有鑊氣，不過佢個肉碎有啲似生菜包嘅肉碎，佢個煎蛋亦都煎得好流心，正😍\n\n🔷蒜蓉包 (五塊) $35\n呢個蒜蓉包熱食先好食，超脆，而且蒜蓉醬搽得啱啱好，好有蒜蓉味，超正🤩不過佢個包放耐咗就會開始淋同埋靭，所以記得要趁熱食。\n\n🔷青檸沙冰 $48\n呢個青檸沙冰略嫌佢有啲酸，不過超開胃。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "難得夜晚同男朋友一齊食，特登去左筲箕灣東大街，行過見到有間泰國菜就入咗去試啦。\n\n🔷肉碎生菜包 少辣 $82\n呢個生菜包好合格，佢嘅肉碎唔會太肥，而且肉碎炒得好香，夾埋生菜一齊食係一流🤤\n\n🔷豬頸肉 $78\n呢個豬頸肉簡直係全場嘅MVP，佢都好大塊，一啲都唔孤寒。佢個炭燒味好出，會忍唔住一嚿接住一嚿咁食😋\n\n🔷香葉肉碎煎蛋飯 少辣 $75\n呢個香葉肉碎煎蛋飯好有鑊氣，不過佢個肉碎有啲似生菜包嘅肉碎，佢個煎蛋亦都煎得好流心，正😍\n\n🔷蒜蓉包 (五塊) $35\n呢個蒜蓉包熱食先好食，超脆，而且蒜蓉醬搽得啱啱好，好有蒜蓉味，超正🤩不過佢個包放耐咗就會開始淋同埋靭，所以記得要趁熱食。\n\n🔷青檸沙冰 $48\n呢個青檸沙冰略嫌佢有啲酸，不過超開胃。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "wenther_foodie",
+          "uri": "https://www.google.com/maps/contrib/108233870053423391482/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVrNKgcZoottj7LKyyhNprUAZDW7qBTyBqcvPw1DMUe6oFSwWo=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-12-09T11:43:55.427818552Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KUGMwSkVablpCT1RaNkxWQjVibTR5VWtkbVFWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KUGMwSkVablpCT1RaNkxWQjVibTR5VWtkbVFWRRAB!2m1!1s0x34040108c3f2fd8f:0xf115749e9d943ae4"
+      },
+      {
+        "name": "places/ChIJj_3ywwgBBDQR5DqUnZ50FfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGTGJqZzVhVkJNYjAxVlExVlBXbWR6ZGtOb1gxRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "朋友好鍾意食泰國嘢，經常都會四處發掘好味嘅泰菜，今次比佢搵到間好味之餘仲要喺佢屋企附近嘅泰菜，真係啱晒佢\n\nღ泰式酸辣鳳爪沙律 $68\n酸辣鳳爪味道酸酸辣辣，食落爽口又開胃\n\nღ蛋包虎蝦炒金邊粉 $128\n份量十足！虎蝦大大隻，炸到連殼都卜卜脆食落好彈牙，金邊粉炒得夠鑊氣，面頭仲用咗蛋包住，入口唔油膩\n\nღ 串燒 3串 $48/6串 $88｜燒菠蘿 $25\n串燒可以揀雞牛豬，我哋叫咗各一串，每款都燒得微焦香口，肉質軟嫩多汁，配搭埋醬汁食落更加香口惹味\n燒菠蘿勁多汁，甜香中有輕微嘅辣味，食落香甜帶點醒胃感！\n\nღ龍眼冰 $38\n味道清甜，入口冰涼解渴",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友好鍾意食泰國嘢，經常都會四處發掘好味嘅泰菜，今次比佢搵到間好味之餘仲要喺佢屋企附近嘅泰菜，真係啱晒佢\n\nღ泰式酸辣鳳爪沙律 $68\n酸辣鳳爪味道酸酸辣辣，食落爽口又開胃\n\nღ蛋包虎蝦炒金邊粉 $128\n份量十足！虎蝦大大隻，炸到連殼都卜卜脆食落好彈牙，金邊粉炒得夠鑊氣，面頭仲用咗蛋包住，入口唔油膩\n\nღ 串燒 3串 $48/6串 $88｜燒菠蘿 $25\n串燒可以揀雞牛豬，我哋叫咗各一串，每款都燒得微焦香口，肉質軟嫩多汁，配搭埋醬汁食落更加香口惹味\n燒菠蘿勁多汁，甜香中有輕微嘅辣味，食落香甜帶點醒胃感！\n\nღ龍眼冰 $38\n味道清甜，入口冰涼解渴",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cream wong",
+          "uri": "https://www.google.com/maps/contrib/100742555280390405018/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4FRXMPvJB5tzSeN8df6VVhPOKnYWdXA3P575yyeacnCoH8JRL0A=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-09-27T17:51:12.145888689Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGTGJqZzVhVkJNYjAxVlExVlBXbWR6ZGtOb1gxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGTGJqZzVhVkJNYjAxVlExVlBXbWR6ZGtOb1gxRRAB!2m1!1s0x34040108c3f2fd8f:0xf115749e9d943ae4"
+      },
+      {
+        "name": "places/ChIJj_3ywwgBBDQR5DqUnZ50FfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VMVJGQk1UVzFmTTBaTlZsZGxSM0I0VEhkRWIyYxAB",
+        "relativePublishTimeDescription": "12 個月前",
+        "rating": 5,
+        "text": {
+          "text": "侍應服務周到，賓至如歸🫶\n食物美味，座位舒適\n椰汁冰超好飲😋😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "侍應服務周到，賓至如歸🫶\n食物美味，座位舒適\n椰汁冰超好飲😋😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sheep",
+          "uri": "https://www.google.com/maps/contrib/118275401967805544537/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLpBXRXcZZt0OZDJB7XlPafpmgUezW9fYzlzoNFRyflagLRzg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-10-26T13:27:31.436972148Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21VMVJGQk1UVzFmTTBaTlZsZGxSM0I0VEhkRWIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VMVJGQk1UVzFmTTBaTlZsZGxSM0I0VEhkRWIyYxAB!2m1!1s0x34040108c3f2fd8f:0xf115749e9d943ae4"
+      }
+    ],
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040108c3f2fd8f:0xf115749e9d943ae4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17371919362248948452&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040108c3f2fd8f:0xf115749e9d943ae4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040108c3f2fd8f:0xf115749e9d943ae4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040108c3f2fd8f:0xf115749e9d943ae4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJj_3ywwgBBDQR5DqUnZ50FfE/photos/Aa-ngMZBm6oUwBshmLfwwuvFsPgJw5PEn6T_swPeF34hUZhGoIrGlViXe8ZnP9hy1ClyQtr-_t45nFfxcqItxG_zifceC-18mcV0uWidBCVWD-0ueYPKPfWu9wtsBuuCtq9oEW8raZT57l5utY06Zz_LkjsWRm_xJzHzjSeTWgLo7lHb87kxsuLc4qw398i4GEh9BKbZ9wRC9szHLd02NBoQwQ3OtiFt5jH6oF7atcBLUtTiQMegbHLskZu7h5bTxJ5r9ROjOR2IqF9KCoUKrngkcQ63vKsHoBDHWzmy29CgEuM3XUaKHwxrKoCftGmTnUUyPDme3LGtTzjqI-lgSWwm95hlvhE1JhMbxVgiJ3autJMrgjwUf6dqvdBtkIZv_rUArjzSbkfVMIrfoL7LIYQ-po0BROoJQgohMDjVkAXilwo0cg",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Ng Alice",
+          "uri": "https://maps.google.com/maps/contrib/113613219660433593207",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJA4FSdgyHF1feetb3MPQ8xmpQO3fVIwumSVeSgI8igg64o=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCPwyeGDa95QQPNDfZiWMib&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCPwyeGDa95QQPNDfZiWMib!2e10!4m2!3m1!1s0x34040108c3f2fd8f:0xf115749e9d943ae4"
+    },
+    "local_path": "photos/ChIJj_3ywwgBBDQR5DqUnZ50FfE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpt9SvJks3EAuT-wrSgYdMZT_Qel3iKVCdNuOKBSTASUII7d_9YLOQNYCaHydI8ofK3XtsnH6qhTffMFqGv9V3Kp98UFXuiynU73Y5FOfIRTE3pXt3o3cbWY6wpxIU5etnDJ6HU2pVDyui=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 146432
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://order.basehall.hk/hk/tc/tenant-menu/THAI%20GRILL/44381",
+        "label": "泰Grill (中環 Basehall 01) - Order for take-away or pick up",
+        "source_url": "https://linktr.ee/thaigrill",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://linktr.ee/blog/how-to-make-a-qr-code-menu-for-your-restaurant",
+        "label": "How to make a QR code menu for your restaurant",
+        "source_url": "https://linktr.ee/thaigrill",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "thai_restaurant",
+    "label": "泰國餐廳",
+    "types": [
+      "thai_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://order.basehall.hk/hk/tc/tenant-menu/THAI%20GRILL/44381"
+}

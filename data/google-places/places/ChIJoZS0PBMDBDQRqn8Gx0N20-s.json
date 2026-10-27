@@ -1,0 +1,311 @@
+{
+  "google_place_id": "ChIJoZS0PBMDBDQRqn8Gx0N20-s",
+  "restaurant_ids": [
+    "restaurant:3198801857"
+  ],
+  "fetched_at": "2026-10-23T15:42:25.377641+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJoZS0PBMDBDQRqn8Gx0N20-s",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6946 5606",
+    "internationalPhoneNumber": "+852 6946 5606",
+    "formattedAddress": "G32, Ocean Pop Walk, 28 Tong Chun St, Tseung Kwan O, New Territories, 香港",
+    "location": {
+      "latitude": 22.303964699999998,
+      "longitude": 114.2604293
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=16993055852472991658&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 15
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 15
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 15
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 15
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:15 – 21:30",
+        "星期二: 11:15 – 21:30",
+        "星期三: 休息",
+        "星期四: 11:15 – 21:30",
+        "星期五: 11:15 – 21:30",
+        "星期六: 10:00 – 21:30",
+        "星期日: 10:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 66,
+    "displayName": {
+      "text": "Dreams Cafe",
+      "languageCode": "zh"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJoZS0PBMDBDQRqn8Gx0N20-s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSWGVYWlFjQzFaVVhKM1RITTBOVU5mYVdGck9HYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "超級pet friendly的良心小店 (my personal favourite in this neighbourhood 100/100)\n老闆同員工都好有愛\n不單只寵物友善 而且價格性價比好高\n所有食物都很美味 也有小食送給狗狗\n我家的狗狗們每次來都特別興奮 幸福小狗～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "超級pet friendly的良心小店 (my personal favourite in this neighbourhood 100/100)\n老闆同員工都好有愛\n不單只寵物友善 而且價格性價比好高\n所有食物都很美味 也有小食送給狗狗\n我家的狗狗們每次來都特別興奮 幸福小狗～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lianna Yuen",
+          "uri": "https://www.google.com/maps/contrib/112519726101113319427/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLnog190ShJb874T_CNuDTe-u5skOP4K_LzF407DtY47QAVwT9=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-06-03T02:33:31.196093894Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSWGVYWlFjQzFaVVhKM1RITTBOVU5mYVdGck9HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSWGVYWlFjQzFaVVhKM1RITTBOVU5mYVdGck9HYxAB!2m1!1s0x340403133cb494a1:0xebd37643c7067faa"
+      },
+      {
+        "name": "places/ChIJoZS0PBMDBDQRqn8Gx0N20-s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVeGNteEhVRWR4TVU1cU5WbExXalJsZG1OemJsRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "店主及店員都喜歡毛孩，還送上一份烚雞肉、牛肉、蛋給每隻毛孩們。食物質素好。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店主及店員都喜歡毛孩，還送上一份烚雞肉、牛肉、蛋給每隻毛孩們。食物質素好。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cara Wong",
+          "uri": "https://www.google.com/maps/contrib/100869132562657365453/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiUA5NWnPn_1viYz6prQ9HCX4o1T73733DsHRHyb2w9VC0wumd=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-29T12:54:31.947001107Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVeGNteEhVRWR4TVU1cU5WbExXalJsZG1OemJsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVeGNteEhVRWR4TVU1cU5WbExXalJsZG1OemJsRRAB!2m1!1s0x340403133cb494a1:0xebd37643c7067faa"
+      },
+      {
+        "name": "places/ChIJoZS0PBMDBDQRqn8Gx0N20-s/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWlUwdEZZa3BhUzNOVFEyRTBZbkIzV1U0NVoxRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "超讚嘅狗狗友善餐廳。\n😋👍💯🎉👏",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "超讚嘅狗狗友善餐廳。\n😋👍💯🎉👏",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wendy Koo",
+          "uri": "https://www.google.com/maps/contrib/103541574210560227852/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSoGX3HdLEbigIgYz77wCLpl_bbiQITFegKF460Kv6Euxe-v6VNA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-22T05:53:02.201799907Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CWlUwdEZZa3BhUzNOVFEyRTBZbkIzV1U0NVoxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWlUwdEZZa3BhUzNOVFEyRTBZbkIzV1U0NVoxRRAB!2m1!1s0x340403133cb494a1:0xebd37643c7067faa"
+      },
+      {
+        "name": "places/ChIJoZS0PBMDBDQRqn8Gx0N20-s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWb1ZuZ3hZamhZWjNrNU1sQmxaR2d4Y1hjNFRrRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "有狗狗必去(有雞柳，蛋送)\n意粉彈牙好好食，飲品多選擇，坐得好舒適\n店員服務好好，我狗吠其他狗，換了儿次位",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有狗狗必去(有雞柳，蛋送)\n意粉彈牙好好食，飲品多選擇，坐得好舒適\n店員服務好好，我狗吠其他狗，換了儿次位",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Emily Cheng",
+          "uri": "https://www.google.com/maps/contrib/116108176622033785215/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKom6wxMvqQ7SsPESOu-eU9ZIbhVDvzBygbLTpd0wYhPqetBQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-16T16:20:01.365387339Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWb1ZuZ3hZamhZWjNrNU1sQmxaR2d4Y1hjNFRrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWb1ZuZ3hZamhZWjNrNU1sQmxaR2d4Y1hjNFRrRRAB!2m1!1s0x340403133cb494a1:0xebd37643c7067faa"
+      },
+      {
+        "name": "places/ChIJoZS0PBMDBDQRqn8Gx0N20-s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toNWNHUmpTakZqWjBWc2JXcFBTalZ3WkUwek1tYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "一間滿分嘅小餐廳\n真正pet friendly 寵物可入餐廳內 餐廳外都有位\n職員會為寵物送上小零食（雞肉同雞蛋）\n嘢食嘢飲都好好 睇得出十分用心\n一定會再回訪",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一間滿分嘅小餐廳\n真正pet friendly 寵物可入餐廳內 餐廳外都有位\n職員會為寵物送上小零食（雞肉同雞蛋）\n嘢食嘢飲都好好 睇得出十分用心\n一定會再回訪",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "weiche Li",
+          "uri": "https://www.google.com/maps/contrib/100841235346825374345/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRiqGMhqXeQ_qY2DweTJk99dbMNifm-oNXKVIKE66tTJoTUQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-11-04T08:29:53.278865763Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toNWNHUmpTakZqWjBWc2JXcFBTalZ3WkUwek1tYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toNWNHUmpTakZqWjBWc2JXcFBTalZ3WkUwek1tYxAB!2m1!1s0x340403133cb494a1:0xebd37643c7067faa"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340403133cb494a1:0xebd37643c7067faa!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16993055852472991658&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403133cb494a1:0xebd37643c7067faa!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340403133cb494a1:0xebd37643c7067faa!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403133cb494a1:0xebd37643c7067faa!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJoZS0PBMDBDQRqn8Gx0N20-s/photos/Aa-ngMZT2PKLAMHwI2-8TQUyIkS2my2XIRWC-xTZpeWCdQq947-L0sN0r0GH19FlHi7dKaf4qkBHmmD2HhEAWitY_cio-817ULouJTJiIkLP_F-MD2XL5Ryb3OBP2ku96wjpb0QQUqvenyaBU6SVuEv-N3es7lTk7R88BiXeLxJLcqy2InZpjZDbQgiy8tGPFlPM0TGq8eAPIwoRuWZyUHZjTn1WKIc9L0DH-u4uHUK8Z5tbGHiPnuTSRTy6IBzGOdF481fa4mgb5P-C69oZnqHtrWD-mWiGBOHtNoIWbD-Q10G8JB6WineIWYY8fazRWaRIk4iMBan4Qtxu0-g-hhWQFT0yhCG0Yg7UqDCk9dpDXIh5oq4o39iyEBwUoBTIbUV5L--65E7iB4PPIBfs6YFIli0IesUFJoIIL0rAIXR-NNznwQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Cat",
+          "uri": "https://maps.google.com/maps/contrib/106121874190080568676",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqYVXY64mT2dy7HdkBmmYzXKQsx2KzBp2KRcr-oo_rPydLpw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDXwi1vHwvKF_J0yUZ-VSqX&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDXwi1vHwvKF_J0yUZ-VSqX!2e10!4m2!3m1!1s0x340403133cb494a1:0xebd37643c7067faa"
+    },
+    "local_path": "photos/ChIJoZS0PBMDBDQRqn8Gx0N20-s.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLducV_8j9P6m1_V881RtBfwrtgeARurXJyltuc012CkPb6Qlw_I8HebwajyjnXYxk05pjkk2aDLZesjbgRc5FSES2QFgFSfl0HRig5FNY_cVS1l3yASjQ72-7N8K00G5a-e1Q5x_1LLK0kV=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 217185
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

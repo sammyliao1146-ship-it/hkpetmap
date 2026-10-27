@@ -1,0 +1,336 @@
+{
+  "google_place_id": "ChIJR4A3gGMBBDQR_mIBEJQkXOk",
+  "restaurant_ids": [
+    "restaurant:3111803771"
+  ],
+  "fetched_at": "2026-10-23T15:49:26.098607+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJR4A3gGMBBDQR_mIBEJQkXOk",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2581 1816",
+    "internationalPhoneNumber": "+852 2581 1816",
+    "formattedAddress": "香港香港島北角北角邨里1號",
+    "location": {
+      "latitude": 22.292759699999998,
+      "longitude": 114.1994993
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=16815355327036875518&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.starbucks.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 21:00",
+        "星期二: 07:30 – 21:00",
+        "星期三: 07:30 – 21:00",
+        "星期四: 07:30 – 21:00",
+        "星期五: 07:30 – 21:30",
+        "星期六: 08:00 – 21:30",
+        "星期日: 08:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 62,
+    "displayName": {
+      "text": "星巴克 (北角匯)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "editorialSummary": {
+      "text": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJR4A3gGMBBDQR_mIBEJQkXOk/reviews/Ci9DQUlRQUNvZENodHljRjlvT205a1NrczNiVzFPTUVNNWRrZEhiV1YwUlhsaVQzYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "晨早的星巴克(北角匯)\n今早包了星巴克(獨自1人)沒有其他人\n環境好正望住北角東岸板道",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晨早的星巴克(北角匯)\n今早包了星巴克(獨自1人)沒有其他人\n環境好正望住北角東岸板道",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "FaiWong Choi",
+          "uri": "https://www.google.com/maps/contrib/110067252333780654968/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXS1BtF-ykAP3jNmChCT9lt2GrhDvFBUNaOzvUuJ49mFlgHcC10bw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-19T23:48:19.283085207Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205a1NrczNiVzFPTUVNNWRrZEhiV1YwUlhsaVQzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205a1NrczNiVzFPTUVNNWRrZEhiV1YwUlhsaVQzYxAB!2m1!1s0x3404016380378047:0xe95c2494100162fe"
+      },
+      {
+        "name": "places/ChIJR4A3gGMBBDQR_mIBEJQkXOk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGV1oxZ3hhMlExWXkxelYwTlVPRlZ4UTBRdFRIYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 1,
+        "text": {
+          "text": "店里戴眼鏡的男員工，點單態度超級差！不會說「請」字嗎？也沒有笑容，一大早從hotel 下來喝杯咖啡吃早餐，一天的好心情都被打壞！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店里戴眼鏡的男員工，點單態度超級差！不會說「請」字嗎？也沒有笑容，一大早從hotel 下來喝杯咖啡吃早餐，一天的好心情都被打壞！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rita Pan",
+          "uri": "https://www.google.com/maps/contrib/118133089037433049496/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILAiAgQW7DRIJ9IeherWoJ5myAzgw19peh2H54Iiiors3x1g=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-08T01:37:45.491860903Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGV1oxZ3hhMlExWXkxelYwTlVPRlZ4UTBRdFRIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGV1oxZ3hhMlExWXkxelYwTlVPRlZ4UTBRdFRIYxAB!2m1!1s0x3404016380378047:0xe95c2494100162fe"
+      },
+      {
+        "name": "places/ChIJR4A3gGMBBDQR_mIBEJQkXOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtbU43WnFRRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 1,
+        "text": {
+          "text": "有一位叫做Skip 的男員工，態度奇差，你買飲品果陣，佢會以警告語氣要求你掃描安心出行，如果你話等等，佢會話你痴線，跟住會恐嚇你如果唔即刻掃安心出行，會收起張枱以後唔俾你黎，態度好似間鋪係佢咁。\n\n其他員工都正常的。\n\n已經向美心總部投訴呢個人，大家記住以後幫襯呢度，要俾足面Skip 哥，人地好惡，會大聲命令客人，如果唔係俾佢鬧爆。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有一位叫做Skip 的男員工，態度奇差，你買飲品果陣，佢會以警告語氣要求你掃描安心出行，如果你話等等，佢會話你痴線，跟住會恐嚇你如果唔即刻掃安心出行，會收起張枱以後唔俾你黎，態度好似間鋪係佢咁。\n\n其他員工都正常的。\n\n已經向美心總部投訴呢個人，大家記住以後幫襯呢度，要俾足面Skip 哥，人地好惡，會大聲命令客人，如果唔係俾佢鬧爆。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ryo Lam",
+          "uri": "https://www.google.com/maps/contrib/100053422717236515190/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfYnlsoESlMQwfM4U9MkTs7dcw6JoJQhPcP6KbjdEqGLGgxA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2022-11-20T13:53:23.910037Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtbU43WnFRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtbU43WnFRRRAB!2m1!1s0x3404016380378047:0xe95c2494100162fe"
+      },
+      {
+        "name": "places/ChIJR4A3gGMBBDQR_mIBEJQkXOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUREMzh5cDZnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "室內座位比較少，室外在夏天會坐得比較辛苦",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "室內座位比較少，室外在夏天會坐得比較辛苦",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kelvin wong",
+          "uri": "https://www.google.com/maps/contrib/107919909288834558020/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8yWnmQVQeECABrEBhweinsXcbq-FBt7S69szuuNyrYwJxXnV_=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-04-16T06:12:19.891650Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREMzh5cDZnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREMzh5cDZnRRAB!2m1!1s0x3404016380378047:0xe95c2494100162fe"
+      },
+      {
+        "name": "places/ChIJR4A3gGMBBDQR_mIBEJQkXOk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNzh5UU5REAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "記憶中唯一一間沒充電位的Starbucks",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "記憶中唯一一間沒充電位的Starbucks",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chang HALL",
+          "uri": "https://www.google.com/maps/contrib/114575227445520270112/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_3riA8wADmJs72DDmXnourlLnc0EFnjrUPvbE6eAefNPyGwgL=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-08-13T03:33:16.545174Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwNzh5UU5REAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwNzh5UU5REAE!2m1!1s0x3404016380378047:0xe95c2494100162fe"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404016380378047:0xe95c2494100162fe!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16815355327036875518&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404016380378047:0xe95c2494100162fe!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404016380378047:0xe95c2494100162fe!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404016380378047:0xe95c2494100162fe!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJR4A3gGMBBDQR_mIBEJQkXOk/photos/Aa-ngMY43iN1U0u1ip7xLGIAMrRRB79SATdkRPPOJjkr9LCy2Z_x9q_Um9jkhrJpPWB8IX3p9kEP_Wt7CZ6FM0rqaEowpBuEeA6d9F39653HHUwAO00j0kcynFxvUc6-3WNEg_bH7p6tDPF6kiS0Uqhqc_KwdytAOTutE0_ezg8p-y4pfi6htMoJ3usZ1mbzkdhpfySCjeQHRuLq2eMAwNVkfEnYmIAoE73XEMUtInBB5YxIKZ2u4e-HQmqO5Ox45u_9hwB6SPkxN00jHfijbb3GAKc4vKXu-Y9qHurjWvl0fs67ahvOchhf_5edAWiUL8gbgw2afpuvg3pvewUHDj4t9-yLT98aRrW7Jxe0l70KrpdkC9rwYaVcFygEK8ZJs89MZ-i0gje7ekNo8KDnfv459G-wmwRJ8yb81YAJx_mohnDVeg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "FaiWong Choi",
+          "uri": "https://maps.google.com/maps/contrib/110067252333780654968",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXS1BtF-ykAP3jNmChCT9lt2GrhDvFBUNaOzvUuJ49mFlgHcC10bw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC6bw5ch-TZyuzHsiZxbsR2&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC6bw5ch-TZyuzHsiZxbsR2!2e10!4m2!3m1!1s0x3404016380378047:0xe95c2494100162fe"
+    },
+    "local_path": "photos/ChIJR4A3gGMBBDQR_mIBEJQkXOk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1O4gFJ0ABx0HoNakXvP5Hj2UFbtVGVY2Qi1Lcsly5waYahQFbQJJc37LThjQ9ZKJ_2wf4IpM9CcXdaItnXRgPKgbIIUa1iV3Rsa1N73xkW_uil4yX0lvF1mCLpHyDacGpy9GOQalHgYpB=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 211865
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {
+    "website": "HTTPStatusError HTTP 403"
+  },
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

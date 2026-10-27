@@ -1,0 +1,310 @@
+{
+  "google_place_id": "ChIJ3d4lVhYBBDQRWqgI1u_eMN0",
+  "restaurant_ids": [
+    "restaurant:2212116166"
+  ],
+  "fetched_at": "2026-10-23T15:38:50.004670+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ3d4lVhYBBDQRWqgI1u_eMN0",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3579 5610",
+    "internationalPhoneNumber": "+852 3579 5610",
+    "formattedAddress": "6A&B, Yee On Mansion, 6A-B O'Brien Rd, Wan Chai, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.278535400000003,
+      "longitude": 114.1730805
+    },
+    "rating": 3.3,
+    "googleMapsUri": "https://maps.google.com/?cid=15938484202933626970&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 21:00",
+        "星期二: 07:00 – 21:00",
+        "星期三: 07:00 – 21:00",
+        "星期四: 07:00 – 21:00",
+        "星期五: 07:00 – 21:00",
+        "星期六: 07:00 – 21:00",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 399,
+    "displayName": {
+      "text": "軒尼詩冰廳",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ3d4lVhYBBDQRWqgI1u_eMN0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaVVRFdFRTM0ZXVkRsak1tNUxhR05hZEVoUFVYYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 3,
+        "text": {
+          "text": "下午茶乾炒牛河，味道一般過得去，行過路過都會幫襯一下，但未必會專登走過去食飯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "下午茶乾炒牛河，味道一般過得去，行過路過都會幫襯一下，但未必會專登走過去食飯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wilson Wong",
+          "uri": "https://www.google.com/maps/contrib/101105865559032936742/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf9eCTktF4UJiqZeFFiV3ERSM9BazFHFmhFvMrMaQH8TE2rvx3iw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-27T15:43:58.688213073Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaVVRFdFRTM0ZXVkRsak1tNUxhR05hZEVoUFVYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaVVRFdFRTM0ZXVkRsak1tNUxhR05hZEVoUFVYYxAB!2m1!1s0x340401165625dedd:0xdd30deefd608a85a"
+      },
+      {
+        "name": "places/ChIJ3d4lVhYBBDQRWqgI1u_eMN0/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2NXJMSGx3RRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "不時就會和父親來吃早餐的一間，多叫麥皮，然後父親雙拼面。好喜歡他們的跟餐面包是開心的迷你菠蘿包（雖然一點也不迷你，超滿足哈哈哈）。\n\n這家已經屹立灣仔三十多年，不過因為翻新了才不覺，其實與附近三六九差距不遠！下次經過再試試其他新式香港面包～\n\n01/03/2025 更新\n又回來了～最近有令到另一位好朋友入坑這裏的沙嗲牛常餐哈哈哈。\n\n父親這次叫火腿通也不錯。叫麥皮他們會問要不要甜，選了少甜hehe。\n\n他們的菠蘿包似乎是比較舊式的做法，比起外面純粹的甜脆更多層次，讓人想起港式合桃酥，而且貼服麵包體^3^\n（也又見到有趣的麵包選項，下次試試佢！）",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "不時就會和父親來吃早餐的一間，多叫麥皮，然後父親雙拼面。好喜歡他們的跟餐面包是開心的迷你菠蘿包（雖然一點也不迷你，超滿足哈哈哈）。\n\n這家已經屹立灣仔三十多年，不過因為翻新了才不覺，其實與附近三六九差距不遠！下次經過再試試其他新式香港面包～\n\n01/03/2025 更新\n又回來了～最近有令到另一位好朋友入坑這裏的沙嗲牛常餐哈哈哈。\n\n父親這次叫火腿通也不錯。叫麥皮他們會問要不要甜，選了少甜hehe。\n\n他們的菠蘿包似乎是比較舊式的做法，比起外面純粹的甜脆更多層次，讓人想起港式合桃酥，而且貼服麵包體^3^\n（也又見到有趣的麵包選項，下次試試佢！）",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "toiletpaperkiu",
+          "uri": "https://www.google.com/maps/contrib/111117149121981516408/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYwmkIV93Xs19OC2c7Mo_2asWVogIHB4KkiuQz9gvA5eVkKDU=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-05-19T01:32:14.201315Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2NXJMSGx3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2NXJMSGx3RRAB!2m1!1s0x340401165625dedd:0xdd30deefd608a85a"
+      },
+      {
+        "name": "places/ChIJ3d4lVhYBBDQRWqgI1u_eMN0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0MWJXTzNRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "係灣仔都歎到正宗越南菜⁉️呢間軒尼詩冰廳✨就係一個唔錯既選擇，有齊撈檬、河粉及碟頭飯，菜式即叫即製，鑊氣十足，由年輕人主理，絕對係值得支持既港式冰室👍🏻\n\n招牌火車頭\n食越南菜點少得呢款招牌火車頭！超足料啖啖肉，有齊牛腩、生牛肉、牛丸、牛展等，口感豐富之餘湯底又清甜，食完唔會口渴～特別鍾意河粉夠滑夠彈牙，生熟牛肉牛味濃，仲好鮮嫩添！牛丸、牛展好有咬口，超高質！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "係灣仔都歎到正宗越南菜⁉️呢間軒尼詩冰廳✨就係一個唔錯既選擇，有齊撈檬、河粉及碟頭飯，菜式即叫即製，鑊氣十足，由年輕人主理，絕對係值得支持既港式冰室👍🏻\n\n招牌火車頭\n食越南菜點少得呢款招牌火車頭！超足料啖啖肉，有齊牛腩、生牛肉、牛丸、牛展等，口感豐富之餘湯底又清甜，食完唔會口渴～特別鍾意河粉夠滑夠彈牙，生熟牛肉牛味濃，仲好鮮嫩添！牛丸、牛展好有咬口，超高質！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Heimen",
+          "uri": "https://www.google.com/maps/contrib/114222779931583863767/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUa95XAz5FrjZPRsb8JyhS-mTvDHVQ3OnWPWzNeUQWqbQEfKcA8kQ=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-02-06T02:31:59.811659Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0MWJXTzNRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0MWJXTzNRRRAB!2m1!1s0x340401165625dedd:0xdd30deefd608a85a"
+      },
+      {
+        "name": "places/ChIJ3d4lVhYBBDQRWqgI1u_eMN0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0cElubDhnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "工作日的中午，想在灣仔找一家有空位的餐廳吃飯，是非常困難的一件事情，但到了晚上就可以寧靜地、簡簡單單在一家茶餐廳吃頓晚餐！\n\n放工經過灣仔地鐵站口的一家茶餐廳，主要是越南特色餐廳，每一道菜式媲美一些精緻餐廳。\n\n品嚐 #原隻菠蘿海鮮炒飯 $128 ， 很少再見到原個菠蘿上桌的菠蘿炒飯，而且還剩很多菠蘿肉，非常甜美， 炒返唔會粒都晶瑩剔透，乾身好吃。\n\n#鹽燒牛肉法包 $55 ，鹹牛肉、青瓜絲、紅蘿蔔， 味道充足，如果更加多醬汁會更加惹味。\n\n小炒小吃都非常吸引， #紅椒香葉炒鮮魷 $98 、#牛油雞翼 4隻 $42 ， 醬汁配料非常飽滿， 香料可能還比主菜多。\n\n港式、越式飲品同樣都有， #三色冰 非常足料， 凍檸茶的茶底也感覺滿意。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "工作日的中午，想在灣仔找一家有空位的餐廳吃飯，是非常困難的一件事情，但到了晚上就可以寧靜地、簡簡單單在一家茶餐廳吃頓晚餐！\n\n放工經過灣仔地鐵站口的一家茶餐廳，主要是越南特色餐廳，每一道菜式媲美一些精緻餐廳。\n\n品嚐 #原隻菠蘿海鮮炒飯 $128 ， 很少再見到原個菠蘿上桌的菠蘿炒飯，而且還剩很多菠蘿肉，非常甜美， 炒返唔會粒都晶瑩剔透，乾身好吃。\n\n#鹽燒牛肉法包 $55 ，鹹牛肉、青瓜絲、紅蘿蔔， 味道充足，如果更加多醬汁會更加惹味。\n\n小炒小吃都非常吸引， #紅椒香葉炒鮮魷 $98 、#牛油雞翼 4隻 $42 ， 醬汁配料非常飽滿， 香料可能還比主菜多。\n\n港式、越式飲品同樣都有， #三色冰 非常足料， 凍檸茶的茶底也感覺滿意。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Leo S",
+          "uri": "https://www.google.com/maps/contrib/115587904125896603933/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiusvOvrtujxuWMG_vap9gQcElSx9rE9azEfDZ0ZXUUPIvjDFV0Q=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-02-02T15:33:44.939432Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0cElubDhnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0cElubDhnRRAB!2m1!1s0x340401165625dedd:0xdd30deefd608a85a"
+      },
+      {
+        "name": "places/ChIJ3d4lVhYBBDQRWqgI1u_eMN0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0OTVyanFRRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 3,
+        "text": {
+          "text": "地點方便但啲食物真係普普通通，我點咗個薄牛扒早餐，當時人唔多但上菜都比較慢，然後塊牛扒真係好實好難切，個菠蘿包就普普通通，唔熱；HKD 48真係有啲貴。但啲服務都幾好，佢應該係QR code落單但係我去嗰陣人少就老細走嚟幫我👋🏻搞，同埋我見佢好似都幾多熟客，個老細好吹得，幾友善，反應都快，如果啲嘢食好啲應該唔錯。\n\n茶餐即炒粉麵飯不俗，其他都可以。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地點方便但啲食物真係普普通通，我點咗個薄牛扒早餐，當時人唔多但上菜都比較慢，然後塊牛扒真係好實好難切，個菠蘿包就普普通通，唔熱；HKD 48真係有啲貴。但啲服務都幾好，佢應該係QR code落單但係我去嗰陣人少就老細走嚟幫我👋🏻搞，同埋我見佢好似都幾多熟客，個老細好吹得，幾友善，反應都快，如果啲嘢食好啲應該唔錯。\n\n茶餐即炒粉麵飯不俗，其他都可以。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anthony Mak",
+          "uri": "https://www.google.com/maps/contrib/107696028504197590585/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrO0gsJ5Co13zfrGrD7lvaz-pYnZwDlshrVtgLXRO4VaSU2AdO=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-07-26T11:59:28.745806963Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0OTVyanFRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0OTVyanFRRRAB!2m1!1s0x340401165625dedd:0xdd30deefd608a85a"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401165625dedd:0xdd30deefd608a85a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15938484202933626970&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401165625dedd:0xdd30deefd608a85a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401165625dedd:0xdd30deefd608a85a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401165625dedd:0xdd30deefd608a85a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ3d4lVhYBBDQRWqgI1u_eMN0/photos/Aa-ngMYwRMAD_fngZNmUn5X-R3wVTt_WNqx6KyFPvAgqyjjQDe5s5M-I6YoSvWnl4w_fS9TVx-fZ3In9LoANhidveO8QyvuVMt3GWQqy9OmQIBA8A92v2AA2U17i-gRInDaYkOfIqmw8Lp7EoCIFuTWCVf02cBDbJCdPEy-gCkLnnHK4ILDjXaTUvl8thsuf_Ijh74LXlmlmV6eyVg1h99CKxo7Wguo6LdWqTYnvxCZXR42Xb8JyXn9HxhBEenWnu6idnoFa_IXRDjIB1rcFeMthurBdO1QGRlmbWhmMhKi_7Z5MiBvxROuUCRdZgOsgB4ekoD5TwNNZUBlSb2YWFt1aUhP7OlewdF1OmCtJcSsIpXs2LlRYaMVDPdzpiB7_8wKrVWDWG6by5wWd02tOsz2N5zVp8X-6",
+      "widthPx": 1920,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "ChuenMing Chung",
+          "uri": "https://maps.google.com/maps/contrib/102221842274849565759",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJaW-VHL53x17YXo3IOG3Rs0SZr9rRMvIC9tVXGlbnzEDoWQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-6oDpvwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-6oDpvwE!2e10!4m2!3m1!1s0x340401165625dedd:0xdd30deefd608a85a"
+    },
+    "local_path": "photos/ChIJ3d4lVhYBBDQRWqgI1u_eMN0.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKmnd9AbUnryn3l109zmUt8eeN8z3nLH1X96az9UJf11UlVolzN8CH_wMx6Rk1xOUuWfSAa8wD-4T6hqsJAVI96l6zTFyDQDjpZ1Wnbu-SHOmLvxCUuSkHCfeWuYBffMV4DINv=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 156338
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ChIJv7DGWMEBBDQR88TKvo7LZww",
+  "types": [
+    "hospital",
+    "service",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍深水埗大南街84號",
+  "location": {
+    "latitude": 22.325284999999997,
+    "longitude": 114.1659296
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=893906865003087091&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "星宇動物醫院",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "hospital",
+  "photos": [
+    {
+      "name": "places/ChIJv7DGWMEBBDQR88TKvo7LZww/photos/Aa-ngMaOBpXHu8V9_ZlmwMN7bgVZzhrkSpXyuYMs7xa8unDIccsUygcRJo7C0AkUyB5HmYPJl128WV75dmxJvxSyV6zn6eR5rullxfPR3Y1F0NRYb37NK1dnwg4jrfYwe4yWGlTHREYBhJKh-0SjseHC1VkILhMu37FXISxFGHEMQ4xam_AlloZSEMqU2ctb7Or4NOESCS_Ri5v5SoJKL7RvvfeDPUNEHCvqbj7x8lgEV8CULJLw9iUZI6sa5yGgrsbpLzgtarTlDD98fN2mLYOW8KvY-5gyJ5fzgH4CX28Fvjn5qH2EZ5jXHdSomL2Kw8Lh6jlIVbaOA6dF3FZknKoSXWq5R9zTp5hev_J8_U1mgX0kot-zedSuP-U0XlR_rUArss4d2vEbok92xOsUeN-64IJjs0Y",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Only Good Food",
+          "uri": "https://maps.google.com/maps/contrib/110042421025202330540",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgBXDrrxmTShfZlfkR0wqKk8AjEWbd_aClN6oTfyO9vkzAOvk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDH6orhTw&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH6orhTw!2e10!4m2!3m1!1s0x340401c158c6b0bf:0xc67cb8ebecac4f3"
+    }
+  ],
+  "photo_count": 1,
+  "fetched_at": "2026-10-24T00:38:39.871145+00:00"
+}

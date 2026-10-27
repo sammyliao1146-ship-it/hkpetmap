@@ -1,0 +1,330 @@
+{
+  "google_place_id": "ChIJ44Fz7D4HBDQRXkdlRBEpZ3Y",
+  "restaurant_ids": [
+    "restaurant:3163802971"
+  ],
+  "fetched_at": "2026-10-23T15:49:28.054857+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ44Fz7D4HBDQRXkdlRBEpZ3Y",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2387 3380",
+    "internationalPhoneNumber": "+852 2387 3380",
+    "formattedAddress": "香港九龍長沙灣長沙灣道680號",
+    "location": {
+      "latitude": 22.339058500000004,
+      "longitude": 114.1520726
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=8531833173215364958&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:30 – 18:30",
+        "星期二: 07:30 – 18:30",
+        "星期三: 07:30 – 18:30",
+        "星期四: 07:30 – 18:30",
+        "星期五: 07:30 – 18:30",
+        "星期六: 08:00 – 19:00",
+        "星期日: 08:00 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 15,
+    "displayName": {
+      "text": "星巴克 (麗新商業中心店)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "coffee_shop",
+    "editorialSummary": {
+      "text": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJ44Fz7D4HBDQRXkdlRBEpZ3Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkM1FWVlhXQzFpTmxoRUxXOTRhRlpKYkZwU1JrRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 1,
+        "text": {
+          "text": "職員好差\n我約左個客，佢遲到15分鐘左右，我只係等埋個客先叫野飲同野食，個職員已經好唔耐煩，行過黎兩次叫我叫野飲，態度都幾差。最後同個客轉地方都唔想俾佢賺。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "職員好差\n我約左個客，佢遲到15分鐘左右，我只係等埋個客先叫野飲同野食，個職員已經好唔耐煩，行過黎兩次叫我叫野飲，態度都幾差。最後同個客轉地方都唔想俾佢賺。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kin C",
+          "uri": "https://www.google.com/maps/contrib/109414293492294474548/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5UgCa5On4BT3WiHbvObrhTX6zkPPvcxjmcJfco4Nfl1tyfw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-12-24T08:08:53.099398097Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkM1FWVlhXQzFpTmxoRUxXOTRhRlpKYkZwU1JrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkM1FWVlhXQzFpTmxoRUxXOTRhRlpKYkZwU1JrRRAB!2m1!1s0x3404073eec7381e3:0x766729114465475e"
+      },
+      {
+        "name": "places/ChIJ44Fz7D4HBDQRXkdlRBEpZ3Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURKcHFfOXFBRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "新開，完",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "新開，完",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Raymond C.s",
+          "uri": "https://www.google.com/maps/contrib/115993445207987674730/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUy1_Z9U3FsTUsD3taZjyIzNEbRrRipYl6RIAdx4c_FUBY16jiTUw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2023-07-16T05:18:16.701218Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURKcHFfOXFBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKcHFfOXFBRRAB!2m1!1s0x3404073eec7381e3:0x766729114465475e"
+      },
+      {
+        "name": "places/ChIJ44Fz7D4HBDQRXkdlRBEpZ3Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURmMGYtWDhRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "員工非常友善熱情，總是帶著微笑歡迎每一位顧客。\n\n隨時提供協助。\n\n適合學習或與朋友聊天。\n\n聚會的好去處😃😊",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Very nice & friendly staff, with smiling and warm welcome to all customers.\n\nAlways provide assistance whenever you need.\n\nGood for studying or chatting with friends.\n\nGood place for gathering 😃😊",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Maggie Poon",
+          "uri": "https://www.google.com/maps/contrib/108458006557723226689/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQRJYaE0aVQshXZPHoZjts69f6TMgsPvrRDrZJ7WenB2GGSw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-01-07T14:42:23.151264Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmMGYtWDhRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmMGYtWDhRRRAB!2m1!1s0x3404073eec7381e3:0x766729114465475e"
+      },
+      {
+        "name": "places/ChIJ44Fz7D4HBDQRXkdlRBEpZ3Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURGbnFqSGdRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "這是我的訂單，我非常清楚地說了“請坐”，但我不明白為什麼服務員用胡椒袋裝著司康餅給我上菜，而且裡面的司康餅已經碎了。後來，我要求服務生幫我換成盤子。服務生在上菜前應先和顧客確認。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "This is my order I say very clearly that I “stay here” but I didn't understand why staff  served me scone in pepper bag . And  inside had already broken. Later, I asked the staff give me plate. The staff should confirm with the customer before serving.better",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Mrs. TSANG",
+          "uri": "https://www.google.com/maps/contrib/102797565526059702956/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWQnlbGRIWUBDjK3FoE6T99csGQJIs46Eu7n9rgQOMvqZbXJI74w=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-11-07T11:14:41.892081Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGbnFqSGdRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGbnFqSGdRRRAB!2m1!1s0x3404073eec7381e3:0x766729114465475e"
+      },
+      {
+        "name": "places/ChIJ44Fz7D4HBDQRXkdlRBEpZ3Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUNVotNDJnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 1,
+        "text": {
+          "text": "無線網路供應情況：每張收據可享30分鐘免費無線網路。星巴克這是怎麼了？",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Wifi availability = 30 minutes free Wifi per receipt. What in the third-world is happening to Starbucks?",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Andy C.",
+          "uri": "https://www.google.com/maps/contrib/102955630852116433763/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnrLFlBpd5-8868YAU5tpj-YhoDDmqDDFv8FcpQpJcTiPiCRs=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-05-17T08:51:04.350869Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUNVotNDJnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUNVotNDJnRRAB!2m1!1s0x3404073eec7381e3:0x766729114465475e"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404073eec7381e3:0x766729114465475e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8531833173215364958&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404073eec7381e3:0x766729114465475e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404073eec7381e3:0x766729114465475e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404073eec7381e3:0x766729114465475e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ44Fz7D4HBDQRXkdlRBEpZ3Y/photos/Aa-ngMYioPFjgFEOGUke7RGqPOLnOgOs_cSl-gQHvZcD6-2QGDy0U_5QAmluSkJzokXY2HljVyBOkl8Qi-O_nTCesPtVNglimabmpOFqiZfq_brdO1YwluqGBYh8ewKj3FRQ5chTwMHRYteC9IVsRuOTdd0Raz-MURahw2GpYdIMEqa6mKMgpTeU2qTD_Z44nb2fURPHoXAe-rSW4pQ3v-nNajJM_Ne7PMmw6wH2wKY39xjoFJBwsoHupYi0Ksc3tAs7nqpdxKPoNKutzlDleut-hUMtWvldQopzIcH4DMJ_0xvRUxM23NzZkh9Kp6cSlgZ-VBQ7TquZPLZnOxTCJlosqlVQ_GHCzSMIj0LmvhAM4Ab1cIpB1YWD7U_8l5D2aXXHZswlY7qGAYeP8BqUgl4AfUIB1MrikfAG7u7w6_KqkKEdcg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBHI6SZqHruWamjXJhV3GNc&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBHI6SZqHruWamjXJhV3GNc!2e10!4m2!3m1!1s0x3404073eec7381e3:0x766729114465475e"
+    },
+    "local_path": "photos/ChIJ44Fz7D4HBDQRXkdlRBEpZ3Y.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVAgR_JXOdFS66LOPtTddjIfD9zEyCG7859eRBNiOy3dbN1rpq15wTvMLVprn4n9n-LS98C_lrxJXgNzd3j5YqO6nCOfnBnRJJw-s-RFVtNaSsfOolHUXmj-XH4SvVKKSaurxG7PaIg5e8=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 181422
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

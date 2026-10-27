@@ -1,0 +1,405 @@
+{
+  "google_place_id": "ChIJ-UnGCUb7AzQRUOs9qg3VGHI",
+  "restaurant_ids": [
+    "restaurant:2294810284"
+  ],
+  "fetched_at": "2026-10-23T15:48:57.440119+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ-UnGCUb7AzQRUOs9qg3VGHI",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "4688 6620",
+    "internationalPhoneNumber": "+852 4688 6620",
+    "formattedAddress": "Shop No.1,G/F, Manhattan Plaza, 23 Sai Ching St, Yuen Long, New Territories, 香港",
+    "location": {
+      "latitude": 22.4417065,
+      "longitude": 114.02902879999999
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=8221555374432316240&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 45
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 45
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 45
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 45
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 45
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 45
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 14,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 45
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 14:30, 17:45 – 21:30",
+        "星期二: 11:30 – 14:30, 17:45 – 21:30",
+        "星期三: 11:30 – 14:30, 17:45 – 21:30",
+        "星期四: 11:30 – 14:30, 17:45 – 21:30",
+        "星期五: 11:30 – 14:30, 17:45 – 21:30",
+        "星期六: 11:30 – 14:30, 17:45 – 21:30",
+        "星期日: 11:30 – 14:30, 17:45 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 43,
+    "displayName": {
+      "text": "Shokunin Sushi 職人壽司",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "日式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "japanese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ-UnGCUb7AzQRUOs9qg3VGHI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kTVZGYzBSbkU1T0ZvdGNHdHNlVzQ1T1d0SmJWRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "對呢一間嘅丼飯有少少失望\n啲壽司飯有啲碎 同埋有啲硬\n火炙三文魚同埋蝦都好食嘅\n不過個左口魚（應該係）\n咬落去並唔係入口即溶\n反而好似有筋咁 中間食落有啲偏硬\n\n中午去食可能仲要等位\n感覺有更好嘅選擇",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "對呢一間嘅丼飯有少少失望\n啲壽司飯有啲碎 同埋有啲硬\n火炙三文魚同埋蝦都好食嘅\n不過個左口魚（應該係）\n咬落去並唔係入口即溶\n反而好似有筋咁 中間食落有啲偏硬\n\n中午去食可能仲要等位\n感覺有更好嘅選擇",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Sam Koo",
+          "uri": "https://www.google.com/maps/contrib/109540116915395562484/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuAgdMzloJC9RVHm4ll58owrJ0-Wa24MZA8J2MPMNJYEr0OpmN=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-07T15:46:22.675956043Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kTVZGYzBSbkU1T0ZvdGNHdHNlVzQ1T1d0SmJWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kTVZGYzBSbkU1T0ZvdGNHdHNlVzQ1T1d0SmJWRRAB!2m1!1s0x3403fb4609c649f9:0x7218d50daa3deb50"
+      },
+      {
+        "name": "places/ChIJ-UnGCUb7AzQRUOs9qg3VGHI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sRE0zTnpWVWR0ZVV4TFZHMTNSR1l0UTNwM1RuYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 2,
+        "text": {
+          "text": "味道一般，價錢正常，但進食時店主俾狗入，應該唔會再幫襯了，非歧視狗隻，但覺得愛狗同食飯應該分清楚，就算有狗毛飄到人地食物上都唔好。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道一般，價錢正常，但進食時店主俾狗入，應該唔會再幫襯了，非歧視狗隻，但覺得愛狗同食飯應該分清楚，就算有狗毛飄到人地食物上都唔好。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "KO BOY",
+          "uri": "https://www.google.com/maps/contrib/111402336366892730442/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXZnNQtNJCoNDEm3feuqMGBB_d_yEKyDurvJzEU58YmDI4IxNW=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-24T01:29:13.673050281Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sRE0zTnpWVWR0ZVV4TFZHMTNSR1l0UTNwM1RuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sRE0zTnpWVWR0ZVV4TFZHMTNSR1l0UTNwM1RuYxAB!2m1!1s0x3403fb4609c649f9:0x7218d50daa3deb50"
+      },
+      {
+        "name": "places/ChIJ-UnGCUb7AzQRUOs9qg3VGHI/reviews/ChZDSUhNMG9nS0VJQ0FnSURfOWV6WEl3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "日式風味丼飯🍱\n\n小店的座位有限，但環境整潔，店員也很有禮貌。\n\n🍱 浦燒鰻魚丼\n帶有醋酸味的米飯佈滿了蛋絲和木魚絲。\n鰻魚肉質柔嫩，搭配微微焦脆的表皮，口感極佳。 鰻魚的醬汁甜鹹適中，令鰻魚丼更加美味。\n\n🥢茶碗蒸\n茶碗蒸的口感滑順，底層加入了蜆肉，\n讓茶碗蒸增添了海鮮的鮮味，十分美味。\n\n🍣 角切魚生丼\n魚生非常新鮮，色澤鮮豔，肉質嫩滑。\n調味過的醋飯粒粒分明，帶有微微的\n酸甜味道。\n\n整體來說，這餐日式風味的丼飯美味😋\n下次會再來。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "日式風味丼飯🍱\n\n小店的座位有限，但環境整潔，店員也很有禮貌。\n\n🍱 浦燒鰻魚丼\n帶有醋酸味的米飯佈滿了蛋絲和木魚絲。\n鰻魚肉質柔嫩，搭配微微焦脆的表皮，口感極佳。 鰻魚的醬汁甜鹹適中，令鰻魚丼更加美味。\n\n🥢茶碗蒸\n茶碗蒸的口感滑順，底層加入了蜆肉，\n讓茶碗蒸增添了海鮮的鮮味，十分美味。\n\n🍣 角切魚生丼\n魚生非常新鮮，色澤鮮豔，肉質嫩滑。\n調味過的醋飯粒粒分明，帶有微微的\n酸甜味道。\n\n整體來說，這餐日式風味的丼飯美味😋\n下次會再來。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "blissful.abitoflife",
+          "uri": "https://www.google.com/maps/contrib/107144890219100559644/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOt9LCsN49Q3QGojEaIryTi3scj3FYI5goc9Gkr0bq2NvMmN2P=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-01-26T01:28:13.421352Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfOWV6WEl3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfOWV6WEl3EAE!2m1!1s0x3403fb4609c649f9:0x7218d50daa3deb50"
+      },
+      {
+        "name": "places/ChIJ-UnGCUb7AzQRUOs9qg3VGHI/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3emJqVVd3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "元朗少見呢種級數嘅日本小店，味道中上，用料新鮮，價錢抵，會再去幫襯！\n\n角切魚生丼刺身略略唔夠凍，但勝在份量足，夠豐盛，有三文魚、蝦、魷魚、吞拿魚等各種刺身粒，加上新鮮有口感，食落超正！呢個價位黎講好抵食！炙燒丼都唔錯有左加魚、原隻蝦、魚、三文魚，新鮮嘅，但唔算好肥美。炙燒得唔夠勁，冇個種焦香感同埋D魚油燒到逼出黎。但整體黎講都係唔錯嘅！醋飯都夠味，但可以再軟燸啲！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "元朗少見呢種級數嘅日本小店，味道中上，用料新鮮，價錢抵，會再去幫襯！\n\n角切魚生丼刺身略略唔夠凍，但勝在份量足，夠豐盛，有三文魚、蝦、魷魚、吞拿魚等各種刺身粒，加上新鮮有口感，食落超正！呢個價位黎講好抵食！炙燒丼都唔錯有左加魚、原隻蝦、魚、三文魚，新鮮嘅，但唔算好肥美。炙燒得唔夠勁，冇個種焦香感同埋D魚油燒到逼出黎。但整體黎講都係唔錯嘅！醋飯都夠味，但可以再軟燸啲！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yy Mak",
+          "uri": "https://www.google.com/maps/contrib/103379725979805144303/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJgVQ59v0g95ry8yFXUgI9F_W0orn7k3-UV22U6xNOVNdwE=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-08-27T03:34:13.209396Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3emJqVVd3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3emJqVVd3EAE!2m1!1s0x3403fb4609c649f9:0x7218d50daa3deb50"
+      },
+      {
+        "name": "places/ChIJ-UnGCUb7AzQRUOs9qg3VGHI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMcjZXZWFREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "夏日炎熱胃口通常不佳 會想吃壽司冷麵等食物 最近終於到了元朗西菁街富達廣場下面的 #職人壽司 試晚餐\n.\n這家店位於有點隱蔽角落 雖然不大 但進門後的氛圍卻令人感到溫馨和舒適 讓人一踏入就有種置身於日本街頭小店的感覺 建議可先訂座\n.\n晚上有晚市定食可選擇 主要是刺身丼飯或自選壽司 但最後我們決定了散叫壽司\n送上來的是一盤精緻的握壽司，色澤吸引令人有食慾 魚生的新鮮 口感柔嫩 完全沒有腥味。米飯亦是先經過調味 調味也恰到好處 既不會過於酸甜 也不會掩蓋魚生的鮮味\n除了握壽司，我還點了 香蔥吞拿魚、火炙左口魚邊、蟹肉蟹膏海苔卷 海苔卷的材料豐富 搭配得當 嚐到不同的層次感 個人最喜愛火炙左口魚邊 左口魚邊經火炙後魚油滲入壽司飯 滿足了味蕾\n\n總括來說 職人壽司是一間值得推薦的壽司小店",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "夏日炎熱胃口通常不佳 會想吃壽司冷麵等食物 最近終於到了元朗西菁街富達廣場下面的 #職人壽司 試晚餐\n.\n這家店位於有點隱蔽角落 雖然不大 但進門後的氛圍卻令人感到溫馨和舒適 讓人一踏入就有種置身於日本街頭小店的感覺 建議可先訂座\n.\n晚上有晚市定食可選擇 主要是刺身丼飯或自選壽司 但最後我們決定了散叫壽司\n送上來的是一盤精緻的握壽司，色澤吸引令人有食慾 魚生的新鮮 口感柔嫩 完全沒有腥味。米飯亦是先經過調味 調味也恰到好處 既不會過於酸甜 也不會掩蓋魚生的鮮味\n除了握壽司，我還點了 香蔥吞拿魚、火炙左口魚邊、蟹肉蟹膏海苔卷 海苔卷的材料豐富 搭配得當 嚐到不同的層次感 個人最喜愛火炙左口魚邊 左口魚邊經火炙後魚油滲入壽司飯 滿足了味蕾\n\n總括來說 職人壽司是一間值得推薦的壽司小店",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodie I",
+          "uri": "https://www.google.com/maps/contrib/108961579926432666263/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKYYgyLmmP4oR4h2BgO6PoPxdIlsmf7sST4ndvZYi5f4ZPTinLv=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-06-24T05:08:44.426586Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMcjZXZWFREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMcjZXZWFREAE!2m1!1s0x3403fb4609c649f9:0x7218d50daa3deb50"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCoffee": false,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidStreetParking": true,
+      "paidGarageParking": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fb4609c649f9:0x7218d50daa3deb50!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=8221555374432316240&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb4609c649f9:0x7218d50daa3deb50!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fb4609c649f9:0x7218d50daa3deb50!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb4609c649f9:0x7218d50daa3deb50!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ-UnGCUb7AzQRUOs9qg3VGHI/photos/Aa-ngMa5nBoj35_MzMG4kkiYP8Y-KhKXLaJ_ywMyhM_z835Y8u0XUlQfEHiEayNAuxJAxH512a8mwxeFbmRFen8UZRGHk_BfmAYODBy5coCKhLsBIvc-54kruHuK5bYocRuLuNV4iQ0hBUGkb5P1B4COX7p-G02ys8vk6XoXLJNLMLZuOdRbqd6O24FIo-uoGz9E7D_jV3AEBy15IbFd2NYrrXF38WB-B_G7Bf0s61PXMuc7vEVG5W0HS-VihidIM7Osa16pOYdlrj1DoCbQzRmBEZ8gb2Fl1x_1mMtLP_6MYOjiH6wOzn9cAwvLXVjbTSc4ux9uLNdJT0WtyHQNIrji-0ns4UBw5lJD-pDbJt4GloYjKN_ywSSgi0FAL2hAG4kVlIS0opkPTVOMuOF7hn6hL9pQcA",
+      "widthPx": 2353,
+      "heightPx": 2456,
+      "authorAttributions": [
+        {
+          "displayName": "Shiba dinlo A",
+          "uri": "https://maps.google.com/maps/contrib/104500927225703234547",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqNEaQAp5Dyo6VsbrXjd1Fsd6WFesGV07qCG3u2YE6CuE9Tovc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCI973tbg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI973tbg!2e10!4m2!3m1!1s0x3403fb4609c649f9:0x7218d50daa3deb50"
+    },
+    "local_path": "photos/ChIJ-UnGCUb7AzQRUOs9qg3VGHI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJZ1vv1sm2ECDlMpHEwxlxo-jul7LcySmRhYmUoh4ABzqRGoHU2E_qG0w4S7F9H-7O08ZQYSPqcyEuCya4IQ9OOdXGmd95VHvO4riCaZSDQhQ7dO_frRQ6iP7B2Q-kN5Ouho4=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 201779
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "japanese_restaurant",
+    "label": "日式餐廳",
+    "types": [
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJh6AlbvYBBDQRh7x07RMxk2w",
+  "restaurant_ids": [
+    "restaurant:2262814849"
+  ],
+  "fetched_at": "2026-10-23T15:41:10.869003+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJh6AlbvYBBDQRh7x07RMxk2w",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3168 5010",
+    "internationalPhoneNumber": "+852 3168 5010",
+    "formattedAddress": "香港九龍大角咀福利街8號",
+    "location": {
+      "latitude": 22.324835999999998,
+      "longitude": 114.16150479999999
+    },
+    "rating": 3.4,
+    "googleMapsUri": "https://maps.google.com/?cid=7823650939330673799&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/brand/cafe-100",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:30 – 22:00",
+        "星期二: 06:30 – 22:00",
+        "星期三: 06:30 – 22:00",
+        "星期四: 06:30 – 22:00",
+        "星期五: 06:30 – 22:00",
+        "星期六: 06:30 – 22:00",
+        "星期日: 06:30 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-23T22:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 335,
+    "displayName": {
+      "text": "百分百餐廳",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJh6AlbvYBBDQRh7x07RMxk2w/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4cXJmbDFnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "餐點選擇種類尚算理想，食物質素不錯。餐廳環境也算舒適，沒有壓迫感覺。\n由於餐廳使用了QR CODE 點餐，侍應人員明顯減少，待客服務也明顯缺乏了，感覺沒有以往的親切感。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐點選擇種類尚算理想，食物質素不錯。餐廳環境也算舒適，沒有壓迫感覺。\n由於餐廳使用了QR CODE 點餐，侍應人員明顯減少，待客服務也明顯缺乏了，感覺沒有以往的親切感。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Galen Fong",
+          "uri": "https://www.google.com/maps/contrib/110484057053863090069/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFLKkBc5mUeXq7ypFZzWTaIPKIaZWVNPyPxvzX7s6__eemD1frVQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2024-08-17T16:03:10.074842Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4cXJmbDFnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4cXJmbDFnRRAB!2m1!1s0x340401f66e25a087:0x6c933113ed74bc87"
+      },
+      {
+        "name": "places/ChIJh6AlbvYBBDQRh7x07RMxk2w/reviews/ChZDSUhNMG9nS0VJQ0FnSURpMm9yYUpBEAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "經過大角咀見到有百分百餐廳， 前排睇youtube蘇施黃介紹過深水埗分店， 暫時未去到深水埗分店，今次就試一試大角咀這間。 第四波疫情開始， 餐廳座位比較狹窄， 人同人之間貼得太近吧😅！ 幸好上菜速度好快， 食完可以立即走人。 當日點咖哩牛坑腩飯$55、 鮮茄滑蛋牛肉飯$51、 熱咖啡、熱茶走， 臨走的時候見到門口有百分百的麵包店， 順便買了英式蛋撻$6（ 買三送一）和 叉燒菠蘿包$8.5。\n\n⭕咖哩牛坑腩飯～ 咖哩味香濃帶點辣， 牛坑腩份量少又細粒， 完全唔夠喉。\n\n⭕鮮茄滑蛋牛肉飯～ 鮮茄滑蛋炒得香滑， 鮮茄味道酸酸甜甜的， 飯裏面加了藜麥， 整體唔錯。\n\n⭕熱咖啡～ 即磨咖啡欠缺咖啡味， 比較淡。\n\n⭕熱茶走～ 茶走太少煉奶， 茶味比較濃。\n\n⭕英式蛋撻～蛋撻外皮太腍， 太散。\n\n⭕叉燒菠蘿包～鹹甜滋味，好味。\n\n百分百餐廳有好幾間分店， 今次試了鮮茄滑蛋牛肉飯和咖哩牛坑腩飯， 唔知其他幾間質素又如何呢？😉\n\n百分百餐廳\n地址: 大角咀福利街8號港灣豪庭廣場地下G71-73號舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "經過大角咀見到有百分百餐廳， 前排睇youtube蘇施黃介紹過深水埗分店， 暫時未去到深水埗分店，今次就試一試大角咀這間。 第四波疫情開始， 餐廳座位比較狹窄， 人同人之間貼得太近吧😅！ 幸好上菜速度好快， 食完可以立即走人。 當日點咖哩牛坑腩飯$55、 鮮茄滑蛋牛肉飯$51、 熱咖啡、熱茶走， 臨走的時候見到門口有百分百的麵包店， 順便買了英式蛋撻$6（ 買三送一）和 叉燒菠蘿包$8.5。\n\n⭕咖哩牛坑腩飯～ 咖哩味香濃帶點辣， 牛坑腩份量少又細粒， 完全唔夠喉。\n\n⭕鮮茄滑蛋牛肉飯～ 鮮茄滑蛋炒得香滑， 鮮茄味道酸酸甜甜的， 飯裏面加了藜麥， 整體唔錯。\n\n⭕熱咖啡～ 即磨咖啡欠缺咖啡味， 比較淡。\n\n⭕熱茶走～ 茶走太少煉奶， 茶味比較濃。\n\n⭕英式蛋撻～蛋撻外皮太腍， 太散。\n\n⭕叉燒菠蘿包～鹹甜滋味，好味。\n\n百分百餐廳有好幾間分店， 今次試了鮮茄滑蛋牛肉飯和咖哩牛坑腩飯， 唔知其他幾間質素又如何呢？😉\n\n百分百餐廳\n地址: 大角咀福利街8號港灣豪庭廣場地下G71-73號舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "victoriay_eatwithvic",
+          "uri": "https://www.google.com/maps/contrib/114697832177333673125/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpCfwr1RRxacz1FrR7TJp1I5R3RsFpX8f_LBeVJsn43VN_Ow=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2020-12-02T05:15:12.847172Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURpMm9yYUpBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURpMm9yYUpBEAE!2m1!1s0x340401f66e25a087:0x6c933113ed74bc87"
+      },
+      {
+        "name": "places/ChIJh6AlbvYBBDQRh7x07RMxk2w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toTllVaEZWbEJmY0dwa1lWWlVNalF3UjFkd2QzYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 1,
+        "text": {
+          "text": "非常差勁，等半個鐘飯都沒有上，也不出聲。菜單上寫了的飯都沒有，為何不提前說明？讓顧客白等半個鐘？？？？？",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "非常差勁，等半個鐘飯都沒有上，也不出聲。菜單上寫了的飯都沒有，為何不提前說明？讓顧客白等半個鐘？？？？？",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "李可欣",
+          "uri": "https://www.google.com/maps/contrib/114274551962043979327/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZDgBUaSM9FK498KANl_BYDvYa5n0PZU86wFOuG-tm3jxMKos=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-30T07:10:00.129710860Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toTllVaEZWbEJmY0dwa1lWWlVNalF3UjFkd2QzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toTllVaEZWbEJmY0dwa1lWWlVNalF3UjFkd2QzYxAB!2m1!1s0x340401f66e25a087:0x6c933113ed74bc87"
+      },
+      {
+        "name": "places/ChIJh6AlbvYBBDQRh7x07RMxk2w/reviews/ChZDSUhNMG9nS0VJQ0FnSURDcGVuMUJBEAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 3,
+        "text": {
+          "text": "當你諗唔到食咩嘅時候茶記永遠係最好嘅選擇\n大角咀百分百呢間餐廳\n由特別既防疫隔板睇得出\n呢間餐廳似乎同韓樂or意樂係同公司出品\n太易認\nBut咁都好\n因為之前食過韓樂同意樂都唔係太差\n\n見到有扒餐\n但係因為唔食牛肉嘅關係\n問一問侍應可唔可以將牛肉轉做其他肉類\n侍應有禮話可以幫忙轉雞扒\n另外再點左一個四川牛肉炒飯\n同樣因為唔食牛肉所以直接走肉就算啦\n\n扒餐配薯條\n薯條鋪到成個碟底都係\n雞扒同魚柳都有成隻手掌咁大\n仲有一條炸咗嘅華力腸\n份量都幾足\n不過雞扒稍為有少少乾身同鞋口\n魚柳味亦相對比較淡\n\n四川走咗肉嘅炒飯\n上碟已經見到有好多紅乾椒\n配上蛋花蔥頭\n入口都唔錯\n辣到適中\n\n離開餐廳嘅時候\n見到門口旁邊原來有麵包買\n下次試吓包點種類再評\n整體晚餐價錢唔貴\n分量十足\n經濟之選",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "當你諗唔到食咩嘅時候茶記永遠係最好嘅選擇\n大角咀百分百呢間餐廳\n由特別既防疫隔板睇得出\n呢間餐廳似乎同韓樂or意樂係同公司出品\n太易認\nBut咁都好\n因為之前食過韓樂同意樂都唔係太差\n\n見到有扒餐\n但係因為唔食牛肉嘅關係\n問一問侍應可唔可以將牛肉轉做其他肉類\n侍應有禮話可以幫忙轉雞扒\n另外再點左一個四川牛肉炒飯\n同樣因為唔食牛肉所以直接走肉就算啦\n\n扒餐配薯條\n薯條鋪到成個碟底都係\n雞扒同魚柳都有成隻手掌咁大\n仲有一條炸咗嘅華力腸\n份量都幾足\n不過雞扒稍為有少少乾身同鞋口\n魚柳味亦相對比較淡\n\n四川走咗肉嘅炒飯\n上碟已經見到有好多紅乾椒\n配上蛋花蔥頭\n入口都唔錯\n辣到適中\n\n離開餐廳嘅時候\n見到門口旁邊原來有麵包買\n下次試吓包點種類再評\n整體晚餐價錢唔貴\n分量十足\n經濟之選",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "NB H",
+          "uri": "https://www.google.com/maps/contrib/118025320934227456721/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxsVsOgbfBnwh2m4C3O4B5n7siDN0mKmJ_IinIcFVZzIWiNTWghg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2020-10-04T17:31:04.801123Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURDcGVuMUJBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURDcGVuMUJBEAE!2m1!1s0x340401f66e25a087:0x6c933113ed74bc87"
+      },
+      {
+        "name": "places/ChIJh6AlbvYBBDQRh7x07RMxk2w/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVXzhHYUdBEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "岩岩開張，份量夠，飲品大杯。小茶味道十足。係杯奶茶茶味未夠濃郁。整理合格及不錯👍🏻\n都係果句, 服務唔改善, 遲早執笠.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "岩岩開張，份量夠，飲品大杯。小茶味道十足。係杯奶茶茶味未夠濃郁。整理合格及不錯👍🏻\n都係果句, 服務唔改善, 遲早執笠.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Francis Tang",
+          "uri": "https://www.google.com/maps/contrib/109921771498723721045/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUj61slGMFHp8ruMGDZzTU0_tg0frchseIbiHgdJmOcfQvY87JD=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2019-09-19T03:53:50.999324Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNVXzhHYUdBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNVXzhHYUdBEAE!2m1!1s0x340401f66e25a087:0x6c933113ed74bc87"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCashOnly": false
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401f66e25a087:0x6c933113ed74bc87!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=7823650939330673799&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f66e25a087:0x6c933113ed74bc87!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401f66e25a087:0x6c933113ed74bc87!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f66e25a087:0x6c933113ed74bc87!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJh6AlbvYBBDQRh7x07RMxk2w/photos/Aa-ngMaOKVDOME-T_EpCQXr2eTHOWNHbsHb9Y2m6ln0P_yy3nndXakZRU4X-Y0BVzAzo4PAdp36ABGR5uepJMq_vGYOgJR8yEuAOf7bpH3WVH2vx7NvPS6y5G_JPMBl1FXr2OvAFnODwfLUtFfp7fo-Fs9hMH3BE2laYGXL7QmKN6o3DRLvaI369n8TSDjywkj3kWeaKctFrSE0sT9OqB5Z9pf0u54xHq3eUKqOqKLfFfTv_q7fcXfw2RaGB1oRQut8N_l1rKMM-J9dgD4a-DO3F9scZnmdd1aJ9voJJDUTYmp9LxbQZGS13YiYmLKMEgwdNVu2r0JRCzfeZsmRvn5-ZSnF5O2_YCvCrTdhV1e1R8FscAbSEiRIFHsusMwUWVFatAw4_K_MRK8iSdRawe_pScLtyvhjPqS8",
+      "widthPx": 2992,
+      "heightPx": 2992,
+      "authorAttributions": [
+        {
+          "displayName": "Edwin Wong",
+          "uri": "https://maps.google.com/maps/contrib/109593821635707433625",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkD-ttvmYczo32LLzFpFJqWclubMRwc3URbLG7ZhXjogPknF2P=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICh7Kz2pwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh7Kz2pwE!2e10!4m2!3m1!1s0x340401f66e25a087:0x6c933113ed74bc87"
+    },
+    "local_path": "photos/ChIJh6AlbvYBBDQRh7x07RMxk2w.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmkAceoLB9LG4tQau3Ynd6WBvh76rV6CnWh8ZOgzgq2ExnlG2kXdaMZ3pJFCnb4si-lARVW9-xjKhk27D3PgTnlUjVd45rKwLp_X8tMH295Ez-4hCKFzNrKVQLux-ju_tXUuTvLg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 245408
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

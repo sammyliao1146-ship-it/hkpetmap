@@ -1,0 +1,329 @@
+{
+  "google_place_id": "ChIJ6RZmt9YGBDQRKtoYTknzrK4",
+  "restaurant_ids": [
+    "restaurant:2253803858"
+  ],
+  "fetched_at": "2026-10-23T15:42:11.456796+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ6RZmt9YGBDQRKtoYTknzrK4",
+    "types": [
+      "spanish_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2321 3138",
+    "internationalPhoneNumber": "+852 2321 3138",
+    "formattedAddress": "香港九龍新蒲崗太子道東638號Mikiki地下G02A號舖",
+    "location": {
+      "latitude": 22.333907399999998,
+      "longitude": 114.1968814
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=12586702554762107434&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 23:00",
+        "星期二: 11:30 – 23:00",
+        "星期三: 11:30 – 23:00",
+        "星期四: 11:30 – 23:00",
+        "星期五: 11:30 – 00:00",
+        "星期六: 11:30 – 00:00",
+        "星期日: 11:30 – 23:00"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 179,
+    "displayName": {
+      "text": "西班牙餐廳",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西班牙風味餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "spanish_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ6RZmt9YGBDQRKtoYTknzrK4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGSGJqUlNSSFpNZDJvNGExaFBNazFLTlZwWU1VRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 2,
+        "text": {
+          "text": "此餐廳與隔離Das Bier同一集團，餐單一樣\n午市套餐包熱飲，要加一服務費\n揀了燒雞肉忌廉西西里意粉，雞胸肉好鞋，淡而無味，反而西西里汁意粉不錯\n午市約四成入座，等約二十分鐘出菜，見鄰座四位客人，出左三份餐，欠一份催左幾次單，要求轉為外賣\n出菜好似茶餐廳咁，等幾份同款order先一次過出菜\n冷氣不足\n食品質素普通，可一不可再🙅‍♀️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "此餐廳與隔離Das Bier同一集團，餐單一樣\n午市套餐包熱飲，要加一服務費\n揀了燒雞肉忌廉西西里意粉，雞胸肉好鞋，淡而無味，反而西西里汁意粉不錯\n午市約四成入座，等約二十分鐘出菜，見鄰座四位客人，出左三份餐，欠一份催左幾次單，要求轉為外賣\n出菜好似茶餐廳咁，等幾份同款order先一次過出菜\n冷氣不足\n食品質素普通，可一不可再🙅‍♀️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cherie Cho",
+          "uri": "https://www.google.com/maps/contrib/113181853831768825245/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImLX92DBZMbzFeNuWrn4Y1OAd8wKDSjSmlutFdebGa5Swwzg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-13T10:37:02.453050228Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGSGJqUlNSSFpNZDJvNGExaFBNazFLTlZwWU1VRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGSGJqUlNSSFpNZDJvNGExaFBNazFLTlZwWU1VRRAB!2m1!1s0x340406d6b76616e9:0xaeacf3494e18da2a"
+      },
+      {
+        "name": "places/ChIJ6RZmt9YGBDQRKtoYTknzrK4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poeVlUaERhRTE1U0dKR1EzbzJibWhuYlV0eE0wRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 3,
+        "text": {
+          "text": "午餐：吉烈流心芝士豬柳他他醬，豬扒就味道一般，但配菜就非常之差，翠玉瓜和蘿蔔各一條咁就算數，切都冇切開畀我，食一次唔會再去",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午餐：吉烈流心芝士豬柳他他醬，豬扒就味道一般，但配菜就非常之差，翠玉瓜和蘿蔔各一條咁就算數，切都冇切開畀我，食一次唔會再去",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wilson Wong",
+          "uri": "https://www.google.com/maps/contrib/101105865559032936742/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf9eCTktF4UJiqZeFFiV3ERSM9BazFHFmhFvMrMaQH8TE2rvx3iw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-23T15:53:45.652653003Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poeVlUaERhRTE1U0dKR1EzbzJibWhuYlV0eE0wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poeVlUaERhRTE1U0dKR1EzbzJibWhuYlV0eE0wRRAB!2m1!1s0x340406d6b76616e9:0xaeacf3494e18da2a"
+      },
+      {
+        "name": "places/ChIJ6RZmt9YGBDQRKtoYTknzrK4/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtZ003VXZBRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 3,
+        "text": {
+          "text": "叫咗2人晚餐+6隻蠔+2杯啤酒\ntotal $840\n\n新浦崗西餐廳有户外，其實選擇唔多\n帶住寵物，坐户外感覺比較好🐶\n員工服務態度親切，好有笑容\n就算坐户外都能夠得到即時服務👍🏻👍🏻\n\n🥬沙律正常，火腿唔乾，青蘋果絲+菜\n🦪蠔每隻好似$20，size算大隻可以肥多少少\n🍲白酒蜆好細碟，蜆尚算新鮮，個汁味道好淡無味，下次唔洗order\n🍖豬手可以焗耐少少，外皮唔係咁脆，如果用下火槍，賣相仲可以靚d。外皮脆無諗過都比唔到，有失望的😔\n🦪🍙西班牙炒飯少少失望，賣相好得，味道一般，我都明白急凍海鮮無味🙁以呢個價錢味道可以更加好……\n\n♦️集團式的流水作業，不能同有heart小店比較",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "叫咗2人晚餐+6隻蠔+2杯啤酒\ntotal $840\n\n新浦崗西餐廳有户外，其實選擇唔多\n帶住寵物，坐户外感覺比較好🐶\n員工服務態度親切，好有笑容\n就算坐户外都能夠得到即時服務👍🏻👍🏻\n\n🥬沙律正常，火腿唔乾，青蘋果絲+菜\n🦪蠔每隻好似$20，size算大隻可以肥多少少\n🍲白酒蜆好細碟，蜆尚算新鮮，個汁味道好淡無味，下次唔洗order\n🍖豬手可以焗耐少少，外皮唔係咁脆，如果用下火槍，賣相仲可以靚d。外皮脆無諗過都比唔到，有失望的😔\n🦪🍙西班牙炒飯少少失望，賣相好得，味道一般，我都明白急凍海鮮無味🙁以呢個價錢味道可以更加好……\n\n♦️集團式的流水作業，不能同有heart小店比較",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "iris pat",
+          "uri": "https://www.google.com/maps/contrib/100226360110530382723/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsjkscPhDpv735UDtfPi7DrDP02SwH38odU0k0p5BcpB9cmUSH=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-10-24T06:14:19.275008Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMtZ003VXZBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtZ003VXZBRRAB!2m1!1s0x340406d6b76616e9:0xaeacf3494e18da2a"
+      },
+      {
+        "name": "places/ChIJ6RZmt9YGBDQRKtoYTknzrK4/reviews/ChdDSUhNMG9nS0VJQ0FnSURNeVlUaTN3RRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "Tapas Brew\n\n有朋友新居入伙，係新蒲崗，由於未黎過，所以唔知附近有咩食，但朋友搬之前成日黎，所以都幾熟，帶左我地黎呢間西班牙菜既餐廳食～\n\n餐廳係Mikiki，到左果下好驚喜，因為估唔到咁有feel😍，成條街都係滿天星咁既燈飾，好有節日氣氛，佢同一間德國餐廳相鄰，兩間都有外面既座位，晚上黎係有種外國風情。\n\n我地叫左個傳統西班牙炒蛋辣肉腸配脆薯絲同闊條麵。\n\n炒蛋炒得好味，好夠鹹，亦好creamy ，又滑，幾驚喜，配辣肉腸好夾，不過脆薯絲就可以脆啲，咁口感會更好～\n\n本來驚食左咁重味既炒蛋，食闊條麵萬一味道整得唔夠濃就會變到無味，點知幾驚喜，闊條麵既醬汁好惹味，同埋又係好creamy，每條麵條都食到啲sauce。\n\n朋友叫左個羊架，不過我無食所以唔清楚係點，但我聞到好香，見佢都食得滋味～\n\n呢餐埋單每人二百幾，食得好飽，環境舒適😛。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Tapas Brew\n\n有朋友新居入伙，係新蒲崗，由於未黎過，所以唔知附近有咩食，但朋友搬之前成日黎，所以都幾熟，帶左我地黎呢間西班牙菜既餐廳食～\n\n餐廳係Mikiki，到左果下好驚喜，因為估唔到咁有feel😍，成條街都係滿天星咁既燈飾，好有節日氣氛，佢同一間德國餐廳相鄰，兩間都有外面既座位，晚上黎係有種外國風情。\n\n我地叫左個傳統西班牙炒蛋辣肉腸配脆薯絲同闊條麵。\n\n炒蛋炒得好味，好夠鹹，亦好creamy ，又滑，幾驚喜，配辣肉腸好夾，不過脆薯絲就可以脆啲，咁口感會更好～\n\n本來驚食左咁重味既炒蛋，食闊條麵萬一味道整得唔夠濃就會變到無味，點知幾驚喜，闊條麵既醬汁好惹味，同埋又係好creamy，每條麵條都食到啲sauce。\n\n朋友叫左個羊架，不過我無食所以唔清楚係點，但我聞到好香，見佢都食得滋味～\n\n呢餐埋單每人二百幾，食得好飽，環境舒適😛。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mango Tofufa",
+          "uri": "https://www.google.com/maps/contrib/103137002497481092825/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkZglbSa_ZqAbLIhRPQuoEA4bAeBIWwhzTmgxUlmMk9BJlew=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2020-01-03T16:26:33.074798Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURNeVlUaTN3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURNeVlUaTN3RRAB!2m1!1s0x340406d6b76616e9:0xaeacf3494e18da2a"
+      },
+      {
+        "name": "places/ChIJ6RZmt9YGBDQRKtoYTknzrK4/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3N0xIcmpBRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "第一次來光顧，抱著期望。結果⋯⋯\n\n餐廳內是一陣陣的油煙味，應該是廚房的抽氣不足，經過開放式的窗口散播到整個餐廳內。🥺\n\n鯛魚飯： 白飯的米未完全熟透，還是生硬的。蕃茄和葫蘆瓜是不新鮮的，所有米飯和蔬菜以及鯛魚只是室溫的溫度，完全不熱的。😮‍💨\n\n咖啡的品質和味道👎\n\n餐廳職員服務態度有些怪怪的。🥹",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "第一次來光顧，抱著期望。結果⋯⋯\n\n餐廳內是一陣陣的油煙味，應該是廚房的抽氣不足，經過開放式的窗口散播到整個餐廳內。🥺\n\n鯛魚飯： 白飯的米未完全熟透，還是生硬的。蕃茄和葫蘆瓜是不新鮮的，所有米飯和蔬菜以及鯛魚只是室溫的溫度，完全不熱的。😮‍💨\n\n咖啡的品質和味道👎\n\n餐廳職員服務態度有些怪怪的。🥹",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kenny Tang",
+          "uri": "https://www.google.com/maps/contrib/100643616306148979156/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLtAE6KtoLXydt4KofdfTdfRY5vYslKJFL5-iE3Fr-m8hWj7A=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-03-17T05:44:12.867703Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3N0xIcmpBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3N0xIcmpBRRAB!2m1!1s0x340406d6b76616e9:0xaeacf3494e18da2a"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340406d6b76616e9:0xaeacf3494e18da2a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12586702554762107434&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340406d6b76616e9:0xaeacf3494e18da2a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340406d6b76616e9:0xaeacf3494e18da2a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340406d6b76616e9:0xaeacf3494e18da2a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ6RZmt9YGBDQRKtoYTknzrK4/photos/Aa-ngMawooL8gKERLtPLXmLhkqFdmx8p4WqHmh89CNzs5tLo-m4RRbm1LBHUxWiHDmfqs5QZaL_JUBU1SHtMPGMsRQ0Mq53mITOiSTFM3gpwYdKUm7-HTubsicG-CRxVa1QH0VlZrVaiGuHO5inCfifVLdS6UnfjwnPmcQTzC211d1bXek3FuVX3hkvef37HPqZ8t8QblpDXW9dtz2P9KaqpLsDj76Yusz4AU7uPSI2jwwE_6ymr_N8vz4m5hDdbxRS-CC9gF4TeYH7kD47Yz3VLTEG0-UDcoC4ZKqDpYVQ17FiLxG-C4i72aeu-uI1OxH-QjRoLinYGMSGxEcKjauKHdh1cI9gezC2sCRwmCCLhRd7r4zsnIXFwoq_pZHjLOEVd10qTILVuKOHuEs67QG48G_-2Al2oRVE",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "豬事丁家庭_April",
+          "uri": "https://maps.google.com/maps/contrib/117127121261263679404",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVu2-_PBz2krt8Pku9Z65qYglA8Br8WGhXzhS6yNSqtzaAYIuh-8g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICczOKo5wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICczOKo5wE!2e10!4m2!3m1!1s0x340406d6b76616e9:0xaeacf3494e18da2a"
+    },
+    "local_path": "photos/ChIJ6RZmt9YGBDQRKtoYTknzrK4.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRZXc_PfYS8TF4gBew9bd3FQk7qB3GTDNTtx34LRcuNmsLnEL7YOeWvIy2YggfvNBBK6-JG0jBkYLiwO2RUT15pByk21sJgtISOKjQyrPy3sReP_5zQi6YDhxIU2I5m12WmgS5Vg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 243849
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "spanish_restaurant",
+    "label": "西班牙風味餐廳",
+    "types": [
+      "spanish_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

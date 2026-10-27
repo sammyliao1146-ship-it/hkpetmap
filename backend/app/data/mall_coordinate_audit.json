@@ -1,0 +1,2297 @@
+{
+  "source": "https://www.als.gov.hk/lookup",
+  "checked_at": "2026-10-23",
+  "matches": [
+    {
+      "id": "pet-mall-ifc-ifc-mall",
+      "query": "國際金融中心商場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "INTERNATIONAL FINANCE CENTRE MALL",
+          "EngEstate": {
+            "EstateName": "INTERNATIONAL FINANCE CENTRE"
+          },
+          "EngStreet": {
+            "StreetName": "FINANCE STREET",
+            "BuildingNoFrom": "8"
+          },
+          "EngDistrict": {
+            "DcDistrict": "CENTRAL & WESTERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "中西區"
+          },
+          "ChiStreet": {
+            "StreetName": "金融街",
+            "BuildingNoFrom": "8"
+          },
+          "ChiEstate": {
+            "EstateName": "國際金融中心"
+          },
+          "BuildingName": "國際金融中心商場"
+        },
+        "GeoAddress": "3428516348P20050905",
+        "GeospatialInformation": {
+          "Northing": "816348",
+          "Easting": "834285",
+          "Latitude": "22.28602",
+          "Longitude": "114.15763"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-central-market-central-market",
+      "query": "中環街市",
+      "selected_index": 1,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngEstate": {
+            "EstateName": "CENTRAL MARKET"
+          },
+          "EngStreet": {
+            "StreetName": "QUEEN'S ROAD CENTRAL",
+            "BuildingNoFrom": "93"
+          },
+          "EngDistrict": {
+            "DcDistrict": "CENTRAL & WESTERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "中西區"
+          },
+          "ChiStreet": {
+            "StreetName": "皇后大道中",
+            "BuildingNoFrom": "93"
+          },
+          "ChiEstate": {
+            "EstateName": "中環街市"
+          }
+        },
+        "GeoAddress": "3409416156T20050430",
+        "GeospatialInformation": {
+          "Northing": "816156",
+          "Easting": "834094",
+          "Latitude": "22.28429",
+          "Longitude": "114.15578"
+        }
+      },
+      "score": 67.15
+    },
+    {
+      "id": "pet-mall-peak-tower-the-peak-tower",
+      "query": "凌霄閣",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "THE PEAK TOWER",
+          "EngStreet": {
+            "StreetName": "PEAK ROAD",
+            "BuildingNoFrom": "128"
+          },
+          "EngDistrict": {
+            "DcDistrict": "CENTRAL & WESTERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "中西區"
+          },
+          "ChiStreet": {
+            "StreetName": "山頂道",
+            "BuildingNoFrom": "128"
+          },
+          "BuildingName": "凌霄閣"
+        },
+        "GeoAddress": "3348614712T20050430",
+        "GeospatialInformation": {
+          "Northing": "814712",
+          "Easting": "833486",
+          "Latitude": "22.27125",
+          "Longitude": "114.14988"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-pacific-place-pacific-place",
+      "query": "太古廣場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "TWO PACIFIC PLACE",
+          "EngEstate": {
+            "EstateName": "PACIFIC PLACE"
+          },
+          "EngStreet": {
+            "StreetName": "QUEENSWAY",
+            "BuildingNoFrom": "88"
+          },
+          "EngDistrict": {
+            "DcDistrict": "CENTRAL & WESTERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "中西區"
+          },
+          "ChiStreet": {
+            "StreetName": "金鐘道",
+            "BuildingNoFrom": "88"
+          },
+          "ChiEstate": {
+            "EstateName": "太古廣場"
+          },
+          "BuildingName": "太古廣場二座"
+        },
+        "GeoAddress": "3497515348T20050430",
+        "GeospatialInformation": {
+          "Northing": "815348",
+          "Easting": "834975",
+          "Latitude": "22.27699",
+          "Longitude": "114.16433"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-peak-galleria-the-peak-galleria",
+      "query": "山頂廣場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "PEAK GALLERIA",
+          "EngStreet": {
+            "StreetName": "PEAK ROAD",
+            "BuildingNoFrom": "118"
+          },
+          "EngDistrict": {
+            "DcDistrict": "CENTRAL & WESTERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "中西區"
+          },
+          "ChiStreet": {
+            "StreetName": "山頂道",
+            "BuildingNoFrom": "118"
+          },
+          "BuildingName": "山頂廣場"
+        },
+        "GeoAddress": "3347714633T20050430",
+        "GeospatialInformation": {
+          "Northing": "814633",
+          "Easting": "833477",
+          "Latitude": "22.27053",
+          "Longitude": "114.14979"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-wtc-wtc-mall",
+      "query": "世貿中心",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "WORLD TRADE CENTRE",
+          "EngStreet": {
+            "StreetName": "GLOUCESTER ROAD",
+            "BuildingNoFrom": "280"
+          },
+          "EngDistrict": {
+            "DcDistrict": "WAN CHAI DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "灣仔區"
+          },
+          "ChiStreet": {
+            "StreetName": "告士打道",
+            "BuildingNoFrom": "280"
+          },
+          "BuildingName": "世貿中心"
+        },
+        "GeoAddress": "3699015911T20050430",
+        "GeospatialInformation": {
+          "Northing": "815911",
+          "Easting": "836990",
+          "Latitude": "22.28208",
+          "Longitude": "114.18388"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-ph-s2578-",
+      "query": "LEE TUNG AVENUE",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "LEE TUNG AVENUE",
+          "EngEstate": {
+            "EstateName": "THE AVENUE"
+          },
+          "EngStreet": {
+            "StreetName": "QUEEN'S ROAD EAST",
+            "BuildingNoFrom": "200"
+          },
+          "EngDistrict": {
+            "DcDistrict": "WAN CHAI DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "灣仔區"
+          },
+          "ChiStreet": {
+            "StreetName": "皇后大道東",
+            "BuildingNoFrom": "200"
+          },
+          "ChiEstate": {
+            "EstateName": "囍滙"
+          },
+          "BuildingName": "利東街"
+        },
+        "GeoAddress": "3579815166P20151002",
+        "GeospatialInformation": {
+          "Northing": "815166",
+          "Easting": "835798",
+          "Latitude": "22.27535",
+          "Longitude": "114.17231"
+        }
+      },
+      "score": 50.0
+    },
+    {
+      "id": "pet-mall-hopewell-hopewell-centre-mall",
+      "query": "堅尼地道15號",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngStreet": {
+            "StreetName": "KENNEDY ROAD",
+            "BuildingNoFrom": "15"
+          },
+          "EngDistrict": {
+            "DcDistrict": "WAN CHAI DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "灣仔區"
+          },
+          "ChiStreet": {
+            "StreetName": "堅尼地道",
+            "BuildingNoFrom": "15"
+          }
+        },
+        "GeoAddress": "3563115126P20241105",
+        "GeospatialInformation": {
+          "Northing": "815126",
+          "Easting": "835631",
+          "Latitude": "22.27499",
+          "Longitude": "114.17069"
+        }
+      },
+      "score": 81.89
+    },
+    {
+      "id": "pet-mall-hysan-place-hysan-place",
+      "query": "希慎廣場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "HYSAN PLACE",
+          "EngStreet": {
+            "StreetName": "HENNESSY ROAD",
+            "BuildingNoFrom": "500"
+          },
+          "EngDistrict": {
+            "DcDistrict": "WAN CHAI DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "灣仔區"
+          },
+          "ChiStreet": {
+            "StreetName": "軒尼詩道",
+            "BuildingNoFrom": "500"
+          },
+          "BuildingName": "希慎廣場"
+        },
+        "GeoAddress": "3698415658T20120223",
+        "GeospatialInformation": {
+          "Northing": "815658",
+          "Easting": "836984",
+          "Latitude": "22.27979",
+          "Longitude": "114.18382"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-harbour-north-harbour-north",
+      "query": "北角匯",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "HARBOUR NORTH PHASE 1",
+          "EngStreet": {
+            "StreetName": "NORTH POINT ESTATE LANE",
+            "BuildingNoFrom": "1"
+          },
+          "EngDistrict": {
+            "DcDistrict": "EASTERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "東區"
+          },
+          "ChiStreet": {
+            "StreetName": "北角邨里",
+            "BuildingNoFrom": "1"
+          },
+          "BuildingName": "北角匯一期"
+        },
+        "GeoAddress": "3858117105P20171116",
+        "GeospatialInformation": {
+          "Northing": "817105",
+          "Easting": "838581",
+          "Latitude": "22.29286",
+          "Longitude": "114.19932"
+        }
+      },
+      "score": 60.0
+    },
+    {
+      "id": "pet-mall-thesouthside-the-southside",
+      "query": "THE SOUTHSIDE",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "THE SOUTHSIDE",
+          "EngStreet": {
+            "StreetName": "HEUNG YIP ROAD",
+            "BuildingNoFrom": "11"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SOUTHERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "南區"
+          },
+          "ChiStreet": {
+            "StreetName": "香葉道",
+            "BuildingNoFrom": "11"
+          },
+          "BuildingName": "THE SOUTHSIDE"
+        },
+        "GeoAddress": "3533312006P20240709",
+        "GeospatialInformation": {
+          "Northing": "812006",
+          "Easting": "835333",
+          "Latitude": "22.24681",
+          "Longitude": "114.1678"
+        }
+      },
+      "score": 81.25
+    },
+    {
+      "id": "pet-mall-the-arcade-the-arcade",
+      "query": "THE ARCADE CYBERPORT",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "THE ARCADE",
+          "EngEstate": {
+            "EstateName": "CYBERPORT"
+          },
+          "EngStreet": {
+            "StreetName": "CYBERPORT ROAD",
+            "BuildingNoFrom": "100"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SOUTHERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "南區"
+          },
+          "ChiStreet": {
+            "StreetName": "數碼港道",
+            "BuildingNoFrom": "100"
+          },
+          "ChiEstate": {
+            "EstateName": "數碼港"
+          },
+          "BuildingName": "THE ARCADE"
+        },
+        "GeoAddress": "3141513557T20050430",
+        "GeospatialInformation": {
+          "Northing": "813557",
+          "Easting": "831415",
+          "Latitude": "22.26081",
+          "Longitude": "114.12979"
+        }
+      },
+      "score": 78.57
+    },
+    {
+      "id": "pet-mall-the-pulse-the-pulse",
+      "query": "淺水灣 The Pulse",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "THE PULSE",
+          "EngStreet": {
+            "StreetName": "BEACH ROAD",
+            "BuildingNoFrom": "28"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SOUTHERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "南區"
+          },
+          "ChiStreet": {
+            "StreetName": "海灘道",
+            "BuildingNoFrom": "28"
+          },
+          "BuildingName": "THE PULSE"
+        },
+        "GeoAddress": "3840410848T20080918",
+        "GeospatialInformation": {
+          "Northing": "810848",
+          "Easting": "838404",
+          "Latitude": "22.23635",
+          "Longitude": "114.19759"
+        }
+      },
+      "score": 50.0
+    },
+    {
+      "id": "pet-mall-murray-house-murray-house",
+      "query": "美利樓",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "MURRAY HOUSE",
+          "EngEstate": {
+            "EstateName": "STANLEY PLAZA"
+          },
+          "EngStreet": {
+            "StreetName": "CARMEL ROAD",
+            "BuildingNoFrom": "23"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SOUTHERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "南區"
+          },
+          "ChiStreet": {
+            "StreetName": "佳美道",
+            "BuildingNoFrom": "23"
+          },
+          "ChiEstate": {
+            "EstateName": "赤柱廣場"
+          },
+          "BuildingName": "美利樓"
+        },
+        "GeoAddress": "3965608830T20050430",
+        "GeospatialInformation": {
+          "Northing": "808830",
+          "Easting": "839656",
+          "Latitude": "22.21813",
+          "Longitude": "114.20973"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-stanley-plaza-stanley-plaza",
+      "query": "赤柱廣場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngEstate": {
+            "EstateName": "STANLEY PLAZA"
+          },
+          "EngStreet": {
+            "StreetName": "CARMEL ROAD",
+            "BuildingNoFrom": "23"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SOUTHERN DISTRICT"
+          },
+          "Region": "HK"
+        },
+        "ChiPremisesAddress": {
+          "Region": "香港",
+          "ChiDistrict": {
+            "DcDistrict": "南區"
+          },
+          "ChiStreet": {
+            "StreetName": "佳美道",
+            "BuildingNoFrom": "23"
+          },
+          "ChiEstate": {
+            "EstateName": "赤柱廣場"
+          }
+        },
+        "GeoAddress": "3964409003T20050430",
+        "GeospatialInformation": {
+          "Northing": "809003",
+          "Easting": "839644",
+          "Latitude": "22.21969",
+          "Longitude": "114.20962"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-k11-musea-k11-musea",
+      "query": "K11 MUSEA",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "K11 MUSEA",
+          "EngEstate": {
+            "EstateName": "VICTORIA DOCKSIDE"
+          },
+          "EngStreet": {
+            "StreetName": "SALISBURY ROAD",
+            "BuildingNoFrom": "18"
+          },
+          "EngDistrict": {
+            "DcDistrict": "YAU TSIM MONG DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "油尖旺區"
+          },
+          "ChiStreet": {
+            "StreetName": "梳士巴利道",
+            "BuildingNoFrom": "18"
+          },
+          "ChiEstate": {
+            "EstateName": "VICTORIA DOCKSIDE"
+          },
+          "BuildingName": "K11 MUSEA"
+        },
+        "GeoAddress": "3596517251T20191204",
+        "GeospatialInformation": {
+          "Northing": "817251",
+          "Easting": "835965",
+          "Latitude": "22.29418",
+          "Longitude": "114.17393"
+        }
+      },
+      "score": 81.25
+    },
+    {
+      "id": "pet-mall-ph-s10090-k11",
+      "query": "K11 ART MALL",
+      "selected_index": 1,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "K11",
+          "EngStreet": {
+            "StreetName": "HANOI ROAD",
+            "BuildingNoFrom": "18"
+          },
+          "EngDistrict": {
+            "DcDistrict": "YAU TSIM MONG DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "油尖旺區"
+          },
+          "ChiStreet": {
+            "StreetName": "河內道",
+            "BuildingNoFrom": "18"
+          },
+          "BuildingName": "K11"
+        },
+        "GeoAddress": "3593417625P20080331",
+        "GeospatialInformation": {
+          "Northing": "817625",
+          "Easting": "835934",
+          "Latitude": "22.29756",
+          "Longitude": "114.17363"
+        }
+      },
+      "score": 42.65
+    },
+    {
+      "id": "pet-mall-moko-moko",
+      "query": "太子道西193號 新世紀廣場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "OFFICE TOWER II",
+          "EngEstate": {
+            "EstateName": "GRAND CENTURY PLACE"
+          },
+          "EngStreet": {
+            "StreetName": "PRINCE EDWARD ROAD WEST",
+            "BuildingNoFrom": "193"
+          },
+          "EngDistrict": {
+            "DcDistrict": "YAU TSIM MONG DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "油尖旺區"
+          },
+          "ChiStreet": {
+            "StreetName": "太子道西",
+            "BuildingNoFrom": "193"
+          },
+          "ChiEstate": {
+            "EstateName": "新世紀廣場"
+          },
+          "BuildingName": "寫字樓二座"
+        },
+        "GeoAddress": "3583220437T20050430",
+        "GeospatialInformation": {
+          "Northing": "820437",
+          "Easting": "835832",
+          "Latitude": "22.32295",
+          "Longitude": "114.17264"
+        }
+      },
+      "score": 97.69
+    },
+    {
+      "id": "pet-mall-elements-elements",
+      "query": "圓方",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngEstate": {
+            "EstateName": "UNION SQUARE",
+            "EngPhase": {
+              "PhaseName": "ELEMENTS"
+            }
+          },
+          "EngStreet": {
+            "StreetName": "AUSTIN ROAD WEST",
+            "BuildingNoFrom": "1"
+          },
+          "EngDistrict": {
+            "DcDistrict": "YAU TSIM MONG DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "油尖旺區"
+          },
+          "ChiStreet": {
+            "StreetName": "柯士甸道西",
+            "BuildingNoFrom": "1"
+          },
+          "ChiEstate": {
+            "EstateName": "UNION SQUARE",
+            "ChiPhase": {
+              "PhaseName": "圓方"
+            }
+          }
+        },
+        "GeoAddress": "3469118345P20050809",
+        "GeospatialInformation": {
+          "Northing": "818345",
+          "Easting": "834691",
+          "Latitude": "22.30406",
+          "Longitude": "114.16157"
+        }
+      },
+      "score": 50.0
+    },
+    {
+      "id": "pet-mall-olympian-city-olympian-city",
+      "query": "奧海城",
+      "selected_index": 1,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "OLYMPIAN CITY 2",
+          "EngEstate": {
+            "EstateName": "CENTRAL PARK"
+          },
+          "EngStreet": {
+            "StreetName": "HOI TING ROAD",
+            "BuildingNoFrom": "18"
+          },
+          "EngDistrict": {
+            "DcDistrict": "YAU TSIM MONG DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "油尖旺區"
+          },
+          "ChiStreet": {
+            "StreetName": "海庭道",
+            "BuildingNoFrom": "18"
+          },
+          "ChiEstate": {
+            "EstateName": "帝柏海灣"
+          },
+          "BuildingName": "奧海城二期"
+        },
+        "GeoAddress": "3481419718T20050430",
+        "GeospatialInformation": {
+          "Northing": "819718",
+          "Easting": "834814",
+          "Latitude": "22.31646",
+          "Longitude": "114.16276"
+        }
+      },
+      "score": 48.51
+    },
+    {
+      "id": "pet-mall-langham-place-langham-place",
+      "query": "朗豪坊",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngEstate": {
+            "EstateName": "LANGHAM PLACE"
+          },
+          "EngStreet": {
+            "StreetName": "ARGYLE STREET",
+            "BuildingNoFrom": "8"
+          },
+          "EngDistrict": {
+            "DcDistrict": "YAU TSIM MONG DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "油尖旺區"
+          },
+          "ChiStreet": {
+            "StreetName": "亞皆老街",
+            "BuildingNoFrom": "8"
+          },
+          "ChiEstate": {
+            "EstateName": "朗豪坊"
+          }
+        },
+        "GeoAddress": "3540319981T20050430",
+        "GeospatialInformation": {
+          "Northing": "819981",
+          "Easting": "835403",
+          "Latitude": "22.31883",
+          "Longitude": "114.16848"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-harbour-city-harbour-city",
+      "query": "海港城",
+      "selected_index": 2,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngBlock": {
+            "BlockDescriptor": "TOWER",
+            "BlockNo": "6",
+            "BlockDescriptorPrecedenceIndicator": "Y"
+          },
+          "EngEstate": {
+            "EstateName": "HARBOUR CITY",
+            "EngPhase": {
+              "PhaseName": "THE GATEWAY"
+            }
+          },
+          "EngStreet": {
+            "StreetName": "CANTON ROAD",
+            "BuildingNoFrom": "9"
+          },
+          "EngDistrict": {
+            "DcDistrict": "YAU TSIM MONG DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "油尖旺區"
+          },
+          "ChiStreet": {
+            "StreetName": "廣東道",
+            "BuildingNoFrom": "9"
+          },
+          "ChiEstate": {
+            "EstateName": "海港城",
+            "ChiPhase": {
+              "PhaseName": "港威"
+            }
+          },
+          "ChiBlock": {
+            "BlockDescriptor": "座",
+            "BlockNo": "6"
+          }
+        },
+        "GeoAddress": "3537317568T20050430",
+        "GeospatialInformation": {
+          "Northing": "817568",
+          "Easting": "835373",
+          "Latitude": "22.29704",
+          "Longitude": "114.16819"
+        }
+      },
+      "score": 69.45
+    },
+    {
+      "id": "pet-mall-ph-s99821-83",
+      "query": "瓊林街83號",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "TOWER A",
+          "EngEstate": {
+            "EstateName": "PORTAS"
+          },
+          "EngStreet": {
+            "StreetName": "KING LAM STREET",
+            "BuildingNoFrom": "83"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SHAM SHUI PO DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "深水埗區"
+          },
+          "ChiStreet": {
+            "StreetName": "瓊林街",
+            "BuildingNoFrom": "83"
+          },
+          "ChiEstate": {
+            "EstateName": "PORTAS"
+          },
+          "BuildingName": "TOWER A"
+        },
+        "GeoAddress": "3311222260T20240516",
+        "GeospatialInformation": {
+          "Northing": "822260",
+          "Easting": "833112",
+          "Latitude": "22.33941",
+          "Longitude": "114.14624"
+        }
+      },
+      "score": 88.75
+    },
+    {
+      "id": "pet-mall-d2-place-d2-place",
+      "query": "D2 PLACE ONE",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "D2 PLACE ONE",
+          "EngStreet": {
+            "StreetName": "CHEUNG YEE STREET",
+            "BuildingNoFrom": "9"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SHAM SHUI PO DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "深水埗區"
+          },
+          "ChiStreet": {
+            "StreetName": "長義街",
+            "BuildingNoFrom": "9"
+          },
+          "BuildingName": "D2 PLACE 一期"
+        },
+        "GeoAddress": "3338321895T20050430",
+        "GeospatialInformation": {
+          "Northing": "821895",
+          "Easting": "833383",
+          "Latitude": "22.33611",
+          "Longitude": "114.14887"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-v-walk-v-walk",
+      "query": "V Walk",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "V WALK",
+          "EngEstate": {
+            "EstateName": "CULLINAN WEST"
+          },
+          "EngStreet": {
+            "StreetName": "SHAM MONG ROAD",
+            "BuildingNoFrom": "28"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SHAM SHUI PO DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "深水埗區"
+          },
+          "ChiStreet": {
+            "StreetName": "深旺道",
+            "BuildingNoFrom": "28"
+          },
+          "ChiEstate": {
+            "EstateName": "匯璽"
+          },
+          "BuildingName": "V WALK"
+        },
+        "GeoAddress": "3389220874P20180705",
+        "GeospatialInformation": {
+          "Northing": "820874",
+          "Easting": "833892",
+          "Latitude": "22.32689",
+          "Longitude": "114.15381"
+        }
+      },
+      "score": 50.0
+    },
+    {
+      "id": "pet-mall-festival-walk-festival-walk",
+      "query": "又一城",
+      "selected_index": 1,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "FESTIVAL WALK",
+          "EngStreet": {
+            "StreetName": "TAT CHEE AVENUE",
+            "BuildingNoFrom": "80"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SHAM SHUI PO DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "深水埗區"
+          },
+          "ChiStreet": {
+            "StreetName": "達之路",
+            "BuildingNoFrom": "80"
+          },
+          "BuildingName": "又一城"
+        },
+        "GeoAddress": "3606221998T20050430",
+        "GeospatialInformation": {
+          "Northing": "821998",
+          "Easting": "836062",
+          "Latitude": "22.33705",
+          "Longitude": "114.17487"
+        }
+      },
+      "score": 56.27
+    },
+    {
+      "id": "pet-mall-lai-sun-lai-sun-commercial-centre",
+      "query": "麗新商業中心",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "LAI SUN COMMERCIAL CENTRE",
+          "EngStreet": {
+            "StreetName": "CHEUNG SHA WAN ROAD",
+            "BuildingNoFrom": "680"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SHAM SHUI PO DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "深水埗區"
+          },
+          "ChiStreet": {
+            "StreetName": "長沙灣道",
+            "BuildingNoFrom": "680"
+          },
+          "BuildingName": "麗新商業中心"
+        },
+        "GeoAddress": "3370722224T20050430",
+        "GeospatialInformation": {
+          "Northing": "822224",
+          "Easting": "833707",
+          "Latitude": "22.33908",
+          "Longitude": "114.15201"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-kcp-kowloon-city-plaza",
+      "query": "九龍城廣場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "KCP",
+          "EngStreet": {
+            "StreetName": "CARPENTER ROAD",
+            "BuildingNoFrom": "128"
+          },
+          "EngDistrict": {
+            "DcDistrict": "KOWLOON CITY DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "九龍城區"
+          },
+          "ChiStreet": {
+            "StreetName": "賈炳達道",
+            "BuildingNoFrom": "128"
+          },
+          "BuildingName": "九龍城廣場"
+        },
+        "GeoAddress": "3739721328T20050430",
+        "GeospatialInformation": {
+          "Northing": "821328",
+          "Easting": "837397",
+          "Latitude": "22.33099",
+          "Longitude": "114.18783"
+        }
+      },
+      "score": 92.85
+    },
+    {
+      "id": "pet-mall-sogo-ktk-sogo-kai-tak",
+      "query": "雙子匯",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "TOWER I",
+          "EngEstate": {
+            "EstateName": "THE TWINS"
+          },
+          "EngStreet": {
+            "StreetName": "CONCORDE ROAD",
+            "BuildingNoFrom": "12"
+          },
+          "EngDistrict": {
+            "DcDistrict": "KOWLOON CITY DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "九龍城區"
+          },
+          "ChiStreet": {
+            "StreetName": "協調道",
+            "BuildingNoFrom": "12"
+          },
+          "ChiEstate": {
+            "EstateName": "雙子匯"
+          },
+          "BuildingName": "一期"
+        },
+        "GeoAddress": "3872521508T20240110",
+        "GeospatialInformation": {
+          "Northing": "821508",
+          "Easting": "838725",
+          "Latitude": "22.33262",
+          "Longitude": "114.20072"
+        }
+      },
+      "score": 100.0
+    },
+    {
+      "id": "pet-mall-laguna-mall-the-laguna-mall",
+      "query": "海逸坊",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "THE LAGUNA MALL",
+          "EngEstate": {
+            "EstateName": "LAGUNA VERDE",
+            "EngPhase": {
+              "PhaseName": "COSTA DEL SOL"
+            }
+          },
+          "EngStreet": {
+            "StreetName": "LAGUNA VERDE AVENUE",
+            "BuildingNoFrom": "8"
+          },
+          "EngDistrict": {
+            "DcDistrict": "KOWLOON CITY DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "九龍城區"
+          },
+          "ChiStreet": {
+            "StreetName": "海逸道",
+            "BuildingNoFrom": "8"
+          },
+          "ChiEstate": {
+            "EstateName": "海逸豪園",
+            "ChiPhase": {
+              "PhaseName": "悅濤灣"
+            }
+          },
+          "BuildingName": "海逸坊"
+        },
+        "GeoAddress": "3776618913T20050430",
+        "GeospatialInformation": {
+          "Northing": "818913",
+          "Easting": "837766",
+          "Latitude": "22.30919",
+          "Longitude": "114.19141"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-mikiki-mikiki",
+      "query": "Mikiki",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "MIKIKI",
+          "EngEstate": {
+            "EstateName": "THE LATITUDE"
+          },
+          "EngStreet": {
+            "StreetName": "PRINCE EDWARD ROAD EAST",
+            "BuildingNoFrom": "638"
+          },
+          "EngDistrict": {
+            "DcDistrict": "WONG TAI SIN DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "黃大仙區"
+          },
+          "ChiStreet": {
+            "StreetName": "太子道東",
+            "BuildingNoFrom": "638"
+          },
+          "ChiEstate": {
+            "EstateName": "譽‧港灣"
+          },
+          "BuildingName": "MIKIKI"
+        },
+        "GeoAddress": "3832721611P20110322",
+        "GeospatialInformation": {
+          "Northing": "821611",
+          "Easting": "838327",
+          "Latitude": "22.33355",
+          "Longitude": "114.19686"
+        }
+      },
+      "score": 81.25
+    },
+    {
+      "id": "pet-mall-apm-apm",
+      "query": "APM",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "APM MILLENNIUM CITY 5",
+          "EngStreet": {
+            "StreetName": "KWUN TONG ROAD",
+            "BuildingNoFrom": "418"
+          },
+          "EngDistrict": {
+            "DcDistrict": "KWUN TONG DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "觀塘區"
+          },
+          "ChiStreet": {
+            "StreetName": "觀塘道",
+            "BuildingNoFrom": "418"
+          },
+          "BuildingName": "APM 創紀之城5"
+        },
+        "GeoAddress": "4124619266T20050430",
+        "GeospatialInformation": {
+          "Northing": "819266",
+          "Easting": "841246",
+          "Latitude": "22.31237",
+          "Longitude": "114.22519"
+        }
+      },
+      "score": 75.0
+    },
+    {
+      "id": "pet-mall-megabox-megabox",
+      "query": "MegaBox",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "MEGABOX",
+          "EngEstate": {
+            "EstateName": "ENTERPRISE SQUARE FIVE"
+          },
+          "EngStreet": {
+            "StreetName": "WANG CHIU ROAD",
+            "BuildingNoFrom": "38"
+          },
+          "EngDistrict": {
+            "DcDistrict": "KWUN TONG DISTRICT"
+          },
+          "Region": "KLN"
+        },
+        "ChiPremisesAddress": {
+          "Region": "九龍",
+          "ChiDistrict": {
+            "DcDistrict": "觀塘區"
+          },
+          "ChiStreet": {
+            "StreetName": "宏照道",
+            "BuildingNoFrom": "38"
+          },
+          "ChiEstate": {
+            "EstateName": "企業廣場五期"
+          },
+          "BuildingName": "MEGABOX"
+        },
+        "GeoAddress": "3952420063T20061129",
+        "GeospatialInformation": {
+          "Northing": "820063",
+          "Easting": "839524",
+          "Latitude": "22.31957",
+          "Longitude": "114.20848"
+        }
+      },
+      "score": 81.25
+    },
+    {
+      "id": "pet-mall-metroplaza-metroplaza",
+      "query": "新都會廣場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngEstate": {
+            "EstateName": "METROPLAZA"
+          },
+          "EngStreet": {
+            "StreetName": "HING FONG ROAD",
+            "BuildingNoFrom": "223"
+          },
+          "EngDistrict": {
+            "DcDistrict": "KWAI TSING DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "葵青區"
+          },
+          "ChiStreet": {
+            "StreetName": "興芳路",
+            "BuildingNoFrom": "223"
+          },
+          "ChiEstate": {
+            "EstateName": "新都會廣場"
+          }
+        },
+        "GeoAddress": "3110624268T20050430",
+        "GeospatialInformation": {
+          "Northing": "824268",
+          "Easting": "831106",
+          "Latitude": "22.35754",
+          "Longitude": "114.12676"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-op-mall-op-mall",
+      "query": "海之戀商場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngBlock": {
+            "BlockDescriptor": "TOWER",
+            "BlockNo": "1",
+            "BlockDescriptorPrecedenceIndicator": "Y"
+          },
+          "BuildingName": "OCEAN SUPREME",
+          "EngEstate": {
+            "EstateName": "OCEAN PRIDE"
+          },
+          "EngStreet": {
+            "LocationName": "TSUEN WAN",
+            "StreetName": "TAI HO ROAD",
+            "BuildingNoFrom": "100"
+          },
+          "EngDistrict": {
+            "DcDistrict": "TSUEN WAN DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "荃灣區"
+          },
+          "ChiStreet": {
+            "LocationName": "荃灣",
+            "StreetName": "大河道",
+            "BuildingNoFrom": "100"
+          },
+          "ChiEstate": {
+            "EstateName": "海之戀"
+          },
+          "ChiBlock": {
+            "BlockDescriptor": "座",
+            "BlockNo": "1"
+          },
+          "BuildingName": "海之戀．愛炫美"
+        },
+        "GeoAddress": "2939825390T20190402",
+        "GeospatialInformation": {
+          "Northing": "825390",
+          "Easting": "829398",
+          "Latitude": "22.36766",
+          "Longitude": "114.11017"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-the-mills-the-mills",
+      "query": "南豐紗廠",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "THE MILLS",
+          "EngStreet": {
+            "LocationName": "TSUEN WAN",
+            "StreetName": "PAK TIN PAR STREET",
+            "BuildingNoFrom": "45"
+          },
+          "EngDistrict": {
+            "DcDistrict": "TSUEN WAN DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "荃灣區"
+          },
+          "ChiStreet": {
+            "LocationName": "荃灣",
+            "StreetName": "白田壩街",
+            "BuildingNoFrom": "45"
+          },
+          "BuildingName": "南豐紗廠"
+        },
+        "GeoAddress": "2939926196T20180622",
+        "GeospatialInformation": {
+          "Northing": "826196",
+          "Easting": "829399",
+          "Latitude": "22.37494",
+          "Longitude": "114.11018"
+        }
+      },
+      "score": 81.25
+    },
+    {
+      "id": "pet-mall-tsuen-wan-new-town-citywalk-2",
+      "query": "荃新天地",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "CITYWALK",
+          "EngEstate": {
+            "EstateName": "VISION CITY"
+          },
+          "EngStreet": {
+            "LocationName": "TSUEN WAN",
+            "StreetName": "YEUNG UK ROAD",
+            "BuildingNoFrom": "1"
+          },
+          "EngDistrict": {
+            "DcDistrict": "TSUEN WAN DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "荃灣區"
+          },
+          "ChiStreet": {
+            "LocationName": "荃灣",
+            "StreetName": "楊屋道",
+            "BuildingNoFrom": "1"
+          },
+          "ChiEstate": {
+            "EstateName": "萬景峯"
+          },
+          "BuildingName": "荃新天地"
+        },
+        "GeoAddress": "2982625649T20070720",
+        "GeospatialInformation": {
+          "Northing": "825649",
+          "Easting": "829826",
+          "Latitude": "22.37",
+          "Longitude": "114.11433"
+        }
+      },
+      "score": 81.25
+    },
+    {
+      "id": "pet-mall-citywalk-citywalk",
+      "query": "荃灣廣場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngEstate": {
+            "EstateName": "TSUEN WAN PLAZA"
+          },
+          "EngStreet": {
+            "LocationName": "TSUEN WAN",
+            "StreetName": "TAI PA STREET",
+            "BuildingNoFrom": "4",
+            "BuildingNoTo": "30"
+          },
+          "EngDistrict": {
+            "DcDistrict": "TSUEN WAN DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "荃灣區"
+          },
+          "ChiStreet": {
+            "LocationName": "荃灣",
+            "StreetName": "大壩街",
+            "BuildingNoFrom": "4",
+            "BuildingNoTo": "30"
+          },
+          "ChiEstate": {
+            "EstateName": "荃灣廣場"
+          }
+        },
+        "GeoAddress": "2951425743P20060311",
+        "GeospatialInformation": {
+          "Northing": "825743",
+          "Easting": "829514",
+          "Latitude": "22.37085",
+          "Longitude": "114.1113"
+        }
+      },
+      "score": 64.43
+    },
+    {
+      "id": "pet-mall-sun-tuen-mun-sun-tuen-mun-shopping-centre",
+      "query": "新屯門商場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "SUN TUEN MUN SHOPPING CENTRE",
+          "EngEstate": {
+            "EstateName": "SUN TUEN MUN CENTRE"
+          },
+          "EngStreet": {
+            "LocationName": "TUEN MUN",
+            "StreetName": "LUNG MUN ROAD",
+            "BuildingNoFrom": "55",
+            "BuildingNoTo": "65"
+          },
+          "EngDistrict": {
+            "DcDistrict": "TUEN MUN DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "屯門區"
+          },
+          "ChiStreet": {
+            "LocationName": "屯門",
+            "StreetName": "龍門路",
+            "BuildingNoFrom": "55",
+            "BuildingNoTo": "65"
+          },
+          "ChiEstate": {
+            "EstateName": "新屯門中心"
+          },
+          "BuildingName": "新屯門商場"
+        },
+        "GeoAddress": "1445326902P20050812",
+        "GeospatialInformation": {
+          "Northing": "826902",
+          "Easting": "814453",
+          "Latitude": "22.38119",
+          "Longitude": "113.96505"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-yoho-mall-yoho-mall",
+      "query": "YOHO Mall 形點",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "YOHO MALL I",
+          "EngEstate": {
+            "EstateName": "GRAND YOHO"
+          },
+          "EngStreet": {
+            "StreetName": "LONG YAT ROAD",
+            "BuildingNoFrom": "9"
+          },
+          "EngDistrict": {
+            "DcDistrict": "YUEN LONG DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "元朗區"
+          },
+          "ChiStreet": {
+            "StreetName": "朗日路",
+            "BuildingNoFrom": "9"
+          },
+          "ChiEstate": {
+            "EstateName": "GRAND YOHO"
+          },
+          "BuildingName": "形點　Ｉ"
+        },
+        "GeoAddress": "2194234006P20170509",
+        "GeospatialInformation": {
+          "Northing": "834006",
+          "Easting": "821942",
+          "Latitude": "22.44542",
+          "Longitude": "114.0377"
+        }
+      },
+      "score": 62.0
+    },
+    {
+      "id": "pet-mall-landmark-north-landmark-north",
+      "query": "上水廣場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "LANDMARK NORTH",
+          "EngStreet": {
+            "LocationName": "SHEUNG SHUI",
+            "StreetName": "LUNG SUM AVENUE",
+            "BuildingNoFrom": "39"
+          },
+          "EngDistrict": {
+            "DcDistrict": "NORTH DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "北區"
+          },
+          "ChiStreet": {
+            "LocationName": "上水",
+            "StreetName": "龍琛路",
+            "BuildingNoFrom": "39"
+          },
+          "BuildingName": "上水廣場"
+        },
+        "GeoAddress": "3122240325T20050430",
+        "GeospatialInformation": {
+          "Northing": "840325",
+          "Easting": "831222",
+          "Latitude": "22.50254",
+          "Longitude": "114.12783"
+        }
+      },
+      "score": 64.29
+    },
+    {
+      "id": "pet-mall-tai-yuen-tai-yuen-commercial-centre",
+      "query": "大元商場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "TAI YUEN SHOPPING CENTRE",
+          "EngEstate": {
+            "EstateName": "TAI YUEN ESTATE"
+          },
+          "EngStreet": {
+            "StreetName": "TING KOK ROAD",
+            "BuildingNoFrom": "10"
+          },
+          "EngDistrict": {
+            "DcDistrict": "TAI PO DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "大埔區"
+          },
+          "ChiStreet": {
+            "StreetName": "汀角路",
+            "BuildingNoFrom": "10"
+          },
+          "ChiEstate": {
+            "EstateName": "大元邨"
+          },
+          "BuildingName": "大元商場"
+        },
+        "GeoAddress": "3540835069T20170421",
+        "GeospatialInformation": {
+          "Northing": "835069",
+          "Easting": "835408",
+          "Latitude": "22.45508",
+          "Longitude": "114.16852"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-the-wai-the-wai",
+      "query": "圍方",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "THE WAI",
+          "EngEstate": {
+            "EstateName": "THE PAVILIA FARM"
+          },
+          "EngStreet": {
+            "LocationName": "SHA TIN",
+            "StreetName": "CHE KUNG MIU ROAD",
+            "BuildingNoFrom": "18"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SHA TIN DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "沙田區"
+          },
+          "ChiStreet": {
+            "LocationName": "沙田",
+            "StreetName": "車公廟路",
+            "BuildingNoFrom": "18"
+          },
+          "ChiEstate": {
+            "EstateName": "柏傲莊"
+          },
+          "BuildingName": "圍方"
+        },
+        "GeoAddress": "3654825983P20230217",
+        "GeospatialInformation": {
+          "Northing": "825983",
+          "Easting": "836548",
+          "Latitude": "22.37303",
+          "Longitude": "114.17959"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-new-town-plaza-new-town-plaza",
+      "query": "新城市廣場一期",
+      "selected_index": 1,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngEstate": {
+            "EstateName": "NEW TOWN PLAZA",
+            "EngPhase": {
+              "PhaseName": "PHASE III"
+            }
+          },
+          "EngStreet": {
+            "LocationName": "SHA TIN",
+            "StreetName": "SHA TIN CENTRE STREET",
+            "BuildingNoFrom": "2",
+            "BuildingNoTo": "8"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SHA TIN DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "沙田區"
+          },
+          "ChiStreet": {
+            "LocationName": "沙田",
+            "StreetName": "沙田正街",
+            "BuildingNoFrom": "2",
+            "BuildingNoTo": "8"
+          },
+          "ChiEstate": {
+            "EstateName": "新城市廣場",
+            "ChiPhase": {
+              "PhaseName": "第三期"
+            }
+          }
+        },
+        "GeoAddress": "3737926765P20050818",
+        "GeospatialInformation": {
+          "Northing": "826765",
+          "Easting": "837379",
+          "Latitude": "22.38009",
+          "Longitude": "114.18766"
+        }
+      },
+      "score": 69.63
+    },
+    {
+      "id": "pet-mall-ph-s910105-",
+      "query": "MOSTOWN",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "MOSTOWN (PHASE 4)",
+          "EngEstate": {
+            "EstateName": "SUNSHINE CITY"
+          },
+          "EngStreet": {
+            "LocationName": "MA ON SHAN",
+            "StreetName": "ON LUK STREET",
+            "BuildingNoFrom": "18"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SHA TIN DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "沙田區"
+          },
+          "ChiStreet": {
+            "LocationName": "馬鞍山",
+            "StreetName": "鞍祿街",
+            "BuildingNoFrom": "18"
+          },
+          "ChiEstate": {
+            "EstateName": "新港城"
+          },
+          "BuildingName": "新港城中心(4期)"
+        },
+        "GeoAddress": "4199031696T20050430",
+        "GeospatialInformation": {
+          "Northing": "831696",
+          "Easting": "841990",
+          "Latitude": "22.42461",
+          "Longitude": "114.23245"
+        }
+      },
+      "score": 75.0
+    },
+    {
+      "id": "pet-mall-we-go-mall-we-go-mall",
+      "query": "WE GO MALL",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "WE GO MALL",
+          "EngStreet": {
+            "LocationName": "MA ON SHAN",
+            "StreetName": "PO TAI STREET",
+            "BuildingNoFrom": "16"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SHA TIN DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "沙田區"
+          },
+          "ChiStreet": {
+            "LocationName": "馬鞍山",
+            "StreetName": "保泰街",
+            "BuildingNoFrom": "16"
+          },
+          "BuildingName": "WE GO MALL"
+        },
+        "GeoAddress": "4111030534T20171011",
+        "GeospatialInformation": {
+          "Northing": "830534",
+          "Easting": "841110",
+          "Latitude": "22.41412",
+          "Longitude": "114.2239"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-go-park-go-park-sai-sha",
+      "query": "海映路9號",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngStreet": {
+            "StreetName": "HOI YING ROAD",
+            "BuildingNoFrom": "9"
+          },
+          "EngDistrict": {
+            "DcDistrict": "TAI PO DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "大埔區"
+          },
+          "ChiStreet": {
+            "StreetName": "海映路",
+            "BuildingNoFrom": "9"
+          }
+        },
+        "GeoAddress": "4540032011P20240607",
+        "GeospatialInformation": {
+          "Northing": "832008",
+          "Easting": "845356",
+          "Latitude": "22.42742",
+          "Longitude": "114.26515"
+        }
+      },
+      "score": 88.75
+    },
+    {
+      "id": "pet-mall-monterey-monterey-place",
+      "query": "MONTEREY 唐俊街23號 商場",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngBlock": {
+            "BlockDescriptor": "TOWER",
+            "BlockNo": "1",
+            "BlockDescriptorPrecedenceIndicator": "Y"
+          },
+          "EngEstate": {
+            "EstateName": "MONTEREY"
+          },
+          "EngStreet": {
+            "LocationName": "TSEUNG KWAN O",
+            "StreetName": "TONG CHUN STREET",
+            "BuildingNoFrom": "23"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SAI KUNG DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "西貢區"
+          },
+          "ChiStreet": {
+            "LocationName": "將軍澳",
+            "StreetName": "唐俊街",
+            "BuildingNoFrom": "23"
+          },
+          "ChiEstate": {
+            "EstateName": "MONTEREY"
+          },
+          "ChiBlock": {
+            "BlockDescriptor": "座",
+            "BlockNo": "1"
+          }
+        },
+        "GeoAddress": "4507018094T20180810",
+        "GeospatialInformation": {
+          "Northing": "818094",
+          "Easting": "845070",
+          "Latitude": "22.30177",
+          "Longitude": "114.2623"
+        }
+      },
+      "score": 91.0
+    },
+    {
+      "id": "pet-mall-popcorn-popcorn",
+      "query": "PopCorn",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "POPCORN",
+          "EngEstate": {
+            "EstateName": "THE WINGS"
+          },
+          "EngStreet": {
+            "LocationName": "TSEUNG KWAN O, SAI KUNG",
+            "StreetName": "TONG YIN STREET",
+            "BuildingNoFrom": "9"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SAI KUNG DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "西貢區"
+          },
+          "ChiStreet": {
+            "LocationName": "西貢 將軍澳",
+            "StreetName": "唐賢街",
+            "BuildingNoFrom": "9"
+          },
+          "ChiEstate": {
+            "EstateName": "天晉"
+          },
+          "BuildingName": "POPCORN"
+        },
+        "GeoAddress": "4482718747T20130521",
+        "GeospatialInformation": {
+          "Northing": "818747",
+          "Easting": "844827",
+          "Latitude": "22.30767",
+          "Longitude": "114.25994"
+        }
+      },
+      "score": 81.25
+    },
+    {
+      "id": "pet-mall-popwalk-popwalk",
+      "query": "PopWalk",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "POPWALK",
+          "EngEstate": {
+            "EstateName": "THE WINGS II"
+          },
+          "EngStreet": {
+            "LocationName": "TSEUNG KWAN O",
+            "StreetName": "TONG CHUN STREET",
+            "BuildingNoFrom": "12"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SAI KUNG DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "西貢區"
+          },
+          "ChiStreet": {
+            "LocationName": "將軍澳",
+            "StreetName": "唐俊街",
+            "BuildingNoFrom": "12"
+          },
+          "ChiEstate": {
+            "EstateName": "天晉II"
+          },
+          "BuildingName": "天晉滙"
+        },
+        "GeoAddress": "4491218584P20130530",
+        "GeospatialInformation": {
+          "Northing": "818584",
+          "Easting": "844912",
+          "Latitude": "22.30619",
+          "Longitude": "114.26076"
+        }
+      },
+      "score": 81.25
+    },
+    {
+      "id": "pet-mall-the-lohas-the-lohas",
+      "query": "THE LOHAS",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "THE LOHAS",
+          "EngEstate": {
+            "EstateName": "LOHAS PARK"
+          },
+          "EngStreet": {
+            "LocationName": "TSEUNG KWAN O",
+            "StreetName": "LOHAS PARK ROAD",
+            "BuildingNoFrom": "1"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SAI KUNG DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "西貢區"
+          },
+          "ChiStreet": {
+            "LocationName": "將軍澳",
+            "StreetName": "康城路",
+            "BuildingNoFrom": "1"
+          },
+          "ChiEstate": {
+            "EstateName": "日出康城"
+          },
+          "BuildingName": "THE LOHAS 康城"
+        },
+        "GeoAddress": "4594917327T20211006",
+        "GeospatialInformation": {
+          "Northing": "817327",
+          "Easting": "845949",
+          "Latitude": "22.29484",
+          "Longitude": "114.27082"
+        }
+      },
+      "score": 81.25
+    },
+    {
+      "id": "pet-mall-ph-s910213-",
+      "query": "新都城中心二期",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "MCP CENTRAL",
+          "EngEstate": {
+            "EstateName": "METRO CITY",
+            "EngPhase": {
+              "PhaseName": "PHASE II"
+            }
+          },
+          "EngStreet": {
+            "LocationName": "TSEUNG KWAN O",
+            "StreetName": "YAN KING ROAD",
+            "BuildingNoFrom": "8"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SAI KUNG DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "西貢區"
+          },
+          "ChiStreet": {
+            "LocationName": "將軍澳",
+            "StreetName": "欣景路",
+            "BuildingNoFrom": "8"
+          },
+          "ChiEstate": {
+            "EstateName": "新都城",
+            "ChiPhase": {
+              "PhaseName": "第二期"
+            }
+          },
+          "BuildingName": "新都城中心二期"
+        },
+        "GeoAddress": "4459620473T20050430",
+        "GeospatialInformation": {
+          "Northing": "820473",
+          "Easting": "844596",
+          "Latitude": "22.32325",
+          "Longitude": "114.25771"
+        }
+      },
+      "score": 72.22
+    },
+    {
+      "id": "pet-mall-east-point-city-east-point-city",
+      "query": "東港城",
+      "selected_index": 1,
+      "premises": {
+        "EngPremisesAddress": {
+          "EngEstate": {
+            "EstateName": "EAST POINT CITY"
+          },
+          "EngStreet": {
+            "LocationName": "TSEUNG KWAN O",
+            "StreetName": "CHUNG WA ROAD",
+            "BuildingNoFrom": "8"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SAI KUNG DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "西貢區"
+          },
+          "ChiStreet": {
+            "LocationName": "將軍澳",
+            "StreetName": "重華路",
+            "BuildingNoFrom": "8"
+          },
+          "ChiEstate": {
+            "EstateName": "東港城"
+          }
+        },
+        "GeoAddress": "4543019645T20050430",
+        "GeospatialInformation": {
+          "Northing": "819645",
+          "Easting": "845430",
+          "Latitude": "22.31577",
+          "Longitude": "114.2658"
+        }
+      },
+      "score": 70.0
+    },
+    {
+      "id": "pet-mall-ocean-wings-ocean-wings",
+      "query": "海天晉滙",
+      "selected_index": 0,
+      "premises": {
+        "EngPremisesAddress": {
+          "BuildingName": "OCEAN POPWALK",
+          "EngEstate": {
+            "EstateName": "OCEAN WINGS"
+          },
+          "EngStreet": {
+            "LocationName": "TSEUNG KWAN O",
+            "StreetName": "TONG CHUN STREET",
+            "BuildingNoFrom": "28"
+          },
+          "EngDistrict": {
+            "DcDistrict": "SAI KUNG DISTRICT"
+          },
+          "Region": "NT"
+        },
+        "ChiPremisesAddress": {
+          "Region": "新界",
+          "ChiDistrict": {
+            "DcDistrict": "西貢區"
+          },
+          "ChiStreet": {
+            "LocationName": "將軍澳",
+            "StreetName": "唐俊街",
+            "BuildingNoFrom": "28"
+          },
+          "ChiEstate": {
+            "EstateName": "海天晉"
+          },
+          "BuildingName": "海天晉滙"
+        },
+        "GeoAddress": "4496818305T20171103",
+        "GeospatialInformation": {
+          "Northing": "818305",
+          "Easting": "844968",
+          "Latitude": "22.30367",
+          "Longitude": "114.26131"
+        }
+      },
+      "score": 81.25
+    }
+  ],
+  "directory_representative_ids": [
+    "curated:mall:ph-s99227-",
+    "curated:mall:ph-s910219-1868"
+  ]
+}

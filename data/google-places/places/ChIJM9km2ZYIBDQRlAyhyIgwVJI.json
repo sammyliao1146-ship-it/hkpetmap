@@ -1,0 +1,334 @@
+{
+  "google_place_id": "ChIJM9km2ZYIBDQRlAyhyIgwVJI",
+  "restaurant_ids": [
+    "restaurant:2297803414"
+  ],
+  "fetched_at": "2026-10-23T15:51:09.139183+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJM9km2ZYIBDQRlAyhyIgwVJI",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2210 7071",
+    "internationalPhoneNumber": "+852 2210 7071",
+    "formattedAddress": "香港新界白石角科技大道東16E號海濱大樓二座地下S088-S089號舖",
+    "location": {
+      "latitude": 22.4277012,
+      "longitude": 114.21161319999999
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=10544105991620856980&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://www.tombargrill.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 22:30",
+        "星期二: 11:00 – 22:30",
+        "星期三: 11:00 – 22:30",
+        "星期四: 11:00 – 22:30",
+        "星期五: 11:00 – 22:30",
+        "星期六: 11:00 – 22:30",
+        "星期日: 11:00 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 762,
+    "displayName": {
+      "text": "Tom Bar+Grill",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJM9km2ZYIBDQRlAyhyIgwVJI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoT1oyNDRjMUEyUW14TWMwVm1XRUZ2UVRsaWFVRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 2,
+        "text": {
+          "text": "2026年7月\n大部分食物不熱，扣分。似午餐 賣淨的食物，無大好感。\n青口更有不新鮮的味道。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2026年7月\n大部分食物不熱，扣分。似午餐 賣淨的食物，無大好感。\n青口更有不新鮮的味道。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cho Cho",
+          "uri": "https://www.google.com/maps/contrib/107179936670915919311/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhL9ME7BgY5yiBfJF1Rw7wOfVSviyVPta9JZcb5nIo8NMkOl63=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-20T13:04:01.073293913Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoT1oyNDRjMUEyUW14TWMwVm1XRUZ2UVRsaWFVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoT1oyNDRjMUEyUW14TWMwVm1XRUZ2UVRsaWFVRRAB!2m1!1s0x34040896d926d933:0x92543088c8a10c94"
+      },
+      {
+        "name": "places/ChIJM9km2ZYIBDQRlAyhyIgwVJI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aVGVVVnVibmcxYVZoMkxVWmFkbWxhZUZJdE1YYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "如果想同朋友暢所欲言，呢度係最適合地方，嘢食又好食，靜靜地同埋又無限時間，我都估唔到咁開心，多謝餐廳提供呢個地方，又可以望海景，真係一流",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "如果想同朋友暢所欲言，呢度係最適合地方，嘢食又好食，靜靜地同埋又無限時間，我都估唔到咁開心，多謝餐廳提供呢個地方，又可以望海景，真係一流",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pawmi",
+          "uri": "https://www.google.com/maps/contrib/109782439735665745300/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUw7HXwnZOWBmRNub5HVJL6z9SuD7tpBHC_34KMkyTghcEG03gpfg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-07T22:57:24.107481719Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aVGVVVnVibmcxYVZoMkxVWmFkbWxhZUZJdE1YYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aVGVVVnVibmcxYVZoMkxVWmFkbWxhZUZJdE1YYxAB!2m1!1s0x34040896d926d933:0x92543088c8a10c94"
+      },
+      {
+        "name": "places/ChIJM9km2ZYIBDQRlAyhyIgwVJI/reviews/ChdDSUhNMG9nS0VJQ0FnSURkcUtTNDlRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "味道可以，不過偏貴，海南雞細份，泰式野或者lunch 200蚊以上嘅都ok，坐室外係正嘅，又唔會趕客，服務好好，侍應姐姐都好客氣。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道可以，不過偏貴，海南雞細份，泰式野或者lunch 200蚊以上嘅都ok，坐室外係正嘅，又唔會趕客，服務好好，侍應姐姐都好客氣。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Card MK",
+          "uri": "https://www.google.com/maps/contrib/118219743864925595646/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiexC831LNFWSUmY-ZIfLpyWfPK_WC7PU5TvcY6a4NGVl6LtE2Rw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-02-20T16:25:07.556569Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURkcUtTNDlRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURkcUtTNDlRRRAB!2m1!1s0x34040896d926d933:0x92543088c8a10c94"
+      },
+      {
+        "name": "places/ChIJM9km2ZYIBDQRlAyhyIgwVJI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25seWRqUk1MVXR5U0ZodE1XaG1lalIxVGpGRWRYYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 3,
+        "text": {
+          "text": "餐具要注意一下，隻叉淆哂，衰過大家樂。食物不錯，廚師手勢一流",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐具要注意一下，隻叉淆哂，衰過大家樂。食物不錯，廚師手勢一流",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "GaryRunner",
+          "uri": "https://www.google.com/maps/contrib/109364260800164687869/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjrwMLyt546RuRASziYNDuvb0mTERghwwmqK_jXSOFy8Iv8T4=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-12-09T12:16:54.100458640Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25seWRqUk1MVXR5U0ZodE1XaG1lalIxVGpGRWRYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25seWRqUk1MVXR5U0ZodE1XaG1lalIxVGpGRWRYYxAB!2m1!1s0x34040896d926d933:0x92543088c8a10c94"
+      },
+      {
+        "name": "places/ChIJM9km2ZYIBDQRlAyhyIgwVJI/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyLUtYZ1ZREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "春秋兩季係最舒服嘅時間，唔凍唔熱嘅天氣加上海風，無論係late brunch 定疫情前嘅晚餐都會有唔同嘅心情同風景，outdoor可以食煙，請體諒响壓力下唞氣嘅煙民，3點後有Happy Hour,大路嘅cocktail 不過不失，menu 包涵中西意泰，味道同份量中矩中舉，價格合理與否因人而異，始終交通方便，徒步出返大埔都係30分鐘以內，附近亦有多個停車場，踩單車都不失為一個快捷嘅選擇，呢度有好多我嘅回憶，你都可以嘗試留低一個😊",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "春秋兩季係最舒服嘅時間，唔凍唔熱嘅天氣加上海風，無論係late brunch 定疫情前嘅晚餐都會有唔同嘅心情同風景，outdoor可以食煙，請體諒响壓力下唞氣嘅煙民，3點後有Happy Hour,大路嘅cocktail 不過不失，menu 包涵中西意泰，味道同份量中矩中舉，價格合理與否因人而異，始終交通方便，徒步出返大埔都係30分鐘以內，附近亦有多個停車場，踩單車都不失為一個快捷嘅選擇，呢度有好多我嘅回憶，你都可以嘗試留低一個😊",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wing L",
+          "uri": "https://www.google.com/maps/contrib/112629909064875338080/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhnSTqJFNu_4cST7wHzjTv0SJnVBYAW_iDqhHUzfyQhuu423MDqA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-08-12T01:57:29.160046Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMyLUtYZ1ZREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMyLUtYZ1ZREAE!2m1!1s0x34040896d926d933:0x92543088c8a10c94"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040896d926d933:0x92543088c8a10c94!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10544105991620856980&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040896d926d933:0x92543088c8a10c94!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040896d926d933:0x92543088c8a10c94!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040896d926d933:0x92543088c8a10c94!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJM9km2ZYIBDQRlAyhyIgwVJI/photos/Aa-ngMbdvDsDYU07gAKgorbsbDMzuUMAt9cvLZVJWEny_yzR3epqv-OuTqbZbEq39Bz-R2-cYkJHlg9205oTgL3YV_ZcwkfKCj3fkbXU4AAdQem5VfhaA2Iy6lhCNIcLGfBEeeTd1fvv7EycmmiKHHmTYz2BWygtLXffJnimB8QLmigOnzyqx_UJQ0MgK3f9s6Z9KjmJjGO6k5zLQftEMclieC_VqtvOayWUrekEcIqAhXOcTUy6Lz1NdE_2_482QZjgwax6sgiW5xR2ag-UsJPHMjhXJYE_PhpTOzcJmpk1pmx-UGDtf9yaEs5U2kOYm3z-lakdTho21SSIIKYwwbcc8JIp-90N4jcMdD6OSfzDA0Ahynw150XZPW6dJmqAVCc65RfP30FZc_-3e0dMBvK3QsPZ2AWaXC8",
+      "widthPx": 4800,
+      "heightPx": 3193,
+      "authorAttributions": [
+        {
+          "displayName": "Misu Mak",
+          "uri": "https://maps.google.com/maps/contrib/109731144526767313219",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnk-fuUOZvtMszjRnNoAMf_RtTLjVKBQsTAggYyG14ckyXuv9o=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICB5I67zQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB5I67zQE!2e10!4m2!3m1!1s0x34040896d926d933:0x92543088c8a10c94"
+    },
+    "local_path": "photos/ChIJM9km2ZYIBDQRlAyhyIgwVJI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-h4Z5iXmK6qYDG4yBt3CCVE987qf67dLsI37kI2Dth2PzQIAnvlkDrHXLhCq1tuOt00acXVAxht29MT90X_wBCBMO26RJ8RJz1KpfYXIeeFHLJf62ZRrS51kIjsfk354LAzQYDA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 115308
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

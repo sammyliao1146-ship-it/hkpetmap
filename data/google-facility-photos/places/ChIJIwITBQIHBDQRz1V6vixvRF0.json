@@ -1,0 +1,38 @@
+{
+  "id": "ChIJIwITBQIHBDQRz1V6vixvRF0",
+  "types": [
+    "pet_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "G/F, 100 Lion Rock Rd, Kowloon City, Kowloon, 香港",
+  "location": {
+    "latitude": 22.3304451,
+    "longitude": 114.1883065
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6720618781908555215&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Mochi & Friends 麻糬王國 (九龍城店)",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJIwITBQIHBDQRz1V6vixvRF0/photos/Aa-ngMZMVZ8FEUGxan4u4xGBUpV9NC3P3E6vyKWW-WjMSxf3XDOk6AvZOFHyPrx716dwTb6RD0PA4BvZ9ZNN3cFIbiHYBvi4syoIq3tVr7MvpTEygxi5uKX0b-TruxaAM71eIIs_o1-yU7LnIz45-fUozj50LZAjshV0j1Kw8J_TyMTebxdJNsZnjOqojDhPMdhErzu3v504y5qFwt4BHNtTqezrPxBHaKgYv0AOV6kfHJI5WWeNxaYrjTChIA1UHBQJ0P50r2o5TXbuH7ldp-9ik_cNeT_TNkHgdI98DhFjd9BFZwzJm-ydqXUSOdCW-zfeN9VzCMipr8d5WmkYA7L_j0_0hThiIuVLx5LfL9F8tnM0IJYa2ywkNV881yt-Vu8Wn2jmQ8s5-52nVSf9W2KH25gKnUfsC5w",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "Mochi & Friends 麻糬王國 (九龍城店)",
+          "uri": "https://maps.google.com/maps/contrib/116758858643857613395",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKaeEvvw-LnG3br_-fR2GE3D0v7PR2ujH8jmLETP5CDneFEUQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDb6KKTyQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb6KKTyQE!2e10!4m2!3m1!1s0x3404070205130223:0x5d446f2cbe7a55cf"
+    }
+  ],
+  "photo_count": 5,
+  "fetched_at": "2026-10-24T00:38:16.569421+00:00"
+}

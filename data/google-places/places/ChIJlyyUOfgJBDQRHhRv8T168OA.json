@@ -1,0 +1,262 @@
+{
+  "google_place_id": "ChIJlyyUOfgJBDQRHhRv8T168OA",
+  "restaurant_ids": [
+    "restaurant:2297807966"
+  ],
+  "fetched_at": "2026-10-23T15:44:06.949804+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJlyyUOfgJBDQRHhRv8T168OA",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2629 1818",
+    "internationalPhoneNumber": "+852 2629 1818",
+    "formattedAddress": "香港新界沙田科技大道東5號5E大樓5樓",
+    "location": {
+      "latitude": 22.425467299999998,
+      "longitude": 114.2139718
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=16208589465368597534&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.hkstp.org/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:00 – 18:00",
+        "星期二: 09:00 – 18:00",
+        "星期三: 09:00 – 18:00",
+        "星期四: 09:00 – 18:00",
+        "星期五: 09:00 – 18:00",
+        "星期六: 休息",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-26T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 20,
+    "displayName": {
+      "text": "香港科技園公司",
+      "languageCode": "zh-HK"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJlyyUOfgJBDQRHhRv8T168OA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oSVQxcDROelpwVTFGUlNIbFZkVFZtVUZSV05tYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 1,
+        "text": {
+          "text": "TikTok SUGO 應用程式廣告裡的女人太嚇人了。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "tictokのSUGOアプリのcmの女がキモすぎる",
+          "languageCode": "ja"
+        },
+        "authorAttribution": {
+          "displayName": "優2",
+          "uri": "https://www.google.com/maps/contrib/118281871840280813162/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKFp6rIdMIB4K0NsS-dk-4ZskmndVzQ1_MiG2eJqpOSJML99g=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-24T23:13:55.892656414Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oSVQxcDROelpwVTFGUlNIbFZkVFZtVUZSV05tYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oSVQxcDROelpwVTFGUlNIbFZkVFZtVUZSV05tYxAB!2m1!1s0x340409f839942c97:0xe0f07a3df16f141e"
+      },
+      {
+        "name": "places/ChIJlyyUOfgJBDQRHhRv8T168OA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoNVNreFVaM3BwYWpGTFMwUnlMVWhrV1U5U2FIYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "nice place to work and eat\nholiday mood",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "nice place to work and eat\nholiday mood",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Derek Ng",
+          "uri": "https://www.google.com/maps/contrib/112973644667987071424/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCdeehJhLG-NNgBqj2L8rwSXBsq9NTmXYlN7L_ln0hJdG_xs2H=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-10-10T11:13:57.782416476Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoNVNreFVaM3BwYWpGTFMwUnlMVWhrV1U5U2FIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoNVNreFVaM3BwYWpGTFMwUnlMVWhrV1U5U2FIYxAB!2m1!1s0x340409f839942c97:0xe0f07a3df16f141e"
+      },
+      {
+        "name": "places/ChIJlyyUOfgJBDQRHhRv8T168OA/reviews/ChdDSUhNMG9nS0VJQ0FnSURxeHNuZjVnRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "對於科技公司來說，那裡是一個絕佳的創業環境。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "It is a great environment for science or technology companies to have a start up there",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "William Wan",
+          "uri": "https://www.google.com/maps/contrib/111184351803238193238/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKUaiTYLEQpWH93L_nuQ2D98jj5v4UmSgeCx3tGgCdM36iZdw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2021-07-06T22:37:59.444670Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURxeHNuZjVnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURxeHNuZjVnRRAB!2m1!1s0x340409f839942c97:0xe0f07a3df16f141e"
+      },
+      {
+        "name": "places/ChIJlyyUOfgJBDQRHhRv8T168OA/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3clpyWVBBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "很大地方",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "很大地方",
+          "languageCode": "zh"
+        },
+        "authorAttribution": {
+          "displayName": "Wingiq Tam",
+          "uri": "https://www.google.com/maps/contrib/112180780364513292114/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxKp4fhOA3G-MrrFnbtXAtSFPZPMzUt6pUw_ytrICa0gOoWHXzXA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-03-20T13:42:26.986702Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3clpyWVBBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3clpyWVBBEAE!2m1!1s0x340409f839942c97:0xe0f07a3df16f141e"
+      },
+      {
+        "name": "places/ChIJlyyUOfgJBDQRHhRv8T168OA/reviews/ChZDSUhNMG9nS0VJQ0FnTURROWRtWU5BEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "垂直美",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Vertical nice",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Em D",
+          "uri": "https://www.google.com/maps/contrib/109148645516534566546/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXs6snD46zJf1iakwYFPpuRHaVmV9ZWN18PnGF4-9ImDeLYOcXoA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-03-23T04:43:00.504613Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURROWRtWU5BEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURROWRtWU5BEAE!2m1!1s0x340409f839942c97:0xe0f07a3df16f141e"
+      }
+    ],
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340409f839942c97:0xe0f07a3df16f141e!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16208589465368597534&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409f839942c97:0xe0f07a3df16f141e!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340409f839942c97:0xe0f07a3df16f141e!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409f839942c97:0xe0f07a3df16f141e!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJlyyUOfgJBDQRHhRv8T168OA/photos/Aa-ngMbCEuRH_6NSkpvh-X_KZ3ccizOiJRJ83-ZFMP8pftJlUaQw3hQDPNO-UOiFchURJrsjUHpfjIlC_YiMsbDgPfPwIrAH9dU3hYOWv8OXRVXOdDRfmffpqR0axMfdv6kEPvQX6SiR4_1emetrBJH2t0-mQFWVNmt7beYnRDtxDaL1Grgm91xiDiBEhGzhuuoNHG14DQ_Q03SXm37ddhffonoQ8muewnc36nWWuahuOKIMkvKTk4kknMAC7JiloC8_WAgenduglz7WZCxC_mNMYQ92bXsCaF2pWiuR0v0BT9HvcHtB0bnOixNlZzWL8R3n-i0F_wcMolilGK_0W7sECbIfWGe7FRs2gPL-X6YVk_o9ucuV7D0uKBCya0OCqqks1x3NSeAiQVD1yfS3YfAxDRRYCh0",
+      "widthPx": 4800,
+      "heightPx": 3199,
+      "authorAttributions": [
+        {
+          "displayName": "香港科技園公司",
+          "uri": "https://maps.google.com/maps/contrib/101038962738735835898",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV420wh2p_sERx_6K47vNNeBHb5vvyLkrIBBejjYXam0PMZddk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6tPjtTg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6tPjtTg!2e10!4m2!3m1!1s0x340409f839942c97:0xe0f07a3df16f141e"
+    },
+    "local_path": "photos/ChIJlyyUOfgJBDQRHhRv8T168OA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfkDzwn3fwhYrCn9OTtHQ8VOi354WsNOxUvmnQavN2fPf3_Tn6UwM_toD30ChawyBvgnI_-shIX3_JCakOgDHvbaSc5Xx2hyEK8rDmzGmu5OWYhWVRdLrhFUaMAfxlVJ3Rv2Zp=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 193546
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": null,
+    "label": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

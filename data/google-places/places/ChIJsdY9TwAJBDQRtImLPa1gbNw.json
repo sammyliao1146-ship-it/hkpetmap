@@ -1,0 +1,327 @@
+{
+  "google_place_id": "ChIJsdY9TwAJBDQRtImLPa1gbNw",
+  "restaurant_ids": [
+    "restaurant:3195801777"
+  ],
+  "fetched_at": "2026-10-23T15:38:54.462620+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJsdY9TwAJBDQRtImLPa1gbNw",
+    "types": [
+      "restaurant",
+      "american_restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3583 0232",
+    "internationalPhoneNumber": "+852 3583 0232",
+    "formattedAddress": "香港新界白石角優景里63號矽谷山地下1-2號舖",
+    "location": {
+      "latitude": 22.428285000000002,
+      "longitude": 114.20044370000001
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=15883176283007060404&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 21:30",
+        "星期二: 11:30 – 21:30",
+        "星期三: 11:30 – 18:00",
+        "星期四: 11:30 – 18:00",
+        "星期五: 11:30 – 21:30",
+        "星期六: 09:00 – 21:30",
+        "星期日: 09:00 – 21:30"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 77,
+    "displayName": {
+      "text": "Route 83",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesVegetarianFood": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJsdY9TwAJBDQRtImLPa1gbNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WdE56ZHJWSGhNY2s1WmNIVlJiRTlKZEhKdU1HYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境好清幽雅致，有免泊車位\n食物質數非常對得住個價錢\n啤酒好飲\n杯啡就爭少少🤣",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境好清幽雅致，有免泊車位\n食物質數非常對得住個價錢\n啤酒好飲\n杯啡就爭少少🤣",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "L Michelle",
+          "uri": "https://www.google.com/maps/contrib/108768060239642285559/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIPsOMMwmC2SMBDaaGdAvm06rzgTUqc-3ko78nvpdvRZAMH5g=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-08-22T08:41:29.448254993Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WdE56ZHJWSGhNY2s1WmNIVlJiRTlKZEhKdU1HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WdE56ZHJWSGhNY2s1WmNIVlJiRTlKZEhKdU1HYxAB!2m1!1s0x340409004f3dd6b1:0xdc6c60ad3d8b89b4"
+      },
+      {
+        "name": "places/ChIJsdY9TwAJBDQRtImLPa1gbNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21veVJVbDNVV1J6ZEVKMk1XRm1TbEJXZUU1SlJXYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "在科學園附近新屋苑——University Hill嘅超高性價比早餐點，83 Route真心要推介比大家！套餐只需$55，就有香脆可口嘅牛角包、鮮味爆燈嘅煙三文魚、新鮮沙律菜，仲有一杯滑到出界嘅latte☕️！咁開心嘅早餐，保證俾你一天都充滿能量～\n\n🍽️ 精緻早餐組合\n\n牛角包係外脆內軟，咬落有牛油香，煙三文魚鮮甜嫩滑，真係幸福嘅味道😋。沙律菜多汁爽口，食落去完全唔覺得heavy，啱晒想輕盈start新一天嘅你！每啖都感受到食材新鮮同非常之balance，絕對“味蕾暴擊”！\n\n☕ 香滑Latte＋拉花興趣班\n\n佢哋嘅latte係用自家品牌咖啡豆沖製，滑順度滿分，味道更係咖啡香四溢！仲有埋拉花興趣班，啱晒啲coffee lover想解鎖新技能，絕對要試吓手氣！\n\n🪑 Chill住慢慢嘆\n\n83 Route坐位分室內同室外，環境超relax，無論打卡定係摸魚放空都一樣正！地點又近標位停車場，車位多多又平易近人。商場平日泊車每小時$18，消費二百即送一小時免費泊車，三百仲有兩個鐘添，駕車黨都可放心 Chill！\n\n✨ 總結：高質平價早餐熱點get！\n\n無論你係想食豐盛早餐，定係想嘆靚咖啡，University Hill嘅83 Route都頂得住水準！$55就享受到歐陸級早晨，加埋舒服環境同便利泊車，早餐界hidden gem無誤，下次記住Bookmark低～\n\n📍83 Route @ University Hill\nUniversity Hill 商場地下\n營業時間：08:00－20:00\n\n#universityhill #白石角 #大學山",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "在科學園附近新屋苑——University Hill嘅超高性價比早餐點，83 Route真心要推介比大家！套餐只需$55，就有香脆可口嘅牛角包、鮮味爆燈嘅煙三文魚、新鮮沙律菜，仲有一杯滑到出界嘅latte☕️！咁開心嘅早餐，保證俾你一天都充滿能量～\n\n🍽️ 精緻早餐組合\n\n牛角包係外脆內軟，咬落有牛油香，煙三文魚鮮甜嫩滑，真係幸福嘅味道😋。沙律菜多汁爽口，食落去完全唔覺得heavy，啱晒想輕盈start新一天嘅你！每啖都感受到食材新鮮同非常之balance，絕對“味蕾暴擊”！\n\n☕ 香滑Latte＋拉花興趣班\n\n佢哋嘅latte係用自家品牌咖啡豆沖製，滑順度滿分，味道更係咖啡香四溢！仲有埋拉花興趣班，啱晒啲coffee lover想解鎖新技能，絕對要試吓手氣！\n\n🪑 Chill住慢慢嘆\n\n83 Route坐位分室內同室外，環境超relax，無論打卡定係摸魚放空都一樣正！地點又近標位停車場，車位多多又平易近人。商場平日泊車每小時$18，消費二百即送一小時免費泊車，三百仲有兩個鐘添，駕車黨都可放心 Chill！\n\n✨ 總結：高質平價早餐熱點get！\n\n無論你係想食豐盛早餐，定係想嘆靚咖啡，University Hill嘅83 Route都頂得住水準！$55就享受到歐陸級早晨，加埋舒服環境同便利泊車，早餐界hidden gem無誤，下次記住Bookmark低～\n\n📍83 Route @ University Hill\nUniversity Hill 商場地下\n營業時間：08:00－20:00\n\n#universityhill #白石角 #大學山",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Benson Ho",
+          "uri": "https://www.google.com/maps/contrib/115139975252910765772/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMertanrzTSweLf_rTMY11kBlKISBJA3xiemKxjg_pUxRMynOTCg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-12-06T06:00:46.949659791Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21veVJVbDNVV1J6ZEVKMk1XRm1TbEJXZUU1SlJXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21veVJVbDNVV1J6ZEVKMk1XRm1TbEJXZUU1SlJXYxAB!2m1!1s0x340409004f3dd6b1:0xdc6c60ad3d8b89b4"
+      },
+      {
+        "name": "places/ChIJsdY9TwAJBDQRtImLPa1gbNw/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzdmFyMWxRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "優景里新盤落成後多左餐廳進駐，呢間餐廳性價比高，晚市有套餐價錢都係89蚊起，非常抵食👍🏻套餐包左餐湯或沙律同熱飲，亦可以優惠價升級特飲！\n\n🌟 紅酒燴牛助條寬條麵 $92\n幾有驚喜嘅寬條麵🥰份量好多，而且每條麵條都掛滿左特濃嘅蕃茄醬汁，酸酸地嘅味道真係令人好開胃🤤牛肋條炆得非常軟腍易入口，而且牛味好香濃，質素真係唔錯！\n\n🌟 手打安格斯漢堡 $92\n可以自選加入菠蘿或芝士，因為菠蘿漢堡平時比較少食，所以就加左菠蘿🍍安格斯咬落有肉汁，牛味亦幾香濃，配搭埋蕃茄、生菜、菠蘿一齊食整體口感幾豐富🥰🥰另外，薯條係即炸，所以上碟依然好酥脆！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "優景里新盤落成後多左餐廳進駐，呢間餐廳性價比高，晚市有套餐價錢都係89蚊起，非常抵食👍🏻套餐包左餐湯或沙律同熱飲，亦可以優惠價升級特飲！\n\n🌟 紅酒燴牛助條寬條麵 $92\n幾有驚喜嘅寬條麵🥰份量好多，而且每條麵條都掛滿左特濃嘅蕃茄醬汁，酸酸地嘅味道真係令人好開胃🤤牛肋條炆得非常軟腍易入口，而且牛味好香濃，質素真係唔錯！\n\n🌟 手打安格斯漢堡 $92\n可以自選加入菠蘿或芝士，因為菠蘿漢堡平時比較少食，所以就加左菠蘿🍍安格斯咬落有肉汁，牛味亦幾香濃，配搭埋蕃茄、生菜、菠蘿一齊食整體口感幾豐富🥰🥰另外，薯條係即炸，所以上碟依然好酥脆！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "R Le",
+          "uri": "https://www.google.com/maps/contrib/103359654282594422603/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI35v8pd1Vs1oRgaTm4ePJIh09ejmPHPJzrMFsHia38PqsXrA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-11-18T02:03:50.599035Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzdmFyMWxRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzdmFyMWxRRRAB!2m1!1s0x340409004f3dd6b1:0xdc6c60ad3d8b89b4"
+      },
+      {
+        "name": "places/ChIJsdY9TwAJBDQRtImLPa1gbNw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzZ2N5VlJBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "於大埔起家的親民美式餐廳，在白石角優景里新市鎮開展第三間分店，空間寬敞，以湖水藍作主色，令人眼前一亮，全日套餐由89起，配沙律或餐湯及飲品。室外設有少量座位Chill下更切合附近環境，附近有商場停車場及街邊大量錶位區，自駕友好。\n\n香煎鯛魚意大利飯$148\n煎鯛魚肉兩份，外皮煎至金黃，底層的意大利飯的口感軟滑，混和香濃的奶油醬，讓整飯的風味提升香氣。\n\n手打安格斯漢堡 $92\n漢堡的肉餅用料充足，肉質鮮嫩多汁，每一口都能感受到牛肉風味。配上即炸的薯條，另加10元有黑松露醬，更加惹味。\n\n套餐提供餐湯或沙律\n沙律份量適中，混和醋汁帶來甜酸風味，非常開胃。\n\n餐湯是甘荀忌廉湯，順滑口感，帶來溫暖。\n\n跟餐+$38選了小食：芝士焗大菇\n両件大啡菇，充滿了濃郁的芝士香氣。大菇的鮮味與芝士相得益彰，伴隨小量沙律菜，提升風味。\n\n跟餐配送飲品，解渴消滯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "於大埔起家的親民美式餐廳，在白石角優景里新市鎮開展第三間分店，空間寬敞，以湖水藍作主色，令人眼前一亮，全日套餐由89起，配沙律或餐湯及飲品。室外設有少量座位Chill下更切合附近環境，附近有商場停車場及街邊大量錶位區，自駕友好。\n\n香煎鯛魚意大利飯$148\n煎鯛魚肉兩份，外皮煎至金黃，底層的意大利飯的口感軟滑，混和香濃的奶油醬，讓整飯的風味提升香氣。\n\n手打安格斯漢堡 $92\n漢堡的肉餅用料充足，肉質鮮嫩多汁，每一口都能感受到牛肉風味。配上即炸的薯條，另加10元有黑松露醬，更加惹味。\n\n套餐提供餐湯或沙律\n沙律份量適中，混和醋汁帶來甜酸風味，非常開胃。\n\n餐湯是甘荀忌廉湯，順滑口感，帶來溫暖。\n\n跟餐+$38選了小食：芝士焗大菇\n両件大啡菇，充滿了濃郁的芝士香氣。大菇的鮮味與芝士相得益彰，伴隨小量沙律菜，提升風味。\n\n跟餐配送飲品，解渴消滯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Firefire",
+          "uri": "https://www.google.com/maps/contrib/101408374055982984647/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWA7bPWiZSggeEM1rEJvYsfB3kUymrgg2Ir_c-ZnD2FLVD6yAmA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-11-15T16:47:44.001927Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzZ2N5VlJBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzZ2N5VlJBEAE!2m1!1s0x340409004f3dd6b1:0xdc6c60ad3d8b89b4"
+      },
+      {
+        "name": "places/ChIJsdY9TwAJBDQRtImLPa1gbNw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfdzZhR2dnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "最近朋友搬入白石角 University hill，所以和老婆去探訪前在 University hill 樓下先食個午餐。嗰度餐廳唔多，吸引我入去試既就係 Route 83 ，因為喺大埔都見過佢哋舖頭，平時喺facebook都見到有不錯的評價！\n\n首先地段感覺不錯，因為不是在密麻麻的大廈，感覺非常舒服，而且門外亦有露天位置感覺很 chill!\n\n中午時分有午餐套餐，價錢公道合理，選擇款式亦多，基本上我和老婆很快便決定吃什麼了！\n\n套餐免費隨送餐湯或沙律，既然我們會點兩個餐，所以一個餐湯一個沙律這樣便可以分著來吃！\n\n這個咸豬手是一人份量，但當上菜後看到其實也非常嚇人，無論豬手的大小和薯蓉都份量十足！豬手香脆可口不會太鹹，而且亦不會太肥，薯蓉沒有太多調味配上酸菜及豬手，味道剛剛好！\n\npizza係薄批，同樣份量亦十分驚人，自家製薄餅原來口味可以天天不同，今天的是菠蘿及辣肉腸，薄批脆邊而且也很薄不愛吃麵包的人應該很喜歡！\n\n我們還加了28元加購炸薯條，這個是我們的最愛，薯條非常脆口，亦十分重薯仔味，加上沒有落鹽去做seasoning，原味十足！\n\n嘆世界當然點上咖啡，他們的咖啡也不錯，咖啡豆不會偏酸，值得一試！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最近朋友搬入白石角 University hill，所以和老婆去探訪前在 University hill 樓下先食個午餐。嗰度餐廳唔多，吸引我入去試既就係 Route 83 ，因為喺大埔都見過佢哋舖頭，平時喺facebook都見到有不錯的評價！\n\n首先地段感覺不錯，因為不是在密麻麻的大廈，感覺非常舒服，而且門外亦有露天位置感覺很 chill!\n\n中午時分有午餐套餐，價錢公道合理，選擇款式亦多，基本上我和老婆很快便決定吃什麼了！\n\n套餐免費隨送餐湯或沙律，既然我們會點兩個餐，所以一個餐湯一個沙律這樣便可以分著來吃！\n\n這個咸豬手是一人份量，但當上菜後看到其實也非常嚇人，無論豬手的大小和薯蓉都份量十足！豬手香脆可口不會太鹹，而且亦不會太肥，薯蓉沒有太多調味配上酸菜及豬手，味道剛剛好！\n\npizza係薄批，同樣份量亦十分驚人，自家製薄餅原來口味可以天天不同，今天的是菠蘿及辣肉腸，薄批脆邊而且也很薄不愛吃麵包的人應該很喜歡！\n\n我們還加了28元加購炸薯條，這個是我們的最愛，薯條非常脆口，亦十分重薯仔味，加上沒有落鹽去做seasoning，原味十足！\n\n嘆世界當然點上咖啡，他們的咖啡也不錯，咖啡豆不會偏酸，值得一試！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jay Hsu",
+          "uri": "https://www.google.com/maps/contrib/109359667609835841257/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaSVj8lEDHrIXp41M9M8V4vLoeheNKsb0qzEE_g6nj-xHyERlf=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-01-18T15:14:57.096328Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfdzZhR2dnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfdzZhR2dnRRAB!2m1!1s0x340409004f3dd6b1:0xdc6c60ad3d8b89b4"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidStreetParking": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340409004f3dd6b1:0xdc6c60ad3d8b89b4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15883176283007060404&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409004f3dd6b1:0xdc6c60ad3d8b89b4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340409004f3dd6b1:0xdc6c60ad3d8b89b4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409004f3dd6b1:0xdc6c60ad3d8b89b4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJsdY9TwAJBDQRtImLPa1gbNw/photos/Aa-ngMZ_5XEPk3jNsQHO9dqqi0KdOUVihAvQbhv5cqbM24LJjtRXrGrGqgtkLRJ8r3negWQxbz4Ne4CnF2dthitDFjcQUPpg8Src3nBMIJgFT4zOEuKwp1IScRk7yMxFdCTaS3vFRPVgFGnayWsF7H3w0JEuv55VYQ4M8i2rcgQXIWK7JgqJz11cp-tYB5m2NbIrf7kSn2ChNfncFFMPZgA7oVDFjNiW9jT0sNX6Rhh9zEJXRs3YmaVXNhlt_KE8TVRtRYplqWLROqCqg7M6cdq0FGgCYNBh82gWIAiGF2pUMDtOh3QrUVlYNe21qBcoA2AJJ4vNgSJNeJ5BlBw3oIip-Vb39__PNUdWDk7gJMPVInZAO7KhMRUgH9VhIsLZR8ZiseOlestQmy4TgZ9GJNGxmuvPtMOdDQE",
+      "widthPx": 2048,
+      "heightPx": 2048,
+      "authorAttributions": [
+        {
+          "displayName": "Hei",
+          "uri": "https://maps.google.com/maps/contrib/102576572279282104004",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjFd9uztgDjZ26oGQlnSH8jwQAJqLocd07c2Soopmbq-SF=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICv0p_3zQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv0p_3zQE!2e10!4m2!3m1!1s0x340409004f3dd6b1:0xdc6c60ad3d8b89b4"
+    },
+    "local_path": "photos/ChIJsdY9TwAJBDQRtImLPa1gbNw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTD4J1xI0T9Yj4qiiex6zunFhxUwmiPJXysLpENnQs6PBJ0scPC5u5suLo1leyUVQMHM0kXLkLBBOwuiXeUqGZOOf7Xo5YrF4CKoidffmLzgcR3M25A51mrnKFd9KLS_KL5OGnKg=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 159177
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "american_restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

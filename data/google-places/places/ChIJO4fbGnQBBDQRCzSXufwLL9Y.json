@@ -1,0 +1,131 @@
+{
+  "google_place_id": "ChIJO4fbGnQBBDQRCzSXufwLL9Y",
+  "restaurant_ids": [
+    "restaurant:3111801818",
+    "restaurant:3111803984"
+  ],
+  "fetched_at": "2026-10-23T15:40:04.256257+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJO4fbGnQBBDQRCzSXufwLL9Y",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3565 4609",
+    "internationalPhoneNumber": "+852 3565 4609",
+    "formattedAddress": "香港香港島西灣河筲箕灣道38-44號華堂大廈地下",
+    "location": {
+      "latitude": 22.283434,
+      "longitude": 114.220627
+    },
+    "rating": 2.5,
+    "googleMapsUri": "https://maps.google.com/?cid=15433567628095337483&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.barpacific.com.hk/?lang=zh",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 2,
+    "displayName": {
+      "text": "太平洋酒吧",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "興趣點",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBeer": true,
+    "servesWine": false,
+    "primaryType": "point_of_interest",
+    "reviews": [
+      {
+        "name": "places/ChIJO4fbGnQBBDQRCzSXufwLL9Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT205RlNGcDJOR2gyTWxsSloyOVVWRkUxUVhweldHYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "員工服務、態度超差。簡直感到人生安全受到威脅。建議大家不要到來，亦要小心一點！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "員工服務、態度超差。簡直感到人生安全受到威脅。建議大家不要到來，亦要小心一點！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Animal Love",
+          "uri": "https://www.google.com/maps/contrib/111847541343080321546/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLwkAVJmiLbUyXB8LCNTmSorLxcAnHNtAtXJKksz8pFzXtgtA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-10-11T07:02:43.737509577Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205RlNGcDJOR2gyTWxsSloyOVVWRkUxUVhweldHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205RlNGcDJOR2gyTWxsSloyOVVWRkUxUVhweldHYxAB!2m1!1s0x340401741adb873b:0xd62f0bfcb997340b"
+      },
+      {
+        "name": "places/ChIJO4fbGnQBBDQRCzSXufwLL9Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURObWFhZXJRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "authorAttribution": {
+          "displayName": "PATRICK TO",
+          "uri": "https://www.google.com/maps/contrib/111948170513324861200/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZrbIvBtsRbd2WoRghTAab1ZbDbgrole0pWi1XnfBNT0Ny1Sh1=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-01-23T21:36:45.037069Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURObWFhZXJRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURObWFhZXJRRRAB!2m1!1s0x340401741adb873b:0xd62f0bfcb997340b"
+      }
+    ],
+    "outdoorSeating": false,
+    "servesCocktails": true,
+    "paymentOptions": {
+      "acceptsDebitCards": false,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401741adb873b:0xd62f0bfcb997340b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15433567628095337483&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401741adb873b:0xd62f0bfcb997340b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401741adb873b:0xd62f0bfcb997340b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401741adb873b:0xd62f0bfcb997340b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJO4fbGnQBBDQRCzSXufwLL9Y/photos/Aa-ngMaErB70kxgKl8w2Cb_qWVCcjMS1Ih6_vZKuNTkkS7_W9l3LShC68yPG88knyIhuoSADjm5kwbwQpHL-GJ345hgXVmMDcpTFk_AhGmnGWsdUU1XJuScM-YnKGompWyCmGtRbyIGdF_p6sbB4fEyK7tJFjB6f0xLdX97e5x5ObxZjCK-mScX0z90x0PBApJfOOpwt_swf3ZeUXd5dfdKoGiYZrtpfZiCt4hgW_P861XJPo6KAPeuWBzhwiakIs8Y0u1k2RJsOMxzcXsjuv2dtiuUPB9g0hZXeJeKC50vWLeyyf5B5W5druE-f0cY_ORrdzw3Oi_I3uJwNXBD9SLckBdo-tm0LGZkzx_QQAOgmkPsEIxEWB9sIU6h3qc009AmErf7Xl_WMFiE9QL7rMICZeHUsYy5eV90",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "太平洋酒吧",
+          "uri": "https://maps.google.com/maps/contrib/113277385291789086760",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3aW1rdkBP5U9pvb5b8dZ4j_nRmJRy_Lg2hlrYaTGvPMrzXg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICxu9W1pgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxu9W1pgE!2e10!4m2!3m1!1s0x340401741adb873b:0xd62f0bfcb997340b"
+    },
+    "local_path": "photos/ChIJO4fbGnQBBDQRCzSXufwLL9Y.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEivzJe_ODbYkvtItnvotDkriQNaV8uX_7e1snOROYNPLoL8gjSISwtwtUGXCoqxvN0n77FTIufr6jVNMgg7Pq55Dk7gKZQp7DBdXS_1fAPI5_v2XIrbDgCmILEa2GVsa7M_yQ8A=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 117901
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "point_of_interest",
+    "label": "興趣點",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

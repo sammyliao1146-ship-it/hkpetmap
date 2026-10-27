@@ -1,0 +1,316 @@
+{
+  "google_place_id": "ChIJ8VIazvEBBDQRYdVfluSwBpo",
+  "restaurant_ids": [
+    "restaurant:2218810455"
+  ],
+  "fetched_at": "2026-10-23T15:49:08.429875+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ8VIazvEBBDQRYdVfluSwBpo",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5742 2299",
+    "internationalPhoneNumber": "+852 5742 2299",
+    "formattedAddress": "OPPOSITE MELODY (OLD POTATO HEAD, UGF, 123, 125 Third St, Sai Ying Pun, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2858835,
+      "longitude": 114.14045309999999
+    },
+    "rating": 5,
+    "googleMapsUri": "https://maps.google.com/?cid=11098752827523061089&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/profile.php?id=100065508010900&mibextid=ZbWKwL",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 16:00 – 00:00",
+        "星期三: 16:00 – 00:00",
+        "星期四: 16:00 – 00:00",
+        "星期五: 16:00 – 02:00",
+        "星期六: 12:00 – 02:00",
+        "星期日: 12:00 – 01:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 6,
+    "displayName": {
+      "text": "Smashed",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "漢堡餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": false,
+    "servesDinner": true,
+    "servesBrunch": false,
+    "primaryType": "hamburger_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ8VIazvEBBDQRYdVfluSwBpo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KeGFWbGxNVkJDWVV0T01HcG9ZVjlCYzFaVWJGRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "是的，他們有素食麵包，旁邊還有普通麵包。漢堡真的很好吃，紅薯條也超讚！還配了蒜蓉醬！給我點餐的那位女士超級友善！而且上菜速度也很快！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Yes , they do have a veggie bun. And a regular bun next to it. Really enjoyed the burger and the sweet potato fries is killer! Came with the garlic sauce! The lady who took my order was super friendly !!!! The order was quick as well!!!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Jun Kung",
+          "uri": "https://www.google.com/maps/contrib/106948269876792684461/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTOp-ZYm7OhwkiZ591deJL3n4Avb7Iy26MBXNuDm7Xjmav13o=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-05T16:16:17.537186340Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KeGFWbGxNVkJDWVV0T01HcG9ZVjlCYzFaVWJGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KeGFWbGxNVkJDWVV0T01HcG9ZVjlCYzFaVWJGRRAB!2m1!1s0x340401f1ce1a52f1:0x9a06b0e4965fd561"
+      },
+      {
+        "name": "places/ChIJ8VIazvEBBDQRYdVfluSwBpo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KVVNrUXdWVzlCWkRkUmJYUmFaVUU1WHpsNmNHYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "晚點到的，辦理完入住手續就出去吃點東西。\n\n大概十點半，老闆本來打算關門了，但還是熱情地讓我進去了。\n\n坐下後，點了餐，我們聊了會兒天。\n\n漢堡、薯條、兩品脫啤酒和三杯烈酒下肚後，我結帳回家，心情非常滿足。\n\n老闆安迪非常健談，也很熱情。\n\n如果你在城裡，絕對值得一去。\n\n食物美味，價格合理。\n\n謝謝哥們兒。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Landed late, checked in and popped out for some food.\nAbout 10.30om, dude had plans of closing but happily let me in.\nSat, ordered and we chatted.\nBurger, chips, 2 pints and 3 shots later I settled up and dawdled home, very content.\nAndy the owner was very chatty and obliging.\nDef worth a visit if you are in town\nFood delicious and well priced.\nThanks mate.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "aaron huffam",
+          "uri": "https://www.google.com/maps/contrib/114979853968090857475/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI8AiBReisZ3_usnRNR8bLrBlZ_Szn_7wzoYSmblkllTMf3xS4=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-10T05:19:07.401084878Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KVVNrUXdWVzlCWkRkUmJYUmFaVUU1WHpsNmNHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KVVNrUXdWVzlCWkRkUmJYUmFaVUU1WHpsNmNHYxAB!2m1!1s0x340401f1ce1a52f1:0x9a06b0e4965fd561"
+      },
+      {
+        "name": "places/ChIJ8VIazvEBBDQRYdVfluSwBpo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3dklmWHZ3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "食物絕對美味，是我在泰國吃過最好吃的漢堡。員工非常友好，強烈推薦！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Food was absolutely delicious best burgers in Thailand. Staff is extremely friendly, cannot recommend enough!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Annie Newby",
+          "uri": "https://www.google.com/maps/contrib/112295472435093627312/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYh-nY-R2S-ygCIQSDb7aSY3n6r5ArP3ocirDKLU3yV2xFEw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-08-22T12:51:08.388134Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3dklmWHZ3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3dklmWHZ3RRAB!2m1!1s0x340401f1ce1a52f1:0x9a06b0e4965fd561"
+      },
+      {
+        "name": "places/ChIJ8VIazvEBBDQRYdVfluSwBpo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4Q2JFUnVNSFoyWkZGMWJ6aDFTblZmVDIxbFgzYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "漢堡做得真好吃，而且是一位和藹可親的女士做的！強烈推薦！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Lovely burger cooked and served by a nice lady! Definitely recommend",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "nicolas Lugiez",
+          "uri": "https://www.google.com/maps/contrib/110679921233769944217/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJaGUpAZRy4VyJpIo9-k_2923SMJ05sJ3r7xphc1og3wpOU=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-10-31T18:55:43.108058857Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4Q2JFUnVNSFoyWkZGMWJ6aDFTblZmVDIxbFgzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4Q2JFUnVNSFoyWkZGMWJ6aDFTblZmVDIxbFgzYxAB!2m1!1s0x340401f1ce1a52f1:0x9a06b0e4965fd561"
+      },
+      {
+        "name": "places/ChIJ8VIazvEBBDQRYdVfluSwBpo/reviews/Ci9DQUlRQUNvZENodHljRjlvT213M1JHazBRMlpuYUVGaGIzSjVTelV5YmtsQ2NrRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Miles Slater",
+          "uri": "https://www.google.com/maps/contrib/115666807154150910318/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMfV3un62OqTvVL_zxDnznTWozPZCHK05gEZDMDyMw0zu9jpE=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-11T16:47:38.988261430Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213M1JHazBRMlpuYUVGaGIzSjVTelV5YmtsQ2NrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213M1JHazBRMlpuYUVGaGIzSjVTelV5YmtsQ2NrRRAB!2m1!1s0x340401f1ce1a52f1:0x9a06b0e4965fd561"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": false,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": false,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": false,
+      "paidParkingLot": false,
+      "freeStreetParking": true,
+      "paidStreetParking": false,
+      "valetParking": false,
+      "freeGarageParking": false,
+      "paidGarageParking": false
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401f1ce1a52f1:0x9a06b0e4965fd561!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11098752827523061089&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f1ce1a52f1:0x9a06b0e4965fd561!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401f1ce1a52f1:0x9a06b0e4965fd561!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401f1ce1a52f1:0x9a06b0e4965fd561!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "300"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ8VIazvEBBDQRYdVfluSwBpo/photos/Aa-ngMYADP5KDCs74JRPBMOupyFmdMr1UqlIzvGzILPPODzWWIXWD_CFTKAyMEuNg96uvigEupiVbuI3v59d8BIZihUwuw6PZn03c10AtRCyKOVabx7aEnefa0rA7ZO8SLWlrP1jKL3GdpeCOe-I-UybxkrTnqZ6jEnS8C6Glv_lo2VpyRmmVao3SfxoX8h2QDmwA5ajHsuxH6P5bAQPGfM5zmruvFVOMKaX8TDt3AF8vImTpSJ0-f4XY0kOkbSlfbBgIcQcNxuH38YaKEgau8Q_keEAPPq5rX-yWIFGqRkgnvaWIfmA87zzvZXiX2wot55A0YEnekZSdmWpdT9y2pCnxyBuMv_OLHYhUzkRw1iAps4wB2t2ZIxAx_EtL1kgd8vLuZEz9sdfOjp_iRcF-pxWQOJfSgXs",
+      "widthPx": 4000,
+      "heightPx": 2250,
+      "authorAttributions": [
+        {
+          "displayName": "Smashed",
+          "uri": "https://maps.google.com/maps/contrib/100231441954493249188",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK3_vKXqk7ouKdnnSYVVgGsO--8dP7XipH2-v4UQ8CaZKtRKw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDFhp3T0gE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFhp3T0gE!2e10!4m2!3m1!1s0x340401f1ce1a52f1:0x9a06b0e4965fd561"
+    },
+    "local_path": "photos/ChIJ8VIazvEBBDQRYdVfluSwBpo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmp03bL_DEsQ7FeUn3wYDdtFN9N0aTmoi89avm0R_VfO5gy7fwG1OTQGZaPodYT_p3PjYyWr7thE7LSbem5qGkWgI7l79PrKBVUb3YEMDFDc8zOr-Kf1VgQWw0AyIcDWbWHhYW=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 52085
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "hamburger_restaurant",
+    "label": "漢堡餐廳",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,348 @@
+{
+  "google_place_id": "ChIJj6dQEJYBBDQRSSCQqKqKFfE",
+  "restaurant_ids": [
+    "restaurant:2218810145"
+  ],
+  "fetched_at": "2026-10-23T15:44:59.258117+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJj6dQEJYBBDQRSSCQqKqKFfE",
+    "types": [
+      "restaurant",
+      "steak_house",
+      "french_restaurant",
+      "european_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2154 6110",
+    "internationalPhoneNumber": "+852 2154 6110",
+    "formattedAddress": "Shop 103, 1, Two Exchange Square, Connaught Rd Central, Central, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2837763,
+      "longitude": 114.15822560000001
+    },
+    "rating": 4.9,
+    "googleMapsUri": "https://maps.google.com/?cid=17371943603228647497&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://lavache.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 22:00",
+        "星期二: 12:00 – 22:00",
+        "星期三: 12:00 – 22:00",
+        "星期四: 12:00 – 22:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 12:00 – 22:00",
+        "星期日: 12:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 299,
+    "displayName": {
+      "text": "La Vache! 交易廣場店",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesBreakfast": false,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": false,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJj6dQEJYBBDQRSSCQqKqKFfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrNGNHZFROVmhHYm1Wb1VrWkZiako0ZFdzd1NXYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "最有氣氛分店!\nhappy hour人流滿滿\n仲有只限4-6pm供應嘅special menu - 牛扒三文治&經典漢堡.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最有氣氛分店!\nhappy hour人流滿滿\n仲有只限4-6pm供應嘅special menu - 牛扒三文治&經典漢堡.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "jeans zip",
+          "uri": "https://www.google.com/maps/contrib/110414861402399019992/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUmG3046rCqNfon0VhAb3f6_mptDf8PXxJ5xwN5g6WeD2UYvxk=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-04T00:30:29.175325424Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xrNGNHZFROVmhHYm1Wb1VrWkZiako0ZFdzd1NXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrNGNHZFROVmhHYm1Wb1VrWkZiako0ZFdzd1NXYxAB!2m1!1s0x340401961050a78f:0xf1158aaaa8902049"
+      },
+      {
+        "name": "places/ChIJj6dQEJYBBDQRSSCQqKqKFfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twU2FFMXRjbDlHUTBJeWRVNXlZVVZLTnpaV2NWRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "✿法式扒房La Vache!有新品😍 滿滿熱帶風情班蘭拿破崙😆✿\n\nBlack Sheep集團旗下法式扒房La Vache!又有新crossover!\n今次聯成甜品店Pandan Man推出期間限定款\n就是充滿熱帶風情的《班蘭拿破崙》!\n有興趣記得在5月1-17號之間來試試啦～\n\n這次同樣吃招牌Dinner set\n3道菜晚餐$418起\n包括沙律+牛扒+薯條\n中環分店更大更新淨\n無論是裝修還是座椅設計\n滿滿的法國風🇫🇷\n\n※ 合桃沙律\n招牌核桃沙律\n沙律菜夠新鮮 份量超多\n配上酸酸的沙律醋 超開胃\n\n※ USDA Prime 級肉眼牛扒\n牛扒煎得好好好好食!\n表面有股烤的香味\n中間肉質好軟熟\n而且已經預先調味\n配上芥末醬 一流!!!\n\n※ 薯條\n薯條新鮮炸起就拿出來\n而且可以無限refill\n同樣好吃😋\n\n※ 班蘭拿破崙 ($158)\n3層拿破崙都很酥脆\n夾著中間的是滿滿班蘭醬\n甜度適中 班蘭迷表示大滿足～\n\n※ Monsieur Collins ($128)\n※ Kir Des Alpes ($128)\n\n‧˚₊‧┈┈┈┈┈┈┈┈┈┈┈‧₊˚‧\n💰Total: $1376 ($688pax 10%服務費)\n📍La Vache! ｜@lavachehk\n🏠中環干諾道中8號交易廣場二座1樓103號舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "✿法式扒房La Vache!有新品😍 滿滿熱帶風情班蘭拿破崙😆✿\n\nBlack Sheep集團旗下法式扒房La Vache!又有新crossover!\n今次聯成甜品店Pandan Man推出期間限定款\n就是充滿熱帶風情的《班蘭拿破崙》!\n有興趣記得在5月1-17號之間來試試啦～\n\n這次同樣吃招牌Dinner set\n3道菜晚餐$418起\n包括沙律+牛扒+薯條\n中環分店更大更新淨\n無論是裝修還是座椅設計\n滿滿的法國風🇫🇷\n\n※ 合桃沙律\n招牌核桃沙律\n沙律菜夠新鮮 份量超多\n配上酸酸的沙律醋 超開胃\n\n※ USDA Prime 級肉眼牛扒\n牛扒煎得好好好好食!\n表面有股烤的香味\n中間肉質好軟熟\n而且已經預先調味\n配上芥末醬 一流!!!\n\n※ 薯條\n薯條新鮮炸起就拿出來\n而且可以無限refill\n同樣好吃😋\n\n※ 班蘭拿破崙 ($158)\n3層拿破崙都很酥脆\n夾著中間的是滿滿班蘭醬\n甜度適中 班蘭迷表示大滿足～\n\n※ Monsieur Collins ($128)\n※ Kir Des Alpes ($128)\n\n‧˚₊‧┈┈┈┈┈┈┈┈┈┈┈‧₊˚‧\n💰Total: $1376 ($688pax 10%服務費)\n📍La Vache! ｜@lavachehk\n🏠中環干諾道中8號交易廣場二座1樓103號舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ourfoodstephk",
+          "uri": "https://www.google.com/maps/contrib/116955994798874660447/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCYL1oPfKU0T_RpKkg0K_4QrKSeiR2UsIAgfS0FtLmzdNVb9Jk=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-04-29T11:25:49.913878921Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twU2FFMXRjbDlHUTBJeWRVNXlZVVZLTnpaV2NWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twU2FFMXRjbDlHUTBJeWRVNXlZVVZLTnpaV2NWRRAB!2m1!1s0x340401961050a78f:0xf1158aaaa8902049"
+      },
+      {
+        "name": "places/ChIJj6dQEJYBBDQRSSCQqKqKFfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0Qk0waHdaMGhhWkdGTmNsaDVjMTkzTkZoTFkyYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "🇭🇰香港中環 🅲🅴🅽🆃🆁🅰🅻, 🅷🅺\n📍店名｜🅽🅰🅼🅴： ʟᴀ ᴠᴀᴄʜᴇ!\n\n星期五6點已經超級多人HH😳\n餐廳環境好舒服，staff好Nice好笑容！\n佢係冇food menu，我地食佢嘅牛扒set，有麵包、沙律、牛扒同薯條\n\n⭐️推介｜🆁🅴🅲🅾🅼🅼🅴🅽🅳\n【美國肉眼扒餐｜ᴜꜱᴅᴀ ʀɪʙᴇʏᴇ ꜱᴇᴛ｜$428】\n麵包好好味，重點係個牛油香到爆炸，超正！\n沙律好大份，都幾好味\n牛扒揀咗Medium Rare，睇落好熟但食落剛剛好！ 個肉質好嫩好Juicy，口感好好，佢個special house sauce超好味，好香但唔會蓋過牛扒嘅香味\n薯條可以無限添加👌🏻\n\nOverall都幾唔錯！但可能星期五，係嘈咗少少🤏🏻\n食物水準都幾好，不過我覺得唔係好夠飽，如果牛扒可以refill就好🤣\n\n#mfoodjournal #MFJ香港 #MFJ中環 #MFJ法國菜 #LaVache\n\n🧭地址｜🅰🅳🅳🆁🅴🆂🆂：香港中環干諾道中8號交易廣場二座一樓103號舖\n💰人均消費｜🅲🅾🆂🆃 🅿🅴🆁 🅿🅰🆇：HKD595\n✅推介指數｜🆁🅴🅲🅾🅼🅼🅴🅽🅳🅰🆃🅸🅾🅽 : 4/5",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🇭🇰香港中環 🅲🅴🅽🆃🆁🅰🅻, 🅷🅺\n📍店名｜🅽🅰🅼🅴： ʟᴀ ᴠᴀᴄʜᴇ!\n\n星期五6點已經超級多人HH😳\n餐廳環境好舒服，staff好Nice好笑容！\n佢係冇food menu，我地食佢嘅牛扒set，有麵包、沙律、牛扒同薯條\n\n⭐️推介｜🆁🅴🅲🅾🅼🅼🅴🅽🅳\n【美國肉眼扒餐｜ᴜꜱᴅᴀ ʀɪʙᴇʏᴇ ꜱᴇᴛ｜$428】\n麵包好好味，重點係個牛油香到爆炸，超正！\n沙律好大份，都幾好味\n牛扒揀咗Medium Rare，睇落好熟但食落剛剛好！ 個肉質好嫩好Juicy，口感好好，佢個special house sauce超好味，好香但唔會蓋過牛扒嘅香味\n薯條可以無限添加👌🏻\n\nOverall都幾唔錯！但可能星期五，係嘈咗少少🤏🏻\n食物水準都幾好，不過我覺得唔係好夠飽，如果牛扒可以refill就好🤣\n\n#mfoodjournal #MFJ香港 #MFJ中環 #MFJ法國菜 #LaVache\n\n🧭地址｜🅰🅳🅳🆁🅴🆂🆂：香港中環干諾道中8號交易廣場二座一樓103號舖\n💰人均消費｜🅲🅾🆂🆃 🅿🅴🆁 🅿🅰🆇：HKD595\n✅推介指數｜🆁🅴🅲🅾🅼🅼🅴🅽🅳🅰🆃🅸🅾🅽 : 4/5",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Maggie",
+          "uri": "https://www.google.com/maps/contrib/113494727853014777751/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLGOIHDTr28i0qZ_JttkpaJE6NhGUTWoscsZ3ncS5gJIfxMhA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-05-10T09:04:28.546798068Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0Qk0waHdaMGhhWkdGTmNsaDVjMTkzTkZoTFkyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0Qk0waHdaMGhhWkdGTmNsaDVjMTkzTkZoTFkyYxAB!2m1!1s0x340401961050a78f:0xf1158aaaa8902049"
+      },
+      {
+        "name": "places/ChIJj6dQEJYBBDQRSSCQqKqKFfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKbllYQnhXVEJDWDJGTlZ6SlRkM1pDTFZkeE9IYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳氣氛超喜歡的，服務人員的服務態度也很好，很適合與另一半去那來個燭光晚餐約會，或是與朋友一同聚餐，餐點好吃，飯後甜點也超好吃的，可是有點令人困擾的是在甜點車上選擇甜點，超難抉擇的，每個都想吃，最後與朋友是我們都選不一樣的甜點，一起都嚐嚐，結論是：超好吃的，CP值超高。我下次去香港玩還要再去吃。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳氣氛超喜歡的，服務人員的服務態度也很好，很適合與另一半去那來個燭光晚餐約會，或是與朋友一同聚餐，餐點好吃，飯後甜點也超好吃的，可是有點令人困擾的是在甜點車上選擇甜點，超難抉擇的，每個都想吃，最後與朋友是我們都選不一樣的甜點，一起都嚐嚐，結論是：超好吃的，CP值超高。我下次去香港玩還要再去吃。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "余小寧",
+          "uri": "https://www.google.com/maps/contrib/106612996009280365115/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXusyn1sqf2sYXT7K6VEXN8jOQLoFYtgLaCTvuCEheVPs8ze9GP=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-02T07:43:44.761153445Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKbllYQnhXVEJDWDJGTlZ6SlRkM1pDTFZkeE9IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKbllYQnhXVEJDWDJGTlZ6SlRkM1pDTFZkeE9IYxAB!2m1!1s0x340401961050a78f:0xf1158aaaa8902049"
+      },
+      {
+        "name": "places/ChIJj6dQEJYBBDQRSSCQqKqKFfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tReE5tbHVVVzVTZEU1V2NUVkZRV1JQWVZnNFgxRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "/ Classic Menu /\n經典套餐 $418/位\n套餐一貫簡單直接～ 先來熱騰騰法棍 + 有機合桃蔬菜沙律，清新開胃不搶戲。主角係招牌10oz USDA Ribeye 肉眼牛扒，medium rare 火候到位，肉汁豐沛、油花適中，配上奶香微酸嘅招牌秘製醬汁，好味到停唔到口😋 無限refill 嘅法式薯條金黃酥脆，更係整晚嘅罪惡快樂來源🥳 La Vache嘅薯條係yo由細到大嘅最愛呀！\n\n話說牛扒配酒，更有氣氛～ 酒選了House Red（平順易飲）和Allees de Bordeaux（黑莓果味突出）😌 的確更有法式地道嘅餐館體驗💖\n\n/ Bar Menu /\nLa Vache! Steak Sandwich $238\n厚切牛扒夾脆包，焦糖洋蔥添甜，醬汁微辛惹味，咬下去肉汁四溢，超滿足🥰\n\nBurger Maison $238\n熱溶Raclette 芝士拉絲，炭香肉餅厚實，麵包軟香，漢堡控必試😍\n\nRaspberry Vanilla Mille Feuille $158\nVanilla Creme Brûlée $128\n店員會推著滿載精緻法式甜品嘅木製車廂穿梭餐枱間供食客親自挑選😙 款款都係自家製，有榛子泡芙、紅桑子拿破崙、檸檬蛋白撻及黑朱古力蛋糕等等，我哋揀咗覆盆子香草千層酥，清新唔甜膩，仲有焦糖布甸，外脆內滑，滿足～～～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "/ Classic Menu /\n經典套餐 $418/位\n套餐一貫簡單直接～ 先來熱騰騰法棍 + 有機合桃蔬菜沙律，清新開胃不搶戲。主角係招牌10oz USDA Ribeye 肉眼牛扒，medium rare 火候到位，肉汁豐沛、油花適中，配上奶香微酸嘅招牌秘製醬汁，好味到停唔到口😋 無限refill 嘅法式薯條金黃酥脆，更係整晚嘅罪惡快樂來源🥳 La Vache嘅薯條係yo由細到大嘅最愛呀！\n\n話說牛扒配酒，更有氣氛～ 酒選了House Red（平順易飲）和Allees de Bordeaux（黑莓果味突出）😌 的確更有法式地道嘅餐館體驗💖\n\n/ Bar Menu /\nLa Vache! Steak Sandwich $238\n厚切牛扒夾脆包，焦糖洋蔥添甜，醬汁微辛惹味，咬下去肉汁四溢，超滿足🥰\n\nBurger Maison $238\n熱溶Raclette 芝士拉絲，炭香肉餅厚實，麵包軟香，漢堡控必試😍\n\nRaspberry Vanilla Mille Feuille $158\nVanilla Creme Brûlée $128\n店員會推著滿載精緻法式甜品嘅木製車廂穿梭餐枱間供食客親自挑選😙 款款都係自家製，有榛子泡芙、紅桑子拿破崙、檸檬蛋白撻及黑朱古力蛋糕等等，我哋揀咗覆盆子香草千層酥，清新唔甜膩，仲有焦糖布甸，外脆內滑，滿足～～～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Miss Yoyo",
+          "uri": "https://www.google.com/maps/contrib/112941712524666464564/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLs2_IRp5mKZNfCQf7POGtuM5U7Dh9VqAJ7ZdqT4sDZ9CKTng=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-18T04:48:14.479373960Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tReE5tbHVVVzVTZEU1V2NUVkZRV1JQWVZnNFgxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tReE5tbHVVVzVTZEU1V2NUVkZRV1JQWVZnNFgxRRAB!2m1!1s0x340401961050a78f:0xf1158aaaa8902049"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401961050a78f:0xf1158aaaa8902049!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17371943603228647497&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401961050a78f:0xf1158aaaa8902049!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401961050a78f:0xf1158aaaa8902049!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401961050a78f:0xf1158aaaa8902049!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJj6dQEJYBBDQRSSCQqKqKFfE/photos/Aa-ngMbQtzdtsnW_MFf_q-AA8Tg--531tWHL5m1tESRPfKE-0h53ZTFos4Pmk7eodp6HJUTMi2Mfj632kE0ON7ImsJhGkgzfqeFOoUOOCR1fg3aGDKjKuPcErF4C1_1pU2NEj5K_tWiZ2F2NBu0YQtzTp6yX-yMOrPD-XBEnQ-pzlXibkJWWmG-ukvuS99K2_xgtEEPrtpfDKtJ0ggOw726Ra4sZCuaFBe_cmnHy-eqz1e_-DmqjFsHcJIWkDMRFv2HKPaOWXppoQIQB2WiAl90vz4InVCo1gPmZVBjjIafZNG5sSsGmFbmLkYtm-eFm0TQ63scvB4hW2N2aX2HW6iLOAkQ4NSDEGOZwLkqU7R4-3DGNK27eRM9POytqNadMMQg8nRq6u3zvx3NkJtiL5227Sy9e2Y-nSAc15GcqZBthe07d",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "La Vache! Exchange Square",
+          "uri": "https://maps.google.com/maps/contrib/106079350813700406702",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4X_BjmWrX96fVpo_TiYhospbpaOerwR2Ds7htJwl9D-MLhpk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDeGcd5_ZO7OLYljq2wkfsa&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDeGcd5_ZO7OLYljq2wkfsa!2e10!4m2!3m1!1s0x340401961050a78f:0xf1158aaaa8902049"
+    },
+    "local_path": "photos/ChIJj6dQEJYBBDQRSSCQqKqKFfE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOSQudX-wB3UwGrAFxMSHZtlF_I9wrHxK3gejhfUeah2_s1SBi6IMusY9a1-eaqWWKHkJw_dPVHMpvd1kZMZ6mYJm81kar9g6tdxFMuPidfVcdtxqHEl23fnVwpmkkSpKzzLhwBECX6U0=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 140733
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.lavache.com.hk/book-now-sc",
+        "label": "分店地址",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.lavache.com.hk/menu-tc",
+        "label": "菜單",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.lavache.com.hk/menu-sc",
+        "label": "菜单",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.lavache.com.hk/menu",
+        "label": "MENU",
+        "source_url": "https://www.lavache.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "steak_house",
+      "french_restaurant",
+      "european_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.lavache.com.hk/book-now-sc",
+  "menu_url": "https://www.lavache.com.hk/menu-tc"
+}

@@ -1,0 +1,378 @@
+{
+  "google_place_id": "ChIJQdfc9_cJBDQRI3nFjBOHiOo",
+  "restaurant_ids": [
+    "restaurant:3195800899"
+  ],
+  "fetched_at": "2026-10-23T15:47:32.132827+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJQdfc9_cJBDQRI3nFjBOHiOo",
+    "types": [
+      "italian_restaurant",
+      "western_restaurant",
+      "cafe",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5300 8055",
+    "internationalPhoneNumber": "+852 5300 8055",
+    "formattedAddress": "Shop 6, Nam Shing Mansion, Wai Shin St, Tai Po, New Territories, 香港",
+    "location": {
+      "latitude": 22.4479459,
+      "longitude": 114.16586810000001
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=16899906119743666467&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.instagram.com/pico_cafe_pasta/?hl=en",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 休息",
+        "星期二: 12:00 – 15:00, 18:00 – 21:00",
+        "星期三: 12:00 – 15:00, 18:00 – 21:00",
+        "星期四: 12:00 – 15:00, 18:00 – 21:00",
+        "星期五: 12:00 – 15:00, 18:00 – 21:00",
+        "星期六: 12:00 – 15:00, 18:00 – 21:00",
+        "星期日: 12:00 – 15:00, 18:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 82,
+    "displayName": {
+      "text": "Pico Cafe",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "義大利餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "italian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJQdfc9_cJBDQRI3nFjBOHiOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKdVNsb3RURVJ0VUZCcGFVbGhXbVpqWjIxS1dGRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "有誠意的小店，出色的手工意粉。\nTiramisu應是自家制的，味道不錯，咖啡與朱古力的味道很出，回甘才有淡淡的酒香！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有誠意的小店，出色的手工意粉。\nTiramisu應是自家制的，味道不錯，咖啡與朱古力的味道很出，回甘才有淡淡的酒香！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "河墨黑",
+          "uri": "https://www.google.com/maps/contrib/113997258715531049878/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2GohdU9MQfkfS1BvjbJRJz7YJ-sQQpoFCQPu2l-lFuXdgMng9=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-12T10:34:18.012915012Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKdVNsb3RURVJ0VUZCcGFVbGhXbVpqWjIxS1dGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKdVNsb3RURVJ0VUZCcGFVbGhXbVpqWjIxS1dGRRAB!2m1!1s0x340409f7f7dcd741:0xea8887138cc57923"
+      },
+      {
+        "name": "places/ChIJQdfc9_cJBDQRI3nFjBOHiOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WVlkydFhVRmwwZDJJd1VGOUVTVVZzTkdWU2MwRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 2,
+        "text": {
+          "text": "To be honest, it is an overall disappointed experience. The handmade ragu spaghetti is in little amount, which can literally be finished in 5 minutes with only 5-spoon amount. As a slim or even underweight person, it is not enough let alone those gym buddies. Also, for the taste, it is not special at all.\n\nIf you are looking for a small local restaurant with hand-drawing posters to attract kids, you could try once. Otherwise, it is not recommended.\n\n餐廳食物味道普通，份量甚少。環境有自己畫的圖案可以俾小朋友睇。總結黎講，唔推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "To be honest, it is an overall disappointed experience. The handmade ragu spaghetti is in little amount, which can literally be finished in 5 minutes with only 5-spoon amount. As a slim or even underweight person, it is not enough let alone those gym buddies. Also, for the taste, it is not special at all.\n\nIf you are looking for a small local restaurant with hand-drawing posters to attract kids, you could try once. Otherwise, it is not recommended.\n\n餐廳食物味道普通，份量甚少。環境有自己畫的圖案可以俾小朋友睇。總結黎講，唔推薦！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Catherine KONG",
+          "uri": "https://www.google.com/maps/contrib/116438501756742849952/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLBFm6P85nXjeTfsRNt2eXLqEZo-m8UYx7OuHhLlV9oJeSfhw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-01-04T13:10:56.292543409Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WVlkydFhVRmwwZDJJd1VGOUVTVVZzTkdWU2MwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WVlkydFhVRmwwZDJJd1VGOUVTVVZzTkdWU2MwRRAB!2m1!1s0x340409f7f7dcd741:0xea8887138cc57923"
+      },
+      {
+        "name": "places/ChIJQdfc9_cJBDQRI3nFjBOHiOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkRVUwWjNiVWxxYURabVgycG5NR3AxYXpWWVJuYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 4,
+        "text": {
+          "text": "喺2025最後一年去咗食呢間頗出名嘅Cafe。pasta HKD17x左右，包埋一個前菜同湯品。好有心喺湯品上面用忌廉寫咗啲字。意大利麵都好Creamy同好煙靭，不過厚實嘅同時冇咁彈牙，如果再彈牙啲就好啲。雖然係一間小店但係feel到員工嘅氛圍好好，而且成間餐廳唔會太多人。靜靜地咁食一個dinner都幾唔錯。\n\n留意到舖頭有好多畫，好好奇究竟係邊個畫，全部都好靚🐣",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "喺2025最後一年去咗食呢間頗出名嘅Cafe。pasta HKD17x左右，包埋一個前菜同湯品。好有心喺湯品上面用忌廉寫咗啲字。意大利麵都好Creamy同好煙靭，不過厚實嘅同時冇咁彈牙，如果再彈牙啲就好啲。雖然係一間小店但係feel到員工嘅氛圍好好，而且成間餐廳唔會太多人。靜靜地咁食一個dinner都幾唔錯。\n\n留意到舖頭有好多畫，好好奇究竟係邊個畫，全部都好靚🐣",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "路過的行人",
+          "uri": "https://www.google.com/maps/contrib/113242228900836422738/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVB4UcZBZOCeQYl0eJ4Hs179hYcJ8215vjCizjJQ0f0gfHNnIs=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-01-03T10:57:39.352115778Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkRVUwWjNiVWxxYURabVgycG5NR3AxYXpWWVJuYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkRVUwWjNiVWxxYURabVgycG5NR3AxYXpWWVJuYxAB!2m1!1s0x340409f7f7dcd741:0xea8887138cc57923"
+      },
+      {
+        "name": "places/ChIJQdfc9_cJBDQRI3nFjBOHiOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSZlNsRlplSFEwT0UxUlJsbFBTMVowZWtSaU5sRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "• 🍽 打工仔飲食日記 @ Tai Po 大埔 🇭🇰 •\n.\n今次老Best帶咗我去一間大埔嘅小店食手工意粉.\n間店真係好值得推介.\n.\n間店嘅decoration好有特色, 好多手繪畫同揮春.\n啲畫色彩豐富又帶點歐洲小鎮嘅氣息.\n坐係度食嘢傾偈真係特別chill.\n.\nLunch Set有幾款手工意粉同意大利飯選擇.\n我哋兩個都揀咗湯同手工意粉.\n.\n南瓜湯\n真係有驚喜.\n我冇諗過個湯有拉花㗎!\n仲要兩碗湯嘅拉花都唔同.\n一隻係兔仔, 一隻係恐龍.\n兩隻都畫得好靚, 好得意.\n個湯口感好creamy.\n好濃南瓜味.\n湯配埋蒜蓉包.\n個包熱辣辣, 外脆內軟.\n點湯食都好好味.\n簡直絕配!\n.\n意大利牛肉醬手製闊條麵 (HK$108)\n成個意粉都好香牛肉味.\n闊條麵有咬口.\n味道唔錯.\n.\n卡邦尼手製意粉 (HK$108)\n我出街食意粉, 必揀卡邦尼.\n雖然呢個意粉未做到一試難忘, 但都算係一個好好食嘅卡邦尼意粉.\n意粉口感彈牙.\n食落有淡淡嘅煙肉同蛋香.\n.\n整體嚟講,南瓜湯嘅創意拉花令我留下深刻印象.\n手工意粉值得一試.\n星期六日同朋友過嚟食lunch同埋傾吓偈都唔錯.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "• 🍽 打工仔飲食日記 @ Tai Po 大埔 🇭🇰 •\n.\n今次老Best帶咗我去一間大埔嘅小店食手工意粉.\n間店真係好值得推介.\n.\n間店嘅decoration好有特色, 好多手繪畫同揮春.\n啲畫色彩豐富又帶點歐洲小鎮嘅氣息.\n坐係度食嘢傾偈真係特別chill.\n.\nLunch Set有幾款手工意粉同意大利飯選擇.\n我哋兩個都揀咗湯同手工意粉.\n.\n南瓜湯\n真係有驚喜.\n我冇諗過個湯有拉花㗎!\n仲要兩碗湯嘅拉花都唔同.\n一隻係兔仔, 一隻係恐龍.\n兩隻都畫得好靚, 好得意.\n個湯口感好creamy.\n好濃南瓜味.\n湯配埋蒜蓉包.\n個包熱辣辣, 外脆內軟.\n點湯食都好好味.\n簡直絕配!\n.\n意大利牛肉醬手製闊條麵 (HK$108)\n成個意粉都好香牛肉味.\n闊條麵有咬口.\n味道唔錯.\n.\n卡邦尼手製意粉 (HK$108)\n我出街食意粉, 必揀卡邦尼.\n雖然呢個意粉未做到一試難忘, 但都算係一個好好食嘅卡邦尼意粉.\n意粉口感彈牙.\n食落有淡淡嘅煙肉同蛋香.\n.\n整體嚟講,南瓜湯嘅創意拉花令我留下深刻印象.\n手工意粉值得一試.\n星期六日同朋友過嚟食lunch同埋傾吓偈都唔錯.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "E’s Travelogue",
+          "uri": "https://www.google.com/maps/contrib/113647697067398574181/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQeHzk2cHy2AlqZpW-wzInESQx0X9LhQHUIyoYo9oTjpCNckoB=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-07T14:40:09.452064574Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSZlNsRlplSFEwT0UxUlJsbFBTMVowZWtSaU5sRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSZlNsRlplSFEwT0UxUlJsbFBTMVowZWtSaU5sRRAB!2m1!1s0x340409f7f7dcd741:0xea8887138cc57923"
+      },
+      {
+        "name": "places/ChIJQdfc9_cJBDQRI3nFjBOHiOo/reviews/ChdDSUhNMG9nS0VJQ0FnTURJX2FTYzdRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "我對呢間餐廳呈一個良好態度進行評價！\n環境幾好，好乾淨，\n食物方面，餐前嘅西蘭花湯，唔夠熱，蒜蓉包幾脆，好香，意粉煮得唔夠軟，比較硬，pizza幾好食，夠香又脆，足料，意大利飯真係好食，夠腍，又唔會好生，海鮮就融入去啲飯，整體嚟講係一個合格嘅意大利飯\n服務都過得去，唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我對呢間餐廳呈一個良好態度進行評價！\n環境幾好，好乾淨，\n食物方面，餐前嘅西蘭花湯，唔夠熱，蒜蓉包幾脆，好香，意粉煮得唔夠軟，比較硬，pizza幾好食，夠香又脆，足料，意大利飯真係好食，夠腍，又唔會好生，海鮮就融入去啲飯，整體嚟講係一個合格嘅意大利飯\n服務都過得去，唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "老子",
+          "uri": "https://www.google.com/maps/contrib/103836614306346019703/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOXB_0TrfTL0ucp-cCZIdh89GyO2GGpvtfO1PtxJCfCf6r9TS8=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-04-12T12:21:26.804657Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJX2FTYzdRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJX2FTYzdRRRAB!2m1!1s0x340409f7f7dcd741:0xea8887138cc57923"
+      }
+    ],
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340409f7f7dcd741:0xea8887138cc57923!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16899906119743666467&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409f7f7dcd741:0xea8887138cc57923!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340409f7f7dcd741:0xea8887138cc57923!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340409f7f7dcd741:0xea8887138cc57923!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJQdfc9_cJBDQRI3nFjBOHiOo/photos/Aa-ngMaiSzYzAbOXriEOdd4BSjI_sbOALB4850-emYl2wpNj45Z7BbjpF8CFME1psChSQ1Eclzyy2HW6oLnc4FNWNQ-ZVP1WHtIONmE0pd3O_vq5xzsabW_Yewwhy-6b8IZZWm104Jro6-D9FKA2wMKjAWJK4FjEMoOr05mefJisWuah-s8PtK7pJLXc2FvhLMA48fYct1KJixSrm5JEUKuDFcOCUcKQ9uiU-Rnxcag4FoiOfJvQxo3M_6-1TO6_tLvhXn6ldIhjeSwEOwQ3wYfcHQ4Ap3tqQVTaJHF-lIn2i5e24Qm0fxuOiTQtVcRSFghjJZX86nWwF5rIbBTirwvl14LcUqwWP9QOUZa5t0zgCcs1_ULsKPedc1TnNtFyiYI1EG59PaWw0twbYIn5QelADzQT1gomklk8MDrFve5ImVBi",
+      "widthPx": 1054,
+      "heightPx": 1406,
+      "authorAttributions": [
+        {
+          "displayName": "Pico Cafe",
+          "uri": "https://maps.google.com/maps/contrib/117558588102839947830",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqNbXb7GPfSYC6AzM0-9268tAzTh79btdwLyatJzRSVndmgG0=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDcCLh1sPAERZ5FVsaWTYyv&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDcCLh1sPAERZ5FVsaWTYyv!2e10!4m2!3m1!1s0x340409f7f7dcd741:0xea8887138cc57923"
+    },
+    "local_path": "photos/ChIJQdfc9_cJBDQRI3nFjBOHiOo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLenhWpQtxfUxEtF9vWKO1lo-9gopVqjf7-s6LZvY4XWvecQjMs51AkxarThoC5jDim3EO-oy3MD3jRPH_XKq_O_v9TWc4jOSYJ0ijnjpy2QFTPyvUK17Dx2vOWhHeH-BdJz8AlQ4kI3NcQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 251138
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "italian_restaurant",
+    "label": "義大利餐廳",
+    "types": [
+      "italian_restaurant",
+      "western_restaurant",
+      "cafe",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,285 @@
+{
+  "google_place_id": "ChIJad9EwfH4AzQR0Vf4V7kSk88",
+  "restaurant_ids": [
+    "restaurant:3161808601"
+  ],
+  "fetched_at": "2026-10-23T15:39:33.206616+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJad9EwfH4AzQR0Vf4V7kSk88",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港新界荃灣",
+    "location": {
+      "latitude": 22.3748588,
+      "longitude": 114.1123733
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=14957319374681692113&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 17:00 – 02:00",
+        "星期二: 17:00 – 02:00",
+        "星期三: 17:00 – 02:00",
+        "星期四: 17:00 – 02:00",
+        "星期五: 17:00 – 02:00",
+        "星期六: 17:00 – 02:00",
+        "星期日: 17:00 – 02:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 12,
+    "displayName": {
+      "text": "Amuse",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJad9EwfH4AzQR0Vf4V7kSk88/reviews/ChZDSUhNMG9nS0VJQ0FnSUM0cnQ3SU9BEAE",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "呢間要去捧一捧場飲吓酒先得。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間要去捧一捧場飲吓酒先得。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yu chun ying (英仔808)",
+          "uri": "https://www.google.com/maps/contrib/108400086024684033269/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsMRB4R9D5F7ryZ_QXOMYbSYG4wnwcjyOJFRsgk8TGBl_aqCel6w=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2019-06-06T14:00:40.608448Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM0cnQ3SU9BEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM0cnQ3SU9BEAE!2m1!1s0x3403f8f1c144df69:0xcf9312b957f857d1"
+      },
+      {
+        "name": "places/ChIJad9EwfH4AzQR0Vf4V7kSk88/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCODZXdTFBRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "時常去的酒吧。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "時常去的酒吧。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Phoebe Ko",
+          "uri": "https://www.google.com/maps/contrib/108619649801492579963/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKIhuGnP-UACz8Ht0DHchT32x27x5e6GpdU7NkDexBVaar93A=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-01-04T05:12:02.111726Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCODZXdTFBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCODZXdTFBRRAB!2m1!1s0x3403f8f1c144df69:0xcf9312b957f857d1"
+      },
+      {
+        "name": "places/ChIJad9EwfH4AzQR0Vf4V7kSk88/reviews/ChdDSUhNMG9nS0VJQ0FnSURNOUxUU3lnRRAB",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "A nice place to get a drink since people are very friendly and approachable. Though the bar is not foreigner friendly because the peeps there can't speak good or cannot speak english at all, they can still give you top quality service. Just bring a Chinese friend that knows how to speak in English and let him/her do the translating. Definitely enjoyed my time there.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "A nice place to get a drink since people are very friendly and approachable. Though the bar is not foreigner friendly because the peeps there can't speak good or cannot speak english at all, they can still give you top quality service. Just bring a Chinese friend that knows how to speak in English and let him/her do the translating. Definitely enjoyed my time there.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Daniel Fernando Tulalian",
+          "uri": "https://www.google.com/maps/contrib/111915666643452113822/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWwf4YZ7X66Mz546NEP-M-tZ9n7FkVSjwHAJQwbN-c0YOzqjf3=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2019-12-18T17:50:30.691531Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURNOUxUU3lnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURNOUxUU3lnRRAB!2m1!1s0x3403f8f1c144df69:0xcf9312b957f857d1"
+      },
+      {
+        "name": "places/ChIJad9EwfH4AzQR0Vf4V7kSk88/reviews/ChZDSUhNMG9nS0VJQ0FnSURzektEVkx3EAE",
+        "relativePublishTimeDescription": "6 年前",
+        "rating": 5,
+        "text": {
+          "text": "有趣的酒吧",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Funny bar",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Pat TSOI",
+          "uri": "https://www.google.com/maps/contrib/101614011733409794857/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgCoyjlCAn2fLXgEr0ncx6UgxVXUJSNdKrESTQy56xyQ0vZA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2020-02-25T15:42:23.226839Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURzektEVkx3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURzektEVkx3EAE!2m1!1s0x3403f8f1c144df69:0xcf9312b957f857d1"
+      },
+      {
+        "name": "places/ChIJad9EwfH4AzQR0Vf4V7kSk88/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaaWN2WTF3RRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "PK",
+          "uri": "https://www.google.com/maps/contrib/100819901452146076664/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5-N2guF_j3klh_-5lBL4MhhOkCKhIUyJ350us9e1NvGAWhYEwwg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-09-13T02:06:16.298824Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaaWN2WTF3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaaWN2WTF3RRAB!2m1!1s0x3403f8f1c144df69:0xcf9312b957f857d1"
+      }
+    ],
+    "outdoorSeating": false,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f8f1c144df69:0xcf9312b957f857d1!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=14957319374681692113&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f8f1c144df69:0xcf9312b957f857d1!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f8f1c144df69:0xcf9312b957f857d1!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f8f1c144df69:0xcf9312b957f857d1!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJad9EwfH4AzQR0Vf4V7kSk88/photos/Aa-ngMaj-MJExAWCW5VupAgei6mF9-CDI7Yi-cQW4YWpzkf1EcxXpKlacADTk6oM3h15KeiGnW0HRLBB9VHg2R2Cd41_HdX0-Pyd61tJYZFWNX1_nGGz1QE5meRB-dHYN03iBT4cJsJIZ2hE09C-HA_EQa0R1a2wfgeN2dy_GhMgVgVPRQU4GMGlspK4TAf0T_5lJfyxgLWLcxqB7uF8-dCJ33_QnHjh0w4sKqlqr206ZfpMi6wYJi4DNYW5Is6vg0UCPorYbdFXqUX1_zJIdPK8aIB262nF7tlFaPTE1s_mkQ2I_FRarkbIQXfiAbjgd3j5SL12-hfKYhyu1Kms9ixJVmEl6Mollx-5wKR5C6Vrv-4MI-WiCw6dkgnKXKjBs2wXtIOEzDBSeol4EG8cUwBN--GCtDEZ4HLmTFoQAwXN8ZVJow",
+      "widthPx": 4096,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "Pat TSOI",
+          "uri": "https://maps.google.com/maps/contrib/101614011733409794857",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgCoyjlCAn2fLXgEr0ncx6UgxVXUJSNdKrESTQy56xyQ0vZA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAIN0uGMB7jSmfuOIoABHar&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAIN0uGMB7jSmfuOIoABHar!2e10!4m2!3m1!1s0x3403f8f1c144df69:0xcf9312b957f857d1"
+    },
+    "local_path": "photos/ChIJad9EwfH4AzQR0Vf4V7kSk88.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfakVqCc5t2YIPwdn_O8zqUc0K1fRPUqReYebPt5ecbC45hKJRspKNs_gE9Hqbdlb9_T2e6kBsZPq456mJUHnjlA5kI15e-6bSMigkDIakGNmWrVw5atmzimY4q3YEibXR1IjeBHLD-_NO8=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 135429
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

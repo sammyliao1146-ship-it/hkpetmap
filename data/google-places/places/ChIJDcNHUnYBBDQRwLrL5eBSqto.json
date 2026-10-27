@@ -1,0 +1,326 @@
+{
+  "google_place_id": "ChIJDcNHUnYBBDQRwLrL5eBSqto",
+  "restaurant_ids": [
+    "restaurant:2251802310"
+  ],
+  "fetched_at": "2026-10-23T15:39:47.700702+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJDcNHUnYBBDQRwLrL5eBSqto",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9780 7892",
+    "internationalPhoneNumber": "+852 9780 7892",
+    "formattedAddress": "香港九龍觀塘偉業街223號宏利金融中心B座G02",
+    "location": {
+      "latitude": 22.3072719,
+      "longitude": 114.2240966
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=15756497372190587584&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/cafeaskhk/?locale=zh_HK",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 19:00",
+        "星期二: 08:00 – 19:00",
+        "星期三: 08:00 – 19:00",
+        "星期四: 08:00 – 19:00",
+        "星期五: 08:00 – 19:00",
+        "星期六: 10:00 – 19:00",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 42,
+    "displayName": {
+      "text": "Ask Cafe",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJDcNHUnYBBDQRwLrL5eBSqto/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SQ2VITlFZMkpLVEhWUlJVTjJWRzF5ZEVaVU9GRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢間Cafe pet friendly外，特色就係可以奶啡☕️或者抹茶上🍵，印出不同的3D打印效果🏵，只需WhatsApp張相或圖案俾舖頭就可以做到，好方便仲要唔使額外收費架，大人小朋友都一定鐘意👨‍👩‍👧‍👧！\n特別推介大家點雪糕雞蛋仔must eat💠，外脆內軟，冰涼綿密的雪糕🍨 ，淋上邪惡的朱古力及草莓醬美味加倍，極致視覺與味覺雙重享受，炎熱夏天之選 🔥。\n\n📍ASK cafe\n觀塘偉業街223號宏利金融中心B座地下G02號舖\n@cafe_ask",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間Cafe pet friendly外，特色就係可以奶啡☕️或者抹茶上🍵，印出不同的3D打印效果🏵，只需WhatsApp張相或圖案俾舖頭就可以做到，好方便仲要唔使額外收費架，大人小朋友都一定鐘意👨‍👩‍👧‍👧！\n特別推介大家點雪糕雞蛋仔must eat💠，外脆內軟，冰涼綿密的雪糕🍨 ，淋上邪惡的朱古力及草莓醬美味加倍，極致視覺與味覺雙重享受，炎熱夏天之選 🔥。\n\n📍ASK cafe\n觀塘偉業街223號宏利金融中心B座地下G02號舖\n@cafe_ask",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Gary Leung",
+          "uri": "https://www.google.com/maps/contrib/113534322080562732780/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1vNGeHQo0IlUp23Lc4-KTgKBWju5IzFZWCrrTDhqLEVuM7A=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-28T05:34:06.526160920Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SQ2VITlFZMkpLVEhWUlJVTjJWRzF5ZEVaVU9GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SQ2VITlFZMkpLVEhWUlJVTjJWRzF5ZEVaVU9GRRAB!2m1!1s0x340401765247c30d:0xdaaa52e0e5cbbac0"
+      },
+      {
+        "name": "places/ChIJDcNHUnYBBDQRwLrL5eBSqto/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KRlpYQkRhVVJCTFhwNU1HaDRiMWhEUmtSYVgzYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今次我跟朋友去左食一間可以話隱世既Café，佢係宏利金融中心入面，一般就唔會去到呢邊行街食飯，但個friend係度返工有食過覺得正既要帶我黎試，就帶埋BB一齊去同佢食個lunch啦😄\n\n呢度既飲品用黎打卡一流，用打印技術可以將任何圖片都整上飲品上面，見到咁正，即刻問店員打印BB個樣落比熱朱古力比佢飲，只要send相比佢地就即刻整到，出到黎真係好可愛，而飲品味道同平時係café飲到既水準差唔多，都係有手沖既質素☕️\n\n呢間餐廳真係好正，杯飲品有得整任何相真係勁正，叫一杯再用張情侶靚相比對方，包保另一半見到超開心，輕鬆製造驚喜，野食質素都好好，我自己就好鐘意個軟殼蟹意粉，爆多咸蛋黃勁邪惡，怕油想食得健康都有唔少選擇，例如全日早餐可以轉素食，唔怪得個friend話要跟佢黎食一次啦，係附近返工就好，lunch可以係度食😋",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次我跟朋友去左食一間可以話隱世既Café，佢係宏利金融中心入面，一般就唔會去到呢邊行街食飯，但個friend係度返工有食過覺得正既要帶我黎試，就帶埋BB一齊去同佢食個lunch啦😄\n\n呢度既飲品用黎打卡一流，用打印技術可以將任何圖片都整上飲品上面，見到咁正，即刻問店員打印BB個樣落比熱朱古力比佢飲，只要send相比佢地就即刻整到，出到黎真係好可愛，而飲品味道同平時係café飲到既水準差唔多，都係有手沖既質素☕️\n\n呢間餐廳真係好正，杯飲品有得整任何相真係勁正，叫一杯再用張情侶靚相比對方，包保另一半見到超開心，輕鬆製造驚喜，野食質素都好好，我自己就好鐘意個軟殼蟹意粉，爆多咸蛋黃勁邪惡，怕油想食得健康都有唔少選擇，例如全日早餐可以轉素食，唔怪得個friend話要跟佢黎食一次啦，係附近返工就好，lunch可以係度食😋",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ching Ho Leung",
+          "uri": "https://www.google.com/maps/contrib/109208228961550199608/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLb4m-tU3-R04LkiDUebxj6h9A13PEqhJMX0prn4AnzbsvY1g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-31T16:25:43.057340210Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KRlpYQkRhVVJCTFhwNU1HaDRiMWhEUmtSYVgzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KRlpYQkRhVVJCTFhwNU1HaDRiMWhEUmtSYVgzYxAB!2m1!1s0x340401765247c30d:0xdaaa52e0e5cbbac0"
+      },
+      {
+        "name": "places/ChIJDcNHUnYBBDQRwLrL5eBSqto/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1cnBYQUVREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 4,
+        "text": {
+          "text": "觀塘的這間Cafe有很大空間感，顏色和座位設計讓你很舒適，食物選擇多之餘，最特別還是有一部會咖啡拉花的機械人！\n\n只要選擇自己想要的咖啡，機械人就會自己沖調，然後還會打奶拉花，準繩度高，味道都很到位呢😍\n\n🔹黃金軟殼蟹意粉\n視覺已經感受到有多滿的鹹蛋黃，軟殼蟹好多汁又飽滿，意粉彈牙而且很有鹹香，不算太膩，份量也算大。\n\n🔹夏之waffle\n窩夫可以說是店的人氣甜品，款色特別多，這天吃的是夏天主題，裡面有士多啤梨、紅桑子醬、開心果等食材，顏色繽紛，味道酸酸甜甜的，就是夏天的味道，窩夫夠硬夠脆令你會一直想吃，加上雪糕很奶，讓窩夫有一定的甜度和濕潤度，紅桑子醬很清新，整體配搭不錯。\n\n🔹西柚橙梳打\n很少喝咖啡以外的飲品，不過這杯顏色吸引放著會慢慢有漸層色的梳打很解渴又清爽，西柚橙的微酸和梳打很搭配，喜歡甜飲的可以試呢。\n\n這裡另一個特色是有不少蛋糕款色，原來是因為老闆很喜歡吃蛋糕，所以他特別去找好吃的蛋糕配方來自家製作，當中人氣款色白桃撻上有滿滿多肉的白桃，清新又豐富，用來搭配咖啡剛剛好！❤",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "觀塘的這間Cafe有很大空間感，顏色和座位設計讓你很舒適，食物選擇多之餘，最特別還是有一部會咖啡拉花的機械人！\n\n只要選擇自己想要的咖啡，機械人就會自己沖調，然後還會打奶拉花，準繩度高，味道都很到位呢😍\n\n🔹黃金軟殼蟹意粉\n視覺已經感受到有多滿的鹹蛋黃，軟殼蟹好多汁又飽滿，意粉彈牙而且很有鹹香，不算太膩，份量也算大。\n\n🔹夏之waffle\n窩夫可以說是店的人氣甜品，款色特別多，這天吃的是夏天主題，裡面有士多啤梨、紅桑子醬、開心果等食材，顏色繽紛，味道酸酸甜甜的，就是夏天的味道，窩夫夠硬夠脆令你會一直想吃，加上雪糕很奶，讓窩夫有一定的甜度和濕潤度，紅桑子醬很清新，整體配搭不錯。\n\n🔹西柚橙梳打\n很少喝咖啡以外的飲品，不過這杯顏色吸引放著會慢慢有漸層色的梳打很解渴又清爽，西柚橙的微酸和梳打很搭配，喜歡甜飲的可以試呢。\n\n這裡另一個特色是有不少蛋糕款色，原來是因為老闆很喜歡吃蛋糕，所以他特別去找好吃的蛋糕配方來自家製作，當中人氣款色白桃撻上有滿滿多肉的白桃，清新又豐富，用來搭配咖啡剛剛好！❤",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "852 FoodVoyage",
+          "uri": "https://www.google.com/maps/contrib/107986755230753831938/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX86ggCNMta0vME12ubu4aYMGb2TIefdCZBe2_aIdb8doteS4T9sA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-10-13T15:11:14.323426Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1cnBYQUVREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1cnBYQUVREAE!2m1!1s0x340401765247c30d:0xdaaa52e0e5cbbac0"
+      },
+      {
+        "name": "places/ChIJDcNHUnYBBDQRwLrL5eBSqto/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1aklMMFp3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "📍ASK cafe\n\n位於商業中心既地舖，主要以花花草草🌼🌿作佈置，充斥着田園嘅氣息，有種遠離繁囂嘅感覺\n\n🦀軟殼蟹牛油果漢堡 $138\n個burger超級大個🤤大過我塊臉～而軟殼蟹係成隻炸完放係burger裡面，夠曬誠意👌😌食落勁juicy, 蟹肉都好飽滿🈵️\n\n🍝黄金軟殼蟹意粉 $155\n由於軟殼蟹實在炸得太好食，於是又叫左碟軟殼蟹意粉😙軟殼蟹都係一樣咁大隻，有成個碟咁大，亦都放左啲蟹籽係上面，增加左個口感️\n\n🧇夏之窩夫 $88\n甜品不嬲都係第二個胃黎😆叫左個夏之窩夫，由士多啤梨、雲呢拿雪糕、紅桑子醬開心果既材料製作而成；擺盤好靚，絕對唔馬虎！啱曬攞黎打卡\n\n☕️Cappuccino $40\n咖啡濃郁，牛奶味重~Coffee print 在非繁忙時間可以自選圖案/send相比店員打印！私心print 左陳仔😍依然咁靚仔😚\n\n🍵Flavored Latte （Hojicha）$44\n另一杯就叫左焙茶鮮奶咖啡，茶味濃厚，史迪仔勁得意😍圖案栩栩如生，像真度極高！\n\n✨個人建議： 呢間cafe食物質素唔錯！同時，價錢都唔貴～性價比幾高！💫幾推薦大家試下🤤\n\n⭐️好味指數： 9.8/10",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "📍ASK cafe\n\n位於商業中心既地舖，主要以花花草草🌼🌿作佈置，充斥着田園嘅氣息，有種遠離繁囂嘅感覺\n\n🦀軟殼蟹牛油果漢堡 $138\n個burger超級大個🤤大過我塊臉～而軟殼蟹係成隻炸完放係burger裡面，夠曬誠意👌😌食落勁juicy, 蟹肉都好飽滿🈵️\n\n🍝黄金軟殼蟹意粉 $155\n由於軟殼蟹實在炸得太好食，於是又叫左碟軟殼蟹意粉😙軟殼蟹都係一樣咁大隻，有成個碟咁大，亦都放左啲蟹籽係上面，增加左個口感️\n\n🧇夏之窩夫 $88\n甜品不嬲都係第二個胃黎😆叫左個夏之窩夫，由士多啤梨、雲呢拿雪糕、紅桑子醬開心果既材料製作而成；擺盤好靚，絕對唔馬虎！啱曬攞黎打卡\n\n☕️Cappuccino $40\n咖啡濃郁，牛奶味重~Coffee print 在非繁忙時間可以自選圖案/send相比店員打印！私心print 左陳仔😍依然咁靚仔😚\n\n🍵Flavored Latte （Hojicha）$44\n另一杯就叫左焙茶鮮奶咖啡，茶味濃厚，史迪仔勁得意😍圖案栩栩如生，像真度極高！\n\n✨個人建議： 呢間cafe食物質素唔錯！同時，價錢都唔貴～性價比幾高！💫幾推薦大家試下🤤\n\n⭐️好味指數： 9.8/10",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "carcar.foodie",
+          "uri": "https://www.google.com/maps/contrib/113106642209991166586/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKWjYH_dvGsd47_q7wDj6N12Z4QKl9xWXpmmLWejBgAJN5fKk=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-10-11T12:09:33.734034Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1aklMMFp3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1aklMMFp3EAE!2m1!1s0x340401765247c30d:0xdaaa52e0e5cbbac0"
+      },
+      {
+        "name": "places/ChIJDcNHUnYBBDQRwLrL5eBSqto/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmNm9MVzBRRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "觀塘一間我周六常去吃早餐的店，價錢很實惠而且東西好吃，我經常點的$52早餐，加$12有特式咖啡，試過幾款都很不錯，人不多挺安靜的，可惜周日不開。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "觀塘一間我周六常去吃早餐的店，價錢很實惠而且東西好吃，我經常點的$52早餐，加$12有特式咖啡，試過幾款都很不錯，人不多挺安靜的，可惜周日不開。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lum Lum",
+          "uri": "https://www.google.com/maps/contrib/115648857526540818724/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_IbwN4-tvkeizAuKFvxPgkJBw7p7v7QJRPcXfQg_HsmBsfg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-12-28T03:14:03.160789Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmNm9MVzBRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmNm9MVzBRRRAB!2m1!1s0x340401765247c30d:0xdaaa52e0e5cbbac0"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "valetParking": false,
+      "freeGarageParking": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401765247c30d:0xdaaa52e0e5cbbac0!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15756497372190587584&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401765247c30d:0xdaaa52e0e5cbbac0!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401765247c30d:0xdaaa52e0e5cbbac0!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401765247c30d:0xdaaa52e0e5cbbac0!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJDcNHUnYBBDQRwLrL5eBSqto/photos/Aa-ngMbOUxjZvhI6eLZ48_OavjyM3TZJMePZ40U37myeo4sFPGFUyoJkQnGIoudlD1q9XlI4u0oyl4TBgmITNOu1TgjzF3X_-FCZmakSI3vZbJ379E3H8vzm1ft-zvBFPKRUXqTM_qu4m6LWvOX5g_3H56zEK1UH4xckTOPZe6qXqRa5bsOIS_fIxkVblzhqEVrySkrEu_dXvL7X-crKCBT2m-o3vNMs4nwXvE_snmPv1JaluGH2ltzjtWK-m1914OOIPdXYa9TPm5wUEHaqJpqTaK821Eg5WGoMztDQ9ZKXYZck5R4eTkP_Iq3ROuVRGIxWlz8e4PD3EeJi8O4TqD3mc31b2KuVodU_Sth91gNqoy8wPYyjggqjBjpM0FwAIcw0BtevisHcQrd88KhW5NlVd01UrTLWfFKxMBYDiOLkIeBJ_w",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "Joseph Chow",
+          "uri": "https://maps.google.com/maps/contrib/104018543097594585882",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3BnGdzi0vNLG7mfCIVRfokJAgKrNLBF459ceRf0QQhmuSpuA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA50a7wFy50kqD2VIlB-FuX&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA50a7wFy50kqD2VIlB-FuX!2e10!4m2!3m1!1s0x340401765247c30d:0xdaaa52e0e5cbbac0"
+    },
+    "local_path": "photos/ChIJDcNHUnYBBDQRwLrL5eBSqto.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQJsFz6nPuO8NdhPgguw9vRD-fPwUBKZziUw2knpqhpoPBmyHMHPa1qqy0SPqWcRUevbPjJ_8HvgX9Lam1FHbLLzs5EcJcc5Q-gC_eWBVkkHrfENJPMDLIayjnaZsZHGuNGQW2VdHF5jmh=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 116560
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

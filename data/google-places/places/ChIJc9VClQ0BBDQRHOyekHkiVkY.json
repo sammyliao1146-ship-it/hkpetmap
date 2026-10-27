@@ -1,0 +1,313 @@
+{
+  "google_place_id": "ChIJc9VClQ0BBDQRHOyekHkiVkY",
+  "restaurant_ids": [
+    "restaurant:2261816723"
+  ],
+  "fetched_at": "2026-10-23T15:47:09.137858+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJc9VClQ0BBDQRHOyekHkiVkY",
+    "types": [
+      "oyster_bar_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2382 8234",
+    "internationalPhoneNumber": "+852 2382 8234",
+    "formattedAddress": "香港九龍尖沙咀Shop 1A, PL/F, Tower 3 China Hong Kong City, 33 Canton Road",
+    "location": {
+      "latitude": 22.3006282,
+      "longitude": 114.16743079999999
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=5068276336164793372&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.facebook.com/Oystermine-674649385899445/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 23:00",
+        "星期二: 11:30 – 23:00",
+        "星期三: 11:30 – 23:00",
+        "星期四: 11:30 – 23:00",
+        "星期五: 11:30 – 23:00",
+        "星期六: 12:00 – 23:00",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "userRatingCount": 117,
+    "displayName": {
+      "text": "Oystermine",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "生蠔餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "oyster_bar_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJc9VClQ0BBDQRHOyekHkiVkY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4d1VtRk5SVE5UVWxCM05WVXdXWEowZUZsRE9GRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "生蠔好鮮甜嫩滑兼爽口，仲有三款唔同嘅醬料俾我地，啲味道都好夾!!推介",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "生蠔好鮮甜嫩滑兼爽口，仲有三款唔同嘅醬料俾我地，啲味道都好夾!!推介",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ning Si Sung",
+          "uri": "https://www.google.com/maps/contrib/109211070580622102295/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL_0Balbo8tNo_JInK1fIUJPLAnzCsPqkE2mLSjL-hzc9X3Sg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-04T13:16:52.286055557Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4d1VtRk5SVE5UVWxCM05WVXdXWEowZUZsRE9GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4d1VtRk5SVE5UVWxCM05WVXdXWEowZUZsRE9GRRAB!2m1!1s0x3404010d9542d573:0x46562279909eec1c"
+      },
+      {
+        "name": "places/ChIJc9VClQ0BBDQRHOyekHkiVkY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNScDY3empnRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "❗️TVB 男神黃宗澤的餐廳4月8日在尖沙咀重新開業啦！\n·\n作為Bosco的超級fans，已經在餐廳偶遇過他4次，可見黃老闆真的很上心💖\n•\n餐廳二月底裝修，歷經一個月翻新，不僅門店樣貌更加明亮舒適，菜單更是加入了創新菜品，每次來都能嘗到新花樣😋\n·\n🦪生蠔是店裡招牌，我每次必點。每日有幾種可供選擇，價格從💰38-108不等。生蠔個大飽滿，鮮嫩juicy，品質絕對一流！\n•\n🥩M5和牛肉眼是我本期新寵，連續吃了2天。和牛我要了7成熟，外脆裡嫩，口感厚實有嚼勁。配菜顏色豐富，影相📸️超漂亮！\n•\n🍝墨魚意麵非常驚喜，墨魚麵鮮甜，配上三文魚子層次豐富。更有特製分子爆珠，上來就光盤了🍽️\n•\n這家明星餐廳的出品質量絕對優質，價格也相當友好👍🏻。午餐menu人均90-180，晚餐人均200-400（不點酒）。超高性價比能吃道高質素西餐，不得不誇贊Bosco真是良心老闆！\n·\n自己來吃了7次，有4⃣️次都偶遇到了Bosco🤩，每次都是超熱情的跟粉絲們合照，還有簽名照拿。真的要講聲：多謝Bosco！💖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "❗️TVB 男神黃宗澤的餐廳4月8日在尖沙咀重新開業啦！\n·\n作為Bosco的超級fans，已經在餐廳偶遇過他4次，可見黃老闆真的很上心💖\n•\n餐廳二月底裝修，歷經一個月翻新，不僅門店樣貌更加明亮舒適，菜單更是加入了創新菜品，每次來都能嘗到新花樣😋\n·\n🦪生蠔是店裡招牌，我每次必點。每日有幾種可供選擇，價格從💰38-108不等。生蠔個大飽滿，鮮嫩juicy，品質絕對一流！\n•\n🥩M5和牛肉眼是我本期新寵，連續吃了2天。和牛我要了7成熟，外脆裡嫩，口感厚實有嚼勁。配菜顏色豐富，影相📸️超漂亮！\n•\n🍝墨魚意麵非常驚喜，墨魚麵鮮甜，配上三文魚子層次豐富。更有特製分子爆珠，上來就光盤了🍽️\n•\n這家明星餐廳的出品質量絕對優質，價格也相當友好👍🏻。午餐menu人均90-180，晚餐人均200-400（不點酒）。超高性價比能吃道高質素西餐，不得不誇贊Bosco真是良心老闆！\n·\n自己來吃了7次，有4⃣️次都偶遇到了Bosco🤩，每次都是超熱情的跟粉絲們合照，還有簽名照拿。真的要講聲：多謝Bosco！💖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Suzy ZHANG",
+          "uri": "https://www.google.com/maps/contrib/105999443716730108929/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIHw1Ruh7OPlhH7T_wm4LXVLMsN3QtW-OBhp0qFX0BLNBUWtnY=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-04-12T08:46:53.199899Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNScDY3empnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNScDY3empnRRAB!2m1!1s0x3404010d9542d573:0x46562279909eec1c"
+      },
+      {
+        "name": "places/ChIJc9VClQ0BBDQRHOyekHkiVkY/reviews/Ci9DQUlRQUNvZENodHljRjlvT201MGNsZFlMVzFWU2tKeFJqY3RNbEJNZG1GQldWRRAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "店員非常友善，好用心詳細去解釋\n生蠔非常鮮甜好味\n菜式亦好有特色\n推介節日及生日過嚟慶祝",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "店員非常友善，好用心詳細去解釋\n生蠔非常鮮甜好味\n菜式亦好有特色\n推介節日及生日過嚟慶祝",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "HIN CHIN",
+          "uri": "https://www.google.com/maps/contrib/103351161763536333202/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLGdtMjXye7-5V_g1mdfhpO0LD1aD4nxOTzZEJ5KJkdyYdbMA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-12-01T13:22:55.383627720Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201MGNsZFlMVzFWU2tKeFJqY3RNbEJNZG1GQldWRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201MGNsZFlMVzFWU2tKeFJqY3RNbEJNZG1GQldWRRAB!2m1!1s0x3404010d9542d573:0x46562279909eec1c"
+      },
+      {
+        "name": "places/ChIJc9VClQ0BBDQRHOyekHkiVkY/reviews/ChZDSUhNMG9nS0VJQ0FnSUM2cnVETERBEAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 5,
+        "text": {
+          "text": "位處3座平台層地下有扶手電梯直達。位置方便，服務殷勤，飲品多樣化，生蠔新鮮又有多國款式選擇，有指定蠔7:00前仲有折扣。座位濶落好座，食物出品有質素。\n味道 ⭐⭐⭐⭐⭐\n環境 ⭐⭐⭐⭐\n服務 ⭐⭐⭐⭐⭐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位處3座平台層地下有扶手電梯直達。位置方便，服務殷勤，飲品多樣化，生蠔新鮮又有多國款式選擇，有指定蠔7:00前仲有折扣。座位濶落好座，食物出品有質素。\n味道 ⭐⭐⭐⭐⭐\n環境 ⭐⭐⭐⭐\n服務 ⭐⭐⭐⭐⭐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodies FATguy",
+          "uri": "https://www.google.com/maps/contrib/107312992964178594388/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGLLwd07XFV5Hs95n-QWdz5Hcg0NP7-AhjjnzypTz6zR378c78=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2021-09-04T14:52:28.906528Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM2cnVETERBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM2cnVETERBEAE!2m1!1s0x3404010d9542d573:0x46562279909eec1c"
+      },
+      {
+        "name": "places/ChIJc9VClQ0BBDQRHOyekHkiVkY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZb29tYWd3RRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "醬汁味道配搭好新穎，有創意!\n裝修高檔!\n蠔要睇你叫邊款，見仁見智。本人覺得最好食\n係Ostra Or, 海水味重，蠔亦夠肥美。\n白酒果味夠，好飲。\n酥皮腸配蘋果蓉係我全晚最喜歡的菜，好好味。\nPizza 皮薄夠脆，都好味。\n其餘主菜味道一般，有代改進。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "醬汁味道配搭好新穎，有創意!\n裝修高檔!\n蠔要睇你叫邊款，見仁見智。本人覺得最好食\n係Ostra Or, 海水味重，蠔亦夠肥美。\n白酒果味夠，好飲。\n酥皮腸配蘋果蓉係我全晚最喜歡的菜，好好味。\nPizza 皮薄夠脆，都好味。\n其餘主菜味道一般，有代改進。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yandy Lam",
+          "uri": "https://www.google.com/maps/contrib/102839517532892640749/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoi2V13_2UG27ywB4aE7os-Pm_HworyTcSHwDgigB0PQJFf3VAKw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2019-04-08T10:22:56.768765Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNZb29tYWd3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNZb29tYWd3RRAB!2m1!1s0x3404010d9542d573:0x46562279909eec1c"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010d9542d573:0x46562279909eec1c!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=5068276336164793372&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010d9542d573:0x46562279909eec1c!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010d9542d573:0x46562279909eec1c!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010d9542d573:0x46562279909eec1c!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJc9VClQ0BBDQRHOyekHkiVkY/photos/Aa-ngMYPIU9_Ka9l-PId_kDhziFaar3iROEJYUAnsK1IJ_qN_aCzut99D3_Novy976OJBygHtCic8eosG2daxeNGDVoaGNsOzI9c1BerOe_AgSpriwiQ_fHt73KKDasVUHqTPz5Fox-vkZYqrNit_oACj2w38wUg-3GmmJASRRwHhAgDqFcqVxoFUeda98RBwEF8vVzFQIhCk71OFru1B7BIX_kIN7ROIDS3tOzu2xbthiqED__D2jOjEcJbtU5lFqzkEZ7uNE7jcApiVhZq3YozbBPBw1NTv2TrOLio--0iCK2fR0wFS-TTB4IFj4VClmBU8xUEjJYFltvL_30m86hDQ5byH0P_go3VaOfNJPu5RaRkiH5wlNsRhYkchUAJ-vMQoiZu_MSg3kV1hEbM1vZVSfP6v4Hx",
+      "widthPx": 2120,
+      "heightPx": 1416,
+      "authorAttributions": [
+        {
+          "displayName": "Oystermine",
+          "uri": "https://maps.google.com/maps/contrib/115134120651749494574",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEN0DG01DTFEHfi50WEgf5aP9hcY31Q1Gz3D2wuwv1UjPTED8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6pJWr3wE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6pJWr3wE!2e10!4m2!3m1!1s0x3404010d9542d573:0x46562279909eec1c"
+    },
+    "local_path": "photos/ChIJc9VClQ0BBDQRHOyekHkiVkY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-KCz_0MVn7G3CUva95SBR5S1Aav388RM7DQZztzBXNaq23b8_aRxDnpMegpVwQDB3EtLqqF8Rr-MWEYs6MY4H9Q3g6LP5hGL5-0AmhTyivh4vc4lxtkfi6aaM0iIYDtDtFkJ2=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 142673
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "oyster_bar_restaurant",
+    "label": "生蠔餐廳",
+    "types": [
+      "oyster_bar_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

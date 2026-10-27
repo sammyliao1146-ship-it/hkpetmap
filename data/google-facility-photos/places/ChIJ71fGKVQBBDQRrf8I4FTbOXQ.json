@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ71fGKVQBBDQRrf8I4FTbOXQ",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍塘尾楓樹街9-13號",
+  "location": {
+    "latitude": 22.3265754,
+    "longitude": 114.16462729999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8374966139654569901&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "楓樹寵物醫院 Maple Veterinary Hospital",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJ71fGKVQBBDQRrf8I4FTbOXQ/photos/Aa-ngMa-5PeyDOW-a19pn6MQO0xziBG5CqAcZUZgJREtSDXeBIgQX2guEEu3UORmfJt3haU-T3GOtoJTQovEFuZ1l6ELI7S1h-wfZvP0t-ZIszPvmMwnfluPwIKYTThR0M_suC_Epp2hhlABffUwuyPwAVDvfZpKyEFelqLztWYwxnl_UjN6nYLAoe71WBt_imml6sAgo_6WUSgO4toENHi3ChQ_u4kCuC3pTS3m8lBiXChZQXarMGNFk4NwnRkjPjH7nB3txibF549c8JhrF0-UiunZypLBbRgCgiymGxfUuFx6sMYZmBNIpa6uHjsyj76lprRIfgXd8iYCnVxr2vYZ3UyD_DA-CnCWLR8_Xrr80Kecjg-gGRd9H6AXidtIjvakZXBbRlZyOkWKcy_FE_rPlIJP0_phYeg",
+      "widthPx": 3476,
+      "heightPx": 2317,
+      "authorAttributions": [
+        {
+          "displayName": "醫思 楓樹寵物醫院 Maple Veterinary Hospital",
+          "uri": "https://maps.google.com/maps/contrib/113523524910671626683",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhXYsqGFnQJ0AOq_UJido5jgiHlRBBtXD5nb0xHlpY4NORb44=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICOydSGhgE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOydSGhgE!2e10!4m2!3m1!1s0x3404015429c657ef:0x7439db54e008ffad"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:39.757262+00:00"
+}

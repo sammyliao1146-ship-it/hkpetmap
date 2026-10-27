@@ -1,0 +1,308 @@
+{
+  "google_place_id": "ChIJH3HgVgAHBDQRa9Xoq8Qz2pY",
+  "restaurant_ids": [
+    "restaurant:3152804560"
+  ],
+  "fetched_at": "2026-10-23T15:40:57.712360+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJH3HgVgAHBDQRa9Xoq8Qz2pY",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "香港九龍啟德沐翠街12號",
+    "location": {
+      "latitude": 22.331863199999997,
+      "longitude": 114.20200770000001
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=10870057570402882923&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 20,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 20,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 20:00",
+        "星期二: 11:00 – 20:00",
+        "星期三: 11:00 – 20:00",
+        "星期四: 11:00 – 20:00",
+        "星期五: 11:00 – 20:00",
+        "星期六: 11:00 – 20:00",
+        "星期日: 11:00 – 20:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 26,
+    "displayName": {
+      "text": "Book & Pillow",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "primaryType": "coffee_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJH3HgVgAHBDQRa9Xoq8Qz2pY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wdk16Sk5aMWt4TFc5clQwRk1ObFozWVhSaFpGRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "各方面都唔錯\n週末去見到有貓貓又有狗狗氣氛好好\n另一邊係古道具區域環境好靚，同女朋友去影下相輕鬆下聽住音樂傾計幾Chill，餐飲都幾好食，叫咗法式吐司和意粉和蛋糕\n吐司好軟綿，意粉香口辣辣地，蛋糕都鬆軟唔甜\n女朋友生日好滿意安排✨✨\n店員仲幫我哋影相\n體驗唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "各方面都唔錯\n週末去見到有貓貓又有狗狗氣氛好好\n另一邊係古道具區域環境好靚，同女朋友去影下相輕鬆下聽住音樂傾計幾Chill，餐飲都幾好食，叫咗法式吐司和意粉和蛋糕\n吐司好軟綿，意粉香口辣辣地，蛋糕都鬆軟唔甜\n女朋友生日好滿意安排✨✨\n店員仲幫我哋影相\n體驗唔錯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chu Manson",
+          "uri": "https://www.google.com/maps/contrib/111211979494669154934/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIiG62oj0MZL-1icb2L0QUVI4TXfAP-cGn11IiDa6Js92XJ-w=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-08-25T16:05:55.216794175Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wdk16Sk5aMWt4TFc5clQwRk1ObFozWVhSaFpGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wdk16Sk5aMWt4TFc5clQwRk1ObFozWVhSaFpGRRAB!2m1!1s0x3404070056e0711f:0x96da33c4abe8d56b"
+      },
+      {
+        "name": "places/ChIJH3HgVgAHBDQRa9Xoq8Qz2pY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZNVdHZDFjbTVpYTBJMmJFUlVOa1ozTTNoWE1uYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 3,
+        "text": {
+          "text": "環境頗chill 但食物質素有進步空間！\n\n1.發酵酒粕日本雞肉意粉\n雞肉好柴 意粉味道夠濃郁但份量較少\n\n2.法式多士，熟火腿，沙律菜\n好失望啊😞法式多士裡面一點也不濕潤 乾的，熟火腿不知道為何是酸的？\n\n另外叫了杯咖啡和抹茶拿鐵，味道不過不失～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境頗chill 但食物質素有進步空間！\n\n1.發酵酒粕日本雞肉意粉\n雞肉好柴 意粉味道夠濃郁但份量較少\n\n2.法式多士，熟火腿，沙律菜\n好失望啊😞法式多士裡面一點也不濕潤 乾的，熟火腿不知道為何是酸的？\n\n另外叫了杯咖啡和抹茶拿鐵，味道不過不失～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hailey yeung",
+          "uri": "https://www.google.com/maps/contrib/110340522592214523314/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI9gazxoqWY-68jUAVSwJrWsPmlIx0cjtLvvHVCJRwLCJJjvDQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-11T04:26:10.677367187Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZNVdHZDFjbTVpYTBJMmJFUlVOa1ozTTNoWE1uYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZNVdHZDFjbTVpYTBJMmJFUlVOa1ozTTNoWE1uYxAB!2m1!1s0x3404070056e0711f:0x96da33c4abe8d56b"
+      },
+      {
+        "name": "places/ChIJH3HgVgAHBDQRa9Xoq8Qz2pY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSS2FVWnRjR1JmUVdwU1YzUmhXazh4U21Wc1duYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 4,
+        "text": {
+          "text": "☕️ 日本古道具與輕食的細膩對話：雙子匯的質感角落\n\n我終於約了一位好友，來到這間一直心心念念的小店一探究竟。這裡的菜單不算繁多，專注於輕食，給人一種簡約而精緻的感覺。若在雙子匯逛累了，週末午後帶著朋友來此，點杯茶，嚐些小點，正好享受一段悠閒時光。雖然品項有限，當天我們點的兩款餐點卻讓人驚喜連連🤩，品質極佳。\n\n🍞 法式多士，熟火腿，沙律菜：最令人難忘的是那層細膩的奶油，不甜不膩，單吃也充滿風味，恰如其分地提升了整體口感。\n\n🍝 發酵酒粕日本雞肉意粉：醬汁份量恰到好處，完美包裹每一條麵身。雞肉帶有淡淡的酒粕香氣，細膩中透著一絲別緻。\n\n🥛 焙茶黑芝麻豆乳：為了搭配餐點，我點了一杯熱飲，淡雅的黑芝麻香氣與豆乳的柔和完美融合，溫暖而舒心。\n\n店內擺滿了各式質感十足的碟杯，細細觀賞間，也能發現不少令人心動的獨特小物，彷彿每一件都在講述著自己的故事，值得細細品味。這是一處適合放慢腳步，與朋友細細品味美味與時光的角落。\n\nThe menu is small and focuses on light meals. It’s a great spot to rest and have a drink if you’re tired from shopping at Gemini Plaza on the weekend. Even though the choices are limited, the two dishes we tried were delicious.\n\nThe French toast with ham and salad stood out. The cream on top wasn’t too sweet and tasted great on its own.\n\nThe fermented-sake-lees chicken pasta was also a highlight. The sauce was just enough to coat the pasta, and the chicken had a light sake flavor.\n\nI also ordered a warm roasted tea with black sesame soy milk. The black sesame flavor mixed well with the soy milk and was very comforting.\n\nThe shop is filled with nice plates, cups, and other tableware. It’s worth looking around to see if anything catches your eye. Overall, it’s a nice place to relax, enjoy good food, and spend time with friends.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "☕️ 日本古道具與輕食的細膩對話：雙子匯的質感角落\n\n我終於約了一位好友，來到這間一直心心念念的小店一探究竟。這裡的菜單不算繁多，專注於輕食，給人一種簡約而精緻的感覺。若在雙子匯逛累了，週末午後帶著朋友來此，點杯茶，嚐些小點，正好享受一段悠閒時光。雖然品項有限，當天我們點的兩款餐點卻讓人驚喜連連🤩，品質極佳。\n\n🍞 法式多士，熟火腿，沙律菜：最令人難忘的是那層細膩的奶油，不甜不膩，單吃也充滿風味，恰如其分地提升了整體口感。\n\n🍝 發酵酒粕日本雞肉意粉：醬汁份量恰到好處，完美包裹每一條麵身。雞肉帶有淡淡的酒粕香氣，細膩中透著一絲別緻。\n\n🥛 焙茶黑芝麻豆乳：為了搭配餐點，我點了一杯熱飲，淡雅的黑芝麻香氣與豆乳的柔和完美融合，溫暖而舒心。\n\n店內擺滿了各式質感十足的碟杯，細細觀賞間，也能發現不少令人心動的獨特小物，彷彿每一件都在講述著自己的故事，值得細細品味。這是一處適合放慢腳步，與朋友細細品味美味與時光的角落。\n\nThe menu is small and focuses on light meals. It’s a great spot to rest and have a drink if you’re tired from shopping at Gemini Plaza on the weekend. Even though the choices are limited, the two dishes we tried were delicious.\n\nThe French toast with ham and salad stood out. The cream on top wasn’t too sweet and tasted great on its own.\n\nThe fermented-sake-lees chicken pasta was also a highlight. The sauce was just enough to coat the pasta, and the chicken had a light sake flavor.\n\nI also ordered a warm roasted tea with black sesame soy milk. The black sesame flavor mixed well with the soy milk and was very comforting.\n\nThe shop is filled with nice plates, cups, and other tableware. It’s worth looking around to see if anything catches your eye. Overall, it’s a nice place to relax, enjoy good food, and spend time with friends.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Just a girl",
+          "uri": "https://www.google.com/maps/contrib/111200199318916836101/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMcm6rHHX069rdeBk5VuvgFmyiTnS000e1ZfaMavplujh6ly4c=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-07T17:39:12.527252553Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSS2FVWnRjR1JmUVdwU1YzUmhXazh4U21Wc1duYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSS2FVWnRjR1JmUVdwU1YzUmhXazh4U21Wc1duYxAB!2m1!1s0x3404070056e0711f:0x96da33c4abe8d56b"
+      },
+      {
+        "name": "places/ChIJH3HgVgAHBDQRa9Xoq8Qz2pY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SMlkwRjZPRmd4VGxsTldtWjJRemd0VkUxdGJFRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "位於啟德雙子匯SNDO古具Cafe，集結過百年既古道具、古傢具及不同作家作品，結買手店及Cafe於一店!!連Cafe都選用古道具食器及傢私，可親身感受古道具之美!!\n\n- Pillow Set (S)\n人氣必試全日早餐!!選用牛油味濃法式奶油麵包製作法式西多士，7cm厚多士吸滿日本蛋漿，鬆軟濕潤香氣十足!!表面輕輕炙燒有脆脆焦糖口感，加上空氣感乳酪忌廉及蜂蜜，香甜中微發奶香!!仲有配菜煙薰香氣熟火腿及菠菜沙律，鹹甜都有完美平衡!!\n\n- 宇治抹茶牛奶 (Uji Matcha Latte)\n選用「山政小山園」抹茶粉及明治牛奶沖製!!抹茶回甘中散發鮮香!!器具都有心思，用昭和年代懷石料理小缽成茶杯，充滿厚度質感!!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於啟德雙子匯SNDO古具Cafe，集結過百年既古道具、古傢具及不同作家作品，結買手店及Cafe於一店!!連Cafe都選用古道具食器及傢私，可親身感受古道具之美!!\n\n- Pillow Set (S)\n人氣必試全日早餐!!選用牛油味濃法式奶油麵包製作法式西多士，7cm厚多士吸滿日本蛋漿，鬆軟濕潤香氣十足!!表面輕輕炙燒有脆脆焦糖口感，加上空氣感乳酪忌廉及蜂蜜，香甜中微發奶香!!仲有配菜煙薰香氣熟火腿及菠菜沙律，鹹甜都有完美平衡!!\n\n- 宇治抹茶牛奶 (Uji Matcha Latte)\n選用「山政小山園」抹茶粉及明治牛奶沖製!!抹茶回甘中散發鮮香!!器具都有心思，用昭和年代懷石料理小缽成茶杯，充滿厚度質感!!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "LO S.M.",
+          "uri": "https://www.google.com/maps/contrib/102631892219406316532/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9CztkDn2ynEBMRFHFjFfzG1xUW0GY8p7yF_b33mp-vGYUwQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-03-08T16:30:00.256340201Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SMlkwRjZPRmd4VGxsTldtWjJRemd0VkUxdGJFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SMlkwRjZPRmd4VGxsTldtWjJRemd0VkUxdGJFRRAB!2m1!1s0x3404070056e0711f:0x96da33c4abe8d56b"
+      },
+      {
+        "name": "places/ChIJH3HgVgAHBDQRa9Xoq8Qz2pY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SNmJVaEVjRlEzTlRkVFpEWk9hVmxDY0dOSk1XYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 1,
+        "text": {
+          "text": "環境幾靚，不過嘢食真係幾失望，matcha latte 可以無味，雖然唔求你用隻好啲嘅抹茶粉，不過希望你下次重手啲落多一羹 （as重手as你mark up嘅價錢）",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境幾靚，不過嘢食真係幾失望，matcha latte 可以無味，雖然唔求你用隻好啲嘅抹茶粉，不過希望你下次重手啲落多一羹 （as重手as你mark up嘅價錢）",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mei Lam Chung",
+          "uri": "https://www.google.com/maps/contrib/110444511186022768961/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIW_jWzxK42wSa-SXzGOa2WKWTpD2VFSpcysCbHUVSwNY-R4Q=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-08-23T08:57:54.634261784Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SNmJVaEVjRlEzTlRkVFpEWk9hVmxDY0dOSk1XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SNmJVaEVjRlEzTlRkVFpEWk9hVmxDY0dOSk1XYxAB!2m1!1s0x3404070056e0711f:0x96da33c4abe8d56b"
+      }
+    ],
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404070056e0711f:0x96da33c4abe8d56b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10870057570402882923&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404070056e0711f:0x96da33c4abe8d56b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404070056e0711f:0x96da33c4abe8d56b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404070056e0711f:0x96da33c4abe8d56b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJH3HgVgAHBDQRa9Xoq8Qz2pY/photos/Aa-ngMYDKdBrqztGGwRtQz-7HF8YXaYkw2nuGQxiN4j6iROKXflcuTkz2E_KRybZF4cR4nwOgpeWyF27GUPw-EFN7YJuk3aUwDWLWuXYsM4cphnFR9Sm0ohyjGozsswFmm6BvBVWGVXWakkTxCxjqiDvXKTHUdwZV0eBHb3ZL8KiF_O46UFoNPowqcWdq4YQG08RqnM7UKiOGndvD-zOvTuhgRaP3ty6-Bos23_68MqXcju0cnA3D3VIXO-Rn1mYP_oEWkT9DuFw7Xm81uDGLGvpJ7JHlLXA_uiesGFEzIAzdUhNyddnYlaVIa3GOWpC-dYyaOlAkGzZQ7vxS-p55BKM2LoRunwuOkkHyA-Ddq0-py-qByFr2WtPu5q7-_6DZr6JnWhDNnFKfEg39W7Gu5zLIua1sB80QAHazyvk668u0H9t",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "authorAttributions": [
+        {
+          "displayName": "Yat Ching Lau",
+          "uri": "https://maps.google.com/maps/contrib/113078375393903174343",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUU_hzmMG5NomCblg6QAj0mUH7w0Heau-FXvXy1CIWUT3HT7o2a=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAJYDJR7GcNng_qFJ_uTmDZ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAJYDJR7GcNng_qFJ_uTmDZ!2e10!4m2!3m1!1s0x3404070056e0711f:0x96da33c4abe8d56b"
+    },
+    "local_path": "photos/ChIJH3HgVgAHBDQRa9Xoq8Qz2pY.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdw74XN8Vg_A-tSc2ASe7IGW1alSASkYPSMMXsRnt8Eg3Xb6qNlBNouLbk-clfwwpd7TggLCiOLK5hhTnGl3e0fjB-iERhzd6i9OmMAgZAOdNkiE7VjkGQjn4uVcaCbIycsm77XokXGBV8=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 172241
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "coffee_shop",
+    "label": "咖啡廳",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

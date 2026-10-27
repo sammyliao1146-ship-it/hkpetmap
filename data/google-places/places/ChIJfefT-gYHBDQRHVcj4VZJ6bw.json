@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJfefT-gYHBDQRHVcj4VZJ6bw",
+  "restaurant_ids": [
+    "restaurant:3197000244"
+  ],
+  "fetched_at": "2026-10-23T15:39:05.504750+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJfefT-gYHBDQRHVcj4VZJ6bw",
+    "types": [
+      "brunch_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2607 0707",
+    "internationalPhoneNumber": "+852 2607 0707",
+    "formattedAddress": "香港新界大圍翠田街新田村",
+    "location": {
+      "latitude": 22.370445999999998,
+      "longitude": 114.18329999999999
+    },
+    "rating": 3.3,
+    "googleMapsUri": "https://maps.google.com/?cid=13612491986197239581&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 18:00",
+        "星期二: 07:00 – 18:00",
+        "星期三: 07:00 – 18:00",
+        "星期四: 07:00 – 18:00",
+        "星期五: 07:00 – 18:00",
+        "星期六: 07:00 – 18:00",
+        "星期日: 07:00 – 18:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "userRatingCount": 106,
+    "displayName": {
+      "text": "銀泉茶餐廳",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "早午餐餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "brunch_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJfefT-gYHBDQRHVcj4VZJ6bw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wdlprbDRSMUZTTlc1VGRIVjZiVlJvU1ZsNFlsRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "氣氛輕鬆的好店，喜歡，很放鬆",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "氣氛輕鬆的好店，喜歡，很放鬆",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "P2918",
+          "uri": "https://www.google.com/maps/contrib/102774659372832939835/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURgBIklgX_kIOuYNYIZT-EuBTeFp3y8z9nlh6NIylsasFkXHs=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-09T01:36:28.874003047Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wdlprbDRSMUZTTlc1VGRIVjZiVlJvU1ZsNFlsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wdlprbDRSMUZTTlc1VGRIVjZiVlJvU1ZsNFlsRRAB!2m1!1s0x34040706fad3e77d:0xbce94956e123571d"
+      },
+      {
+        "name": "places/ChIJfefT-gYHBDQRHVcj4VZJ6bw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZNnRpQjRBRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 4,
+        "text": {
+          "text": "一般茶記水準。\n香港嘅街坊茶餐廳就快比大集團好似大檸樂，黑心趕盡殺絕，有機會就食多d啦。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一般茶記水準。\n香港嘅街坊茶餐廳就快比大集團好似大檸樂，黑心趕盡殺絕，有機會就食多d啦。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "深月嵐",
+          "uri": "https://www.google.com/maps/contrib/113222554859938595613/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKoxsEBEOp0ehD7i6z8auXaLaTSfjcVfy6o2_ULyGuD-uEfoU=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2019-04-11T01:35:07.169034Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNZNnRpQjRBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNZNnRpQjRBRRAB!2m1!1s0x34040706fad3e77d:0xbce94956e123571d"
+      },
+      {
+        "name": "places/ChIJfefT-gYHBDQRHVcj4VZJ6bw/reviews/ChdDSUhNMG9nS0VJQ0FnSURnb3B2ejhRRRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 4,
+        "text": {
+          "text": "銀泉茶餐廳係入顯徑 隔田村 同埋金獅花園必經 單車友最愛是因為門口可以泊單車",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "銀泉茶餐廳係入顯徑 隔田村 同埋金獅花園必經 單車友最愛是因為門口可以泊單車",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "bonnie chan",
+          "uri": "https://www.google.com/maps/contrib/117633668261466896380/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHw3WQP3AcqIPrHU2og5s2v9Mnj__yKuwuCN1j2f_QxKsYvK2M=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2018-10-10T07:29:13.229517Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURnb3B2ejhRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURnb3B2ejhRRRAB!2m1!1s0x34040706fad3e77d:0xbce94956e123571d"
+      },
+      {
+        "name": "places/ChIJfefT-gYHBDQRHVcj4VZJ6bw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLb1lQUjlBRRAB",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 1,
+        "text": {
+          "text": "好懷疑他們處理食物的衛生程度，介乎惡劣。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好懷疑他們處理食物的衛生程度，介乎惡劣。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chi Lau",
+          "uri": "https://www.google.com/maps/contrib/107560429123934104126/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-70eENxSqB-HDnejI1rfdrxT6ScQRBO6hpv6qFJEVlULnQIAo=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2021-04-08T08:24:08.024366Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNLb1lQUjlBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNLb1lQUjlBRRAB!2m1!1s0x34040706fad3e77d:0xbce94956e123571d"
+      },
+      {
+        "name": "places/ChIJfefT-gYHBDQRHVcj4VZJ6bw/reviews/ChdDSUhNMG9nS0VJQ0FnSURJMEw3U2xnRRAB",
+        "relativePublishTimeDescription": "7 年前",
+        "rating": 1,
+        "text": {
+          "text": "超級難食。面有硬心。熱奶茶又凍。價錢又唔平。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "超級難食。面有硬心。熱奶茶又凍。價錢又唔平。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "chi wing paul mok",
+          "uri": "https://www.google.com/maps/contrib/111110208640838012645/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnbwxrScCtnfb8q8fIUoUdU_8HSpGIIfBJ44Vi8PZxV0UAzUUj=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2018-12-17T14:03:35.318047609Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURJMEw3U2xnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURJMEw3U2xnRRAB!2m1!1s0x34040706fad3e77d:0xbce94956e123571d"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleRestroom": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040706fad3e77d:0xbce94956e123571d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13612491986197239581&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040706fad3e77d:0xbce94956e123571d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040706fad3e77d:0xbce94956e123571d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040706fad3e77d:0xbce94956e123571d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "1"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJfefT-gYHBDQRHVcj4VZJ6bw/photos/Aa-ngMagLXRgs2irywtMKahl-WIEvZ57EhARGm8WDCTGZn6GvHEB3XaLhrvjuMhxgT3w3eClCHC8pAcXOEuhyC_C5_ufs-cfryG6zeB9XzPSWtKqGlH3Afk4r5s8gkqiXbvrlksl8ueekMMOPVVrIAIR6ksj64uHZlGBWwlBmzsDX3qbZmzFU-PL5JQx_NKZZTkTqbme8HIA6WVT2kIZCTXRA5VZ4LsxtV3AMwJ7hqf3hpVO69_qJZkX9Ro__O0DYvkEt0iayypLi4CoI-wJFdbnBSr08Jfh4bmpc4GqiZtmB4ikCAjiZzIR8t0Iuu1FZEddkIbLgepf7dsm0xGga6PoT4wu5ZUVtIYSI8EhC82Qs6a3B8KXRcl7Lp76rjdf85qrOtPGVxA8WriScVItkioaz-_rlydo2aU",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "D W",
+          "uri": "https://maps.google.com/maps/contrib/110466343385201364647",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXto8DOKe3kll-i1r9vGFDdYgXWPbAvmQ2vlcjGJ6cplMvSXWOFbQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEkN6T9QE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEkN6T9QE!2e10!4m2!3m1!1s0x34040706fad3e77d:0xbce94956e123571d"
+    },
+    "local_path": "photos/ChIJfefT-gYHBDQRHVcj4VZJ6bw.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8qQ5JWzYnPgmwyxIMZowqmsr2spzkCcSYyQnSNUwB2EUEVq4YqX1kgOHSw73AylgRRsDUBFSAJceAL4uAFtAt_aX0hDHoKKqjwxMnoNRuVBoQpBrAQNReZoUuIOF5LqYUhBx1iw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 148678
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "brunch_restaurant",
+    "label": "早午餐餐廳",
+    "types": [
+      "brunch_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

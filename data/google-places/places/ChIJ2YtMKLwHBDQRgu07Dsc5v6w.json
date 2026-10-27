@@ -1,0 +1,301 @@
+{
+  "google_place_id": "ChIJ2YtMKLwHBDQRgu07Dsc5v6w",
+  "restaurant_ids": [
+    "restaurant:3153099666"
+  ],
+  "fetched_at": "2026-10-23T15:37:53.249931+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ2YtMKLwHBDQRgu07Dsc5v6w",
+    "types": [
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9015 8332",
+    "internationalPhoneNumber": "+852 9015 8332",
+    "formattedAddress": "香港九龍慈雲山毓華里28 號地下5號舖",
+    "location": {
+      "latitude": 22.3468801,
+      "longitude": 114.20280380000001
+    },
+    "rating": 5,
+    "googleMapsUri": "https://maps.google.com/?cid=12447731422175423874&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 1,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 15:00 – 01:00",
+        "星期二: 15:00 – 01:00",
+        "星期三: 15:00 – 01:00",
+        "星期四: 15:00 – 01:00",
+        "星期五: 15:00 – 01:00",
+        "星期六: 15:00 – 01:00",
+        "星期日: 16:00 – 01:00"
+      ],
+      "nextCloseTime": "2026-10-23T17:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 6,
+    "displayName": {
+      "text": "將軍•大糖",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "甜點專賣店",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "primaryType": "dessert_shop",
+    "reviews": [
+      {
+        "name": "places/ChIJ2YtMKLwHBDQRgu07Dsc5v6w/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCZ3RLZFlREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "（大埔運頭街）首先查看一下價錢才走入去，還算平。\n好試下先。\n叫左一個原袓椰皇燉牛奶蛋白，$48\n不錯，蛋白滿有椰香味，可算價平物美",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "（大埔運頭街）首先查看一下價錢才走入去，還算平。\n好試下先。\n叫左一個原袓椰皇燉牛奶蛋白，$48\n不錯，蛋白滿有椰香味，可算價平物美",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "roseyy law",
+          "uri": "https://www.google.com/maps/contrib/112064778172141218734/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKVm2N6wgm9jlW__KIVxuf_HbcWK96eEE7dKq_8i8Xuml-cOw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2022-12-20T12:00:21.051208Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCZ3RLZFlREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCZ3RLZFlREAE!2m1!1s0x340407bc284c8bd9:0xacbf39c70e3bed82"
+      },
+      {
+        "name": "places/ChIJ2YtMKLwHBDQRgu07Dsc5v6w/reviews/ChZDSUhNMG9nS0VJQ0FnSURubzhQSGF3EAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "呢間嘢我食過幾次雖然冇乜影相但係佢哋服務非常之好,我超鍾意佢地既「椰皇」\n\n椰皇大個同一時間亦都唔會話好甜,味道調教得啱啱好\n\n我係一個平時好少出去食甜品既人,但依間係我首選既",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢間嘢我食過幾次雖然冇乜影相但係佢哋服務非常之好,我超鍾意佢地既「椰皇」\n\n椰皇大個同一時間亦都唔會話好甜,味道調教得啱啱好\n\n我係一個平時好少出去食甜品既人,但依間係我首選既",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "洗清陰影",
+          "uri": "https://www.google.com/maps/contrib/107448950581791927374/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHen0PSkmYSDiVPGGKH39_tiGT6pB1vn4fQ83fD8UZ9HWo6N3J=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-10-09T12:13:56.667625Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURubzhQSGF3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURubzhQSGF3EAE!2m1!1s0x340407bc284c8bd9:0xacbf39c70e3bed82"
+      },
+      {
+        "name": "places/ChIJ2YtMKLwHBDQRgu07Dsc5v6w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0b1MwVkJMVEJvVUd0RU9IaEhPVU5mZDJwbFQzYxAB",
+        "relativePublishTimeDescription": "12 個月前",
+        "rating": 5,
+        "text": {
+          "text": "很好吃😋",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "很好吃😋",
+          "languageCode": "zh"
+        },
+        "authorAttribution": {
+          "displayName": "Janice Yen",
+          "uri": "https://www.google.com/maps/contrib/111293481357653884305/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxBB0KMIVkfTw4-m6WabDjHhBVG_ZhCE8BzEb5j7-HAIfzqMf_=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-10-24T01:25:22.995856848Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0b1MwVkJMVEJvVUd0RU9IaEhPVU5mZDJwbFQzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0b1MwVkJMVEJvVUd0RU9IaEhPVU5mZDJwbFQzYxAB!2m1!1s0x340407bc284c8bd9:0xacbf39c70e3bed82"
+      },
+      {
+        "name": "places/ChIJ2YtMKLwHBDQRgu07Dsc5v6w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tabVJXVmtORlIwV1VVNExWVXRVRUptTkY5MWVXYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "芒果小丸子+雪糕  大份抵食",
+          "languageCode": "zh"
+        },
+        "originalText": {
+          "text": "芒果小丸子+雪糕  大份抵食",
+          "languageCode": "zh"
+        },
+        "authorAttribution": {
+          "displayName": "terry Yip",
+          "uri": "https://www.google.com/maps/contrib/111832508025272063978/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrCpwl32LpmaPdh4IRZzLMvgRiH_tRuNUn2LiTTghiFvZM56-r0Q=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-09-21T09:37:06.995894242Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tabVJXVmtORlIwV1VVNExWVXRVRUptTkY5MWVXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tabVJXVmtORlIwV1VVNExWVXRVRUptTkY5MWVXYxAB!2m1!1s0x340407bc284c8bd9:0xacbf39c70e3bed82"
+      },
+      {
+        "name": "places/ChIJ2YtMKLwHBDQRgu07Dsc5v6w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKaWVrRTBaelk0TXpnNWNIVlFkelpLUmxwaVQwRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Cat",
+          "uri": "https://www.google.com/maps/contrib/106121874190080568676/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqYVXY64mT2dy7HdkBmmYzXKQsx2KzBp2KRcr-oo_rPydLpw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-08-16T04:12:45.083429143Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKaWVrRTBaelk0TXpnNWNIVlFkelpLUmxwaVQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKaWVrRTBaelk0TXpnNWNIVlFkelpLUmxwaVQwRRAB!2m1!1s0x340407bc284c8bd9:0xacbf39c70e3bed82"
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340407bc284c8bd9:0xacbf39c70e3bed82!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=12447731422175423874&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407bc284c8bd9:0xacbf39c70e3bed82!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340407bc284c8bd9:0xacbf39c70e3bed82!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407bc284c8bd9:0xacbf39c70e3bed82!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ2YtMKLwHBDQRgu07Dsc5v6w/photos/Aa-ngMZ1CvsHqoWtWsiw1Sc7W0DoldN3B8jRZohRqVuRMbVHsZMhnv2syB704Admra0BFS0jXdl8uJXoX6Tlhgojz7XshbO7bbx0dqFffrv6CX4AdPlxOsoOGsR2n0xnS6-egJE0dLCMAzB0KtmnpLOMAObeFP-cK6U_in3z1fsY9bmrZ8ul9M_AQpNNS55-JO8FrfrD6U-nY3T8SMMx-j8mDHdwtrOcPfPbny34JVbY5V6NIQ49rFc81KlIUcRRvntEpigqJJcyXYMbX0pV7SrjYVXZZnmKjFwsoWNuL3EKzAFCABI_UBcXrP8l6Nfd5D9GYfCeC-4kmWDrDAXiN8YuNNZvrkCvDhYev_Nsv17nDEXi5OOwtrRkNRNZ-neg6ELufhu-h5qj2ZcRMJQKu743s486Lx4HwJNGF1Y0SartNzVXDw",
+      "widthPx": 3024,
+      "heightPx": 3342,
+      "authorAttributions": [
+        {
+          "displayName": "Cat",
+          "uri": "https://maps.google.com/maps/contrib/106121874190080568676",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqYVXY64mT2dy7HdkBmmYzXKQsx2KzBp2KRcr-oo_rPydLpw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA42yI_9Z52ef-N6EXROT7U&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA42yI_9Z52ef-N6EXROT7U!2e10!4m2!3m1!1s0x340407bc284c8bd9:0xacbf39c70e3bed82"
+    },
+    "local_path": "photos/ChIJ2YtMKLwHBDQRgu07Dsc5v6w.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRP5DZKNpeNOlXBfiqfClWEX19h0zhUinZt06Hm3uWUBogJXs59dov4mLgx3vpPB-cKehxoS3ceAyX6JK5YEJhB4Xmw8l8q0drJYwjogjjfsBE1ip_oRI1z7UOh9PZHAu0L1Wtr8Xe6IoW=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 203525
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "dessert_shop",
+    "label": "甜點專賣店",
+    "types": [
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

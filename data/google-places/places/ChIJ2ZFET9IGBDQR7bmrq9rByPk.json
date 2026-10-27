@@ -1,0 +1,330 @@
+{
+  "google_place_id": "ChIJ2ZFET9IGBDQR7bmrq9rByPk",
+  "restaurant_ids": [
+    "restaurant:2252810376"
+  ],
+  "fetched_at": "2026-10-23T15:44:01.283579+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ2ZFET9IGBDQR7bmrq9rByPk",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3168 1503",
+    "internationalPhoneNumber": "+852 3168 1503",
+    "formattedAddress": "香港九龍啟德沐安街18號啟朗苑101號舖",
+    "location": {
+      "latitude": 22.330544399999997,
+      "longitude": 114.2007783
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=17998849055713376749&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/brand/cafe-de-itamomo",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 22:00",
+        "星期二: 07:00 – 22:00",
+        "星期三: 07:00 – 22:00",
+        "星期四: 07:00 – 22:00",
+        "星期五: 07:00 – 22:00",
+        "星期六: 07:00 – 22:00",
+        "星期日: 07:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 205,
+    "displayName": {
+      "text": "意樂餐廳 (啟德)",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ2ZFET9IGBDQR7bmrq9rByPk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5blNIZE5VRUkzZGxFd1ExSXRZMEpHYUhGdlRXYxAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 3,
+        "text": {
+          "text": "一分錢一分貨，不要要求太高，可以安靜享受一個不錯的下午茶",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一分錢一分貨，不要要求太高，可以安靜享受一個不錯的下午茶",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "安娜",
+          "uri": "https://www.google.com/maps/contrib/112324890785322245423/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHUmFCawOjH8spfDTop8ESgMapIidhi8vOfjC2elPruFO91TJ5vg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-01-15T04:13:10.288932758Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5blNIZE5VRUkzZGxFd1ExSXRZMEpHYUhGdlRXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5blNIZE5VRUkzZGxFd1ExSXRZMEpHYUhGdlRXYxAB!2m1!1s0x340406d24f4491d9:0xf9c8c1daababb9ed"
+      },
+      {
+        "name": "places/ChIJ2ZFET9IGBDQR7bmrq9rByPk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkMnB2enVRRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "情人節來意樂晚餐，沒特別慶祝情人節氣紛，只有一個情人節套餐，而且內容並不吸引，轉到另一個醬燒豬肋骨，看圖片不錯，點了並配上芒果汁。來的時候，實際與圖片不相付，比圖片少了一半，失望，味道是不錯偏甜，配薯條也好食，但份量少了一半有被騙感。\n再叫半溶芝士配一囗炸雞，圖片是一碗裝的半溶芝士，但來的是同圖一款碗但半溶芝士就像亞常超市買的12片裝芝士，溶了約一片半芝士薄薄的鋪在碗內而已，一口炸雞也自然與圖片分量不相付，但炸雞夠熱很好食，夠脆，肉質入味軟糯，不錯。\n最後點的帆立貝海鮮龍蝦汁意大利飯，這個跟圖片相差很遠，只有一只蝦肉和一粒帆立貝在飯上，什麼海鮮找不到，只有蜆數粒，帆立貝群邊數條，沒龍蝦汁味，飯還偏硬不入味，不好吃。\n本來還想再點其他，但感覺價錢收足，而貨不對辦，所以埋單到別處再吃！\n#地址：啟德沐安街18號啟朗苑101號舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "情人節來意樂晚餐，沒特別慶祝情人節氣紛，只有一個情人節套餐，而且內容並不吸引，轉到另一個醬燒豬肋骨，看圖片不錯，點了並配上芒果汁。來的時候，實際與圖片不相付，比圖片少了一半，失望，味道是不錯偏甜，配薯條也好食，但份量少了一半有被騙感。\n再叫半溶芝士配一囗炸雞，圖片是一碗裝的半溶芝士，但來的是同圖一款碗但半溶芝士就像亞常超市買的12片裝芝士，溶了約一片半芝士薄薄的鋪在碗內而已，一口炸雞也自然與圖片分量不相付，但炸雞夠熱很好食，夠脆，肉質入味軟糯，不錯。\n最後點的帆立貝海鮮龍蝦汁意大利飯，這個跟圖片相差很遠，只有一只蝦肉和一粒帆立貝在飯上，什麼海鮮找不到，只有蜆數粒，帆立貝群邊數條，沒龍蝦汁味，飯還偏硬不入味，不好吃。\n本來還想再點其他，但感覺價錢收足，而貨不對辦，所以埋單到別處再吃！\n#地址：啟德沐安街18號啟朗苑101號舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "霹靂型火星Mars",
+          "uri": "https://www.google.com/maps/contrib/112831060206928653324/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWl8-5mmGf8ZkqLuvng0S6O8bJ8hrEtpSCb30qOPf1d1TfQCng=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-02-14T17:37:20.181338Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkMnB2enVRRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkMnB2enVRRRAB!2m1!1s0x340406d24f4491d9:0xf9c8c1daababb9ed"
+      },
+      {
+        "name": "places/ChIJ2ZFET9IGBDQR7bmrq9rByPk/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6bS16QjVBRRAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 4,
+        "text": {
+          "text": "相對比較平民化的意式餐廳，但亦因應巿場已趨向港式化了。餐點選擇尙算多，飲品選擇亦不少，是平民化的西餐一個好的選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "相對比較平民化的意式餐廳，但亦因應巿場已趨向港式化了。餐點選擇尙算多，飲品選擇亦不少，是平民化的西餐一個好的選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Galen Fong",
+          "uri": "https://www.google.com/maps/contrib/110484057053863090069/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFLKkBc5mUeXq7ypFZzWTaIPKIaZWVNPyPxvzX7s6__eemD1frVQ=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-02-06T06:34:28.869592596Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6bS16QjVBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6bS16QjVBRRAB!2m1!1s0x340406d24f4491d9:0xf9c8c1daababb9ed"
+      },
+      {
+        "name": "places/ChIJ2ZFET9IGBDQR7bmrq9rByPk/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3ODhTdUtnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 2,
+        "text": {
+          "text": "我點的雞扒變了三個小鷄球塊，有點傷心，不過平日又不是每次都這樣。還有一次時候用餐到結束點的可樂都還沒來，吹了2-3次一樣沒來，最後直接不喝就走了。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我點的雞扒變了三個小鷄球塊，有點傷心，不過平日又不是每次都這樣。還有一次時候用餐到結束點的可樂都還沒來，吹了2-3次一樣沒來，最後直接不喝就走了。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Beebx Beebx",
+          "uri": "https://www.google.com/maps/contrib/108739700668561804329/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOLDp9oxC226uw1b46Vxa6zamXTOE6w7iX7pyw4ZTcCAudiw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-03-28T05:32:50.005234Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3ODhTdUtnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3ODhTdUtnEAE!2m1!1s0x340406d24f4491d9:0xf9c8c1daababb9ed"
+      },
+      {
+        "name": "places/ChIJ2ZFET9IGBDQR7bmrq9rByPk/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxdHRIOGxnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "我覺得佢哋個火鍋性價比幾高！平民之選！\n兩個人其實叫一個鍋再散叫少少嘢已經好夠食！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我覺得佢哋個火鍋性價比幾高！平民之選！\n兩個人其實叫一個鍋再散叫少少嘢已經好夠食！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "蕃薯妹",
+          "uri": "https://www.google.com/maps/contrib/104432985197912365170/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-okPWv_KMqsbEJAjz8V_th9rhcvKWoRBMRfyt28O5uL5dX5G6NQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-12-29T14:04:31.989714Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxdHRIOGxnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxdHRIOGxnRRAB!2m1!1s0x340406d24f4491d9:0xf9c8c1daababb9ed"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340406d24f4491d9:0xf9c8c1daababb9ed!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17998849055713376749&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340406d24f4491d9:0xf9c8c1daababb9ed!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340406d24f4491d9:0xf9c8c1daababb9ed!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340406d24f4491d9:0xf9c8c1daababb9ed!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ2ZFET9IGBDQR7bmrq9rByPk/photos/Aa-ngMYqlouqK24PswFYFHJED6Lrvz9wavOYtMBBzXBvyZqHJrM-x6cEZj9KoywjE6R8_scD2WHAcoiphhoJiexCSkiiHLQAd92h4XhKoWLstN263-XFc7U1pyYTv4IhtCwrSz2QFZpUNYo0m1ROkz9hpBpI-lPg2p3JdAP8fmXbgZplqF6uDzXpgPUdpAxxpyZ0K1aDwPhMpLdf3t26jRQ9cxomNVZ-Rvi_WBBbw7jh_Cg725Imp8e-oRa1tmdlfvIWTp467SJT5aHqvLvM_5pYpOhNoN0fgNNZPlcAsYdi8TauUQRhMoaRiatrgBOAyWFD8ZsuVr32hxgLtmq6jZIN0vaQT6gPrSBtRZ-6K0yX6lM0lJDNvWUGboutiTtjLvybLeYl5aO-UKPxYiu8Axja9bhE1i3tg8EE_GN8yZCt-tMdOA",
+      "widthPx": 4096,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "Galen Fong",
+          "uri": "https://maps.google.com/maps/contrib/110484057053863090069",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFLKkBc5mUeXq7ypFZzWTaIPKIaZWVNPyPxvzX7s6__eemD1frVQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBmVc8hgIfTAWC7oBH6izKk&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBmVc8hgIfTAWC7oBH6izKk!2e10!4m2!3m1!1s0x340406d24f4491d9:0xf9c8c1daababb9ed"
+    },
+    "local_path": "photos/ChIJ2ZFET9IGBDQR7bmrq9rByPk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCt1i2g_rDNlIAU0-SURLI-8Ebwiow8PUhpJ7ECToMAe9u4PIMht8wE-tezsPhOPTZkGt9j8PfnSij4UqoiY-vgfnQcduw0f_hj2q8XXFu1Pb-2usU9MxqyOjPQofhyf_V4rhJ0DkmPMT1=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 158604
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

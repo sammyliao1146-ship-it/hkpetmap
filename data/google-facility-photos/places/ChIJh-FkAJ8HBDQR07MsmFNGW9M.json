@@ -1,0 +1,37 @@
+{
+  "id": "ChIJh-FkAJ8HBDQR07MsmFNGW9M",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍啟德沐安街啟德站",
+  "location": {
+    "latitude": 22.3300293,
+    "longitude": 114.2015314
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15229843889732760531&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "啟德大道公園",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJh-FkAJ8HBDQR07MsmFNGW9M/photos/Aa-ngMZby_ocOLCU5BwyloGUkoHFS9sZAv84nmz42mh8NZlP6EBRq1_V8xDjSs_tKVZgF41LzD4lHu4bl2GZtbyvTrLdUlZJTHWyfkTyAK5v3PivkaE2wZKkBA0O3T2-3Ceq7Mj9kx8HNb2UU0DfLvj_LWm_2T9rKqZ2TfJ8UFGqlES8u-Jj5_UlCh22Nto9uVTQB0ZD-c39iomIucupGE9dr-aqSNiGC1F4HQQggVKEUrUDw0288SazNSucgbFP3gpMLGmRtxk-UWOp1mlk8lqPCTqzdP9yifnqLVSMx7-KbfFjWES6jbCbRCo6tCL6tjt2lh94_CdeePl8ygedkn1X_wtJL0k87SqIEjvE4VcAMzGeKBXWDL3GuhQSZb66YPC7CrsTTRUt87wUuBnSu0QQOE74V28",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "Wai Ki Wong",
+          "uri": "https://maps.google.com/maps/contrib/102680249213328416583",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAeoFaa3PsAmE769XbayzRbQ-jB2XybtqzkTehx_Jea3Ymrw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBtYK4XA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBtYK4XA!2e10!4m2!3m1!1s0x3404079f0064e187:0xd35b4653982cb3d3"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:08.677793+00:00"
+}

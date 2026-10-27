@@ -1,0 +1,38 @@
+{
+  "id": "ChIJFRQ-EiQHBDQR7JGUWFnrlfs",
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港九龍竹園竹園道",
+  "location": {
+    "latitude": 22.344928799999998,
+    "longitude": 114.1843615
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18128654644020548076&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "獅子山公園",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJFRQ-EiQHBDQR7JGUWFnrlfs/photos/Aa-ngMb6qyFNhZMZeqIIy8dwoY63i0XZBJHMxXMw_5nm0o1R0upqsVb5YfHHMegnLvhrZBua4lLrpDcgFLmcAgLaAmusYwVlov8iAJrQ9Q17_fXcFa9wyB2b62MpvPNXmCndOmObVSv-QhzSPVR73F_fr5AwE1hJmhodxBNS_QOURHwQJ-u9VGbZqpSjEjfmNVq1teQxrHp-jgUCC40QZriXqrUublzyLj_n3CpK6TZ2qXqsQAXPPzinMI3z5offdPvbUbLto48qiaDWaFl_-MlgTeCRtsglpu-xWTEWY_KVtVFNxD9LiUXEzmdNaF5vBK9jJCsQE6LovNddY81fZKUjqd1KhmuOn0tqHL2_U3jZnJb0D23oeVeGN0wf-AwiJ5l7BPRtVmEP0gWkrM6St3vNHzymzi0",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Chou Meizai (粗眉仔)",
+          "uri": "https://maps.google.com/maps/contrib/100714570987698832571",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRffXFLvMTkBAZqeeYBKzAecp7zSlMjcIaISwHAGyJUX_tvVCl=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDm4Ye0Eg&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDm4Ye0Eg!2e10!4m2!3m1!1s0x34040724123e1415:0xfb95eb59589491ec"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:08.866382+00:00"
+}

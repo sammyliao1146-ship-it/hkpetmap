@@ -1,0 +1,346 @@
+{
+  "google_place_id": "ChIJAWM82kwBBDQReHjgNJ3hROE",
+  "restaurant_ids": [
+    "restaurant:3118810675"
+  ],
+  "fetched_at": "2026-10-23T15:41:22.495973+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJAWM82kwBBDQReHjgNJ3hROE",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "formattedAddress": "GF, 123 Queen's Rd W, Sheung Wan, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2863078,
+      "longitude": 114.1460889
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=16232347022263351416&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://callmealhk.com/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 16,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 1,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 16:00 – 00:00",
+        "星期二: 16:00 – 00:00",
+        "星期三: 16:00 – 00:00",
+        "星期四: 16:00 – 01:00",
+        "星期五: 16:00 – 01:00",
+        "星期六: 11:30 – 01:00",
+        "星期日: 11:30 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T17:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 212,
+    "displayName": {
+      "text": "CALL ME AL",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJAWM82kwBBDQReHjgNJ3hROE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkVlNqVndUUzF2VkVzeVZHdG9iRFprYWpJMk5rRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "我覺得呢一間係比酒吧牌面耽誤咗嘅餐廳！\n因為佢嘅嘢食好好食✌️無論佢嘅意粉定係佢嘅beef tart tart, 味道一流，再配埋白酒襯到絕\n另外我想講佢哋嘅酒叫一支都好抵飲😊😊",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我覺得呢一間係比酒吧牌面耽誤咗嘅餐廳！\n因為佢嘅嘢食好好食✌️無論佢嘅意粉定係佢嘅beef tart tart, 味道一流，再配埋白酒襯到絕\n另外我想講佢哋嘅酒叫一支都好抵飲😊😊",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kennis wu",
+          "uri": "https://www.google.com/maps/contrib/104473093257789552611/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJc280VT-hcGcScU0JqwFSjL4ys_c1PHskix-N1UV_6-6c7wg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-01T18:03:42.170749598Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkVlNqVndUUzF2VkVzeVZHdG9iRFprYWpJMk5rRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkVlNqVndUUzF2VkVzeVZHdG9iRFprYWpJMk5rRRAB!2m1!1s0x3404014cda3c6301:0xe144e19d34e07878"
+      },
+      {
+        "name": "places/ChIJAWM82kwBBDQReHjgNJ3hROE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGeVFrMURhMmhXZGsxUU1FaHFhRkoyY0RSS04zYxAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "CALL ME AL @callmealhk\n📍：香港上環皇后大道西123號地舖\n🚗：西營盤地鐵A1出口 步行8分鐘\n💲：~HKD360/head for dinner\n\nFood quality\n✔️：Peaches & Burrata, Beef Tartare, Spicy Rigatoni, Chocolate Mousse\n👌🏼：Chilli Ginger Tiger Prawns, Gully Brood, Rhythm of Saints\n\n總結：\n😋一間被酒吧耽誤嘅餐館 食物都出乎意料哋出色🫨呢間上環hidden gem 成條街人煙稀少得佢一間舖門庭若市 都感覺到呢間餐廳十分有人氣\n😋整餐食物冇伏仲道道好食有驚喜 食得非常開心🥳 由前菜嘅Peaches & Burrata同Beef Tartare已經令人印象深刻 尤其係前者 水蜜桃🍑配burrata 上面仲有啲煙肉碎 食落有層次感又鹹又甜\n😋Beef Tartare就生牛肉上面滲咗tortilla chip 夾埋sourdough食 好簡單但tartare處理得好 兩個字「新鮮」👍🏼\n😋Spicy Rigatoni非常有咬口 重口落咗大量芝士 調味就係辣同蕃茄醬味 其實好單調但莫名其妙地我哋好快清咗碟😜\n😋Chocolate Mousse落咗海鹽同朱古加碎 非常濃郁嘅朱古力🍫味 朱古力迷嘅最愛\n🤔Chilli Ginger Tiger Prawns有4隻大蝦🍤蝦就落咗蒜同辣椒 幾惹味 下面舖嘅sourdough索哂啲日月精華 雖然唔脆 但幾好食 記住唔好放太耐淋哂就唔好食\n🤔飲品選擇比較多 試咗Gully Brood同Rhythm of Saints都幾好飲 至少有調酒唔寡又大杯 唔會淨係用冰溝淡啲酒味🫡\n😨本身book咗位 但可能有誤會以為我哋walk-in 呆企咗20分鐘 但後尾發現誤會有主動道歉同free咗我哋嘅甜品 都算有誠意🤣\n😨冇冷氣真係難搞 夏天坐入去真係搞唔掂 一定要叫杯飲品先得🥺\n\n======評分======\n😋：🌕🌕🌕🌕🌗\n💲：🌕🌕🌕🌑🌑\n📸：🌕🌕🌕🌑🌑\n👩🏻‍🍳：🌕🌕🌕🌗🌑",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "CALL ME AL @callmealhk\n📍：香港上環皇后大道西123號地舖\n🚗：西營盤地鐵A1出口 步行8分鐘\n💲：~HKD360/head for dinner\n\nFood quality\n✔️：Peaches & Burrata, Beef Tartare, Spicy Rigatoni, Chocolate Mousse\n👌🏼：Chilli Ginger Tiger Prawns, Gully Brood, Rhythm of Saints\n\n總結：\n😋一間被酒吧耽誤嘅餐館 食物都出乎意料哋出色🫨呢間上環hidden gem 成條街人煙稀少得佢一間舖門庭若市 都感覺到呢間餐廳十分有人氣\n😋整餐食物冇伏仲道道好食有驚喜 食得非常開心🥳 由前菜嘅Peaches & Burrata同Beef Tartare已經令人印象深刻 尤其係前者 水蜜桃🍑配burrata 上面仲有啲煙肉碎 食落有層次感又鹹又甜\n😋Beef Tartare就生牛肉上面滲咗tortilla chip 夾埋sourdough食 好簡單但tartare處理得好 兩個字「新鮮」👍🏼\n😋Spicy Rigatoni非常有咬口 重口落咗大量芝士 調味就係辣同蕃茄醬味 其實好單調但莫名其妙地我哋好快清咗碟😜\n😋Chocolate Mousse落咗海鹽同朱古加碎 非常濃郁嘅朱古力🍫味 朱古力迷嘅最愛\n🤔Chilli Ginger Tiger Prawns有4隻大蝦🍤蝦就落咗蒜同辣椒 幾惹味 下面舖嘅sourdough索哂啲日月精華 雖然唔脆 但幾好食 記住唔好放太耐淋哂就唔好食\n🤔飲品選擇比較多 試咗Gully Brood同Rhythm of Saints都幾好飲 至少有調酒唔寡又大杯 唔會淨係用冰溝淡啲酒味🫡\n😨本身book咗位 但可能有誤會以為我哋walk-in 呆企咗20分鐘 但後尾發現誤會有主動道歉同free咗我哋嘅甜品 都算有誠意🤣\n😨冇冷氣真係難搞 夏天坐入去真係搞唔掂 一定要叫杯飲品先得🥺\n\n======評分======\n😋：🌕🌕🌕🌕🌗\n💲：🌕🌕🌕🌑🌑\n📸：🌕🌕🌕🌑🌑\n👩🏻‍🍳：🌕🌕🌕🌗🌑",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Photoddixted",
+          "uri": "https://www.google.com/maps/contrib/109187316511902591306/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkLROJWI9kxpVuu1dn2m8Goejee9njO3xuZhk_YJB2I1vlWiM=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-11-15T00:45:45.698155036Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGeVFrMURhMmhXZGsxUU1FaHFhRkoyY0RSS04zYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGeVFrMURhMmhXZGsxUU1FaHFhRkoyY0RSS04zYxAB!2m1!1s0x3404014cda3c6301:0xe144e19d34e07878"
+      },
+      {
+        "name": "places/ChIJAWM82kwBBDQReHjgNJ3hROE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKN0k2U1ZnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "環境和氣氛很好\n調酒屬於清爽、酒感較不重",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境和氣氛很好\n調酒屬於清爽、酒感較不重",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rachael Chen",
+          "uri": "https://www.google.com/maps/contrib/110232446442990168711/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgLxsP-8shbmACA-Fd7iVYVv1g3EN78W31Gfhx-VPB815FNXbW=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-06-22T14:50:39.770724Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKN0k2U1ZnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKN0k2U1ZnEAE!2m1!1s0x3404014cda3c6301:0xe144e19d34e07878"
+      },
+      {
+        "name": "places/ChIJAWM82kwBBDQReHjgNJ3hROE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGbE1tVTBjMk5YUmkxd2IyZDVkVkJKWVVwM09FRRAB",
+        "relativePublishTimeDescription": "3 週前",
+        "rating": 4,
+        "text": {
+          "text": "作為Beef Tartare 愛好者，呢間西營盤餐廳ho jeng🙏🏻\n其他就睇個人口味，其實佢係餐酒館，大家可以慢慢坐，環境幾chill。\n\n1. Beef Tartare 極力推薦  非常好味！底層嘅 Sourdough 酸種麵包本身已經高質，牛肉調味帶點微酸，好開胃好提味，令人食完意猶未盡，好想再食\n\n2. Spicy Rigatoni 意外驚喜。原本冇抱太大期望，點知幾惹味！加咗好多芝士同辣肉腸粒，整體調味好夠香辣\n\n3. Steak 比較失望，蔥油味實在太搶，食落有少少似食緊白切雞……而且牛扒口感普通、帶有筋，不太推薦\n\n4. Dark Chocolate Mousse 雖然係 70% 黑朱古力，但整體依然偏甜，好在上面有少少鹽點綴去膩，味道幾有趣！不過一路食落去都是單一嘅慕斯口感，稍微有點悶",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "作為Beef Tartare 愛好者，呢間西營盤餐廳ho jeng🙏🏻\n其他就睇個人口味，其實佢係餐酒館，大家可以慢慢坐，環境幾chill。\n\n1. Beef Tartare 極力推薦  非常好味！底層嘅 Sourdough 酸種麵包本身已經高質，牛肉調味帶點微酸，好開胃好提味，令人食完意猶未盡，好想再食\n\n2. Spicy Rigatoni 意外驚喜。原本冇抱太大期望，點知幾惹味！加咗好多芝士同辣肉腸粒，整體調味好夠香辣\n\n3. Steak 比較失望，蔥油味實在太搶，食落有少少似食緊白切雞……而且牛扒口感普通、帶有筋，不太推薦\n\n4. Dark Chocolate Mousse 雖然係 70% 黑朱古力，但整體依然偏甜，好在上面有少少鹽點綴去膩，味道幾有趣！不過一路食落去都是單一嘅慕斯口感，稍微有點悶",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Maru",
+          "uri": "https://www.google.com/maps/contrib/112137334061476994520/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU12vgq_MjPzZdUxRG_H0TkYs6PbUOFgf1Af3xPCKzFSyD2MSI=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-09-30T17:26:18.869795515Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGbE1tVTBjMk5YUmkxd2IyZDVkVkJKWVVwM09FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGbE1tVTBjMk5YUmkxd2IyZDVkVkJKWVVwM09FRRAB!2m1!1s0x3404014cda3c6301:0xe144e19d34e07878"
+      },
+      {
+        "name": "places/ChIJAWM82kwBBDQReHjgNJ3hROE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sSFMwOWpkR051Um05RWFWOW1aekpUWVc5eFIzYxAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 4,
+        "text": {
+          "text": "每一樣都不錯，由其係個spicy Rigatoni 真係大推！餐廳都好有氣氛，好多外國人鐘意黎坐下飲下野，但我去果日咁岩天氣非常熱，餐廳冷氣又唔夠，所以食完成餐飯係成個人都濕哂😵‍💫如果想去既可能要我天氣涼d先去🙂",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "每一樣都不錯，由其係個spicy Rigatoni 真係大推！餐廳都好有氣氛，好多外國人鐘意黎坐下飲下野，但我去果日咁岩天氣非常熱，餐廳冷氣又唔夠，所以食完成餐飯係成個人都濕哂😵‍💫如果想去既可能要我天氣涼d先去🙂",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Phoebe",
+          "uri": "https://www.google.com/maps/contrib/105090505721357997444/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKU5MSjAy-nQRxb7V_Lb1yXGXLbKS89rKdhl0l0RXHFTBFPIw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-08-25T10:08:19.581671577Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sSFMwOWpkR051Um05RWFWOW1aekpUWVc5eFIzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sSFMwOWpkR051Um05RWFWOW1aekpUWVc5eFIzYxAB!2m1!1s0x3404014cda3c6301:0xe144e19d34e07878"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404014cda3c6301:0xe144e19d34e07878!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16232347022263351416&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014cda3c6301:0xe144e19d34e07878!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404014cda3c6301:0xe144e19d34e07878!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404014cda3c6301:0xe144e19d34e07878!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "450"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJAWM82kwBBDQReHjgNJ3hROE/photos/Aa-ngMZUHnm6jFVnpIPOzE0ZOJjCSbGsCsYDBm2xKfFiXMZ6_BLPa7fyAUVA7v36tucW5XClirN--R1GigeZOJuzD9LzCPNCod-oU7sp6wC2HK3UPXbnScC_ko6MphjrlBdFbGfe7eQT4c5u5ktLbgsPmQVxLxUY6ea2Mqn1tKFHo50rf-HlBXf4RLulpoGQFRWW5OQ8xKkWNXrPpKrqcSxePyXaKrZqb8uvD-s45Pcgt7aBmnhREPf5gi3kzVy7Qa-EGTzjNNQdpiNG_Xne7PRWqrJUTcIFCI7NBhx_Qa32e6I-URHpVxWsINmsA8AEVW2X6d2U8IiPf9vWWd-tx5b0R-ACPUACEoDcoYdhzQJ4Zm98iYxhpQyOcf8alBvBAnhfihacW5f6MRLp-L40wpOf_y2-Vc4",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Mini Kim",
+          "uri": "https://maps.google.com/maps/contrib/117965363079933706776",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVoMACM23mVXCP48pONTpG__mUyTn1lahdLvBfS88g4bXr0VXfgw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDo4sG4Ig&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDo4sG4Ig!2e10!4m2!3m1!1s0x3404014cda3c6301:0xe144e19d34e07878"
+    },
+    "local_path": "photos/ChIJAWM82kwBBDQReHjgNJ3hROE.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuXuZaKV6YkxhzS8u8cjPS-GY5oBYD-Eu5qDgkrMPUasJkUpr8EkKXZ5cxfb1sGV_jVEsePy2RxXbg_9bOEg2MvrtlaO2ncGXeB3PXC99Q7lno7w4aZ_X_1tkFG6hzwy7us-9p=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 240239
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://callmealhk.com/wp-content/uploads/2026/08/CMA_NewMenu_DINNER_JULY_Food.pdf",
+        "label": "FOOD MENU",
+        "source_url": "https://callmealhk.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://callmealhk.com/wp-content/uploads/2026/08/CMA_NewMenu_DINNER_JULY_Cocktails.pdf",
+        "label": "COCKTAIL MENU",
+        "source_url": "https://callmealhk.com/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://callmealhk.com/wp-content/uploads/2025/01/CMA_SoftMenu_BRUNCH_jan25.pdf",
+        "label": "BRUNCH MENU",
+        "source_url": "https://callmealhk.com/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://callmealhk.com/wp-content/uploads/2026/08/CMA_NewMenu_DINNER_JULY_Food.pdf"
+}

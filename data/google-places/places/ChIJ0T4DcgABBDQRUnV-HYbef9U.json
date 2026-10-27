@@ -1,0 +1,328 @@
+{
+  "google_place_id": "ChIJ0T4DcgABBDQRUnV-HYbef9U",
+  "restaurant_ids": [
+    "restaurant:3112810558"
+  ],
+  "fetched_at": "2026-10-23T15:43:25.693320+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ0T4DcgABBDQRUnV-HYbef9U",
+    "types": [
+      "dessert_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3689 5529",
+    "internationalPhoneNumber": "+852 3689 5529",
+    "formattedAddress": "香港香港島銅鑼灣希慎道2-4號蟾宮大廈",
+    "location": {
+      "latitude": 22.2777781,
+      "longitude": 114.18420359999999
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=15384259519722714450&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://grindie.hk/?fbclid=PAQ0xDSwKv80ZleHRuA2FlbQIxMQABp61P-omXp_ZOXaULE6OmQWokZWO2uv_vNdi7BEkz7flHNrRJIxIJNTu0C3mO_aem_fLEqzFEj43sOSuAXgi8iWQ",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 00:00",
+        "星期二: 08:00 – 00:00",
+        "星期三: 08:00 – 00:00",
+        "星期四: 08:00 – 00:00",
+        "星期五: 08:00 – 00:00",
+        "星期六: 08:00 – 00:00",
+        "星期日: 08:00 – 00:00"
+      ],
+      "nextCloseTime": "2026-10-23T16:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 310,
+    "displayName": {
+      "text": "研香 (銅鑼灣)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "甜品餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "primaryType": "dessert_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ0T4DcgABBDQRUnV-HYbef9U/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wVFlWRmZjblZWVFU1UlFrWlBPVEkyUmtSaE5FRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今次試了開心果豆腐花，開心果香氣濃郁，配上細滑的豆腐花口感很好。另外甜度可以選擇半糖或傳統甜度，這點也很加分，整體體驗令人滿意。喜歡店裏的燈光❤️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次試了開心果豆腐花，開心果香氣濃郁，配上細滑的豆腐花口感很好。另外甜度可以選擇半糖或傳統甜度，這點也很加分，整體體驗令人滿意。喜歡店裏的燈光❤️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Nae",
+          "uri": "https://www.google.com/maps/contrib/104742652977057110938/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX44W6I7bjIfIp5UtgRinQgc5nv22K0g4d7L2vPlYXEm3_FjT8wDw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-04-26T14:16:07.094831299Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wVFlWRmZjblZWVFU1UlFrWlBPVEkyUmtSaE5FRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wVFlWRmZjblZWVFU1UlFrWlBPVEkyUmtSaE5FRRAB!2m1!1s0x3404010072033ed1:0xd57fde861d7e7552"
+      },
+      {
+        "name": "places/ChIJ0T4DcgABBDQRUnV-HYbef9U/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wTU4zWnZZMWRmTWt4V2JIcEJlVEZUT1hKc1kwRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 1,
+        "text": {
+          "text": "鍾意食好甜好甜好甜好甜糖水既人可以try try\n\nFor me 芒果愛好者，接受唔到啲芒果好似係急凍貨\n\n芒果西米露唔知點解有浸酒味，懷疑變質🥶🥶\n我哋問職員，最初表示正常，後來俾錢嘅時候個店員話佢哋係工廠出貨，由於佢哋一直都表示係用新鮮芒果製造，我以為係店舖用新鮮芒果製造，冇諗過係工場製造🫣🫣\n\n芒果沙冰甜到瀨屎🥶🥶🥶\n\n兩個甜品都係食咗一兩啖only",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "鍾意食好甜好甜好甜好甜糖水既人可以try try\n\nFor me 芒果愛好者，接受唔到啲芒果好似係急凍貨\n\n芒果西米露唔知點解有浸酒味，懷疑變質🥶🥶\n我哋問職員，最初表示正常，後來俾錢嘅時候個店員話佢哋係工廠出貨，由於佢哋一直都表示係用新鮮芒果製造，我以為係店舖用新鮮芒果製造，冇諗過係工場製造🫣🫣\n\n芒果沙冰甜到瀨屎🥶🥶🥶\n\n兩個甜品都係食咗一兩啖only",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Maggie Shum Shum",
+          "uri": "https://www.google.com/maps/contrib/106182199125740868131/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJA7YjMPPcsmbf99DnU_usGNQS-_GMDgxi528EAyHZpR5lbDA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-03T11:15:22.011258836Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wTU4zWnZZMWRmTWt4V2JIcEJlVEZUT1hKc1kwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wTU4zWnZZMWRmTWt4V2JIcEJlVEZUT1hKc1kwRRAB!2m1!1s0x3404010072033ed1:0xd57fde861d7e7552"
+      },
+      {
+        "name": "places/ChIJ0T4DcgABBDQRUnV-HYbef9U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBM1NISkRkRTV3TXpOSWJYTnZOa1UzYjB0bFpVRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "最近食到一碗非常出色嘅紫米露，真係令人回味無窮。呢碗紫米露口感濃稠得嚟又唔會太杰，入口好順滑。紫米煮得剛剛好，粒粒分明但又帶住軟糯口感，完全冇硬芯，證明火候控制得好細心。\n甜度方面拿捏得非常好，唔會過甜，反而帶出紫米本身淡淡嘅天然香氣。椰汁味道香濃但唔搶戲，同紫米融合得好自然，每一啖都食到層次感。熱食暖胃，凍食清甜，各有風味。\n最欣賞係佢嘅用料實在，食得出唔係隨便煮煮，而係真心花時間慢慢熬出嚟嘅味道。作為一款傳統中式糖水，呢碗紫米露真係做到傳統與質感並存，食完會令人覺得好滿足。\n如果你鍾意中式甜品，呢碗紫米露絕對值得一試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最近食到一碗非常出色嘅紫米露，真係令人回味無窮。呢碗紫米露口感濃稠得嚟又唔會太杰，入口好順滑。紫米煮得剛剛好，粒粒分明但又帶住軟糯口感，完全冇硬芯，證明火候控制得好細心。\n甜度方面拿捏得非常好，唔會過甜，反而帶出紫米本身淡淡嘅天然香氣。椰汁味道香濃但唔搶戲，同紫米融合得好自然，每一啖都食到層次感。熱食暖胃，凍食清甜，各有風味。\n最欣賞係佢嘅用料實在，食得出唔係隨便煮煮，而係真心花時間慢慢熬出嚟嘅味道。作為一款傳統中式糖水，呢碗紫米露真係做到傳統與質感並存，食完會令人覺得好滿足。\n如果你鍾意中式甜品，呢碗紫米露絕對值得一試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kaman Li",
+          "uri": "https://www.google.com/maps/contrib/115395252248934812118/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXiy_RAQznhvZleWj8sNv9dlvUgHHczxdOZPUYsDFwWKH641C1=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-02-28T11:03:55.444434041Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBM1NISkRkRTV3TXpOSWJYTnZOa1UzYjB0bFpVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBM1NISkRkRTV3TXpOSWJYTnZOa1UzYjB0bFpVRRAB!2m1!1s0x3404010072033ed1:0xd57fde861d7e7552"
+      },
+      {
+        "name": "places/ChIJ0T4DcgABBDQRUnV-HYbef9U/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kRFNYUnRiMDAxT0VKclRtazJWV2RTWWtwc1JsRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 3,
+        "text": {
+          "text": "桌椅很漂亮，氛圍很棒，下午坐一下很舒適。\n\n但是小丸子竟然是硬的？？？\n不知是沒煮，還是不新鮮凍過頭🥲\n\n雙拼核桃黑芝麻不像菜單上模樣⋯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "桌椅很漂亮，氛圍很棒，下午坐一下很舒適。\n\n但是小丸子竟然是硬的？？？\n不知是沒煮，還是不新鮮凍過頭🥲\n\n雙拼核桃黑芝麻不像菜單上模樣⋯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "林儀倩",
+          "uri": "https://www.google.com/maps/contrib/106460535779606461106/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHXkYwu81ixOtN_8D-s8wOjWs0V8VV6INdmY6jVbxaN3QwkTaR=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-01T09:23:34.610403986Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kRFNYUnRiMDAxT0VKclRtazJWV2RTWWtwc1JsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kRFNYUnRiMDAxT0VKclRtazJWV2RTWWtwc1JsRRAB!2m1!1s0x3404010072033ed1:0xd57fde861d7e7552"
+      },
+      {
+        "name": "places/ChIJ0T4DcgABBDQRUnV-HYbef9U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paMlkxUkpVRGhQTFhoWmJIQk5RMHQ1YWs4MU9IYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 1,
+        "text": {
+          "text": "芒果西米露，唔係想像中嘅味道，一入口好似飲緊酒緊，冇椰汁味，酸酸地好似乳酪發酵嘅味道，5月尾但芒果仲係酸嘅，入唔到口，浪費quota",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "芒果西米露，唔係想像中嘅味道，一入口好似飲緊酒緊，冇椰汁味，酸酸地好似乳酪發酵嘅味道，5月尾但芒果仲係酸嘅，入唔到口，浪費quota",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "kinkishum",
+          "uri": "https://www.google.com/maps/contrib/101912238401525712776/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJiAgE8ghMegkdx0IxQ8WTiN1YcmP5JoBTdf1KwKFHu_JDCiQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-30T08:04:17.666529160Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paMlkxUkpVRGhQTFhoWmJIQk5RMHQ1YWs4MU9IYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paMlkxUkpVRGhQTFhoWmJIQk5RMHQ1YWs4MU9IYxAB!2m1!1s0x3404010072033ed1:0xd57fde861d7e7552"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404010072033ed1:0xd57fde861d7e7552!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15384259519722714450&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010072033ed1:0xd57fde861d7e7552!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404010072033ed1:0xd57fde861d7e7552!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404010072033ed1:0xd57fde861d7e7552!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ0T4DcgABBDQRUnV-HYbef9U/photos/Aa-ngMYAQqYIo-eDBjzXvPU_ljq3Rjn85TtzVfHhDpe5F_dIowRLN_NPuI4Vra0U4rnZ1hpJE9bE3rURb4SJGgb_pi0vHaXq37nirWi8UV27WHIeqPM0BeVajC-XJUIf2ap1uUO7XKbmTLdcfR08GoQXBG6DADv1-40hdHYKvG-l9Z3Z_zlGqkUcYKgKinhqjRxuIrxHR33le0CtypjRqXNMo4vEDjyFOZAok6GDOD1r06KwsdoNu_ltJzU_wbOHgVqRKifuagwi9OIQf9IVNlr4wCoY0T6zAd4M74-OJpSRnZpnJfEB2AsXNxCjV5uLE_2xzGhoWUkeyL7TFpHekYiW5jp_VqoW9wQf3LWJP3aQVdVcP2mpFXI0jnAx4yyukjNehOnOErknC4ppxySJGB8EAyT7nbShrz_xK17YLOhXQtnIrQ",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCeGdltCLgpxKM1BaQSKzD8&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCeGdltCLgpxKM1BaQSKzD8!2e10!4m2!3m1!1s0x3404010072033ed1:0xd57fde861d7e7552"
+    },
+    "local_path": "photos/ChIJ0T4DcgABBDQRUnV-HYbef9U.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcK8hVbiaDAomxzjUOErYSj0RhBM7xFJmPAO0c0RHyN6iLSL9RiVk2bGJmxNJIKaI4oSJCwrfTN5Q_FDI-EFmf0KoPAkpZ3sqmnRhIzMMdc-ZFpkNTrAm67FGAE7H7jRQ488DDqyQtSVRBC=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 186006
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "dessert_restaurant",
+    "label": "甜品餐廳",
+    "types": [
+      "dessert_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

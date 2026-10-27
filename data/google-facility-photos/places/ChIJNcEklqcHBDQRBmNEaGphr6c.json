@@ -1,0 +1,37 @@
+{
+  "id": "ChIJNcEklqcHBDQRBmNEaGphr6c",
+  "types": [
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "地下 B 號鋪, 74-76 號 Chik Chuen St, Tai Wai, New Territories, 香港",
+  "location": {
+    "latitude": 22.3768748,
+    "longitude": 114.17879289999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12082983434902070022&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "沙田動物診所",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_care",
+  "photos": [
+    {
+      "name": "places/ChIJNcEklqcHBDQRBmNEaGphr6c/photos/Aa-ngMZ79ek7Ya2HhRZGmYrW0VPOo7zsK-Yf8hkfBlrg5qyEzdiuXl1dbSW3mDkJtbc-XfcgCoVJCl2T47aAeeXxyAl-ZbUz86zRQrIf67ODq5v0ize8H6DhTOjSdMm9mjiJpm1uFBuoTLcNgMbXGL1zltDTYbLCSTS6P0PO5tgA_ZP_z03diQlJ4D0stPVPmmDjHfsdWwpTVhNwE34uanR3igLznAIMXCaN_5Ys9C8o0PfmsGQ9dWjMDnQXFlXKGJjS7R-lgcDCocozCtAG2IKuuMhR6C3eDMZF_y4zdtyYHx1J2ngwaW1qGIDuEdxzUeASkIkXmCdTzwthvQieJxazUOJYOsk88BPgyydbWj9S9VtgG_e4RtYyC_V5pAEX764MI8pkyRhvb6ikfKh1nwZDGBTN4g2UaDZ686dlZndrdYa5_Q",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Lam Floren",
+          "uri": "https://maps.google.com/maps/contrib/109166495323692015101",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsaLdOGbEbPUgddCnRLzNJoneFnRTTxYVRXLWUf6lPvPUwigAy=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCMVTX_3rtsuV-iNCW21-i_&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCMVTX_3rtsuV-iNCW21-i_!2e10!4m2!3m1!1s0x340407a79624c135:0xa7af616a68446306"
+    }
+  ],
+  "photo_count": 8,
+  "fetched_at": "2026-10-24T00:38:44.587109+00:00"
+}

@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJqyMLXlYHBDQRpMpm0Vr-Uxo",
+  "restaurant_ids": [
+    "restaurant:2297809537"
+  ],
+  "fetched_at": "2026-10-23T15:51:17.826602+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJqyMLXlYHBDQRpMpm0Vr-Uxo",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2388 2218",
+    "internationalPhoneNumber": "+852 2388 2218",
+    "formattedAddress": "Shop 233, 圍方18 Che Kung Miu Rd, Tai Wai, New Territories, 香港",
+    "location": {
+      "latitude": 22.372725199999998,
+      "longitude": 114.1802876
+    },
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=1897139534066797220&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 22:00",
+        "星期二: 12:00 – 22:00",
+        "星期三: 12:00 – 22:00",
+        "星期四: 12:00 – 22:00",
+        "星期五: 12:00 – 22:00",
+        "星期六: 12:00 – 22:00",
+        "星期日: 12:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 62,
+    "displayName": {
+      "text": "鳥十 大圍店",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJqyMLXlYHBDQRpMpm0Vr-Uxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCR01YaDVWUzE0YkRRNFdEUTFjMXBLVjBGd1pGRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "午市時食，環境乾淨，食物Ok，性價比OK(午餐set)，魚生新鲜， 天婦羅蝦炸皮厚， 如果薄啲會更加矜貴好味。晚餐普遍貴，服務OK。可先試平日午餐set。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午市時食，環境乾淨，食物Ok，性價比OK(午餐set)，魚生新鲜， 天婦羅蝦炸皮厚， 如果薄啲會更加矜貴好味。晚餐普遍貴，服務OK。可先試平日午餐set。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sally au",
+          "uri": "https://www.google.com/maps/contrib/114704807274123115028/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ8uCxjOeyeWqvIY8eHXDYef3ZaIQa0Fv7VUy4YCSShRe_VYw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-21T06:30:38.451912308Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCR01YaDVWUzE0YkRRNFdEUTFjMXBLVjBGd1pGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCR01YaDVWUzE0YkRRNFdEUTFjMXBLVjBGd1pGRRAB!2m1!1s0x340407565e0b23ab:0x1a53fe5ad166caa4"
+      },
+      {
+        "name": "places/ChIJqyMLXlYHBDQRpMpm0Vr-Uxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT205bmRrNTNNRGRrVG5GMVFXeExValpxTUZrMFdFRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 2,
+        "text": {
+          "text": "海膽壽司好苦好苦，帶子壽司超迷你(可能得壽司郎size嘅一半)，其他嘢食正常，整體來講唔值呢個價",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "海膽壽司好苦好苦，帶子壽司超迷你(可能得壽司郎size嘅一半)，其他嘢食正常，整體來講唔值呢個價",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mandy Law",
+          "uri": "https://www.google.com/maps/contrib/104200664233281009113/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrs3NEI7jGuMihFwySEd-pc9cVhGIFMeUGM-EITQdxkQFv2PQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-04-04T08:17:04.529592422Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205bmRrNTNNRGRrVG5GMVFXeExValpxTUZrMFdFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205bmRrNTNNRGRrVG5GMVFXeExValpxTUZrMFdFRRAB!2m1!1s0x340407565e0b23ab:0x1a53fe5ad166caa4"
+      },
+      {
+        "name": "places/ChIJqyMLXlYHBDQRpMpm0Vr-Uxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoV2NFVmlkRFZuYW1oQmJqVlRjVnBrTUdsU1MxRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 1,
+        "text": {
+          "text": "又貴又唔好食，啲壽司好細嚿，影相都見到嗰件三文魚壽司又薄又細舊，好似外賣爭鮮咁細嚿。\n個女服務員九唔搭八，啲嘢都未食完就話要收，個碟上面仲有一嚿壽司就想收走，個烏冬都未食完又話要收走，嗰個清酒煮蜆我都未食淨係拎走啲殼，佢又想收走，啲蜆好韌一嚟到睇個樣就知係急凍蜆，好銀，落咗勁多牛油，。啲串燒份量又少又乾。叫咗兩杯凍嘢飲，嚟到都好似俾人飲咗一啖咁，核突。芒果特飲勁藥水味。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "又貴又唔好食，啲壽司好細嚿，影相都見到嗰件三文魚壽司又薄又細舊，好似外賣爭鮮咁細嚿。\n個女服務員九唔搭八，啲嘢都未食完就話要收，個碟上面仲有一嚿壽司就想收走，個烏冬都未食完又話要收走，嗰個清酒煮蜆我都未食淨係拎走啲殼，佢又想收走，啲蜆好韌一嚟到睇個樣就知係急凍蜆，好銀，落咗勁多牛油，。啲串燒份量又少又乾。叫咗兩杯凍嘢飲，嚟到都好似俾人飲咗一啖咁，核突。芒果特飲勁藥水味。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Eat and sleep",
+          "uri": "https://www.google.com/maps/contrib/108744326709149172018/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmeHIZSMi5Ed08GEk8J-52THfT5xRL1T2Qnexe6D_h4BP9X74=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-04T18:16:59.645021342Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoV2NFVmlkRFZuYW1oQmJqVlRjVnBrTUdsU1MxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoV2NFVmlkRFZuYW1oQmJqVlRjVnBrTUdsU1MxRRAB!2m1!1s0x340407565e0b23ab:0x1a53fe5ad166caa4"
+      },
+      {
+        "name": "places/ChIJqyMLXlYHBDQRpMpm0Vr-Uxo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaNGJhVFNnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "在8號風球的一天因為落大雨所以入圍方搵食。睇吓有邊間餐廳開，見呢間唔使排隊就入去試吓叫咗一個set包兩碗迷你丼，又附送迷你烏冬+沙律同甜品$179幾扺，因為兩個人食關係，所以叫多一個牛肉烏冬，個鰻魚丼飯好普通，啲烏冬更加係冇彈性仲差過自己屋企整嘅烏冬，最後係甜品蕨餅應該係最滿意嘅一個項目，座位同埋環境舒適，應該係呢間日本餐廳最大賣點",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "在8號風球的一天因為落大雨所以入圍方搵食。睇吓有邊間餐廳開，見呢間唔使排隊就入去試吓叫咗一個set包兩碗迷你丼，又附送迷你烏冬+沙律同甜品$179幾扺，因為兩個人食關係，所以叫多一個牛肉烏冬，個鰻魚丼飯好普通，啲烏冬更加係冇彈性仲差過自己屋企整嘅烏冬，最後係甜品蕨餅應該係最滿意嘅一個項目，座位同埋環境舒適，應該係呢間日本餐廳最大賣點",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Lam Floren",
+          "uri": "https://www.google.com/maps/contrib/109166495323692015101/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsaLdOGbEbPUgddCnRLzNJoneFnRTTxYVRXLWUf6lPvPUwigAy=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-09-12T06:37:12.496625Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNaNGJhVFNnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaNGJhVFNnEAE!2m1!1s0x340407565e0b23ab:0x1a53fe5ad166caa4"
+      },
+      {
+        "name": "places/ChIJqyMLXlYHBDQRpMpm0Vr-Uxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOcWJFaG5ia3ByV0dGR2Jsa3lZelkzUldSemJtYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢度嘅裝修坐得舒服，燈光氣氛一流，好適合傾偈聚會。\n必試佢哋嘅[石板和牛，燒雞翼]！火候控制得剛剛好。\n店員服務好貼心，主動加水上菜，問佢哋推薦菜式都介紹得好詳細。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢度嘅裝修坐得舒服，燈光氣氛一流，好適合傾偈聚會。\n必試佢哋嘅[石板和牛，燒雞翼]！火候控制得剛剛好。\n店員服務好貼心，主動加水上菜，問佢哋推薦菜式都介紹得好詳細。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hon Lo Chung",
+          "uri": "https://www.google.com/maps/contrib/112285123065953661964/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8bTEbNaxE7g_-lOMKuy5M3kK2p2EqHgoXJsCptIOX_5TvHUY=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-23T11:43:44.274808992Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOcWJFaG5ia3ByV0dGR2Jsa3lZelkzUldSemJtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOcWJFaG5ia3ByV0dGR2Jsa3lZelkzUldSemJtYxAB!2m1!1s0x340407565e0b23ab:0x1a53fe5ad166caa4"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340407565e0b23ab:0x1a53fe5ad166caa4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1897139534066797220&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407565e0b23ab:0x1a53fe5ad166caa4!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340407565e0b23ab:0x1a53fe5ad166caa4!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407565e0b23ab:0x1a53fe5ad166caa4!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "400"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJqyMLXlYHBDQRpMpm0Vr-Uxo/photos/Aa-ngMY0FSIgZLECWtT-8q1IOV9M9YU-HsJyyqLoRRYiwSjHOMdl9LCFYe0BuSWD2pLThL4GjAoSAB3xHcuLASo9oV9KQ7RwSL-bA5or_OmBMuMCBXpGrLFx68GGl-qVSOwtCiKD64fvYmJkZX43nm1cXyxVit1oodGPeEi4i2l6K8TIdfnDGIH4BQZLDvuYUf5JcJZ1rzIvASriuSXUt7ZtoRApArQ6YdC24bJzFCw9ok3B9SlYiL3dObTTOWkL0mnLq9lcVxdfRN3ryoSPb3o2k_WGIoXedYDimPq3MwZxgjHslU3bx1ne3iN4B2WNl-Rih3z9NSx8wikwv1vBzQZ-blKLlIC3R9U8fgqZ5_iP6xZSb25VNKelIcgpqUN7whIAhwQuniJcvZWCx1V23R0zngtpq9eNnH2LzjQrA0fZZMTa",
+      "widthPx": 4080,
+      "heightPx": 3060,
+      "authorAttributions": [
+        {
+          "displayName": "MW Cheng",
+          "uri": "https://maps.google.com/maps/contrib/102345310704379026024",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSK48NFL8lG27qerc__wG7CQMkrnpEwBaYY9uty6fqHk0KOcJN=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCgdMMKQ4XUWjHizwJ-13Kt&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCgdMMKQ4XUWjHizwJ-13Kt!2e10!4m2!3m1!1s0x340407565e0b23ab:0x1a53fe5ad166caa4"
+    },
+    "local_path": "photos/ChIJqyMLXlYHBDQRpMpm0Vr-Uxo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLflg9fjbZveJTrUAMW92kWcNqH7bIzUrPjCVlxm8G7gWBM_5m307iPVJ499aEpaEEbsGFC0lJZYe1f9ealSgqjq8I51FhvN_-ylX44GL7PlpJaKUkhu34gtEFWAqpLt8TsNDK59cikMiJ0=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 140930
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

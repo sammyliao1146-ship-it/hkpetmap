@@ -1,0 +1,38 @@
+{
+  "id": "ChIJ4fV2ceoBBDQRa4rsgU-RY9w",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "27號 Tai Po Rd, Sham Shui Po, Kowloon, 香港",
+  "location": {
+    "latitude": 22.328821899999998,
+    "longitude": 114.1664902
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15880696481706707563&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "狗宿",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJ4fV2ceoBBDQRa4rsgU-RY9w/photos/Aa-ngMY2HHRd-qn1wzGoFNlwpdNuj9q84lKtroUxtib2tgCzW78RvOeTMwOY8hhuiFiDCtJNohM_1b8NmDu7WRrOPj3bh-ClRAozT-ej0TcpF5McwvsIdMC8ckTU4OAlJzRSBD_jR_MYzOKeEBGfB2SoOKFPJmuewS1Biz8WSHRsD8ZjF1EWUZXkguh91CyXkS86rVHTkFGDeuBKTjZ5DMWcvZneDiXycNp2kfffqXH0jQTdxHfxQepgnSLvvH_RkKGxacHsKFQ5vMAOYQmnE1jEG0mlgnrCW00P_hBVhn1cbG9q4a8eJ-MtzubI-sgXw65bfo-el528_aghMtMXjiQO2uN3rbYC03LVGWaFhGEC4dMz2j7BIC7VbbchykR8bblXUy5ZOgPsJrb4PSvilabfcANBXg",
+      "widthPx": 3508,
+      "heightPx": 2240,
+      "authorAttributions": [
+        {
+          "displayName": "狗宿",
+          "uri": "https://maps.google.com/maps/contrib/111755545321293324338",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWg-puwME1kAiO8HaFTG2Pb1mf8R2e9VwAWrdz9S9U00MIWGoc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC61I3vdA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC61I3vdA!2e10!4m2!3m1!1s0x340401ea7176f5e1:0xdc63914f81ec8a6b"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:19.657457+00:00"
+}

@@ -1,0 +1,330 @@
+{
+  "google_place_id": "ChIJazdwK7kABDQRJOvtbXn2H-M",
+  "restaurant_ids": [
+    "restaurant:2262810616"
+  ],
+  "fetched_at": "2026-10-23T15:44:08.816867+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJazdwK7kABDQRJOvtbXn2H-M",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2481 8968",
+    "internationalPhoneNumber": "+852 2481 8968",
+    "formattedAddress": "旺角 海 富 苑 海 富商 場 地下 2A 號 舖, Mong Kok, Kowloon, 香港",
+    "location": {
+      "latitude": 22.3156867,
+      "longitude": 114.164537
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=16366070572283456292&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.tasteofasia.com.hk/brand/cafe-de-itamomo",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 21:00",
+        "星期二: 07:00 – 21:00",
+        "星期三: 07:00 – 21:00",
+        "星期四: 07:00 – 21:00",
+        "星期五: 07:00 – 21:00",
+        "星期六: 07:00 – 21:00",
+        "星期日: 07:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 386,
+    "displayName": {
+      "text": "意樂餐廳 (海富苑)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": false,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJazdwK7kABDQRJOvtbXn2H-M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWRVUzVTVYMnRNTFhKQlIxQnVUVEJDZFd4Q1NrRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "晚餐過黎開餐，之前多數在意樂都係午餐或下午茶，今次試晚餐都不錯，多選擇也唔算非常貴，叫了二人餐，其中一樣選了Pizza，不過pizza底比較噥，職員主動話整個一份新的，真係抵讚，服務很好，味道就只可話正常，唔算非常突出",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晚餐過黎開餐，之前多數在意樂都係午餐或下午茶，今次試晚餐都不錯，多選擇也唔算非常貴，叫了二人餐，其中一樣選了Pizza，不過pizza底比較噥，職員主動話整個一份新的，真係抵讚，服務很好，味道就只可話正常，唔算非常突出",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kenny Chang",
+          "uri": "https://www.google.com/maps/contrib/116664487332953657098/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4v4LN0jGeTTfWGHyb9I209ApHlivphHXYjHq4napJxZiSaS-1=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-04T11:38:31.711766721Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWRVUzVTVYMnRNTFhKQlIxQnVUVEJDZFd4Q1NrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWRVUzVTVYMnRNTFhKQlIxQnVUVEJDZFd4Q1NrRRAB!2m1!1s0x340400b92b70376b:0xe31ff6796dedeb24"
+      },
+      {
+        "name": "places/ChIJazdwK7kABDQRJOvtbXn2H-M/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNXNlNVd3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "味道幾好 平時好少食意樂 身邊嘅frd好多都話味道普普通通 但我同我嘅frd都覺得其實above average 焗飯用嘅珍珠米口感唔錯 芝士幾多有醬有粉出色出色 嘢飲都沖得幾好 讀cc嘅可以嚟食下 不過價錢未必允許個個都日日食😹",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道幾好 平時好少食意樂 身邊嘅frd好多都話味道普普通通 但我同我嘅frd都覺得其實above average 焗飯用嘅珍珠米口感唔錯 芝士幾多有醬有粉出色出色 嘢飲都沖得幾好 讀cc嘅可以嚟食下 不過價錢未必允許個個都日日食😹",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "os_ aics",
+          "uri": "https://www.google.com/maps/contrib/115768545844064165361/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtqh6mrfGjtX7xtPCa7NyOCTqCE3ZoSTZbkYSiSsd05TDPHRj6=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-04-01T15:19:54.117795Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJNXNlNVd3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJNXNlNVd3EAE!2m1!1s0x340400b92b70376b:0xe31ff6796dedeb24"
+      },
+      {
+        "name": "places/ChIJazdwK7kABDQRJOvtbXn2H-M/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5aU9iTndBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "這裏地方裝修都幾好,食物選擇亦算多,味道都可以嘅,不過份量很少,招呼只是一般,而價錢亦算適中,都可以一試的。👍👍🤗😋😋💯💯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這裏地方裝修都幾好,食物選擇亦算多,味道都可以嘅,不過份量很少,招呼只是一般,而價錢亦算適中,都可以一試的。👍👍🤗😋😋💯💯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kaitohg Hui",
+          "uri": "https://www.google.com/maps/contrib/114503974869803395926/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI6Vu1iieByQ_l8LbO-vItQ9ke3nmFKSv7hDVK9gYr2J6Y6cg=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-03-12T16:22:52.855051Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5aU9iTndBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5aU9iTndBRRAB!2m1!1s0x340400b92b70376b:0xe31ff6796dedeb24"
+      },
+      {
+        "name": "places/ChIJazdwK7kABDQRJOvtbXn2H-M/reviews/ChdDSUhNMG9nS0VJQ0FnSURHd3JiaThnRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "大大份夠飽肚，濃湯通粉好重金寶 忌廉湯味👍.卡位多夠濶落。招呼唔錯。\n味道 ⭐⭐⭐⭐\n環境 ⭐⭐⭐⭐\n服務 ⭐⭐⭐⭐",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "大大份夠飽肚，濃湯通粉好重金寶 忌廉湯味👍.卡位多夠濶落。招呼唔錯。\n味道 ⭐⭐⭐⭐\n環境 ⭐⭐⭐⭐\n服務 ⭐⭐⭐⭐",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodies FATguy",
+          "uri": "https://www.google.com/maps/contrib/107312992964178594388/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGLLwd07XFV5Hs95n-QWdz5Hcg0NP7-AhjjnzypTz6zR378c78=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2021-11-22T11:40:24.022339Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHd3JiaThnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHd3JiaThnRRAB!2m1!1s0x340400b92b70376b:0xe31ff6796dedeb24"
+      },
+      {
+        "name": "places/ChIJazdwK7kABDQRJOvtbXn2H-M/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5c3BxX0dREAE",
+        "relativePublishTimeDescription": "5 年前",
+        "rating": 4,
+        "text": {
+          "text": "意樂餐廳有很多間， 今次到位於大角咀海富苑海富商場地下2A號舖的分店， 星期六中午時間門口大排長龍， 幸好安排座位都比較快速。 入到店內環境舒適， 光線柔和， 點兩款下午茶餐，意式鮮茄肉醬焗扁意粉$36+ 熱即磨咖啡、日式燒汁牛肉丼飯$45＋ 凍即磨咖啡$3。🥢🥢🥢\n\n⭕意式鮮茄肉醬焗扁意粉～ 鮮茄味道唔夠濃， 整體比較油膩。\n\n⭕日式燒汁牛肉丼飯～ 日式燒汁非常惹味， 牛肉薄切口感軟腍， 加上溫泉蛋增添滋味。\n\n⭕凍即磨咖啡 ＆ 熱即磨咖啡～ 即磨咖啡味道香濃。\n\n整體來說價錢優惠， 上菜速度快， 燒汁牛肉丼飯好味， 咖啡亦不錯， 回頭率高。☺️\n\n意樂餐廳 (海富商場)\n地址: 大角咀海富苑海富商場地下2A號舖",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "意樂餐廳有很多間， 今次到位於大角咀海富苑海富商場地下2A號舖的分店， 星期六中午時間門口大排長龍， 幸好安排座位都比較快速。 入到店內環境舒適， 光線柔和， 點兩款下午茶餐，意式鮮茄肉醬焗扁意粉$36+ 熱即磨咖啡、日式燒汁牛肉丼飯$45＋ 凍即磨咖啡$3。🥢🥢🥢\n\n⭕意式鮮茄肉醬焗扁意粉～ 鮮茄味道唔夠濃， 整體比較油膩。\n\n⭕日式燒汁牛肉丼飯～ 日式燒汁非常惹味， 牛肉薄切口感軟腍， 加上溫泉蛋增添滋味。\n\n⭕凍即磨咖啡 ＆ 熱即磨咖啡～ 即磨咖啡味道香濃。\n\n整體來說價錢優惠， 上菜速度快， 燒汁牛肉丼飯好味， 咖啡亦不錯， 回頭率高。☺️\n\n意樂餐廳 (海富商場)\n地址: 大角咀海富苑海富商場地下2A號舖",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "victoriay_eatwithvic",
+          "uri": "https://www.google.com/maps/contrib/114697832177333673125/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpCfwr1RRxacz1FrR7TJp1I5R3RsFpX8f_LBeVJsn43VN_Ow=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2021-01-25T07:27:59.531269Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5c3BxX0dREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5c3BxX0dREAE!2m1!1s0x340400b92b70376b:0xe31ff6796dedeb24"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340400b92b70376b:0xe31ff6796dedeb24!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16366070572283456292&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400b92b70376b:0xe31ff6796dedeb24!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340400b92b70376b:0xe31ff6796dedeb24!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340400b92b70376b:0xe31ff6796dedeb24!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJazdwK7kABDQRJOvtbXn2H-M/photos/Aa-ngMbnm87zhpPPjMEu9X58ecCOgCFnyVtGUtkRKVFm6JBq8JDcr_dWUBCtHkDka3vBfv7YBhXT1gOAauQpr5ayxOTKS7FFAKZBdWKiLp3PZNi0ziFNUFwtUpgihKWpaub4y_dy-OaqOyKsQIWdVqHSjqbBZwJ-BfY_hNWRexk3tnjMVDPPjhHmNRcSSk-nJ6_DXnOghcR0q6m407C-hOGaaCsBGdpdgAp8qdz6R8yC6xQw8HGdwYua6ffxJIUQJ75al7qZmzNHEi-epuREcAOd2pktu8daqiJ6YZHmhh0Pyp7Yr8VuLYc5ZpWbT6LnczgFBua-C9z-jzk7XZ_6CJpvPNKtpDdVXYqhGrOXm7lvpgQ_Utm23R3UvaINu1pUK_6vldrhULIf39i_sQMnIYaA3tn8mJQ",
+      "widthPx": 3189,
+      "heightPx": 2392,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICHgefHQA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHgefHQA!2e10!4m2!3m1!1s0x340400b92b70376b:0xe31ff6796dedeb24"
+    },
+    "local_path": "photos/ChIJazdwK7kABDQRJOvtbXn2H-M.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyyH04l7l6Y9iKyPf0CE2zWno9BDpOiz-WBQ0VpYBerokSFT6L7HLt6jpuuPuNtNT7IE3S-oA_1fK4XPDqK689tfDusionPTcumJzsZIungp9wRYhguZYfGyB7mtuA0B3LDnjF=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 171314
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

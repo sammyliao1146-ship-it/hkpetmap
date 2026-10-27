@@ -1,0 +1,326 @@
+{
+  "google_place_id": "ChIJ-d3opDvjAzQRl3GAk5aK4eo",
+  "restaurant_ids": [
+    "restaurant:2217803322"
+  ],
+  "fetched_at": "2026-10-23T15:50:34.375542+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ-d3opDvjAzQRl3GAk5aK4eo",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2337 5399",
+    "internationalPhoneNumber": "+852 2337 5399",
+    "formattedAddress": "香港新界赤鱲角 Sky Plaza Rd, After Departures (North), DeparturesLevel (L7HK 新界 大嶼山",
+    "location": {
+      "latitude": 22.3132521,
+      "longitude": 113.9947534
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=16924961253959430551&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.hongkongairport.com/en/shop-dine/dining/jardin-de-jade",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 23:30",
+        "星期二: 07:00 – 23:30",
+        "星期三: 07:00 – 23:30",
+        "星期四: 07:00 – 23:30",
+        "星期五: 07:00 – 23:30",
+        "星期六: 07:00 – 23:30",
+        "星期日: 07:00 – 23:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 350,
+    "displayName": {
+      "text": "Jardin de Jade",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ-d3opDvjAzQRl3GAk5aK4eo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGdllUQllaMFpJVlRScVIwVlVTekpFUVdaMVVsRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "東西很不錯吃，因為機場好吃的好多，剛好在附近可以來吃。價格也比較偏貴一點，這幾道菜色價格約莫台幣2000左右",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "東西很不錯吃，因為機場好吃的好多，剛好在附近可以來吃。價格也比較偏貴一點，這幾道菜色價格約莫台幣2000左右",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "張慧真",
+          "uri": "https://www.google.com/maps/contrib/109505688086740242828/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJ2_wv6K8VLbWSa6431C3_87EHexFfBDDAgf5tgUg0Uq9Z_zhG=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-21T07:10:03.265146963Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGdllUQllaMFpJVlRScVIwVlVTekpFUVdaMVVsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGdllUQllaMFpJVlRScVIwVlVTekpFUVdaMVVsRRAB!2m1!1s0x3403e33ba4e8ddf9:0xeae18a9693807197"
+      },
+      {
+        "name": "places/ChIJ-d3opDvjAzQRl3GAk5aK4eo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aMk5rOXRVblozV2xSVFZWRjVhMkZtUmtkak0wRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 3,
+        "text": {
+          "text": "要說口味不好不至於，但不值得這個價位。小籠包的皮居然蒸破了，我是夾著尖端提起的，一個小破，一個全破。剛從檳城回來，光論皮還不如檳城的早茶店。蝦肉餛飩湯的蛋絲還吃到蛋殼，這樣兩份餐點176港幣還不含服務費，只能說性價比極低，不值得這個價格。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "要說口味不好不至於，但不值得這個價位。小籠包的皮居然蒸破了，我是夾著尖端提起的，一個小破，一個全破。剛從檳城回來，光論皮還不如檳城的早茶店。蝦肉餛飩湯的蛋絲還吃到蛋殼，這樣兩份餐點176港幣還不含服務費，只能說性價比極低，不值得這個價格。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YU-FAN Chin",
+          "uri": "https://www.google.com/maps/contrib/108810608130558162314/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIJZBSfJECybRzhzsaFgIBVpTy86sQQGzX2IhvHKf807ZBTtg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-03-15T05:16:04.636390678Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aMk5rOXRVblozV2xSVFZWRjVhMkZtUmtkak0wRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aMk5rOXRVblozV2xSVFZWRjVhMkZtUmtkak0wRRAB!2m1!1s0x3403e33ba4e8ddf9:0xeae18a9693807197"
+      },
+      {
+        "name": "places/ChIJ-d3opDvjAzQRl3GAk5aK4eo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SeWVFUnpjR1pJWkdGM1IxOHRRVzlYUW1sd1ZGRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 1,
+        "text": {
+          "text": "正在用餐，從未食過如此難食的中菜🤣\n點單極快5分鐘出餐👍預製菜確定🤮\n\n蔥油餅 🫓- 超市急凍餅質素，咬開無層次，照片中麵團油酥明顯未熟\n宮保雞丁🍗 - 差不多200港幣份量極小，醬汁味道明顯是預製菜\n小籠包🥟 - 皮薄有湯，普通肉餡，10港幣一粒值不值見仁見智\n揚州炒飯及炒麵 - 100多港幣一碟，味道跟一般預製菜一致，菜單圖片名不副實\n⭐️最值得說明的是水要18港幣一杯，茗茶要38港幣一杯，作為餐廳連一杯水都不願意免費供應\n還有一點 - 男侍應衣服上有大片啡色污跡，嚴重影響食慾，建議公司大方一點支付員工洗衣費用\n\n榮登機場劣食第一名🥇",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "正在用餐，從未食過如此難食的中菜🤣\n點單極快5分鐘出餐👍預製菜確定🤮\n\n蔥油餅 🫓- 超市急凍餅質素，咬開無層次，照片中麵團油酥明顯未熟\n宮保雞丁🍗 - 差不多200港幣份量極小，醬汁味道明顯是預製菜\n小籠包🥟 - 皮薄有湯，普通肉餡，10港幣一粒值不值見仁見智\n揚州炒飯及炒麵 - 100多港幣一碟，味道跟一般預製菜一致，菜單圖片名不副實\n⭐️最值得說明的是水要18港幣一杯，茗茶要38港幣一杯，作為餐廳連一杯水都不願意免費供應\n還有一點 - 男侍應衣服上有大片啡色污跡，嚴重影響食慾，建議公司大方一點支付員工洗衣費用\n\n榮登機場劣食第一名🥇",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cay",
+          "uri": "https://www.google.com/maps/contrib/106668450750965591786/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIVepNRWlhFlf17tBB5nHxmX0eFpd5jBOLecPdV6Ejhijr2KA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-06-20T11:58:21.450748967Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SeWVFUnpjR1pJWkdGM1IxOHRRVzlYUW1sd1ZGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SeWVFUnpjR1pJWkdGM1IxOHRRVzlYUW1sd1ZGRRAB!2m1!1s0x3403e33ba4e8ddf9:0xeae18a9693807197"
+      },
+      {
+        "name": "places/ChIJ-d3opDvjAzQRl3GAk5aK4eo/reviews/ChZDSUhNMG9nS0VJQ0FnSURQOFpXcEFnEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "2024/12月平日中午11點前來，在機場第一航廈入關後的免稅商店區中，看店門口廣告版是連續11年米其林一星的上海餐飲，座位寬敞舒適，窗邊可以看機場上的飛機，價格偏高但放在機場也合理。本次點了：\n早餐套餐$108：含兩顆鍋貼，一份主食（選菜肉大餛飩），飲料一杯（選凍檸茶）。不過與單點餛飩不同無法加購麵所以只有餛飩。\n鍋貼：皮脆，內餡飽滿多汁，沒什麼豬臊味，推薦。\n菜肉大餛飩：裡面有6顆，配上紫菜，湯頭不會太鹹還算鮮美可以喝完，餛飩皮薄餡紮實，確實不錯。\n凍檸茶：就普通的凍檸茶，有給糖漿可以自己調配。\n另外加點：\n蘇浙湯包$88：有6顆，湯汁很多，味道鮮美，皮一夾就破，不過沒有給醋和薑絲等。味道其實跟鼎泰豐差不多甚至還好吃一點，但這個價格推薦喜歡小籠包非吃不可的人再點。\n擔擔麵$98：與台灣常見的比，幾乎不辣，絞肉不多，醬汁味道差不多，但沒特別必要在這裡吃。\n整體而言，如果太早到機場，已經入關沒事做，預算100HKF出頭，推薦點個早餐套餐，坐在床邊位置等飛機聊天蠻好的。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "2024/12月平日中午11點前來，在機場第一航廈入關後的免稅商店區中，看店門口廣告版是連續11年米其林一星的上海餐飲，座位寬敞舒適，窗邊可以看機場上的飛機，價格偏高但放在機場也合理。本次點了：\n早餐套餐$108：含兩顆鍋貼，一份主食（選菜肉大餛飩），飲料一杯（選凍檸茶）。不過與單點餛飩不同無法加購麵所以只有餛飩。\n鍋貼：皮脆，內餡飽滿多汁，沒什麼豬臊味，推薦。\n菜肉大餛飩：裡面有6顆，配上紫菜，湯頭不會太鹹還算鮮美可以喝完，餛飩皮薄餡紮實，確實不錯。\n凍檸茶：就普通的凍檸茶，有給糖漿可以自己調配。\n另外加點：\n蘇浙湯包$88：有6顆，湯汁很多，味道鮮美，皮一夾就破，不過沒有給醋和薑絲等。味道其實跟鼎泰豐差不多甚至還好吃一點，但這個價格推薦喜歡小籠包非吃不可的人再點。\n擔擔麵$98：與台灣常見的比，幾乎不辣，絞肉不多，醬汁味道差不多，但沒特別必要在這裡吃。\n整體而言，如果太早到機場，已經入關沒事做，預算100HKF出頭，推薦點個早餐套餐，坐在床邊位置等飛機聊天蠻好的。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yen-Po Chang",
+          "uri": "https://www.google.com/maps/contrib/114293399310203365279/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVU0L4APLa1rj5fkdkeUDxw8Ufp3rDsqSsOEraRcZrWhAFzWiA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-12-03T11:51:46.448297Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQOFpXcEFnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQOFpXcEFnEAE!2m1!1s0x3403e33ba4e8ddf9:0xeae18a9693807197"
+      },
+      {
+        "name": "places/ChIJ-d3opDvjAzQRl3GAk5aK4eo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0VlJXNVNNRTVJTkVoMU1YVndSbEY0ZUhScmIzYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "小籠包 鍋貼 蔥油餅 手工很好、餛飩很鮮👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "小籠包 鍋貼 蔥油餅 手工很好、餛飩很鮮👍🏻",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yanb Yan",
+          "uri": "https://www.google.com/maps/contrib/110151487526615198749/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKIxL_ZyJW5HPECq27aSsfO0t3Pojl3qLPwyfWt0PGg585C1A=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-26T04:13:29.311648435Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0VlJXNVNNRTVJTkVoMU1YVndSbEY0ZUhScmIzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0VlJXNVNNRTVJTkVoMU1YVndSbEY0ZUhScmIzYxAB!2m1!1s0x3403e33ba4e8ddf9:0xeae18a9693807197"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403e33ba4e8ddf9:0xeae18a9693807197!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=16924961253959430551&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e33ba4e8ddf9:0xeae18a9693807197!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403e33ba4e8ddf9:0xeae18a9693807197!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403e33ba4e8ddf9:0xeae18a9693807197!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ-d3opDvjAzQRl3GAk5aK4eo/photos/Aa-ngMZTIrA8pGcO8gcajMV4pjmOZqysbCQCIKIwZyu869uDkUMHU199R2qFRU0PuLVzIP42iEsGt8NtgP9k64z53fHTUM78bz0t3PK2lDyc5PaT4uKxIrwtKjGtyaNazMacEy1xHB_vto7aYKHhd6CBFqSNxUF4aZ3QW0_wvK6bbzEN4m261280R8fXBXsOocLtvoK1a0DuOsgLEiVdwqhskCAWNxMjHNsSk03ZhW0sPY3rYYf5FKwtnciuTbvrzyyV5l1OzOAmpdAnezyquwC8TL2ljEpklI_NmxY7deSeihEqUJQXsP_mNke61sA4pNSCl-PS7LUQIbT91K6G30A-58DZj85pdBWLdToeArpNXLegY_rt_eB2rqj6MIydlmltr5DECZWczI5zsux8IpIVEeZCB5SvBsUjMlzsXVTxDCGhkg",
+      "widthPx": 1023,
+      "heightPx": 768,
+      "authorAttributions": [
+        {
+          "displayName": "Jardin de Jade",
+          "uri": "https://maps.google.com/maps/contrib/111837837678438924500",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5XeUkITowqb9UTC4dD1ynwYBZIPzvXcUDDqkLfujmMDo-glw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD3IJQNfEXXkzQgKwqpp1Mh&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD3IJQNfEXXkzQgKwqpp1Mh!2e10!4m2!3m1!1s0x3403e33ba4e8ddf9:0xeae18a9693807197"
+    },
+    "local_path": "photos/ChIJ-d3opDvjAzQRl3GAk5aK4eo.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLePXPMxskiaJX0nca53uGWq3B7JhCbOdaHTeEZnzUatRWs2P5QjMQlR0FdMWW8-JytKTrZztCLINa-kqbx8gFDkXucCvIaZkxR8sCqAALiYD-sVXdugToxX2OvdF5dVAaWpn4vIiyS5lviX=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 151063
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

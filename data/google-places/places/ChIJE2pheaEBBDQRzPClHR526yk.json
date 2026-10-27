@@ -1,0 +1,346 @@
+{
+  "google_place_id": "ChIJE2pheaEBBDQRzPClHR526yk",
+  "restaurant_ids": [
+    "restaurant:2218820021"
+  ],
+  "fetched_at": "2026-10-23T15:39:58.151144+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJE2pheaEBBDQRzPClHR526yk",
+    "types": [
+      "bakery",
+      "coffee_shop",
+      "cafe",
+      "pastry_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "G08, The Peak Tower, 128 Peak Rd, The Peak, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2711683,
+      "longitude": 114.15031830000001
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=3020637846800560332&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.bakehouse.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:00 – 21:00",
+        "星期二: 09:00 – 21:00",
+        "星期三: 09:00 – 21:00",
+        "星期四: 09:00 – 21:00",
+        "星期五: 09:00 – 21:00",
+        "星期六: 08:00 – 21:00",
+        "星期日: 08:00 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 347,
+    "displayName": {
+      "text": "Bakehouse",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "烘焙屋",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "primaryType": "bakery",
+    "reviews": [
+      {
+        "name": "places/ChIJE2pheaEBBDQRzPClHR526yk/reviews/Ci9DQUlRQUNvZENodHljRjlvT201S1RGSkVNa2RHUzNZMlRUTXpVMHN0Y0hSSVYyYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "來山頂這間買蛋塔超有氣氛！優點是酸種蛋塔無敵好吃，還能坐外面邊吃邊看纜車經過，風景超棒。缺點是店員幾乎全英文溝通，點餐有點小壓力；而且生意太好，排隊常要等很久，店內座位不多，想內用得碰碰運氣！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "來山頂這間買蛋塔超有氣氛！優點是酸種蛋塔無敵好吃，還能坐外面邊吃邊看纜車經過，風景超棒。缺點是店員幾乎全英文溝通，點餐有點小壓力；而且生意太好，排隊常要等很久，店內座位不多，想內用得碰碰運氣！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "我的眼中世界",
+          "uri": "https://www.google.com/maps/contrib/107943885065782575965/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6NItpHZtIXbnPVY8si9qaySbz95N_u2RoUxfJIgAUewLV0mhLJg=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-07-19T16:16:09.715674971Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201S1RGSkVNa2RHUzNZMlRUTXpVMHN0Y0hSSVYyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201S1RGSkVNa2RHUzNZMlRUTXpVMHN0Y0hSSVYyYxAB!2m1!1s0x340401a179616a13:0x29eb761e1da5f0cc"
+      },
+      {
+        "name": "places/ChIJE2pheaEBBDQRzPClHR526yk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pneGNYcHpTa2xQTFVsNWJGTm9aR2RqT0ZWMVgzYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "BakeHouse整體價格屬於香港中上水準，主打各式精品麵包與甜點，品質穩定且選擇豐富。除了咖啡外，也提供氣泡水、冰沙與牛乳等非咖啡飲品，對不喝咖啡的人相當友善。店內氛圍舒適，適合短暫休息或輕鬆聊天。觀景台每位低消48元，座位限時45分鐘，翻桌率高但也能維持良好用餐環境。這裡是典型的太平山大面落地窗觀景點，可以俯瞰整個維多利亞港與城市天際線，視野開闊壯觀。不過該方位無法直接欣賞日落，較適合看白天景色或夜景燈火，整體仍值得一訪。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "BakeHouse整體價格屬於香港中上水準，主打各式精品麵包與甜點，品質穩定且選擇豐富。除了咖啡外，也提供氣泡水、冰沙與牛乳等非咖啡飲品，對不喝咖啡的人相當友善。店內氛圍舒適，適合短暫休息或輕鬆聊天。觀景台每位低消48元，座位限時45分鐘，翻桌率高但也能維持良好用餐環境。這裡是典型的太平山大面落地窗觀景點，可以俯瞰整個維多利亞港與城市天際線，視野開闊壯觀。不過該方位無法直接欣賞日落，較適合看白天景色或夜景燈火，整體仍值得一訪。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "aRRAN",
+          "uri": "https://www.google.com/maps/contrib/107747061703539248502/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3iDfhYyZ1fieXNu5wim6eYeS4zaP5Klsba8BAwJk-GLHKDkEi=s128-c0x00000000-cc-rp-mo-ba7"
+        },
+        "publishTime": "2026-04-26T22:10:01.768820567Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pneGNYcHpTa2xQTFVsNWJGTm9aR2RqT0ZWMVgzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pneGNYcHpTa2xQTFVsNWJGTm9aR2RqT0ZWMVgzYxAB!2m1!1s0x340401a179616a13:0x29eb761e1da5f0cc"
+      },
+      {
+        "name": "places/ChIJE2pheaEBBDQRzPClHR526yk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCamMzZGtaVjlzY1RSSFRucFFTa3RCV1ZoemIyYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "酸種蛋塔/蝴蝶牛角酥\n誤打誤撞路過話題度很高的店家，而且還剛好沒人排隊！於是趕快進入隊伍開始選購～比較有趣的是排隊到櫃檯的時候發現除了餐點以外，全英伺候⋯⋯我還以為去到美國旅遊了！！！！！酸種麵包跟蛋塔都好吃，不過它們不是港式的，是我這次購物的意料之外，因為這次來只打算認真吃跟港式有關係的食物。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "酸種蛋塔/蝴蝶牛角酥\n誤打誤撞路過話題度很高的店家，而且還剛好沒人排隊！於是趕快進入隊伍開始選購～比較有趣的是排隊到櫃檯的時候發現除了餐點以外，全英伺候⋯⋯我還以為去到美國旅遊了！！！！！酸種麵包跟蛋塔都好吃，不過它們不是港式的，是我這次購物的意料之外，因為這次來只打算認真吃跟港式有關係的食物。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Uuu Che",
+          "uri": "https://www.google.com/maps/contrib/104428683589290814020/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvvpVBdVnZ8tn3RjrgK1TXm94AnWgV8naPCSsRQUd3ehyua-uj=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-08T16:50:58.763200986Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCamMzZGtaVjlzY1RSSFRucFFTa3RCV1ZoemIyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCamMzZGtaVjlzY1RSSFRucFFTa3RCV1ZoemIyYxAB!2m1!1s0x340401a179616a13:0x29eb761e1da5f0cc"
+      },
+      {
+        "name": "places/ChIJE2pheaEBBDQRzPClHR526yk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ndFpXaG9VVGRQV2xoWk9FNUJVMHRsUmtGS09VRRAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Bake House在山頂的凌宵閣又開了分店。位置在以前Pacific Coffee。有風景可以看!\n\n店內其實有很多空的座位，但門口仍有很多人在排隊。不等了!前往前面的觀景台野餐吃蛋撻。\n\n招牌酸種蛋撻有些凍，有些隔夜感覺!估計放了很久!皮都軟了，如果放在暖櫃，皮可以脆些。\n\nCinnamon Roll(玉桂捲)反而有驚喜!表面的糖漿滲入柔軟的麵包內，加上玉桂粉的清香，很新鮮，很好吃不要錯過!",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Bake House在山頂的凌宵閣又開了分店。位置在以前Pacific Coffee。有風景可以看!\n\n店內其實有很多空的座位，但門口仍有很多人在排隊。不等了!前往前面的觀景台野餐吃蛋撻。\n\n招牌酸種蛋撻有些凍，有些隔夜感覺!估計放了很久!皮都軟了，如果放在暖櫃，皮可以脆些。\n\nCinnamon Roll(玉桂捲)反而有驚喜!表面的糖漿滲入柔軟的麵包內，加上玉桂粉的清香，很新鮮，很好吃不要錯過!",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Moon Cloud",
+          "uri": "https://www.google.com/maps/contrib/112272176449637012202/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0cSDL0Udnf9RQqJD0PES3e9uJhZG_qluyL7ac_Nlz-LW9mOsgPA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-04-09T01:15:22.488496389Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ndFpXaG9VVGRQV2xoWk9FNUJVMHRsUmtGS09VRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ndFpXaG9VVGRQV2xoWk9FNUJVMHRsUmtGS09VRRAB!2m1!1s0x340401a179616a13:0x29eb761e1da5f0cc"
+      },
+      {
+        "name": "places/ChIJE2pheaEBBDQRzPClHR526yk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxTWFWTldZVEZSU3prME16UnRhazFhTlRGcGFIYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "很IG available 的一家分店，可與香港標誌的欖車打卡，食物就是每一家分店都一樣，也是我個人喜歡我口味😂",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很IG available 的一家分店，可與香港標誌的欖車打卡，食物就是每一家分店都一樣，也是我個人喜歡我口味😂",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yen Cheung",
+          "uri": "https://www.google.com/maps/contrib/112173218644339490229/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgcgpIGKccznXcSqFW9o81gmoPh92sB03ht32xcqk2pS70jlwKag=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-07-26T04:02:40.425310192Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxTWFWTldZVEZSU3prME16UnRhazFhTlRGcGFIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxTWFWTldZVEZSU3prME16UnRhazFhTlRGcGFIYxAB!2m1!1s0x340401a179616a13:0x29eb761e1da5f0cc"
+      }
+    ],
+    "servesCoffee": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401a179616a13:0x29eb761e1da5f0cc!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3020637846800560332&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401a179616a13:0x29eb761e1da5f0cc!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401a179616a13:0x29eb761e1da5f0cc!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401a179616a13:0x29eb761e1da5f0cc!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJE2pheaEBBDQRzPClHR526yk/photos/Aa-ngMZDhvrE1V4vgYTeSiNAjMVgG5FF4m0gS8APNIhlqmuN9Qz65YJn4XsYtgLPRfd8rbejviUghiqsyteCHnKRN6KTUadywsy6wWd_kGmCnumvdCSLvfmv_EbOlYJk0ndHSKz5zov2eihn4w824-SRxeyoa5b_AzDNLsS6Ba06J-rwExxsIY74hbXsk11021Zb-HnpJm2vNdTXrrKeZ0DN2JETfDzVmEtNtf9RKbvljjOUxNk_0NzDiP4KKtRAEefZoZlhPrjJMkJUzbN4aUFJxUNwchfUGStqP9pdP8LPJpeanvyRxkB2B4wVeWbzc6-Ccu6NhoGsE4jJnJ-vxxdvpTxSl5T--Np-OpmeqgaaR6AobuEWBQvm64otwXmE7ROlygXB90QtyqWMsL9LYWu6qSt3lye_v7Njaal9Bl-5noT1kg",
+      "widthPx": 4800,
+      "heightPx": 3199,
+      "authorAttributions": [
+        {
+          "displayName": "Bakehouse",
+          "uri": "https://maps.google.com/maps/contrib/112003551707103364300",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSCkpRTk1aTfbIqOzwj1SUWDRLlop1HNXmIoe7T3QybuIJrQg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAPUHS1Q6wdMWLSPxZ9XKe4&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAPUHS1Q6wdMWLSPxZ9XKe4!2e10!4m2!3m1!1s0x340401a179616a13:0x29eb761e1da5f0cc"
+    },
+    "local_path": "photos/ChIJE2pheaEBBDQRzPClHR526yk.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLejaV8TefozWOwAdH83XMtUh3LMjv7pZUlb7E-YDJpe5YXnBiq5CeN7_cz6CRIB1SivHodGHe8Ncojf0-JJgatrm3Eeh9NLoQ-PBEqKE1wIKVQ_dvbtFqKROh0G38j1tlIXdoQ83v3-oQYS=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 159719
+  },
+  "website_links": {
+    "booking": [],
+    "menu": [
+      {
+        "url": "https://www.bakehouse.hk/menu",
+        "label": "Bakery",
+        "source_url": "https://www.bakehouse.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.bakehouse.hk/wanchai-cafe-menu",
+        "label": "Wanchai",
+        "source_url": "https://www.bakehouse.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.bakehouse.hk/sha-tin-restaurant-menu",
+        "label": "Sha Tin",
+        "source_url": "https://www.bakehouse.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bakery",
+    "label": "烘焙屋",
+    "types": [
+      "bakery",
+      "coffee_shop",
+      "cafe",
+      "pastry_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": "https://www.bakehouse.hk/menu"
+}

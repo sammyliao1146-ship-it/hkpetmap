@@ -1,0 +1,465 @@
+{
+  "google_place_id": "ChIJmUPUNrkDBDQRo2IqP2claxA",
+  "restaurant_ids": [
+    "restaurant:2298807237"
+  ],
+  "fetched_at": "2026-10-23T15:46:08.525126+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJmUPUNrkDBDQRo2IqP2claxA",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2811 1957",
+    "internationalPhoneNumber": "+852 2811 1957",
+    "formattedAddress": "Shop 333, Level 3, 日出康城商場1 Lohas Park Rd, Tseung Kwan O, New Territories, 香港",
+    "location": {
+      "latitude": 22.295334,
+      "longitude": 114.26995009999999
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=1183080452486488739&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.modernshanghai.com.hk/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 17:00, 17:30 – 22:30",
+        "星期二: 11:30 – 17:00, 17:30 – 22:30",
+        "星期三: 11:30 – 17:00, 17:30 – 22:30",
+        "星期四: 11:30 – 17:00, 17:30 – 22:30",
+        "星期五: 11:30 – 17:00, 17:30 – 22:30",
+        "星期六: 11:30 – 17:00, 17:30 – 22:30",
+        "星期日: 11:30 – 17:00, 17:30 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 179,
+    "displayName": {
+      "text": "御 · 家上海 Modern Shanghai Imperial (康城 The LOHAS)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesVegetarianFood": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJmUPUNrkDBDQRo2IqP2claxA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WRmNtWnRSV0ZEZEZOaFUwSlJlRkl6VkdKSk5HYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "抵食上海菜，300蚊人頭，無投訴，地方闊落，坐得舒服\n比較鍾意蟹粉蝦仁(好多蟹粉🫨)，荔枝蝦球(脆卜卜)同煎小籠包(鐵板keep到暖同湯汁)\n其實隻雞都唔錯，皮多薄同脆，但係朋友就嫌咸左啲(我鍾意重口味)😂",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "抵食上海菜，300蚊人頭，無投訴，地方闊落，坐得舒服\n比較鍾意蟹粉蝦仁(好多蟹粉🫨)，荔枝蝦球(脆卜卜)同煎小籠包(鐵板keep到暖同湯汁)\n其實隻雞都唔錯，皮多薄同脆，但係朋友就嫌咸左啲(我鍾意重口味)😂",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Reith Chan",
+          "uri": "https://www.google.com/maps/contrib/117356486638001012432/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLFnqH5XRDFW9AKke6FPRY3ZE2W5IhhX07pgY8_mt6umFavzfES=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-29T12:52:05.556253714Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WRmNtWnRSV0ZEZEZOaFUwSlJlRkl6VkdKSk5HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WRmNtWnRSV0ZEZEZOaFUwSlJlRkl6VkdKSk5HYxAB!2m1!1s0x340403b936d44399:0x106b25673f2a62a3"
+      },
+      {
+        "name": "places/ChIJmUPUNrkDBDQRo2IqP2claxA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkS2EwTjZZV1YwTVZaR016SnJVbk15V0ZSamRYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "Spent around 650HKD, absolutely worth it !\n\nWhat I ordered:\n鍋塌豆腐 (must order !)\n炸銀絲卷\n金牌大排湯麵\n荔枝蝦球 （this one is OK, good idea but I think the taste of lychee can be stronger)\n紅油抄手 (must order !)\n樟茶鴨 (invented by royal chef back in Qing Dynasty)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Spent around 650HKD, absolutely worth it !\n\nWhat I ordered:\n鍋塌豆腐 (must order !)\n炸銀絲卷\n金牌大排湯麵\n荔枝蝦球 （this one is OK, good idea but I think the taste of lychee can be stronger)\n紅油抄手 (must order !)\n樟茶鴨 (invented by royal chef back in Qing Dynasty)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Karso",
+          "uri": "https://www.google.com/maps/contrib/103152946013850126459/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2LofPqC52lxaOlMKE9EQnofPoWFNWuF7QvZ9B1uGMS5a7O3s=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-03T09:05:18.350705266Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkS2EwTjZZV1YwTVZaR016SnJVbk15V0ZSamRYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkS2EwTjZZV1YwTVZaR016SnJVbk15V0ZSamRYYxAB!2m1!1s0x340403b936d44399:0x106b25673f2a62a3"
+      },
+      {
+        "name": "places/ChIJmUPUNrkDBDQRo2IqP2claxA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzNE5FbGlkR293Ym5wak0wSTRXWFJMTjFCTE5GRRAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "臭豆腐好好味,其餘菜式都有水準,可以encore.  不過個場比較嘈吵,傾偈都要好大聲",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "臭豆腐好好味,其餘菜式都有水準,可以encore.  不過個場比較嘈吵,傾偈都要好大聲",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "KY",
+          "uri": "https://www.google.com/maps/contrib/107942168769813656385/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUlHcCP7tBFEftcVJNpTwZS27G-eCvedy9Mpk306rBYj75iME0=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-07-10T12:29:17.434879187Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzNE5FbGlkR293Ym5wak0wSTRXWFJMTjFCTE5GRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzNE5FbGlkR293Ym5wak0wSTRXWFJMTjFCTE5GRRAB!2m1!1s0x340403b936d44399:0x106b25673f2a62a3"
+      },
+      {
+        "name": "places/ChIJmUPUNrkDBDQRo2IqP2claxA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWQk9HZG9XWGM0YlV4U2JtSnFiVEpVTjAxVFVIYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 4,
+        "text": {
+          "text": "我們一家都非常喜歡的上海菜館，每有客人從海外來港一定帶他們去品嚐！最喜歡他們的小籠包、酸辣湯、上海粗炒等等👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "我們一家都非常喜歡的上海菜館，每有客人從海外來港一定帶他們去品嚐！最喜歡他們的小籠包、酸辣湯、上海粗炒等等👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Alicia Chan",
+          "uri": "https://www.google.com/maps/contrib/100047506399475874880/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0jzVXWNWbXPnDV22qsWE1BEewnXxjz29k9Lr6E1pgW8ho7g=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-17T13:03:31.117797275Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWQk9HZG9XWGM0YlV4U2JtSnFiVEpVTjAxVFVIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWQk9HZG9XWGM0YlV4U2JtSnFiVEpVTjAxVFVIYxAB!2m1!1s0x340403b936d44399:0x106b25673f2a62a3"
+      },
+      {
+        "name": "places/ChIJmUPUNrkDBDQRo2IqP2claxA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CT1YyUXRja1J4TFZKUE9YQm1hR1poVUc1eE4yYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "呢餐上海菜唔錯！小籠包皮薄多汁，鮮甜熱辣辣。拼盤嘅冷盤好豐富，特別鍾意醉雞入口好嫩滑，整體味道地道，值得一試！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "呢餐上海菜唔錯！小籠包皮薄多汁，鮮甜熱辣辣。拼盤嘅冷盤好豐富，特別鍾意醉雞入口好嫩滑，整體味道地道，值得一試！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Emma Chow",
+          "uri": "https://www.google.com/maps/contrib/100927958853911515389/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_BFmejPl150eYH50jrDR6yEJKkBULirOYPUZ2UNEblDgVsbs=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-06-06T11:04:13.731957646Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CT1YyUXRja1J4TFZKUE9YQm1hR1poVUc1eE4yYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CT1YyUXRja1J4TFZKUE9YQm1hR1poVUc1eE4yYxAB!2m1!1s0x340403b936d44399:0x106b25673f2a62a3"
+      }
+    ],
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340403b936d44399:0x106b25673f2a62a3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1183080452486488739&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403b936d44399:0x106b25673f2a62a3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340403b936d44399:0x106b25673f2a62a3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340403b936d44399:0x106b25673f2a62a3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJmUPUNrkDBDQRo2IqP2claxA/photos/Aa-ngMbsBHh6_Z-3bnYcBdrhx8iyLko_jPk7eNeUXCECJqv-2ujU-DLbYW8x2zmFDdlnwA9QrdBsAJwuPG1lQ0MlWi7YQ7C703otlOUKMwusrO5UDnsVSDFU1tQBSwK8ZOFH4YCNs3hIDN_vDbe2FjMAdehSavR1wGLxRe6bhuZlhwu93hbUW3XY3MPcV9kmt8pElE0ovUpDRCSRTDxAPd2KZPhII_rFwtECzCSsKpK3oUkQZF1vaXWwsaiZ29d2rDMZjYsPYotxG1m0UwKug2yHrHmBwLap4mobxqgecFjAtZt5LdLJ09ilqRvUwye6KJu8CeYfe5Rv-qxGrUumI9wra1X1n7IEH4YQ0wniTdzyMVX6Y5qO8mzi8c2AqcLQT2h5yWPZRQmp2ck0C7NltxW6oSPdaFF6LZ0",
+      "widthPx": 3735,
+      "heightPx": 2801,
+      "authorAttributions": [
+        {
+          "displayName": "御 · 家上海 Modern Shanghai Imperial (康城 The LOHAS)",
+          "uri": "https://maps.google.com/maps/contrib/104551412070759200867",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbqptrkwTpjpjc7txTx8bBq9UrBaVSqkLbFCOjw24nsiekfZI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICzt8CLxAE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzt8CLxAE!2e10!4m2!3m1!1s0x340403b936d44399:0x106b25673f2a62a3"
+    },
+    "local_path": "photos/ChIJmUPUNrkDBDQRo2IqP2claxA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOVNxXjNNW3c2oD4ek-WpPRNPMqM0rK0SNoGnyBxALMWPNPhqw1qiN6Ug4tzz8dkl78z8f3ultKES5fSUmt3Xyu462SJm9k4oDdK49OtKMPXK2cxV-h2z1zbxzCOP-vRzFqXokhw=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 132383
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.modernshanghai.com.hk/",
+        "label": "Book Now",
+        "source_url": "https://www.modernshanghai.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.modernshanghai.com.hk/menu.php",
+        "label": "Menu",
+        "source_url": "https://www.modernshanghai.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.modernshanghai.com.hk/menu.php?sid=1",
+        "label": "YOHO Mall",
+        "source_url": "https://www.modernshanghai.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.modernshanghai.com.hk/menu.php?sid=2",
+        "label": "Olympian City",
+        "source_url": "https://www.modernshanghai.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.modernshanghai.com.hk/menu.php?sid=6",
+        "label": "East Point City",
+        "source_url": "https://www.modernshanghai.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.modernshanghai.com.hk/menu.php?sid=7",
+        "label": "The Wai",
+        "source_url": "https://www.modernshanghai.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.modernshanghai.com.hk/menu.php?sid=8",
+        "label": "The LOHAS",
+        "source_url": "https://www.modernshanghai.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.modernshanghai.com.hk/menu.php?sid=9",
+        "label": "Festival Walk",
+        "source_url": "https://www.modernshanghai.com.hk/",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.modernshanghai.com.hk/menu.php?sid=21",
+        "label": "V Walk",
+        "source_url": "https://www.modernshanghai.com.hk/",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.modernshanghai.com.hk/",
+  "menu_url": "https://www.modernshanghai.com.hk/menu.php"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ChIJSWKHWUEFBDQRPt2KGFKWKyU",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "158 Pak Kong, New Village, Sai Kung, New Territories, 香港",
+  "location": {
+    "latitude": 22.379483699999998,
+    "longitude": 114.25818729999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2678399682745130302&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "Dogs, Inc.",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJSWKHWUEFBDQRPt2KGFKWKyU/photos/Aa-ngMZ28x34SnoIfDXjjpnRS93Q2lZONsVan7ydEz71uoEEVAlfBvwb24NB5t78mdf34EvjqitmqVWJ2BaP1a2JxocRhBIbkeIks5c-F4htczRkcidMScTUzbisdvHsfHeQ6OQFlFeYqoFg-GZJ12N_Rai1RlHXZ2-xLdy6jTxuiq01vzbROrhNzLN6TN3SwsIZoUu_ohmCHUiVDlDubw31k48286G5gfY4LUsnwEEesBU55_2KxXuq0efHuM63GH-KaBl7NN26QfF_qMi6HAOVPVM_60b40BXk9AwRsmCVPl6n7LFEFuTTp7E0coSpj1HbGrcaVtGmdzm5HD74FlPlTGkmNNIlsJDmIH8kAFnXcV_HN9WfoHJLRltI_FAyHIWuQhr3EYEKETSIuNCH2cReNDat9lw",
+      "widthPx": 1440,
+      "heightPx": 1440,
+      "authorAttributions": [
+        {
+          "displayName": "Clare Benson Lock",
+          "uri": "https://maps.google.com/maps/contrib/107159515538828271939",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKM3DI1RHjLe3e0J7UNmY5XxD9DYN9VKO8lffiPfPwNE7tsjw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDx_OOKbQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx_OOKbQ!2e10!4m2!3m1!1s0x3404054159876249:0x252b9652188add3e"
+    }
+  ],
+  "photo_count": 4,
+  "fetched_at": "2026-10-24T00:38:09.352147+00:00"
+}

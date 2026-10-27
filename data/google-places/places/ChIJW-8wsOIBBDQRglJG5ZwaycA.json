@@ -1,0 +1,412 @@
+{
+  "google_place_id": "ChIJW-8wsOIBBDQRglJG5ZwaycA",
+  "restaurant_ids": [
+    "restaurant:2296803666"
+  ],
+  "fetched_at": "2026-10-23T15:39:02.593857+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJW-8wsOIBBDQRglJG5ZwaycA",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2739 8323",
+    "internationalPhoneNumber": "+852 2739 8323",
+    "formattedAddress": "香港九龍觀塘開源道79號7樓",
+    "location": {
+      "latitude": 22.3117442,
+      "longitude": 114.22558269999999
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=13891663786764817026&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 08:00 – 15:30, 18:00 – 23:00",
+        "星期二: 08:00 – 15:30, 18:00 – 23:00",
+        "星期三: 08:00 – 15:30, 18:00 – 23:00",
+        "星期四: 08:00 – 15:30, 18:00 – 23:00",
+        "星期五: 08:00 – 15:30, 18:00 – 23:00",
+        "星期六: 08:00 – 15:30, 18:00 – 23:00",
+        "星期日: 08:00 – 15:30, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T00:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 129,
+    "displayName": {
+      "text": "滿福庭 海鮮酒家",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJW-8wsOIBBDQRglJG5ZwaycA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25waFRFWk5WRVZhWkdWWmRGTTJTbUo2YkVkM2JGRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 5,
+        "text": {
+          "text": "朋友介紹觀塘滿福庭午市點心幾有驚喜\n優惠點心$9.8起\n今次約埋屋企人去試吓🤓\n酒樓裝修以典雅金致風格為主\n設有水晶吊燈同宴會廳樓底夠高\n比起一般街坊舊式酒樓更有空間感\n\n燒賣 ($25.6 / 兩籠 4 件)\n燒賣餡料結實彈牙，上面配埋蟹籽點綴\n咬落肉汁豐富，有水準\n\n黃金七味豆腐粒 ($58)\n外層炸得金黃鬆脆\n一口咬開入面豆腐超嫩滑！\n七味粉同鹹香調味啱啱好 點埋醋食更提味\n\n蒜茸粉絲蒸元貝 ($88 / 4 隻)\n元貝熟度剛剛好，口感鮮嫩\n配合大量蒜茸同蔥花\n底層吸滿精華嘅粉絲超入味\n喺酒樓見到呢個價錢有四隻仲要新鮮有質素\n真係好抵🤣\n\n豉椒鵝腸炒麵 ($68)\n炒得夠鑊氣 麵底炸香脆\n豉椒醬汁均勻包裹每條麵\n鵝腸爽口不油膩，份量亦好足！\n\n檸檬蜜蛋散 ($12.8)\n呢道甜品做句號一流！蛋散炸得非常鬆脆\n淋上香甜嘅蜜糖再撒上椰絲 入口即溶🤓",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "朋友介紹觀塘滿福庭午市點心幾有驚喜\n優惠點心$9.8起\n今次約埋屋企人去試吓🤓\n酒樓裝修以典雅金致風格為主\n設有水晶吊燈同宴會廳樓底夠高\n比起一般街坊舊式酒樓更有空間感\n\n燒賣 ($25.6 / 兩籠 4 件)\n燒賣餡料結實彈牙，上面配埋蟹籽點綴\n咬落肉汁豐富，有水準\n\n黃金七味豆腐粒 ($58)\n外層炸得金黃鬆脆\n一口咬開入面豆腐超嫩滑！\n七味粉同鹹香調味啱啱好 點埋醋食更提味\n\n蒜茸粉絲蒸元貝 ($88 / 4 隻)\n元貝熟度剛剛好，口感鮮嫩\n配合大量蒜茸同蔥花\n底層吸滿精華嘅粉絲超入味\n喺酒樓見到呢個價錢有四隻仲要新鮮有質素\n真係好抵🤣\n\n豉椒鵝腸炒麵 ($68)\n炒得夠鑊氣 麵底炸香脆\n豉椒醬汁均勻包裹每條麵\n鵝腸爽口不油膩，份量亦好足！\n\n檸檬蜜蛋散 ($12.8)\n呢道甜品做句號一流！蛋散炸得非常鬆脆\n淋上香甜嘅蜜糖再撒上椰絲 入口即溶🤓",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "duffyyy",
+          "uri": "https://www.google.com/maps/contrib/117031528985392425524/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3dTZFptAbAhAZmva_JlvhQuSmIaD7RqBkkxw6r2UOlbE_iw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-09-06T12:43:18.939991653Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25waFRFWk5WRVZhWkdWWmRGTTJTbUo2YkVkM2JGRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25waFRFWk5WRVZhWkdWWmRGTTJTbUo2YkVkM2JGRRAB!2m1!1s0x340401e2b030ef5b:0xc0c91a9ce5465282"
+      },
+      {
+        "name": "places/ChIJW-8wsOIBBDQRglJG5ZwaycA/reviews/Ci9DQUlRQUNvZENodHljRjlvT214MVNERkJWbEEzVDNCbVQxQjJjMmhVYW5KUGRYYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今次去一間觀塘商廈里的中式酒樓飲茶，主打港式點心。環境不算花巧，寬敞舒服，侍應落單也快。樓下泊車搭lift就可以直達，可惜的是沒有消費泊車優惠。\n\n朋友想吃燒鵝，剛好午市孖寶有燒鵝，「滿福孖寶」，包括燒鵝 1/4 隻及蔥花上湯米粉一窩。燒鵝肉質唔乾，皮面油潤，肥瘦比例平均，用嚟配米粉一齊食就啱晒。  「蔥花上湯米粉」好大一窩，足夠4個人享用，米粉條身偏幼滑，上湯味道清香，再用蔥花提鮮。\n\n酒樓當然要吃點心，「蚧子燒賣」燒賣皮薄，熱度夠、餡飽滿。「薑汁雞包仔」熱騰騰，薑汁味有但唔算刺激，係比較溫和的走向；雞肉亦算細嫩。  「蜜汁叉燒包」甜香足夠，叉燒餡味道偏濃郁，食嘅時候覺得甜度控制得幾舒服，唔會一食就膩。  「香茜牛肉腸」牛肉腸口感有彈性，味道濃淡分配都合理。 「鮑汁炆雞腳」好入味，雞腳吾會過淋，保持應有口感",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次去一間觀塘商廈里的中式酒樓飲茶，主打港式點心。環境不算花巧，寬敞舒服，侍應落單也快。樓下泊車搭lift就可以直達，可惜的是沒有消費泊車優惠。\n\n朋友想吃燒鵝，剛好午市孖寶有燒鵝，「滿福孖寶」，包括燒鵝 1/4 隻及蔥花上湯米粉一窩。燒鵝肉質唔乾，皮面油潤，肥瘦比例平均，用嚟配米粉一齊食就啱晒。  「蔥花上湯米粉」好大一窩，足夠4個人享用，米粉條身偏幼滑，上湯味道清香，再用蔥花提鮮。\n\n酒樓當然要吃點心，「蚧子燒賣」燒賣皮薄，熱度夠、餡飽滿。「薑汁雞包仔」熱騰騰，薑汁味有但唔算刺激，係比較溫和的走向；雞肉亦算細嫩。  「蜜汁叉燒包」甜香足夠，叉燒餡味道偏濃郁，食嘅時候覺得甜度控制得幾舒服，唔會一食就膩。  「香茜牛肉腸」牛肉腸口感有彈性，味道濃淡分配都合理。 「鮑汁炆雞腳」好入味，雞腳吾會過淋，保持應有口感",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Firefire",
+          "uri": "https://www.google.com/maps/contrib/101408374055982984647/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWA7bPWiZSggeEM1rEJvYsfB3kUymrgg2Ir_c-ZnD2FLVD6yAmA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-08-12T11:02:11.038677968Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214MVNERkJWbEEzVDNCbVQxQjJjMmhVYW5KUGRYYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214MVNERkJWbEEzVDNCbVQxQjJjMmhVYW5KUGRYYxAB!2m1!1s0x340401e2b030ef5b:0xc0c91a9ce5465282"
+      },
+      {
+        "name": "places/ChIJW-8wsOIBBDQRglJG5ZwaycA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twSU5IaFBjMmwyYldkSlVtZDRZbVpFVVdWUVMzYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今次去左觀塘飲茶，兩個人叫左幾款點心，整體感覺幾有驚喜，性價比好高！👍\n\n月半灣水晶鮮蝦餃皇，粒粒都好飽滿。外皮通透得黎帶點煙韌，入面嘅蝦肉好爽口彈牙，啖啖肉。之後黎嘅香噴噴流沙包真係冇起錯名，一撕開黃金流沙真係湧出黎，鹹蛋黃香同甜味平衡得啱啱好，熱辣辣食超正！個皮真俾有抹茶味，幾特別😋叉燒包唔會太鹹，好食！\n\n另外，紅油抄手微辣帶酸，幾開胃。帶子海皇卷幾特別，入面嘅海鮮餡料都好足。最後食埋個外脆內軟、煙煙韌韌嘅安蝦咸水角，估唔到外皮炸得咁香脆，入面嘅餡料又夠惹味，口感層次好豐富。\n呢度環境幾闊落，上菜速度都算快。喺觀塘區黎講算係非常划算，絕對會再回頭！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今次去左觀塘飲茶，兩個人叫左幾款點心，整體感覺幾有驚喜，性價比好高！👍\n\n月半灣水晶鮮蝦餃皇，粒粒都好飽滿。外皮通透得黎帶點煙韌，入面嘅蝦肉好爽口彈牙，啖啖肉。之後黎嘅香噴噴流沙包真係冇起錯名，一撕開黃金流沙真係湧出黎，鹹蛋黃香同甜味平衡得啱啱好，熱辣辣食超正！個皮真俾有抹茶味，幾特別😋叉燒包唔會太鹹，好食！\n\n另外，紅油抄手微辣帶酸，幾開胃。帶子海皇卷幾特別，入面嘅海鮮餡料都好足。最後食埋個外脆內軟、煙煙韌韌嘅安蝦咸水角，估唔到外皮炸得咁香脆，入面嘅餡料又夠惹味，口感層次好豐富。\n呢度環境幾闊落，上菜速度都算快。喺觀塘區黎講算係非常划算，絕對會再回頭！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Rita",
+          "uri": "https://www.google.com/maps/contrib/117974011929797996999/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRyk9AiJx9D-SYoKdWWO3Wioaq9LgxXcnc4EIZNzsbfA1dZA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-13T16:00:43.479931139Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twSU5IaFBjMmwyYldkSlVtZDRZbVpFVVdWUVMzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twSU5IaFBjMmwyYldkSlVtZDRZbVpFVVdWUVMzYxAB!2m1!1s0x340401e2b030ef5b:0xc0c91a9ce5465282"
+      },
+      {
+        "name": "places/ChIJW-8wsOIBBDQRglJG5ZwaycA/reviews/Ci9DQUlRQUNvZENodHljRjlvT214b1pHZ3dTRzFmUTBwVFVGOWtWUzB5YTBaWE1VRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "今日去飲茶兼涼冷氣，店內環境乾淨企理，食物高質。\n\n古法馬拉糕\n一上枱就聞到淡淡嘅麥香，入面濕潤鬆軟，口感綿密，食落有古早風味。\n\n三姐潮州粉果\n粉皮薄而帶韌度，內餡足料，味道不錯。\n\n永和鎮鮮竹牛肉球\n牛肉球外層香口，咬落結實又有彈性，肉味濃，係我至愛。\n\n蜜汁叉燒包\n叉燒包皮鬆軟，食落帶微甜蜜香；餡料係重叉燒香，配熱茶很好。\n\n活剁生拆黃鮮蝦腸\n蝦嘅鮮味好直接，口感爽彈但又唔會腥，而且質感細緻。腸粉順滑，絕對值得一試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "今日去飲茶兼涼冷氣，店內環境乾淨企理，食物高質。\n\n古法馬拉糕\n一上枱就聞到淡淡嘅麥香，入面濕潤鬆軟，口感綿密，食落有古早風味。\n\n三姐潮州粉果\n粉皮薄而帶韌度，內餡足料，味道不錯。\n\n永和鎮鮮竹牛肉球\n牛肉球外層香口，咬落結實又有彈性，肉味濃，係我至愛。\n\n蜜汁叉燒包\n叉燒包皮鬆軟，食落帶微甜蜜香；餡料係重叉燒香，配熱茶很好。\n\n活剁生拆黃鮮蝦腸\n蝦嘅鮮味好直接，口感爽彈但又唔會腥，而且質感細緻。腸粉順滑，絕對值得一試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tai Ruby",
+          "uri": "https://www.google.com/maps/contrib/108179502753409687433/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlSD-Su0H7dkPcV5FwOMumU9f_VXTdrCCnP6eUYQ8BkPj8pw0=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-05-30T09:00:33.107506025Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214b1pHZ3dTRzFmUTBwVFVGOWtWUzB5YTBaWE1VRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214b1pHZ3dTRzFmUTBwVFVGOWtWUzB5YTBaWE1VRRAB!2m1!1s0x340401e2b030ef5b:0xc0c91a9ce5465282"
+      },
+      {
+        "name": "places/ChIJW-8wsOIBBDQRglJG5ZwaycA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoS1JEaENRVlV4YjFOS2RGbEVORVJSVldzMFlsRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "🍋檸檬蜜蛋散 – 必食！蛋散超鬆化，淋上檸檬蜜糖，酸甜清爽，食完一件忍唔住再拎多件。\n\n🦑七味炸魷魚鬚 – 熱辣辣上枱，脆漿薄到透光，七味粉微辣惹味。\n\n🦢迷你干燒伊麵 – 話迷你但都大大碟又足料，老抽上色均勻，冬菇韭黃份量夠，鑊氣滿分。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🍋檸檬蜜蛋散 – 必食！蛋散超鬆化，淋上檸檬蜜糖，酸甜清爽，食完一件忍唔住再拎多件。\n\n🦑七味炸魷魚鬚 – 熱辣辣上枱，脆漿薄到透光，七味粉微辣惹味。\n\n🦢迷你干燒伊麵 – 話迷你但都大大碟又足料，老抽上色均勻，冬菇韭黃份量夠，鑊氣滿分。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Baby Directs",
+          "uri": "https://www.google.com/maps/contrib/102149664151743968687/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKbC5IAl3Cs4AnaCFi8S9I5jaaC3ZqxNrV_DV1dbrGw9uVc1Q=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-14T06:06:51.470500203Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoS1JEaENRVlV4YjFOS2RGbEVORVJSVldzMFlsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoS1JEaENRVlV4YjFOS2RGbEVORVJSVldzMFlsRRAB!2m1!1s0x340401e2b030ef5b:0xc0c91a9ce5465282"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401e2b030ef5b:0xc0c91a9ce5465282!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13891663786764817026&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401e2b030ef5b:0xc0c91a9ce5465282!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401e2b030ef5b:0xc0c91a9ce5465282!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401e2b030ef5b:0xc0c91a9ce5465282!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJW-8wsOIBBDQRglJG5ZwaycA/photos/Aa-ngMYtsbOKDwtWgb7sc0rNdKSXlgAe-0UuJOJ_9lm4xTIcc3VW1PfNXln1ObFSStr3Ezs4FyCMzmjnt8NaxL2RLX5-5ypahekCsXcb5aLiqqZVe4VSV3JAqphxuzcuRbdFqrn4WvP8jT58b-jKiMHG0LTzyyHD8oSzLkuFj48Db0hVzn7iqPqmc0igPIq4xoOnZUJeUeY0Dkz76v4CB9S_BDQfZq3wSm8ffHgZHQLzvi77dTCVb_U-6pSPJnbsZ88ixNBbXp-t4rxlPnnZQ-86sayIgPtH6b9sO4o_nLJslu3JRcF8l5NaqhYjrGQ58JOx08nnnGzVyKiQ0mMVfw0APT55SJ_U5VIT0iAp9A4ueNR88mEemztXbsgm8jRSQ_Aj17n0Sc0qjmNm8zypLWBUYhqdjeCrZDRlDbNvZcvFWrjm",
+      "widthPx": 2560,
+      "heightPx": 1440,
+      "authorAttributions": [
+        {
+          "displayName": "Joseph Chow",
+          "uri": "https://maps.google.com/maps/contrib/104018543097594585882",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3BnGdzi0vNLG7mfCIVRfokJAgKrNLBF459ceRf0QQhmuSpuA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDa45HMn4T7ptpuFTCtJpLb&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDa45HMn4T7ptpuFTCtJpLb!2e10!4m2!3m1!1s0x340401e2b030ef5b:0xc0c91a9ce5465282"
+    },
+    "local_path": "photos/ChIJW-8wsOIBBDQRglJG5ZwaycA.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc16yajuE7-JWaDc6MvVHkuKwDiIBTDlc6RPk3oLVNuBZ3sDCWzqwhnUW0F9I4R7YmV6kWrKh8qBjodpKfubEpRDq8-WQ1QawaYZQVIVP2IN7pPrpKGkmFl6aT1GNHPaMEfw1rpmJJRPNQ=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 137962
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,318 @@
+{
+  "google_place_id": "ChIJ0zeKYQz5AzQR7flhGPnLHZs",
+  "restaurant_ids": [
+    "restaurant:2292810040"
+  ],
+  "fetched_at": "2026-10-23T15:41:12.878367+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ0zeKYQz5AzQR7flhGPnLHZs",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3168 8006",
+    "internationalPhoneNumber": "+852 3168 8006",
+    "formattedAddress": "G37, Smartland, 16 Tsuen Wah St, Tsuen Wan, New Territories, 香港",
+    "location": {
+      "latitude": 22.3684071,
+      "longitude": 114.1212884
+    },
+    "rating": 3.2,
+    "googleMapsUri": "https://maps.google.com/?cid=11177314120919808493&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 6,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 06:30 – 21:00",
+        "星期二: 06:30 – 21:00",
+        "星期三: 06:30 – 21:00",
+        "星期四: 06:30 – 21:00",
+        "星期五: 06:30 – 21:00",
+        "星期六: 06:30 – 21:00",
+        "星期日: 06:30 – 21:00"
+      ],
+      "nextOpenTime": "2026-10-23T22:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 32,
+    "displayName": {
+      "text": "百份百餐廳 (荃薈)",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": false,
+    "servesWine": false,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ0zeKYQz5AzQR7flhGPnLHZs/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0MUlPVmZ3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "整體味道唔錯，抵食。\n\n最正係杯咖啡紅豆冰。\n\n呢間連鎖餐的水準比較浮動。每一分店的各項食品的風味變化比較大，但每間分店的品質又控制得幾穩定。食佢地就好像開盲盒咁。\n\n衛生，職員等都係正常水準。\n\n過左段時間又再來食，保持到水準。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "整體味道唔錯，抵食。\n\n最正係杯咖啡紅豆冰。\n\n呢間連鎖餐的水準比較浮動。每一分店的各項食品的風味變化比較大，但每間分店的品質又控制得幾穩定。食佢地就好像開盲盒咁。\n\n衛生，職員等都係正常水準。\n\n過左段時間又再來食，保持到水準。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ka ho lai",
+          "uri": "https://www.google.com/maps/contrib/104366232887860561087/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9IiwP7yBrU0PfKrYjehp4b9gq_OTh8R8flKGlWSafAvKzfwYf=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-03-07T15:04:36.734976Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN0MUlPVmZ3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN0MUlPVmZ3EAE!2m1!1s0x3403f90c618a37d3:0x9b1dcbf91861f9ed"
+      },
+      {
+        "name": "places/ChIJ0zeKYQz5AzQR7flhGPnLHZs/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxcnVPYnNBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "差不多又到了🍽晚飯的時間，因工作關係途徑東亞花園商場，見到這間百分百的餐廳，見到有人在等位和叫外賣，餐廳裝修比較新淨，面積亦比一般茶餐廳大一些，不過坐位就有些迫夾感覺，等了約五分鐘就入座 。\n今日叫了個🐮牛扒伴🥖司華力腸配🐔雞扒晚餐。晚餐到了見到份量十足，牛扒一大片煎得恰好，沒有過老一切就能切開，而且醃製夠入味不錯。雞扒亦和牛扒般分量很多，而且同樣亦没有煮煎得過老而變得過乾的感覺，司華力腸搽上蜜糖來焗提升了甜蜜美味。值得一提的是這套餐用藜麥飯來代替白飯。\n餐飲叫了一杯紅豆冰🥡，不過質量一般，冰過多而花奶過少，令紅豆冰變得很淡味，而且紅豆亦煮 得不夠稔而覺得有點硬。\n今個晚餐整體上煮得不錯，以地區定價錢來說算不上抵但亦是可接受，下次亦會再過來一試。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "差不多又到了🍽晚飯的時間，因工作關係途徑東亞花園商場，見到這間百分百的餐廳，見到有人在等位和叫外賣，餐廳裝修比較新淨，面積亦比一般茶餐廳大一些，不過坐位就有些迫夾感覺，等了約五分鐘就入座 。\n今日叫了個🐮牛扒伴🥖司華力腸配🐔雞扒晚餐。晚餐到了見到份量十足，牛扒一大片煎得恰好，沒有過老一切就能切開，而且醃製夠入味不錯。雞扒亦和牛扒般分量很多，而且同樣亦没有煮煎得過老而變得過乾的感覺，司華力腸搽上蜜糖來焗提升了甜蜜美味。值得一提的是這套餐用藜麥飯來代替白飯。\n餐飲叫了一杯紅豆冰🥡，不過質量一般，冰過多而花奶過少，令紅豆冰變得很淡味，而且紅豆亦煮 得不夠稔而覺得有點硬。\n今個晚餐整體上煮得不錯，以地區定價錢來說算不上抵但亦是可接受，下次亦會再過來一試。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "chi pui cheung",
+          "uri": "https://www.google.com/maps/contrib/101922200132953147012/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWu2idT8Cn5DjJ1EVkrmkD8WSyTZRsNH0UHLZViMKGBxKF8rB-B=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-12-30T05:05:26.577364Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxcnVPYnNBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxcnVPYnNBRRAB!2m1!1s0x3403f90c618a37d3:0x9b1dcbf91861f9ed"
+      },
+      {
+        "name": "places/ChIJ0zeKYQz5AzQR7flhGPnLHZs/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0M0w2aGRREAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 2,
+        "text": {
+          "text": "一向有在此餐廳吃午飯, 尤其喜愛乾炒牛河, 可能這餐廳存在太久, 衛生問題沒留意, 雖然這小強還未成長, 但也太嘔心了吧！我沒有因此要求退貨或賠償, 只是向樓面伙計反映, 希望有關方面能有改善, 我也不希望自己的飯堂又少一間.",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一向有在此餐廳吃午飯, 尤其喜愛乾炒牛河, 可能這餐廳存在太久, 衛生問題沒留意, 雖然這小強還未成長, 但也太嘔心了吧！我沒有因此要求退貨或賠償, 只是向樓面伙計反映, 希望有關方面能有改善, 我也不希望自己的飯堂又少一間.",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "MiKe Tai",
+          "uri": "https://www.google.com/maps/contrib/114258557116622093459/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVrxQ0HULgf1RRE0i5N42gob8LNlx2Qd47qi2Ow9mR7YzO5ink0=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-02-03T04:27:48.991043Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR0M0w2aGRREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0M0w2aGRREAE!2m1!1s0x3403f90c618a37d3:0x9b1dcbf91861f9ed"
+      },
+      {
+        "name": "places/ChIJ0zeKYQz5AzQR7flhGPnLHZs/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0M00ybm5RRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "食物唔錯 起碼一定好過隔呢果間 樓下咩都唔熱既，雞扒早餐一份 冇樓下咁大份 但全部都係熱既 多士仲係脆既 蛋和腸雞扒都係熱既，杯凍咖啡 有啡味既，不過啲阿姐就 .... 扮睇唔到 見到你揮手都望望有冇其他員工有反應先，冇就當睇你唔到，最後收錢喇做自已野 唔你 企左幾分鐘先行過來問你係咪攞野，我話比錢 先同你收 係咪可以唔使比錢住呢？",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物唔錯 起碼一定好過隔呢果間 樓下咩都唔熱既，雞扒早餐一份 冇樓下咁大份 但全部都係熱既 多士仲係脆既 蛋和腸雞扒都係熱既，杯凍咖啡 有啡味既，不過啲阿姐就 .... 扮睇唔到 見到你揮手都望望有冇其他員工有反應先，冇就當睇你唔到，最後收錢喇做自已野 唔你 企左幾分鐘先行過來問你係咪攞野，我話比錢 先同你收 係咪可以唔使比錢住呢？",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "WAH WAH",
+          "uri": "https://www.google.com/maps/contrib/103371971956482695701/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVd6W44bBZzeA46on5MrK4Yu1YpoVAaI__Ctm-k4LFZwq1dXqM=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-02-03T04:49:40.314777Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0M00ybm5RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0M00ybm5RRRAB!2m1!1s0x3403f90c618a37d3:0x9b1dcbf91861f9ed"
+      },
+      {
+        "name": "places/ChIJ0zeKYQz5AzQR7flhGPnLHZs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOT2JrZHpWV2t3Y2xNd1owSm1OMkpET0ROb2JIYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 1,
+        "text": {
+          "text": "個部長熟客就會任佢哋揀位，其他客明明有位，都迫人坐角落。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "個部長熟客就會任佢哋揀位，其他客明明有位，都迫人坐角落。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Holly Walker",
+          "uri": "https://www.google.com/maps/contrib/101158592383120489833/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ7tClAZd_8-CC2buJmmsgFDpgyGhdTTluooppg_NcUhWAYSg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-13T09:07:05.736324499Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOT2JrZHpWV2t3Y2xNd1owSm1OMkpET0ROb2JIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOT2JrZHpWV2t3Y2xNd1owSm1OMkpET0ROb2JIYxAB!2m1!1s0x3403f90c618a37d3:0x9b1dcbf91861f9ed"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403f90c618a37d3:0x9b1dcbf91861f9ed!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=11177314120919808493&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f90c618a37d3:0x9b1dcbf91861f9ed!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403f90c618a37d3:0x9b1dcbf91861f9ed!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403f90c618a37d3:0x9b1dcbf91861f9ed!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ0zeKYQz5AzQR7flhGPnLHZs/photos/Aa-ngMbMw9CjsWlT61LmMYffj1tfmwOJs-4wKBP6xQ84NdTL-K2jwB4qDFw4d4yt0q5TqbDwvogPgdluqa8dVwTEfhhVCY2_0gIOk8BnEsfmZ0ezIUtPtBk71KvFw6ZQiFo-uueCz__HSRVtglXrHDxkqgUifAoh21B8Jf3bJCom_uHW4gV0wAwrXk3qluoqX6KhVjauErCVj4DXN_sNbvf7hrJlFnmJ-3MaGvQ5IaPhMNeFjnOIBr-H1000dThl5aj-MMZwIu-8lGdlYNQnJMMp6eY18jm4oZzaZXr3v4iOqlzt6dphwV8zTduw0AoxJwd26X2nmSXvEmOIbKOuoJbrTS9-g3Gw-pk7XO-9Se6WN9CnVJGvJqKJ7EKhftJm4L5is-vysZsTGyHV7rmbAkg-K_tlg-fmKPW0KjLptYNLb3yOQA",
+      "widthPx": 4000,
+      "heightPx": 2252,
+      "authorAttributions": [
+        {
+          "displayName": "Alexander LAU",
+          "uri": "https://maps.google.com/maps/contrib/114358784053858114239",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNqldjd5X7RDPRNOWTUr8ChXEsuGVVSNfLo1IiDLoyIeRFBA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBSvCbMiCzT9UPd_QQi9-PE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBSvCbMiCzT9UPd_QQi9-PE!2e10!4m2!3m1!1s0x3403f90c618a37d3:0x9b1dcbf91861f9ed"
+    },
+    "local_path": "photos/ChIJ0zeKYQz5AzQR7flhGPnLHZs.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxsyx2QVSL23AoakKGNRaFyS-vscbEJ8DO5HRxMlVh75l7DWpdrb_JwXGJ_Cv_HmCgp2owZH0oFQanUkOT5PYM5iUql2SjrrRkVqvnemZ4DGfCeR3k69Xo5WZ3JvOT-DxIJE0BFF9Ma7-2=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 155341
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,340 @@
+{
+  "google_place_id": "ChIJZ676c5mqBjQRe81fjwOpd40",
+  "restaurant_ids": [
+    "restaurant:2215104054"
+  ],
+  "fetched_at": "2026-10-23T15:50:21.318920+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJZ676c5mqBjQRe81fjwOpd40",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3923 2323",
+    "internationalPhoneNumber": "+852 3923 2323",
+    "formattedAddress": "香港香港島黃竹坑",
+    "location": {
+      "latitude": 22.233611099999997,
+      "longitude": 114.1725
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=10193802114331823483&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.oceanpark.com.hk/en/experience/dining-and-shopping/restaurants/bayview-restaurant",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 17:00",
+        "星期二: 11:00 – 17:00",
+        "星期三: 11:00 – 17:00",
+        "星期四: 11:00 – 17:00",
+        "星期五: 11:00 – 17:00",
+        "星期六: 11:00 – 19:00",
+        "星期日: 11:00 – 19:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 573,
+    "displayName": {
+      "text": "灣景餐廳",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJZ676c5mqBjQRe81fjwOpd40/reviews/ChZDSUhNMG9nS0VJQ0FnSURkdThLZ2FBEAE",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 3,
+        "text": {
+          "text": "擁有美麗開揚景觀的餐廳環境相當舒適，在海洋公園玩遊戲攰了或逛累了的時候，可到內休息用餐及嘆杯飲品，餐點有多選擇，也有甜點及雪糕（圖片雪糕相自加了水果）。價錢雖然略貴，我吃的炸魚薯條也一般（因預先炸了，所以不太脆)，但意粉是即做，等餐快也可慢慢在這優美環境慢慢享用餐點。有洗手間，餐廳在吊車站旁，十分方便。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "擁有美麗開揚景觀的餐廳環境相當舒適，在海洋公園玩遊戲攰了或逛累了的時候，可到內休息用餐及嘆杯飲品，餐點有多選擇，也有甜點及雪糕（圖片雪糕相自加了水果）。價錢雖然略貴，我吃的炸魚薯條也一般（因預先炸了，所以不太脆)，但意粉是即做，等餐快也可慢慢在這優美環境慢慢享用餐點。有洗手間，餐廳在吊車站旁，十分方便。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Mel Leung",
+          "uri": "https://www.google.com/maps/contrib/110815654318796693880/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsfu315xDsbjPaqYGEn0h6vuTMn9ZIJ9kzZziqsPaf91dgEgpmGw=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2024-02-27T17:09:59.503926Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkdThLZ2FBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkdThLZ2FBEAE!2m1!1s0x3406aa9973faae67:0x8d77a9038f5fcd7b"
+      },
+      {
+        "name": "places/ChIJZ676c5mqBjQRe81fjwOpd40/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtcnBEc1FnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "位於海洋公園內的西餐廳，三面玻璃對開就是無敵寬闊海景，一邊用餐一邊欣賞怡人景色，頓時所有煩惱盡除\n\n餐廳以自助形式選擇食物，食物種類多元化，有沙律，意粉、炸魚薯條、紅酒燴牛肉飯等等，份量超級大，一碟飯和餸的份量足夠三個人吃！服務員非常熱情，十分喜歡小朋友，我們點了兒童餐，她特意多給小朋友啫喱，氹得小朋友歡天喜地，坐位闊落，也有high chair，兒童餐用海洋列車盒子盛載，有主食選了雞皇飯、炸物有麥樂雞、薯條及甜品，非常可愛，小朋友食慾大增，正餐後可點Haggen Dazs雪糕，大人也吃得開心，絕對會再來。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於海洋公園內的西餐廳，三面玻璃對開就是無敵寬闊海景，一邊用餐一邊欣賞怡人景色，頓時所有煩惱盡除\n\n餐廳以自助形式選擇食物，食物種類多元化，有沙律，意粉、炸魚薯條、紅酒燴牛肉飯等等，份量超級大，一碟飯和餸的份量足夠三個人吃！服務員非常熱情，十分喜歡小朋友，我們點了兒童餐，她特意多給小朋友啫喱，氹得小朋友歡天喜地，坐位闊落，也有high chair，兒童餐用海洋列車盒子盛載，有主食選了雞皇飯、炸物有麥樂雞、薯條及甜品，非常可愛，小朋友食慾大增，正餐後可點Haggen Dazs雪糕，大人也吃得開心，絕對會再來。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kelly Chan",
+          "uri": "https://www.google.com/maps/contrib/110957800684420910728/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8ls8q5W12ZjknPFkzccjIkUNedKpPCny3XLHrh0Zt33MgdhFVrA=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-11-04T09:52:46.977027Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMtcnBEc1FnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMtcnBEc1FnEAE!2m1!1s0x3406aa9973faae67:0x8d77a9038f5fcd7b"
+      },
+      {
+        "name": "places/ChIJZ676c5mqBjQRe81fjwOpd40/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzdy1ERkd3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "服務很好\n夾菜的姊姊夾給我們超多很大方👍\n價格不便宜\n建議先在網上買餐卷比較划算唷\n景色非常棒\n值得來此用餐\n\n推薦：\n三文魚套餐（肉質軟嫩）\n紅酒牛肉（肉超大塊）\n印度豆豆秋葵咖哩",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務很好\n夾菜的姊姊夾給我們超多很大方👍\n價格不便宜\n建議先在網上買餐卷比較划算唷\n景色非常棒\n值得來此用餐\n\n推薦：\n三文魚套餐（肉質軟嫩）\n紅酒牛肉（肉超大塊）\n印度豆豆秋葵咖哩",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "IC",
+          "uri": "https://www.google.com/maps/contrib/114919838780391433733/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrMSIul4oxnBFruHq6OZz91SvstApOQg4_LCktQ_1FVZTnXg=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-11-18T08:11:35.566161Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzdy1ERkd3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzdy1ERkd3EAE!2m1!1s0x3406aa9973faae67:0x8d77a9038f5fcd7b"
+      },
+      {
+        "name": "places/ChIJZ676c5mqBjQRe81fjwOpd40/reviews/ChdDSUhNMG9nS0VJQ0FnSUQybUlXaWtBRRAB",
+        "relativePublishTimeDescription": "4 年前",
+        "rating": 4,
+        "text": {
+          "text": "平日黎食 唔洗等位 仲可以自選坐窗口位睇靚景\n\n餐廳形式係客人自己出去叫野食 前菜甜品就係雪櫃拎 最後去收銀處比錢 收銀員話用VISA/會員卡有85折\n\n揀e間之前 上網睇過下食評 次次黎e度都係借廁所 見親都有人等緊位 都想試下\n\n🍛紅酒燴牛肉飯 $158 👍🏻\n賣相一d都唔頹 醬汁香濃 好味 份量🆗 夠飽\n\n🍝西西里鮮蝦蕃茄意粉$138\n有6隻蝦 counter有芝士粉可自己加 醬汁除左蕃茄味 有d酸瓜味 份量🆗 夠飽",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平日黎食 唔洗等位 仲可以自選坐窗口位睇靚景\n\n餐廳形式係客人自己出去叫野食 前菜甜品就係雪櫃拎 最後去收銀處比錢 收銀員話用VISA/會員卡有85折\n\n揀e間之前 上網睇過下食評 次次黎e度都係借廁所 見親都有人等緊位 都想試下\n\n🍛紅酒燴牛肉飯 $158 👍🏻\n賣相一d都唔頹 醬汁香濃 好味 份量🆗 夠飽\n\n🍝西西里鮮蝦蕃茄意粉$138\n有6隻蝦 counter有芝士粉可自己加 醬汁除左蕃茄味 有d酸瓜味 份量🆗 夠飽",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Don Adon",
+          "uri": "https://www.google.com/maps/contrib/110035538874572452098/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQAZFZ_5Gd2uf7rI3hq64RbRaSvTDnpWOyeeKO88NsC1EV-QjcKQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-05-05T15:32:03.265635Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQybUlXaWtBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQybUlXaWtBRRAB!2m1!1s0x3406aa9973faae67:0x8d77a9038f5fcd7b"
+      },
+      {
+        "name": "places/ChIJZ676c5mqBjQRe81fjwOpd40/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsdHRpNTdnRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 4,
+        "text": {
+          "text": "🚡登山望海景地標，自助形式，地方及餐具相當潔淨，大滿足的炸魚薯條，多餸餐飯，是優質樂園行程充電區。建議12時到來/上網訂定座位，不用久等，也不遇人流多而擠迫感。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "🚡登山望海景地標，自助形式，地方及餐具相當潔淨，大滿足的炸魚薯條，多餸餐飯，是優質樂園行程充電區。建議12時到來/上網訂定座位，不用久等，也不遇人流多而擠迫感。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Kaye Kwok",
+          "uri": "https://www.google.com/maps/contrib/114340520315407428865/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI-IjR9Ei0QxNgOK19V_mhR0AYR6Z6JgjgMFtxDkbiVceBpyA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-11-18T02:37:53.416541Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsdHRpNTdnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsdHRpNTdnRRAB!2m1!1s0x3406aa9973faae67:0x8d77a9038f5fcd7b"
+      }
+    ],
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3406aa9973faae67:0x8d77a9038f5fcd7b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=10193802114331823483&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3406aa9973faae67:0x8d77a9038f5fcd7b!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3406aa9973faae67:0x8d77a9038f5fcd7b!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3406aa9973faae67:0x8d77a9038f5fcd7b!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJZ676c5mqBjQRe81fjwOpd40/photos/Aa-ngMZq-JJamN0MIj60tnbkYj7GtkIVlZ7-MFJoJhL0bB39N2u4LfLdvbDLazUxoByTRNk1q7DAWvFpc39axtby-d9ooFXqQDFkeUFhJ1bYBhMvaG8v1gO8c7pOWqlM44FFqz_ELu1qu-eaOkiMDCX8xe4LmfZw5hOLoCh1bt38FBzHyoVssYVico-gv3EhY4fn_8e-SvDrKA5butUWDJRW45xYTUrNxLtuhNKFIwI7FcviKIBzo-eZ4RCqILbFwUndH47Pof4aUgo77nXkjwDY_NPrS9n1zhQCJ6gzWSUfNPtoDjFl08IPb6AyYSHyNPZYmetEN--2MuxJsK6tbVBbExxgc0TQp4Rmfz6eEhzk2pmfvtvdhXCXKjWOJ-EdTWRenzqxZaMkbhbfyJAW0pKdW-8yrGE",
+      "widthPx": 3887,
+      "heightPx": 2915,
+      "authorAttributions": [
+        {
+          "displayName": "E. N.",
+          "uri": "https://maps.google.com/maps/contrib/111253026968744883601",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfrcCZmXL10Dn9nUZyESinZ7_sD1y07qY2CU07Vfby6-y67w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDRm6TRAQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRm6TRAQ!2e10!4m2!3m1!1s0x3406aa9973faae67:0x8d77a9038f5fcd7b"
+    },
+    "local_path": "photos/ChIJZ676c5mqBjQRe81fjwOpd40.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnIlp8jK7s1fdbxLHhLKwTc_RBPaegIWf_NlBb2T5lms_ZrTMdtMzQgoMLmR1YXAjo96XwsAUELAwgr7TlMRVv_Ec9S4wPKyrvsuzZFKOwbqGbfrrttqa6HrhZdz3cxfPuUroP=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 219767
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://bookonline.foodcloud.hk/m6104/b0001/tms/en/reserve/create/CBV/67f5d41ba054c96a26203555f6481cc8",
+        "label": "Reserve a Table",
+        "source_url": "https://www.oceanpark.com.hk/en/a-day-at-the-park/dining-shopping/restaurants/the-bayview-restaurant",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://api.oceanpark.com.hk/media/wljnr2dj/bayview_menu.pdf",
+        "label": "View Menu",
+        "source_url": "https://www.oceanpark.com.hk/en/a-day-at-the-park/dining-shopping/restaurants/the-bayview-restaurant",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.oceanpark.com.hk/en/a-day-at-the-park/dining-shopping/restaurants/tuxedos-restaurant",
+        "label": "Tuxedos Restaurant offers an extraordinary dining experience! While you enjoy our international menu and low carbon meals, you can sit back and watch plenty of penguins frolic on ice. Tuxedos Restaura",
+        "source_url": "https://www.oceanpark.com.hk/en/a-day-at-the-park/dining-shopping/restaurants/the-bayview-restaurant",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://bookonline.foodcloud.hk/m6104/b0001/tms/en/reserve/create/CBV/67f5d41ba054c96a26203555f6481cc8",
+  "menu_url": "https://api.oceanpark.com.hk/media/wljnr2dj/bayview_menu.pdf"
+}

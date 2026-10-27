@@ -1,0 +1,315 @@
+{
+  "google_place_id": "ChIJ72l6Ggn7AzQRFoZJrlduT_I",
+  "restaurant_ids": [
+    "restaurant:3194803563"
+  ],
+  "fetched_at": "2026-10-23T15:49:50.644155+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ72l6Ggn7AzQRFoZJrlduT_I",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "5941 4236",
+    "internationalPhoneNumber": "+852 5941 4236",
+    "formattedAddress": "香港新界元朗建德街26號益利大廈12號地舖",
+    "location": {
+      "latitude": 22.4410059,
+      "longitude": 114.0303897
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=17460295603203966486&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://instagram.com/tadaimahk",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:00 – 18:00",
+        "星期二: 09:00 – 18:00",
+        "星期三: 09:00 – 18:00",
+        "星期四: 09:00 – 18:00",
+        "星期五: 09:00 – 23:00",
+        "星期六: 09:00 – 23:00",
+        "星期日: 09:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 85,
+    "displayName": {
+      "text": "唯今 TADAIMA",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "咖啡館",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "cafe",
+    "reviews": [
+      {
+        "name": "places/ChIJ72l6Ggn7AzQRFoZJrlduT_I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOMFNsRlJkR2h2VG5WSFRXdHdlbkJUVEc5ek4yYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "付款方式：現金、轉數快、Payme，不收信用卡\n12點多到Cafe時坐滿客人，餐廳較細，不過氣氛不錯，食物是點餐後才即刻做的，所以要耐心等候，食物質素ok，打卡able。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "付款方式：現金、轉數快、Payme，不收信用卡\n12點多到Cafe時坐滿客人，餐廳較細，不過氣氛不錯，食物是點餐後才即刻做的，所以要耐心等候，食物質素ok，打卡able。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tang Rita",
+          "uri": "https://www.google.com/maps/contrib/104710252491870119370/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKYPnFCog1eVjYujFT5JUlT3ReS1KPILegSKq1jh0gp9OBGFQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-05-20T10:33:28.542602425Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOMFNsRlJkR2h2VG5WSFRXdHdlbkJUVEc5ek4yYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOMFNsRlJkR2h2VG5WSFRXdHdlbkJUVEc5ek4yYxAB!2m1!1s0x3403fb091a7a69ef:0xf24f6e57ae498616"
+      },
+      {
+        "name": "places/ChIJ72l6Ggn7AzQRFoZJrlduT_I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taeGJIVlBlRXRzWm1kMVluVTRVRzlZYWtwbVJrRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "最喜歡來這裏吃多士😍，brunch 和意粉都值得推介。店鋪雖小，但也坐得舒服。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最喜歡來這裏吃多士😍，brunch 和意粉都值得推介。店鋪雖小，但也坐得舒服。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Red Sky",
+          "uri": "https://www.google.com/maps/contrib/113605553179032717583/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlOs5JpI57x1hXgVodchuTmMRPvIfR6_IOUqV81tE1dXUOGw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-20T15:25:49.030250184Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taeGJIVlBlRXRzWm1kMVluVTRVRzlZYWtwbVJrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taeGJIVlBlRXRzWm1kMVluVTRVRzlZYWtwbVJrRRAB!2m1!1s0x3403fb091a7a69ef:0xf24f6e57ae498616"
+      },
+      {
+        "name": "places/ChIJ72l6Ggn7AzQRFoZJrlduT_I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGaldsY3djemxNYUVkWVZGUlVVakZTZG14a2FXYxAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好鐘意食佢個all day.\nAll day個包有哂4個味…仲有焙茶. 氣氛好好",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好鐘意食佢個all day.\nAll day個包有哂4個味…仲有焙茶. 氣氛好好",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "라라나고흔",
+          "uri": "https://www.google.com/maps/contrib/108078371611786059567/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIUIKUhlIkK9oZORFJtzJjGvgQ4gwaD_yD8srElb1hz-BIuWNg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-07-26T08:43:10.354597546Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGaldsY3djemxNYUVkWVZGUlVVakZTZG14a2FXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGaldsY3djemxNYUVkWVZGUlVVakZTZG14a2FXYxAB!2m1!1s0x3403fb091a7a69ef:0xf24f6e57ae498616"
+      },
+      {
+        "name": "places/ChIJ72l6Ggn7AzQRFoZJrlduT_I/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OeVRGUTVObGhTYzBZMU1HNVBNV2gxUjJjdFNHYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 4,
+        "text": {
+          "text": "星期六下午1點半左右，等候大約半小時後入座。餐廳座位不多。蟹肉明太子意粉味道不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "星期六下午1點半左右，等候大約半小時後入座。餐廳座位不多。蟹肉明太子意粉味道不錯。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ki Tang",
+          "uri": "https://www.google.com/maps/contrib/100799188568116643012/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJMkhXZL0uDIWr696GZIqXmXAAWLurGUv9qpgbv7i4_gTu60g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-28T11:23:10.362336531Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OeVRGUTVObGhTYzBZMU1HNVBNV2gxUjJjdFNHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OeVRGUTVObGhTYzBZMU1HNVBNV2gxUjJjdFNHYxAB!2m1!1s0x3403fb091a7a69ef:0xf24f6e57ae498616"
+      },
+      {
+        "name": "places/ChIJ72l6Ggn7AzQRFoZJrlduT_I/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wUE5tNVNRbXRQWlZrMlVWVnZjVmxPTlZRNU9XYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 2,
+        "text": {
+          "text": "地方好細好迫，又唔係特別好味。\n元朗好多cafe店選擇，所以唔會再去。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "地方好細好迫，又唔係特別好味。\n元朗好多cafe店選擇，所以唔會再去。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yan Yan",
+          "uri": "https://www.google.com/maps/contrib/102075260278120398822/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI42xW3JKKYeTETLCphwW-0H2XSRJ3-Jl4z_NF88IcF_xKZ_Eo=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-07-07T13:15:18.815576949Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wUE5tNVNRbXRQWlZrMlVWVnZjVmxPTlZRNU9XYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wUE5tNVNRbXRQWlZrMlVWVnZjVmxPTlZRNU9XYxAB!2m1!1s0x3403fb091a7a69ef:0xf24f6e57ae498616"
+      }
+    ],
+    "outdoorSeating": true,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3403fb091a7a69ef:0xf24f6e57ae498616!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17460295603203966486&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb091a7a69ef:0xf24f6e57ae498616!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3403fb091a7a69ef:0xf24f6e57ae498616!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3403fb091a7a69ef:0xf24f6e57ae498616!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ72l6Ggn7AzQRFoZJrlduT_I/photos/Aa-ngMZXkZgImOObUMqm8Vd8tF6o4dtKs1vIDRgPWqaE0QBsODa1dfiITZJBzLjzH_zSEJ5MEio0kDY2Isvx1zB7k7uvo4tHoVfNUhUq6DXjACKqZ-Apc_LatH8IUCyOJA5odLxScLpahVZjBeioqXeotPL4HjWHi0lbMhLoMKwPSfIrYUY6bHfL5wtkkn8P8L6hPAjJJdN7HMSjlOluORLzw2pGMMp6eynXA_AkX2M_ikM7U4xQfBP5kWl1ve8pZ96RCUYS7MQg1uiB0PosbpF8dX9esIlMzaubg7rbbbNrgcceSEK2IXSPRzrrHG3LPsO1IPfc56tItxIP8jQCxbvcalzauMNDrT4VuHbQnz3yU8yM9SHVQv24fMde31fooP6gcINYed-s_MO1Cx9wmqnSq6TNwwQ",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "weisikmui",
+          "uri": "https://maps.google.com/maps/contrib/104017337118067731163",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNFHqOpQKQ_fG_qB_mqTqP9ZN_2Ob7uIVVCB6ZNM4UuvzTqCNJ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDVp_yZNA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDVp_yZNA!2e10!4m2!3m1!1s0x3403fb091a7a69ef:0xf24f6e57ae498616"
+    },
+    "local_path": "photos/ChIJ72l6Ggn7AzQRFoZJrlduT_I.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNao7lJ9-u4Kqrxv-AHbLiq0su3PrxZfvtL8C5NjrFfNNDTJU6dU5Qp-B82oNJKMg43GynaeCimR71_eYBttUcFf1kqUvFi7-rDpwIOkps6U1moa62D9rIZsCz4EkRIRJSbcCO=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 100968
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "cafe",
+    "label": "咖啡館",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

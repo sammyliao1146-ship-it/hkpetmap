@@ -1,0 +1,371 @@
+{
+  "google_place_id": "ChIJEyLYkEIFBDQRvLP2_a0fegg",
+  "restaurant_ids": [
+    "restaurant:2298806191"
+  ],
+  "fetched_at": "2026-10-23T15:41:17.842967+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJEyLYkEIFBDQRvLP2_a0fegg",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2196 6388",
+    "internationalPhoneNumber": "+852 2196 6388",
+    "formattedAddress": "LG/F, Vignette Collection, WM Hotel, 28 Wai Man Rd, Sai Kung, New Territories, 香港",
+    "location": {
+      "latitude": 22.385219799999998,
+      "longitude": 114.275824
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=610835531612730300&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.wmhotel.hk/en/dinings#cafe-wm",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 7,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 07:00 – 22:30",
+        "星期二: 07:00 – 22:30",
+        "星期三: 07:00 – 22:30",
+        "星期四: 07:00 – 22:30",
+        "星期五: 07:00 – 22:30",
+        "星期六: 07:00 – 22:30",
+        "星期日: 07:00 – 22:30"
+      ],
+      "nextOpenTime": "2026-10-23T23:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "userRatingCount": 98,
+    "displayName": {
+      "text": "WM 咖啡廳",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJEyLYkEIFBDQRvLP2_a0fegg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kVmRVVTVNRm80VkRsUVFVaDRhbnB1ZG1vNVdVRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 3,
+        "text": {
+          "text": "已是第2次於WM自助餐晚晚，食物種類尚可，没有龍虾，羊……甜品尚可，飲品尚可，汽水要另付款。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "已是第2次於WM自助餐晚晚，食物種類尚可，没有龍虾，羊……甜品尚可，飲品尚可，汽水要另付款。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Aaron To",
+          "uri": "https://www.google.com/maps/contrib/117491046124804752728/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3pEQmtzVol80vJZTsMq8RP4bhyXm7SZULjgR5s_2QZu7WYA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-09T05:42:25.891358846Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kVmRVVTVNRm80VkRsUVFVaDRhbnB1ZG1vNVdVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kVmRVVTVNRm80VkRsUVFVaDRhbnB1ZG1vNVdVRRAB!2m1!1s0x3404054290d82213:0x87a1fadfdf6b3bc"
+      },
+      {
+        "name": "places/ChIJEyLYkEIFBDQRvLP2_a0fegg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaUlJFdDRlV1YzYTFkNGNFbFpPRUZHYW1keGVVRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "晚餐buffet慶祝女兒生日，食物種類不算太多，但味道一流，海鮮有長腳蟹，凍青口，蜆，凍蝦，螺，生蠔六款，都算係好新鮮，生蠔好細的那種但很甜，第三次來這餐廳，每次主題不同但性價俾高，因為價格不貴，某些平台做很多不同的優惠，總括來說都推薦大家來，環境及氛圍很好，西貢亦是一個好地方。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "晚餐buffet慶祝女兒生日，食物種類不算太多，但味道一流，海鮮有長腳蟹，凍青口，蜆，凍蝦，螺，生蠔六款，都算係好新鮮，生蠔好細的那種但很甜，第三次來這餐廳，每次主題不同但性價俾高，因為價格不貴，某些平台做很多不同的優惠，總括來說都推薦大家來，環境及氛圍很好，西貢亦是一個好地方。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "可兒可兒",
+          "uri": "https://www.google.com/maps/contrib/109990710268795745234/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_FfubbSroEqhi6hNw3jnB8Nz4QlsmbEH-AFkXOQg49UEpyw=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2025-08-28T04:27:51.523236814Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaUlJFdDRlV1YzYTFkNGNFbFpPRUZHYW1keGVVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUlJFdDRlV1YzYTFkNGNFbFpPRUZHYW1keGVVRRAB!2m1!1s0x3404054290d82213:0x87a1fadfdf6b3bc"
+      },
+      {
+        "name": "places/ChIJEyLYkEIFBDQRvLP2_a0fegg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMM0xxbmx3RRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 2,
+        "text": {
+          "text": "是日父親節，一行五人前往享用自助餐。\n新裝修的餐廳環境不錯，座位舒適。\n略嫌氣氛不足，如源能配有背景音樂更好，推薦爵士樂。\n是日晚餐自助餐每位港幣$800 ，不包餐飲，只有自助咖啡機（劣質）和熱水加茶包，沒有凍飲，未試過這個價位不包餐飲的自助餐，如需要汽水啤酒果汁任飲，每位$88 ，另加一收費，但是話說回來自助餐的食客飲品都是一杯起兩杯止，此項安排實屬小氣。\n侍應新有些很新手，宜培訓妥當。\n廚房的服務不錯，聽見有食客希望要雞髀部份，廚師特別進去切給他，若嫌牛扒生，亦安排煎熟。\n菜式並無特色，可惜，食物略嫌款式少，並無之前其他食評中的菜式，凍海鮮款式少。\n惠顧$4000元免費停車場只給予兩小時，每小時盛惠$28，有失大將之風。\n\n味道：＊＊＊\n飲品：＊\n環境：＊＊＊＊\n服務：＊＊\n價錢：＊＊＊\n等候：＊＊＊＊\n主觀整體感覺：＊＊\n\n晚餐人均$800。\n\n#食べログ\n#食べ物記録\n\n#foodie\n#hkfoodie",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "是日父親節，一行五人前往享用自助餐。\n新裝修的餐廳環境不錯，座位舒適。\n略嫌氣氛不足，如源能配有背景音樂更好，推薦爵士樂。\n是日晚餐自助餐每位港幣$800 ，不包餐飲，只有自助咖啡機（劣質）和熱水加茶包，沒有凍飲，未試過這個價位不包餐飲的自助餐，如需要汽水啤酒果汁任飲，每位$88 ，另加一收費，但是話說回來自助餐的食客飲品都是一杯起兩杯止，此項安排實屬小氣。\n侍應新有些很新手，宜培訓妥當。\n廚房的服務不錯，聽見有食客希望要雞髀部份，廚師特別進去切給他，若嫌牛扒生，亦安排煎熟。\n菜式並無特色，可惜，食物略嫌款式少，並無之前其他食評中的菜式，凍海鮮款式少。\n惠顧$4000元免費停車場只給予兩小時，每小時盛惠$28，有失大將之風。\n\n味道：＊＊＊\n飲品：＊\n環境：＊＊＊＊\n服務：＊＊\n價錢：＊＊＊\n等候：＊＊＊＊\n主觀整體感覺：＊＊\n\n晚餐人均$800。\n\n#食べログ\n#食べ物記録\n\n#foodie\n#hkfoodie",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Piyo - ピヨイー",
+          "uri": "https://www.google.com/maps/contrib/113340592579737056999/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaemXiXhHw9DDg9NRhXb0BUaJu3FKFRZq6Vla5uZN0J2hZA3AS=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-06-16T14:40:50.674573Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMM0xxbmx3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMM0xxbmx3RRAB!2m1!1s0x3404054290d82213:0x87a1fadfdf6b3bc"
+      },
+      {
+        "name": "places/ChIJEyLYkEIFBDQRvLP2_a0fegg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3enZMUHBBRRAB",
+        "relativePublishTimeDescription": "2 年前",
+        "rating": 5,
+        "text": {
+          "text": "平日半自助午餐，只吃輕盈午餐不帶主食已經很足夠。食物質素很不錯，適合偷閒坐3個鐘，慢慢食慢慢傾：）另外，有幾款信用卡有9折，等於免了加一。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "平日半自助午餐，只吃輕盈午餐不帶主食已經很足夠。食物質素很不錯，適合偷閒坐3個鐘，慢慢食慢慢傾：）另外，有幾款信用卡有9折，等於免了加一。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "maple tse",
+          "uri": "https://www.google.com/maps/contrib/116914161519952990177/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVA11uxIO71KjvCDgtUDOuCZrIT89IFn88q_G-JvLf1YBSvBT7gUA=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-08-24T11:50:22.968155Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3enZMUHBBRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3enZMUHBBRRAB!2m1!1s0x3404054290d82213:0x87a1fadfdf6b3bc"
+      },
+      {
+        "name": "places/ChIJEyLYkEIFBDQRvLP2_a0fegg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZaFp5b0dREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "自助午餐整體來說是高質素的自助餐。生蠔是即時開蓋和沖洗,食得安心。刺身也很新鮮,但種類不算多。牛扒鮮嫩。較特別的是泥鯭粥和片皮鴨。長腳蟹等海鮮都唔錯,不算多也不算獨有。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "自助午餐整體來說是高質素的自助餐。生蠔是即時開蓋和沖洗,食得安心。刺身也很新鮮,但種類不算多。牛扒鮮嫩。較特別的是泥鯭粥和片皮鴨。長腳蟹等海鮮都唔錯,不算多也不算獨有。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ken Hau",
+          "uri": "https://www.google.com/maps/contrib/103675283784904654729/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3lO8-s-usJZ7_igFgdW7ltUGCWbRZ6i5qh3F0GArV9Td20HkDAw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-05-05T16:45:04.284596Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZaFp5b0dREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZaFp5b0dREAE!2m1!1s0x3404054290d82213:0x87a1fadfdf6b3bc"
+      }
+    ],
+    "outdoorSeating": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "freeGarageParking": true,
+      "paidGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404054290d82213:0x87a1fadfdf6b3bc!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=610835531612730300&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404054290d82213:0x87a1fadfdf6b3bc!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404054290d82213:0x87a1fadfdf6b3bc!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404054290d82213:0x87a1fadfdf6b3bc!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "450"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJEyLYkEIFBDQRvLP2_a0fegg/photos/Aa-ngMaIto_1DURgNE-3bONIWw3Ht1md_LBTXWrjTUwmZkmO9e4FlYYH5iFqKMF5pSO9HXsfcHLXb8e6HMcWQfvXPwmS2VONy8lHupKw9SiGraX_5EUBwZv-_HtGwuR_iJX4m7o3CbZn52szt6HTnd1RjiwTWCruK2btpNaOw75m0mE-nWXUWm5slLNaAWKVA61Ok6sXJwkgI9RrEL5RCuGc7N_SjjD6bPqqeKcu08D-2oLW9bhyMtX_NtQ_BhUK5Yrvye8PpeDjkMgcLS8uiApH1APZAZ_nL7zlHQCSz7eKoRu5q4Sv0QysnoNsd7O76caZPER22zlzM41f25MTP4W34jN8tcqBwWEeyjl5Qf7-5ZyBvPp8bLMOuRFXNbhjONu8YkPpP3jD5tMEXMy-jfQg8Ym574o",
+      "widthPx": 2987,
+      "heightPx": 1993,
+      "authorAttributions": [
+        {
+          "displayName": "Café@WM",
+          "uri": "https://maps.google.com/maps/contrib/114751319922897254945",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvH1j45l7ttx7f7aN7rCvV1lAN9QXlcDRCgF7X3finUcSeGPo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDL7Mm3iQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL7Mm3iQE!2e10!4m2!3m1!1s0x3404054290d82213:0x87a1fadfdf6b3bc"
+    },
+    "local_path": "photos/ChIJEyLYkEIFBDQRvLP2_a0fegg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9jl2Yo6tpD2S6Rao3gNGQ5MXegT0i5CNSUv8ommFMS3VqN3hyOra5qr15T3l0cmVGAnNN6Y1o68mKaE9QAM0joIYd0uFRSFgII_8u27yG-_VEqzrI96GG8ry92lVg71Rr9XI=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 136385
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://app.optitable.com/en/reservation/?rid=327",
+        "label": "RESERVE NOW",
+        "source_url": "https://www.wmhotel.hk/en/dinings#cafe-wm",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.wmhotel.hk/en/upload/files/dining/20260923103150_290.pdf",
+        "label": "Weekday Semi-buffet lunch menu",
+        "source_url": "https://www.wmhotel.hk/en/dinings#cafe-wm",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.wmhotel.hk/en/upload/files/dining/20260923103601_308.pdf",
+        "label": "Weekday Semi-buffet lunch menu",
+        "source_url": "https://www.wmhotel.hk/en/dinings#cafe-wm",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.wmhotel.hk/en/upload/files/dining/20260902103637_263.pdf",
+        "label": "Room Service Menu",
+        "source_url": "https://www.wmhotel.hk/en/dinings#cafe-wm",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.wmhotel.hk/en/upload/files/dining/20260824141533_210.pdf",
+        "label": "Picnic Menu",
+        "source_url": "https://www.wmhotel.hk/en/dinings#cafe-wm",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.wmhotel.hk/en/upload/files/dining/20260728100327_46.pdf",
+        "label": "Barbecue Menu",
+        "source_url": "https://www.wmhotel.hk/en/dinings#cafe-wm",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "restaurant",
+    "label": "餐廳",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://app.optitable.com/en/reservation/?rid=327",
+  "menu_url": "https://www.wmhotel.hk/en/upload/files/dining/20260923103150_290.pdf"
+}

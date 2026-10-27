@@ -1,0 +1,318 @@
+{
+  "google_place_id": "ChIJvy15h8wBBDQRhlSD4ROVv_s",
+  "restaurant_ids": [
+    "restaurant:2262811354"
+  ],
+  "fetched_at": "2026-10-23T15:42:33.534938+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJvy15h8wBBDQRhlSD4ROVv_s",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9860 7450",
+    "internationalPhoneNumber": "+852 9860 7450",
+    "formattedAddress": "香港九龍尖沙咀河內道8A號",
+    "location": {
+      "latitude": 22.2975727,
+      "longitude": 114.1744387
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=18140381736692044934&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 2,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 2,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 02:00",
+        "星期二: 12:00 – 02:00",
+        "星期三: 12:00 – 02:00",
+        "星期四: 12:00 – 02:00",
+        "星期五: 12:00 – 02:00",
+        "星期六: 12:00 – 02:00",
+        "星期日: 12:00 – 01:00"
+      ],
+      "nextCloseTime": "2026-10-23T18:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 25,
+    "displayName": {
+      "text": "Piss restaurant 尖沙咀",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJvy15h8wBBDQRhlSD4ROVv_s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poc1F6TkVjMVp2ZVhFNWQwNVVSWGszVTIxcmRIYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "食物真的很好吃 十分推薦\n調酒也好喝 氣氛音樂好聽!\n店員很親切!\n以後會常來光顧~",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物真的很好吃 十分推薦\n調酒也好喝 氣氛音樂好聽!\n店員很親切!\n以後會常來光顧~",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "莉莉貓“ฅ Lily Cat ฅ”リリーねこ",
+          "uri": "https://www.google.com/maps/contrib/116642414740658642741/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3BchXx7FCbWXihgNBPMH3VZ4xmq3zZYjKdHLuupc4ewTi5i2U=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-08-22T06:45:40.300532455Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poc1F6TkVjMVp2ZVhFNWQwNVVSWGszVTIxcmRIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poc1F6TkVjMVp2ZVhFNWQwNVVSWGszVTIxcmRIYxAB!2m1!1s0x340401cc87792dbf:0xfbbf9513e1835486"
+      },
+      {
+        "name": "places/ChIJvy15h8wBBDQRhlSD4ROVv_s/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtOElTNlZ3EAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 3,
+        "text": {
+          "text": "食物真係一般般啤酒選擇都5太多",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物真係一般般啤酒選擇都5太多",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "doop Cheng",
+          "uri": "https://www.google.com/maps/contrib/103970193482074566980/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIVjsv92-kExqoMsSKPBAb_rB9e5tkQCu78QMk7Lnk3pNJvbw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-10-25T12:04:51.118341Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMtOElTNlZ3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMtOElTNlZ3EAE!2m1!1s0x340401cc87792dbf:0xfbbf9513e1835486"
+      },
+      {
+        "name": "places/ChIJvy15h8wBBDQRhlSD4ROVv_s/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoaEk3LUtREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "Sunday一條友， 附近有好多間Bar，呢間唔系無人，有音樂，但就算系沒有那麼的嘈吵，可以專心上下網、睇下資料，想一個人專心一下都得。 service比較貼心，唔系無人理亦唔系過煩。唔錯，HH 88蚊/buy one get one free，肯定會再黎👍👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Sunday一條友， 附近有好多間Bar，呢間唔系無人，有音樂，但就算系沒有那麼的嘈吵，可以專心上下網、睇下資料，想一個人專心一下都得。 service比較貼心，唔系無人理亦唔系過煩。唔錯，HH 88蚊/buy one get one free，肯定會再黎👍👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Dickman Yu",
+          "uri": "https://www.google.com/maps/contrib/110248641027796074696/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1kEQ7DPDPSjxZ9fJnkq-o720vLjzs-mm8o-6GJKRsTV65CjS4lQ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-02-05T09:24:26.186866Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoaEk3LUtREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoaEk3LUtREAE!2m1!1s0x340401cc87792dbf:0xfbbf9513e1835486"
+      },
+      {
+        "name": "places/ChIJvy15h8wBBDQRhlSD4ROVv_s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGdGJVOVpiV2x3VjB0U1dGbEJkV1kxVW1WSFdHYxAB",
+        "relativePublishTimeDescription": "10 個月前",
+        "rating": 5,
+        "text": {
+          "text": "想要的啤酒常賣完, 也有時候啤酒不冰. 但整體氣氛不錯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "想要的啤酒常賣完, 也有時候啤酒不冰. 但整體氣氛不錯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "派翠克 Patrick Yeh",
+          "uri": "https://www.google.com/maps/contrib/115329682497790885909/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVqUOo485EB22_q43XrohZd15KbZDSHq-hzJxaDyCy30UUUUB4s=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-12-23T06:30:41.814578525Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGdGJVOVpiV2x3VjB0U1dGbEJkV1kxVW1WSFdHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGdGJVOVpiV2x3VjB0U1dGbEJkV1kxVW1WSFdHYxAB!2m1!1s0x340401cc87792dbf:0xfbbf9513e1835486"
+      },
+      {
+        "name": "places/ChIJvy15h8wBBDQRhlSD4ROVv_s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCd3VtUC1RRRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "Happy Hour我最常到的一間人情味小酒館，老闆非常好客，只要多來幾次不時會免費請你飲多一兩杯，他們做的食物亦非常出色，送酒或飽腹都一定不會失望！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Happy Hour我最常到的一間人情味小酒館，老闆非常好客，只要多來幾次不時會免費請你飲多一兩杯，他們做的食物亦非常出色，送酒或飽腹都一定不會失望！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jack Chiu",
+          "uri": "https://www.google.com/maps/contrib/101049494663996792530/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJoIPS3O9rjVeyznQ2Zpl4qGYz6QqXM9iVQJdZ0przUinjFg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-12-20T16:35:25.656574Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCd3VtUC1RRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCd3VtUC1RRRAB!2m1!1s0x340401cc87792dbf:0xfbbf9513e1835486"
+      }
+    ],
+    "servesCocktails": true,
+    "goodForChildren": true,
+    "paymentOptions": {
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401cc87792dbf:0xfbbf9513e1835486!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=18140381736692044934&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401cc87792dbf:0xfbbf9513e1835486!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401cc87792dbf:0xfbbf9513e1835486!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401cc87792dbf:0xfbbf9513e1835486!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "50"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "100"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJvy15h8wBBDQRhlSD4ROVv_s/photos/Aa-ngMbBFMLLM8susqY9nMTSLllHzg-ZkGLqokZGic2q8Hr9wZBdvN6tEVcq7QCXCYAbchjhOOln90WtdYO6JZwj4J6JrnkHAl7VkZ5U7squF-_vEVCFbQURF5FytvPYWd_3jElGZ3yPgu4UeDnBROXEx8Vz_iOEtmP93q2XU-9w4BZ0wTNj0b5uPa4Ecxw_0vq8_XSr_iieZRqFlipnKwy4Klpges0nZadaiZ0NFLmZin86mKihJo0zEyqmVogLoguBAWhq_R9w74DBo6O8jew3-ywE1YeBkpG7iFwY5nxDT3AgzlWmhOfG9T6aAVAhx0qLuceCOkQs_Rc09QHjAuE52SyHcG25SOqblygujDvZMpwoHjyvDQME0894FDBp6kRF2EfOOPgdAKwkneeSRVI2iqd-Oqo",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Piss restaurant 尖沙咀",
+          "uri": "https://maps.google.com/maps/contrib/118119784043765883276",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaCAu3s9LfSfcUQgtIL6rFNxfeQ4IC17cGMhPza_P5aZkOMhA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKoIT_KA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKoIT_KA!2e10!4m2!3m1!1s0x340401cc87792dbf:0xfbbf9513e1835486"
+    },
+    "local_path": "photos/ChIJvy15h8wBBDQRhlSD4ROVv_s.png",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTa3jx7mg388kMD3t8auOW7_C5YNyulvQzD3I3kMkBOT4F9hRQrUKx2JuZuquG-x1InlXr6dUabfhs-5Jjzxql7uk8wPl1tqhzqmYJOZzxNA0PHvixRBrzV35SGFbVTAn6LZb-=s4800-w800",
+    "content_type": "image/png",
+    "bytes": 1220926
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

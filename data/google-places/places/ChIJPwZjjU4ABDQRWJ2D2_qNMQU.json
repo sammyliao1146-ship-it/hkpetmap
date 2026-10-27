@@ -1,0 +1,61 @@
+{
+  "google_place_id": "ChIJPwZjjU4ABDQRWJ2D2_qNMQU",
+  "restaurant_ids": [
+    "restaurant:2212818679"
+  ],
+  "fetched_at": "2026-10-23T15:39:48.210470+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJPwZjjU4ABDQRWJ2D2_qNMQU",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "formattedAddress": "香港香港島跑馬地黃泥涌道17號",
+    "location": {
+      "latitude": 22.2697215,
+      "longitude": 114.18419569999999
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=374236352612638040&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+      "text": "恆豐大廈",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "服務業",
+      "languageCode": "zh-TW"
+    },
+    "primaryType": "service",
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404004e8d63063f:0x5318dfadb839d58!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=374236352612638040&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404004e8d63063f:0x5318dfadb839d58!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404004e8d63063f:0x5318dfadb839d58!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404004e8d63063f:0x5318dfadb839d58!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": null,
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "service",
+    "label": "服務業",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

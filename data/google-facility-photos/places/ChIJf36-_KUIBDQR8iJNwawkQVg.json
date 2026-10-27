@@ -1,0 +1,38 @@
+{
+  "id": "ChIJf36-_KUIBDQR8iJNwawkQVg",
+  "types": [
+    "tourist_attraction",
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港新界馬鞍山馬鞍山海濱長廊",
+  "location": {
+    "latitude": 22.40901,
+    "longitude": 114.22055399999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6359404473219883762&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "馬鞍山海濱長廊",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "park",
+  "photos": [
+    {
+      "name": "places/ChIJf36-_KUIBDQR8iJNwawkQVg/photos/Aa-ngMbfICKY_OuVrNmfiCkU8f_t82Oo3ffaMhf2rnF370ilF8bMFm681kxzKcbkXO3Pel3f8hTtRew1kI2bROaqtgCDAvKhBjFGei9Bzg9C19wjSnGPAR0LBVZU_lIxsdQnOsML0d74eFIAsLMEUfBJRTjA368LQTQDzAXp7u-tZfj4mDhsnkQEuoRi2ae4iyHacDx3T1B4lRohvxMKzk8L--_ekXUH28g10HeDUhjiW951nKsS2AUxbvz-UL_JsfGau4TO-jsvisl7FfMMyu26gBroY5LgkJr6Wsi0d2Ha0-5fJglWfi9X8042bTcn6yY9jgVF-YYMMnjL53UT0al-4jIQFP3wLMEY7nl_6f2-Rpjss7fxIF2wsXGY0e-mmeXmpBNaMWBPQANdjY9iiHW8AYJzZ1I",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Ewan Ye",
+          "uri": "https://maps.google.com/maps/contrib/110559160294921520979",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXJozYDY8YHObw4KRnbFgWI6nRPcMpJOBqUw3wcz_PElFhNM_o=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDeka__NA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDeka__NA!2e10!4m2!3m1!1s0x340408a5fcbe7e7f:0x584124acc14d22f2"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:12.474961+00:00"
+}

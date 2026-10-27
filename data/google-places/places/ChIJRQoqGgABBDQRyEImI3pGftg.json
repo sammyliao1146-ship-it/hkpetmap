@@ -1,0 +1,382 @@
+{
+  "google_place_id": "ChIJRQoqGgABBDQRyEImI3pGftg",
+  "restaurant_ids": [
+    "restaurant:2211809896"
+  ],
+  "fetched_at": "2026-10-23T15:38:52.524023+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJRQoqGgABBDQRyEImI3pGftg",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "3565 4380",
+    "internationalPhoneNumber": "+852 3565 4380",
+    "formattedAddress": "地下5號舖, 86-88號 Wharf Rd, North Point, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.292095900000003,
+      "longitude": 114.1973043
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=15599983649647641288&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:00 – 15:00, 17:30 – 23:00",
+        "星期二: 11:00 – 15:00, 17:30 – 23:00",
+        "星期三: 11:00 – 15:00, 17:30 – 23:00",
+        "星期四: 11:00 – 15:00, 17:30 – 23:00",
+        "星期五: 11:00 – 15:00, 17:30 – 23:00",
+        "星期六: 11:00 – 15:00, 17:30 – 23:00",
+        "星期日: 11:00 – 15:00, 17:30 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 11,
+    "displayName": {
+      "text": "粵湘食",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJRQoqGgABBDQRyEImI3pGftg/reviews/ChZDSUhNMG9nS0VJek5zN1dWcXM2NVB3EAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "粵湘食\n😘😘😘\n\n齒頰留香\n\n北角中式特色菜、特別多、今日上完堂、同朋友路過、和富道、街道兩旁整潔、優靜、招牌明亮、粵（越）湘（想）食中菜館、嗱嗱臨坐低、食好嘢📣📣\n✨金湯酸菜魚（例）$168\n金湯酸菜魚色澤金黃、賣相吸睛、湯汁濃郁、散發著誘人的香氣、酸菜的酸爽與魚肉的鮮嫩交融、口感豐富、色香味俱全、令人垂涎、每一口都充滿了鮮香與層次感、讓人回味無窮、配埋白飯一流👍🏻\n\n✨柚子骨$138\n金沙骨醃漬入味、炸至金黃、外脆內軟、配柚子汁回鑊、酸甜適中、肉質鮮嫩、醬汁濃郁、柚香四溢，令人垂涎欲滴、吃不停口、舔舔脷👅👅\n\n✨ 雷沙湯丸$42\n雷沙湯丸外皮柔滑、軟糯綿綿、內餡黑芝麻蓉、濃香撲鼻、咬開瞬間、流心芝麻餡如甘露般滑出、香氣四溢、餐後甜品、錦上添花，大🈵足！\n\n📣📣中午時段-九折優惠（免收加一）\n📣📣晚餐八五折優惠\n📣📣外賣自取九折\n粵湘食\n香港北角和富道86-88銀輝大廈地下舖\n港鐵北角站A1出口、步行約5分鐘",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "粵湘食\n😘😘😘\n\n齒頰留香\n\n北角中式特色菜、特別多、今日上完堂、同朋友路過、和富道、街道兩旁整潔、優靜、招牌明亮、粵（越）湘（想）食中菜館、嗱嗱臨坐低、食好嘢📣📣\n✨金湯酸菜魚（例）$168\n金湯酸菜魚色澤金黃、賣相吸睛、湯汁濃郁、散發著誘人的香氣、酸菜的酸爽與魚肉的鮮嫩交融、口感豐富、色香味俱全、令人垂涎、每一口都充滿了鮮香與層次感、讓人回味無窮、配埋白飯一流👍🏻\n\n✨柚子骨$138\n金沙骨醃漬入味、炸至金黃、外脆內軟、配柚子汁回鑊、酸甜適中、肉質鮮嫩、醬汁濃郁、柚香四溢，令人垂涎欲滴、吃不停口、舔舔脷👅👅\n\n✨ 雷沙湯丸$42\n雷沙湯丸外皮柔滑、軟糯綿綿、內餡黑芝麻蓉、濃香撲鼻、咬開瞬間、流心芝麻餡如甘露般滑出、香氣四溢、餐後甜品、錦上添花，大🈵足！\n\n📣📣中午時段-九折優惠（免收加一）\n📣📣晚餐八五折優惠\n📣📣外賣自取九折\n粵湘食\n香港北角和富道86-88銀輝大廈地下舖\n港鐵北角站A1出口、步行約5分鐘",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Pig Dordorii",
+          "uri": "https://www.google.com/maps/contrib/104242488685628330106/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_kJnIKyRpB48i2oJZDuDBqDxrwfgqx3yS81FLU0nlvL5hvIk=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-05-14T14:08:11.590907Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJek5zN1dWcXM2NVB3EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJek5zN1dWcXM2NVB3EAE!2m1!1s0x340401001a2a0a45:0xd87e467a232642c8"
+      },
+      {
+        "name": "places/ChIJRQoqGgABBDQRyEImI3pGftg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taUFgyOVJVV3A1ZGtaRGFYWnFiM2xWVm0xUk5tYxAB",
+        "relativePublishTimeDescription": "12 個月前",
+        "rating": 5,
+        "text": {
+          "text": "午市客飯十分抵食，鹵味份量大又入味，跟餐紫菜湯紫菜多到可以用筷子夾入口。樓上雅座十分清幽環境👍",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午市客飯十分抵食，鹵味份量大又入味，跟餐紫菜湯紫菜多到可以用筷子夾入口。樓上雅座十分清幽環境👍",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "張利澳",
+          "uri": "https://www.google.com/maps/contrib/115388876418184269474/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIMuQ_IqfON_iO4o0U72Ubnq-Vopxf1vaRrGlRUFJJNADH0fA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-10-25T06:38:18.353537374Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taUFgyOVJVV3A1ZGtaRGFYWnFiM2xWVm0xUk5tYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taUFgyOVJVV3A1ZGtaRGFYWnFiM2xWVm0xUk5tYxAB!2m1!1s0x340401001a2a0a45:0xd87e467a232642c8"
+      },
+      {
+        "name": "places/ChIJRQoqGgABBDQRyEImI3pGftg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWlpXSm9WamQ1UkdZeFpEUm1lWGRsTlUxWWQwRRAB",
+        "relativePublishTimeDescription": "2 個月前",
+        "rating": 4,
+        "text": {
+          "text": "梅菜扣肉好食，樣樣都好好食，可小辣中辣大辣",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "梅菜扣肉好食，樣樣都好好食，可小辣中辣大辣",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Wan chan",
+          "uri": "https://www.google.com/maps/contrib/114185548578869445988/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGzHZJD14pgTxWmjd7b_NBm1DfaZsLMuE5ohi8aKR_D8DKkQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-08-02T13:43:53.207421192Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsWlpXSm9WamQ1UkdZeFpEUm1lWGRsTlUxWWQwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsWlpXSm9WamQ1UkdZeFpEUm1lWGRsTlUxWWQwRRAB!2m1!1s0x340401001a2a0a45:0xd87e467a232642c8"
+      },
+      {
+        "name": "places/ChIJRQoqGgABBDQRyEImI3pGftg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWVVVFZE5VbTFmTFVsV1EyaEVhMjVVTjFBd1NHYxAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "這家店絕對是凱悅世紀酒店的寶物小店！我是聽了韓國員工的推薦才來的，老闆人超好。這裡的泰式咖哩飯（Khao Yu）超好吃，你一定要嚐嚐！ 😋 如果你不能吃香菜，記得告訴他們不要放；如果你吃不了辣，點中辣的就正合你口味了！",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "완전 현지인 맛집 하얏트 센트리 한국 직원분 추천 받아서 왔는데 사장님 정말 정말 친절하시고 카오위 맛도리에요 꼬옥 드세요 😋 고수 못드시는 분들은 빼달라고 꼭 말씀하시고 매운거 못드시면 중간매운맛으로 시키면 맛있게 먹을 수 있어요!",
+          "languageCode": "ko"
+        },
+        "authorAttribution": {
+          "displayName": "jihyang kim",
+          "uri": "https://www.google.com/maps/contrib/111637602720030864765/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRsnf7ZFxYDXoPiICPwhPOJCsQWc_Iw9RPmxYW_K9vbeyhRg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2026-03-17T03:34:44.577860227Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWVVVFZE5VbTFmTFVsV1EyaEVhMjVVTjFBd1NHYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWVVVFZE5VbTFmTFVsV1EyaEVhMjVVTjFBd1NHYxAB!2m1!1s0x340401001a2a0a45:0xd87e467a232642c8"
+      },
+      {
+        "name": "places/ChIJRQoqGgABBDQRyEImI3pGftg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwMWNXcEZOR0kyWDFkeFUxRktVRzh6WmxkUU1HYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "員工友善，食物美味，尤其是魚類菜餚。這是一次美好的香港之旅回憶。",
+          "languageCode": "zh-TW"
+        },
+        "originalText": {
+          "text": "Friendly staffs, delicious food especially fish cuisine. It was good memory of hongkong trevel.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "jihae sola",
+          "uri": "https://www.google.com/maps/contrib/103276531942102878191/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfrqZos7lKIlPB8tbtuxyp4DzjgYjWiGCn7czo8fqZChTi3fM=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2026-05-31T03:20:58.629869006Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwMWNXcEZOR0kyWDFkeFUxRktVRzh6WmxkUU1HYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwMWNXcEZOR0kyWDFkeFUxRktVRzh6WmxkUU1HYxAB!2m1!1s0x340401001a2a0a45:0xd87e467a232642c8"
+      }
+    ],
+    "menuForChildren": false,
+    "goodForChildren": true,
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340401001a2a0a45:0xd87e467a232642c8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=15599983649647641288&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401001a2a0a45:0xd87e467a232642c8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340401001a2a0a45:0xd87e467a232642c8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340401001a2a0a45:0xd87e467a232642c8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJRQoqGgABBDQRyEImI3pGftg/photos/Aa-ngMZbSvKqjoJTWmv1v4qF7V1ssZuVAqac2u_Yqqq2kwWyHNZ8aq_MpHD-uKosRvHiJJZ-UENRrQS-ncV_s4AwXIz1l-MlFCEXRfyGfNIH_qEY1hoeSi0eG1MB0abNWMP1bqYOEoIpiz-1U9Ys0rZ_NNuUmWGsNVlNXmREXQ2Cmndj2cD_uTlvlPBwwcrymUybdjsWtv0UVv1RE6jZXiAQe-1oi5ObApwq4oiurJ33iYZsan4RUY8_IAnSb0n3xIr5oO9BHM7ZuyNWfHD8vHsCw_rVpZDxrr6C47DrhOgGo6woSs5smoxqWBBMdzHGzqFXzh7U_kGIQjs6aOU6ELcA_hbggCEdl5MDqjXQHVMxHaOep1EuRNQZJ1Z3xovBhzUqFKW_1S6gnTSOOPzgu5bU5TMbaKw",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "王小莉",
+          "uri": "https://maps.google.com/maps/contrib/107253597846060233247",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfn-u5aGyFRm_zMlailyDQVE1kdM9xdK2ipTGiHo4spNiSjg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCo4I2eag&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCo4I2eag!2e10!4m2!3m1!1s0x340401001a2a0a45:0xd87e467a232642c8"
+    },
+    "local_path": "photos/ChIJRQoqGgABBDQRyEImI3pGftg.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLeB2e5jg9xPBgTJ5rTCgXMKIvcX-gy3EF0NyVlkys4I2-_a97OEnGk9K-Ub0RStLU3MVjtGPGAYZQyfD5jxs1c2XSOlN6eK7Izvpmx9cOvZtRA4poURgr96c9kuvTFyCV5Y0UqA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 186130
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

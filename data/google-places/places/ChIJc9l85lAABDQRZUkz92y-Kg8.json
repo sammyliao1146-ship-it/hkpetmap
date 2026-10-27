@@ -1,0 +1,317 @@
+{
+  "google_place_id": "ChIJc9l85lAABDQRZUkz92y-Kg8",
+  "restaurant_ids": [
+    "restaurant:3112801417"
+  ],
+  "fetched_at": "2026-10-23T15:41:02.826118+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJc9l85lAABDQRZUkz92y-Kg8",
+    "types": [
+      "bar",
+      "hookah_bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2838 0004",
+    "internationalPhoneNumber": "+852 2838 0004",
+    "formattedAddress": "香港香港島鵝頸耀華街20號",
+    "location": {
+      "latitude": 22.2774288,
+      "longitude": 114.18200309999999
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=1092895234803845477&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 3,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 17,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 3,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 17:00 – 03:00",
+        "星期二: 17:00 – 03:00",
+        "星期三: 17:00 – 03:00",
+        "星期四: 17:00 – 03:00",
+        "星期五: 17:00 – 03:00",
+        "星期六: 17:00 – 03:00",
+        "星期日: 18:00 – 03:00"
+      ],
+      "nextCloseTime": "2026-10-23T19:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 51,
+    "displayName": {
+      "text": "B & W",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "酒吧",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "bar",
+    "reviews": [
+      {
+        "name": "places/ChIJc9l85lAABDQRZUkz92y-Kg8/reviews/ChZDSUhNMG9nS0VJQ0FnSURabG9IRkdnEAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 1,
+        "text": {
+          "text": "服務生從頭到尾臉很臭\n\n跟她說話把消費者當空氣\n\n不知道她是啞了才不回應\n\n還是心情很不美麗\n\n追加點兩杯飲品只上一杯\n\n另一杯也不敢跟她要\n\n默默結帳走人\n\n必須有這種服務生才會是優質酒吧嗎？？！\n\n離開前卻看到她還能講電話..\n\n為了評語才給一顆星\n\n一顆星都不值得給\n\n有委屈到>",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "服務生從頭到尾臉很臭\n\n跟她說話把消費者當空氣\n\n不知道她是啞了才不回應\n\n還是心情很不美麗\n\n追加點兩杯飲品只上一杯\n\n另一杯也不敢跟她要\n\n默默結帳走人\n\n必須有這種服務生才會是優質酒吧嗎？？！\n\n離開前卻看到她還能講電話..\n\n為了評語才給一顆星\n\n一顆星都不值得給\n\n有委屈到>",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "yin lok Lee",
+          "uri": "https://www.google.com/maps/contrib/109227433109472659782/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvoOxdAcitleKvqoUUb-WAfHktjAP8TIt1fKkTVbosEGr1Vq5eWw=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-09-30T08:58:36.259449Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURabG9IRkdnEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURabG9IRkdnEAE!2m1!1s0x34040050e67cd973:0xf2abe6cf7334965"
+      },
+      {
+        "name": "places/ChIJc9l85lAABDQRZUkz92y-Kg8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGWFlXcHBkM1JGVlhwNVJURjNYMkpCVWpCUU0yYxAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "很棒👍\n老闆貼心\n酒好喝～會帶朋友來訪",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "很棒👍\n老闆貼心\n酒好喝～會帶朋友來訪",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Ff F",
+          "uri": "https://www.google.com/maps/contrib/105887419347484689999/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlncUpcYnVu2i8x5R8zdzk2NHLGy1k-mRnUMr11zK6qNJ24hM=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-06-24T20:48:11.418620660Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGWFlXcHBkM1JGVlhwNVJURjNYMkpCVWpCUU0yYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGWFlXcHBkM1JGVlhwNVJURjNYMkpCVWpCUU0yYxAB!2m1!1s0x34040050e67cd973:0xf2abe6cf7334965"
+      },
+      {
+        "name": "places/ChIJc9l85lAABDQRZUkz92y-Kg8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBNzZ2RUxBEAE",
+        "relativePublishTimeDescription": "9 年前",
+        "rating": 3,
+        "text": {
+          "text": "煙味有點重。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "煙味有點重。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "蓓蓓（Renee）",
+          "uri": "https://www.google.com/maps/contrib/107307096653165262794/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYN1K9F7D7kVp7yN-E_DzBKGm69ZgAcA4jl2N5D7Kfs-z89rg19A=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2017-09-05T17:46:36.322Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBNzZ2RUxBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBNzZ2RUxBEAE!2m1!1s0x34040050e67cd973:0xf2abe6cf7334965"
+      },
+      {
+        "name": "places/ChIJc9l85lAABDQRZUkz92y-Kg8/reviews/ChdDSUhNMG9nS0VJQ0FnSURRbnZqUzhnRRAB",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "text": {
+          "text": "環境不錯",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境不錯",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Edward Lee",
+          "uri": "https://www.google.com/maps/contrib/117460605573525168671/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDG_D2ModqQ0Iu7EmbLlD9mJNqq7kmOtVigtn8VaqltUKUw-A8=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2018-08-16T07:41:20.569Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURRbnZqUzhnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURRbnZqUzhnRRAB!2m1!1s0x34040050e67cd973:0xf2abe6cf7334965"
+      },
+      {
+        "name": "places/ChIJc9l85lAABDQRZUkz92y-Kg8/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3aG9xQ093EAE",
+        "relativePublishTimeDescription": "8 年前",
+        "rating": 5,
+        "text": {
+          "text": "裝潢突顯風格",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "裝潢突顯風格",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ENGINEERING MULTI",
+          "uri": "https://www.google.com/maps/contrib/106783867301815349373/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvFNDCJwdF8OyzviAEDiQiKlJAQOHntv6Ur2y6iPORwicvCQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2018-04-08T16:18:57.965Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN3aG9xQ093EAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN3aG9xQ093EAE!2m1!1s0x34040050e67cd973:0xf2abe6cf7334965"
+      }
+    ],
+    "servesCocktails": true,
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34040050e67cd973:0xf2abe6cf7334965!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=1092895234803845477&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040050e67cd973:0xf2abe6cf7334965!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34040050e67cd973:0xf2abe6cf7334965!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34040050e67cd973:0xf2abe6cf7334965!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "250"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJc9l85lAABDQRZUkz92y-Kg8/photos/Aa-ngMZHAZZRoTgwwc5g3-sYYyAWgjPBTynSg033qKVBzagVkpp4rQVIz8j47wuNvW5x4AOJTwF-6cP_bUlGoZySFolfj4kyh0QiNo8QhpZPP0PVHpcAo_rlK76LwwLuzrw9_4BRONOblCAOQCK2_Xzq5DiAPpkN5yfvdzROC1B36UirOZAGcChZOUj7-vCexN-5kzeuFYtxnWoK1s-uYaqa5bvAP-kdAEVFnZ924AOYL3Es5apeWsQzvafYiJQpTUu6FFGk1gsXTbZqhkGUlAY54N5B5NJRLTFYYsEW4UAdwHgQC0q7cx0Se8zF4uIBVlDyXHgBaxxMd98do0a_r2LfaMMOkWZn88F0S_oDL7N3xYrMI-yK4Hk3PBltYuarcfchFNfI0ZAYABOCATV9QLmTLA",
+      "widthPx": 2048,
+      "heightPx": 1372,
+      "authorAttributions": [
+        {
+          "displayName": "B & W Shisha Lounge",
+          "uri": "https://maps.google.com/maps/contrib/108081615729469581819",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIogKklQkjdySqZrUimqM2gltEm3fcZA9Yjk4PkKzWikPF1hQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC69eUq&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC69eUq!2e10!4m2!3m1!1s0x34040050e67cd973:0xf2abe6cf7334965"
+    },
+    "local_path": "photos/ChIJc9l85lAABDQRZUkz92y-Kg8.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOkZjR0CAVuBDWY7r2iMrFrPw8hNiau262-AR3QyPmKrL-7Vdt5vVTuZ_ECVI4UEFXtpYxtONA9duOZDs47D-OpHk2_UQTBshSbAzoI6FoPhGeZ3K6RzTIpt826SWEhMRjLA=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 82171
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "bar",
+    "label": "酒吧",
+    "types": [
+      "bar",
+      "hookah_bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

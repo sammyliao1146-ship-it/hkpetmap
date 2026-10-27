@@ -1,0 +1,418 @@
+{
+  "google_place_id": "ChIJl5nwElQABDQRms339b5lVAI",
+  "restaurant_ids": [
+    "restaurant:2212113705"
+  ],
+  "fetched_at": "2026-10-23T15:39:29.282955+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJl5nwElQABDQRms339b5lVAI",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2837 1799",
+    "internationalPhoneNumber": "+852 2837 1799",
+    "formattedAddress": "31/F, 88 Yee Wo St, Causeway Bay, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.279148,
+      "longitude": 114.1868295
+    },
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=167870956964400538&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.regalhotel.com/en/regal-hongkong-hotel/restaurants-and-bars/alto-88",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 23:00",
+        "星期二: 12:00 – 15:00, 18:00 – 23:00",
+        "星期三: 12:00 – 15:00, 18:00 – 23:00",
+        "星期四: 12:00 – 15:00, 18:00 – 23:00",
+        "星期五: 12:00 – 15:00, 18:00 – 23:00",
+        "星期六: 12:00 – 15:00, 18:00 – 23:00",
+        "星期日: 11:30 – 15:00, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T04:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 100,
+    "displayName": {
+      "text": "Alto 88",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "義大利餐廳",
+      "languageCode": "zh-TW"
+    },
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "italian_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJl5nwElQABDQRms339b5lVAI/reviews/ChZDSUhNMG9nS0VKejBuYW1ENE9LNVNBEAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "絕美靚景抵食Brunch！\n\n喺香港富豪酒店31樓嘅Alto 88，最近推出咗一個令人心動嘅意式海鮮Brunch，性價比極高！如果你想喺繁忙都市生活中，享受一頓豐富嘅Brunch，呢度絕對係個好選擇。\n\n一入到Alto 88，你會被佢優雅嘅環境所吸引，坐喺酒店高處，望住維多利亞港嘅壯麗景色，真係令人心曠神怡。餐廳嘅佈置亦都好浪漫，適合同朋友或者情侶一齊享受悠閒時光；聽講呢度仲可以搞婚禮，準新人可以考慮吓！\n\n自助餐入面嘅菜式多到令人眼花繚亂，從頭盤、海鮮到甜品，每一樣都係精心挑選嘅意大利進口食材。沙律吧有多款健康選擇，例如新鮮嘅羅馬生菜、混合沙律菜同埋烤蔬菜，好味又開胃。\n\n講到海鮮，當然要提下呢度嘅新鮮龍蝦！龍蝦肉質鮮甜，真係令人回味無窮。仲有松葉蟹腳，肉質堅實，味道濃郁，絕對係愛蟹人士嘅最愛。每兩位客人更可以獲贈一客刺身拼盤，包括三文魚、鰤魚、紅蝦同一份魚子醬，呢個簡直係回本之選，正！\n\n至於熱食方面，現場有專區即席烹調，無論係龍蝦湯、脆烤香草肉眼扒，定係煙肉卡邦尼，都好值得一試。而且，Alto 88 自製嘅意大利莎樂美腸薄餅，尤其係黑松露四式芝士薄餅，口感滑順，令人一試難忘。\n\n甜品方面，呢度嘅栗子三重奏真係唔可以錯過，內裡有栗子果凍、雲呢拿栗子奶油同栗子海綿蛋糕，味道層次分明，令人驚喜。此外，來自ISCREAM嘅意大利雪糕，有士多啤梨、雲呢拿定朱古力味，配合牛角包做嘅croissant，口感香脆，係受大人小朋友歡迎嘅選擇。\n\n飲品方面，無限量供應嘅意大利有汽餐酒、紅白餐酒、汽水同果汁，真係讓人飲到盡，無論你係愛酒嘅人定係想清爽一啲，都能夠滿足你嘅需求。\n\nAlto 88嘅意式海鮮Brunch，無論係美食、性價比，甚至風景，都係無可挑剔。如果你想喺周末享受一餐豐盛又放鬆嘅早午餐，呢度絕對值得一試！快啲約埋朋友一齊去享受呢個美食盛宴！",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "絕美靚景抵食Brunch！\n\n喺香港富豪酒店31樓嘅Alto 88，最近推出咗一個令人心動嘅意式海鮮Brunch，性價比極高！如果你想喺繁忙都市生活中，享受一頓豐富嘅Brunch，呢度絕對係個好選擇。\n\n一入到Alto 88，你會被佢優雅嘅環境所吸引，坐喺酒店高處，望住維多利亞港嘅壯麗景色，真係令人心曠神怡。餐廳嘅佈置亦都好浪漫，適合同朋友或者情侶一齊享受悠閒時光；聽講呢度仲可以搞婚禮，準新人可以考慮吓！\n\n自助餐入面嘅菜式多到令人眼花繚亂，從頭盤、海鮮到甜品，每一樣都係精心挑選嘅意大利進口食材。沙律吧有多款健康選擇，例如新鮮嘅羅馬生菜、混合沙律菜同埋烤蔬菜，好味又開胃。\n\n講到海鮮，當然要提下呢度嘅新鮮龍蝦！龍蝦肉質鮮甜，真係令人回味無窮。仲有松葉蟹腳，肉質堅實，味道濃郁，絕對係愛蟹人士嘅最愛。每兩位客人更可以獲贈一客刺身拼盤，包括三文魚、鰤魚、紅蝦同一份魚子醬，呢個簡直係回本之選，正！\n\n至於熱食方面，現場有專區即席烹調，無論係龍蝦湯、脆烤香草肉眼扒，定係煙肉卡邦尼，都好值得一試。而且，Alto 88 自製嘅意大利莎樂美腸薄餅，尤其係黑松露四式芝士薄餅，口感滑順，令人一試難忘。\n\n甜品方面，呢度嘅栗子三重奏真係唔可以錯過，內裡有栗子果凍、雲呢拿栗子奶油同栗子海綿蛋糕，味道層次分明，令人驚喜。此外，來自ISCREAM嘅意大利雪糕，有士多啤梨、雲呢拿定朱古力味，配合牛角包做嘅croissant，口感香脆，係受大人小朋友歡迎嘅選擇。\n\n飲品方面，無限量供應嘅意大利有汽餐酒、紅白餐酒、汽水同果汁，真係讓人飲到盡，無論你係愛酒嘅人定係想清爽一啲，都能夠滿足你嘅需求。\n\nAlto 88嘅意式海鮮Brunch，無論係美食、性價比，甚至風景，都係無可挑剔。如果你想喺周末享受一餐豐盛又放鬆嘅早午餐，呢度絕對值得一試！快啲約埋朋友一齊去享受呢個美食盛宴！",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Etta Lai",
+          "uri": "https://www.google.com/maps/contrib/103514690922362617833/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfLos1NaE6NPwAhmAlgFjiwsP-sTrGt-HvVxon_eG6LfKN7fA=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-05-06T12:35:33.274099Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VKejBuYW1ENE9LNVNBEAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VKejBuYW1ENE9LNVNBEAE!2m1!1s0x3404005412f09997:0x25465bef5f7cd9a"
+      },
+      {
+        "name": "places/ChIJl5nwElQABDQRms339b5lVAI/reviews/ChdDSUhNMG9nS0VPM2NwTXpUeDVLR3ZnRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "這間藏身於銅鑼灣的空中花園，提供琳琅滿目的早午自助餐，擁有得天獨厚的高空景觀，透過落地玻璃可俯瞰銅鑼灣繁華景象，氛圍悠閒舒適，讓你度過愜意週末。\n\n🍽️ 美食亮點\n最吸引人的莫過於任食龍蝦及松葉蟹腳，每位更送上魚子醬刺身拼盤作為尊貴獻禮，配搭無限暢飲精選紅白酒及氣泡酒，讓你享受一個「醉」佳週末。\n餐廳特別為每位女士贈送知名品牌Rituals護膚禮品包乙份，令滿足感爆燈。\n\n👨‍🍳 廚師推薦美饌\n•\t即場烹調龍蝦湯及意粉：龍蝦湯濃郁鮮美，帶著濃厚的海洋精華。各種口味的意粉，滿足不同食客需求。\n•\t松露魚子蟹肉炒蛋：鹹鮮的魚子醬、馥郁香氣的黑松露，以及滑嫩細膩的炒蛋完美融合，奢華早餐的典範，值得encore。\n•\t脆皮豬腩卷及肉眼扒：豬腩卷外酥內嫩、肉汁豐盈，肉眼扒則柔嫩多汁，令人一試難忘！\n•\t黑松露四式芝士薄餅：黑松露與芝士的絕妙搭配，濃郁而不膩。\n\n🍨甜品控天堂\nI Scream Gelato 配牛角包窩夫：牛角窩夫新鮮即製，酥脆可口，配搭冰涼香滑的Gelato，打造出冷熱交織的極致口感。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "這間藏身於銅鑼灣的空中花園，提供琳琅滿目的早午自助餐，擁有得天獨厚的高空景觀，透過落地玻璃可俯瞰銅鑼灣繁華景象，氛圍悠閒舒適，讓你度過愜意週末。\n\n🍽️ 美食亮點\n最吸引人的莫過於任食龍蝦及松葉蟹腳，每位更送上魚子醬刺身拼盤作為尊貴獻禮，配搭無限暢飲精選紅白酒及氣泡酒，讓你享受一個「醉」佳週末。\n餐廳特別為每位女士贈送知名品牌Rituals護膚禮品包乙份，令滿足感爆燈。\n\n👨‍🍳 廚師推薦美饌\n•\t即場烹調龍蝦湯及意粉：龍蝦湯濃郁鮮美，帶著濃厚的海洋精華。各種口味的意粉，滿足不同食客需求。\n•\t松露魚子蟹肉炒蛋：鹹鮮的魚子醬、馥郁香氣的黑松露，以及滑嫩細膩的炒蛋完美融合，奢華早餐的典範，值得encore。\n•\t脆皮豬腩卷及肉眼扒：豬腩卷外酥內嫩、肉汁豐盈，肉眼扒則柔嫩多汁，令人一試難忘！\n•\t黑松露四式芝士薄餅：黑松露與芝士的絕妙搭配，濃郁而不膩。\n\n🍨甜品控天堂\nI Scream Gelato 配牛角包窩夫：牛角窩夫新鮮即製，酥脆可口，配搭冰涼香滑的Gelato，打造出冷熱交織的極致口感。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Miffy Poon",
+          "uri": "https://www.google.com/maps/contrib/107606050497328014600/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEq8oXNp7gU5XeoYRLL85BdqYLdR0I8QzNAV2RC4WVQ4aaCLxH=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-05-08T15:51:02.637047Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VPM2NwTXpUeDVLR3ZnRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPM2NwTXpUeDVLR3ZnRRAB!2m1!1s0x3404005412f09997:0x25465bef5f7cd9a"
+      },
+      {
+        "name": "places/ChIJl5nwElQABDQRms339b5lVAI/reviews/ChZDSUhNMG9nS0VMT3YyYV9KeGJXbFhREAE",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "Free flow香檳🍾紅白酒+Buffet\n\n入座即上魚子醬+刺身+麵包+香檳\n沙律、冷盤、芝士、凍海鮮、龍蝦湯、燒牛肉、黑松露炒蛋、￼燒腩肉、即煮意粉￼、薄餅、甜品任食\n仲有羊架、黑松露意式雲吞、燒魚、黑松露Pizza係廚師一檯檯serve ，服務好好￼，仲對住海景飲足2個半鐘，放假就係要依D😌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Free flow香檳🍾紅白酒+Buffet\n\n入座即上魚子醬+刺身+麵包+香檳\n沙律、冷盤、芝士、凍海鮮、龍蝦湯、燒牛肉、黑松露炒蛋、￼燒腩肉、即煮意粉￼、薄餅、甜品任食\n仲有羊架、黑松露意式雲吞、燒魚、黑松露Pizza係廚師一檯檯serve ，服務好好￼，仲對住海景飲足2個半鐘，放假就係要依D😌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Man Man Man",
+          "uri": "https://www.google.com/maps/contrib/104128219832991471639/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLpC_OsDFLfZMhzT3aZ5BV5ow5hSsb9lOE0tUVt-Mqnu9LnoA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-05-25T03:00:23.814973Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VMT3YyYV9KeGJXbFhREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMT3YyYV9KeGJXbFhREAE!2m1!1s0x3404005412f09997:0x25465bef5f7cd9a"
+      },
+      {
+        "name": "places/ChIJl5nwElQABDQRms339b5lVAI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1T2NEWjBaVGxTY1ZBd2FWRkNSRmh3VFV3M1oxRRAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "在食物枱上面，種類係唔多，但中場有廚師推車仔出嚟在每一枱客前調酒、煮扒 （羊/牛）、煮橙酒crepes…., 　要以量去食自助餐，可能未必滿足到你，但品質同服務非常滿意。如果喜歡飲酒，他們提供free flow, 故價錢方面算可以",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "在食物枱上面，種類係唔多，但中場有廚師推車仔出嚟在每一枱客前調酒、煮扒 （羊/牛）、煮橙酒crepes…., 　要以量去食自助餐，可能未必滿足到你，但品質同服務非常滿意。如果喜歡飲酒，他們提供free flow, 故價錢方面算可以",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "MayMay Wong",
+          "uri": "https://www.google.com/maps/contrib/107484954745144140633/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKYQWSW_1uifml8ueH3ebnIDpuqJ-rG6z8GjAQ6ZtWr5bbFg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2025-07-15T09:30:34.962607681Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1T2NEWjBaVGxTY1ZBd2FWRkNSRmh3VFV3M1oxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1T2NEWjBaVGxTY1ZBd2FWRkNSRmh3VFV3M1oxRRAB!2m1!1s0x3404005412f09997:0x25465bef5f7cd9a"
+      },
+      {
+        "name": "places/ChIJl5nwElQABDQRms339b5lVAI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FMGVURjZlVWx0WVdwTlMzaFpYMkoyZURCZlFXYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 5,
+        "text": {
+          "text": "從進門開始已經很好服務\n侍應又熱情又親民\n食物又好食\n又可以親自整cocktails\n又有廚師即場整龍蝦湯和意粉\n又有廚師推車仔有其他主菜\n真的很忙呀\n侍應很好主動幫忙拍照\n我跟朋友拍了十年份量的照片🤣\n酒還要任飲\n好想多d人幫襯\n但又怕之後難book\n好矛盾🤣🤣🤣",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "從進門開始已經很好服務\n侍應又熱情又親民\n食物又好食\n又可以親自整cocktails\n又有廚師即場整龍蝦湯和意粉\n又有廚師推車仔有其他主菜\n真的很忙呀\n侍應很好主動幫忙拍照\n我跟朋友拍了十年份量的照片🤣\n酒還要任飲\n好想多d人幫襯\n但又怕之後難book\n好矛盾🤣🤣🤣",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Tsukimi",
+          "uri": "https://www.google.com/maps/contrib/117918018037319553777/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1fCqzzmB73uMy3sDQMiCOlZw541vhxYMSnF26bGazG_0N_Cn6=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-08-03T09:27:06.578339583Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25FMGVURjZlVWx0WVdwTlMzaFpYMkoyZURCZlFXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FMGVURjZlVWx0WVdwTlMzaFpYMkoyZURCZlFXYxAB!2m1!1s0x3404005412f09997:0x25465bef5f7cd9a"
+      }
+    ],
+    "menuForChildren": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404005412f09997:0x25465bef5f7cd9a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=167870956964400538&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005412f09997:0x25465bef5f7cd9a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404005412f09997:0x25465bef5f7cd9a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404005412f09997:0x25465bef5f7cd9a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJl5nwElQABDQRms339b5lVAI/photos/Aa-ngMYrJdVHyfni-bDarLwWodyWL48lypEabS8MKFQ8Ks5e_abuNZOzlO2S9uPDejjmtTTBMTj6a_yIxSk-mDxLsZSrCP2QkX-Ifb9D32H6hcnzhP9lMVmoTCMWMllHQ36GWxg1ch0cVAQeDw0T2jOKE9bR7XIul9d_r5rueMEu4r9gwcpW-6D9EOZM6ycT13YsHq0D6mRAAkeeTACpi81s0HYKwjEADjEEi0RHqwKxZBTDKa_AhEK_twMWxYvLUN_wCFzTpgALN-k2E-phHXh9s6yBwHEufj1W_PWbTP8IFzRAsmTAPWytfyEcwCwrTS4yMzlqsKDE7MVGG7fkX3sYCtIR-HIekTd1D-4bTl4lQ1do9kVUNNk5piUJOhj7f0XpSgRgYRDDrCkf4Wn0xS1Ag2Wor_JPFUT2jJvO50KVJViM5Q",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Bee C",
+          "uri": "https://maps.google.com/maps/contrib/117416783594885177079",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJItxUpcb-N0aF1FpNu2SgE6y1MtfwoQogapUxaoK3bBDswUs=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBIUctKj3Dv2is3kwOArlk6&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBIUctKj3Dv2is3kwOArlk6!2e10!4m2!3m1!1s0x3404005412f09997:0x25465bef5f7cd9a"
+    },
+    "local_path": "photos/ChIJl5nwElQABDQRms339b5lVAI.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyKcY-5GDlazLH9Y6uKoHs4r6gdHfwuobc7Uz35dQ4RJ1YggLAUVzw-tfbBbLPA1cJW6aFQirXFm_UAqpl_jnCd-urSn4cVP2GA-krkkbk80phGdj0QQzn7uZ4nofWlPGNt4CTTTXO27Yb=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 335108
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.booking.regalhotel.com/?rhotel=RHK",
+        "label": "Book Now",
+        "source_url": "https://www.regalhotel.com/en/regal-hongkong-hotel/restaurants-and-bars/alto-88",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "italian_restaurant",
+    "label": "義大利餐廳",
+    "types": [
+      "italian_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.booking.regalhotel.com/?rhotel=RHK",
+  "menu_url": null
+}

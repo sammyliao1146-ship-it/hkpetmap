@@ -1,0 +1,412 @@
+{
+  "google_place_id": "ChIJm0yBsX0ABDQRKDqGLF-Vr_Y",
+  "restaurant_ids": [
+    "restaurant:2218817474"
+  ],
+  "fetched_at": "2026-10-23T15:38:04.878338+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJm0yBsX0ABDQRKDqGLF-Vr_Y",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "6230 8973",
+    "internationalPhoneNumber": "+852 6230 8973",
+    "formattedAddress": "2/F, Alliance Building, 130-136 Connaught Rd Central, Sheung Wan, Hong Kong Island, 香港",
+    "location": {
+      "latitude": 22.2870402,
+      "longitude": 114.151975
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=17775590490256063016&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://book.bistrochat.com/jiangsuclub/google",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 11:30 – 15:00, 18:00 – 23:00",
+        "星期二: 11:30 – 15:00, 18:00 – 23:00",
+        "星期三: 11:30 – 15:00, 18:00 – 23:00",
+        "星期四: 11:30 – 15:00, 18:00 – 23:00",
+        "星期五: 11:30 – 15:00, 18:00 – 23:00",
+        "星期六: 11:30 – 15:00, 18:00 – 23:00",
+        "星期日: 11:30 – 15:00, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T03:30:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 312,
+    "displayName": {
+      "text": "江蘇銘悅",
+      "languageCode": "zh-HK"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJm0yBsX0ABDQRKDqGLF-Vr_Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paR1ZXaElXV3hqZGtKTGJEaDBOVlZyYzE5TVFsRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "一向愛到處打卡中菜館，今次來到上環的江蘇銘悅，選擇了 「江南晨夢」週末鮑參翅早午套餐（$488），中式 Brunch 特別滿足 🥰\n\n蝦餃皇算是很不錯，經典涼菜雙色鎮江肴肉特別加入黑醋啫喱減少油膩感，爽脆海蜇花佐以香辣蝦米醬更添風味，打開胃口是時候品嚐套餐的重頭戲，濃湯家燒魚翅質感濃郁、份量十足，上湯似乎加入蝦熬製，鮮甜海洋滋味 🌊 遼參扣南非鮑誠意十足，鮑魚富有彈性、餘韻悠長，剛好朋友不愛鮑魚 More for me 😋 向來不好海參，也認同師傅功夫到家，海參軟糯而微微黏嘴，膠質豐厚幾乎不用咀嚼就能解決。  即點即蒸的點心和小炒都可以無限追加，只想淺嚐的話，點心可以單點一件實在太好了 🥟 招牌灌湯小籠包皮薄多汁，正進行高難度動作——夾小籠包的我一邊說著：「啲人點忍心為咗影湯汁畫面，嘥晒小籠包啲精華！！」，結果手上的湯包⋯⋯被竹籠黏住了⋯⋯於是就有了圖二的誕生 😀 推薦的還有蒜香酸辣的紅油抄手、金黃酥脆的爆汁生煎包，乾煸四季豆鑊氣十足，如果上菜溫度能保存熱度更好；多試幾款貪心的朋友肯定滿意 🥳 悄悄說鮑魚鹹水角不夠脆，紅燒肉芡汁太甜和濃重，可以留肚吃其他 😆\n飲飽食醉後當然是甜品時間 🍮 此時已經飽得半死，朋友大手一揮把所有 Item 都點了一遍（嗝）最想吃的蜂蜜杏仁豆腐花已售罄，熱辣辣棗皇拉糕、流心得過份的擂沙湯圓，微甜煙韌的酒釀丸子，想不到會如此出色 ✨ 碳水全餐完滿結束（嗝）",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "一向愛到處打卡中菜館，今次來到上環的江蘇銘悅，選擇了 「江南晨夢」週末鮑參翅早午套餐（$488），中式 Brunch 特別滿足 🥰\n\n蝦餃皇算是很不錯，經典涼菜雙色鎮江肴肉特別加入黑醋啫喱減少油膩感，爽脆海蜇花佐以香辣蝦米醬更添風味，打開胃口是時候品嚐套餐的重頭戲，濃湯家燒魚翅質感濃郁、份量十足，上湯似乎加入蝦熬製，鮮甜海洋滋味 🌊 遼參扣南非鮑誠意十足，鮑魚富有彈性、餘韻悠長，剛好朋友不愛鮑魚 More for me 😋 向來不好海參，也認同師傅功夫到家，海參軟糯而微微黏嘴，膠質豐厚幾乎不用咀嚼就能解決。  即點即蒸的點心和小炒都可以無限追加，只想淺嚐的話，點心可以單點一件實在太好了 🥟 招牌灌湯小籠包皮薄多汁，正進行高難度動作——夾小籠包的我一邊說著：「啲人點忍心為咗影湯汁畫面，嘥晒小籠包啲精華！！」，結果手上的湯包⋯⋯被竹籠黏住了⋯⋯於是就有了圖二的誕生 😀 推薦的還有蒜香酸辣的紅油抄手、金黃酥脆的爆汁生煎包，乾煸四季豆鑊氣十足，如果上菜溫度能保存熱度更好；多試幾款貪心的朋友肯定滿意 🥳 悄悄說鮑魚鹹水角不夠脆，紅燒肉芡汁太甜和濃重，可以留肚吃其他 😆\n飲飽食醉後當然是甜品時間 🍮 此時已經飽得半死，朋友大手一揮把所有 Item 都點了一遍（嗝）最想吃的蜂蜜杏仁豆腐花已售罄，熱辣辣棗皇拉糕、流心得過份的擂沙湯圓，微甜煙韌的酒釀丸子，想不到會如此出色 ✨ 碳水全餐完滿結束（嗝）",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Brit Siu",
+          "uri": "https://www.google.com/maps/contrib/105509885048221265463/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuyJ9-nlbym6op_1X49JZIGXft2GEfuyrxGiY5uIayWL4c3k8=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-06-12T06:45:40.232158663Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paR1ZXaElXV3hqZGtKTGJEaDBOVlZyYzE5TVFsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paR1ZXaElXV3hqZGtKTGJEaDBOVlZyYzE5TVFsRRAB!2m1!1s0x3404007db1814c9b:0xf6af955f2c863a28"
+      },
+      {
+        "name": "places/ChIJm0yBsX0ABDQRKDqGLF-Vr_Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKWmFFNWxWaTB0VDNoZmRFSm9iVmsyZEVSbVJFRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "點心小炒甜品全部任食!\n啱晒同屋企人一齊去～\n.\n中菜任食真係好少見\n呢度環境幾舒服\n食物質素都唔錯\n.\n除咗鮑參翅追加要加錢之外\n其他點心小炒主食甜品都係無限追加\n時間都好充裕\n$488一位有鮑參翅都算抵玩\n.\n以下幾款係小編私心推介\n始終食唔晒咁多款，但係呢幾款算係必試😆\n百葉結燒黑毛豬方肉、小籠包、黑松露冬菇包\n擂沙湯丸\n.\n江蘇銘悅\n地址：上環干諾道中130-136號誠信大廈2樓 (上環站C出口, 行1分鐘)",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "點心小炒甜品全部任食!\n啱晒同屋企人一齊去～\n.\n中菜任食真係好少見\n呢度環境幾舒服\n食物質素都唔錯\n.\n除咗鮑參翅追加要加錢之外\n其他點心小炒主食甜品都係無限追加\n時間都好充裕\n$488一位有鮑參翅都算抵玩\n.\n以下幾款係小編私心推介\n始終食唔晒咁多款，但係呢幾款算係必試😆\n百葉結燒黑毛豬方肉、小籠包、黑松露冬菇包\n擂沙湯丸\n.\n江蘇銘悅\n地址：上環干諾道中130-136號誠信大廈2樓 (上環站C出口, 行1分鐘)",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Hkfoodphoto HK",
+          "uri": "https://www.google.com/maps/contrib/115033116167219223722/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfP0XbB_eCi-fnKEbWzYZUisr__T77V81OEd1ZWq_rkIriiRk=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-03T17:01:13.237587971Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKWmFFNWxWaTB0VDNoZmRFSm9iVmsyZEVSbVJFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKWmFFNWxWaTB0VDNoZmRFSm9iVmsyZEVSbVJFRRAB!2m1!1s0x3404007db1814c9b:0xf6af955f2c863a28"
+      },
+      {
+        "name": "places/ChIJm0yBsX0ABDQRKDqGLF-Vr_Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJeE5WSkhVWFYwY25GNWQwaHBNVzFWUkhGTmJIYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "趁著weekend同朋友一齊去食好嘢！ 黎左上環嘅「江蘇銘悅」食佢哋嘅週末鮑參翅早午餐，呢個brunch嘅性價比好高，而且好豐富！ 食到鮑參翅之餘，仲有多達20多款嘅點心、湯品、小炒、主食、甜品可以喺2.5小時內無限追加。 食物出品同質素都幾高，完全唔馬虎，食到捧住個肚走，大滿足！  喺進入無限追加環節之前，會先有4道菜。 包括開胃菜拼盤，有鎮江肴肉、雞絲粉皮、香辣蝦米醬伴海蜇。  點心拼盤。有金箔蝦餃王、珍珠糯米燒賣。  重頭戲嘅鮑參翅。 超級濃郁足料嘅濃湯家燒魚翅同埋遼參扣南非鮑。呢兩道都係超高質！ 特別係濃湯魚翅，真係鮮味十足！鮑參都係爽脆又入味。  跟著就黎到任食嘅環節。有好多款睇落都好吸引，直接問店員有咩必食/好食推介，店員推介左好幾款直接幫我地落單每款一碟試下。  必食嘅招牌灌湯小籠包，皮薄肉餡多汁鮮美，好味！  豚肉鍋貼。飽滿嘅豬肉餡都同樣多汁肉鮮。  炸銀絲卷配煉奶。 銀絲卷炸得金黃，外酥脆內鬆軟。\n蔥油餅好足料好多蔥好香口。  醉雞嘅份量完全係平時出面餐廳嘅量，但佢啲雞件都幾滑，而且酒香濃，夠入味！  京蔥爆牛肉就比較重口味，但香口惹味，牛肉嫩滑，但配白飯食應該會更好，就咁食就鹹啲。  百頁結燒黑毛豬方肉。 啲黑毛豬肉煮到又軟又腍，濃油赤醬嘅鹹甜適中！  雪菜毛豆百頁清清地但個上湯幾鮮。  上海粗炒又係鹹甜適中嘅濃油赤醬，炒得唔會太油膩，而且入面好多蔬菜好味。  兩款湯品酸辣湯同鹹肉豆腐湯都好飲！ 酸辣湯個調味啱啱好，酸辣惹味又啖啖料，鹹肉豆腐湯好似腌篤鮮嗰個位，好清雅但好鮮甜，飲完無負擔。  最後嘅甜品有4款，每款都有試下。 擂沙湯圓係芝麻餡，個餡好香。 冰粉好清爽，口感滑溜！ 棗泥拉糕口感煙韌，棗味突出。 酒釀丸子嘅米酒香都好出，丸子唔會太軟身。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "趁著weekend同朋友一齊去食好嘢！ 黎左上環嘅「江蘇銘悅」食佢哋嘅週末鮑參翅早午餐，呢個brunch嘅性價比好高，而且好豐富！ 食到鮑參翅之餘，仲有多達20多款嘅點心、湯品、小炒、主食、甜品可以喺2.5小時內無限追加。 食物出品同質素都幾高，完全唔馬虎，食到捧住個肚走，大滿足！  喺進入無限追加環節之前，會先有4道菜。 包括開胃菜拼盤，有鎮江肴肉、雞絲粉皮、香辣蝦米醬伴海蜇。  點心拼盤。有金箔蝦餃王、珍珠糯米燒賣。  重頭戲嘅鮑參翅。 超級濃郁足料嘅濃湯家燒魚翅同埋遼參扣南非鮑。呢兩道都係超高質！ 特別係濃湯魚翅，真係鮮味十足！鮑參都係爽脆又入味。  跟著就黎到任食嘅環節。有好多款睇落都好吸引，直接問店員有咩必食/好食推介，店員推介左好幾款直接幫我地落單每款一碟試下。  必食嘅招牌灌湯小籠包，皮薄肉餡多汁鮮美，好味！  豚肉鍋貼。飽滿嘅豬肉餡都同樣多汁肉鮮。  炸銀絲卷配煉奶。 銀絲卷炸得金黃，外酥脆內鬆軟。\n蔥油餅好足料好多蔥好香口。  醉雞嘅份量完全係平時出面餐廳嘅量，但佢啲雞件都幾滑，而且酒香濃，夠入味！  京蔥爆牛肉就比較重口味，但香口惹味，牛肉嫩滑，但配白飯食應該會更好，就咁食就鹹啲。  百頁結燒黑毛豬方肉。 啲黑毛豬肉煮到又軟又腍，濃油赤醬嘅鹹甜適中！  雪菜毛豆百頁清清地但個上湯幾鮮。  上海粗炒又係鹹甜適中嘅濃油赤醬，炒得唔會太油膩，而且入面好多蔬菜好味。  兩款湯品酸辣湯同鹹肉豆腐湯都好飲！ 酸辣湯個調味啱啱好，酸辣惹味又啖啖料，鹹肉豆腐湯好似腌篤鮮嗰個位，好清雅但好鮮甜，飲完無負擔。  最後嘅甜品有4款，每款都有試下。 擂沙湯圓係芝麻餡，個餡好香。 冰粉好清爽，口感滑溜！ 棗泥拉糕口感煙韌，棗味突出。 酒釀丸子嘅米酒香都好出，丸子唔會太軟身。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodieyum伏迪音",
+          "uri": "https://www.google.com/maps/contrib/115723985224315016705/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1npJQDgAqlNLVOhY_zKohBrbUpNDL0-LWMlw3-A8dzlDuvPH9=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-30T14:04:59.274356106Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJeE5WSkhVWFYwY25GNWQwaHBNVzFWUkhGTmJIYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJeE5WSkhVWFYwY25GNWQwaHBNVzFWUkhGTmJIYxAB!2m1!1s0x3404007db1814c9b:0xf6af955f2c863a28"
+      },
+      {
+        "name": "places/ChIJm0yBsX0ABDQRKDqGLF-Vr_Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWbVRsUnBRMGd3YkY5YU5YaHJUR2N4V2tod1EwRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 5,
+        "text": {
+          "text": "餐廳weekend brunch menu\n點心小菜任點亦唔意外\n但講緊嘅喺上環都幾出名嘅中菜食府 @江蘇銘悅\n咁就都值得衝衝子嘞～～～\n\n點心小炒口味見仁見智\n推薦原因除咗因為餐廳風評外\n仲有菜式選擇同整體味道都up to standard\n包括餐廳本身好幾道招牌菜\n—— 灌湯小籠包、爆汁生煎包、黃金蝦球、鹹肉湯、蘿蔔糕同鹹水角等\n仲有濃湯魚翅同遼參扣同南非鮑魚\n主菜推薦一定要點鹹肉高山菜\n係招牌之一高湯津白嘅翻版\n超好食！\n其次木須肉、黑毛豬方肉、賽磅蟹同乾燒虎蝦球都係必試～\n甜品比較欣賞招牌擂沙湯圓同棗泥糕",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "餐廳weekend brunch menu\n點心小菜任點亦唔意外\n但講緊嘅喺上環都幾出名嘅中菜食府 @江蘇銘悅\n咁就都值得衝衝子嘞～～～\n\n點心小炒口味見仁見智\n推薦原因除咗因為餐廳風評外\n仲有菜式選擇同整體味道都up to standard\n包括餐廳本身好幾道招牌菜\n—— 灌湯小籠包、爆汁生煎包、黃金蝦球、鹹肉湯、蘿蔔糕同鹹水角等\n仲有濃湯魚翅同遼參扣同南非鮑魚\n主菜推薦一定要點鹹肉高山菜\n係招牌之一高湯津白嘅翻版\n超好食！\n其次木須肉、黑毛豬方肉、賽磅蟹同乾燒虎蝦球都係必試～\n甜品比較欣賞招牌擂沙湯圓同棗泥糕",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Liz Kycheuk",
+          "uri": "https://www.google.com/maps/contrib/102617614135447158961/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWggXvvJl87nJJbhK7Vs9ToRwrv-T3qjnlfGd60OcSM3nBrTw--=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-06-03T15:44:42.606318606Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWbVRsUnBRMGd3YkY5YU5YaHJUR2N4V2tod1EwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWbVRsUnBRMGd3YkY5YU5YaHJUR2N4V2tod1EwRRAB!2m1!1s0x3404007db1814c9b:0xf6af955f2c863a28"
+      },
+      {
+        "name": "places/ChIJm0yBsX0ABDQRKDqGLF-Vr_Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Gdk5EVk1jbE0wY2xSQ2FHMUNZVkpwUW5sbFUxRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 5,
+        "text": {
+          "text": "有時候係IG 見到呢個 鮑參翅套餐，都引起我興趣。所以都同大家試下呢一間中式Weekend Brunch。\n\n呢間中菜館位於上環信德中心對面，地鐵站B出口，夠哂方便。呢度環境清靜，坐得舒適，岩哂同朋友嚟傾計食野。\n\n開胃菜拼盤 「雞絲拉皮|香辣蝦米醬伴海蜇|雙色鎮江肴肉」\n先有三款前菜。我鐘意雞絲拉皮，配埋麻醬好開胃。海蜇咬落清脆爽口，又帶點香辣。鎮江肴肉上面有一層啫喱一樣既口感，幾特別。\n\n點心拼盤「金鉑蝦餃皇| 珍珠糯米燒賣」\n食中菜點可以唔食點心？每人都會有蝦餃皇、糯米燒賣。蝦餃皇大大粒，入面蝦肉都好多汁。糯米燒賣平時少見，但內裡都有豬肉餡料，口感煙韌，幾特別。\n\n鮑參翅「濃湯家燒魚翅| 遼參扣南非鮑」\n呢個Weekend Brunch 最吸引既菜式。南非鮑煮到剛剛好，輕輕用刀就可以切開，食落夠鮮甜，有嚼口，鮑魚內裡有肉實淨。遼參用埋鮑炆煮，食落肉質細糯、飽滿、又富有膠質。濃湯家燒魚翅用上飽滿翅針，湯頭味道濃郁。\n\n無限追加。湯品| 點心| 小炒| 主食| 甜品\nWeekend Brunch 最大特色就係可以任叫餐牌上既湯品|、點心、小炒、主食等。呢度主打江浙/滬菜，所以可以試下酸辣湯同埋小籠包。推薦一定要食「懷舊爆汁生煎包」，個底煎到好香脆，咬落好多汁。「黑松露冬菇包」賣相可愛，內裡好多冬菇粒。小炒我地食左京蔥爆牛肉，新鮮熱焫焫，牛肉好滑口。甜品仲有雷沙湯丸、杏仁豆腐花等。\n\n整體嚟講，成個環境好舒服，食物都ok，岩哂大家約埋朋友嚟食飯聚會～",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "有時候係IG 見到呢個 鮑參翅套餐，都引起我興趣。所以都同大家試下呢一間中式Weekend Brunch。\n\n呢間中菜館位於上環信德中心對面，地鐵站B出口，夠哂方便。呢度環境清靜，坐得舒適，岩哂同朋友嚟傾計食野。\n\n開胃菜拼盤 「雞絲拉皮|香辣蝦米醬伴海蜇|雙色鎮江肴肉」\n先有三款前菜。我鐘意雞絲拉皮，配埋麻醬好開胃。海蜇咬落清脆爽口，又帶點香辣。鎮江肴肉上面有一層啫喱一樣既口感，幾特別。\n\n點心拼盤「金鉑蝦餃皇| 珍珠糯米燒賣」\n食中菜點可以唔食點心？每人都會有蝦餃皇、糯米燒賣。蝦餃皇大大粒，入面蝦肉都好多汁。糯米燒賣平時少見，但內裡都有豬肉餡料，口感煙韌，幾特別。\n\n鮑參翅「濃湯家燒魚翅| 遼參扣南非鮑」\n呢個Weekend Brunch 最吸引既菜式。南非鮑煮到剛剛好，輕輕用刀就可以切開，食落夠鮮甜，有嚼口，鮑魚內裡有肉實淨。遼參用埋鮑炆煮，食落肉質細糯、飽滿、又富有膠質。濃湯家燒魚翅用上飽滿翅針，湯頭味道濃郁。\n\n無限追加。湯品| 點心| 小炒| 主食| 甜品\nWeekend Brunch 最大特色就係可以任叫餐牌上既湯品|、點心、小炒、主食等。呢度主打江浙/滬菜，所以可以試下酸辣湯同埋小籠包。推薦一定要食「懷舊爆汁生煎包」，個底煎到好香脆，咬落好多汁。「黑松露冬菇包」賣相可愛，內裡好多冬菇粒。小炒我地食左京蔥爆牛肉，新鮮熱焫焫，牛肉好滑口。甜品仲有雷沙湯丸、杏仁豆腐花等。\n\n整體嚟講，成個環境好舒服，食物都ok，岩哂大家約埋朋友嚟食飯聚會～",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Foodjiwara",
+          "uri": "https://www.google.com/maps/contrib/102996260686254082984/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULNezWte-Kk2e2xwZ7pGVTbPApM0RsmRSkTQNMOWMXt-mvbynU=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2026-03-04T11:00:47.659069842Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Gdk5EVk1jbE0wY2xSQ2FHMUNZVkpwUW5sbFUxRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Gdk5EVk1jbE0wY2xSQ2FHMUNZVkpwUW5sbFUxRRAB!2m1!1s0x3404007db1814c9b:0xf6af955f2c863a28"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": false,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404007db1814c9b:0xf6af955f2c863a28!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=17775590490256063016&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404007db1814c9b:0xf6af955f2c863a28!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404007db1814c9b:0xf6af955f2c863a28!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404007db1814c9b:0xf6af955f2c863a28!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJm0yBsX0ABDQRKDqGLF-Vr_Y/photos/Aa-ngMYXK3kvhA4Zyvw8n9fY1bPxWkKQu09vHb1QyEt5IrI7Xa8BdJU1hzeUgIm828qcMN5wwP0M_zJsd0odPvJpe0EJzC787YaLscRraud5f9BKmUpzAHm6Ar1x6c5o26P46d2afF4ccI9Bqr9xoGa5TMPMmRiiz6ylEVvcqWxo-e_5KgLYSMSdcaIC-rV5biirMPuI36CJLHz2K3LRCjpirGMHJs9eyWjlC5Hnj1wlfuRDMmocGSw29Phesx9p7O6hkScabjYgR1Zpoi5HXDi3bP5QzwcUkIC3vqBrWr21i_Yja3OcvypTd3B3XJ_nfVealkW3mOfDn6nEYUOZbVaoUVbQz7P1ntvX1no8s1F1qzoKLBDmKrMI5usAan3dbhEPCwZ1IvbbPlNHcSVMfXR2CLqsZg",
+      "widthPx": 4800,
+      "heightPx": 3179,
+      "authorAttributions": [
+        {
+          "displayName": "Jiangsu Club",
+          "uri": "https://maps.google.com/maps/contrib/105538513652089292971",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRCwUpjyz1Jhd7sXdtnpngYsP-izpgktrdcYHghwzaKnqJiuQd=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDj7czQbQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj7czQbQ!2e10!4m2!3m1!1s0x3404007db1814c9b:0xf6af955f2c863a28"
+    },
+    "local_path": "photos/ChIJm0yBsX0ABDQRKDqGLF-Vr_Y.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLcItg1D6NJ7LdqcIv34dpljkacYcBqxKL_1Z7PJK6mPE4ilfz9xdxWAb4gdYamLQwYoaSwawDJT6eDpjmv1SvhCTy2r71W_xyU63IaGy8ln0vmbGydNQW7XYdhr0BV6KkAXAMc=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 82855
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

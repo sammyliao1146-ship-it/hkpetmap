@@ -1,0 +1,322 @@
+{
+  "google_place_id": "ChIJq5eqgnsABDQRAxupXLYqR4U",
+  "restaurant_ids": [
+    "restaurant:2218805653"
+  ],
+  "fetched_at": "2026-10-23T15:46:30.930891+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJq5eqgnsABDQRAxupXLYqR4U",
+    "types": [
+      "western_restaurant",
+      "bistro",
+      "french_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2617 0891",
+    "internationalPhoneNumber": "+852 2617 0891",
+    "formattedAddress": "香港香港島中環荷李活道61號",
+    "location": {
+      "latitude": 22.283074199999998,
+      "longitude": 114.15290279999999
+    },
+    "rating": 3.8,
+    "googleMapsUri": "https://maps.google.com/?cid=9603691693117872899&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "http://inline.app/booking/neighborhood",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 30
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 30
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 18:00 – 23:30",
+        "星期二: 18:00 – 23:30",
+        "星期三: 18:00 – 23:30",
+        "星期四: 18:00 – 23:30",
+        "星期五: 18:00 – 23:30",
+        "星期六: 18:00 – 23:30",
+        "星期日: 休息"
+      ],
+      "nextOpenTime": "2026-10-24T10:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 338,
+    "displayName": {
+      "text": "Neighborhood",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "西餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesWine": true,
+    "primaryType": "western_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJq5eqgnsABDQRAxupXLYqR4U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKcFUyZHlUREZwYzBsWk5FaHVVMmhLU0d4dllVRRAB",
+        "relativePublishTimeDescription": "9 個月前",
+        "rating": 5,
+        "text": {
+          "text": "給除了五顆好評，不是因為主廚是個紅人。除了喜歡主廚DAVID的個性跟處事態度之外，他的餐真的非常的推薦，因為當天我們也都很忙了，服務生推薦的酒也都非常的有水準，希望下次還有機會到香港的時候再度到訪。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "給除了五顆好評，不是因為主廚是個紅人。除了喜歡主廚DAVID的個性跟處事態度之外，他的餐真的非常的推薦，因為當天我們也都很忙了，服務生推薦的酒也都非常的有水準，希望下次還有機會到香港的時候再度到訪。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "P 仔哥",
+          "uri": "https://www.google.com/maps/contrib/108484376409484998951/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWoX1uxGnBjKBabl7D_gQjtwF03ensPEjKRf7Vqt-h6u6L7O8=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-01-18T14:25:35.040085160Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKcFUyZHlUREZwYzBsWk5FaHVVMmhLU0d4dllVRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKcFUyZHlUREZwYzBsWk5FaHVVMmhLU0d4dllVRRAB!2m1!1s0x3404007b82aa97ab:0x85472ab65ca91b03"
+      },
+      {
+        "name": "places/ChIJq5eqgnsABDQRAxupXLYqR4U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnNE0ycGpTSEY2TkdzMmNFVmpZbU5UUzNVNGRFRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 5,
+        "text": {
+          "text": "好吃兩個字，我們都說累了XD\n推薦菜單：\n威靈頓牛肝菌（需預訂）\n羊肚菌鹽焗雞飯（需預訂）\n熏燒秋刀魚配魚肝醬\n酥炸日本野生多春魚\n焗烤西西里小魷魚\n本地瀨尿蝦配汁燒牛肝菌",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "好吃兩個字，我們都說累了XD\n推薦菜單：\n威靈頓牛肝菌（需預訂）\n羊肚菌鹽焗雞飯（需預訂）\n熏燒秋刀魚配魚肝醬\n酥炸日本野生多春魚\n焗烤西西里小魷魚\n本地瀨尿蝦配汁燒牛肝菌",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "ArDis Blossom",
+          "uri": "https://www.google.com/maps/contrib/109410898464912523929/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBf1isBHMYyi0ls1c6UBK6RTB67TchLNRA2vEF5n0l5Pu8LEEjcg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-11-02T15:25:41.306393313Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnNE0ycGpTSEY2TkdzMmNFVmpZbU5UUzNVNGRFRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnNE0ycGpTSEY2TkdzMmNFVmpZbU5UUzNVNGRFRRAB!2m1!1s0x3404007b82aa97ab:0x85472ab65ca91b03"
+      },
+      {
+        "name": "places/ChIJq5eqgnsABDQRAxupXLYqR4U/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KVGNsQkRTbm8yYWpWV05teHJkMkpJT0hGeVlrRRAB",
+        "relativePublishTimeDescription": "11 個月前",
+        "rating": 3,
+        "text": {
+          "text": "食物來講都有心思嘅，服務因人手太少客人太多所以跟唔到，環境就好吵，有人鍾意有人就麻麻，價錢來講人氣高點收都得。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "食物來講都有心思嘅，服務因人手太少客人太多所以跟唔到，環境就好吵，有人鍾意有人就麻麻，價錢來講人氣高點收都得。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "米奇明Mickey",
+          "uri": "https://www.google.com/maps/contrib/102610152906694617509/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXk61KCfOfLWuTzdDUZWwXH4qZPS6nBdd6ogRthMT0ZCAg6n79o=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-10-30T08:19:17.086553831Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KVGNsQkRTbm8yYWpWV05teHJkMkpJT0hGeVlrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KVGNsQkRTbm8yYWpWV05teHJkMkpJT0hGeVlrRRAB!2m1!1s0x3404007b82aa97ab:0x85472ab65ca91b03"
+      },
+      {
+        "name": "places/ChIJq5eqgnsABDQRAxupXLYqR4U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwaExYdllREAE",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 5,
+        "text": {
+          "text": "啲間餐廳都bookmarked 咗一段時間，佢哋又今年啱啱攞咗米芝蓮一星，決定同朋友慶祝生日試吓。我哋大概一個星期前book都book倒，不過得返第二輪，食8:30pm。餐廳以簡單色調為主，大概坐到二十人倒，枱與枱之間會有啲近。佢哋既menu以appetisers 為主，店員建議我哋可以嗌三至五樣嘢share。\n\nSicilian red prawns with burrata and piquillo peppers: 啲蝦好鮮甜同burrata 出奇地夾\n\nPork sausage stuffed in whelks: 呢個係用啲辣腸同海螺撈埋整成meatball，然後擺返入個螺度上碟。口感都幾得意，不過好似唔係好食倒有螺肉😆\n\nWagyu short rib roast beef with potato, lettuce, garlic confit: 呢個整得好好食，啲肉好入味。啲薯仔係另外嘅靈魂之一，全因佢吸晒啲肉汁\n\nPigeons with figs: 呢個份量都幾大，啲乳鴿整得好tender，好入味，推介👍🏻\n\n整體食物質素同服務都幾好。係個係中環唔錯嘅選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "啲間餐廳都bookmarked 咗一段時間，佢哋又今年啱啱攞咗米芝蓮一星，決定同朋友慶祝生日試吓。我哋大概一個星期前book都book倒，不過得返第二輪，食8:30pm。餐廳以簡單色調為主，大概坐到二十人倒，枱與枱之間會有啲近。佢哋既menu以appetisers 為主，店員建議我哋可以嗌三至五樣嘢share。\n\nSicilian red prawns with burrata and piquillo peppers: 啲蝦好鮮甜同burrata 出奇地夾\n\nPork sausage stuffed in whelks: 呢個係用啲辣腸同海螺撈埋整成meatball，然後擺返入個螺度上碟。口感都幾得意，不過好似唔係好食倒有螺肉😆\n\nWagyu short rib roast beef with potato, lettuce, garlic confit: 呢個整得好好食，啲肉好入味。啲薯仔係另外嘅靈魂之一，全因佢吸晒啲肉汁\n\nPigeons with figs: 呢個份量都幾大，啲乳鴿整得好tender，好入味，推介👍🏻\n\n整體食物質素同服務都幾好。係個係中環唔錯嘅選擇。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Bonnie Kwong",
+          "uri": "https://www.google.com/maps/contrib/114135634183635270194/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJaKlmMQFlxXrQxN_xt_RoRERdmmvwyAWsUVYMOo_Cuwz8I=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-07-28T17:38:21.204070Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwaExYdllREAE&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwaExYdllREAE!2m1!1s0x3404007b82aa97ab:0x85472ab65ca91b03"
+      },
+      {
+        "name": "places/ChIJq5eqgnsABDQRAxupXLYqR4U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaNlotYzF3RRAB",
+        "relativePublishTimeDescription": "3 年前",
+        "rating": 1,
+        "text": {
+          "text": "確係1星水準，不過唔係米芝蓮，係呢個google review。\n\n食完成餐飯只有一個感覺..貼錢買難受\n\n食物有無米芝蓮一星水平，不予置評，但服務水平拍得住茶記嘅。\n\n另外咁多道菜，印象最為深刻一定要數Paelle拼喜之次壽， 飯有色無味， 條魚肉質係鮮嫩，但兩樣野擺埋一齊有點奇怪。 條魚又多骨，要好小心。 唔太建議拌埋個飯一齊食。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "確係1星水準，不過唔係米芝蓮，係呢個google review。\n\n食完成餐飯只有一個感覺..貼錢買難受\n\n食物有無米芝蓮一星水平，不予置評，但服務水平拍得住茶記嘅。\n\n另外咁多道菜，印象最為深刻一定要數Paelle拼喜之次壽， 飯有色無味， 條魚肉質係鮮嫩，但兩樣野擺埋一齊有點奇怪。 條魚又多骨，要好小心。 唔太建議拌埋個飯一齊食。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Jane Chak",
+          "uri": "https://www.google.com/maps/contrib/114260931482867754052/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ-_KwXWTHSsTsg4ewLQEYkJFpt_qYFbWxiOabq_xhPU7ysRg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-09-13T13:45:39.884862Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaNlotYzF3RRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaNlotYzF3RRAB!2m1!1s0x3404007b82aa97ab:0x85472ab65ca91b03"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesCocktails": false,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleSeating": false
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404007b82aa97ab:0x85472ab65ca91b03!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=9603691693117872899&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404007b82aa97ab:0x85472ab65ca91b03!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404007b82aa97ab:0x85472ab65ca91b03!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404007b82aa97ab:0x85472ab65ca91b03!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJq5eqgnsABDQRAxupXLYqR4U/photos/Aa-ngMb7oUvAUPFcKKZeKiyAxZxoEaVCIpMscmJCqn_1FyoqexgEWF5HHpZPpTr5SxubUlpchXj86d0C5NgclKFSKMzYsECAmaeufYpuryadHv8FR3q5br4jh8kkPYcCOAZC4o55yKU9sLH7IAWCvs7YJpWMYGVunnMdstwIPn6D3udZIqmMJmWJ-bsSGAAoM3Tn5HqN5vnlJ7j2Ey_QGcuir3j3QyC8DzN9n1DeJYBsW964-d0BTXM_y-8SbUloEW5fZYzVG_3dQdE6rHSwyrMPo-U-M7ZH4u5nw8zPelsh6W8U9vpFGqYLPLd33OQxl4IasIrYmb7fA6pA_pf-K0ET5yGasi_1Tz3cy5YuwZGhvZh_TCxqRlbag9eJ-8cWC2cHJuPrBjzOJ49ZdIu_EJbBZ8b8Oo9ymc4H4yvL0goJmKl9_g",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Evgeny",
+          "uri": "https://maps.google.com/maps/contrib/108777189296287272446",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQp2ijWBg9XcYwwtIDJlfNRq7_xh68fg3wKf754kw3Bl6lP3J2=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCQ5LoMvB-tBuxmoXuG-d_3&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCQ5LoMvB-tBuxmoXuG-d_3!2e10!4m2!3m1!1s0x3404007b82aa97ab:0x85472ab65ca91b03"
+    },
+    "local_path": "photos/ChIJq5eqgnsABDQRAxupXLYqR4U.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_IA2-FSxOFUr0olf5uM9uCVJUvclI0EBoUmR1VxXyErPd6bDY4GGEiZ54IhNL42bnfB5DOf0Gv-9wOB_NQwrJcGQVZtUDZLZTpfULkJHqWnOS9saddnoilYsRabf3QAtkPXfTnRgKiehU=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 233839
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "western_restaurant",
+    "label": "西餐廳",
+    "types": [
+      "western_restaurant",
+      "bistro",
+      "french_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

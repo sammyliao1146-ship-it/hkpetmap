@@ -1,0 +1,477 @@
+{
+  "google_place_id": "ChIJEU9QFlUBBDQRdG-_hqVPUDU",
+  "restaurant_ids": [
+    "restaurant:2261295955"
+  ],
+  "fetched_at": "2026-10-23T15:48:14.990251+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJEU9QFlUBBDQRdG-_hqVPUDU",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "2313 8681",
+    "internationalPhoneNumber": "+852 2313 8681",
+    "formattedAddress": "2/F, 71 Mody Rd, Tsim Sha Tsui, Kowloon, 香港",
+    "location": {
+      "latitude": 22.298894,
+      "longitude": 114.178025
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=3841658054495924084&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 15,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 12:00 – 15:00, 18:00 – 23:00",
+        "星期二: 12:00 – 15:00, 18:00 – 23:00",
+        "星期三: 12:00 – 15:00, 18:00 – 23:00",
+        "星期四: 12:00 – 15:00, 18:00 – 23:00",
+        "星期五: 12:00 – 15:00, 18:00 – 23:00",
+        "星期六: 10:00 – 15:00, 18:00 – 23:00",
+        "星期日: 10:00 – 15:00, 18:00 – 23:00"
+      ],
+      "nextOpenTime": "2026-10-24T02:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "userRatingCount": 349,
+    "displayName": {
+      "text": "富豪軒",
+      "languageCode": "zh-TW"
+    },
+    "primaryTypeDisplayName": {
+      "text": "中式餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "delivery": false,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "primaryType": "chinese_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJEU9QFlUBBDQRdG-_hqVPUDU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4Q1ZVcFFNa3AzT0VoM01ERXRVa1UxTFdSM1kwRRAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 5,
+        "text": {
+          "text": "環境好舒服，有晒酒店級嘅氣派，但又唔會太拘謹，好啱同朋友、屋企人聚餐。✨ 佢哋主打傳統粵菜，今次試咗個超豐富嘅餐單，真係由頭到尾都驚喜連連！🤩\n\n前菜三寶：蜜汁叉燒皇 🐷，聽講係用伊比利亞黑毛豬，肉質軟嫩得嚟帶點焦香，蜜汁甜而不膩，食到停唔到口！🤤 腿茸戈渣 係我第一次試，外脆內滑，口感好特別，好似豆腐咁細膩，但又多咗份層次。醉酒鮑魚 帶點酒香，簡單得嚟又好開胃！🥂\n\n舞茸菌杞子燉響螺湯 🥣，清甜滋潤，飲完暖笠笠，感覺成個人都精神晒！之後嘅主菜更加係重頭戲！蠔皇原隻鮑魚伴海參 🥢，鮑魚彈牙，海參入味，真係好豪華嘅享受！龍蝦汁大虎蝦配窩巴 🦞，龍蝦汁超濃郁，配埋脆卜卜嘅窩巴，簡直係絕配！脆皮牛杭腩 🥩 外皮酥脆，肉汁豐富，食落好有驚喜！仲有 桂花鱔球 🐟 同 瑤柱鮮菌浸時蔬 🥬，每道菜都睇得出師傅嘅功架。\n\n最後個 富貴櫻花蝦蛋白炒飯 🍚，炒到粒粒分明，櫻花蝦嘅鹹香同蛋白嘅清甜完美結合，飽肚得嚟又唔會滯。甜品都好有水準，薑汁糕、核桃酥、鮮奶燉燕窩、煎堆 樣樣都咁精緻，為呢餐飯畫上完美句號。💖\n\n富豪軒嘅菜式有水準，環境又好，服務又貼心，性價比真係好高！👍 佢哋個餐仲有紅酒飲咖，真係超值抵食！！👯‍♀️",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "環境好舒服，有晒酒店級嘅氣派，但又唔會太拘謹，好啱同朋友、屋企人聚餐。✨ 佢哋主打傳統粵菜，今次試咗個超豐富嘅餐單，真係由頭到尾都驚喜連連！🤩\n\n前菜三寶：蜜汁叉燒皇 🐷，聽講係用伊比利亞黑毛豬，肉質軟嫩得嚟帶點焦香，蜜汁甜而不膩，食到停唔到口！🤤 腿茸戈渣 係我第一次試，外脆內滑，口感好特別，好似豆腐咁細膩，但又多咗份層次。醉酒鮑魚 帶點酒香，簡單得嚟又好開胃！🥂\n\n舞茸菌杞子燉響螺湯 🥣，清甜滋潤，飲完暖笠笠，感覺成個人都精神晒！之後嘅主菜更加係重頭戲！蠔皇原隻鮑魚伴海參 🥢，鮑魚彈牙，海參入味，真係好豪華嘅享受！龍蝦汁大虎蝦配窩巴 🦞，龍蝦汁超濃郁，配埋脆卜卜嘅窩巴，簡直係絕配！脆皮牛杭腩 🥩 外皮酥脆，肉汁豐富，食落好有驚喜！仲有 桂花鱔球 🐟 同 瑤柱鮮菌浸時蔬 🥬，每道菜都睇得出師傅嘅功架。\n\n最後個 富貴櫻花蝦蛋白炒飯 🍚，炒到粒粒分明，櫻花蝦嘅鹹香同蛋白嘅清甜完美結合，飽肚得嚟又唔會滯。甜品都好有水準，薑汁糕、核桃酥、鮮奶燉燕窩、煎堆 樣樣都咁精緻，為呢餐飯畫上完美句號。💖\n\n富豪軒嘅菜式有水準，環境又好，服務又貼心，性價比真係好高！👍 佢哋個餐仲有紅酒飲咖，真係超值抵食！！👯‍♀️",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "采諭",
+          "uri": "https://www.google.com/maps/contrib/114993468412598146520/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCrMbrkOzTE5jyeTaLuYrzEDV0mBCF7OYeJyI-nTNs2bODh5va=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-05-13T05:03:10.256409124Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4Q1ZVcFFNa3AzT0VoM01ERXRVa1UxTFdSM1kwRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4Q1ZVcFFNa3AzT0VoM01ERXRVa1UxTFdSM1kwRRAB!2m1!1s0x3404015516504f11:0x35504fa586bf6f74"
+      },
+      {
+        "name": "places/ChIJEU9QFlUBBDQRdG-_hqVPUDU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25rM1lXbEZiVlZKWXpBelFtUlZXRU5CZVVKNWRtYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "最近試咗佢 signature dinner $888/位\n\n舞茸菌杞子嫩響螺湯 – 好清甜，飲完好舒服，响螺夠嫩，足料！\n\n蠔皇原隻鮑魚伴海參 – 鮑魚炆得夠入味，海參彈牙，個蠔皇汁送飯一流。\n\n龍蝦汁大虎蝦配窝巴 – 大虎蝦好爽口，龍蝦汁濃郁，窩巴脆卜卜，點汁食超正。\n\n脆皮牛坑腩拼桂花鱔球 – 牛坑腩外脆內軟，肉味濃；鱔球個桂花汁甜度啱啱好，開胃。\n\n瑤柱鮮菌浸時蔬 – 清清地，菜心苗嫩口，瑤柱嘅鹹香滲晒入湯度。\n\n櫻花蝦蛋白炒飯 – 炒飯粒粒分明，櫻花蝦好香口，加埋滑捋捋嘅蛋白，簡單好味。\n\n杏汁燕窩 – 杏汁味濃，滑溜，燕窩夠晒養顏。\n\n養顏紅棗糕 – 煙煙韌韌，唔太甜，紅棗味好出，作為飯後甜品啱晒。\n\n整體嚟講，呢餐水準高，由頭盤到甜品都好滿意。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "最近試咗佢 signature dinner $888/位\n\n舞茸菌杞子嫩響螺湯 – 好清甜，飲完好舒服，响螺夠嫩，足料！\n\n蠔皇原隻鮑魚伴海參 – 鮑魚炆得夠入味，海參彈牙，個蠔皇汁送飯一流。\n\n龍蝦汁大虎蝦配窝巴 – 大虎蝦好爽口，龍蝦汁濃郁，窩巴脆卜卜，點汁食超正。\n\n脆皮牛坑腩拼桂花鱔球 – 牛坑腩外脆內軟，肉味濃；鱔球個桂花汁甜度啱啱好，開胃。\n\n瑤柱鮮菌浸時蔬 – 清清地，菜心苗嫩口，瑤柱嘅鹹香滲晒入湯度。\n\n櫻花蝦蛋白炒飯 – 炒飯粒粒分明，櫻花蝦好香口，加埋滑捋捋嘅蛋白，簡單好味。\n\n杏汁燕窩 – 杏汁味濃，滑溜，燕窩夠晒養顏。\n\n養顏紅棗糕 – 煙煙韌韌，唔太甜，紅棗味好出，作為飯後甜品啱晒。\n\n整體嚟講，呢餐水準高，由頭盤到甜品都好滿意。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Chan Ka Man",
+          "uri": "https://www.google.com/maps/contrib/104983916149699663286/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLcz4rdf904RhhoNjFMPR26-zMKiuthC6G5qa5wArMyVunTNA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-02-20T16:02:50.660126643Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25rM1lXbEZiVlZKWXpBelFtUlZXRU5CZVVKNWRtYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25rM1lXbEZiVlZKWXpBelFtUlZXRU5CZVVKNWRtYxAB!2m1!1s0x3404015516504f11:0x35504fa586bf6f74"
+      },
+      {
+        "name": "places/ChIJEU9QFlUBBDQRdG-_hqVPUDU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rNGVVY3pRVEJEVUV4blkyUjVaR1V4ZVUwMGRXYxAB",
+        "relativePublishTimeDescription": "6 個月前",
+        "rating": 5,
+        "text": {
+          "text": "位於尖沙咀富豪九龍酒店內的富豪軒，環境典雅大氣，吃到粵式點心同時也可以吃到精品粵菜👍🏻週末上午到達，但𝐨𝐫𝐝𝐞𝐫後才被告知燒味𝟏𝟐:𝟎𝟎後才供應，大家請注意⚠️\n———\n✤ 金銀蘿蔔絲酥餅｜$𝟓𝟖 𝐇𝐊𝐃\n外皮酥層分明且輕盈不油膩，內餡的蘿蔔絲清甜多汁。一咬下滿是層次感，實在是買少見少🔥\n\n✤ 紅米脆皮蝦腸粉｜$𝟖𝟖 𝐇𝐊𝐃\n色彩吸睛的紅米腸粉，外皮質地滑溜且帶有微微彈性😋中間包裹著香脆的米網與鮮甜蝦仁，外嫩內脆，口感豐富！\n\n✤ 雪山焗叉燒餐包｜$𝟔𝟖 𝐇𝐊𝐃\n與傳統叉燒包不同，雪山包的外皮帶有酥鬆的甜香感，與鹹甜適中的叉燒內餡完美契合，相對傳統叉燒包口感更加濕潤！\n\n✤ 豉油王煎鱈魚球｜$𝟑𝟖𝟖 𝐇𝐊𝐃\n意想不到的出色😋絕對下次要來試試他們的晚餐小菜！鱈魚球表面煎至金黃，鎖住了飽滿的肉汁與油脂感。特製的豉油王醬加入蔥花的醬汁鮮香微鹹，完全襯托出魚肉的鮮美🐟\n\n✤ 雞湯小籠包｜$𝟓𝟖 𝐇𝐊𝐃\n皮薄而有韌性，內裡灌滿了濃郁的鮮熱雞湯。咬開後的湯汁流出來鮮美！\n\n✤ 蟹籽燒賣｜$𝟕𝟖 𝐇𝐊𝐃\n燒賣紮實彈牙，上方的蟹籽增添了層次，超足料！\n\n✤ 古法馬拉糕｜$𝟓𝟓 𝐇𝐊𝐃\n古法馬拉糕質地偏紮實一點，帶著淡淡的黑糖香與蛋香",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "位於尖沙咀富豪九龍酒店內的富豪軒，環境典雅大氣，吃到粵式點心同時也可以吃到精品粵菜👍🏻週末上午到達，但𝐨𝐫𝐝𝐞𝐫後才被告知燒味𝟏𝟐:𝟎𝟎後才供應，大家請注意⚠️\n———\n✤ 金銀蘿蔔絲酥餅｜$𝟓𝟖 𝐇𝐊𝐃\n外皮酥層分明且輕盈不油膩，內餡的蘿蔔絲清甜多汁。一咬下滿是層次感，實在是買少見少🔥\n\n✤ 紅米脆皮蝦腸粉｜$𝟖𝟖 𝐇𝐊𝐃\n色彩吸睛的紅米腸粉，外皮質地滑溜且帶有微微彈性😋中間包裹著香脆的米網與鮮甜蝦仁，外嫩內脆，口感豐富！\n\n✤ 雪山焗叉燒餐包｜$𝟔𝟖 𝐇𝐊𝐃\n與傳統叉燒包不同，雪山包的外皮帶有酥鬆的甜香感，與鹹甜適中的叉燒內餡完美契合，相對傳統叉燒包口感更加濕潤！\n\n✤ 豉油王煎鱈魚球｜$𝟑𝟖𝟖 𝐇𝐊𝐃\n意想不到的出色😋絕對下次要來試試他們的晚餐小菜！鱈魚球表面煎至金黃，鎖住了飽滿的肉汁與油脂感。特製的豉油王醬加入蔥花的醬汁鮮香微鹹，完全襯托出魚肉的鮮美🐟\n\n✤ 雞湯小籠包｜$𝟓𝟖 𝐇𝐊𝐃\n皮薄而有韌性，內裡灌滿了濃郁的鮮熱雞湯。咬開後的湯汁流出來鮮美！\n\n✤ 蟹籽燒賣｜$𝟕𝟖 𝐇𝐊𝐃\n燒賣紮實彈牙，上方的蟹籽增添了層次，超足料！\n\n✤ 古法馬拉糕｜$𝟓𝟓 𝐇𝐊𝐃\n古法馬拉糕質地偏紮實一點，帶著淡淡的黑糖香與蛋香",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "WingLing Lam",
+          "uri": "https://www.google.com/maps/contrib/116008801175016732978/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvbBYp-Xbx32Omlve7Z__7t5glMOC07kru_TMJ4M8TiJhQk2Ru=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-04-25T01:51:25.100161071Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rNGVVY3pRVEJEVUV4blkyUjVaR1V4ZVUwMGRXYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rNGVVY3pRVEJEVUV4blkyUjVaR1V4ZVUwMGRXYxAB!2m1!1s0x3404015516504f11:0x35504fa586bf6f74"
+      },
+      {
+        "name": "places/ChIJEU9QFlUBBDQRdG-_hqVPUDU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JNFQyMWFXbVIyYTB0UmRrOVJOM1ZNUldGV1IzYxAB",
+        "relativePublishTimeDescription": "8 個月前",
+        "rating": 5,
+        "text": {
+          "text": "富豪軒～個名聽落夠哂霸氣🤎\n趁住過年前🧧同屋企人提早食個團年飯先❤️\n\n一貫作風～見到富豪軒招牌晚膳套餐📃必定點set🤓有哂我最想試嘅招牌菜…而且套餐仲包一支靚靚紅酒🍷\n\n頭盤就已經好吸引🤩\n·招牌蜜汁叉燒皇～好老香港嘅味道🇭🇰麥芽糖夠甜❤️豬肉超入味…愈咬愈有味\n·腿茸戈渣\n第一次食呢道傳統菜式～超輕薄嘅炸衣..內裏係口感嫩滑的🥚…以為滑到唔洗咬嘅蛋～但咀嚼後散發出淡淡的火腿香氣❤️一件真係唔夠食呀\n·醉酒鮑魚\n\n🤎舞茸菌杞子燉響螺湯\n一飲就知道係超足料嘅燉湯…真材實料…好香嘅瑤柱 舞茸菌香氣…冬天飲完成個人暖笠笠🤎\n而且對味精好敏感嘅我…可以保證成餐飯食完～完全唔口渴🙌🏻\n\n💛蠔皇原隻鮑魚伴海參\n滑到好似jelly一樣嘅海參…但無味嘅海參一定要有呢碟濃厚嘅鮑汁配搭先得👍🏻估唔到睇落個頭唔大嘅鮑魚切落去十分軟…一啖入口 完全唔係罐頭鮑嘅味…食得出係經過長時間處理同埋炆煮..先可以咁入味！同埋口感軟得嚟又彈牙\n\n🦞龍蝦汁大虎蝦配窩巴\n全晚MVP~超濃超creamy的龍蝦湯…單飲偏鹹～但將窩巴整成一小塊..再將口感彈牙嘅大虎蝦切一小件…一啖滿足三重味道..三種口感❤️脆米嘅香氣令整道菜升華了\n\n🧡脆皮牛坑腩 拼 桂花鱔球\n對桂花有特別喜愛嘅我…估唔到甜甜的桂花蜜🍯同鹹香嘅炸鱔球咁夾…脆皮牛坑腩～牛味超濃…肉質好淋…家人食完唔夠喉…仲夾埋我其中一件🫣可想而知有幾好味😋\n\n🥬瑤柱鮮菌浸豆苗\n季節限定～必食豆苗..淡淡的清湯～豆苗夠嫩⋯食完重口味嘅菜式💚清淡嘅煮法更能突出菜味\n\n🍚櫻花蝦蛋白炒飯\n滿滿鑊氣的炒飯～蔥花+大量櫻花蝦..第一次食到咁鮮甜嘅炒飯～儘管已經好飽都忍唔住一啖接一啖🍤\n\n杏汁燕窩+合桃酥+養顏紅棗糕+煎堆仔\n紅棗糕唔使講一定係我最愛🤎但估唔到最唔起眼嘅煎堆仔竟然令我印象最深刻🙈第一次食到蓮蓉餡嘅煎堆仔..而且一啲都唔甜！甚至第一啖入口完全食唔出係蓮蓉…中式甜品估唔到都有一日迎合到香港人甜品要食唔甜嘅口味🤭\n\n呢一餐晚餐簡直係新年同屋企人過節嘅首選…或者慶祝生日/同親戚聚餐～甚至乎同朋友聚會我都會考慮嘅中菜🤗性價比超高…而且味道都唔輸大酒店嘅米芝蓮中餐廳🥢",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "富豪軒～個名聽落夠哂霸氣🤎\n趁住過年前🧧同屋企人提早食個團年飯先❤️\n\n一貫作風～見到富豪軒招牌晚膳套餐📃必定點set🤓有哂我最想試嘅招牌菜…而且套餐仲包一支靚靚紅酒🍷\n\n頭盤就已經好吸引🤩\n·招牌蜜汁叉燒皇～好老香港嘅味道🇭🇰麥芽糖夠甜❤️豬肉超入味…愈咬愈有味\n·腿茸戈渣\n第一次食呢道傳統菜式～超輕薄嘅炸衣..內裏係口感嫩滑的🥚…以為滑到唔洗咬嘅蛋～但咀嚼後散發出淡淡的火腿香氣❤️一件真係唔夠食呀\n·醉酒鮑魚\n\n🤎舞茸菌杞子燉響螺湯\n一飲就知道係超足料嘅燉湯…真材實料…好香嘅瑤柱 舞茸菌香氣…冬天飲完成個人暖笠笠🤎\n而且對味精好敏感嘅我…可以保證成餐飯食完～完全唔口渴🙌🏻\n\n💛蠔皇原隻鮑魚伴海參\n滑到好似jelly一樣嘅海參…但無味嘅海參一定要有呢碟濃厚嘅鮑汁配搭先得👍🏻估唔到睇落個頭唔大嘅鮑魚切落去十分軟…一啖入口 完全唔係罐頭鮑嘅味…食得出係經過長時間處理同埋炆煮..先可以咁入味！同埋口感軟得嚟又彈牙\n\n🦞龍蝦汁大虎蝦配窩巴\n全晚MVP~超濃超creamy的龍蝦湯…單飲偏鹹～但將窩巴整成一小塊..再將口感彈牙嘅大虎蝦切一小件…一啖滿足三重味道..三種口感❤️脆米嘅香氣令整道菜升華了\n\n🧡脆皮牛坑腩 拼 桂花鱔球\n對桂花有特別喜愛嘅我…估唔到甜甜的桂花蜜🍯同鹹香嘅炸鱔球咁夾…脆皮牛坑腩～牛味超濃…肉質好淋…家人食完唔夠喉…仲夾埋我其中一件🫣可想而知有幾好味😋\n\n🥬瑤柱鮮菌浸豆苗\n季節限定～必食豆苗..淡淡的清湯～豆苗夠嫩⋯食完重口味嘅菜式💚清淡嘅煮法更能突出菜味\n\n🍚櫻花蝦蛋白炒飯\n滿滿鑊氣的炒飯～蔥花+大量櫻花蝦..第一次食到咁鮮甜嘅炒飯～儘管已經好飽都忍唔住一啖接一啖🍤\n\n杏汁燕窩+合桃酥+養顏紅棗糕+煎堆仔\n紅棗糕唔使講一定係我最愛🤎但估唔到最唔起眼嘅煎堆仔竟然令我印象最深刻🙈第一次食到蓮蓉餡嘅煎堆仔..而且一啲都唔甜！甚至第一啖入口完全食唔出係蓮蓉…中式甜品估唔到都有一日迎合到香港人甜品要食唔甜嘅口味🤭\n\n呢一餐晚餐簡直係新年同屋企人過節嘅首選…或者慶祝生日/同親戚聚餐～甚至乎同朋友聚會我都會考慮嘅中菜🤗性價比超高…而且味道都唔輸大酒店嘅米芝蓮中餐廳🥢",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Anssica Yik",
+          "uri": "https://www.google.com/maps/contrib/109860580567246339447/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbtIRmrFeME5d-Dai3FQBvYUfYkSVBdprgQ-EgVLWK4oMnrg=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-02-15T05:50:27.563012592Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25JNFQyMWFXbVIyYTB0UmRrOVJOM1ZNUldGV1IzYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JNFQyMWFXbVIyYTB0UmRrOVJOM1ZNUldGV1IzYxAB!2m1!1s0x3404015516504f11:0x35504fa586bf6f74"
+      },
+      {
+        "name": "places/ChIJEU9QFlUBBDQRdG-_hqVPUDU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KcE5rYzNPQzFRWWpkdFlrcGtNbmh1Tmw4eE1uYxAB",
+        "relativePublishTimeDescription": "3 個月前",
+        "rating": 5,
+        "text": {
+          "text": "尖沙咀富豪九龍酒店2樓「富豪軒」，環境雅致，仲要Pet Friendly，難得可以帶毛孩一齊飲茶食飯！🐶\n\n🍗 茶皇燻雞\n煙燻茶香撲鼻，雞皮油亮，茶味滲透每絲雞肉，帶淡淡回甘，層次豐富（唯獨火候稍過，未夠滑）。\n\n🐟 桂花脆鱔球\n金黃酥脆，桂花糖漿甜而不膩，咬落「咔嚓」聲，鱔肉依然嫩滑彈牙，桂花清香優雅，屬食過Top 3水準🤤\n\n🥩 蒜片牛柳粒\n牛柳粒外微焦內粉嫩，肉味濃郁，配金黃香脆蒜片，鹹香惹味，簡單見功架！\n\n🫖 茗茶每位收費\n\n🚙 泊車小貼士：酒店車位不設預留，先到先得，附近可泊安達中心",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "尖沙咀富豪九龍酒店2樓「富豪軒」，環境雅致，仲要Pet Friendly，難得可以帶毛孩一齊飲茶食飯！🐶\n\n🍗 茶皇燻雞\n煙燻茶香撲鼻，雞皮油亮，茶味滲透每絲雞肉，帶淡淡回甘，層次豐富（唯獨火候稍過，未夠滑）。\n\n🐟 桂花脆鱔球\n金黃酥脆，桂花糖漿甜而不膩，咬落「咔嚓」聲，鱔肉依然嫩滑彈牙，桂花清香優雅，屬食過Top 3水準🤤\n\n🥩 蒜片牛柳粒\n牛柳粒外微焦內粉嫩，肉味濃郁，配金黃香脆蒜片，鹹香惹味，簡單見功架！\n\n🫖 茗茶每位收費\n\n🚙 泊車小貼士：酒店車位不設預留，先到先得，附近可泊安達中心",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Misu Mak",
+          "uri": "https://www.google.com/maps/contrib/109731144526767313219/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnk-fuUOZvtMszjRnNoAMf_RtTLjVKBQsTAggYyG14ckyXuv9o=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2026-07-18T14:39:28.334473905Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KcE5rYzNPQzFRWWpkdFlrcGtNbmh1Tmw4eE1uYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KcE5rYzNPQzFRWWpkdFlrcGtNbmh1Tmw4eE1uYxAB!2m1!1s0x3404015516504f11:0x35504fa586bf6f74"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": false,
+    "servesDessert": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3404015516504f11:0x35504fa586bf6f74!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3841658054495924084&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404015516504f11:0x35504fa586bf6f74!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3404015516504f11:0x35504fa586bf6f74!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3404015516504f11:0x35504fa586bf6f74!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "500"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJEU9QFlUBBDQRdG-_hqVPUDU/photos/Aa-ngMZ9sZbpd6oit8nJGcghH0_OoXCI5IE_Rw8DndvDgOm7KF39TRH84dFmBxQgXOce1G_hpOGX2fANcLtIHKu-mfg2tfm3NovnUYvcoEkU8rYh6xh-SmA1txLWmMbUn3w8NxgE9j1OBmo6OuJhZ9_1AAZWK3upPbBal2Pjc2qXC46SmjVcxcGMvoRvrzuaz-erH5iUiHJy1G1Khw4ChvS07rNs4S0otZ-QD8tV0wJPVghxZOYDr8sy_p3NDV577orewXaiCVaesm5OpPGtLS61utdEp8_NYGrcvU-EcWCtv_i-CMCn9CNbatevEkn5bR6Oyv6tGkK2dbAEh_gKVUMMBr4R8BWWywtuaDBaM7iFJGNQQsO0YTxbWFvDqurg8Mh3iVFWhvcR21jUBQ7KXQClGkNFRMdTGG8",
+      "widthPx": 2048,
+      "heightPx": 1320,
+      "authorAttributions": [
+        {
+          "displayName": "Regal Court",
+          "uri": "https://maps.google.com/maps/contrib/112179756193050121331",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv7FM_Kx0VaA1sEzdWITCYAvhPWCeCszh3romrCa3ctUvNsaA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6tY-dhwE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6tY-dhwE!2e10!4m2!3m1!1s0x3404015516504f11:0x35504fa586bf6f74"
+    },
+    "local_path": "photos/ChIJEU9QFlUBBDQRdG-_hqVPUDU.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkc6xiT6zRuei2ZXqunH2NM73yATT3o7I2TBZLuL4tYnNjASJsiO1yV9CujCeCZBhRJmG6mjErg5cL4vETmXI3SEZxAZD81brGCasvLMoNutcz006XdhzrDww0xjoCPzkqLqH9ug=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 151585
+  },
+  "website_links": {
+    "booking": [
+      {
+        "url": "https://www.booking.regalhotel.com/?rhotel=RKH",
+        "label": "Book Now",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      }
+    ],
+    "menu": [
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-09/RKH%20-%20RC%20a%20la%20carte%20Digital%20Menu_R17.pdf",
+        "label": "A La Carte Menu",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-07/RKH%20Regal%20Court%20Dim%20Sum%20Menu.pdf",
+        "label": "Dim Sum Menu",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-06/RKH_Delightful%20Vegetarian%20Selection_A4%20Menu_Oct24_RC.jpg",
+        "label": "Regal Court Vegetarian Menu",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-06/golden.pdf",
+        "label": "Regal Court Set Menu A",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-06/frd%20menu.pdf",
+        "label": "Regal Court Set Menu B",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-06/happy%20menu.pdf",
+        "label": "Regal Court Set Menu C",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-06/RKH%20-%20RC%20Regal%20Court%20Signature%20Set%20Lunch_Menu_0.pdf",
+        "label": "Signature Set Lunch Menu",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-06/RKH%20-%20RC%20Signature%20Dinner%20Set_V3_0.pdf",
+        "label": "Signature Set Dinner Menu",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-06/RKH%20-%20Regal%20Court%20Classic%20Lunch%20Set%20Menu.pdf",
+        "label": "Classic Set Lunch Menu",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      },
+      {
+        "url": "https://www.regalhotel.com/sites/regal/files/2026-06/RKH%20-%20Regal%20Court%20Classic%20Dinner%20Set%20Menu.pdf",
+        "label": "Classic Set Dinner Menu",
+        "source_url": "https://www.regalhotel.com/en/regal-kowloon-hotel/restaurants-and-bars/regal-court-0",
+        "discovery": "official_website_anchor"
+      }
+    ]
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "chinese_restaurant",
+    "label": "中式餐廳",
+    "types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": "https://www.booking.regalhotel.com/?rhotel=RKH",
+  "menu_url": "https://www.regalhotel.com/sites/regal/files/2026-09/RKH%20-%20RC%20a%20la%20carte%20Digital%20Menu_R17.pdf"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ChIJoUQDbgABBDQRwnwVo89Ndak",
+  "types": [
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "shop b-c, 66 Waterloo Rd, Ho Man Tin, Kowloon, 香港",
+  "location": {
+    "latitude": 22.3169802,
+    "longitude": 114.1744495
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12210751518874631362&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "PAW by PAW",
+    "languageCode": "en"
+  },
+  "primaryType": "pet_boarding_service",
+  "photos": [
+    {
+      "name": "places/ChIJoUQDbgABBDQRwnwVo89Ndak/photos/Aa-ngMYdMN9N07vl6qyouNyfBY8dmre-1FJrwIyAiJv-geWQmAPRhx2vrsiGHqmLJGI1VdvOfTIYDf__sr4edxuRXmQxJUNSbbqzWCyOOPFEXBAaZ2zPF9IM1yuT8bVwJ1ygQKOV6lIWnEezY6vtWu8vdIBTOvmM5gMPGyGlk4Ho1D9eurIzM5SJ3Ii8XTCM6SBfhZ4nIolUsXv4r1_pbYOZ2KlT5xwtfZPe3-i4TrcLEl5TWsHKkoOQBWIdaNE9P991xVFfotb2s9wyaFwUS-Q7RiWg6SqOiHNsVzEq4oJY_OBTUuEsVgRNrAzPRm4mxfxvvKxHYyvS-cY5Y_WJDKvKpom2XQX26sACxnv5_n6r08yiVykPXH-eCDzxd-LVgFmIgLjUGGQGL4SvDru0BuG_NK9FSOKCZbnUo5CdKSPR6zuyzw",
+      "widthPx": 2992,
+      "heightPx": 2992,
+      "authorAttributions": [
+        {
+          "displayName": "Pui Kwan Yeung",
+          "uri": "https://maps.google.com/maps/contrib/103187110254429530301",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU54Cz5ia34UfxjBsZACVTu3NHObXFH2wwuRr_EpC_DFXDLqOvteg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDoSDN6Q3e-Y49gqQTPB1Ks&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDoSDN6Q3e-Y49gqQTPB1Ks!2e10!4m2!3m1!1s0x340401006e0344a1:0xa9754dcfa3157cc2"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:15.939476+00:00"
+}

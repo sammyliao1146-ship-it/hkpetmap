@@ -1,0 +1,332 @@
+{
+  "google_place_id": "ChIJ_aBbBK0HBDQRw8cZKw2C1TQ",
+  "restaurant_ids": [
+    "restaurant:2297809166"
+  ],
+  "fetched_at": "2026-10-23T15:47:39.400725+00:00",
+  "automatic_updates": false,
+  "status": "ready",
+  "details": {
+    "id": "ChIJ_aBbBK0HBDQRw8cZKw2C1TQ",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "Shop 121, Level 1, New Town Plaza Phase 1, 18 Sha Tin Centre Street, Sha Tin, New Territories, 香港",
+    "location": {
+      "latitude": 22.381712,
+      "longitude": 114.18904599999999
+    },
+    "rating": 3.6,
+    "googleMapsUri": "https://maps.google.com/?cid=3807092053080917955&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "星期一: 09:00 – 22:00",
+        "星期二: 09:00 – 22:00",
+        "星期三: 09:00 – 22:00",
+        "星期四: 09:00 – 22:00",
+        "星期五: 09:00 – 22:00",
+        "星期六: 09:00 – 22:00",
+        "星期日: 09:00 – 22:00"
+      ],
+      "nextOpenTime": "2026-10-24T01:00:00Z"
+    },
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "userRatingCount": 560,
+    "displayName": {
+      "text": "PizzaExpress (Sha Tin)",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "披薩餐廳",
+      "languageCode": "zh-TW"
+    },
+    "takeout": true,
+    "dineIn": true,
+    "reservable": true,
+    "servesBreakfast": true,
+    "servesLunch": true,
+    "servesDinner": true,
+    "servesBeer": true,
+    "servesWine": true,
+    "servesBrunch": true,
+    "servesVegetarianFood": true,
+    "primaryType": "pizza_restaurant",
+    "reviews": [
+      {
+        "name": "places/ChIJ_aBbBK0HBDQRw8cZKw2C1TQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWbFJscDZjMTl6VERFdFQyeGxSazlWY1ZOQ1JsRRAB",
+        "relativePublishTimeDescription": "1 個月前",
+        "rating": 3,
+        "text": {
+          "text": "午餐set， 性價比ok。 試咗長通粉 及蜆肉意粉， 整體味道ok。用 會員生日券送甜品 ，贊。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午餐set， 性價比ok。 試咗長通粉 及蜆肉意粉， 整體味道ok。用 會員生日券送甜品 ，贊。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "sally au",
+          "uri": "https://www.google.com/maps/contrib/114704807274123115028/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ8uCxjOeyeWqvIY8eHXDYef3ZaIQa0Fv7VUy4YCSShRe_VYw=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-09-02T00:41:06.514710450Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWbFJscDZjMTl6VERFdFQyeGxSazlWY1ZOQ1JsRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWbFJscDZjMTl6VERFdFQyeGxSazlWY1ZOQ1JsRRAB!2m1!1s0x340407ad045ba0fd:0x34d5820d2b19c7c3"
+      },
+      {
+        "name": "places/ChIJ_aBbBK0HBDQRw8cZKw2C1TQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SWVh6bDNlR3RpTUMxdVVFVTRiaTF2TmkxQk0yYxAB",
+        "relativePublishTimeDescription": "5 個月前",
+        "rating": 4,
+        "text": {
+          "text": "Pizza Express堂食單點6折🤩\n\n優惠做到11/5咋！星期一至四都有，只要show d英倫風🇬🇧既野俾staff睇，堂食單點就有6折👍🏻叫Pizza、意粉、沙律都得",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "Pizza Express堂食單點6折🤩\n\n優惠做到11/5咋！星期一至四都有，只要show d英倫風🇬🇧既野俾staff睇，堂食單點就有6折👍🏻叫Pizza、意粉、沙律都得",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Yan Lee",
+          "uri": "https://www.google.com/maps/contrib/100176388277959490607/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4KKsMYLegM15IetXgBdsOluse7L6RHMkBFl85Y95IJ9dn4g=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2026-05-05T19:09:52.422318775Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SWVh6bDNlR3RpTUMxdVVFVTRiaTF2TmkxQk0yYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SWVh6bDNlR3RpTUMxdVVFVTRiaTF2TmkxQk0yYxAB!2m1!1s0x340407ad045ba0fd:0x34d5820d2b19c7c3"
+      },
+      {
+        "name": "places/ChIJ_aBbBK0HBDQRw8cZKw2C1TQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oVFgyMTBlbTlNYzJJemRsWjVUVlEzVDI1RU5sRRAB",
+        "relativePublishTimeDescription": "7 個月前",
+        "rating": 3,
+        "text": {
+          "text": "D野幾好食, 雖然份量細左d!  但pizza幾好食! 隻烤雞好滑好味~",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "D野幾好食, 雖然份量細左d!  但pizza幾好食! 隻烤雞好滑好味~",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "YoYo Tse",
+          "uri": "https://www.google.com/maps/contrib/109720783379266361219/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaYjIKVuohsXdLXN9F2EBdPvdHgg_hlSPhoBrtwX0dKr4n0jJW=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2026-03-08T11:44:35.587038041Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oVFgyMTBlbTlNYzJJemRsWjVUVlEzVDI1RU5sRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oVFgyMTBlbTlNYzJJemRsWjVUVlEzVDI1RU5sRRAB!2m1!1s0x340407ad045ba0fd:0x34d5820d2b19c7c3"
+      },
+      {
+        "name": "places/ChIJ_aBbBK0HBDQRw8cZKw2C1TQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVMFoxWXpSMWxyTW1SWFdGOVFURUpETm1SeWQyYxAB",
+        "relativePublishTimeDescription": "1 年前",
+        "rating": 4,
+        "text": {
+          "text": "午餐$158起，包小食，主菜，飲品\n意式肉丸好開胃，烤蔬菜菜是蕃茄仔，菇同洋蔥\n卡拉布雷斯薄餅（+$38）香脆味濃，份量足\n蒜香蜆肉意粉，香辣，很多蜆\n環境舒適，服務很好\n上菜速度快",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "午餐$158起，包小食，主菜，飲品\n意式肉丸好開胃，烤蔬菜菜是蕃茄仔，菇同洋蔥\n卡拉布雷斯薄餅（+$38）香脆味濃，份量足\n蒜香蜆肉意粉，香辣，很多蜆\n環境舒適，服務很好\n上菜速度快",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Cherie Cho",
+          "uri": "https://www.google.com/maps/contrib/113181853831768825245/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImLX92DBZMbzFeNuWrn4Y1OAd8wKDSjSmlutFdebGa5Swwzg=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2025-08-19T05:42:19.163193667Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVMFoxWXpSMWxyTW1SWFdGOVFURUpETm1SeWQyYxAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVMFoxWXpSMWxyTW1SWFdGOVFURUpETm1SeWQyYxAB!2m1!1s0x340407ad045ba0fd:0x34d5820d2b19c7c3"
+      },
+      {
+        "name": "places/ChIJ_aBbBK0HBDQRw8cZKw2C1TQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRelJIWkZRblpmZGtSVlUwZHVWSHBuYXprd2JrRRAB",
+        "relativePublishTimeDescription": "4 個月前",
+        "rating": 4,
+        "text": {
+          "text": "味道預期。 人手其實已經不少，不過都很忙走來走去。\n味道一致。",
+          "languageCode": "zh-Hant"
+        },
+        "originalText": {
+          "text": "味道預期。 人手其實已經不少，不過都很忙走來走去。\n味道一致。",
+          "languageCode": "zh-Hant"
+        },
+        "authorAttribution": {
+          "displayName": "Boris Chow",
+          "uri": "https://www.google.com/maps/contrib/110749235308199770305/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpLVq9ZCDZMpG_ik0zQQA3yPwKs8hpGVfXNag2EwK6RuIoNlhQsg=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2026-06-18T20:18:20.018819032Z",
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xRelJIWkZRblpmZGtSVlUwZHVWSHBuYXprd2JrRRAB&d=17924085&t=1&wv=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRelJIWkZRblpmZGtSVlUwZHVWSHBuYXprd2JrRRAB!2m1!1s0x340407ad045ba0fd:0x34d5820d2b19c7c3"
+      }
+    ],
+    "outdoorSeating": false,
+    "menuForChildren": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesCoffee": true,
+    "goodForChildren": true,
+    "allowsDogs": false,
+    "goodForGroups": true,
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "parkingOptions": {
+      "paidParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x340407ad045ba0fd:0x34d5820d2b19c7c3!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3807092053080917955&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407ad045ba0fd:0x34d5820d2b19c7c3!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x340407ad045ba0fd:0x34d5820d2b19c7c3!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x340407ad045ba0fd:0x34d5820d2b19c7c3!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "priceRange": {
+      "startPrice": {
+        "currencyCode": "HKD",
+        "units": "150"
+      },
+      "endPrice": {
+        "currencyCode": "HKD",
+        "units": "200"
+      }
+    }
+  },
+  "photo": {
+    "metadata": {
+      "name": "places/ChIJ_aBbBK0HBDQRw8cZKw2C1TQ/photos/Aa-ngMbE378cO9d5caer4QZv8-UunGaMNAfYgWDJ-ZA1wlL9Iw3N1zuo1_JXsq6i5lwHGPEYVfMUFSN9PqQ_6DzMj7Felv_GCNUCM_9fq-e-a4ajEl8_0MzmzFUXoo2_7BL0T4WeKHJPYlMneGf3afiFefQzJjQrLtsXampkJFXGGt-ZDjBoO0LUju5DxGslZwwEdgIznlImOzKvIOf9IMV0npTecT4dqXGgQphYRbARmqwUSQcVN4_CpfvCjzU1sIi7U5TBb0xGibkBZlwT365GbzIdB4h4CEKblrCex7ppd1c0s4HIzaoVo_DmaI0NdreDtj0iuS0QdeRNwCHQODxqlMSYCNgKeS0V1nUQo9zEHbuTERvw9berpwD88uVjnzUn0y-_xUms3jF0k5HTK38SC7jEWNsiaNY",
+      "widthPx": 2048,
+      "heightPx": 1365,
+      "authorAttributions": [
+        {
+          "displayName": "PizzaExpress (Sha Tin)",
+          "uri": "https://maps.google.com/maps/contrib/113141016042205850639",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPD2biEQx4uOmAaQtKkZRb3fO03O2guBV6CI3N3U3-HaHD-9A=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC69cukoQE&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC69cukoQE!2e10!4m2!3m1!1s0x340407ad045ba0fd:0x34d5820d2b19c7c3"
+    },
+    "local_path": "photos/ChIJ_aBbBK0HBDQRw8cZKw2C1TQ.jpg",
+    "status": "ready",
+    "photo_uri": "https://lh3.googleusercontent.com/grass-cs/AABkmLfB6OrT0clwn46268OHmeImKyO6BEj5PEw2COqZlqw6ECUVD8qFuotAImf9puOQ_Sa7b3TRrT30jEluTJko8zeQHZQ8MNn2E3McTm7Sp5y8Jk362OaeSoH9Tisd7BOISpYESyWC9w=s4800-w800",
+    "content_type": "image/jpeg",
+    "bytes": 118498
+  },
+  "website_links": {
+    "booking": [],
+    "menu": []
+  },
+  "errors": {},
+  "cuisine": {
+    "primary_type": "pizza_restaurant",
+    "label": "披薩餐廳",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "source": "Google place types, not a full cuisine taxonomy"
+  },
+  "booking_url": null,
+  "menu_url": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ChIJq1lDCeUBBDQRP-lO2lB0m0w",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "pharmacy",
+    "store",
+    "service",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島北角清華街1號",
+  "location": {
+    "latitude": 22.2889269,
+    "longitude": 114.19685919999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5520133658881485119&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "北角動物醫院",
+    "languageCode": "zh-HK"
+  },
+  "primaryType": "veterinary_care",
+  "photos": [
+    {
+      "name": "places/ChIJq1lDCeUBBDQRP-lO2lB0m0w/photos/Aa-ngMatvyBxow3NyLyXDkoO2xGbboMWPQMRTOFK1z7ZUMk-DzINbl2zHIuZkh38NoQnx04Tq5Uz5hbvwTQbgWJl7Z9jv9GNjw1ql2lJbwNww9T86LnIww9I4m2wIOq5SWNUQ7Zv33ntrX5kXujmLMJ-fQIawPyAp3izq5EJHdcrIL44LJ5bWTC8mRmMokrZUJ0aLgX_RyB3ZmW09gLyJeU6auCzNlz4OSTgJxjrGo7s9CEs3H-fGhq2X7w8yfo2KJOAwCiGvGoeMTh4XkFff6cbWpGdabtD95dXekJcVsImp3WcavVn9qtZ6-HaDRGALLeXq7KXxcGgkkVW8wqv9pdKRjoh0JJGF3YWfl-8nhKztY2RYj05ssERVuXzFLda9DREDbQXlMaI6tRN7HplEJ_6xAtRQQ",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "North Point Animal Hospital",
+          "uri": "https://maps.google.com/maps/contrib/114324738842261167677",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNswJoaF2WfR8ingee0UyCeDa3wEDktL7TZshDt0L81OaGLsxI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDV7LrQcA&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDV7LrQcA!2e10!4m2!3m1!1s0x340401e5094359ab:0x4c9b7450da4ee93f"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:38:29.309363+00:00"
+}

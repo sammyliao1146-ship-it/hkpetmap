@@ -1,0 +1,39 @@
+{
+  "id": "ChIJc4ZtIxsBBDQRr7La-4WyApM",
+  "types": [
+    "ferry_terminal",
+    "transit_station",
+    "transportation_service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "香港香港島北角",
+  "location": {
+    "latitude": 22.294179999999997,
+    "longitude": 114.19981000000001
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10593225562054636207&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "displayName": {
+    "text": "北角渡輪碼頭",
+    "languageCode": "zh-TW"
+  },
+  "primaryType": "ferry_terminal",
+  "photos": [
+    {
+      "name": "places/ChIJc4ZtIxsBBDQRr7La-4WyApM/photos/Aa-ngMYHfNYHwI7hLxBRYOr7wikSiIo0akWaqxt-TSRwsD2nhPvTYhBmWdo-vn6sBmu0ta7esz67uSy5-qbj_4jAE8osNKwsXG366Z6GGE5Lq3CX0gmPB3MRQdcBytKP0qPIGMYJvqtNvQDJDrQKgeHGFZb5XsyjD85V8ddWvZyqewQy_aOKUo02e4noHUNQO3_lt72QVZuLBQTUIvLsg7AbtWWcQaIpf2JRs9j6KTpVHxeEPyUtQqGEOqLZjXl8-v-cDMEF9WYacLK6ZRVh5-fIWxIzIi3ckyfqJbUoEq2YwSoNKU85Re7qdl2d_muW6u7UDFvwE1moNpOMKmyf8-SdKiEV5gsTY-HiJ-HzBPPzkhCn-XIveehaD5TnwpTFLyQFZ6cbRafP9YzUphG8_IZNz1P3rQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Agassiz",
+          "uri": "https://maps.google.com/maps/contrib/100882832367724993431",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8rUVKAJOim2SM3COhpxV4xxagfK1dsF1Zl4J3fJLhyOgSlNznRw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICql9zTYQ&t=27&cb_client=maps_api_places.places_api&hl=zh-TW",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICql9zTYQ!2e10!4m2!3m1!1s0x3404011b236d8673:0x9302b285fbdab2af"
+    }
+  ],
+  "photo_count": 10,
+  "fetched_at": "2026-10-24T00:39:29.064728+00:00"
+}
