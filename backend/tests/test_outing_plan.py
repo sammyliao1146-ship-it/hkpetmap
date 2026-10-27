@@ -169,3 +169,29 @@ def test_plan_enforces_one_final_meal_for_merged_japanese_cuisine():
     assert [s['purpose'] for s in stops]==['park','meal']
     assert stops[-1]['place']['cuisines']==['日式']
     assert not result['warnings']
+
+
+@pytest.mark.parametrize('language', ['en', 'zh-Hant'])
+@pytest.mark.parametrize('include_anchor', [False, True])
+def test_local_plan_title_names_a_visited_stop_when_search_anchor_is_not_selected(language, include_anchor):
+    rows=[place('hopewell','malls',name='合和商場',name_en='Hopewell Mall'),
+          place('garden','pet_parks',name='黃泥涌道休憩花園',name_en='Wong Nai Chung Road Rest Garden'),
+          place('hysan','malls',name='希慎廣場',name_en='Hysan Place'),
+          place('sushi','restaurants',name='鮨穴',name_en='Sushi Ana',cuisines=['日式'])]
+    class Parking:
+        async def list(self,**kwargs):return {'status':'ready','items':[place('p','parking')]}
+    pets=SimpleNamespace(places=lambda:{'items':rows},activities=lambda:{'items':[]})
+    container=SimpleNamespace(pets=pets,parking=Parking(),settings=SimpleNamespace(model='test'))
+    async def select(*args):return ['garden','hopewell' if include_anchor else 'hysan','sushi']
+    result=asyncio.run(create_plan(container,PlanRequest(date='2026-10-27',region='hong_kong_island',
+                interests=['park','mall'],cuisine='japanese',language=language),select))
+    assert result['destination']['id']=='area:hopewell'
+    stops=[s['place'] for g in result['parking_groups'] for s in g['stops']]
+    assert [p['id'] for p in stops]==['garden','hopewell' if include_anchor else 'hysan','sushi']
+    expected=rows[0] if include_anchor else rows[1]
+    name=expected['name_en'] if language=='en' else expected['name']
+    assert result['title']==name+(' pet outing' if language=='en' else '攜寵遊')
+    assert result['summary'].startswith(('Explore '+name+': ') if language=='en' else name+'行程：')
+    if not include_anchor:
+        assert 'Hopewell Mall' not in result['title']+result['summary']
+        assert '合和商場' not in result['title']+result['summary']

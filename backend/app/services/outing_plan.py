@@ -265,10 +265,14 @@ async def create_plan(container, request: PlanRequest, selector=select_plan_stop
             sources.append({'title':place.get('name_en') or place['name'],'url':place['source_url']})
             if place['category']=='malls':
                 stop['mall_policy_summary']=' '.join((place.get('notes_en') if english else place.get('notes')) or place.get('notes') or [])
-    area_name=destination['name_en'] if english else destination['name']
     names=[]
     for group in groups:
         names.extend((s['place'].get('name_en') or s['place']['name']) if english else s['place']['name'] for s in group['stops'])
+    area_name=destination['name_en'] if english else destination['name']
+    # A local venue is a search anchor, not a guaranteed visit. Name the outing
+    # after an included stop when the final parking groups omit that venue.
+    if destination['id'].startswith('area:') and not seen_places.intersection(destination['anchor_place_ids']) and names:
+        area_name=names[0]
     summary=(f"Explore {area_name}: "+' → '.join(names)+f'. Use {len(groups)} parking stop(s); every included place is within 1 km of its assigned car park (straight-line).'
              if english else f"{area_name}行程："+' → '.join(names)+f'。使用{len(groups)}個停車點，每個地點距離所屬停車場直線1公里內。')
     return {'id':uuid4().hex,'status':'partial' if warnings else 'ready','date':request.date.isoformat(),
