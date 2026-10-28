@@ -39,4 +39,4 @@ def register_middleware(app: FastAPI, settings: Settings, api_prefix: str) -> No
     origins = list(dict.fromkeys([*settings.cors_origins, 'https://hkpetmap.com', 'https://www.hkpetmap.com']))
     app.add_middleware(CORSMiddleware, allow_origins=origins,
                        allow_methods=["GET", "POST"], allow_headers=["Content-Type"],
-                       expose_headers=["X-Request-ID"])
+                       expose_headers=["X-Request-ID", "X-Trace-ID"])

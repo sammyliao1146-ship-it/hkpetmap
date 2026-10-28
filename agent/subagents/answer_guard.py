@@ -1,3 +1,4 @@
+from backend.app.observability.trace import observed_response
 """Fail-closed final answer relevance gate for all assistant output."""
 import asyncio
 import json
@@ -44,14 +45,14 @@ async def review_answer(*, query: str, answer: str, intent: str, map_mode: str,
     try:
         async with asyncio.timeout(timeout_seconds):
             client = get_client(api_key, base_url, timeout_seconds)
-            response = await client.responses.parse(
+            response = await observed_response("answer_review", model, lambda: client.responses.parse(
                 model=model,
                 instructions=REVIEW_INSTRUCTIONS,
                 input=json.dumps(payload, ensure_ascii=False),
                 text_format=AnswerReview,
                 max_output_tokens=120,
                 store=False,
-            )
+            ))
         verdict = response.output_parsed
         return bool(verdict and verdict.relevant and verdict.within_requested_scope and verdict.addresses_current_request)
     except Exception:

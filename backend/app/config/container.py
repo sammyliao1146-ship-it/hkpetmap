@@ -1,3 +1,4 @@
+from backend.app.observability.store import ConversationStore
 from dataclasses import dataclass, field
 from pathlib import Path
 import httpx
@@ -20,14 +21,17 @@ class Container:
     llm_gate: LLMGate = field(init=False)
     featured: FeaturedStore = field(init=False)
     parking: ParkingService = field(init=False)
+    conversations: ConversationStore = field(init=False)
 
     def __post_init__(self):
+        self.conversations = ConversationStore(self.settings.database_url)
         self.featured = FeaturedStore()
         self.parking = ParkingService(self.cache, self.client)
         s = self.settings
         self.llm_gate = LLMGate(s.llm_max_concurrency, s.llm_fallback_concurrency, s.llm_queue_timeout_seconds)
 
     async def aclose(self):
+        await self.conversations.aclose()
         await self.client.aclose()
         await close_model_clients()
         await self.cache.aclose()

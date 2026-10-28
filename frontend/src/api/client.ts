@@ -57,17 +57,28 @@ export interface ChatMessage { role: 'user' | 'assistant'; content: string; }
 export interface ChatOrigin {latitude:number;longitude:number;}
 let sessionId = crypto.randomUUID();
 export const newChatSession = () => { sessionId = crypto.randomUUID(); };
-export const chat = (message: string, history: ChatMessage[] = [], language: 'zh-Hant'|'en' = 'zh-Hant', origin?:ChatOrigin|null) => request<{answer: string; model: string; sources?: {title:string;url:string}[]; places?: {id:string;name:string}[]}>('/assistant/chat', {
+export const chat = (message: string, history: ChatMessage[] = [], language: 'zh-Hant'|'en' = 'zh-Hant', origin?:ChatOrigin|null) => request<ChatResult>('/assistant/chat', {
   method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({message,history,language,session_id:sessionId,...(origin?{origin}:{})}),
 });
-export interface ChatResult {answer: string; model: string; sources?: {title:string;url:string}[]; places?: {id:string;name:string}[]; degraded?: boolean}
-export async function chatStream(message: string, history: ChatMessage[], language: 'zh-Hant'|'en', origin: ChatOrigin|null|undefined, onDelta: (text:string)=>void): Promise<ChatResult> {
+export interface ChatMetrics {
+  duration_ms:number|null; first_token_ms:number|null; model_calls:number; tool_calls:number;
+  input_tokens:number|null; output_tokens:number|null; total_tokens:number|null;
+  cached_tokens:number|null; reasoning_tokens:number|null; usage_complete:boolean;
+  storage_status:'saved'|'disabled'|'unavailable';
+}
+export class ChatError extends Error {
+  constructor(message:string, public trace_id?:string, public metrics?:ChatMetrics){super(message);this.name='ChatError';}
+}
+export interface ChatResult {trace_id?:string; metrics?:ChatMetrics;answer: string; model: string; sources?: {title:string;url:string}[]; places?: {id:string;name:string}[]; degraded?: boolean}
+export async function chatStream(message: string, history: ChatMessage[], language: 'zh-Hant'|'en', origin: ChatOrigin|null|undefined, onDelta: (text:string)=>void, onTrace?: (id:string)=>void): Promise<ChatResult> {
   const response = await fetch('/api/v1/assistant/chat/stream', {
     method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({message,history,language,session_id:sessionId,...(origin?{origin}:{})}),
   });
+  let traceId=response.headers.get('X-Trace-ID')||undefined;
+  if(traceId)onTrace?.(traceId);
   if (!response.ok || !response.body) {
     const body = await response.json().catch(() => ({}));
-    throw new Error(typeof body.detail === 'string' ? body.detail : '暫時讀唔到資料，請稍後再試。');
+    throw new ChatError(typeof body.detail === 'string' ? body.detail : '暫時讀唔到資料，請稍後再試。',body.trace_id||traceId,body.metrics);
   }
   const reader = response.body.getReader();
   const decoder = new TextDecoder();
@@ -77,10 +88,12 @@ export async function chatStream(message: string, history: ChatMessage[], langua
     const line = block.split('\n').find(l => l.startsWith('data: '));
     if (!line) return;
     const event = JSON.parse(line.slice(6));
+    if(event.trace_id){traceId=event.trace_id;onTrace?.(event.trace_id);}
     if (event.type === 'delta') onDelta(event.text);
     else if (event.type === 'final') final = event;
-    else if (event.type === 'error') throw new Error(typeof event.detail === 'string' ? event.detail : '暫時連唔到助手，請再試。');
+    else if (event.type === 'error') throw new ChatError(typeof event.detail === 'string' ? event.detail : '暫時連唔到助手，請再試。',event.trace_id||traceId,event.metrics);
   };
+  try {
   for (;;) {
     const { value, done } = await reader.read();
     if (value) buffer += decoder.decode(value, { stream: true });
@@ -88,8 +101,13 @@ export async function chatStream(message: string, history: ChatMessage[], langua
     while ((index = buffer.indexOf('\n\n')) >= 0) { handle(buffer.slice(0, index)); buffer = buffer.slice(index + 2); }
     if (done) break;
   }
-  if (!final) throw new Error('暫時連唔到助手，請再試。');
+  if(buffer.trim())handle(buffer);
+  if (!final) throw new ChatError('暫時連唔到助手，請再試。',traceId);
   return final;
+  } catch(error){
+    if(error instanceof ChatError)throw error;
+    throw new ChatError(error instanceof Error?error.message:'Connection interrupted',traceId);
+  } finally { reader.releaseLock(); }
 }
 export const prefillNearby = (origin: ChatOrigin, language: 'zh-Hant'|'en') => request<{cached:boolean;count:number}>('/assistant/prefill', {
   method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({...origin,language}),

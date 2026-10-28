@@ -14,6 +14,8 @@ class Settings:
     model: str
     base_url: str
     cors_origins: list[str]
+    database_url: str = field(default="", repr=False)
+    trace_admin_token: str = field(default="", repr=False)
     agent_tool_transport: str = "function"
     redis_url: str = "redis://127.0.0.1:6379/0"
     cache_prefix: str = "hkpet"
@@ -56,6 +58,8 @@ class Settings:
 def get_settings() -> Settings:
     load_dotenv(PROJECT_ROOT / ".env", override=False)
     return Settings(
+        database_url=os.getenv("DATABASE_URL", ""),
+        trace_admin_token=os.getenv("TRACE_ADMIN_TOKEN", ""),
         agent_tool_transport=os.getenv("AGENT_TOOL_TRANSPORT", "function"),
         snapshot_path=os.getenv('PET_SNAPSHOT_PATH') or None,
         snapshot_poll_seconds=float(os.getenv('SNAPSHOT_POLL_SECONDS','30')),

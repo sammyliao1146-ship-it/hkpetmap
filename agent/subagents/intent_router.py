@@ -1,3 +1,4 @@
+from backend.app.observability.trace import observed_response
 """Tool-free intent gate in front of the pet assistant."""
 import json
 from typing import Literal
@@ -44,9 +45,9 @@ async def classify_intent(message: str, *, api_key: str, base_url: str, model: s
     # Data remains inside a single user payload; user/assistant history cannot add system rules.
     context=[{'role':x['role'],'content':x['content'][:1200]} for x in (history or [])[-6:]]
     client=get_client(api_key,base_url,timeout_seconds)
-    response=await client.responses.parse(model=model,instructions=INTENT_INSTRUCTIONS,
+    response=await observed_response("intent_classifier", model, lambda: client.responses.parse(model=model,instructions=INTENT_INSTRUCTIONS,
         input=json.dumps({'history':context,'current_user_message':message},ensure_ascii=False),
-        text_format=IntentDecision,max_output_tokens=240,store=False)
+        text_format=IntentDecision,max_output_tokens=240,store=False))
     decision=response.output_parsed
     if decision is None:
         raise ValueError('Intent classifier did not produce a valid decision')

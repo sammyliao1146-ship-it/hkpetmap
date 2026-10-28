@@ -367,3 +367,9 @@ html[lang='en-HK'] .pet-cuisine em, html[lang='en-HK'] .pet-checkbox em { flex-s
   .pet-sidebar { animation: none; }
   .facility-map-pin, .restaurant-rating-pin, .pet-place-card, .pet-card-media > img, .facility-thumbnail > img { transition: none; }
 }
+
+.assistant-turn-metrics{margin-top:10px;color:#61756a;font-size:11px;line-height:1.6}
+.assistant-turn-metrics summary{display:flex;flex-wrap:wrap;gap:5px 12px;cursor:pointer}
+.assistant-turn-metrics dl{display:grid;grid-template-columns:minmax(80px,auto) minmax(0,1fr);gap:4px 10px;margin:8px 0}
+.assistant-turn-metrics dt,.assistant-turn-metrics dd{margin:0;overflow-wrap:anywhere}
+.assistant-turn-metrics code,.assistant-pending-trace{overflow-wrap:anywhere;word-break:break-all;font-size:10px}

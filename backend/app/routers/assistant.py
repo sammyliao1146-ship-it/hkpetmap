@@ -3,9 +3,11 @@ import copy
 import dataclasses
 import json
 import logging
+import secrets
+from datetime import datetime
 
-from fastapi import APIRouter, Depends, HTTPException, Request
-from fastapi.responses import StreamingResponse
+from fastapi import APIRouter, Depends, HTTPException, Request, Response, Header, Query
+from fastapi.responses import StreamingResponse, JSONResponse
 
 from agent.data.data_access import PetDataAccess
 from agent.assembly.service import run_pet_assistant
@@ -17,7 +19,8 @@ from agent.memory.conversation import ConversationMemory
 from agent.data.featured_answer import is_simple_nearby, render_nearby
 from backend.app.config.container import Container
 from backend.app.config.dependencies import get_container
-from backend.app.models.assistant import ChatOrigin, ChatRequest, ChatResponse, IntentRouting, PrefillRequest
+from backend.app.observability.trace import TurnTrace, current_trace
+from backend.app.models.assistant import ChatMetrics, ChatOrigin, ChatRequest, ChatResponse, IntentRouting, PrefillRequest
 
 logger = logging.getLogger(__name__)
 router = APIRouter(tags=["assistant"])
@@ -72,44 +75,125 @@ async def prefill(payload: PrefillRequest, container: Container = Depends(get_co
     return {"cached": True, "count": len(value['places'])}
 
 
+async def _traced_turn(payload, request, container, trace, on_delta=None):
+    token = current_trace.set(trace)
+    async def measured_delta(text):
+        trace.delta(text)
+        if on_delta:
+            await on_delta(text)
+    try:
+        await container.conversations.save(trace)
+        response = await _handle(payload, request, container, measured_delta if on_delta else None)
+        trace.finish('blocked' if response.answer == blocked_reply(payload.language) else 'refused' if response.routing and response.routing.action == 'refuse' else 'success', response)
+        return response
+    except asyncio.CancelledError as exc:
+        trace.finish('cancelled', error=exc)
+        raise
+    except BaseException as exc:
+        trace.finish('error', error=exc)
+        raise
+    finally:
+        # Cancellation must not discard the accepted turn or its final status.
+        try:
+            await asyncio.shield(container.conversations.save(trace))
+            logger.info('agent_turn trace_id=%s status=%s model_calls=%s duration_ms=%s storage=%s',
+                        trace.trace_id, trace.status, trace.metrics()['model_calls'], trace.duration_ms, trace.storage_status)
+        finally:
+            current_trace.reset(token)
+
+
 @router.post("/assistant/chat", response_model=ChatResponse)
-async def chat(payload: ChatRequest, request: Request, container: Container = Depends(get_container)) -> ChatResponse:
-    return await _handle(payload, request, container)
+async def chat(payload: ChatRequest, request: Request, response: Response,
+               container: Container = Depends(get_container)):
+    trace = TurnTrace(payload.session_id, payload.message, payload.language)
+    response.headers['X-Trace-ID'] = trace.trace_id
+    try:
+        result = await _traced_turn(payload, request, container, trace)
+        result.trace_id, result.metrics = trace.trace_id, ChatMetrics(**trace.metrics())
+        return result
+    except HTTPException as exc:
+        return JSONResponse(status_code=exc.status_code, headers={**(exc.headers or {}),'X-Trace-ID':trace.trace_id},
+                            content={'detail':exc.detail,'trace_id':trace.trace_id,'metrics':trace.metrics()})
+    except Exception:
+        logger.error('chat_failed trace_id=%s',trace.trace_id)
+        return JSONResponse(status_code=500,headers={'X-Trace-ID':trace.trace_id},
+                            content={'detail':'The assistant is temporarily unavailable. Please try again.',
+                                     'trace_id':trace.trace_id,'metrics':trace.metrics()})
 
 
 @router.post("/assistant/chat/stream")
-async def chat_stream(payload: ChatRequest, request: Request, container: Container = Depends(get_container)) -> StreamingResponse:
-    """Server-sent events: `delta` text chunks as the model writes, then one `final` (or `error`) event.
+async def chat_stream(payload: ChatRequest, request: Request, container: Container = Depends(get_container)):
+    trace = TurnTrace(payload.session_id, payload.message, payload.language)
+    queue = asyncio.Queue(maxsize=64)
 
-    The final event arrives after the answer review and replaces the streamed text if it was blocked.
-    """
-    queue: asyncio.Queue = asyncio.Queue()
+    async def on_delta(text):
+        await queue.put({'type':'delta','text':text})
 
-    async def on_delta(text: str) -> None:
-        await queue.put({"type": "delta", "text": text})
-
-    async def work() -> None:
+    async def work():
         try:
-            response = await _handle(payload, request, container, on_delta)
-            await queue.put({"type": "final", **response.model_dump()})
+            response = await _traced_turn(payload, request, container, trace, on_delta)
+            response.trace_id, response.metrics = trace.trace_id, ChatMetrics(**trace.metrics())
+            await queue.put({'type':'final',**response.model_dump()})
         except HTTPException as exc:
-            await queue.put({"type": "error", "status": exc.status_code, "detail": exc.detail})
+            await queue.put({'type':'error','status':exc.status_code,'detail':exc.detail,
+                             'trace_id':trace.trace_id,'metrics':trace.metrics()})
         except Exception:
-            logger.exception("Streaming assistant request failed")
-            await queue.put({"type": "error", "status": 500, "detail": "The assistant is temporarily unavailable. Please try again."})
-        await queue.put(None)
-
-    task = asyncio.create_task(work())
+            logger.error('stream_failed trace_id=%s',trace.trace_id)
+            await queue.put({'type':'error','status':500,'detail':'The assistant is temporarily unavailable. Please try again.',
+                             'trace_id':trace.trace_id,'metrics':trace.metrics()})
+        finally:
+            if not asyncio.current_task().cancelling():
+                await queue.put(None)
 
     async def events():
+        # Start only when the response body is consumed, avoiding orphan work on disconnect.
+        task = asyncio.create_task(work())
         try:
+            yield f"data: {json.dumps({'type':'meta','trace_id':trace.trace_id})}\n\n"
             while (item := await queue.get()) is not None:
-                yield f"data: {json.dumps(item, ensure_ascii=False)}\n\n"
+                yield f"data: {json.dumps(item,ensure_ascii=False)}\n\n"
         finally:
-            task.cancel()
+            if not task.done():
+                task.cancel()
+            try:
+                await task
+            except asyncio.CancelledError:
+                pass
 
-    return StreamingResponse(events(), media_type="text/event-stream",
-                             headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
+    return StreamingResponse(events(),media_type='text/event-stream',
+                             headers={'Cache-Control':'no-cache','X-Accel-Buffering':'no','X-Trace-ID':trace.trace_id})
+
+
+def _trace_admin(request: Request, authorization: str | None = Header(default=None)):
+    expected = request.app.state.container.settings.trace_admin_token
+    if not expected:
+        raise HTTPException(404,'Not found')
+    supplied = authorization.removeprefix('Bearer ') if authorization and authorization.startswith('Bearer ') else ''
+    if not secrets.compare_digest(supplied.encode(),expected.encode()):
+        raise HTTPException(401,'Authentication required',headers={'WWW-Authenticate':'Bearer'})
+
+
+@router.get('/assistant/traces/{trace_id}', dependencies=[Depends(_trace_admin)])
+async def trace_detail(trace_id: str, response: Response, container: Container=Depends(get_container)):
+    response.headers['Cache-Control']='no-store'
+    try:
+        result = await container.conversations.get(trace_id)
+    except Exception:
+        raise HTTPException(503,'Conversation storage unavailable') from None
+    if result is None:
+        raise HTTPException(404,'Trace not found')
+    return result
+
+
+@router.get('/assistant/conversations/{session_id}', dependencies=[Depends(_trace_admin)])
+async def conversation_detail(session_id: str, response: Response, limit: int=Query(default=50,ge=1,le=100),
+                              before: datetime | None=None, container: Container=Depends(get_container)):
+    response.headers['Cache-Control']='no-store'
+    try:
+        turns = await container.conversations.session(session_id,limit,before)
+    except Exception:
+        raise HTTPException(503,'Conversation storage unavailable') from None
+    return {'session_id':session_id,'turns':turns,'next_before':turns[-1]['started_at'] if len(turns)==limit else None}
 
 
 async def _handle(payload: ChatRequest, request: Request, container: Container, on_delta=None) -> ChatResponse:

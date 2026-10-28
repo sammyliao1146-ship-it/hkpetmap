@@ -1,3 +1,4 @@
+from backend.app.observability.trace import TraceHooks
 from contextlib import AsyncExitStack
 from pathlib import Path
 import sys
@@ -30,9 +31,9 @@ async def run_pet_assistant(message: str, *, api_key: str, base_url: str, model:
             tools=(make_pet_tools(access) if tool_transport=='function' else [])+web_tools,mcp_servers=servers)
         messages=[*(history or []),{'role':'user','content':message}]
         if on_delta is None:
-            result=await Runner.run(assistant,messages,max_turns=8,run_config=RunConfig(tracing_disabled=True))
+            result=await Runner.run(assistant,messages,max_turns=8,hooks=TraceHooks("main_agent", model),run_config=RunConfig(tracing_disabled=True))
         else:
-            result=Runner.run_streamed(assistant,messages,max_turns=8,run_config=RunConfig(tracing_disabled=True))
+            result=Runner.run_streamed(assistant,messages,max_turns=8,hooks=TraceHooks("main_agent", model),run_config=RunConfig(tracing_disabled=True))
             async for event in result.stream_events():
                 if event.type=='raw_response_event' and event.data.type=='response.output_text.delta':
                     await on_delta(event.data.delta)

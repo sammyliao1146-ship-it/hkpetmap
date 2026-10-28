@@ -43,7 +43,23 @@ class PlaceRef(BaseModel):
     name: str
 
 
+class ChatMetrics(BaseModel):
+    duration_ms: float | None = None
+    first_token_ms: float | None = None
+    model_calls: int = 0
+    tool_calls: int = 0
+    input_tokens: int | None = None
+    output_tokens: int | None = None
+    total_tokens: int | None = None
+    cached_tokens: int | None = None
+    reasoning_tokens: int | None = None
+    usage_complete: bool = True
+    storage_status: Literal['disabled', 'saved', 'unavailable'] = 'disabled'
+
+
 class ChatResponse(BaseModel):
+    trace_id: str | None = None
+    metrics: ChatMetrics | None = None
     answer: str
     model: str
     routing: IntentRouting | None = None

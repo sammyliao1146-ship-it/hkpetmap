@@ -1,3 +1,4 @@
+from backend.app.observability.trace import TraceHooks
 """A bounded research sub-agent: topic gate, domain filter, verified citations."""
 import asyncio
 import json
@@ -179,7 +180,7 @@ class WebKnowledgeService:
                         tools=[WebSearchTool(filters={'allowed_domains':domains},search_context_size='low',external_web_access=True)],
                         model_settings=ModelSettings(tool_choice='required',max_tokens=1800,store=False,response_include=['web_search_call.action.sources'],extra_args={'max_tool_calls':3}))
                     result=await Runner.run(researcher,json.dumps({'question':query,'language':language,'topic':decision.intent,'context':context},ensure_ascii=False),
-                        max_turns=3,run_config=RunConfig(tracing_disabled=True))
+                        max_turns=3,hooks=TraceHooks("web_research", s.web_search_model),run_config=RunConfig(tracing_disabled=True))
                     answer,sources=verified_answer(result,domains)
                     approved=await review_answer(query=query,answer=answer,intent=decision.intent,map_mode=decision.map_mode,
                         api_key=s.api_key,base_url=s.base_url,model=s.intent_model,history=history,sources=sources,
