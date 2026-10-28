@@ -22,8 +22,8 @@
 .pet-app .index-toggle span, .pet-app .topbar-divider { display: none; }
 .pet-app .index-toggle:hover, .pet-app .index-toggle.is-active { background: #e7eddf; border-color: #cbd8c2; }
 .pet-app .brand { gap: 11px; color: var(--pet-ink); font-family: inherit; font-size: 24px; font-weight: 750; letter-spacing: .05em; }
-.pet-app .brand-mark { width: 44px; height: 44px; border-radius: 16px 16px 18px 10px; color: #f6e8c3; background: var(--pet-green); transform: rotate(-7deg); }
-.pet-app .brand-mark svg { transform: rotate(7deg); }
+.pet-app .brand-mark { width: 44px; height: 44px; border-radius: 14px; background: transparent; transform: none; }
+.pet-app .brand-mark img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .pet-app .brand small { margin-top: 4px; font-size: 9px; letter-spacing: .18em; color: #819078; font-weight: 550; }
 .pet-tabs { display: flex; align-items: center; gap: 4px; padding: 5px; background: #eaece2; border: 1px solid #e2e5d9; border-radius: 18px; }
 .pet-tabs button { display: flex; align-items: center; justify-content: center; gap: 8px; min-height: 41px; padding: 9px 24px; border: 0; border-radius: 13px; color: #71806f; background: transparent; font-size: 14px; font-weight: 650; white-space: nowrap; transition: background .15s, color .15s; }
