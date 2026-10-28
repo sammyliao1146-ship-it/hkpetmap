@@ -20,7 +20,7 @@ from agent.data.featured_answer import is_simple_nearby, render_nearby
 from backend.app.config.container import Container
 from backend.app.config.dependencies import get_container
 from backend.app.observability.trace import TurnTrace, current_trace
-from backend.app.models.assistant import ChatMetrics, ChatOrigin, ChatRequest, ChatResponse, IntentRouting, PrefillRequest
+from backend.app.models.assistant import ChatOrigin, ChatRequest, ChatResponse, IntentRouting, PrefillRequest
 
 logger = logging.getLogger(__name__)
 router = APIRouter(tags=["assistant"])
@@ -106,19 +106,16 @@ async def _traced_turn(payload, request, container, trace, on_delta=None):
 async def chat(payload: ChatRequest, request: Request, response: Response,
                container: Container = Depends(get_container)):
     trace = TurnTrace(payload.session_id, payload.message, payload.language)
-    response.headers['X-Trace-ID'] = trace.trace_id
     try:
         result = await _traced_turn(payload, request, container, trace)
-        result.trace_id, result.metrics = trace.trace_id, ChatMetrics(**trace.metrics())
         return result
     except HTTPException as exc:
-        return JSONResponse(status_code=exc.status_code, headers={**(exc.headers or {}),'X-Trace-ID':trace.trace_id},
-                            content={'detail':exc.detail,'trace_id':trace.trace_id,'metrics':trace.metrics()})
+        return JSONResponse(status_code=exc.status_code, headers=exc.headers,
+                            content={'detail':exc.detail})
     except Exception:
         logger.error('chat_failed trace_id=%s',trace.trace_id)
-        return JSONResponse(status_code=500,headers={'X-Trace-ID':trace.trace_id},
-                            content={'detail':'The assistant is temporarily unavailable. Please try again.',
-                                     'trace_id':trace.trace_id,'metrics':trace.metrics()})
+        return JSONResponse(status_code=500,
+                            content={'detail':'The assistant is temporarily unavailable. Please try again.'})
 
 
 @router.post("/assistant/chat/stream")
@@ -132,15 +129,12 @@ async def chat_stream(payload: ChatRequest, request: Request, container: Contain
     async def work():
         try:
             response = await _traced_turn(payload, request, container, trace, on_delta)
-            response.trace_id, response.metrics = trace.trace_id, ChatMetrics(**trace.metrics())
             await queue.put({'type':'final',**response.model_dump()})
         except HTTPException as exc:
-            await queue.put({'type':'error','status':exc.status_code,'detail':exc.detail,
-                             'trace_id':trace.trace_id,'metrics':trace.metrics()})
+            await queue.put({'type':'error','status':exc.status_code,'detail':exc.detail})
         except Exception:
             logger.error('stream_failed trace_id=%s',trace.trace_id)
-            await queue.put({'type':'error','status':500,'detail':'The assistant is temporarily unavailable. Please try again.',
-                             'trace_id':trace.trace_id,'metrics':trace.metrics()})
+            await queue.put({'type':'error','status':500,'detail':'The assistant is temporarily unavailable. Please try again.'})
         finally:
             if not asyncio.current_task().cancelling():
                 await queue.put(None)
@@ -149,7 +143,6 @@ async def chat_stream(payload: ChatRequest, request: Request, container: Contain
         # Start only when the response body is consumed, avoiding orphan work on disconnect.
         task = asyncio.create_task(work())
         try:
-            yield f"data: {json.dumps({'type':'meta','trace_id':trace.trace_id})}\n\n"
             while (item := await queue.get()) is not None:
                 yield f"data: {json.dumps(item,ensure_ascii=False)}\n\n"
         finally:
@@ -161,7 +154,7 @@ async def chat_stream(payload: ChatRequest, request: Request, container: Contain
                 pass
 
     return StreamingResponse(events(),media_type='text/event-stream',
-                             headers={'Cache-Control':'no-cache','X-Accel-Buffering':'no','X-Trace-ID':trace.trace_id})
+                             headers={'Cache-Control':'no-cache','X-Accel-Buffering':'no'})
 
 
 def _trace_admin(request: Request, authorization: str | None = Header(default=None)):

@@ -121,23 +121,29 @@ def test_http_and_sse_success_error_and_private_trace_lookup(tmp_path,monkeypatc
         with TestClient(app) as api:
             response=api.post('/api/v1/assistant/chat',json={'message':'question','session_id':'test_session'})
             assert response.status_code==200
-            body=response.json();trace_id=body['trace_id']
-            assert response.headers['x-trace-id']==trace_id
-            assert body['metrics']['total_tokens']==7 and body['metrics']['storage_status']=='saved'
+            body=response.json();trace_id=store.rows[-1]['trace_id']
+            assert 'x-trace-id' not in response.headers
+            assert not {'trace_id','metrics','spans'} & body.keys()
+            assert store.rows[-1]['metrics']['total_tokens']==7 and store.rows[-1]['metrics']['storage_status']=='saved'
             assert api.get('/api/v1/assistant/traces/'+trace_id).status_code==401
             auth={'Authorization':'Bearer private-test-token'}
             stored=api.get('/api/v1/assistant/traces/'+trace_id,headers=auth)
             assert stored.headers['cache-control']=='no-store'
             assert stored.json()['question']=='question' and stored.json()['answer']=='Answer'
+            assert stored.json()['metrics']['total_tokens']==7
+            assert stored.json()['spans'][0]['name']=='intent_classifier'
             sse=api.post('/api/v1/assistant/chat/stream',json={'message':'stream','session_id':'test_session'})
             events=[json.loads(line[6:]) for line in sse.text.splitlines() if line.startswith('data: ')]
-            assert [e['type'] for e in events]==['meta','delta','final']
-            assert len({e['trace_id'] for e in events if 'trace_id' in e})==1
-            assert events[-1]['metrics']['first_token_ms'] is not None
+            assert [e['type'] for e in events]==['delta','final']
+            assert 'x-trace-id' not in sse.headers
+            assert all(not {'trace_id','metrics','spans'} & e.keys() for e in events)
+            assert store.rows[-1]['metrics']['first_token_ms'] is not None
             for endpoint in ['/assistant/chat','/assistant/chat/stream']:
                 r=api.post('/api/v1'+endpoint,json={'message':'error','session_id':'test_session'})
                 e=r.json() if endpoint.endswith('/chat') else json.loads(r.text.split('data: ')[-1])
-                assert e['trace_id'] and e['metrics']['model_calls']==1
+                assert not {'trace_id','metrics','spans'} & e.keys()
+                assert 'x-trace-id' not in r.headers
+                assert store.rows[-1]['metrics']['model_calls']==1
                 assert store.rows[-1]['status']=='error'
             assert api.get('/api/v1/assistant/conversations/test_session',headers=auth).json()['turns']
     finally:

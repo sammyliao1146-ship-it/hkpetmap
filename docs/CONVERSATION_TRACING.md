@@ -1,6 +1,6 @@
 # Conversation traces and Render Postgres
 
-Every accepted chat request has a server-generated `trace_<uuid>` ID. Both JSON and SSE responses expose `X-Trace-ID`. SSE sends a `meta` event immediately, followed by deltas and exactly one `final` or `error` when the request completes. A disconnect is recorded as `cancelled` when the process can finish cleanup; a process crash can leave the initial row `running`.
+Every accepted chat request has an internal server-generated `trace_<uuid>` ID. Public JSON/SSE responses and headers do not expose trace IDs, usage, timing, call counts, spans or storage status. SSE sends text deltas and exactly one `final` or `error` when the request completes. A disconnect is recorded as `cancelled` when the process can finish cleanup; a process crash can leave the initial row `running`.
 
 ## Render setup
 
@@ -8,7 +8,7 @@ Every accepted chat request has a server-generated `trace_<uuid>` ID. Both JSON 
 2. Set **backend service** environment variable `DATABASE_URL` to the database's **Internal Database URL**. Do not use a `VITE_` variable or put database credentials in the frontend.
 3. Optionally set `TRACE_ADMIN_TOKEN` to a strong random secret to enable private history retrieval. This is a server-only bearer credential. Without it the lookup endpoints return 404.
 4. Deploy the backend with its updated Python dependencies (`pip install .` includes asyncpg). The database role needs permission to create tables and indexes. The first persisted chat creates `pet_chat_turns` and its indexes automatically, using a transaction and advisory lock to coordinate processes.
-5. Send a new chat. Expand **Trace details** under the reply and confirm **Saved to database**. No URL configured displays **Database not configured**. A failed write displays **Database write failed** and emits `conversation_store_write_failed` with the trace ID and exception type, without logging database credentials or message text.
+5. Send a new chat, then verify the newest row in `pet_chat_turns` through psql/a database client, or the authenticated conversation lookup endpoint using its session ID. The public chat UI intentionally contains no operational metrics. A failed write emits `conversation_store_write_failed` with the internal trace ID and exception type, without logging credentials or message text.
 
 No database was provisioned by this code change. Existing conversations that expired from cache cannot be recovered. The short-term Redis memory is unchanged; durable history is a separate Postgres record, not automatically injected wholesale into model context.
 
@@ -34,13 +34,13 @@ The schema has no automatic record deletion policy. Configure retention/backups 
 - `duration_ms` is server elapsed time through answer/error completion, including initial persistence but excluding the final DB write and browser/network time.
 - `first_token_ms` is time to the first emitted nonempty text delta. It is null for nonstreaming/empty output.
 - Hosted web-tool durations are null because the provider does not provide separate execution timing.
-- `storage_status`: saved, disabled, unavailable. The UI displays it under Trace details. A saved response means the final DB write completed.
+- `storage_status`: saved, disabled, unavailable. This is an internal diagnostic field; it is not sent to public chat clients. A final saved row means the final DB write completed.
 
 These are application-owned traces in your Postgres database. External OpenAI trace export remains disabled; no separate OpenAI dashboard login is needed.
 
 ## Private lookup
 
-Both endpoints require `Authorization: Bearer <TRACE_ADMIN_TOKEN>` and return `Cache-Control: no-store`. End users receive their own request's metrics but there is no public transcript lookup.
+Both endpoints require `Authorization: Bearer <TRACE_ADMIN_TOKEN>` and return `Cache-Control: no-store`. Metrics and transcripts are available only through these authenticated endpoints or a direct authorised database connection. There is no public transcript or diagnostic lookup.
 
 ```sh
 curl -H "Authorization: Bearer $TRACE_ADMIN_TOKEN" \
@@ -52,7 +52,7 @@ curl -H "Authorization: Bearer $TRACE_ADMIN_TOKEN" \
 
 Conversation results are newest first. For older turns, pass the response's ISO timestamp `next_before` as the URL-encoded `before` parameter. Limits are 1–100. Keep this token out of browser bundles and public URLs.
 
-In Render's Postgres SQL console:
+Using psql or a database client connected to Render Postgres:
 
 ```sql
 SELECT trace_id, session_id, started_at, status,
@@ -74,4 +74,4 @@ PET_TEST_DATABASE_URL='postgresql://.../disposable_test_database' \
 npm --prefix frontend run build
 ```
 
-Tests cover real SDK function calls and streaming, context isolation between concurrent turns, partial/missing usage, failure/cancellation persistence, private trace endpoints and a real Postgres reconnect/upsert/session-isolation integration. Browser UI checks use controlled SSE fixtures to validate metadata rendering, failure traces, both languages and mobile layout.
+Tests cover real SDK function calls and streaming, context isolation between concurrent turns, partial/missing usage, failure/cancellation persistence, private trace endpoints and a real Postgres reconnect/upsert/session-isolation integration. Privacy regression tests verify success and error JSON/SSE responses omit diagnostics while authenticated lookups and database records retain them. The public chat UI does not render Trace/Token/storage details, even if an older backend sends them during a rolling deployment.
