@@ -6,7 +6,7 @@ import logging
 import secrets
 from datetime import datetime
 
-from fastapi import APIRouter, Depends, HTTPException, Request, Response, Header, Query
+from fastapi import APIRouter, Depends, HTTPException, Request, Response, Header, Query, BackgroundTasks
 from fastapi.responses import StreamingResponse, JSONResponse, HTMLResponse
 from pathlib import Path
 
@@ -19,6 +19,7 @@ from agent.data.tools.pet_data import make_pet_queries
 from agent.memory.conversation import ConversationMemory
 from agent.data.featured_answer import is_simple_nearby, render_nearby
 from agent.data.saved_lookup import saved_lookup
+from agent.data.fast_answers import fast_answer
 from backend.app.config.container import Container
 from backend.app.config.dependencies import get_container
 from backend.app.observability.trace import TurnTrace, current_trace
@@ -86,18 +87,25 @@ async def prefill(payload: PrefillRequest, container: Container = Depends(get_co
     return {"cached": True, "count": len(value['places'])}
 
 
-async def _traced_turn(payload, request, container, trace, on_delta=None):
+async def _traced_turn(payload, request, container, trace, on_delta=None, background_tasks=None):
     token = current_trace.set(trace)
     # Start persistence alongside model work; always join it before the final upsert.
     # No detached/unreliable fire-and-forget queue is used.
     initial_save = asyncio.create_task(container.conversations.save(trace))
-    async def measured_delta(text):
-        trace.delta(text)
-        if on_delta:
-            await on_delta(text)
     try:
-        response = await _handle(payload, request, container, measured_delta if on_delta else None)
-        trace.finish('blocked' if response.answer == blocked_reply(payload.language) else 'refused' if response.routing and response.routing.action == 'refuse' else 'success', response)
+        budget=getattr(getattr(container,'settings',None),'chat_response_budget_seconds',4.0)
+        try:
+            async with asyncio.timeout(budget):
+                # Release only the completed/approved answer. A timed-out or rejected
+                # draft must not have already been streamed to the browser.
+                response = await _handle(payload, request, container, None)
+        except TimeoutError:
+            response = budget_reply(payload.language)
+        if on_delta and response.answer:
+            trace.delta(response.answer)
+            await on_delta(response.answer)
+        trace.finish('timeout' if response.model=='time-budget' else 'blocked' if response.answer == blocked_reply(payload.language) else 'refused' if response.routing and response.routing.action == 'refuse' else 'success', response,
+                     error=TimeoutError() if response.model=='time-budget' else None)
         return response
     except asyncio.CancelledError as exc:
         trace.finish('cancelled', error=exc)
@@ -107,21 +115,36 @@ async def _traced_turn(payload, request, container, trace, on_delta=None):
         raise
     finally:
         # Cancellation must not discard the accepted turn or its final status.
-        try:
+        async def persist_turn():
             await asyncio.shield(initial_save)
             await asyncio.shield(container.conversations.save(trace))
             logger.info('agent_turn trace_id=%s status=%s model_calls=%s duration_ms=%s storage=%s',
                         trace.trace_id, trace.status, trace.metrics()['model_calls'], trace.duration_ms, trace.storage_status)
+        try:
+            if background_tasks is not None:
+                # Starlette awaits this after sending the body and during graceful shutdown.
+                # It is not a durable queue; an abrupt process loss can leave a running row.
+                background_tasks.add_task(persist_turn)
+            else:
+                await persist_turn()
         finally:
             current_trace.reset(token)
 
 
+def budget_reply(language):
+    answer = ('I could not verify a complete answer within the response time limit. No new hours, rules or route have been confirmed. '
+              'Please choose a specific place on the map for its saved details, or narrow your question.' if language=='en' else
+              '未能喺回覆時限內完成核實，暫未確認新嘅營業時間、規定或路線。你可以喺地圖揀指定場地睇已儲存資料，或縮窄問題再查。')
+    return ChatResponse(answer=answer,model='time-budget',degraded=True)
+
+
 @router.post("/assistant/chat", response_model=ChatResponse)
 async def chat(payload: ChatRequest, request: Request, response: Response,
+               background_tasks: BackgroundTasks,
                container: Container = Depends(get_container)):
     trace = TurnTrace(payload.session_id, payload.message, payload.language)
     try:
-        result = await _traced_turn(payload, request, container, trace)
+        result = await _traced_turn(payload, request, container, trace, background_tasks=background_tasks)
         return result
     except HTTPException as exc:
         return JSONResponse(status_code=exc.status_code, headers=exc.headers,
@@ -133,7 +156,7 @@ async def chat(payload: ChatRequest, request: Request, response: Response,
 
 
 @router.post("/assistant/chat/stream")
-async def chat_stream(payload: ChatRequest, request: Request, container: Container = Depends(get_container)):
+async def chat_stream(payload: ChatRequest, request: Request, background_tasks:BackgroundTasks, container: Container = Depends(get_container)):
     trace = TurnTrace(payload.session_id, payload.message, payload.language)
     queue = asyncio.Queue(maxsize=64)
 
@@ -142,7 +165,7 @@ async def chat_stream(payload: ChatRequest, request: Request, container: Contain
 
     async def work():
         try:
-            response = await _traced_turn(payload, request, container, trace, on_delta)
+            response = await _traced_turn(payload, request, container, trace, on_delta, background_tasks)
             await queue.put({'type':'final',**response.model_dump()})
         except HTTPException as exc:
             await queue.put({'type':'error','status':exc.status_code,'detail':exc.detail})
@@ -168,7 +191,7 @@ async def chat_stream(payload: ChatRequest, request: Request, container: Contain
                 pass
 
     return StreamingResponse(events(),media_type='text/event-stream',
-                             headers={'Cache-Control':'no-cache','X-Accel-Buffering':'no'})
+                             headers={'Cache-Control':'no-cache','X-Accel-Buffering':'no'},background=background_tasks)
 
 
 def _trace_admin(request: Request, authorization: str | None = Header(default=None)):
@@ -245,7 +268,13 @@ async def conversation_detail(session_id: str, response: Response, limit: int=Qu
 
 async def _handle(payload: ChatRequest, request: Request, container: Container, on_delta=None) -> ChatResponse:
     memory = ConversationMemory(container.cache) if payload.session_id else None
-    history = await memory.load(payload.session_id) if memory else None
+    history = None
+    if memory:
+        try:
+            async with asyncio.timeout(.15):
+                history = await memory.load(payload.session_id)
+        except TimeoutError:
+            logger.warning('conversation_memory_read_timeout')
     english = payload.language == 'en'
     try:
         async with container.llm_gate.slot(degraded=getattr(request.state, "rate_limited", False)) as full:
@@ -260,13 +289,21 @@ async def _handle(payload: ChatRequest, request: Request, container: Container, 
         raise HTTPException(503, "The assistant is busy. Please try again shortly." if english else "毛孩助手而家好多人用，請稍後再試。",
                             headers={"Retry-After": "5"}) from exc
     if memory and response.answer != blocked_reply(payload.language):
-        await memory.append(payload.session_id, payload.message, response.answer)
+        try:
+            async with asyncio.timeout(.15):
+                await memory.append(payload.session_id, payload.message, response.answer)
+        except TimeoutError:
+            logger.warning('conversation_memory_write_timeout')
     return response
 
 
 async def _chat(payload: ChatRequest, container: Container, memory_history: list[dict] | None, on_delta=None) -> ChatResponse:
     english = payload.language == 'en'
     settings = container.settings
+    history=memory_history or [item.model_dump() for item in payload.history]
+    quick=await fast_answer(payload.message,history,_access(container),payload.language)
+    if quick:
+        return ChatResponse(**quick,model='saved-data')
     if not settings.api_key or not settings.model:
         raise HTTPException(status_code=503, detail="The assistant is not configured yet. Set the model API key in the backend .env file." if english else "毛孩助手未設定模型密鑰，請喺後端 .env 設定。")
     if not settings.intent_model:

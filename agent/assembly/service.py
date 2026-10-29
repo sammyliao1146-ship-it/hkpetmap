@@ -31,7 +31,7 @@ async def run_pet_assistant(message: str, *, api_key: str, base_url: str, model:
         web_tools=[web_knowledge.tool(language,history=history)] if web_knowledge is not None and 'search_pet_web_knowledge' in allowed else []
         assistant=Agent(name='香港毛孩助手',instructions=instructions_for_language(language)+origin_directive+(('\n\n'+main_agent_directive(intent)) if intent else ''),
             model=OpenAIResponsesModel(model=model,openai_client=client),
-            model_settings=ModelSettings(reasoning=Reasoning(effort=reasoning_effort)) if reasoning_effort else ModelSettings(),
+            model_settings=ModelSettings(max_tokens=600,reasoning=Reasoning(effort=reasoning_effort)) if reasoning_effort else ModelSettings(max_tokens=600),
             tools=([t for t in make_pet_tools(access) if t.name in allowed] if tool_transport=='function' else [])+web_tools,mcp_servers=servers)
         context={'catalogue':await access.catalog(),'recent_places':access.recent_places(history)}
         recent_history=[{**m,'content':m['content'] if m.get('role')=='user' else m['content'][:2400]} for m in (history or [])[-6:]]

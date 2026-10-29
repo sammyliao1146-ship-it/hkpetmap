@@ -96,8 +96,25 @@ class ParkingService:
         status = 'stale' if not fresh else ('full' if value.get('vacancy_type') == 'F' or count == 0 else 'available' if count is not None else 'unknown')
         return count, timestamp, status
 
-    async def list(self, language='en'):
-        data, errors = await self._load()
+    async def list(self, language='en', *, refresh=True):
+        if refresh:
+            data, errors = await self._load()
+        else:
+            # Planning uses published parking locations, not a live vacancy fetch.
+            data=self._data
+            if data is None:
+                try:
+                    async with asyncio.timeout(.15):
+                        data=await self.cache.get_json('parking:v1')
+                except TimeoutError:
+                    data=None
+            if not isinstance(data,dict):
+                try:
+                    async with asyncio.timeout(.2):
+                        data=json.loads(await asyncio.to_thread(self.snapshot_path.read_text))
+                except (OSError,ValueError,TimeoutError):
+                    data={}
+            errors=[]
         en = {str(r.get('park_Id')):r for r in data.get('info_en',[]) if isinstance(r,dict)}
         zh = {str(r.get('park_Id')):r for r in data.get('info_zh',[]) if isinstance(r,dict)}
         vacancies = {str(r.get('park_Id')):r for r in data.get('vacancy',[]) if isinstance(r,dict)}
@@ -140,7 +157,7 @@ class ParkingService:
                 'navigation_url':f'https://www.google.com/maps/dir/?api=1&destination={lat},{lon}&travelmode=driving',
             })
         fetched = max((data.get(k+'_at',0) for k in ('info_en','info_zh','vacancy')), default=0)
-        return {'status':'partial' if errors and items else 'ready' if items else 'unavailable',
+        return {'status':'cached' if items and not refresh else 'partial' if errors and items else 'ready' if items else 'unavailable',
                 'fetched_at':datetime.fromtimestamp(fetched, timezone.utc).isoformat() if fetched else None,
                 'items':items, 'total':len(items), 'source_url':SOURCE_URL,
                 'message':'Some upstream data is unavailable; last known records are shown.' if errors and items else 'Government participating car parks; coverage is not exhaustive.'}

@@ -18,10 +18,10 @@ No database was provisioned by this code change. Existing conversations that exp
 
 - `trace_id` primary key, `session_id`, UTC `started_at`, language.
 - Current user `question`, final `answer`, selected model and validated intent routing.
-- `status`: running, success, refused, blocked, error, cancelled.
+- `status`: running, success, refused, blocked, error, timeout, cancelled. A time-budget response is a timeout, not a successful verified answer.
 - JSONB `metrics` and `spans`: model/tool names, durations, reported usage and error types.
 
-The initial save runs alongside model execution and is joined before the final upsert. Failed/cancelled runs are kept. Startup warms the connection pool without blocking readiness; writes are limited to the pool size and have two bounded attempts (1.5 seconds each, 100 ms retry delay). There is no detached queue or durable local-file fallback and no promise of replay after an unsuccessful DB write. Storage errors remain explicit. Logs include write duration and attempts, without conversation text or credentials.
+The initial save runs alongside model execution and is joined before the final upsert. HTTP/SSE sends the completed answer before running the final persistence continuation through Starlette BackgroundTasks; graceful shutdown waits for it. Failed/cancelled runs are kept. This is not a durable queue: abrupt process/host loss can leave a running row or lose an unsaved turn. Startup warms the pool; writes are limited to the pool size and have two bounded attempts (1.5 seconds each, 100 ms retry delay). Storage errors remain explicit. Logs include write duration and attempts, without conversation text or credentials.
 
 Automatic deletion is disabled. The optional `python -m scripts.prune_conversations --days 90` previews eligible rows; add `--apply` to delete in batches of at most 1,000 (at most 100 batches per invocation). `TRACE_RETENTION_DAYS=0` is the default if no argument is supplied. Nothing schedules or applies deletion automatically. Backups remain the deployment operator's responsibility.
 
@@ -32,7 +32,7 @@ Automatic deletion is disabled. The optional `python -m scripts.prune_conversati
 - Token counts aggregate the classifier, main Agent, nested web-research Agent and reviewer. Counts are taken from provider usage; no text-length estimates. If only some calls report usage, totals are known subtotals and `usage_complete=false`. If no usage is available, values are null rather than a fabricated zero. A cache-only answer with no model calls has zero tokens.
 - Cached input and reasoning tokens are subsets, not additional tokens to add to the total.
 - `duration_ms` is server elapsed time through answer/error completion. The initial DB write overlaps model work; the duration excludes any remaining persistence wait, the final upsert and browser/network time. Use database-write log durations to diagnose persistence latency.
-- `first_token_ms` is time to the first emitted nonempty text delta. It is null for nonstreaming/empty output.
+- `first_token_ms` is time to the first emitted nonempty text delta. Only completed/approved answers are released; it is not the provider's first generated draft token. It is null for nonstreaming/empty output.
 - Hosted web-tool durations are null because the provider does not provide separate execution timing.
 - `storage_status`: saved, disabled, unavailable. This is an internal diagnostic field; it is not sent to public chat clients. A final saved row means the final DB write completed.
 

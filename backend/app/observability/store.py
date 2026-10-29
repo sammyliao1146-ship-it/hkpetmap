@@ -113,7 +113,7 @@ class ConversationStore:
         if not self.pool:
             raise RuntimeError('Storage disabled')
         row = await self.pool.fetchrow('''SELECT count(*) AS turns,
-            count(*) FILTER (WHERE status='error') AS errors,
+            count(*) FILTER (WHERE status IN ('error','timeout')) AS errors,
             count(*) FILTER (WHERE status='running') AS running,
             sum((metrics->>'total_tokens')::bigint) AS reported_tokens,
             count(*) FILTER (WHERE (metrics->>'usage_complete')::boolean IS TRUE) AS complete_usage_turns,

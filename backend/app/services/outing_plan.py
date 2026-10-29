@@ -200,9 +200,9 @@ def compact_candidate(item, language):
     return row
 
 
-async def create_plan(container, request: PlanRequest, selector=select_plan_stops):
+async def create_plan(container, request: PlanRequest, selector=select_plan_stops, *, fast=False, selection_timeout=2):
     places=container.pets.places()['items'];activities=container.pets.activities()['items']
-    parking_result=await container.parking.list(language=request.language)
+    parking_result=await container.parking.list(language=request.language,**({'refresh':False} if fast else {}))
     all_destinations=destinations(places,request.region)
     if not request.random:
         all_destinations+=local_areas(places,activities,request)
@@ -230,8 +230,17 @@ async def create_plan(container, request: PlanRequest, selector=select_plan_stop
     candidates=prefer_single_parking(candidates,parking,destination)
     agent_payload=request.model_dump(mode='json')
     compact=[compact_candidate(c,request.language) for c in candidates]
-    async with asyncio.timeout(100):
-        selected_ids=await selector(agent_payload,destination,compact,container.settings)
+    degraded=False
+    try:
+        async with asyncio.timeout(selection_timeout if fast else 100):
+            selected_ids=await selector(agent_payload,destination,compact,container.settings)
+    except Exception:
+        if not fast:
+            raise
+        # Same validated candidate set and parking checks; never fabricate a route.
+        degraded=True
+        selected_ids=[next(c['id'] for c in candidates if c['purpose']==purpose)
+                      for purpose in list(dict.fromkeys(request.interests+['meal'])) if any(c['purpose']==purpose for c in candidates)]
     by_id={c['id']:c for c in candidates};selected=[];seen=set()
     for stop_id in selected_ids:
         if stop_id not in by_id or stop_id in seen:continue
@@ -246,6 +255,8 @@ async def create_plan(container, request: PlanRequest, selector=select_plan_stop
             if candidate:selected.append(candidate);seen.add(candidate['id'])
     groups,uncovered=group_by_parking(selected,parking)
     english=request.language=='en';warnings=[]
+    if degraded:
+        warnings.append('The AI selection was unavailable within the time budget. This is a basic itinerary from saved, parking-covered places; no live route or opening hours were verified.' if english else 'AI 未能喺時限內完成選點；以下係按已收錄地點及停車場覆蓋整理嘅基本行程，未核實即時路線或營業時間。')
     for purpose in required:
         if not any(s['purpose']==purpose for g in groups for s in g['stops']):
             warnings.append((f'No matching {purpose} stop with parking coverage was found.' if english else f'暫未搵到有停車場覆蓋嘅 {purpose} 地點。'))
@@ -278,4 +289,4 @@ async def create_plan(container, request: PlanRequest, selector=select_plan_stop
     return {'id':uuid4().hex,'status':'partial' if warnings else 'ready','date':request.date.isoformat(),
             'region':request.region,'destination':destination,'title':area_name+(' pet outing' if english else '攜寵遊'),
             'summary':summary,'parking_groups':groups,'map_places':map_places,'warnings':warnings,
-            'sources':list({s['url']:s for s in sources}.values()),'model':container.settings.model}
+            'sources':list({s['url']:s for s in sources}.values()),'model':'saved-plan-fallback' if degraded else container.settings.model,'degraded':degraded}
