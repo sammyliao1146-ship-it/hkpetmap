@@ -13,6 +13,7 @@ from bs4 import BeautifulSoup
 
 from backend.app.cache.redis_cache import RedisCache
 from backend.app.data import adapters
+from backend.app.data.place_views import map_summary, revision_of
 from backend.app.data.activity_sources import SOURCES as ACTIVITY_SOURCES, fetch_source
 from backend.app.data.malls import load_malls, merge_malls, mall_source_status, MALL_SOURCE
 from backend.app.data.photos import attach_photos
@@ -37,6 +38,9 @@ class PetService:
         self.max_age_seconds=max_age_seconds
         self._load_lock=asyncio.Lock()
         self._loaded_signature=None
+        self._view_snapshot=None
+        self._view_revision=None
+        self._summaries=None
         self._lock = asyncio.Lock()
         self._next_retry = datetime.min.replace(tzinfo=HK)
 
@@ -45,7 +49,17 @@ class PetService:
         try:
             stat=self.snapshot_path.stat();disk=(stat.st_mtime_ns,stat.st_size)
         except OSError:disk=None
-        return revision,disk
+        # Manual Google/mall updates invalidate browser views without fetching Google.
+        files=[ROOT/'data/google-places/cuisine-map.json',ROOT/'data/google-places/index.json',
+               ROOT/'data/google-places/dish-photos/selected.json',ROOT/'data/google-facility-photos/downloads.json',
+               DATA/'malls.json',DATA/'facility_photos.json',DATA/'transport_services.json']
+        files.extend((ROOT/'data/google-places/places').glob('*.json'))
+        local=[]
+        for path in files:
+            try:
+                stat=path.stat();local.append((str(path),stat.st_mtime_ns,stat.st_size))
+            except OSError:pass
+        return revision,disk,tuple(sorted(local))
 
     async def load(self):
         async with self._load_lock:
@@ -267,6 +281,27 @@ class PetService:
             return 'stale'
         return 'partial' if any(s['status'] != 'ready' for s in self.snapshot.sources) else 'ready'
 
+    def data_revision(self):
+        if self._view_snapshot is not self.snapshot or self._view_revision is None:
+            self._view_snapshot=self.snapshot
+            self._view_revision=revision_of(self.snapshot)
+            self._summaries=None
+        return self._view_revision+'-'+self._status()
+
+    def summaries(self):
+        revision=self.data_revision()
+        if self._summaries is None:
+            self._summaries=[map_summary(p) for p in self.snapshot.places] if self.snapshot else []
+        return {'revision':revision,'status':self._status(),
+                'fetched_at':self.snapshot.fetched_at.isoformat() if self.snapshot else None,
+                'items':self._summaries,'total':len(self._summaries),
+                'mapped':sum(p['latitude'] is not None for p in self._summaries),
+                'sources':self.snapshot.sources if self.snapshot else []}
+
+    def place(self,place_id):
+        item=next((p for p in self.snapshot.places if p.id==place_id),None) if self.snapshot else None
+        return item.model_dump(mode='json') if item else None
+
     def catalogue(self):
         return {'status': self._status(), 'fetched_at':self.snapshot.fetched_at.isoformat() if self.snapshot else None,
             'categories':[{'key':k,'label':v,'label_en':CATEGORY_EN[k]} for k,v in CATEGORIES.items()], 'cuisines':CUISINES, 'cuisine_labels':[{'value':v,'label':v,'label_en':CUISINE_EN[v]} for v in CUISINES],
@@ -277,7 +312,7 @@ class PetService:
                                 {'name':'漁護署狗隻訓練課程','name_en':'AFCD dog training courses','url':AFCD_COURSES,'integration':'official_link_only'}],
             'message':'政府同機構公開資料，唔係全港完整名單。名額、價格同攜寵條件未有提供就係未知。'}
 
-    def places(self, *, mode='', categories=(), cuisines=(), district='', query=''):
+    def places(self, *, mode='', categories=(), cuisines=(), district='', query='', for_agent=False):
         items = self.snapshot.places if self.snapshot else []
         if mode:
             items = [p for p in items if (p.category=='restaurants') == (mode=='restaurants')]
@@ -290,7 +325,7 @@ class PetService:
         if query:
             items = [p for p in items if query.casefold() in ' '.join(filter(None,[p.name,p.name_en,p.address,p.address_en,p.restaurant_details.display_name if p.restaurant_details else None])).casefold()]
         return {'status':self._status(), 'fetched_at':self.snapshot.fetched_at.isoformat() if self.snapshot else None,
-            'items':[p.model_dump(mode='json') for p in items], 'total':len(items),
+            'items':[p.model_dump(mode='json',exclude={'photos':True,'restaurant_details':{'reviews','photo_authors','photo_url','photo_source_url','photo_credit','dish_photo_url','dish_photo_source_url','dish_photo_credit','dish_photo_kind'}} if for_agent else None) for p in items], 'total':len(items),
             'mapped':sum(p.latitude is not None for p in items), 'sources':self.snapshot.sources if self.snapshot else []}
 
     def activities(self, *, category='', query='', on_date='', district=''):

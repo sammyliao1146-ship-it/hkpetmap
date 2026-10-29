@@ -31,6 +31,19 @@ def register_middleware(app: FastAPI, settings: Settings, api_prefix: str) -> No
             # Over the soft limit: still answer, but the router downgrades to the lightweight model.
             request.state.rate_limited = count > settings.chat_rate_limit
         response = await call_next(request)
+        # Dynamic/private content never enters a shared CDN cache, including errors.
+        api_path=path[len(api_prefix):] if path.startswith(api_prefix) else ''
+        if response.status_code>=400 or request.method!='GET' or api_path.startswith(('/assistant/','/plans','/places')):
+            if 'no-store' not in response.headers.get('cache-control',''):
+                response.headers['Cache-Control']='private, no-store'
+        elif 'cache-control' not in response.headers:
+            if api_path=='/activities':response.headers['Cache-Control']='public, max-age=0, s-maxage=60'
+            elif api_path=='/parking' and 'latitude' not in request.query_params and 'longitude' not in request.query_params:
+                response.headers['Cache-Control']='public, max-age=0, s-maxage=30'
+            else:response.headers['Cache-Control']='private, no-store'
+        if request.headers.get('authorization') or request.headers.get('cookie'):
+            if 'no-store' not in response.headers.get('cache-control',''):
+                response.headers['Cache-Control']='private, no-store'
         response.headers["X-Request-ID"] = request_id
         logger.info("%s %s -> %s [%s]", request.method, path, response.status_code, request_id)
         return response

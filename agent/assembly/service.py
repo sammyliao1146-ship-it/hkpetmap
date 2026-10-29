@@ -2,6 +2,7 @@ from backend.app.observability.trace import TraceHooks
 from contextlib import AsyncExitStack
 from pathlib import Path
 import sys
+import json
 from agents import Agent, ModelSettings, OpenAIResponsesModel, RunConfig, Runner
 from agents.mcp import MCPServerStdio
 from openai.types.shared import Reasoning
@@ -28,8 +29,10 @@ async def run_pet_assistant(message: str, *, api_key: str, base_url: str, model:
         assistant=Agent(name='香港毛孩助手',instructions=instructions_for_language(language)+origin_directive+(('\n\n'+main_agent_directive(intent)) if intent else ''),
             model=OpenAIResponsesModel(model=model,openai_client=client),
             model_settings=ModelSettings(reasoning=Reasoning(effort=reasoning_effort)) if reasoning_effort else ModelSettings(),
-            tools=(make_pet_tools(access) if tool_transport=='function' else [])+web_tools,mcp_servers=servers)
-        messages=[*(history or []),{'role':'user','content':message}]
+            tools=([t for t in make_pet_tools(access) if t.name!='get_pet_catalog'] if tool_transport=='function' else [])+web_tools,mcp_servers=servers)
+        context={'catalogue':await access.catalog(),'recent_places':access.recent_places(history)}
+        recent_history=[{**m,'content':m['content'] if m.get('role')=='user' else m['content'][:2400]} for m in (history or [])[-6:]]
+        messages=[*recent_history,{'role':'user','content':json.dumps({'question':message,'map_context':context},ensure_ascii=False)}]
         if on_delta is None:
             result=await Runner.run(assistant,messages,max_turns=8,hooks=TraceHooks("main_agent", model),run_config=RunConfig(tracing_disabled=True))
         else:

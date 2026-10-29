@@ -4,10 +4,10 @@ from agent.data.data_access import PetDataAccess
 
 def make_pet_queries(access: PetDataAccess):
     async def get_pet_catalog() -> dict:
-        """Get Hong Kong time, supported pet categories, cuisine labels and source freshness. Call first."""
+        """Get Hong Kong time, supported pet categories, cuisine labels and source freshness. Only call if the supplied map_context catalogue is missing."""
         return await access.catalog()
 
-    async def search_pet_places(mode: str='', category: str='', cuisine: str='', district: str='', query: str='', limit: int=8,
+    async def search_pet_places(mode: str='', category: str='', cuisine: str='', district: str='', query: str='', limit: int=5,
                                 sort_by: Literal['default','distance','rating','random']='default',
                                 latitude: float | None=None, longitude: float | None=None, origin_place_id: str='',
                                 radius_m: float | None=None, min_rating: float | None=None, max_price: float | None=None) -> dict:
@@ -20,11 +20,11 @@ def make_pet_queries(access: PetDataAccess):
         """
         return await access.search_places(mode,category,cuisine,district,query,limit,sort_by=sort_by,latitude=latitude,longitude=longitude,origin_place_id=origin_place_id,radius_m=radius_m,min_rating=min_rating,max_price=max_price)
 
-    async def get_pet_place_details(place_id: str) -> dict:
-        """Read a place's address, policy, provenance, phone and source link. Does not reserve or confirm opening."""
-        return await access.place_details(place_id)
+    async def get_pet_place_details(place_id: str, include_reviews: bool=False) -> dict:
+        """Read a place's address, policy, provenance, phone and source link. Does not reserve or confirm opening. Set include_reviews only for an explicit review request; returns at most two excerpts."""
+        return await access.place_details(place_id,include_reviews=include_reviews)
 
-    async def search_pet_activities(query: str='', category: str='', district: str='', limit: int=8) -> dict:
+    async def search_pet_activities(query: str='', category: str='', district: str='', limit: int=5) -> dict:
         """Find pet training courses and activities from connected organizers. Dates may be free text; remaining places are unknown unless explicitly published."""
         return await access.search_activities(query,category,district,limit)
 

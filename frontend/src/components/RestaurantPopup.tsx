@@ -1,3 +1,4 @@
+import {photoVariant} from './photo-url';
 import {useState} from 'react';
 import type {PetPlace} from '../api/client';
 import {useLanguage,formatOpeningHours} from '../language';
@@ -18,8 +19,8 @@ export default function RestaurantPopup({place}:{place:PetPlace}) {
  const dish=d?.dish_photo_url?.startsWith('/api/v1/restaurant-dish-photos/')?d.dish_photo_url:null;
  return <section className="restaurant-popup">
   <div className={dish && !dishFailed?'restaurant-photo-grid has-dish':'restaurant-photo-grid'}>
-  {photo && !imageFailed?<figure className="restaurant-hero"><img src={photo} alt={`${placeName(place)} · ${tx('場地相片')}`} onError={()=>setImageFailed(true)}/><figcaption><a href={external(d?.photo_source_url)} target="_blank" rel="noopener noreferrer">Google Maps · {d?.photo_credit}</a></figcaption></figure>:<div className="restaurant-photo-empty">{tx('暫未有相片')}</div>}
-  {dish && !dishFailed && <figure className="restaurant-hero restaurant-dish-photo"><a href={dish} target="_blank" rel="noopener noreferrer"><img src={dish} alt={`${placeName(place)} · ${tx(d?.dish_photo_kind==='drink'?'飲品照片':'菜品照片')}`} onError={()=>setDishFailed(true)}/></a><span className="dish-photo-label">{tx(d?.dish_photo_kind==='drink'?'飲品照片':'菜品照片')}</span><figcaption><a href={external(d?.dish_photo_source_url)} target="_blank" rel="noopener noreferrer">Google Maps · {d?.dish_photo_credit}</a></figcaption></figure>}
+  {photo && !imageFailed?<figure className="restaurant-hero"><img src={photoVariant(photo,'detail')} alt={`${placeName(place)} · ${tx('場地相片')}`} onError={()=>setImageFailed(true)}/><figcaption><a href={external(d?.photo_source_url)} target="_blank" rel="noopener noreferrer">Google Maps · {d?.photo_credit}</a></figcaption></figure>:<div className="restaurant-photo-empty">{tx('暫未有相片')}</div>}
+  {dish && !dishFailed && <figure className="restaurant-hero restaurant-dish-photo"><a href={dish} target="_blank" rel="noopener noreferrer"><img src={photoVariant(dish,'detail')} alt={`${placeName(place)} · ${tx(d?.dish_photo_kind==='drink'?'飲品照片':'菜品照片')}`} onError={()=>setDishFailed(true)}/></a><span className="dish-photo-label">{tx(d?.dish_photo_kind==='drink'?'飲品照片':'菜品照片')}</span><figcaption><a href={external(d?.dish_photo_source_url)} target="_blank" rel="noopener noreferrer">Google Maps · {d?.dish_photo_credit}</a></figcaption></figure>}
   </div>
   <div className="restaurant-heading"><span className="pet-kicker">{tx('狗友善餐廳')}</span><h3>{placeName(place)}</h3>
    {d?.match_status==='needs_review' && <small className="restaurant-match-note">{tx('Google 候選資料・待核對')}</small>}

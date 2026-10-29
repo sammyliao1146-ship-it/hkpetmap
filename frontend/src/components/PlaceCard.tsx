@@ -1,3 +1,4 @@
+import {photoVariant} from './photo-url';
 import {useState} from 'react';
 import type {PetPlace} from '../api/client';
 import {useLanguage, hasChinese} from '../language';
@@ -16,7 +17,7 @@ export default function PlaceCard({place:p, selected, onSelect}: {place:PetPlace
   const prices:Record<string,string>={PRICE_LEVEL_INEXPENSIVE:'$',PRICE_LEVEL_MODERATE:'$$',PRICE_LEVEL_EXPENSIVE:'$$$',PRICE_LEVEL_VERY_EXPENSIVE:'$$$$'};
   return <button className={`pet-place-card${selected?' selected':''}`} aria-pressed={selected} onClick={onSelect}>
     {restaurant?<span className="pet-card-media">
-      {photo && !failed?<><img src={photo} alt={`${placeName(p)} · ${tx('場地相片')}`} loading="lazy" decoding="async" width={96} height={100} onError={()=>setFailed(true)}/><span className="pet-card-credit" title={`Google Maps · ${d?.photo_credit||''}`}>Google · {d?.photo_credit||'Maps'}</span></>:<span className="pet-card-placeholder" style={{color:restaurantColor(p)}}><Icon name="dining" size={30}/><small>{tx('暫未有相片')}</small></span>}
+      {photo && !failed?<><img src={photoVariant(photo,'thumb')} alt={`${placeName(p)} · ${tx('場地相片')}`} loading="lazy" decoding="async" width={96} height={100} onError={()=>setFailed(true)}/><span className="pet-card-credit" title={`Google Maps · ${d?.photo_credit||''}`}>Google · {d?.photo_credit||'Maps'}</span></>:<span className="pet-card-placeholder" style={{color:restaurantColor(p)}}><Icon name="dining" size={30}/><small>{tx('暫未有相片')}</small></span>}
     </span>:<FacilityThumbnail key={p.id+':'+(p.photos?.[0]?.url||'')} place={p}/>}
     <span className="pet-card-copy"><strong>{placeName(p)}</strong>
       {restaurant && d?.rating!=null && <span className="pet-card-rating"><span aria-hidden="true">★</span><b>{d.rating.toFixed(1)}</b><span className="pet-card-reviews">({d.rating_count??0})</span>{d.price_level && prices[d.price_level] && <span className="pet-card-price">{prices[d.price_level]}</span>}</span>}

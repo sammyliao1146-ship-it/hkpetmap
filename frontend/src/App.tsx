@@ -1,5 +1,5 @@
 import { lazy, Suspense, useEffect, useMemo, useRef, useState } from 'react';
-import { getActivities, getCatalog, getPlaces, getParking, type ActivityCollection, type Catalog, type PetActivity, type PetPlace, type PlaceCollection } from './api/client';
+import { getActivities, getCatalog, getPlaces, getDataVersion, getParking, type ActivityCollection, type Catalog, type PetActivity, type PetPlace, type PlaceCollection } from './api/client';
 import Icon from './components/Icon';
 import {getPetAmenities, type PetAmenity} from './features/map/pet-amenities';
 import PlaceCard from './components/PlaceCard';
@@ -49,19 +49,25 @@ function AppContent() {
 
   useEffect(()=>{
     const controller=new AbortController();
-    let busy=false;
-    async function load(){
-      if(busy)return;busy=true;
+    let busy=false,knownVersion='',lastCheck=0;
+    async function load(force=false){
+      if(busy||document.hidden)return;
+      busy=true;lastCheck=Date.now();
       try{
-        const [c,p]=await Promise.all([getCatalog(controller.signal),getPlaces(controller.signal)]);
+        const version=await getDataVersion(controller.signal);
+        if(!force&&version.revision===knownVersion)return;
+        const [c,p]=await Promise.all([getCatalog(controller.signal,version.revision),getPlaces(controller.signal)]);
         if(controller.signal.aborted)return;
         setCatalog(c);setPlaces(p);setError('');
+        knownVersion=p.revision||version.revision;
       }catch(e){if(!controller.signal.aborted)setError(e instanceof Error?e.message:'暫時連唔到資料服務。');}
       finally{busy=false;if(!controller.signal.aborted)setLoading(false);}
     }
-    void load();
-    const timer=window.setInterval(()=>void load(),15000);
-    return()=>{controller.abort();window.clearInterval(timer);};
+    void load(true);
+    const timer=window.setInterval(()=>void load(),300000);
+    const visible=()=>{if(!document.hidden&&Date.now()-lastCheck>=300000)void load();};
+    document.addEventListener('visibilitychange',visible);
+    return()=>{controller.abort();window.clearInterval(timer);document.removeEventListener('visibilitychange',visible);};
   },[revision]);
   useEffect(()=>()=>activityRequest.current?.abort(),[]);
   useEffect(()=>{
@@ -121,7 +127,7 @@ function AppContent() {
     setQuery('');setDistrict('');setCategories(null);setCuisines(null);setSelectedAmenities([]);setPanel(null);
     setPendingPlaceId(id);
   }
-  function selectPlace(p:PetPlace){setActivePlace(p);if(window.innerWidth<800)setPanel(null);}
+  function selectPlace(p:PetPlace){setActivePlace({...p});if(window.innerWidth<800)setPanel(null);}
   const relevantSources=(catalog?.sources || []).filter(s=>mode==='restaurants'?s.key==='restaurants':isActivities?(s.key==='activities'||s.key.startsWith('activities_')):s.key!=='restaurants'&&!s.key.startsWith('activities'));
   const sourceProblem=relevantSources.some(s=>s.status!=='ready');
   const snapshotOld=(isActivities?activities?.status:places?.status)==='stale';

@@ -16,6 +16,7 @@ export interface RestaurantDetails {
  reviews:{author:string;author_url?:string|null;rating?:number|null;text?:string|null;original_text?:string|null;original_language?:string|null;published_at?:string|null;url?:string|null}[];
 }
 export interface PetPlace {
+  detail_loaded?:boolean;
   restaurant_details?:RestaurantDetails|null;
   mall_policy?: MallPolicy|null;
   photos?: {url: string; source_url: string; credit: string; alt: string; authors?: {displayName?:string;uri?:string}[]}[];
@@ -35,23 +36,48 @@ export interface PetActivity {
   registration_status?: 'unknown' | 'open' | 'full' | 'cancelled';
   eligibility: string | null; remaining: number | null; source_url: string; booking_url: string | null; source_name: string;
 }
-export interface PlaceCollection { status: string; fetched_at: string | null; items: PetPlace[]; total: number; mapped: number; sources: SourceStatus[]; }
+export interface PlaceCollection { revision?:string; status: string; fetched_at: string | null; items: PetPlace[]; total: number; mapped: number; sources: SourceStatus[]; }
 export interface ActivityCollection { status: string; fetched_at: string | null; items: PetActivity[]; total: number; message: string; }
 export interface Catalog {
   status: string; fetched_at: string | null; categories: {key: string; label: string}[]; cuisines: string[];
   sources: SourceStatus[]; transport_services: {name: string; name_en?: string; url: string; notes: string; notes_en?: string}[];
   activity_sources: {name: string; name_en?: string; url: string; integration: string}[]; message: string;
 }
-async function request<T>(path: string, options?: RequestInit): Promise<T> {
-  const response = await fetch(`/api/v1${path}`, options);
+async function request<T>(path: string, options?: RequestInit, fallback?:string): Promise<T> {
+  let response = await fetch(`/api/v1${path}`, options);
+  if(response.status===404&&fallback)response=await fetch(`/api/v1${fallback}`,options);
   if (!response.ok) {
     const body = await response.json().catch(() => ({}));
     throw new Error(typeof body.detail === 'string' ? body.detail : '暫時讀唔到資料，請稍後再試。');
   }
   return response.json() as Promise<T>;
 }
-export const getCatalog = (signal?: AbortSignal) => request<Catalog>('/catalog', {signal});
-export const getPlaces = (signal?: AbortSignal) => request<PlaceCollection>('/places', {signal});
+export const getCatalog = (signal?: AbortSignal, revision='') => request<Catalog>('/catalog'+(revision?'?v='+encodeURIComponent(revision):''), {signal});
+let placeRevision='';
+export const photoDataVersion=()=>placeRevision;
+const detailCache=new Map<string,PetPlace>();
+export async function getPlaces(signal?:AbortSignal) {
+  const data=await request<PlaceCollection>('/place-summaries',{signal},'/places');
+  if(data.revision!==placeRevision){detailCache.clear();placeRevision=data.revision||'';}
+  return data;
+}
+export async function getDataVersion(signal?:AbortSignal):Promise<{revision:string}> {
+  const response=await fetch('/api/v1/data-version',{signal});
+  if(response.status===404)return {revision:'legacy'}; // Allow frontend/backend rolling deploys.
+  if(!response.ok)throw new Error('Unable to check data version. Please try again.');
+  return response.json();
+}
+export async function getPlaceDetails(id:string,signal?:AbortSignal) {
+  const key=placeRevision+':'+id;
+  const cached=detailCache.get(key);if(cached)return cached;
+  const data=await request<PlaceCollection>('/places/'+encodeURIComponent(id),{signal});
+  const place=data.items[0];if(!place)throw new Error('Place not found');
+  if(key.startsWith(placeRevision+':')){
+    if(detailCache.size>=64)detailCache.delete(detailCache.keys().next().value!);
+    detailCache.set(key,place);
+  }
+  return place;
+}
 export const getActivities = (signal?: AbortSignal) => request<ActivityCollection>('/activities', {signal});
 export interface ChatMessage { role: 'user' | 'assistant'; content: string; }
 export interface ChatOrigin {latitude:number;longitude:number;}

@@ -2,9 +2,13 @@
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import json
+import asyncio
+import copy
+from functools import wraps
 from pathlib import Path
 from urllib.parse import urlencode
 from backend.app.data.sources import CATEGORIES, CUISINES
+from agent.data.compact import place_for_agent, sources_for_places
 from agent.data.place_search import select_places, valid_origin
 
 TRANSPORT_RULES = json.loads((Path(__file__).resolve().parents[2] / 'backend/app/data/transport_rules.json').read_text())
@@ -23,18 +27,59 @@ def _norm(value, valid, aliases):
     key = value.strip().lower()
     return aliases.get(key) or next((v for v in valid if v.lower() == key), value)
 
+def reuse_read(method):
+    @wraps(method)
+    async def cached(self,*args,**kwargs):
+        # Sampling again must produce a new random result; never cache random selection.
+        if kwargs.get('sort_by')=='random':
+            return await method(self,*args,**kwargs)
+        key=(asyncio.get_running_loop(),method.__name__,id(getattr(self.pets,'snapshot',None)),repr(args),repr(sorted(kwargs.items())))
+        task=self._reads.get(key)
+        if task is None:
+            if len(self._reads)>=32:self._reads.pop(next(iter(self._reads)))
+            task=asyncio.create_task(method(self,*args,**kwargs));self._reads[key]=task
+        try:
+            return copy.deepcopy(await task)
+        except BaseException:
+            self._reads.pop(key,None)
+            raise
+    return cached
+
+
 class PetDataAccess:
     def __init__(self, pets, origin=None):
         self.pets = pets
         self.origin=valid_origin(*origin) if origin is not None else None
+        self._reads={}
         self.seen_places={}
         self.direction_sources=[]
 
+    @reuse_read
     async def catalog(self):
-        return {
-            'current_time_hk':datetime.now(ZoneInfo('Asia/Hong_Kong')).isoformat(), **self.pets.catalogue()}
+        data=self.pets.catalogue()
+        return {'current_time_hk':datetime.now(ZoneInfo('Asia/Hong_Kong')).isoformat(),
+                **{k:data[k] for k in ('status','fetched_at','categories','cuisines','cuisine_labels') if k in data}}
 
-    async def search_places(self, mode='', category='', cuisine='', district='', query='', limit=8, *, sort_by='default', latitude=None, longitude=None, origin_place_id='', radius_m=None, min_rating=None, max_price=None):
+    def recent_places(self,history):
+        # Prior assistant text resolves known saved names; it never establishes new facts.
+        text=next((m['content'] for m in reversed(history or []) if m.get('role')=='assistant'),'')
+        if not text:return []
+        rows=[]
+        for model in (self.pets.snapshot.places if self.pets.snapshot else []):
+            names=[n for n in (model.name,model.name_en,model.restaurant_details.display_name if model.restaurant_details else None) if n and len(n.strip())>=2]
+            positions=[text.casefold().find(n.casefold()) for n in names]
+            positions=[v for v in positions if v>=0]
+            if positions:
+                p={'id':model.id,'name':model.name,'name_en':model.name_en,'address':model.address}
+                rows.append((min(positions),p))
+        result=[]
+        for _,p in sorted(rows,key=lambda r:r[0])[:5]:
+            self._remember([p]);result.append({'id':p['id'],'name':p['name'],'name_en':p.get('name_en'),'address':p.get('address')})
+        return result
+
+
+    @reuse_read
+    async def search_places(self, mode='', category='', cuisine='', district='', query='', limit=5, *, sort_by='default', latitude=None, longitude=None, origin_place_id='', radius_m=None, min_rating=None, max_price=None):
         if not 1 <= limit <= 20:
             raise ValueError('limit must be 1–20')
         mode = _norm(mode, {'restaurants', 'facilities'}, MODE_ALIASES)
@@ -45,16 +90,18 @@ class PetDataAccess:
             return {'query_status': 'invalid_filter', 'items': [], 'total': 0, 'returned': 0,
                     'message': 'Unsupported mode/category/cuisine. Retry with exactly these values, or drop the filter.',
                     'valid_modes': ['restaurants', 'facilities'], 'valid_categories': list(CATEGORIES), 'valid_cuisines': CUISINES}
-        data = self.pets.places(mode=mode, categories=[category] if category else [], cuisines=[cuisine] if cuisine else [], district=district, query=query)
+        data = self.pets.places(mode=mode, categories=[category] if category else [], cuisines=[cuisine] if cuisine else [], district=district, query=query, for_agent=True)
         if origin_place_id and (latitude is not None or longitude is not None):
             raise ValueError('Use coordinates or origin_place_id, not both')
         origin=self.origin
         if latitude is not None or longitude is not None:origin=valid_origin(latitude,longitude)
         if origin_place_id:
-            source=next((p for p in self.pets.places()['items'] if p['id']==origin_place_id),None)
+            source=self.pets.place(origin_place_id)
             origin=(source['latitude'],source['longitude']) if source and source.get('latitude') is not None and source.get('longitude') is not None else None
         result = select_places(data,sort_by=sort_by,origin=origin,radius_m=radius_m,min_rating=min_rating,limit=limit,max_price=max_price)
         self._remember(result['items'])
+        result['sources']=sources_for_places(result['items'])
+        result['items']=[place_for_agent(p) for p in result['items']]
         return result
 
     def _remember(self, items):
@@ -73,31 +120,36 @@ class PetDataAccess:
                 found.append((min(positions), p['id'], p.get('name') or p.get('name_en') or p['id']))
         return [{'id': i, 'name': n} for _, i, n in sorted(found)[:limit]]
 
-    async def place_details(self, place_id):
-        data = self.pets.places()
-        item = next((p for p in data['items'] if p['id']==place_id),None)
+    @reuse_read
+    async def place_details(self, place_id, include_reviews=False):
+        item = self.pets.place(place_id)
+        data = self.pets.catalogue()
         if item: self._remember([item])
-        return {'status':data['status'], 'fetched_at':data['fetched_at'], 'found':item is not None, 'place':item,
-                'sources':data['sources'], 'remaining':None}
+        return {'status':data['status'], 'fetched_at':data['fetched_at'], 'found':item is not None, 'place':place_for_agent(item,reviews=include_reviews),
+                'sources':sources_for_places([item] if item else []), 'remaining':None}
 
-    async def search_activities(self, query='', category='', district='', limit=8):
+    @reuse_read
+    async def search_activities(self, query='', category='', district='', limit=5):
         if not 1 <= limit <= 20:
             raise ValueError('limit must be 1–20')
         data = self.pets.activities(query=query, category=category, district=district)
         data['items'] = data['items'][:limit]
         return data
 
+    @reuse_read
     async def activity_details(self, activity_id):
         data = self.pets.activities()
         item = next((a for a in data['items'] if a['id']==activity_id),None)
         return {'status':data['status'], 'fetched_at':data['fetched_at'], 'found':item is not None, 'activity':item}
 
+    @reuse_read
     async def transport(self):
         return {'status':self.pets.catalogue()['status'], 'services':self.pets.catalogue()['transport_services'],
                 'restrictions':TRANSPORT_RULES,
                 'places':(await self.search_places(category='transport')),
                 'message':'交通守則資料，唔係即時路線、車價、班次或訂位服務。'}
 
+    @reuse_read
     async def directions(self, place_id):
         detail = await self.place_details(place_id)
         place = detail['place']

@@ -1,6 +1,7 @@
+import {getPlaceDetails} from '../../api/client';
 import { useEffect, useRef, useState } from 'react';
 import { Circle, CircleMarker, Marker, MapContainer, Popup, Tooltip, ZoomControl, useMap, useMapEvents } from 'react-leaflet';
-import { divIcon, latLngBounds, type CircleMarker as LeafletCircleMarker, type Marker as LeafletMarker } from 'leaflet';
+import { divIcon, latLngBounds, type CircleMarker as LeafletCircleMarker, type Marker as LeafletMarker, type Popup as LeafletPopup } from 'leaflet';
 import { renderToStaticMarkup } from 'react-dom/server';
 import Icon from '../../components/Icon';
 import { facilityVisual } from '../../components/facility-categories';
@@ -95,23 +96,22 @@ function MapView({viewKey}: {viewKey: string}) {
   return null;
 }
 
-function PlaceMarker({place, related, active, offset=[0,0]}: {place: PetPlace; related: PetPlace[]; active: boolean; offset?: [number,number]}) {
+function VenueDetails({place,enabled}:{place:PetPlace;enabled:boolean}) {
   const {language,tx,placeName,placeAddress,localText,sourceName,category}=useLanguage();
-  const map=useMap();
-  const [zoom,setZoom]=useState(map.getZoom());
-  useMapEvents({zoomend:()=>setZoom(map.getZoom())});
-  const ref=useRef<LeafletCircleMarker>(null);
-  const facilityRef=useRef<LeafletMarker>(null);
-  useEffect(()=>{if(active && place.latitude !== null && place.longitude !== null){map.flyTo([place.latitude,place.longitude],16,{duration:.5});(ref.current||facilityRef.current)?.openPopup();}},[active,map,place.id]);
-  useEffect(()=>{if(!active)return;const timer=window.setTimeout(()=>{(facilityRef.current||ref.current)?.openPopup();},80);return()=>window.clearTimeout(timer);},[active,place.id,zoom>=FACILITY_ICON_ZOOM]);
-  if(place.latitude===null || place.longitude===null)return null;
-  const point=map.project([place.latitude,place.longitude],zoom);
-  const showFacilityIcon=zoom>=FACILITY_ICON_ZOOM;
-  const offsetScale=place.category==='restaurants'||showFacilityIcon?1:12/22;
-  const center=map.unproject([point.x+offset[0]*offsetScale,point.y+offset[1]*offsetScale],zoom);
-  const content=<>
-    <Tooltip>{placeName(place)}{place.category==='restaurants' && ` · ${(place.cuisines.length?place.cuisines:['未分類']).map(c=>tx(c)).join(' / ')}`}</Tooltip>
-    <Popup maxWidth={400} className={place.category==='restaurants'?'restaurant-popup-shell':''}><div className={place.category==='restaurants'?'venue-popup restaurant-popup-wrap':'venue-popup'}>{related.map(p=>p.category==='restaurants'?<RestaurantPopup key={p.id} place={p}/>:<section key={p.id}>
+  const [loaded,setLoaded]=useState<{source:PetPlace;value:PetPlace}|null>(null);
+  const [error,setError]=useState(false);
+  const [attempt,setAttempt]=useState(0);
+  useEffect(()=>{
+    if(!enabled||place.detail_loaded!==false)return;
+    const controller=new AbortController();setError(false);
+    getPlaceDetails(place.id,controller.signal).then(value=>setLoaded({source:place,value}))
+      .catch(()=>{if(!controller.signal.aborted)setError(true);});
+    return()=>controller.abort();
+  },[enabled,place,attempt]);
+  const p=place.detail_loaded!==false?place:loaded?.source===place?loaded.value:null;
+  if(!p)return error?<button onClick={()=>setAttempt(n=>n+1)}>{language==='en'?'Unable to load details. Retry':'暫時讀唔到詳情，重試'}</button>:<p role="status">{tx('讀緊資料，等一等…')}</p>;
+  if(p.category==='restaurants')return <RestaurantPopup place={p}/>;
+  return <section>
       <span className="pet-kicker">{category(p.category)}</span><h3>{placeName(p)}</h3>{language==='zh-Hant' && p.name_en && p.name_en!==p.name && <small>{p.name_en}</small>}{language==='en' && !p.name_en && hasChinese(p.name) && <small>{tx('名稱只提供中文')}</small>}
       <MallPolicyDetails place={p}/><FacilityGallery place={p}/>
       {p.category!=='restaurants' && <div className="pet-amenity-tags">{petAmenities.filter(item=>getPetAmenities(p).includes(item.key)).map(item=><span key={item.key}>{tx(item.label)}</span>)}</div>}
@@ -127,7 +127,42 @@ function PlaceMarker({place, related, active, offset=[0,0]}: {place: PetPlace; r
       {safeExternal(language==='en'?(p.website_en||p.website):p.website) && <p><a href={safeExternal(language==='en'?(p.website_en||p.website):p.website)} target="_blank" rel="noopener noreferrer">{tx("場地網站 ↗")}</a></p>}
       <p><a href={safeExternal(p.source_url)} target="_blank" rel="noopener noreferrer">{tx("資料來源：")}{sourceName(p.source_name,p.source_name_en)} ↗</a></p>
       <small>{tx("地圖標記係場地代表點，唔一定係入口。導航路線唔保證可以攜寵。")}</small>
-    </section>)}</div></Popup>
+    </section>;
+}
+
+function PlaceMarker({place, related, active, offset=[0,0]}: {place: PetPlace; related: PetPlace[]; active: PetPlace|null; offset?: [number,number]}) {
+  const {language,tx,placeName,placeAddress,localText,sourceName,category}=useLanguage();
+  const map=useMap();
+  const [zoom,setZoom]=useState(map.getZoom());
+  const [popupOpen,setPopupOpen]=useState(false);
+  useMapEvents({zoomend:()=>setZoom(map.getZoom())});
+  const popupRef=useRef<LeafletPopup>(null);
+  useEffect(()=>{
+    if(!popupOpen)return;
+    const popup=popupRef.current;
+    const element=popup?.getElement()?.querySelector('.leaflet-popup-content');
+    if(!popup||!element)return;
+    let frame=0;
+    const observer=new ResizeObserver(()=>{
+      cancelAnimationFrame(frame);frame=requestAnimationFrame(()=>popup.update());
+    });
+    observer.observe(element);
+    const moved=()=>popup.isOpen()&&popup.update();
+    map.on('moveend',moved);
+    return()=>{observer.disconnect();cancelAnimationFrame(frame);map.off('moveend',moved);};
+  },[popupOpen,map]);
+  const ref=useRef<LeafletCircleMarker>(null);
+  const facilityRef=useRef<LeafletMarker>(null);
+  useEffect(()=>{if(active && place.latitude !== null && place.longitude !== null){const target:[number,number]=[place.latitude,place.longitude];if(map.getZoom()<15||!map.getBounds().contains(target))map.flyTo(target,16,{duration:.5});(ref.current||facilityRef.current)?.openPopup();}},[active,map,place.id]);
+  useEffect(()=>{if(!active)return;const timer=window.setTimeout(()=>{(facilityRef.current||ref.current)?.openPopup();},80);return()=>window.clearTimeout(timer);},[active,place.id,zoom>=FACILITY_ICON_ZOOM]);
+  if(place.latitude===null || place.longitude===null)return null;
+  const point=map.project([place.latitude,place.longitude],zoom);
+  const showFacilityIcon=zoom>=FACILITY_ICON_ZOOM;
+  const offsetScale=place.category==='restaurants'||showFacilityIcon?1:12/22;
+  const center=map.unproject([point.x+offset[0]*offsetScale,point.y+offset[1]*offsetScale],zoom);
+  const content=<>
+    <Tooltip>{placeName(place)}{place.category==='restaurants' && ` · ${(place.cuisines.length?place.cuisines:['未分類']).map(c=>tx(c)).join(' / ')}`}</Tooltip>
+    <Popup ref={popupRef} eventHandlers={{add:()=>setPopupOpen(true),remove:()=>setPopupOpen(false)}} maxWidth={400} className={place.category==='restaurants'?'restaurant-popup-shell':''}><div className={place.category==='restaurants'?'venue-popup restaurant-popup-wrap':'venue-popup'}>{related.map(p=><VenueDetails key={p.id} place={p} enabled={popupOpen}/>)}</div></Popup>
   </>;
   if(place.category==='restaurants'){
     const rating=place.restaurant_details?.rating;
@@ -198,7 +233,7 @@ export default function VenueMap({places,activePlace,viewKey,parkingGroups=[]}: 
         const angle=2*Math.PI*i/buckets.size;
         const spread=related[0].category==='restaurants'?12:22;
         const offset: [number,number]=buckets.size>1?[Math.cos(angle)*spread,Math.sin(angle)*spread]:[0,0];
-        return <PlaceMarker key={`${key}:${type}`} place={related.find(p=>p.id===activePlace?.id)||related[0]} related={related} offset={offset} active={related.some(p=>p.id===activePlace?.id)}/>;
+        return <PlaceMarker key={`${key}:${type}`} place={related.find(p=>p.id===activePlace?.id)||related[0]} related={related} offset={offset} active={related.some(p=>p.id===activePlace?.id)?activePlace:null}/>;
       });
     })}
   </MapContainer>;
