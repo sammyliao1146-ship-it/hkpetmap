@@ -19,8 +19,8 @@ def saved_lookup(message, history, access, language):
             target, field = match.groups()
             field = 'website' if field in {'官網', '官方網站'} else 'telephone'
     target = target.strip().rstrip('嘅的').strip()
-    recent = access.recent_places(history)
     if target.casefold() in {'it', 'its', 'that restaurant', '佢', '它', '嗰間', '這家餐廳', '呢間'}:
+        recent = access.recent_places(history)
         ids = [p['id'] for p in recent] if len(recent) == 1 else []
     else:
         ids = [p.id for p in (access.pets.snapshot.places if access.pets.snapshot else [])

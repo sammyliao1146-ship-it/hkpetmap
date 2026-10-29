@@ -11,6 +11,7 @@ from backend.app.observability.trace import TurnTrace
 from backend.app.routers.assistant import _traced_turn
 from test_pet_data import service
 from backend.app.models.pet import Place
+from agent.data.data_access import whole_name_position
 
 
 def test_budget_cancels_slow_model_and_never_exposes_unapproved_partial():
@@ -105,3 +106,11 @@ def test_plan_timeout_uses_only_real_parking_covered_candidates():
         assert result['parking_groups'] and any('time budget' in w for w in result['warnings'])
         assert all(distance(stop['place'],group['parking'])<=1000 for group in result['parking_groups'] for stop in group['stops'])
     asyncio.run(run())
+
+
+def test_literal_history_matching_preserves_alias_boundaries_and_later_matches():
+    assert whole_name_position('cafeteria', 'Cafe') == -1
+    assert whole_name_position('xxcafe / cafe', 'Cafe') == 9
+    assert whole_name_position('try cafe (central).', 'Cafe (Central)') == 4
+    assert whole_name_position('去赤柱廣場散步', '赤柱廣場') == 1
+    assert whole_name_position('x2cafe9', 'Cafe') == -1

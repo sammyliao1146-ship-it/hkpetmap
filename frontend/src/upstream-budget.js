@@ -12,7 +12,7 @@ function fallback(path, timeout) {
   return Response.json(data,{headers});
 }
 
-export async function budgetedProxy(request, upstream, timeoutMs=4200) {
+export async function budgetedProxy(request, upstream, timeoutMs=3600) {
   const path=new URL(request.url).pathname;
   const controller=new AbortController();
   let timedOut=false,timer,reader;

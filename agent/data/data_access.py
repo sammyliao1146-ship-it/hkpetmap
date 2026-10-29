@@ -4,7 +4,6 @@ from zoneinfo import ZoneInfo
 import json
 import asyncio
 import copy
-import re
 from functools import wraps
 from pathlib import Path
 from urllib.parse import urlencode
@@ -13,6 +12,20 @@ from agent.data.compact import place_for_agent, sources_for_places
 from agent.data.place_search import select_places, valid_origin, distance_m
 
 TRANSPORT_RULES = json.loads((Path(__file__).resolve().parents[2] / 'backend/app/data/transport_rules.json').read_text())
+ASCII_WORD = frozenset('abcdefghijklmnopqrstuvwxyz0123456789')
+
+
+def whole_name_position(text, name):
+    """Literal alias search with ASCII word boundaries; no per-place regex compilation."""
+    needle=name.strip().lower()
+    start=0
+    while True:
+        index=text.find(needle,start)
+        if index<0:return -1
+        end=index+len(needle)
+        if (index==0 or text[index-1] not in ASCII_WORD) and (end==len(text) or text[end] not in ASCII_WORD):
+            return index
+        start=index+1
 
 MODE_ALIASES = {'restaurant': 'restaurants', 'dining': 'restaurants', 'food': 'restaurants', '餐廳': 'restaurants',
                 'facility': 'facilities', 'place': 'facilities', 'places': 'facilities', '設施': 'facilities'}
@@ -70,10 +83,11 @@ class PetDataAccess:
             if message.get('role') not in {'user','assistant'}:continue
             text=message.get('content','')
             if not isinstance(text,str):continue
+            text=text.lower()
             for model in (self.pets.snapshot.places if self.pets.snapshot else []):
                 names=[n for n in (model.name,model.name_en,model.restaurant_details.display_name if model.restaurant_details else None) if n and len(n.strip())>=2]
-                matches=[re.search(r'(?<![A-Za-z0-9])'+re.escape(n.strip())+r'(?![A-Za-z0-9])',text,re.I) for n in names]
-                positions=[m.start() for m in matches if m]
+                positions=[whole_name_position(text,n) for n in names]
+                positions=[p for p in positions if p>=0]
                 if positions:
                     p={'id':model.id,'name':model.name,'name_en':model.name_en,'address':model.address}
                     rows.append((min(positions),p))

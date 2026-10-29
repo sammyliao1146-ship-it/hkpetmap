@@ -28,7 +28,7 @@ async def warm_conversations(container):
         logging.getLogger(__name__).warning('Conversation pool warmup failed: %s', type(exc).__name__)
 
 async def warm_photos():
-    if os.getenv('PHOTO_PREGENERATE', 'true').lower() not in {'true', '1'}:
+    if os.getenv('PHOTO_PREGENERATE', 'false').lower() not in {'true', '1'}:
         return
     from scripts.build_photo_variants import photo_paths
     from backend.app.services.photo_service import prepare_variants
