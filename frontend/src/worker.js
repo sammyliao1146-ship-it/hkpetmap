@@ -1,3 +1,5 @@
+import {isSecretProbe} from './request-security.js';
+
 const API_ORIGIN = "https://hkpetmap.onrender.com";
 const PUBLIC_TTLS = new Map([
   ["/api/v1/catalog", 300],
@@ -18,6 +20,12 @@ function browserResponse(response, request) {
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
+    if (isSecretProbe(url.pathname)) {
+      return new Response('Not found', {status:404, headers:{
+        'Cache-Control':'private, no-store', 'X-Content-Type-Options':'nosniff',
+        'Content-Type':'text/plain; charset=utf-8',
+      }});
+    }
     if (url.pathname === "/api/v1" || url.pathname.startsWith("/api/v1/")) {
       const upstream = new URL(request.url);
       upstream.protocol = "https:";

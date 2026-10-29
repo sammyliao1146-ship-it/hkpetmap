@@ -8,6 +8,7 @@ from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.responses import JSONResponse
 
 from backend.app.config.settings import Settings
+from backend.app.config.request_security import is_secret_probe
 
 logger = logging.getLogger("hkpet.access")
 RATE_LIMITED_PATHS = ("/assistant/chat", "/assistant/chat/stream", "/assistant/prefill", "/plans")
@@ -19,6 +20,11 @@ def register_middleware(app: FastAPI, settings: Settings, api_prefix: str) -> No
         request_id = request.headers.get("x-request-id") or uuid.uuid4().hex[:12]
         container = getattr(request.app.state, "container", None)
         path = request.url.path
+        raw_path = request.scope.get('raw_path', b'').decode('latin-1') or path
+        if is_secret_probe(raw_path):
+            return JSONResponse({'detail':'Not found'}, status_code=404,
+                                headers={'Cache-Control':'private, no-store',
+                                         'X-Content-Type-Options':'nosniff', 'X-Request-ID':request_id})
         if container and request.method == "POST" and path.startswith(api_prefix) \
                 and path[len(api_prefix):] in RATE_LIMITED_PATHS:
             client = request.client.host if request.client else "unknown"

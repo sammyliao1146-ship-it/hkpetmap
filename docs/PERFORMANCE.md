@@ -25,6 +25,8 @@ Existing `/places` consumers retain the full-record interface. A newly deployed 
 
 ## Cache policy
 
+Worker request screening runs before API proxying or static asset handling. Sensitive dotfile/credential probes return a non-cacheable 404, including encoded path variants. The backend repeats this check before routing for direct Render traffic. Screening inspects paths only, so search/chat query text is unaffected. Workers must run first on all paths for this protection to cover root-level probes; `wrangler.jsonc` enables that setting.
+
 | Resource | Policy |
 | --- | --- |
 | Hashed `/assets/*` | Browser cache one year, immutable; Cloudflare Static Assets serves the files |
