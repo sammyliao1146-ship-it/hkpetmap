@@ -21,9 +21,9 @@ No database was provisioned by this code change. Existing conversations that exp
 - `status`: running, success, refused, blocked, error, cancelled.
 - JSONB `metrics` and `spans`: model/tool names, durations, reported usage and error types.
 
-The question is saved before model execution and the same row is updated at completion. Failed/cancelled runs are kept. An outage does not invent a successful save or fail the entire assistant; there is no durable local-file fallback or promise of replay after an unsuccessful DB write. Use storage-status errors to monitor missed writes.
+The initial save runs alongside model execution and is joined before the final upsert. Failed/cancelled runs are kept. Startup warms the connection pool without blocking readiness; writes are limited to the pool size and have two bounded attempts (1.5 seconds each, 100 ms retry delay). There is no detached queue or durable local-file fallback and no promise of replay after an unsuccessful DB write. Storage errors remain explicit. Logs include write duration and attempts, without conversation text or credentials.
 
-The schema has no automatic record deletion policy. Configure retention/backups for your deployment. Render's free Postgres is time limited; check the current service plan before relying on it for long-term records.
+Automatic deletion is disabled. The optional `python -m scripts.prune_conversations --days 90` previews eligible rows; add `--apply` to delete in batches of at most 1,000 (at most 100 batches per invocation). `TRACE_RETENTION_DAYS=0` is the default if no argument is supplied. Nothing schedules or applies deletion automatically. Backups remain the deployment operator's responsibility.
 
 ## Metrics semantics
 
@@ -31,7 +31,7 @@ The schema has no automatic record deletion policy. Configure retention/backups 
 - `tool_calls`: local function/MCP calls observed by SDK hooks plus hosted web search calls reported in the model output. Calls are counted separately from model steps.
 - Token counts aggregate the classifier, main Agent, nested web-research Agent and reviewer. Counts are taken from provider usage; no text-length estimates. If only some calls report usage, totals are known subtotals and `usage_complete=false`. If no usage is available, values are null rather than a fabricated zero. A cache-only answer with no model calls has zero tokens.
 - Cached input and reasoning tokens are subsets, not additional tokens to add to the total.
-- `duration_ms` is server elapsed time through answer/error completion, including initial persistence but excluding the final DB write and browser/network time.
+- `duration_ms` is server elapsed time through answer/error completion. The initial DB write overlaps model work; the duration excludes any remaining persistence wait, the final upsert and browser/network time. Use database-write log durations to diagnose persistence latency.
 - `first_token_ms` is time to the first emitted nonempty text delta. It is null for nonstreaming/empty output.
 - Hosted web-tool durations are null because the provider does not provide separate execution timing.
 - `storage_status`: saved, disabled, unavailable. This is an internal diagnostic field; it is not sent to public chat clients. A final saved row means the final DB write completed.
@@ -39,6 +39,10 @@ The schema has no automatic record deletion policy. Configure retention/backups 
 These are application-owned traces in your Postgres database. External OpenAI trace export remains disabled; no separate OpenAI dashboard login is needed.
 
 ## Private lookup
+
+Open `https://hkpetmap.com/api/v1/assistant/admin` after deploying this version. This is a data-free shell; enter `TRACE_ADMIN_TOKEN` to load protected statistics and recent turns. The token stays in page memory, never localStorage, cookies or the URL; Clear and closing/leaving the page erase it. The shell has noindex/no-store, a nonce-based CSP and no external resources. Do not use a shared computer. Public chat responses still contain no trace metrics.
+
+Authenticated endpoints `/assistant/admin/stats?days=7` (1–30 days), `/assistant/admin/turns` and `/assistant/admin/trace/{id}` provide reported token subtotals, usage completeness, response p50/p95, first-text p50/p95, mean model calls and paginated recent questions. Null timings mean unavailable, not zero; cancelled/refused/blocked counts remain visible in individual turns. Statistics are computed in Postgres over the indexed time window.
 
 Both endpoints require `Authorization: Bearer <TRACE_ADMIN_TOKEN>` and return `Cache-Control: no-store`. Metrics and transcripts are available only through these authenticated endpoints or a direct authorised database connection. There is no public transcript or diagnostic lookup.
 

@@ -18,6 +18,7 @@ import type { PetPlace } from '../../api/client';
 import type { ParkingGroup } from '../../api/plans';
 import { restaurantColor } from './cuisine-colors';
 import {getPetAmenities, petAmenities} from './pet-amenities';
+import {clusterPlaces} from './map-clusters';
 setWorkerUrl(workerUrl);
 const FACILITY_ICON_ZOOM = 15;
 export const colors: Record<string,string> = {restaurants:'#db6339', parks:'#70866d', pet_parks:'#286b47', inclusive_parks:'#70866d', vets:'#3976a5', hotels:'#8b5ba8', management:'#317f83', malls:'#ba527f',parking:'#365c69'};
@@ -221,11 +222,20 @@ function ParkingCoverage({groups,viewKey}: {groups: ParkingGroup[];viewKey:strin
   })}</>;
 }
 
-export default function VenueMap({places,activePlace,viewKey,parkingGroups=[]}: {places:PetPlace[];activePlace:PetPlace|null;viewKey:string;parkingGroups?:ParkingGroup[]}) {
+function VisiblePlaces({places,activePlace,cluster=true}:{places:PetPlace[];activePlace:PetPlace|null;cluster?:boolean}) {
+  const map=useMap();
+  const {language}=useLanguage();
+  const [,setView]=useState(0);
+  useMapEvents({moveend:()=>setView(n=>n+1),resize:()=>setView(n=>n+1)});
+  const bounds=map.getBounds().pad(.2);
+  const {individuals,clusters}=clusterPlaces(places,map.getZoom(),(lat,lon)=>bounds.contains([lat,lon]),activePlace?.id,cluster);
   const groups=new Map<string,PetPlace[]>();
-  for(const p of places){if(p.latitude===null || p.longitude===null)continue;const key=`${p.latitude.toFixed(5)},${p.longitude.toFixed(5)}`;groups.set(key,[...(groups.get(key)||[]),p]);}
-  return <MapContainer center={[22.3193,114.1694]} zoom={11} zoomControl={false} scrollWheelZoom className="venue-map">
-    <MinimalBasemap/><MapView viewKey={viewKey}/><ParkingCoverage groups={parkingGroups} viewKey={viewKey}/><ZoomControl position="topright"/><LocateButton/>
+  for(const p of individuals){if(p.latitude===null || p.longitude===null)continue;const key=`${p.latitude.toFixed(5)},${p.longitude.toFixed(5)}`;groups.set(key,[...(groups.get(key)||[]),p]);}
+  return <>
+    {clusters.map(c=><Marker key={`cluster:${c.key}`} position={[c.latitude,c.longitude]}
+      icon={divIcon({className:'facility-map-icon',html:`<span style="display:grid;place-items:center;width:38px;height:38px;border-radius:50%;background:#286b47;color:white;border:3px solid white;box-shadow:0 1px 5px #0004;font-weight:700">${c.count}</span>`,iconSize:[38,38],iconAnchor:[19,19]})}
+      title={`${c.count} ${language==='en'?'places — zoom in':'個地點，點擊放大'}`}
+      eventHandlers={{click:()=>map.flyTo([c.latitude,c.longitude],Math.min(16,map.getZoom()+2),{duration:.4})}}/>) }
     {[...groups.entries()].flatMap(([key,group])=>{
       const buckets=new Map<string,PetPlace[]>();
       for(const p of group){const type=p.category==='restaurants'?(p.cuisines[0]||'未分類'):p.category;buckets.set(type,[...(buckets.get(type)||[]),p]);}
@@ -236,5 +246,12 @@ export default function VenueMap({places,activePlace,viewKey,parkingGroups=[]}: 
         return <PlaceMarker key={`${key}:${type}`} place={related.find(p=>p.id===activePlace?.id)||related[0]} related={related} offset={offset} active={related.some(p=>p.id===activePlace?.id)?activePlace:null}/>;
       });
     })}
+  </>;
+}
+
+export default function VenueMap({places,activePlace,viewKey,parkingGroups=[]}: {places:PetPlace[];activePlace:PetPlace|null;viewKey:string;parkingGroups?:ParkingGroup[]}) {
+  return <MapContainer center={[22.3193,114.1694]} zoom={11} zoomControl={false} scrollWheelZoom className="venue-map">
+    <MinimalBasemap/><MapView viewKey={viewKey}/><ParkingCoverage groups={parkingGroups} viewKey={viewKey}/><ZoomControl position="topright"/><LocateButton/>
+    <VisiblePlaces places={places} activePlace={activePlace} cluster={!viewKey.startsWith('plan:')}/>
   </MapContainer>;
 }

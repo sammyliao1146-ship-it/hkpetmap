@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HK Pet Map · Private conversation monitor</title>
+<style>body{font:16px system-ui;max-width:1100px;margin:30px auto;padding:0 16px;color:#183c2e}input,button,select{font:inherit;padding:8px;margin:4px}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f1f5f2;padding:16px}table{width:100%;border-collapse:collapse}td,th{text-align:left;border-bottom:1px solid #ddd;padding:8px}small{color:#526659}</style>
+<h1>Private conversation monitor</h1>
+<p>Use your TRACE_ADMIN_TOKEN. It stays in this page's memory; closing the page clears it. Do not use a shared computer.</p>
+<form id="login"><input id="token" type="password" autocomplete="off" placeholder="Admin token" aria-label="Admin token">
+<select id="days" aria-label="Statistics period"><option value="1">24 hours</option><option value="7" selected>7 days</option><option value="30">30 days</option></select>
+<button>Load / refresh</button><button type="button" id="clear">Clear</button></form>
+<p id="status" role="status"></p><pre id="stats" hidden></pre>
+<small>Token sums include reported usage only. Missing values are unknown. Response durations exclude the final database upsert.</small>
+<table><thead><tr><th>Time / status</th><th>Question</th><th>Duration / tokens</th><th>Details</th></tr></thead><tbody id="rows"></tbody></table>
+<button id="older" hidden>Older turns</button><pre id="detail" hidden></pre>
+<script nonce="__NONCE__">
+const el=id=>document.getElementById(id); let token='',before=null,busy=false,generation=0;
+async function read(path){const current=generation;const r=await fetch('/api/v1/assistant/admin/'+path,{headers:{Authorization:'Bearer '+token},cache:'no-store',credentials:'omit'});if(!r.ok)throw Error(r.status===401?'Authentication failed':'Unable to load ('+r.status+')');const data=await r.json();if(current!==generation)throw Error('Cleared');return data;}
+function clear(){generation++;token='';before=null;el('token').value='';el('rows').replaceChildren();for(const id of ['stats','detail']){el(id).textContent='';el(id).hidden=true;}el('older').hidden=true;el('status').textContent='Cleared';}
+async function load(older=false){if(busy)return;busy=true;el('status').textContent='Loading…';try{
+if(!older){const s=await read('stats?days='+el('days').value);el('stats').textContent=JSON.stringify(s,null,2);el('stats').hidden=false;el('detail').hidden=true;el('rows').replaceChildren();before=null;}
+const data=await read('turns'+(older&&before?'?before='+encodeURIComponent(before):''));
+for(const r of data.turns){const tr=document.createElement('tr');const cells=[new Date(r.started_at).toLocaleString()+' / '+r.status,r.question.slice(0,240),(r.metrics.duration_ms??'unknown')+' ms / '+(r.metrics.total_tokens??'unknown')+' tokens'];for(const text of cells){const td=document.createElement('td');td.textContent=text;tr.append(td);}const td=document.createElement('td'),b=document.createElement('button');b.textContent='View';b.onclick=async()=>{try{const detail=await read('trace/'+encodeURIComponent(r.trace_id));el('detail').textContent=JSON.stringify(detail,null,2);el('detail').hidden=false;}catch(e){el('status').textContent=e.message;}};td.append(b);tr.append(td);el('rows').append(tr);}
+before=data.next_before;el('older').hidden=!before;el('status').textContent='Loaded';
+}catch(e){el('status').textContent=e.message;el('rows').replaceChildren();el('stats').hidden=true;el('detail').hidden=true;}finally{busy=false;}}
+el('login').onsubmit=e=>{e.preventDefault();token=el('token').value||token;el('token').value='';if(!token){el('status').textContent='Enter an admin token';return;}void load();};
+el('older').onclick=()=>load(true);el('clear').onclick=clear;window.addEventListener('pagehide',clear);
+</script></html>

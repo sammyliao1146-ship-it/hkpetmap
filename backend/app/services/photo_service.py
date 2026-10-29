@@ -4,6 +4,8 @@ import hashlib
 from io import BytesIO
 from pathlib import Path
 import threading
+import os
+import tempfile
 
 from PIL import Image, ImageOps, UnidentifiedImageError
 from fastapi.responses import FileResponse, Response
@@ -14,6 +16,44 @@ _variants = OrderedDict()
 _variant_bytes = 0
 MAX_BYTES = 8 * 1024 * 1024
 MAX_ENTRIES = 64
+_fingerprints = OrderedDict()
+
+
+def variant_path(path, size):
+    stat = path.stat()
+    key = (str(path), stat.st_mtime_ns, stat.st_size)
+    with _lock:
+        digest = _fingerprints.get(key)
+    if digest is None:
+        digest = hashlib.sha256(path.read_bytes()).hexdigest()[:24]
+        with _lock:
+            if len(_fingerprints) >= 2048:
+                _fingerprints.popitem(last=False)
+            _fingerprints[key] = digest
+    return path.parent / '.variants' / f'{path.name}-{digest}-webp76-v1-{size}.webp'
+
+
+def prepare_variants(path):
+    """Materialise both sizes beside a validated local original; no network access."""
+    written = 0
+    for size in ('thumb', 'detail'):
+        target = variant_path(path, size)
+        if target.is_file():
+            continue
+        response = photo_response(path, size)
+        if not hasattr(response, 'body') or response.media_type != 'image/webp':
+            continue
+        target.parent.mkdir(exist_ok=True)
+        # Atomic replacement also makes concurrent manual builds safe.
+        fd, temporary = tempfile.mkstemp(dir=target.parent, suffix='.tmp')
+        try:
+            with os.fdopen(fd, 'wb') as output:
+                output.write(response.body)
+            os.replace(temporary, target)
+        finally:
+            Path(temporary).unlink(missing_ok=True)
+        written += 1
+    return written
 
 
 def photo_response(path: Path, size: str, if_none_match: str | None = None):
@@ -27,6 +67,9 @@ def photo_response(path: Path, size: str, if_none_match: str | None = None):
         return Response(status_code=304,headers=headers)
     if size == 'original':
         return FileResponse(path,headers=headers)
+    prepared = variant_path(path, size)
+    if prepared.is_file():
+        return FileResponse(prepared, media_type='image/webp', headers=headers)
     with _lock:
         body = _variants.get(key)
         if body is not None:

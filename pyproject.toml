@@ -17,6 +17,7 @@ include = ["backend*", "agent*"]
 
 [tool.setuptools.package-data]
 "backend.app.data" = ["*.json"]
+"backend.app.observability" = ["*.html"]
 
 [tool.pytest.ini_options]
 testpaths = ["backend/tests"]

@@ -7,7 +7,8 @@ import secrets
 from datetime import datetime
 
 from fastapi import APIRouter, Depends, HTTPException, Request, Response, Header, Query
-from fastapi.responses import StreamingResponse, JSONResponse
+from fastapi.responses import StreamingResponse, JSONResponse, HTMLResponse
+from pathlib import Path
 
 from agent.data.data_access import PetDataAccess
 from agent.assembly.service import run_pet_assistant
@@ -17,6 +18,7 @@ from agent.subagents.answer_guard import review_answer, blocked_reply
 from agent.data.tools.pet_data import make_pet_queries
 from agent.memory.conversation import ConversationMemory
 from agent.data.featured_answer import is_simple_nearby, render_nearby
+from agent.data.saved_lookup import saved_lookup
 from backend.app.config.container import Container
 from backend.app.config.dependencies import get_container
 from backend.app.observability.trace import TurnTrace, current_trace
@@ -55,17 +57,26 @@ NEARBY_LIMIT = 5
 
 async def _nearby_featured(container: Container, origin: ChatOrigin, language: str) -> dict:
     """Featured restaurants nearest to the origin, answered from cache (10 min TTL, ~100 m grid)."""
-    data = container.pets.places(mode='restaurants')
-    version = data['fetched_at'] or ''
+    version = container.pets.data_revision()
     key = f"nearby:{version}:{language}:{origin.latitude:.3f}:{origin.longitude:.3f}"
     cached = await container.cache.get_json(key)
     if cached:
         return cached
-    await asyncio.to_thread(container.featured.ensure, data['items'], version)
-    rows = await asyncio.to_thread(container.featured.nearest, origin.latitude, origin.longitude, NEARBY_LIMIT)
-    value = {'answer': render_nearby(rows, language), 'places': [{'id': r['id'], 'name': r['name']} for r in rows]}
-    await container.cache.set_json(key, value, NEARBY_TTL_SECONDS)
-    return value
+    async def fill():
+        # Another waiter may have filled the shared Redis cache in the meantime.
+        cached = await container.cache.get_json(key)
+        if cached:
+            return cached
+        async def prepare():
+            if container.featured.version != version:
+                data = container.pets.places(mode='restaurants', for_agent=True)
+                await asyncio.to_thread(container.featured.ensure, data['items'], version)
+        await container.nearby_flights.run(('featured', version), prepare)
+        rows = await asyncio.to_thread(container.featured.nearest, origin.latitude, origin.longitude, NEARBY_LIMIT)
+        value = {'answer': render_nearby(rows, language), 'places': [{'id': r['id'], 'name': r['name']} for r in rows]}
+        await container.cache.set_json(key, value, NEARBY_TTL_SECONDS)
+        return value
+    return await container.nearby_flights.run(key, fill)
 
 
 @router.post("/assistant/prefill")
@@ -77,12 +88,14 @@ async def prefill(payload: PrefillRequest, container: Container = Depends(get_co
 
 async def _traced_turn(payload, request, container, trace, on_delta=None):
     token = current_trace.set(trace)
+    # Start persistence alongside model work; always join it before the final upsert.
+    # No detached/unreliable fire-and-forget queue is used.
+    initial_save = asyncio.create_task(container.conversations.save(trace))
     async def measured_delta(text):
         trace.delta(text)
         if on_delta:
             await on_delta(text)
     try:
-        await container.conversations.save(trace)
         response = await _handle(payload, request, container, measured_delta if on_delta else None)
         trace.finish('blocked' if response.answer == blocked_reply(payload.language) else 'refused' if response.routing and response.routing.action == 'refuse' else 'success', response)
         return response
@@ -95,6 +108,7 @@ async def _traced_turn(payload, request, container, trace, on_delta=None):
     finally:
         # Cancellation must not discard the accepted turn or its final status.
         try:
+            await asyncio.shield(initial_save)
             await asyncio.shield(container.conversations.save(trace))
             logger.info('agent_turn trace_id=%s status=%s model_calls=%s duration_ms=%s storage=%s',
                         trace.trace_id, trace.status, trace.metrics()['model_calls'], trace.duration_ms, trace.storage_status)
@@ -164,6 +178,46 @@ def _trace_admin(request: Request, authorization: str | None = Header(default=No
     supplied = authorization.removeprefix('Bearer ') if authorization and authorization.startswith('Bearer ') else ''
     if not secrets.compare_digest(supplied.encode(),expected.encode()):
         raise HTTPException(401,'Authentication required',headers={'WWW-Authenticate':'Bearer'})
+
+
+@router.get('/assistant/admin', response_class=HTMLResponse)
+async def admin_shell():
+    # Public shell only. Every data endpoint below requires the private bearer token.
+    nonce = secrets.token_urlsafe(24)
+    page = Path(__file__).resolve().parents[1]/'observability/admin.html'
+    return HTMLResponse(page.read_text().replace('__NONCE__', nonce), headers={
+        'Cache-Control':'private, no-store', 'X-Robots-Tag':'noindex, nofollow',
+        'Referrer-Policy':'no-referrer', 'X-Content-Type-Options':'nosniff',
+        'Content-Security-Policy':f"default-src 'none'; script-src 'nonce-{nonce}'; style-src 'unsafe-inline'; connect-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'"})
+
+
+@router.get('/assistant/admin/stats', dependencies=[Depends(_trace_admin)])
+async def admin_stats(days:int=Query(default=7, ge=1, le=30), container:Container=Depends(get_container)):
+    try:
+        return await container.conversations.stats(days)
+    except Exception:
+        raise HTTPException(503,'Conversation storage unavailable') from None
+
+
+@router.get('/assistant/admin/turns', dependencies=[Depends(_trace_admin)])
+async def admin_turns(limit:int=Query(default=50, ge=1, le=100), before:datetime|None=None,
+                      container:Container=Depends(get_container)):
+    try:
+        turns = await container.conversations.recent(limit, before)
+        return {'turns':turns, 'next_before':turns[-1]['started_at'] if len(turns)==limit else None}
+    except Exception:
+        raise HTTPException(503,'Conversation storage unavailable') from None
+
+
+@router.get('/assistant/admin/trace/{trace_id}', dependencies=[Depends(_trace_admin)])
+async def admin_trace(trace_id:str, container:Container=Depends(get_container)):
+    try:
+        row = await container.conversations.get(trace_id)
+    except Exception:
+        raise HTTPException(503,'Conversation storage unavailable') from None
+    if row is None:
+        raise HTTPException(404,'Trace not found')
+    return row
 
 
 @router.get('/assistant/traces/{trace_id}', dependencies=[Depends(_trace_admin)])
@@ -243,6 +297,10 @@ async def _chat(payload: ChatRequest, container: Container, memory_history: list
         return ChatResponse(answer=result['answer'],model=settings.web_search_model,routing=routing,sources=result['sources'])
     if action!='main_agent':
         return ChatResponse(answer=gate_reply(action,payload.language),model=settings.intent_model,routing=routing)
+    if decision.intent == 'map_query' and decision.map_mode == 'general':
+        direct = saved_lookup(payload.message, history, _access(container), payload.language)
+        if direct:
+            return ChatResponse(**direct, model='saved-data', routing=routing)
     try:
         async with asyncio.timeout(120):
             access = _access(container,(payload.origin.latitude,payload.origin.longitude) if payload.origin else None)
