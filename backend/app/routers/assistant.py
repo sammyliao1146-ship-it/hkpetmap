@@ -30,7 +30,7 @@ router = APIRouter(tags=["assistant"])
 
 
 def _access(container: Container, origin=None) -> PetDataAccess:
-    return PetDataAccess(container.pets,origin=origin)
+    return PetDataAccess(container.pets,origin=origin,parking=getattr(container,'parking',None))
 
 
 @router.get("/assistant/capabilities")
@@ -59,7 +59,7 @@ NEARBY_LIMIT = 5
 async def _nearby_featured(container: Container, origin: ChatOrigin, language: str) -> dict:
     """Featured restaurants nearest to the origin, answered from cache (10 min TTL, ~100 m grid)."""
     version = container.pets.data_revision()
-    key = f"nearby:{version}:{language}:{origin.latitude:.3f}:{origin.longitude:.3f}"
+    key = f"nearby:v2:{version}:{language}:{origin.latitude:.3f}:{origin.longitude:.3f}"
     cached = await container.cache.get_json(key)
     if cached:
         return cached
@@ -74,7 +74,9 @@ async def _nearby_featured(container: Container, origin: ChatOrigin, language: s
                 await asyncio.to_thread(container.featured.ensure, data['items'], version)
         await container.nearby_flights.run(('featured', version), prepare)
         rows = await asyncio.to_thread(container.featured.nearest, origin.latitude, origin.longitude, NEARBY_LIMIT)
-        value = {'answer': render_nearby(rows, language), 'places': [{'id': r['id'], 'name': r['name']} for r in rows]}
+        selected={r['id'] for r in rows}
+        sources={p.source_url:{'url':p.source_url,'title':p.source_name} for p in (container.pets.snapshot.places if container.pets.snapshot else []) if p.id in selected}
+        value = {'answer': render_nearby(rows, language), 'places': [{'id': r['id'], 'name': r['name']} for r in rows], 'sources':list(sources.values())}
         await container.cache.set_json(key, value, NEARBY_TTL_SECONDS)
         return value
     return await container.nearby_flights.run(key, fill)
@@ -311,7 +313,7 @@ async def _chat(payload: ChatRequest, container: Container, memory_history: list
     if payload.origin and is_simple_nearby(payload.message):
         try:
             value = await _nearby_featured(container, payload.origin, payload.language)
-            return ChatResponse(answer=value['answer'], model='featured-cache', places=value['places'])
+            return ChatResponse(answer=value['answer'], model='featured-cache', places=value['places'], sources=value.get('sources',[]))
         except Exception:
             logger.exception('Featured nearby lookup failed; using the assistant')
     history=memory_history or [item.model_dump() for item in payload.history]
@@ -352,7 +354,7 @@ async def _chat(payload: ChatRequest, container: Container, memory_history: list
     except Exception as exc:
         logger.exception("Assistant request failed")
         raise HTTPException(status_code=502, detail="The assistant is temporarily unavailable. Please try again." if english else "毛孩助手暫時答唔到，請稍後再試。") from exc
-    sources=web_service.sources+access.direction_sources
+    sources=list({s['url']:s for s in [*web_service.sources,*access.direction_sources,*access.lookup_sources.values()]}.values())
     # Map answers are grounded in tool data and the intent gate already scoped them; the small review model rejects them too often.
     approved=decision.intent=='map_query' or await review_answer(query=payload.message,answer=answer,intent=decision.intent,map_mode=decision.map_mode,
         api_key=settings.api_key,base_url=settings.base_url,model=settings.intent_model,history=history,

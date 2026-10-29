@@ -44,7 +44,10 @@ def make_pet_queries(access: PetDataAccess):
         Links do not verify route access for pets, travel times, fares or availability. Do not recommend transit by default.
         """
         return await access.directions(place_id)
-    return [get_pet_catalog,search_pet_places,get_pet_place_details,search_pet_activities,get_pet_activity_details,get_pet_transport,get_pet_directions]
+    async def get_pet_parking(place_id: str, limit: int=5) -> dict:
+        """Read published car parks within 1,000 straight-line metres of a saved venue. Query each planned stop; a shared parking ID proves per-stop radius coverage only, never walkability. Never treat a mall as parking unless an actual parking: ID is returned. Saved vacancy may be unknown/stale; this does not confirm venue pet access."""
+        return await access.nearby_parking(place_id,limit)
+    return [get_pet_catalog,search_pet_places,get_pet_place_details,search_pet_activities,get_pet_activity_details,get_pet_transport,get_pet_directions,get_pet_parking]
 
 def make_pet_tools(access):
     return [function_tool(query) for query in make_pet_queries(access)]

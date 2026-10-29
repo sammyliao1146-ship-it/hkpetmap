@@ -98,7 +98,7 @@ def test_filters_and_agent_tools_share_same_snapshot(tmp_path):
             assert course['remaining'] is None
             assert (await access.place_details('missing'))['found'] is False
             tools=[function_tool(q) for q in make_pet_queries(access)]
-            assert {t.name for t in tools}=={'get_pet_catalog','search_pet_places','get_pet_place_details','search_pet_activities','get_pet_activity_details','get_pet_transport','get_pet_directions'}
+            assert {t.name for t in tools}=={'get_pet_catalog','search_pet_places','get_pet_place_details','search_pet_activities','get_pet_activity_details','get_pet_transport','get_pet_directions','get_pet_parking'}
             assert all('sports' not in t.name for t in tools)
             with pytest.raises(ValueError):await access.search_places(limit=1000)
         finally:
@@ -138,7 +138,7 @@ def test_http_contract_validation_and_missing_model_key(tmp_path,monkeypatch):
             assert api.get('/api/v1/places/missing').status_code==404
             assert api.get('/api/v1/activities').json()['items'][0]['remaining'] is None
             capabilities=api.get('/api/v1/assistant/capabilities').json()
-            assert len(capabilities['tools'])==8
+            assert len(capabilities['tools'])==9
             assert capabilities['answer_guard']['fail_closed'] is True
             assert api.post('/api/v1/assistant/chat',json={'message':'搵餐廳'}).status_code==503
             assert api.post('/api/v1/assistant/chat',json={'message':'   '}).status_code==422

@@ -14,6 +14,11 @@ def _name(p, language):
 
 async def fast_answer(message, history, access, language):
     text=message.strip().rstrip('.?？。').strip()
+    # A request for the application's credentials is always refused locally;
+    # a classifier outage must not turn it into a provider error or disclosure.
+    if re.search(r'(?:reveal|show|print|give me|tell me|洩露|泄露|顯示|显示|告訴我|告诉我).{0,80}(?:your|server|system|你|系統|系统).{0,40}(?:api[ _-]?key|database password|system prompt|密鑰|密钥|資料庫密碼|数据库密码)',text,re.I):
+        return {'answer':('I cannot disclose application credentials, database passwords or private system instructions.' if language=='en' else '我唔會提供應用程式密鑰、資料庫密碼或內部系統指令。'),
+                'routing':{'intent':'out_of_scope','map_mode':'none','confidence':1,'action':'refuse','classifier_model':'local-security-rule'}}
     # Denial-only rule: it can refuse disclosure but can never authorise a query.
     if re.search(r'\b(?:reveal|show|print|expose)\b.{0,100}\b(?:api keys?|database passwords?|system prompts?|private keys?|access tokens?)\b',text,re.I) or re.search(r'(?:洩露|泄露|顯示|显示|輸出|输出|告訴我|告诉我).{0,60}(?:API.{0,2}(?:密鑰|密钥)|資料庫密碼|数据库密码|系統提示詞|系统提示词)',text,re.I):
         return {'answer':gate_reply('refuse',language),'routing':{'intent':'out_of_scope','map_mode':'none',

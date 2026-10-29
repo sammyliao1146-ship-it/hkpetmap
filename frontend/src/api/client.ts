@@ -1,3 +1,4 @@
+import {readChatEvents} from './sse-reader';
 export interface SourceStatus { key: string; label: string; url: string; status: string; count: number; fetched_at: string | null; message: string; skipped: number; }
 export interface MallPolicy {
   tier: 'on_leash_full'|'designated_zone'|'carrier_only'|'unknown';
@@ -95,31 +96,11 @@ export async function chatStream(message: string, history: ChatMessage[], langua
     const body = await response.json().catch(() => ({}));
     throw new Error(typeof body.detail === 'string' ? body.detail : '暫時讀唔到資料，請稍後再試。');
   }
-  const reader = response.body.getReader();
-  const decoder = new TextDecoder();
-  let buffer = '';
-  let final: ChatResult | null = null;
-  const handle = (block: string) => {
-    const line = block.split('\n').find(l => l.startsWith('data: '));
-    if (!line) return;
-    const event = JSON.parse(line.slice(6));
-    if (event.type === 'delta') onDelta(event.text);
-    else if (event.type === 'final') final = event;
-    else if (event.type === 'error') throw new Error(typeof event.detail === 'string' ? event.detail : '暫時連唔到助手，請再試。');
-  };
-  try {
-  for (;;) {
-    const { value, done } = await reader.read();
-    if (value) buffer += decoder.decode(value, { stream: true });
-    let index;
-    while ((index = buffer.indexOf('\n\n')) >= 0) { handle(buffer.slice(0, index)); buffer = buffer.slice(index + 2); }
-    if (done) break;
-  }
-  if(buffer.trim())handle(buffer);
-  if (!final) throw new Error('暫時連唔到助手，請再試。');
-  return final;
-  } finally { reader.releaseLock(); }
+  return readChatEvents<ChatResult>(response.body,onDelta,language==='en'
+    ? 'The connection ended without a complete answer. Please try again.'
+    : '連線中斷，未收到完整回覆，請重試。');
 }
+
 export const prefillNearby = (origin: ChatOrigin, language: 'zh-Hant'|'en') => request<{cached:boolean;count:number}>('/assistant/prefill', {
   method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({...origin,language}),
 }).catch(() => undefined);

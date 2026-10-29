@@ -5,16 +5,19 @@ from urllib.parse import urlsplit
 
 def saved_lookup(message, history, access, language):
     text = message.strip().rstrip('?？').strip()
-    match = re.fullmatch(r"(?:what is (?:the )?)?(phone(?: number)?|telephone|website)(?: of| for)? (.+)", text, re.I)
+    match = re.fullmatch(r"(?:what(?: is|'s) )?(?:the )?(phone(?: number)?|telephone|website)(?: of| for)? (.+)", text, re.I)
     if match:
         field, target = match.groups()
         field = 'website' if field.lower() == 'website' else 'telephone'
     else:
-        match = re.fullmatch(r'(.+?)(?:嘅|的)?(電話|電話號碼|官網|官方網站)', text)
-        if not match:
-            return None
-        target, field = match.groups()
-        field = 'website' if field in {'官網', '官方網站'} else 'telephone'
+        match = re.fullmatch(r"(?:what(?: is|'s) )?(.+?)(?:'s|’s)? (phone(?: number)?|telephone|website)",text,re.I)
+        if match:
+            target,field=match.groups();field='website' if field.lower()=='website' else 'telephone'
+        else:
+            match = re.fullmatch(r'(.+?)(?:嘅|的)?(電話號碼|電話|官網|官方網站)(?:係幾多|是什麼|是多少)?', text)
+            if not match:return None
+            target, field = match.groups()
+            field = 'website' if field in {'官網', '官方網站'} else 'telephone'
     target = target.strip().rstrip('嘅的').strip()
     recent = access.recent_places(history)
     if target.casefold() in {'it', 'its', 'that restaurant', '佢', '它', '嗰間', '這家餐廳', '呢間'}:
@@ -28,7 +31,11 @@ def saved_lookup(message, history, access, language):
     p = access.pets.place(ids[0])
     value = (p.get('restaurant_details') or {}).get(field) or p.get(field)
     if not value:
-        return None
+        name=(p.get('name_en') or p['name']) if language=='en' else p['name']
+        missing=('website' if field=='website' else 'phone number') if language=='en' else ('官網' if field=='website' else '電話')
+        return {'answer':f"I found {name}, but no saved {missing} is available. Please confirm with the venue." if language=='en' else f'搵到{name}，但暫未有已儲存嘅{missing}；請向場地確認。',
+                'places':[{'id':p['id'],'name':name}],
+                'sources':[{'title':p.get('source_name') or name,'url':p['source_url']}] if p.get('source_url') else []}
     if field == 'website' and urlsplit(value).scheme not in {'http', 'https'}:
         return None
     name = (p.get('name_en') or p['name']) if language == 'en' else ((p.get('restaurant_details') or {}).get('display_name') or p['name'])

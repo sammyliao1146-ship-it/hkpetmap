@@ -129,7 +129,7 @@ def build_candidates(places, activities, parking, request, destination):
         else:
             pool=[p for p in local if p['category'] in CATEGORIES[purpose]]
             if purpose=='park':
-                pool=[p for p in pool if p.get('pet_policy') != 'unknown' or p['id'] in destination['anchor_place_ids']]
+                pool=[p for p in pool if p.get('pet_policy') not in {None,'unknown'}]
                 # Prefer a pet/shared entry over a general duplicate of the same park.
                 pool.sort(key=lambda p:(p['category']=='parks',distance(p,destination)))
             else:pool.sort(key=lambda p:distance(p,destination))

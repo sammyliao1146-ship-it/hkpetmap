@@ -14,6 +14,7 @@ from bs4 import BeautifulSoup
 from backend.app.cache.redis_cache import RedisCache
 from backend.app.data import adapters
 from backend.app.data.place_views import map_summary, revision_of
+from backend.app.data.geography import district_matches
 from backend.app.data.activity_sources import SOURCES as ACTIVITY_SOURCES, fetch_source
 from backend.app.data.malls import load_malls, merge_malls, mall_source_status, MALL_SOURCE
 from backend.app.data.photos import attach_photos
@@ -321,7 +322,7 @@ class PetService:
         if cuisines:
             items = [p for p in items if set(p.cuisines or ['未分類']) & set(cuisines)]
         if district:
-            items = [p for p in items if district.removesuffix('區') in (p.district or '')]
+            items = [p for p in items if district_matches(p.district,district)]
         if query:
             items = [p for p in items if query.casefold() in ' '.join(filter(None,[p.name,p.name_en,p.address,p.address_en,p.restaurant_details.display_name if p.restaurant_details else None])).casefold()]
         return {'status':self._status(), 'fetched_at':self.snapshot.fetched_at.isoformat() if self.snapshot else None,
@@ -333,7 +334,7 @@ class PetService:
             datetime.strptime(on_date, '%Y-%m-%d')
         items = self.snapshot.activities if self.snapshot else []
         items = [a for a in items if (not category or a.category==category)
-            and (not district or district.removesuffix('區') in (a.district or ''))
+            and district_matches(a.district,district)
             and (not query or query.casefold() in f'{a.name} {a.name_en} {a.description}'.casefold())
             and (not on_date or (a.start_date is not None and a.start_date <= on_date and (a.end_date or a.start_date) >= on_date))]
         return {'status':self._status(), 'fetched_at':self.snapshot.fetched_at.isoformat() if self.snapshot else None,

@@ -1,5 +1,6 @@
 """Deterministic nearby answer built from the featured-restaurant DB (no model call)."""
 import re
+from backend.app.data.localization import CUISINE_EN
 
 _EN_FILLER={'find','me','a','an','the','some','please','pls','recommend','show','search','restaurant','restaurants','place',
               'places','eat','food','dog','dogs','friendly','pet','petfriendly','near','nearby','nearest','closest','to','my',
@@ -36,7 +37,8 @@ def render_nearby(rows: list[dict], language: str) -> str:
         name = (r['name_en'] or r['name']) if en else r['name']
         address = (r.get('address_en') or r.get('address')) if en else (r.get('address') or r.get('address_en'))
         km = r['distance_m'] / 1000
-        head = f"{i}. **{name}** · {km:.2f} km · ⭐ {r['rating']:.1f} ({r['rating_count']}) · {r['cuisine']}"
+        cuisine=CUISINE_EN.get(r['cuisine'],r['cuisine']) if en else r['cuisine']
+        head = f"{i}. **{name}** · {km:.2f} km · ⭐ {r['rating']:.1f} ({r['rating_count']}) · {cuisine}"
         lines.append(f"{head}\n   {_price(r, en)}" + (f"\n   {address}" if address else ''))
     lines += ['', ('Straight-line distance, not walking time. This is a curated shortlist, not every restaurant on the map; '
                    'ratings and prices are saved Google data, so check opening hours and dog-entry rules with the venue.' if en else

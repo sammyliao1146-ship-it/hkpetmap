@@ -4,12 +4,13 @@ from zoneinfo import ZoneInfo
 import json
 import asyncio
 import copy
+import re
 from functools import wraps
 from pathlib import Path
 from urllib.parse import urlencode
 from backend.app.data.sources import CATEGORIES, CUISINES
 from agent.data.compact import place_for_agent, sources_for_places
-from agent.data.place_search import select_places, valid_origin
+from agent.data.place_search import select_places, valid_origin, distance_m
 
 TRANSPORT_RULES = json.loads((Path(__file__).resolve().parents[2] / 'backend/app/data/transport_rules.json').read_text())
 
@@ -47,12 +48,14 @@ def reuse_read(method):
 
 
 class PetDataAccess:
-    def __init__(self, pets, origin=None):
+    def __init__(self, pets, origin=None, parking=None):
         self.pets = pets
+        self.parking = parking
         self.origin=valid_origin(*origin) if origin is not None else None
         self._reads={}
         self.seen_places={}
         self.direction_sources=[]
+        self.lookup_sources={}
 
     @reuse_read
     async def catalog(self):
@@ -62,16 +65,19 @@ class PetDataAccess:
 
     def recent_places(self,history):
         # Prior assistant text resolves known saved names; it never establishes new facts.
-        text=next((m['content'] for m in reversed(history or []) if m.get('role')=='assistant'),'')
-        if not text:return []
         rows=[]
-        for model in (self.pets.snapshot.places if self.pets.snapshot else []):
-            names=[n for n in (model.name,model.name_en,model.restaurant_details.display_name if model.restaurant_details else None) if n and len(n.strip())>=2]
-            positions=[text.casefold().find(n.casefold()) for n in names]
-            positions=[v for v in positions if v>=0]
-            if positions:
-                p={'id':model.id,'name':model.name,'name_en':model.name_en,'address':model.address}
-                rows.append((min(positions),p))
+        for message in reversed((history or [])[-6:]):
+            if message.get('role') not in {'user','assistant'}:continue
+            text=message.get('content','')
+            if not isinstance(text,str):continue
+            for model in (self.pets.snapshot.places if self.pets.snapshot else []):
+                names=[n for n in (model.name,model.name_en,model.restaurant_details.display_name if model.restaurant_details else None) if n and len(n.strip())>=2]
+                matches=[re.search(r'(?<![A-Za-z0-9])'+re.escape(n.strip())+r'(?![A-Za-z0-9])',text,re.I) for n in names]
+                positions=[m.start() for m in matches if m]
+                if positions:
+                    p={'id':model.id,'name':model.name,'name_en':model.name_en,'address':model.address}
+                    rows.append((min(positions),p))
+            if rows:break
         result=[]
         for _,p in sorted(rows,key=lambda r:r[0])[:5]:
             self._remember([p]);result.append({'id':p['id'],'name':p['name'],'name_en':p.get('name_en'),'address':p.get('address')})
@@ -107,6 +113,29 @@ class PetDataAccess:
     def _remember(self, items):
         for p in items:
             self.seen_places[p['id']] = p
+            if p.get('source_url'):
+                self.lookup_sources[p['source_url']]={'url':p['source_url'],'title':p.get('source_name') or p.get('name','')}
+
+    @reuse_read
+    async def nearby_parking(self, place_id, limit=5):
+        if not 1<=limit<=10:raise ValueError('limit must be 1–10')
+        place=self.pets.place(place_id)
+        if not place or place.get('latitude') is None or place.get('longitude') is None:
+            return {'status':'needs_destination','items':[],'message':'Choose a saved venue with coordinates; do not infer a car park from a mall name.'}
+        if self.parking is None:
+            return {'status':'unavailable','items':[],'message':'No parking dataset connected. Do not recommend a parking base.'}
+        data=await self.parking.list(refresh=False)
+        rows=[]
+        for p in data['items']:
+            if p.get('category')!='parking' or not p.get('id','').startswith('parking:'):continue
+            if p.get('latitude') is None or p.get('longitude') is None:continue
+            meters=distance_m((place['latitude'],place['longitude']),p['latitude'],p['longitude'])
+            if meters<=1000:rows.append({**p,'distance_m':round(meters,1)})
+        rows.sort(key=lambda p:(p['distance_m'],p['id']))
+        rows=rows[:limit];self._remember(rows)
+        return {'status':data['status'],'fetched_at':data.get('fetched_at'),'place_id':place_id,
+                'items':rows,'radius_m':1000,'distance_type':'straight_line',
+                'message':'Published car parks only. Coverage is per queried stop, not a verified walking route; query every stop before claiming one car park covers an itinerary. Vacancy may be stale/unknown.'}
 
     def mentioned_places(self, answer: str, limit: int = 5):
         """Places returned by tools in this request whose name appears in the answer, in answer order."""
