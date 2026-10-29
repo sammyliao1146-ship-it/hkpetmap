@@ -1,5 +1,13 @@
 # Agent latency checks — 30 October 2026 (Hong Kong)
 
+## First online follow-up, before edge deadline
+
+26 real HTTPS requests against the new backend: 24/26 ended within 5 seconds; all returned final events. p50 1.399 seconds, nearest-rank p95 8.096 seconds, maximum 8.216 seconds. Two first-round complex requests exceeded the target despite a backend time budget. Eight replies carried degraded=true (including cheaper-model lane downgrade); four were chat time-budget replies and two were basic saved-candidate plans. These are **not** 26 successfully verified answers. Later rounds were faster, but the slow samples are retained. This result motivated a Worker deadline covering both response headers and the entire body, rather than increasing the claimed success rate by excluding cold samples.
+
+Local HTTP fault injection separately measured slow classification/tool/review/queue delays at 4.009 seconds, a normal answer while Postgres was stalled at 0.047 seconds, and a synthetic provider failure at 0.027 seconds. Fault injection substitutes controlled delays; it does not establish global provider reliability. Public responses contained no trace metrics. Worker tests now cover an origin that never returns headers, an SSE body that stalls after headers, oversize bodies and cancellation, with explicit failure/degraded results.
+
+## Initial baseline and local comparison
+
 All prompts are synthetic. Before: live https://hkpetmap.com, 12 chat scenarios, concurrency 2. After: local HTTP service with the configured real model provider and temporary local Postgres, 13 scenarios repeated twice (26 requests), concurrency 2. These are different network paths; do not attribute all differences to code or claim a production SLA from local results.
 
 Baseline: 4/12 requests ended within 5 seconds; 10 returned a final answer. Nearest-rank p95 25.111s; maximum 25.111s. Phone/follow-up prompts incorrectly asked for clarification; one search ended without a final event and the disclosure attempt failed classification.
