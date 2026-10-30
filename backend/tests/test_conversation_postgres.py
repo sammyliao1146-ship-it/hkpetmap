@@ -38,6 +38,7 @@ def test_postgres_upsert_restart_and_session_boundaries():
         stats=await reopened.stats(7)
         assert stats['turns']>=2 and stats['reported_tokens']>=14
         assert stats['duration_p50_ms'] is not None
+        assert stats['completed_answers']>=1 and stats['answer_duration_p50_ms'] is not None
         assert any(r['trace_id']==a.trace_id for r in await reopened.recent())
         # Old rows are counted in dry-run but removed only by explicit apply.
         old=TurnTrace('retention_test','old record','en')

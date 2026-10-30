@@ -1,5 +1,9 @@
 # Agent latency checks — 30 October 2026 (Hong Kong)
 
+**Current acceptance criterion: P50 of completed answers <= 5 seconds.** The historical short per-request cutoff experiments below have been superseded. Prompt instructions contain no five-second deadline. Backend request safety timeout is 120 seconds, and Worker no longer aborts/buffers replies at 3.6 seconds. Normal Plan requests allow the Agent to finish instead of automatically switching to a basic itinerary after two seconds. Keep historical measurements for comparison, but do not use a fast timeout notice as evidence of an improved answer median.
+
+The current benchmark reports both all-request and completed-answer p50/p95, plus answer/refusal/clarification/error/timeout/basic-plan counts. The synthetic mix is not a measurement of the site's real user traffic distribution. Real chat-only successful-answer medians are available separately in the private monitor as `answer_duration_p50_ms` and `answer_duration_p95_ms`.
+
 ## First online follow-up, before edge deadline
 
 26 real HTTPS requests against the new backend: 24/26 ended within 5 seconds; all returned final events. p50 1.399 seconds, nearest-rank p95 8.096 seconds, maximum 8.216 seconds. Two first-round complex requests exceeded the target despite a backend time budget. Eight replies carried degraded=true (including cheaper-model lane downgrade); four were chat time-budget replies and two were basic saved-candidate plans. These are **not** 26 successfully verified answers. Later rounds were faster, but the slow samples are retained. This result motivated a Worker deadline covering both response headers and the entire body, rather than increasing the claimed success rate by excluding cold samples.

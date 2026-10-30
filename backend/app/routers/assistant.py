@@ -95,20 +95,19 @@ async def _traced_turn(payload, request, container, trace, on_delta=None, backgr
     # No detached/unreliable fire-and-forget queue is used.
     initial_save = asyncio.create_task(container.conversations.save(trace))
     try:
-        budget=getattr(getattr(container,'settings',None),'chat_response_budget_seconds',4.0)
-        try:
-            async with asyncio.timeout(budget):
-                # Release only the completed/approved answer. A timed-out or rejected
-                # draft must not have already been streamed to the browser.
-                response = await _handle(payload, request, container, None)
-        except TimeoutError:
-            response = budget_reply(payload.language)
+        timeout=getattr(getattr(container,'settings',None),'agent_request_timeout_seconds',120.0)
+        async with asyncio.timeout(timeout):
+            # Only completed/approved answers are released. The latency target is
+            # a measured median, not a short per-question generation deadline.
+            response = await _handle(payload, request, container, None)
         if on_delta and response.answer:
             trace.delta(response.answer)
             await on_delta(response.answer)
-        trace.finish('timeout' if response.model=='time-budget' else 'blocked' if response.answer == blocked_reply(payload.language) else 'refused' if response.routing and response.routing.action == 'refuse' else 'success', response,
-                     error=TimeoutError() if response.model=='time-budget' else None)
+        trace.finish('blocked' if response.answer == blocked_reply(payload.language) else 'refused' if response.routing and response.routing.action == 'refuse' else 'success', response)
         return response
+    except TimeoutError as exc:
+        trace.finish('timeout',error=exc)
+        raise HTTPException(504,'The assistant timed out. Please try a narrower question.' if payload.language=='en' else '助手回覆逾時，請縮窄問題再試。') from None
     except asyncio.CancelledError as exc:
         trace.finish('cancelled', error=exc)
         raise
@@ -131,13 +130,6 @@ async def _traced_turn(payload, request, container, trace, on_delta=None, backgr
                 await persist_turn()
         finally:
             current_trace.reset(token)
-
-
-def budget_reply(language):
-    answer = ('I could not verify a complete answer within the response time limit. No new hours, rules or route have been confirmed. '
-              'Please choose a specific place on the map for its saved details, or narrow your question.' if language=='en' else
-              '未能喺回覆時限內完成核實，暫未確認新嘅營業時間、規定或路線。你可以喺地圖揀指定場地睇已儲存資料，或縮窄問題再查。')
-    return ChatResponse(answer=answer,model='time-budget',degraded=True)
 
 
 @router.post("/assistant/chat", response_model=ChatResponse)

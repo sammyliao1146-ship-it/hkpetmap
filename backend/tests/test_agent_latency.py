@@ -2,7 +2,8 @@ import asyncio
 from types import SimpleNamespace as NS
 from unittest.mock import patch
 
-from fastapi import BackgroundTasks
+from fastapi import BackgroundTasks, HTTPException
+import pytest
 
 from agent.data.fast_answers import fast_answer
 from agent.data.data_access import PetDataAccess
@@ -14,7 +15,7 @@ from backend.app.models.pet import Place
 from agent.data.data_access import whole_name_position
 
 
-def test_budget_cancels_slow_model_and_never_exposes_unapproved_partial():
+def test_operational_timeout_cancels_stuck_model_without_a_fake_success():
     async def run():
         cancelled=[];deltas=[];rows=[]
         class Store:
@@ -24,13 +25,14 @@ def test_budget_cancels_slow_model_and_never_exposes_unapproved_partial():
                 if args[-1]:await args[-1]('unapproved draft')
                 await asyncio.sleep(1)
             finally:cancelled.append(True)
-        c=NS(settings=NS(chat_response_budget_seconds=.03),conversations=Store())
+        c=NS(settings=NS(agent_request_timeout_seconds=.03),conversations=Store())
         p=ChatRequest(message='Check live hours',language='en');t=TurnTrace(None,p.message,'en')
         async def delta(text):deltas.append(text)
         with patch('backend.app.routers.assistant._handle',slow):
-            response=await asyncio.wait_for(_traced_turn(p,NS(),c,t,delta),.3)
-        assert response.degraded and response.model=='time-budget'
-        assert cancelled and len(deltas)==1 and 'unapproved' not in deltas[0]
+            with pytest.raises(HTTPException) as error:
+                await asyncio.wait_for(_traced_turn(p,NS(),c,t,delta),.3)
+        assert error.value.status_code==504
+        assert cancelled and not deltas
         assert t.status=='timeout' and rows[-1]=='timeout'
     asyncio.run(run())
 
@@ -41,7 +43,7 @@ def test_slow_storage_does_not_hold_http_response_and_is_still_joined():
         class Store:
             async def save(self,trace):await release.wait();saved.append(trace.status)
         async def answer(*args):return ChatResponse(answer='Saved information',model='test')
-        c=NS(settings=NS(chat_response_budget_seconds=.1),conversations=Store())
+        c=NS(settings=NS(agent_request_timeout_seconds=120),conversations=Store())
         p=ChatRequest(message='Phone',language='en');t=TurnTrace(None,p.message,'en')
         with patch('backend.app.routers.assistant._handle',answer):
             result=await asyncio.wait_for(_traced_turn(p,NS(),c,t,background_tasks=background),.2)
@@ -71,8 +73,7 @@ def test_fast_paths_are_whole_message_grammars_not_keyword_gate_bypasses(tmp_pat
     asyncio.run(run())
 
 
-def test_slow_queue_redis_and_external_tool_share_one_deadline():
-    # Stage timeouts cannot add up to more than the outer response budget.
+def test_slow_queue_redis_and_external_tool_share_the_operational_timeout():
     async def run():
         class Store:
             async def save(self, trace):pass
@@ -81,10 +82,28 @@ def test_slow_queue_redis_and_external_tool_share_one_deadline():
             await asyncio.sleep(.02)  # classifier
             await asyncio.sleep(1)    # tool or reviewer
         p=ChatRequest(message='Plan outing',language='en')
-        c=NS(settings=NS(chat_response_budget_seconds=.05),conversations=Store())
+        c=NS(settings=NS(agent_request_timeout_seconds=.05),conversations=Store())
         with patch('backend.app.routers.assistant._handle',stages):
-            response=await asyncio.wait_for(_traced_turn(p,NS(),c,TurnTrace(None,p.message,'en')),.3)
-        assert response.degraded
+            with pytest.raises(HTTPException) as error:
+                await asyncio.wait_for(_traced_turn(p,NS(),c,TurnTrace(None,p.message,'en')),.3)
+        assert error.value.status_code==504
+    asyncio.run(run())
+
+
+def test_five_second_median_target_does_not_cut_off_a_complete_slow_answer():
+    from backend.app.config.settings import Settings
+    async def run():
+        class Store:
+            async def save(self,trace):pass
+        async def complete(*args):
+            await asyncio.sleep(5.05)
+            return ChatResponse(answer='Complete verified answer',model='test')
+        settings=Settings(api_key='unused',model='test',base_url='https://example.invalid',cors_origins=[])
+        assert settings.agent_request_timeout_seconds==120
+        p=ChatRequest(message='Complex research',language='en')
+        with patch('backend.app.routers.assistant._handle',complete):
+            response=await asyncio.wait_for(_traced_turn(p,NS(),NS(settings=settings,conversations=Store()),TurnTrace(None,p.message,'en')),6)
+        assert response.answer=='Complete verified answer' and not response.degraded
     asyncio.run(run())
 
 

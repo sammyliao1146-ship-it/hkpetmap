@@ -113,6 +113,7 @@ class ConversationStore:
         if not self.pool:
             raise RuntimeError('Storage disabled')
         row = await self.pool.fetchrow('''SELECT count(*) AS turns,
+            count(*) FILTER (WHERE status='success') AS completed_answers,
             count(*) FILTER (WHERE status IN ('error','timeout')) AS errors,
             count(*) FILTER (WHERE status='running') AS running,
             sum((metrics->>'total_tokens')::bigint) AS reported_tokens,
@@ -121,6 +122,10 @@ class ConversationStore:
                 FILTER (WHERE status<>'running') AS duration_p50_ms,
             percentile_cont(.95) WITHIN GROUP (ORDER BY (metrics->>'duration_ms')::double precision)
                 FILTER (WHERE status<>'running') AS duration_p95_ms,
+            percentile_cont(.5) WITHIN GROUP (ORDER BY (metrics->>'duration_ms')::double precision)
+                FILTER (WHERE status='success') AS answer_duration_p50_ms,
+            percentile_cont(.95) WITHIN GROUP (ORDER BY (metrics->>'duration_ms')::double precision)
+                FILTER (WHERE status='success') AS answer_duration_p95_ms,
             percentile_cont(.5) WITHIN GROUP (ORDER BY (metrics->>'first_token_ms')::double precision) AS first_text_p50_ms,
             percentile_cont(.95) WITHIN GROUP (ORDER BY (metrics->>'first_token_ms')::double precision) AS first_text_p95_ms,
             avg((metrics->>'model_calls')::double precision) AS mean_model_calls

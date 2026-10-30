@@ -24,12 +24,12 @@ async def plan(payload: PlanRequest, request: Request, container: Container=Depe
     if not container.settings.api_key or not container.settings.model:
         raise HTTPException(503,'The outing planner is not configured yet.')
     try:
-        async with asyncio.timeout(container.settings.chat_response_budget_seconds):
+        async with asyncio.timeout(container.settings.agent_request_timeout_seconds):
             async with container.llm_gate.slot(degraded=getattr(request.state,'rate_limited',False)) as full:
                 if not full:
                     container=copy(container)
                     container.settings=replace(container.settings,model=container.settings.fallback_model)
-                return await create_plan(container,payload,fast=True)
+                return await create_plan(container,payload)
     except TimeoutError as exc:
         raise HTTPException(503,'The outing planner is busy. Please try again shortly.') from exc
     except ValueError as exc:

@@ -34,7 +34,7 @@ class Settings:
     intent_model: str = 'gpt-5.4-nano'
     intent_confidence_threshold: float = .75
     intent_timeout_seconds: float = 20
-    chat_response_budget_seconds: float = 4.0
+    agent_request_timeout_seconds: float = 120.0
     web_search_model: str = 'gpt-5.4-mini'
     web_search_timeout_seconds: float = 60
     web_search_api_key: str = field(default='',repr=False)
@@ -53,8 +53,8 @@ class Settings:
             raise ValueError('INTENT_CONFIDENCE_THRESHOLD must be in (0, 1]')
         if not 0 < self.intent_timeout_seconds <= 60:
             raise ValueError('INTENT_TIMEOUT_SECONDS must be in (0, 60]')
-        if not 0 < self.chat_response_budget_seconds <= 4.5:
-            raise ValueError('CHAT_RESPONSE_BUDGET_SECONDS must be in (0, 4.5]')
+        if not 0 < self.agent_request_timeout_seconds <= 300:
+            raise ValueError('AGENT_REQUEST_TIMEOUT_SECONDS must be in (0, 300]')
 
 
 @lru_cache
@@ -72,7 +72,7 @@ def get_settings() -> Settings:
         intent_model=os.getenv('INTENT_MODEL','gpt-5.4-nano'),
         intent_confidence_threshold=float(os.getenv('INTENT_CONFIDENCE_THRESHOLD','0.75')),
         intent_timeout_seconds=float(os.getenv('INTENT_TIMEOUT_SECONDS','20')),
-        chat_response_budget_seconds=float(os.getenv('CHAT_RESPONSE_BUDGET_SECONDS','4')),
+        agent_request_timeout_seconds=float(os.getenv('AGENT_REQUEST_TIMEOUT_SECONDS','120')),
         web_search_model=os.getenv('WEB_SEARCH_MODEL','gpt-5.4-mini'),
         web_search_timeout_seconds=float(os.getenv('WEB_SEARCH_TIMEOUT_SECONDS','60')),
         web_search_api_key=os.getenv('WEB_SEARCH_API_KEY',''),

@@ -1,5 +1,4 @@
 import {isSecretProbe} from './request-security.js';
-import {BUDGETED_PATHS,budgetedProxy} from './upstream-budget.js';
 
 const API_ORIGIN = "https://hkpetmap.onrender.com";
 const PUBLIC_TTLS = new Map([
@@ -32,7 +31,6 @@ export default {
       upstream.protocol = "https:";
       upstream.hostname = new URL(API_ORIGIN).hostname;
       upstream.port = "";
-      if(request.method==='POST'&&BUDGETED_PATHS.has(url.pathname))return budgetedProxy(request,upstream);
       const ttl = PUBLIC_TTLS.get(url.pathname);
       const eligible = request.method === "GET" && ttl &&
         !request.headers.has("Authorization") && !request.headers.has("Cookie") &&

@@ -42,11 +42,12 @@ async def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--base-url',default='http://127.0.0.1:8006')
     parser.add_argument('--output',type=Path,required=True)
-    parser.add_argument('--timeout',type=float,default=25)
+    parser.add_argument('--timeout',type=float,default=130)
     parser.add_argument('--concurrency',type=int,default=2)
     parser.add_argument('--repeat',type=int,default=1)
+    parser.add_argument('--round-gap',type=float,default=65,help='Seconds between repeated rounds; avoids the normal 20/min soft limit')
     args=parser.parse_args()
-    if args.concurrency<1 or args.repeat<1 or args.timeout<=0:parser.error('concurrency, repeat and timeout must be positive')
+    if args.concurrency<1 or args.repeat<1 or args.timeout<=0 or args.round_gap<0:parser.error('concurrency/repeat/timeout must be positive and round-gap non-negative')
     results=[];gate=asyncio.Semaphore(args.concurrency)
     async with httpx.AsyncClient(verify=truststore.SSLContext(ssl.PROTOCOL_TLS_CLIENT),timeout=args.timeout) as client:
         async def run(name, question, extra, iteration):
@@ -73,13 +74,23 @@ async def main():
                     else 'clarification' if row['action']=='clarify' or name=='ambiguous_directions' else 'answer')
                 results.append(row)
                 print(json.dumps({k:v for k,v in row.items() if k!='answer'},ensure_ascii=False),flush=True)
-        await asyncio.gather(*(run(*case,i) for i in range(args.repeat) for case in CASES))
+        for i in range(args.repeat):
+            await asyncio.gather(*(run(*case,i) for case in CASES))
+            if i+1<args.repeat:await asyncio.sleep(args.round_gap)
     times=sorted(r['duration_s'] for r in results)
     percentile=lambda p:times[min(len(times)-1,math.ceil(len(times)*p)-1)]
     report={'time_utc':datetime.now(timezone.utc).isoformat(),'base_url':args.base_url,'requests':len(results),
             'within_5s':sum(r['within_5s'] for r in results),'complete':sum(r['complete'] for r in results),
             'degraded':sum(bool(r['degraded']) for r in results),'p50_s':percentile(.5),'p95_s':percentile(.95),'max_s':max(times),'results':results}
     report['outcomes']={kind:sum(r['outcome']==kind for r in results) for kind in sorted({r['outcome'] for r in results})}
+    answer_times=sorted(r['duration_s'] for r in results if r['outcome']=='answer' and r['http_status']==200)
+    report['answer_count']=len(answer_times)
+    report['answer_p50_s']=answer_times[math.ceil(len(answer_times)*.5)-1] if answer_times else None
+    report['answer_p95_s']=answer_times[math.ceil(len(answer_times)*.95)-1] if answer_times else None
+    report['p50_target_s']=5
+    report['short_cutoff_responses']=sum(r['outcome'] in {'timeout_notice','basic_plan'} for r in results)
+    report['answer_p50_target_met']=bool(answer_times) and report['answer_p50_s']<=5 and not report['short_cutoff_responses']
+    report['concurrency']=args.concurrency;report['round_gap_s']=args.round_gap
     args.output.parent.mkdir(parents=True,exist_ok=True);args.output.write_text(json.dumps(report,ensure_ascii=False,indent=2))
     print(json.dumps({k:v for k,v in report.items() if k!='results'},ensure_ascii=False))
 
