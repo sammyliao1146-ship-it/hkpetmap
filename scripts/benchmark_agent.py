@@ -6,11 +6,54 @@ import json
 import math
 from pathlib import Path
 import ssl
+import statistics
 import time
 from uuid import uuid4
 
 import httpx
 import truststore
+
+from agent.subagents.answer_guard import blocked_reply
+
+
+def classify_outcome(row):
+    if not row['complete'] or row.get('error'):
+        return 'error'
+    if row['model']=='edge-unavailable':
+        return 'upstream_error'
+    if row['model'] in {'time-budget','edge-time-budget'}:
+        return 'timeout_notice'
+    if row['model']=='saved-plan-fallback':
+        return 'basic_plan'
+    if row.get('answer') in {blocked_reply('en'),blocked_reply('zh-Hant')}:
+        return 'blocked'
+    if row['action']=='refuse':
+        return 'scope_refusal' if row['case'] in {'off_topic','injection'} else 'unexpected_refusal'
+    if row['action']=='clarify' or row['case']=='ambiguous_directions':
+        return 'clarification'
+    return 'answer'
+
+
+def summarize(results):
+    times=sorted(r['duration_s'] for r in results)
+    def metrics(values):
+        values=sorted(values)
+        return (statistics.median(values),values[math.ceil(len(values)*.95)-1]) if values else (None,None)
+    all_p50,all_p95=metrics(times)
+    answers=[r for r in results if r['outcome']=='answer' and r['http_status']==200]
+    answer_p50,answer_p95=metrics([r['duration_s'] for r in answers])
+    model=[r for r in answers if r['model'] not in {None,'saved-data','featured-cache'}]
+    model_p50,model_p95=metrics([r['duration_s'] for r in model])
+    cutoffs=sum(r['outcome'] in {'timeout_notice','basic_plan'} for r in results)
+    return {'requests':len(results),'within_5s':sum(r['within_5s'] for r in results),
+            'complete':sum(r['complete'] for r in results),'degraded':sum(bool(r['degraded']) for r in results),
+            'p50_s':all_p50,'p95_s':all_p95,'max_s':max(times),
+            'percentile_method':'P50: arithmetic median; P95: nearest rank',
+            'outcomes':{kind:sum(r['outcome']==kind for r in results) for kind in sorted({r['outcome'] for r in results})},
+            'answer_count':len(answers),'answer_p50_s':answer_p50,'answer_p95_s':answer_p95,
+            'model_answer_count':len(model),'model_answer_p50_s':model_p50,'model_answer_p95_s':model_p95,
+            'p50_target_s':5,'short_cutoff_responses':cutoffs,
+            'answer_p50_target_met':bool(answers) and answer_p50<=5 and not cutoffs}
 
 CASES = [
     ('nearby', 'Find a restaurant nearby', {'origin':{'latitude':22.3,'longitude':114.17}}),
@@ -69,32 +112,14 @@ async def main():
                      'within_5s':elapsed<=5,'http_status':status,'complete':final is not None,'model':final.get('model') if final else None,
                      'degraded':final.get('degraded',False) if final else None,'action':(final.get('routing') or {}).get('action') if final else None,
                      'answer':final.get('answer') if final else None,'source_count':len(final.get('sources',[])) if final else 0,'error':error}
-                row['outcome']=('error' if not final else 'upstream_error' if row['model']=='edge-unavailable' else 'timeout_notice' if row['model'] in {'time-budget','edge-time-budget'}
-                    else 'basic_plan' if row['model']=='saved-plan-fallback' else 'scope_refusal' if row['action']=='refuse' and name in {'off_topic','injection'} else 'unexpected_refusal' if row['action']=='refuse'
-                    else 'clarification' if row['action']=='clarify' or name=='ambiguous_directions' else 'answer')
+                row['outcome']=classify_outcome(row)
                 results.append(row)
                 print(json.dumps({k:v for k,v in row.items() if k!='answer'},ensure_ascii=False),flush=True)
         for i in range(args.repeat):
             await asyncio.gather(*(run(*case,i) for case in CASES))
             if i+1<args.repeat:await asyncio.sleep(args.round_gap)
-    times=sorted(r['duration_s'] for r in results)
-    percentile=lambda p:times[min(len(times)-1,math.ceil(len(times)*p)-1)]
     report={'time_utc':datetime.now(timezone.utc).isoformat(),'base_url':args.base_url,'measurement':'complete_http_response','requests':len(results),
-            'within_5s':sum(r['within_5s'] for r in results),'complete':sum(r['complete'] for r in results),
-            'degraded':sum(bool(r['degraded']) for r in results),'p50_s':percentile(.5),'p95_s':percentile(.95),'max_s':max(times),'results':results}
-    report['outcomes']={kind:sum(r['outcome']==kind for r in results) for kind in sorted({r['outcome'] for r in results})}
-    answer_times=sorted(r['duration_s'] for r in results if r['outcome']=='answer' and r['http_status']==200)
-    report['answer_count']=len(answer_times)
-    report['answer_p50_s']=answer_times[math.ceil(len(answer_times)*.5)-1] if answer_times else None
-    report['answer_p95_s']=answer_times[math.ceil(len(answer_times)*.95)-1] if answer_times else None
-    model_times=sorted(r['duration_s'] for r in results if r['outcome']=='answer' and r['http_status']==200
-                       and r['model'] not in {None,'saved-data','featured-cache'})
-    report['model_answer_count']=len(model_times)
-    report['model_answer_p50_s']=model_times[math.ceil(len(model_times)*.5)-1] if model_times else None
-    report['model_answer_p95_s']=model_times[math.ceil(len(model_times)*.95)-1] if model_times else None
-    report['p50_target_s']=5
-    report['short_cutoff_responses']=sum(r['outcome'] in {'timeout_notice','basic_plan'} for r in results)
-    report['answer_p50_target_met']=bool(answer_times) and report['answer_p50_s']<=5 and not report['short_cutoff_responses']
+            **summarize(results),'results':results}
     report['concurrency']=args.concurrency;report['round_gap_s']=args.round_gap
     args.output.parent.mkdir(parents=True,exist_ok=True);args.output.write_text(json.dumps(report,ensure_ascii=False,indent=2))
     print(json.dumps({k:v for k,v in report.items() if k!='results'},ensure_ascii=False))

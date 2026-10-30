@@ -4,11 +4,29 @@
 
 The current benchmark reports all-request, completed-business-answer and model-backed-business-answer p50/p95, plus answer/refusal/clarification/error/timeout/basic-plan counts. It distinguishes an unexpected refusal of an in-scope question from the expected out-of-scope refusals. The synthetic mix is not a measurement of the site's real user traffic distribution. Real chat-only successful-answer medians are available separately in the private monitor as `answer_duration_p50_ms` / `answer_duration_p95_ms`, and model-backed-only medians as `model_answer_p50_ms` / `model_answer_p95_ms`.
 
+## Current online measurement, without short cutoffs
+
+At 2026-10-30 09:13 Hong Kong time, two rounds of 20 synthetic cases against https://hkpetmap.com completed (concurrency 2, 65 seconds between rounds). Timing includes the full HTTPS response. P50 is the arithmetic median; P95 uses nearest rank. Answers were reclassified after inspecting the final text: the standard relevance-block message is a blocked result even if routing still says `web_agent`.
+
+| Group | Count | P50 | P95 |
+| --- | ---: | ---: | ---: |
+| All requests, including unsuccessful results | 40 | 0.874 s | 13.058 s |
+| Completed business answers | 30 | 0.747 s | 22.622 s |
+| Model-backed business answers only | 4 | 13.788 s | 27.016 s |
+
+Outcomes: 30 business answers, 2 clarifications, 4 expected scope refusals, 1 unexpected refusal, 1 guard-blocked result and 2 errors. No short-cutoff notice or forced basic Plan was returned. 36/40 HTTP requests ended within five seconds; that is not the successful-answer rate. Structured Plan took 4.793 and 4.954 seconds; free-text trips took 22.622 and 27.016 seconds. Live-hours queries produced an incomplete stream and a blocked result; general vaccination guidance produced a mistaken refusal and a no-verified-web-evidence error. These four unsuccessful in-scope cases are not counted as business answers.
+
+The mixed saved-data/Agent synthetic median meets the target, but the model-only median does not. Four model-backed successes are too few to establish a production SLA, and this scenario mix is not a measurement of real customer traffic. No five-second rule was added to prompts. The operational stuck-request timeout remains 120 seconds.
+
+Checks: 207 backend regression tests passed for the no-cutoff implementation; three additional benchmark tests verify blocked-answer exclusion, arithmetic medians and failure/refusal separation. Ten frontend tests and the production build passed. Raw synthetic answer reports are retained as local review artifacts; no real conversation content or credentials are included in this document.
+
+## Historical experiments (superseded)
+
 ## First online follow-up, before edge deadline
 
 26 real HTTPS requests against the new backend: 24/26 ended within 5 seconds; all returned final events. p50 1.399 seconds, nearest-rank p95 8.096 seconds, maximum 8.216 seconds. Two first-round complex requests exceeded the target despite a backend time budget. Eight replies carried degraded=true (including cheaper-model lane downgrade); four were chat time-budget replies and two were basic saved-candidate plans. These are **not** 26 successfully verified answers. Later rounds were faster, but the slow samples are retained. This result motivated a Worker deadline covering both response headers and the entire body, rather than increasing the claimed success rate by excluding cold samples.
 
-Local HTTP fault injection separately measured slow classification/tool/review/queue delays at 4.009 seconds, a normal answer while Postgres was stalled at 0.047 seconds, and a synthetic provider failure at 0.027 seconds. Fault injection substitutes controlled delays; it does not establish global provider reliability. Public responses contained no trace metrics. Worker tests now cover an origin that never returns headers, an SSE body that stalls after headers, oversize bodies and cancellation, with explicit failure/degraded results.
+Local HTTP fault injection separately measured slow classification/tool/review/queue delays at 4.009 seconds, a normal answer while Postgres was stalled at 0.047 seconds, and a synthetic provider failure at 0.027 seconds. Fault injection substitutes controlled delays; it does not establish global provider reliability. Public responses contained no trace metrics. That historical version included Worker tests covering an origin that never returns headers, an SSE body that stalls after headers, oversize bodies and cancellation, with explicit failure/degraded results.
 
 ## Initial baseline and local comparison
 
@@ -36,6 +54,6 @@ Local after: 26/26 ended within 5 seconds; 25 returned a final answer. Nearest-r
 
 Regression checks: 174 backend tests, including temporary real PostgreSQL. Fault tests cover a slow model/tool/reviewer chain, response-before-storage ordering, cancelled work, incomplete draft suppression, whole-message fast-path boundaries and parking-covered Plan fallback. They do not simulate global network failures or guarantee timing under arbitrary CPU load.
 
-No model migration or removal of source/scope checks was used. The warm-service computation deadline is 4 seconds; it cannot bound Render startup, network transit or event-loop blocking. A complete newly researched answer for every possible question in 5 seconds remains unproven.
+No model migration or removal of source/scope checks was used. In that historical version the warm-service computation deadline was 4 seconds; it cannot bound Render startup, network transit or event-loop blocking. A complete newly researched answer for every possible question in 5 seconds remains unproven.
 
 Reproduce using `python -m scripts.benchmark_agent --base-url URL --output /tmp/report.json --repeat 2`. This calls paid model/search services. Raw reports in this directory omit answer bodies; local full answers were used to check outcome quality.
