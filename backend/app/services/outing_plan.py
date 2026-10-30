@@ -1,11 +1,15 @@
 """Validated outing plans grouped around real parking locations, never fabricated routes."""
 import asyncio
+import hashlib
+import json
 from math import asin, cos, radians, sin, sqrt
 import secrets
 from uuid import uuid4
 
 from agent.subagents.trip_planner import select_plan_stops
 from backend.app.models.plan import PlanRequest
+from backend.app.data.geography import district_matches
+from backend.app.cache.place_queries import canonical_district
 
 REGIONS = {
     'hong_kong_island': {'中西', '東', '南', '灣仔'},
@@ -75,7 +79,8 @@ def local_areas(places, activities, request):
     categories=set().union(*(CATEGORIES.get(i,set()) for i in request.interests))
     activity_places={a.get('place_id') for a in activities} if 'activity' in request.interests else set()
     eligible=[p for p in places if has_location(p) and region_matches(p,request.region)
-              and (p['category'] in categories or p['id'] in activity_places)]
+              and district_matches(p.get('district'),request.district)
+              and (p['category'] in categories or p['id'] in activity_places or not request.interests and p['category']=='restaurants')]
     eligible=[p for p in eligible if p['category']!='parks' or p.get('pet_policy')!='unknown']
     if request.origin:
         origin={'latitude':request.origin.latitude,'longitude':request.origin.longitude}
@@ -83,6 +88,8 @@ def local_areas(places, activities, request):
     # Round-robin districts AND modules prevents the first imported region/category from dominating.
     buckets={}
     for p in eligible:
+        if not request.interests:
+            buckets.setdefault((p.get('district') or '', 'meal'),[]).append(p)
         for interest in request.interests:
             if p['category'] in CATEGORIES.get(interest,set()) or interest=='activity' and p['id'] in activity_places:
                 buckets.setdefault((p.get('district') or '',interest),[]).append(p)
@@ -104,6 +111,7 @@ def build_candidates(places, activities, parking, request, destination):
     # Once an area is selected, an 'any region' request must not mix opposite harbour shores.
     effective_region=destination.get('region',request.region) if request.region=='any' else request.region
     local=[p for p in places if has_location(p) and region_matches(p,effective_region)
+           and district_matches(p.get('district'),request.district)
            and distance(p,destination) <= 4500]
     parking=[p for p in parking if has_location(p) and distance(p,destination) <= 5500]
     cuisine=CUISINE_ALIASES.get(request.cuisine.strip().lower(), request.cuisine.strip())
@@ -188,7 +196,19 @@ def prefer_single_parking(candidates, parking, destination):
                       if c['purpose']==purpose and park_id in c['parking_ids']) for purpose in purposes)
         return total+distance(carpark,destination)*.2, park_id
     chosen=min(shared,key=score)
-    return [c for c in candidates if chosen in c['parking_ids']]
+    return [{**c,'parking_ids':[chosen]} for c in candidates if chosen in c['parking_ids']]
+
+
+def selection_shortlist(candidates, per_purpose=6):
+    """Keep a balanced small model input after all eligibility/parking filters."""
+    buckets={}
+    for candidate in candidates:
+        buckets.setdefault(candidate['purpose'],[]).append(candidate)
+    result=[]
+    for bucket in buckets.values():
+        bucket.sort(key=lambda c:(c['anchor_distance_m'],-((c['place'].get('restaurant_details') or {}).get('rating') or 0),c['id']))
+        result.extend(bucket[:per_purpose])
+    return result
 
 
 def compact_candidate(item, language):
@@ -196,26 +216,68 @@ def compact_candidate(item, language):
     name=(details.get('display_name') or p.get('name_en') or p['name']) if language=='en' else (details.get('display_name') or p['name'])
     row={'id':item['id'],'purpose':item['purpose'],'name':name,
          'parking_ids':item['parking_ids'],'distance_from_area_m':item['anchor_distance_m']}
+    row['pet_policy']=p.get('pet_policy')
+    if details.get('rating') is not None:row['rating']=details['rating']
+    if p.get('cuisines'):row['cuisines']=p['cuisines']
     if item.get('activity'):row['activity']={k:item['activity'].get(k) for k in ('name','dates_text','start_date','end_date')}
     return row
 
 
+async def prepared_areas(container, request, places, activities, parking_items, revision=None):
+    """Cache IDs/geometry only; hydrate current facts and parking vacancy on every use."""
+    def build():
+        areas=destinations(places,request.region)
+        if not request.random or request.district:
+            areas+=local_areas(places,activities,request)
+        if request.destination_id:
+            areas=[d for d in areas if d['id']==request.destination_id]
+            if not areas:raise ValueError('The destination is not available in the selected region.')
+        items=[]
+        for destination in areas:
+            candidates,parking=build_candidates(places,activities,parking_items,request,destination)
+            if not candidates:continue
+            required=set(request.interests)|{'meal'}
+            purposes={c['purpose'] for c in candidates}
+            items.append({'score':[len(purposes & required),len(candidates)],'destination':destination,
+                          'parking_ids':[p['id'] for p in parking],
+                          'candidates':[{**{k:v for k,v in c.items() if k not in {'place','activity'}},
+                                         'place_id':c['place']['id'],
+                                         'activity_id':c['activity']['id'] if c.get('activity') else None} for c in candidates]})
+        return {'items':items}
+
+    cache=getattr(container,'plan_candidates',None)
+    if cache is not None and revision is not None:
+        # Vacancy does not affect geometry; its current fields are never stored here.
+        geometry=sorted((p['id'],p.get('latitude'),p.get('longitude')) for p in parking_items)
+        parking_revision=hashlib.sha256(json.dumps(geometry,separators=(',',':')).encode()).hexdigest()
+        params=request.model_dump(mode='json',exclude={'language'})
+        params['district']=canonical_district(request.district)
+        params['kind']='plan-candidates:v1'
+        params['parking_revision']=parking_revision
+        stored=await cache.get_or_create(revision,params,build)
+    else:
+        stored=build()
+    by_place={p['id']:p for p in places};by_activity={a['id']:a for a in activities};by_parking={p['id']:p for p in parking_items}
+    prepared=[]
+    for item in stored['items']:
+        candidates=[]
+        for c in item['candidates']:
+            if c['place_id'] not in by_place or c.get('activity_id') and c['activity_id'] not in by_activity:continue
+            row={k:v for k,v in c.items() if k not in {'place_id','activity_id'}}
+            row['place']=by_place[c['place_id']]
+            if c.get('activity_id'):row['activity']=by_activity[c['activity_id']]
+            candidates.append(row)
+        if candidates:
+            prepared.append((tuple(item['score']),item['destination'],candidates,
+                             [by_parking[i] for i in item['parking_ids'] if i in by_parking]))
+    return prepared
+
+
 async def create_plan(container, request: PlanRequest, selector=select_plan_stops, *, fast=False, selection_timeout=2):
     places=container.pets.places()['items'];activities=container.pets.activities()['items']
-    parking_result=await container.parking.list(language=request.language,**({'refresh':False} if fast else {}))
-    all_destinations=destinations(places,request.region)
-    if not request.random:
-        all_destinations+=local_areas(places,activities,request)
-    if request.destination_id:
-        all_destinations=[d for d in all_destinations if d['id']==request.destination_id]
-        if not all_destinations:raise ValueError('The destination is not available in the selected region.')
-    prepared=[]
-    for destination in all_destinations:
-        candidates,parking=build_candidates(places,activities,parking_result['items'],request,destination)
-        purposes={c['purpose'] for c in candidates}
-        required=set(request.interests)|{'meal'}
-        score=(len(purposes & required),len(candidates))
-        if candidates:prepared.append((score,destination,candidates,parking))
+    revision=container.pets.data_revision() if hasattr(container.pets,'data_revision') else None
+    parking_result=await container.parking.list(language=request.language,refresh=False)
+    prepared=await prepared_areas(container,request,places,activities,parking_result['items'],revision)
     if not prepared:
         return {'id':uuid4().hex,'status':'no_results','date':request.date.isoformat(),'region':request.region,
                 'title':'No matching outing' if request.language=='en' else '暫未搵到合適行程',
@@ -229,7 +291,7 @@ async def create_plan(container, request: PlanRequest, selector=select_plan_stop
         _,destination,candidates,parking=max(viable,key=lambda x:x[0])
     candidates=prefer_single_parking(candidates,parking,destination)
     agent_payload=request.model_dump(mode='json')
-    compact=[compact_candidate(c,request.language) for c in candidates]
+    compact=[compact_candidate(c,request.language) for c in selection_shortlist(candidates)]
     degraded=False
     try:
         async with asyncio.timeout(selection_timeout if fast else 100):

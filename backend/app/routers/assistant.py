@@ -13,7 +13,7 @@ from pathlib import Path
 from agent.data.data_access import PetDataAccess
 from agent.assembly.service import run_pet_assistant
 from agent.subagents.web_knowledge import WebKnowledgeService,DOMAINS
-from agent.subagents.intent_router import classify_intent, route_action, gate_reply, assistant_intro_reply
+from agent.subagents.intent_router import classify_intent, route_action, gate_reply, assistant_intro_reply, simple_plan_intent
 from agent.subagents.answer_guard import review_answer, blocked_reply
 from agent.data.tools.pet_data import make_pet_queries
 from agent.memory.conversation import ConversationMemory
@@ -25,6 +25,7 @@ from backend.app.config.dependencies import get_container
 from backend.app.cache.place_queries import QUERY_CACHE_VERSION, QUERY_TTL
 from backend.app.observability.trace import TurnTrace, current_trace
 from backend.app.models.assistant import ChatOrigin, ChatRequest, ChatResponse, IntentRouting, PrefillRequest
+from backend.app.services.chat_plan import chat_plan
 
 logger = logging.getLogger(__name__)
 router = APIRouter(tags=["assistant"])
@@ -313,18 +314,37 @@ async def _chat(payload: ChatRequest, container: Container, memory_history: list
         except Exception:
             logger.exception('Featured nearby lookup failed; using the assistant')
     history=memory_history or [item.model_dump() for item in payload.history]
+    local_plan=simple_plan_intent(payload.message,history)
     try:
-        async with asyncio.timeout(settings.intent_timeout_seconds):
-            decision=await classify_intent(payload.message,api_key=settings.api_key,base_url=settings.base_url,
-                model=settings.intent_model,history=history,timeout_seconds=settings.intent_timeout_seconds)
+        if local_plan is not None:
+            decision=local_plan
+        else:
+            async with asyncio.timeout(settings.intent_timeout_seconds):
+                decision=await classify_intent(payload.message,api_key=settings.api_key,base_url=settings.base_url,
+                    model=settings.intent_model,history=history,timeout_seconds=settings.intent_timeout_seconds,include_plan=True)
     except Exception as exc:
         # Fail closed: provider/parse errors never bypass the gate or call the main model.
         logger.warning('Intent classifier unavailable (%s)',type(exc).__name__)
         raise HTTPException(503, 'Intent classification is temporarily unavailable. Please try again.' if english else '暫時未能辨識查詢意圖，請稍後再試。') from exc
     action=route_action(decision,settings.intent_confidence_threshold)
-    routing=IntentRouting(**decision.model_dump(),action=action,classifier_model=settings.intent_model)
+    routing=IntentRouting(**decision.model_dump(),action=action,
+                          classifier_model='local-plan-rule' if local_plan is not None else settings.intent_model)
     if action=='self_intro':
         return ChatResponse(answer=assistant_intro_reply(payload.language),model=settings.intent_model,routing=routing)
+    if action=='main_agent' and decision.intent=='trip_plan':
+        # The classifier already extracted supported preferences. Plan uses one
+        # ID-only selection and server-validated facts, with no free-text review.
+        try:
+            planned=await chat_plan(payload,container,decision,routing)
+        except TimeoutError as exc:
+            raise HTTPException(504,'The outing planner timed out. Please try again.' if english else '行程規劃逾時，請稍後再試。') from exc
+        except ValueError as exc:
+            raise HTTPException(422,str(exc)) from exc
+        except Exception as exc:
+            logger.exception('Structured chat planning failed')
+            raise HTTPException(502,'The outing planner is temporarily unavailable. Please try again.' if english else '暫時未能規劃行程，請稍後再試。') from exc
+        if planned is not None:
+            return planned
     web_service=WebKnowledgeService(settings)
     if action=='web_agent':
         result=await web_service.search(payload.message,payload.language,history,decision)

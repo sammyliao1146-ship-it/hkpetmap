@@ -72,7 +72,7 @@ def test_restaurant_mall_plan_keeps_its_topic_when_preferences_are_missing(tmp_p
     svc,cache,client=service(tmp_path)
     settings=Settings(api_key='unit-test-no-network',model='main-test',base_url='https://example.invalid',cors_origins=[])
     app.state.container=Container(settings,cache,client,svc)
-    message='give me a plan that includes restaurant shopping mall'
+    message='Please plan a restaurant and shopping mall outing'
     calls=[]
     async def ensure():pass
     async def classify(query,**kwargs):

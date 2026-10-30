@@ -26,6 +26,7 @@ class ParkingService:
         self.snapshot_path = Path(snapshot_path) if snapshot_path else Path(__file__).resolve().parents[3]/'data/parking-snapshot.json'
         self._lock = asyncio.Lock()
         self._data = None
+        self._catalogue = None
         self._retry_after = {}
         self._failed = set()
 
@@ -114,6 +115,16 @@ class ParkingService:
                         data=json.loads(await asyncio.to_thread(self.snapshot_path.read_text))
                 except (OSError,ValueError,TimeoutError):
                     data={}
+            if not data.get('info_en') and not data.get('info_zh'):
+                # Cold deployments can plan against bundled government locations.
+                # This contains no vacancy claims and never triggers an upstream fetch.
+                if self._catalogue is None:
+                    path=Path(__file__).resolve().parents[1]/'data/parking_locations.json'
+                    try:
+                        self._catalogue=json.loads(await asyncio.to_thread(path.read_text))
+                    except (OSError,ValueError):
+                        self._catalogue={}
+                data=self._catalogue
             errors=[]
         en = {str(r.get('park_Id')):r for r in data.get('info_en',[]) if isinstance(r,dict)}
         zh = {str(r.get('park_Id')):r for r in data.get('info_zh',[]) if isinstance(r,dict)}

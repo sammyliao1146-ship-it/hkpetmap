@@ -9,7 +9,7 @@ async def serve(*,once=False,mode='redis',interval=None):
     try:
         while True:
             try:
-                result=await run_sync(container.pets,mode=mode)
+                result=await run_sync(container.pets,mode=mode,parking=container.parking)
                 print(json.dumps(result,ensure_ascii=False),flush=True)
             except Exception:
                 if once:raise

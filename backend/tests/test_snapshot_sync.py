@@ -73,6 +73,22 @@ def test_two_workers_and_manual_command_cannot_overlap_on_shared_disk(tmp_path):
     asyncio.run(run())
 
 
+def test_parking_refresh_is_exclusive_and_runs_even_when_pet_snapshot_is_fresh(tmp_path):
+    async def run():
+        first=FakePets(tmp_path/'snapshot.json');first.due=False
+        second=FakePets(first.snapshot_path);second.due=False
+        started=asyncio.Event();release=asyncio.Event();calls=[]
+        async def parking():
+            calls.append(True);started.set();await release.wait()
+        job=asyncio.create_task(run_sync(first,mode='file',parking=SimpleNamespace(list=parking)))
+        await started.wait()
+        assert await run_sync(second,mode='file',parking=SimpleNamespace(list=parking))=={'status':'locked'}
+        assert calls==[True]
+        release.set();assert await job=={'status':'fresh'}
+        assert first.refreshes==second.refreshes==0
+    asyncio.run(run())
+
+
 def test_redis_lock_failure_is_fail_closed(tmp_path):
     async def run():
         class Lock:

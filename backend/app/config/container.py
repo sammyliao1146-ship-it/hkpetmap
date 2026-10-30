@@ -7,6 +7,7 @@ import truststore
 from agent.assembly.client_pool import close_all as close_model_clients
 from backend.app.cache.redis_cache import RedisCache
 from backend.app.cache.singleflight import SingleFlight
+from backend.app.cache.place_queries import PlaceQueryCache
 from backend.app.config.llm_gate import LLMGate
 from backend.app.data.featured import FeaturedStore
 from backend.app.config.settings import Settings
@@ -23,17 +24,20 @@ class Container:
     featured: FeaturedStore = field(init=False)
     parking: ParkingService = field(init=False)
     conversations: ConversationStore = field(init=False)
+    plan_candidates: PlaceQueryCache = field(init=False)
     nearby_flights: SingleFlight = field(default_factory=SingleFlight)
 
     def __post_init__(self):
         self.conversations = ConversationStore(self.settings.database_url)
         self.featured = FeaturedStore()
         self.parking = ParkingService(self.cache, self.client)
+        self.plan_candidates = PlaceQueryCache(self.cache)
         s = self.settings
         self.llm_gate = LLMGate(s.llm_max_concurrency, s.llm_fallback_concurrency, s.llm_queue_timeout_seconds)
 
     async def aclose(self):
         await self.nearby_flights.aclose()
+        await self.plan_candidates.aclose()
         await self.pets.place_query_cache.aclose()
         await self.conversations.aclose()
         await self.client.aclose()

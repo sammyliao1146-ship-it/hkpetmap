@@ -48,6 +48,18 @@ def test_vacancy_freshness_does_not_treat_unknown_as_full():
     assert ParkingService._vacancy({},now)==(None,None,'unknown')
 
 
+def test_cold_planning_uses_bundled_government_locations_without_live_vacancy_or_fetch(tmp_path):
+    async def run():
+        async def forbidden(request):raise AssertionError('Planning contacted the parking upstream')
+        async with httpx.AsyncClient(transport=httpx.MockTransport(forbidden)) as client:
+            service=ParkingService(RedisCache(None,'parking-cold-test'),client,tmp_path/'absent.json')
+            result=await service.list(refresh=False)
+            assert result['status']=='cached' and result['items']
+            assert all(p['vacancy'] is None and p['vacancy_status']=='unknown' for p in result['items'])
+            assert all(p['source_url'].startswith('https://data.gov.hk/') for p in result['items'])
+    asyncio.run(run())
+
+
 def test_upstream_failure_uses_snapshot_and_backs_off(tmp_path):
     calls=[]
     def unavailable(request):

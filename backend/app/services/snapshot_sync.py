@@ -38,7 +38,7 @@ async def sync_lease(pets,mode='redis'):
         try:await lock.release()
         except (RedisError,OSError,LockError):log.warning('Could not release sync lease; token ownership/expiry prevents deleting another worker lock')
 
-async def run_sync(pets,*,mode='redis',force=False,geocode=False,activities_only=False):
+async def run_sync(pets,*,mode='redis',force=False,geocode=False,activities_only=False,parking=None):
     """Return skipped when another task owns the lease or data is still fresh."""
     async with sync_lease(pets,mode) as lease:
         if lease is None:return {'status':'locked'}
@@ -48,6 +48,11 @@ async def run_sync(pets,*,mode='redis',force=False,geocode=False,activities_only
         async def work():
             # Reload *inside* the lease so a second worker sees the first one's publication.
             await pets.load()
+            # The dedicated job also refreshes parking under the same exclusive lease.
+            # Planning reads the published cache and never waits for this upstream I/O.
+            if parking is not None:
+                await guard()
+                await parking.list()
             if not force and not pets.refresh_due():return {'status':'fresh'}
             await pets.refresh(force=force,geocode=geocode,activities_only=activities_only,
                                before_publish=guard,require_shared=(mode=='redis'))
