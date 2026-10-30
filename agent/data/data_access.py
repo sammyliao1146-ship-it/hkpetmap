@@ -47,7 +47,8 @@ def reuse_read(method):
         # Sampling again must produce a new random result; never cache random selection.
         if kwargs.get('sort_by')=='random':
             return await method(self,*args,**kwargs)
-        key=(asyncio.get_running_loop(),method.__name__,id(getattr(self.pets,'snapshot',None)),repr(args),repr(sorted(kwargs.items())))
+        revision = self.pets.data_revision() if callable(getattr(self.pets, 'data_revision', None)) else id(getattr(self.pets, 'snapshot', None))
+        key=(asyncio.get_running_loop(),method.__name__,revision,repr(args),repr(sorted(kwargs.items())))
         task=self._reads.get(key)
         if task is None:
             if len(self._reads)>=32:self._reads.pop(next(iter(self._reads)))
@@ -99,7 +100,7 @@ class PetDataAccess:
 
 
     @reuse_read
-    async def search_places(self, mode='', category='', cuisine='', district='', query='', limit=5, *, sort_by='default', latitude=None, longitude=None, origin_place_id='', radius_m=None, min_rating=None, max_price=None):
+    async def search_places(self, mode='', category='', cuisine='', district='', query='', limit=5, *, sort_by='default', latitude=None, longitude=None, origin_place_id='', radius_m=None, min_rating=None, max_price=None, exclude_review_candidates=False):
         if not 1 <= limit <= 20:
             raise ValueError('limit must be 1–20')
         mode = _norm(mode, {'restaurants', 'facilities'}, MODE_ALIASES)
@@ -110,7 +111,6 @@ class PetDataAccess:
             return {'query_status': 'invalid_filter', 'items': [], 'total': 0, 'returned': 0,
                     'message': 'Unsupported mode/category/cuisine. Retry with exactly these values, or drop the filter.',
                     'valid_modes': ['restaurants', 'facilities'], 'valid_categories': list(CATEGORIES), 'valid_cuisines': CUISINES}
-        data = self.pets.places(mode=mode, categories=[category] if category else [], cuisines=[cuisine] if cuisine else [], district=district, query=query, for_agent=True)
         if origin_place_id and (latitude is not None or longitude is not None):
             raise ValueError('Use coordinates or origin_place_id, not both')
         origin=self.origin
@@ -118,7 +118,17 @@ class PetDataAccess:
         if origin_place_id:
             source=self.pets.place(origin_place_id)
             origin=(source['latitude'],source['longitude']) if source and source.get('latitude') is not None and source.get('longitude') is not None else None
-        result = select_places(data,sort_by=sort_by,origin=origin,radius_m=radius_m,min_rating=min_rating,limit=limit,max_price=max_price)
+        search = getattr(self.pets, 'search_agent_places', None)
+        if callable(search):
+            result = await search(mode=mode, category=category, cuisine=cuisine, district=district,
+                                  query=query, sort_by=sort_by, origin=origin, radius_m=radius_m,
+                                  min_rating=min_rating, max_price=max_price, limit=limit,
+                                  exclude_review_candidates=exclude_review_candidates)
+        else:
+            data = self.pets.places(mode=mode, categories=[category] if category else [], cuisines=[cuisine] if cuisine else [], district=district, query=query, for_agent=True)
+            if exclude_review_candidates:
+                data['items'] = [p for p in data['items'] if (p.get('restaurant_details') or {}).get('match_status') != 'needs_review']
+            result = select_places(data,sort_by=sort_by,origin=origin,radius_m=radius_m,min_rating=min_rating,limit=limit,max_price=max_price)
         self._remember(result['items'])
         result['sources']=sources_for_places(result['items'])
         result['items']=[place_for_agent(p) for p in result['items']]

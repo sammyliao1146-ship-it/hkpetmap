@@ -22,6 +22,7 @@ from agent.data.saved_lookup import saved_lookup
 from agent.data.fast_answers import fast_answer
 from backend.app.config.container import Container
 from backend.app.config.dependencies import get_container
+from backend.app.cache.place_queries import QUERY_CACHE_VERSION, QUERY_TTL
 from backend.app.observability.trace import TurnTrace, current_trace
 from backend.app.models.assistant import ChatOrigin, ChatRequest, ChatResponse, IntentRouting, PrefillRequest
 
@@ -40,6 +41,9 @@ async def capabilities(container: Container = Depends(get_container)) -> dict:
     tools = [function_tool(query) for query in make_pet_queries(_access(container))]+[WebKnowledgeService(container.settings).tool()]
     return {
         "read_only": True,
+        "saved_place_queries": {"coverage":["restaurants","facilities"],
+                                "cache_version":QUERY_CACHE_VERSION,"result_ttl_seconds":QUERY_TTL,
+                                "random_results_cached":False},
         "web_knowledge":{"model":container.settings.web_search_model,"domain_filtered":True,"topics":list(DOMAINS),"medical_diagnosis":False},
         "answer_guard":{"model":container.settings.intent_model,"checks":["relevance","scope","request_match"],"fail_closed":True},
         "intent_router": {"model":container.settings.intent_model,

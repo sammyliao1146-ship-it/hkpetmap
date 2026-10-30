@@ -88,11 +88,11 @@ def test_agent_reuses_identical_reads_and_omits_irrelevant_review_media(tmp_path
         place=svc.snapshot.places[1]
         place.restaurant_details=RestaurantDetails(google_place_id='test-place',rating=4.5,price_range={'endPrice':{'units':'150'}},
             reviews=[{'text':'review '*5000}],photo_authors=[{'displayName':'long photo metadata'}])
-        calls=0;original=svc.places
-        def counted(**kwargs):
+        calls=0;original=svc.search_agent_places
+        async def counted(**kwargs):
             nonlocal calls
-            calls+=1;return original(**kwargs)
-        monkeypatch.setattr(svc,'places',counted)
+            calls+=1;return await original(**kwargs)
+        monkeypatch.setattr(svc,'search_agent_places',counted)
         access=PetDataAccess(svc)
         try:
             a,b=await asyncio.gather(access.search_places(mode='restaurants'),access.search_places(mode='restaurants'))

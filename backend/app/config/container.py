@@ -34,6 +34,7 @@ class Container:
 
     async def aclose(self):
         await self.nearby_flights.aclose()
+        await self.pets.place_query_cache.aclose()
         await self.conversations.aclose()
         await self.client.aclose()
         await close_model_clients()

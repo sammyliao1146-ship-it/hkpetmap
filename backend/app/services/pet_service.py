@@ -15,6 +15,9 @@ from backend.app.cache.redis_cache import RedisCache
 from backend.app.data import adapters
 from backend.app.data.place_views import map_summary, revision_of
 from backend.app.data.geography import district_matches
+from backend.app.data.agent_place_index import AgentPlaceIndex
+from backend.app.cache.place_queries import PlaceQueryCache, canonical_district
+from agent.data.place_search import select_places
 from backend.app.data.activity_sources import SOURCES as ACTIVITY_SOURCES, fetch_source
 from backend.app.data.malls import load_malls, merge_malls, mall_source_status, MALL_SOURCE
 from backend.app.data.photos import attach_photos
@@ -42,6 +45,9 @@ class PetService:
         self._view_snapshot=None
         self._view_revision=None
         self._summaries=None
+        self._agent_index = None
+        self._agent_index_snapshot = None
+        self.place_query_cache = PlaceQueryCache(cache)
         self._lock = asyncio.Lock()
         self._next_retry = datetime.min.replace(tzinfo=HK)
 
@@ -86,7 +92,10 @@ class PetService:
                 attach_restaurant_details(snapshot.places)
                 attach_photos(snapshot.places)
                 enrich_english(snapshot.places,snapshot.activities)
+                index = await asyncio.to_thread(AgentPlaceIndex, snapshot.places)
                 self.snapshot=snapshot # Swap only after complete enrichment.
+                self._agent_index = index
+                self._agent_index_snapshot = snapshot
             self._loaded_signature=signature
 
     async def reload_if_changed(self):
@@ -313,7 +322,19 @@ class PetService:
                                 {'name':'漁護署狗隻訓練課程','name_en':'AFCD dog training courses','url':AFCD_COURSES,'integration':'official_link_only'}],
             'message':'政府同機構公開資料，唔係全港完整名單。名額、價格同攜寵條件未有提供就係未知。'}
 
+    def _saved_agent_index(self):
+        if self._agent_index_snapshot is not self.snapshot or self._agent_index is None:
+            self._agent_index = AgentPlaceIndex(self.snapshot.places if self.snapshot else [])
+            self._agent_index_snapshot = self.snapshot
+        return self._agent_index
+
     def places(self, *, mode='', categories=(), cuisines=(), district='', query='', for_agent=False):
+        if for_agent:
+            items = self._saved_agent_index().select(mode=mode, categories=categories, cuisines=cuisines,
+                                                    district=district, query=query)
+            return {'status': self._status(), 'fetched_at': self.snapshot.fetched_at.isoformat() if self.snapshot else None,
+                    'items': items, 'total': len(items), 'mapped': sum(p['latitude'] is not None for p in items),
+                    'sources': self.snapshot.sources if self.snapshot else []}
         items = self.snapshot.places if self.snapshot else []
         if mode:
             items = [p for p in items if (p.category=='restaurants') == (mode=='restaurants')]
@@ -328,6 +349,42 @@ class PetService:
         return {'status':self._status(), 'fetched_at':self.snapshot.fetched_at.isoformat() if self.snapshot else None,
             'items':[p.model_dump(mode='json',exclude={'photos':True,'restaurant_details':{'reviews','photo_authors','photo_url','photo_source_url','photo_credit','dish_photo_url','dish_photo_source_url','dish_photo_credit','dish_photo_kind'}} if for_agent else None) for p in items], 'total':len(items),
             'mapped':sum(p.latitude is not None for p in items), 'sources':self.snapshot.sources if self.snapshot else []}
+
+    async def search_agent_places(self, *, mode='', category='', cuisine='', district='', query='',
+                                  sort_by='default', origin=None, radius_m=None, min_rating=None,
+                                  max_price=None, limit=5, exclude_review_candidates=False):
+        # Freeze a coherent published version before any Redis await. A reader
+        # reload during a cache miss must not store new data under an old key.
+        index = self._saved_agent_index()
+        snapshot = self.snapshot
+        revision = self.data_revision()
+        status = self._status()
+        fetched_at = snapshot.fetched_at.isoformat() if snapshot else None
+        parameters = dict(mode=mode, category=category, cuisine=cuisine,
+                          district=canonical_district(district), query=query.casefold(),
+                          sort_by=sort_by, origin=origin,
+                          radius_m=float(radius_m) if radius_m is not None else None,
+                          min_rating=float(min_rating) if min_rating is not None else None,
+                          max_price=float(max_price) if max_price is not None else None,
+                          limit=limit,
+                          exclude_review_candidates=exclude_review_candidates)
+
+        def select():
+            rows = index.select(mode=mode, categories=[category] if category else [],
+                                cuisines=[cuisine] if cuisine else [], district=district, query=query)
+            data = {'status': status, 'fetched_at': fetched_at, 'items': rows,
+                    'total': len(rows), 'mapped': sum(p['latitude'] is not None for p in rows),
+                    'sources': snapshot.sources if snapshot else []}
+            if exclude_review_candidates:
+                data['items'] = [p for p in data['items'] if
+                                 (p.get('restaurant_details') or {}).get('match_status') != 'needs_review']
+            return select_places(data, sort_by=sort_by, origin=origin, radius_m=radius_m,
+                                 min_rating=min_rating, max_price=max_price, limit=limit)
+
+        # Random draws must remain fresh, while using the same complete saved index.
+        if sort_by == 'random':
+            return select()
+        return await self.place_query_cache.get_or_create(revision, parameters, select)
 
     def activities(self, *, category='', query='', on_date='', district=''):
         if on_date:

@@ -4,8 +4,6 @@ import re
 from agent.data.data_access import TRANSPORT_RULES
 from agent.data.saved_lookup import saved_lookup
 from agent.subagents.intent_router import assistant_intro_reply, gate_reply
-from backend.app.services.outing_plan import region_matches
-from agent.data.place_search import select_places
 from backend.app.data.geography import DISTRICTS
 
 ZH_DISTRICTS='|'.join(sorted(set(DISTRICTS.values())|{'港島','香港島','九龍','新界'},key=len,reverse=True))
@@ -98,10 +96,9 @@ async def fast_answer(message, history, access, language):
         match=re.fullmatch(r'find dog-friendly restaurants under (?:HK\$|\$)?([1-9]\d{0,4}) per person',text,re.I)
         if not match:return None
         price=float(match.group(1))
-    data=access.pets.places(mode='restaurants',cuisines=[cuisine] if cuisine else [],district=district,for_agent=True)
-    data['items']=[p for p in data['items'] if (p.get('restaurant_details') or {}).get('match_status')!='needs_review']
-    if region:data['items']=[p for p in data['items'] if region_matches(p,region)]
-    result=select_places(data,sort_by='rating' if rating is not None else 'default',min_rating=rating,max_price=price,limit=limit)
+    result=await access.search_places(mode='restaurants',cuisine=cuisine or '',district=region or district,
+                                     sort_by='rating' if rating is not None else 'default',min_rating=rating,
+                                     max_price=price,limit=limit,exclude_review_candidates=True)
     rows=result['items']
     if not rows:
         answer='No saved restaurants match all those filters. Missing ratings/prices are not treated as a match.' if language=='en' else '暫未有已儲存餐廳符合全部條件；缺少評分或價錢嘅餐廳唔會當作符合。'

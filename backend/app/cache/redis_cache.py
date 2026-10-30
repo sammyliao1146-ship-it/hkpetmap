@@ -139,7 +139,7 @@ class RedisCache:
     async def get_bytes(self, key: str) -> bytes | None:
         if self.client is not None:
             try:
-                timeout=.05 if key.startswith('memory:') else .1 if key.startswith('nearby:') else None
+                timeout=.05 if key.startswith('memory:') else .1 if key.startswith(('nearby:', 'place-query:')) else None
                 async with asyncio.timeout(timeout):
                     return await self.client.get(self._key(key))
             except (RedisError, OSError) as exc:
@@ -149,7 +149,7 @@ class RedisCache:
     async def set_bytes(self, key: str, value: bytes, ttl: int | None = None) -> None:
         if self.client is not None:
             try:
-                timeout=.05 if key.startswith('memory:') else .1 if key.startswith('nearby:') else None
+                timeout=.05 if key.startswith('memory:') else .1 if key.startswith(('nearby:', 'place-query:')) else None
                 async with asyncio.timeout(timeout):
                     await self.client.set(self._key(key), value, ex=ttl)
                 return
