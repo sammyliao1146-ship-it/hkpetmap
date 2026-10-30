@@ -63,6 +63,22 @@ def test_coalesced_read_survives_one_waiter_cancelling():
     asyncio.run(run())
 
 
+def test_nearby_answer_with_nonempty_sources_can_be_saved_in_json_cache(tmp_path):
+    async def run():
+        svc,cache,client=service(tmp_path)
+        p=svc.snapshot.places[1]
+        row={'id':p.id,'name':p.name,'name_en':'Sample Restaurant','address':'Sample Road',
+             'rating':4.5,'rating_count':25,'price_min':100,'price_max':180,'distance_m':100,'cuisine':'日式'}
+        featured=NS(version=svc.data_revision(),nearest=lambda *args:[row])
+        c=NS(pets=svc,cache=cache,featured=featured,nearby_flights=SingleFlight())
+        value=await _nearby_featured(c,ChatOrigin(latitude=22.3,longitude=114.17),'en')
+        assert value['sources'][0]['url']==str(p.source_url)
+        key=f'nearby:v2:{svc.data_revision()}:en:22.300:114.170'
+        assert (await cache.get_json(key))['sources']==value['sources']
+        await c.nearby_flights.aclose();await client.aclose();await cache.aclose()
+    asyncio.run(run())
+
+
 def test_initial_storage_does_not_delay_model_and_final_save_is_joined():
     async def run():
         release = asyncio.Event(); snapshots = []

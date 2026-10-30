@@ -6,6 +6,9 @@ from agent.data.saved_lookup import saved_lookup
 from agent.subagents.intent_router import assistant_intro_reply, gate_reply
 from backend.app.services.outing_plan import region_matches
 from agent.data.place_search import select_places
+from backend.app.data.geography import DISTRICTS
+
+ZH_DISTRICTS='|'.join(sorted(set(DISTRICTS.values())|{'港島','香港島','九龍','新界'},key=len,reverse=True))
 
 
 def _name(p, language):
@@ -25,6 +28,29 @@ async def fast_answer(message, history, access, language):
                 'confidence':1,'action':'refuse','classifier_model':'local-denial-rule'}}
     direct=saved_lookup(text,history,access,language)
     if direct:return direct
+    if re.fullmatch(r'(?:show me|find) dog training courses(?:, with dates, venues, fees and enrolment links)?|幫我睇吓有咩狗隻訓練班(?:，列出日期、地點、費用同報名連結)?',text,re.I):
+        data=await access.search_activities(category='訓練課程',limit=3)
+        rows=data['items'];lines=[]
+        for row in rows:
+            name=(row.get('name_en') or row['name']) if language=='en' else row['name']
+            venue=(row.get('venue_name_en') or row.get('venue_name')) if language=='en' else row.get('venue_name')
+            fee=(row.get('fee_text_en') or row.get('fee_text')) if language=='en' else row.get('fee_text')
+            unknown='Not published' if language=='en' else '未有公布'
+            lines.append(f"- **{name}** · {row.get('dates_text') or unknown}\n  {venue or unknown} · {fee or unknown}\n  [{'Listing / enrolment' if language=='en' else '原文／報名'}]({row.get('booking_url') or row['source_url']})")
+        answer='\n'.join(lines) if lines else ('No saved dog-training courses are listed.' if language=='en' else '暫未有已收錄狗隻訓練課程。')
+        answer+='\n\n'+('Published listings only; confirm dates, fees and remaining places with the organiser. No booking was made.' if language=='en' else '以上係已公布課程資料；日期、費用及剩餘名額請向主辦方確認，未有代你報名。')
+        return {'answer':answer,'sources':list({r['source_url']:{'title':r.get('source_name',''),'url':r['source_url']} for r in rows}.values())}
+    if re.fullmatch(r'(?:我(?:星期[一二三四五六日天])?想帶狗出街[，,])?有咩攜寵交通服務(?:[？?]有咩條件要留意)?|(?:i want to take my dog out on (?:sunday|saturday)\. )?what pet transport options and rules should i know about',text,re.I):
+        services=access.pets.catalogue()['transport_services']
+        lines=[];sources=[]
+        for s in services:
+            name=(s.get('name_en') or s['name']) if language=='en' else s['name']
+            notes=(s.get('notes_en') or s.get('notes')) if language=='en' else s.get('notes')
+            lines.append(f"- **{name}**: {notes or ''}");sources.append({'title':name,'url':str(s['url'])})
+        lines.extend(r['notes_en'] if language=='en' else r['notes'] for r in TRANSPORT_RULES)
+        sources.extend({'title':r['mode'],'url':r['source_url']} for r in TRANSPORT_RULES)
+        answer='\n\n'.join(lines)+'\n\n'+('Saved guidance only; confirm the selected date, service availability, tickets and rules with each operator.' if language=='en' else '以上係已收錄指引；所選日期嘅實際班次、供應、車票及最新規則請向營辦商確認。')
+        return {'answer':answer,'sources':sources}
     if re.fullmatch(r'who are you|what can you do|你係邊個|你是誰|你能做什麼|你可以做咩',text,re.I):
         return {'answer':assistant_intro_reply(language)}
     if re.fullmatch(r'how to go to (?:the )?restaurant|how do i get (?:there|to the restaurant)|點去(?:嗰間|呢間)?餐廳|點去',text,re.I):
@@ -55,10 +81,16 @@ async def fast_answer(message, history, access, language):
                 answer='\n'.join(notes[:6])+'\n\n'+('Saved venue guidance, not a fresh check. Confirm current rules and individual tenant restrictions with the mall.' if language=='en' else '以上係已收錄場地指引，並非即時查證；最新安排及個別店舖規則請向商場確認。')
                 return {'answer':answer,'places':[{'id':p.id,'name':p.name_en or p.name}],
                         'sources':[{'title':p.source_name,'url':str(p.source_url)}]}
-    cuisine=None;region=None;rating=None;price=None;limit=3
+    cuisine=None;region=None;district='';rating=None;price=None;limit=3
     cuisines={'japanese':'日式','italian':'意式／薄餅','korean':'韓式','thai':'泰式','chinese':'中式'}
     match=re.fullmatch(r'find ([1-5]) dog-friendly (Japanese|Italian|Korean|Thai|Chinese) restaurants in (Kowloon|Hong Kong Island|New Territories) rated at least ([0-5](?:\.\d)?)',text,re.I)
-    if match:
+    cafe=re.fullmatch(r'(?:find|show me) dog-friendly caf[eé]s in ([A-Za-z -]+)(?:, with source links)?',text,re.I)
+    zh_cafe=re.fullmatch(r'(?:我想)?(?:帶狗)?去('+ZH_DISTRICTS+r')(?:區)?(?:飲|喝)咖啡(?:[，,](?:幫我)?(?:搵|找)(?:有資料來源(?:嘅|的))?餐廳)?',text)
+    if cafe or zh_cafe:
+        district=(cafe or zh_cafe).group(1)
+        if cafe and district.lower() not in DISTRICTS:return None
+        cuisine='咖啡／輕食'
+    elif match:
         count,cuisine,region,rating=match.groups();limit=int(count);cuisine=cuisines[cuisine.lower()]
         region={'kowloon':'kowloon','hong kong island':'hong_kong_island','new territories':'new_territories'}[region.lower()];rating=float(rating)
         if rating>5:return None
@@ -66,7 +98,7 @@ async def fast_answer(message, history, access, language):
         match=re.fullmatch(r'find dog-friendly restaurants under (?:HK\$|\$)?([1-9]\d{0,4}) per person',text,re.I)
         if not match:return None
         price=float(match.group(1))
-    data=access.pets.places(mode='restaurants',cuisines=[cuisine] if cuisine else [],for_agent=True)
+    data=access.pets.places(mode='restaurants',cuisines=[cuisine] if cuisine else [],district=district,for_agent=True)
     data['items']=[p for p in data['items'] if (p.get('restaurant_details') or {}).get('match_status')!='needs_review']
     if region:data['items']=[p for p in data['items'] if region_matches(p,region)]
     result=select_places(data,sort_by='rating' if rating is not None else 'default',min_rating=rating,max_price=price,limit=limit)

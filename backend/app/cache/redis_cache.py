@@ -10,6 +10,11 @@ from redis.asyncio import Redis
 from redis.exceptions import RedisError
 
 logger = logging.getLogger(__name__)
+HIT_SCRIPT = """
+local count = redis.call('INCR', KEYS[1])
+if count == 1 then redis.call('EXPIRE', KEYS[1], ARGV[1]) end
+return count
+"""
 
 
 class MemoryCache:
@@ -109,6 +114,7 @@ class RedisCache:
         self.prefix = prefix
         self.fallback = MemoryCache()
         self._warned = False
+        self._rate_retry_at = 0.0
 
     @classmethod
     def from_url(cls, url: str, prefix: str = "hkpet") -> "RedisCache":
@@ -119,7 +125,7 @@ class RedisCache:
 
     def _degraded(self, exc: Exception) -> None:
         if not self._warned:
-            logger.warning("Redis unavailable, using in-process cache: %s", exc)
+            logger.warning("Redis unavailable, using in-process cache: %s", type(exc).__name__)
             self._warned = True
 
     async def ping(self) -> bool:
@@ -133,7 +139,9 @@ class RedisCache:
     async def get_bytes(self, key: str) -> bytes | None:
         if self.client is not None:
             try:
-                return await self.client.get(self._key(key))
+                timeout=.05 if key.startswith('memory:') else .1 if key.startswith('nearby:') else None
+                async with asyncio.timeout(timeout):
+                    return await self.client.get(self._key(key))
             except (RedisError, OSError) as exc:
                 self._degraded(exc)
         return await self.fallback.get(self._key(key))
@@ -141,7 +149,9 @@ class RedisCache:
     async def set_bytes(self, key: str, value: bytes, ttl: int | None = None) -> None:
         if self.client is not None:
             try:
-                await self.client.set(self._key(key), value, ex=ttl)
+                timeout=.05 if key.startswith('memory:') else .1 if key.startswith('nearby:') else None
+                async with asyncio.timeout(timeout):
+                    await self.client.set(self._key(key), value, ex=ttl)
                 return
             except (RedisError, OSError) as exc:
                 self._degraded(exc)
@@ -188,14 +198,14 @@ class RedisCache:
 
     async def hit(self, key: str, window: int) -> int:
         """Fixed-window counter, returns the number of hits in the current window."""
-        if self.client is not None:
+        if self.client is not None and time.monotonic() >= self._rate_retry_at:
             try:
-                name = self._key(key)
-                count = await self.client.incr(name)
-                if count == 1:
-                    await self.client.expire(name, window)
+                # Atomic increment + initial expiry: a cancellation cannot leave an immortal key.
+                async with asyncio.timeout(.1):
+                    count = await self.client.eval(HIT_SCRIPT, 1, self._key(key), window)
                 return int(count)
             except (RedisError, OSError) as exc:
+                self._rate_retry_at = time.monotonic()+30
                 self._degraded(exc)
         return await self.fallback.incr_window(self._key(key), window)
 

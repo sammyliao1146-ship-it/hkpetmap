@@ -114,3 +114,28 @@ def test_literal_history_matching_preserves_alias_boundaries_and_later_matches()
     assert whole_name_position('try cafe (central).', 'Cafe (Central)') == 4
     assert whole_name_position('去赤柱廣場散步', '赤柱廣場') == 1
     assert whole_name_position('x2cafe9', 'Cafe') == -1
+
+
+def test_all_ui_suggestion_questions_have_sourced_saved_data_paths(tmp_path):
+    from pydantic import HttpUrl
+    svc,_,_=service(tmp_path)
+    p=svc.snapshot.places[1];p.name_en='Cafe';p.district='九龍城區';p.cuisines=['咖啡／輕食'];p.cuisine_source=HttpUrl('https://example.org/menu')
+    access=PetDataAccess(svc)
+    cases=[
+        ('我想帶狗去九龍城飲咖啡，幫我搵有資料來源嘅餐廳。','zh-Hant'),
+        ('Find dog-friendly cafés in Kowloon City, with source links.','en'),
+        ('幫我睇吓有咩狗隻訓練班，列出日期、地點、費用同報名連結。','zh-Hant'),
+        ('Show me dog training courses, with dates, venues, fees and enrolment links.','en'),
+        ('我星期日想帶狗出街，有咩攜寵交通服務？有咩條件要留意？','zh-Hant'),
+        ('I want to take my dog out on Sunday. What pet transport options and rules should I know about?','en'),
+    ]
+    async def run():
+        for text,language in cases:
+            value=await fast_answer(text,[],access,language)
+            assert value and value['sources'],text
+            assert ChatResponse(**value,model='saved-data').answer
+        for text in ('我想帶狗去九龍城飲咖啡，價錢要100以下',
+                     'Show me dog training courses, and guarantee availability today',
+                     'Find dog-friendly cafés in Kowloon City, with source links and write code'):
+            assert await fast_answer(text,[],access,'en') is None
+    asyncio.run(run())

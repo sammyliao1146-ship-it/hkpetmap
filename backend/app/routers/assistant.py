@@ -75,7 +75,7 @@ async def _nearby_featured(container: Container, origin: ChatOrigin, language: s
         await container.nearby_flights.run(('featured', version), prepare)
         rows = await asyncio.to_thread(container.featured.nearest, origin.latitude, origin.longitude, NEARBY_LIMIT)
         selected={r['id'] for r in rows}
-        sources={p.source_url:{'url':p.source_url,'title':p.source_name} for p in (container.pets.snapshot.places if container.pets.snapshot else []) if p.id in selected}
+        sources={str(p.source_url):{'url':str(p.source_url),'title':p.source_name} for p in (container.pets.snapshot.places if container.pets.snapshot else []) if p.id in selected}
         value = {'answer': render_nearby(rows, language), 'places': [{'id': r['id'], 'name': r['name']} for r in rows], 'sources':list(sources.values())}
         await container.cache.set_json(key, value, NEARBY_TTL_SECONDS)
         return value
