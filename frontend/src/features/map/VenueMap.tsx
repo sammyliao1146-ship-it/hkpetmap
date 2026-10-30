@@ -131,7 +131,7 @@ function VenueDetails({place,enabled}:{place:PetPlace;enabled:boolean}) {
     </section>;
 }
 
-function PlaceMarker({place, related, active, offset=[0,0]}: {place: PetPlace; related: PetPlace[]; active: PetPlace|null; offset?: [number,number]}) {
+function PlaceMarker({place, related, active, offset=[0,0],onDismiss}: {place: PetPlace; related: PetPlace[]; active: PetPlace|null; offset?: [number,number];onDismiss:(id:string)=>void}) {
   const {language,tx,placeName,placeAddress,localText,sourceName,category}=useLanguage();
   const map=useMap();
   const [zoom,setZoom]=useState(map.getZoom());
@@ -163,7 +163,7 @@ function PlaceMarker({place, related, active, offset=[0,0]}: {place: PetPlace; r
   const center=map.unproject([point.x+offset[0]*offsetScale,point.y+offset[1]*offsetScale],zoom);
   const content=<>
     <Tooltip>{placeName(place)}{place.category==='restaurants' && ` · ${(place.cuisines.length?place.cuisines:['未分類']).map(c=>tx(c)).join(' / ')}`}</Tooltip>
-    <Popup ref={popupRef} eventHandlers={{add:()=>setPopupOpen(true),remove:()=>setPopupOpen(false)}} maxWidth={400} className={place.category==='restaurants'?'restaurant-popup-shell':''}><div className={place.category==='restaurants'?'venue-popup restaurant-popup-wrap':'venue-popup'}>{related.map(p=><VenueDetails key={p.id} place={p} enabled={popupOpen}/>)}</div></Popup>
+    <Popup ref={popupRef} eventHandlers={{add:()=>setPopupOpen(true),remove:()=>{setPopupOpen(false);onDismiss(place.id);}}} maxWidth={400} className={place.category==='restaurants'?'restaurant-popup-shell':''}><div className={place.category==='restaurants'?'venue-popup restaurant-popup-wrap':'venue-popup'}>{related.map(p=><VenueDetails key={p.id} place={p} enabled={popupOpen}/>)}</div></Popup>
   </>;
   if(place.category==='restaurants'){
     const rating=place.restaurant_details?.rating;
@@ -222,7 +222,7 @@ function ParkingCoverage({groups,viewKey}: {groups: ParkingGroup[];viewKey:strin
   })}</>;
 }
 
-function VisiblePlaces({places,activePlace,cluster=true}:{places:PetPlace[];activePlace:PetPlace|null;cluster?:boolean}) {
+function VisiblePlaces({places,activePlace,cluster=true,onDismiss}:{places:PetPlace[];activePlace:PetPlace|null;cluster?:boolean;onDismiss:(id:string)=>void}) {
   const map=useMap();
   const {language}=useLanguage();
   const [,setView]=useState(0);
@@ -243,15 +243,15 @@ function VisiblePlaces({places,activePlace,cluster=true}:{places:PetPlace[];acti
         const angle=2*Math.PI*i/buckets.size;
         const spread=related[0].category==='restaurants'?12:22;
         const offset: [number,number]=buckets.size>1?[Math.cos(angle)*spread,Math.sin(angle)*spread]:[0,0];
-        return <PlaceMarker key={`${key}:${type}`} place={related.find(p=>p.id===activePlace?.id)||related[0]} related={related} offset={offset} active={related.some(p=>p.id===activePlace?.id)?activePlace:null}/>;
+        return <PlaceMarker key={`${key}:${type}`} place={related.find(p=>p.id===activePlace?.id)||related[0]} related={related} offset={offset} active={related.some(p=>p.id===activePlace?.id)?activePlace:null} onDismiss={onDismiss}/>;
       });
     })}
   </>;
 }
 
-export default function VenueMap({places,activePlace,viewKey,parkingGroups=[]}: {places:PetPlace[];activePlace:PetPlace|null;viewKey:string;parkingGroups?:ParkingGroup[]}) {
+export default function VenueMap({places,activePlace,viewKey,parkingGroups=[],onDismiss}:{places:PetPlace[];activePlace:PetPlace|null;viewKey:string;parkingGroups?:ParkingGroup[];onDismiss:(id:string)=>void}) {
   return <MapContainer center={[22.3193,114.1694]} zoom={11} zoomControl={false} scrollWheelZoom className="venue-map">
     <MinimalBasemap/><MapView viewKey={viewKey}/><ParkingCoverage groups={parkingGroups} viewKey={viewKey}/><ZoomControl position="topright"/><LocateButton/>
-    <VisiblePlaces places={places} activePlace={activePlace} cluster={!viewKey.startsWith('plan:')}/>
+    <VisiblePlaces places={places} activePlace={activePlace} cluster={!viewKey.startsWith('plan:')} onDismiss={onDismiss}/>
   </MapContainer>;
 }
