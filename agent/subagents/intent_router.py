@@ -24,7 +24,7 @@ INTENT_INSTRUCTIONS='''You are a tool-free intent classifier for a Hong Kong pet
 Return only the required structured intent, map_mode, confidence (0 to 1).
 Allowed intents:
 - map_query: find/filter/compare/read places, restaurants, facilities or pet activities in the map. Modes: distance (nearest/near me), rating (rating/reviews ranking), cuisine, random (pick/surprise me), general (other map content/detail searches). Multiple filters choose the user's main requested ordering; the main assistant will retain all original conditions.
-- trip_plan: plan a pet-friendly outing/itinerary, multiple stops, date or sequence of visits in Hong Kong.
+- trip_plan: plan an outing/itinerary involving this map's places, multiple stops, date or sequence of visits. In this Hong Kong pet-map application, "give me a plan that includes restaurant shopping mall" and "plan a restaurant and mall visit" are confident trip_plan/none requests even without the words pet, dog or Hong Kong. Missing district, date, cuisine, transport or starting point affects planning, not intent confidence. Do not require every planning preference before accepting the request. This application context does not make explicitly unrelated plans, coding tasks, bookings/payments or trips to other countries in scope.
 - transport: ask how to travel with a pet, transport choices or carrying restrictions in Hong Kong; asking directions to a restaurant or other in-map venue is also transport, even without explicitly mentioning a pet. "how to go to the restaurant", "how do I get there" and "點去餐廳" are confident transport/none requests. Missing destination or starting point calls for a focused clarification, not out_of_scope or low confidence. Use history to resolve the destination only when it is unambiguous.
 - pet_policy: ask pet-friendly restaurant/venue access rules, allowed animals, leash/carrier/size/area restrictions.
 - pet_health: pet diet/food safety, general care, vaccination, prevention and symptom/poisoning triage. "Can dogs eat pasta?" belongs here, NOT cuisine search. General pet health guidance is in scope, but not a request to definitively diagnose or prescribe drugs/doses.
@@ -37,6 +37,7 @@ Pet diet/health questions outrank any food/cuisine keywords: 狗狗可以食意�
 For overlapping allowed intents choose pet_health for animal health/care, restaurant_info for restaurant facts requiring web research, trip_plan for an itinerary, pet_policy for venue access, transport for travelling, otherwise map_query. Relevant follow-up questions are allowed using context. If the message is vague or context does not establish its intent, use low confidence (<0.75), not a confident invented intent. Confidence is confidence in the selected class, including out_of_scope.
 A short or underspecified request to find/recommend a restaurant, cafe, park, vet or other place ("find a restaurant", "搵間餐廳", "有咩餐廳") is a confident map_query (general, or the mode its words indicate), with confidence >= 0.85: missing district, cuisine or location affects execution, not the intent. Reserve low confidence for messages whose topic is genuinely unclear ("help", "this one", "ok").
 A short follow-up that refines the previous map search (price/budget such as "price less than 200" / "under $200" / "平啲", rating, distance, cuisine, district, "another one") is a confident map_query using the previous request's context, confidence >= 0.85; do not ask for clarification when the history shows an active map search.
+An explicit itinerary request involving supported venue types (restaurants, malls, parks or pet activities) is confidently trip_plan/none, confidence >= 0.85, even in a first message with incomplete grammar or missing preferences. "give me a plan that includes restaurant shopping mall" -> trip_plan/none; "幫我安排餐廳同商場行程" -> trip_plan/none. Do not classify it as out_of_scope or low confidence merely because no pet or district is named. Follow-ups such as "include a shopping mall too" continue an established outing plan; an isolated "plan" without a topic still needs clarification. "plan a Python scraper for restaurant websites" remains out_of_scope.
 Examples: "find a restaurant" -> map_query/general; "你是誰" -> assistant_identity/none; "你能做什麼" -> assistant_identity/none; "我是谁" -> out_of_scope/none; "附近評分最高嘅日式狗友善餐廳" -> map_query/rating; "隨機揀間" after restaurants -> map_query/random; "帶狗去西貢玩一日" -> trip_plan/none; "狗狗可以搭的士嗎" -> transport/none; "餐廳一定要用寵物車嗎" -> pet_policy/none; "幫我寫Python" -> out_of_scope/none; "你好" with no relevant question -> out_of_scope/none.
 '''
 
@@ -75,16 +76,18 @@ def assistant_intro_reply(language: str) -> str:
         "我唔會代你訂位或付款，亦唔會作診斷或開處方。"
     )
 
-def gate_reply(action: str, language: str) -> str:
+def gate_reply(action: str, language: str, intent: str | None = None) -> str:
     if action=='refuse':
         return ('I can only help with this map’s places, pet-friendly outing plans, pet transport, venue access rules, pet health/care and restaurant information.' if language=='en' else '我只可以幫你查地圖地點、規劃攜寵行程、查詢攜寵交通、場地入場規定、寵物健康照護同餐廳資訊。呢個問題唔喺服務範圍內。')
+    if action=='clarify' and intent=='trip_plan':
+        return ('Which area would you like for your outing: Hong Kong Island, Kowloon or the New Territories? You can also say "choose for me".' if language=='en' else '你想喺港島、九龍定新界安排行程？亦可以話「幫我揀」。')
     return ('Are you looking for a place on the map, planning a pet outing, asking about pet transport, checking venue access rules, or asking about pet health or restaurants? Please add a little detail.' if language=='en' else '你係想搵地圖上嘅地點、規劃攜寵行程、查交通，了解場地入場規定，定係查寵物健康或餐廳資訊？請補充少少條件。')
 
 def main_agent_directive(decision: IntentDecision) -> str:
     # Only validated enums enter instructions. No classifier-generated prose is promoted.
     hints={
       'map_query':'Use map tools to query the requested places. Preserve all user filters. Do not invent distances or ratings; ask for a location if distance ordering lacks an origin.',
-      'trip_plan':'Plan a pet-friendly outing using sourced places; distinguish a suggested stop order from verified routes/travel times.',
+      'trip_plan':'Plan a pet-friendly outing using sourced places; preserve every requested stop type, including both a restaurant and a shopping mall when requested. The request is valid without explicitly mentioning pets. Use an already supplied district or destination from the current request/history. If the area is missing, ask one focused question about Hong Kong Island, Kowloon or the New Territories and offer to choose an area; do not ask the user to identify the general topic again or require every preference. If the user asks you to choose, select a sourced Hong Kong area and state that choice. Distinguish a suggested stop order from verified routes/travel times, and explain sourced mall pet-entry restrictions without assuming every tenant accepts pets.',
       'transport':'Use get_pet_transport for carrying restrictions. For directions, resolve the destination with place tools and use get_pet_directions for sourced walking/driving links. If several restaurants were mentioned, ask which one; if none is identifiable, ask for its name. Missing context is a valid clarification. Do not recommend ordinary MTR or assume minibuses accept pets. Explain documented special-service conditions. Do not invent routes, schedules, travel times, prices or bookings.',
       'pet_policy':'Read the venue policy and provenance with place tools; distinguish third-party listings from official rules.',
     }

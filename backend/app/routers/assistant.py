@@ -327,7 +327,7 @@ async def _chat(payload: ChatRequest, container: Container, memory_history: list
         if result['status']=='unavailable':raise HTTPException(503,result['answer'])
         return ChatResponse(answer=result['answer'],model=settings.web_search_model,routing=routing,sources=result['sources'])
     if action!='main_agent':
-        return ChatResponse(answer=gate_reply(action,payload.language),model=settings.intent_model,routing=routing)
+        return ChatResponse(answer=gate_reply(action,payload.language,decision.intent),model=settings.intent_model,routing=routing)
     if decision.intent == 'map_query' and decision.map_mode == 'general':
         direct = saved_lookup(payload.message, history, _access(container), payload.language)
         if direct:

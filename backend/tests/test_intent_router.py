@@ -2,7 +2,7 @@ import asyncio
 import pytest
 from fastapi.testclient import TestClient
 from pydantic import ValidationError
-from agent.subagents.intent_router import IntentDecision, route_action
+from agent.subagents.intent_router import IntentDecision, route_action, main_agent_directive
 from backend.app.config.settings import Settings
 from backend.app.config.container import Container
 from test_pet_data import service
@@ -63,4 +63,47 @@ def test_classifier_failure_never_calls_main(tmp_path,monkeypatch,error):
     try:
         with TestClient(app) as api:
             assert api.post('/api/v1/assistant/chat',json={'message':'搵餐廳'}).status_code==503
+    finally:del app.state.container
+
+
+@pytest.mark.parametrize('language',['en','zh-Hant'])
+@pytest.mark.parametrize('confidence',[.6,.9])
+def test_restaurant_mall_plan_keeps_its_topic_when_preferences_are_missing(tmp_path,monkeypatch,language,confidence):
+    svc,cache,client=service(tmp_path)
+    settings=Settings(api_key='unit-test-no-network',model='main-test',base_url='https://example.invalid',cors_origins=[])
+    app.state.container=Container(settings,cache,client,svc)
+    message='give me a plan that includes restaurant shopping mall'
+    calls=[]
+    async def ensure():pass
+    async def classify(query,**kwargs):
+        assert query==message
+        return IntentDecision(intent='trip_plan',map_mode='none',confidence=confidence)
+    async def plan(query,**kwargs):
+        calls.append(query)
+        assert kwargs['intent'].intent=='trip_plan'
+        assert 'restaurant and a shopping mall' in main_agent_directive(kwargs['intent'])
+        return 'Which area would you prefer for the restaurant and shopping mall outing?'
+    async def approve(**kwargs):
+        assert kwargs['query']==message
+        assert kwargs['intent']=='trip_plan'
+        return True
+    monkeypatch.setattr(svc,'ensure',ensure)
+    monkeypatch.setattr('backend.app.routers.assistant.classify_intent',classify)
+    monkeypatch.setattr('backend.app.routers.assistant.run_pet_assistant',plan)
+    monkeypatch.setattr('backend.app.routers.assistant.review_answer',approve)
+    try:
+        with TestClient(app) as api:
+            result=api.post('/api/v1/assistant/chat',json={'message':message,'language':language})
+            assert result.status_code==200
+            data=result.json()
+            assert data['routing']['intent']=='trip_plan'
+            assert 'Are you looking for a place' not in data['answer']
+            if confidence<.75:
+                assert calls==[]
+                assert data['routing']['action']=='clarify'
+                assert ('Hong Kong Island' if language=='en' else '港島') in data['answer']
+            else:
+                assert calls==[message]
+                assert data['routing']['action']=='main_agent'
+                assert 'restaurant and shopping mall' in data['answer']
     finally:del app.state.container
