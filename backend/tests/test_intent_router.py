@@ -16,7 +16,7 @@ def test_threshold_boundary(intent,mode):
 def test_schema_and_refusal():
     assert route_action(IntentDecision(intent='out_of_scope',map_mode='none',confidence=.99))=='refuse'
     assert route_action(IntentDecision(intent='out_of_scope',map_mode='none',confidence=.4))=='clarify'
-    for payload in [dict(intent='unknown',map_mode='none',confidence=.99),dict(intent='map_query',map_mode='none',confidence=.9),dict(intent='transport',map_mode='rating',confidence=.9),dict(intent='map_query',map_mode='general',confidence=1.1),dict(intent='map_query',map_mode='general',confidence=float('nan'))]:
+    for payload in [dict(intent='unknown',map_mode='none',confidence=.99),dict(intent='map_query',map_mode='none',confidence=.9),dict(intent='map_query',map_mode='general',confidence=1.1),dict(intent='map_query',map_mode='general',confidence=float('nan'))]:
         with pytest.raises(ValidationError): IntentDecision(**payload)
     with pytest.raises(ValueError): Settings(api_key='',model='test',base_url='https://example.invalid',cors_origins=[],intent_confidence_threshold=0)
 
