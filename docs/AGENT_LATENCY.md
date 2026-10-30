@@ -2,7 +2,7 @@
 
 **Current acceptance criterion: P50 of completed answers <= 5 seconds.** The historical short per-request cutoff experiments below have been superseded. Prompt instructions contain no five-second deadline. Backend request safety timeout is 120 seconds, and Worker no longer aborts/buffers replies at 3.6 seconds. Normal Plan requests allow the Agent to finish instead of automatically switching to a basic itinerary after two seconds. Keep historical measurements for comparison, but do not use a fast timeout notice as evidence of an improved answer median.
 
-The current benchmark reports both all-request and completed-answer p50/p95, plus answer/refusal/clarification/error/timeout/basic-plan counts. The synthetic mix is not a measurement of the site's real user traffic distribution. Real chat-only successful-answer medians are available separately in the private monitor as `answer_duration_p50_ms` and `answer_duration_p95_ms`.
+The current benchmark reports all-request, completed-business-answer and model-backed-business-answer p50/p95, plus answer/refusal/clarification/error/timeout/basic-plan counts. It distinguishes an unexpected refusal of an in-scope question from the expected out-of-scope refusals. The synthetic mix is not a measurement of the site's real user traffic distribution. Real chat-only successful-answer medians are available separately in the private monitor as `answer_duration_p50_ms` / `answer_duration_p95_ms`, and model-backed-only medians as `model_answer_p50_ms` / `model_answer_p95_ms`.
 
 ## First online follow-up, before edge deadline
 

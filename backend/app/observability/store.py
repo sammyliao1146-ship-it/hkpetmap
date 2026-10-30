@@ -126,6 +126,10 @@ class ConversationStore:
                 FILTER (WHERE status='success') AS answer_duration_p50_ms,
             percentile_cont(.95) WITHIN GROUP (ORDER BY (metrics->>'duration_ms')::double precision)
                 FILTER (WHERE status='success') AS answer_duration_p95_ms,
+            percentile_cont(.5) WITHIN GROUP (ORDER BY (metrics->>'duration_ms')::double precision)
+                FILTER (WHERE status='success' AND (metrics->>'model_calls')::int>0) AS model_answer_p50_ms,
+            percentile_cont(.95) WITHIN GROUP (ORDER BY (metrics->>'duration_ms')::double precision)
+                FILTER (WHERE status='success' AND (metrics->>'model_calls')::int>0) AS model_answer_p95_ms,
             percentile_cont(.5) WITHIN GROUP (ORDER BY (metrics->>'first_token_ms')::double precision) AS first_text_p50_ms,
             percentile_cont(.95) WITHIN GROUP (ORDER BY (metrics->>'first_token_ms')::double precision) AS first_text_p95_ms,
             avg((metrics->>'model_calls')::double precision) AS mean_model_calls

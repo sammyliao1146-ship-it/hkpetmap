@@ -70,7 +70,7 @@ async def main():
                      'degraded':final.get('degraded',False) if final else None,'action':(final.get('routing') or {}).get('action') if final else None,
                      'answer':final.get('answer') if final else None,'source_count':len(final.get('sources',[])) if final else 0,'error':error}
                 row['outcome']=('error' if not final else 'upstream_error' if row['model']=='edge-unavailable' else 'timeout_notice' if row['model'] in {'time-budget','edge-time-budget'}
-                    else 'basic_plan' if row['model']=='saved-plan-fallback' else 'scope_refusal' if row['action']=='refuse'
+                    else 'basic_plan' if row['model']=='saved-plan-fallback' else 'scope_refusal' if row['action']=='refuse' and name in {'off_topic','injection'} else 'unexpected_refusal' if row['action']=='refuse'
                     else 'clarification' if row['action']=='clarify' or name=='ambiguous_directions' else 'answer')
                 results.append(row)
                 print(json.dumps({k:v for k,v in row.items() if k!='answer'},ensure_ascii=False),flush=True)
@@ -79,7 +79,7 @@ async def main():
             if i+1<args.repeat:await asyncio.sleep(args.round_gap)
     times=sorted(r['duration_s'] for r in results)
     percentile=lambda p:times[min(len(times)-1,math.ceil(len(times)*p)-1)]
-    report={'time_utc':datetime.now(timezone.utc).isoformat(),'base_url':args.base_url,'requests':len(results),
+    report={'time_utc':datetime.now(timezone.utc).isoformat(),'base_url':args.base_url,'measurement':'complete_http_response','requests':len(results),
             'within_5s':sum(r['within_5s'] for r in results),'complete':sum(r['complete'] for r in results),
             'degraded':sum(bool(r['degraded']) for r in results),'p50_s':percentile(.5),'p95_s':percentile(.95),'max_s':max(times),'results':results}
     report['outcomes']={kind:sum(r['outcome']==kind for r in results) for kind in sorted({r['outcome'] for r in results})}
@@ -87,6 +87,11 @@ async def main():
     report['answer_count']=len(answer_times)
     report['answer_p50_s']=answer_times[math.ceil(len(answer_times)*.5)-1] if answer_times else None
     report['answer_p95_s']=answer_times[math.ceil(len(answer_times)*.95)-1] if answer_times else None
+    model_times=sorted(r['duration_s'] for r in results if r['outcome']=='answer' and r['http_status']==200
+                       and r['model'] not in {None,'saved-data','featured-cache'})
+    report['model_answer_count']=len(model_times)
+    report['model_answer_p50_s']=model_times[math.ceil(len(model_times)*.5)-1] if model_times else None
+    report['model_answer_p95_s']=model_times[math.ceil(len(model_times)*.95)-1] if model_times else None
     report['p50_target_s']=5
     report['short_cutoff_responses']=sum(r['outcome'] in {'timeout_notice','basic_plan'} for r in results)
     report['answer_p50_target_met']=bool(answer_times) and report['answer_p50_s']<=5 and not report['short_cutoff_responses']
