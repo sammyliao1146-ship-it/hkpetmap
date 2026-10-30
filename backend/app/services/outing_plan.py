@@ -351,4 +351,5 @@ async def create_plan(container, request: PlanRequest, selector=select_plan_stop
     return {'id':uuid4().hex,'status':'partial' if warnings else 'ready','date':request.date.isoformat(),
             'region':request.region,'destination':destination,'title':area_name+(' pet outing' if english else '攜寵遊'),
             'summary':summary,'parking_groups':groups,'map_places':map_places,'warnings':warnings,
-            'sources':list({s['url']:s for s in sources}.values()),'model':'saved-plan-fallback' if degraded else container.settings.model,'degraded':degraded}
+            'sources':list({s['url']:s for s in sources}.values()),
+            'model':'saved-plan-fallback' if degraded else (getattr(container.settings,'plan_model','') or container.settings.model),'degraded':degraded}

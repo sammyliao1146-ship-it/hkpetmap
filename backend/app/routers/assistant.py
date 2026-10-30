@@ -47,6 +47,8 @@ async def capabilities(container: Container = Depends(get_container)) -> dict:
                                 "random_results_cached":False},
         "web_knowledge":{"model":container.settings.web_search_model,"domain_filtered":True,"topics":list(DOMAINS),"medical_diagnosis":False},
         "answer_guard":{"model":container.settings.intent_model,"checks":["relevance","scope","request_match"],"fail_closed":True},
+        "outing_planner":{"model":container.settings.plan_model or container.settings.model,
+                          "reasoning_effort":container.settings.plan_reasoning_effort,"structured_selection":True},
         "intent_router": {"model":container.settings.intent_model,
                           "confidence_threshold":container.settings.intent_confidence_threshold,
                           "intents":["map_query","trip_plan","transport","pet_policy","pet_health","restaurant_info","assistant_identity"],
@@ -281,7 +283,7 @@ async def _handle(payload: ChatRequest, request: Request, container: Container, 
                 # Lightweight lane: swap in the cheapest model for answering and web research.
                 s = container.settings
                 container = copy.copy(container)
-                container.settings = dataclasses.replace(s, model=s.fallback_model, web_search_model=s.fallback_model)
+                container.settings = dataclasses.replace(s, model=s.fallback_model, web_search_model=s.fallback_model,plan_model=s.fallback_model)
             response = await _chat(payload, container, history, on_delta)
             response.degraded = not full
     except TimeoutError as exc:

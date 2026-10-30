@@ -31,6 +31,8 @@ class Settings:
     llm_queue_timeout_seconds: float = .25
     fallback_model: str = 'gpt-5.4-nano'
     main_reasoning_effort: str = 'low'
+    plan_model: str = ''
+    plan_reasoning_effort: str = 'none'
     intent_model: str = 'gpt-5.4-nano'
     intent_confidence_threshold: float = .75
     intent_timeout_seconds: float = 20
@@ -55,6 +57,8 @@ class Settings:
             raise ValueError('INTENT_TIMEOUT_SECONDS must be in (0, 60]')
         if not 0 < self.agent_request_timeout_seconds <= 300:
             raise ValueError('AGENT_REQUEST_TIMEOUT_SECONDS must be in (0, 300]')
+        if self.plan_reasoning_effort not in {'','none','low','medium','high','xhigh'}:
+            raise ValueError('Invalid PLAN_REASONING_EFFORT')
 
 
 @lru_cache
@@ -92,4 +96,6 @@ def get_settings() -> Settings:
         llm_queue_timeout_seconds=min(.25,float(os.getenv("LLM_QUEUE_TIMEOUT_SECONDS", ".25"))),
         fallback_model=os.getenv("FALLBACK_MODEL", "gpt-5.4-nano"),
         main_reasoning_effort=os.getenv("MAIN_REASONING_EFFORT", "low"),
+        plan_model=os.getenv('PLAN_MODEL',os.getenv('INTENT_MODEL','gpt-5.4-nano')),
+        plan_reasoning_effort=os.getenv('PLAN_REASONING_EFFORT','none'),
     )

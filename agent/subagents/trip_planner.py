@@ -16,7 +16,8 @@ class PlanSelection(BaseModel):
 
 async def select_plan_stops(request, destination, candidates, settings):
     """One model turn selects IDs from data that the server already verified."""
-    effort=getattr(settings,'main_reasoning_effort','')
+    model=getattr(settings,'plan_model','') or settings.model
+    effort=getattr(settings,'plan_reasoning_effort','none')
     agent = Agent(
         name='Pet outing planner',
         instructions=(
@@ -31,12 +32,12 @@ async def select_plan_stops(request, destination, candidates, settings):
             'The server will validate IDs and construct all facts and the concise summary. '
             'Return only the structured selection.'
         ),
-        model=OpenAIResponsesModel(model=settings.model, openai_client=get_client(settings.api_key, settings.base_url, 55)),
+        model=OpenAIResponsesModel(model=model, openai_client=get_client(settings.api_key, settings.base_url, 55)),
         model_settings=ModelSettings(reasoning=Reasoning(effort=effort)) if effort else ModelSettings(),
         output_type=PlanSelection,
     )
     result = await Runner.run(agent, json.dumps({'request':request,'destination':destination,'stops':candidates}, ensure_ascii=False),
-                              max_turns=1,hooks=TraceHooks('plan_selection',settings.model),run_config=RunConfig(tracing_disabled=True))
+                              max_turns=1,hooks=TraceHooks('plan_selection',model),run_config=RunConfig(tracing_disabled=True))
     if not isinstance(result.final_output, PlanSelection):
         raise ValueError('Planner did not return a structured selection')
     return result.final_output.selected_stop_ids

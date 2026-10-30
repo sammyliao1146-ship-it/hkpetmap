@@ -28,7 +28,7 @@ async def plan(payload: PlanRequest, request: Request, container: Container=Depe
             async with container.llm_gate.slot(degraded=getattr(request.state,'rate_limited',False)) as full:
                 if not full:
                     container=copy(container)
-                    container.settings=replace(container.settings,model=container.settings.fallback_model)
+                    container.settings=replace(container.settings,model=container.settings.fallback_model,plan_model=container.settings.fallback_model)
                 return await create_plan(container,payload)
     except TimeoutError as exc:
         raise HTTPException(503,'The outing planner is busy. Please try again shortly.') from exc

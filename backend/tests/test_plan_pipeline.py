@@ -86,6 +86,24 @@ def test_simple_plans_are_whole_message_grammars_and_never_drop_history_or_const
         assert simple_plan_intent(text) is None
 
 
+def test_selection_model_and_reasoning_are_configured_separately_from_general_chat(monkeypatch):
+    chosen=[];model=SelectionModel()
+    def create_model(**kwargs):chosen.append(kwargs['model']);return model
+    monkeypatch.setattr('agent.subagents.trip_planner.OpenAIResponsesModel',create_model)
+    monkeypatch.setattr('agent.subagents.trip_planner.get_client',lambda *args:None)
+    async def run():
+        c=container()
+        from dataclasses import replace
+        settings=replace(c.settings,model='general-model',plan_model='selection-model',
+                         main_reasoning_effort='high',plan_reasoning_effort='none')
+        try:
+            await select_plan_stops({}, {'id':'area'},[{'id':'mall'},{'id':'meal'}],settings)
+            assert chosen==['selection-model']
+            assert model.calls[0]['model_settings'].reasoning.effort=='none'
+        finally:await c.plan_candidates.aclose()
+    asyncio.run(run())
+
+
 @pytest.mark.parametrize('language',['en','zh-Hant'])
 def test_chat_plan_preserves_mall_and_meal_sources_without_main_or_reviewer(monkeypatch,language):
     model=SelectionModel()
